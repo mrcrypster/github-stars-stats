@@ -1,8 +1,8 @@
 # Privoce/vocechat-server-rust - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 152
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 152 | 20 | 
 | 2023-03-14 | 152 | 19 | 
 | 2023-03-12 | 151 | 18 | 
 | 2023-03-11 | 151 | 18 | 

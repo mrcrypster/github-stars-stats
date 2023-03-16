@@ -1,10 +1,10 @@
 # tsenart/vegeta - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1282
 
-★ Stars: 20951
+★ Stars: 20958
 
 [Open repository](https://github.com/tsenart/vegeta)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 20958 | 1282 | 
 | 2023-03-14 | 20951 | 1282 | 
 | 2023-03-12 | 20944 | 1282 | 
 | 2023-03-11 | 20940 | 1282 | 

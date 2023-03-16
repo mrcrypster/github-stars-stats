@@ -1,8 +1,8 @@
 # duneanalytics/dune-v1-abstractions - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 8 | 11 | 
 | 2023-03-13 | 8 | 10 | 
 | 2023-03-12 | 8 | 10 | 
 | 2023-03-11 | 8 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 6 | 8 | 
 | 2023-02-15 | 6 | 8 | 
 | 2023-02-14 | 6 | 8 | 
-| 2023-02-13 | 6 | 8 | 
 

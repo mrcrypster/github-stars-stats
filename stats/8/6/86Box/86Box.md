@@ -1,10 +1,10 @@
 # 86Box/86Box - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 239
+☋ Forks: 240
 
-★ Stars: 1700
+★ Stars: 1699
 
 [Open repository](https://github.com/86Box/86Box)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1699 | 240 | 
 | 2023-03-13 | 1700 | 239 | 
 | 2023-03-12 | 1698 | 239 | 
 | 2023-03-11 | 1696 | 238 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1618 | 234 | 
 | 2023-02-15 | 1612 | 232 | 
 | 2023-02-14 | 1607 | 232 | 
-| 2023-02-13 | 1593 | 230 | 
 

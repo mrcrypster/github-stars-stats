@@ -1,8 +1,8 @@
 # alibaba/lowcode-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 379
+☋ Forks: 380
 
 ★ Stars: 1051
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1051 | 380 | 
 | 2023-03-14 | 1051 | 379 | 
 | 2023-03-13 | 1043 | 375 | 
 | 2023-03-12 | 1037 | 374 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 952 | 352 | 
 | 2023-02-15 | 946 | 349 | 
 | 2023-02-14 | 937 | 348 | 
-| 2023-02-13 | 937 | 348 | 
 

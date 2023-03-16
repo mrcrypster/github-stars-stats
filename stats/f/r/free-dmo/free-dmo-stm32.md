@@ -1,6 +1,6 @@
 # free-dmo/free-dmo-stm32 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 112 | 22 | 
 | 2023-03-13 | 112 | 22 | 
 | 2023-03-12 | 112 | 22 | 
 | 2023-03-11 | 111 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 108 | 22 | 
 | 2023-02-15 | 108 | 22 | 
 | 2023-02-14 | 108 | 21 | 
-| 2023-02-13 | 108 | 21 | 
 

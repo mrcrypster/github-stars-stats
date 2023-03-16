@@ -1,6 +1,6 @@
 # MerphiG/Impostor-V4-Fanmade - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 7 | 15 | 
 | 2023-03-14 | 7 | 15 | 
 | 2023-03-13 | 6 | 15 | 
 | 2023-03-12 | 6 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 5 | 16 | 
 | 2023-02-15 | 5 | 16 | 
 | 2023-02-14 | 5 | 16 | 
-| 2023-02-13 | 5 | 16 | 
 

@@ -1,6 +1,6 @@
 # jonase/lein-kibit - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 11 | 11 | 
 | 2023-03-14 | 11 | 11 | 
 | 2023-03-13 | 11 | 11 | 
 | 2023-03-11 | 11 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 11 | 11 | 
 | 2023-02-15 | 11 | 11 | 
 | 2023-02-14 | 11 | 11 | 
-| 2023-02-13 | 11 | 11 | 
 

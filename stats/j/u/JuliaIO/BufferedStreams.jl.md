@@ -1,8 +1,8 @@
 # JuliaIO/BufferedStreams.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 37 | 20 | 
 | 2023-03-13 | 37 | 19 | 
 | 2023-03-12 | 37 | 19 | 
 | 2023-03-11 | 37 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 37 | 19 | 
 | 2023-02-15 | 37 | 19 | 
 | 2023-02-14 | 37 | 19 | 
-| 2023-02-13 | 37 | 19 | 
 

@@ -1,10 +1,10 @@
 # google/filament - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1601
+☋ Forks: 1603
 
-★ Stars: 15419
+★ Stars: 15423
 
 [Open repository](https://github.com/google/filament)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 15423 | 1603 | 
 | 2023-03-14 | 15419 | 1601 | 
 | 2023-03-13 | 15412 | 1599 | 
 | 2023-03-12 | 15410 | 1598 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 15302 | 1576 | 
 | 2023-02-15 | 15299 | 1574 | 
 | 2023-02-14 | 15291 | 1578 | 
-| 2023-02-13 | 15290 | 1577 | 
 

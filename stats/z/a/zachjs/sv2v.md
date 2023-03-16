@@ -1,10 +1,10 @@
 # zachjs/sv2v - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 39
 
-★ Stars: 338
+★ Stars: 339
 
 [Open repository](https://github.com/zachjs/sv2v)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 339 | 39 | 
 | 2023-03-13 | 338 | 39 | 
 | 2023-03-12 | 338 | 39 | 
 | 2023-03-11 | 338 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 329 | 39 | 
 | 2023-02-15 | 327 | 39 | 
 | 2023-02-14 | 327 | 39 | 
-| 2023-02-13 | 327 | 39 | 
 

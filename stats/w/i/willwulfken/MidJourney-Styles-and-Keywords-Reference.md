@@ -1,10 +1,10 @@
 # willwulfken/MidJourney-Styles-and-Keywords-Reference - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 695
+☋ Forks: 698
 
-★ Stars: 4405
+★ Stars: 4459
 
 [Open repository](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4459 | 698 | 
 | 2023-03-14 | 4405 | 695 | 
 | 2023-03-13 | 4365 | 688 | 
 | 2023-03-11 | 4334 | 678 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3078 | 505 | 
 | 2023-02-15 | 3068 | 503 | 
 | 2023-02-14 | 3033 | 496 | 
-| 2023-02-13 | 2982 | 489 | 
 

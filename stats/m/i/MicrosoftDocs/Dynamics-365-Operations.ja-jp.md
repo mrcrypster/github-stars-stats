@@ -1,6 +1,6 @@
 # MicrosoftDocs/Dynamics-365-Operations.ja-jp - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4 | 12 | 
 | 2023-03-13 | 4 | 12 | 
 | 2023-03-12 | 4 | 12 | 
 | 2023-03-11 | 5 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 5 | 12 | 
 | 2023-02-15 | 5 | 12 | 
 | 2023-02-14 | 5 | 12 | 
-| 2023-02-13 | 5 | 12 | 
 

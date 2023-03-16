@@ -1,6 +1,6 @@
 # immutable/imx-starknet - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 65 | 11 | 
 | 2023-03-13 | 65 | 11 | 
 | 2023-03-12 | 65 | 11 | 
 | 2023-03-11 | 65 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 64 | 11 | 
 | 2023-02-16 | 64 | 11 | 
 | 2023-02-15 | 64 | 11 | 
-| 2023-02-14 | 64 | 11 | 
 

@@ -1,6 +1,6 @@
 # nischalgautam2/WebDevProjects - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 17 | 54 | 
 | 2023-03-14 | 17 | 54 | 
 | 2023-03-13 | 17 | 54 | 
 | 2023-03-12 | 17 | 54 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 17 | 55 | 
 | 2023-02-15 | 17 | 55 | 
 | 2023-02-14 | 17 | 55 | 
-| 2023-02-13 | 17 | 55 | 
 

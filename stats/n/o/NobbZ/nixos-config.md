@@ -1,10 +1,10 @@
 # NobbZ/nixos-config - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/NobbZ/nixos-config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 98 | 6 | 
 | 2023-03-14 | 97 | 6 | 
 | 2023-03-13 | 97 | 6 | 
 | 2023-03-11 | 97 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 91 | 6 | 
 | 2023-02-15 | 91 | 6 | 
 | 2023-02-14 | 91 | 6 | 
-| 2023-02-13 | 91 | 6 | 
 

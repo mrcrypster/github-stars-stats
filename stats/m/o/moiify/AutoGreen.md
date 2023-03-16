@@ -1,10 +1,10 @@
 # moiify/AutoGreen - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 11
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/moiify/AutoGreen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14 | 11 | 
 | 2023-03-14 | 13 | 11 | 
 | 2023-03-13 | 13 | 11 | 
 | 2023-03-12 | 13 | 11 | 

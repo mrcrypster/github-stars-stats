@@ -1,10 +1,10 @@
 # Fyyre/DrvMon - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/Fyyre/DrvMon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 161 | 43 | 
 | 2023-03-14 | 160 | 42 | 
 | 2023-03-13 | 160 | 42 | 
 | 2023-03-11 | 159 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 158 | 42 | 
 | 2023-02-16 | 158 | 42 | 
 | 2023-02-15 | 158 | 42 | 
-| 2023-02-14 | 158 | 42 | 
 

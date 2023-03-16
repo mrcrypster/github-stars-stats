@@ -1,6 +1,6 @@
 # r-lib/testthat - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 818 | 301 | 
 | 2023-03-14 | 818 | 301 | 
 | 2023-03-13 | 818 | 301 | 
 | 2023-03-12 | 818 | 301 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 817 | 302 | 
 | 2023-02-15 | 817 | 302 | 
 | 2023-02-14 | 817 | 302 | 
-| 2023-02-13 | 816 | 302 | 
 

@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-sweep - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 7 | 1 | 
 | 2023-03-13 | 7 | 1 | 
 | 2023-03-12 | 7 | 1 | 
 | 2023-03-11 | 7 | 1 | 

@@ -1,8 +1,8 @@
 # hongwenjun/corelvba - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 35 | 9 | 
 | 2023-03-13 | 35 | 8 | 
 | 2023-03-12 | 35 | 8 | 
 | 2023-03-11 | 35 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 35 | 8 | 
 | 2023-02-15 | 35 | 8 | 
 | 2023-02-14 | 35 | 8 | 
-| 2023-02-13 | 35 | 8 | 
 

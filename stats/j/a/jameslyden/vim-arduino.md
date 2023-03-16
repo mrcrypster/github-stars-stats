@@ -1,0 +1,17 @@
+# jameslyden/vim-arduino - stars & forks statistics
+
+Stats updated on Mar 2023, 15
+
+☋ Forks: 1
+
+★ Stars: 2
+
+[Open repository](https://github.com/jameslyden/vim-arduino)
+
+[Open detailed stats for jameslyden/vim-arduino](https://reviewgithub.com/rep/jameslyden/vim-arduino)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-15 | 2 | 1 | 
+

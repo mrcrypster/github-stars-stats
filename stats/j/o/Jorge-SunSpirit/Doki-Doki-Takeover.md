@@ -1,10 +1,10 @@
 # Jorge-SunSpirit/Doki-Doki-Takeover - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 73
+☋ Forks: 78
 
-★ Stars: 46
+★ Stars: 48
 
 [Open repository](https://github.com/Jorge-SunSpirit/Doki-Doki-Takeover)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 48 | 78 | 
+| 2023-03-15 | 48 | 78 | 
 | 2023-03-14 | 46 | 73 | 
 | 2023-03-13 | 39 | 64 | 
 | 2023-03-12 | 38 | 51 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 37 | 48 | 
 | 2023-02-15 | 37 | 47 | 
 | 2023-02-14 | 37 | 47 | 
-| 2023-02-13 | 37 | 47 | 
 

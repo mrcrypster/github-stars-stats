@@ -1,10 +1,10 @@
 # monkxy/blooket-hacks - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 168
+☋ Forks: 169
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/monkxy/blooket-hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 54 | 169 | 
 | 2023-03-14 | 53 | 168 | 
 | 2023-03-13 | 53 | 166 | 
 | 2023-03-11 | 53 | 166 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 44 | 124 | 
 | 2023-02-15 | 44 | 121 | 
 | 2023-02-14 | 44 | 119 | 
-| 2023-02-13 | 44 | 115 | 
 

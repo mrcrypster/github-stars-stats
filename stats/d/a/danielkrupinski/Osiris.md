@@ -1,10 +1,10 @@
 # danielkrupinski/Osiris - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 945
+☋ Forks: 946
 
-★ Stars: 2702
+★ Stars: 2706
 
 [Open repository](https://github.com/danielkrupinski/Osiris)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2706 | 946 | 
 | 2023-03-14 | 2702 | 945 | 
 | 2023-03-12 | 2700 | 944 | 
 | 2023-03-11 | 2698 | 944 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2657 | 934 | 
 | 2023-02-15 | 2655 | 933 | 
 | 2023-02-14 | 2658 | 933 | 
-| 2023-02-13 | 2656 | 932 | 
 

@@ -1,6 +1,6 @@
 # dlang/tools - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 185 | 148 | 
 | 2023-03-14 | 185 | 148 | 
 | 2023-03-12 | 185 | 148 | 
 | 2023-03-11 | 185 | 148 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 183 | 147 | 
 | 2023-02-16 | 183 | 147 | 
 | 2023-02-14 | 183 | 147 | 
-| 2023-02-13 | 183 | 146 | 
 

@@ -1,10 +1,10 @@
 # gabime/spdlog - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 3627
+☋ Forks: 3628
 
-★ Stars: 17209
+★ Stars: 17221
 
 [Open repository](https://github.com/gabime/spdlog)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 17221 | 3628 | 
+| 2023-03-15 | 17220 | 3627 | 
 | 2023-03-14 | 17209 | 3627 | 
 | 2023-03-13 | 17189 | 3623 | 
 | 2023-03-12 | 17178 | 3621 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 16940 | 3584 | 
 | 2023-02-15 | 16933 | 3582 | 
 | 2023-02-14 | 16919 | 3579 | 
-| 2023-02-13 | 16905 | 3577 | 
 

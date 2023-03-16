@@ -1,10 +1,10 @@
 # CCob/ThreadlessInject - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 36
 
-★ Stars: 380
+★ Stars: 385
 
 [Open repository](https://github.com/CCob/ThreadlessInject)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 385 | 36 | 
 | 2023-03-14 | 380 | 36 | 
 | 2023-03-13 | 379 | 36 | 
 | 2023-03-11 | 379 | 36 | 

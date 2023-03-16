@@ -1,10 +1,10 @@
 # xiongtx/eros - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 11
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/xiongtx/eros)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 97 | 11 | 
 | 2023-03-14 | 96 | 11 | 
 | 2023-03-13 | 96 | 11 | 
 | 2023-03-11 | 96 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 96 | 11 | 
 | 2023-02-15 | 96 | 11 | 
 | 2023-02-14 | 96 | 11 | 
-| 2023-02-13 | 96 | 11 | 
 

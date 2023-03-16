@@ -1,10 +1,10 @@
 # leanflutter/flutter_distributor - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 499
+★ Stars: 500
 
 [Open repository](https://github.com/leanflutter/flutter_distributor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 500 | 61 | 
 | 2023-03-13 | 499 | 60 | 
 | 2023-03-12 | 498 | 60 | 
 | 2023-03-11 | 498 | 60 | 

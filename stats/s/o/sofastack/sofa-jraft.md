@@ -1,8 +1,8 @@
 # sofastack/sofa-jraft - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 986
+☋ Forks: 987
 
 ★ Stars: 3135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3135 | 987 | 
 | 2023-03-14 | 3135 | 986 | 
 | 2023-03-12 | 3133 | 985 | 
 | 2023-03-11 | 3132 | 985 | 

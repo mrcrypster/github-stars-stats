@@ -1,10 +1,10 @@
 # Z4nzu/hackingtool - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 3328
+☋ Forks: 3333
 
-★ Stars: 29216
+★ Stars: 29261
 
 [Open repository](https://github.com/Z4nzu/hackingtool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 29261 | 3333 | 
 | 2023-03-14 | 29216 | 3328 | 
 | 2023-03-13 | 29193 | 3325 | 
 | 2023-03-12 | 29138 | 3323 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 28697 | 3266 | 
 | 2023-02-15 | 28685 | 3261 | 
 | 2023-02-14 | 28669 | 3259 | 
-| 2023-02-13 | 28648 | 3259 | 
 

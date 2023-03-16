@@ -1,6 +1,6 @@
 # atomontage/xterm-color - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 197 | 19 | 
 | 2023-03-14 | 197 | 19 | 
 | 2023-03-12 | 197 | 19 | 
 | 2023-03-11 | 197 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 197 | 19 | 
 | 2023-02-16 | 197 | 19 | 
 | 2023-02-15 | 197 | 19 | 
-| 2023-02-13 | 197 | 19 | 
 

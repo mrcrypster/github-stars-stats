@@ -1,6 +1,6 @@
 # dendibakh/perf-challenge6 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 24 | 7 | 
 | 2023-03-13 | 24 | 7 | 
 | 2023-03-12 | 24 | 7 | 
 | 2023-03-11 | 24 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 24 | 7 | 
 | 2023-02-15 | 24 | 7 | 
 | 2023-02-14 | 24 | 7 | 
-| 2023-02-13 | 24 | 7 | 
 

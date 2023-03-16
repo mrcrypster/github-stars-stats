@@ -1,10 +1,10 @@
 # PrathamKumar14/ChatGPT-Prompts - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 35
 
-★ Stars: 265
+★ Stars: 267
 
 [Open repository](https://github.com/PrathamKumar14/ChatGPT-Prompts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 267 | 35 | 
 | 2023-03-14 | 265 | 35 | 
 | 2023-03-12 | 265 | 35 | 
 | 2023-03-11 | 263 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 232 | 31 | 
 | 2023-02-16 | 232 | 31 | 
 | 2023-02-15 | 230 | 31 | 
-| 2023-02-14 | 228 | 31 | 
 

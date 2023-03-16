@@ -1,6 +1,6 @@
 # HoGentTIN/latex-hogent-bachproef - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 11 | 66 | 
 | 2023-03-14 | 11 | 66 | 
 | 2023-03-13 | 11 | 66 | 
 | 2023-03-11 | 11 | 66 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 11 | 65 | 
 | 2023-02-15 | 11 | 64 | 
 | 2023-02-14 | 11 | 63 | 
-| 2023-02-13 | 11 | 63 | 
 

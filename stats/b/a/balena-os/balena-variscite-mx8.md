@@ -1,6 +1,6 @@
 # balena-os/balena-variscite-mx8 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 7 | 2 | 
 | 2023-03-14 | 7 | 2 | 
 | 2023-03-12 | 7 | 2 | 
 | 2023-03-11 | 7 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 6 | 2 | 
 | 2023-02-15 | 6 | 2 | 
 | 2023-02-14 | 6 | 2 | 
-| 2023-02-13 | 6 | 2 | 
 

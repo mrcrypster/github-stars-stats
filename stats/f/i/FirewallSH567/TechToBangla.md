@@ -1,6 +1,6 @@
 # FirewallSH567/TechToBangla - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2 | 155 | 
 | 2023-03-13 | 2 | 155 | 
 | 2023-03-12 | 2 | 155 | 
 | 2023-03-11 | 2 | 155 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 2 | 155 | 
 | 2023-02-16 | 2 | 155 | 
 | 2023-02-15 | 2 | 155 | 
-| 2023-02-14 | 2 | 155 | 
 

@@ -1,6 +1,6 @@
 # denistreshchev/RubyDec - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 40 | - | 
 | 2023-03-13 | 40 | - | 
 | 2023-03-12 | 40 | - | 
 | 2023-03-11 | 40 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 40 | - | 
 | 2023-02-16 | 40 | - | 
 | 2023-02-14 | 40 | - | 
-| 2023-02-13 | 40 | - | 
 

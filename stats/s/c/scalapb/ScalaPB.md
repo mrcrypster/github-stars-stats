@@ -1,8 +1,8 @@
 # scalapb/ScalaPB - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 264
+☋ Forks: 263
 
 ★ Stars: 1238
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1238 | 263 | 
 | 2023-03-14 | 1238 | 264 | 
 | 2023-03-13 | 1238 | 264 | 
 | 2023-03-12 | 1237 | 263 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1237 | 263 | 
 | 2023-02-15 | 1237 | 263 | 
 | 2023-02-14 | 1237 | 263 | 
-| 2023-02-13 | 1237 | 263 | 
 

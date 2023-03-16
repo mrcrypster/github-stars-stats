@@ -1,6 +1,6 @@
 # mariofusco/from-gof-to-lambda - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 834 | 172 | 
 | 2023-03-14 | 834 | 172 | 
 | 2023-03-12 | 834 | 172 | 
 | 2023-03-11 | 834 | 172 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 832 | 172 | 
 | 2023-02-15 | 832 | 172 | 
 | 2023-02-14 | 832 | 172 | 
-| 2023-02-13 | 833 | 172 | 
 

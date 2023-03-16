@@ -1,6 +1,6 @@
 # onnowhere/core_shaders - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 177 | 5 | 
 | 2023-03-13 | 177 | 5 | 
 | 2023-03-12 | 177 | 5 | 
 | 2023-03-11 | 177 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 175 | 5 | 
 | 2023-02-16 | 174 | 5 | 
 | 2023-02-15 | 174 | 5 | 
-| 2023-02-14 | 174 | 5 | 
 

@@ -1,6 +1,6 @@
 # wu-component/web-component-plus - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 235 | 45 | 
 | 2023-03-14 | 235 | 45 | 
 | 2023-03-12 | 235 | 45 | 
 | 2023-03-11 | 235 | 45 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 137 | 27 | 
 | 2023-02-15 | 135 | 27 | 
 | 2023-02-14 | 135 | 27 | 
-| 2023-02-13 | 135 | 27 | 
 

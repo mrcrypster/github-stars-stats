@@ -1,10 +1,10 @@
 # qt/qtlocation - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 64
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/qt/qtlocation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 36 | 64 | 
 | 2023-03-13 | 35 | 64 | 
 | 2023-03-12 | 35 | 64 | 
 | 2023-03-11 | 35 | 64 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 35 | 64 | 
 | 2023-02-15 | 35 | 64 | 
 | 2023-02-14 | 35 | 64 | 
-| 2023-02-13 | 35 | 64 | 
 

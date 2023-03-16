@@ -1,10 +1,10 @@
 # wincent/command-t - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 333
 
-★ Stars: 2689
+★ Stars: 2690
 
 [Open repository](https://github.com/wincent/command-t)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2690 | 333 | 
 | 2023-03-13 | 2689 | 333 | 
 | 2023-03-12 | 2689 | 332 | 
 | 2023-03-11 | 2689 | 331 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2688 | 331 | 
 | 2023-02-15 | 2687 | 331 | 
 | 2023-02-14 | 2687 | 331 | 
-| 2023-02-13 | 2687 | 331 | 
 

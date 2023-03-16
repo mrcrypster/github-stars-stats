@@ -1,10 +1,10 @@
 # ash-project/ash_phoenix - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/ash-project/ash_phoenix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 39 | 20 | 
 | 2023-03-14 | 38 | 19 | 
 | 2023-03-13 | 38 | 19 | 
 | 2023-03-12 | 38 | 19 | 

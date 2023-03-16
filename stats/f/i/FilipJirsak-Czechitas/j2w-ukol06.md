@@ -1,6 +1,6 @@
 # FilipJirsak-Czechitas/j2w-ukol06 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1 | 47 | 
 | 2023-03-13 | 1 | 47 | 
 | 2023-03-12 | 1 | 47 | 
 | 2023-03-11 | 1 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1 | 47 | 
 | 2023-02-15 | 1 | 47 | 
 | 2023-02-14 | 1 | 47 | 
-| 2023-02-13 | 1 | 47 | 
 

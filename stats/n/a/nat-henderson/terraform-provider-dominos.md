@@ -1,10 +1,10 @@
 # nat-henderson/terraform-provider-dominos - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 67
 
-★ Stars: 1023
+★ Stars: 1022
 
 [Open repository](https://github.com/nat-henderson/terraform-provider-dominos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1022 | 67 | 
 | 2023-03-13 | 1023 | 67 | 
 | 2023-03-12 | 1023 | 67 | 
 | 2023-03-11 | 1023 | 67 | 

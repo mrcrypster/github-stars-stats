@@ -1,10 +1,10 @@
 # davecgh/go-spew - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 356
 
-★ Stars: 5509
+★ Stars: 5510
 
 [Open repository](https://github.com/davecgh/go-spew)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5510 | 356 | 
 | 2023-03-14 | 5509 | 356 | 
 | 2023-03-13 | 5507 | 356 | 
 | 2023-03-12 | 5506 | 356 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 5483 | 357 | 
 | 2023-02-15 | 5482 | 357 | 
 | 2023-02-14 | 5480 | 357 | 
-| 2023-02-13 | 5480 | 357 | 
 

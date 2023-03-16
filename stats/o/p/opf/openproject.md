@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 1787
 
-★ Stars: 6623
+★ Stars: 6627
 
 [Open repository](https://github.com/opf/openproject)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 6623 | 1787 | 
+| 2023-03-15 | 6627 | 1787 | 
 | 2023-03-14 | 6620 | 1787 | 
 | 2023-03-13 | 6619 | 1787 | 
 | 2023-03-12 | 6617 | 1786 | 

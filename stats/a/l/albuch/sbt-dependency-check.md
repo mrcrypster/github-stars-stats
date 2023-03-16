@@ -1,6 +1,6 @@
 # albuch/sbt-dependency-check - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 244 | 34 | 
 | 2023-03-13 | 244 | 34 | 
 | 2023-03-12 | 244 | 34 | 
 | 2023-03-11 | 244 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 244 | 34 | 
 | 2023-02-15 | 244 | 34 | 
 | 2023-02-14 | 244 | 34 | 
-| 2023-02-13 | 243 | 34 | 
 

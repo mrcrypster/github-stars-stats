@@ -1,10 +1,10 @@
 # anuragtiwarime/fsjs2 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 66
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/anuragtiwarime/fsjs2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 56 | 66 | 
 | 2023-03-13 | 55 | 66 | 
 | 2023-03-12 | 55 | 66 | 
 | 2023-03-11 | 55 | 66 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 53 | 65 | 
 | 2023-02-15 | 53 | 65 | 
 | 2023-02-14 | 53 | 65 | 
-| 2023-02-13 | 53 | 64 | 
 

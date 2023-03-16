@@ -1,6 +1,6 @@
 # ThatOneAqua/vs-afton-source - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 6 | 41 | 
 | 2023-03-13 | 6 | 41 | 
 | 2023-03-12 | 6 | 41 | 
 | 2023-03-11 | 6 | 41 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 6 | 38 | 
 | 2023-02-15 | 6 | 38 | 
 | 2023-02-14 | 6 | 38 | 
-| 2023-02-13 | 6 | 37 | 
 

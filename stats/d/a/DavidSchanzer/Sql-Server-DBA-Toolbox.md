@@ -1,10 +1,10 @@
 # DavidSchanzer/Sql-Server-DBA-Toolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 51 | 27 | 
 | 2023-03-14 | 50 | 27 | 
 | 2023-03-12 | 50 | 26 | 
 | 2023-03-11 | 50 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 46 | 23 | 
 | 2023-02-16 | 46 | 23 | 
 | 2023-02-14 | 46 | 23 | 
-| 2023-02-13 | 46 | 23 | 
 

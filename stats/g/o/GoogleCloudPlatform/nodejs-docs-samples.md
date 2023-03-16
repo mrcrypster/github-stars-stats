@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/nodejs-docs-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1884
+☋ Forks: 1883
 
-★ Stars: 2553
+★ Stars: 2555
 
 [Open repository](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2555 | 1883 | 
 | 2023-03-14 | 2553 | 1884 | 
 | 2023-03-12 | 2551 | 1883 | 
 | 2023-03-11 | 2550 | 1885 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2536 | 1883 | 
 | 2023-02-15 | 2536 | 1883 | 
 | 2023-02-14 | 2536 | 1882 | 
-| 2023-02-13 | 2535 | 1882 | 
 

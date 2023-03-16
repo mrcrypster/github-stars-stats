@@ -1,6 +1,6 @@
 # rust-lang-cn/rustlings-cn - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 90 | 7 | 
 | 2023-03-13 | 90 | 7 | 
 | 2023-03-12 | 90 | 7 | 
 | 2023-03-11 | 90 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 80 | 6 | 
 | 2023-02-16 | 80 | 6 | 
 | 2023-02-15 | 77 | 6 | 
-| 2023-02-14 | 75 | 6 | 
 

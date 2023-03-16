@@ -1,6 +1,6 @@
 # IDEP-network/Antora - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 17 | 143 | 
 | 2023-03-14 | 17 | 143 | 
 | 2023-03-13 | 17 | 143 | 
 | 2023-03-12 | 17 | 143 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 16 | 143 | 
 | 2023-02-15 | 16 | 143 | 
 | 2023-02-14 | 16 | 143 | 
-| 2023-02-13 | 16 | 143 | 
 

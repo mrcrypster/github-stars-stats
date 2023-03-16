@@ -1,6 +1,6 @@
 # Revadike/epicgames-freebies-claimer - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 364
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2178 | 364 | 
 | 2023-03-13 | 2178 | 364 | 
 | 2023-03-12 | 2179 | 364 | 
 | 2023-03-11 | 2180 | 364 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2169 | 363 | 
 | 2023-02-15 | 2169 | 363 | 
 | 2023-02-14 | 2171 | 363 | 
-| 2023-02-13 | 2171 | 363 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/zodiacon/rust-course)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 80 | 10 | 
+| 2023-03-15 | 81 | 11 | 
 | 2023-03-14 | 79 | 10 | 
 

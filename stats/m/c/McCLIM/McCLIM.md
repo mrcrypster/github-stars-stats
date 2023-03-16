@@ -1,6 +1,6 @@
 # McCLIM/McCLIM - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 573 | 122 | 
 | 2023-03-14 | 573 | 122 | 
 | 2023-03-13 | 572 | 123 | 
 | 2023-03-11 | 571 | 123 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 563 | 123 | 
 | 2023-02-16 | 564 | 123 | 
 | 2023-02-14 | 562 | 123 | 
-| 2023-02-13 | 561 | 123 | 
 

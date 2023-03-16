@@ -1,6 +1,6 @@
 # mezotv/hello-world - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 17 | 56 | 
 | 2023-03-14 | 17 | 56 | 
 | 2023-03-13 | 17 | 56 | 
 | 2023-03-11 | 17 | 56 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 18 | 56 | 
 | 2023-02-15 | 18 | 56 | 
 | 2023-02-14 | 18 | 56 | 
-| 2023-02-13 | 18 | 56 | 
 

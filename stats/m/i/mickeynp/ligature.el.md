@@ -1,6 +1,6 @@
 # mickeynp/ligature.el - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 306 | 30 | 
 | 2023-03-13 | 306 | 30 | 
 | 2023-03-12 | 306 | 30 | 
 | 2023-03-11 | 306 | 30 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 302 | 29 | 
 | 2023-02-15 | 302 | 28 | 
 | 2023-02-14 | 301 | 28 | 
-| 2023-02-13 | 301 | 28 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 157
 
-★ Stars: 514
+★ Stars: 515
 
 [Open repository](https://github.com/usnistgov/OSCAL)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 514 | 157 | 
+| 2023-03-15 | 515 | 157 | 
 | 2023-03-14 | 514 | 156 | 
 | 2023-03-13 | 514 | 156 | 
 | 2023-03-12 | 514 | 156 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 510 | 152 | 
 | 2023-02-15 | 510 | 152 | 
 | 2023-02-14 | 510 | 152 | 
-| 2023-02-13 | 509 | 152 | 
 

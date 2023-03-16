@@ -1,6 +1,6 @@
 # evilashz/NimFileBinder - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 117 | 35 | 
 | 2023-03-14 | 117 | 35 | 
 | 2023-03-13 | 117 | 35 | 
 | 2023-03-12 | 117 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 113 | 35 | 
 | 2023-02-16 | 113 | 35 | 
 | 2023-02-15 | 113 | 35 | 
-| 2023-02-14 | 113 | 35 | 
 

@@ -1,6 +1,6 @@
 # ocamllabs/ocaml-effects-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 591 | 27 | 
 | 2023-03-13 | 591 | 27 | 
 | 2023-03-12 | 590 | 27 | 
 | 2023-03-11 | 590 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 584 | 27 | 
 | 2023-02-15 | 584 | 27 | 
 | 2023-02-14 | 584 | 27 | 
-| 2023-02-13 | 582 | 27 | 
 

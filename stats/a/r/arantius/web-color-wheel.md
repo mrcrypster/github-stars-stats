@@ -1,8 +1,8 @@
 # arantius/web-color-wheel - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 156
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 156 | 15 | 
 | 2023-03-14 | 156 | 14 | 
 | 2023-03-13 | 156 | 14 | 
 | 2023-03-12 | 155 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 144 | 11 | 
 | 2023-02-15 | 144 | 11 | 
 | 2023-02-14 | 143 | 11 | 
-| 2023-02-13 | 143 | 11 | 
 

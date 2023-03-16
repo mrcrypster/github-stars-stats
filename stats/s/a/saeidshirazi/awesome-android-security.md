@@ -1,10 +1,10 @@
 # saeidshirazi/awesome-android-security - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 186
 
-★ Stars: 1193
+★ Stars: 1196
 
 [Open repository](https://github.com/saeidshirazi/awesome-android-security)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1196 | 186 | 
 | 2023-03-14 | 1193 | 186 | 
 | 2023-03-13 | 1192 | 186 | 
 | 2023-03-12 | 1191 | 186 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1173 | 183 | 
 | 2023-02-15 | 1171 | 183 | 
 | 2023-02-14 | 1170 | 183 | 
-| 2023-02-13 | 1170 | 182 | 
 

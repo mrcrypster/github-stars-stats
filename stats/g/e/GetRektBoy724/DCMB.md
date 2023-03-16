@@ -1,6 +1,6 @@
 # GetRektBoy724/DCMB - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 122 | 28 | 
 | 2023-03-13 | 122 | 28 | 
 | 2023-03-12 | 122 | 28 | 
 | 2023-03-11 | 122 | 28 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 121 | 27 | 
 | 2023-02-15 | 121 | 27 | 
 | 2023-02-14 | 121 | 27 | 
-| 2023-02-13 | 121 | 27 | 
 

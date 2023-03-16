@@ -1,6 +1,6 @@
 # civetweb/civetweb - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 883
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2306 | 883 | 
 | 2023-03-14 | 2306 | 883 | 
 | 2023-03-13 | 2304 | 883 | 
 | 2023-03-12 | 2303 | 883 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2288 | 882 | 
 | 2023-02-15 | 2287 | 881 | 
 | 2023-02-14 | 2283 | 880 | 
-| 2023-02-13 | 2284 | 880 | 
 

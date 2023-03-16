@@ -1,10 +1,10 @@
 # RamiKrispin/coronavirus_dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 134
 
-★ Stars: 105
+★ Stars: 104
 
 [Open repository](https://github.com/RamiKrispin/coronavirus_dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 104 | 134 | 
 | 2023-03-14 | 105 | 134 | 
 | 2023-03-13 | 105 | 134 | 
 | 2023-03-12 | 105 | 134 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 104 | 135 | 
 | 2023-02-16 | 104 | 135 | 
 | 2023-02-15 | 104 | 135 | 
-| 2023-02-14 | 104 | 135 | 
 

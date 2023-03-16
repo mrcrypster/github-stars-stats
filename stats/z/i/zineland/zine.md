@@ -1,10 +1,10 @@
 # zineland/zine - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 38
+☋ Forks: 40
 
-★ Stars: 834
+★ Stars: 836
 
 [Open repository](https://github.com/zineland/zine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 836 | 40 | 
 | 2023-03-14 | 834 | 38 | 
 | 2023-03-12 | 834 | 38 | 
 | 2023-03-11 | 834 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 816 | 36 | 
 | 2023-02-15 | 814 | 36 | 
 | 2023-02-14 | 813 | 36 | 
-| 2023-02-13 | 813 | 36 | 
 

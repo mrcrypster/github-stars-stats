@@ -1,10 +1,10 @@
 # nodejs/node-gyp - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1746
 
-★ Stars: 8932
+★ Stars: 8933
 
 [Open repository](https://github.com/nodejs/node-gyp)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 8933 | 1746 | 
 | 2023-03-14 | 8932 | 1746 | 
 

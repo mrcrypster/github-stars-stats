@@ -1,6 +1,6 @@
 # firefart/npmdomainchecker - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 253 | 22 | 
 | 2023-03-14 | 253 | 22 | 
 | 2023-03-12 | 253 | 22 | 
 | 2023-03-11 | 252 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 252 | 22 | 
 | 2023-02-15 | 253 | 22 | 
 | 2023-02-14 | 253 | 22 | 
-| 2023-02-13 | 253 | 22 | 
 

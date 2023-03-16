@@ -1,6 +1,6 @@
 # tibold/svg-explorer-extension - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2677 | 170 | 
 | 2023-03-14 | 2677 | 170 | 
 | 2023-03-12 | 2678 | 170 | 
 | 2023-03-11 | 2678 | 170 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2660 | 171 | 
 | 2023-02-15 | 2660 | 171 | 
 | 2023-02-14 | 2658 | 171 | 
-| 2023-02-13 | 2658 | 171 | 
 

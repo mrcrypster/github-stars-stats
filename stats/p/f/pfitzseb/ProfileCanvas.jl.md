@@ -1,6 +1,6 @@
 # pfitzseb/ProfileCanvas.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 53 | 2 | 
 | 2023-03-13 | 53 | 2 | 
 | 2023-03-12 | 52 | 2 | 
 | 2023-03-11 | 52 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 51 | 2 | 
 | 2023-02-15 | 51 | 2 | 
 | 2023-02-14 | 51 | 2 | 
-| 2023-02-13 | 51 | 2 | 
 

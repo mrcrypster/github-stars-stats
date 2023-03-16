@@ -1,8 +1,8 @@
 # learn-co-curriculum/react-hooks-information-flow-code-along - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 2272
+☋ Forks: 2277
 
 ★ Stars: 11
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 11 | 2277 | 
+| 2023-03-15 | 11 | 2274 | 
 | 2023-03-14 | 11 | 2272 | 
 | 2023-03-13 | 11 | 2269 | 
 | 2023-03-12 | 11 | 2268 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 12 | 2207 | 
 | 2023-02-16 | 12 | 2204 | 
 | 2023-02-15 | 12 | 2202 | 
-| 2023-02-13 | 12 | 2200 | 
 

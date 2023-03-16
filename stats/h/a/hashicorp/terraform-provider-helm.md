@@ -1,8 +1,8 @@
 # hashicorp/terraform-provider-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 335
+☋ Forks: 336
 
 ★ Stars: 915
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 915 | 336 | 
 | 2023-03-13 | 915 | 335 | 
 | 2023-03-12 | 914 | 334 | 
 | 2023-03-11 | 914 | 334 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 910 | 333 | 
 | 2023-02-15 | 910 | 333 | 
 | 2023-02-14 | 909 | 332 | 
-| 2023-02-13 | 908 | 332 | 
 

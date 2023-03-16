@@ -1,10 +1,10 @@
 # factor/factor - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 175
 
-★ Stars: 1402
+★ Stars: 1403
 
 [Open repository](https://github.com/factor/factor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1403 | 175 | 
 | 2023-03-14 | 1402 | 175 | 
 | 2023-03-13 | 1402 | 175 | 
 | 2023-03-12 | 1400 | 175 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1395 | 174 | 
 | 2023-02-16 | 1394 | 174 | 
 | 2023-02-15 | 1394 | 174 | 
-| 2023-02-14 | 1393 | 174 | 
 

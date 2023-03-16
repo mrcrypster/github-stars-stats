@@ -1,6 +1,6 @@
 # databricks/spark-sql-perf - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 370
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 522 | 370 | 
 | 2023-03-14 | 522 | 370 | 
 | 2023-03-13 | 522 | 370 | 
 | 2023-03-12 | 522 | 370 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 519 | 370 | 
 | 2023-02-15 | 519 | 370 | 
 | 2023-02-14 | 519 | 370 | 
-| 2023-02-13 | 519 | 370 | 
 

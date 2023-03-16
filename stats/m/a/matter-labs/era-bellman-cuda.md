@@ -1,6 +1,6 @@
 # matter-labs/era-bellman-cuda - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 23 | 3 | 
 | 2023-03-14 | 23 | 3 | 
 | 2023-03-12 | 23 | 3 | 
 | 2023-03-11 | 23 | 3 | 

@@ -1,10 +1,10 @@
 # David-Summers/Azure-Design - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 264
 
-★ Stars: 1158
+★ Stars: 1161
 
 [Open repository](https://github.com/David-Summers/Azure-Design)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1161 | 264 | 
 | 2023-03-14 | 1158 | 264 | 
 | 2023-03-12 | 1157 | 264 | 
 | 2023-03-11 | 1156 | 264 | 

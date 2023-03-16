@@ -1,10 +1,10 @@
 # Mirrorful/mirrorful - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 340
+★ Stars: 359
 
 [Open repository](https://github.com/Mirrorful/mirrorful)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 359 | 21 | 
 | 2023-03-14 | 340 | 19 | 
 | 2023-03-13 | 333 | 19 | 
 

@@ -1,10 +1,10 @@
 # leoxiaobin/deep-high-resolution-net.pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 890
+☋ Forks: 891
 
-★ Stars: 3993
+★ Stars: 3995
 
 [Open repository](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3995 | 891 | 
 | 2023-03-14 | 3993 | 890 | 
 | 2023-03-13 | 3991 | 890 | 
 | 2023-03-12 | 3991 | 890 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3967 | 885 | 
 | 2023-02-15 | 3966 | 886 | 
 | 2023-02-14 | 3965 | 887 | 
-| 2023-02-13 | 3964 | 887 | 
 

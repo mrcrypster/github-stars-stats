@@ -1,6 +1,6 @@
 # dzamkov/DJ - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3 | - | 
+| 2023-03-15 | 3 | - | 
 | 2023-03-13 | 3 | - | 
 | 2023-03-12 | 3 | - | 
 | 2023-03-11 | 3 | - | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3 | - | 
 | 2023-02-15 | 3 | - | 
 | 2023-02-14 | 3 | - | 
-| 2023-02-13 | 3 | - | 
 

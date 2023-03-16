@@ -1,10 +1,10 @@
 # transpchan/Live3D-v2 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 13
 
-★ Stars: 249
+★ Stars: 252
 
 [Open repository](https://github.com/transpchan/Live3D-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 252 | 13 | 
 | 2023-03-14 | 249 | 13 | 
 | 2023-03-12 | 246 | 13 | 
 | 2023-03-11 | 242 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 164 | 7 | 
 | 2023-02-15 | 163 | 7 | 
 | 2023-02-14 | 162 | 7 | 
-| 2023-02-13 | 159 | 6 | 
 

@@ -1,10 +1,10 @@
 # WildCodeSchool/2022-09-php-orleans-project-gatinaisnature - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/WildCodeSchool/2022-09-php-orleans-project-gatinaisnature)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2 | 1 | 
 | 2023-03-13 | 3 | 1 | 
 | 2023-03-12 | 3 | 1 | 
 | 2023-03-11 | 3 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3 | 1 | 
 | 2023-02-15 | 3 | 1 | 
 | 2023-02-14 | 3 | 1 | 
-| 2023-02-13 | 3 | 1 | 
 

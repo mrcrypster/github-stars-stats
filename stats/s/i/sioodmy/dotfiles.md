@@ -1,10 +1,10 @@
 # sioodmy/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 155
+★ Stars: 157
 
 [Open repository](https://github.com/sioodmy/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 157 | 10 | 
 | 2023-03-14 | 155 | 10 | 
 | 2023-03-13 | 152 | 10 | 
 | 2023-03-12 | 152 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 141 | 9 | 
 | 2023-02-16 | 141 | 9 | 
 | 2023-02-14 | 141 | 9 | 
-| 2023-02-13 | 141 | 9 | 
 

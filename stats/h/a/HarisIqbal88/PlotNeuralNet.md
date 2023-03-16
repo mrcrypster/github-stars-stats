@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 2594
+☋ Forks: 2595
 
-★ Stars: 18994
+★ Stars: 19005
 
 [Open repository](https://github.com/HarisIqbal88/PlotNeuralNet)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 18994 | 2594 | 
+| 2023-03-15 | 19005 | 2595 | 
 | 2023-03-13 | 18990 | 2591 | 
 | 2023-03-12 | 18981 | 2590 | 
 | 2023-03-11 | 18981 | 2590 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 18831 | 2574 | 
 | 2023-02-15 | 18828 | 2573 | 
 | 2023-02-14 | 18818 | 2571 | 
-| 2023-02-13 | 18816 | 2571 | 
 

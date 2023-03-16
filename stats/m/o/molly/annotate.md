@@ -1,10 +1,10 @@
 # molly/annotate - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/molly/annotate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 229 | 4 | 
 | 2023-03-14 | 228 | 4 | 
 | 2023-03-12 | 228 | 4 | 
 | 2023-03-11 | 228 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 224 | 4 | 
 | 2023-02-15 | 224 | 4 | 
 | 2023-02-14 | 224 | 4 | 
-| 2023-02-13 | 224 | 4 | 
 

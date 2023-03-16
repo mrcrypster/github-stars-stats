@@ -1,10 +1,10 @@
 # Druvis-Timma/Mikrotik - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 16
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/Druvis-Timma/Mikrotik)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 49 | 16 | 
 | 2023-03-14 | 47 | 16 | 
 | 2023-03-13 | 47 | 15 | 
 | 2023-03-11 | 47 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 41 | 12 | 
 | 2023-02-16 | 41 | 11 | 
 | 2023-02-15 | 41 | 11 | 
-| 2023-02-14 | 41 | 11 | 
 

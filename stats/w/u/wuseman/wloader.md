@@ -1,10 +1,10 @@
 # wuseman/wloader - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 39
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/wuseman/wloader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 169 | 39 | 
 | 2023-03-14 | 168 | 39 | 
 | 2023-03-12 | 167 | 39 | 
 | 2023-03-11 | 167 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 162 | 38 | 
 | 2023-02-15 | 162 | 38 | 
 | 2023-02-14 | 162 | 38 | 
-| 2023-02-13 | 162 | 38 | 
 

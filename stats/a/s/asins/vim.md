@@ -1,6 +1,6 @@
 # asins/vim - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 86 | 44 | 
 | 2023-03-14 | 86 | 44 | 
 | 2023-03-13 | 86 | 44 | 
 | 2023-03-11 | 86 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 86 | 44 | 
 | 2023-02-15 | 86 | 44 | 
 | 2023-02-14 | 86 | 44 | 
-| 2023-02-13 | 86 | 44 | 
 

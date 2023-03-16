@@ -1,6 +1,6 @@
 # Hejsil/aniz - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 13 | 1 | 
 | 2023-03-13 | 13 | 1 | 
 | 2023-03-12 | 13 | 1 | 
 | 2023-03-11 | 13 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 10 | 1 | 
 | 2023-02-15 | 10 | 1 | 
 | 2023-02-14 | 10 | 1 | 
-| 2023-02-13 | 10 | 1 | 
 

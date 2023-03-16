@@ -1,6 +1,6 @@
 # odnoletkov/advent-of-code-jq - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 186 | 3 | 
 | 2023-03-14 | 186 | 3 | 
 | 2023-03-12 | 186 | 3 | 
 | 2023-03-11 | 186 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 184 | 3 | 
 | 2023-02-16 | 184 | 3 | 
 | 2023-02-14 | 184 | 3 | 
-| 2023-02-13 | 184 | 3 | 
 

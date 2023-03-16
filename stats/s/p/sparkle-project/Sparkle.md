@@ -1,10 +1,10 @@
 # sparkle-project/Sparkle - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1012
+☋ Forks: 1013
 
-★ Stars: 6285
+★ Stars: 6290
 
 [Open repository](https://github.com/sparkle-project/Sparkle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 6290 | 1013 | 
 | 2023-03-14 | 6285 | 1012 | 
 | 2023-03-12 | 6285 | 1012 | 
 | 2023-03-11 | 6284 | 1012 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 6249 | 1011 | 
 | 2023-02-15 | 6248 | 1011 | 
 | 2023-02-14 | 6248 | 1010 | 
-| 2023-02-13 | 6246 | 1010 | 
 

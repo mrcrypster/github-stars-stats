@@ -1,6 +1,6 @@
 # MuhammadMoinFaisal/YOLOv8_Segmentation_DeepSORT_Object_Tracking - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 88 | 22 | 
 | 2023-03-13 | 88 | 22 | 
 | 2023-03-12 | 87 | 22 | 
 | 2023-03-11 | 87 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 80 | 18 | 
 | 2023-02-15 | 79 | 17 | 
 | 2023-02-14 | 78 | 17 | 
-| 2023-02-13 | 77 | 17 | 
 

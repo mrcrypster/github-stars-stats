@@ -1,10 +1,10 @@
 # markulie/Smooth-Follow-Unity - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/markulie/Smooth-Follow-Unity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 8 | 6 | 
 | 2023-03-14 | 9 | 6 | 
 | 2023-03-12 | 9 | 6 | 
 | 2023-03-11 | 9 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 8 | 6 | 
 | 2023-02-16 | 8 | 6 | 
 | 2023-02-15 | 8 | 6 | 
-| 2023-02-14 | 8 | 6 | 
 

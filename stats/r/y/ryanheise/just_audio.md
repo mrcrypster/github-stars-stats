@@ -1,10 +1,10 @@
 # ryanheise/just_audio - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 440
 
-★ Stars: 808
+★ Stars: 810
 
 [Open repository](https://github.com/ryanheise/just_audio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 810 | 440 | 
 | 2023-03-13 | 808 | 440 | 
 | 2023-03-12 | 807 | 440 | 
 | 2023-03-11 | 807 | 440 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 790 | 430 | 
 | 2023-02-15 | 790 | 430 | 
 | 2023-02-14 | 790 | 430 | 
-| 2023-02-13 | 790 | 430 | 
 

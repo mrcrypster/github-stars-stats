@@ -1,10 +1,10 @@
 # Fuco1/org-pretty-table - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 77
+★ Stars: 79
 
 [Open repository](https://github.com/Fuco1/org-pretty-table)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 79 | 6 | 
 | 2023-03-14 | 77 | 6 | 
 | 2023-03-13 | 76 | 6 | 
 

@@ -1,10 +1,10 @@
 # videolan/vlc-android - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 499
+☋ Forks: 500
 
-★ Stars: 1843
+★ Stars: 1844
 
 [Open repository](https://github.com/videolan/vlc-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1844 | 500 | 
 | 2023-03-13 | 1843 | 499 | 
 | 2023-03-12 | 1842 | 498 | 
 | 2023-03-11 | 1841 | 498 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1815 | 491 | 
 | 2023-02-15 | 1813 | 490 | 
 | 2023-02-14 | 1812 | 490 | 
-| 2023-02-13 | 1812 | 490 | 
 

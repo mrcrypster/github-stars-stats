@@ -1,6 +1,6 @@
 # OCamlPro/ocp-index - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 60 | 23 | 
 | 2023-03-13 | 60 | 23 | 
 | 2023-03-12 | 60 | 23 | 
 | 2023-03-11 | 60 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 60 | 23 | 
 | 2023-02-15 | 60 | 23 | 
 | 2023-02-14 | 60 | 23 | 
-| 2023-02-13 | 60 | 23 | 
 

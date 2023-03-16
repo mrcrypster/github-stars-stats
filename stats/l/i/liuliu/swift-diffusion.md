@@ -1,6 +1,6 @@
 # liuliu/swift-diffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 280 | 21 | 
 | 2023-03-14 | 280 | 21 | 
 | 2023-03-13 | 276 | 21 | 
 | 2023-03-12 | 275 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 262 | 17 | 
 | 2023-02-15 | 261 | 17 | 
 | 2023-02-14 | 261 | 17 | 
-| 2023-02-13 | 261 | 16 | 
 

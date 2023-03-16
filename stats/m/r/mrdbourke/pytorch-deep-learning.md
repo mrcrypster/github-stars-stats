@@ -1,10 +1,10 @@
 # mrdbourke/pytorch-deep-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 983
+☋ Forks: 989
 
-★ Stars: 3229
+★ Stars: 3240
 
 [Open repository](https://github.com/mrdbourke/pytorch-deep-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3240 | 989 | 
 | 2023-03-14 | 3229 | 983 | 
 | 2023-03-13 | 3225 | 982 | 
 | 2023-03-12 | 3212 | 975 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2871 | 832 | 
 | 2023-02-15 | 2867 | 832 | 
 | 2023-02-14 | 2845 | 823 | 
-| 2023-02-13 | 2836 | 817 | 
 

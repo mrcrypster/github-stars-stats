@@ -1,10 +1,10 @@
 # libjxl/libjxl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 144
 
-★ Stars: 1009
+★ Stars: 1010
 
 [Open repository](https://github.com/libjxl/libjxl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1010 | 144 | 
 | 2023-03-13 | 1009 | 144 | 
 | 2023-03-12 | 1009 | 144 | 
 | 2023-03-11 | 1007 | 144 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 990 | 134 | 
 | 2023-02-15 | 988 | 132 | 
 | 2023-02-14 | 984 | 133 | 
-| 2023-02-13 | 981 | 133 | 
 

@@ -1,6 +1,6 @@
 # mrkline/modern-latex - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 80 | 5 | 
 | 2023-03-14 | 80 | 5 | 
 | 2023-03-13 | 80 | 5 | 
 | 2023-03-11 | 80 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 78 | 5 | 
 | 2023-02-16 | 78 | 5 | 
 | 2023-02-15 | 78 | 5 | 
-| 2023-02-14 | 78 | 5 | 
 

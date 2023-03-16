@@ -1,6 +1,6 @@
 # dstein64/nvim-scrollview - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 344 | 7 | 
 | 2023-03-14 | 344 | 7 | 
 | 2023-03-12 | 344 | 7 | 
 | 2023-03-11 | 344 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 338 | 7 | 
 | 2023-02-15 | 338 | 7 | 
 | 2023-02-14 | 338 | 7 | 
-| 2023-02-13 | 338 | 7 | 
 

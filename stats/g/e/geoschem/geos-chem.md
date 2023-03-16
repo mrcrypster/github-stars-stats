@@ -1,10 +1,10 @@
 # geoschem/geos-chem - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 132
 
-★ Stars: 128
+★ Stars: 130
 
 [Open repository](https://github.com/geoschem/geos-chem)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 130 | 132 | 
 | 2023-03-14 | 128 | 132 | 
 | 2023-03-13 | 128 | 132 | 
 | 2023-03-11 | 128 | 132 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 126 | 130 | 
 | 2023-02-15 | 126 | 130 | 
 | 2023-02-14 | 126 | 130 | 
-| 2023-02-13 | 125 | 130 | 
 

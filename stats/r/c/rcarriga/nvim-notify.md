@@ -1,8 +1,8 @@
 # rcarriga/nvim-notify - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 1966
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1966 | 41 | 
 | 2023-03-14 | 1966 | 40 | 
 | 2023-03-13 | 1964 | 40 | 
 | 2023-03-12 | 1959 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1909 | 37 | 
 | 2023-02-15 | 1902 | 37 | 
 | 2023-02-14 | 1900 | 37 | 
-| 2023-02-13 | 1897 | 37 | 
 

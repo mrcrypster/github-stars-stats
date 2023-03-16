@@ -1,6 +1,6 @@
 # geoffjentry/twitteR - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 250 | 170 | 
 | 2023-03-14 | 250 | 170 | 
 | 2023-03-13 | 250 | 170 | 
 | 2023-03-11 | 250 | 170 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 250 | 171 | 
 | 2023-02-15 | 250 | 171 | 
 | 2023-02-14 | 250 | 171 | 
-| 2023-02-13 | 250 | 171 | 
 

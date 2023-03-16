@@ -1,10 +1,10 @@
 # zhoutaoo/SpringCloud - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 3752
+☋ Forks: 3753
 
-★ Stars: 8002
+★ Stars: 8004
 
 [Open repository](https://github.com/zhoutaoo/SpringCloud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 8004 | 3753 | 
 | 2023-03-14 | 8002 | 3752 | 
 | 2023-03-12 | 7998 | 3751 | 
 | 2023-03-11 | 7998 | 3751 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 7956 | 3723 | 
 | 2023-02-15 | 7952 | 3722 | 
 | 2023-02-14 | 7946 | 3722 | 
-| 2023-02-13 | 7943 | 3721 | 
 

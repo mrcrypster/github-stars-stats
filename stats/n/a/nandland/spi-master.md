@@ -1,6 +1,6 @@
 # nandland/spi-master - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 143 | 75 | 
 | 2023-03-13 | 143 | 75 | 
 | 2023-03-12 | 143 | 75 | 
 | 2023-03-11 | 143 | 75 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 142 | 74 | 
 | 2023-02-16 | 142 | 74 | 
 | 2023-02-15 | 141 | 74 | 
-| 2023-02-14 | 141 | 74 | 
 

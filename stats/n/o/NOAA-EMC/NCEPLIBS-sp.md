@@ -1,6 +1,6 @@
 # NOAA-EMC/NCEPLIBS-sp - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2 | 6 | 
 | 2023-03-14 | 2 | 6 | 
 | 2023-03-12 | 2 | 6 | 
 | 2023-03-11 | 2 | 6 | 

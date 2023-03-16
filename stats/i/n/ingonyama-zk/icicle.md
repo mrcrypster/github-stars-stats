@@ -1,10 +1,10 @@
 # ingonyama-zk/icicle - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/ingonyama-zk/icicle)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 42 | 4 | 
+| 2023-03-15 | 42 | 4 | 
 | 2023-03-14 | 41 | 4 | 
 | 2023-03-13 | 35 | 4 | 
 | 2023-03-12 | 35 | 4 | 

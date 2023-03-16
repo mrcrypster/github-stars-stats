@@ -1,6 +1,6 @@
 # Southclaws/progress2 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 51 | 61 | 
 | 2023-03-14 | 51 | 61 | 
 | 2023-03-13 | 51 | 61 | 
 | 2023-03-12 | 51 | 61 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 51 | 59 | 
 | 2023-02-15 | 51 | 59 | 
 | 2023-02-14 | 51 | 59 | 
-| 2023-02-13 | 51 | 59 | 
 

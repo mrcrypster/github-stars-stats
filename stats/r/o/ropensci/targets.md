@@ -1,6 +1,6 @@
 # ropensci/targets - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 705 | 61 | 
 | 2023-03-14 | 705 | 61 | 
 | 2023-03-13 | 705 | 61 | 
 | 2023-03-12 | 704 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 700 | 60 | 
 | 2023-02-15 | 700 | 60 | 
 | 2023-02-14 | 700 | 60 | 
-| 2023-02-13 | 700 | 60 | 
 

@@ -1,10 +1,10 @@
 # zappo2/digital-art-with-matlab - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 39
+★ Stars: 43
 
 [Open repository](https://github.com/zappo2/digital-art-with-matlab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 43 | 10 | 
 | 2023-03-14 | 39 | 10 | 
 | 2023-03-12 | 39 | 10 | 
 | 2023-03-11 | 39 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 39 | 10 | 
 | 2023-02-15 | 39 | 10 | 
 | 2023-02-14 | 39 | 10 | 
-| 2023-02-13 | 39 | 10 | 
 

@@ -1,6 +1,6 @@
 # balena-os/meta-balena - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 960 | 109 | 
 | 2023-03-14 | 960 | 109 | 
 | 2023-03-13 | 960 | 109 | 
 | 2023-03-12 | 960 | 109 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 959 | 108 | 
 | 2023-02-16 | 959 | 108 | 
 | 2023-02-15 | 959 | 107 | 
-| 2023-02-14 | 959 | 107 | 
 

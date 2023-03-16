@@ -1,6 +1,6 @@
 # Code-Institute-Org/postgres-migration-tool - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 18 | 20 | 
 | 2023-03-14 | 18 | 20 | 
 | 2023-03-13 | 18 | 20 | 
 | 2023-03-11 | 18 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 18 | 20 | 
 | 2023-02-15 | 18 | 19 | 
 | 2023-02-14 | 18 | 18 | 
-| 2023-02-13 | 18 | 18 | 
 

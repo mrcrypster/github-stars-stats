@@ -1,10 +1,10 @@
 # ray-x/lsp_signature.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 32
 
-★ Stars: 1404
+★ Stars: 1408
 
 [Open repository](https://github.com/ray-x/lsp_signature.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1408 | 32 | 
 | 2023-03-14 | 1404 | 32 | 
 | 2023-03-12 | 1404 | 32 | 
 | 2023-03-11 | 1398 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1369 | 32 | 
 | 2023-02-15 | 1369 | 32 | 
 | 2023-02-14 | 1368 | 32 | 
-| 2023-02-13 | 1364 | 32 | 
 

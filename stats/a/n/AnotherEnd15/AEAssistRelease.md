@@ -1,6 +1,6 @@
 # AnotherEnd15/AEAssistRelease - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 18 | 12 | 
 | 2023-03-13 | 18 | 12 | 
 | 2023-03-12 | 18 | 12 | 
 | 2023-03-11 | 18 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 14 | 11 | 
 | 2023-02-15 | 14 | 11 | 
 | 2023-02-14 | 14 | 11 | 
-| 2023-02-13 | 14 | 11 | 
 

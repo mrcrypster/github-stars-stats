@@ -1,6 +1,6 @@
 # StartBootstrap/startbootstrap-modern-business - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 918 | 1168 | 
 | 2023-03-14 | 918 | 1168 | 
 | 2023-03-13 | 916 | 1168 | 
 | 2023-03-11 | 916 | 1167 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 915 | 1169 | 
 | 2023-02-15 | 916 | 1169 | 
 | 2023-02-14 | 915 | 1169 | 
-| 2023-02-13 | 916 | 1169 | 
 

@@ -1,6 +1,6 @@
 # G-Research/ApiSurface - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4 | - | 
 | 2023-03-14 | 4 | - | 
 | 2023-03-13 | 4 | - | 
 | 2023-03-11 | 4 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3 | - | 
 | 2023-02-15 | 3 | - | 
 | 2023-02-14 | 3 | - | 
-| 2023-02-13 | 3 | - | 
 

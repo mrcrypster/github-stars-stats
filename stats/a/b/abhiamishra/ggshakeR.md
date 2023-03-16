@@ -1,6 +1,6 @@
 # abhiamishra/ggshakeR - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 99 | 11 | 
 | 2023-03-14 | 99 | 11 | 
 | 2023-03-13 | 99 | 11 | 
 | 2023-03-12 | 99 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 98 | 10 | 
 | 2023-02-15 | 98 | 10 | 
 | 2023-02-14 | 98 | 10 | 
-| 2023-02-13 | 98 | 10 | 
 

@@ -1,10 +1,10 @@
 # wundergraph/wundergraph - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 88
 
-★ Stars: 1067
+★ Stars: 1070
 
 [Open repository](https://github.com/wundergraph/wundergraph)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1070 | 88 | 
 | 2023-03-13 | 1067 | 88 | 
 | 2023-03-12 | 1059 | 87 | 
 | 2023-03-11 | 1053 | 86 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 974 | 76 | 
 | 2023-02-15 | 971 | 76 | 
 | 2023-02-14 | 970 | 76 | 
-| 2023-02-13 | 969 | 74 | 
 

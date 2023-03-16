@@ -1,10 +1,10 @@
 # dreamncn/Qianji_auto - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 48
 
-★ Stars: 290
+★ Stars: 291
 
 [Open repository](https://github.com/dreamncn/Qianji_auto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 291 | 48 | 
 | 2023-03-14 | 290 | 48 | 
 | 2023-03-12 | 288 | 48 | 
 | 2023-03-11 | 288 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 279 | 48 | 
 | 2023-02-15 | 278 | 48 | 
 | 2023-02-14 | 277 | 48 | 
-| 2023-02-13 | 277 | 48 | 
 

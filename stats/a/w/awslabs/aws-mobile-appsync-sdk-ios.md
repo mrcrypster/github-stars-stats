@@ -1,6 +1,6 @@
 # awslabs/aws-mobile-appsync-sdk-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 258 | 130 | 
 | 2023-03-14 | 258 | 130 | 
 | 2023-03-12 | 258 | 130 | 
 | 2023-03-11 | 258 | 130 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 257 | 130 | 
 | 2023-02-15 | 257 | 130 | 
 | 2023-02-14 | 257 | 130 | 
-| 2023-02-13 | 257 | 130 | 
 

@@ -1,6 +1,6 @@
 # hanchenye/scalehls - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 130 | 31 | 
 | 2023-03-13 | 130 | 31 | 
 | 2023-03-12 | 130 | 31 | 
 | 2023-03-11 | 130 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 126 | 28 | 
 | 2023-02-15 | 125 | 28 | 
 | 2023-02-14 | 124 | 27 | 
-| 2023-02-13 | 124 | 27 | 
 

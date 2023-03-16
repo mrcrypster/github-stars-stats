@@ -1,10 +1,10 @@
 # SociallyIneptWeeb/LanguageLeapAI - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 42
+☋ Forks: 47
 
-★ Stars: 178
+★ Stars: 195
 
 [Open repository](https://github.com/SociallyIneptWeeb/LanguageLeapAI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 195 | 47 | 
 | 2023-03-14 | 178 | 42 | 
 | 2023-03-13 | 144 | 32 | 
 | 2023-03-12 | 126 | 30 | 

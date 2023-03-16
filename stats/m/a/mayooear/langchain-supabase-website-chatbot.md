@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 80
+★ Stars: 89
 
 [Open repository](https://github.com/mayooear/langchain-supabase-website-chatbot)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 80 | 15 | 
+| 2023-03-15 | 89 | 16 | 
 | 2023-03-14 | 76 | 14 | 
 

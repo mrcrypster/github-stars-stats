@@ -1,6 +1,6 @@
 # ViTAE-Transformer/ViTDet - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 392 | 38 | 
 | 2023-03-14 | 392 | 38 | 
 | 2023-03-13 | 393 | 38 | 
 | 2023-03-12 | 393 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 391 | 38 | 
 | 2023-02-16 | 391 | 38 | 
 | 2023-02-15 | 391 | 38 | 
-| 2023-02-13 | 391 | 38 | 
 

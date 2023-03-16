@@ -1,8 +1,8 @@
 # pascal-lab/Tai-e-assignments - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 771
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 771 | 154 | 
 | 2023-03-14 | 771 | 153 | 
 | 2023-03-13 | 771 | 153 | 
 | 2023-03-12 | 770 | 154 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 756 | 147 | 
 | 2023-02-15 | 756 | 146 | 
 | 2023-02-14 | 756 | 146 | 
-| 2023-02-13 | 756 | 146 | 
 

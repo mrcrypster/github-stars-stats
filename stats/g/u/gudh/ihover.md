@@ -1,6 +1,6 @@
 # gudh/ihover - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1214
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3488 | 1214 | 
 | 2023-03-13 | 3488 | 1214 | 
 | 2023-03-12 | 3489 | 1214 | 
 | 2023-03-11 | 3489 | 1214 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3484 | 1213 | 
 | 2023-02-15 | 3484 | 1213 | 
 | 2023-02-14 | 3484 | 1213 | 
-| 2023-02-13 | 3484 | 1213 | 
 

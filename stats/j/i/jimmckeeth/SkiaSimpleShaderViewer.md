@@ -1,6 +1,6 @@
 # jimmckeeth/SkiaSimpleShaderViewer - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 39 | 9 | 
 | 2023-03-13 | 39 | 9 | 
 | 2023-03-12 | 39 | 9 | 
 | 2023-03-11 | 39 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 39 | 9 | 
 | 2023-02-15 | 39 | 9 | 
 | 2023-02-14 | 39 | 9 | 
-| 2023-02-13 | 39 | 9 | 
 

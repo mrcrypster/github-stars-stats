@@ -1,6 +1,6 @@
 # hazzelnuts/ntfy-for-delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 48 | 10 | 
 | 2023-03-14 | 48 | 10 | 
 | 2023-03-12 | 47 | 9 | 
 | 2023-03-11 | 47 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 28 | 6 | 
 | 2023-02-15 | 27 | 6 | 
 | 2023-02-14 | 25 | 6 | 
-| 2023-02-13 | 25 | 6 | 
 

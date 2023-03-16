@@ -1,10 +1,10 @@
 # notepad-plus-plus/userDefinedLanguages - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 301
+☋ Forks: 303
 
-★ Stars: 358
+★ Stars: 359
 
 [Open repository](https://github.com/notepad-plus-plus/userDefinedLanguages)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 359 | 303 | 
 | 2023-03-14 | 358 | 301 | 
 | 2023-03-13 | 357 | 301 | 
 | 2023-03-12 | 357 | 301 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 348 | 289 | 
 | 2023-02-15 | 348 | 287 | 
 | 2023-02-14 | 348 | 286 | 
-| 2023-02-13 | 348 | 285 | 
 

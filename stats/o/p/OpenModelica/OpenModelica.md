@@ -1,6 +1,6 @@
 # OpenModelica/OpenModelica - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 577 | 247 | 
 | 2023-03-13 | 577 | 247 | 
 | 2023-03-12 | 577 | 247 | 
 | 2023-03-11 | 577 | 247 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 571 | 240 | 
 | 2023-02-15 | 571 | 240 | 
 | 2023-02-14 | 570 | 240 | 
-| 2023-02-13 | 570 | 238 | 
 

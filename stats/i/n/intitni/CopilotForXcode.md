@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 23
 
-★ Stars: 960
+★ Stars: 972
 
 [Open repository](https://github.com/intitni/CopilotForXcode)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 960 | 23 | 
+| 2023-03-15 | 972 | 23 | 
 | 2023-03-14 | 955 | 23 | 
 | 2023-03-13 | 936 | 23 | 
 | 2023-03-12 | 920 | 23 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 632 | 13 | 
 | 2023-02-15 | 596 | 12 | 
 | 2023-02-14 | 565 | 11 | 
-| 2023-02-13 | 560 | 10 | 
 

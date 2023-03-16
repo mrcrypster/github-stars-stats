@@ -1,10 +1,10 @@
 # yuichiroaoki/poly-flash - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 139
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/yuichiroaoki/poly-flash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 234 | 139 | 
 | 2023-03-14 | 233 | 139 | 
 | 2023-03-13 | 233 | 139 | 
 | 2023-03-11 | 233 | 139 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 230 | 135 | 
 | 2023-02-15 | 229 | 135 | 
 | 2023-02-14 | 228 | 135 | 
-| 2023-02-13 | 228 | 135 | 
 

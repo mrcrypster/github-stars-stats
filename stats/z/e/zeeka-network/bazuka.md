@@ -1,6 +1,6 @@
 # zeeka-network/bazuka - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 464
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1055 | 464 | 
 | 2023-03-14 | 1055 | 464 | 
 | 2023-03-13 | 1056 | 464 | 
 | 2023-03-11 | 1056 | 464 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1054 | 457 | 
 | 2023-02-15 | 1053 | 457 | 
 | 2023-02-14 | 1052 | 457 | 
-| 2023-02-13 | 1050 | 457 | 
 

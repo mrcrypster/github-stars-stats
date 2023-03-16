@@ -1,6 +1,6 @@
 # rsnemmen/OpenCL-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 141 | 60 | 
 | 2023-03-14 | 141 | 60 | 
 | 2023-03-12 | 141 | 60 | 
 | 2023-03-11 | 141 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 140 | 60 | 
 | 2023-02-15 | 140 | 60 | 
 | 2023-02-14 | 140 | 60 | 
-| 2023-02-13 | 139 | 60 | 
 

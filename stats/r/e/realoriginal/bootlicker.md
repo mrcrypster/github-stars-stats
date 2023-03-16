@@ -1,10 +1,10 @@
 # realoriginal/bootlicker - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 43
 
-★ Stars: 199
+★ Stars: 201
 
 [Open repository](https://github.com/realoriginal/bootlicker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 201 | 43 | 
 | 2023-03-14 | 199 | 43 | 
 | 2023-03-12 | 197 | 43 | 
 | 2023-03-11 | 196 | 43 | 

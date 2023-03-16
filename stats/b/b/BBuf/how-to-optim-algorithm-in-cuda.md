@@ -1,10 +1,10 @@
 # BBuf/how-to-optim-algorithm-in-cuda - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 119
+★ Stars: 122
 
 [Open repository](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 122 | 10 | 
 | 2023-03-14 | 119 | 10 | 
 | 2023-03-13 | 111 | 10 | 
 | 2023-03-12 | 109 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 87 | 7 | 
 | 2023-02-15 | 87 | 7 | 
 | 2023-02-14 | 86 | 7 | 
-| 2023-02-13 | 85 | 7 | 
 

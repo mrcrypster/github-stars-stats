@@ -1,10 +1,10 @@
 # dair-ai/AI-Product-Index - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 47
 
-★ Stars: 656
+★ Stars: 659
 
 [Open repository](https://github.com/dair-ai/AI-Product-Index)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 659 | 47 | 
 | 2023-03-13 | 656 | 47 | 
 | 2023-03-12 | 652 | 47 | 
 | 2023-03-11 | 649 | 46 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 609 | 43 | 
 | 2023-02-15 | 607 | 44 | 
 | 2023-02-14 | 603 | 42 | 
-| 2023-02-13 | 600 | 41 | 
 

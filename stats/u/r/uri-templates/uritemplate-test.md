@@ -1,6 +1,6 @@
 # uri-templates/uritemplate-test - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 87 | 22 | 
 | 2023-03-13 | 87 | 22 | 
 | 2023-03-12 | 87 | 22 | 
 | 2023-03-11 | 87 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 87 | 22 | 
 | 2023-02-15 | 87 | 22 | 
 | 2023-02-14 | 87 | 22 | 
-| 2023-02-13 | 87 | 22 | 
 

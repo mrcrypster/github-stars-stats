@@ -1,10 +1,10 @@
 # Cysharp/SimdLinq - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/Cysharp/SimdLinq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 295 | 7 | 
 | 2023-03-13 | 294 | 7 | 
 | 2023-03-12 | 294 | 7 | 
 | 2023-03-11 | 293 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 272 | 6 | 
 | 2023-02-15 | 267 | 6 | 
 | 2023-02-14 | 266 | 6 | 
-| 2023-02-13 | 265 | 6 | 
 

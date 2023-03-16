@@ -1,10 +1,10 @@
 # Weilbyte/tiktok-tts - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 219
+★ Stars: 221
 
 [Open repository](https://github.com/Weilbyte/tiktok-tts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 221 | 48 | 
 | 2023-03-13 | 219 | 47 | 
 | 2023-03-12 | 219 | 47 | 
 | 2023-03-11 | 218 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 209 | 44 | 
 | 2023-02-15 | 209 | 44 | 
 | 2023-02-14 | 208 | 44 | 
-| 2023-02-13 | 208 | 44 | 
 

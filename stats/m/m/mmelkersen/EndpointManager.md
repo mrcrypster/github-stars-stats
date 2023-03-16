@@ -1,6 +1,6 @@
 # mmelkersen/EndpointManager - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 98 | 18 | 
 | 2023-03-13 | 98 | 18 | 
 | 2023-03-12 | 98 | 18 | 
 | 2023-03-11 | 98 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 97 | 18 | 
 | 2023-02-15 | 97 | 18 | 
 | 2023-02-14 | 97 | 18 | 
-| 2023-02-13 | 97 | 18 | 
 

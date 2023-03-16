@@ -1,6 +1,6 @@
 # segmentio/terraform-aws-data-lake - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 34 | 31 | 
 | 2023-03-13 | 34 | 31 | 
 | 2023-03-12 | 34 | 31 | 
 | 2023-03-11 | 34 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 34 | 31 | 
 | 2023-02-16 | 34 | 31 | 
 | 2023-02-15 | 34 | 31 | 
-| 2023-02-14 | 34 | 31 | 
 

@@ -1,10 +1,10 @@
 # ehang-io/nps - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 4599
+☋ Forks: 4600
 
-★ Stars: 24985
+★ Stars: 24994
 
 [Open repository](https://github.com/ehang-io/nps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 24994 | 4600 | 
 | 2023-03-14 | 24985 | 4599 | 
 | 2023-03-13 | 24971 | 4593 | 
 | 2023-03-12 | 24957 | 4587 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 24674 | 4547 | 
 | 2023-02-15 | 24663 | 4544 | 
 | 2023-02-14 | 24649 | 4539 | 
-| 2023-02-13 | 24643 | 4538 | 
 

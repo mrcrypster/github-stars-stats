@@ -1,10 +1,10 @@
 # andyzoujm/autocast - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/andyzoujm/autocast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 143 | 42 | 
 | 2023-03-14 | 142 | 41 | 
 | 2023-03-12 | 142 | 41 | 
 | 2023-03-11 | 143 | 41 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 131 | 30 | 
 | 2023-02-15 | 124 | 30 | 
 | 2023-02-14 | 123 | 29 | 
-| 2023-02-13 | 123 | 29 | 
 

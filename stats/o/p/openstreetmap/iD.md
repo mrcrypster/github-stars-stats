@@ -1,10 +1,10 @@
 # openstreetmap/iD - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1102
+☋ Forks: 1103
 
-★ Stars: 2991
+★ Stars: 2993
 
 [Open repository](https://github.com/openstreetmap/iD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2993 | 1103 | 
 | 2023-03-13 | 2991 | 1102 | 
 | 2023-03-12 | 2991 | 1102 | 
 | 2023-03-11 | 2990 | 1101 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2980 | 1095 | 
 | 2023-02-15 | 2977 | 1094 | 
 | 2023-02-14 | 2977 | 1094 | 
-| 2023-02-13 | 2976 | 1094 | 
 

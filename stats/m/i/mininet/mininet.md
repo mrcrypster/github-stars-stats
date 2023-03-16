@@ -1,6 +1,6 @@
 # mininet/mininet - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1689
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4737 | 1689 | 
 | 2023-03-14 | 4737 | 1689 | 
 | 2023-03-12 | 4738 | 1689 | 
 | 2023-03-11 | 4738 | 1689 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 4703 | 1681 | 
 | 2023-02-15 | 4703 | 1680 | 
 | 2023-02-14 | 4699 | 1680 | 
-| 2023-02-13 | 4699 | 1680 | 
 

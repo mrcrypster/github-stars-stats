@@ -1,10 +1,10 @@
 # json-schema-org/json-schema-spec - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 255
 
-★ Stars: 2832
+★ Stars: 2833
 
 [Open repository](https://github.com/json-schema-org/json-schema-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2833 | 255 | 
 | 2023-03-14 | 2832 | 255 | 
 | 2023-03-13 | 2832 | 255 | 
 | 2023-03-12 | 2831 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2800 | 253 | 
 | 2023-02-15 | 2799 | 253 | 
 | 2023-02-14 | 2797 | 253 | 
-| 2023-02-13 | 2797 | 253 | 
 

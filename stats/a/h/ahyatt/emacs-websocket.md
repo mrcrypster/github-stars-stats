@@ -1,10 +1,10 @@
 # ahyatt/emacs-websocket - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 40
 
-★ Stars: 299
+★ Stars: 300
 
 [Open repository](https://github.com/ahyatt/emacs-websocket)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 300 | 40 | 
 | 2023-03-14 | 299 | 40 | 
 | 2023-03-13 | 299 | 40 | 
 | 2023-03-11 | 299 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 297 | 39 | 
 | 2023-02-15 | 297 | 39 | 
 | 2023-02-14 | 296 | 39 | 
-| 2023-02-13 | 296 | 39 | 
 

@@ -1,10 +1,10 @@
 # wolfenrain/flutter_shaders_example - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/wolfenrain/flutter_shaders_example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 57 | 2 | 
 | 2023-03-13 | 56 | 2 | 
 | 2023-03-12 | 56 | 2 | 
 | 2023-03-11 | 56 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 40 | 1 | 
 | 2023-02-15 | 40 | 1 | 
 | 2023-02-14 | 40 | 1 | 
-| 2023-02-13 | 40 | 1 | 
 

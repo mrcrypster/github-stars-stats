@@ -1,10 +1,10 @@
 # vlcn-io/cr-sqlite - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 28
 
-★ Stars: 1124
+★ Stars: 1143
 
 [Open repository](https://github.com/vlcn-io/cr-sqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1143 | 28 | 
 | 2023-03-14 | 1124 | 28 | 
 | 2023-03-12 | 1122 | 28 | 
 | 2023-03-11 | 1122 | 28 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1048 | 28 | 
 | 2023-02-15 | 1043 | 27 | 
 | 2023-02-14 | 1038 | 27 | 
-| 2023-02-13 | 1035 | 26 | 
 

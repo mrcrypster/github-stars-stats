@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 2023
+☋ Forks: 2026
 
-★ Stars: 10634
+★ Stars: 10652
 
 [Open repository](https://github.com/amusi/CVPR2023-Papers-with-Code)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 10634 | 2023 | 
+| 2023-03-15 | 10652 | 2026 | 
 | 2023-03-14 | 10633 | 2023 | 
 | 2023-03-13 | 10593 | 2017 | 
 | 2023-03-12 | 10549 | 2013 | 

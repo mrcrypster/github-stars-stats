@@ -1,10 +1,10 @@
 # qmk/qmk_firmware - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 31205
+☋ Forks: 31218
 
-★ Stars: 14599
+★ Stars: 14608
 
 [Open repository](https://github.com/qmk/qmk_firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14608 | 31218 | 
 | 2023-03-14 | 14599 | 31205 | 
 | 2023-03-13 | 14587 | 31189 | 
 | 2023-03-12 | 14580 | 31157 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 14407 | 30733 | 
 | 2023-02-15 | 14403 | 30722 | 
 | 2023-02-14 | 14396 | 30695 | 
-| 2023-02-13 | 14392 | 30686 | 
 

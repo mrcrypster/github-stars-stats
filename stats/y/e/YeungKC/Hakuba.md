@@ -1,10 +1,10 @@
 # YeungKC/Hakuba - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/YeungKC/Hakuba)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 113 | 15 | 
 | 2023-03-13 | 112 | 15 | 
 | 2023-03-12 | 112 | 15 | 
 | 2023-03-11 | 112 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 109 | 15 | 
 | 2023-02-15 | 109 | 15 | 
 | 2023-02-14 | 109 | 15 | 
-| 2023-02-13 | 109 | 15 | 
 

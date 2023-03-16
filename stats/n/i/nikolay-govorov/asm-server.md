@@ -1,6 +1,6 @@
 # nikolay-govorov/asm-server - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 28 | - | 
 | 2023-03-13 | 28 | - | 
 | 2023-03-12 | 28 | - | 
 | 2023-03-11 | 28 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 28 | - | 
 | 2023-02-15 | 28 | - | 
 | 2023-02-14 | 28 | - | 
-| 2023-02-13 | 28 | - | 
 

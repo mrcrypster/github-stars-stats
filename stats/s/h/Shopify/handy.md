@@ -1,10 +1,10 @@
 # Shopify/handy - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 9
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/Shopify/handy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 116 | 9 | 
 | 2023-03-13 | 115 | 9 | 
 | 2023-03-12 | 115 | 9 | 
 | 2023-03-11 | 115 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 109 | 9 | 
 | 2023-02-15 | 109 | 9 | 
 | 2023-02-14 | 109 | 9 | 
-| 2023-02-13 | 109 | 9 | 
 

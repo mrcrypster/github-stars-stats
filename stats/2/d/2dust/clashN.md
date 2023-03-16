@@ -1,10 +1,10 @@
 # 2dust/clashN - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 169
 
-★ Stars: 1498
+★ Stars: 1505
 
 [Open repository](https://github.com/2dust/clashN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1505 | 169 | 
 | 2023-03-13 | 1498 | 169 | 
 | 2023-03-12 | 1495 | 169 | 
 | 2023-03-11 | 1490 | 168 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1400 | 156 | 
 | 2023-02-15 | 1393 | 156 | 
 | 2023-02-14 | 1385 | 155 | 
-| 2023-02-13 | 1378 | 155 | 
 

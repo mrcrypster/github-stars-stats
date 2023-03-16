@@ -1,6 +1,6 @@
 # remoteoss/swoosh_gallery - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 33 | 7 | 
 | 2023-03-13 | 33 | 7 | 
 | 2023-03-12 | 33 | 7 | 
 | 2023-03-11 | 33 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 32 | 6 | 
 | 2023-02-16 | 32 | 6 | 
 | 2023-02-15 | 32 | 6 | 
-| 2023-02-14 | 32 | 6 | 
 

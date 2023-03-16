@@ -1,10 +1,10 @@
 # appwrite/octernships - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 13
+☋ Forks: 17
 
-★ Stars: 35
+★ Stars: 46
 
 [Open repository](https://github.com/appwrite/octernships)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 46 | 17 | 
 | 2023-03-14 | 35 | 13 | 
 | 2023-03-13 | 35 | 13 | 
 

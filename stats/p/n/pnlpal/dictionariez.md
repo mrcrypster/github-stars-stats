@@ -1,10 +1,10 @@
 # pnlpal/dictionariez - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 21
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/pnlpal/dictionariez)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 343 | 21 | 
 | 2023-03-14 | 342 | 21 | 
 | 2023-03-13 | 341 | 21 | 
 | 2023-03-12 | 341 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 331 | 20 | 
 | 2023-02-16 | 331 | 20 | 
 | 2023-02-14 | 331 | 20 | 
-| 2023-02-13 | 331 | 20 | 
 

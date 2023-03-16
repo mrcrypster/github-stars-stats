@@ -1,10 +1,10 @@
 # OliverBrotchie/CSS-Fingerprint - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 19
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/OliverBrotchie/CSS-Fingerprint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 240 | 19 | 
 | 2023-03-13 | 239 | 19 | 
 | 2023-03-12 | 238 | 19 | 
 | 2023-03-11 | 238 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 241 | 18 | 
 | 2023-02-15 | 241 | 17 | 
 | 2023-02-14 | 241 | 17 | 
-| 2023-02-13 | 241 | 17 | 
 

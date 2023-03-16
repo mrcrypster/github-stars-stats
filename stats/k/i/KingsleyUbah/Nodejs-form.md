@@ -1,10 +1,10 @@
 # KingsleyUbah/Nodejs-form - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 9
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/KingsleyUbah/Nodejs-form)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4 | 9 | 
 | 2023-03-13 | 3 | 9 | 
 | 2023-03-12 | 3 | 9 | 
 | 2023-03-11 | 3 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3 | 7 | 
 | 2023-02-15 | 3 | 7 | 
 | 2023-02-14 | 3 | 7 | 
-| 2023-02-13 | 3 | 7 | 
 

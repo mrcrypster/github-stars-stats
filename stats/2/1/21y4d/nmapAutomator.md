@@ -1,8 +1,8 @@
 # 21y4d/nmapAutomator - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 692
+☋ Forks: 693
 
 ★ Stars: 2137
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2137 | 693 | 
 | 2023-03-13 | 2137 | 692 | 
 | 2023-03-12 | 2134 | 691 | 
 | 2023-03-11 | 2134 | 692 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2110 | 689 | 
 | 2023-02-15 | 2108 | 688 | 
 | 2023-02-14 | 2108 | 687 | 
-| 2023-02-13 | 2107 | 688 | 
 

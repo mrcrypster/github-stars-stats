@@ -1,10 +1,10 @@
 # luizdepra/hugo-coder - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 915
+☋ Forks: 916
 
-★ Stars: 2224
+★ Stars: 2227
 
 [Open repository](https://github.com/luizdepra/hugo-coder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2227 | 916 | 
 | 2023-03-14 | 2224 | 915 | 
 | 2023-03-13 | 2221 | 915 | 
 | 2023-03-12 | 2221 | 915 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2196 | 906 | 
 | 2023-02-15 | 2195 | 905 | 
 | 2023-02-14 | 2192 | 903 | 
-| 2023-02-13 | 2190 | 903 | 
 

@@ -1,10 +1,10 @@
 # sourceryinstitute/OpenCoarrays - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 56
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/sourceryinstitute/OpenCoarrays)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 209 | 56 | 
 | 2023-03-14 | 208 | 56 | 
 | 2023-03-13 | 208 | 56 | 
 | 2023-03-11 | 208 | 56 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 206 | 56 | 
 | 2023-02-15 | 205 | 55 | 
 | 2023-02-14 | 205 | 55 | 
-| 2023-02-13 | 205 | 54 | 
 

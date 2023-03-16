@@ -1,6 +1,6 @@
 # QuickChick/QuickChick - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 226 | 40 | 
 | 2023-03-14 | 226 | 40 | 
 | 2023-03-13 | 225 | 40 | 
 | 2023-03-12 | 225 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 223 | 37 | 
 | 2023-02-15 | 223 | 37 | 
 | 2023-02-14 | 223 | 37 | 
-| 2023-02-13 | 223 | 37 | 
 

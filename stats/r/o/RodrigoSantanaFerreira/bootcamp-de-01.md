@@ -1,6 +1,6 @@
 # RodrigoSantanaFerreira/bootcamp-de-01 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 38 | 34 | 
 | 2023-03-13 | 38 | 34 | 
 | 2023-03-12 | 38 | 34 | 
 | 2023-03-11 | 37 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 37 | 34 | 
 | 2023-02-15 | 33 | 30 | 
 | 2023-02-14 | 33 | 30 | 
-| 2023-02-13 | 33 | 28 | 
 

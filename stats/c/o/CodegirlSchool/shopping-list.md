@@ -1,6 +1,6 @@
 # CodegirlSchool/shopping-list - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | - | 47 | 
 | 2023-03-13 | - | 47 | 
 | 2023-03-12 | - | 47 | 
 | 2023-03-11 | - | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | - | 45 | 
 | 2023-02-15 | - | 45 | 
 | 2023-02-14 | - | 45 | 
-| 2023-02-13 | - | 45 | 
 

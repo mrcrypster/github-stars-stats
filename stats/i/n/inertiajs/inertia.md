@@ -1,10 +1,10 @@
 # inertiajs/inertia - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 316
+☋ Forks: 318
 
-★ Stars: 4889
+★ Stars: 4893
 
 [Open repository](https://github.com/inertiajs/inertia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4893 | 318 | 
 | 2023-03-14 | 4889 | 316 | 
 | 2023-03-12 | 4889 | 316 | 
 | 2023-03-11 | 4883 | 316 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 4841 | 310 | 
 | 2023-02-15 | 4838 | 310 | 
 | 2023-02-14 | 4835 | 309 | 
-| 2023-02-13 | 4830 | 309 | 
 

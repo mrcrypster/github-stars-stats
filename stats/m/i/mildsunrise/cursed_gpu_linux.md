@@ -1,6 +1,6 @@
 # mildsunrise/cursed_gpu_linux - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 71 | 11 | 
 | 2023-03-14 | 71 | 11 | 
 | 2023-03-13 | 71 | 11 | 
 | 2023-03-12 | 71 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 69 | 11 | 
 | 2023-02-15 | 69 | 11 | 
 | 2023-02-14 | 69 | 11 | 
-| 2023-02-13 | 69 | 11 | 
 

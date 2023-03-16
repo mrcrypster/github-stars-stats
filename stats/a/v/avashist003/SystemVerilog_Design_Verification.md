@@ -1,6 +1,6 @@
 # avashist003/SystemVerilog_Design_Verification - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 16 | 3 | 
 | 2023-03-14 | 16 | 3 | 
 | 2023-03-12 | 16 | 3 | 
 | 2023-03-11 | 16 | 3 | 

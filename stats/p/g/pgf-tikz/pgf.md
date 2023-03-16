@@ -1,6 +1,6 @@
 # pgf-tikz/pgf - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 874 | 93 | 
 | 2023-03-13 | 874 | 93 | 
 | 2023-03-12 | 874 | 93 | 
 | 2023-03-11 | 874 | 93 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 869 | 92 | 
 | 2023-02-15 | 869 | 92 | 
 | 2023-02-14 | 868 | 92 | 
-| 2023-02-13 | 864 | 92 | 
 

@@ -1,8 +1,8 @@
 # faraday-academy/curriculum-app - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 171
+☋ Forks: 172
 
 ★ Stars: 119
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 119 | 172 | 
 | 2023-03-13 | 119 | 171 | 
 | 2023-03-12 | 119 | 171 | 
 | 2023-03-11 | 119 | 172 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 117 | 162 | 
 | 2023-02-15 | 116 | 162 | 
 | 2023-02-14 | 116 | 162 | 
-| 2023-02-13 | 116 | 161 | 
 

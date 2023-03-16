@@ -1,10 +1,10 @@
 # Notsfsssf/pixez-flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 230
 
-★ Stars: 4773
+★ Stars: 4778
 
 [Open repository](https://github.com/Notsfsssf/pixez-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4778 | 230 | 
 | 2023-03-14 | 4773 | 230 | 
 | 2023-03-13 | 4774 | 230 | 
 | 2023-03-12 | 4771 | 230 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 4651 | 227 | 
 | 2023-02-15 | 4648 | 227 | 
 | 2023-02-14 | 4638 | 227 | 
-| 2023-02-13 | 4636 | 227 | 
 

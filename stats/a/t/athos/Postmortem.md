@@ -1,6 +1,6 @@
 # athos/Postmortem - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 150 | 2 | 
 | 2023-03-14 | 150 | 2 | 
 | 2023-03-12 | 151 | 2 | 
 | 2023-03-11 | 150 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 149 | 2 | 
 | 2023-02-15 | 149 | 2 | 
 | 2023-02-14 | 149 | 2 | 
-| 2023-02-13 | 149 | 2 | 
 

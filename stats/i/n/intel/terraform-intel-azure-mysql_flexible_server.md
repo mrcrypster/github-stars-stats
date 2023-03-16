@@ -1,6 +1,6 @@
 # intel/terraform-intel-azure-mysql_flexible_server - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 14 | - | 
 | 2023-03-13 | 14 | - | 
 | 2023-03-12 | 14 | - | 
 | 2023-03-11 | 14 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 13 | - | 
 | 2023-02-16 | 13 | - | 
 | 2023-02-14 | 13 | - | 
-| 2023-02-13 | 13 | - | 
 

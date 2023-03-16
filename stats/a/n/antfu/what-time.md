@@ -1,6 +1,6 @@
 # antfu/what-time - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 170 | 7 | 
 | 2023-03-14 | 170 | 7 | 
 | 2023-03-13 | 170 | 7 | 
 | 2023-03-11 | 170 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 167 | 6 | 
 | 2023-02-16 | 167 | 6 | 
 | 2023-02-15 | 167 | 6 | 
-| 2023-02-13 | 167 | 6 | 
 

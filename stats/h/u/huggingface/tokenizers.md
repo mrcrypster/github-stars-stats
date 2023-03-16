@@ -1,10 +1,10 @@
 # huggingface/tokenizers - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 558
+☋ Forks: 559
 
-★ Stars: 6552
+★ Stars: 6558
 
 [Open repository](https://github.com/huggingface/tokenizers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 6558 | 559 | 
 | 2023-03-13 | 6552 | 558 | 
 | 2023-03-12 | 6549 | 557 | 
 | 2023-03-11 | 6541 | 557 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 6404 | 544 | 
 | 2023-02-15 | 6403 | 544 | 
 | 2023-02-14 | 6400 | 545 | 
-| 2023-02-13 | 6395 | 546 | 
 

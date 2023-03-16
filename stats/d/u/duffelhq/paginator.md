@@ -1,10 +1,10 @@
 # duffelhq/paginator - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 65
 
-★ Stars: 615
+★ Stars: 617
 
 [Open repository](https://github.com/duffelhq/paginator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 617 | 65 | 
 | 2023-03-14 | 615 | 65 | 
 | 2023-03-13 | 613 | 65 | 
 | 2023-03-11 | 613 | 65 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 605 | 64 | 
 | 2023-02-15 | 604 | 64 | 
 | 2023-02-14 | 603 | 64 | 
-| 2023-02-13 | 603 | 64 | 
 

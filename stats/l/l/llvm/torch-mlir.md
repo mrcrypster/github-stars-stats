@@ -1,10 +1,10 @@
 # llvm/torch-mlir - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 203
+☋ Forks: 204
 
-★ Stars: 728
+★ Stars: 732
 
 [Open repository](https://github.com/llvm/torch-mlir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 732 | 204 | 
 | 2023-03-13 | 728 | 203 | 
 | 2023-03-12 | 725 | 200 | 
 | 2023-03-11 | 724 | 199 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 696 | 189 | 
 | 2023-02-15 | 697 | 189 | 
 | 2023-02-14 | 696 | 187 | 
-| 2023-02-13 | 696 | 186 | 
 

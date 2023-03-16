@@ -1,10 +1,10 @@
 # itm4n/VBA-RunPE - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 186
 
-★ Stars: 728
+★ Stars: 729
 
 [Open repository](https://github.com/itm4n/VBA-RunPE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 729 | 186 | 
 | 2023-03-14 | 728 | 186 | 
 | 2023-03-13 | 728 | 186 | 
 | 2023-03-12 | 728 | 186 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 727 | 185 | 
 | 2023-02-15 | 726 | 185 | 
 | 2023-02-14 | 726 | 185 | 
-| 2023-02-13 | 726 | 185 | 
 

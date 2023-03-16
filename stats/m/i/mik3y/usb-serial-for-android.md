@@ -1,10 +1,10 @@
 # mik3y/usb-serial-for-android - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1435
+☋ Forks: 1436
 
-★ Stars: 3942
+★ Stars: 3946
 
 [Open repository](https://github.com/mik3y/usb-serial-for-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3946 | 1436 | 
 | 2023-03-14 | 3942 | 1435 | 
 | 2023-03-13 | 3938 | 1432 | 
 | 2023-03-12 | 3934 | 1432 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 3895 | 1426 | 
 | 2023-02-16 | 3894 | 1426 | 
 | 2023-02-15 | 3894 | 1425 | 
-| 2023-02-13 | 3891 | 1425 | 
 

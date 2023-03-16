@@ -1,10 +1,10 @@
 # spack/spack - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1842
+☋ Forks: 1844
 
-★ Stars: 3247
+★ Stars: 3249
 
 [Open repository](https://github.com/spack/spack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3249 | 1844 | 
 | 2023-03-14 | 3247 | 1842 | 
 | 2023-03-12 | 3245 | 1841 | 
 | 2023-03-11 | 3247 | 1840 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3199 | 1827 | 
 | 2023-02-15 | 3196 | 1826 | 
 | 2023-02-14 | 3196 | 1824 | 
-| 2023-02-13 | 3191 | 1821 | 
 

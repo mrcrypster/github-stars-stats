@@ -1,6 +1,6 @@
 # heathbm/BatchPool - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 171 | 7 | 
 | 2023-03-13 | 171 | 7 | 
 | 2023-03-12 | 170 | 7 | 
 | 2023-03-11 | 170 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 170 | 7 | 
 | 2023-02-15 | 170 | 7 | 
 | 2023-02-14 | 170 | 7 | 
-| 2023-02-13 | 170 | 7 | 
 

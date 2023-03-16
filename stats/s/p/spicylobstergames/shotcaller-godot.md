@@ -1,6 +1,6 @@
 # spicylobstergames/shotcaller-godot - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 111 | 19 | 
 | 2023-03-14 | 111 | 19 | 
 | 2023-03-13 | 109 | 19 | 
 | 2023-03-11 | 109 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 101 | 19 | 
 | 2023-02-16 | 101 | 19 | 
 | 2023-02-14 | 101 | 19 | 
-| 2023-02-13 | 101 | 19 | 
 

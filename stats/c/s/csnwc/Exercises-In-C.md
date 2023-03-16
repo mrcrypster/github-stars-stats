@@ -1,6 +1,6 @@
 # csnwc/Exercises-In-C - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 30 | 16 | 
 | 2023-03-14 | 30 | 16 | 
 | 2023-03-12 | 30 | 16 | 
 | 2023-03-11 | 30 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 30 | 16 | 
 | 2023-02-15 | 30 | 16 | 
 | 2023-02-14 | 30 | 16 | 
-| 2023-02-13 | 30 | 16 | 
 

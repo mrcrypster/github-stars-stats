@@ -1,10 +1,10 @@
 # devcontainers/cli - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 68
 
-★ Stars: 635
+★ Stars: 637
 
 [Open repository](https://github.com/devcontainers/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 637 | 68 | 
 | 2023-03-14 | 635 | 68 | 
 | 2023-03-12 | 632 | 68 | 
 | 2023-03-11 | 631 | 68 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 581 | 63 | 
 | 2023-02-15 | 578 | 63 | 
 | 2023-02-14 | 576 | 62 | 
-| 2023-02-13 | 574 | 62 | 
 

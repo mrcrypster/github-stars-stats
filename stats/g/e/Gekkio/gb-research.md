@@ -1,6 +1,6 @@
 # Gekkio/gb-research - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 209 | 7 | 
 | 2023-03-13 | 209 | 7 | 
 | 2023-03-12 | 209 | 7 | 
 | 2023-03-11 | 207 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 206 | 7 | 
 | 2023-02-15 | 206 | 7 | 
 | 2023-02-14 | 206 | 7 | 
-| 2023-02-13 | 206 | 7 | 
 

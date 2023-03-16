@@ -1,10 +1,10 @@
 # CRImier/MyKiCad - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/CRImier/MyKiCad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 67 | 4 | 
 | 2023-03-14 | 66 | 3 | 
 | 2023-03-13 | 66 | 3 | 
 | 2023-03-11 | 66 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 63 | 3 | 
 | 2023-02-15 | 63 | 3 | 
 | 2023-02-14 | 63 | 3 | 
-| 2023-02-13 | 63 | 3 | 
 

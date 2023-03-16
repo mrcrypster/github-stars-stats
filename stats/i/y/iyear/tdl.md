@@ -1,6 +1,6 @@
 # iyear/tdl - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1090 | 146 | 
 | 2023-03-14 | 1090 | 146 | 
 | 2023-03-12 | 1036 | 143 | 
 | 2023-03-11 | 1033 | 142 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 933 | 130 | 
 | 2023-02-16 | 927 | 130 | 
 | 2023-02-14 | 922 | 130 | 
-| 2023-02-13 | 919 | 129 | 
 

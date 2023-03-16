@@ -1,6 +1,6 @@
 # yyx990803/vite-vs-next-turbo-hmr - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 896 | 31 | 
 | 2023-03-14 | 896 | 31 | 
 | 2023-03-13 | 896 | 31 | 
 | 2023-03-12 | 895 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 891 | 29 | 
 | 2023-02-15 | 890 | 28 | 
 | 2023-02-14 | 890 | 28 | 
-| 2023-02-13 | 890 | 29 | 
 

@@ -1,10 +1,10 @@
 # apache/shardingsphere - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 6222
+☋ Forks: 6223
 
-★ Stars: 18077
+★ Stars: 18080
 
 [Open repository](https://github.com/apache/shardingsphere)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 18080 | 6223 | 
 | 2023-03-14 | 18077 | 6222 | 
 | 2023-03-13 | 18070 | 6222 | 
 | 2023-03-12 | 18064 | 6218 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 17983 | 6184 | 
 | 2023-02-15 | 17972 | 6182 | 
 | 2023-02-14 | 17969 | 6182 | 
-| 2023-02-13 | 17963 | 6182 | 
 

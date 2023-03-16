@@ -1,10 +1,10 @@
 # quasarframework/quasar - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 3113
+☋ Forks: 3114
 
-★ Stars: 23025
+★ Stars: 23034
 
 [Open repository](https://github.com/quasarframework/quasar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 23034 | 3114 | 
 | 2023-03-13 | 23025 | 3113 | 
 | 2023-03-12 | 23012 | 3113 | 
 | 2023-03-11 | 23009 | 3113 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 22866 | 3089 | 
 | 2023-02-15 | 22858 | 3088 | 
 | 2023-02-14 | 22852 | 3089 | 
-| 2023-02-13 | 22841 | 3089 | 
 

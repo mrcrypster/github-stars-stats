@@ -1,10 +1,10 @@
 # ksylor/ohshitgit - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 150
 
-★ Stars: 1077
+★ Stars: 1078
 
 [Open repository](https://github.com/ksylor/ohshitgit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1078 | 150 | 
 | 2023-03-13 | 1077 | 150 | 
 | 2023-03-12 | 1077 | 150 | 
 | 2023-03-11 | 1077 | 150 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1065 | 150 | 
 | 2023-02-15 | 1064 | 150 | 
 | 2023-02-14 | 1063 | 150 | 
-| 2023-02-13 | 1063 | 150 | 
 

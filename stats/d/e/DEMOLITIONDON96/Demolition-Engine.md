@@ -1,10 +1,10 @@
 # DEMOLITIONDON96/Demolition-Engine - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/DEMOLITIONDON96/Demolition-Engine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 11 | 12 | 
 | 2023-03-14 | 12 | 12 | 
 | 2023-03-12 | 12 | 12 | 
 | 2023-03-11 | 12 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 12 | 11 | 
 | 2023-02-15 | 12 | 11 | 
 | 2023-02-14 | 12 | 11 | 
-| 2023-02-13 | 12 | 10 | 
 

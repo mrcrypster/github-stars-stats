@@ -1,6 +1,6 @@
 # linuxserver/docker-emulatorjs - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 275 | 24 | 
 | 2023-03-14 | 275 | 24 | 
 | 2023-03-13 | 274 | 24 | 
 | 2023-03-12 | 273 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 269 | 24 | 
 | 2023-02-15 | 267 | 23 | 
 | 2023-02-14 | 266 | 22 | 
-| 2023-02-13 | 265 | 22 | 
 

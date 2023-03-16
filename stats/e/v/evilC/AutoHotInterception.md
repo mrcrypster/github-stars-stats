@@ -1,10 +1,10 @@
 # evilC/AutoHotInterception - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 48
 
-★ Stars: 452
+★ Stars: 453
 
 [Open repository](https://github.com/evilC/AutoHotInterception)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 453 | 48 | 
 | 2023-03-14 | 452 | 48 | 
 | 2023-03-12 | 451 | 48 | 
 | 2023-03-11 | 449 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 446 | 47 | 
 | 2023-02-15 | 444 | 47 | 
 | 2023-02-14 | 442 | 47 | 
-| 2023-02-13 | 442 | 47 | 
 

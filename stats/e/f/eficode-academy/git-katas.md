@@ -1,10 +1,10 @@
 # eficode-academy/git-katas - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 665
 
-★ Stars: 860
+★ Stars: 863
 
 [Open repository](https://github.com/eficode-academy/git-katas)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 863 | 665 | 
 | 2023-03-14 | 860 | 665 | 
 | 2023-03-13 | 858 | 663 | 
 | 2023-03-11 | 858 | 661 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 844 | 651 | 
 | 2023-02-15 | 844 | 651 | 
 | 2023-02-14 | 843 | 651 | 
-| 2023-02-13 | 842 | 649 | 
 

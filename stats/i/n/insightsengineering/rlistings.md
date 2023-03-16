@@ -1,10 +1,10 @@
 # insightsengineering/rlistings - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/insightsengineering/rlistings)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 9 | 3 | 
 | 2023-03-14 | 8 | 2 | 
 | 2023-03-12 | 8 | 2 | 
 | 2023-03-11 | 8 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 7 | 2 | 
 | 2023-02-15 | 7 | 2 | 
 | 2023-02-14 | 7 | 2 | 
-| 2023-02-13 | 7 | 2 | 
 

@@ -1,10 +1,10 @@
 # Gabriella439/nix-diff - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 222
+★ Stars: 223
 
 [Open repository](https://github.com/Gabriella439/nix-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 223 | 15 | 
 | 2023-03-13 | 222 | 15 | 
 | 2023-03-12 | 222 | 15 | 
 | 2023-03-11 | 222 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 215 | 14 | 
 | 2023-02-15 | 215 | 14 | 
 | 2023-02-14 | 215 | 14 | 
-| 2023-02-13 | 215 | 14 | 
 

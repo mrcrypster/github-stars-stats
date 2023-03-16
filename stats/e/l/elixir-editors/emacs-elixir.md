@@ -1,10 +1,10 @@
 # elixir-editors/emacs-elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 92
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/elixir-editors/emacs-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 434 | 92 | 
 | 2023-03-14 | 433 | 92 | 
 | 2023-03-12 | 433 | 92 | 
 | 2023-03-11 | 433 | 92 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 431 | 92 | 
 | 2023-02-16 | 432 | 92 | 
 | 2023-02-15 | 432 | 92 | 
-| 2023-02-14 | 432 | 92 | 
 

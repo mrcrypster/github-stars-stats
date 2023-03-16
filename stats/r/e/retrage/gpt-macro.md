@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 315
+★ Stars: 351
 
 [Open repository](https://github.com/retrage/gpt-macro)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 315 | 7 | 
+| 2023-03-15 | 351 | 7 | 
 | 2023-03-14 | 307 | 7 | 
 

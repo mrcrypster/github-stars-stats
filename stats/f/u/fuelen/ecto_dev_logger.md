@@ -1,10 +1,10 @@
 # fuelen/ecto_dev_logger - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/fuelen/ecto_dev_logger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 128 | 10 | 
 | 2023-03-14 | 127 | 10 | 
 | 2023-03-13 | 127 | 10 | 
 | 2023-03-11 | 126 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 126 | 10 | 
 | 2023-02-16 | 125 | 10 | 
 | 2023-02-15 | 125 | 10 | 
-| 2023-02-14 | 125 | 10 | 
 

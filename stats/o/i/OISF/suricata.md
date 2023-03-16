@@ -1,10 +1,10 @@
 # OISF/suricata - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1216
 
-★ Stars: 3030
+★ Stars: 3032
 
 [Open repository](https://github.com/OISF/suricata)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3032 | 1216 | 
 | 2023-03-13 | 3030 | 1216 | 
 | 2023-03-12 | 3028 | 1213 | 
 | 2023-03-11 | 3025 | 1211 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2982 | 1197 | 
 | 2023-02-15 | 2981 | 1197 | 
 | 2023-02-14 | 2980 | 1197 | 
-| 2023-02-13 | 2977 | 1197 | 
 

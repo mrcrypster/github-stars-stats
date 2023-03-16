@@ -1,6 +1,6 @@
 # metacpan/metacpan-web - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 396 | 250 | 
 | 2023-03-14 | 396 | 250 | 
 | 2023-03-12 | 396 | 250 | 
 | 2023-03-11 | 396 | 250 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 399 | 250 | 
 | 2023-02-15 | 399 | 250 | 
 | 2023-02-14 | 399 | 250 | 
-| 2023-02-13 | 399 | 250 | 
 

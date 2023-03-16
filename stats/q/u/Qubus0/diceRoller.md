@@ -1,10 +1,10 @@
 # Qubus0/diceRoller - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Qubus0/diceRoller)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 22 | 3 | 
 | 2023-03-14 | 21 | 3 | 
 | 2023-03-13 | 21 | 3 | 
 | 2023-03-12 | 21 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 20 | 3 | 
 | 2023-02-16 | 20 | 3 | 
 | 2023-02-15 | 20 | 3 | 
-| 2023-02-14 | 20 | 3 | 
 

@@ -1,6 +1,6 @@
 # casr/vim-colors-reference - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 55 | - | 
 | 2023-03-14 | 55 | - | 
 | 2023-03-13 | 55 | - | 
 | 2023-03-12 | 55 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 55 | - | 
 | 2023-02-15 | 55 | - | 
 | 2023-02-14 | 55 | - | 
-| 2023-02-13 | 55 | - | 
 

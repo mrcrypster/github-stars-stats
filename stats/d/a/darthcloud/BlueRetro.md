@@ -1,10 +1,10 @@
 # darthcloud/BlueRetro - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 62
 
-★ Stars: 761
+★ Stars: 764
 
 [Open repository](https://github.com/darthcloud/BlueRetro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 764 | 62 | 
 | 2023-03-13 | 761 | 62 | 
 | 2023-03-12 | 761 | 60 | 
 | 2023-03-11 | 760 | 59 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 739 | 58 | 
 | 2023-02-15 | 733 | 57 | 
 | 2023-02-14 | 732 | 57 | 
-| 2023-02-13 | 729 | 56 | 
 

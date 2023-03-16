@@ -1,10 +1,10 @@
 # Tencent/omi - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1257
+☋ Forks: 1256
 
-★ Stars: 12537
+★ Stars: 12536
 
 [Open repository](https://github.com/Tencent/omi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 12536 | 1256 | 
 | 2023-03-14 | 12537 | 1257 | 
 | 2023-03-13 | 12535 | 1257 | 
 | 2023-03-11 | 12538 | 1257 | 

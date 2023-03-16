@@ -1,10 +1,10 @@
 # superblocksteam/agent - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/superblocksteam/agent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 31 | 4 | 
 | 2023-03-14 | 30 | 3 | 
 | 2023-03-12 | 30 | 2 | 
 | 2023-03-11 | 30 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 30 | 2 | 
 | 2023-02-16 | 30 | 2 | 
 | 2023-02-15 | 30 | 2 | 
-| 2023-02-14 | 30 | 2 | 
 

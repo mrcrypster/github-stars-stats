@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 160
 
-★ Stars: 6401
+★ Stars: 6412
 
 [Open repository](https://github.com/ClementTsang/bottom)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 6401 | 160 | 
+| 2023-03-15 | 6412 | 160 | 
 | 2023-03-14 | 6398 | 160 | 
 | 2023-03-13 | 6372 | 160 | 
 | 2023-03-11 | 6359 | 159 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 6166 | 157 | 
 | 2023-02-15 | 6157 | 157 | 
 | 2023-02-14 | 6144 | 157 | 
-| 2023-02-13 | 6136 | 157 | 
 

@@ -1,6 +1,6 @@
 # ZohaibAhmed/ChatGPT-Google - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 462 | 42 | 
 | 2023-03-14 | 462 | 42 | 
 | 2023-03-12 | 462 | 42 | 
 | 2023-03-11 | 462 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 452 | 38 | 
 | 2023-02-16 | 450 | 38 | 
 | 2023-02-15 | 448 | 37 | 
-| 2023-02-14 | 447 | 37 | 
 

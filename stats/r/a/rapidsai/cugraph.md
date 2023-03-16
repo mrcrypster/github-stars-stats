@@ -1,10 +1,10 @@
 # rapidsai/cugraph - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 235
 
-★ Stars: 1224
+★ Stars: 1226
 
 [Open repository](https://github.com/rapidsai/cugraph)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1226 | 235 | 
 | 2023-03-14 | 1224 | 235 | 
 | 2023-03-13 | 1223 | 235 | 
 | 2023-03-12 | 1222 | 233 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1210 | 230 | 
 | 2023-02-16 | 1210 | 230 | 
 | 2023-02-14 | 1210 | 230 | 
-| 2023-02-13 | 1209 | 230 | 
 

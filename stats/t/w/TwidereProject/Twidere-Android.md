@@ -1,6 +1,6 @@
 # TwidereProject/Twidere-Android - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2715 | 387 | 
 | 2023-03-14 | 2715 | 387 | 
 | 2023-03-12 | 2716 | 387 | 
 | 2023-03-11 | 2715 | 387 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2715 | 387 | 
 | 2023-02-15 | 2714 | 387 | 
 | 2023-02-14 | 2713 | 387 | 
-| 2023-02-13 | 2713 | 387 | 
 

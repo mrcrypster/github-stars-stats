@@ -1,6 +1,6 @@
 # StartBootstrap/startbootstrap-clean-blog - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1832
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1697 | 1832 | 
 | 2023-03-14 | 1697 | 1832 | 
 | 2023-03-13 | 1696 | 1830 | 
 | 2023-03-12 | 1695 | 1828 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1689 | 1821 | 
 | 2023-02-16 | 1690 | 1821 | 
 | 2023-02-15 | 1691 | 1821 | 
-| 2023-02-14 | 1691 | 1821 | 
 

@@ -1,8 +1,8 @@
 # githubharald/SimpleHTR - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 788
+☋ Forks: 789
 
 ★ Stars: 1609
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1609 | 789 | 
 | 2023-03-14 | 1609 | 788 | 
 | 2023-03-12 | 1609 | 788 | 
 | 2023-03-11 | 1609 | 787 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1595 | 781 | 
 | 2023-02-16 | 1592 | 781 | 
 | 2023-02-15 | 1591 | 780 | 
-| 2023-02-14 | 1591 | 780 | 
 

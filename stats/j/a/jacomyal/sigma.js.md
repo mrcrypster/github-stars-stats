@@ -1,6 +1,6 @@
 # jacomyal/sigma.js - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1577
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 10479 | 1577 | 
 | 2023-03-14 | 10479 | 1577 | 
 | 2023-03-13 | 10476 | 1577 | 
 | 2023-03-12 | 10475 | 1577 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 10414 | 1572 | 
 | 2023-02-15 | 10412 | 1573 | 
 | 2023-02-14 | 10410 | 1572 | 
-| 2023-02-13 | 10409 | 1572 | 
 

@@ -1,6 +1,6 @@
 # ferum-dex/ferum-std - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 20 | 3 | 
 | 2023-03-13 | 20 | 3 | 
 | 2023-03-12 | 20 | 3 | 
 | 2023-03-11 | 21 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 21 | 3 | 
 | 2023-02-16 | 21 | 3 | 
 | 2023-02-15 | 21 | 3 | 
-| 2023-02-14 | 21 | 3 | 
 

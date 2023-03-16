@@ -1,6 +1,6 @@
 # urwithajit9/ClaMP - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 65 | 28 | 
 | 2023-03-13 | 65 | 28 | 
 | 2023-03-12 | 65 | 28 | 
 | 2023-03-11 | 65 | 28 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 121
+☋ Forks: 123
 
-★ Stars: 903
+★ Stars: 911
 
 [Open repository](https://github.com/getaurora/download)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 903 | 121 | 
+| 2023-03-15 | 911 | 123 | 
 | 2023-03-14 | 901 | 121 | 
 | 2023-03-13 | 888 | 121 | 
 | 2023-03-12 | 790 | 109 | 

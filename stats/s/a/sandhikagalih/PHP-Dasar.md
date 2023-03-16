@@ -1,8 +1,8 @@
 # sandhikagalih/PHP-Dasar - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 360
+☋ Forks: 361
 
 ★ Stars: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 180 | 361 | 
 | 2023-03-14 | 180 | 360 | 
 | 2023-03-13 | 180 | 360 | 
 | 2023-03-11 | 179 | 358 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 171 | 343 | 
 | 2023-02-15 | 171 | 344 | 
 | 2023-02-14 | 171 | 344 | 
-| 2023-02-13 | 171 | 344 | 
 

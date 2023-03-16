@@ -1,10 +1,10 @@
 # abishekvashok/cmatrix - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 315
 
-★ Stars: 3135
+★ Stars: 3139
 
 [Open repository](https://github.com/abishekvashok/cmatrix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3139 | 315 | 
 | 2023-03-14 | 3135 | 315 | 
 | 2023-03-13 | 3131 | 315 | 
 | 2023-03-12 | 3129 | 315 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3082 | 314 | 
 | 2023-02-15 | 3078 | 314 | 
 | 2023-02-14 | 3076 | 314 | 
-| 2023-02-13 | 3075 | 314 | 
 

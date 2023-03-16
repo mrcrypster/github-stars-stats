@@ -1,10 +1,10 @@
 # alexbatalov/fallout2-ce - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 626
+★ Stars: 627
 
 [Open repository](https://github.com/alexbatalov/fallout2-ce)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 627 | 55 | 
 | 2023-03-14 | 626 | 54 | 
 | 2023-03-13 | 625 | 53 | 
 | 2023-03-12 | 624 | 53 | 

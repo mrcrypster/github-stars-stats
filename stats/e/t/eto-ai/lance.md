@@ -1,10 +1,10 @@
 # eto-ai/lance - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 43
 
-★ Stars: 1134
+★ Stars: 1150
 
 [Open repository](https://github.com/eto-ai/lance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1150 | 43 | 
 | 2023-03-13 | 1134 | 43 | 
 | 2023-03-12 | 1131 | 43 | 
 | 2023-03-11 | 1129 | 43 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 882 | 31 | 
 | 2023-02-15 | 858 | 31 | 
 | 2023-02-14 | 818 | 29 | 
-| 2023-02-13 | 795 | 28 | 
 

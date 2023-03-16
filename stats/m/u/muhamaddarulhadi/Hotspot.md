@@ -1,6 +1,6 @@
 # muhamaddarulhadi/Hotspot - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 80 | 35 | 
 | 2023-03-14 | 80 | 35 | 
 | 2023-03-12 | 79 | 35 | 
 | 2023-03-11 | 79 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 78 | 34 | 
 | 2023-02-15 | 77 | 34 | 
 | 2023-02-14 | 76 | 33 | 
-| 2023-02-13 | 76 | 33 | 
 

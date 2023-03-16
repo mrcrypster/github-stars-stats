@@ -1,10 +1,10 @@
 # Andy8647/react-portfolio-template - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 47
+★ Stars: 52
 
 [Open repository](https://github.com/Andy8647/react-portfolio-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 52 | 12 | 
 | 2023-03-14 | 47 | 11 | 
 | 2023-03-13 | 38 | 6 | 
 

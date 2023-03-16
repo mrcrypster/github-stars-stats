@@ -1,10 +1,10 @@
 # sbwml/luci-app-mosdns - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 46
 
-★ Stars: 222
+★ Stars: 225
 
 [Open repository](https://github.com/sbwml/luci-app-mosdns)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 225 | 46 | 
 | 2023-03-14 | 222 | 46 | 
 | 2023-03-12 | 220 | 46 | 
 | 2023-03-11 | 220 | 47 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 202 | 41 | 
 | 2023-02-15 | 202 | 41 | 
 | 2023-02-14 | 201 | 41 | 
-| 2023-02-13 | 197 | 40 | 
 

@@ -1,10 +1,10 @@
 # PiMaker/rvc - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 18
 
-★ Stars: 604
+★ Stars: 605
 
 [Open repository](https://github.com/PiMaker/rvc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 605 | 18 | 
 | 2023-03-13 | 604 | 18 | 
 | 2023-03-12 | 604 | 18 | 
 | 2023-03-11 | 604 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 592 | 17 | 
 | 2023-02-15 | 591 | 17 | 
 | 2023-02-14 | 591 | 17 | 
-| 2023-02-13 | 591 | 17 | 
 

@@ -1,10 +1,10 @@
 # subframe7536/Maple-font - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 29
 
-★ Stars: 1636
+★ Stars: 1638
 
 [Open repository](https://github.com/subframe7536/Maple-font)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1638 | 29 | 
 | 2023-03-14 | 1636 | 29 | 
 | 2023-03-12 | 1633 | 29 | 
 | 2023-03-11 | 1633 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1570 | 29 | 
 | 2023-02-15 | 1568 | 29 | 
 | 2023-02-14 | 1566 | 29 | 
-| 2023-02-13 | 1564 | 29 | 
 

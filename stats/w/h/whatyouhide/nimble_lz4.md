@@ -1,10 +1,10 @@
 # whatyouhide/nimble_lz4 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/whatyouhide/nimble_lz4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 19 | 2 | 
 | 2023-03-13 | 18 | 1 | 
 | 2023-03-12 | 18 | 1 | 
 | 2023-03-11 | 18 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 18 | 1 | 
 | 2023-02-15 | 18 | 1 | 
 | 2023-02-14 | 18 | 1 | 
-| 2023-02-13 | 18 | 1 | 
 

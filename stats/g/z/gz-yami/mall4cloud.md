@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 1057
+☋ Forks: 1060
 
-★ Stars: 4363
+★ Stars: 4366
 
 [Open repository](https://github.com/gz-yami/mall4cloud)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 4363 | 1057 | 
+| 2023-03-15 | 4366 | 1060 | 
 | 2023-03-14 | 4362 | 1057 | 
 | 2023-03-12 | 4339 | 1054 | 
 | 2023-03-11 | 4334 | 1051 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 4156 | 989 | 
 | 2023-02-15 | 4150 | 985 | 
 | 2023-02-14 | 4142 | 980 | 
-| 2023-02-13 | 4123 | 972 | 
 

@@ -1,6 +1,6 @@
 # saifulcoder/laravel-whatsapp-server - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 377 | 212 | 
 | 2023-03-14 | 377 | 212 | 
 | 2023-03-13 | 377 | 210 | 
 | 2023-03-11 | 377 | 208 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 369 | 206 | 
 | 2023-02-15 | 369 | 206 | 
 | 2023-02-14 | 369 | 206 | 
-| 2023-02-13 | 369 | 206 | 
 

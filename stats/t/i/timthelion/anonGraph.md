@@ -1,0 +1,18 @@
+# timthelion/anonGraph - stars & forks statistics
+
+Stats updated on Mar 2023, 16
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/timthelion/anonGraph)
+
+[Open detailed stats for timthelion/anonGraph](https://reviewgithub.com/rep/timthelion/anonGraph)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-16 | - | - | 
+| 2023-03-15 | - | - | 
+

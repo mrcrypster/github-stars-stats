@@ -1,10 +1,10 @@
 # ruesandora/sui-devnet - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 331
 
-★ Stars: 144
+★ Stars: 143
 
 [Open repository](https://github.com/ruesandora/sui-devnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 143 | 331 | 
 | 2023-03-14 | 144 | 331 | 
 | 2023-03-13 | 144 | 331 | 
 | 2023-03-12 | 144 | 331 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 144 | 331 | 
 | 2023-02-15 | 144 | 331 | 
 | 2023-02-14 | 144 | 331 | 
-| 2023-02-13 | 144 | 331 | 
 

@@ -1,6 +1,6 @@
 # apache/incubator-pekko-persistence-r2dbc - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4 | 3 | 
 | 2023-03-14 | 4 | 3 | 
 | 2023-03-13 | 4 | 3 | 
 | 2023-03-12 | 4 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3 | 3 | 
 | 2023-02-15 | 3 | 3 | 
 | 2023-02-14 | 3 | 3 | 
-| 2023-02-13 | 3 | 3 | 
 

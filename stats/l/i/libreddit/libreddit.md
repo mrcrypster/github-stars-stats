@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 216
 
-★ Stars: 4209
+★ Stars: 4215
 
 [Open repository](https://github.com/libreddit/libreddit)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 4209 | 216 | 
+| 2023-03-15 | 4215 | 216 | 
 | 2023-03-14 | 4199 | 216 | 
 | 2023-03-12 | 4185 | 215 | 
 | 2023-03-11 | 4184 | 215 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 4106 | 213 | 
 | 2023-02-15 | 4103 | 213 | 
 | 2023-02-14 | 4102 | 213 | 
-| 2023-02-13 | 4099 | 213 | 
 

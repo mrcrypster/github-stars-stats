@@ -1,6 +1,6 @@
 # machengim/oasis - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 261 | 9 | 
 | 2023-03-14 | 261 | 9 | 
 | 2023-03-12 | 260 | 9 | 
 | 2023-03-11 | 259 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 255 | 8 | 
 | 2023-02-15 | 255 | 8 | 
 | 2023-02-14 | 253 | 8 | 
-| 2023-02-13 | 251 | 8 | 
 

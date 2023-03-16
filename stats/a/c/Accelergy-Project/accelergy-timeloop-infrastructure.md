@@ -1,6 +1,6 @@
 # Accelergy-Project/accelergy-timeloop-infrastructure - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 22 | 21 | 
 | 2023-03-13 | 22 | 21 | 
 | 2023-03-12 | 22 | 21 | 
 | 2023-03-11 | 22 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 19 | 21 | 
 | 2023-02-15 | 19 | 21 | 
 | 2023-02-14 | 19 | 21 | 
-| 2023-02-13 | 19 | 21 | 
 

@@ -1,8 +1,8 @@
 # antonioru/beautiful-react-hooks - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 471
+☋ Forks: 474
 
 ★ Stars: 6660
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 6660 | 474 | 
 | 2023-03-14 | 6660 | 471 | 
 | 2023-03-12 | 6660 | 471 | 
 | 2023-03-11 | 6659 | 471 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 6614 | 468 | 
 | 2023-02-16 | 6608 | 468 | 
 | 2023-02-15 | 6600 | 468 | 
-| 2023-02-14 | 6597 | 468 | 
 

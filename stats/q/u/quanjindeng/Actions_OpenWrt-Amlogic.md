@@ -1,6 +1,6 @@
 # quanjindeng/Actions_OpenWrt-Amlogic - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 133 | 116 | 
 | 2023-03-14 | 133 | 116 | 
 | 2023-03-12 | 132 | 115 | 
 | 2023-03-11 | 132 | 114 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 125 | 112 | 
 | 2023-02-15 | 125 | 113 | 
 | 2023-02-14 | 125 | 111 | 
-| 2023-02-13 | 124 | 111 | 
 

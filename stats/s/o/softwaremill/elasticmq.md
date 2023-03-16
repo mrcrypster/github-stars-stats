@@ -1,6 +1,6 @@
 # softwaremill/elasticmq - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2152 | 170 | 
 | 2023-03-14 | 2152 | 170 | 
 | 2023-03-12 | 2153 | 170 | 
 | 2023-03-11 | 2152 | 170 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2130 | 169 | 
 | 2023-02-15 | 2128 | 169 | 
 | 2023-02-14 | 2128 | 169 | 
-| 2023-02-13 | 2126 | 169 | 
 

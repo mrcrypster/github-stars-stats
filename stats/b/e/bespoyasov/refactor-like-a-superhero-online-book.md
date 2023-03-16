@@ -1,10 +1,10 @@
 # bespoyasov/refactor-like-a-superhero-online-book - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 61
 
-★ Stars: 755
+★ Stars: 756
 
 [Open repository](https://github.com/bespoyasov/refactor-like-a-superhero-online-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 756 | 61 | 
 | 2023-03-14 | 755 | 61 | 
 | 2023-03-13 | 754 | 61 | 
 | 2023-03-11 | 750 | 61 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 725 | 59 | 
 | 2023-02-15 | 723 | 59 | 
 | 2023-02-14 | 722 | 59 | 
-| 2023-02-13 | 722 | 59 | 
 

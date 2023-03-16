@@ -1,10 +1,10 @@
 # ovotech/kafka-avro-confluent - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/ovotech/kafka-avro-confluent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 20 | 5 | 
 | 2023-03-13 | 19 | 5 | 
 | 2023-03-12 | 19 | 5 | 
 | 2023-03-11 | 19 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 19 | 5 | 
 | 2023-02-16 | 19 | 5 | 
 | 2023-02-14 | 19 | 5 | 
-| 2023-02-13 | 19 | 5 | 
 

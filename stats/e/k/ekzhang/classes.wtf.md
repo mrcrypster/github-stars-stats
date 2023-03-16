@@ -1,6 +1,6 @@
 # ekzhang/classes.wtf - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 226 | 12 | 
 | 2023-03-13 | 226 | 12 | 
 | 2023-03-12 | 225 | 12 | 
 | 2023-03-11 | 225 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 220 | 12 | 
 | 2023-02-16 | 219 | 12 | 
 | 2023-02-14 | 219 | 12 | 
-| 2023-02-13 | 219 | 12 | 
 

@@ -1,10 +1,10 @@
 # toeverything/AFFiNE - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 647
+☋ Forks: 648
 
-★ Stars: 13606
+★ Stars: 13635
 
 [Open repository](https://github.com/toeverything/AFFiNE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 13635 | 648 | 
 | 2023-03-14 | 13606 | 647 | 
 | 2023-03-12 | 13582 | 643 | 
 | 2023-03-11 | 13569 | 641 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 12835 | 575 | 
 | 2023-02-15 | 12806 | 574 | 
 | 2023-02-14 | 12784 | 572 | 
-| 2023-02-13 | 12753 | 570 | 
 

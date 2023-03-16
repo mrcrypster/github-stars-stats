@@ -1,6 +1,6 @@
 # muk-it/muk_web - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 100 | 223 | 
 | 2023-03-14 | 100 | 223 | 
 | 2023-03-13 | 100 | 223 | 
 | 2023-03-12 | 100 | 223 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 101 | 223 | 
 | 2023-02-16 | 101 | 223 | 
 | 2023-02-15 | 101 | 223 | 
-| 2023-02-13 | 101 | 223 | 
 

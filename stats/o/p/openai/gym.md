@@ -1,10 +1,10 @@
 # openai/gym - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 8282
+☋ Forks: 8290
 
-★ Stars: 30345
+★ Stars: 30375
 
 [Open repository](https://github.com/openai/gym)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 30375 | 8290 | 
 | 2023-03-14 | 30345 | 8282 | 
 | 2023-03-13 | 30334 | 8281 | 
 | 2023-03-12 | 30319 | 8273 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 30011 | 8224 | 
 | 2023-02-15 | 30005 | 8218 | 
 | 2023-02-14 | 29991 | 8216 | 
-| 2023-02-13 | 29984 | 8216 | 
 

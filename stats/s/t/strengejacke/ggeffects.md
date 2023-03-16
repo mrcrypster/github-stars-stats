@@ -1,6 +1,6 @@
 # strengejacke/ggeffects - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 435 | 30 | 
 | 2023-03-13 | 435 | 30 | 
 | 2023-03-12 | 434 | 30 | 
 | 2023-03-11 | 433 | 30 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 425 | 30 | 
 | 2023-02-15 | 425 | 30 | 
 | 2023-02-14 | 425 | 30 | 
-| 2023-02-13 | 425 | 30 | 
 

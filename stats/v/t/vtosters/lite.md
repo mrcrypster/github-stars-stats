@@ -1,10 +1,10 @@
 # vtosters/lite - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 30
 
-★ Stars: 351
+★ Stars: 352
 
 [Open repository](https://github.com/vtosters/lite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 352 | 30 | 
 | 2023-03-14 | 351 | 30 | 
 | 2023-03-13 | 351 | 30 | 
 | 2023-03-12 | 351 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 339 | 29 | 
 | 2023-02-15 | 340 | 29 | 
 | 2023-02-14 | 340 | 29 | 
-| 2023-02-13 | 340 | 29 | 
 

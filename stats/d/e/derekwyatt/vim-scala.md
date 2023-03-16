@@ -1,10 +1,10 @@
 # derekwyatt/vim-scala - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 147
 
-★ Stars: 1094
+★ Stars: 1095
 
 [Open repository](https://github.com/derekwyatt/vim-scala)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1095 | 147 | 
 | 2023-03-14 | 1094 | 147 | 
 | 2023-03-12 | 1094 | 147 | 
 | 2023-03-11 | 1094 | 147 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1092 | 147 | 
 | 2023-02-15 | 1092 | 147 | 
 | 2023-02-14 | 1092 | 147 | 
-| 2023-02-13 | 1092 | 147 | 
 

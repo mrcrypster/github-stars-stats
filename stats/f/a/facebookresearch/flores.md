@@ -1,10 +1,10 @@
 # facebookresearch/flores - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 102
 
-★ Stars: 528
+★ Stars: 529
 
 [Open repository](https://github.com/facebookresearch/flores)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 529 | 102 | 
 | 2023-03-14 | 528 | 102 | 
 | 2023-03-13 | 526 | 102 | 
 | 2023-03-12 | 526 | 102 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 517 | 100 | 
 | 2023-02-16 | 517 | 100 | 
 | 2023-02-14 | 517 | 100 | 
-| 2023-02-13 | 517 | 100 | 
 

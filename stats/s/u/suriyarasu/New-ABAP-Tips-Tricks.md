@@ -1,6 +1,6 @@
 # suriyarasu/New-ABAP-Tips-Tricks - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 28 | 2 | 
 | 2023-03-13 | 28 | 2 | 
 | 2023-03-12 | 28 | 2 | 
 | 2023-03-11 | 28 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 26 | 2 | 
 | 2023-02-15 | 26 | 2 | 
 | 2023-02-14 | 26 | 2 | 
-| 2023-02-13 | 26 | 2 | 
 

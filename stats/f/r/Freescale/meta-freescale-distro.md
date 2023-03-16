@@ -1,6 +1,6 @@
 # Freescale/meta-freescale-distro - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 68
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 55 | 68 | 
+| 2023-03-15 | 55 | 68 | 
 | 2023-03-14 | 55 | 68 | 
 | 2023-03-13 | 55 | 68 | 
 | 2023-03-12 | 55 | 68 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 55 | 68 | 
 | 2023-02-15 | 55 | 68 | 
 | 2023-02-14 | 55 | 67 | 
-| 2023-02-13 | 55 | 67 | 
 

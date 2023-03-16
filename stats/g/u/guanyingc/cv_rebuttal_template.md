@@ -1,6 +1,6 @@
 # guanyingc/cv_rebuttal_template - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 70 | 4 | 
 | 2023-03-14 | 70 | 4 | 
 | 2023-03-13 | 70 | 4 | 
 | 2023-03-12 | 70 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 67 | 4 | 
 | 2023-02-15 | 66 | 4 | 
 | 2023-02-14 | 66 | 4 | 
-| 2023-02-13 | 66 | 4 | 
 

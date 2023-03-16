@@ -1,10 +1,10 @@
 # chenfeiyi/PBACalib - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/chenfeiyi/PBACalib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 36 | 3 | 
 | 2023-03-13 | 34 | 3 | 
 | 2023-03-12 | 34 | 3 | 
 | 2023-03-11 | 34 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 33 | 3 | 
 | 2023-02-15 | 33 | 3 | 
 | 2023-02-14 | 32 | 2 | 
-| 2023-02-13 | 32 | 1 | 
 

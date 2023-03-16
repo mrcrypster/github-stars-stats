@@ -1,10 +1,10 @@
 # straight-tamago/RespringCC - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/straight-tamago/RespringCC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 41 | - | 
 | 2023-03-14 | 40 | - | 
 | 2023-03-13 | 40 | - | 
 | 2023-03-12 | 40 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 29 | - | 
 | 2023-02-15 | 29 | - | 
 | 2023-02-14 | 29 | - | 
-| 2023-02-13 | 28 | - | 
 

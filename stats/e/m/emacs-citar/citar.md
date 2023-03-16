@@ -1,10 +1,10 @@
 # emacs-citar/citar - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 42
 
-★ Stars: 344
+★ Stars: 345
 
 [Open repository](https://github.com/emacs-citar/citar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 345 | 42 | 
 | 2023-03-14 | 344 | 42 | 
 | 2023-03-13 | 344 | 42 | 
 | 2023-03-12 | 344 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 326 | 39 | 
 | 2023-02-15 | 325 | 39 | 
 | 2023-02-14 | 326 | 38 | 
-| 2023-02-13 | 326 | 38 | 
 

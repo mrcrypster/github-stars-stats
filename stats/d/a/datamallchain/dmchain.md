@@ -1,6 +1,6 @@
 # datamallchain/dmchain - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 102 | 38 | 
 | 2023-03-14 | 102 | 38 | 
 | 2023-03-13 | 102 | 38 | 
 | 2023-03-11 | 103 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 103 | 38 | 
 | 2023-02-15 | 103 | 38 | 
 | 2023-02-14 | 103 | 38 | 
-| 2023-02-13 | 103 | 38 | 
 

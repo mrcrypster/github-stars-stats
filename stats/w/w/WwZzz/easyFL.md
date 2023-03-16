@@ -1,10 +1,10 @@
 # WwZzz/easyFL - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 47
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/WwZzz/easyFL)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 263 | 47 | 
 | 2023-03-14 | 262 | 47 | 
 | 2023-03-13 | 262 | 47 | 
 | 2023-03-12 | 262 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 258 | 45 | 
 | 2023-02-16 | 257 | 45 | 
 | 2023-02-15 | 256 | 45 | 
-| 2023-02-14 | 254 | 44 | 
 

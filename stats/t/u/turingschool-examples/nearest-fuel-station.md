@@ -1,6 +1,6 @@
 # turingschool-examples/nearest-fuel-station - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 1 | 162 | 
 | 2023-03-14 | 1 | 162 | 
 | 2023-03-13 | 1 | 162 | 
 | 2023-03-11 | 1 | 162 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1 | 156 | 
 | 2023-02-15 | 1 | 156 | 
 | 2023-02-14 | 1 | 156 | 
-| 2023-02-13 | 1 | 157 | 
 

@@ -1,10 +1,10 @@
 # chunky/sqlraytracer - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/chunky/sqlraytracer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 139 | 2 | 
 | 2023-03-14 | 138 | 2 | 
 | 2023-03-13 | 138 | 2 | 
 | 2023-03-12 | 138 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 139 | 2 | 
 | 2023-02-15 | 139 | 2 | 
 | 2023-02-14 | 139 | 2 | 
-| 2023-02-13 | 139 | 2 | 
 

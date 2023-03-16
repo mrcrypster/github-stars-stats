@@ -1,10 +1,10 @@
 # Infinidoge/nix-minecraft - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/Infinidoge/nix-minecraft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 55 | 6 | 
 | 2023-03-14 | 54 | 6 | 
 | 2023-03-13 | 54 | 6 | 
 | 2023-03-11 | 54 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 53 | 6 | 
 | 2023-02-15 | 53 | 6 | 
 | 2023-02-14 | 53 | 6 | 
-| 2023-02-13 | 53 | 6 | 
 

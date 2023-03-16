@@ -1,10 +1,10 @@
 # itzg/minecraft-server-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 98
 
-★ Stars: 182
+★ Stars: 184
 
 [Open repository](https://github.com/itzg/minecraft-server-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 184 | 98 | 
 | 2023-03-13 | 182 | 98 | 
 | 2023-03-12 | 182 | 98 | 
 | 2023-03-11 | 183 | 98 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 180 | 96 | 
 | 2023-02-15 | 180 | 97 | 
 | 2023-02-14 | 180 | 97 | 
-| 2023-02-13 | 180 | 97 | 
 

@@ -1,6 +1,6 @@
 # lanl-ansi/Alpine.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 208 | 38 | 
 | 2023-03-14 | 208 | 38 | 
 | 2023-03-13 | 207 | 38 | 
 | 2023-03-12 | 207 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 200 | 38 | 
 | 2023-02-15 | 200 | 38 | 
 | 2023-02-14 | 200 | 38 | 
-| 2023-02-13 | 200 | 38 | 
 

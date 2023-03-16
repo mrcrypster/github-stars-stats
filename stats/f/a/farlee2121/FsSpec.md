@@ -1,6 +1,6 @@
 # farlee2121/FsSpec - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 22 | - | 
 | 2023-03-14 | 22 | - | 
 | 2023-03-13 | 22 | - | 
 | 2023-03-12 | 22 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 22 | - | 
 | 2023-02-15 | 22 | - | 
 | 2023-02-14 | 22 | - | 
-| 2023-02-13 | 22 | - | 
 

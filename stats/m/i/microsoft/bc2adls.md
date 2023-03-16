@@ -1,6 +1,6 @@
 # microsoft/bc2adls - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 51 | 39 | 
 | 2023-03-13 | 51 | 39 | 
 | 2023-03-12 | 51 | 39 | 
 | 2023-03-11 | 51 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 49 | 35 | 
 | 2023-02-15 | 49 | 35 | 
 | 2023-02-14 | 48 | 34 | 
-| 2023-02-13 | 48 | 34 | 
 

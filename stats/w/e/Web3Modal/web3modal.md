@@ -1,10 +1,10 @@
 # Web3Modal/web3modal - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1086
+☋ Forks: 1089
 
-★ Stars: 4026
+★ Stars: 4030
 
 [Open repository](https://github.com/Web3Modal/web3modal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4030 | 1089 | 
 | 2023-03-14 | 4026 | 1086 | 
 | 2023-03-13 | 4017 | 1083 | 
 | 2023-03-11 | 4014 | 1079 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3959 | 1040 | 
 | 2023-02-15 | 3958 | 1038 | 
 | 2023-02-14 | 3955 | 1034 | 
-| 2023-02-13 | 3954 | 1030 | 
 

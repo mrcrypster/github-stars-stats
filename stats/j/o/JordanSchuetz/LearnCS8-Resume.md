@@ -1,6 +1,6 @@
 # JordanSchuetz/LearnCS8-Resume - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 6372 | 133 | 
 | 2023-03-13 | 6372 | 133 | 
 | 2023-03-12 | 6375 | 133 | 
 | 2023-03-11 | 6374 | 133 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 5881 | 126 | 
 | 2023-02-15 | 5880 | 126 | 
 | 2023-02-14 | 5878 | 126 | 
-| 2023-02-13 | 5876 | 126 | 
 

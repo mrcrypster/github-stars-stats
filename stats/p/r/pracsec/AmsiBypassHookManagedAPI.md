@@ -1,10 +1,10 @@
 # pracsec/AmsiBypassHookManagedAPI - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/pracsec/AmsiBypassHookManagedAPI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 149 | 27 | 
 | 2023-03-14 | 148 | 27 | 
 | 2023-03-13 | 147 | 27 | 
 | 2023-03-11 | 147 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 140 | 27 | 
 | 2023-02-16 | 140 | 27 | 
 | 2023-02-15 | 140 | 27 | 
-| 2023-02-13 | 140 | 27 | 
 

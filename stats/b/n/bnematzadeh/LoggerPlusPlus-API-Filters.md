@@ -1,10 +1,10 @@
 # bnematzadeh/LoggerPlusPlus-API-Filters - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 22
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/bnematzadeh/LoggerPlusPlus-API-Filters)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 128 | 22 | 
 | 2023-03-14 | 127 | 22 | 
 | 2023-03-12 | 127 | 22 | 
 | 2023-03-11 | 127 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 125 | 22 | 
 | 2023-02-15 | 125 | 22 | 
 | 2023-02-14 | 125 | 22 | 
-| 2023-02-13 | 125 | 22 | 
 

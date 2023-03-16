@@ -1,6 +1,6 @@
 # terryma/vim-expand-region - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1046 | 43 | 
 | 2023-03-14 | 1046 | 43 | 
 | 2023-03-13 | 1046 | 43 | 
 | 2023-03-12 | 1047 | 43 | 

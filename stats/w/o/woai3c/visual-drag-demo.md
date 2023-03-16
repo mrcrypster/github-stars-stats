@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 15
 
 ☋ Forks: 1203
 
-★ Stars: 3933
+★ Stars: 3936
 
 [Open repository](https://github.com/woai3c/visual-drag-demo)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 3933 | 1203 | 
+| 2023-03-15 | 3936 | 1203 | 
 | 2023-03-14 | 3933 | 1203 | 
 | 2023-03-13 | 3926 | 1202 | 
 | 2023-03-12 | 3917 | 1201 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 3831 | 1186 | 
 | 2023-02-15 | 3827 | 1184 | 
 | 2023-02-14 | 3825 | 1181 | 
-| 2023-02-13 | 3822 | 1180 | 
 

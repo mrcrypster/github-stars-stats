@@ -1,10 +1,10 @@
 # ddPn08/Lsmith - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 41
 
-★ Stars: 572
+★ Stars: 575
 
 [Open repository](https://github.com/ddPn08/Lsmith)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 575 | 41 | 
 | 2023-03-13 | 572 | 41 | 
 | 2023-03-12 | 571 | 41 | 
 | 2023-03-11 | 570 | 41 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-17 | 499 | 33 | 
 | 2023-02-15 | 490 | 31 | 
 | 2023-02-14 | 488 | 31 | 
-| 2023-02-13 | 480 | 30 | 
 

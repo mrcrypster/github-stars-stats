@@ -1,10 +1,10 @@
 # Suprcode/mir2 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 549
 
-★ Stars: 806
+★ Stars: 809
 
 [Open repository](https://github.com/Suprcode/mir2)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 809 | 549 | 
 | 2023-03-14 | 806 | 549 | 
 

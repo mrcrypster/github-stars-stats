@@ -1,8 +1,8 @@
 # arma7x/svelte-telekram - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 28 | 6 | 
 | 2023-03-14 | 28 | 5 | 
 | 2023-03-13 | 28 | 5 | 
 | 2023-03-11 | 28 | 5 | 

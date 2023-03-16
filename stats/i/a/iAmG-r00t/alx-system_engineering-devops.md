@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 151
+☋ Forks: 153
 
-★ Stars: 127
+★ Stars: 129
 
 [Open repository](https://github.com/iAmG-r00t/alx-system_engineering-devops)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 127 | 151 | 
+| 2023-03-15 | 129 | 153 | 
 | 2023-03-14 | 126 | 147 | 
 | 2023-03-13 | 124 | 138 | 
 | 2023-03-12 | 120 | 137 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-16 | 86 | 118 | 
 | 2023-02-15 | 80 | 116 | 
 | 2023-02-14 | 73 | 107 | 
-| 2023-02-13 | 71 | 102 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 15
 
-☋ Forks: 1518
+☋ Forks: 1520
 
-★ Stars: 14699
+★ Stars: 14708
 
 [Open repository](https://github.com/cube-js/cube.js)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-15 | 14699 | 1518 | 
+| 2023-03-15 | 14708 | 1520 | 
 | 2023-03-14 | 14699 | 1518 | 
 | 2023-03-13 | 14695 | 1516 | 
 | 2023-03-12 | 14686 | 1513 | 

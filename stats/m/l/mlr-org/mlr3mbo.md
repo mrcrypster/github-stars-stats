@@ -1,6 +1,6 @@
 # mlr-org/mlr3mbo - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 20 | 1 | 
 | 2023-03-14 | 20 | 1 | 
 | 2023-03-13 | 19 | 1 | 
 | 2023-03-11 | 19 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 17 | 1 | 
 | 2023-02-15 | 17 | 1 | 
 | 2023-02-14 | 17 | 1 | 
-| 2023-02-13 | 17 | 1 | 
 

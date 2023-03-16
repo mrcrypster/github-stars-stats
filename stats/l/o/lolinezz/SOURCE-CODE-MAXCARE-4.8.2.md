@@ -1,6 +1,6 @@
 # lolinezz/SOURCE-CODE-MAXCARE-4.8.2 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 14 | 36 | 
 | 2023-03-14 | 14 | 36 | 
 | 2023-03-12 | 14 | 36 | 
 | 2023-03-11 | 14 | 36 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 14 | 36 | 
 | 2023-02-15 | 14 | 36 | 
 | 2023-02-14 | 14 | 36 | 
-| 2023-02-13 | 14 | 36 | 
 

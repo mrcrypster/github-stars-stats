@@ -1,10 +1,10 @@
 # TurboWay/bigdata_analyse - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
-☋ Forks: 512
+☋ Forks: 513
 
-★ Stars: 2592
+★ Stars: 2595
 
 [Open repository](https://github.com/TurboWay/bigdata_analyse)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2595 | 513 | 
 | 2023-03-14 | 2592 | 512 | 
 | 2023-03-12 | 2591 | 512 | 
 | 2023-03-11 | 2585 | 513 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 2528 | 501 | 
 | 2023-02-15 | 2524 | 501 | 
 | 2023-02-14 | 2522 | 498 | 
-| 2023-02-13 | 2519 | 497 | 
 

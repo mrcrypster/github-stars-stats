@@ -1,6 +1,6 @@
 # quisquous/cactbot - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 760 | 351 | 
 | 2023-03-14 | 760 | 351 | 
 | 2023-03-12 | 758 | 350 | 
 | 2023-03-11 | 756 | 350 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 754 | 344 | 
 | 2023-02-16 | 754 | 344 | 
 | 2023-02-15 | 752 | 344 | 
-| 2023-02-13 | 751 | 345 | 
 

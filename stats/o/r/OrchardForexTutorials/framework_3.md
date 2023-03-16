@@ -1,6 +1,6 @@
 # OrchardForexTutorials/framework_3 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 36 | 29 | 
 | 2023-03-14 | 36 | 29 | 
 | 2023-03-13 | 36 | 29 | 
 | 2023-03-12 | 36 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 34 | 29 | 
 | 2023-02-15 | 34 | 29 | 
 | 2023-02-14 | 34 | 29 | 
-| 2023-02-13 | 34 | 29 | 
 

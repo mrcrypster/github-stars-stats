@@ -1,10 +1,10 @@
 # NesHacker/NesPi - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/NesHacker/NesPi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 41 | 4 | 
 | 2023-03-13 | 39 | 4 | 
 | 2023-03-12 | 38 | 4 | 
 | 2023-03-11 | 37 | 3 | 

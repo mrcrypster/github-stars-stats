@@ -1,6 +1,6 @@
 # CodingTrain/Genuary-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 19 | 5 | 
 | 2023-03-14 | 19 | 5 | 
 | 2023-03-13 | 19 | 5 | 
 | 2023-03-12 | 19 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 17 | 3 | 
 | 2023-02-15 | 16 | 3 | 
 | 2023-02-14 | 16 | 3 | 
-| 2023-02-13 | 16 | 3 | 
 
