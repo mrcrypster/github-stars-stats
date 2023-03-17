@@ -1,10 +1,10 @@
 # janosh/svelte-toc - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 66
+★ Stars: 65
 
 [Open repository](https://github.com/janosh/svelte-toc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 65 | 4 | 
 | 2023-03-14 | 66 | 4 | 
 | 2023-03-13 | 66 | 4 | 
 | 2023-03-12 | 66 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 64 | 4 | 
 | 2023-02-16 | 64 | 4 | 
 | 2023-02-15 | 64 | 4 | 
-| 2023-02-14 | 63 | 3 | 
 

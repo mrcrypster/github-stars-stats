@@ -1,10 +1,10 @@
 # getndazn/kopytko-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/getndazn/kopytko-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 15 | 5 | 
 | 2023-03-15 | 14 | 5 | 
 | 2023-03-13 | 14 | 5 | 
 | 2023-03-12 | 14 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 13 | 5 | 
 | 2023-02-16 | 13 | 5 | 
 | 2023-02-15 | 13 | 5 | 
-| 2023-02-14 | 13 | 5 | 
 

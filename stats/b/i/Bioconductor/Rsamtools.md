@@ -1,8 +1,8 @@
 # Bioconductor/Rsamtools - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 19 | 19 | 
 | 2023-03-15 | 19 | 18 | 
 | 2023-03-14 | 19 | 17 | 
 | 2023-03-13 | 19 | 17 | 

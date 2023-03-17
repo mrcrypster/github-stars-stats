@@ -1,6 +1,6 @@
 # spatie/laravel-dynamic-servers - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 195 | 8 | 
 | 2023-03-15 | 195 | 8 | 
 | 2023-03-14 | 195 | 8 | 
 | 2023-03-13 | 195 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 192 | 8 | 
 | 2023-02-17 | 192 | 8 | 
 | 2023-02-16 | 192 | 9 | 
-| 2023-02-15 | 191 | 8 | 
 

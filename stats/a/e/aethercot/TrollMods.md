@@ -1,6 +1,6 @@
 # aethercot/TrollMods - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 45 | 2 | 
 | 2023-03-15 | 45 | 2 | 
 | 2023-03-14 | 45 | 2 | 
 | 2023-03-13 | 45 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 43 | 2 | 
 | 2023-02-16 | 43 | 2 | 
 | 2023-02-15 | 42 | 2 | 
-| 2023-02-14 | 42 | 2 | 
 

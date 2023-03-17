@@ -1,8 +1,8 @@
 # OfficeDev/skype-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 317
+☋ Forks: 316
 
 ★ Stars: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 150 | 316 | 
 | 2023-03-15 | 150 | 317 | 
 | 2023-03-14 | 150 | 317 | 
 | 2023-03-13 | 150 | 317 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 151 | 318 | 
 | 2023-02-17 | 151 | 319 | 
 | 2023-02-15 | 151 | 319 | 
-| 2023-02-14 | 151 | 319 | 
 

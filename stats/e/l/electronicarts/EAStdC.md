@@ -1,6 +1,6 @@
 # electronicarts/EAStdC - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 455 | 85 | 
 | 2023-03-15 | 455 | 85 | 
 | 2023-03-14 | 454 | 84 | 
 | 2023-03-12 | 454 | 84 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 454 | 82 | 
 | 2023-02-17 | 454 | 82 | 
 | 2023-02-16 | 454 | 82 | 
-| 2023-02-15 | 454 | 82 | 
 

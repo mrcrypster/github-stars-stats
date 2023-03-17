@@ -1,10 +1,10 @@
 # IDEA-opensource/DAB-DETR - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 56
 
-★ Stars: 362
+★ Stars: 363
 
 [Open repository](https://github.com/IDEA-opensource/DAB-DETR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 363 | 56 | 
 | 2023-03-15 | 362 | 56 | 
 | 2023-03-13 | 361 | 56 | 
 | 2023-03-12 | 361 | 56 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 351 | 53 | 
 | 2023-02-16 | 351 | 52 | 
 | 2023-02-15 | 351 | 51 | 
-| 2023-02-14 | 351 | 51 | 
 

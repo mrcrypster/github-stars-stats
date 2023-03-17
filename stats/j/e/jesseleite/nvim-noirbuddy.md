@@ -1,10 +1,10 @@
 # jesseleite/nvim-noirbuddy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 155
+★ Stars: 154
 
 [Open repository](https://github.com/jesseleite/nvim-noirbuddy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 154 | 3 | 
 | 2023-03-15 | 155 | 3 | 
 | 2023-03-14 | 155 | 3 | 
 | 2023-03-12 | 155 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 150 | 2 | 
 | 2023-02-16 | 150 | 2 | 
 | 2023-02-15 | 150 | 2 | 
-| 2023-02-14 | 150 | 2 | 
 

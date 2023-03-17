@@ -1,10 +1,10 @@
 # macadmins/nudge - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 153
 
-★ Stars: 699
+★ Stars: 701
 
 [Open repository](https://github.com/macadmins/nudge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 701 | 153 | 
 | 2023-03-14 | 699 | 153 | 
 | 2023-03-13 | 695 | 153 | 
 | 2023-03-12 | 695 | 153 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 683 | 148 | 
 | 2023-02-16 | 680 | 148 | 
 | 2023-02-15 | 678 | 146 | 
-| 2023-02-14 | 675 | 145 | 
 

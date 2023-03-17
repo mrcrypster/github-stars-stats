@@ -1,10 +1,10 @@
 # openairplay/airplay2-receiver - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 110
 
-★ Stars: 1806
+★ Stars: 1805
 
 [Open repository](https://github.com/openairplay/airplay2-receiver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1805 | 110 | 
 | 2023-03-15 | 1806 | 110 | 
 | 2023-03-14 | 1805 | 110 | 
 | 2023-03-12 | 1802 | 110 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1795 | 108 | 
 | 2023-02-17 | 1795 | 108 | 
 | 2023-02-16 | 1793 | 108 | 
-| 2023-02-15 | 1793 | 108 | 
 

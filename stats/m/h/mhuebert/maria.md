@@ -1,10 +1,10 @@
 # mhuebert/maria - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 30
 
-★ Stars: 428
+★ Stars: 429
 
 [Open repository](https://github.com/mhuebert/maria)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 429 | 30 | 
 | 2023-03-14 | 428 | 30 | 
 | 2023-03-13 | 427 | 30 | 
 | 2023-03-12 | 427 | 29 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 426 | 29 | 
 | 2023-02-16 | 426 | 29 | 
 | 2023-02-15 | 426 | 29 | 
-| 2023-02-14 | 427 | 29 | 
 

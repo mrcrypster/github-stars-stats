@@ -1,10 +1,10 @@
 # soumyajit4419/Portfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 972
+☋ Forks: 974
 
-★ Stars: 1861
+★ Stars: 1864
 
 [Open repository](https://github.com/soumyajit4419/Portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1864 | 974 | 
 | 2023-03-15 | 1861 | 972 | 
 | 2023-03-13 | 1855 | 972 | 
 | 2023-03-12 | 1847 | 967 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1765 | 910 | 
 | 2023-02-16 | 1762 | 908 | 
 | 2023-02-15 | 1760 | 906 | 
-| 2023-02-14 | 1756 | 906 | 
 

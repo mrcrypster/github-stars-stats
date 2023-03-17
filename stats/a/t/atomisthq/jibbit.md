@@ -1,10 +1,10 @@
 # atomisthq/jibbit - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/atomisthq/jibbit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 74 | 6 | 
 | 2023-03-15 | 73 | 6 | 
 | 2023-03-14 | 73 | 6 | 
 | 2023-03-12 | 73 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 73 | 6 | 
 | 2023-02-16 | 73 | 6 | 
 | 2023-02-15 | 73 | 6 | 
-| 2023-02-14 | 73 | 6 | 
 

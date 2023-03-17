@@ -1,6 +1,6 @@
 # IntellectualSites/PlotSquared - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 463
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 431 | 463 | 
 | 2023-03-15 | 431 | 463 | 
 | 2023-03-14 | 431 | 462 | 
 | 2023-03-13 | 431 | 462 | 

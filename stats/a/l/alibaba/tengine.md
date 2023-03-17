@@ -1,10 +1,10 @@
 # alibaba/tengine - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2460
 
-★ Stars: 11905
+★ Stars: 11910
 
 [Open repository](https://github.com/alibaba/tengine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 11910 | 2460 | 
 | 2023-03-14 | 11905 | 2460 | 
 | 2023-03-13 | 11903 | 2460 | 
 | 2023-03-12 | 11901 | 2459 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 11872 | 2456 | 
 | 2023-02-16 | 11867 | 2455 | 
 | 2023-02-15 | 11866 | 2455 | 
-| 2023-02-14 | 11854 | 2456 | 
 

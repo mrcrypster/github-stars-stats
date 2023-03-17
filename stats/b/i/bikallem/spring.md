@@ -1,10 +1,10 @@
 # bikallem/spring - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/bikallem/spring)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 17 | - | 
 | 2023-03-15 | 16 | - | 
 

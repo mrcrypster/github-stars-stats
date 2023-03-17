@@ -1,10 +1,10 @@
 # llSourcell/ChatGPT_Sports_Betting_Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 104
+★ Stars: 108
 
 [Open repository](https://github.com/llSourcell/ChatGPT_Sports_Betting_Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 108 | 68 | 
 | 2023-03-15 | 104 | 67 | 
 | 2023-03-14 | 102 | 63 | 
 | 2023-03-12 | 100 | 63 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 55 | 30 | 
 | 2023-02-16 | 52 | 30 | 
 | 2023-02-15 | 52 | 29 | 
-| 2023-02-14 | 49 | 29 | 
 

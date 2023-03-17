@@ -1,6 +1,6 @@
 # synrc/fs - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 223 | 67 | 
 | 2023-03-15 | 223 | 67 | 
 | 2023-03-14 | 223 | 67 | 
 | 2023-03-13 | 223 | 67 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 220 | 67 | 
 | 2023-02-16 | 220 | 67 | 
 | 2023-02-15 | 220 | 67 | 
-| 2023-02-14 | 220 | 67 | 
 

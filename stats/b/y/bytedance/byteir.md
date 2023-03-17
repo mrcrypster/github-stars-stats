@@ -1,10 +1,10 @@
 # bytedance/byteir - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/bytedance/byteir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 109 | 6 | 
 | 2023-03-15 | 108 | 6 | 
 | 2023-03-14 | 98 | 6 | 
 | 2023-03-13 | 94 | 5 | 

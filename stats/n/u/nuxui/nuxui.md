@@ -1,10 +1,10 @@
 # nuxui/nuxui - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 15
 
-★ Stars: 395
+★ Stars: 396
 
 [Open repository](https://github.com/nuxui/nuxui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 396 | 15 | 
 | 2023-03-15 | 395 | 15 | 
 | 2023-03-13 | 394 | 15 | 
 | 2023-03-12 | 394 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 396 | 15 | 
 | 2023-02-16 | 396 | 15 | 
 | 2023-02-15 | 395 | 15 | 
-| 2023-02-14 | 394 | 15 | 
 

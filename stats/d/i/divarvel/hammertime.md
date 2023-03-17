@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/divarvel/hammertime)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 7 | 2 | 
+| 2023-03-16 | 8 | 2 | 
 | 2023-03-15 | 7 | 2 | 
 | 2023-03-13 | 7 | 2 | 
 | 2023-03-12 | 7 | 2 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-17 | 7 | 2 | 
 | 2023-02-16 | 7 | 2 | 
 | 2023-02-15 | 7 | 2 | 
-| 2023-02-14 | 7 | 2 | 
 

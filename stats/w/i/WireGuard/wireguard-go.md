@@ -1,10 +1,10 @@
 # WireGuard/wireguard-go - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 362
 
-★ Stars: 1859
+★ Stars: 1861
 
 [Open repository](https://github.com/WireGuard/wireguard-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1861 | 362 | 
 | 2023-03-15 | 1859 | 362 | 
 | 2023-03-13 | 1857 | 362 | 
 | 2023-03-12 | 1855 | 359 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1810 | 343 | 
 | 2023-02-17 | 1810 | 343 | 
 | 2023-02-16 | 1809 | 343 | 
-| 2023-02-15 | 1806 | 343 | 
 

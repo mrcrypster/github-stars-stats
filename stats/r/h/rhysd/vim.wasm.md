@@ -1,6 +1,6 @@
 # rhysd/vim.wasm - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5262 | 134 | 
 | 2023-03-15 | 5262 | 134 | 
 | 2023-03-14 | 5261 | 134 | 
 | 2023-03-13 | 5260 | 134 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 5252 | 134 | 
 | 2023-02-16 | 5252 | 134 | 
 | 2023-02-15 | 5252 | 134 | 
-| 2023-02-14 | 5252 | 134 | 
 

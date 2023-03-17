@@ -1,10 +1,10 @@
 # msharp/elixir-statistics - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 29
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/msharp/elixir-statistics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 128 | 29 | 
 | 2023-03-15 | 127 | 29 | 
 | 2023-03-14 | 127 | 29 | 
 | 2023-03-13 | 127 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 124 | 29 | 
 | 2023-02-16 | 124 | 29 | 
 | 2023-02-15 | 124 | 29 | 
-| 2023-02-14 | 124 | 29 | 
 

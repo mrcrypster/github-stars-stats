@@ -1,10 +1,10 @@
 # davinci1010/pinduoduo_backdoor - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1537
+☋ Forks: 1568
 
-★ Stars: 3809
+★ Stars: 3916
 
 [Open repository](https://github.com/davinci1010/pinduoduo_backdoor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3916 | 1568 | 
 | 2023-03-15 | 3809 | 1537 | 
 | 2023-03-13 | 3627 | 1478 | 
 | 2023-03-12 | 3425 | 1407 | 

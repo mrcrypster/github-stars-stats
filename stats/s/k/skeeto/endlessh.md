@@ -1,10 +1,10 @@
 # skeeto/endlessh - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 242
 
-★ Stars: 5787
+★ Stars: 5785
 
 [Open repository](https://github.com/skeeto/endlessh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5785 | 242 | 
 | 2023-03-15 | 5787 | 242 | 
 | 2023-03-14 | 5787 | 242 | 
 | 2023-03-12 | 5786 | 242 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 5771 | 242 | 
 | 2023-02-17 | 5772 | 241 | 
 | 2023-02-16 | 5771 | 241 | 
-| 2023-02-15 | 5769 | 241 | 
 

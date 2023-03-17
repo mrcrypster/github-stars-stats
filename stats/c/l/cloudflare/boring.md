@@ -1,10 +1,10 @@
 # cloudflare/boring - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 54
+☋ Forks: 56
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/cloudflare/boring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 194 | 56 | 
 | 2023-03-14 | 193 | 54 | 
 | 2023-03-13 | 191 | 54 | 
 | 2023-03-12 | 187 | 54 | 

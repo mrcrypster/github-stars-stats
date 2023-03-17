@@ -1,10 +1,10 @@
 # q9f/eth.rb - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 56
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/q9f/eth.rb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 164 | 56 | 
 | 2023-03-15 | 163 | 56 | 
 | 2023-03-13 | 163 | 49 | 
 | 2023-03-12 | 161 | 49 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 155 | 49 | 
 | 2023-02-16 | 155 | 49 | 
 | 2023-02-15 | 155 | 49 | 
-| 2023-02-14 | 155 | 49 | 
 

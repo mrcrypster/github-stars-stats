@@ -1,10 +1,10 @@
 # projectdiscovery/katana - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 276
+☋ Forks: 277
 
-★ Stars: 5820
+★ Stars: 5833
 
 [Open repository](https://github.com/projectdiscovery/katana)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5833 | 277 | 
 | 2023-03-15 | 5820 | 276 | 
 | 2023-03-14 | 5816 | 276 | 
 | 2023-03-12 | 5811 | 275 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 5503 | 261 | 
 | 2023-02-16 | 5498 | 260 | 
 | 2023-02-15 | 5497 | 260 | 
-| 2023-02-14 | 5493 | 259 | 
 

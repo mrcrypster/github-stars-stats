@@ -1,8 +1,8 @@
 # Blair2004/NexoPOS - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 190
+☋ Forks: 191
 
 ★ Stars: 464
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 464 | 191 | 
 | 2023-03-15 | 464 | 190 | 
 | 2023-03-13 | 463 | 190 | 
 | 2023-03-12 | 463 | 190 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 440 | 179 | 
 | 2023-02-16 | 439 | 179 | 
 | 2023-02-15 | 437 | 179 | 
-| 2023-02-14 | 435 | 179 | 
 

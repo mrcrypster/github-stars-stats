@@ -1,10 +1,10 @@
 # kevinpapst/kimai2 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 432
+☋ Forks: 434
 
-★ Stars: 2098
+★ Stars: 2099
 
 [Open repository](https://github.com/kevinpapst/kimai2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2099 | 434 | 
 | 2023-03-15 | 2098 | 432 | 
 | 2023-03-14 | 2096 | 432 | 
 | 2023-03-13 | 2094 | 432 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2064 | 425 | 
 | 2023-02-17 | 2064 | 424 | 
 | 2023-02-16 | 2061 | 424 | 
-| 2023-02-15 | 2058 | 424 | 
 

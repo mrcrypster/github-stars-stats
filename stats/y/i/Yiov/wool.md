@@ -1,6 +1,6 @@
 # Yiov/wool - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 282
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 441 | 282 | 
 | 2023-03-15 | 441 | 282 | 
 | 2023-03-14 | 441 | 282 | 
 | 2023-03-13 | 440 | 282 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 436 | 283 | 
 | 2023-02-16 | 435 | 282 | 
 | 2023-02-15 | 434 | 282 | 
-| 2023-02-14 | 433 | 282 | 
 

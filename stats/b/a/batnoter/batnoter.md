@@ -1,10 +1,10 @@
 # batnoter/batnoter - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 113
+☋ Forks: 115
 
-★ Stars: 2119
+★ Stars: 2120
 
 [Open repository](https://github.com/batnoter/batnoter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2120 | 115 | 
 | 2023-03-14 | 2119 | 113 | 
 | 2023-03-13 | 2119 | 113 | 
 | 2023-03-12 | 2120 | 113 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 2099 | 109 | 
 | 2023-02-16 | 2098 | 109 | 
 | 2023-02-15 | 2098 | 109 | 
-| 2023-02-14 | 2098 | 109 | 
 

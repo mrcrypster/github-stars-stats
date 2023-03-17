@@ -1,10 +1,10 @@
 # Atcold/NYU-DLSP21 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 253
 
-★ Stars: 1347
+★ Stars: 1348
 
 [Open repository](https://github.com/Atcold/NYU-DLSP21)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1348 | 253 | 
 | 2023-03-15 | 1347 | 253 | 
 | 2023-03-14 | 1347 | 253 | 
 | 2023-03-12 | 1346 | 253 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1338 | 249 | 
 | 2023-02-16 | 1337 | 249 | 
 | 2023-02-15 | 1336 | 248 | 
-| 2023-02-14 | 1336 | 248 | 
 

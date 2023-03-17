@@ -1,6 +1,6 @@
 # Mathilda11/Speech-processing - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 60 | 43 | 
 | 2023-03-15 | 60 | 43 | 
 | 2023-03-14 | 60 | 43 | 
 | 2023-03-13 | 60 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 59 | 43 | 
 | 2023-02-16 | 59 | 43 | 
 | 2023-02-15 | 59 | 43 | 
-| 2023-02-14 | 59 | 43 | 
 

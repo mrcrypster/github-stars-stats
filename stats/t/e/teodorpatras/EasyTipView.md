@@ -1,10 +1,10 @@
 # teodorpatras/EasyTipView - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 514
 
-★ Stars: 2949
+★ Stars: 2950
 
 [Open repository](https://github.com/teodorpatras/EasyTipView)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2950 | 514 | 
 | 2023-03-15 | 2949 | 514 | 
 | 2023-03-13 | 2948 | 514 | 
 | 2023-03-12 | 2945 | 513 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2938 | 510 | 
 | 2023-02-17 | 2938 | 510 | 
 | 2023-02-16 | 2938 | 510 | 
-| 2023-02-15 | 2937 | 510 | 
 

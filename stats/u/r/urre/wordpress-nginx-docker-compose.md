@@ -1,6 +1,6 @@
 # urre/wordpress-nginx-docker-compose - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 705 | 301 | 
 | 2023-03-15 | 705 | 301 | 
 | 2023-03-14 | 705 | 302 | 
 | 2023-03-13 | 705 | 302 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 698 | 296 | 
 | 2023-02-16 | 698 | 296 | 
 | 2023-02-15 | 696 | 296 | 
-| 2023-02-14 | 696 | 296 | 
 

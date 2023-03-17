@@ -1,10 +1,10 @@
 # stan-dev/posteriordb - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/stan-dev/posteriordb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 144 | 22 | 
 | 2023-03-15 | 143 | 21 | 
 | 2023-03-13 | 143 | 21 | 
 | 2023-03-12 | 143 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 143 | 21 | 
 | 2023-02-17 | 143 | 21 | 
 | 2023-02-16 | 143 | 21 | 
-| 2023-02-15 | 143 | 21 | 
 

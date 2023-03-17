@@ -1,10 +1,10 @@
 # dotnet/docs-desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 149
 
-★ Stars: 132
+★ Stars: 134
 
 [Open repository](https://github.com/dotnet/docs-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 134 | 149 | 
 | 2023-03-14 | 132 | 149 | 
 | 2023-03-13 | 132 | 149 | 
 | 2023-03-12 | 132 | 149 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 132 | 147 | 
 | 2023-02-16 | 132 | 147 | 
 | 2023-02-15 | 132 | 146 | 
-| 2023-02-14 | 132 | 146 | 
 

@@ -1,10 +1,10 @@
 # racket/rhombus-prototype - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 35
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/racket/rhombus-prototype)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 230 | 35 | 
 | 2023-03-15 | 229 | 35 | 
 | 2023-03-14 | 230 | 35 | 
 | 2023-03-13 | 230 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 228 | 34 | 
 | 2023-02-16 | 228 | 34 | 
 | 2023-02-15 | 228 | 34 | 
-| 2023-02-14 | 226 | 34 | 
 

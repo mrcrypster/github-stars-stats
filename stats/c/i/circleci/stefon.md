@@ -1,6 +1,6 @@
 # circleci/stefon - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 98 | 18 | 
 | 2023-03-15 | 98 | 18 | 
 | 2023-03-14 | 98 | 18 | 
 | 2023-03-13 | 98 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 98 | 18 | 
 | 2023-02-16 | 98 | 18 | 
 | 2023-02-15 | 98 | 18 | 
-| 2023-02-14 | 98 | 18 | 
 

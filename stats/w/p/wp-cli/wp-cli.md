@@ -1,8 +1,8 @@
 # wp-cli/wp-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 949
+☋ Forks: 948
 
 ★ Stars: 4652
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4652 | 948 | 
 | 2023-03-15 | 4652 | 949 | 
 | 2023-03-13 | 4651 | 949 | 
 | 2023-03-12 | 4650 | 949 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 4635 | 950 | 
 | 2023-02-16 | 4635 | 950 | 
 | 2023-02-15 | 4635 | 950 | 
-| 2023-02-14 | 4635 | 949 | 
 

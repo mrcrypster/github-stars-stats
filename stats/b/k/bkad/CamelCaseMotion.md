@@ -1,10 +1,10 @@
 # bkad/CamelCaseMotion - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 44
 
-★ Stars: 518
+★ Stars: 519
 
 [Open repository](https://github.com/bkad/CamelCaseMotion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 519 | 44 | 
 | 2023-03-15 | 518 | 44 | 
 | 2023-03-13 | 517 | 44 | 
 | 2023-03-12 | 517 | 44 | 

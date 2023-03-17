@@ -1,10 +1,10 @@
 # hahwul/DevSecOps - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 244
+☋ Forks: 246
 
-★ Stars: 1193
+★ Stars: 1200
 
 [Open repository](https://github.com/hahwul/DevSecOps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1200 | 246 | 
 | 2023-03-15 | 1193 | 244 | 
 | 2023-03-13 | 1177 | 240 | 
 | 2023-03-12 | 1157 | 239 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1041 | 227 | 
 | 2023-02-16 | 1040 | 226 | 
 | 2023-02-15 | 1040 | 226 | 
-| 2023-02-14 | 1041 | 226 | 
 

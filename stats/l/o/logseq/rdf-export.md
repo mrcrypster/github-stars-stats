@@ -1,6 +1,6 @@
 # logseq/rdf-export - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 9 | - | 
 | 2023-03-14 | 9 | - | 
 | 2023-03-13 | 7 | - | 
 | 2023-03-12 | 7 | - | 

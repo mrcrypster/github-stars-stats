@@ -1,6 +1,6 @@
 # SCOREC/pumi-meshes - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2 | 5 | 
 | 2023-03-15 | 2 | 5 | 
 | 2023-03-13 | 2 | 5 | 
 | 2023-03-12 | 2 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2 | 4 | 
 | 2023-02-16 | 2 | 4 | 
 | 2023-02-15 | 2 | 4 | 
-| 2023-02-14 | 2 | 4 | 
 

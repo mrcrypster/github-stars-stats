@@ -1,10 +1,10 @@
 # ogxd/grid-shader-unity - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 19
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/ogxd/grid-shader-unity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 146 | 19 | 
 | 2023-03-15 | 145 | 19 | 
 | 2023-03-14 | 145 | 19 | 
 | 2023-03-13 | 144 | 19 | 

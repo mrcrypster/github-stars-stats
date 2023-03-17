@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-kms - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 29 | 62 | 
 | 2023-03-15 | 29 | 62 | 
 | 2023-03-14 | 29 | 62 | 
 | 2023-03-13 | 29 | 62 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 29 | 61 | 
 | 2023-02-17 | 29 | 61 | 
 | 2023-02-15 | 29 | 61 | 
-| 2023-02-14 | 29 | 60 | 
 

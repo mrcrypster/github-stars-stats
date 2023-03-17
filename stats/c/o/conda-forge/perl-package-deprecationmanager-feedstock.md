@@ -1,6 +1,6 @@
 # conda-forge/perl-package-deprecationmanager-feedstock - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | - | 3 | 
 | 2023-03-15 | - | 3 | 
 | 2023-03-14 | - | 3 | 
 | 2023-03-12 | - | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | - | 1 | 
 | 2023-02-16 | - | 1 | 
 | 2023-02-15 | - | 1 | 
-| 2023-02-14 | - | 1 | 
 

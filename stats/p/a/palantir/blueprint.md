@@ -1,10 +1,10 @@
 # palantir/blueprint - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 2105
+☋ Forks: 2107
 
-★ Stars: 19660
+★ Stars: 19671
 
 [Open repository](https://github.com/palantir/blueprint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 19671 | 2107 | 
 | 2023-03-14 | 19660 | 2105 | 
 | 2023-03-13 | 19656 | 2104 | 
 | 2023-03-12 | 19653 | 2104 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 19614 | 2095 | 
 | 2023-02-17 | 19613 | 2095 | 
 | 2023-02-16 | 19609 | 2096 | 
-| 2023-02-15 | 19608 | 2095 | 
 

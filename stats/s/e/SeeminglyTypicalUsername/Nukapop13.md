@@ -1,6 +1,6 @@
 # SeeminglyTypicalUsername/Nukapop13 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3 | 7 | 
 | 2023-03-15 | 3 | 7 | 
 | 2023-03-14 | 2 | 7 | 
 | 2023-03-12 | 2 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2 | 7 | 
 | 2023-02-16 | 2 | 7 | 
 | 2023-02-15 | 2 | 7 | 
-| 2023-02-14 | 2 | 7 | 
 

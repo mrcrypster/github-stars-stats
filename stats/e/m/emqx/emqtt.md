@@ -1,6 +1,6 @@
 # emqx/emqtt - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 351 | 151 | 
 | 2023-03-15 | 351 | 151 | 
 | 2023-03-13 | 350 | 151 | 
 | 2023-03-12 | 350 | 151 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 347 | 150 | 
 | 2023-02-16 | 347 | 150 | 
 | 2023-02-15 | 347 | 150 | 
-| 2023-02-14 | 347 | 150 | 
 

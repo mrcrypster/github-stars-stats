@@ -1,6 +1,6 @@
 # itorr/sojo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 147 | 7 | 
 | 2023-03-15 | 147 | 7 | 
 | 2023-03-13 | 147 | 7 | 
 | 2023-03-12 | 147 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 145 | 7 | 
 | 2023-02-16 | 145 | 7 | 
 | 2023-02-15 | 145 | 7 | 
-| 2023-02-14 | 145 | 7 | 
 

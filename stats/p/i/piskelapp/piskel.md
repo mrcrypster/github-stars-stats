@@ -1,10 +1,10 @@
 # piskelapp/piskel - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 698
+☋ Forks: 700
 
-★ Stars: 9641
+★ Stars: 9646
 
 [Open repository](https://github.com/piskelapp/piskel)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 9646 | 700 | 
 | 2023-03-15 | 9641 | 698 | 
 

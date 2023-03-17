@@ -1,8 +1,8 @@
 # LinkedInLearning/training-neural-networks-in-python-3215347 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 64
+☋ Forks: 66
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5 | 66 | 
 | 2023-03-14 | 5 | 64 | 
 | 2023-03-13 | 5 | 64 | 
 | 2023-03-12 | 5 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 4 | 52 | 
 | 2023-02-16 | 4 | 52 | 
 | 2023-02-15 | 4 | 51 | 
-| 2023-02-14 | 4 | 51 | 
 

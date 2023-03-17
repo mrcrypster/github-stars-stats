@@ -1,10 +1,10 @@
 # nicolargo/glances - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1364
 
-★ Stars: 22420
+★ Stars: 22429
 
 [Open repository](https://github.com/nicolargo/glances)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 22429 | 1364 | 
 | 2023-03-14 | 22420 | 1364 | 
 | 2023-03-13 | 22412 | 1363 | 
 | 2023-03-12 | 22409 | 1364 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 22315 | 1359 | 
 | 2023-02-16 | 22305 | 1359 | 
 | 2023-02-15 | 22295 | 1359 | 
-| 2023-02-14 | 22287 | 1358 | 
 

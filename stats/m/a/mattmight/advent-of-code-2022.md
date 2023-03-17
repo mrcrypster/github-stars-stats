@@ -1,6 +1,6 @@
 # mattmight/advent-of-code-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 48 | 4 | 
 | 2023-03-15 | 48 | 4 | 
 | 2023-03-14 | 49 | 4 | 
 | 2023-03-13 | 49 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 46 | 4 | 
 | 2023-02-16 | 46 | 4 | 
 | 2023-02-15 | 46 | 4 | 
-| 2023-02-14 | 46 | 4 | 
 

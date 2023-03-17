@@ -1,6 +1,6 @@
 # Mikolaj/miniutter - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4 | 1 | 
 | 2023-03-14 | 4 | 1 | 
 | 2023-03-13 | 4 | 1 | 
 | 2023-03-12 | 4 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 3 | 1 | 
 | 2023-02-16 | 3 | 1 | 
 | 2023-02-15 | 3 | 1 | 
-| 2023-02-14 | 3 | 1 | 
 

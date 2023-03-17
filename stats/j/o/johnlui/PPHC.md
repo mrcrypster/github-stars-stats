@@ -1,10 +1,10 @@
 # johnlui/PPHC - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 130
+☋ Forks: 132
 
-★ Stars: 1357
+★ Stars: 1371
 
 [Open repository](https://github.com/johnlui/PPHC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1371 | 132 | 
 | 2023-03-15 | 1357 | 130 | 
 | 2023-03-14 | 1341 | 129 | 
 | 2023-03-13 | 1332 | 127 | 

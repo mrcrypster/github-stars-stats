@@ -1,10 +1,10 @@
 # incoherentsoftware/defect-process - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/incoherentsoftware/defect-process)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 182 | 10 | 
 | 2023-03-15 | 181 | 10 | 
 | 2023-03-14 | 181 | 10 | 
 | 2023-03-12 | 181 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 175 | 10 | 
 | 2023-02-16 | 175 | 10 | 
 | 2023-02-15 | 175 | 10 | 
-| 2023-02-14 | 175 | 10 | 
 

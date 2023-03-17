@@ -1,6 +1,6 @@
 # martenframework/marten - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 296 | 7 | 
 | 2023-03-15 | 296 | 7 | 
 | 2023-03-14 | 296 | 7 | 
 | 2023-03-12 | 293 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 283 | 5 | 
 | 2023-02-16 | 283 | 5 | 
 | 2023-02-15 | 283 | 5 | 
-| 2023-02-14 | 282 | 5 | 
 

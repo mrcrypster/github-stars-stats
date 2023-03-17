@@ -1,6 +1,6 @@
 # buildpacks/samples - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 169 | 125 | 
 | 2023-03-15 | 169 | 125 | 
 | 2023-03-14 | 169 | 124 | 
 | 2023-03-12 | 169 | 124 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 168 | 123 | 
 | 2023-02-16 | 168 | 123 | 
 | 2023-02-15 | 168 | 123 | 
-| 2023-02-14 | 168 | 122 | 
 

@@ -1,8 +1,8 @@
 # microsoft/vscode-remote-try-cpp - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 117
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 117 | 111 | 
 | 2023-03-15 | 117 | 110 | 
 | 2023-03-13 | 117 | 110 | 
 | 2023-03-12 | 117 | 110 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 111 | 101 | 
 | 2023-02-16 | 111 | 99 | 
 | 2023-02-15 | 110 | 99 | 
-| 2023-02-14 | 110 | 99 | 
 

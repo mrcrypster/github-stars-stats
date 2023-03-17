@@ -1,10 +1,10 @@
 # mtgred/netrunner - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 379
 
-★ Stars: 846
+★ Stars: 847
 
 [Open repository](https://github.com/mtgred/netrunner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 847 | 379 | 
 | 2023-03-15 | 846 | 379 | 
 | 2023-03-13 | 846 | 379 | 
 | 2023-03-12 | 846 | 379 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 842 | 377 | 
 | 2023-02-16 | 842 | 377 | 
 | 2023-02-15 | 842 | 378 | 
-| 2023-02-14 | 842 | 378 | 
 

@@ -1,10 +1,10 @@
 # jbyuki/instant.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 950
+★ Stars: 951
 
 [Open repository](https://github.com/jbyuki/instant.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 951 | 14 | 
 | 2023-03-14 | 950 | 14 | 
 | 2023-03-13 | 950 | 14 | 
 | 2023-03-12 | 948 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 935 | 14 | 
 | 2023-02-16 | 935 | 14 | 
 | 2023-02-15 | 933 | 14 | 
-| 2023-02-14 | 933 | 14 | 
 

@@ -1,10 +1,10 @@
 # wangchucheng/hugo-eureka - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 186
 
-★ Stars: 791
+★ Stars: 794
 
 [Open repository](https://github.com/wangchucheng/hugo-eureka)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 794 | 186 | 
 | 2023-03-14 | 791 | 186 | 
 | 2023-03-13 | 791 | 186 | 
 | 2023-03-12 | 790 | 186 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 780 | 185 | 
 | 2023-02-17 | 781 | 185 | 
 | 2023-02-16 | 780 | 185 | 
-| 2023-02-15 | 780 | 185 | 
 

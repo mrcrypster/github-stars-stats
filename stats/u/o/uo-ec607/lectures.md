@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 16
 
-☋ Forks: 505
+☋ Forks: 506
 
-★ Stars: 1168
+★ Stars: 1170
 
 [Open repository](https://github.com/uo-ec607/lectures)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 1168 | 505 | 
+| 2023-03-16 | 1170 | 506 | 
 | 2023-03-15 | 1168 | 505 | 
 

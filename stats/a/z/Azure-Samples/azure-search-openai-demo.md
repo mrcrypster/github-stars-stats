@@ -1,10 +1,10 @@
 # Azure-Samples/azure-search-openai-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 62
+☋ Forks: 73
 
-★ Stars: 328
+★ Stars: 364
 
 [Open repository](https://github.com/Azure-Samples/azure-search-openai-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 364 | 73 | 
 | 2023-03-15 | 328 | 62 | 
 | 2023-03-14 | 299 | 57 | 
 | 2023-03-13 | 223 | 46 | 

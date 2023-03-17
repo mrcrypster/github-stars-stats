@@ -1,0 +1,17 @@
+# codeclimate/codeclimate-pmd - stars & forks statistics
+
+Stats updated on Mar 2023, 16
+
+☋ Forks: 7
+
+★ Stars: 12
+
+[Open repository](https://github.com/codeclimate/codeclimate-pmd)
+
+[Open detailed stats for codeclimate/codeclimate-pmd](https://reviewgithub.com/rep/codeclimate/codeclimate-pmd)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-16 | 12 | 7 | 
+

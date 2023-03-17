@@ -1,6 +1,6 @@
 # antonio-pedro99/file-space-mobile-app - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 60 | 5 | 
 | 2023-03-15 | 60 | 5 | 
 | 2023-03-13 | 60 | 5 | 
 | 2023-03-12 | 60 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 60 | 5 | 
 | 2023-02-17 | 60 | 5 | 
 | 2023-02-16 | 60 | 5 | 
-| 2023-02-15 | 60 | 5 | 
 

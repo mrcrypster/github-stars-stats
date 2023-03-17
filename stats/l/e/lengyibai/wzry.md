@@ -1,8 +1,8 @@
 # lengyibai/wzry - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 116 | 6 | 
 | 2023-03-15 | 116 | 5 | 
 | 2023-03-14 | 115 | 5 | 
 | 2023-03-12 | 115 | 5 | 

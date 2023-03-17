@@ -1,10 +1,10 @@
 # hewm2008/NGenomeSyn - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 66
+★ Stars: 69
 
 [Open repository](https://github.com/hewm2008/NGenomeSyn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 69 | 10 | 
 | 2023-03-15 | 66 | 10 | 
 | 2023-03-14 | 66 | 10 | 
 

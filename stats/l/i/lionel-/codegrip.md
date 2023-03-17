@@ -1,6 +1,6 @@
 # lionel-/codegrip - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 147 | 2 | 
 | 2023-03-16 | 147 | 2 | 
 | 2023-03-14 | 147 | 2 | 
 | 2023-03-13 | 147 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-17 | 139 | 1 | 
 | 2023-02-16 | 139 | 1 | 
 | 2023-02-15 | 139 | 1 | 
-| 2023-02-14 | 139 | 1 | 
 

@@ -1,10 +1,10 @@
 # brave/brave-browser - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1768
+☋ Forks: 1769
 
-★ Stars: 14837
+★ Stars: 14841
 
 [Open repository](https://github.com/brave/brave-browser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14841 | 1769 | 
 | 2023-03-14 | 14837 | 1768 | 
 | 2023-03-13 | 14819 | 1763 | 
 | 2023-03-11 | 14814 | 1763 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 14678 | 1745 | 
 | 2023-02-17 | 14669 | 1741 | 
 | 2023-02-16 | 14660 | 1741 | 
-| 2023-02-15 | 14650 | 1740 | 
 

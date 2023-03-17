@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 208
+★ Stars: 219
 
 [Open repository](https://github.com/guozhigq/flutter_v2ex)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 208 | 19 | 
+| 2023-03-16 | 219 | 19 | 
 | 2023-03-15 | 208 | 19 | 
 | 2023-03-13 | 63 | 6 | 
 | 2023-03-12 | 59 | 6 | 

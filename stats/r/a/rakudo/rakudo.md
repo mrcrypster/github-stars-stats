@@ -1,6 +1,6 @@
 # rakudo/rakudo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 382
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1611 | 382 | 
 | 2023-03-15 | 1611 | 382 | 
 | 2023-03-14 | 1611 | 382 | 
 | 2023-03-13 | 1610 | 382 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1605 | 383 | 
 | 2023-02-16 | 1605 | 383 | 
 | 2023-02-15 | 1605 | 383 | 
-| 2023-02-14 | 1605 | 383 | 
 

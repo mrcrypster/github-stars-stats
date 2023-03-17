@@ -1,6 +1,6 @@
 # kenfehling/latex-cheatsheet - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 76 | 85 | 
 | 2023-03-15 | 76 | 85 | 
 | 2023-03-14 | 75 | 85 | 
 | 2023-03-12 | 74 | 84 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 72 | 83 | 
 | 2023-02-16 | 72 | 83 | 
 | 2023-02-15 | 72 | 83 | 
-| 2023-02-14 | 72 | 83 | 
 

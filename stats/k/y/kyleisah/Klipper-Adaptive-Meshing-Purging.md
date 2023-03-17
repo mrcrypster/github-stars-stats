@@ -1,10 +1,10 @@
 # kyleisah/Klipper-Adaptive-Meshing-Purging - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 25
+☋ Forks: 27
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 273 | 27 | 
 | 2023-03-15 | 272 | 25 | 
 | 2023-03-14 | 270 | 24 | 
 | 2023-03-12 | 267 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 214 | 18 | 
 | 2023-02-17 | 210 | 18 | 
 | 2023-02-15 | 208 | 17 | 
-| 2023-02-14 | 208 | 17 | 
 

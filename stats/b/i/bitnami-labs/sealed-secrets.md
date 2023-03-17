@@ -1,10 +1,10 @@
 # bitnami-labs/sealed-secrets - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 563
+☋ Forks: 564
 
-★ Stars: 5982
+★ Stars: 5983
 
 [Open repository](https://github.com/bitnami-labs/sealed-secrets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5983 | 564 | 
 | 2023-03-15 | 5982 | 563 | 
 | 2023-03-14 | 5977 | 562 | 
 | 2023-03-13 | 5974 | 562 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 5904 | 552 | 
 | 2023-02-17 | 5904 | 552 | 
 | 2023-02-16 | 5901 | 551 | 
-| 2023-02-15 | 5899 | 550 | 
 

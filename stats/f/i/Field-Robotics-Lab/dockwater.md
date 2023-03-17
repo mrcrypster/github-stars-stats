@@ -1,6 +1,6 @@
 # Field-Robotics-Lab/dockwater - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3 | 7 | 
 | 2023-03-15 | 3 | 7 | 
 | 2023-03-14 | 3 | 7 | 
 | 2023-03-13 | 3 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2 | 7 | 
 | 2023-02-16 | 2 | 7 | 
 | 2023-02-15 | 2 | 7 | 
-| 2023-02-14 | 2 | 7 | 
 

@@ -1,10 +1,10 @@
 # fullyallocated/Default - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 21
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/fullyallocated/Default)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 138 | 21 | 
 | 2023-03-15 | 137 | 21 | 
 | 2023-03-13 | 137 | 21 | 
 | 2023-03-12 | 137 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 137 | 21 | 
 | 2023-02-16 | 137 | 21 | 
 | 2023-02-15 | 137 | 21 | 
-| 2023-02-14 | 136 | 21 | 
 

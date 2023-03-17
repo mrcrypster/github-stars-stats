@@ -1,10 +1,10 @@
 # metal3d/bashsimplecurses - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 106
 
-★ Stars: 588
+★ Stars: 589
 
 [Open repository](https://github.com/metal3d/bashsimplecurses)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 589 | 106 | 
 | 2023-03-15 | 588 | 106 | 
 | 2023-03-13 | 588 | 106 | 
 | 2023-03-12 | 587 | 107 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 572 | 105 | 
 | 2023-02-16 | 570 | 104 | 
 | 2023-02-15 | 569 | 103 | 
-| 2023-02-14 | 569 | 103 | 
 

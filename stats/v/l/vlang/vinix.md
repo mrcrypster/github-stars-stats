@@ -1,6 +1,6 @@
 # vlang/vinix - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1573 | 107 | 
 | 2023-03-15 | 1573 | 107 | 
 | 2023-03-14 | 1573 | 107 | 
 | 2023-03-13 | 1569 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1509 | 108 | 
 | 2023-02-17 | 1505 | 107 | 
 | 2023-02-16 | 1504 | 107 | 
-| 2023-02-15 | 1503 | 106 | 
 

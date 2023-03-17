@@ -1,6 +1,6 @@
 # richardodliu/CS-BAOYAN - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 647 | 100 | 
 | 2023-03-15 | 647 | 100 | 
 | 2023-03-13 | 646 | 100 | 
 | 2023-03-12 | 646 | 100 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 641 | 102 | 
 | 2023-02-17 | 640 | 102 | 
 | 2023-02-16 | 640 | 102 | 
-| 2023-02-14 | 640 | 102 | 
 

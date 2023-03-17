@@ -1,10 +1,10 @@
 # SuperIlu/DOjS - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 592
+★ Stars: 593
 
 [Open repository](https://github.com/SuperIlu/DOjS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 593 | 26 | 
 | 2023-03-15 | 592 | 25 | 
 | 2023-03-14 | 592 | 25 | 
 | 2023-03-12 | 591 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 520 | 24 | 
 | 2023-02-16 | 520 | 24 | 
 | 2023-02-15 | 520 | 24 | 
-| 2023-02-14 | 518 | 24 | 
 

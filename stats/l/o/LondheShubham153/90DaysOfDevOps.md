@@ -1,10 +1,10 @@
 # LondheShubham153/90DaysOfDevOps - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1311
+☋ Forks: 1317
 
-★ Stars: 186
+★ Stars: 190
 
 [Open repository](https://github.com/LondheShubham153/90DaysOfDevOps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 190 | 1317 | 
 | 2023-03-15 | 186 | 1311 | 
 | 2023-03-13 | 186 | 1295 | 
 | 2023-03-12 | 185 | 1289 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 158 | 1090 | 
 | 2023-02-17 | 158 | 1085 | 
 | 2023-02-16 | 154 | 1076 | 
-| 2023-02-15 | 153 | 1073 | 
 

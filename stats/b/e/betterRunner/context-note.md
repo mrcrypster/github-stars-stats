@@ -1,6 +1,6 @@
 # betterRunner/context-note - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 627 | 52 | 
 | 2023-03-15 | 627 | 52 | 
 | 2023-03-13 | 625 | 52 | 
 | 2023-03-12 | 625 | 52 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 609 | 52 | 
 | 2023-02-16 | 609 | 52 | 
 | 2023-02-15 | 609 | 52 | 
-| 2023-02-14 | 609 | 52 | 
 

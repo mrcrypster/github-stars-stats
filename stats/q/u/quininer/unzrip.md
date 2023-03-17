@@ -1,10 +1,10 @@
 # quininer/unzrip - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/quininer/unzrip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 195 | 6 | 
 | 2023-03-15 | 194 | 6 | 
 | 2023-03-14 | 181 | 6 | 
 | 2023-03-13 | 175 | 6 | 

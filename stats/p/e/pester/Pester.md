@@ -1,6 +1,6 @@
 # pester/Pester - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 460
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2856 | 460 | 
 | 2023-03-15 | 2856 | 460 | 
 | 2023-03-13 | 2854 | 460 | 
 | 2023-03-12 | 2855 | 461 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2850 | 461 | 
 | 2023-02-16 | 2850 | 461 | 
 | 2023-02-15 | 2850 | 461 | 
-| 2023-02-14 | 2850 | 461 | 
 

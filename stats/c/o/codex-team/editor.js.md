@@ -1,10 +1,10 @@
 # codex-team/editor.js - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 1716
+☋ Forks: 1718
 
-★ Stars: 21913
+★ Stars: 21940
 
 [Open repository](https://github.com/codex-team/editor.js)
 
@@ -13,7 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 21913 | 1716 | 
+| 2023-03-17 | 21940 | 1718 | 
+| 2023-03-16 | 21928 | 1718 | 
 | 2023-03-14 | 21893 | 1712 | 
 | 2023-03-13 | 21878 | 1710 | 
 | 2023-03-12 | 21871 | 1709 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-17 | 21604 | 1692 | 
 | 2023-02-16 | 21582 | 1690 | 
 | 2023-02-15 | 21560 | 1690 | 
-| 2023-02-14 | 21547 | 1688 | 
 

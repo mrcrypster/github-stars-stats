@@ -1,6 +1,6 @@
 # samrocketman/jenkins-script-console-scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 417 | 198 | 
 | 2023-03-15 | 417 | 198 | 
 | 2023-03-13 | 416 | 198 | 
 | 2023-03-12 | 416 | 199 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 414 | 197 | 
 | 2023-02-17 | 414 | 197 | 
 | 2023-02-16 | 414 | 197 | 
-| 2023-02-14 | 414 | 197 | 
 

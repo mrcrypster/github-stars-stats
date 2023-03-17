@@ -1,6 +1,6 @@
 # web3templates/stablo-astro - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 18 | 9 | 
 | 2023-03-15 | 18 | 9 | 
 | 2023-03-13 | 16 | 8 | 
 | 2023-03-12 | 15 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 9 | 10 | 
 | 2023-02-17 | 8 | 7 | 
 | 2023-02-16 | 8 | 6 | 
-| 2023-02-14 | 8 | 6 | 
 

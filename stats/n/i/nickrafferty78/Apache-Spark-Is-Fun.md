@@ -1,6 +1,6 @@
 # nickrafferty78/Apache-Spark-Is-Fun - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1 | 55 | 
 | 2023-03-15 | 1 | 55 | 
 | 2023-03-13 | 1 | 55 | 
 | 2023-03-12 | 1 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1 | 52 | 
 | 2023-02-16 | 1 | 52 | 
 | 2023-02-15 | 1 | 52 | 
-| 2023-02-14 | 1 | 52 | 
 

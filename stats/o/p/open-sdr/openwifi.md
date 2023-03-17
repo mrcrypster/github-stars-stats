@@ -1,10 +1,10 @@
 # open-sdr/openwifi - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 498
+☋ Forks: 499
 
-★ Stars: 2944
+★ Stars: 2946
 
 [Open repository](https://github.com/open-sdr/openwifi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2946 | 499 | 
 | 2023-03-14 | 2944 | 498 | 
 | 2023-03-13 | 2941 | 498 | 
 | 2023-03-12 | 2939 | 498 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 2899 | 489 | 
 | 2023-02-16 | 2897 | 489 | 
 | 2023-02-15 | 2894 | 488 | 
-| 2023-02-14 | 2890 | 488 | 
 

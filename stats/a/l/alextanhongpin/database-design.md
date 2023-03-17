@@ -1,10 +1,10 @@
 # alextanhongpin/database-design - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 38
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/alextanhongpin/database-design)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 334 | 38 | 
 | 2023-03-15 | 333 | 38 | 
 | 2023-03-14 | 333 | 38 | 
 | 2023-03-12 | 333 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 324 | 37 | 
 | 2023-02-16 | 324 | 37 | 
 | 2023-02-15 | 324 | 37 | 
-| 2023-02-14 | 324 | 37 | 
 

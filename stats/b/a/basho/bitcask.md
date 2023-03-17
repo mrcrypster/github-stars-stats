@@ -1,6 +1,6 @@
 # basho/bitcask - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1116 | 167 | 
 | 2023-03-15 | 1116 | 167 | 
 | 2023-03-14 | 1116 | 167 | 
 | 2023-03-13 | 1115 | 167 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1107 | 166 | 
 | 2023-02-16 | 1106 | 166 | 
 | 2023-02-15 | 1105 | 166 | 
-| 2023-02-14 | 1105 | 166 | 
 

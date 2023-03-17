@@ -1,10 +1,10 @@
 # dense-analysis/ale - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1359
 
-★ Stars: 12527
+★ Stars: 12529
 
 [Open repository](https://github.com/dense-analysis/ale)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 12529 | 1359 | 
 | 2023-03-15 | 12527 | 1359 | 
 | 2023-03-14 | 12530 | 1359 | 
 | 2023-03-13 | 12530 | 1359 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 12476 | 1354 | 
 | 2023-02-16 | 12468 | 1354 | 
 | 2023-02-15 | 12466 | 1353 | 
-| 2023-02-14 | 12465 | 1352 | 
 

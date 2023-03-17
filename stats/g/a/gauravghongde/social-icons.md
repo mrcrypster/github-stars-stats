@@ -1,10 +1,10 @@
 # gauravghongde/social-icons - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/gauravghongde/social-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 93 | 58 | 
 | 2023-03-15 | 91 | 57 | 
 | 2023-03-13 | 91 | 57 | 
 | 2023-03-12 | 90 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 81 | 54 | 
 | 2023-02-16 | 79 | 53 | 
 | 2023-02-15 | 79 | 52 | 
-| 2023-02-14 | 79 | 53 | 
 

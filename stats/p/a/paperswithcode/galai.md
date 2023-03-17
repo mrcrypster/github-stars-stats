@@ -1,10 +1,10 @@
 # paperswithcode/galai - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 232
 
-★ Stars: 2157
+★ Stars: 2159
 
 [Open repository](https://github.com/paperswithcode/galai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2159 | 232 | 
 | 2023-03-15 | 2157 | 232 | 
 | 2023-03-14 | 2151 | 232 | 
 | 2023-03-12 | 2142 | 232 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2065 | 220 | 
 | 2023-02-16 | 2062 | 219 | 
 | 2023-02-15 | 2056 | 219 | 
-| 2023-02-14 | 2048 | 217 | 
 

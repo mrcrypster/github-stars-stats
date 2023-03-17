@@ -1,8 +1,8 @@
 # DLR-TS/adore_if_ros_msg - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2 | 2 | 
 | 2023-03-14 | 2 | 1 | 
 | 2023-03-13 | 2 | 1 | 
 | 2023-03-12 | 2 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 2 | 1 | 
 | 2023-02-17 | 2 | 1 | 
 | 2023-02-16 | 2 | 1 | 
-| 2023-02-15 | 2 | 1 | 
 

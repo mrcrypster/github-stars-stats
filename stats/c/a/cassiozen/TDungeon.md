@@ -1,6 +1,6 @@
 # cassiozen/TDungeon - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1100 | 21 | 
 | 2023-03-14 | 1100 | 21 | 
 | 2023-03-13 | 1100 | 21 | 
 | 2023-03-12 | 1100 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 1091 | 20 | 
 | 2023-02-17 | 1091 | 20 | 
 | 2023-02-16 | 1091 | 20 | 
-| 2023-02-15 | 1091 | 20 | 
 

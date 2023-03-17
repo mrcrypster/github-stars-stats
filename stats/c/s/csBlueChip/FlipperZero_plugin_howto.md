@@ -1,10 +1,10 @@
 # csBlueChip/FlipperZero_plugin_howto - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 137
+★ Stars: 139
 
 [Open repository](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 139 | 5 | 
 | 2023-03-14 | 137 | 5 | 
 | 2023-03-13 | 137 | 5 | 
 | 2023-03-12 | 137 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 124 | 4 | 
 | 2023-02-16 | 124 | 4 | 
 | 2023-02-15 | 124 | 4 | 
-| 2023-02-14 | 124 | 4 | 
 

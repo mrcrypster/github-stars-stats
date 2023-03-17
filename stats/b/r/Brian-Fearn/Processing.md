@@ -1,6 +1,6 @@
 # Brian-Fearn/Processing - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 188 | 18 | 
 | 2023-03-15 | 188 | 18 | 
 | 2023-03-13 | 188 | 18 | 
 | 2023-03-12 | 188 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 186 | 18 | 
 | 2023-02-16 | 186 | 18 | 
 | 2023-02-15 | 186 | 18 | 
-| 2023-02-14 | 186 | 18 | 
 

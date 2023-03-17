@@ -1,6 +1,6 @@
 # Mazahir26/koduko - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 81 | 9 | 
 | 2023-03-15 | 81 | 9 | 
 | 2023-03-14 | 81 | 9 | 
 | 2023-03-13 | 81 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 79 | 9 | 
 | 2023-02-16 | 79 | 9 | 
 | 2023-02-15 | 79 | 9 | 
-| 2023-02-14 | 79 | 9 | 
 

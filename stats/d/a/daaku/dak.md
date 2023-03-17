@@ -1,6 +1,6 @@
 # daaku/dak - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 68 | 1 | 
 | 2023-03-15 | 68 | 1 | 
 | 2023-03-13 | 68 | 1 | 
 | 2023-03-12 | 68 | 1 | 

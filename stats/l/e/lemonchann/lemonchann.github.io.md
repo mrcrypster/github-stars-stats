@@ -1,8 +1,8 @@
 # lemonchann/lemonchann.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 345
+☋ Forks: 347
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 91 | 347 | 
 | 2023-03-15 | 91 | 345 | 
 | 2023-03-13 | 91 | 344 | 
 | 2023-03-12 | 91 | 343 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 88 | 324 | 
 | 2023-02-16 | 86 | 323 | 
 | 2023-02-15 | 86 | 321 | 
-| 2023-02-14 | 85 | 321 | 
 

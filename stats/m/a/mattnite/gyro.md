@@ -1,10 +1,10 @@
 # mattnite/gyro - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 25
 
-★ Stars: 505
+★ Stars: 507
 
 [Open repository](https://github.com/mattnite/gyro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 507 | 25 | 
 | 2023-03-15 | 505 | 25 | 
 | 2023-03-14 | 503 | 25 | 
 | 2023-03-12 | 503 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 495 | 25 | 
 | 2023-02-16 | 495 | 25 | 
 | 2023-02-15 | 495 | 25 | 
-| 2023-02-14 | 494 | 25 | 
 

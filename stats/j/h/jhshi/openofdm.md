@@ -1,6 +1,6 @@
 # jhshi/openofdm - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 266 | 148 | 
 | 2023-03-15 | 266 | 148 | 
 | 2023-03-14 | 266 | 148 | 
 | 2023-03-12 | 266 | 148 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 259 | 145 | 
 | 2023-02-17 | 259 | 145 | 
 | 2023-02-16 | 258 | 145 | 
-| 2023-02-15 | 258 | 145 | 
 

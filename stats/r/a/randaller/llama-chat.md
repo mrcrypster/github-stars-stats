@@ -1,10 +1,10 @@
 # randaller/llama-chat - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 38
+☋ Forks: 45
 
-★ Stars: 277
+★ Stars: 321
 
 [Open repository](https://github.com/randaller/llama-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 321 | 45 | 
 | 2023-03-15 | 277 | 38 | 
 | 2023-03-14 | 263 | 35 | 
 | 2023-03-13 | 219 | 29 | 

@@ -1,10 +1,10 @@
 # serenity-rs/serenity - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 479
+☋ Forks: 478
 
-★ Stars: 3438
+★ Stars: 3444
 
 [Open repository](https://github.com/serenity-rs/serenity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3444 | 478 | 
 | 2023-03-15 | 3438 | 479 | 
 | 2023-03-13 | 3437 | 479 | 
 | 2023-03-12 | 3430 | 478 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 3393 | 477 | 
 | 2023-02-16 | 3391 | 476 | 
 | 2023-02-15 | 3389 | 474 | 
-| 2023-02-14 | 3384 | 474 | 
 

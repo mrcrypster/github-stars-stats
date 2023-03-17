@@ -1,6 +1,6 @@
 # axiomhq/zig-hyperloglog - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 76 | 2 | 
 | 2023-03-15 | 76 | 2 | 
 | 2023-03-14 | 76 | 2 | 
 | 2023-03-12 | 76 | 2 | 

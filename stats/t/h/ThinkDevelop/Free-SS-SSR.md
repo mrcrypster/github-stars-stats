@@ -1,10 +1,10 @@
 # ThinkDevelop/Free-SS-SSR - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 471
+☋ Forks: 472
 
-★ Stars: 3568
+★ Stars: 3567
 
 [Open repository](https://github.com/ThinkDevelop/Free-SS-SSR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3567 | 472 | 
 | 2023-03-15 | 3568 | 471 | 
 | 2023-03-13 | 3570 | 471 | 
 | 2023-03-12 | 3568 | 471 | 

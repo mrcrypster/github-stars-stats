@@ -1,8 +1,8 @@
 # danielbeach/dataEngineeringTemplate - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 20
+☋ Forks: 19
 
 ★ Stars: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 70 | 19 | 
 | 2023-03-15 | 70 | 20 | 
 | 2023-03-14 | 70 | 20 | 
 | 2023-03-12 | 70 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 68 | 20 | 
 | 2023-02-16 | 68 | 20 | 
 | 2023-02-15 | 68 | 20 | 
-| 2023-02-14 | 68 | 20 | 
 

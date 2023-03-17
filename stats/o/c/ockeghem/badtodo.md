@@ -1,10 +1,10 @@
 # ockeghem/badtodo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 507
+★ Stars: 511
 
 [Open repository](https://github.com/ockeghem/badtodo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 511 | 10 | 
 | 2023-03-15 | 507 | 10 | 
 | 2023-03-14 | 506 | 10 | 
 | 2023-03-13 | 505 | 10 | 

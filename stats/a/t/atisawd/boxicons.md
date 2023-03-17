@@ -1,10 +1,10 @@
 # atisawd/boxicons - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 215
 
-★ Stars: 2260
+★ Stars: 2261
 
 [Open repository](https://github.com/atisawd/boxicons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2261 | 215 | 
 | 2023-03-14 | 2260 | 215 | 
 | 2023-03-13 | 2258 | 214 | 
 | 2023-03-12 | 2255 | 213 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 2228 | 207 | 
 | 2023-02-16 | 2227 | 208 | 
 | 2023-02-15 | 2225 | 208 | 
-| 2023-02-14 | 2222 | 208 | 
 

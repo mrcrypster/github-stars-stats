@@ -1,10 +1,10 @@
 # CodingGarden/mac-setup - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 51
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/CodingGarden/mac-setup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 194 | 51 | 
 | 2023-03-15 | 193 | 51 | 
 | 2023-03-13 | 193 | 51 | 
 | 2023-03-12 | 190 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 187 | 50 | 
 | 2023-02-17 | 187 | 50 | 
 | 2023-02-16 | 187 | 50 | 
-| 2023-02-14 | 187 | 50 | 
 

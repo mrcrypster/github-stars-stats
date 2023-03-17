@@ -1,10 +1,10 @@
 # AdminTurnedDevOps/100DaysOfContainersAndOrchestration - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 170
 
-★ Stars: 522
+★ Stars: 524
 
 [Open repository](https://github.com/AdminTurnedDevOps/100DaysOfContainersAndOrchestration)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 524 | 170 | 
 | 2023-03-15 | 522 | 170 | 
 | 2023-03-14 | 519 | 170 | 
 | 2023-03-12 | 517 | 170 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 493 | 156 | 
 | 2023-02-16 | 490 | 156 | 
 | 2023-02-15 | 485 | 152 | 
-| 2023-02-14 | 466 | 144 | 
 

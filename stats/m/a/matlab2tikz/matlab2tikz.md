@@ -1,10 +1,10 @@
 # matlab2tikz/matlab2tikz - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 301
 
-★ Stars: 1314
+★ Stars: 1315
 
 [Open repository](https://github.com/matlab2tikz/matlab2tikz)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1315 | 301 | 
 | 2023-03-15 | 1314 | 301 | 
 | 2023-03-14 | 1314 | 301 | 
 | 2023-03-13 | 1311 | 299 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1301 | 299 | 
 | 2023-02-16 | 1301 | 299 | 
 | 2023-02-15 | 1301 | 299 | 
-| 2023-02-14 | 1301 | 299 | 
 

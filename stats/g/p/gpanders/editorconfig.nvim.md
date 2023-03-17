@@ -1,10 +1,10 @@
 # gpanders/editorconfig.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 303
+★ Stars: 302
 
 [Open repository](https://github.com/gpanders/editorconfig.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 302 | 7 | 
 | 2023-03-15 | 303 | 7 | 
 | 2023-03-13 | 303 | 7 | 
 | 2023-03-12 | 303 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 292 | 7 | 
 | 2023-02-16 | 292 | 7 | 
 | 2023-02-15 | 292 | 7 | 
-| 2023-02-14 | 292 | 7 | 
 

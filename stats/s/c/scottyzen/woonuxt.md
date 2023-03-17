@@ -1,6 +1,6 @@
 # scottyzen/woonuxt - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 191 | 23 | 
 | 2023-03-14 | 191 | 23 | 
 | 2023-03-13 | 190 | 21 | 
 | 2023-03-12 | 190 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 121 | 15 | 
 | 2023-02-16 | 121 | 15 | 
 | 2023-02-15 | 120 | 15 | 
-| 2023-02-14 | 118 | 15 | 
 

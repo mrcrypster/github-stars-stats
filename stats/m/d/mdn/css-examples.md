@@ -1,10 +1,10 @@
 # mdn/css-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 738
+☋ Forks: 740
 
-★ Stars: 446
+★ Stars: 447
 
 [Open repository](https://github.com/mdn/css-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 447 | 740 | 
 | 2023-03-15 | 446 | 738 | 
 | 2023-03-14 | 445 | 737 | 
 | 2023-03-12 | 444 | 736 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 438 | 722 | 
 | 2023-02-16 | 438 | 724 | 
 | 2023-02-15 | 438 | 725 | 
-| 2023-02-14 | 438 | 725 | 
 

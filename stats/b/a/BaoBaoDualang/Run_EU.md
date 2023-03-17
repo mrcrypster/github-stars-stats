@@ -1,10 +1,10 @@
 # BaoBaoDualang/Run_EU - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 290
+★ Stars: 299
 
 [Open repository](https://github.com/BaoBaoDualang/Run_EU)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 299 | 18 | 
 | 2023-03-14 | 290 | 17 | 
 | 2023-03-13 | 284 | 17 | 
 | 2023-03-12 | 282 | 17 | 

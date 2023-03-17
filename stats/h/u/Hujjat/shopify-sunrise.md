@@ -1,6 +1,6 @@
 # Hujjat/shopify-sunrise - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 58 | 36 | 
 | 2023-03-14 | 58 | 36 | 
 | 2023-03-13 | 57 | 36 | 
 | 2023-03-12 | 57 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 57 | 33 | 
 | 2023-02-16 | 57 | 33 | 
 | 2023-02-15 | 57 | 33 | 
-| 2023-02-14 | 57 | 32 | 
 

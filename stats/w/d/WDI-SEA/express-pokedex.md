@@ -1,6 +1,6 @@
 # WDI-SEA/express-pokedex - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 512
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 10 | 512 | 
 | 2023-03-14 | 10 | 512 | 
 | 2023-03-13 | 10 | 512 | 
 | 2023-03-12 | 10 | 512 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 10 | 513 | 
 | 2023-02-16 | 10 | 513 | 
 | 2023-02-15 | 10 | 513 | 
-| 2023-02-14 | 10 | 513 | 
 

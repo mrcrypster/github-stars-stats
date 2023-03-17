@@ -1,6 +1,6 @@
 # Destiny1984/XCI-Cutter - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 124 | 15 | 
 | 2023-03-15 | 124 | 15 | 
 | 2023-03-14 | 124 | 15 | 
 | 2023-03-12 | 124 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 124 | 15 | 
 | 2023-02-16 | 124 | 15 | 
 | 2023-02-15 | 124 | 15 | 
-| 2023-02-14 | 124 | 15 | 
 

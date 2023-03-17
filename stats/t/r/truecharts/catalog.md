@@ -1,8 +1,8 @@
 # truecharts/catalog - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 142
+☋ Forks: 141
 
 ★ Stars: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 145 | 141 | 
 | 2023-03-15 | 145 | 142 | 
 | 2023-03-14 | 144 | 142 | 
 | 2023-03-13 | 144 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 128 | 124 | 
 | 2023-02-16 | 128 | 124 | 
 | 2023-02-15 | 128 | 124 | 
-| 2023-02-14 | 127 | 123 | 
 

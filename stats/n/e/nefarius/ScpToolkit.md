@@ -1,10 +1,10 @@
 # nefarius/ScpToolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 542
 
-★ Stars: 2955
+★ Stars: 2956
 
 [Open repository](https://github.com/nefarius/ScpToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2956 | 542 | 
 | 2023-03-14 | 2955 | 542 | 
 | 2023-03-13 | 2954 | 542 | 
 | 2023-03-12 | 2954 | 542 | 

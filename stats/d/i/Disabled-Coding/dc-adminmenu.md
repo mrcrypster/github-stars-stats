@@ -1,8 +1,8 @@
 # Disabled-Coding/dc-adminmenu - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 65 | 41 | 
 | 2023-03-15 | 65 | 40 | 
 | 2023-03-14 | 66 | 40 | 
 | 2023-03-13 | 66 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 66 | 40 | 
 | 2023-02-16 | 66 | 40 | 
 | 2023-02-15 | 66 | 40 | 
-| 2023-02-14 | 66 | 40 | 
 

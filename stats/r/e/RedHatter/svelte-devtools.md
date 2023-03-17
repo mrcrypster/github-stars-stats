@@ -1,6 +1,6 @@
 # RedHatter/svelte-devtools - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 910 | 57 | 
 | 2023-03-14 | 910 | 57 | 
 | 2023-03-13 | 910 | 57 | 
 | 2023-03-12 | 911 | 57 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 894 | 54 | 
 | 2023-02-16 | 893 | 54 | 
 | 2023-02-15 | 892 | 54 | 
-| 2023-02-14 | 892 | 54 | 
 

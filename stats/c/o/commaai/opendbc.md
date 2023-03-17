@@ -1,10 +1,10 @@
 # commaai/opendbc - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 930
 
-★ Stars: 1311
+★ Stars: 1312
 
 [Open repository](https://github.com/commaai/opendbc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1312 | 930 | 
 | 2023-03-15 | 1311 | 930 | 
 | 2023-03-13 | 1310 | 930 | 
 | 2023-03-12 | 1309 | 929 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1297 | 924 | 
 | 2023-02-16 | 1296 | 924 | 
 | 2023-02-15 | 1296 | 924 | 
-| 2023-02-14 | 1295 | 923 | 
 

@@ -1,10 +1,10 @@
 # OIRNOIR/WebM-Maker-Thing-Idk - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 68
 
-★ Stars: 589
+★ Stars: 590
 
 [Open repository](https://github.com/OIRNOIR/WebM-Maker-Thing-Idk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 590 | 68 | 
 | 2023-03-14 | 589 | 68 | 
 | 2023-03-13 | 589 | 68 | 
 | 2023-03-12 | 589 | 68 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 585 | 68 | 
 | 2023-02-17 | 585 | 68 | 
 | 2023-02-16 | 585 | 68 | 
-| 2023-02-15 | 584 | 68 | 
 

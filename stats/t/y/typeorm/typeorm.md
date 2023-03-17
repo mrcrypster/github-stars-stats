@@ -1,10 +1,10 @@
 # typeorm/typeorm - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 5701
+☋ Forks: 5704
 
-★ Stars: 30752
+★ Stars: 30763
 
 [Open repository](https://github.com/typeorm/typeorm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 30763 | 5704 | 
 | 2023-03-15 | 30752 | 5701 | 
 | 2023-03-13 | 30744 | 5696 | 
 | 2023-03-12 | 30729 | 5695 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 30432 | 5668 | 
 | 2023-02-16 | 30426 | 5669 | 
 | 2023-02-15 | 30414 | 5669 | 
-| 2023-02-14 | 30404 | 5668 | 
 

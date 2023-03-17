@@ -1,6 +1,6 @@
 # WoMspace/Epoch-Shader - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 27 | 1 | 
 | 2023-03-14 | 27 | 1 | 
 | 2023-03-13 | 27 | - | 
 | 2023-03-12 | 27 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 27 | - | 
 | 2023-02-16 | 27 | - | 
 | 2023-02-15 | 27 | - | 
-| 2023-02-14 | 27 | - | 
 

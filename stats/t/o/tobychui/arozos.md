@@ -1,6 +1,6 @@
 # tobychui/arozos - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1142 | 92 | 
 | 2023-03-15 | 1142 | 92 | 
 | 2023-03-14 | 1142 | 92 | 
 | 2023-03-12 | 1142 | 91 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1119 | 89 | 
 | 2023-02-16 | 1117 | 90 | 
 | 2023-02-15 | 1115 | 90 | 
-| 2023-02-14 | 1115 | 90 | 
 

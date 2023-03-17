@@ -1,10 +1,10 @@
 # facebookincubator/velox - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 532
+☋ Forks: 531
 
-★ Stars: 2196
+★ Stars: 2200
 
 [Open repository](https://github.com/facebookincubator/velox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2200 | 531 | 
 | 2023-03-15 | 2196 | 532 | 
 | 2023-03-14 | 2190 | 531 | 
 | 2023-03-13 | 2188 | 527 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2097 | 511 | 
 | 2023-02-16 | 2092 | 510 | 
 | 2023-02-15 | 2086 | 510 | 
-| 2023-02-14 | 2084 | 509 | 
 

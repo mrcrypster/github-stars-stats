@@ -1,10 +1,10 @@
 # josiahsrc/dough - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 25
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/josiahsrc/dough)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 564 | 25 | 
 | 2023-03-15 | 563 | 25 | 
 | 2023-03-13 | 563 | 25 | 
 | 2023-03-12 | 562 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 554 | 25 | 
 | 2023-02-17 | 554 | 25 | 
 | 2023-02-16 | 554 | 25 | 
-| 2023-02-15 | 553 | 25 | 
 

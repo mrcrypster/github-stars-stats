@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-displaying-associated-data-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1844
+☋ Forks: 1881
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1 | 1881 | 
 | 2023-03-15 | 1 | 1844 | 
 | 2023-03-14 | 1 | 1834 | 
 | 2023-03-13 | 1 | 1834 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | - | 1793 | 
 | 2023-02-16 | - | 1793 | 
 | 2023-02-15 | - | 1792 | 
-| 2023-02-14 | - | 1791 | 
 

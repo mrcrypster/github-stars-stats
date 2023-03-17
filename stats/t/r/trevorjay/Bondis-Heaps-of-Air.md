@@ -1,6 +1,6 @@
 # trevorjay/Bondis-Heaps-of-Air - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 10 | 1 | 
 | 2023-03-14 | 10 | 1 | 
 | 2023-03-13 | 10 | 1 | 
 | 2023-03-12 | 10 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 10 | 1 | 
 | 2023-02-16 | 10 | 1 | 
 | 2023-02-15 | 10 | 1 | 
-| 2023-02-14 | 10 | 1 | 
 

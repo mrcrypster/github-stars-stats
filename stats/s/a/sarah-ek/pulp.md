@@ -1,10 +1,10 @@
 # sarah-ek/pulp - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 116
+★ Stars: 115
 
 [Open repository](https://github.com/sarah-ek/pulp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 115 | 1 | 
 | 2023-03-15 | 116 | 1 | 
 | 2023-03-14 | 116 | 1 | 
 | 2023-03-12 | 116 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 113 | 1 | 
 | 2023-02-16 | 113 | 1 | 
 | 2023-02-15 | 113 | 1 | 
-| 2023-02-14 | 113 | 1 | 
 

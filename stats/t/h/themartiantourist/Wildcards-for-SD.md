@@ -1,10 +1,10 @@
 # themartiantourist/Wildcards-for-SD - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/themartiantourist/Wildcards-for-SD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 24 | 2 | 
 | 2023-03-15 | 23 | 2 | 
 | 2023-03-13 | 23 | 2 | 
 | 2023-03-12 | 23 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 22 | 1 | 
 | 2023-02-16 | 21 | 1 | 
 | 2023-02-15 | 21 | 1 | 
-| 2023-02-14 | 21 | 1 | 
 

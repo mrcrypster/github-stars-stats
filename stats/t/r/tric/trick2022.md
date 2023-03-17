@@ -1,6 +1,6 @@
 # tric/trick2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 117 | 1 | 
 | 2023-03-14 | 117 | 1 | 
 | 2023-03-13 | 117 | 1 | 
 | 2023-03-12 | 117 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 117 | 1 | 
 | 2023-02-16 | 117 | 1 | 
 | 2023-02-15 | 117 | 1 | 
-| 2023-02-14 | 117 | 1 | 
 

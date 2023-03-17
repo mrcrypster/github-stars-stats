@@ -1,6 +1,6 @@
 # filecoin-project/filecoin-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 257
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 177 | 257 | 
 | 2023-03-15 | 177 | 257 | 
 

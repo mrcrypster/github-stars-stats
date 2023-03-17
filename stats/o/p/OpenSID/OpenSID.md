@@ -1,6 +1,6 @@
 # OpenSID/OpenSID - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 915
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 866 | 915 | 
 | 2023-03-15 | 866 | 915 | 
 | 2023-03-14 | 866 | 915 | 
 | 2023-03-13 | 865 | 915 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 853 | 913 | 
 | 2023-02-16 | 853 | 913 | 
 | 2023-02-15 | 853 | 913 | 
-| 2023-02-14 | 852 | 913 | 
 

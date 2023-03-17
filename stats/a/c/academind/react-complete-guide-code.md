@@ -1,6 +1,6 @@
 # academind/react-complete-guide-code - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 12018
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4930 | 12018 | 
 | 2023-03-15 | 4930 | 12018 | 
 | 2023-03-13 | 4914 | 11984 | 
 | 2023-03-12 | 4906 | 11966 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 4760 | 11561 | 
 | 2023-02-16 | 4759 | 11541 | 
 | 2023-02-15 | 4759 | 11537 | 
-| 2023-02-14 | 4741 | 11507 | 
 

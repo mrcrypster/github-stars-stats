@@ -1,6 +1,6 @@
 # liveviewnative/ios-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 41 | 6 | 
 | 2023-03-15 | 41 | 6 | 
 | 2023-03-13 | 41 | 6 | 
 | 2023-03-12 | 41 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 40 | 6 | 
 | 2023-02-17 | 40 | 6 | 
 | 2023-02-16 | 40 | 6 | 
-| 2023-02-14 | 40 | 6 | 
 

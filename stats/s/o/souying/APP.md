@@ -1,10 +1,10 @@
 # souying/APP - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/souying/APP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 130 | 19 | 
 | 2023-03-15 | 129 | 19 | 
 | 2023-03-14 | 129 | 19 | 
 | 2023-03-12 | 128 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 111 | 19 | 
 | 2023-02-16 | 110 | 19 | 
 | 2023-02-15 | 109 | 19 | 
-| 2023-02-14 | 109 | 19 | 
 

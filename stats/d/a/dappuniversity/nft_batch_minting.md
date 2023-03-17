@@ -1,6 +1,6 @@
 # dappuniversity/nft_batch_minting - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 126 | 123 | 
 | 2023-03-15 | 126 | 123 | 
 | 2023-03-13 | 126 | 123 | 
 | 2023-03-12 | 126 | 124 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 127 | 124 | 
 | 2023-02-16 | 127 | 124 | 
 | 2023-02-15 | 127 | 124 | 
-| 2023-02-14 | 127 | 124 | 
 

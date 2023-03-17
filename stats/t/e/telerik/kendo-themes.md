@@ -1,10 +1,10 @@
 # telerik/kendo-themes - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 63
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/telerik/kendo-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 118 | 63 | 
 | 2023-03-14 | 117 | 63 | 
 | 2023-03-13 | 116 | 63 | 
 | 2023-03-12 | 116 | 63 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 115 | 61 | 
 | 2023-02-16 | 115 | 61 | 
 | 2023-02-15 | 115 | 61 | 
-| 2023-02-14 | 115 | 61 | 
 

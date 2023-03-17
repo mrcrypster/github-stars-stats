@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 16
 
-☋ Forks: 61
+☋ Forks: 65
 
-★ Stars: 80
+★ Stars: 90
 
 [Open repository](https://github.com/fajarnurwahid/adminhub)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 80 | 61 | 
+| 2023-03-16 | 90 | 65 | 
 | 2023-03-15 | 79 | 61 | 
 | 2023-03-14 | 75 | 55 | 
 | 2023-03-13 | 70 | 54 | 

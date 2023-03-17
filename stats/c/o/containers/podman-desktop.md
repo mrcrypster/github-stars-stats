@@ -1,10 +1,10 @@
 # containers/podman-desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 128
 
-★ Stars: 2372
+★ Stars: 2379
 
 [Open repository](https://github.com/containers/podman-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2379 | 128 | 
 | 2023-03-14 | 2372 | 128 | 
 | 2023-03-13 | 2370 | 127 | 
 | 2023-03-12 | 2367 | 127 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 2298 | 119 | 
 | 2023-02-17 | 2294 | 119 | 
 | 2023-02-16 | 2288 | 119 | 
-| 2023-02-14 | 2285 | 118 | 
 

@@ -1,6 +1,6 @@
 # itsnebulalol/ios15-tweaks - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 325 | 45 | 
 | 2023-03-15 | 325 | 45 | 
 | 2023-03-14 | 325 | 45 | 
 | 2023-03-13 | 325 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 318 | 44 | 
 | 2023-02-16 | 318 | 45 | 
 | 2023-02-15 | 317 | 45 | 
-| 2023-02-14 | 316 | 45 | 
 

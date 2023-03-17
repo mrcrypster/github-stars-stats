@@ -1,10 +1,10 @@
 # ronmarasigan/LavaLust - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 201
+☋ Forks: 202
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/ronmarasigan/LavaLust)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 358 | 202 | 
 | 2023-03-14 | 357 | 201 | 
 | 2023-03-13 | 357 | 201 | 
 | 2023-03-12 | 357 | 201 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 357 | 201 | 
 | 2023-02-16 | 357 | 201 | 
 | 2023-02-15 | 357 | 201 | 
-| 2023-02-14 | 357 | 201 | 
 

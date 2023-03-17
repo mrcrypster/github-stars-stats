@@ -1,10 +1,10 @@
 # salaboy/from-monolith-to-k8s - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 60
+☋ Forks: 62
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/salaboy/from-monolith-to-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 247 | 62 | 
 | 2023-03-15 | 246 | 60 | 
 | 2023-03-13 | 246 | 60 | 
 | 2023-03-12 | 246 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 243 | 59 | 
 | 2023-02-16 | 243 | 59 | 
 | 2023-02-15 | 243 | 59 | 
-| 2023-02-14 | 242 | 59 | 
 

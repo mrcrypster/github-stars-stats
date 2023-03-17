@@ -1,10 +1,10 @@
 # agmmnn/awesome-blender - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 155
 
-★ Stars: 2380
+★ Stars: 2379
 
 [Open repository](https://github.com/agmmnn/awesome-blender)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2379 | 155 | 
 | 2023-03-15 | 2380 | 155 | 
 | 2023-03-14 | 2379 | 155 | 
 | 2023-03-12 | 2376 | 155 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2295 | 149 | 
 | 2023-02-16 | 2288 | 149 | 
 | 2023-02-15 | 2287 | 149 | 
-| 2023-02-14 | 2279 | 148 | 
 

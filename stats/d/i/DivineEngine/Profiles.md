@@ -1,10 +1,10 @@
 # DivineEngine/Profiles - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1450
 
-★ Stars: 4654
+★ Stars: 4658
 
 [Open repository](https://github.com/DivineEngine/Profiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4658 | 1450 | 
 | 2023-03-15 | 4654 | 1450 | 
 | 2023-03-13 | 4653 | 1451 | 
 | 2023-03-12 | 4652 | 1450 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 4624 | 1447 | 
 | 2023-02-16 | 4619 | 1450 | 
 | 2023-02-15 | 4618 | 1449 | 
-| 2023-02-14 | 4616 | 1446 | 
 

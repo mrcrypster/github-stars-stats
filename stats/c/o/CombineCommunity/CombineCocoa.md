@@ -1,10 +1,10 @@
 # CombineCommunity/CombineCocoa - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 100
 
-★ Stars: 1374
+★ Stars: 1376
 
 [Open repository](https://github.com/CombineCommunity/CombineCocoa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1376 | 100 | 
 | 2023-03-15 | 1374 | 100 | 
 | 2023-03-13 | 1372 | 100 | 
 | 2023-03-12 | 1371 | 100 | 

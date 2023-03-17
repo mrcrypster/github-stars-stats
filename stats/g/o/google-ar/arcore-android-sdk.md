@@ -1,8 +1,8 @@
 # google-ar/arcore-android-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 1168
+☋ Forks: 1170
 
 ★ Stars: 4669
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4669 | 1170 | 
 | 2023-03-15 | 4669 | 1168 | 
 | 2023-03-14 | 4667 | 1168 | 
 | 2023-03-13 | 4667 | 1168 | 

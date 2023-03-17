@@ -1,10 +1,10 @@
 # sameersbn/docker-gitlab - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 2098
+☋ Forks: 2099
 
-★ Stars: 7532
+★ Stars: 7535
 
 [Open repository](https://github.com/sameersbn/docker-gitlab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 7535 | 2099 | 
 | 2023-03-15 | 7532 | 2098 | 
 | 2023-03-14 | 7531 | 2097 | 
 | 2023-03-12 | 7532 | 2097 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 7517 | 2089 | 
 | 2023-02-16 | 7518 | 2089 | 
 | 2023-02-15 | 7517 | 2088 | 
-| 2023-02-14 | 7516 | 2087 | 
 

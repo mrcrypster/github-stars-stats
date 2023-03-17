@@ -1,10 +1,10 @@
 # QikaiXu/GLaDOS-checkin - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 793
+☋ Forks: 805
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/QikaiXu/GLaDOS-checkin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 94 | 805 | 
 | 2023-03-14 | 93 | 793 | 
 | 2023-03-13 | 92 | 778 | 
 | 2023-03-12 | 89 | 763 | 

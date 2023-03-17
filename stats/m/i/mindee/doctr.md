@@ -1,6 +1,6 @@
 # mindee/doctr - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1637 | 221 | 
 | 2023-03-14 | 1637 | 221 | 
 | 2023-03-13 | 1635 | 220 | 
 | 2023-03-12 | 1634 | 220 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1590 | 214 | 
 | 2023-02-16 | 1586 | 212 | 
 | 2023-02-15 | 1584 | 211 | 
-| 2023-02-14 | 1582 | 211 | 
 

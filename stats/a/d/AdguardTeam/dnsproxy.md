@@ -1,10 +1,10 @@
 # AdguardTeam/dnsproxy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 1669
+★ Stars: 1672
 
 [Open repository](https://github.com/AdguardTeam/dnsproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1672 | 190 | 
 | 2023-03-15 | 1669 | 189 | 
 | 2023-03-13 | 1667 | 185 | 
 | 2023-03-12 | 1666 | 185 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1640 | 183 | 
 | 2023-02-16 | 1640 | 181 | 
 | 2023-02-15 | 1641 | 181 | 
-| 2023-02-14 | 1638 | 181 | 
 

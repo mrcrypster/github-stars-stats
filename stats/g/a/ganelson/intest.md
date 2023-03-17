@@ -1,6 +1,6 @@
 # ganelson/intest - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 32 | 9 | 
 | 2023-03-14 | 32 | 9 | 
 | 2023-03-13 | 32 | 9 | 
 | 2023-03-12 | 32 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 32 | 9 | 
 | 2023-02-16 | 31 | 9 | 
 | 2023-02-15 | 31 | 9 | 
-| 2023-02-14 | 31 | 9 | 
 

@@ -1,6 +1,6 @@
 # GouvernementFR/dsfr - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 128 | 29 | 
 | 2023-03-15 | 128 | 29 | 
 | 2023-03-14 | 127 | 29 | 
 | 2023-03-12 | 127 | 29 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 126 | 29 | 
 | 2023-02-16 | 126 | 29 | 
 | 2023-02-15 | 126 | 29 | 
-| 2023-02-14 | 125 | 29 | 
 

@@ -1,10 +1,10 @@
 # chiphuyen/just-pandas-things - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 869
+★ Stars: 870
 
 [Open repository](https://github.com/chiphuyen/just-pandas-things)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 870 | 126 | 
 | 2023-03-15 | 869 | 125 | 
 | 2023-03-13 | 868 | 126 | 
 | 2023-03-12 | 868 | 127 | 

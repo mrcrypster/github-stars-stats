@@ -1,6 +1,6 @@
 # mozilla-mobile/focus-android - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 743
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2121 | 743 | 
 | 2023-03-15 | 2121 | 743 | 
 | 2023-03-14 | 2121 | 743 | 
 | 2023-03-12 | 2121 | 743 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2129 | 744 | 
 | 2023-02-16 | 2129 | 744 | 
 | 2023-02-15 | 2129 | 744 | 
-| 2023-02-14 | 2129 | 744 | 
 

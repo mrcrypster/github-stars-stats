@@ -1,10 +1,10 @@
 # iampawan/ChatGPT-Flutter-AIChatBot - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 50
 
-★ Stars: 103
+★ Stars: 106
 
 [Open repository](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 106 | 50 | 
 | 2023-03-15 | 103 | 50 | 
 | 2023-03-13 | 103 | 49 | 
 | 2023-03-12 | 101 | 49 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 80 | 38 | 
 | 2023-02-16 | 79 | 37 | 
 | 2023-02-15 | 78 | 36 | 
-| 2023-02-14 | 75 | 35 | 
 

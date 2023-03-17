@@ -1,10 +1,10 @@
 # ros-industrial/abb_experimental - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 106
 
-★ Stars: 97
+★ Stars: 96
 
 [Open repository](https://github.com/ros-industrial/abb_experimental)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 96 | 106 | 
 | 2023-03-15 | 97 | 106 | 
 | 2023-03-14 | 97 | 106 | 
 | 2023-03-13 | 97 | 106 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 97 | 106 | 
 | 2023-02-16 | 97 | 106 | 
 | 2023-02-15 | 97 | 106 | 
-| 2023-02-14 | 97 | 106 | 
 

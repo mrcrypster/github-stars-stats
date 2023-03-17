@@ -1,10 +1,10 @@
 # massun-onibakuchi/grim-reaper - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/massun-onibakuchi/grim-reaper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 74 | 4 | 
 | 2023-03-15 | 73 | 4 | 
 | 2023-03-13 | 73 | 4 | 
 | 2023-03-12 | 73 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 70 | 4 | 
 | 2023-02-16 | 70 | 4 | 
 | 2023-02-15 | 69 | 4 | 
-| 2023-02-14 | 69 | 4 | 
 

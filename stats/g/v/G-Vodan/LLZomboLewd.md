@@ -1,10 +1,10 @@
 # G-Vodan/LLZomboLewd - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 35
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/G-Vodan/LLZomboLewd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 38 | 35 | 
 | 2023-03-15 | 37 | 35 | 
 | 2023-03-14 | 37 | 35 | 
 | 2023-03-13 | 37 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 33 | 32 | 
 | 2023-02-16 | 33 | 32 | 
 | 2023-02-15 | 33 | 32 | 
-| 2023-02-14 | 33 | 32 | 
 

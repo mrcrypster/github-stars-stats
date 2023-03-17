@@ -1,10 +1,10 @@
 # crowdsecurity/crowdsec - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 339
 
-★ Stars: 6255
+★ Stars: 6263
 
 [Open repository](https://github.com/crowdsecurity/crowdsec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 6263 | 339 | 
 | 2023-03-15 | 6255 | 339 | 
 | 2023-03-13 | 6222 | 338 | 
 | 2023-03-12 | 6220 | 338 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 6161 | 336 | 
 | 2023-02-16 | 6157 | 336 | 
 | 2023-02-15 | 6151 | 335 | 
-| 2023-02-14 | 6148 | 335 | 
 

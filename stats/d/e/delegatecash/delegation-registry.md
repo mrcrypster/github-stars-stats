@@ -1,10 +1,10 @@
 # delegatecash/delegation-registry - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 31
 
-★ Stars: 120
+★ Stars: 119
 
 [Open repository](https://github.com/delegatecash/delegation-registry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 119 | 31 | 
 | 2023-03-15 | 120 | 31 | 
 | 2023-03-14 | 120 | 30 | 
 | 2023-03-13 | 120 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 116 | 27 | 
 | 2023-02-16 | 116 | 27 | 
 | 2023-02-15 | 115 | 27 | 
-| 2023-02-14 | 114 | 27 | 
 

@@ -1,10 +1,10 @@
 # tutao/tutanota - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 487
+☋ Forks: 486
 
-★ Stars: 5186
+★ Stars: 5190
 
 [Open repository](https://github.com/tutao/tutanota)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5190 | 486 | 
 | 2023-03-14 | 5186 | 487 | 
 | 2023-03-13 | 5184 | 487 | 
 | 2023-03-12 | 5181 | 487 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 5126 | 486 | 
 | 2023-02-16 | 5124 | 486 | 
 | 2023-02-15 | 5120 | 486 | 
-| 2023-02-14 | 5118 | 486 | 
 

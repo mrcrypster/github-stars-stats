@@ -1,6 +1,6 @@
 # namlhhe153396/ZUI - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4 | 15 | 
 | 2023-03-14 | 4 | 15 | 
 | 2023-03-13 | 4 | 16 | 
 | 2023-03-12 | 4 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 3 | 16 | 
 | 2023-02-16 | 3 | 16 | 
 | 2023-02-15 | 3 | 16 | 
-| 2023-02-14 | 3 | 16 | 
 

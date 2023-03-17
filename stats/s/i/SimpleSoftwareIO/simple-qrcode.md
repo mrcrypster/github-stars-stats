@@ -1,8 +1,8 @@
 # SimpleSoftwareIO/simple-qrcode - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 312
+☋ Forks: 313
 
 ★ Stars: 2295
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2295 | 313 | 
 | 2023-03-15 | 2295 | 312 | 
 | 2023-03-14 | 2295 | 312 | 
 

@@ -1,6 +1,6 @@
 # tpaviot/pythonocc-core - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 972 | 311 | 
 | 2023-03-15 | 972 | 311 | 
 | 2023-03-13 | 971 | 311 | 
 | 2023-03-12 | 971 | 311 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 956 | 307 | 
 | 2023-02-16 | 956 | 307 | 
 | 2023-02-15 | 956 | 306 | 
-| 2023-02-14 | 956 | 306 | 
 

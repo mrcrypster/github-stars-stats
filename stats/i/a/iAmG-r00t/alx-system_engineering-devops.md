@@ -1,6 +1,6 @@
 # iAmG-r00t/alx-system_engineering-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 129 | 153 | 
 | 2023-03-15 | 129 | 153 | 
 | 2023-03-14 | 126 | 147 | 
 | 2023-03-13 | 124 | 138 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 88 | 118 | 
 | 2023-02-16 | 86 | 118 | 
 | 2023-02-15 | 80 | 116 | 
-| 2023-02-14 | 73 | 107 | 
 

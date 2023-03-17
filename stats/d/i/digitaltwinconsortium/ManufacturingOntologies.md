@@ -1,10 +1,10 @@
 # digitaltwinconsortium/ManufacturingOntologies - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 16
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/digitaltwinconsortium/ManufacturingOntologies)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 82 | 16 | 
 | 2023-03-15 | 81 | 16 | 
 | 2023-03-13 | 79 | 16 | 
 | 2023-03-12 | 79 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 76 | 16 | 
 | 2023-02-16 | 75 | 16 | 
 | 2023-02-15 | 75 | 16 | 
-| 2023-02-14 | 74 | 16 | 
 

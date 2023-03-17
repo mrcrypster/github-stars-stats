@@ -1,6 +1,6 @@
 # pmndrs/react-three-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 533 | 16 | 
 | 2023-03-15 | 533 | 16 | 
 | 2023-03-13 | 533 | 16 | 
 | 2023-03-12 | 533 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 520 | 15 | 
 | 2023-02-16 | 519 | 15 | 
 | 2023-02-15 | 518 | 15 | 
-| 2023-02-14 | 518 | 15 | 
 

@@ -1,6 +1,6 @@
 # NYAN-x-CAT/Lime-RAT - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 426
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 910 | 426 | 
 | 2023-03-15 | 910 | 426 | 
 | 2023-03-13 | 909 | 425 | 
 | 2023-03-12 | 908 | 425 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 905 | 423 | 
 | 2023-02-16 | 904 | 422 | 
 | 2023-02-15 | 903 | 422 | 
-| 2023-02-14 | 903 | 422 | 
 

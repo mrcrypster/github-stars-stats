@@ -1,6 +1,6 @@
 # yoninazarathy/MathematicalEngineeringDeepLearning - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 312 | 49 | 
 | 2023-03-15 | 312 | 49 | 
 | 2023-03-14 | 313 | 49 | 
 | 2023-03-13 | 313 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 310 | 49 | 
 | 2023-02-16 | 310 | 49 | 
 | 2023-02-15 | 310 | 49 | 
-| 2023-02-14 | 310 | 49 | 
 

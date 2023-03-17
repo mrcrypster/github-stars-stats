@@ -1,10 +1,10 @@
 # LaravelDaily/laravel-invoices - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 234
 
-★ Stars: 949
+★ Stars: 950
 
 [Open repository](https://github.com/LaravelDaily/laravel-invoices)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 950 | 234 | 
 | 2023-03-15 | 949 | 234 | 
 | 2023-03-13 | 947 | 234 | 
 | 2023-03-12 | 947 | 233 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 934 | 229 | 
 | 2023-02-16 | 934 | 229 | 
 | 2023-02-15 | 934 | 230 | 
-| 2023-02-14 | 932 | 230 | 
 

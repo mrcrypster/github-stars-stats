@@ -1,6 +1,6 @@
 # bitindi/blockchain-core - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 164 | 200 | 
 | 2023-03-14 | 164 | 200 | 
 | 2023-03-13 | 164 | 200 | 
 | 2023-03-12 | 164 | 200 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 167 | 200 | 
 | 2023-02-16 | 167 | 200 | 
 | 2023-02-15 | 167 | 200 | 
-| 2023-02-14 | 167 | 200 | 
 

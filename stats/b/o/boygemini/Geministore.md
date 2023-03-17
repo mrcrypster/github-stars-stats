@@ -1,6 +1,6 @@
 # boygemini/Geministore - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 11 | 4 | 
 | 2023-03-15 | 11 | 4 | 
 | 2023-03-14 | 11 | 4 | 
 | 2023-03-13 | 11 | 4 | 

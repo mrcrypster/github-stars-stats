@@ -1,6 +1,6 @@
 # clojure/math.numeric-tower - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 173 | 14 | 
 | 2023-03-14 | 173 | 14 | 
 | 2023-03-13 | 173 | 14 | 
 | 2023-03-12 | 173 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 172 | 14 | 
 | 2023-02-16 | 172 | 14 | 
 | 2023-02-15 | 172 | 14 | 
-| 2023-02-14 | 172 | 14 | 
 

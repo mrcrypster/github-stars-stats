@@ -1,6 +1,6 @@
 # camenduru/stable-diffusion-webui-offline - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 25 | 4 | 
 | 2023-03-14 | 25 | 4 | 
 | 2023-03-13 | 23 | 3 | 
 | 2023-03-12 | 22 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 17 | 1 | 
 | 2023-02-16 | 17 | 1 | 
 | 2023-02-15 | 17 | 1 | 
-| 2023-02-14 | 17 | 1 | 
 

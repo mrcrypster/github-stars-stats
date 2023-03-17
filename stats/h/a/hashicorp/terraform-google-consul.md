@@ -1,10 +1,10 @@
 # hashicorp/terraform-google-consul - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 96
 
-★ Stars: 92
+★ Stars: 91
 
 [Open repository](https://github.com/hashicorp/terraform-google-consul)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 91 | 96 | 
 | 2023-03-15 | 92 | 96 | 
 | 2023-03-13 | 92 | 96 | 
 | 2023-03-12 | 92 | 96 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 91 | 96 | 
 | 2023-02-16 | 91 | 96 | 
 | 2023-02-15 | 91 | 96 | 
-| 2023-02-14 | 91 | 96 | 
 

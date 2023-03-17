@@ -1,6 +1,6 @@
 # crystal-ameba/ameba - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 457 | 28 | 
 | 2023-03-15 | 457 | 28 | 
 | 2023-03-14 | 457 | 28 | 
 | 2023-03-13 | 457 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 455 | 27 | 
 | 2023-02-16 | 455 | 27 | 
 | 2023-02-15 | 455 | 27 | 
-| 2023-02-14 | 455 | 27 | 
 

@@ -1,10 +1,10 @@
 # mengelbart/rtp-over-quic-draft - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/mengelbart/rtp-over-quic-draft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 9 | 1 | 
 | 2023-03-14 | 8 | 1 | 
 | 2023-03-13 | 8 | 1 | 
 | 2023-03-12 | 8 | 1 | 

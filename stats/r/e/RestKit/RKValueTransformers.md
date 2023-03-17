@@ -1,6 +1,6 @@
 # RestKit/RKValueTransformers - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 74 | 34 | 
 | 2023-03-15 | 74 | 34 | 
 | 2023-03-14 | 74 | 34 | 
 | 2023-03-12 | 74 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 74 | 34 | 
 | 2023-02-17 | 74 | 34 | 
 | 2023-02-16 | 74 | 34 | 
-| 2023-02-15 | 74 | 34 | 
 

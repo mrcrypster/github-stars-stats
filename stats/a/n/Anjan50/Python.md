@@ -1,6 +1,6 @@
 # Anjan50/Python - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 13 | 87 | 
 | 2023-03-15 | 13 | 87 | 
 | 2023-03-13 | 13 | 87 | 
 | 2023-03-12 | 13 | 87 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 13 | 87 | 
 | 2023-02-17 | 13 | 87 | 
 | 2023-02-16 | 13 | 87 | 
-| 2023-02-15 | 13 | 87 | 
 

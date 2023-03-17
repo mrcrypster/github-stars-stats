@@ -1,10 +1,10 @@
 # HuangCongQing/ROS - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 75
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/HuangCongQing/ROS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 268 | 75 | 
 | 2023-03-15 | 267 | 75 | 
 | 2023-03-14 | 266 | 75 | 
 | 2023-03-13 | 266 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 256 | 72 | 
 | 2023-02-16 | 256 | 72 | 
 | 2023-02-15 | 254 | 72 | 
-| 2023-02-14 | 253 | 72 | 
 

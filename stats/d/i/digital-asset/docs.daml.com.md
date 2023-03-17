@@ -1,10 +1,10 @@
 # digital-asset/docs.daml.com - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/digital-asset/docs.daml.com)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4 | 1 | 
 | 2023-03-15 | 3 | 1 | 
 | 2023-03-13 | 3 | 1 | 
 | 2023-03-12 | 3 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 3 | 1 | 
 | 2023-02-16 | 3 | 1 | 
 | 2023-02-15 | 3 | 1 | 
-| 2023-02-14 | 3 | 1 | 
 

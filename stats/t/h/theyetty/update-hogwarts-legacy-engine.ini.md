@@ -1,6 +1,6 @@
 # theyetty/update-hogwarts-legacy-engine.ini - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 24 | 2 | 
 | 2023-03-15 | 24 | 2 | 
 | 2023-03-13 | 25 | 2 | 
 | 2023-03-12 | 25 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 23 | 3 | 
 | 2023-02-16 | 21 | 3 | 
 | 2023-02-15 | 21 | 3 | 
-| 2023-02-14 | 18 | 3 | 
 

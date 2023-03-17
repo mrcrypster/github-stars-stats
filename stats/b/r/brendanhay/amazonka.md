@@ -1,6 +1,6 @@
 # brendanhay/amazonka - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 552 | 223 | 
 | 2023-03-14 | 552 | 223 | 
 | 2023-03-13 | 552 | 223 | 
 | 2023-03-12 | 552 | 223 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 549 | 223 | 
 | 2023-02-16 | 549 | 223 | 
 | 2023-02-15 | 549 | 223 | 
-| 2023-02-14 | 549 | 222 | 
 

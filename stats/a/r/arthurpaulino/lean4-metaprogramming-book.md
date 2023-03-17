@@ -1,10 +1,10 @@
 # arthurpaulino/lean4-metaprogramming-book - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 92
+★ Stars: 95
 
 [Open repository](https://github.com/arthurpaulino/lean4-metaprogramming-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 95 | 23 | 
 | 2023-03-14 | 92 | 22 | 
 | 2023-03-13 | 91 | 22 | 
 | 2023-03-12 | 91 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 85 | 20 | 
 | 2023-02-16 | 85 | 20 | 
 | 2023-02-15 | 85 | 20 | 
-| 2023-02-14 | 84 | 20 | 
 

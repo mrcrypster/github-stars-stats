@@ -1,8 +1,8 @@
 # jcomellas/getopt - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 242
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 242 | 79 | 
 | 2023-03-15 | 242 | 78 | 
 | 2023-03-14 | 242 | 78 | 
 | 2023-03-13 | 242 | 78 | 

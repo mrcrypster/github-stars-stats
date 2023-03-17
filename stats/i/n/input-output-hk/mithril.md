@@ -1,6 +1,6 @@
 # input-output-hk/mithril - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 72 | 7 | 
 | 2023-03-14 | 72 | 7 | 
 | 2023-03-13 | 72 | 7 | 
 | 2023-03-12 | 72 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 71 | 7 | 
 | 2023-02-16 | 71 | 7 | 
 | 2023-02-15 | 71 | 7 | 
-| 2023-02-14 | 71 | 7 | 
 

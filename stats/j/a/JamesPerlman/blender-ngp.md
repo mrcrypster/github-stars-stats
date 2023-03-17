@@ -1,6 +1,6 @@
 # JamesPerlman/blender-ngp - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 46 | 2 | 
 | 2023-03-15 | 46 | 2 | 
 | 2023-03-14 | 46 | 2 | 
 | 2023-03-12 | 46 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 46 | 2 | 
 | 2023-02-16 | 46 | 2 | 
 | 2023-02-15 | 46 | 2 | 
-| 2023-02-14 | 46 | 2 | 
 

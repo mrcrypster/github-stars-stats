@@ -1,6 +1,6 @@
 # DarkPacks/SkyFactory-4 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 115 | 48 | 
 | 2023-03-15 | 115 | 48 | 
 | 2023-03-14 | 115 | 48 | 
 | 2023-03-13 | 115 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 112 | 48 | 
 | 2023-02-16 | 112 | 48 | 
 | 2023-02-15 | 112 | 48 | 
-| 2023-02-14 | 112 | 48 | 
 

@@ -1,6 +1,6 @@
 # code-423n4/2022-09-nouns-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 16 | 16 | 
 | 2023-03-15 | 16 | 16 | 
 | 2023-03-14 | 16 | 16 | 
 | 2023-03-13 | 16 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 15 | 16 | 
 | 2023-02-17 | 15 | 16 | 
 | 2023-02-16 | 15 | 16 | 
-| 2023-02-15 | 15 | 16 | 
 

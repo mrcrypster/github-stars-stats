@@ -1,10 +1,10 @@
 # google/gson - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4213
 
-★ Stars: 21927
+★ Stars: 21936
 
 [Open repository](https://github.com/google/gson)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 21936 | 4213 | 
 | 2023-03-15 | 21927 | 4213 | 
 | 2023-03-13 | 21912 | 4213 | 
 | 2023-03-12 | 21908 | 4210 | 

@@ -1,10 +1,10 @@
 # TwoTailsGames/Unity-Built-in-Shaders - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 375
 
-★ Stars: 671
+★ Stars: 672
 
 [Open repository](https://github.com/TwoTailsGames/Unity-Built-in-Shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 672 | 375 | 
 | 2023-03-15 | 671 | 375 | 
 | 2023-03-14 | 671 | 375 | 
 | 2023-03-13 | 671 | 374 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 657 | 371 | 
 | 2023-02-16 | 656 | 369 | 
 | 2023-02-15 | 656 | 369 | 
-| 2023-02-14 | 656 | 369 | 
 

@@ -1,10 +1,10 @@
 # johnste/finicky - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 115
 
-★ Stars: 3029
+★ Stars: 3032
 
 [Open repository](https://github.com/johnste/finicky)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3032 | 115 | 
 | 2023-03-15 | 3029 | 115 | 
 | 2023-03-13 | 3027 | 115 | 
 | 2023-03-12 | 3027 | 115 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2994 | 111 | 
 | 2023-02-16 | 2989 | 111 | 
 | 2023-02-15 | 2988 | 111 | 
-| 2023-02-14 | 2987 | 111 | 
 

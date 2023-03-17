@@ -1,10 +1,10 @@
 # AtomBombf13/AtomBomb - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 47
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/AtomBombf13/AtomBomb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 6 | 47 | 
 | 2023-03-15 | 5 | 47 | 
 | 2023-03-13 | 5 | 47 | 
 | 2023-03-12 | 5 | 47 | 

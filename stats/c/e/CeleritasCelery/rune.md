@@ -1,10 +1,10 @@
 # CeleritasCelery/rune - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
-★ Stars: 225
+★ Stars: 227
 
 [Open repository](https://github.com/CeleritasCelery/rune)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 227 | 9 | 
 | 2023-03-14 | 225 | 9 | 
 | 2023-03-13 | 225 | 9 | 
 | 2023-03-12 | 224 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 206 | 9 | 
 | 2023-02-17 | 206 | 9 | 
 | 2023-02-15 | 205 | 9 | 
-| 2023-02-14 | 205 | 9 | 
 

@@ -1,10 +1,10 @@
 # syphon-org/syphon - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 64
 
-★ Stars: 909
+★ Stars: 911
 
 [Open repository](https://github.com/syphon-org/syphon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 911 | 64 | 
 | 2023-03-14 | 909 | 64 | 
 | 2023-03-13 | 907 | 64 | 
 | 2023-03-12 | 905 | 64 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 898 | 65 | 
 | 2023-02-16 | 897 | 65 | 
 | 2023-02-15 | 897 | 65 | 
-| 2023-02-14 | 897 | 65 | 
 

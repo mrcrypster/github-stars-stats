@@ -1,10 +1,10 @@
 # Syknapse/Contribute-To-This-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1935
+☋ Forks: 1939
 
-★ Stars: 1396
+★ Stars: 1398
 
 [Open repository](https://github.com/Syknapse/Contribute-To-This-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1398 | 1939 | 
 | 2023-03-15 | 1396 | 1935 | 
 | 2023-03-14 | 1396 | 1931 | 
 | 2023-03-12 | 1395 | 1927 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1380 | 1892 | 
 | 2023-02-17 | 1380 | 1891 | 
 | 2023-02-16 | 1380 | 1889 | 
-| 2023-02-15 | 1379 | 1889 | 
 

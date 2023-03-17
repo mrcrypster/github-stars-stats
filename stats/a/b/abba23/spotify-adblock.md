@@ -1,6 +1,6 @@
 # abba23/spotify-adblock - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1289 | 68 | 
 | 2023-03-14 | 1289 | 68 | 
 | 2023-03-13 | 1289 | 68 | 
 | 2023-03-12 | 1288 | 68 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 1270 | 67 | 
 | 2023-02-17 | 1269 | 68 | 
 | 2023-02-16 | 1266 | 68 | 
-| 2023-02-15 | 1262 | 68 | 
 

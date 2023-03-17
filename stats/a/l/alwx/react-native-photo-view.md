@@ -1,10 +1,10 @@
 # alwx/react-native-photo-view - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 418
 
-★ Stars: 798
+★ Stars: 797
 
 [Open repository](https://github.com/alwx/react-native-photo-view)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 797 | 418 | 
 | 2023-03-15 | 798 | 418 | 
 | 2023-03-14 | 799 | 418 | 
 | 2023-03-12 | 800 | 418 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 798 | 416 | 
 | 2023-02-16 | 798 | 416 | 
 | 2023-02-15 | 798 | 416 | 
-| 2023-02-14 | 798 | 416 | 
 

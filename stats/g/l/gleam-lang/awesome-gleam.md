@@ -1,10 +1,10 @@
 # gleam-lang/awesome-gleam - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 29
 
-★ Stars: 288
+★ Stars: 290
 
 [Open repository](https://github.com/gleam-lang/awesome-gleam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 290 | 29 | 
 | 2023-03-15 | 288 | 29 | 
 | 2023-03-13 | 284 | 29 | 
 | 2023-03-12 | 284 | 29 | 

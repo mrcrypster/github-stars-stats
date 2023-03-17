@@ -1,10 +1,10 @@
 # slack-go/slack - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1056
 
-★ Stars: 4217
+★ Stars: 4219
 
 [Open repository](https://github.com/slack-go/slack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 4219 | 1056 | 
 | 2023-03-15 | 4217 | 1056 | 
 | 2023-03-13 | 4215 | 1056 | 
 | 2023-03-12 | 4214 | 1055 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 4198 | 1047 | 
 | 2023-02-16 | 4198 | 1047 | 
 | 2023-02-15 | 4198 | 1047 | 
-| 2023-02-14 | 4196 | 1046 | 
 

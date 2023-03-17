@@ -1,6 +1,6 @@
 # anonNo2/crosstalk-generation - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 150 | 16 | 
 | 2023-03-15 | 150 | 16 | 
 | 2023-03-13 | 150 | 16 | 
 | 2023-03-12 | 150 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 150 | 16 | 
 | 2023-02-16 | 150 | 16 | 
 | 2023-02-15 | 150 | 16 | 
-| 2023-02-14 | 150 | 16 | 
 

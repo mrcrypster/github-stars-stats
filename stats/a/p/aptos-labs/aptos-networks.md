@@ -1,10 +1,10 @@
 # aptos-labs/aptos-networks - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 25
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/aptos-labs/aptos-networks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 30 | 25 | 
 | 2023-03-15 | 29 | 25 | 
 | 2023-03-14 | 28 | 25 | 
 | 2023-03-13 | 28 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 26 | 25 | 
 | 2023-02-16 | 26 | 25 | 
 | 2023-02-15 | 26 | 25 | 
-| 2023-02-14 | 25 | 25 | 
 

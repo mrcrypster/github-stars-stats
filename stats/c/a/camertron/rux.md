@@ -1,10 +1,10 @@
 # camertron/rux - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/camertron/rux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 341 | 3 | 
 | 2023-03-14 | 340 | 3 | 
 | 2023-03-13 | 337 | 3 | 
 | 2023-03-11 | 335 | 3 | 

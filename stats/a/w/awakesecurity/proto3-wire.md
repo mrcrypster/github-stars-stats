@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 16
 
 ☋ Forks: 24
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/awakesecurity/proto3-wire)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 19 | 24 | 
+| 2023-03-16 | 20 | 24 | 
 | 2023-03-15 | 19 | 24 | 
 | 2023-03-14 | 19 | 24 | 
 | 2023-03-13 | 19 | 24 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-17 | 18 | 24 | 
 | 2023-02-16 | 18 | 24 | 
 | 2023-02-15 | 18 | 24 | 
-| 2023-02-14 | 18 | 24 | 
 

@@ -1,8 +1,8 @@
 # grafana/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1795
+☋ Forks: 1800
 
 ★ Stars: 1187
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1187 | 1800 | 
 | 2023-03-15 | 1187 | 1795 | 
 | 2023-03-14 | 1186 | 1793 | 
 | 2023-03-13 | 1184 | 1790 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1142 | 1756 | 
 | 2023-02-16 | 1141 | 1754 | 
 | 2023-02-15 | 1140 | 1755 | 
-| 2023-02-14 | 1139 | 1753 | 
 

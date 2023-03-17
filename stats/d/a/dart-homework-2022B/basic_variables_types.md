@@ -1,6 +1,6 @@
 # dart-homework-2022B/basic_variables_types - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3 | 26 | 
 | 2023-03-15 | 3 | 26 | 
 | 2023-03-14 | 3 | 26 | 
 | 2023-03-13 | 3 | 26 | 

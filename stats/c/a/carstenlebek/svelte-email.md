@@ -1,6 +1,6 @@
 # carstenlebek/svelte-email - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 132 | 4 | 
 | 2023-03-15 | 132 | 4 | 
 | 2023-03-14 | 130 | 4 | 
 | 2023-03-13 | 128 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 100 | 2 | 
 | 2023-02-16 | 100 | 2 | 
 | 2023-02-15 | 100 | 2 | 
-| 2023-02-14 | 99 | 2 | 
 

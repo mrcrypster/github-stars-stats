@@ -1,8 +1,8 @@
 # Azure-Samples/todo-nodejs-mongo-aks - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | - | 2 | 
 | 2023-03-15 | - | 1 | 
 | 2023-03-13 | - | 1 | 
 | 2023-03-12 | - | 1 | 

@@ -1,10 +1,10 @@
 # chainreactors/gogo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 35
 
-★ Stars: 313
+★ Stars: 317
 
 [Open repository](https://github.com/chainreactors/gogo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 317 | 35 | 
 | 2023-03-15 | 313 | 35 | 
 | 2023-03-14 | 311 | 35 | 
 | 2023-03-12 | 310 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 259 | 29 | 
 | 2023-02-16 | 258 | 29 | 
 | 2023-02-15 | 257 | 29 | 
-| 2023-02-14 | 254 | 29 | 
 

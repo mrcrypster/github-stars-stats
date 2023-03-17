@@ -1,6 +1,6 @@
 # ahyatt/emacs-websocket - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 300 | 40 | 
 | 2023-03-15 | 300 | 40 | 
 | 2023-03-14 | 299 | 40 | 
 | 2023-03-13 | 299 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 297 | 39 | 
 | 2023-02-16 | 297 | 39 | 
 | 2023-02-15 | 297 | 39 | 
-| 2023-02-14 | 296 | 39 | 
 

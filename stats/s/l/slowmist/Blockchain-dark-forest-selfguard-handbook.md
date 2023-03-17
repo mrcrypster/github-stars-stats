@@ -1,10 +1,10 @@
 # slowmist/Blockchain-dark-forest-selfguard-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 425
 
-★ Stars: 3146
+★ Stars: 3147
 
 [Open repository](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3147 | 425 | 
 | 2023-03-15 | 3146 | 425 | 
 | 2023-03-13 | 3146 | 424 | 
 | 2023-03-12 | 3141 | 423 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 3000 | 400 | 
 | 2023-02-17 | 2997 | 400 | 
 | 2023-02-16 | 2993 | 399 | 
-| 2023-02-15 | 2991 | 397 | 
 

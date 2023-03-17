@@ -1,6 +1,6 @@
 # Hadar933/Deep-Reinforcement-Learning - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 80 | 3 | 
 | 2023-03-15 | 80 | 3 | 
 | 2023-03-13 | 80 | 3 | 
 | 2023-03-12 | 80 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 79 | 3 | 
 | 2023-02-16 | 79 | 3 | 
 | 2023-02-15 | 79 | 3 | 
-| 2023-02-14 | 79 | 3 | 
 

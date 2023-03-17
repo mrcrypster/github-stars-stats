@@ -1,10 +1,10 @@
 # andreitoma8/ERC20-Staking - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/andreitoma8/ERC20-Staking)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 54 | 17 | 
 | 2023-03-14 | 53 | 17 | 
 | 2023-03-13 | 53 | 17 | 
 | 2023-03-12 | 53 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 52 | 17 | 
 | 2023-02-16 | 52 | 17 | 
 | 2023-02-15 | 52 | 17 | 
-| 2023-02-14 | 52 | 17 | 
 

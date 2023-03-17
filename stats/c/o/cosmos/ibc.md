@@ -1,6 +1,6 @@
 # cosmos/ibc - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 272
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 740 | 272 | 
 | 2023-03-14 | 740 | 272 | 
 | 2023-03-13 | 741 | 272 | 
 | 2023-03-12 | 741 | 272 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 730 | 268 | 
 | 2023-02-16 | 730 | 267 | 
 | 2023-02-15 | 731 | 266 | 
-| 2023-02-14 | 731 | 266 | 
 

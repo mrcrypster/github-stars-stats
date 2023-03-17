@@ -1,10 +1,10 @@
 # umutxyp/MusicBot - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 823
+☋ Forks: 822
 
-★ Stars: 682
+★ Stars: 683
 
 [Open repository](https://github.com/umutxyp/MusicBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 683 | 822 | 
 | 2023-03-15 | 682 | 823 | 
 | 2023-03-14 | 680 | 821 | 
 | 2023-03-13 | 681 | 820 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 651 | 783 | 
 | 2023-02-16 | 649 | 780 | 
 | 2023-02-15 | 650 | 779 | 
-| 2023-02-14 | 646 | 777 | 
 

@@ -1,8 +1,8 @@
 # andrewbanchich/forty-jekyll-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1824
+☋ Forks: 1825
 
 ★ Stars: 914
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 914 | 1825 | 
 | 2023-03-15 | 914 | 1824 | 
 | 2023-03-14 | 914 | 1824 | 
 | 2023-03-12 | 914 | 1824 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 907 | 1813 | 
 | 2023-02-16 | 907 | 1811 | 
 | 2023-02-15 | 907 | 1812 | 
-| 2023-02-14 | 907 | 1807 | 
 

@@ -1,6 +1,6 @@
 # PathOfBuildingCommunity/PathOfBuilding - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1712
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2673 | 1712 | 
 | 2023-03-15 | 2673 | 1712 | 
 | 2023-03-13 | 2671 | 1712 | 
 | 2023-03-12 | 2670 | 1713 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2646 | 1708 | 
 | 2023-02-16 | 2646 | 1707 | 
 | 2023-02-15 | 2645 | 1708 | 
-| 2023-02-14 | 2643 | 1709 | 
 

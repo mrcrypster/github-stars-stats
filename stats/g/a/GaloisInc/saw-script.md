@@ -1,10 +1,10 @@
 # GaloisInc/saw-script - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 63
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/GaloisInc/saw-script)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 409 | 63 | 
 | 2023-03-15 | 408 | 63 | 
 | 2023-03-14 | 408 | 63 | 
 | 2023-03-12 | 408 | 63 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 407 | 63 | 
 | 2023-02-17 | 407 | 63 | 
 | 2023-02-16 | 407 | 63 | 
-| 2023-02-14 | 407 | 63 | 
 

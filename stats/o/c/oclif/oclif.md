@@ -1,10 +1,10 @@
 # oclif/oclif - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 276
 
-★ Stars: 8199
+★ Stars: 8203
 
 [Open repository](https://github.com/oclif/oclif)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 8203 | 276 | 
 | 2023-03-14 | 8199 | 276 | 
 | 2023-03-13 | 8196 | 275 | 
 | 2023-03-12 | 8194 | 274 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 8115 | 271 | 
 | 2023-02-16 | 8103 | 271 | 
 | 2023-02-15 | 8096 | 271 | 
-| 2023-02-14 | 8094 | 271 | 
 

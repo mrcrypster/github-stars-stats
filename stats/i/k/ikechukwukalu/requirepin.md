@@ -1,10 +1,10 @@
 # ikechukwukalu/requirepin - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 118
+★ Stars: 121
 
 [Open repository](https://github.com/ikechukwukalu/requirepin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 121 | 2 | 
 | 2023-03-15 | 118 | 2 | 
 | 2023-03-13 | 112 | 2 | 
 | 2023-03-12 | 99 | 2 | 

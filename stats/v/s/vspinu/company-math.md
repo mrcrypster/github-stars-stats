@@ -1,6 +1,6 @@
 # vspinu/company-math - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 119 | 8 | 
 | 2023-03-15 | 119 | 8 | 
 | 2023-03-13 | 119 | 8 | 
 | 2023-03-12 | 119 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 118 | 8 | 
 | 2023-02-17 | 118 | 8 | 
 | 2023-02-16 | 118 | 8 | 
-| 2023-02-15 | 118 | 8 | 
 

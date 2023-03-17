@@ -1,8 +1,8 @@
 # docker-library/wordpress - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1004
+☋ Forks: 1005
 
 ★ Stars: 1505
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1505 | 1005 | 
 | 2023-03-15 | 1505 | 1004 | 
 | 2023-03-14 | 1504 | 1002 | 
 | 2023-03-12 | 1501 | 1003 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1496 | 998 | 
 | 2023-02-17 | 1496 | 999 | 
 | 2023-02-16 | 1494 | 998 | 
-| 2023-02-15 | 1494 | 996 | 
 

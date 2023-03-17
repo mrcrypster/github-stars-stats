@@ -1,10 +1,10 @@
 # bitcrowd/carbonite - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
-★ Stars: 92
+★ Stars: 91
 
 [Open repository](https://github.com/bitcrowd/carbonite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 91 | 9 | 
 | 2023-03-14 | 92 | 9 | 
 | 2023-03-13 | 91 | 9 | 
 | 2023-03-12 | 91 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 89 | 8 | 
 | 2023-02-16 | 89 | 8 | 
 | 2023-02-15 | 88 | 8 | 
-| 2023-02-14 | 88 | 8 | 
 

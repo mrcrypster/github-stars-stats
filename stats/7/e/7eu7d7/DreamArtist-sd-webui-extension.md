@@ -1,10 +1,10 @@
 # 7eu7d7/DreamArtist-sd-webui-extension - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 40
 
-★ Stars: 488
+★ Stars: 490
 
 [Open repository](https://github.com/7eu7d7/DreamArtist-sd-webui-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 490 | 40 | 
 | 2023-03-14 | 488 | 40 | 
 | 2023-03-13 | 488 | 40 | 
 | 2023-03-12 | 489 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 459 | 36 | 
 | 2023-02-16 | 459 | 36 | 
 | 2023-02-15 | 455 | 35 | 
-| 2023-02-14 | 455 | 35 | 
 

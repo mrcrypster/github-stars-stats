@@ -1,6 +1,6 @@
 # apalha/project-logbook - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 19 | 4 | 
 | 2023-03-15 | 19 | 4 | 
 | 2023-03-13 | 19 | 4 | 
 | 2023-03-12 | 19 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 19 | 3 | 
 | 2023-02-16 | 19 | 3 | 
 | 2023-02-15 | 19 | 3 | 
-| 2023-02-14 | 19 | 3 | 
 

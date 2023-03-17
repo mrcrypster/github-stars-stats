@@ -1,6 +1,6 @@
 # xicilion/BitcoinWhitePaper - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 222 | 46 | 
 | 2023-03-15 | 222 | 46 | 
 | 2023-03-13 | 215 | 45 | 
 | 2023-03-12 | 215 | 45 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 215 | 45 | 
 | 2023-02-16 | 215 | 45 | 
 | 2023-02-15 | 215 | 45 | 
-| 2023-02-14 | 215 | 45 | 
 

@@ -1,6 +1,6 @@
 # reibitto/sbt-welcome - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 68 | 4 | 
 | 2023-03-15 | 68 | 4 | 
 | 2023-03-14 | 68 | 4 | 
 | 2023-03-13 | 68 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 68 | 3 | 
 | 2023-02-16 | 68 | 3 | 
 | 2023-02-15 | 68 | 3 | 
-| 2023-02-14 | 68 | 3 | 
 

@@ -1,10 +1,10 @@
 # yangchuansheng/ip_derper - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 32
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/yangchuansheng/ip_derper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 35 | 32 | 
 | 2023-03-15 | 34 | 32 | 
 | 2023-03-13 | 34 | 32 | 
 | 2023-03-12 | 34 | 32 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 30 | 30 | 
 | 2023-02-16 | 30 | 30 | 
 | 2023-02-15 | 30 | 30 | 
-| 2023-02-14 | 28 | 29 | 
 

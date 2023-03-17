@@ -1,10 +1,10 @@
 # filipedeschamps/tabnews.com.br - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 268
+☋ Forks: 270
 
-★ Stars: 3464
+★ Stars: 3469
 
 [Open repository](https://github.com/filipedeschamps/tabnews.com.br)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3469 | 270 | 
 | 2023-03-15 | 3464 | 268 | 
 | 2023-03-13 | 3457 | 267 | 
 | 2023-03-12 | 3455 | 267 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 3333 | 258 | 
 | 2023-02-16 | 3326 | 258 | 
 | 2023-02-15 | 3322 | 257 | 
-| 2023-02-14 | 3315 | 258 | 
 

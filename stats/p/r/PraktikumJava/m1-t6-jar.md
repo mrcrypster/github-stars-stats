@@ -1,8 +1,8 @@
 # PraktikumJava/m1-t6-jar - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1315
+☋ Forks: 1309
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2 | 1309 | 
 | 2023-03-14 | 2 | 1315 | 
 | 2023-03-13 | 2 | 1317 | 
 | 2023-03-12 | 2 | 1314 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 2 | 1272 | 
 | 2023-02-16 | 2 | 1273 | 
 | 2023-02-15 | 2 | 1276 | 
-| 2023-02-14 | 2 | 1277 | 
 

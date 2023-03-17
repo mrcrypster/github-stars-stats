@@ -1,10 +1,10 @@
 # sora-uzu/The-View - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 11
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/sora-uzu/The-View)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1 | 11 | 
 | 2023-03-15 | - | 11 | 
 | 2023-03-13 | - | 11 | 
 | 2023-03-12 | - | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | - | 10 | 
 | 2023-02-16 | - | 10 | 
 | 2023-02-15 | - | 9 | 
-| 2023-02-14 | - | 9 | 
 

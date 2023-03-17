@@ -1,10 +1,10 @@
 # graphql/graphiql - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1650
+☋ Forks: 1653
 
-★ Stars: 14732
+★ Stars: 14742
 
 [Open repository](https://github.com/graphql/graphiql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14742 | 1653 | 
 | 2023-03-15 | 14732 | 1650 | 
 | 2023-03-13 | 14724 | 1650 | 
 | 2023-03-12 | 14720 | 1650 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 14664 | 1638 | 
 | 2023-02-16 | 14658 | 1638 | 
 | 2023-02-15 | 14654 | 1637 | 
-| 2023-02-14 | 14647 | 1636 | 
 

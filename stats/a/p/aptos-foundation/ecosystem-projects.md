@@ -1,10 +1,10 @@
 # aptos-foundation/ecosystem-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 99
+☋ Forks: 101
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/aptos-foundation/ecosystem-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 136 | 101 | 
 | 2023-03-15 | 135 | 99 | 
 | 2023-03-14 | 136 | 98 | 
 | 2023-03-12 | 136 | 98 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 126 | 91 | 
 | 2023-02-16 | 124 | 90 | 
 | 2023-02-15 | 123 | 90 | 
-| 2023-02-14 | 122 | 88 | 
 

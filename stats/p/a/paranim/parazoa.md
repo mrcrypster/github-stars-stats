@@ -1,6 +1,6 @@
 # paranim/parazoa - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 37 | 4 | 
 | 2023-03-15 | 37 | 4 | 
 | 2023-03-13 | 37 | 4 | 
 | 2023-03-12 | 37 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 34 | 4 | 
 | 2023-02-17 | 34 | 4 | 
 | 2023-02-16 | 34 | 4 | 
-| 2023-02-15 | 34 | 4 | 
 

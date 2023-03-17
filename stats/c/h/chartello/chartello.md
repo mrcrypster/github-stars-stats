@@ -1,6 +1,6 @@
 # chartello/chartello - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 115 | 5 | 
 | 2023-03-14 | 115 | 5 | 
 | 2023-03-13 | 115 | 5 | 
 | 2023-03-12 | 114 | 5 | 

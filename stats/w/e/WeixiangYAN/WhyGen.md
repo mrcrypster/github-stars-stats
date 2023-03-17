@@ -1,10 +1,10 @@
 # WeixiangYAN/WhyGen - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 11
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/WeixiangYAN/WhyGen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 48 | 11 | 
 | 2023-03-15 | 47 | 11 | 
 | 2023-03-13 | 47 | 11 | 
 | 2023-03-12 | 47 | 11 | 

@@ -1,8 +1,8 @@
 # iam-veeramalla/write_your_first_terraform_project - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 13 | 83 | 
 | 2023-03-15 | 13 | 82 | 
 | 2023-03-13 | 12 | 81 | 
 | 2023-03-12 | 12 | 77 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 6 | 48 | 
 | 2023-02-16 | 6 | 47 | 
 | 2023-02-15 | 6 | 47 | 
-| 2023-02-14 | 5 | 46 | 
 

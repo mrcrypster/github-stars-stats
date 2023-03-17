@@ -1,6 +1,6 @@
 # bitterteasweetorange/nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 83 | 23 | 
 | 2023-03-14 | 83 | 23 | 
 | 2023-03-13 | 83 | 23 | 
 | 2023-03-12 | 83 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 75 | 19 | 
 | 2023-02-17 | 75 | 20 | 
 | 2023-02-16 | 73 | 19 | 
-| 2023-02-14 | 72 | 21 | 
 

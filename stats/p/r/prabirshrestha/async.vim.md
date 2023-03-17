@@ -1,6 +1,6 @@
 # prabirshrestha/async.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 269 | 20 | 
+| 2023-03-16 | 269 | 20 | 
 | 2023-03-15 | 269 | 20 | 
 | 2023-03-14 | 269 | 20 | 
 | 2023-03-13 | 269 | 20 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 269 | 20 | 
 | 2023-02-16 | 269 | 20 | 
 | 2023-02-15 | 269 | 20 | 
-| 2023-02-14 | 269 | 20 | 
 

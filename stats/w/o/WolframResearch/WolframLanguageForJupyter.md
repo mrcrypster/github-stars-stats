@@ -1,10 +1,10 @@
 # WolframResearch/WolframLanguageForJupyter - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 106
 
-★ Stars: 831
+★ Stars: 830
 
 [Open repository](https://github.com/WolframResearch/WolframLanguageForJupyter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 830 | 106 | 
 | 2023-03-14 | 831 | 106 | 
 | 2023-03-13 | 830 | 106 | 
 | 2023-03-12 | 829 | 106 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 821 | 103 | 
 | 2023-02-16 | 820 | 103 | 
 | 2023-02-15 | 819 | 103 | 
-| 2023-02-14 | 818 | 102 | 
 

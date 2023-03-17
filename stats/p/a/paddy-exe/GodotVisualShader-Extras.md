@@ -1,10 +1,10 @@
 # paddy-exe/GodotVisualShader-Extras - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 52
+★ Stars: 54
 
 [Open repository](https://github.com/paddy-exe/GodotVisualShader-Extras)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 54 | 2 | 
 | 2023-03-15 | 52 | 2 | 
 | 2023-03-13 | 52 | 2 | 
 | 2023-03-12 | 52 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 49 | 2 | 
 | 2023-02-16 | 49 | 2 | 
 | 2023-02-15 | 49 | 2 | 
-| 2023-02-14 | 49 | 2 | 
 

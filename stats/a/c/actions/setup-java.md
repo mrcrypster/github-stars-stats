@@ -1,6 +1,6 @@
 # actions/setup-java - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 518
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1048 | 518 | 
 | 2023-03-15 | 1048 | 518 | 
 | 2023-03-14 | 1045 | 518 | 
 | 2023-03-13 | 1044 | 517 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1019 | 509 | 
 | 2023-02-16 | 1019 | 508 | 
 | 2023-02-15 | 1017 | 506 | 
-| 2023-02-14 | 1016 | 505 | 
 

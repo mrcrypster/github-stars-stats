@@ -1,6 +1,6 @@
 # ridvanaltun/react-native-deepar - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 89 | 11 | 
 | 2023-03-15 | 89 | 11 | 
 | 2023-03-14 | 87 | 11 | 
 | 2023-03-12 | 87 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 86 | 10 | 
 | 2023-02-17 | 86 | 10 | 
 | 2023-02-16 | 86 | 9 | 
-| 2023-02-15 | 86 | 9 | 
 

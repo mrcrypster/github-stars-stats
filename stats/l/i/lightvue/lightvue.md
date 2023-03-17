@@ -1,10 +1,10 @@
 # lightvue/lightvue - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 40
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/lightvue/lightvue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 88 | 40 | 
 | 2023-03-14 | 87 | 40 | 
 | 2023-03-13 | 87 | 40 | 
 | 2023-03-12 | 87 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 87 | 39 | 
 | 2023-02-16 | 85 | 39 | 
 | 2023-02-15 | 86 | 39 | 
-| 2023-02-14 | 86 | 39 | 
 

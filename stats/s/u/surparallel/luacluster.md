@@ -1,8 +1,8 @@
 # surparallel/luacluster - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 51
+☋ Forks: 50
 
 ★ Stars: 242
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 242 | 50 | 
 | 2023-03-15 | 242 | 51 | 
 | 2023-03-14 | 241 | 51 | 
 | 2023-03-12 | 240 | 51 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 235 | 51 | 
 | 2023-02-16 | 235 | 51 | 
 | 2023-02-15 | 235 | 51 | 
-| 2023-02-14 | 235 | 51 | 
 

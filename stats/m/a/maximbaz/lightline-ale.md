@@ -1,6 +1,6 @@
 # maximbaz/lightline-ale - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 247 | 13 | 
 | 2023-03-15 | 247 | 13 | 
 | 2023-03-14 | 247 | 13 | 
 | 2023-03-13 | 247 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 249 | 13 | 
 | 2023-02-16 | 249 | 13 | 
 | 2023-02-15 | 249 | 13 | 
-| 2023-02-14 | 249 | 13 | 
 

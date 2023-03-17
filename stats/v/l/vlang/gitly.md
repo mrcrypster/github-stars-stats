@@ -1,10 +1,10 @@
 # vlang/gitly - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 67
 
-★ Stars: 1143
+★ Stars: 1145
 
 [Open repository](https://github.com/vlang/gitly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1145 | 67 | 
 | 2023-03-14 | 1143 | 67 | 
 | 2023-03-13 | 1144 | 67 | 
 | 2023-03-12 | 1142 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1098 | 64 | 
 | 2023-02-16 | 1098 | 64 | 
 | 2023-02-15 | 1096 | 64 | 
-| 2023-02-14 | 1095 | 64 | 
 

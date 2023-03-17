@@ -1,6 +1,6 @@
 # 1jsingh/paint2pix - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 105 | 12 | 
 | 2023-03-15 | 105 | 12 | 
 | 2023-03-13 | 104 | 12 | 
 | 2023-03-12 | 104 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 102 | 12 | 
 | 2023-02-16 | 102 | 12 | 
 | 2023-02-15 | 102 | 12 | 
-| 2023-02-14 | 102 | 12 | 
 

@@ -1,6 +1,6 @@
 # abhishekkrthakur/approachingalmost - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 667
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3584 | 667 | 
 | 2023-03-14 | 3584 | 667 | 
 | 2023-03-13 | 3580 | 666 | 
 | 2023-03-12 | 3579 | 666 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 3555 | 663 | 
 | 2023-02-16 | 3554 | 663 | 
 | 2023-02-15 | 3554 | 663 | 
-| 2023-02-14 | 3553 | 662 | 
 

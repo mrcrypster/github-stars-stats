@@ -1,10 +1,10 @@
 # dylanshine/openai-kit - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 42
+☋ Forks: 45
 
-★ Stars: 234
+★ Stars: 252
 
 [Open repository](https://github.com/dylanshine/openai-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 252 | 45 | 
 | 2023-03-14 | 234 | 42 | 
 | 2023-03-13 | 230 | 42 | 
 | 2023-03-12 | 228 | 42 | 

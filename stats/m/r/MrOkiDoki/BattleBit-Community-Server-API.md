@@ -1,10 +1,10 @@
 # MrOkiDoki/BattleBit-Community-Server-API - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 37
 
 [Open repository](https://github.com/MrOkiDoki/BattleBit-Community-Server-API)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 37 | 2 | 
 | 2023-03-15 | 38 | 2 | 
 | 2023-03-13 | 38 | 2 | 
 | 2023-03-12 | 38 | 2 | 

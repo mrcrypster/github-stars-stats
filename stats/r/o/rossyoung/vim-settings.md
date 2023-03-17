@@ -1,6 +1,6 @@
 # rossyoung/vim-settings - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1 | - | 
 | 2023-03-15 | 1 | - | 
 | 2023-03-13 | 1 | - | 
 | 2023-03-12 | 1 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1 | - | 
 | 2023-02-16 | 1 | - | 
 | 2023-02-15 | 1 | - | 
-| 2023-02-14 | 1 | - | 
 

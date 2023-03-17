@@ -1,10 +1,10 @@
 # dbt-labs/dbt-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 402
 
-★ Stars: 808
+★ Stars: 810
 
 [Open repository](https://github.com/dbt-labs/dbt-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 810 | 402 | 
 | 2023-03-15 | 808 | 402 | 
 | 2023-03-14 | 808 | 401 | 
 | 2023-03-12 | 807 | 401 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 791 | 398 | 
 | 2023-02-17 | 791 | 397 | 
 | 2023-02-16 | 788 | 397 | 
-| 2023-02-14 | 786 | 396 | 
 

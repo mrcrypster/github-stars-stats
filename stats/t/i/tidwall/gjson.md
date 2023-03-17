@@ -1,10 +1,10 @@
 # tidwall/gjson - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 768
+☋ Forks: 770
 
-★ Stars: 11886
+★ Stars: 11891
 
 [Open repository](https://github.com/tidwall/gjson)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 11891 | 770 | 
 | 2023-03-14 | 11886 | 768 | 
 | 2023-03-13 | 11882 | 768 | 
 | 2023-03-12 | 11875 | 768 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 11764 | 764 | 
 | 2023-02-16 | 11755 | 764 | 
 | 2023-02-15 | 11749 | 764 | 
-| 2023-02-14 | 11746 | 764 | 
 

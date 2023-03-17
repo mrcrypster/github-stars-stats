@@ -1,10 +1,10 @@
 # rebelot/heirline.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 32
 
-★ Stars: 579
+★ Stars: 585
 
 [Open repository](https://github.com/rebelot/heirline.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 585 | 32 | 
 | 2023-03-15 | 579 | 32 | 
 | 2023-03-14 | 578 | 32 | 
 | 2023-03-13 | 570 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 494 | 24 | 
 | 2023-02-16 | 493 | 24 | 
 | 2023-02-15 | 492 | 24 | 
-| 2023-02-14 | 490 | 24 | 
 

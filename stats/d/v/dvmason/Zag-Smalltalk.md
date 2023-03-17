@@ -1,10 +1,10 @@
 # dvmason/Zag-Smalltalk - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/dvmason/Zag-Smalltalk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 64 | 2 | 
 | 2023-03-15 | 65 | 2 | 
 | 2023-03-13 | 65 | 2 | 
 | 2023-03-12 | 64 | 2 | 

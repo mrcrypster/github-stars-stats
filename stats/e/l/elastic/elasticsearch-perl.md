@@ -1,6 +1,6 @@
 # elastic/elasticsearch-perl - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 86 | 58 | 
 | 2023-03-15 | 86 | 58 | 
 | 2023-03-14 | 86 | 58 | 
 | 2023-03-13 | 86 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 86 | 58 | 
 | 2023-02-16 | 86 | 58 | 
 | 2023-02-15 | 86 | 58 | 
-| 2023-02-14 | 86 | 57 | 
 

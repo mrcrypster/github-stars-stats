@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 16
 
-☋ Forks: 661
+☋ Forks: 662
 
-★ Stars: 5056
+★ Stars: 5057
 
 [Open repository](https://github.com/froala/wysiwyg-editor)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 5056 | 661 | 
+| 2023-03-16 | 5057 | 662 | 
 | 2023-03-15 | 5056 | 660 | 
 | 2023-03-14 | 5056 | 660 | 
 | 2023-03-13 | 5056 | 659 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-17 | 5039 | 654 | 
 | 2023-02-16 | 5041 | 654 | 
 | 2023-02-15 | 5041 | 654 | 
-| 2023-02-14 | 5040 | 654 | 
 

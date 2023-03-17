@@ -1,10 +1,10 @@
 # b0bleet/zvisor - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 77
+★ Stars: 80
 
 [Open repository](https://github.com/b0bleet/zvisor)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 80 | 2 | 
+| 2023-03-16 | 80 | 2 | 
 | 2023-03-15 | 77 | 2 | 
 

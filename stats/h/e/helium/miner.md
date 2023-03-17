@@ -1,6 +1,6 @@
 # helium/miner - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 263
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 598 | 263 | 
 | 2023-03-15 | 598 | 263 | 
 | 2023-03-14 | 598 | 264 | 
 | 2023-03-12 | 597 | 264 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 596 | 263 | 
 | 2023-02-16 | 596 | 264 | 
 | 2023-02-15 | 595 | 263 | 
-| 2023-02-14 | 595 | 263 | 
 

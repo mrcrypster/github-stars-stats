@@ -1,6 +1,6 @@
 # rodjek/vim-puppet - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 490 | 141 | 
 | 2023-03-15 | 490 | 141 | 
 | 2023-03-13 | 490 | 141 | 
 | 2023-03-12 | 490 | 141 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 490 | 142 | 
 | 2023-02-16 | 490 | 142 | 
 | 2023-02-15 | 490 | 142 | 
-| 2023-02-14 | 490 | 142 | 
 

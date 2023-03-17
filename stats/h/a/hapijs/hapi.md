@@ -1,10 +1,10 @@
 # hapijs/hapi - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1378
+☋ Forks: 1379
 
-★ Stars: 14195
+★ Stars: 14197
 
 [Open repository](https://github.com/hapijs/hapi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14197 | 1379 | 
 | 2023-03-15 | 14195 | 1378 | 
 | 2023-03-13 | 14193 | 1378 | 
 | 2023-03-12 | 14191 | 1378 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 14170 | 1374 | 
 | 2023-02-16 | 14172 | 1374 | 
 | 2023-02-15 | 14168 | 1374 | 
-| 2023-02-14 | 14169 | 1374 | 
 

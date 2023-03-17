@@ -1,10 +1,10 @@
 # boson-ai/homepage - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 9
 
-★ Stars: 391
+★ Stars: 389
 
 [Open repository](https://github.com/boson-ai/homepage)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 389 | 9 | 
 | 2023-03-15 | 391 | 9 | 
 | 2023-03-14 | 385 | 9 | 
 | 2023-03-12 | 380 | 9 | 

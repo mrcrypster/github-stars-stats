@@ -1,6 +1,6 @@
 # shopizer-ecommerce/shopizer-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 32 | 79 | 
 | 2023-03-15 | 32 | 79 | 
 | 2023-03-14 | 32 | 79 | 
 | 2023-03-13 | 32 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 31 | 76 | 
 | 2023-02-16 | 31 | 76 | 
 | 2023-02-15 | 31 | 76 | 
-| 2023-02-14 | 31 | 76 | 
 

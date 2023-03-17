@@ -1,10 +1,10 @@
 # wez/wezterm - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 372
+☋ Forks: 373
 
-★ Stars: 7674
+★ Stars: 7679
 
 [Open repository](https://github.com/wez/wezterm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 7679 | 373 | 
 | 2023-03-15 | 7674 | 372 | 
 | 2023-03-14 | 7651 | 370 | 
 | 2023-03-13 | 7602 | 370 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 7343 | 357 | 
 | 2023-02-16 | 7328 | 356 | 
 | 2023-02-15 | 7320 | 356 | 
-| 2023-02-14 | 7304 | 356 | 
 

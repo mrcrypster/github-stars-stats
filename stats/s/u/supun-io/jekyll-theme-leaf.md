@@ -1,10 +1,10 @@
 # supun-io/jekyll-theme-leaf - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 494
+☋ Forks: 492
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/supun-io/jekyll-theme-leaf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 102 | 492 | 
 | 2023-03-15 | 101 | 494 | 
 | 2023-03-14 | 101 | 494 | 
 | 2023-03-12 | 101 | 493 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 100 | 491 | 
 | 2023-02-16 | 99 | 489 | 
 | 2023-02-15 | 99 | 488 | 
-| 2023-02-14 | 99 | 488 | 
 

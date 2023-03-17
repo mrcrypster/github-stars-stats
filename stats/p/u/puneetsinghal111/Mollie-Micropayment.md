@@ -1,6 +1,6 @@
 # puneetsinghal111/Mollie-Micropayment - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1 | - | 
 | 2023-03-15 | 1 | - | 
 | 2023-03-14 | 1 | - | 
 | 2023-03-12 | 1 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | - | - | 
 | 2023-02-16 | - | - | 
 | 2023-02-15 | - | - | 
-| 2023-02-14 | - | - | 
 

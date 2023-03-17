@@ -1,6 +1,6 @@
 # keydet89/LNK - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 25 | 6 | 
 | 2023-03-15 | 25 | 6 | 
 | 2023-03-13 | 25 | 6 | 
 | 2023-03-12 | 25 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 25 | 6 | 
 | 2023-02-16 | 25 | 6 | 
 | 2023-02-15 | 25 | 6 | 
-| 2023-02-14 | 25 | 6 | 
 

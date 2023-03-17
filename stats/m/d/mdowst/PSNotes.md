@@ -1,10 +1,10 @@
 # mdowst/PSNotes - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/mdowst/PSNotes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 66 | 2 | 
 | 2023-03-14 | 65 | 2 | 
 | 2023-03-13 | 65 | 2 | 
 | 2023-03-12 | 65 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 65 | 2 | 
 | 2023-02-16 | 65 | 2 | 
 | 2023-02-15 | 65 | 2 | 
-| 2023-02-14 | 65 | 2 | 
 

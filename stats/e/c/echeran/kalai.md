@@ -1,6 +1,6 @@
 # echeran/kalai - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 149 | 9 | 
 | 2023-03-14 | 149 | 9 | 
 | 2023-03-13 | 149 | 9 | 
 | 2023-03-12 | 149 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 149 | 9 | 
 | 2023-02-16 | 149 | 9 | 
 | 2023-02-15 | 150 | 9 | 
-| 2023-02-14 | 150 | 9 | 
 

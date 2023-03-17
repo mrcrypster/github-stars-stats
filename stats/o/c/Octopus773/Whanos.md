@@ -1,10 +1,10 @@
 # Octopus773/Whanos - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/Octopus773/Whanos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2 | 3 | 
 | 2023-03-15 | 3 | 3 | 
 | 2023-03-14 | 3 | 3 | 
 | 2023-03-12 | 3 | 3 | 

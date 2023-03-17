@@ -1,10 +1,10 @@
 # askfiy/visual_studio_code - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/askfiy/visual_studio_code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 41 | 2 | 
 | 2023-03-15 | 40 | 2 | 
 | 2023-03-14 | 40 | 2 | 
 | 2023-03-13 | 40 | 2 | 

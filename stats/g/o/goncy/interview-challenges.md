@@ -1,8 +1,8 @@
 # goncy/interview-challenges - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 308
+☋ Forks: 309
 
 ★ Stars: 868
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 868 | 309 | 
 | 2023-03-15 | 868 | 308 | 
 | 2023-03-13 | 868 | 308 | 
 | 2023-03-12 | 867 | 308 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 858 | 303 | 
 | 2023-02-16 | 858 | 303 | 
 | 2023-02-15 | 858 | 303 | 
-| 2023-02-14 | 855 | 303 | 
 

@@ -1,10 +1,10 @@
 # lambdaclass/lambdaworks - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 264
+★ Stars: 266
 
 [Open repository](https://github.com/lambdaclass/lambdaworks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 266 | 19 | 
 | 2023-03-15 | 264 | 19 | 
 | 2023-03-14 | 263 | 19 | 
 | 2023-03-13 | 263 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 227 | 12 | 
 | 2023-02-16 | 220 | 12 | 
 | 2023-02-15 | 218 | 12 | 
-| 2023-02-14 | 207 | 11 | 
 

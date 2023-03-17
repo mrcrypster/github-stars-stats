@@ -1,6 +1,6 @@
 # commercetools/sunrise-spa - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 48 | 70 | 
 | 2023-03-15 | 48 | 70 | 
 | 2023-03-13 | 48 | 70 | 
 | 2023-03-12 | 48 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 48 | 69 | 
 | 2023-02-16 | 48 | 69 | 
 | 2023-02-15 | 48 | 69 | 
-| 2023-02-14 | 48 | 69 | 
 

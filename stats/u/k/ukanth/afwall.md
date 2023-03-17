@@ -1,10 +1,10 @@
 # ukanth/afwall - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 441
 
-★ Stars: 2362
+★ Stars: 2363
 
 [Open repository](https://github.com/ukanth/afwall)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2363 | 441 | 
 | 2023-03-15 | 2362 | 441 | 
 | 2023-03-13 | 2362 | 441 | 
 | 2023-03-12 | 2362 | 442 | 

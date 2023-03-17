@@ -1,10 +1,10 @@
 # bradjasper/ImportJSON - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1047
+☋ Forks: 1048
 
-★ Stars: 1958
+★ Stars: 1959
 
 [Open repository](https://github.com/bradjasper/ImportJSON)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1959 | 1048 | 
 | 2023-03-15 | 1958 | 1047 | 
 | 2023-03-13 | 1956 | 1045 | 
 | 2023-03-12 | 1956 | 1045 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1950 | 1037 | 
 | 2023-02-16 | 1949 | 1037 | 
 | 2023-02-15 | 1948 | 1037 | 
-| 2023-02-14 | 1948 | 1037 | 
 

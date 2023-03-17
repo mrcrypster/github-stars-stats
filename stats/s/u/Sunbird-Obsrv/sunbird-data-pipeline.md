@@ -1,8 +1,8 @@
 # Sunbird-Obsrv/sunbird-data-pipeline - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 12 | 111 | 
 | 2023-03-15 | 12 | 110 | 
 | 2023-03-14 | 10 | 110 | 
 | 2023-03-12 | 10 | 109 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 10 | 108 | 
 | 2023-02-16 | 10 | 108 | 
 | 2023-02-15 | 10 | 108 | 
-| 2023-02-14 | 10 | 107 | 
 

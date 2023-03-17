@@ -1,6 +1,6 @@
 # DrVrej/VJ-Base - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 58 | 34 | 
 | 2023-03-15 | 58 | 34 | 
 | 2023-03-13 | 57 | 34 | 
 | 2023-03-12 | 57 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 55 | 34 | 
 | 2023-02-16 | 55 | 34 | 
 | 2023-02-15 | 55 | 34 | 
-| 2023-02-14 | 55 | 34 | 
 

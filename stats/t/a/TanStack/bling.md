@@ -1,10 +1,10 @@
 # TanStack/bling - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 815
+★ Stars: 889
 
 [Open repository](https://github.com/TanStack/bling)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 889 | 17 | 
 | 2023-03-15 | 815 | 16 | 
 | 2023-03-14 | 808 | 16 | 
 | 2023-03-12 | 803 | 16 | 

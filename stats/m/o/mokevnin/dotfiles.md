@@ -1,6 +1,6 @@
 # mokevnin/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 370 | 82 | 
 | 2023-03-15 | 370 | 82 | 
 | 2023-03-13 | 371 | 82 | 
 | 2023-03-12 | 371 | 82 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 367 | 80 | 
 | 2023-02-16 | 367 | 80 | 
 | 2023-02-15 | 367 | 80 | 
-| 2023-02-14 | 367 | 80 | 
 

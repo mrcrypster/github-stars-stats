@@ -1,8 +1,8 @@
 # ton-community/ton-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 45 | 62 | 
 | 2023-03-15 | 45 | 61 | 
 | 2023-03-14 | 43 | 60 | 
 | 2023-03-13 | 43 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 43 | 51 | 
 | 2023-02-16 | 40 | 50 | 
 | 2023-02-15 | 40 | 50 | 
-| 2023-02-14 | 39 | 50 | 
 

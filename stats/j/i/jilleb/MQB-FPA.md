@@ -1,6 +1,6 @@
 # jilleb/MQB-FPA - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 75 | 20 | 
 | 2023-03-15 | 75 | 20 | 
 | 2023-03-13 | 75 | 20 | 
 | 2023-03-12 | 75 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 74 | 20 | 
 | 2023-02-16 | 74 | 20 | 
 | 2023-02-15 | 74 | 20 | 
-| 2023-02-14 | 74 | 20 | 
 

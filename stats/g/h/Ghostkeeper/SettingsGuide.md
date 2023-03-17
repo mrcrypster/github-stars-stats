@@ -1,6 +1,6 @@
 # Ghostkeeper/SettingsGuide - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 144 | 33 | 
 | 2023-03-15 | 144 | 33 | 
 | 2023-03-14 | 143 | 33 | 
 | 2023-03-12 | 143 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 137 | 33 | 
 | 2023-02-16 | 137 | 33 | 
 | 2023-02-15 | 136 | 33 | 
-| 2023-02-14 | 136 | 33 | 
 

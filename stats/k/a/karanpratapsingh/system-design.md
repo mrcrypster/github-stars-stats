@@ -1,10 +1,10 @@
 # karanpratapsingh/system-design - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 1291
+☋ Forks: 1290
 
-★ Stars: 14920
+★ Stars: 14936
 
 [Open repository](https://github.com/karanpratapsingh/system-design)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14936 | 1290 | 
 | 2023-03-14 | 14920 | 1291 | 
 | 2023-03-13 | 14907 | 1290 | 
 | 2023-03-12 | 14898 | 1290 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 14697 | 1244 | 
 | 2023-02-16 | 14691 | 1243 | 
 | 2023-02-15 | 14680 | 1239 | 
-| 2023-02-14 | 14672 | 1237 | 
 

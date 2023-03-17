@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 16
 
 ☋ Forks: 372
 
-★ Stars: 2092
+★ Stars: 2093
 
 [Open repository](https://github.com/1y0n/AV_Evasion_Tool)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-16 | 2092 | 372 | 
+| 2023-03-16 | 2093 | 372 | 
 | 2023-03-15 | 2092 | 372 | 
 | 2023-03-14 | 2084 | 371 | 
 | 2023-03-13 | 2073 | 371 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2029 | 364 | 
 | 2023-02-17 | 2029 | 364 | 
 | 2023-02-16 | 2027 | 364 | 
-| 2023-02-15 | 2027 | 364 | 
 

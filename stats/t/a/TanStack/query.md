@@ -1,10 +1,10 @@
 # TanStack/query - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 2142
+☋ Forks: 2144
 
-★ Stars: 33510
+★ Stars: 33539
 
 [Open repository](https://github.com/TanStack/query)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 33539 | 2144 | 
 | 2023-03-14 | 33510 | 2142 | 
 | 2023-03-13 | 33489 | 2138 | 
 | 2023-03-12 | 33474 | 2138 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 33039 | 2091 | 
 | 2023-02-16 | 33024 | 2090 | 
 | 2023-02-15 | 32996 | 2089 | 
-| 2023-02-14 | 32972 | 2089 | 
 

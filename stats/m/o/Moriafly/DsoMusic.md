@@ -1,6 +1,6 @@
 # Moriafly/DsoMusic - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1029 | 109 | 
 | 2023-03-14 | 1029 | 109 | 
 | 2023-03-13 | 1027 | 108 | 
 | 2023-03-12 | 1025 | 108 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 1001 | 107 | 
 | 2023-02-16 | 1000 | 107 | 
 | 2023-02-15 | 998 | 107 | 
-| 2023-02-14 | 998 | 107 | 
 

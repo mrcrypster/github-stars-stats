@@ -1,10 +1,10 @@
 # mukulpatnaik/researchgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 181
+☋ Forks: 187
 
-★ Stars: 2059
+★ Stars: 2096
 
 [Open repository](https://github.com/mukulpatnaik/researchgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2096 | 187 | 
 | 2023-03-15 | 2059 | 181 | 
 | 2023-03-13 | 2028 | 177 | 
 | 2023-03-12 | 1971 | 173 | 

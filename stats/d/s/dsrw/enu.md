@@ -1,6 +1,6 @@
 # dsrw/enu - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 242 | 9 | 
 | 2023-03-15 | 242 | 9 | 
 | 2023-03-14 | 242 | 9 | 
 | 2023-03-13 | 242 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 237 | 9 | 
 | 2023-02-16 | 237 | 9 | 
 | 2023-02-15 | 237 | 9 | 
-| 2023-02-14 | 237 | 9 | 
 

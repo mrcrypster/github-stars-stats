@@ -1,10 +1,10 @@
 # harvester/harvester - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 347
 
-★ Stars: 2744
+★ Stars: 2747
 
 [Open repository](https://github.com/harvester/harvester)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2747 | 347 | 
 | 2023-03-15 | 2744 | 347 | 
 | 2023-03-14 | 2742 | 347 | 
 | 2023-03-12 | 2742 | 347 | 

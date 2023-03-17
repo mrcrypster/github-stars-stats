@@ -1,10 +1,10 @@
 # baaivision/EVA - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 670
+★ Stars: 674
 
 [Open repository](https://github.com/baaivision/EVA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 674 | 51 | 
 | 2023-03-14 | 670 | 50 | 
 | 2023-03-13 | 663 | 50 | 
 | 2023-03-12 | 660 | 50 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 570 | 40 | 
 | 2023-02-16 | 567 | 40 | 
 | 2023-02-15 | 562 | 39 | 
-| 2023-02-14 | 554 | 38 | 
 

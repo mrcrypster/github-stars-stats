@@ -1,6 +1,6 @@
 # Sqaaakoi/noptcha-patch - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 198 | 16 | 
 | 2023-03-15 | 198 | 16 | 
 | 2023-03-13 | 198 | 16 | 
 | 2023-03-12 | 198 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 199 | 15 | 
 | 2023-02-16 | 199 | 15 | 
 | 2023-02-15 | 199 | 15 | 
-| 2023-02-14 | 199 | 15 | 
 

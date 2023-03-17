@@ -1,10 +1,10 @@
 # IIC2413/Syllabus-2022-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 36
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/IIC2413/Syllabus-2022-2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 99 | 36 | 
 | 2023-03-15 | 100 | 36 | 
 | 2023-03-14 | 100 | 36 | 
 | 2023-03-13 | 102 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 107 | 37 | 
 | 2023-02-17 | 107 | 37 | 
 | 2023-02-16 | 107 | 37 | 
-| 2023-02-15 | 108 | 37 | 
 

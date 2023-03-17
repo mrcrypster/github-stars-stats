@@ -1,6 +1,6 @@
 # AccessibleAI/cnvrg-operator - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 15 | 5 | 
 | 2023-03-15 | 15 | 5 | 
 | 2023-03-13 | 15 | 5 | 
 | 2023-03-12 | 14 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 14 | 5 | 
 | 2023-02-16 | 14 | 5 | 
 | 2023-02-15 | 14 | 5 | 
-| 2023-02-14 | 14 | 5 | 
 

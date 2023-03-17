@@ -1,6 +1,6 @@
 # idealista/prometheus_alertmanager_role - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1 | 4 | 
 | 2023-03-14 | 1 | 4 | 
 | 2023-03-13 | 1 | 4 | 
 | 2023-03-12 | 1 | 4 | 

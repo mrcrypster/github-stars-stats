@@ -1,10 +1,10 @@
 # v2net/ios - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 138
 
-★ Stars: 895
+★ Stars: 896
 
 [Open repository](https://github.com/v2net/ios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 896 | 138 | 
 | 2023-03-15 | 895 | 138 | 
 | 2023-03-14 | 894 | 138 | 
 | 2023-03-13 | 894 | 138 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 880 | 137 | 
 | 2023-02-16 | 880 | 137 | 
 | 2023-02-15 | 878 | 137 | 
-| 2023-02-14 | 875 | 137 | 
 

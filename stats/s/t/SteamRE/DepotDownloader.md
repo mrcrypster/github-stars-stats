@@ -1,10 +1,10 @@
 # SteamRE/DepotDownloader - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 179
 
-★ Stars: 1234
+★ Stars: 1235
 
 [Open repository](https://github.com/SteamRE/DepotDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1235 | 179 | 
 | 2023-03-15 | 1234 | 179 | 
 | 2023-03-14 | 1234 | 177 | 
 | 2023-03-12 | 1233 | 177 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1212 | 174 | 
 | 2023-02-17 | 1211 | 174 | 
 | 2023-02-16 | 1209 | 174 | 
-| 2023-02-14 | 1206 | 172 | 
 

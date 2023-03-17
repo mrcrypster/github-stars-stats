@@ -1,6 +1,6 @@
 # dashbitco/table - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 34 | 4 | 
 | 2023-03-15 | 34 | 4 | 
 | 2023-03-13 | 34 | 4 | 
 | 2023-03-12 | 34 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 32 | 4 | 
 | 2023-02-16 | 32 | 4 | 
 | 2023-02-15 | 32 | 4 | 
-| 2023-02-14 | 32 | 4 | 
 

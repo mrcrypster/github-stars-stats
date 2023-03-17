@@ -1,8 +1,8 @@
 # MSUcourses/Data-Analysis-with-Python - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 51
+☋ Forks: 50
 
 ★ Stars: 95
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 95 | 50 | 
 | 2023-03-15 | 95 | 51 | 
 | 2023-03-14 | 95 | 51 | 
 | 2023-03-13 | 95 | 51 | 

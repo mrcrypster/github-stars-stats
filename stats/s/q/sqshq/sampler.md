@@ -1,10 +1,10 @@
 # sqshq/sampler - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 513
 
-★ Stars: 11361
+★ Stars: 11364
 
 [Open repository](https://github.com/sqshq/sampler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 11364 | 513 | 
 | 2023-03-15 | 11361 | 513 | 
 | 2023-03-13 | 11361 | 513 | 
 | 2023-03-12 | 11361 | 513 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 11276 | 515 | 
 | 2023-02-17 | 11274 | 515 | 
 | 2023-02-16 | 11273 | 515 | 
-| 2023-02-15 | 11267 | 515 | 
 

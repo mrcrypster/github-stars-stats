@@ -1,10 +1,10 @@
 # cburgmer/buildviz - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/cburgmer/buildviz)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 99 | 6 | 
 | 2023-03-15 | 98 | 6 | 
 | 2023-03-13 | 98 | 6 | 
 | 2023-03-12 | 98 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 96 | 6 | 
 | 2023-02-16 | 96 | 6 | 
 | 2023-02-15 | 96 | 6 | 
-| 2023-02-14 | 96 | 6 | 
 

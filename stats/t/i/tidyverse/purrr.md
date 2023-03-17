@@ -1,8 +1,8 @@
 # tidyverse/purrr - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 236
+☋ Forks: 237
 
 ★ Stars: 1121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1121 | 237 | 
 | 2023-03-15 | 1121 | 236 | 
 | 2023-03-13 | 1121 | 236 | 
 | 2023-03-12 | 1121 | 236 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1115 | 236 | 
 | 2023-02-16 | 1114 | 236 | 
 | 2023-02-15 | 1114 | 236 | 
-| 2023-02-14 | 1113 | 236 | 
 

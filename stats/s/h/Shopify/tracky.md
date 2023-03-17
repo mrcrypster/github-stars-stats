@@ -1,10 +1,10 @@
 # Shopify/tracky - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 9
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/Shopify/tracky)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 145 | 9 | 
 | 2023-03-14 | 144 | 9 | 
 | 2023-03-13 | 141 | 9 | 
 | 2023-03-12 | 137 | 9 | 

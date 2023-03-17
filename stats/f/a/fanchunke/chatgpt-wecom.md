@@ -1,10 +1,10 @@
 # fanchunke/chatgpt-wecom - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 148
+★ Stars: 157
 
 [Open repository](https://github.com/fanchunke/chatgpt-wecom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 157 | 40 | 
 | 2023-03-15 | 148 | 39 | 
 | 2023-03-13 | 145 | 40 | 
 | 2023-03-12 | 139 | 39 | 

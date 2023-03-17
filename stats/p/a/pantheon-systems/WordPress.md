@@ -1,6 +1,6 @@
 # pantheon-systems/WordPress - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 146 | 217 | 
 | 2023-03-14 | 146 | 217 | 
 | 2023-03-13 | 146 | 217 | 
 | 2023-03-12 | 146 | 216 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 146 | 213 | 
 | 2023-02-16 | 146 | 213 | 
 | 2023-02-15 | 146 | 213 | 
-| 2023-02-14 | 146 | 213 | 
 

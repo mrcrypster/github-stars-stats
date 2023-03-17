@@ -1,6 +1,6 @@
 # Philogy/yam-weth - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 53 | 3 | 
 | 2023-03-15 | 53 | 3 | 
 | 2023-03-14 | 52 | 3 | 
 | 2023-03-12 | 50 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 45 | 2 | 
 | 2023-02-16 | 45 | 2 | 
 | 2023-02-15 | 45 | 2 | 
-| 2023-02-14 | 45 | 2 | 
 

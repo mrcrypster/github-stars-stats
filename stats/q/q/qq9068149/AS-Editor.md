@@ -1,6 +1,6 @@
 # qq9068149/AS-Editor - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 213 | 1 | 
 | 2023-03-15 | 213 | 1 | 
 | 2023-03-14 | 213 | 1 | 
 | 2023-03-13 | 213 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 213 | 1 | 
 | 2023-02-16 | 213 | 1 | 
 | 2023-02-15 | 213 | 1 | 
-| 2023-02-14 | 213 | 1 | 
 

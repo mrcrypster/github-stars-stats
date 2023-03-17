@@ -1,10 +1,10 @@
 # arabisaldrin/quick-pick - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/arabisaldrin/quick-pick)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 20 | - | 
 | 2023-03-14 | 19 | - | 
 | 2023-03-13 | 19 | - | 
 | 2023-03-12 | 19 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 14 | - | 
 | 2023-02-16 | 13 | - | 
 | 2023-02-15 | 13 | - | 
-| 2023-02-14 | 13 | - | 
 

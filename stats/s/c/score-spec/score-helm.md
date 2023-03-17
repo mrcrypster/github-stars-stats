@@ -1,6 +1,6 @@
 # score-spec/score-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 422 | 40 | 
 | 2023-03-14 | 422 | 40 | 
 | 2023-03-13 | 422 | 40 | 
 | 2023-03-12 | 422 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 433 | 41 | 
 | 2023-02-17 | 433 | 41 | 
 | 2023-02-16 | 435 | 41 | 
-| 2023-02-14 | 435 | 41 | 
 

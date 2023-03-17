@@ -1,10 +1,10 @@
 # onelang/OneLang - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 76
 
-★ Stars: 1032
+★ Stars: 1033
 
 [Open repository](https://github.com/onelang/OneLang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1033 | 76 | 
 | 2023-03-15 | 1032 | 76 | 
 | 2023-03-13 | 1032 | 76 | 
 | 2023-03-12 | 1032 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1029 | 76 | 
 | 2023-02-17 | 1029 | 76 | 
 | 2023-02-16 | 1029 | 76 | 
-| 2023-02-15 | 1029 | 76 | 
 

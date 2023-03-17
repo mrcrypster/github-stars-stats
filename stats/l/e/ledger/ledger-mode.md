@@ -1,6 +1,6 @@
 # ledger/ledger-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 317 | 60 | 
 | 2023-03-15 | 317 | 60 | 
 | 2023-03-13 | 316 | 60 | 
 | 2023-03-12 | 315 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 313 | 58 | 
 | 2023-02-16 | 313 | 58 | 
 | 2023-02-15 | 313 | 58 | 
-| 2023-02-14 | 313 | 58 | 
 

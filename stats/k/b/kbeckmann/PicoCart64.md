@@ -1,10 +1,10 @@
 # kbeckmann/PicoCart64 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 534
+★ Stars: 535
 
 [Open repository](https://github.com/kbeckmann/PicoCart64)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 535 | 22 | 
 | 2023-03-15 | 534 | 22 | 
 | 2023-03-14 | 533 | 22 | 
 | 2023-03-13 | 531 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 517 | 21 | 
 | 2023-02-16 | 517 | 21 | 
 | 2023-02-15 | 517 | 21 | 
-| 2023-02-14 | 517 | 21 | 
 

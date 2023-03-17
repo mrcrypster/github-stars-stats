@@ -1,10 +1,10 @@
 # huggingface/swift-coreml-diffusers - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 65
 
-★ Stars: 889
+★ Stars: 895
 
 [Open repository](https://github.com/huggingface/swift-coreml-diffusers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 895 | 65 | 
 | 2023-03-15 | 889 | 65 | 
 | 2023-03-14 | 882 | 64 | 
 | 2023-03-13 | 880 | 64 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 592 | 40 | 
 | 2023-02-16 | 589 | 40 | 
 | 2023-02-15 | 585 | 41 | 
-| 2023-02-14 | 579 | 39 | 
 

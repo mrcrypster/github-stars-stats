@@ -1,10 +1,10 @@
 # awslabs/aws-terraform-dev-container - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/awslabs/aws-terraform-dev-container)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 77 | 14 | 
 | 2023-03-14 | 76 | 14 | 
 | 2023-03-13 | 75 | 14 | 
 | 2023-03-12 | 75 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 73 | 11 | 
 | 2023-02-16 | 73 | 11 | 
 | 2023-02-15 | 72 | 11 | 
-| 2023-02-14 | 72 | 11 | 
 

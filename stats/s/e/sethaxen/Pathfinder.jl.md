@@ -1,6 +1,6 @@
 # sethaxen/Pathfinder.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 66 | 6 | 
 | 2023-03-15 | 66 | 6 | 
 | 2023-03-13 | 66 | 6 | 
 | 2023-03-12 | 66 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 66 | 6 | 
 | 2023-02-16 | 66 | 6 | 
 | 2023-02-15 | 66 | 6 | 
-| 2023-02-14 | 66 | 6 | 
 

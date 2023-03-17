@@ -1,6 +1,6 @@
 # mcoughlin/ztf_summer_school_2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 14 | 48 | 
 | 2023-03-15 | 14 | 48 | 
 | 2023-03-13 | 14 | 48 | 
 | 2023-03-12 | 14 | 48 | 

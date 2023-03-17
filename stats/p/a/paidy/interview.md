@@ -1,8 +1,8 @@
 # paidy/interview - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 31 | 83 | 
 | 2023-03-15 | 31 | 82 | 
 | 2023-03-14 | 31 | 82 | 
 | 2023-03-12 | 31 | 82 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 30 | 79 | 
 | 2023-02-16 | 30 | 79 | 
 | 2023-02-15 | 30 | 79 | 
-| 2023-02-14 | 30 | 79 | 
 

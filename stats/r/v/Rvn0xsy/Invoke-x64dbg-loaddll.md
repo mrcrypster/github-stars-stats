@@ -1,6 +1,6 @@
 # Rvn0xsy/Invoke-x64dbg-loaddll - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 57 | 12 | 
 | 2023-03-15 | 57 | 12 | 
 | 2023-03-13 | 57 | 12 | 
 | 2023-03-12 | 57 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 57 | 12 | 
 | 2023-02-16 | 57 | 12 | 
 | 2023-02-15 | 57 | 12 | 
-| 2023-02-14 | 57 | 12 | 
 

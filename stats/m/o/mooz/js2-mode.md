@@ -1,6 +1,6 @@
 # mooz/js2-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1298 | 186 | 
 | 2023-03-15 | 1298 | 186 | 
 | 2023-03-14 | 1298 | 186 | 
 | 2023-03-13 | 1298 | 186 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 1298 | 187 | 
 | 2023-02-16 | 1297 | 187 | 
 | 2023-02-15 | 1297 | 187 | 
-| 2023-02-14 | 1297 | 187 | 
 

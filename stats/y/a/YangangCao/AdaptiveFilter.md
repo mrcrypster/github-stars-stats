@@ -1,6 +1,6 @@
 # YangangCao/AdaptiveFilter - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 45 | 19 | 
 | 2023-03-15 | 45 | 19 | 
 | 2023-03-14 | 45 | 19 | 
 | 2023-03-12 | 44 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 43 | 18 | 
 | 2023-02-16 | 43 | 18 | 
 | 2023-02-15 | 43 | 18 | 
-| 2023-02-14 | 43 | 18 | 
 

@@ -1,8 +1,8 @@
 # icei-pucminas/aeds2 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 165
+☋ Forks: 166
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 193 | 166 | 
 | 2023-03-15 | 193 | 165 | 
 | 2023-03-14 | 193 | 165 | 
 | 2023-03-12 | 193 | 165 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 191 | 159 | 
 | 2023-02-16 | 191 | 159 | 
 | 2023-02-15 | 190 | 159 | 
-| 2023-02-14 | 191 | 160 | 
 

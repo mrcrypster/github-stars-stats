@@ -1,10 +1,10 @@
 # tangshimin/MuJing - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 311
+★ Stars: 314
 
 [Open repository](https://github.com/tangshimin/MuJing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 314 | 18 | 
 | 2023-03-15 | 311 | 17 | 
 | 2023-03-14 | 304 | 16 | 
 | 2023-03-13 | 294 | 15 | 

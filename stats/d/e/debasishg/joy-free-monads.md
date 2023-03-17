@@ -1,0 +1,17 @@
+# debasishg/joy-free-monads - stars & forks statistics
+
+Stats updated on Mar 2023, 16
+
+☋ Forks: 3
+
+★ Stars: 11
+
+[Open repository](https://github.com/debasishg/joy-free-monads)
+
+[Open detailed stats for debasishg/joy-free-monads](https://reviewgithub.com/rep/debasishg/joy-free-monads)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-16 | 11 | 3 | 
+

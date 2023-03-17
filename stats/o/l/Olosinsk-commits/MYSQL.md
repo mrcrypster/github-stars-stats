@@ -1,6 +1,6 @@
 # Olosinsk-commits/MYSQL - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 14 | 20 | 
 | 2023-03-15 | 14 | 20 | 
 | 2023-03-14 | 14 | 20 | 
 | 2023-03-13 | 14 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 13 | 20 | 
 | 2023-02-16 | 13 | 20 | 
 | 2023-02-15 | 13 | 20 | 
-| 2023-02-14 | 13 | 20 | 
 

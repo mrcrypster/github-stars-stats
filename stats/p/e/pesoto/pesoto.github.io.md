@@ -1,8 +1,8 @@
 # pesoto/pesoto.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 48
+☋ Forks: 49
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 7 | 49 | 
 | 2023-03-15 | 7 | 48 | 
 | 2023-03-13 | 7 | 48 | 
 | 2023-03-12 | 7 | 48 | 

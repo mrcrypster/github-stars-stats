@@ -1,10 +1,10 @@
 # AaronFeng753/Waifu2x-Extension-GUI - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 715
+☋ Forks: 714
 
-★ Stars: 9287
+★ Stars: 9300
 
 [Open repository](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 9300 | 714 | 
 | 2023-03-15 | 9287 | 715 | 
 | 2023-03-14 | 9273 | 714 | 
 | 2023-03-13 | 9261 | 713 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 9066 | 701 | 
 | 2023-02-16 | 9056 | 701 | 
 | 2023-02-15 | 9045 | 701 | 
-| 2023-02-14 | 9033 | 700 | 
 

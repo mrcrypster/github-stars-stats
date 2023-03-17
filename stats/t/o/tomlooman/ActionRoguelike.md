@@ -1,10 +1,10 @@
 # tomlooman/ActionRoguelike - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 473
 
-★ Stars: 2346
+★ Stars: 2350
 
 [Open repository](https://github.com/tomlooman/ActionRoguelike)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2350 | 473 | 
 | 2023-03-14 | 2346 | 473 | 
 | 2023-03-13 | 2340 | 472 | 
 | 2023-03-12 | 2337 | 470 | 

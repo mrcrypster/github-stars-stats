@@ -1,6 +1,6 @@
 # i-MSCP/phpmyadmin - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 12 | 17 | 
 | 2023-03-15 | 12 | 17 | 
 | 2023-03-14 | 12 | 17 | 
 | 2023-03-12 | 12 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 12 | 17 | 
 | 2023-02-17 | 12 | 17 | 
 | 2023-02-16 | 12 | 17 | 
-| 2023-02-15 | 12 | 17 | 
 

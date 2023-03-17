@@ -1,6 +1,6 @@
 # DataDog/security-labs-pocs - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 348 | 48 | 
 | 2023-03-14 | 348 | 48 | 
 | 2023-03-13 | 347 | 48 | 
 | 2023-03-12 | 347 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 342 | 48 | 
 | 2023-02-16 | 341 | 48 | 
 | 2023-02-15 | 340 | 48 | 
-| 2023-02-14 | 340 | 48 | 
 

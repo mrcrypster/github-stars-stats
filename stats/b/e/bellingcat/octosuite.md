@@ -1,10 +1,10 @@
 # bellingcat/octosuite - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 138
 
-★ Stars: 1373
+★ Stars: 1375
 
 [Open repository](https://github.com/bellingcat/octosuite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1375 | 138 | 
 | 2023-03-15 | 1373 | 138 | 
 | 2023-03-13 | 1372 | 136 | 
 | 2023-03-12 | 1372 | 136 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1328 | 130 | 
 | 2023-02-16 | 1325 | 129 | 
 | 2023-02-15 | 1317 | 128 | 
-| 2023-02-14 | 1310 | 127 | 
 

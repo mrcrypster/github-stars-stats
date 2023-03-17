@@ -1,8 +1,8 @@
 # walking-sunset/selection-task - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 116
+☋ Forks: 117
 
 ★ Stars: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 103 | 117 | 
 | 2023-03-15 | 103 | 116 | 
 | 2023-03-14 | 103 | 116 | 
 | 2023-03-12 | 103 | 116 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 105 | 116 | 
 | 2023-02-17 | 104 | 117 | 
 | 2023-02-16 | 104 | 118 | 
-| 2023-02-15 | 104 | 118 | 
 

@@ -1,6 +1,6 @@
 # actions/node-versions - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 65 | 63 | 
 | 2023-03-15 | 65 | 63 | 
 | 2023-03-14 | 65 | 63 | 
 | 2023-03-13 | 65 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 63 | 62 | 
 | 2023-02-16 | 63 | 62 | 
 | 2023-02-15 | 63 | 62 | 
-| 2023-02-14 | 63 | 62 | 
 

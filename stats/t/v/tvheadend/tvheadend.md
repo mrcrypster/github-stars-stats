@@ -1,6 +1,6 @@
 # tvheadend/tvheadend - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 874
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2355 | 874 | 
 | 2023-03-14 | 2355 | 874 | 
 | 2023-03-13 | 2354 | 872 | 
 | 2023-03-12 | 2353 | 872 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 2333 | 875 | 
 | 2023-02-16 | 2332 | 873 | 
 | 2023-02-15 | 2331 | 873 | 
-| 2023-02-14 | 2331 | 873 | 
 

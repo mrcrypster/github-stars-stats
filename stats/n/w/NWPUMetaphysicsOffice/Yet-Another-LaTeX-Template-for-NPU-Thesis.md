@@ -1,8 +1,8 @@
 # NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 60
+☋ Forks: 59
 
 ★ Stars: 163
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 163 | 59 | 
 | 2023-03-15 | 163 | 60 | 
 | 2023-03-14 | 163 | 60 | 
 | 2023-03-13 | 162 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 157 | 59 | 
 | 2023-02-16 | 157 | 59 | 
 | 2023-02-15 | 157 | 59 | 
-| 2023-02-14 | 157 | 59 | 
 

@@ -1,10 +1,10 @@
 # microsoft/LMOps - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 1182
+★ Stars: 1191
 
 [Open repository](https://github.com/microsoft/LMOps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 1191 | 56 | 
 | 2023-03-14 | 1182 | 55 | 
 | 2023-03-13 | 1179 | 54 | 
 | 2023-03-12 | 1176 | 52 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 664 | 21 | 
 | 2023-02-16 | 647 | 20 | 
 | 2023-02-15 | 622 | 19 | 
-| 2023-02-14 | 609 | 17 | 
 

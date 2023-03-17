@@ -1,10 +1,10 @@
 # STEllAR-GROUP/hpx - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 374
 
-★ Stars: 2121
+★ Stars: 2122
 
 [Open repository](https://github.com/STEllAR-GROUP/hpx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 2122 | 374 | 
 | 2023-03-15 | 2121 | 374 | 
 | 2023-03-13 | 2120 | 374 | 
 | 2023-03-12 | 2119 | 374 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 2103 | 367 | 
 | 2023-02-16 | 2104 | 367 | 
 | 2023-02-15 | 2101 | 367 | 
-| 2023-02-14 | 2101 | 367 | 
 

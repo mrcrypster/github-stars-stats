@@ -1,6 +1,6 @@
 # kwrooijen/cargo.el - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 165 | 61 | 
 | 2023-03-15 | 165 | 61 | 
 | 2023-03-14 | 165 | 61 | 
 | 2023-03-13 | 165 | 61 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 164 | 62 | 
 | 2023-02-16 | 164 | 62 | 
 | 2023-02-15 | 164 | 62 | 
-| 2023-02-14 | 164 | 62 | 
 

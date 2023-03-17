@@ -1,6 +1,6 @@
 # upenn-cis5520/10-parsers - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 12 | 
 | 2023-03-15 | - | 12 | 
 | 2023-03-14 | - | 12 | 
 | 2023-03-12 | - | 12 | 

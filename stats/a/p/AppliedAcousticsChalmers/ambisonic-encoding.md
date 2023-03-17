@@ -1,6 +1,6 @@
 # AppliedAcousticsChalmers/ambisonic-encoding - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 20 | 3 | 
 | 2023-03-14 | 20 | 3 | 
 | 2023-03-13 | 20 | 3 | 
 | 2023-03-12 | 20 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-18 | 19 | 3 | 
 | 2023-02-17 | 19 | 3 | 
 | 2023-02-16 | 19 | 3 | 
-| 2023-02-15 | 19 | 3 | 
 

@@ -1,6 +1,6 @@
 # IndySockets/Indy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 354 | 126 | 
 | 2023-03-15 | 354 | 126 | 
 | 2023-03-14 | 354 | 126 | 
 | 2023-03-13 | 353 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 352 | 123 | 
 | 2023-02-16 | 352 | 123 | 
 | 2023-02-15 | 351 | 122 | 
-| 2023-02-14 | 351 | 122 | 
 

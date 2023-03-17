@@ -1,8 +1,8 @@
 # RylanSchaeffer/Stanford-LaTeX-Poster-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 64 | 21 | 
 | 2023-03-15 | 64 | 20 | 
 | 2023-03-14 | 64 | 19 | 
 | 2023-03-12 | 64 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 62 | 17 | 
 | 2023-02-17 | 62 | 17 | 
 | 2023-02-16 | 62 | 17 | 
-| 2023-02-14 | 62 | 17 | 
 

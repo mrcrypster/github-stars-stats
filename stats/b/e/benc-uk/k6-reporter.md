@@ -1,6 +1,6 @@
 # benc-uk/k6-reporter - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 209 | 56 | 
 | 2023-03-14 | 209 | 56 | 
 | 2023-03-13 | 208 | 57 | 
 | 2023-03-12 | 207 | 57 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 197 | 57 | 
 | 2023-02-16 | 197 | 57 | 
 | 2023-02-15 | 196 | 56 | 
-| 2023-02-14 | 196 | 56 | 
 

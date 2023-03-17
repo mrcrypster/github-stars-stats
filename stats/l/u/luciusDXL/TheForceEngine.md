@@ -1,6 +1,6 @@
 # luciusDXL/TheForceEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 701 | 43 | 
 | 2023-03-15 | 701 | 43 | 
 | 2023-03-14 | 700 | 44 | 
 | 2023-03-12 | 700 | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 690 | 42 | 
 | 2023-02-17 | 688 | 42 | 
 | 2023-02-16 | 686 | 42 | 
-| 2023-02-15 | 685 | 42 | 
 

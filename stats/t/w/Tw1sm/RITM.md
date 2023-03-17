@@ -1,6 +1,6 @@
 # Tw1sm/RITM - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 240 | 20 | 
 | 2023-03-15 | 240 | 20 | 
 | 2023-03-13 | 236 | 20 | 
 | 2023-03-12 | 236 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 235 | 20 | 
 | 2023-02-16 | 235 | 20 | 
 | 2023-02-15 | 235 | 20 | 
-| 2023-02-14 | 235 | 20 | 
 

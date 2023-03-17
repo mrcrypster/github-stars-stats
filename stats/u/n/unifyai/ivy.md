@@ -1,10 +1,10 @@
 # unifyai/ivy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 3373
+☋ Forks: 3390
 
-★ Stars: 9476
+★ Stars: 9510
 
 [Open repository](https://github.com/unifyai/ivy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 9510 | 3390 | 
 | 2023-03-15 | 9476 | 3373 | 
 | 2023-03-14 | 9445 | 3343 | 
 | 2023-03-12 | 9411 | 3322 | 

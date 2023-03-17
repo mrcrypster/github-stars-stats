@@ -1,6 +1,6 @@
 # jtriley-eth/the-ethereum-virtual-machine - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 82 | 11 | 
 | 2023-03-15 | 82 | 11 | 
 | 2023-03-14 | 82 | 11 | 
 | 2023-03-13 | 82 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 74 | 11 | 
 | 2023-02-16 | 74 | 11 | 
 | 2023-02-15 | 74 | 11 | 
-| 2023-02-14 | 74 | 11 | 
 

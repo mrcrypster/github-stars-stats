@@ -1,10 +1,10 @@
 # fscarmen2/Argo-X-Container-PaaS - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 139
+☋ Forks: 142
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/fscarmen2/Argo-X-Container-PaaS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 67 | 142 | 
 | 2023-03-15 | 66 | 139 | 
 | 2023-03-13 | 65 | 136 | 
 | 2023-03-12 | 63 | 133 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 41 | 88 | 
 | 2023-02-16 | 40 | 88 | 
 | 2023-02-15 | 40 | 86 | 
-| 2023-02-14 | 38 | 86 | 
 

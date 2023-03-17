@@ -1,10 +1,10 @@
 # emanuele-em/man-in-the-middle-proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 193
+★ Stars: 196
 
 [Open repository](https://github.com/emanuele-em/man-in-the-middle-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 196 | 14 | 
 | 2023-03-15 | 193 | 13 | 
 | 2023-03-13 | 193 | 13 | 
 | 2023-03-12 | 190 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 105 | 3 | 
 | 2023-02-16 | 92 | 2 | 
 | 2023-02-15 | 83 | 2 | 
-| 2023-02-14 | 72 | 1 | 
 

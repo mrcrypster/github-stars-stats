@@ -1,10 +1,10 @@
 # FahimAnzamDip/triangle-pos - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 50
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/FahimAnzamDip/triangle-pos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 100 | 50 | 
 | 2023-03-15 | 99 | 50 | 
 | 2023-03-14 | 98 | 50 | 
 | 2023-03-12 | 97 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 86 | 50 | 
 | 2023-02-16 | 86 | 50 | 
 | 2023-02-15 | 85 | 49 | 
-| 2023-02-14 | 84 | 48 | 
 

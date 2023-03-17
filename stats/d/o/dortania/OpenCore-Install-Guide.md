@@ -1,10 +1,10 @@
 # dortania/OpenCore-Install-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 576
 
-★ Stars: 3181
+★ Stars: 3183
 
 [Open repository](https://github.com/dortania/OpenCore-Install-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3183 | 576 | 
 | 2023-03-14 | 3181 | 576 | 
 | 2023-03-13 | 3179 | 576 | 
 | 2023-03-12 | 3176 | 576 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 3129 | 571 | 
 | 2023-02-16 | 3126 | 571 | 
 | 2023-02-15 | 3124 | 569 | 
-| 2023-02-14 | 3121 | 569 | 
 

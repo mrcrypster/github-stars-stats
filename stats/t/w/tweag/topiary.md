@@ -1,10 +1,10 @@
 # tweag/topiary - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 111
+★ Stars: 114
 
 [Open repository](https://github.com/tweag/topiary)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 114 | - | 
 | 2023-03-15 | 111 | - | 
 | 2023-03-14 | 111 | - | 
 | 2023-03-13 | 105 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 26 | - | 
 | 2023-02-16 | 26 | - | 
 | 2023-02-15 | 26 | - | 
-| 2023-02-14 | 26 | - | 
 

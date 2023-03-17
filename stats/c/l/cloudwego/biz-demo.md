@@ -1,10 +1,10 @@
 # cloudwego/biz-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 45
 
-★ Stars: 95
+★ Stars: 98
 
 [Open repository](https://github.com/cloudwego/biz-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 98 | 45 | 
 | 2023-03-15 | 95 | 45 | 
 | 2023-03-14 | 90 | 44 | 
 | 2023-03-13 | 89 | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 67 | 37 | 
 | 2023-02-16 | 66 | 37 | 
 | 2023-02-15 | 66 | 37 | 
-| 2023-02-14 | 65 | 36 | 
 

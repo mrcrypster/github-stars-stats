@@ -1,6 +1,6 @@
 # DevopsFactoryTTT/Elastic-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 5 | 63 | 
 | 2023-03-15 | 5 | 63 | 
 | 2023-03-14 | 5 | 63 | 
 | 2023-03-13 | 5 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 5 | 53 | 
 | 2023-02-16 | 5 | 52 | 
 | 2023-02-15 | 5 | 52 | 
-| 2023-02-14 | 5 | 52 | 
 

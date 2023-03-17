@@ -1,10 +1,10 @@
 # lensterxyz/lenster - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 759
 
-★ Stars: 16183
+★ Stars: 16222
 
 [Open repository](https://github.com/lensterxyz/lenster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 16222 | 759 | 
 | 2023-03-14 | 16183 | 759 | 
 | 2023-03-13 | 16161 | 756 | 
 | 2023-03-12 | 16137 | 752 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 14956 | 654 | 
 | 2023-02-16 | 14410 | 636 | 
 | 2023-02-15 | 14195 | 629 | 
-| 2023-02-14 | 14062 | 618 | 
 

@@ -1,6 +1,6 @@
 # RobinNagpal/kubernetes-tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 35 | 199 | 
 | 2023-03-15 | 35 | 199 | 
 | 2023-03-13 | 35 | 199 | 
 | 2023-03-12 | 35 | 199 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 32 | 194 | 
 | 2023-02-17 | 32 | 194 | 
 | 2023-02-16 | 32 | 190 | 
-| 2023-02-15 | 32 | 190 | 
 

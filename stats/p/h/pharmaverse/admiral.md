@@ -1,10 +1,10 @@
 # pharmaverse/admiral - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 35
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/pharmaverse/admiral)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 134 | 35 | 
 | 2023-03-15 | 133 | 35 | 
 | 2023-03-14 | 133 | 35 | 
 | 2023-03-13 | 133 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 130 | 33 | 
 | 2023-02-17 | 130 | 33 | 
 | 2023-02-16 | 130 | 33 | 
-| 2023-02-15 | 129 | 32 | 
 

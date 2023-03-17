@@ -1,8 +1,8 @@
 # napari/docs - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 7 | 25 | 
 | 2023-03-15 | 7 | 24 | 
 | 2023-03-14 | 7 | 24 | 
 | 2023-03-12 | 7 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 7 | 23 | 
 | 2023-02-16 | 7 | 23 | 
 | 2023-02-15 | 7 | 23 | 
-| 2023-02-14 | 7 | 23 | 
 

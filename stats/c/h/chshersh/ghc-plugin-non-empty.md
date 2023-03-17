@@ -1,6 +1,6 @@
 # chshersh/ghc-plugin-non-empty - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 24 | 3 | 
 | 2023-03-14 | 24 | 3 | 
 | 2023-03-13 | 24 | 3 | 
 | 2023-03-12 | 24 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-17 | 23 | 3 | 
 | 2023-02-16 | 23 | 3 | 
 | 2023-02-15 | 23 | 3 | 
-| 2023-02-14 | 23 | 3 | 
 

@@ -1,10 +1,10 @@
 # zeroflag/Teapot - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/zeroflag/Teapot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 91 | 17 | 
 | 2023-03-15 | 90 | 17 | 
 | 2023-03-14 | 90 | 17 | 
 | 2023-03-13 | 90 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 88 | 17 | 
 | 2023-02-16 | 88 | 17 | 
 | 2023-02-15 | 88 | 17 | 
-| 2023-02-14 | 88 | 17 | 
 

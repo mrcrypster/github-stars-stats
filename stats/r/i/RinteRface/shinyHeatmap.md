@@ -1,10 +1,10 @@
 # RinteRface/shinyHeatmap - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/RinteRface/shinyHeatmap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 20 | 1 | 
 | 2023-03-15 | 19 | 1 | 
 | 2023-03-13 | 19 | 1 | 
 | 2023-03-12 | 19 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 20 | 1 | 
 | 2023-02-17 | 20 | 1 | 
 | 2023-02-16 | 20 | 1 | 
-| 2023-02-15 | 20 | 1 | 
 

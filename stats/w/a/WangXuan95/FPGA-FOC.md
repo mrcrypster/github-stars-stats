@@ -1,6 +1,6 @@
 # WangXuan95/FPGA-FOC - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 216 | 92 | 
 | 2023-03-15 | 216 | 92 | 
 | 2023-03-14 | 215 | 92 | 
 | 2023-03-13 | 215 | 92 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 212 | 91 | 
 | 2023-02-16 | 212 | 91 | 
 | 2023-02-15 | 212 | 91 | 
-| 2023-02-14 | 212 | 91 | 
 

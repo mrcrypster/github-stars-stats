@@ -1,10 +1,10 @@
 # Cloudlordd/Cloudlord-and-pals - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 109
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/Cloudlordd/Cloudlord-and-pals)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 9 | 109 | 
 | 2023-03-15 | 10 | 109 | 
 | 2023-03-14 | 10 | 109 | 
 | 2023-03-13 | 10 | 109 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 10 | 109 | 
 | 2023-02-16 | 10 | 109 | 
 | 2023-02-15 | 10 | 109 | 
-| 2023-02-14 | 10 | 109 | 
 

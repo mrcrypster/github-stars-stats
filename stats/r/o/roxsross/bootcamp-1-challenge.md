@@ -1,6 +1,6 @@
 # roxsross/bootcamp-1-challenge - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 12 | 22 | 
 | 2023-03-15 | 12 | 22 | 
 | 2023-03-14 | 12 | 22 | 
 | 2023-03-13 | 12 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 12 | 22 | 
 | 2023-02-16 | 12 | 22 | 
 | 2023-02-15 | 12 | 22 | 
-| 2023-02-14 | 12 | 22 | 
 

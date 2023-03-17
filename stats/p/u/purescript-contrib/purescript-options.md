@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-options - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 20 | 15 | 
 | 2023-03-15 | 20 | 15 | 
 | 2023-03-13 | 20 | 15 | 
 | 2023-03-12 | 20 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 19 | 15 | 
 | 2023-02-16 | 19 | 15 | 
 | 2023-02-15 | 19 | 15 | 
-| 2023-02-14 | 19 | 15 | 
 

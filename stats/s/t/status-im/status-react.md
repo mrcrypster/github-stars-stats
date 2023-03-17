@@ -1,6 +1,6 @@
 # status-im/status-react - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 937
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 3631 | 937 | 
 | 2023-03-15 | 3631 | 937 | 
 | 2023-03-14 | 3629 | 936 | 
 | 2023-03-12 | 3627 | 936 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 3604 | 937 | 
 | 2023-02-16 | 3602 | 937 | 
 | 2023-02-15 | 3600 | 937 | 
-| 2023-02-14 | 3600 | 937 | 
 

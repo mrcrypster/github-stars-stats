@@ -1,10 +1,10 @@
 # kingyoPiyo/Pico-10BASE-T - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 529
+★ Stars: 528
 
 [Open repository](https://github.com/kingyoPiyo/Pico-10BASE-T)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 528 | 17 | 
 | 2023-03-15 | 529 | 17 | 
 | 2023-03-14 | 529 | 17 | 
 | 2023-03-13 | 528 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 523 | 17 | 
 | 2023-02-16 | 523 | 17 | 
 | 2023-02-15 | 523 | 17 | 
-| 2023-02-14 | 523 | 17 | 
 

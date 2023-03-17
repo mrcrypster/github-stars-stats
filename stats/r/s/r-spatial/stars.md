@@ -1,10 +1,10 @@
 # r-spatial/stars - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 85
 
-★ Stars: 478
+★ Stars: 479
 
 [Open repository](https://github.com/r-spatial/stars)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 479 | 85 | 
 | 2023-03-15 | 478 | 85 | 
 | 2023-03-14 | 478 | 85 | 
 | 2023-03-12 | 478 | 85 | 

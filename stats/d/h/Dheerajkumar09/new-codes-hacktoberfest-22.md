@@ -1,6 +1,6 @@
 # Dheerajkumar09/new-codes-hacktoberfest-22 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 8 | 12 | 
 | 2023-03-15 | 8 | 12 | 
 | 2023-03-13 | 8 | 12 | 
 | 2023-03-12 | 8 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 8 | 12 | 
 | 2023-02-16 | 8 | 12 | 
 | 2023-02-15 | 8 | 12 | 
-| 2023-02-14 | 8 | 12 | 
 

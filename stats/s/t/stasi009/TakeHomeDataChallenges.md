@@ -1,6 +1,6 @@
 # stasi009/TakeHomeDataChallenges - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 519
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 926 | 519 | 
 | 2023-03-15 | 926 | 519 | 
 | 2023-03-14 | 926 | 519 | 
 | 2023-03-12 | 925 | 519 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 923 | 519 | 
 | 2023-02-16 | 923 | 519 | 
 | 2023-02-15 | 923 | 519 | 
-| 2023-02-14 | 923 | 519 | 
 

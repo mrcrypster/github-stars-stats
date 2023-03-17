@@ -1,6 +1,6 @@
 # emacsorphanage/git-gutter-fringe - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-16 | 148 | 17 | 
 | 2023-03-15 | 148 | 17 | 
 | 2023-03-13 | 148 | 17 | 
 | 2023-03-12 | 149 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-17 | 148 | 17 | 
 | 2023-02-16 | 148 | 17 | 
 | 2023-02-15 | 148 | 17 | 
-| 2023-02-14 | 148 | 17 | 
 
