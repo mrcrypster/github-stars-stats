@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 13
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/thomasKn/astro-shopify)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 36 | 13 | 
+| 2023-03-17 | 37 | 13 | 
 | 2023-03-16 | 35 | 12 | 
 | 2023-03-15 | 35 | 11 | 
 | 2023-03-14 | 34 | 10 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-18 | 20 | 5 | 
 | 2023-02-17 | 19 | 5 | 
 | 2023-02-16 | 19 | 5 | 
-| 2023-02-15 | 19 | 4 | 
 

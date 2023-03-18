@@ -1,10 +1,10 @@
 # turbot/steampipe-mod-aws-compliance - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 37
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/turbot/steampipe-mod-aws-compliance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 282 | 37 | 
 | 2023-03-15 | 281 | 37 | 
 | 2023-03-14 | 281 | 37 | 
 | 2023-03-12 | 281 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 280 | 33 | 
 | 2023-02-17 | 280 | 33 | 
 | 2023-02-16 | 280 | 33 | 
-| 2023-02-15 | 280 | 33 | 
 

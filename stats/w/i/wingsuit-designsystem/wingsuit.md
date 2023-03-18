@@ -1,6 +1,6 @@
 # wingsuit-designsystem/wingsuit - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 79 | 12 | 
 | 2023-03-15 | 79 | 12 | 
 | 2023-03-14 | 79 | 12 | 
 | 2023-03-13 | 79 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 76 | 12 | 
 | 2023-02-17 | 76 | 12 | 
 | 2023-02-16 | 76 | 12 | 
-| 2023-02-15 | 75 | 12 | 
 

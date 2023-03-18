@@ -1,10 +1,10 @@
 # vaticle/dependencies - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 17
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/vaticle/dependencies)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 9 | 17 | 
 | 2023-03-16 | 10 | 17 | 
 | 2023-03-15 | 10 | 17 | 
 | 2023-03-14 | 10 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 10 | 17 | 
 | 2023-02-17 | 10 | 17 | 
 | 2023-02-16 | 10 | 17 | 
-| 2023-02-15 | 10 | 17 | 
 

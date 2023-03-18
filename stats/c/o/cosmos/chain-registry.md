@@ -1,8 +1,8 @@
 # cosmos/chain-registry - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 535
+☋ Forks: 538
 
 ★ Stars: 318
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 318 | 538 | 
 | 2023-03-15 | 318 | 535 | 
 | 2023-03-14 | 317 | 535 | 
 | 2023-03-13 | 316 | 531 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 310 | 509 | 
 | 2023-02-17 | 309 | 507 | 
 | 2023-02-16 | 309 | 505 | 
-| 2023-02-15 | 309 | 503 | 
 

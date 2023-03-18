@@ -1,6 +1,6 @@
 # GoldenCheetah/GoldenCheetah - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 434
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1563 | 434 | 
 | 2023-03-16 | 1563 | 434 | 
 | 2023-03-15 | 1564 | 435 | 
 | 2023-03-14 | 1563 | 435 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1560 | 436 | 
 | 2023-02-17 | 1560 | 436 | 
 | 2023-02-16 | 1557 | 436 | 
-| 2023-02-15 | 1556 | 436 | 
 

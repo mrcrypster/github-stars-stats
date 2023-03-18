@@ -1,10 +1,10 @@
 # mikeroyal/Digital-Forensics-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 72
 
-★ Stars: 772
+★ Stars: 774
 
 [Open repository](https://github.com/mikeroyal/Digital-Forensics-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 774 | 72 | 
 | 2023-03-15 | 772 | 72 | 
 | 2023-03-14 | 770 | 72 | 
 | 2023-03-13 | 768 | 73 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 744 | 68 | 
 | 2023-02-17 | 744 | 67 | 
 | 2023-02-16 | 743 | 66 | 
-| 2023-02-15 | 742 | 66 | 
 

@@ -1,10 +1,10 @@
 # digital-asset/daml-finance - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 8
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/digital-asset/daml-finance)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 12 | 8 | 
+| 2023-03-17 | 11 | 8 | 
 | 2023-03-16 | 11 | 8 | 
 | 2023-03-15 | 11 | 8 | 
 | 2023-03-13 | 11 | 8 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 11 | 6 | 
 | 2023-02-17 | 11 | 6 | 
 | 2023-02-16 | 11 | 6 | 
-| 2023-02-15 | 11 | 6 | 
 

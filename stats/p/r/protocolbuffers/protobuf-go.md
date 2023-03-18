@@ -1,10 +1,10 @@
 # protocolbuffers/protobuf-go - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 302
+☋ Forks: 304
 
-★ Stars: 2111
+★ Stars: 2115
 
 [Open repository](https://github.com/protocolbuffers/protobuf-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2115 | 304 | 
 | 2023-03-15 | 2111 | 302 | 
 | 2023-03-14 | 2108 | 301 | 
 | 2023-03-13 | 2108 | 301 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2076 | 296 | 
 | 2023-02-17 | 2074 | 296 | 
 | 2023-02-16 | 2072 | 296 | 
-| 2023-02-15 | 2068 | 295 | 
 

@@ -1,10 +1,10 @@
 # KeJunMao/ai-anything - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 6
+☋ Forks: 10
 
-★ Stars: 84
+★ Stars: 144
 
 [Open repository](https://github.com/KeJunMao/ai-anything)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 144 | 10 | 
 | 2023-03-16 | 84 | 6 | 
 | 2023-03-15 | 72 | 6 | 
 

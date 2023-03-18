@@ -1,10 +1,10 @@
 # PX4/PX4-Autopilot - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 12341
+☋ Forks: 12346
 
-★ Stars: 6273
+★ Stars: 6276
 
 [Open repository](https://github.com/PX4/PX4-Autopilot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 6276 | 12346 | 
 | 2023-03-16 | 6273 | 12341 | 
 | 2023-03-15 | 6265 | 12341 | 
 | 2023-03-14 | 6264 | 12341 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 6170 | 12278 | 
 | 2023-02-18 | 6167 | 12274 | 
 | 2023-02-17 | 6165 | 12269 | 
-| 2023-02-15 | 6164 | 12267 | 
 

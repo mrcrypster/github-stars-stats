@@ -1,6 +1,6 @@
 # alt-romes/hegg - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 49 | 4 | 
 | 2023-03-15 | 49 | 4 | 
 | 2023-03-14 | 49 | 4 | 
 | 2023-03-13 | 49 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 49 | 3 | 
 | 2023-02-17 | 49 | 3 | 
 | 2023-02-16 | 49 | 3 | 
-| 2023-02-15 | 49 | 3 | 
 

@@ -1,10 +1,10 @@
 # DanilaMihailov/beacon.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/DanilaMihailov/beacon.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 237 | 4 | 
 | 2023-03-16 | 236 | 4 | 
 | 2023-03-15 | 235 | 4 | 
 | 2023-03-14 | 235 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 233 | 4 | 
 | 2023-02-17 | 233 | 4 | 
 | 2023-02-16 | 233 | 4 | 
-| 2023-02-15 | 233 | 4 | 
 

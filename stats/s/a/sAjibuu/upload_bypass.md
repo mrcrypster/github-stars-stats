@@ -1,10 +1,10 @@
 # sAjibuu/upload_bypass - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 196
+★ Stars: 200
 
 [Open repository](https://github.com/sAjibuu/upload_bypass)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 200 | 27 | 
 | 2023-03-16 | 196 | 26 | 
 | 2023-03-14 | 192 | 24 | 
 | 2023-03-13 | 180 | 21 | 

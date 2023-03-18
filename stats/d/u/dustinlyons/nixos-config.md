@@ -1,10 +1,10 @@
 # dustinlyons/nixos-config - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 129
+★ Stars: 132
 
 [Open repository](https://github.com/dustinlyons/nixos-config)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 132 | 2 | 
+| 2023-03-17 | 131 | 2 | 
 | 2023-03-15 | 129 | 2 | 
 | 2023-03-14 | 122 | 2 | 
 | 2023-03-13 | 122 | 2 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-19 | 85 | 1 | 
 | 2023-02-18 | 84 | 1 | 
 | 2023-02-17 | 83 | 1 | 
-| 2023-02-15 | 82 | 1 | 
 

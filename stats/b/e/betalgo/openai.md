@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 179
 
-★ Stars: 1146
+★ Stars: 1164
 
 [Open repository](https://github.com/betalgo/openai)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 1146 | 179 | 
+| 2023-03-17 | 1164 | 179 | 
 | 2023-03-16 | 1137 | 179 | 
 | 2023-03-15 | 1098 | 171 | 
 | 2023-03-14 | 1071 | 167 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 451 | 110 | 
 | 2023-02-18 | 439 | 108 | 
 | 2023-02-16 | 427 | 107 | 
-| 2023-02-15 | 425 | 104 | 
 

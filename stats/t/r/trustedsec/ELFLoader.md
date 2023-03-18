@@ -1,6 +1,6 @@
 # trustedsec/ELFLoader - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 194 | 37 | 
 | 2023-03-15 | 194 | 37 | 
 | 2023-03-14 | 194 | 37 | 
 | 2023-03-13 | 194 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 190 | 37 | 
 | 2023-02-17 | 190 | 37 | 
 | 2023-02-16 | 190 | 37 | 
-| 2023-02-15 | 190 | 37 | 
 

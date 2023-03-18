@@ -1,6 +1,6 @@
 # appdev-projects/hash-chapter - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 772
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 772 | 
 | 2023-03-16 | - | 772 | 
 | 2023-03-15 | - | 773 | 
 | 2023-03-13 | - | 773 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | - | 747 | 
 | 2023-02-18 | - | 746 | 
 | 2023-02-17 | - | 745 | 
-| 2023-02-16 | - | 744 | 
 

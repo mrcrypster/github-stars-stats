@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 166
+☋ Forks: 227
 
-★ Stars: 1960
+★ Stars: 2644
 
 [Open repository](https://github.com/xx025/carrot)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 1960 | 166 | 
+| 2023-03-17 | 2644 | 227 | 
 | 2023-03-16 | 1924 | 164 | 
 | 2023-03-15 | 1066 | 101 | 
 | 2023-03-14 | 686 | 60 | 

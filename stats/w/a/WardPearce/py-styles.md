@@ -1,6 +1,6 @@
 # WardPearce/py-styles - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 41 | 5 | 
 | 2023-03-16 | 41 | 5 | 
 | 2023-03-15 | 40 | 5 | 
 | 2023-03-14 | 40 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 40 | 5 | 
 | 2023-02-18 | 40 | 5 | 
 | 2023-02-17 | 40 | 5 | 
-| 2023-02-16 | 40 | 5 | 
 

@@ -1,10 +1,10 @@
 # one2nc/cloudlens - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 10
 
-★ Stars: 212
+★ Stars: 214
 
 [Open repository](https://github.com/one2nc/cloudlens)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 214 | 10 | 
 | 2023-03-16 | 212 | 10 | 
 | 2023-03-15 | 209 | 10 | 
 | 2023-03-13 | 196 | 10 | 

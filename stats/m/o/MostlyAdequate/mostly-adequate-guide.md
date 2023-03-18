@@ -1,10 +1,10 @@
 # MostlyAdequate/mostly-adequate-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 1836
+☋ Forks: 1837
 
-★ Stars: 22448
+★ Stars: 22451
 
 [Open repository](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 22451 | 1837 | 
 | 2023-03-16 | 22448 | 1836 | 
 | 2023-03-15 | 22448 | 1836 | 
 | 2023-03-13 | 22448 | 1836 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 22396 | 1833 | 
 | 2023-02-17 | 22393 | 1833 | 
 | 2023-02-16 | 22388 | 1833 | 
-| 2023-02-15 | 22386 | 1833 | 
 

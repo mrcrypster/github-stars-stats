@@ -1,10 +1,10 @@
 # project64/project64 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 412
 
-★ Stars: 1984
+★ Stars: 1986
 
 [Open repository](https://github.com/project64/project64)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1986 | 412 | 
 | 2023-03-16 | 1984 | 412 | 
 | 2023-03-14 | 1983 | 412 | 
 | 2023-03-13 | 1982 | 411 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1960 | 409 | 
 | 2023-02-17 | 1960 | 409 | 
 | 2023-02-16 | 1958 | 409 | 
-| 2023-02-15 | 1956 | 409 | 
 

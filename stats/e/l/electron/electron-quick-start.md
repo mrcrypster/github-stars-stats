@@ -1,10 +1,10 @@
 # electron/electron-quick-start - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4930
 
-★ Stars: 10305
+★ Stars: 10310
 
 [Open repository](https://github.com/electron/electron-quick-start)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 10310 | 4930 | 
 | 2023-03-16 | 10305 | 4930 | 
 | 2023-03-14 | 10303 | 4931 | 
 | 2023-03-13 | 10302 | 4932 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 10273 | 4919 | 
 | 2023-02-17 | 10272 | 4920 | 
 | 2023-02-16 | 10272 | 4918 | 
-| 2023-02-15 | 10271 | 4919 | 
 

@@ -1,6 +1,6 @@
 # abrochard/mermaid-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 118 | 15 | 
 | 2023-03-16 | 118 | 15 | 
 | 2023-03-15 | 118 | 15 | 
 | 2023-03-14 | 118 | 15 | 

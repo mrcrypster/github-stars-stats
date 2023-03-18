@@ -1,6 +1,6 @@
 # MercersKitchen/Sandbox-Music-Player-Project-P4 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1 | 9 | 
 | 2023-03-16 | 1 | 9 | 
 | 2023-03-15 | 1 | 10 | 
 | 2023-03-14 | 1 | 10 | 

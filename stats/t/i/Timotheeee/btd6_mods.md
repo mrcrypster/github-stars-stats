@@ -1,10 +1,10 @@
 # Timotheeee/btd6_mods - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 486
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/Timotheeee/btd6_mods)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 83 | 486 | 
 | 2023-03-16 | 82 | 486 | 
 | 2023-03-15 | 82 | 485 | 
 | 2023-03-13 | 82 | 484 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 80 | 468 | 
 | 2023-02-17 | 80 | 467 | 
 | 2023-02-16 | 80 | 465 | 
-| 2023-02-15 | 79 | 465 | 
 

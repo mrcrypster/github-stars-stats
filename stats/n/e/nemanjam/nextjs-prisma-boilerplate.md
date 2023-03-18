@@ -1,10 +1,10 @@
 # nemanjam/nextjs-prisma-boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 54
 
-★ Stars: 364
+★ Stars: 365
 
 [Open repository](https://github.com/nemanjam/nextjs-prisma-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 365 | 54 | 
 | 2023-03-15 | 364 | 54 | 
 | 2023-03-14 | 364 | 54 | 
 | 2023-03-13 | 363 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 351 | 53 | 
 | 2023-02-17 | 350 | 52 | 
 | 2023-02-16 | 350 | 52 | 
-| 2023-02-15 | 349 | 51 | 
 

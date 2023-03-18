@@ -1,6 +1,6 @@
 # ellenhp/headway - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2 | 58 | 
 | 2023-03-15 | 2 | 58 | 
 | 2023-03-14 | 2 | 58 | 
 | 2023-03-13 | 2 | 58 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-19 | 2 | 59 | 
 | 2023-02-18 | 2 | 59 | 
 | 2023-02-17 | 2 | 59 | 
-| 2023-02-16 | 2 | 59 | 
 

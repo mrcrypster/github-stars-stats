@@ -1,10 +1,10 @@
 # mallexibra/mallexibra-website - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/mallexibra/mallexibra-website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 17 | - | 
 | 2023-03-15 | 16 | - | 
 | 2023-03-14 | 15 | - | 
 | 2023-03-13 | 14 | - | 

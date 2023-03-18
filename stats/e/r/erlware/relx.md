@@ -1,6 +1,6 @@
 # erlware/relx - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 672 | 230 | 
 | 2023-03-15 | 672 | 230 | 
 | 2023-03-14 | 671 | 231 | 
 | 2023-03-13 | 671 | 231 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-19 | 669 | 231 | 
 | 2023-02-18 | 669 | 231 | 
 | 2023-02-17 | 669 | 231 | 
-| 2023-02-16 | 669 | 231 | 
 

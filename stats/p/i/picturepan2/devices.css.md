@@ -1,6 +1,6 @@
 # picturepan2/devices.css - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2252 | 238 | 
 | 2023-03-16 | 2252 | 238 | 
 | 2023-03-14 | 2252 | 237 | 
 | 2023-03-13 | 2252 | 238 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2244 | 238 | 
 | 2023-02-17 | 2245 | 238 | 
 | 2023-02-16 | 2245 | 238 | 
-| 2023-02-15 | 2244 | 238 | 
 

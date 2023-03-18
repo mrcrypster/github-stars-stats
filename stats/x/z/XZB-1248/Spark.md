@@ -1,10 +1,10 @@
 # XZB-1248/Spark - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 137
 
-★ Stars: 597
+★ Stars: 601
 
 [Open repository](https://github.com/XZB-1248/Spark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 601 | 137 | 
 | 2023-03-16 | 597 | 137 | 
 | 2023-03-15 | 595 | 137 | 
 | 2023-03-13 | 593 | 137 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 547 | 125 | 
 | 2023-02-17 | 546 | 125 | 
 | 2023-02-16 | 544 | 125 | 
-| 2023-02-15 | 544 | 125 | 
 

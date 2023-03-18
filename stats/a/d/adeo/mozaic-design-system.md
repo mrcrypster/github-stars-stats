@@ -1,6 +1,6 @@
 # adeo/mozaic-design-system - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 50 | 16 | 
 | 2023-03-16 | 50 | 16 | 
 | 2023-03-15 | 50 | 16 | 
 | 2023-03-14 | 50 | 16 | 

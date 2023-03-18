@@ -1,10 +1,10 @@
 # EthanHuntDeng/gua-area - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 75
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/EthanHuntDeng/gua-area)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 53 | 75 | 
 | 2023-03-15 | 52 | 75 | 
 | 2023-03-14 | 52 | 73 | 
 | 2023-03-13 | 46 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 46 | 70 | 
 | 2023-02-17 | 46 | 70 | 
 | 2023-02-16 | 46 | 70 | 
-| 2023-02-15 | 46 | 70 | 
 

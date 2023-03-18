@@ -1,10 +1,10 @@
 # teyvatps/teyvatps - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 24
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/teyvatps/teyvatps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 87 | 24 | 
 | 2023-03-15 | 86 | 24 | 
 | 2023-03-14 | 86 | 24 | 
 | 2023-03-13 | 86 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 85 | 24 | 
 | 2023-02-17 | 85 | 24 | 
 | 2023-02-16 | 85 | 24 | 
-| 2023-02-15 | 85 | 24 | 
 

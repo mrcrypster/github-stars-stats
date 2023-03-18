@@ -1,10 +1,10 @@
 # Exrick/xmall-front - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 960
+☋ Forks: 961
 
-★ Stars: 2573
+★ Stars: 2576
 
 [Open repository](https://github.com/Exrick/xmall-front)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2576 | 961 | 
 | 2023-03-15 | 2573 | 960 | 
 | 2023-03-14 | 2571 | 960 | 
 | 2023-03-13 | 2571 | 960 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2558 | 961 | 
 | 2023-02-17 | 2559 | 961 | 
 | 2023-02-16 | 2559 | 961 | 
-| 2023-02-15 | 2559 | 961 | 
 

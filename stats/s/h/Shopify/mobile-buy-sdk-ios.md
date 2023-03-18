@@ -1,10 +1,10 @@
 # Shopify/mobile-buy-sdk-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 200
 
-★ Stars: 417
+★ Stars: 418
 
 [Open repository](https://github.com/Shopify/mobile-buy-sdk-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 418 | 200 | 
 | 2023-03-16 | 417 | 200 | 
 | 2023-03-14 | 417 | 200 | 
 | 2023-03-13 | 417 | 200 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 416 | 199 | 
 | 2023-02-17 | 416 | 199 | 
 | 2023-02-16 | 415 | 199 | 
-| 2023-02-15 | 415 | 199 | 
 

@@ -1,10 +1,10 @@
 # theVakhovskeIsTaken/holoiso - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 196
+☋ Forks: 197
 
-★ Stars: 3823
+★ Stars: 3825
 
 [Open repository](https://github.com/theVakhovskeIsTaken/holoiso)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3825 | 197 | 
 | 2023-03-16 | 3823 | 196 | 
 | 2023-03-15 | 3819 | 196 | 
 | 2023-03-13 | 3812 | 195 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 3553 | 185 | 
 | 2023-02-17 | 3551 | 185 | 
 | 2023-02-16 | 3545 | 184 | 
-| 2023-02-15 | 3540 | 184 | 
 

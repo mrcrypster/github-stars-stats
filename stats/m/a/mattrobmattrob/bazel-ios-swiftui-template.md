@@ -1,10 +1,10 @@
 # mattrobmattrob/bazel-ios-swiftui-template - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/mattrobmattrob/bazel-ios-swiftui-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 12 | - | 
 | 2023-03-16 | 11 | - | 
 | 2023-03-15 | 11 | - | 
 | 2023-03-13 | 11 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 10 | - | 
 | 2023-02-17 | 10 | - | 
 | 2023-02-16 | 10 | - | 
-| 2023-02-15 | 10 | - | 
 

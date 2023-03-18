@@ -1,10 +1,10 @@
 # parcel-bundler/parcel - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 2245
+☋ Forks: 2244
 
-★ Stars: 42119
+★ Stars: 42124
 
 [Open repository](https://github.com/parcel-bundler/parcel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 42124 | 2244 | 
 | 2023-03-16 | 42119 | 2245 | 
 | 2023-03-14 | 42115 | 2244 | 
 | 2023-03-13 | 42109 | 2243 | 

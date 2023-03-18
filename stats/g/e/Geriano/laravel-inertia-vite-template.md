@@ -1,6 +1,6 @@
 # Geriano/laravel-inertia-vite-template - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 63 | 17 | 
 | 2023-03-15 | 63 | 17 | 
 | 2023-03-14 | 63 | 17 | 
 | 2023-03-13 | 62 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 59 | 17 | 
 | 2023-02-17 | 59 | 17 | 
 | 2023-02-16 | 59 | 17 | 
-| 2023-02-15 | 59 | 17 | 
 

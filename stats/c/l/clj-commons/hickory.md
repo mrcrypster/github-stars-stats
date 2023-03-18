@@ -1,6 +1,6 @@
 # clj-commons/hickory - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 577 | 45 | 
 | 2023-03-16 | 577 | 45 | 
 | 2023-03-15 | 576 | 45 | 
 | 2023-03-14 | 576 | 45 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 574 | 44 | 
 | 2023-02-17 | 574 | 44 | 
 | 2023-02-16 | 574 | 44 | 
-| 2023-02-15 | 574 | 44 | 
 

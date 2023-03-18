@@ -1,10 +1,10 @@
 # Specy/asm-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/Specy/asm-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 55 | 2 | 
 | 2023-03-15 | 54 | 2 | 
 | 2023-03-14 | 54 | 2 | 
 | 2023-03-12 | 54 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 52 | 2 | 
 | 2023-02-17 | 51 | 2 | 
 | 2023-02-16 | 51 | 2 | 
-| 2023-02-15 | 50 | 2 | 
 

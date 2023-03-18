@@ -1,8 +1,8 @@
 # OpenClassrooms-Student-Center/7697016-Front-End.1 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 154
+☋ Forks: 159
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 8 | 159 | 
 | 2023-03-16 | 8 | 154 | 
 | 2023-03-15 | 8 | 154 | 
 | 2023-03-14 | 8 | 150 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 6 | 96 | 
 | 2023-02-17 | 6 | 94 | 
 | 2023-02-16 | 5 | 88 | 
-| 2023-02-15 | 5 | 87 | 
 

@@ -1,10 +1,10 @@
 # wingkwong/leetcode-the-hard-way - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 176
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/wingkwong/leetcode-the-hard-way)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 614 | 176 | 
 | 2023-03-16 | 613 | 176 | 
 | 2023-03-14 | 611 | 177 | 
 | 2023-03-13 | 611 | 177 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 597 | 175 | 
 | 2023-02-17 | 597 | 174 | 
 | 2023-02-16 | 595 | 175 | 
-| 2023-02-15 | 594 | 175 | 
 

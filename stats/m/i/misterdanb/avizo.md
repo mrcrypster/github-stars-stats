@@ -1,6 +1,6 @@
 # misterdanb/avizo - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 172 | 14 | 
 | 2023-03-16 | 172 | 14 | 
 | 2023-03-15 | 171 | 14 | 
 | 2023-03-14 | 171 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 167 | 14 | 
 | 2023-02-17 | 166 | 14 | 
 | 2023-02-16 | 165 | 14 | 
-| 2023-02-15 | 165 | 14 | 
 

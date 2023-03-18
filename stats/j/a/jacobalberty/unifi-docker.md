@@ -1,8 +1,8 @@
 # jacobalberty/unifi-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 381
+☋ Forks: 382
 
 ★ Stars: 1651
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1651 | 382 | 
 | 2023-03-16 | 1651 | 381 | 
 | 2023-03-15 | 1651 | 381 | 
 | 2023-03-14 | 1649 | 382 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1630 | 381 | 
 | 2023-02-17 | 1630 | 381 | 
 | 2023-02-16 | 1628 | 381 | 
-| 2023-02-15 | 1626 | 381 | 
 

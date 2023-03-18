@@ -1,6 +1,6 @@
 # Kurorin-fs/Kuro_B787-8_Installer - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 2 | 
 | 2023-03-15 | - | 2 | 
 | 2023-03-14 | - | 2 | 
 | 2023-03-13 | - | 2 | 

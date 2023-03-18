@@ -1,10 +1,10 @@
 # ARPSyndicate/awesome-intelligence - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 33
 
-★ Stars: 1201
+★ Stars: 1204
 
 [Open repository](https://github.com/ARPSyndicate/awesome-intelligence)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1204 | 33 | 
 | 2023-03-16 | 1201 | 33 | 
 | 2023-03-15 | 1202 | 33 | 
 | 2023-03-13 | 1200 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1161 | 29 | 
 | 2023-02-17 | 1156 | 27 | 
 | 2023-02-16 | 1155 | 27 | 
-| 2023-02-15 | 1155 | 27 | 
 

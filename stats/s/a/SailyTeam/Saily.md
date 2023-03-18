@@ -1,6 +1,6 @@
 # SailyTeam/Saily - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 693 | 52 | 
 | 2023-03-16 | 693 | 52 | 
 | 2023-03-14 | 693 | 52 | 
 | 2023-03-13 | 693 | 52 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 674 | 50 | 
 | 2023-02-17 | 672 | 50 | 
 | 2023-02-16 | 671 | 50 | 
-| 2023-02-15 | 669 | 50 | 
 

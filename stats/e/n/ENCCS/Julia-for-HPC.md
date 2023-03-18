@@ -1,8 +1,8 @@
 # ENCCS/Julia-for-HPC - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 28 | 9 | 
 | 2023-03-16 | 28 | 8 | 
 | 2023-03-14 | 25 | 7 | 
 | 2023-03-13 | 25 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 24 | 7 | 
 | 2023-02-17 | 24 | 7 | 
 | 2023-02-16 | 24 | 7 | 
-| 2023-02-15 | 24 | 7 | 
 

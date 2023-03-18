@@ -1,10 +1,10 @@
 # mgerdes/Open-Golf - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 65
 
-★ Stars: 1634
+★ Stars: 1636
 
 [Open repository](https://github.com/mgerdes/Open-Golf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1636 | 65 | 
 | 2023-03-16 | 1634 | 65 | 
 | 2023-03-15 | 1634 | 65 | 
 | 2023-03-13 | 1634 | 65 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1626 | 64 | 
 | 2023-02-18 | 1626 | 64 | 
 | 2023-02-17 | 1627 | 64 | 
-| 2023-02-16 | 1626 | 64 | 
 

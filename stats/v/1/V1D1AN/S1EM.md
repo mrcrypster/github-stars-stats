@@ -1,10 +1,10 @@
 # V1D1AN/S1EM - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/V1D1AN/S1EM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 313 | 67 | 
 | 2023-03-16 | 312 | 66 | 
 | 2023-03-14 | 312 | 66 | 
 | 2023-03-13 | 312 | 66 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 304 | 66 | 
 | 2023-02-17 | 304 | 66 | 
 | 2023-02-16 | 302 | 65 | 
-| 2023-02-15 | 301 | 65 | 
 

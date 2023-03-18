@@ -1,8 +1,8 @@
 # XeroAPI/Xero-OpenAPI - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 102
+☋ Forks: 103
 
 ★ Stars: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 78 | 103 | 
 | 2023-03-16 | 78 | 102 | 
 | 2023-03-15 | 78 | 102 | 
 | 2023-03-13 | 78 | 102 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 78 | 104 | 
 | 2023-02-17 | 78 | 104 | 
 | 2023-02-16 | 78 | 104 | 
-| 2023-02-15 | 77 | 103 | 
 

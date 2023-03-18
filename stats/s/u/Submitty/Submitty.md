@@ -1,8 +1,8 @@
 # Submitty/Submitty - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 453
+☋ Forks: 456
 
 ★ Stars: 461
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 461 | 456 | 
 | 2023-03-16 | 461 | 453 | 
 | 2023-03-15 | 461 | 452 | 
 | 2023-03-13 | 460 | 451 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 444 | 426 | 
 | 2023-02-18 | 443 | 425 | 
 | 2023-02-17 | 442 | 426 | 
-| 2023-02-15 | 441 | 425 | 
 

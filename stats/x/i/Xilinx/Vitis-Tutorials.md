@@ -1,10 +1,10 @@
 # Xilinx/Vitis-Tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 464
 
-★ Stars: 768
+★ Stars: 771
 
 [Open repository](https://github.com/Xilinx/Vitis-Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 771 | 464 | 
 | 2023-03-16 | 768 | 464 | 
 | 2023-03-15 | 768 | 464 | 
 | 2023-03-13 | 768 | 462 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 751 | 453 | 
 | 2023-02-17 | 751 | 454 | 
 | 2023-02-16 | 750 | 453 | 
-| 2023-02-15 | 750 | 452 | 
 

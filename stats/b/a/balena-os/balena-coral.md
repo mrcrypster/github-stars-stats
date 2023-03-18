@@ -1,10 +1,10 @@
 # balena-os/balena-coral - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/balena-os/balena-coral)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3 | 1 | 
 | 2023-03-16 | 2 | 1 | 
 | 2023-03-14 | 2 | 1 | 
 | 2023-03-13 | 2 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1 | 1 | 
 | 2023-02-18 | 1 | 1 | 
 | 2023-02-17 | 1 | 1 | 
-| 2023-02-16 | - | 1 | 
 

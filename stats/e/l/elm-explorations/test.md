@@ -1,6 +1,6 @@
 # elm-explorations/test - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 230 | 37 | 
 | 2023-03-16 | 230 | 37 | 
 | 2023-03-15 | 230 | 37 | 
 | 2023-03-13 | 229 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 229 | 37 | 
 | 2023-02-17 | 229 | 37 | 
 | 2023-02-16 | 229 | 37 | 
-| 2023-02-15 | 229 | 37 | 
 

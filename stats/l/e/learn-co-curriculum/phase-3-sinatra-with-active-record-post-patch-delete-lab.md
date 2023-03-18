@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 1318
+☋ Forks: 1320
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1 | 1320 | 
 | 2023-03-15 | 1 | 1318 | 
 | 2023-03-14 | 1 | 1318 | 
 | 2023-03-13 | 1 | 1317 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1 | 1200 | 
 | 2023-02-17 | 1 | 1198 | 
 | 2023-02-16 | 1 | 1197 | 
-| 2023-02-15 | 1 | 1195 | 
 

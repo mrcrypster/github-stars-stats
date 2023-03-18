@@ -1,6 +1,6 @@
 # notesclub/notesclub - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 35 | 8 | 
 | 2023-03-16 | 35 | 8 | 
 | 2023-03-15 | 35 | 8 | 
 | 2023-03-14 | 35 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 33 | 8 | 
 | 2023-02-17 | 33 | 7 | 
 | 2023-02-16 | 33 | 7 | 
-| 2023-02-15 | 33 | 7 | 
 

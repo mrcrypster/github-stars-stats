@@ -1,6 +1,6 @@
 # qt/qtvirtualkeyboard - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 89 | 82 | 
 | 2023-03-16 | 89 | 82 | 
 | 2023-03-14 | 89 | 82 | 
 | 2023-03-13 | 89 | 82 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 87 | 80 | 
 | 2023-02-17 | 87 | 80 | 
 | 2023-02-16 | 87 | 80 | 
-| 2023-02-15 | 87 | 80 | 
 

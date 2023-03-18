@@ -1,6 +1,6 @@
 # emacsorphanage/anzu - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 388 | 27 | 
 | 2023-03-16 | 388 | 27 | 
 | 2023-03-15 | 388 | 27 | 
 | 2023-03-13 | 388 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 386 | 27 | 
 | 2023-02-17 | 385 | 27 | 
 | 2023-02-16 | 385 | 27 | 
-| 2023-02-15 | 385 | 27 | 
 

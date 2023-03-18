@@ -1,10 +1,10 @@
 # rabbitmq/cluster-operator - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 213
 
-★ Stars: 594
+★ Stars: 596
 
 [Open repository](https://github.com/rabbitmq/cluster-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 596 | 213 | 
 | 2023-03-16 | 594 | 213 | 
 | 2023-03-15 | 593 | 213 | 
 | 2023-03-14 | 590 | 211 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 575 | 208 | 
 | 2023-02-17 | 573 | 208 | 
 | 2023-02-16 | 572 | 208 | 
-| 2023-02-15 | 570 | 208 | 
 

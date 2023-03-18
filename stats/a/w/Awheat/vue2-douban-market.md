@@ -1,6 +1,6 @@
 # Awheat/vue2-douban-market - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 826 | 190 | 
 | 2023-03-15 | 826 | 190 | 
 | 2023-03-14 | 825 | 190 | 
 | 2023-03-13 | 825 | 190 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 825 | 191 | 
 | 2023-02-17 | 825 | 191 | 
 | 2023-02-16 | 825 | 191 | 
-| 2023-02-15 | 824 | 191 | 
 

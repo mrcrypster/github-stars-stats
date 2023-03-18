@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 317
+★ Stars: 356
 
 [Open repository](https://github.com/github/github-ospo)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 317 | 23 | 
+| 2023-03-17 | 356 | 24 | 
 | 2023-03-16 | 292 | 22 | 
 

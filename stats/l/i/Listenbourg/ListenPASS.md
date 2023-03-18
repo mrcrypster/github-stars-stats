@@ -1,6 +1,6 @@
 # Listenbourg/ListenPASS - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 46 | 10 | 
 | 2023-03-16 | 46 | 10 | 
 | 2023-03-14 | 46 | 10 | 
 | 2023-03-13 | 46 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 42 | 7 | 
 | 2023-02-18 | 42 | 7 | 
 | 2023-02-16 | 42 | 8 | 
-| 2023-02-15 | 42 | 8 | 
 

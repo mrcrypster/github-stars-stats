@@ -1,6 +1,6 @@
 # HariSekhon/Nagios-Plugin-Kafka - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 10 | 6 | 
 | 2023-03-16 | 10 | 6 | 
 | 2023-03-14 | 10 | 6 | 
 | 2023-03-13 | 10 | 6 | 

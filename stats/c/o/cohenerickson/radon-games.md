@@ -1,8 +1,8 @@
 # cohenerickson/radon-games - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 294
+☋ Forks: 298
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 298 | 
 | 2023-03-15 | - | 294 | 
 | 2023-03-14 | - | 288 | 
 | 2023-03-13 | - | 283 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | - | 233 | 
 | 2023-02-17 | - | 230 | 
 | 2023-02-16 | - | 230 | 
-| 2023-02-15 | - | 226 | 
 

@@ -1,10 +1,10 @@
 # GaryOderNichts/GiveMiiYouTube - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/GaryOderNichts/GiveMiiYouTube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 44 | 1 | 
 | 2023-03-15 | 43 | 1 | 
 | 2023-03-14 | 43 | 1 | 
 | 2023-03-13 | 43 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 41 | 1 | 
 | 2023-02-17 | 41 | 1 | 
 | 2023-02-16 | 41 | 1 | 
-| 2023-02-15 | 41 | 1 | 
 

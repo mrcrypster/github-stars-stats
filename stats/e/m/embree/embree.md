@@ -1,10 +1,10 @@
 # embree/embree - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 347
+☋ Forks: 349
 
-★ Stars: 1964
+★ Stars: 1966
 
 [Open repository](https://github.com/embree/embree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1966 | 349 | 
 | 2023-03-16 | 1964 | 347 | 
 | 2023-03-14 | 1964 | 347 | 
 | 2023-03-13 | 1957 | 347 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1929 | 348 | 
 | 2023-02-17 | 1928 | 347 | 
 | 2023-02-16 | 1926 | 347 | 
-| 2023-02-15 | 1924 | 347 | 
 

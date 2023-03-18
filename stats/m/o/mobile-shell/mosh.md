@@ -1,10 +1,10 @@
 # mobile-shell/mosh - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 712
+☋ Forks: 713
 
-★ Stars: 11509
+★ Stars: 11512
 
 [Open repository](https://github.com/mobile-shell/mosh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 11512 | 713 | 
 | 2023-03-16 | 11509 | 712 | 
 | 2023-03-15 | 11508 | 712 | 
 | 2023-03-13 | 11505 | 712 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 11463 | 710 | 
 | 2023-02-17 | 11462 | 710 | 
 | 2023-02-16 | 11462 | 710 | 
-| 2023-02-15 | 11460 | 710 | 
 

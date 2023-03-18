@@ -1,10 +1,10 @@
 # hop-protocol/hop-airdrop - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 55
+☋ Forks: 78
 
-★ Stars: 87
+★ Stars: 94
 
 [Open repository](https://github.com/hop-protocol/hop-airdrop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 94 | 78 | 
 | 2023-03-15 | 87 | 55 | 
 | 2023-03-14 | 87 | 55 | 
 | 2023-03-13 | 87 | 55 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 87 | 55 | 
 | 2023-02-17 | 87 | 55 | 
 | 2023-02-16 | 87 | 55 | 
-| 2023-02-15 | 87 | 55 | 
 

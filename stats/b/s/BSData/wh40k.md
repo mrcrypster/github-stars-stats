@@ -1,8 +1,8 @@
 # BSData/wh40k - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 459
+☋ Forks: 460
 
 ★ Stars: 615
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 615 | 460 | 
 | 2023-03-16 | 615 | 459 | 
 | 2023-03-15 | 615 | 459 | 
 | 2023-03-13 | 615 | 459 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 594 | 456 | 
 | 2023-02-17 | 594 | 456 | 
 | 2023-02-16 | 591 | 455 | 
-| 2023-02-15 | 589 | 454 | 
 

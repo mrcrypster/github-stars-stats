@@ -1,6 +1,6 @@
 # bdring/Grbl_Esp32 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 481
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1428 | 481 | 
 | 2023-03-16 | 1428 | 481 | 
 | 2023-03-15 | 1426 | 480 | 
 | 2023-03-14 | 1426 | 480 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1420 | 478 | 
 | 2023-02-17 | 1420 | 478 | 
 | 2023-02-16 | 1417 | 478 | 
-| 2023-02-15 | 1415 | 478 | 
 

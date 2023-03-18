@@ -1,10 +1,10 @@
 # LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 618
+☋ Forks: 619
 
-★ Stars: 2162
+★ Stars: 2166
 
 [Open repository](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2166 | 619 | 
 | 2023-03-15 | 2162 | 618 | 
 | 2023-03-14 | 2163 | 618 | 
 | 2023-03-13 | 2161 | 617 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2085 | 613 | 
 | 2023-02-17 | 2082 | 612 | 
 | 2023-02-16 | 2077 | 611 | 
-| 2023-02-15 | 2073 | 611 | 
 

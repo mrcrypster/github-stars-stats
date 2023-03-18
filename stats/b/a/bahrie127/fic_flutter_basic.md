@@ -1,10 +1,10 @@
 # bahrie127/fic_flutter_basic - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 7
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/bahrie127/fic_flutter_basic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 88 | 7 | 
 | 2023-03-15 | 87 | 7 | 
 | 2023-03-14 | 86 | 7 | 
 | 2023-03-13 | 86 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 65 | 6 | 
 | 2023-02-17 | 65 | 6 | 
 | 2023-02-16 | 63 | 6 | 
-| 2023-02-15 | 61 | 6 | 
 

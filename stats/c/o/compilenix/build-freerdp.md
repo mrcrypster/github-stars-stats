@@ -1,8 +1,8 @@
 # compilenix/build-freerdp - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1 | 37 | 
 | 2023-03-16 | 1 | 36 | 
 | 2023-03-15 | 1 | 36 | 
 | 2023-03-13 | 1 | 36 | 

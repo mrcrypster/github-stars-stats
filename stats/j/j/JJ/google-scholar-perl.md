@@ -1,6 +1,6 @@
 # JJ/google-scholar-perl - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 44 | 
 | 2023-03-16 | - | 44 | 
 | 2023-03-14 | - | 44 | 
 | 2023-03-13 | - | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | - | 46 | 
 | 2023-02-17 | - | 46 | 
 | 2023-02-16 | - | 46 | 
-| 2023-02-15 | - | 46 | 
 

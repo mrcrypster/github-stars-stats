@@ -1,10 +1,10 @@
 # rohitpotato/svelte-command-palette - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 9
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/rohitpotato/svelte-command-palette)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 145 | 9 | 
 | 2023-03-16 | 144 | 9 | 
 | 2023-03-15 | 144 | 9 | 
 | 2023-03-14 | 144 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 137 | 8 | 
 | 2023-02-17 | 137 | 8 | 
 | 2023-02-16 | 137 | 8 | 
-| 2023-02-15 | 137 | 8 | 
 

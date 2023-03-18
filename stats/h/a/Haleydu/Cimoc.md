@@ -1,6 +1,6 @@
 # Haleydu/Cimoc - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2079 | 207 | 
 | 2023-03-15 | 2079 | 207 | 
 | 2023-03-14 | 2078 | 206 | 
 | 2023-03-13 | 2075 | 205 | 

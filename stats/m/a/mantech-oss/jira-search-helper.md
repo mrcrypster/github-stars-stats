@@ -1,6 +1,6 @@
 # mantech-oss/jira-search-helper - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 43 | - | 
 | 2023-03-16 | 43 | - | 
 | 2023-03-14 | 43 | - | 
 | 2023-03-13 | 43 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 42 | 1 | 
 | 2023-02-17 | 41 | 1 | 
 | 2023-02-16 | 41 | 1 | 
-| 2023-02-15 | 41 | 1 | 
 

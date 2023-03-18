@@ -1,6 +1,6 @@
 # miguelraz/REPLMasteryWorkshop - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 74 | 6 | 
 | 2023-03-16 | 74 | 6 | 
 | 2023-03-15 | 74 | 6 | 
 | 2023-03-14 | 74 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 72 | 6 | 
 | 2023-02-18 | 72 | 6 | 
 | 2023-02-17 | 72 | 6 | 
-| 2023-02-16 | 72 | 6 | 
 

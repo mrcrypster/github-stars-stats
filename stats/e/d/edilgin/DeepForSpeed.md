@@ -1,6 +1,6 @@
 # edilgin/DeepForSpeed - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 241 | 26 | 
 | 2023-03-16 | 241 | 26 | 
 | 2023-03-15 | 241 | 26 | 
 | 2023-03-13 | 241 | 26 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 239 | 26 | 
 | 2023-02-17 | 239 | 26 | 
 | 2023-02-16 | 238 | 26 | 
-| 2023-02-15 | 238 | 26 | 
 

@@ -1,10 +1,10 @@
 # SpM-lab/SparseIR.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/SpM-lab/SparseIR.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 11 | - | 
 | 2023-03-16 | 10 | - | 
 | 2023-03-15 | 10 | - | 
 | 2023-03-13 | 10 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 9 | - | 
 | 2023-02-17 | 9 | - | 
 | 2023-02-16 | 9 | - | 
-| 2023-02-15 | 9 | - | 
 

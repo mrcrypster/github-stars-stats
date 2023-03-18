@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 96
+☋ Forks: 99
 
-★ Stars: 1
+★ Stars: 0
 
 [Open repository](https://github.com/wiragunajaya/windowRDP)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 1 | 96 | 
+| 2023-03-17 | - | 99 | 
 | 2023-03-16 | 1 | 96 | 
 | 2023-03-15 | 1 | 91 | 
 | 2023-03-14 | 1 | 90 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | - | 65 | 
 | 2023-02-18 | - | 65 | 
 | 2023-02-17 | - | 65 | 
-| 2023-02-16 | - | 64 | 
 

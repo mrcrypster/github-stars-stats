@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 38
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/NCAR/noahmp)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 29 | 38 | 
+| 2023-03-17 | 30 | 38 | 
 | 2023-03-15 | 28 | 36 | 
 | 2023-03-14 | 28 | 35 | 
 | 2023-03-13 | 27 | 34 | 
@@ -37,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 26 | 33 | 
 | 2023-02-18 | 26 | 33 | 
 | 2023-02-17 | 26 | 33 | 
-| 2023-02-16 | 26 | 33 | 
 

@@ -1,10 +1,10 @@
 # ajaykuma/Datasets_For_Work - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 12
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/ajaykuma/Datasets_For_Work)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 4 | 12 | 
 | 2023-03-16 | 3 | 12 | 
 | 2023-03-15 | 3 | 12 | 
 | 2023-03-14 | 3 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2 | 10 | 
 | 2023-02-17 | 2 | 10 | 
 | 2023-02-16 | 2 | 10 | 
-| 2023-02-15 | 2 | 10 | 
 

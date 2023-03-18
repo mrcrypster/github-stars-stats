@@ -1,10 +1,10 @@
 # VictorCMiraldo/hdiff - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/VictorCMiraldo/hdiff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 69 | 2 | 
 | 2023-03-16 | 68 | 2 | 
 | 2023-03-15 | 68 | 2 | 
 | 2023-03-13 | 68 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 68 | 2 | 
 | 2023-02-17 | 68 | 2 | 
 | 2023-02-16 | 68 | 2 | 
-| 2023-02-15 | 68 | 2 | 
 

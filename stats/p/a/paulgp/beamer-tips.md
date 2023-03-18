@@ -1,10 +1,10 @@
 # paulgp/beamer-tips - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 149
+☋ Forks: 150
 
-★ Stars: 252
+★ Stars: 251
 
 [Open repository](https://github.com/paulgp/beamer-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 251 | 150 | 
 | 2023-03-16 | 252 | 149 | 
 | 2023-03-15 | 252 | 149 | 
 | 2023-03-13 | 253 | 149 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 251 | 147 | 
 | 2023-02-17 | 251 | 147 | 
 | 2023-02-16 | 251 | 147 | 
-| 2023-02-15 | 251 | 147 | 
 

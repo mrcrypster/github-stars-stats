@@ -1,8 +1,8 @@
 # cs340ppp/lectures - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 8 | 34 | 
 | 2023-03-16 | 8 | 33 | 
 | 2023-03-15 | 8 | 33 | 
 | 2023-03-13 | 8 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 8 | 31 | 
 | 2023-02-17 | 8 | 30 | 
 | 2023-02-16 | 8 | 30 | 
-| 2023-02-15 | 8 | 29 | 
 

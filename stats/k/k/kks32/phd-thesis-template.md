@@ -1,6 +1,6 @@
 # kks32/phd-thesis-template - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 352
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 725 | 352 | 
 | 2023-03-16 | 725 | 352 | 
 | 2023-03-14 | 725 | 352 | 
 | 2023-03-13 | 725 | 352 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 716 | 349 | 
 | 2023-02-17 | 715 | 349 | 
 | 2023-02-16 | 714 | 349 | 
-| 2023-02-15 | 714 | 349 | 
 

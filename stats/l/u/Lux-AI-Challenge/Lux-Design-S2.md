@@ -1,10 +1,10 @@
 # Lux-AI-Challenge/Lux-Design-S2 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 129
 
-★ Stars: 342
+★ Stars: 344
 
 [Open repository](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 344 | 129 | 
 | 2023-03-16 | 342 | 129 | 
 | 2023-03-15 | 340 | 128 | 
 | 2023-03-14 | 339 | 129 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 278 | 88 | 
 | 2023-02-17 | 274 | 87 | 
 | 2023-02-16 | 269 | 84 | 
-| 2023-02-15 | 263 | 82 | 
 

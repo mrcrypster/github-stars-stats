@@ -1,6 +1,6 @@
 # compound-finance/palisade - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 79 | 58 | 
 | 2023-03-16 | 79 | 58 | 
 | 2023-03-15 | 79 | 58 | 
 | 2023-03-14 | 78 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 77 | 58 | 
 | 2023-02-18 | 77 | 58 | 
 | 2023-02-17 | 77 | 58 | 
-| 2023-02-16 | 77 | 58 | 
 

@@ -1,10 +1,10 @@
 # microsoft/Dynamics-365-FastTrack-Implementation-Assets - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 142
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 178 | 142 | 
 | 2023-03-16 | 177 | 142 | 
 | 2023-03-14 | 177 | 142 | 
 | 2023-03-13 | 176 | 142 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 172 | 140 | 
 | 2023-02-17 | 171 | 140 | 
 | 2023-02-16 | 171 | 140 | 
-| 2023-02-15 | 171 | 140 | 
 

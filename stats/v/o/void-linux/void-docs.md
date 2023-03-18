@@ -1,6 +1,6 @@
 # void-linux/void-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 140 | 159 | 
 | 2023-03-16 | 140 | 159 | 
 | 2023-03-15 | 140 | 159 | 
 | 2023-03-14 | 140 | 160 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 138 | 159 | 
 | 2023-02-17 | 139 | 159 | 
 | 2023-02-16 | 139 | 159 | 
-| 2023-02-15 | 139 | 159 | 
 

@@ -1,10 +1,10 @@
 # tlkh/asitop - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 85
 
-★ Stars: 1406
+★ Stars: 1410
 
 [Open repository](https://github.com/tlkh/asitop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1410 | 85 | 
 | 2023-03-16 | 1406 | 85 | 
 | 2023-03-15 | 1399 | 84 | 
 | 2023-03-13 | 1388 | 84 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1322 | 79 | 
 | 2023-02-17 | 1316 | 79 | 
 | 2023-02-16 | 1312 | 79 | 
-| 2023-02-15 | 1308 | 79 | 
 

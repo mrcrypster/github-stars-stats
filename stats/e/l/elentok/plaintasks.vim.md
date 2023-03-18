@@ -1,6 +1,6 @@
 # elentok/plaintasks.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 52 | 17 | 
 | 2023-03-16 | 52 | 17 | 
 | 2023-03-15 | 52 | 17 | 
 | 2023-03-13 | 52 | 17 | 

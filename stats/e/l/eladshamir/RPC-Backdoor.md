@@ -1,6 +1,6 @@
 # eladshamir/RPC-Backdoor - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 180 | 39 | 
 | 2023-03-16 | 180 | 39 | 
 | 2023-03-14 | 180 | 39 | 
 | 2023-03-13 | 180 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 179 | 38 | 
 | 2023-02-17 | 179 | 38 | 
 | 2023-02-16 | 179 | 38 | 
-| 2023-02-15 | 179 | 38 | 
 

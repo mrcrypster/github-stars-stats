@@ -1,6 +1,6 @@
 # nf-core/fetchngs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 74 | 35 | 
 | 2023-03-16 | 74 | 35 | 
 | 2023-03-15 | 74 | 35 | 
 | 2023-03-14 | 74 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 74 | 34 | 
 | 2023-02-17 | 74 | 34 | 
 | 2023-02-16 | 73 | 34 | 
-| 2023-02-15 | 73 | 34 | 
 

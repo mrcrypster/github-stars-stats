@@ -1,10 +1,10 @@
 # zhuyingda/webster - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 58
 
-★ Stars: 446
+★ Stars: 447
 
 [Open repository](https://github.com/zhuyingda/webster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 447 | 58 | 
 | 2023-03-16 | 446 | 58 | 
 | 2023-03-15 | 446 | 58 | 
 | 2023-03-13 | 446 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 447 | 58 | 
 | 2023-02-17 | 447 | 58 | 
 | 2023-02-16 | 446 | 58 | 
-| 2023-02-15 | 446 | 58 | 
 

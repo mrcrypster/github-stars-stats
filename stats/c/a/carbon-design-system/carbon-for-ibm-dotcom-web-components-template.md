@@ -1,6 +1,6 @@
 # carbon-design-system/carbon-for-ibm-dotcom-web-components-template - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 7 | 9 | 
 | 2023-03-16 | 7 | 9 | 
 | 2023-03-15 | 7 | 9 | 
 | 2023-03-14 | 7 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 7 | 8 | 
 | 2023-02-17 | 7 | 8 | 
 | 2023-02-16 | 7 | 8 | 
-| 2023-02-15 | 7 | 8 | 
 

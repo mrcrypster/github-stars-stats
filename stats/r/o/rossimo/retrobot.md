@@ -1,6 +1,6 @@
 # rossimo/retrobot - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 265 | 17 | 
 | 2023-03-15 | 265 | 17 | 
 | 2023-03-14 | 265 | 17 | 
 | 2023-03-13 | 265 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 265 | 17 | 
 | 2023-02-17 | 265 | 17 | 
 | 2023-02-16 | 265 | 17 | 
-| 2023-02-15 | 265 | 17 | 
 

@@ -1,10 +1,10 @@
 # qruto/laravel-wave - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 10
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/qruto/laravel-wave)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 340 | 10 | 
 | 2023-03-15 | 339 | 10 | 
 | 2023-03-14 | 339 | 10 | 
 | 2023-03-13 | 339 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 329 | 10 | 
 | 2023-02-17 | 329 | 10 | 
 | 2023-02-16 | 329 | 10 | 
-| 2023-02-15 | 329 | 10 | 
 

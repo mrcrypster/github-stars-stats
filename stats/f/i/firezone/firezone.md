@@ -1,6 +1,6 @@
 # firezone/firezone - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3848 | 168 | 
 | 2023-03-16 | 3848 | 168 | 
 | 2023-03-15 | 3845 | 167 | 
 | 2023-03-14 | 3842 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 3714 | 160 | 
 | 2023-02-17 | 3709 | 159 | 
 | 2023-02-16 | 3698 | 159 | 
-| 2023-02-15 | 3686 | 159 | 
 

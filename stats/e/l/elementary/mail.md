@@ -1,8 +1,8 @@
 # elementary/mail - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 48
+☋ Forks: 47
 
 ★ Stars: 179
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 179 | 47 | 
 | 2023-03-16 | 179 | 48 | 
 | 2023-03-14 | 179 | 48 | 
 | 2023-03-13 | 179 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 178 | 47 | 
 | 2023-02-17 | 178 | 47 | 
 | 2023-02-16 | 178 | 47 | 
-| 2023-02-15 | 178 | 47 | 
 

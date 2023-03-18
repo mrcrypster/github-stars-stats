@@ -1,6 +1,6 @@
 # rauchg/wifi-password - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4202 | 242 | 
 | 2023-03-16 | 4202 | 242 | 
 | 2023-03-15 | 4201 | 242 | 
 | 2023-03-14 | 4201 | 242 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 4195 | 242 | 
 | 2023-02-17 | 4194 | 242 | 
 | 2023-02-16 | 4194 | 242 | 
-| 2023-02-15 | 4194 | 242 | 
 

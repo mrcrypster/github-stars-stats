@@ -1,6 +1,6 @@
 # eigr/spawn - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 101 | 7 | 
 | 2023-03-16 | 101 | 7 | 
 | 2023-03-15 | 100 | 7 | 
 | 2023-03-13 | 100 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 95 | 7 | 
 | 2023-02-17 | 95 | 7 | 
 | 2023-02-16 | 94 | 7 | 
-| 2023-02-15 | 94 | 7 | 
 

@@ -1,10 +1,10 @@
 # Aylur/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/Aylur/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 170 | 7 | 
 | 2023-03-16 | 169 | 6 | 
 | 2023-03-15 | 169 | 6 | 
 | 2023-03-13 | 169 | 6 | 

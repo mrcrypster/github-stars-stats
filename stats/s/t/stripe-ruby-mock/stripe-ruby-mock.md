@@ -1,8 +1,8 @@
 # stripe-ruby-mock/stripe-ruby-mock - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 678
+☋ Forks: 679
 
 ★ Stars: 917
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 917 | 679 | 
 | 2023-03-16 | 917 | 678 | 
 | 2023-03-15 | 917 | 677 | 
 | 2023-03-13 | 917 | 677 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 915 | 671 | 
 | 2023-02-17 | 915 | 671 | 
 | 2023-02-16 | 915 | 671 | 
-| 2023-02-15 | 915 | 670 | 
 

@@ -1,10 +1,10 @@
 # capy-ui/capy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 21
 
-★ Stars: 687
+★ Stars: 691
 
 [Open repository](https://github.com/capy-ui/capy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 691 | 21 | 
 | 2023-03-15 | 687 | 21 | 
 | 2023-03-14 | 687 | 21 | 
 | 2023-03-13 | 686 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 670 | 20 | 
 | 2023-02-17 | 670 | 20 | 
 | 2023-02-16 | 670 | 20 | 
-| 2023-02-15 | 669 | 20 | 
 

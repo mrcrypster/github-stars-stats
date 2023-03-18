@@ -1,8 +1,8 @@
 # kuoruan/openwrt-v2ray - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 448
+☋ Forks: 449
 
 ★ Stars: 1983
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1983 | 449 | 
 | 2023-03-15 | 1983 | 448 | 
 | 2023-03-14 | 1983 | 447 | 
 | 2023-03-13 | 1983 | 446 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1974 | 444 | 
 | 2023-02-17 | 1974 | 444 | 
 | 2023-02-16 | 1973 | 444 | 
-| 2023-02-15 | 1973 | 444 | 
 

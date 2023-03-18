@@ -1,6 +1,6 @@
 # wurstmeister/kafka-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2707
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 6521 | 2707 | 
 | 2023-03-16 | 6521 | 2707 | 
 | 2023-03-15 | 6517 | 2708 | 
 | 2023-03-14 | 6516 | 2707 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 6496 | 2704 | 
 | 2023-02-17 | 6496 | 2704 | 
 | 2023-02-16 | 6497 | 2704 | 
-| 2023-02-15 | 6496 | 2705 | 
 

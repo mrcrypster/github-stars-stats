@@ -1,10 +1,10 @@
 # mrrfv/linux-android-backup - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 23
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/mrrfv/linux-android-backup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 321 | 23 | 
 | 2023-03-15 | 320 | 23 | 
 | 2023-03-14 | 320 | 23 | 
 | 2023-03-13 | 319 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 304 | 23 | 
 | 2023-02-17 | 303 | 23 | 
 | 2023-02-16 | 303 | 23 | 
-| 2023-02-15 | 303 | 23 | 
 

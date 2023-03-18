@@ -1,8 +1,8 @@
 # badarsebard/terraforge - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 62 | 7 | 
 | 2023-03-15 | 62 | 6 | 
 | 2023-03-14 | 62 | 6 | 
 | 2023-03-12 | 62 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 62 | 6 | 
 | 2023-02-17 | 62 | 6 | 
 | 2023-02-16 | 62 | 6 | 
-| 2023-02-15 | 62 | 6 | 
 

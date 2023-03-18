@@ -1,6 +1,6 @@
 # SBU-CE/CE042-Computer-Simulation - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 26 | 
 | 2023-03-16 | - | 26 | 
 | 2023-03-14 | - | 26 | 
 | 2023-03-13 | - | 26 | 

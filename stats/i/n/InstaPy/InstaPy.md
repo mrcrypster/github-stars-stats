@@ -1,10 +1,10 @@
 # InstaPy/InstaPy - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3691
 
-★ Stars: 15142
+★ Stars: 15147
 
 [Open repository](https://github.com/InstaPy/InstaPy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 15147 | 3691 | 
 | 2023-03-16 | 15142 | 3691 | 
 | 2023-03-14 | 15138 | 3692 | 
 | 2023-03-13 | 15130 | 3691 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 15061 | 3685 | 
 | 2023-02-17 | 15059 | 3685 | 
 | 2023-02-16 | 15054 | 3684 | 
-| 2023-02-15 | 15051 | 3686 | 
 

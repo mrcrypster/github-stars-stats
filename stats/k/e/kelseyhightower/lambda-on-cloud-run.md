@@ -1,6 +1,6 @@
 # kelseyhightower/lambda-on-cloud-run - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 79 | 7 | 
 | 2023-03-15 | 79 | 7 | 
 | 2023-03-14 | 79 | 7 | 
 | 2023-03-12 | 79 | 7 | 

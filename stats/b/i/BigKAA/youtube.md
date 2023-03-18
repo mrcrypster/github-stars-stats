@@ -1,10 +1,10 @@
 # BigKAA/youtube - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 76
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/BigKAA/youtube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 121 | 76 | 
 | 2023-03-16 | 120 | 76 | 
 | 2023-03-14 | 119 | 76 | 
 | 2023-03-13 | 119 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 111 | 75 | 
 | 2023-02-18 | 111 | 75 | 
 | 2023-02-17 | 111 | 75 | 
-| 2023-02-16 | 111 | 75 | 
 

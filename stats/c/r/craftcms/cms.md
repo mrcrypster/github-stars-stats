@@ -1,10 +1,10 @@
 # craftcms/cms - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 613
+☋ Forks: 614
 
-★ Stars: 2968
+★ Stars: 2970
 
 [Open repository](https://github.com/craftcms/cms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2970 | 614 | 
 | 2023-03-16 | 2968 | 613 | 
 | 2023-03-14 | 2967 | 613 | 
 | 2023-03-13 | 2967 | 613 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2954 | 609 | 
 | 2023-02-17 | 2954 | 609 | 
 | 2023-02-16 | 2954 | 609 | 
-| 2023-02-15 | 2953 | 609 | 
 

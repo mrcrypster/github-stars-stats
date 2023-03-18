@@ -1,8 +1,8 @@
 # cpmpercussion/ComputerMusicIntro - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 22
+☋ Forks: 24
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 7 | 24 | 
 | 2023-03-15 | 7 | 22 | 
 | 2023-03-14 | 7 | 21 | 
 | 2023-03-13 | 6 | 20 | 

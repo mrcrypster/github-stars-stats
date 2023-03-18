@@ -1,10 +1,10 @@
 # ko-ichi-h/khcoder - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/ko-ichi-h/khcoder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 256 | 80 | 
 | 2023-03-16 | 255 | 79 | 
 | 2023-03-15 | 255 | 79 | 
 | 2023-03-13 | 255 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 250 | 78 | 
 | 2023-02-17 | 250 | 78 | 
 | 2023-02-16 | 250 | 78 | 
-| 2023-02-15 | 249 | 78 | 
 

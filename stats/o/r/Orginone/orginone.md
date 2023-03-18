@@ -1,6 +1,6 @@
 # Orginone/orginone - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 26 | 14 | 
 | 2023-03-16 | 26 | 14 | 
 | 2023-03-15 | 26 | 14 | 
 | 2023-03-13 | 26 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 24 | 14 | 
 | 2023-02-17 | 24 | 14 | 
 | 2023-02-16 | 24 | 14 | 
-| 2023-02-15 | 24 | 14 | 
 

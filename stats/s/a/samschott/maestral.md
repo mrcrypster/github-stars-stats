@@ -1,6 +1,6 @@
 # samschott/maestral - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2663 | 63 | 
 | 2023-03-16 | 2663 | 63 | 
 | 2023-03-14 | 2660 | 63 | 
 | 2023-03-13 | 2659 | 63 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2641 | 62 | 
 | 2023-02-17 | 2640 | 62 | 
 | 2023-02-16 | 2638 | 62 | 
-| 2023-02-15 | 2634 | 62 | 
 

@@ -1,6 +1,6 @@
 # Kaidesuyo/Hydrogen-Music - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 493 | 26 | 
 | 2023-03-16 | 493 | 26 | 
 | 2023-03-14 | 492 | 26 | 
 | 2023-03-13 | 492 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 415 | 12 | 
 | 2023-02-17 | 403 | 11 | 
 | 2023-02-16 | 399 | 9 | 
-| 2023-02-15 | 361 | 7 | 
 

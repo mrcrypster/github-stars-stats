@@ -1,6 +1,6 @@
 # ManlyMarco/AI-HF_Patch - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 203 | 40 | 
 | 2023-03-16 | 203 | 40 | 
 | 2023-03-15 | 203 | 40 | 
 | 2023-03-14 | 203 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 200 | 40 | 
 | 2023-02-17 | 200 | 40 | 
 | 2023-02-16 | 200 | 40 | 
-| 2023-02-15 | 200 | 40 | 
 

@@ -1,6 +1,6 @@
 # Synthetixio/synthetix-v3 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 61 | 20 | 
 | 2023-03-16 | 61 | 20 | 
 | 2023-03-15 | 60 | 20 | 
 | 2023-03-13 | 60 | 19 | 

@@ -1,8 +1,8 @@
 # CodineDev/cdn-fuel - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 54 | 62 | 
 | 2023-03-16 | 54 | 61 | 
 | 2023-03-15 | 53 | 60 | 
 | 2023-03-13 | 53 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 50 | 57 | 
 | 2023-02-17 | 50 | 57 | 
 | 2023-02-16 | 50 | 57 | 
-| 2023-02-15 | 50 | 57 | 
 

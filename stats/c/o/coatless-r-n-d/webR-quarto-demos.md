@@ -1,10 +1,10 @@
 # coatless-r-n-d/webR-quarto-demos - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 7
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/coatless-r-n-d/webR-quarto-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 48 | 7 | 
 | 2023-03-16 | 47 | 7 | 
 | 2023-03-14 | 45 | 7 | 
 | 2023-03-13 | 43 | 7 | 

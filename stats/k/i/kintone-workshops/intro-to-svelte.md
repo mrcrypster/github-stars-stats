@@ -1,8 +1,8 @@
 # kintone-workshops/intro-to-svelte - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 8 | 6 | 
 | 2023-03-16 | 8 | 7 | 
 | 2023-03-15 | 8 | 7 | 
 | 2023-03-13 | 8 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 8 | 8 | 
 | 2023-02-17 | 8 | 8 | 
 | 2023-02-16 | 8 | 8 | 
-| 2023-02-15 | 8 | 8 | 
 

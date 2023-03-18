@@ -1,10 +1,10 @@
 # Dreamacro/clash - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 5020
+☋ Forks: 5026
 
-★ Stars: 38187
+★ Stars: 38262
 
 [Open repository](https://github.com/Dreamacro/clash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 38262 | 5026 | 
 | 2023-03-16 | 38187 | 5020 | 
 | 2023-03-15 | 38084 | 5010 | 
 | 2023-03-14 | 37979 | 5001 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 36641 | 4861 | 
 | 2023-02-17 | 36605 | 4856 | 
 | 2023-02-16 | 36538 | 4853 | 
-| 2023-02-15 | 36483 | 4842 | 
 

@@ -1,6 +1,6 @@
 # rocketseat-education/ignite-lab-rockethelp - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 133 | 60 | 
 | 2023-03-16 | 133 | 60 | 
 | 2023-03-15 | 133 | 60 | 
 | 2023-03-14 | 133 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 133 | 60 | 
 | 2023-02-17 | 133 | 60 | 
 | 2023-02-16 | 133 | 60 | 
-| 2023-02-15 | 133 | 60 | 
 

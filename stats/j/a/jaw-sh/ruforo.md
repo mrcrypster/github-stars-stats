@@ -1,6 +1,6 @@
 # jaw-sh/ruforo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 32 | 9 | 
 | 2023-03-15 | 32 | 9 | 
 | 2023-03-14 | 32 | 9 | 
 | 2023-03-13 | 32 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 27 | 7 | 
 | 2023-02-17 | 26 | 7 | 
 | 2023-02-16 | 26 | 7 | 
-| 2023-02-15 | 26 | 7 | 
 

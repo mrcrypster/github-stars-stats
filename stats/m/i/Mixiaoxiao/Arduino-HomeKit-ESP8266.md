@@ -1,6 +1,6 @@
 # Mixiaoxiao/Arduino-HomeKit-ESP8266 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1228 | 247 | 
 | 2023-03-16 | 1228 | 247 | 
 | 2023-03-15 | 1224 | 246 | 
 | 2023-03-14 | 1224 | 246 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1214 | 244 | 
 | 2023-02-18 | 1214 | 243 | 
 | 2023-02-17 | 1213 | 243 | 
-| 2023-02-15 | 1212 | 243 | 
 

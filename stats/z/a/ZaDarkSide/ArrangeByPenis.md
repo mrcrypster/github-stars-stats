@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 35
 
 [Open repository](https://github.com/ZaDarkSide/ArrangeByPenis)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 32 | 1 | 
+| 2023-03-17 | 35 | 1 | 
 | 2023-03-16 | 30 | 1 | 
 

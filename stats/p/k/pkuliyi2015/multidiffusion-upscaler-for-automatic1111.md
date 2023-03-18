@@ -1,10 +1,10 @@
 # pkuliyi2015/multidiffusion-upscaler-for-automatic1111 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 22
+☋ Forks: 26
 
-★ Stars: 345
+★ Stars: 381
 
 [Open repository](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 381 | 26 | 
 | 2023-03-16 | 345 | 22 | 
 | 2023-03-15 | 292 | 19 | 
 | 2023-03-14 | 272 | 19 | 

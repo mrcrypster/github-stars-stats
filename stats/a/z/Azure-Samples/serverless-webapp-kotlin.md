@@ -1,10 +1,10 @@
 # Azure-Samples/serverless-webapp-kotlin - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Azure-Samples/serverless-webapp-kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3 | - | 
 | 2023-03-16 | 2 | - | 
 | 2023-03-14 | 2 | - | 
 | 2023-03-13 | 2 | - | 

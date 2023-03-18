@@ -1,10 +1,10 @@
 # scylladb/scylladb - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 996
 
-★ Stars: 9422
+★ Stars: 9442
 
 [Open repository](https://github.com/scylladb/scylladb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 9442 | 996 | 
 | 2023-03-16 | 9422 | 996 | 
 | 2023-03-15 | 9407 | 993 | 
 | 2023-03-14 | 9367 | 992 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 9063 | 982 | 
 | 2023-02-17 | 9055 | 981 | 
 | 2023-02-16 | 9052 | 981 | 
-| 2023-02-15 | 9052 | 981 | 
 

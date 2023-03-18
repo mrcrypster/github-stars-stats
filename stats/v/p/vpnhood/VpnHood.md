@@ -1,10 +1,10 @@
 # vpnhood/VpnHood - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 107
 
-★ Stars: 562
+★ Stars: 563
 
 [Open repository](https://github.com/vpnhood/VpnHood)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 563 | 107 | 
 | 2023-03-16 | 562 | 107 | 
 | 2023-03-15 | 559 | 106 | 
 | 2023-03-14 | 556 | 106 | 

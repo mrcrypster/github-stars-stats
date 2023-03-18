@@ -1,10 +1,10 @@
 # HuolalaTech/hll-wp-therouter-android - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 81
 
-★ Stars: 711
+★ Stars: 716
 
 [Open repository](https://github.com/HuolalaTech/hll-wp-therouter-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 716 | 81 | 
 | 2023-03-16 | 711 | 81 | 
 | 2023-03-15 | 705 | 79 | 
 | 2023-03-13 | 703 | 79 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 677 | 77 | 
 | 2023-02-17 | 675 | 77 | 
 | 2023-02-16 | 675 | 77 | 
-| 2023-02-15 | 672 | 77 | 
 

@@ -1,10 +1,10 @@
 # total-typescript/advanced-patterns-workshop - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 65
 
-★ Stars: 751
+★ Stars: 752
 
 [Open repository](https://github.com/total-typescript/advanced-patterns-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 752 | 65 | 
 | 2023-03-15 | 751 | 65 | 
 | 2023-03-14 | 749 | 63 | 
 | 2023-03-13 | 744 | 62 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 719 | 46 | 
 | 2023-02-17 | 719 | 45 | 
 | 2023-02-16 | 719 | 45 | 
-| 2023-02-15 | 718 | 45 | 
 

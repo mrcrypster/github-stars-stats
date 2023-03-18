@@ -1,10 +1,10 @@
 # kirin10000/Xray-script - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 520
+☋ Forks: 519
 
-★ Stars: 1464
+★ Stars: 1469
 
 [Open repository](https://github.com/kirin10000/Xray-script)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1469 | 519 | 
 | 2023-03-16 | 1464 | 520 | 
 | 2023-03-14 | 1459 | 518 | 
 | 2023-03-13 | 1458 | 515 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1416 | 509 | 
 | 2023-02-17 | 1414 | 509 | 
 | 2023-02-16 | 1411 | 506 | 
-| 2023-02-15 | 1407 | 504 | 
 

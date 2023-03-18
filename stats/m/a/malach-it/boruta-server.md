@@ -1,6 +1,6 @@
 # malach-it/boruta-server - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 36 | 2 | 
 | 2023-03-15 | 36 | 2 | 
 | 2023-03-14 | 36 | 2 | 
 | 2023-03-13 | 36 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 32 | 2 | 
 | 2023-02-17 | 32 | 2 | 
 | 2023-02-16 | 32 | 2 | 
-| 2023-02-15 | 32 | 2 | 
 

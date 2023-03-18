@@ -1,10 +1,10 @@
 # cpea2506/relative-toggle.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/cpea2506/relative-toggle.nvim)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 19 | 1 | 
 | 2023-03-16 | 18 | 1 | 
 

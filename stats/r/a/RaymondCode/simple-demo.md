@@ -1,8 +1,8 @@
 # RaymondCode/simple-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 212
+☋ Forks: 211
 
 ★ Stars: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 180 | 211 | 
 | 2023-03-16 | 180 | 212 | 
 | 2023-03-15 | 180 | 212 | 
 | 2023-03-14 | 178 | 213 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 170 | 205 | 
 | 2023-02-17 | 170 | 204 | 
 | 2023-02-16 | 170 | 204 | 
-| 2023-02-15 | 169 | 203 | 
 

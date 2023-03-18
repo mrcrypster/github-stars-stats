@@ -1,10 +1,10 @@
 # dotdc/grafana-dashboards-kubernetes - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 140
+☋ Forks: 142
 
-★ Stars: 963
+★ Stars: 966
 
 [Open repository](https://github.com/dotdc/grafana-dashboards-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 966 | 142 | 
 | 2023-03-15 | 963 | 140 | 
 | 2023-03-14 | 957 | 140 | 
 | 2023-03-13 | 956 | 138 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 907 | 127 | 
 | 2023-02-17 | 906 | 127 | 
 | 2023-02-16 | 902 | 127 | 
-| 2023-02-15 | 899 | 126 | 
 

@@ -1,10 +1,10 @@
 # obra/Youtube2Webpage - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 55
+★ Stars: 60
 
 [Open repository](https://github.com/obra/Youtube2Webpage)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 60 | - | 
+| 2023-03-17 | 60 | - | 
 | 2023-03-16 | 55 | - | 
 

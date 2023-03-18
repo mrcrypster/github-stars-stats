@@ -1,6 +1,6 @@
 # juspay/atlas - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 25 | 4 | 
 | 2023-03-16 | 25 | 4 | 
 | 2023-03-15 | 25 | 4 | 
 | 2023-03-14 | 25 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 25 | 4 | 
 | 2023-02-18 | 25 | 4 | 
 | 2023-02-16 | 25 | 4 | 
-| 2023-02-15 | 26 | 4 | 
 

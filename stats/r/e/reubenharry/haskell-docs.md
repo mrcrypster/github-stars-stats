@@ -1,6 +1,6 @@
 # reubenharry/haskell-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 50 | 6 | 
 | 2023-03-16 | 50 | 6 | 
 | 2023-03-15 | 50 | 6 | 
 | 2023-03-14 | 49 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 47 | 6 | 
 | 2023-02-17 | 47 | 6 | 
 | 2023-02-16 | 45 | 6 | 
-| 2023-02-15 | 45 | 4 | 
 

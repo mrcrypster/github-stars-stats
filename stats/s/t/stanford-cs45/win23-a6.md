@@ -1,6 +1,6 @@
 # stanford-cs45/win23-a6 - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 17 | 
 | 2023-03-15 | - | 17 | 
 | 2023-03-14 | - | 17 | 
 | 2023-03-13 | - | 17 | 

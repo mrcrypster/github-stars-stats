@@ -1,10 +1,10 @@
 # bensheldon/good_job - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 113
+☋ Forks: 115
 
-★ Stars: 1737
+★ Stars: 1738
 
 [Open repository](https://github.com/bensheldon/good_job)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1738 | 115 | 
 | 2023-03-16 | 1737 | 113 | 
 | 2023-03-14 | 1737 | 112 | 
 | 2023-03-13 | 1737 | 110 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1687 | 109 | 
 | 2023-02-17 | 1685 | 108 | 
 | 2023-02-16 | 1685 | 108 | 
-| 2023-02-15 | 1685 | 108 | 
 

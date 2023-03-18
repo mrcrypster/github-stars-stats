@@ -1,10 +1,10 @@
 # magma/magma - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 552
 
-★ Stars: 1528
+★ Stars: 1529
 
 [Open repository](https://github.com/magma/magma)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1529 | 552 | 
 | 2023-03-16 | 1528 | 552 | 
 | 2023-03-15 | 1528 | 552 | 
 | 2023-03-13 | 1527 | 552 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1527 | 551 | 
 | 2023-02-18 | 1527 | 551 | 
 | 2023-02-17 | 1526 | 551 | 
-| 2023-02-16 | 1526 | 551 | 
 

@@ -1,10 +1,10 @@
 # THUDM/GLM-130B - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 147
+☋ Forks: 149
 
-★ Stars: 2351
+★ Stars: 2405
 
 [Open repository](https://github.com/THUDM/GLM-130B)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2405 | 149 | 
 | 2023-03-16 | 2351 | 147 | 
 | 2023-03-15 | 2272 | 140 | 
 | 2023-03-14 | 2193 | 136 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1935 | 115 | 
 | 2023-02-17 | 1928 | 115 | 
 | 2023-02-16 | 1909 | 113 | 
-| 2023-02-15 | 1892 | 111 | 
 

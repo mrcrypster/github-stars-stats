@@ -1,8 +1,8 @@
 # ros-planning/moveit_tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 689
+☋ Forks: 690
 
 ★ Stars: 385
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 385 | 690 | 
 | 2023-03-16 | 385 | 689 | 
 | 2023-03-15 | 385 | 689 | 
 | 2023-03-14 | 384 | 687 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 379 | 685 | 
 | 2023-02-17 | 378 | 685 | 
 | 2023-02-16 | 377 | 685 | 
-| 2023-02-15 | 377 | 686 | 
 

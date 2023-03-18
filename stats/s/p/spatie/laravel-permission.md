@@ -1,10 +1,10 @@
 # spatie/laravel-permission - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1673
 
-★ Stars: 11072
+★ Stars: 11073
 
 [Open repository](https://github.com/spatie/laravel-permission)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 11073 | 1673 | 
 | 2023-03-16 | 11072 | 1673 | 
 | 2023-03-15 | 11065 | 1672 | 
 | 2023-03-14 | 11065 | 1673 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 11021 | 1664 | 
 | 2023-02-17 | 11021 | 1664 | 
 | 2023-02-16 | 11021 | 1663 | 
-| 2023-02-15 | 11020 | 1660 | 
 

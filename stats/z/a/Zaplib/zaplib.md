@@ -1,6 +1,6 @@
 # Zaplib/zaplib - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1195 | 33 | 
 | 2023-03-16 | 1195 | 33 | 
 | 2023-03-15 | 1193 | 33 | 
 | 2023-03-14 | 1193 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1197 | 33 | 
 | 2023-02-17 | 1196 | 33 | 
 | 2023-02-16 | 1196 | 33 | 
-| 2023-02-15 | 1196 | 33 | 
 

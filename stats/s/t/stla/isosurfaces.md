@@ -1,6 +1,6 @@
 # stla/isosurfaces - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 10 | - | 
 | 2023-03-15 | 10 | - | 
 | 2023-03-14 | 10 | - | 
 | 2023-03-13 | 10 | - | 

@@ -1,10 +1,10 @@
 # folke/persistence.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 15
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/folke/persistence.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 275 | 15 | 
 | 2023-03-16 | 274 | 15 | 
 | 2023-03-15 | 273 | 14 | 
 | 2023-03-13 | 271 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 250 | 13 | 
 | 2023-02-17 | 250 | 13 | 
 | 2023-02-16 | 250 | 13 | 
-| 2023-02-15 | 250 | 13 | 
 

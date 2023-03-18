@@ -1,6 +1,6 @@
 # AlisamTechnology/ATSCAN - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1149 | 351 | 
 | 2023-03-16 | 1149 | 351 | 
 | 2023-03-15 | 1149 | 351 | 
 | 2023-03-13 | 1149 | 351 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1139 | 351 | 
 | 2023-02-17 | 1138 | 351 | 
 | 2023-02-16 | 1137 | 351 | 
-| 2023-02-15 | 1136 | 350 | 
 

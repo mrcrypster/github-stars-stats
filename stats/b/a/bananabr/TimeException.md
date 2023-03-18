@@ -1,10 +1,10 @@
 # bananabr/TimeException - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 16
 
-★ Stars: 163
+★ Stars: 167
 
 [Open repository](https://github.com/bananabr/TimeException)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 167 | 16 | 
 | 2023-03-16 | 163 | 16 | 
 | 2023-03-14 | 163 | 16 | 
 | 2023-03-13 | 163 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 151 | 15 | 
 | 2023-02-17 | 148 | 15 | 
 | 2023-02-16 | 147 | 15 | 
-| 2023-02-15 | 146 | 15 | 
 

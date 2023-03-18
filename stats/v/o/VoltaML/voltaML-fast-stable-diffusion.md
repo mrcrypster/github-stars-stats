@@ -1,6 +1,6 @@
 # VoltaML/voltaML-fast-stable-diffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 534 | 33 | 
 | 2023-03-16 | 534 | 33 | 
 | 2023-03-14 | 533 | 33 | 
 | 2023-03-13 | 532 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 511 | 31 | 
 | 2023-02-17 | 507 | 31 | 
 | 2023-02-16 | 507 | 31 | 
-| 2023-02-15 | 507 | 31 | 
 

@@ -1,10 +1,10 @@
 # newren/git-filter-repo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 595
+☋ Forks: 598
 
-★ Stars: 5334
+★ Stars: 5339
 
 [Open repository](https://github.com/newren/git-filter-repo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 5339 | 598 | 
 | 2023-03-15 | 5334 | 595 | 
 | 2023-03-14 | 5329 | 592 | 
 | 2023-03-13 | 5321 | 592 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-19 | 5202 | 569 | 
 | 2023-02-18 | 5196 | 569 | 
 | 2023-02-17 | 5193 | 566 | 
-| 2023-02-16 | 5189 | 566 | 
 

@@ -1,8 +1,8 @@
 # meain/scopeline.el - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 20 | 3 | 
 | 2023-03-16 | 20 | 2 | 
 | 2023-03-15 | 19 | 2 | 
 

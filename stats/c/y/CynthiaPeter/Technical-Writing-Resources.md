@@ -1,10 +1,10 @@
 # CynthiaPeter/Technical-Writing-Resources - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 365
+★ Stars: 368
 
 [Open repository](https://github.com/CynthiaPeter/Technical-Writing-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 368 | 70 | 
 | 2023-03-15 | 365 | 69 | 
 | 2023-03-14 | 361 | 66 | 
 | 2023-03-13 | 355 | 66 | 

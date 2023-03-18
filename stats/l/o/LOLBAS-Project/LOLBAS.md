@@ -1,10 +1,10 @@
 # LOLBAS-Project/LOLBAS - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 797
 
-★ Stars: 5273
+★ Stars: 5275
 
 [Open repository](https://github.com/LOLBAS-Project/LOLBAS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 5275 | 797 | 
 | 2023-03-16 | 5273 | 797 | 
 | 2023-03-15 | 5272 | 797 | 
 | 2023-03-14 | 5269 | 797 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 5185 | 790 | 
 | 2023-02-17 | 5179 | 790 | 
 | 2023-02-16 | 5177 | 790 | 
-| 2023-02-15 | 5166 | 791 | 
 

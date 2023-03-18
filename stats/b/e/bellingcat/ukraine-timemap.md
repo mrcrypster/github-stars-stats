@@ -1,6 +1,6 @@
 # bellingcat/ukraine-timemap - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 227 | 33 | 
 | 2023-03-16 | 227 | 33 | 
 | 2023-03-14 | 227 | 33 | 
 | 2023-03-13 | 227 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 228 | 33 | 
 | 2023-02-17 | 228 | 33 | 
 | 2023-02-16 | 228 | 33 | 
-| 2023-02-15 | 228 | 33 | 
 

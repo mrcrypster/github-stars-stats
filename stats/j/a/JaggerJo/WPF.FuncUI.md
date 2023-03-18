@@ -1,6 +1,6 @@
 # JaggerJo/WPF.FuncUI - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 17 | 1 | 
 | 2023-03-16 | 17 | 1 | 
 | 2023-03-15 | 17 | 1 | 
 | 2023-03-14 | 17 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 17 | 1 | 
 | 2023-02-17 | 17 | 1 | 
 | 2023-02-16 | 17 | 1 | 
-| 2023-02-15 | 17 | 1 | 
 

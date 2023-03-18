@@ -1,10 +1,10 @@
 # zcyzcy88/TagTable - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 429
+★ Stars: 431
 
 [Open repository](https://github.com/zcyzcy88/TagTable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 431 | 56 | 
 | 2023-03-16 | 429 | 55 | 
 | 2023-03-14 | 427 | 55 | 
 | 2023-03-13 | 427 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 398 | 48 | 
 | 2023-02-17 | 397 | 48 | 
 | 2023-02-16 | 397 | 48 | 
-| 2023-02-15 | 396 | 48 | 
 

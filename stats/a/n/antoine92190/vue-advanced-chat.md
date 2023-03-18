@@ -1,10 +1,10 @@
 # antoine92190/vue-advanced-chat - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 339
 
-★ Stars: 1151
+★ Stars: 1153
 
 [Open repository](https://github.com/antoine92190/vue-advanced-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1153 | 339 | 
 | 2023-03-15 | 1151 | 339 | 
 | 2023-03-14 | 1149 | 338 | 
 | 2023-03-13 | 1145 | 338 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1114 | 331 | 
 | 2023-02-17 | 1112 | 331 | 
 | 2023-02-16 | 1110 | 331 | 
-| 2023-02-15 | 1107 | 330 | 
 

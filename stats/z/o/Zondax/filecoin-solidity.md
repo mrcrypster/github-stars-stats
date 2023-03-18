@@ -1,10 +1,10 @@
 # Zondax/filecoin-solidity - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/Zondax/filecoin-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 65 | 28 | 
 | 2023-03-16 | 64 | 27 | 
 | 2023-03-14 | 62 | 25 | 
 | 2023-03-13 | 62 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 48 | 20 | 
 | 2023-02-17 | 48 | 20 | 
 | 2023-02-16 | 46 | 20 | 
-| 2023-02-15 | 45 | 20 | 
 

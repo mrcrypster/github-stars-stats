@@ -1,6 +1,6 @@
 # OneBitCodeBlog/onebitlife - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 56 | 26 | 
 | 2023-03-16 | 56 | 26 | 
 | 2023-03-15 | 54 | 27 | 
 | 2023-03-14 | 54 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 56 | 28 | 
 | 2023-02-17 | 56 | 28 | 
 | 2023-02-16 | 56 | 28 | 
-| 2023-02-15 | 56 | 28 | 
 

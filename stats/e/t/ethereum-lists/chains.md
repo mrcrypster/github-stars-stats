@@ -1,10 +1,10 @@
 # ethereum-lists/chains - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2385
+☋ Forks: 2438
 
-★ Stars: 4537
+★ Stars: 4561
 
 [Open repository](https://github.com/ethereum-lists/chains)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 4561 | 2438 | 
+| 2023-03-17 | 4557 | 2429 | 
 | 2023-03-16 | 4537 | 2385 | 
 | 2023-03-15 | 4523 | 2311 | 
 | 2023-03-14 | 4519 | 2294 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 4342 | 1732 | 
 | 2023-02-17 | 4332 | 1728 | 
 | 2023-02-16 | 4331 | 1727 | 
-| 2023-02-15 | 4323 | 1725 | 
 

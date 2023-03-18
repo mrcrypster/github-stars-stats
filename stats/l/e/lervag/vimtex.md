@@ -1,10 +1,10 @@
 # lervag/vimtex - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 370
+☋ Forks: 371
 
-★ Stars: 4454
+★ Stars: 4457
 
 [Open repository](https://github.com/lervag/vimtex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4457 | 371 | 
 | 2023-03-16 | 4454 | 370 | 
 | 2023-03-15 | 4454 | 370 | 
 | 2023-03-14 | 4449 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 4388 | 369 | 
 | 2023-02-17 | 4384 | 368 | 
 | 2023-02-16 | 4383 | 368 | 
-| 2023-02-15 | 4383 | 368 | 
 

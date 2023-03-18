@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 434
+☋ Forks: 435
 
-★ Stars: 1759
+★ Stars: 1761
 
 [Open repository](https://github.com/TheNetAdmin/zjuthesis)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 1759 | 434 | 
+| 2023-03-17 | 1761 | 435 | 
 | 2023-03-16 | 1759 | 434 | 
 | 2023-03-15 | 1755 | 434 | 
 | 2023-03-14 | 1748 | 433 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-18 | 1699 | 415 | 
 | 2023-02-17 | 1699 | 415 | 
 | 2023-02-16 | 1696 | 415 | 
-| 2023-02-15 | 1684 | 411 | 
 

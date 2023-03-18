@@ -1,10 +1,10 @@
 # liangxianzhe/nap.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/liangxianzhe/nap.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 57 | 4 | 
 | 2023-03-15 | 56 | 4 | 
 | 2023-03-14 | 54 | 4 | 
 | 2023-03-13 | 54 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 47 | 3 | 
 | 2023-02-17 | 45 | 3 | 
 | 2023-02-16 | 43 | 2 | 
-| 2023-02-15 | 42 | 2 | 
 

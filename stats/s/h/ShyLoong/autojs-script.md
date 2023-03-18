@@ -1,8 +1,8 @@
 # ShyLoong/autojs-script - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 161
+☋ Forks: 160
 
 ★ Stars: 381
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 381 | 160 | 
 | 2023-03-15 | 381 | 161 | 
 | 2023-03-14 | 381 | 161 | 
 | 2023-03-13 | 381 | 161 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 381 | 162 | 
 | 2023-02-17 | 381 | 162 | 
 | 2023-02-16 | 380 | 162 | 
-| 2023-02-15 | 380 | 162 | 
 

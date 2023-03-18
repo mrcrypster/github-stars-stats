@@ -1,6 +1,6 @@
 # quarkiverse/quarkiverse-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 5 | 27 | 
 | 2023-03-16 | 5 | 27 | 
 | 2023-03-15 | 5 | 27 | 
 | 2023-03-14 | 5 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 4 | 26 | 
 | 2023-02-17 | 4 | 26 | 
 | 2023-02-16 | 4 | 26 | 
-| 2023-02-15 | 4 | 25 | 
 

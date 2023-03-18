@@ -1,10 +1,10 @@
 # xenova/transformers.js - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 11
+☋ Forks: 30
 
-★ Stars: 333
+★ Stars: 923
 
 [Open repository](https://github.com/xenova/transformers.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 923 | 30 | 
 | 2023-03-16 | 333 | 11 | 
 | 2023-03-15 | 298 | 8 | 
 | 2023-03-13 | 281 | 7 | 

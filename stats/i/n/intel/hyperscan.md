@@ -1,10 +1,10 @@
 # intel/hyperscan - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 638
 
-★ Stars: 4130
+★ Stars: 4134
 
 [Open repository](https://github.com/intel/hyperscan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4134 | 638 | 
 | 2023-03-16 | 4130 | 638 | 
 | 2023-03-14 | 4127 | 638 | 
 | 2023-03-13 | 4127 | 638 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 4074 | 630 | 
 | 2023-02-17 | 4074 | 630 | 
 | 2023-02-16 | 4074 | 630 | 
-| 2023-02-15 | 4073 | 630 | 
 

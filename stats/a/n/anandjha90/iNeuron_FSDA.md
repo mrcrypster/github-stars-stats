@@ -1,6 +1,6 @@
 # anandjha90/iNeuron_FSDA - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 60 | 60 | 
 | 2023-03-16 | 60 | 60 | 
 | 2023-03-15 | 59 | 60 | 
 | 2023-03-13 | 59 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 59 | 56 | 
 | 2023-02-17 | 58 | 56 | 
 | 2023-02-16 | 58 | 57 | 
-| 2023-02-15 | 57 | 57 | 
 

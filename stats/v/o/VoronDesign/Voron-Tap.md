@@ -1,10 +1,10 @@
 # VoronDesign/Voron-Tap - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 62
 
-★ Stars: 290
+★ Stars: 291
 
 [Open repository](https://github.com/VoronDesign/Voron-Tap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 291 | 62 | 
 | 2023-03-16 | 290 | 62 | 
 | 2023-03-14 | 289 | 62 | 
 | 2023-03-13 | 288 | 62 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 251 | 51 | 
 | 2023-02-17 | 250 | 50 | 
 | 2023-02-16 | 247 | 50 | 
-| 2023-02-15 | 244 | 50 | 
 

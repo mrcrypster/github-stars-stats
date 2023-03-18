@@ -1,10 +1,10 @@
 # gbj/leptos - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 206
+☋ Forks: 209
 
-★ Stars: 7144
+★ Stars: 7177
 
 [Open repository](https://github.com/gbj/leptos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 7177 | 209 | 
 | 2023-03-16 | 7144 | 206 | 
 | 2023-03-15 | 7124 | 205 | 
 | 2023-03-13 | 7097 | 204 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 6023 | 155 | 
 | 2023-02-17 | 5918 | 151 | 
 | 2023-02-16 | 5870 | 151 | 
-| 2023-02-15 | 5842 | 148 | 
 

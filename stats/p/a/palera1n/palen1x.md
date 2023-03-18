@@ -1,6 +1,6 @@
 # palera1n/palen1x - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 103 | 15 | 
 | 2023-03-16 | 103 | 15 | 
 | 2023-03-15 | 101 | 14 | 
 | 2023-03-13 | 98 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 61 | 7 | 
 | 2023-02-17 | 54 | 5 | 
 | 2023-02-16 | 51 | 3 | 
-| 2023-02-15 | 51 | 3 | 
 

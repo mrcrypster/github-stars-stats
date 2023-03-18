@@ -1,6 +1,6 @@
 # dineshgowda24/bitcask-rb - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 56 | 1 | 
 | 2023-03-15 | 56 | 1 | 
 | 2023-03-14 | 56 | 1 | 
 | 2023-03-13 | 56 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 55 | 1 | 
 | 2023-02-17 | 55 | 1 | 
 | 2023-02-16 | 54 | 1 | 
-| 2023-02-15 | 49 | 1 | 
 

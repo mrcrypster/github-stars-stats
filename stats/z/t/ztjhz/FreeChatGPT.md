@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 168
+☋ Forks: 192
 
-★ Stars: 600
+★ Stars: 694
 
 [Open repository](https://github.com/ztjhz/FreeChatGPT)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 600 | 168 | 
+| 2023-03-17 | 694 | 192 | 
 | 2023-03-16 | 594 | 167 | 
 | 2023-03-15 | 526 | 145 | 
 | 2023-03-14 | 441 | 113 | 

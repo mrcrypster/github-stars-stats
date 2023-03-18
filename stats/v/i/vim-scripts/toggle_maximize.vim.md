@@ -1,6 +1,6 @@
 # vim-scripts/toggle_maximize.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2 | 4 | 
 | 2023-03-16 | 2 | 4 | 
 | 2023-03-15 | 2 | 4 | 
 | 2023-03-14 | 2 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2 | 4 | 
 | 2023-02-17 | 2 | 4 | 
 | 2023-02-16 | 2 | 4 | 
-| 2023-02-15 | 2 | 4 | 
 

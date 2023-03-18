@@ -1,6 +1,6 @@
 # wangzmgit/leaf - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 95 | 12 | 
 | 2023-03-16 | 95 | 12 | 
 | 2023-03-15 | 95 | 12 | 
 | 2023-03-13 | 95 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 79 | 8 | 
 | 2023-02-17 | 77 | 8 | 
 | 2023-02-16 | 76 | 8 | 
-| 2023-02-15 | 71 | 8 | 
 

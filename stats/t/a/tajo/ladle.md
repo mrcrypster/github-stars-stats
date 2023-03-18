@@ -1,10 +1,10 @@
 # tajo/ladle - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 59
 
-★ Stars: 2054
+★ Stars: 2055
 
 [Open repository](https://github.com/tajo/ladle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2055 | 59 | 
 | 2023-03-16 | 2054 | 59 | 
 | 2023-03-14 | 2052 | 59 | 
 | 2023-03-13 | 2051 | 59 | 

@@ -1,10 +1,10 @@
 # darold/ora2pg - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 309
 
-★ Stars: 850
+★ Stars: 851
 
 [Open repository](https://github.com/darold/ora2pg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 851 | 309 | 
 | 2023-03-16 | 850 | 309 | 
 | 2023-03-15 | 850 | 309 | 
 | 2023-03-14 | 850 | 309 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 842 | 307 | 
 | 2023-02-17 | 840 | 307 | 
 | 2023-02-16 | 839 | 307 | 
-| 2023-02-15 | 839 | 307 | 
 

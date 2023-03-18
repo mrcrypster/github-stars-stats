@@ -1,10 +1,10 @@
 # ArisGuimera/Android-Expert - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 14
+☋ Forks: 17
 
-★ Stars: 364
+★ Stars: 372
 
 [Open repository](https://github.com/ArisGuimera/Android-Expert)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 372 | 17 | 
 | 2023-03-16 | 364 | 14 | 
 | 2023-03-14 | 344 | 12 | 
 | 2023-03-13 | 326 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 131 | 2 | 
 | 2023-02-17 | 131 | 2 | 
 | 2023-02-16 | 130 | 2 | 
-| 2023-02-15 | 130 | 2 | 
 

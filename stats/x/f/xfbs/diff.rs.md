@@ -1,10 +1,10 @@
 # xfbs/diff.rs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/xfbs/diff.rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 66 | 3 | 
 | 2023-03-16 | 65 | 3 | 
 | 2023-03-15 | 63 | 3 | 
 | 2023-03-13 | 62 | 3 | 

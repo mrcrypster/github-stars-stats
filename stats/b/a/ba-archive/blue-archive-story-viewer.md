@@ -1,6 +1,6 @@
 # ba-archive/blue-archive-story-viewer - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 57 | 4 | 
 | 2023-03-16 | 57 | 4 | 
 | 2023-03-15 | 56 | 4 | 
 | 2023-03-14 | 56 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 44 | 2 | 
 | 2023-02-17 | 43 | 2 | 
 | 2023-02-16 | 43 | 2 | 
-| 2023-02-15 | 43 | 2 | 
 

@@ -1,10 +1,10 @@
 # paritytech/ink - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 370
 
-★ Stars: 1149
+★ Stars: 1153
 
 [Open repository](https://github.com/paritytech/ink)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1153 | 370 | 
 | 2023-03-15 | 1149 | 370 | 
 | 2023-03-14 | 1148 | 367 | 
 | 2023-03-13 | 1146 | 366 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1124 | 362 | 
 | 2023-02-17 | 1121 | 362 | 
 | 2023-02-16 | 1112 | 362 | 
-| 2023-02-15 | 1106 | 363 | 
 

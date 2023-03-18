@@ -1,10 +1,10 @@
 # sharanda/manrope - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 38
 
-★ Stars: 1438
+★ Stars: 1439
 
 [Open repository](https://github.com/sharanda/manrope)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1439 | 38 | 
 | 2023-03-16 | 1438 | 38 | 
 | 2023-03-15 | 1438 | 38 | 
 | 2023-03-13 | 1438 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1430 | 36 | 
 | 2023-02-17 | 1430 | 36 | 
 | 2023-02-16 | 1430 | 36 | 
-| 2023-02-15 | 1430 | 36 | 
 

@@ -1,6 +1,6 @@
 # sethvargo/ratchet - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 713 | 27 | 
 | 2023-03-16 | 713 | 27 | 
 | 2023-03-14 | 714 | 27 | 
 | 2023-03-13 | 713 | 27 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 713 | 27 | 
 | 2023-02-17 | 713 | 27 | 
 | 2023-02-16 | 713 | 27 | 
-| 2023-02-15 | 713 | 27 | 
 

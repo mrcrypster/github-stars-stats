@@ -1,6 +1,6 @@
 # UnityTechnologies/ShaderGraph_ExampleLibrary - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 292
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1565 | 292 | 
 | 2023-03-16 | 1565 | 292 | 
 | 2023-03-15 | 1564 | 292 | 
 | 2023-03-13 | 1563 | 292 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1560 | 291 | 
 | 2023-02-17 | 1559 | 291 | 
 | 2023-02-16 | 1559 | 291 | 
-| 2023-02-15 | 1558 | 291 | 
 

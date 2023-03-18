@@ -1,6 +1,6 @@
 # rstudio/rstudio - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1040
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4211 | 1040 | 
 | 2023-03-15 | 4211 | 1040 | 
 | 2023-03-14 | 4211 | 1038 | 
 | 2023-03-13 | 4210 | 1035 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 4192 | 1028 | 
 | 2023-02-17 | 4192 | 1028 | 
 | 2023-02-16 | 4191 | 1027 | 
-| 2023-02-15 | 4191 | 1027 | 
 

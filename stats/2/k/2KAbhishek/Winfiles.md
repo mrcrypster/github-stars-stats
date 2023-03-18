@@ -1,10 +1,10 @@
 # 2KAbhishek/Winfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/2KAbhishek/Winfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 30 | 1 | 
 | 2023-03-16 | 29 | 1 | 
 | 2023-03-15 | 29 | 1 | 
 | 2023-03-14 | 29 | 1 | 

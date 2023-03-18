@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 345
 
-★ Stars: 969
+★ Stars: 970
 
 [Open repository](https://github.com/umicro/uView2.0)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 969 | 345 | 
+| 2023-03-17 | 970 | 345 | 
 | 2023-03-16 | 969 | 345 | 
 | 2023-03-14 | 963 | 346 | 
 | 2023-03-13 | 961 | 347 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-18 | 920 | 333 | 
 | 2023-02-17 | 919 | 334 | 
 | 2023-02-16 | 918 | 334 | 
-| 2023-02-15 | 917 | 334 | 
 

@@ -1,10 +1,10 @@
 # skydoves/android-developer-roadmap - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 497
 
-★ Stars: 5605
+★ Stars: 5608
 
 [Open repository](https://github.com/skydoves/android-developer-roadmap)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 5608 | 497 | 
+| 2023-03-17 | 5608 | 497 | 
 | 2023-03-16 | 5605 | 497 | 
 | 2023-03-15 | 5593 | 495 | 
 | 2023-03-13 | 5586 | 495 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 5510 | 485 | 
 | 2023-02-17 | 5508 | 485 | 
 | 2023-02-16 | 5504 | 485 | 
-| 2023-02-15 | 5490 | 485 | 
 

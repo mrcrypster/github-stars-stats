@@ -1,6 +1,6 @@
 # sunnymaurya/A_Simple_Processor_inVHDL - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | - | 
 | 2023-03-16 | - | - | 
 | 2023-03-15 | - | - | 
 | 2023-03-13 | - | - | 

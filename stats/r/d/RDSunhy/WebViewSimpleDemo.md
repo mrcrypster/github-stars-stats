@@ -1,10 +1,10 @@
 # RDSunhy/WebViewSimpleDemo - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 15
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/RDSunhy/WebViewSimpleDemo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 61 | 15 | 
 | 2023-03-15 | 60 | 15 | 
 | 2023-03-14 | 60 | 15 | 
 | 2023-03-13 | 60 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 58 | 14 | 
 | 2023-02-17 | 58 | 14 | 
 | 2023-02-16 | 58 | 14 | 
-| 2023-02-15 | 58 | 14 | 
 

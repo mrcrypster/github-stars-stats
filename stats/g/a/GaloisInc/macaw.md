@@ -1,10 +1,10 @@
 # GaloisInc/macaw - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 20
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/GaloisInc/macaw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 171 | 20 | 
 | 2023-03-16 | 170 | 20 | 
 | 2023-03-15 | 170 | 20 | 
 | 2023-03-13 | 170 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 169 | 19 | 
 | 2023-02-17 | 169 | 19 | 
 | 2023-02-16 | 169 | 19 | 
-| 2023-02-15 | 169 | 19 | 
 

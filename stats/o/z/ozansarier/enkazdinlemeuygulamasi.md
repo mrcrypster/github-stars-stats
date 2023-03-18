@@ -1,6 +1,6 @@
 # ozansarier/enkazdinlemeuygulamasi - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 22 | 12 | 
 | 2023-03-16 | 22 | 12 | 
 | 2023-03-15 | 22 | 12 | 
 | 2023-03-14 | 22 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 16 | 12 | 
 | 2023-02-17 | 16 | 12 | 
 | 2023-02-16 | 16 | 12 | 
-| 2023-02-15 | 15 | 12 | 
 

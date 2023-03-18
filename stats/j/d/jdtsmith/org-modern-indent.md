@@ -1,10 +1,10 @@
 # jdtsmith/org-modern-indent - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 89
+★ Stars: 93
 
 [Open repository](https://github.com/jdtsmith/org-modern-indent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 93 | 1 | 
 | 2023-03-16 | 89 | 1 | 
 | 2023-03-14 | 85 | 1 | 
 | 2023-03-13 | 83 | 1 | 

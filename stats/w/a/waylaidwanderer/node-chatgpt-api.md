@@ -1,10 +1,10 @@
 # waylaidwanderer/node-chatgpt-api - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 337
+☋ Forks: 347
 
-★ Stars: 2226
+★ Stars: 2273
 
 [Open repository](https://github.com/waylaidwanderer/node-chatgpt-api)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2273 | 347 | 
+| 2023-03-17 | 2272 | 348 | 
 | 2023-03-16 | 2226 | 337 | 
 | 2023-03-15 | 2181 | 322 | 
 | 2023-03-13 | 2137 | 310 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1381 | 177 | 
 | 2023-02-17 | 1354 | 172 | 
 | 2023-02-16 | 1311 | 162 | 
-| 2023-02-15 | 1259 | 158 | 
 

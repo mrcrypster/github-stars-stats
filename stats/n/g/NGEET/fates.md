@@ -1,6 +1,6 @@
 # NGEET/fates - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 81 | 80 | 
 | 2023-03-16 | 81 | 80 | 
 | 2023-03-15 | 81 | 80 | 
 | 2023-03-14 | 81 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 80 | 80 | 
 | 2023-02-17 | 80 | 80 | 
 | 2023-02-16 | 80 | 80 | 
-| 2023-02-15 | 80 | 80 | 
 

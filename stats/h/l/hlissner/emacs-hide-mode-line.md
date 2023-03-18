@@ -1,6 +1,6 @@
 # hlissner/emacs-hide-mode-line - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 55 | 5 | 
 | 2023-03-16 | 55 | 5 | 
 | 2023-03-14 | 55 | 5 | 
 | 2023-03-13 | 55 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 54 | 5 | 
 | 2023-02-17 | 54 | 5 | 
 | 2023-02-16 | 54 | 5 | 
-| 2023-02-15 | 54 | 5 | 
 

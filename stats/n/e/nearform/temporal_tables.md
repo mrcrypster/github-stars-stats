@@ -1,10 +1,10 @@
 # nearform/temporal_tables - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 60
 
-★ Stars: 406
+★ Stars: 407
 
 [Open repository](https://github.com/nearform/temporal_tables)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 407 | 60 | 
 | 2023-03-15 | 406 | 60 | 
 | 2023-03-14 | 406 | 60 | 
 | 2023-03-13 | 405 | 60 | 

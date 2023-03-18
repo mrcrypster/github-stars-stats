@@ -1,10 +1,10 @@
 # ConductAS/puppet-opendj - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 10
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/ConductAS/puppet-opendj)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4 | 10 | 
 | 2023-03-16 | 5 | 10 | 
 | 2023-03-15 | 5 | 10 | 
 | 2023-03-13 | 5 | 10 | 

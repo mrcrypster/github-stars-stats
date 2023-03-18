@@ -1,6 +1,6 @@
 # snaplet/postgres-wasm - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2003 | 66 | 
 | 2023-03-16 | 2003 | 66 | 
 | 2023-03-15 | 2002 | 66 | 
 | 2023-03-14 | 2001 | 66 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1985 | 65 | 
 | 2023-02-17 | 1984 | 65 | 
 | 2023-02-16 | 1983 | 65 | 
-| 2023-02-15 | 1979 | 65 | 
 

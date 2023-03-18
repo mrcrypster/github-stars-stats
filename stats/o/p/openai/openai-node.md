@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 182
+☋ Forks: 183
 
-★ Stars: 2109
+★ Stars: 2119
 
 [Open repository](https://github.com/openai/openai-node)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 2109 | 182 | 
+| 2023-03-17 | 2119 | 183 | 
 | 2023-03-16 | 2094 | 181 | 
 | 2023-03-15 | 2047 | 180 | 
 | 2023-03-14 | 1885 | 172 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-18 | 940 | 107 | 
 | 2023-02-17 | 932 | 105 | 
 | 2023-02-16 | 924 | 103 | 
-| 2023-02-15 | 904 | 100 | 
 

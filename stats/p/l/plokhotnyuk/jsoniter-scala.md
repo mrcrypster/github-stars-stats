@@ -1,6 +1,6 @@
 # plokhotnyuk/jsoniter-scala - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 623 | 75 | 
 | 2023-03-16 | 623 | 75 | 
 | 2023-03-14 | 622 | 75 | 
 | 2023-03-13 | 622 | 74 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 611 | 74 | 
 | 2023-02-17 | 611 | 74 | 
 | 2023-02-16 | 610 | 74 | 
-| 2023-02-15 | 610 | 74 | 
 

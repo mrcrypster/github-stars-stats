@@ -1,6 +1,6 @@
 # solfacil/feature-flag - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 11 | - | 
 | 2023-03-16 | 11 | - | 
 | 2023-03-15 | 11 | - | 
 | 2023-03-14 | 11 | - | 

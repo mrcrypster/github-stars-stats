@@ -1,10 +1,10 @@
 # davidfantasy/mybatis-plus-generator-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 208
+☋ Forks: 214
 
-★ Stars: 699
+★ Stars: 712
 
 [Open repository](https://github.com/davidfantasy/mybatis-plus-generator-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 712 | 214 | 
 | 2023-03-16 | 699 | 208 | 
 | 2023-03-15 | 646 | 201 | 
 | 2023-03-14 | 645 | 201 | 

@@ -1,8 +1,8 @@
 # mitmath/JuliaComputation - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 44 | 8 | 
 | 2023-03-16 | 44 | 7 | 
 | 2023-03-14 | 44 | 7 | 
 | 2023-03-13 | 44 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 42 | 7 | 
 | 2023-02-17 | 42 | 7 | 
 | 2023-02-16 | 42 | 7 | 
-| 2023-02-15 | 42 | 7 | 
 

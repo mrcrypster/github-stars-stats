@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 55
 
-★ Stars: 1330
+★ Stars: 1332
 
 [Open repository](https://github.com/nextjournal/clerk)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 1330 | 55 | 
+| 2023-03-17 | 1332 | 55 | 
 | 2023-03-16 | 1328 | 55 | 
 | 2023-03-15 | 1326 | 55 | 
 | 2023-03-14 | 1324 | 55 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-18 | 1285 | 53 | 
 | 2023-02-17 | 1284 | 53 | 
 | 2023-02-16 | 1284 | 53 | 
-| 2023-02-15 | 1284 | 53 | 
 

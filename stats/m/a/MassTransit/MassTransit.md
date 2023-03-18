@@ -1,10 +1,10 @@
 # MassTransit/MassTransit - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1458
 
-★ Stars: 5229
+★ Stars: 5234
 
 [Open repository](https://github.com/MassTransit/MassTransit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 5234 | 1458 | 
 | 2023-03-16 | 5229 | 1458 | 
 | 2023-03-15 | 5226 | 1458 | 
 | 2023-03-13 | 5223 | 1458 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 5163 | 1442 | 
 | 2023-02-17 | 5159 | 1441 | 
 | 2023-02-16 | 5159 | 1441 | 
-| 2023-02-15 | 5154 | 1441 | 
 

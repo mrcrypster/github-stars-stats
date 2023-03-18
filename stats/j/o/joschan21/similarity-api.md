@@ -1,10 +1,10 @@
 # joschan21/similarity-api - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 88
+★ Stars: 103
 
 [Open repository](https://github.com/joschan21/similarity-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 103 | 11 | 
 | 2023-03-16 | 88 | 9 | 
 | 2023-03-15 | 84 | 7 | 
 

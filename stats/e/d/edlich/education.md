@@ -1,6 +1,6 @@
 # edlich/education - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 15 | 301 | 
 | 2023-03-16 | 15 | 301 | 
 | 2023-03-15 | 15 | 301 | 
 | 2023-03-14 | 15 | 301 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 15 | 303 | 
 | 2023-02-17 | 15 | 304 | 
 | 2023-02-16 | 15 | 304 | 
-| 2023-02-15 | 15 | 304 | 
 

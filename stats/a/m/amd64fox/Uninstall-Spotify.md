@@ -1,6 +1,6 @@
 # amd64fox/Uninstall-Spotify - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 34 | 7 | 
 | 2023-03-16 | 34 | 7 | 
 | 2023-03-15 | 34 | 7 | 
 | 2023-03-13 | 34 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 29 | 5 | 
 | 2023-02-17 | 29 | 5 | 
 | 2023-02-16 | 28 | 5 | 
-| 2023-02-15 | 28 | 4 | 
 

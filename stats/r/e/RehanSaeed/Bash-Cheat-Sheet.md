@@ -1,10 +1,10 @@
 # RehanSaeed/Bash-Cheat-Sheet - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 145
 
-★ Stars: 346
+★ Stars: 348
 
 [Open repository](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 348 | 145 | 
 | 2023-03-16 | 346 | 145 | 
 | 2023-03-15 | 345 | 145 | 
 | 2023-03-13 | 344 | 145 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 318 | 129 | 
 | 2023-02-17 | 318 | 129 | 
 | 2023-02-16 | 317 | 129 | 
-| 2023-02-15 | 316 | 129 | 
 

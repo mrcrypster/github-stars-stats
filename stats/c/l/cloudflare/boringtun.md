@@ -1,10 +1,10 @@
 # cloudflare/boringtun - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 334
+☋ Forks: 335
 
-★ Stars: 4975
+★ Stars: 4979
 
 [Open repository](https://github.com/cloudflare/boringtun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4979 | 335 | 
 | 2023-03-15 | 4975 | 334 | 
 | 2023-03-14 | 4972 | 332 | 
 | 2023-03-13 | 4965 | 331 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 4912 | 325 | 
 | 2023-02-17 | 4911 | 325 | 
 | 2023-02-16 | 4905 | 325 | 
-| 2023-02-15 | 4900 | 325 | 
 

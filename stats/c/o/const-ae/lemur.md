@@ -1,10 +1,10 @@
 # const-ae/lemur - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/const-ae/lemur)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 28 | 1 | 
 | 2023-03-15 | 26 | 1 | 
 | 2023-03-14 | 23 | 1 | 
 | 2023-03-13 | 23 | 1 | 

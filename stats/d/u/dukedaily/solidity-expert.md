@@ -1,10 +1,10 @@
 # dukedaily/solidity-expert - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 182
 
-★ Stars: 923
+★ Stars: 924
 
 [Open repository](https://github.com/dukedaily/solidity-expert)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 924 | 182 | 
 | 2023-03-16 | 923 | 182 | 
 | 2023-03-15 | 920 | 182 | 
 | 2023-03-14 | 921 | 182 | 

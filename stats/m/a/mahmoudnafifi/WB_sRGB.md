@@ -1,10 +1,10 @@
 # mahmoudnafifi/WB_sRGB - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 56
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/mahmoudnafifi/WB_sRGB)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 244 | 56 | 
+| 2023-03-17 | 244 | 56 | 
 | 2023-03-15 | 243 | 56 | 
 | 2023-03-14 | 243 | 56 | 
 | 2023-03-13 | 242 | 56 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 237 | 56 | 
 | 2023-02-17 | 236 | 56 | 
 | 2023-02-16 | 236 | 56 | 
-| 2023-02-15 | 236 | 56 | 
 

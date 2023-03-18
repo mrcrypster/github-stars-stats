@@ -1,6 +1,6 @@
 # IPILabs/shorter-v1-periphery - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 41 | - | 
 | 2023-03-16 | 41 | - | 
 | 2023-03-15 | 41 | - | 
 | 2023-03-14 | 41 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 41 | - | 
 | 2023-02-17 | 41 | - | 
 | 2023-02-16 | 41 | - | 
-| 2023-02-15 | 41 | - | 
 

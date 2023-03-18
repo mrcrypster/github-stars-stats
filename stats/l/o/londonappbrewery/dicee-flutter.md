@@ -1,10 +1,10 @@
 # londonappbrewery/dicee-flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1020
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/londonappbrewery/dicee-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 192 | 1020 | 
 | 2023-03-16 | 191 | 1020 | 
 | 2023-03-15 | 191 | 1020 | 
 | 2023-03-14 | 191 | 1020 | 

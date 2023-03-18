@@ -1,10 +1,10 @@
 # smicallef/spiderfoot - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 1816
+☋ Forks: 1817
 
-★ Stars: 9309
+★ Stars: 9313
 
 [Open repository](https://github.com/smicallef/spiderfoot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 9313 | 1817 | 
 | 2023-03-16 | 9309 | 1816 | 
 | 2023-03-14 | 9299 | 1815 | 
 | 2023-03-13 | 9296 | 1814 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 9174 | 1787 | 
 | 2023-02-17 | 9168 | 1787 | 
 | 2023-02-16 | 9158 | 1787 | 
-| 2023-02-15 | 9146 | 1788 | 
 

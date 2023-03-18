@@ -1,10 +1,10 @@
 # ant-design/ant-design - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 38541
+☋ Forks: 38548
 
-★ Stars: 84962
+★ Stars: 84984
 
 [Open repository](https://github.com/ant-design/ant-design)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 84984 | 38548 | 
 | 2023-03-16 | 84962 | 38541 | 
 | 2023-03-14 | 84929 | 38536 | 
 | 2023-03-13 | 84902 | 38528 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 84418 | 38323 | 
 | 2023-02-17 | 84402 | 38308 | 
 | 2023-02-16 | 84380 | 38282 | 
-| 2023-02-15 | 84376 | 38270 | 
 

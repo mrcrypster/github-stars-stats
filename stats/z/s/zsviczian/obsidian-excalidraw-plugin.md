@@ -1,10 +1,10 @@
 # zsviczian/obsidian-excalidraw-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 98
+☋ Forks: 97
 
-★ Stars: 1726
+★ Stars: 1729
 
 [Open repository](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1729 | 97 | 
 | 2023-03-15 | 1726 | 98 | 
 | 2023-03-14 | 1721 | 98 | 
 | 2023-03-13 | 1715 | 98 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 1648 | 95 | 
 | 2023-02-17 | 1645 | 94 | 
 | 2023-02-16 | 1642 | 94 | 
-| 2023-02-15 | 1638 | 94 | 
 

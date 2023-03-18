@@ -1,6 +1,6 @@
 # elmoallistair/google-it-automation - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 433
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 316 | 433 | 
 | 2023-03-15 | 316 | 433 | 
 | 2023-03-14 | 316 | 433 | 
 | 2023-03-13 | 316 | 432 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 307 | 417 | 
 | 2023-02-17 | 307 | 417 | 
 | 2023-02-16 | 307 | 417 | 
-| 2023-02-15 | 307 | 417 | 
 

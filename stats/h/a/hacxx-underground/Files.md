@@ -1,10 +1,10 @@
 # hacxx-underground/Files - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/hacxx-underground/Files)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 164 | 56 | 
 | 2023-03-15 | 163 | 55 | 
 | 2023-03-14 | 161 | 55 | 
 | 2023-03-13 | 161 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 153 | 49 | 
 | 2023-02-17 | 153 | 49 | 
 | 2023-02-16 | 152 | 49 | 
-| 2023-02-15 | 151 | 49 | 
 

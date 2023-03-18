@@ -1,10 +1,10 @@
 # mattecapu/categorical-systems-theory - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/mattecapu/categorical-systems-theory)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 32 | 1 | 
 | 2023-03-16 | 30 | 1 | 
 | 2023-03-14 | 27 | 1 | 
 | 2023-03-13 | 27 | 1 | 

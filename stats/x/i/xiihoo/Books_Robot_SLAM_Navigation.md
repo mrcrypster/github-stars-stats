@@ -1,6 +1,6 @@
 # xiihoo/Books_Robot_SLAM_Navigation - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 190 | 56 | 
 | 2023-03-16 | 190 | 56 | 
 | 2023-03-14 | 189 | 56 | 
 | 2023-03-13 | 187 | 56 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 179 | 51 | 
 | 2023-02-17 | 179 | 51 | 
 | 2023-02-16 | 179 | 51 | 
-| 2023-02-15 | 179 | 51 | 
 

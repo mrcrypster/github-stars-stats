@@ -1,10 +1,10 @@
 # rohan-paul/Awesome-JavaScript-Interviews - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 619
+☋ Forks: 622
 
-★ Stars: 2431
+★ Stars: 2434
 
 [Open repository](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2434 | 622 | 
 | 2023-03-15 | 2431 | 619 | 
 | 2023-03-14 | 2429 | 620 | 
 | 2023-03-13 | 2429 | 620 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2386 | 605 | 
 | 2023-02-17 | 2386 | 605 | 
 | 2023-02-16 | 2382 | 604 | 
-| 2023-02-15 | 2378 | 603 | 
 

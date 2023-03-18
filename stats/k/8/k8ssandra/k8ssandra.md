@@ -1,6 +1,6 @@
 # k8ssandra/k8ssandra - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 405 | 125 | 
 | 2023-03-15 | 405 | 125 | 
 | 2023-03-14 | 405 | 125 | 
 | 2023-03-13 | 405 | 125 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 402 | 123 | 
 | 2023-02-17 | 402 | 123 | 
 | 2023-02-16 | 401 | 123 | 
-| 2023-02-15 | 401 | 121 | 
 

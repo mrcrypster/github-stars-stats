@@ -1,8 +1,8 @@
 # Project-Sloth/ps-hud - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 123
+☋ Forks: 124
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 79 | 124 | 
 | 2023-03-16 | 79 | 123 | 
 | 2023-03-15 | 79 | 123 | 
 | 2023-03-14 | 79 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 69 | 109 | 
 | 2023-02-17 | 69 | 109 | 
 | 2023-02-16 | 69 | 109 | 
-| 2023-02-15 | 69 | 109 | 
 

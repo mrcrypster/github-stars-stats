@@ -1,10 +1,10 @@
 # steveteuber/kubectl-graph - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/steveteuber/kubectl-graph)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 404 | 17 | 
 | 2023-03-16 | 403 | 16 | 
 | 2023-03-14 | 403 | 16 | 
 | 2023-03-13 | 403 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 398 | 16 | 
 | 2023-02-17 | 399 | 16 | 
 | 2023-02-16 | 399 | 16 | 
-| 2023-02-15 | 399 | 16 | 
 

@@ -1,8 +1,8 @@
 # markvdw/mml-autumn-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 23
+☋ Forks: 22
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 23 | 22 | 
 | 2023-03-16 | 23 | 23 | 
 | 2023-03-14 | 23 | 23 | 
 | 2023-03-13 | 23 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 22 | 23 | 
 | 2023-02-17 | 22 | 23 | 
 | 2023-02-16 | 22 | 23 | 
-| 2023-02-15 | 22 | 23 | 
 

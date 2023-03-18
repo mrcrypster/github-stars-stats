@@ -1,10 +1,10 @@
 # pfeodrippe/recife - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/pfeodrippe/recife)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 101 | 3 | 
 | 2023-03-16 | 100 | 3 | 
 | 2023-03-14 | 100 | 3 | 
 | 2023-03-13 | 100 | 3 | 

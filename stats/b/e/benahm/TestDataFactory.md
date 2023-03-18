@@ -1,10 +1,10 @@
 # benahm/TestDataFactory - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 82
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/benahm/TestDataFactory)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 180 | 82 | 
 | 2023-03-16 | 179 | 82 | 
 | 2023-03-15 | 179 | 82 | 
 | 2023-03-13 | 178 | 82 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 176 | 81 | 
 | 2023-02-17 | 176 | 81 | 
 | 2023-02-16 | 176 | 81 | 
-| 2023-02-15 | 176 | 81 | 
 

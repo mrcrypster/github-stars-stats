@@ -1,10 +1,10 @@
 # Azure/Azure-Sentinel - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2189
+☋ Forks: 2192
 
-★ Stars: 3144
+★ Stars: 3149
 
 [Open repository](https://github.com/Azure/Azure-Sentinel)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 3149 | 2192 | 
+| 2023-03-17 | 3149 | 2192 | 
 | 2023-03-16 | 3144 | 2189 | 
 | 2023-03-15 | 3142 | 2188 | 
 | 2023-03-14 | 3138 | 2187 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 3063 | 2139 | 
 | 2023-02-17 | 3063 | 2138 | 
 | 2023-02-16 | 3060 | 2135 | 
-| 2023-02-15 | 3059 | 2133 | 
 

@@ -1,10 +1,10 @@
 # Portponky/better-terrain - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/Portponky/better-terrain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 40 | 1 | 
 | 2023-03-16 | 38 | 1 | 
 | 2023-03-15 | 38 | 1 | 
 | 2023-03-14 | 37 | 1 | 

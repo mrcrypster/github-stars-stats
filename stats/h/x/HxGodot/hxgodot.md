@@ -1,10 +1,10 @@
 # HxGodot/hxgodot - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 8
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/HxGodot/hxgodot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 134 | 8 | 
 | 2023-03-16 | 133 | 8 | 
 | 2023-03-14 | 132 | 7 | 
 | 2023-03-13 | 132 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 122 | 7 | 
 | 2023-02-17 | 122 | 7 | 
 | 2023-02-16 | 122 | 7 | 
-| 2023-02-15 | 121 | 7 | 
 

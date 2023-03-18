@@ -1,6 +1,6 @@
 # tashapiro/tanya-data-viz - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 276 | 37 | 
 | 2023-03-16 | 276 | 37 | 
 | 2023-03-14 | 276 | 36 | 
 | 2023-03-13 | 276 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 266 | 36 | 
 | 2023-02-17 | 266 | 36 | 
 | 2023-02-16 | 266 | 36 | 
-| 2023-02-15 | 266 | 36 | 
 

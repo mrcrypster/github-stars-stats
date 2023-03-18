@@ -1,6 +1,6 @@
 # spandex-project/spandex - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 310 | 51 | 
 | 2023-03-16 | 310 | 51 | 
 | 2023-03-14 | 310 | 51 | 
 | 2023-03-13 | 310 | 51 | 

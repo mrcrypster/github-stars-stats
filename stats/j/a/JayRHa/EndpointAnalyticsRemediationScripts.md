@@ -1,10 +1,10 @@
 # JayRHa/EndpointAnalyticsRemediationScripts - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 6
+☋ Forks: 9
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 50 | 9 | 
 | 2023-03-16 | 49 | 6 | 
 | 2023-03-15 | 43 | 6 | 
 | 2023-03-14 | 43 | 6 | 

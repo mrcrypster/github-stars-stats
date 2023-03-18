@@ -1,10 +1,10 @@
 # sindresorhus/pure - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 956
 
-★ Stars: 12028
+★ Stars: 12029
 
 [Open repository](https://github.com/sindresorhus/pure)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 12029 | 956 | 
 | 2023-03-16 | 12028 | 956 | 
 | 2023-03-15 | 12028 | 956 | 
 | 2023-03-14 | 12024 | 957 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 11973 | 958 | 
 | 2023-02-17 | 11970 | 958 | 
 | 2023-02-16 | 11968 | 959 | 
-| 2023-02-15 | 11967 | 959 | 
 

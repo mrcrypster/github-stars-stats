@@ -1,10 +1,10 @@
 # BomberFish/ControlConfig - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 46
+★ Stars: 48
 
 [Open repository](https://github.com/BomberFish/ControlConfig)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 48 | 3 | 
 | 2023-03-16 | 46 | 3 | 
 

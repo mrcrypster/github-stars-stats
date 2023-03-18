@@ -1,6 +1,6 @@
 # twbs/bootstrap-sass - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3635
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 12683 | 3635 | 
 | 2023-03-16 | 12683 | 3635 | 
 | 2023-03-15 | 12683 | 3635 | 
 | 2023-03-14 | 12683 | 3635 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 12687 | 3638 | 
 | 2023-02-17 | 12687 | 3638 | 
 | 2023-02-16 | 12687 | 3638 | 
-| 2023-02-15 | 12688 | 3638 | 
 

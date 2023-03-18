@@ -1,8 +1,8 @@
 # homuler/MediaPipeUnityPlugin - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 333
+☋ Forks: 334
 
 ★ Stars: 1136
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1136 | 334 | 
 | 2023-03-16 | 1136 | 333 | 
 | 2023-03-14 | 1133 | 331 | 
 | 2023-03-13 | 1131 | 331 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1101 | 320 | 
 | 2023-02-17 | 1099 | 320 | 
 | 2023-02-16 | 1098 | 320 | 
-| 2023-02-15 | 1095 | 320 | 
 

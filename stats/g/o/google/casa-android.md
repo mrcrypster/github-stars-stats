@@ -1,6 +1,6 @@
 # google/casa-android - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 191 | 8 | 
 | 2023-03-16 | 191 | 8 | 
 | 2023-03-14 | 191 | 8 | 
 | 2023-03-13 | 191 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 188 | 7 | 
 | 2023-02-17 | 187 | 7 | 
 | 2023-02-16 | 187 | 7 | 
-| 2023-02-15 | 186 | 7 | 
 

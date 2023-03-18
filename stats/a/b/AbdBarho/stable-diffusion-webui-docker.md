@@ -1,10 +1,10 @@
 # AbdBarho/stable-diffusion-webui-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 319
+☋ Forks: 322
 
-★ Stars: 2592
+★ Stars: 2603
 
 [Open repository](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2603 | 322 | 
 | 2023-03-16 | 2592 | 319 | 
 | 2023-03-15 | 2564 | 317 | 
 | 2023-03-14 | 2539 | 313 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2002 | 252 | 
 | 2023-02-17 | 1982 | 246 | 
 | 2023-02-16 | 1973 | 244 | 
-| 2023-02-15 | 1963 | 243 | 
 

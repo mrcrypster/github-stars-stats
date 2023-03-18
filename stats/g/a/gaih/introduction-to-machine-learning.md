@@ -1,6 +1,6 @@
 # gaih/introduction-to-machine-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 111 | 71 | 
 | 2023-03-15 | 111 | 71 | 
 | 2023-03-14 | 111 | 71 | 
 | 2023-03-13 | 111 | 71 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 109 | 71 | 
 | 2023-02-17 | 109 | 71 | 
 | 2023-02-16 | 109 | 71 | 
-| 2023-02-15 | 109 | 71 | 
 

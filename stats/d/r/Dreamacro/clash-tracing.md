@@ -1,6 +1,6 @@
 # Dreamacro/clash-tracing - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 782 | 70 | 
 | 2023-03-16 | 782 | 70 | 
 | 2023-03-15 | 781 | 70 | 
 | 2023-03-13 | 779 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 770 | 70 | 
 | 2023-02-17 | 770 | 70 | 
 | 2023-02-16 | 770 | 70 | 
-| 2023-02-15 | 769 | 70 | 
 

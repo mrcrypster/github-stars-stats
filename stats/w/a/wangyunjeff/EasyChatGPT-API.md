@@ -1,6 +1,6 @@
 # wangyunjeff/EasyChatGPT-API - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 63 | 36 | 
 | 2023-03-15 | 63 | 36 | 
 | 2023-03-14 | 63 | 35 | 
 | 2023-03-13 | 63 | 35 | 

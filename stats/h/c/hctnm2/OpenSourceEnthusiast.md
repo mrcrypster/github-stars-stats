@@ -1,6 +1,6 @@
 # hctnm2/OpenSourceEnthusiast - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 52 | 115 | 
 | 2023-03-16 | 52 | 115 | 
 | 2023-03-14 | 52 | 115 | 
 | 2023-03-13 | 52 | 116 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 53 | 117 | 
 | 2023-02-17 | 53 | 117 | 
 | 2023-02-16 | 53 | 117 | 
-| 2023-02-15 | 53 | 117 | 
 

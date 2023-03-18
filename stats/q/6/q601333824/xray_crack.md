@@ -1,6 +1,6 @@
 # q601333824/xray_crack - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 239 | 80 | 
 | 2023-03-16 | 239 | 80 | 
 | 2023-03-14 | 239 | 80 | 
 | 2023-03-13 | 239 | 80 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 238 | 80 | 
 | 2023-02-17 | 238 | 80 | 
 | 2023-02-16 | 238 | 80 | 
-| 2023-02-15 | 238 | 80 | 
 

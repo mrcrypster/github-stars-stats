@@ -1,10 +1,10 @@
 # microsoft/CodeXGLUE - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 964
+★ Stars: 966
 
 [Open repository](https://github.com/microsoft/CodeXGLUE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 966 | 279 | 
 | 2023-03-16 | 964 | 278 | 
 | 2023-03-15 | 962 | 276 | 
 | 2023-03-14 | 959 | 276 | 

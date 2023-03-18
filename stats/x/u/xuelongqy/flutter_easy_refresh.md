@@ -1,6 +1,6 @@
 # xuelongqy/flutter_easy_refresh - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 592
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3430 | 592 | 
 | 2023-03-16 | 3430 | 592 | 
 | 2023-03-14 | 3428 | 592 | 
 | 2023-03-13 | 3427 | 591 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 3405 | 590 | 
 | 2023-02-17 | 3405 | 590 | 
 | 2023-02-16 | 3402 | 590 | 
-| 2023-02-15 | 3398 | 589 | 
 

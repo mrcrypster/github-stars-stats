@@ -1,8 +1,8 @@
 # Greenheart/idg.tools - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 13
+☋ Forks: 15
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 9 | 15 | 
 | 2023-03-16 | 9 | 13 | 
 | 2023-03-15 | 9 | 13 | 
 | 2023-03-13 | 9 | 13 | 

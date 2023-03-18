@@ -1,8 +1,8 @@
 # nf-core/modules - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 350
+☋ Forks: 353
 
 ★ Stars: 153
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 153 | 353 | 
+| 2023-03-17 | 153 | 352 | 
 | 2023-03-16 | 153 | 350 | 
 | 2023-03-15 | 153 | 350 | 
 | 2023-03-14 | 152 | 350 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 147 | 340 | 
 | 2023-02-17 | 147 | 337 | 
 | 2023-02-16 | 147 | 337 | 
-| 2023-02-15 | 147 | 337 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 1856
 
-★ Stars: 34993
+★ Stars: 35013
 
 [Open repository](https://github.com/romkatv/powerlevel10k)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 34993 | 1856 | 
+| 2023-03-17 | 35013 | 1856 | 
 | 2023-03-15 | 34964 | 1850 | 
 | 2023-03-14 | 34936 | 1847 | 
 | 2023-03-13 | 34911 | 1846 | 

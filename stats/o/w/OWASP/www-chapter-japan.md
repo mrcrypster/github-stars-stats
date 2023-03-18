@@ -1,10 +1,10 @@
 # OWASP/www-chapter-japan - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 12
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/OWASP/www-chapter-japan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 157 | 12 | 
 | 2023-03-16 | 156 | 12 | 
 | 2023-03-15 | 156 | 12 | 
 | 2023-03-13 | 156 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 151 | 11 | 
 | 2023-02-17 | 151 | 11 | 
 | 2023-02-16 | 151 | 11 | 
-| 2023-02-15 | 150 | 11 | 
 

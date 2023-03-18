@@ -1,10 +1,10 @@
 # Animeshz/hop.el - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/Animeshz/hop.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 31 | - | 
 | 2023-03-16 | 29 | - | 
 | 2023-03-15 | 28 | - | 
 | 2023-03-14 | 24 | - | 

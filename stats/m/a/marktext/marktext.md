@@ -1,10 +1,10 @@
 # marktext/marktext - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 2957
+☋ Forks: 2959
 
-★ Stars: 38904
+★ Stars: 38928
 
 [Open repository](https://github.com/marktext/marktext)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 38928 | 2959 | 
 | 2023-03-16 | 38904 | 2957 | 
 | 2023-03-14 | 38870 | 2957 | 
 | 2023-03-13 | 38848 | 2952 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 38433 | 2924 | 
 | 2023-02-17 | 38423 | 2921 | 
 | 2023-02-16 | 38415 | 2920 | 
-| 2023-02-15 | 38388 | 2915 | 
 

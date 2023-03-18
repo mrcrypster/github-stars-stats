@@ -1,6 +1,6 @@
 # pulp-platform/axi2apb - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 11 | 18 | 
 | 2023-03-16 | 11 | 18 | 
 | 2023-03-15 | 11 | 18 | 
 | 2023-03-14 | 11 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 10 | 18 | 
 | 2023-02-17 | 10 | 18 | 
 | 2023-02-16 | 10 | 18 | 
-| 2023-02-15 | 10 | 18 | 
 

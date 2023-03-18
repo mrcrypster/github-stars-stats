@@ -1,10 +1,10 @@
 # FluidSynth/fluidsynth - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 213
+☋ Forks: 214
 
-★ Stars: 1370
+★ Stars: 1372
 
 [Open repository](https://github.com/FluidSynth/fluidsynth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1372 | 214 | 
 | 2023-03-16 | 1370 | 213 | 
 | 2023-03-14 | 1369 | 213 | 
 | 2023-03-13 | 1369 | 212 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1357 | 213 | 
 | 2023-02-17 | 1354 | 213 | 
 | 2023-02-16 | 1354 | 213 | 
-| 2023-02-15 | 1354 | 213 | 
 

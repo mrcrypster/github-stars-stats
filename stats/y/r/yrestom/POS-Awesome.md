@@ -1,10 +1,10 @@
 # yrestom/POS-Awesome - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
-☋ Forks: 254
+☋ Forks: 253
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/yrestom/POS-Awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 211 | 253 | 
 | 2023-03-15 | 210 | 254 | 
 | 2023-03-14 | 210 | 255 | 
 | 2023-03-13 | 210 | 254 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 207 | 246 | 
 | 2023-02-17 | 207 | 246 | 
 | 2023-02-16 | 206 | 246 | 
-| 2023-02-15 | 206 | 245 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 37
 
-★ Stars: 73
+★ Stars: 75
 
 [Open repository](https://github.com/coderdost/full-stack-dev-2023)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 73 | 37 | 
+| 2023-03-17 | 75 | 37 | 
 | 2023-03-16 | 72 | 37 | 
 

@@ -1,6 +1,6 @@
 # mozilla-mobile/android-components - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 500
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2028 | 500 | 
 | 2023-03-16 | 2028 | 500 | 
 | 2023-03-14 | 2028 | 500 | 
 | 2023-03-13 | 2028 | 500 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2032 | 502 | 
 | 2023-02-17 | 2033 | 502 | 
 | 2023-02-16 | 2033 | 503 | 
-| 2023-02-15 | 2033 | 503 | 
 

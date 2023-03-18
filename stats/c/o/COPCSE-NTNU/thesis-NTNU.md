@@ -1,6 +1,6 @@
 # COPCSE-NTNU/thesis-NTNU - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 289
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 77 | 289 | 
 | 2023-03-16 | 77 | 289 | 
 | 2023-03-15 | 77 | 289 | 
 | 2023-03-14 | 77 | 289 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 77 | 287 | 
 | 2023-02-17 | 77 | 286 | 
 | 2023-02-16 | 77 | 286 | 
-| 2023-02-15 | 77 | 286 | 
 

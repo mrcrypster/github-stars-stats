@@ -1,10 +1,10 @@
 # ozzr/godot_terrain - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 5
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/ozzr/godot_terrain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 90 | 5 | 
 | 2023-03-15 | 89 | 5 | 
 | 2023-03-14 | 87 | 5 | 
 | 2023-03-13 | 87 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 78 | 4 | 
 | 2023-02-17 | 78 | 4 | 
 | 2023-02-16 | 77 | 4 | 
-| 2023-02-15 | 77 | 4 | 
 

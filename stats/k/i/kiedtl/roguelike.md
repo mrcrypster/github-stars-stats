@@ -1,10 +1,10 @@
 # kiedtl/roguelike - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 56
+★ Stars: 55
 
 [Open repository](https://github.com/kiedtl/roguelike)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 55 | 3 | 
 | 2023-03-16 | 56 | 3 | 
 | 2023-03-14 | 56 | 3 | 
 | 2023-03-13 | 56 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 52 | 3 | 
 | 2023-02-17 | 52 | 3 | 
 | 2023-02-16 | 52 | 3 | 
-| 2023-02-15 | 52 | 3 | 
 

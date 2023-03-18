@@ -1,10 +1,10 @@
 # bia-technologies/yaxunit - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 25
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/bia-technologies/yaxunit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 111 | 25 | 
 | 2023-03-15 | 110 | 25 | 
 | 2023-03-14 | 110 | 25 | 
 | 2023-03-13 | 109 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 107 | 22 | 
 | 2023-02-17 | 107 | 22 | 
 | 2023-02-16 | 108 | 22 | 
-| 2023-02-15 | 108 | 22 | 
 

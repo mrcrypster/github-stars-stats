@@ -1,10 +1,10 @@
 # iyear/tdl - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 146
+☋ Forks: 148
 
-★ Stars: 1099
+★ Stars: 1108
 
 [Open repository](https://github.com/iyear/tdl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1108 | 148 | 
 | 2023-03-16 | 1099 | 146 | 
 | 2023-03-15 | 1090 | 146 | 
 | 2023-03-14 | 1090 | 146 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 941 | 130 | 
 | 2023-02-18 | 937 | 130 | 
 | 2023-02-17 | 933 | 130 | 
-| 2023-02-16 | 927 | 130 | 
 

@@ -1,6 +1,6 @@
 # beam-community/elixir-companies - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1533 | 356 | 
 | 2023-03-16 | 1533 | 356 | 
 | 2023-03-15 | 1533 | 356 | 
 | 2023-03-13 | 1533 | 356 | 

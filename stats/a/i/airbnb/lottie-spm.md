@@ -1,6 +1,6 @@
 # airbnb/lottie-spm - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 53 | 4 | 
 | 2023-03-15 | 53 | 4 | 
 | 2023-03-14 | 53 | 4 | 
 | 2023-03-12 | 53 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 48 | 2 | 
 | 2023-02-17 | 48 | 2 | 
 | 2023-02-16 | 47 | 2 | 
-| 2023-02-15 | 47 | 2 | 
 

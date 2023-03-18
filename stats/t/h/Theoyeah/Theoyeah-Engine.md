@@ -1,6 +1,6 @@
 # Theoyeah/Theoyeah-Engine - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 36 | 22 | 
 | 2023-03-15 | 36 | 22 | 
 | 2023-03-14 | 36 | 22 | 
 | 2023-03-13 | 36 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 35 | 21 | 
 | 2023-02-17 | 35 | 21 | 
 | 2023-02-16 | 35 | 21 | 
-| 2023-02-15 | 35 | 21 | 
 

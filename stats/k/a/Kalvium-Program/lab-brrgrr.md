@@ -1,6 +1,6 @@
 # Kalvium-Program/lab-brrgrr - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | - | 18 | 
 | 2023-03-15 | - | 18 | 
 | 2023-03-14 | - | 18 | 
 | 2023-03-13 | - | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | - | 18 | 
 | 2023-02-17 | - | 18 | 
 | 2023-02-16 | - | 18 | 
-| 2023-02-15 | - | 18 | 
 

@@ -1,10 +1,10 @@
 # foobnix/LibreraReader - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 238
 
-★ Stars: 1576
+★ Stars: 1579
 
 [Open repository](https://github.com/foobnix/LibreraReader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1579 | 238 | 
 | 2023-03-16 | 1576 | 238 | 
 | 2023-03-15 | 1572 | 238 | 
 | 2023-03-14 | 1567 | 238 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1507 | 237 | 
 | 2023-02-17 | 1503 | 237 | 
 | 2023-02-16 | 1502 | 237 | 
-| 2023-02-15 | 1502 | 237 | 
 

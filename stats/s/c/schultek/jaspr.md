@@ -1,6 +1,6 @@
 # schultek/jaspr - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 381 | 12 | 
 | 2023-03-16 | 381 | 12 | 
 | 2023-03-14 | 379 | 12 | 
 | 2023-03-13 | 377 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 364 | 9 | 
 | 2023-02-18 | 364 | 9 | 
 | 2023-02-17 | 364 | 9 | 
-| 2023-02-16 | 363 | 9 | 
 

@@ -1,10 +1,10 @@
 # FriendsOfPHP/Goutte - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1027
 
-★ Stars: 9184
+★ Stars: 9186
 
 [Open repository](https://github.com/FriendsOfPHP/Goutte)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 9186 | 1027 | 
 | 2023-03-15 | 9184 | 1027 | 
 | 2023-03-14 | 9181 | 1027 | 
 | 2023-03-13 | 9181 | 1027 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 9165 | 1024 | 
 | 2023-02-17 | 9162 | 1024 | 
 | 2023-02-16 | 9161 | 1024 | 
-| 2023-02-15 | 9160 | 1024 | 
 

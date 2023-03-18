@@ -1,10 +1,10 @@
 # SPLWare/esProc - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 154
 
-★ Stars: 1437
+★ Stars: 1438
 
 [Open repository](https://github.com/SPLWare/esProc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1438 | 154 | 
 | 2023-03-16 | 1437 | 154 | 
 | 2023-03-14 | 1427 | 153 | 
 | 2023-03-13 | 1425 | 153 | 

@@ -1,10 +1,10 @@
 # junyanz/CycleGAN - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1914
 
-★ Stars: 11590
+★ Stars: 11591
 
 [Open repository](https://github.com/junyanz/CycleGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 11591 | 1914 | 
 | 2023-03-16 | 11590 | 1914 | 
 | 2023-03-15 | 11589 | 1914 | 
 | 2023-03-13 | 11588 | 1915 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 11554 | 1913 | 
 | 2023-02-18 | 11552 | 1913 | 
 | 2023-02-17 | 11552 | 1913 | 
-| 2023-02-15 | 11551 | 1912 | 
 

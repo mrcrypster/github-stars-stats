@@ -1,10 +1,10 @@
 # BlinkDL/ChatRWKV - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 203
+☋ Forks: 209
 
-★ Stars: 3423
+★ Stars: 3472
 
 [Open repository](https://github.com/BlinkDL/ChatRWKV)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3472 | 209 | 
 | 2023-03-16 | 3423 | 203 | 
 | 2023-03-14 | 3351 | 199 | 
 | 2023-03-13 | 3297 | 194 | 

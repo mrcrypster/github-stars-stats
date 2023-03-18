@@ -1,10 +1,10 @@
 # nammayatri/shared-kernel - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 8
 
 [Open repository](https://github.com/nammayatri/shared-kernel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 8 | 1 | 
 | 2023-03-15 | 4 | 1 | 
 | 2023-03-14 | 4 | 1 | 
 | 2023-03-13 | 4 | 1 | 

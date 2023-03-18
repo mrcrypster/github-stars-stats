@@ -1,6 +1,6 @@
 # overcache/NeoSolarized - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 490 | 106 | 
 | 2023-03-16 | 490 | 106 | 
 | 2023-03-15 | 490 | 106 | 
 | 2023-03-14 | 490 | 106 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 489 | 107 | 
 | 2023-02-17 | 487 | 107 | 
 | 2023-02-16 | 487 | 107 | 
-| 2023-02-15 | 487 | 107 | 
 

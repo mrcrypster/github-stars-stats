@@ -1,10 +1,10 @@
 # dudykr/stc - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 151
 
-★ Stars: 4526
+★ Stars: 4537
 
 [Open repository](https://github.com/dudykr/stc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4537 | 151 | 
 | 2023-03-16 | 4526 | 151 | 
 | 2023-03-15 | 4516 | 149 | 
 | 2023-03-14 | 4503 | 149 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 4328 | 142 | 
 | 2023-02-17 | 4322 | 141 | 
 | 2023-02-16 | 4311 | 141 | 
-| 2023-02-15 | 4303 | 141 | 
 

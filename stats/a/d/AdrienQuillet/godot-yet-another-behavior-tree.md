@@ -1,6 +1,6 @@
 # AdrienQuillet/godot-yet-another-behavior-tree - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 36 | 2 | 
 | 2023-03-15 | 36 | 2 | 
 | 2023-03-14 | 35 | 2 | 
 | 2023-03-12 | 35 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 30 | 2 | 
 | 2023-02-17 | 29 | 2 | 
 | 2023-02-16 | 29 | 2 | 
-| 2023-02-15 | 27 | 2 | 
 

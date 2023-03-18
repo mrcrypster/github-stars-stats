@@ -1,10 +1,10 @@
 # DeJhon-Huang/FernNPR - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 378
+★ Stars: 382
 
 [Open repository](https://github.com/DeJhon-Huang/FernNPR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 382 | 71 | 
 | 2023-03-16 | 378 | 70 | 
 | 2023-03-15 | 376 | 70 | 
 | 2023-03-14 | 369 | 68 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 291 | 55 | 
 | 2023-02-17 | 287 | 55 | 
 | 2023-02-16 | 287 | 55 | 
-| 2023-02-15 | 286 | 55 | 
 

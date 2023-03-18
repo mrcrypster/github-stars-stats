@@ -1,8 +1,8 @@
 # LinkedInLearning/practice-it-go-rest-api-server-3087771 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 52
+☋ Forks: 54
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2 | 54 | 
 | 2023-03-16 | 2 | 52 | 
 | 2023-03-15 | 2 | 52 | 
 | 2023-03-14 | 2 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1 | 41 | 
 | 2023-02-17 | 1 | 41 | 
 | 2023-02-16 | 1 | 41 | 
-| 2023-02-15 | 1 | 40 | 
 

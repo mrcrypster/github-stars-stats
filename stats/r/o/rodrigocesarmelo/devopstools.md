@@ -1,10 +1,10 @@
 # rodrigocesarmelo/devopstools - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/rodrigocesarmelo/devopstools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 21 | 15 | 
 | 2023-03-16 | 19 | 14 | 
 | 2023-03-15 | 19 | 12 | 
 

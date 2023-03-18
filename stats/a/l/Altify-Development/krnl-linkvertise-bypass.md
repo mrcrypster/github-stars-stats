@@ -1,6 +1,6 @@
 # Altify-Development/krnl-linkvertise-bypass - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2 | 3 | 
 | 2023-03-15 | 2 | 3 | 
 | 2023-03-14 | 2 | 3 | 
 | 2023-03-13 | 2 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 2 | 3 | 
 | 2023-02-17 | 2 | 3 | 
 | 2023-02-16 | 2 | 3 | 
-| 2023-02-15 | 2 | 3 | 
 

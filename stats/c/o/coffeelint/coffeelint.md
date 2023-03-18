@@ -1,10 +1,10 @@
 # coffeelint/coffeelint - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 13
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/coffeelint/coffeelint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 13 | 13 | 
 | 2023-03-16 | 14 | 13 | 
 | 2023-03-14 | 14 | 13 | 
 | 2023-03-13 | 14 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 14 | 13 | 
 | 2023-02-18 | 14 | 13 | 
 | 2023-02-17 | 14 | 13 | 
-| 2023-02-16 | 14 | 13 | 
 

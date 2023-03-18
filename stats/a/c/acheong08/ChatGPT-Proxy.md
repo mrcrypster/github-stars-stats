@@ -1,10 +1,10 @@
 # acheong08/ChatGPT-Proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 71
 
-★ Stars: 196
+★ Stars: 195
 
 [Open repository](https://github.com/acheong08/ChatGPT-Proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 195 | 71 | 
 | 2023-03-15 | 196 | 71 | 
 | 2023-03-14 | 194 | 70 | 
 | 2023-03-13 | 193 | 69 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 164 | 42 | 
 | 2023-02-17 | 162 | 42 | 
 | 2023-02-16 | 154 | 37 | 
-| 2023-02-15 | 151 | 35 | 
 

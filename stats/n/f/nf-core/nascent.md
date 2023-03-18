@@ -1,6 +1,6 @@
 # nf-core/nascent - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 7 | 8 | 
 | 2023-03-16 | 7 | 8 | 
 | 2023-03-15 | 7 | 8 | 
 | 2023-03-14 | 7 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 5 | 8 | 
 | 2023-02-17 | 5 | 8 | 
 | 2023-02-16 | 5 | 8 | 
-| 2023-02-15 | 5 | 8 | 
 

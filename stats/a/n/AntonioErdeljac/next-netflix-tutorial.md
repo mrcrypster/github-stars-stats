@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 17
 
-☋ Forks: 22
+☋ Forks: 27
 
-★ Stars: 79
+★ Stars: 90
 
 [Open repository](https://github.com/AntonioErdeljac/next-netflix-tutorial)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 79 | 22 | 
+| 2023-03-17 | 90 | 27 | 
 | 2023-03-16 | 77 | 22 | 
 | 2023-03-15 | 55 | 12 | 
 | 2023-03-14 | 50 | 12 | 

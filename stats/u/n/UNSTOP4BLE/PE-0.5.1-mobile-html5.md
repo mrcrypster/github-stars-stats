@@ -1,10 +1,10 @@
 # UNSTOP4BLE/PE-0.5.1-mobile-html5 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 172
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/UNSTOP4BLE/PE-0.5.1-mobile-html5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 18 | 172 | 
 | 2023-03-16 | 19 | 172 | 
 | 2023-03-15 | 19 | 172 | 
 | 2023-03-13 | 19 | 172 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 19 | 171 | 
 | 2023-02-17 | 19 | 170 | 
 | 2023-02-16 | 19 | 170 | 
-| 2023-02-15 | 19 | 170 | 
 

@@ -1,6 +1,6 @@
 # getsentry/sentry-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 781 | 209 | 
 | 2023-03-16 | 781 | 209 | 
 | 2023-03-14 | 780 | 208 | 
 | 2023-03-13 | 779 | 208 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 771 | 206 | 
 | 2023-02-17 | 771 | 206 | 
 | 2023-02-16 | 771 | 206 | 
-| 2023-02-15 | 771 | 206 | 
 

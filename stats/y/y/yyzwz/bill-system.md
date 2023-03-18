@@ -1,6 +1,6 @@
 # yyzwz/bill-system - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 7 | 5 | 
 | 2023-03-16 | 7 | 5 | 
 | 2023-03-15 | 7 | 5 | 
 | 2023-03-13 | 7 | 5 | 

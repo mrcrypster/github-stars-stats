@@ -1,10 +1,10 @@
 # LibrePhotos/librephotos - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 219
 
-★ Stars: 5277
+★ Stars: 5283
 
 [Open repository](https://github.com/LibrePhotos/librephotos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 5283 | 219 | 
 | 2023-03-15 | 5277 | 219 | 
 | 2023-03-14 | 5273 | 219 | 
 | 2023-03-13 | 5267 | 218 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-19 | 5194 | 216 | 
 | 2023-02-18 | 5192 | 216 | 
 | 2023-02-16 | 5187 | 216 | 
-| 2023-02-15 | 5181 | 216 | 
 

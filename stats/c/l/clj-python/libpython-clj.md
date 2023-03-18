@@ -1,6 +1,6 @@
 # clj-python/libpython-clj - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 914 | 63 | 
 | 2023-03-16 | 914 | 63 | 
 | 2023-03-15 | 912 | 63 | 
 | 2023-03-14 | 910 | 62 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 904 | 61 | 
 | 2023-02-17 | 904 | 61 | 
 | 2023-02-16 | 903 | 61 | 
-| 2023-02-15 | 902 | 61 | 
 

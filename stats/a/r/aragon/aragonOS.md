@@ -1,8 +1,8 @@
 # aragon/aragonOS - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 251
+☋ Forks: 252
 
 ★ Stars: 636
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 636 | 252 | 
 | 2023-03-16 | 636 | 251 | 
 | 2023-03-15 | 636 | 251 | 
 | 2023-03-14 | 636 | 250 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 634 | 251 | 
 | 2023-02-17 | 634 | 251 | 
 | 2023-02-16 | 633 | 251 | 
-| 2023-02-15 | 633 | 251 | 
 

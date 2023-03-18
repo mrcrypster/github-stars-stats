@@ -1,10 +1,10 @@
 # desktop/desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 8870
+☋ Forks: 8872
 
-★ Stars: 16861
+★ Stars: 16864
 
 [Open repository](https://github.com/desktop/desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 16864 | 8872 | 
 | 2023-03-16 | 16861 | 8870 | 
 | 2023-03-14 | 16853 | 8862 | 
 | 2023-03-13 | 16847 | 8861 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 16713 | 8783 | 
 | 2023-02-17 | 16705 | 8784 | 
 | 2023-02-16 | 16702 | 8778 | 
-| 2023-02-15 | 16694 | 8778 | 
 

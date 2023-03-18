@@ -1,10 +1,10 @@
 # saadparwaiz1/cmp_luasnip - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 21
 
-★ Stars: 348
+★ Stars: 350
 
 [Open repository](https://github.com/saadparwaiz1/cmp_luasnip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 350 | 21 | 
 | 2023-03-16 | 348 | 21 | 
 | 2023-03-14 | 348 | 21 | 
 | 2023-03-13 | 347 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 330 | 21 | 
 | 2023-02-17 | 327 | 21 | 
 | 2023-02-16 | 326 | 21 | 
-| 2023-02-15 | 326 | 21 | 
 

@@ -1,6 +1,6 @@
 # factorhouse/slipway - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 49 | 1 | 
 | 2023-03-16 | 49 | 1 | 
 | 2023-03-14 | 49 | 1 | 
 | 2023-03-13 | 49 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 48 | 1 | 
 | 2023-02-17 | 48 | 1 | 
 | 2023-02-16 | 48 | 1 | 
-| 2023-02-15 | 48 | 1 | 
 

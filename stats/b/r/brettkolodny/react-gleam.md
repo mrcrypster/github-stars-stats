@@ -1,6 +1,6 @@
 # brettkolodny/react-gleam - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 24 | 1 | 
 | 2023-03-15 | 24 | 1 | 
 | 2023-03-14 | 24 | 1 | 
 | 2023-03-13 | 24 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 22 | 1 | 
 | 2023-02-17 | 22 | 1 | 
 | 2023-02-16 | 22 | 1 | 
-| 2023-02-15 | 22 | 1 | 
 

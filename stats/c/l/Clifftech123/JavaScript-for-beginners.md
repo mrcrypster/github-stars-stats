@@ -1,10 +1,10 @@
 # Clifftech123/JavaScript-for-beginners - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 5
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Clifftech123/JavaScript-for-beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 23 | 5 | 
 | 2023-03-16 | 22 | 5 | 
 | 2023-03-14 | 19 | 5 | 
 | 2023-03-13 | 19 | 5 | 

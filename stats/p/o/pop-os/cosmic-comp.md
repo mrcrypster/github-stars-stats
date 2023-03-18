@@ -1,10 +1,10 @@
 # pop-os/cosmic-comp - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 8
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/pop-os/cosmic-comp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 206 | 8 | 
 | 2023-03-15 | 205 | 8 | 
 | 2023-03-14 | 205 | 8 | 
 | 2023-03-13 | 205 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-19 | 193 | 8 | 
 | 2023-02-18 | 193 | 8 | 
 | 2023-02-17 | 193 | 7 | 
-| 2023-02-16 | 193 | 7 | 
 

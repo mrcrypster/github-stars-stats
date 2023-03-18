@@ -1,10 +1,10 @@
 # shufflewzc/faker3 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 326
+☋ Forks: 327
 
-★ Stars: 443
+★ Stars: 442
 
 [Open repository](https://github.com/shufflewzc/faker3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 442 | 327 | 
 | 2023-03-16 | 443 | 326 | 
 | 2023-03-15 | 442 | 326 | 
 | 2023-03-13 | 442 | 325 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 415 | 318 | 
 | 2023-02-17 | 414 | 318 | 
 | 2023-02-16 | 411 | 317 | 
-| 2023-02-15 | 411 | 317 | 
 

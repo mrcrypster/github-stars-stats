@@ -1,6 +1,6 @@
 # HemulGM/DelphiOpenAI - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 84 | 21 | 
 | 2023-03-16 | 84 | 21 | 
 | 2023-03-15 | 83 | 21 | 
 | 2023-03-14 | 81 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 54 | 10 | 
 | 2023-02-17 | 54 | 10 | 
 | 2023-02-16 | 51 | 10 | 
-| 2023-02-15 | 51 | 10 | 
 

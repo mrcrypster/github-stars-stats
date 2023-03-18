@@ -1,10 +1,10 @@
 # OLoKo64/upscale-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/OLoKo64/upscale-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 64 | 3 | 
 | 2023-03-16 | 63 | 3 | 
 | 2023-03-15 | 63 | 3 | 
 | 2023-03-14 | 63 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 63 | 3 | 
 | 2023-02-17 | 63 | 3 | 
 | 2023-02-16 | 63 | 3 | 
-| 2023-02-15 | 63 | 3 | 
 

@@ -1,10 +1,10 @@
 # johnBuffer/JuliaRendering - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/johnBuffer/JuliaRendering)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 63 | 10 | 
 | 2023-03-16 | 62 | 9 | 
 | 2023-03-15 | 58 | 8 | 
 | 2023-03-13 | 58 | 8 | 

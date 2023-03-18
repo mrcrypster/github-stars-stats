@@ -1,6 +1,6 @@
 # positive-security/dompdf-rce - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 138 | 58 | 
 | 2023-03-16 | 138 | 58 | 
 | 2023-03-14 | 138 | 58 | 
 | 2023-03-13 | 138 | 58 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 135 | 56 | 
 | 2023-02-17 | 135 | 54 | 
 | 2023-02-16 | 132 | 54 | 
-| 2023-02-15 | 132 | 54 | 
 

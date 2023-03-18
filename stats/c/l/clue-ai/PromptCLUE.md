@@ -1,6 +1,6 @@
 # clue-ai/PromptCLUE - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 472 | 53 | 
 | 2023-03-16 | 472 | 53 | 
 | 2023-03-15 | 469 | 52 | 
 | 2023-03-13 | 464 | 52 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 397 | 42 | 
 | 2023-02-17 | 393 | 42 | 
 | 2023-02-16 | 384 | 41 | 
-| 2023-02-15 | 379 | 41 | 
 

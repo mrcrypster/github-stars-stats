@@ -1,6 +1,6 @@
 # junjunlab/scRNAtoolVis - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 110 | 7 | 
 | 2023-03-15 | 110 | 7 | 
 | 2023-03-14 | 110 | 7 | 
 | 2023-03-13 | 109 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 102 | 6 | 
 | 2023-02-17 | 101 | 6 | 
 | 2023-02-16 | 101 | 6 | 
-| 2023-02-15 | 101 | 6 | 
 

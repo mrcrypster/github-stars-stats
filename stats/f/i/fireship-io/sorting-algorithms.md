@@ -1,10 +1,10 @@
 # fireship-io/sorting-algorithms - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/fireship-io/sorting-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 189 | 20 | 
 | 2023-03-16 | 188 | 19 | 
 | 2023-03-14 | 186 | 18 | 
 | 2023-03-13 | 184 | 18 | 

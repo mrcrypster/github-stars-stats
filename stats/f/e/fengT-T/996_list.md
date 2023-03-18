@@ -1,6 +1,6 @@
 # fengT-T/996_list - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 797 | 89 | 
 | 2023-03-16 | 797 | 89 | 
 | 2023-03-15 | 797 | 89 | 
 | 2023-03-13 | 797 | 89 | 

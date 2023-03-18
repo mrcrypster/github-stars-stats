@@ -1,6 +1,6 @@
 # lxgw/LxgwMarkerGothic - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 231 | 5 | 
 | 2023-03-16 | 231 | 5 | 
 | 2023-03-15 | 229 | 5 | 
 | 2023-03-13 | 229 | 5 | 

@@ -1,6 +1,6 @@
 # flavorly/vanilla-components - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 103 | 10 | 
 | 2023-03-16 | 103 | 10 | 
 | 2023-03-14 | 101 | 10 | 
 | 2023-03-13 | 100 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 95 | 9 | 
 | 2023-02-17 | 95 | 9 | 
 | 2023-02-16 | 95 | 9 | 
-| 2023-02-15 | 94 | 9 | 
 

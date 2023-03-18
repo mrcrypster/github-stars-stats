@@ -1,10 +1,10 @@
 # zuramai/laravel-smm - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 25
 
-★ Stars: 53
+★ Stars: 51
 
 [Open repository](https://github.com/zuramai/laravel-smm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 51 | 25 | 
 | 2023-03-16 | 53 | 25 | 
 | 2023-03-15 | 53 | 25 | 
 | 2023-03-13 | 53 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 53 | 25 | 
 | 2023-02-18 | 53 | 25 | 
 | 2023-02-17 | 53 | 25 | 
-| 2023-02-15 | 53 | 25 | 
 

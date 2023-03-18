@@ -1,10 +1,10 @@
 # in28minutes/spring-boot-master-class - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 811
 
-★ Stars: 756
+★ Stars: 757
 
 [Open repository](https://github.com/in28minutes/spring-boot-master-class)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 757 | 811 | 
 | 2023-03-16 | 756 | 811 | 
 | 2023-03-15 | 755 | 810 | 
 | 2023-03-14 | 753 | 809 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 731 | 800 | 
 | 2023-02-17 | 728 | 800 | 
 | 2023-02-16 | 727 | 799 | 
-| 2023-02-15 | 727 | 799 | 
 

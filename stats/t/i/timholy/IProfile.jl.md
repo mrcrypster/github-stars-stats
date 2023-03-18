@@ -1,6 +1,6 @@
 # timholy/IProfile.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 16 | 15 | 
 | 2023-03-15 | 16 | 15 | 
 | 2023-03-14 | 16 | 15 | 
 | 2023-03-13 | 16 | 15 | 

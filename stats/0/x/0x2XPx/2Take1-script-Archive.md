@@ -1,10 +1,10 @@
 # 0x2XPx/2Take1-script-Archive - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 45
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/0x2XPx/2Take1-script-Archive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 28 | 45 | 
 | 2023-03-16 | 27 | 45 | 
 | 2023-03-15 | 27 | 45 | 
 | 2023-03-14 | 27 | 45 | 

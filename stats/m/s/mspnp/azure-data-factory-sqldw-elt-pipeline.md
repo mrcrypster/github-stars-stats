@@ -1,8 +1,8 @@
 # mspnp/azure-data-factory-sqldw-elt-pipeline - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 66 | 74 | 
 | 2023-03-16 | 66 | 73 | 
 | 2023-03-15 | 66 | 73 | 
 | 2023-03-14 | 65 | 73 | 

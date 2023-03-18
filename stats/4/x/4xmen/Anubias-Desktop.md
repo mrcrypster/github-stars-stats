@@ -1,10 +1,10 @@
 # 4xmen/Anubias-Desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 13
 
-★ Stars: 1525
+★ Stars: 1540
 
 [Open repository](https://github.com/4xmen/Anubias-Desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1540 | 13 | 
 | 2023-03-16 | 1525 | 13 | 
 | 2023-03-15 | 1516 | 13 | 
 | 2023-03-13 | 1498 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 750 | 6 | 
 | 2023-02-17 | 724 | 5 | 
 | 2023-02-16 | 686 | 5 | 
-| 2023-02-15 | 659 | 5 | 
 

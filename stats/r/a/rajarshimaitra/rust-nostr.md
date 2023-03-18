@@ -1,6 +1,6 @@
 # rajarshimaitra/rust-nostr - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 117 | 13 | 
 | 2023-03-16 | 117 | 13 | 
 | 2023-03-15 | 117 | 13 | 
 | 2023-03-13 | 117 | 13 | 

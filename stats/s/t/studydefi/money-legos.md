@@ -1,6 +1,6 @@
 # studydefi/money-legos - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 955 | 216 | 
 | 2023-03-16 | 955 | 216 | 
 | 2023-03-15 | 955 | 216 | 
 | 2023-03-14 | 955 | 216 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 953 | 216 | 
 | 2023-02-17 | 952 | 216 | 
 | 2023-02-16 | 951 | 216 | 
-| 2023-02-15 | 951 | 216 | 
 

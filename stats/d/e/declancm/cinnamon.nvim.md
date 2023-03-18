@@ -1,10 +1,10 @@
 # declancm/cinnamon.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 4
 
-★ Stars: 209
+★ Stars: 211
 
 [Open repository](https://github.com/declancm/cinnamon.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 211 | 4 | 
 | 2023-03-15 | 209 | 4 | 
 | 2023-03-14 | 209 | 4 | 
 | 2023-03-13 | 209 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 199 | 4 | 
 | 2023-02-17 | 198 | 4 | 
 | 2023-02-16 | 198 | 4 | 
-| 2023-02-15 | 198 | 4 | 
 

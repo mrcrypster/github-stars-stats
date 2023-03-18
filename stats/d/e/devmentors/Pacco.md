@@ -1,10 +1,10 @@
 # devmentors/Pacco - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 168
+☋ Forks: 169
 
-★ Stars: 662
+★ Stars: 664
 
 [Open repository](https://github.com/devmentors/Pacco)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 664 | 169 | 
 | 2023-03-16 | 662 | 168 | 
 

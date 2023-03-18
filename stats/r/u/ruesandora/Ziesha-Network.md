@@ -1,6 +1,6 @@
 # ruesandora/Ziesha-Network - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 235
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 94 | 235 | 
 | 2023-03-16 | 94 | 235 | 
 | 2023-03-15 | 94 | 235 | 
 | 2023-03-13 | 94 | 235 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 93 | 234 | 
 | 2023-02-17 | 93 | 234 | 
 | 2023-02-16 | 93 | 234 | 
-| 2023-02-15 | 93 | 234 | 
 

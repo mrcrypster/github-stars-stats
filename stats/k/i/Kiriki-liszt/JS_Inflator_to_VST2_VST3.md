@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/Kiriki-liszt/JS_Inflator_to_VST2_VST3)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-17 | 26 | 3 | 
+| 2023-03-17 | 28 | 3 | 
 | 2023-03-16 | 24 | 3 | 
 

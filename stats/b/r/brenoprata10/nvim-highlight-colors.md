@@ -1,6 +1,6 @@
 # brenoprata10/nvim-highlight-colors - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 142 | 8 | 
 | 2023-03-16 | 142 | 8 | 
 | 2023-03-15 | 142 | 7 | 
 | 2023-03-13 | 139 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 130 | 6 | 
 | 2023-02-17 | 130 | 6 | 
 | 2023-02-16 | 129 | 6 | 
-| 2023-02-15 | 129 | 6 | 
 

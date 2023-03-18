@@ -1,6 +1,6 @@
 # ORCx41/DeleteShadowCopies - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 105 | 23 | 
 | 2023-03-16 | 105 | 23 | 
 | 2023-03-14 | 105 | 23 | 
 | 2023-03-13 | 104 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 103 | 22 | 
 | 2023-02-17 | 103 | 22 | 
 | 2023-02-16 | 103 | 22 | 
-| 2023-02-15 | 103 | 22 | 
 

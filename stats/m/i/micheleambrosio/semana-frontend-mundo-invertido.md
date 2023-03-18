@@ -1,6 +1,6 @@
 # micheleambrosio/semana-frontend-mundo-invertido - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 19 | 29 | 
 | 2023-03-16 | 19 | 29 | 
 | 2023-03-15 | 19 | 29 | 
 | 2023-03-14 | 19 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 18 | 29 | 
 | 2023-02-17 | 18 | 29 | 
 | 2023-02-16 | 18 | 29 | 
-| 2023-02-15 | 18 | 29 | 
 

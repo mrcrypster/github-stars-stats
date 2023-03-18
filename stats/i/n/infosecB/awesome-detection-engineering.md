@@ -1,10 +1,10 @@
 # infosecB/awesome-detection-engineering - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 31
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/infosecB/awesome-detection-engineering)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 323 | 31 | 
 | 2023-03-16 | 322 | 31 | 
 | 2023-03-14 | 321 | 31 | 
 | 2023-03-13 | 320 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 311 | 30 | 
 | 2023-02-17 | 310 | 30 | 
 | 2023-02-16 | 310 | 30 | 
-| 2023-02-15 | 308 | 30 | 
 

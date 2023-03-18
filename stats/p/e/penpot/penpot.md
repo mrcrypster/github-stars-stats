@@ -1,10 +1,10 @@
 # penpot/penpot - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 973
 
-★ Stars: 21123
+★ Stars: 21141
 
 [Open repository](https://github.com/penpot/penpot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 21141 | 973 | 
 | 2023-03-16 | 21123 | 973 | 
 | 2023-03-15 | 21116 | 973 | 
 | 2023-03-14 | 21110 | 972 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 20764 | 943 | 
 | 2023-02-17 | 20738 | 941 | 
 | 2023-02-16 | 20717 | 940 | 
-| 2023-02-15 | 20715 | 940 | 
 

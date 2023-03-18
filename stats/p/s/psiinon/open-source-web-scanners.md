@@ -1,10 +1,10 @@
 # psiinon/open-source-web-scanners - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 76
 
-★ Stars: 464
+★ Stars: 466
 
 [Open repository](https://github.com/psiinon/open-source-web-scanners)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 466 | 76 | 
 | 2023-03-15 | 464 | 76 | 
 | 2023-03-14 | 464 | 76 | 
 | 2023-03-13 | 462 | 76 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 457 | 74 | 
 | 2023-02-17 | 457 | 74 | 
 | 2023-02-16 | 457 | 74 | 
-| 2023-02-15 | 457 | 74 | 
 

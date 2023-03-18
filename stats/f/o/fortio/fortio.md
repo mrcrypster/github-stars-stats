@@ -1,10 +1,10 @@
 # fortio/fortio - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 223
 
-★ Stars: 2854
+★ Stars: 2855
 
 [Open repository](https://github.com/fortio/fortio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 2855 | 223 | 
 | 2023-03-16 | 2854 | 223 | 
 | 2023-03-15 | 2854 | 223 | 
 | 2023-03-13 | 2853 | 223 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 2828 | 218 | 
 | 2023-02-17 | 2827 | 218 | 
 | 2023-02-16 | 2826 | 218 | 
-| 2023-02-15 | 2825 | 218 | 
 

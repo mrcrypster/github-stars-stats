@@ -1,6 +1,6 @@
 # Fnoberz/HWID-Spoofer - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 150 | 45 | 
 | 2023-03-15 | 150 | 45 | 
 | 2023-03-14 | 150 | 44 | 
 | 2023-03-13 | 149 | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 144 | 41 | 
 | 2023-02-17 | 144 | 40 | 
 | 2023-02-16 | 144 | 40 | 
-| 2023-02-15 | 142 | 40 | 
 

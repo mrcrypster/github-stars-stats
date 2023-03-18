@@ -1,6 +1,6 @@
 # Invicton-Labs/terraform-null-deepmerge - stars & forks statistics
 
-Stats updated on Mar 2023, 15
+Stats updated on Mar 2023, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 28 | 14 | 
 | 2023-03-15 | 28 | 14 | 
 | 2023-03-14 | 28 | 14 | 
 | 2023-03-12 | 28 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 15
 | 2023-02-18 | 26 | 12 | 
 | 2023-02-17 | 26 | 11 | 
 | 2023-02-16 | 26 | 11 | 
-| 2023-02-15 | 25 | 11 | 
 

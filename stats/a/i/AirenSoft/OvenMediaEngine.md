@@ -1,10 +1,10 @@
 # AirenSoft/OvenMediaEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 411
+☋ Forks: 415
 
-★ Stars: 1855
+★ Stars: 1860
 
 [Open repository](https://github.com/AirenSoft/OvenMediaEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 1860 | 415 | 
 | 2023-03-16 | 1855 | 411 | 
 | 2023-03-15 | 1853 | 407 | 
 | 2023-03-13 | 1849 | 405 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 1824 | 382 | 
 | 2023-02-17 | 1822 | 381 | 
 | 2023-02-16 | 1821 | 382 | 
-| 2023-02-15 | 1817 | 382 | 
 

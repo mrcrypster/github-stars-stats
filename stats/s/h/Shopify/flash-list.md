@@ -1,10 +1,10 @@
 # Shopify/flash-list - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 3455
+★ Stars: 3458
 
 [Open repository](https://github.com/Shopify/flash-list)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 3458 | 117 | 
 | 2023-03-16 | 3455 | 116 | 
 | 2023-03-14 | 3450 | 116 | 
 | 2023-03-13 | 3448 | 116 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 3353 | 107 | 
 | 2023-02-17 | 3348 | 107 | 
 | 2023-02-16 | 3343 | 107 | 
-| 2023-02-15 | 3340 | 107 | 
 

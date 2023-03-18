@@ -1,10 +1,10 @@
 # WordPress/twentytwentythree - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/WordPress/twentytwentythree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 118 | 61 | 
 | 2023-03-16 | 117 | 60 | 
 | 2023-03-14 | 117 | 60 | 
 | 2023-03-13 | 117 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-18 | 116 | 59 | 
 | 2023-02-17 | 116 | 59 | 
 | 2023-02-16 | 116 | 59 | 
-| 2023-02-15 | 116 | 59 | 
 

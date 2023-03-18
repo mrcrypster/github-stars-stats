@@ -1,10 +1,10 @@
 # netless-io/flat - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 17
 
-☋ Forks: 618
+☋ Forks: 621
 
-★ Stars: 4562
+★ Stars: 4567
 
 [Open repository](https://github.com/netless-io/flat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-17 | 4567 | 621 | 
 | 2023-03-16 | 4562 | 618 | 
 | 2023-03-14 | 4554 | 616 | 
 | 2023-03-13 | 4547 | 613 | 
