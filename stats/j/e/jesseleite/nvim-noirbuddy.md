@@ -1,6 +1,6 @@
 # jesseleite/nvim-noirbuddy - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 154 | 3 | 
 | 2023-03-17 | 154 | 3 | 
 | 2023-03-16 | 154 | 3 | 
 | 2023-03-15 | 155 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 151 | 2 | 
 | 2023-02-18 | 150 | 2 | 
 | 2023-02-17 | 150 | 2 | 
-| 2023-02-16 | 150 | 2 | 
 

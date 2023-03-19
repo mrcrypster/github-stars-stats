@@ -1,10 +1,10 @@
 # 907th/vim-auto-save - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 34
 
-★ Stars: 435
+★ Stars: 436
 
 [Open repository](https://github.com/907th/vim-auto-save)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 436 | 34 | 
 | 2023-03-17 | 435 | 34 | 
 | 2023-03-16 | 435 | 34 | 
 | 2023-03-15 | 435 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 434 | 34 | 
 | 2023-02-18 | 434 | 34 | 
 | 2023-02-17 | 434 | 34 | 
-| 2023-02-16 | 434 | 34 | 
 

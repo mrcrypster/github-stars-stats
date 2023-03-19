@@ -1,8 +1,8 @@
 # vuejs/vuex - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 9581
+☋ Forks: 9583
 
 ★ Stars: 27981
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 27981 | 9583 | 
 | 2023-03-17 | 27981 | 9581 | 
 | 2023-03-15 | 27978 | 9579 | 
 | 2023-03-14 | 27979 | 9580 | 

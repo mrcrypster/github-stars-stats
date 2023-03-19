@@ -1,10 +1,10 @@
 # rinongal/textual_inversion - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 222
 
-★ Stars: 2142
+★ Stars: 2144
 
 [Open repository](https://github.com/rinongal/textual_inversion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2144 | 222 | 
 | 2023-03-17 | 2142 | 222 | 
 | 2023-03-16 | 2133 | 222 | 
 | 2023-03-15 | 2131 | 220 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 2027 | 204 | 
 | 2023-02-19 | 2022 | 204 | 
 | 2023-02-17 | 2021 | 204 | 
-| 2023-02-16 | 2019 | 204 | 
 

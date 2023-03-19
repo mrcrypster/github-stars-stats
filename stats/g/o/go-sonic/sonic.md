@@ -1,10 +1,10 @@
 # go-sonic/sonic - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 129
+☋ Forks: 131
 
-★ Stars: 1350
+★ Stars: 1363
 
 [Open repository](https://github.com/go-sonic/sonic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1363 | 131 | 
 | 2023-03-16 | 1350 | 129 | 
 | 2023-03-15 | 1344 | 129 | 
 | 2023-03-14 | 1342 | 129 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1256 | 116 | 
 | 2023-02-18 | 1256 | 115 | 
 | 2023-02-17 | 1255 | 114 | 
-| 2023-02-16 | 1253 | 114 | 
 

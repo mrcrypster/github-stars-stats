@@ -1,10 +1,10 @@
 # wekan/wekan - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2776
 
-★ Stars: 18533
+★ Stars: 18536
 
 [Open repository](https://github.com/wekan/wekan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 18536 | 2776 | 
 | 2023-03-17 | 18533 | 2776 | 
 | 2023-03-16 | 18533 | 2777 | 
 | 2023-03-14 | 18530 | 2777 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 18480 | 2782 | 
 | 2023-02-18 | 18479 | 2782 | 
 | 2023-02-17 | 18477 | 2782 | 
-| 2023-02-16 | 18475 | 2782 | 
 

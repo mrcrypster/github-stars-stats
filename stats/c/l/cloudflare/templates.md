@@ -1,10 +1,10 @@
 # cloudflare/templates - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 387
+☋ Forks: 389
 
-★ Stars: 916
+★ Stars: 919
 
 [Open repository](https://github.com/cloudflare/templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 919 | 389 | 
 | 2023-03-17 | 916 | 387 | 
 | 2023-03-16 | 915 | 384 | 
 | 2023-03-14 | 915 | 382 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 905 | 345 | 
 | 2023-02-18 | 903 | 344 | 
 | 2023-02-17 | 902 | 341 | 
-| 2023-02-16 | 902 | 341 | 
 

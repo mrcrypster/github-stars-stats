@@ -1,10 +1,10 @@
 # mojochao/npm-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 21
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/mojochao/npm-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 49 | 21 | 
 | 2023-03-17 | 48 | 21 | 
 | 2023-03-15 | 48 | 21 | 
 | 2023-03-14 | 48 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 48 | 21 | 
 | 2023-02-18 | 48 | 21 | 
 | 2023-02-17 | 48 | 21 | 
-| 2023-02-16 | 48 | 21 | 
 

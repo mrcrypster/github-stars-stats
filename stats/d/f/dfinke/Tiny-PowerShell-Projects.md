@@ -1,6 +1,6 @@
 # dfinke/Tiny-PowerShell-Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 183 | 19 | 
 | 2023-03-16 | 183 | 19 | 
 | 2023-03-15 | 182 | 19 | 
 | 2023-03-13 | 182 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 169 | 17 | 
 | 2023-02-18 | 169 | 17 | 
 | 2023-02-17 | 168 | 17 | 
-| 2023-02-16 | 167 | 17 | 
 

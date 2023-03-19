@@ -1,10 +1,10 @@
 # Sycnex/Windows10Debloater - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1963
+☋ Forks: 1965
 
-★ Stars: 16207
+★ Stars: 16220
 
 [Open repository](https://github.com/Sycnex/Windows10Debloater)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 16220 | 1965 | 
 | 2023-03-17 | 16207 | 1963 | 
 | 2023-03-15 | 16200 | 1961 | 
 | 2023-03-14 | 16188 | 1961 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 16036 | 1960 | 
 | 2023-02-18 | 16031 | 1960 | 
 | 2023-02-17 | 16017 | 1962 | 
-| 2023-02-16 | 16010 | 1960 | 
 

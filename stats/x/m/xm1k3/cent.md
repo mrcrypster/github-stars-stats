@@ -1,10 +1,10 @@
 # xm1k3/cent - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 101
 
-★ Stars: 511
+★ Stars: 512
 
 [Open repository](https://github.com/xm1k3/cent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 512 | 101 | 
 | 2023-03-16 | 511 | 101 | 
 | 2023-03-15 | 509 | 101 | 
 | 2023-03-14 | 506 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 489 | 97 | 
 | 2023-02-18 | 487 | 97 | 
 | 2023-02-17 | 483 | 96 | 
-| 2023-02-16 | 482 | 95 | 
 

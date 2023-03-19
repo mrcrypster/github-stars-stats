@@ -1,6 +1,6 @@
 # copyleft-next/copyleft-next - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 135 | 14 | 
 | 2023-03-17 | 135 | 14 | 
 | 2023-03-16 | 135 | 14 | 
 | 2023-03-14 | 135 | 14 | 

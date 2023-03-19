@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 18
 
-☋ Forks: 12686
+☋ Forks: 12691
 
-★ Stars: 27310
+★ Stars: 27313
 
 [Open repository](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 27310 | 12686 | 
+| 2023-03-18 | 27313 | 12691 | 
 | 2023-03-17 | 27310 | 12686 | 
 | 2023-03-16 | 27292 | 12675 | 
 | 2023-03-15 | 27272 | 12648 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 27001 | 12361 | 
 | 2023-02-18 | 26992 | 12351 | 
 | 2023-02-17 | 26976 | 12339 | 
-| 2023-02-16 | 26970 | 12331 | 
 

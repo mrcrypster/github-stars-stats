@@ -1,10 +1,10 @@
 # tsjazil/luavim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/tsjazil/luavim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 63 | - | 
 | 2023-03-16 | 64 | - | 
 | 2023-03-15 | 64 | - | 
 | 2023-03-14 | 64 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 65 | - | 
 | 2023-02-18 | 65 | - | 
 | 2023-02-17 | 65 | - | 
-| 2023-02-16 | 65 | - | 
 

@@ -1,10 +1,10 @@
 # geometryresearch/semacaulk - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 35
 
 [Open repository](https://github.com/geometryresearch/semacaulk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 35 | 2 | 
 | 2023-03-16 | 32 | 2 | 
 | 2023-03-15 | 32 | 2 | 
 | 2023-03-13 | 32 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 29 | 2 | 
 | 2023-02-18 | 29 | 2 | 
 | 2023-02-17 | 29 | 2 | 
-| 2023-02-16 | 28 | 1 | 
 

@@ -1,6 +1,6 @@
 # google/go-cloud - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 763
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 8927 | 763 | 
 | 2023-03-17 | 8927 | 763 | 
 | 2023-03-15 | 8927 | 763 | 
 | 2023-03-14 | 8925 | 763 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 8885 | 757 | 
 | 2023-02-18 | 8879 | 757 | 
 | 2023-02-17 | 8874 | 756 | 
-| 2023-02-16 | 8874 | 756 | 
 

@@ -1,10 +1,10 @@
 # pluralsh/plural-artifacts - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 17
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/pluralsh/plural-artifacts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 29 | 17 | 
 | 2023-03-16 | 28 | 17 | 
 | 2023-03-15 | 28 | 16 | 
 | 2023-03-14 | 28 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 26 | 14 | 
 | 2023-02-18 | 26 | 14 | 
 | 2023-02-17 | 26 | 14 | 
-| 2023-02-16 | 26 | 14 | 
 

@@ -1,6 +1,6 @@
 # hrynko/vue-pdf-embed - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 258 | 46 | 
 | 2023-03-16 | 258 | 46 | 
 | 2023-03-15 | 256 | 46 | 
 | 2023-03-14 | 254 | 46 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 225 | 43 | 
 | 2023-02-18 | 224 | 43 | 
 | 2023-02-17 | 224 | 43 | 
-| 2023-02-16 | 224 | 43 | 
 

@@ -1,10 +1,10 @@
 # Sammyjo20/Saloon - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 64
 
-★ Stars: 1294
+★ Stars: 1298
 
 [Open repository](https://github.com/Sammyjo20/Saloon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1298 | 64 | 
 | 2023-03-17 | 1294 | 64 | 
 | 2023-03-15 | 1293 | 64 | 
 | 2023-03-14 | 1289 | 64 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1033 | 46 | 
 | 2023-02-18 | 1030 | 46 | 
 | 2023-02-17 | 1030 | 46 | 
-| 2023-02-16 | 1029 | 46 | 
 

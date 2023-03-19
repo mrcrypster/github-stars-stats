@@ -1,10 +1,10 @@
 # RotBotSlicer/Transform - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 39
 
-★ Stars: 141
+★ Stars: 144
 
 [Open repository](https://github.com/RotBotSlicer/Transform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 144 | 39 | 
 | 2023-03-17 | 141 | 39 | 
 | 2023-03-16 | 141 | 39 | 
 | 2023-03-14 | 139 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 137 | 37 | 
 | 2023-02-18 | 137 | 37 | 
 | 2023-02-17 | 137 | 37 | 
-| 2023-02-16 | 137 | 37 | 
 

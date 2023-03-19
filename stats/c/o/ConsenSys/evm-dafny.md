@@ -1,8 +1,8 @@
 # ConsenSys/evm-dafny - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2
+☋ Forks: 1
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 49 | 1 | 
 | 2023-03-16 | 49 | 2 | 
 | 2023-03-15 | 49 | 1 | 
 | 2023-03-14 | 49 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 45 | 1 | 
 | 2023-02-18 | 45 | 1 | 
 | 2023-02-17 | 45 | 1 | 
-| 2023-02-16 | 45 | 1 | 
 

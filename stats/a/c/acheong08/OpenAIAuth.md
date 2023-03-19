@@ -1,10 +1,10 @@
 # acheong08/OpenAIAuth - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 207
+★ Stars: 210
 
 [Open repository](https://github.com/acheong08/OpenAIAuth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 210 | 55 | 
 | 2023-03-17 | 207 | 54 | 
 | 2023-03-15 | 205 | 54 | 
 | 2023-03-14 | 203 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 106 | 26 | 
 | 2023-02-18 | 100 | 25 | 
 | 2023-02-17 | 97 | 24 | 
-| 2023-02-16 | 91 | 22 | 
 

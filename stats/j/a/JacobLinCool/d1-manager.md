@@ -1,10 +1,10 @@
 # JacobLinCool/d1-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/JacobLinCool/d1-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 33 | 1 | 
 | 2023-03-17 | 32 | 1 | 
 | 2023-03-16 | 32 | 1 | 
 | 2023-03-15 | 31 | 1 | 

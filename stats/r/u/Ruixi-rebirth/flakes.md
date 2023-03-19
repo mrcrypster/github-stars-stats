@@ -1,10 +1,10 @@
 # Ruixi-rebirth/flakes - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 21
 
-★ Stars: 214
+★ Stars: 217
 
 [Open repository](https://github.com/Ruixi-rebirth/flakes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 217 | 21 | 
 | 2023-03-16 | 214 | 21 | 
 | 2023-03-15 | 211 | 21 | 
 | 2023-03-14 | 211 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 171 | 19 | 
 | 2023-02-18 | 170 | 19 | 
 | 2023-02-17 | 167 | 18 | 
-| 2023-02-16 | 166 | 18 | 
 

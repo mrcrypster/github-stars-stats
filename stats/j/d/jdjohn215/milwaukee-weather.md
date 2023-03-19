@@ -1,6 +1,6 @@
 # jdjohn215/milwaukee-weather - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 50 | 12 | 
 | 2023-03-16 | 50 | 12 | 
 | 2023-03-15 | 50 | 12 | 
 | 2023-03-14 | 50 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 50 | 12 | 
 | 2023-02-19 | 50 | 12 | 
 | 2023-02-18 | 50 | 12 | 
-| 2023-02-17 | 50 | 12 | 
 

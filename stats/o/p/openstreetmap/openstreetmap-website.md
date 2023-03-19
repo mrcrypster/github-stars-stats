@@ -1,10 +1,10 @@
 # openstreetmap/openstreetmap-website - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 833
 
-★ Stars: 1732
+★ Stars: 1733
 
 [Open repository](https://github.com/openstreetmap/openstreetmap-website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1733 | 833 | 
 | 2023-03-17 | 1732 | 833 | 
 | 2023-03-15 | 1731 | 833 | 
 | 2023-03-14 | 1731 | 834 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1720 | 829 | 
 | 2023-02-18 | 1719 | 828 | 
 | 2023-02-17 | 1718 | 828 | 
-| 2023-02-16 | 1718 | 828 | 
 

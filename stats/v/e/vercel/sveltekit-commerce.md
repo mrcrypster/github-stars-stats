@@ -1,8 +1,8 @@
 # vercel/sveltekit-commerce - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 238
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 238 | 28 | 
 | 2023-03-16 | 238 | 27 | 
 | 2023-03-15 | 238 | 27 | 
 | 2023-03-14 | 238 | 27 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 227 | 24 | 
 | 2023-02-19 | 228 | 24 | 
 | 2023-02-18 | 228 | 23 | 
-| 2023-02-17 | 228 | 23 | 
 

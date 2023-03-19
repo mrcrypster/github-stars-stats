@@ -1,6 +1,6 @@
 # 3masterplus/book - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 576
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1240 | 576 | 
 | 2023-03-17 | 1240 | 576 | 
 | 2023-03-16 | 1238 | 575 | 
 | 2023-03-15 | 1238 | 573 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1212 | 561 | 
 | 2023-02-18 | 1211 | 561 | 
 | 2023-02-17 | 1210 | 560 | 
-| 2023-02-16 | 1208 | 560 | 
 

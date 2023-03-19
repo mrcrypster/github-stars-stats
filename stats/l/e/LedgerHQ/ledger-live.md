@@ -1,10 +1,10 @@
 # LedgerHQ/ledger-live - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 202
 
-★ Stars: 240
+★ Stars: 242
 
 [Open repository](https://github.com/LedgerHQ/ledger-live)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 242 | 202 | 
 | 2023-03-16 | 240 | 202 | 
 | 2023-03-15 | 239 | 202 | 
 | 2023-03-14 | 238 | 199 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 227 | 191 | 
 | 2023-02-18 | 225 | 191 | 
 | 2023-02-17 | 225 | 191 | 
-| 2023-02-16 | 223 | 189 | 
 

@@ -1,10 +1,10 @@
 # HemulGM/ChatGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/HemulGM/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 37 | 5 | 
 | 2023-03-16 | 36 | 5 | 
 | 2023-03-15 | 35 | 5 | 
 | 2023-03-14 | 35 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 30 | 3 | 
 | 2023-02-19 | 30 | 3 | 
 | 2023-02-18 | 30 | 2 | 
-| 2023-02-16 | 30 | 2 | 
 

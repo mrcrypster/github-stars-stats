@@ -1,8 +1,8 @@
 # ethereum/solc-js - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 397
+☋ Forks: 402
 
 ★ Stars: 1248
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1248 | 402 | 
 | 2023-03-17 | 1248 | 397 | 
 | 2023-03-16 | 1246 | 394 | 
 | 2023-03-14 | 1242 | 390 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1230 | 316 | 
 | 2023-02-18 | 1230 | 313 | 
 | 2023-02-17 | 1230 | 311 | 
-| 2023-02-16 | 1230 | 308 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 18
 
 ☋ Forks: 907
 
-★ Stars: 6056
+★ Stars: 6063
 
 [Open repository](https://github.com/filamentphp/filament)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 6056 | 907 | 
+| 2023-03-18 | 6063 | 907 | 
 | 2023-03-17 | 6051 | 905 | 
 | 2023-03-16 | 6038 | 904 | 
 | 2023-03-15 | 6000 | 901 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 5795 | 850 | 
 | 2023-02-18 | 5790 | 849 | 
 | 2023-02-17 | 5789 | 849 | 
-| 2023-02-16 | 5779 | 847 | 
 

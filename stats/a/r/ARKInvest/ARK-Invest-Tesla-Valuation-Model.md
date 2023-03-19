@@ -1,6 +1,6 @@
 # ARKInvest/ARK-Invest-Tesla-Valuation-Model - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1061 | 134 | 
 | 2023-03-16 | 1061 | 134 | 
 | 2023-03-15 | 1061 | 134 | 
 | 2023-03-14 | 1062 | 134 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1063 | 134 | 
 | 2023-02-18 | 1062 | 134 | 
 | 2023-02-17 | 1062 | 134 | 
-| 2023-02-16 | 1062 | 134 | 
 

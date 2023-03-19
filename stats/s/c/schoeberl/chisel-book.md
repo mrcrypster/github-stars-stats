@@ -1,10 +1,10 @@
 # schoeberl/chisel-book - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 118
 
-★ Stars: 548
+★ Stars: 549
 
 [Open repository](https://github.com/schoeberl/chisel-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 549 | 118 | 
 | 2023-03-17 | 548 | 118 | 
 | 2023-03-16 | 548 | 118 | 
 | 2023-03-14 | 548 | 118 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 536 | 118 | 
 | 2023-02-18 | 536 | 118 | 
 | 2023-02-17 | 536 | 118 | 
-| 2023-02-16 | 535 | 118 | 
 

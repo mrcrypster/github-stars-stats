@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 18
 
 ☋ Forks: 57
 
-★ Stars: 488
+★ Stars: 490
 
 [Open repository](https://github.com/chvancooten/NimPlant)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 488 | 57 | 
+| 2023-03-18 | 490 | 57 | 
 | 2023-03-17 | 488 | 57 | 
 | 2023-03-16 | 486 | 57 | 
 | 2023-03-15 | 486 | 56 | 

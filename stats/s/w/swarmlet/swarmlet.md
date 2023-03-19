@@ -1,10 +1,10 @@
 # swarmlet/swarmlet - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 44
 
-★ Stars: 797
+★ Stars: 798
 
 [Open repository](https://github.com/swarmlet/swarmlet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 798 | 44 | 
 | 2023-03-17 | 797 | 44 | 
 | 2023-03-16 | 797 | 44 | 
 | 2023-03-14 | 797 | 44 | 

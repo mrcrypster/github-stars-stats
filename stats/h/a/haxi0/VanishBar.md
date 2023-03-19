@@ -1,10 +1,10 @@
 # haxi0/VanishBar - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 28
 
 [Open repository](https://github.com/haxi0/VanishBar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 28 | 1 | 
 | 2023-03-17 | 29 | 1 | 
 | 2023-03-15 | 29 | 1 | 
 | 2023-03-14 | 29 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 27 | 1 | 
 | 2023-02-18 | 27 | 1 | 
 | 2023-02-17 | 27 | 1 | 
-| 2023-02-16 | 27 | 1 | 
 

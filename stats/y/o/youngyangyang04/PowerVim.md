@@ -1,10 +1,10 @@
 # youngyangyang04/PowerVim - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 179
 
-★ Stars: 996
+★ Stars: 1001
 
 [Open repository](https://github.com/youngyangyang04/PowerVim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1001 | 179 | 
 | 2023-03-17 | 996 | 179 | 
 | 2023-03-16 | 995 | 179 | 
 | 2023-03-15 | 992 | 178 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 943 | 173 | 
 | 2023-02-18 | 941 | 172 | 
 | 2023-02-17 | 938 | 170 | 
-| 2023-02-16 | 937 | 169 | 
 

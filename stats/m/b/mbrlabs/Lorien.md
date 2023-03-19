@@ -1,10 +1,10 @@
 # mbrlabs/Lorien - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 144
 
-★ Stars: 3761
+★ Stars: 3763
 
 [Open repository](https://github.com/mbrlabs/Lorien)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 3763 | 144 | 
 | 2023-03-17 | 3761 | 144 | 
 | 2023-03-16 | 3759 | 144 | 
 | 2023-03-15 | 3756 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 3707 | 141 | 
 | 2023-02-18 | 3703 | 142 | 
 | 2023-02-17 | 3701 | 142 | 
-| 2023-02-16 | 3701 | 142 | 
 

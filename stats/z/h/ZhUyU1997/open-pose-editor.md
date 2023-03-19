@@ -1,10 +1,10 @@
 # ZhUyU1997/open-pose-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 159
+★ Stars: 167
 
 [Open repository](https://github.com/ZhUyU1997/open-pose-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 167 | 21 | 
 | 2023-03-17 | 159 | 20 | 
 | 2023-03-16 | 150 | 18 | 
 | 2023-03-15 | 137 | 15 | 

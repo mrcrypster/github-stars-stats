@@ -1,10 +1,10 @@
 # recogni/svlib - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/recogni/svlib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 15 | 5 | 
 | 2023-03-17 | 14 | 5 | 
 | 2023-03-16 | 14 | 5 | 
 | 2023-03-14 | 14 | 5 | 

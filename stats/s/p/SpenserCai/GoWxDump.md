@@ -1,10 +1,10 @@
 # SpenserCai/GoWxDump - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 491
+★ Stars: 496
 
 [Open repository](https://github.com/SpenserCai/GoWxDump)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 496 | 59 | 
 | 2023-03-17 | 491 | 58 | 
 | 2023-03-15 | 485 | 57 | 
 | 2023-03-14 | 473 | 57 | 

@@ -1,6 +1,6 @@
 # tomas-abrahamsson/gpb - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 509 | 146 | 
 | 2023-03-17 | 509 | 146 | 
 | 2023-03-16 | 508 | 145 | 
 | 2023-03-14 | 508 | 145 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 507 | 144 | 
 | 2023-02-18 | 507 | 144 | 
 | 2023-02-17 | 507 | 144 | 
-| 2023-02-16 | 507 | 144 | 
 

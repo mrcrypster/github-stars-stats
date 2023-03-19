@@ -1,6 +1,6 @@
 # sarveshrulz/nixos_config - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 24 | 1 | 
 | 2023-03-17 | 24 | 1 | 
 | 2023-03-16 | 24 | 1 | 
 | 2023-03-14 | 24 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 22 | 1 | 
 | 2023-02-18 | 22 | 1 | 
 | 2023-02-17 | 22 | 1 | 
-| 2023-02-16 | 22 | 1 | 
 

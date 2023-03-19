@@ -1,10 +1,10 @@
 # winsw/winsw - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1330
 
-★ Stars: 8754
+★ Stars: 8755
 
 [Open repository](https://github.com/winsw/winsw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 8755 | 1330 | 
 | 2023-03-17 | 8754 | 1330 | 
 | 2023-03-16 | 8749 | 1330 | 
 | 2023-03-14 | 8737 | 1324 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 8622 | 1319 | 
 | 2023-02-18 | 8614 | 1317 | 
 | 2023-02-17 | 8608 | 1316 | 
-| 2023-02-16 | 8599 | 1316 | 
 

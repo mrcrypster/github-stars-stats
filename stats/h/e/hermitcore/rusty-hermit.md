@@ -1,6 +1,6 @@
 # hermitcore/rusty-hermit - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1299 | 65 | 
 | 2023-03-17 | 1299 | 65 | 
 | 2023-03-16 | 1299 | 65 | 
 | 2023-03-14 | 1299 | 65 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1282 | 64 | 
 | 2023-02-18 | 1281 | 64 | 
 | 2023-02-17 | 1280 | 64 | 
-| 2023-02-16 | 1280 | 64 | 
 

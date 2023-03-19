@@ -1,8 +1,8 @@
 # google/iosched - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 6271
+☋ Forks: 6272
 
 ★ Stars: 21722
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 21722 | 6272 | 
 | 2023-03-16 | 21722 | 6271 | 
 | 2023-03-15 | 21720 | 6271 | 
 | 2023-03-14 | 21721 | 6272 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 21726 | 6277 | 
 | 2023-02-18 | 21726 | 6278 | 
 | 2023-02-17 | 21727 | 6278 | 
-| 2023-02-16 | 21727 | 6278 | 
 

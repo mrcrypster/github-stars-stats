@@ -1,6 +1,6 @@
 # USMortality/charts - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 7 | 1 | 
 | 2023-03-17 | 7 | 1 | 
 | 2023-03-15 | 7 | 1 | 
 | 2023-03-14 | 7 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 6 | - | 
 | 2023-02-19 | 6 | - | 
 | 2023-02-18 | 6 | - | 
-| 2023-02-16 | 6 | - | 
 

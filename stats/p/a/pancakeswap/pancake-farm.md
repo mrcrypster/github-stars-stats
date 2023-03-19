@@ -1,8 +1,8 @@
 # pancakeswap/pancake-farm - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 766
+☋ Forks: 765
 
 ★ Stars: 422
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 422 | 765 | 
 | 2023-03-16 | 422 | 766 | 
 | 2023-03-15 | 421 | 766 | 
 | 2023-03-13 | 421 | 766 | 

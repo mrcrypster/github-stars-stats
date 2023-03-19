@@ -1,8 +1,8 @@
 # MicrosoftDocs/power-automate-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 239
+☋ Forks: 240
 
 ★ Stars: 176
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 176 | 240 | 
 | 2023-03-17 | 176 | 239 | 
 | 2023-03-16 | 176 | 239 | 
 | 2023-03-14 | 176 | 239 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 174 | 232 | 
 | 2023-02-18 | 173 | 232 | 
 | 2023-02-17 | 172 | 232 | 
-| 2023-02-16 | 168 | 232 | 
 

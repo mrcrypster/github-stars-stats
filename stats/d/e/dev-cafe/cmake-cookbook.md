@@ -1,10 +1,10 @@
 # dev-cafe/cmake-cookbook - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 582
 
-★ Stars: 2162
+★ Stars: 2164
 
 [Open repository](https://github.com/dev-cafe/cmake-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2164 | 582 | 
 | 2023-03-17 | 2162 | 582 | 
 | 2023-03-16 | 2159 | 580 | 
 | 2023-03-15 | 2157 | 578 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 2114 | 565 | 
 | 2023-02-18 | 2112 | 565 | 
 | 2023-02-17 | 2113 | 565 | 
-| 2023-02-16 | 2109 | 565 | 
 

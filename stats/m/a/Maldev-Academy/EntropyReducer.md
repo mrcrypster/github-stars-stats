@@ -1,10 +1,10 @@
 # Maldev-Academy/EntropyReducer - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/Maldev-Academy/EntropyReducer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 123 | 19 | 
 | 2023-03-17 | 122 | 18 | 
 | 2023-03-15 | 122 | 18 | 
 | 2023-03-14 | 117 | 17 | 

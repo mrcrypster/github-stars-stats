@@ -1,6 +1,6 @@
 # big-data-europe/docker-hadoop-spark-workbench - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 362
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 650 | 362 | 
 | 2023-03-17 | 650 | 362 | 
 | 2023-03-16 | 650 | 362 | 
 | 2023-03-15 | 650 | 362 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 648 | 359 | 
 | 2023-02-18 | 648 | 359 | 
 | 2023-02-17 | 648 | 359 | 
-| 2023-02-16 | 648 | 359 | 
 

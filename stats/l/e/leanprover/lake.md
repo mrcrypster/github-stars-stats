@@ -1,6 +1,6 @@
 # leanprover/lake - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 72 | 16 | 
 | 2023-03-16 | 72 | 16 | 
 | 2023-03-15 | 72 | 17 | 
 | 2023-03-14 | 72 | 17 | 

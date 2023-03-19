@@ -1,10 +1,10 @@
 # sky-map-team/stardroid - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 218
 
-★ Stars: 721
+★ Stars: 720
 
 [Open repository](https://github.com/sky-map-team/stardroid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 720 | 218 | 
 | 2023-03-17 | 721 | 218 | 
 | 2023-03-16 | 720 | 219 | 
 | 2023-03-14 | 719 | 219 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 714 | 217 | 
 | 2023-02-18 | 714 | 217 | 
 | 2023-02-17 | 714 | 217 | 
-| 2023-02-16 | 714 | 217 | 
 

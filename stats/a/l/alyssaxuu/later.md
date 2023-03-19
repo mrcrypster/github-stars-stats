@@ -1,6 +1,6 @@
 # alyssaxuu/later - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1041 | 40 | 
 | 2023-03-16 | 1041 | 40 | 
 | 2023-03-15 | 1041 | 40 | 
 | 2023-03-14 | 1041 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 1005 | 37 | 
 | 2023-02-19 | 1003 | 37 | 
 | 2023-02-18 | 1002 | 37 | 
-| 2023-02-17 | 1001 | 37 | 
 

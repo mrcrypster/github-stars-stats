@@ -1,6 +1,6 @@
 # rchain/rchain - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 687 | 215 | 
 | 2023-03-16 | 687 | 215 | 
 | 2023-03-15 | 687 | 215 | 
 | 2023-03-14 | 687 | 215 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 678 | 216 | 
 | 2023-02-18 | 678 | 216 | 
 | 2023-02-17 | 678 | 216 | 
-| 2023-02-16 | 678 | 216 | 
 

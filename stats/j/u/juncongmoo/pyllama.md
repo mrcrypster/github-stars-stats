@@ -1,10 +1,10 @@
 # juncongmoo/pyllama - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 61
+☋ Forks: 65
 
-★ Stars: 540
+★ Stars: 588
 
 [Open repository](https://github.com/juncongmoo/pyllama)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 588 | 65 | 
 | 2023-03-17 | 540 | 61 | 
 | 2023-03-16 | 448 | 54 | 
 | 2023-03-14 | 383 | 37 | 

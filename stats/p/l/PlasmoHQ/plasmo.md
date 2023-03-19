@@ -1,10 +1,10 @@
 # PlasmoHQ/plasmo - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 154
 
-★ Stars: 5539
+★ Stars: 5542
 
 [Open repository](https://github.com/PlasmoHQ/plasmo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 5542 | 154 | 
 | 2023-03-17 | 5539 | 154 | 
 | 2023-03-16 | 5512 | 153 | 
 | 2023-03-15 | 5500 | 153 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 5292 | 139 | 
 | 2023-02-18 | 5288 | 139 | 
 | 2023-02-17 | 5273 | 139 | 
-| 2023-02-16 | 5255 | 139 | 
 

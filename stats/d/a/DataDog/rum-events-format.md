@@ -1,6 +1,6 @@
 # DataDog/rum-events-format - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 8 | 1 | 
 | 2023-03-17 | 8 | 1 | 
 | 2023-03-16 | 8 | 1 | 
 | 2023-03-15 | 8 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 8 | - | 
 | 2023-02-18 | 8 | - | 
 | 2023-02-17 | 8 | - | 
-| 2023-02-16 | 8 | - | 
 

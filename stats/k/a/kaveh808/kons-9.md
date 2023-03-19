@@ -1,6 +1,6 @@
 # kaveh808/kons-9 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 436 | 25 | 
 | 2023-03-16 | 436 | 25 | 
 | 2023-03-15 | 436 | 25 | 
 | 2023-03-14 | 436 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 432 | 26 | 
 | 2023-02-18 | 432 | 26 | 
 | 2023-02-17 | 432 | 26 | 
-| 2023-02-16 | 432 | 26 | 
 

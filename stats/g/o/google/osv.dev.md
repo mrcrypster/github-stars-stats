@@ -1,6 +1,6 @@
 # google/osv.dev - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1047 | 118 | 
 | 2023-03-17 | 1047 | 118 | 
 | 2023-03-15 | 1045 | 116 | 
 | 2023-03-14 | 1043 | 116 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1016 | 113 | 
 | 2023-02-19 | 1012 | 113 | 
 | 2023-02-18 | 1003 | 113 | 
-| 2023-02-17 | 998 | 113 | 
 

@@ -1,8 +1,8 @@
 # bradtraversy/project-mgmt-graphql - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 169
+☋ Forks: 170
 
 ★ Stars: 256
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 256 | 170 | 
 | 2023-03-17 | 256 | 169 | 
 | 2023-03-16 | 256 | 168 | 
 | 2023-03-14 | 256 | 169 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 250 | 160 | 
 | 2023-02-18 | 250 | 159 | 
 | 2023-02-17 | 250 | 159 | 
-| 2023-02-16 | 250 | 159 | 
 

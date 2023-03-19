@@ -1,6 +1,6 @@
 # retrohub-org/retrohub - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 43 | 3 | 
 | 2023-03-17 | 43 | 3 | 
 | 2023-03-16 | 39 | 3 | 
 | 2023-03-14 | 37 | 3 | 

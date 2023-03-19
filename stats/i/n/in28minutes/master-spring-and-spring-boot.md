@@ -1,10 +1,10 @@
 # in28minutes/master-spring-and-spring-boot - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 151
+☋ Forks: 150
 
-★ Stars: 217
+★ Stars: 220
 
 [Open repository](https://github.com/in28minutes/master-spring-and-spring-boot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 220 | 150 | 
 | 2023-03-17 | 217 | 151 | 
 | 2023-03-16 | 215 | 149 | 
 | 2023-03-14 | 214 | 149 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 163 | 109 | 
 | 2023-02-18 | 161 | 109 | 
 | 2023-02-17 | 161 | 106 | 
-| 2023-02-16 | 159 | 106 | 
 

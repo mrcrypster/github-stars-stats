@@ -1,10 +1,10 @@
 # PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 218 | 19 | 
 | 2023-03-16 | 217 | 18 | 
 | 2023-03-15 | 215 | 18 | 
 | 2023-03-14 | 215 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 178 | 15 | 
 | 2023-02-18 | 178 | 15 | 
 | 2023-02-17 | 176 | 14 | 
-| 2023-02-16 | 173 | 14 | 
 

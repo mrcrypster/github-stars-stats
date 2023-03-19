@@ -1,6 +1,6 @@
 # wanghenshui/cppweeklynews - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 173 | 11 | 
 | 2023-03-16 | 173 | 11 | 
 | 2023-03-15 | 173 | 11 | 
 | 2023-03-14 | 172 | 11 | 

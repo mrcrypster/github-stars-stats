@@ -1,10 +1,10 @@
 # fholger/openvr_fsr - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 64
 
-★ Stars: 1548
+★ Stars: 1549
 
 [Open repository](https://github.com/fholger/openvr_fsr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1549 | 64 | 
 | 2023-03-17 | 1548 | 64 | 
 | 2023-03-16 | 1548 | 64 | 
 | 2023-03-15 | 1548 | 64 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1530 | 62 | 
 | 2023-02-18 | 1529 | 62 | 
 | 2023-02-17 | 1529 | 62 | 
-| 2023-02-16 | 1529 | 62 | 
 

@@ -1,6 +1,6 @@
 # ZipCPU/zipcpu - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1006 | 133 | 
 | 2023-03-17 | 1006 | 133 | 
 | 2023-03-16 | 1005 | 133 | 
 | 2023-03-14 | 1003 | 133 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 986 | 127 | 
 | 2023-02-18 | 983 | 127 | 
 | 2023-02-17 | 983 | 127 | 
-| 2023-02-16 | 983 | 126 | 
 

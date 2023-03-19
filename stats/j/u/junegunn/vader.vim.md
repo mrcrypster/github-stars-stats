@@ -1,10 +1,10 @@
 # junegunn/vader.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 41
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/junegunn/vader.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 564 | 41 | 
 | 2023-03-16 | 563 | 41 | 
 | 2023-03-15 | 563 | 41 | 
 | 2023-03-14 | 563 | 41 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 563 | 41 | 
 | 2023-02-18 | 563 | 41 | 
 | 2023-02-17 | 563 | 41 | 
-| 2023-02-16 | 563 | 41 | 
 

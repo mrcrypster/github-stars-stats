@@ -1,6 +1,6 @@
 # rasmusbergpalm/DeepLearnToolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2300
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 3711 | 2300 | 
 | 2023-03-17 | 3711 | 2300 | 
 | 2023-03-16 | 3711 | 2301 | 
 | 2023-03-14 | 3709 | 2301 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 3704 | 2300 | 
 | 2023-02-18 | 3704 | 2300 | 
 | 2023-02-17 | 3703 | 2300 | 
-| 2023-02-16 | 3703 | 2300 | 
 

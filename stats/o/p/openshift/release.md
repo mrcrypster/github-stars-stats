@@ -1,10 +1,10 @@
 # openshift/release - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1315
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/openshift/release)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 210 | 1315 | 
 | 2023-03-17 | 209 | 1315 | 
 | 2023-03-16 | 208 | 1314 | 
 | 2023-03-15 | 208 | 1314 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 208 | 1280 | 
 | 2023-02-18 | 207 | 1280 | 
 | 2023-02-17 | 207 | 1280 | 
-| 2023-02-16 | 207 | 1278 | 
 

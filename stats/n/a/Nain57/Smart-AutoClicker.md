@@ -1,10 +1,10 @@
 # Nain57/Smart-AutoClicker - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 138
 
-★ Stars: 552
+★ Stars: 554
 
 [Open repository](https://github.com/Nain57/Smart-AutoClicker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 554 | 138 | 
 | 2023-03-17 | 552 | 138 | 
 | 2023-03-16 | 548 | 137 | 
 | 2023-03-14 | 546 | 138 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 523 | 130 | 
 | 2023-02-18 | 523 | 130 | 
 | 2023-02-17 | 520 | 129 | 
-| 2023-02-16 | 517 | 128 | 
 

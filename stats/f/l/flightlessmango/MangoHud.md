@@ -1,10 +1,10 @@
 # flightlessmango/MangoHud - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 190
 
-★ Stars: 4567
+★ Stars: 4571
 
 [Open repository](https://github.com/flightlessmango/MangoHud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 4571 | 190 | 
 | 2023-03-16 | 4567 | 190 | 
 | 2023-03-15 | 4564 | 190 | 
 | 2023-03-14 | 4561 | 190 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 4486 | 192 | 
 | 2023-02-18 | 4483 | 191 | 
 | 2023-02-17 | 4481 | 191 | 
-| 2023-02-16 | 4478 | 191 | 
 

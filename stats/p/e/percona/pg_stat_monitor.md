@@ -1,10 +1,10 @@
 # percona/pg_stat_monitor - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/percona/pg_stat_monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 313 | 51 | 
 | 2023-03-16 | 312 | 50 | 
 | 2023-03-15 | 313 | 50 | 
 | 2023-03-14 | 313 | 50 | 

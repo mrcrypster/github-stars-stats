@@ -1,8 +1,8 @@
 # zhisibuyu521/KOXray - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 1865
+☋ Forks: 1866
 
 ★ Stars: 32
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 32 | 1866 | 
+| 2023-03-18 | 32 | 1866 | 
 | 2023-03-17 | 32 | 1865 | 
 | 2023-03-16 | 32 | 1864 | 
 | 2023-03-14 | 32 | 1863 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 29 | 1866 | 
 | 2023-02-18 | 29 | 1866 | 
 | 2023-02-17 | 29 | 1867 | 
-| 2023-02-16 | 29 | 1867 | 
 

@@ -1,6 +1,6 @@
 # zaadevofc/nulis-online - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 56 | 33 | 
 | 2023-03-17 | 56 | 33 | 
 | 2023-03-15 | 56 | 33 | 
 | 2023-03-14 | 56 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 55 | 31 | 
 | 2023-02-18 | 55 | 31 | 
 | 2023-02-17 | 55 | 31 | 
-| 2023-02-16 | 55 | 31 | 
 

@@ -1,6 +1,6 @@
 # apache/netbeans-website - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 230 | 191 | 
 | 2023-03-16 | 230 | 191 | 
 | 2023-03-15 | 230 | 190 | 
 | 2023-03-14 | 230 | 190 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 226 | 183 | 
 | 2023-02-18 | 226 | 183 | 
 | 2023-02-17 | 226 | 183 | 
-| 2023-02-16 | 226 | 183 | 
 

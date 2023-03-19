@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 18
 
 ☋ Forks: 805
 
-★ Stars: 3337
+★ Stars: 3340
 
 [Open repository](https://github.com/stripe/stripe-php)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 3337 | 805 | 
+| 2023-03-18 | 3340 | 805 | 
 | 2023-03-17 | 3336 | 805 | 
 | 2023-03-16 | 3334 | 803 | 
 | 2023-03-14 | 3332 | 800 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 3316 | 800 | 
 | 2023-02-18 | 3316 | 800 | 
 | 2023-02-17 | 3316 | 801 | 
-| 2023-02-16 | 3315 | 800 | 
 

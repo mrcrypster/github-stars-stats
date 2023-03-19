@@ -1,6 +1,6 @@
 # milvus-io/milvus-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 55 | 64 | 
 | 2023-03-16 | 55 | 64 | 
 | 2023-03-15 | 55 | 64 | 
 | 2023-03-14 | 55 | 64 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 53 | 64 | 
 | 2023-02-18 | 53 | 64 | 
 | 2023-02-17 | 53 | 64 | 
-| 2023-02-16 | 53 | 64 | 
 

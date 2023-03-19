@@ -1,10 +1,10 @@
 # TheD1rkMtr/NTDLLReflection - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 35
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/TheD1rkMtr/NTDLLReflection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 209 | 35 | 
 | 2023-03-16 | 208 | 35 | 
 | 2023-03-15 | 208 | 35 | 
 | 2023-03-14 | 204 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 196 | 31 | 
 | 2023-02-18 | 196 | 31 | 
 | 2023-02-17 | 195 | 31 | 
-| 2023-02-16 | 194 | 31 | 
 

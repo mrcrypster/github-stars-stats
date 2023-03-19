@@ -1,6 +1,6 @@
 # Azure/review-checklists - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 799 | 192 | 
 | 2023-03-17 | 799 | 192 | 
 | 2023-03-16 | 799 | 191 | 
 | 2023-03-15 | 797 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 767 | 175 | 
 | 2023-02-18 | 762 | 174 | 
 | 2023-02-17 | 761 | 175 | 
-| 2023-02-16 | 761 | 175 | 
 

@@ -1,10 +1,10 @@
 # tekakutli/anime_translation - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 12
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/tekakutli/anime_translation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 110 | 12 | 
 | 2023-03-17 | 109 | 12 | 
 | 2023-03-16 | 108 | 12 | 
 | 2023-03-15 | 108 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 106 | 12 | 
 | 2023-02-18 | 106 | 12 | 
 | 2023-02-17 | 105 | 11 | 
-| 2023-02-16 | 105 | 11 | 
 

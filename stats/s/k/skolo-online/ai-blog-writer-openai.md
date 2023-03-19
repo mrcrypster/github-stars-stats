@@ -1,10 +1,10 @@
 # skolo-online/ai-blog-writer-openai - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 151
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/skolo-online/ai-blog-writer-openai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 188 | 151 | 
 | 2023-03-16 | 187 | 151 | 
 | 2023-03-15 | 187 | 151 | 
 | 2023-03-13 | 187 | 151 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 184 | 145 | 
 | 2023-02-18 | 184 | 146 | 
 | 2023-02-17 | 184 | 146 | 
-| 2023-02-16 | 183 | 146 | 
 

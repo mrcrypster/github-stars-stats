@@ -1,10 +1,10 @@
 # antfu/vitesse-nuxt3 - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 1009
+★ Stars: 1011
 
 [Open repository](https://github.com/antfu/vitesse-nuxt3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1011 | 129 | 
 | 2023-03-17 | 1009 | 128 | 
 | 2023-03-15 | 1007 | 126 | 
 | 2023-03-14 | 1006 | 126 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 969 | 119 | 
 | 2023-02-19 | 968 | 119 | 
 | 2023-02-18 | 967 | 118 | 
-| 2023-02-17 | 965 | 116 | 
 

@@ -1,6 +1,6 @@
 # mjakeman/extension-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 639 | 57 | 
 | 2023-03-16 | 639 | 57 | 
 | 2023-03-15 | 638 | 57 | 
 | 2023-03-13 | 639 | 58 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 628 | 57 | 
 | 2023-02-18 | 628 | 57 | 
 | 2023-02-17 | 626 | 57 | 
-| 2023-02-16 | 622 | 57 | 
 

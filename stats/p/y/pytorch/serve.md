@@ -1,10 +1,10 @@
 # pytorch/serve - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 695
+☋ Forks: 696
 
-★ Stars: 3242
+★ Stars: 3246
 
 [Open repository](https://github.com/pytorch/serve)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 3246 | 696 | 
 | 2023-03-17 | 3242 | 695 | 
 | 2023-03-16 | 3236 | 693 | 
 | 2023-03-14 | 3232 | 693 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 3181 | 682 | 
 | 2023-02-18 | 3180 | 681 | 
 | 2023-02-17 | 3177 | 680 | 
-| 2023-02-16 | 3177 | 680 | 
 

@@ -1,10 +1,10 @@
 # supaflare/supaflare - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 28
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/supaflare/supaflare)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 103 | 28 | 
 | 2023-03-17 | 102 | 28 | 
 | 2023-03-16 | 102 | 28 | 
 | 2023-03-15 | 102 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 99 | 26 | 
 | 2023-02-18 | 99 | 26 | 
 | 2023-02-17 | 99 | 26 | 
-| 2023-02-16 | 99 | 26 | 
 

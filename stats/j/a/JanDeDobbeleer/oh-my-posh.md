@@ -1,10 +1,10 @@
 # JanDeDobbeleer/oh-my-posh - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1922
+☋ Forks: 1929
 
-★ Stars: 10167
+★ Stars: 10175
 
 [Open repository](https://github.com/JanDeDobbeleer/oh-my-posh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 10175 | 1929 | 
 | 2023-03-17 | 10167 | 1922 | 
 | 2023-03-16 | 10153 | 1922 | 
 | 2023-03-14 | 10145 | 1918 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 9898 | 1868 | 
 | 2023-02-18 | 9887 | 1870 | 
 | 2023-02-17 | 9871 | 1866 | 
-| 2023-02-16 | 9857 | 1865 | 
 

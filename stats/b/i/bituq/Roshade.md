@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 18
 
 ☋ Forks: 14
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/bituq/Roshade)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 34 | 14 | 
+| 2023-03-18 | 35 | 14 | 
 | 2023-03-17 | 34 | 14 | 
 | 2023-03-16 | 34 | 14 | 
 | 2023-03-15 | 34 | 14 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 33 | 14 | 
 | 2023-02-18 | 33 | 14 | 
 | 2023-02-17 | 33 | 14 | 
-| 2023-02-16 | 33 | 14 | 
 

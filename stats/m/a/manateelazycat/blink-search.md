@@ -1,10 +1,10 @@
 # manateelazycat/blink-search - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 10
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/manateelazycat/blink-search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 61 | 10 | 
 | 2023-03-17 | 60 | 10 | 
 | 2023-03-16 | 60 | 10 | 
 | 2023-03-14 | 60 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 56 | 9 | 
 | 2023-02-19 | 55 | 9 | 
 | 2023-02-18 | 55 | 9 | 
-| 2023-02-17 | 54 | 9 | 
 

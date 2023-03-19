@@ -1,10 +1,10 @@
 # oprypin/nightly.link - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 14
 
-★ Stars: 463
+★ Stars: 464
 
 [Open repository](https://github.com/oprypin/nightly.link)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 464 | 14 | 
 | 2023-03-16 | 463 | 14 | 
 | 2023-03-15 | 463 | 14 | 
 | 2023-03-13 | 463 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 454 | 14 | 
 | 2023-02-18 | 454 | 14 | 
 | 2023-02-17 | 453 | 13 | 
-| 2023-02-16 | 453 | 13 | 
 

@@ -1,10 +1,10 @@
 # ShenaniganDApp/brightid-discord-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 31
 
-★ Stars: 893
+★ Stars: 895
 
 [Open repository](https://github.com/ShenaniganDApp/brightid-discord-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 895 | 31 | 
 | 2023-03-17 | 893 | 31 | 
 | 2023-03-16 | 893 | 31 | 
 | 2023-03-14 | 892 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 853 | 31 | 
 | 2023-02-18 | 852 | 31 | 
 | 2023-02-17 | 852 | 31 | 
-| 2023-02-16 | 849 | 31 | 
 

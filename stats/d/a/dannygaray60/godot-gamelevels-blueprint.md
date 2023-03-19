@@ -1,8 +1,8 @@
 # dannygaray60/godot-gamelevels-blueprint - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 51 | 2 | 
 | 2023-03-17 | 51 | 1 | 
 | 2023-03-16 | 50 | 1 | 
 | 2023-03-15 | 50 | 1 | 

@@ -1,10 +1,10 @@
 # logspace-ai/langflow - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 40
+☋ Forks: 47
 
-★ Stars: 599
+★ Stars: 756
 
 [Open repository](https://github.com/logspace-ai/langflow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 756 | 47 | 
 | 2023-03-17 | 599 | 40 | 
 | 2023-03-16 | 390 | 31 | 
 

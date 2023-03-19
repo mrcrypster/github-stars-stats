@@ -1,10 +1,10 @@
 # Netflix/conductor - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2098
+☋ Forks: 2097
 
-★ Stars: 8179
+★ Stars: 8180
 
 [Open repository](https://github.com/Netflix/conductor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 8180 | 2097 | 
 | 2023-03-17 | 8179 | 2098 | 
 | 2023-03-16 | 8180 | 2095 | 
 | 2023-03-15 | 8180 | 2095 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 8151 | 2094 | 
 | 2023-02-18 | 8151 | 2094 | 
 | 2023-02-17 | 8148 | 2096 | 
-| 2023-02-16 | 8143 | 2096 | 
 

@@ -1,6 +1,6 @@
 # UnBCIC-TP2/Oberon-Scala - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 40 | 86 | 
 | 2023-03-17 | 40 | 86 | 
 | 2023-03-15 | 40 | 86 | 
 | 2023-03-14 | 40 | 86 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 40 | 85 | 
 | 2023-02-18 | 40 | 85 | 
 | 2023-02-17 | 40 | 85 | 
-| 2023-02-16 | 40 | 85 | 
 

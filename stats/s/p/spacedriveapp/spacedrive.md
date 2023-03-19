@@ -1,10 +1,10 @@
 # spacedriveapp/spacedrive - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 451
 
-★ Stars: 16825
+★ Stars: 16835
 
 [Open repository](https://github.com/spacedriveapp/spacedrive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 16835 | 451 | 
 | 2023-03-17 | 16825 | 451 | 
 | 2023-03-16 | 16819 | 448 | 
 | 2023-03-15 | 16812 | 447 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 16638 | 444 | 
 | 2023-02-19 | 16626 | 445 | 
 | 2023-02-17 | 16618 | 445 | 
-| 2023-02-16 | 16608 | 445 | 
 

@@ -1,6 +1,6 @@
 # hassio-addons/addon-vscode - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 67
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 361 | 67 | 
+| 2023-03-18 | 361 | 67 | 
 | 2023-03-17 | 361 | 67 | 
 | 2023-03-16 | 359 | 67 | 
 | 2023-03-15 | 358 | 67 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 350 | 68 | 
 | 2023-02-18 | 350 | 68 | 
 | 2023-02-17 | 350 | 68 | 
-| 2023-02-16 | 350 | 68 | 
 

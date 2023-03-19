@@ -1,10 +1,10 @@
 # TheEconomist/the-economist-war-fire-model - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/TheEconomist/the-economist-war-fire-model)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 39 | 3 | 
 | 2023-03-17 | 38 | 3 | 
 | 2023-03-15 | 38 | 2 | 
 | 2023-03-14 | 38 | 2 | 

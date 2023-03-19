@@ -1,6 +1,6 @@
 # SourMesen/Mesen2 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 301 | 20 | 
 | 2023-03-16 | 301 | 20 | 
 | 2023-03-15 | 300 | 19 | 
 | 2023-03-14 | 296 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 228 | 10 | 
 | 2023-02-18 | 224 | 10 | 
 | 2023-02-17 | 222 | 10 | 
-| 2023-02-16 | 218 | 10 | 
 

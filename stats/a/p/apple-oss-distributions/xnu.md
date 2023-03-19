@@ -1,10 +1,10 @@
 # apple-oss-distributions/xnu - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 71
 
-★ Stars: 507
+★ Stars: 508
 
 [Open repository](https://github.com/apple-oss-distributions/xnu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 508 | 71 | 
 | 2023-03-16 | 507 | 71 | 
 | 2023-03-15 | 507 | 71 | 
 | 2023-03-14 | 507 | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 484 | 65 | 
 | 2023-02-19 | 483 | 65 | 
 | 2023-02-18 | 483 | 65 | 
-| 2023-02-17 | 483 | 65 | 
 

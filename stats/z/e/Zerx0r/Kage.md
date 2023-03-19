@@ -1,10 +1,10 @@
 # Zerx0r/Kage - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 275
 
-★ Stars: 1034
+★ Stars: 1037
 
 [Open repository](https://github.com/Zerx0r/Kage)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1037 | 275 | 
 | 2023-03-17 | 1034 | 275 | 
 | 2023-03-16 | 1033 | 274 | 
 | 2023-03-14 | 1033 | 274 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1026 | 275 | 
 | 2023-02-19 | 1026 | 275 | 
 | 2023-02-18 | 1026 | 275 | 
-| 2023-02-17 | 1026 | 275 | 
 

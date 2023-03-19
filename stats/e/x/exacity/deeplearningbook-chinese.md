@@ -1,10 +1,10 @@
 # exacity/deeplearningbook-chinese - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 9062
 
-★ Stars: 33462
+★ Stars: 33464
 
 [Open repository](https://github.com/exacity/deeplearningbook-chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 33464 | 9062 | 
 | 2023-03-17 | 33462 | 9062 | 
 | 2023-03-16 | 33459 | 9063 | 
 | 2023-03-15 | 33455 | 9064 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 33366 | 9059 | 
 | 2023-02-18 | 33367 | 9059 | 
 | 2023-02-17 | 33363 | 9059 | 
-| 2023-02-16 | 33354 | 9059 | 
 

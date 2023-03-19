@@ -1,10 +1,10 @@
 # saharan/OimoPhysics - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 55
 
-★ Stars: 673
+★ Stars: 676
 
 [Open repository](https://github.com/saharan/OimoPhysics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 676 | 55 | 
 | 2023-03-16 | 673 | 55 | 
 | 2023-03-15 | 673 | 55 | 
 | 2023-03-14 | 672 | 55 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 668 | 54 | 
 | 2023-02-19 | 668 | 54 | 
 | 2023-02-18 | 668 | 54 | 
-| 2023-02-17 | 668 | 54 | 
 

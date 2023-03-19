@@ -1,10 +1,10 @@
 # ZhangZhuoSJTU/Web3Bugs - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 98
 
-★ Stars: 868
+★ Stars: 870
 
 [Open repository](https://github.com/ZhangZhuoSJTU/Web3Bugs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 870 | 98 | 
 | 2023-03-17 | 868 | 98 | 
 | 2023-03-15 | 863 | 97 | 
 | 2023-03-14 | 841 | 92 | 

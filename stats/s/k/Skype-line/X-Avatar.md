@@ -1,10 +1,10 @@
 # Skype-line/X-Avatar - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 153
+★ Stars: 157
 
 [Open repository](https://github.com/Skype-line/X-Avatar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 157 | 3 | 
 | 2023-03-17 | 153 | 3 | 
 | 2023-03-15 | 142 | 3 | 
 | 2023-03-14 | 133 | 2 | 

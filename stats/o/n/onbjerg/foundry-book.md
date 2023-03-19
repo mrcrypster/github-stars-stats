@@ -1,8 +1,8 @@
 # onbjerg/foundry-book - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 274
+☋ Forks: 275
 
 ★ Stars: 474
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 474 | 275 | 
 | 2023-03-17 | 474 | 274 | 
 | 2023-03-16 | 473 | 273 | 
 | 2023-03-14 | 472 | 273 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 463 | 260 | 
 | 2023-02-19 | 463 | 259 | 
 | 2023-02-18 | 463 | 259 | 
-| 2023-02-17 | 464 | 259 | 
 

@@ -1,8 +1,8 @@
 # flori/json - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 318
+☋ Forks: 319
 
 ★ Stars: 638
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 638 | 319 | 
 | 2023-03-17 | 638 | 318 | 
 | 2023-03-16 | 638 | 318 | 
 | 2023-03-14 | 638 | 318 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 638 | 317 | 
 | 2023-02-18 | 638 | 317 | 
 | 2023-02-17 | 638 | 317 | 
-| 2023-02-16 | 638 | 317 | 
 

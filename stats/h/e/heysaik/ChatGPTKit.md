@@ -1,10 +1,10 @@
 # heysaik/ChatGPTKit - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 8
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/heysaik/ChatGPTKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 59 | 8 | 
 | 2023-03-16 | 58 | 8 | 
 | 2023-03-15 | 53 | 7 | 
 | 2023-03-14 | 52 | 7 | 

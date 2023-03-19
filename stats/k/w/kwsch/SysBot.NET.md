@@ -1,10 +1,10 @@
 # kwsch/SysBot.NET - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 227
+☋ Forks: 226
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/kwsch/SysBot.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 391 | 226 | 
 | 2023-03-16 | 390 | 227 | 
 | 2023-03-15 | 390 | 227 | 
 | 2023-03-13 | 389 | 227 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 376 | 217 | 
 | 2023-02-18 | 375 | 217 | 
 | 2023-02-17 | 375 | 217 | 
-| 2023-02-16 | 375 | 217 | 
 

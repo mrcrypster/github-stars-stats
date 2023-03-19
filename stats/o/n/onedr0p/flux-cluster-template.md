@@ -1,10 +1,10 @@
 # onedr0p/flux-cluster-template - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 160
+☋ Forks: 159
 
-★ Stars: 1012
+★ Stars: 1013
 
 [Open repository](https://github.com/onedr0p/flux-cluster-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1013 | 159 | 
 | 2023-03-16 | 1012 | 160 | 
 | 2023-03-15 | 1010 | 160 | 
 | 2023-03-14 | 1006 | 160 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 967 | 159 | 
 | 2023-02-19 | 967 | 159 | 
 | 2023-02-18 | 964 | 159 | 
-| 2023-02-17 | 962 | 159 | 
 

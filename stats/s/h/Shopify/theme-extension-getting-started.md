@@ -1,10 +1,10 @@
 # Shopify/theme-extension-getting-started - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 38
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/Shopify/theme-extension-getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 72 | 38 | 
 | 2023-03-17 | 71 | 38 | 
 | 2023-03-16 | 71 | 37 | 
 | 2023-03-14 | 70 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 70 | 36 | 
 | 2023-02-18 | 70 | 36 | 
 | 2023-02-17 | 70 | 36 | 
-| 2023-02-16 | 70 | 36 | 
 

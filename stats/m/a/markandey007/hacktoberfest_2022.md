@@ -1,8 +1,8 @@
 # markandey007/hacktoberfest_2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 118
+☋ Forks: 117
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 30 | 117 | 
 | 2023-03-17 | 30 | 118 | 
 | 2023-03-16 | 30 | 118 | 
 | 2023-03-14 | 30 | 119 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 30 | 121 | 
 | 2023-02-18 | 30 | 121 | 
 | 2023-02-17 | 30 | 122 | 
-| 2023-02-16 | 30 | 122 | 
 

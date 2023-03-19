@@ -1,10 +1,10 @@
 # themetaschemer/malt - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 49
+★ Stars: 53
 
 [Open repository](https://github.com/themetaschemer/malt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 53 | 5 | 
 | 2023-03-17 | 49 | 4 | 
 | 2023-03-15 | 47 | 4 | 
 | 2023-03-14 | 46 | 4 | 

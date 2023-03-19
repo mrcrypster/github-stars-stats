@@ -1,6 +1,6 @@
 # FlamingoOS-Devices/vendor_oneplus_sm8150-common - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | - | - | 
 | 2023-03-16 | - | - | 
 | 2023-03-15 | - | - | 
 | 2023-03-14 | - | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | - | - | 
 | 2023-02-19 | - | - | 
 | 2023-02-18 | - | - | 
-| 2023-02-16 | - | - | 
 

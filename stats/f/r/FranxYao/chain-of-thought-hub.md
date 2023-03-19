@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 18
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 140
+★ Stars: 142
 
 [Open repository](https://github.com/FranxYao/chain-of-thought-hub)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 140 | 4 | 
+| 2023-03-18 | 142 | 5 | 
 | 2023-03-17 | 138 | 4 | 
 

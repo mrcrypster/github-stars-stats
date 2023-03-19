@@ -1,10 +1,10 @@
 # 4513ECHO/vim-colors-hatsunemiku - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/4513ECHO/vim-colors-hatsunemiku)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 101 | 4 | 
 | 2023-03-17 | 100 | 4 | 
 | 2023-03-16 | 100 | 4 | 
 | 2023-03-14 | 99 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 96 | 4 | 
 | 2023-02-18 | 96 | 4 | 
 | 2023-02-17 | 96 | 4 | 
-| 2023-02-16 | 96 | 4 | 
 

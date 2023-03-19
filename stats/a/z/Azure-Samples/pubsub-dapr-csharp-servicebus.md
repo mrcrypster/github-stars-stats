@@ -1,6 +1,6 @@
 # Azure-Samples/pubsub-dapr-csharp-servicebus - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 14 | 6 | 
 | 2023-03-17 | 14 | 6 | 
 | 2023-03-15 | 14 | 6 | 
 | 2023-03-14 | 14 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 12 | 4 | 
 | 2023-02-18 | 12 | 4 | 
 | 2023-02-17 | 12 | 4 | 
-| 2023-02-16 | 12 | 4 | 
 

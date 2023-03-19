@@ -1,10 +1,10 @@
 # pmarsceill/jtd-remote - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 386
+☋ Forks: 385
 
-★ Stars: 51
+★ Stars: 50
 
 [Open repository](https://github.com/pmarsceill/jtd-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 50 | 385 | 
 | 2023-03-17 | 51 | 386 | 
 | 2023-03-15 | 51 | 387 | 
 | 2023-03-14 | 51 | 387 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 50 | 386 | 
 | 2023-02-19 | 50 | 387 | 
 | 2023-02-17 | 50 | 387 | 
-| 2023-02-16 | 50 | 387 | 
 

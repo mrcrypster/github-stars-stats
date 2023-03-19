@@ -1,10 +1,10 @@
 # laravel/vapor-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 52
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/laravel/vapor-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 46 | 52 | 
 | 2023-03-16 | 45 | 52 | 
 | 2023-03-15 | 46 | 52 | 
 | 2023-03-13 | 46 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 46 | 51 | 
 | 2023-02-18 | 46 | 50 | 
 | 2023-02-17 | 46 | 50 | 
-| 2023-02-16 | 46 | 50 | 
 

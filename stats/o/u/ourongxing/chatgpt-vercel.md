@@ -1,10 +1,10 @@
 # ourongxing/chatgpt-vercel - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 502
+☋ Forks: 533
 
-★ Stars: 904
+★ Stars: 946
 
 [Open repository](https://github.com/ourongxing/chatgpt-vercel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 946 | 533 | 
 | 2023-03-17 | 904 | 502 | 
 | 2023-03-16 | 811 | 434 | 
 | 2023-03-15 | 754 | 394 | 

@@ -1,6 +1,6 @@
 # Grupo-Aprobados-TAI-2019/eleccion-destinos-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 10 | 1 | 
 | 2023-03-16 | 10 | 1 | 
 | 2023-03-15 | 10 | 1 | 
 | 2023-03-14 | 10 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 10 | 1 | 
 | 2023-02-18 | 11 | 1 | 
 | 2023-02-17 | 11 | 1 | 
-| 2023-02-16 | 11 | 1 | 
 

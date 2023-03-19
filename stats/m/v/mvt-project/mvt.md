@@ -1,10 +1,10 @@
 # mvt-project/mvt - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 751
+☋ Forks: 752
 
-★ Stars: 8427
+★ Stars: 8426
 
 [Open repository](https://github.com/mvt-project/mvt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 8426 | 752 | 
 | 2023-03-17 | 8427 | 751 | 
 | 2023-03-16 | 8426 | 750 | 
 | 2023-03-14 | 8424 | 750 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 8376 | 745 | 
 | 2023-02-18 | 8378 | 745 | 
 | 2023-02-17 | 8375 | 744 | 
-| 2023-02-16 | 8373 | 744 | 
 

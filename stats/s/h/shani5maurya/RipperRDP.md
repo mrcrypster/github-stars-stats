@@ -1,8 +1,8 @@
 # shani5maurya/RipperRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 19
+☋ Forks: 21
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | - | 21 | 
 | 2023-03-17 | - | 19 | 
 | 2023-03-16 | - | 19 | 
 | 2023-03-15 | - | 19 | 

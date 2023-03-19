@@ -1,6 +1,6 @@
 # for-GET/jesse - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 111 | 58 | 
 | 2023-03-16 | 111 | 58 | 
 | 2023-03-15 | 111 | 58 | 
 | 2023-03-14 | 110 | 58 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 110 | 58 | 
 | 2023-02-19 | 110 | 58 | 
 | 2023-02-18 | 110 | 58 | 
-| 2023-02-17 | 110 | 58 | 
 

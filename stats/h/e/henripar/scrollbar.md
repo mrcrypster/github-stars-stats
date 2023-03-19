@@ -1,10 +1,10 @@
 # henripar/scrollbar - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 9
 
-★ Stars: 252
+★ Stars: 256
 
 [Open repository](https://github.com/henripar/scrollbar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 256 | 9 | 
 | 2023-03-17 | 252 | 9 | 
 | 2023-03-16 | 237 | 8 | 
 | 2023-03-15 | 228 | 7 | 

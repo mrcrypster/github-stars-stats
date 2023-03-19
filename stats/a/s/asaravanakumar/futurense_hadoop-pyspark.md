@@ -1,6 +1,6 @@
 # asaravanakumar/futurense_hadoop-pyspark - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | - | 23 | 
 | 2023-03-16 | - | 23 | 
 | 2023-03-15 | - | 23 | 
 | 2023-03-13 | - | 22 | 

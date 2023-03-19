@@ -1,8 +1,8 @@
 # SteamDeckHomebrew/decky-plugin-database - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 45
+☋ Forks: 47
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 53 | 47 | 
 | 2023-03-17 | 53 | 45 | 
 | 2023-03-15 | 52 | 45 | 
 | 2023-03-14 | 52 | 46 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 46 | 43 | 
 | 2023-02-18 | 46 | 43 | 
 | 2023-02-17 | 45 | 43 | 
-| 2023-02-16 | 45 | 43 | 
 

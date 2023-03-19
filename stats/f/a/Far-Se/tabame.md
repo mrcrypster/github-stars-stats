@@ -1,10 +1,10 @@
 # Far-Se/tabame - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 154
+★ Stars: 153
 
 [Open repository](https://github.com/Far-Se/tabame)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 153 | 3 | 
 | 2023-03-17 | 154 | 3 | 
 | 2023-03-15 | 154 | 3 | 
 | 2023-03-14 | 154 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 147 | 3 | 
 | 2023-02-18 | 147 | 3 | 
 | 2023-02-17 | 149 | 3 | 
-| 2023-02-16 | 149 | 3 | 
 

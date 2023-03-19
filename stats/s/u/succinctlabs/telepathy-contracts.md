@@ -1,10 +1,10 @@
 # succinctlabs/telepathy-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/succinctlabs/telepathy-contracts)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 30 | 1 | 
 | 2023-03-17 | 28 | 1 | 
 

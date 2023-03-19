@@ -1,6 +1,6 @@
 # yoshiki/yaml-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 441 | 131 | 
 | 2023-03-17 | 441 | 131 | 
 | 2023-03-15 | 441 | 131 | 
 | 2023-03-14 | 441 | 131 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 438 | 132 | 
 | 2023-02-19 | 438 | 132 | 
 | 2023-02-18 | 438 | 132 | 
-| 2023-02-16 | 438 | 132 | 
 

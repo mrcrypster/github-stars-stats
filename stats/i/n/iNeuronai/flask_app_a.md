@@ -1,10 +1,10 @@
 # iNeuronai/flask_app_a - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 17
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/iNeuronai/flask_app_a)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 9 | 17 | 
 | 2023-03-17 | 8 | 17 | 
 | 2023-03-16 | 8 | 17 | 
 | 2023-03-14 | 8 | 17 | 

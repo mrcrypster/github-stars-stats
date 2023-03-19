@@ -1,6 +1,6 @@
 # h5ds/h5ds - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1216 | 371 | 
 | 2023-03-17 | 1216 | 371 | 
 | 2023-03-16 | 1216 | 371 | 
 | 2023-03-15 | 1216 | 371 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1214 | 370 | 
 | 2023-02-18 | 1214 | 370 | 
 | 2023-02-17 | 1215 | 370 | 
-| 2023-02-16 | 1215 | 370 | 
 

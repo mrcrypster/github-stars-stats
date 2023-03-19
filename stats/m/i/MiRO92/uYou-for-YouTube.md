@@ -1,10 +1,10 @@
 # MiRO92/uYou-for-YouTube - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 404
+☋ Forks: 403
 
-★ Stars: 1039
+★ Stars: 1042
 
 [Open repository](https://github.com/MiRO92/uYou-for-YouTube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1042 | 403 | 
 | 2023-03-17 | 1039 | 404 | 
 | 2023-03-16 | 1034 | 404 | 
 | 2023-03-15 | 1032 | 404 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 968 | 389 | 
 | 2023-02-19 | 961 | 387 | 
 | 2023-02-17 | 959 | 386 | 
-| 2023-02-16 | 958 | 387 | 
 

@@ -1,10 +1,10 @@
 # phyver/GameShell - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 109
 
-★ Stars: 1821
+★ Stars: 1822
 
 [Open repository](https://github.com/phyver/GameShell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1822 | 109 | 
 | 2023-03-17 | 1821 | 109 | 
 | 2023-03-15 | 1820 | 109 | 
 | 2023-03-14 | 1818 | 109 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1788 | 108 | 
 | 2023-02-18 | 1787 | 108 | 
 | 2023-02-17 | 1786 | 108 | 
-| 2023-02-16 | 1783 | 107 | 
 

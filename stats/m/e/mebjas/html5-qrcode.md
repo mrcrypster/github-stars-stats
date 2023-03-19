@@ -1,10 +1,10 @@
 # mebjas/html5-qrcode - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 701
+☋ Forks: 702
 
-★ Stars: 2932
+★ Stars: 2937
 
 [Open repository](https://github.com/mebjas/html5-qrcode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2937 | 702 | 
 | 2023-03-17 | 2932 | 701 | 
 | 2023-03-15 | 2925 | 700 | 
 | 2023-03-14 | 2918 | 698 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 2797 | 683 | 
 | 2023-02-18 | 2794 | 683 | 
 | 2023-02-17 | 2789 | 683 | 
-| 2023-02-16 | 2783 | 683 | 
 

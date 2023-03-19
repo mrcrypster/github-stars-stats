@@ -1,10 +1,10 @@
 # ignite-hq/cli - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 477
 
-★ Stars: 1051
+★ Stars: 1053
 
 [Open repository](https://github.com/ignite-hq/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1053 | 477 | 
 | 2023-03-17 | 1051 | 477 | 
 | 2023-03-16 | 1050 | 478 | 
 | 2023-03-14 | 1049 | 477 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1033 | 469 | 
 | 2023-02-18 | 1031 | 469 | 
 | 2023-02-17 | 1029 | 469 | 
-| 2023-02-16 | 1029 | 469 | 
 

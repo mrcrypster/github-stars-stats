@@ -1,6 +1,6 @@
 # cnlohr/ch32v003fun - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 97 | 9 | 
 | 2023-03-16 | 97 | 9 | 
 | 2023-03-15 | 96 | 9 | 
 | 2023-03-14 | 94 | 8 | 

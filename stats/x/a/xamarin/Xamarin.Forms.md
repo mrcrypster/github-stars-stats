@@ -1,6 +1,6 @@
 # xamarin/Xamarin.Forms - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1922
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 5646 | 1922 | 
 | 2023-03-17 | 5646 | 1922 | 
 | 2023-03-16 | 5645 | 1922 | 
 | 2023-03-15 | 5644 | 1922 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 5639 | 1922 | 
 | 2023-02-18 | 5640 | 1922 | 
 | 2023-02-17 | 5641 | 1924 | 
-| 2023-02-16 | 5640 | 1924 | 
 

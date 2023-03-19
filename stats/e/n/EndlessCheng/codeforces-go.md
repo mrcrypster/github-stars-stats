@@ -1,10 +1,10 @@
 # EndlessCheng/codeforces-go - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 244
 
-★ Stars: 1789
+★ Stars: 1796
 
 [Open repository](https://github.com/EndlessCheng/codeforces-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1796 | 244 | 
 | 2023-03-17 | 1789 | 244 | 
 | 2023-03-16 | 1782 | 243 | 
 | 2023-03-14 | 1771 | 241 | 

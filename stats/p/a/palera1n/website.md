@@ -1,8 +1,8 @@
 # palera1n/website - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 10 | 2 | 
 | 2023-03-16 | 10 | 1 | 
 | 2023-03-15 | 10 | 1 | 
 | 2023-03-14 | 10 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 9 | 1 | 
 | 2023-02-18 | 9 | 1 | 
 | 2023-02-17 | 9 | 1 | 
-| 2023-02-16 | 9 | 1 | 
 

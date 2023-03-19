@@ -1,10 +1,10 @@
 # ixartz/Next-JS-Landing-Page-Starter-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 361
 
-★ Stars: 1076
+★ Stars: 1077
 
 [Open repository](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1077 | 361 | 
 | 2023-03-16 | 1076 | 361 | 
 | 2023-03-15 | 1072 | 361 | 
 | 2023-03-14 | 1069 | 361 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1035 | 344 | 
 | 2023-02-18 | 1033 | 344 | 
 | 2023-02-17 | 1033 | 343 | 
-| 2023-02-16 | 1032 | 343 | 
 

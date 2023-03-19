@@ -1,10 +1,10 @@
 # tbnobody/OpenDTU - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 735
+★ Stars: 739
 
 [Open repository](https://github.com/tbnobody/OpenDTU)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 739 | 187 | 
 | 2023-03-17 | 735 | 186 | 
 | 2023-03-15 | 729 | 183 | 
 | 2023-03-14 | 721 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 616 | 148 | 
 | 2023-02-18 | 609 | 147 | 
 | 2023-02-17 | 606 | 146 | 
-| 2023-02-16 | 602 | 144 | 
 

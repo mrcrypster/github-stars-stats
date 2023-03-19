@@ -1,6 +1,6 @@
 # niedzielski/cb - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 97 | 6 | 
 | 2023-03-16 | 97 | 6 | 
 | 2023-03-15 | 97 | 6 | 
 | 2023-03-13 | 97 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 94 | 6 | 
 | 2023-02-18 | 94 | 6 | 
 | 2023-02-17 | 94 | 6 | 
-| 2023-02-16 | 94 | 6 | 
 

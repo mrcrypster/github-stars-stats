@@ -1,10 +1,10 @@
 # jimmckeeth/TelegramStickerBrowser - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/jimmckeeth/TelegramStickerBrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 19 | 4 | 
 | 2023-03-16 | 20 | 4 | 
 | 2023-03-15 | 20 | 4 | 
 | 2023-03-14 | 20 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 19 | 4 | 
 | 2023-02-19 | 19 | 4 | 
 | 2023-02-17 | 19 | 4 | 
-| 2023-02-16 | 19 | 4 | 
 

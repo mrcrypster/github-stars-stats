@@ -1,10 +1,10 @@
 # lewis6991/satellite.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 11
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/lewis6991/satellite.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 248 | 11 | 
 | 2023-03-16 | 247 | 11 | 
 | 2023-03-15 | 245 | 10 | 
 | 2023-03-14 | 245 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 237 | 10 | 
 | 2023-02-18 | 236 | 10 | 
 | 2023-02-17 | 236 | 10 | 
-| 2023-02-16 | 237 | 10 | 
 

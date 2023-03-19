@@ -1,10 +1,10 @@
 # fcitx5-android/fcitx5-android - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 638
+★ Stars: 640
 
 [Open repository](https://github.com/fcitx5-android/fcitx5-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 640 | 44 | 
 | 2023-03-16 | 638 | 43 | 
 | 2023-03-15 | 637 | 43 | 
 | 2023-03-14 | 637 | 43 | 

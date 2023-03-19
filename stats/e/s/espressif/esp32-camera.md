@@ -1,10 +1,10 @@
 # espressif/esp32-camera - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 486
+☋ Forks: 487
 
-★ Stars: 1211
+★ Stars: 1214
 
 [Open repository](https://github.com/espressif/esp32-camera)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1214 | 487 | 
 | 2023-03-17 | 1211 | 486 | 
 | 2023-03-15 | 1211 | 486 | 
 | 2023-03-14 | 1209 | 486 | 

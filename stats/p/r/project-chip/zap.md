@@ -1,10 +1,10 @@
 # project-chip/zap - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 65
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/project-chip/zap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 91 | 65 | 
 | 2023-03-17 | 90 | 65 | 
 | 2023-03-16 | 90 | 65 | 
 | 2023-03-15 | 90 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 88 | 61 | 
 | 2023-02-18 | 88 | 61 | 
 | 2023-02-17 | 87 | 61 | 
-| 2023-02-16 | 86 | 60 | 
 

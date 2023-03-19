@@ -1,10 +1,10 @@
 # actionquake/distrib - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 9
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/actionquake/distrib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 15 | 9 | 
 | 2023-03-17 | 14 | 9 | 
 | 2023-03-15 | 14 | 9 | 
 | 2023-03-14 | 14 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 13 | 8 | 
 | 2023-02-18 | 13 | 8 | 
 | 2023-02-17 | 13 | 8 | 
-| 2023-02-16 | 13 | 8 | 
 

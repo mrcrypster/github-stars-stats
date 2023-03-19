@@ -1,10 +1,10 @@
 # julianbuettner/tcp-over-http - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 6
 
-★ Stars: 189
+★ Stars: 188
 
 [Open repository](https://github.com/julianbuettner/tcp-over-http)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 188 | 6 | 
 | 2023-03-17 | 189 | 6 | 
 | 2023-03-16 | 189 | 6 | 
 | 2023-03-14 | 189 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 187 | 6 | 
 | 2023-02-18 | 187 | 6 | 
 | 2023-02-17 | 187 | 6 | 
-| 2023-02-16 | 187 | 6 | 
 

@@ -1,6 +1,6 @@
 # cmcntsh/stats2021_exer_nonparametric - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | - | 34 | 
 | 2023-03-17 | - | 34 | 
 | 2023-03-16 | - | 34 | 
 | 2023-03-15 | - | 34 | 

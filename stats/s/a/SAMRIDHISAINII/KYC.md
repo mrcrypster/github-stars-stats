@@ -1,10 +1,10 @@
 # SAMRIDHISAINII/KYC - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 12
 
 [Open repository](https://github.com/SAMRIDHISAINII/KYC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 12 | 2 | 
 | 2023-03-16 | 14 | 2 | 
 | 2023-03-15 | 14 | 2 | 
 | 2023-03-13 | 14 | 2 | 

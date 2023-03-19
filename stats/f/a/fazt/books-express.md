@@ -1,6 +1,6 @@
 # fazt/books-express - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 16 | 35 | 
 | 2023-03-16 | 16 | 35 | 
 | 2023-03-15 | 16 | 35 | 
 | 2023-03-14 | 16 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 16 | 34 | 
 | 2023-02-18 | 14 | 34 | 
 | 2023-02-17 | 14 | 34 | 
-| 2023-02-16 | 14 | 34 | 
 

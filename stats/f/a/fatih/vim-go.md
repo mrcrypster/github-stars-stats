@@ -1,10 +1,10 @@
 # fatih/vim-go - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1473
 
-★ Stars: 15320
+★ Stars: 15329
 
 [Open repository](https://github.com/fatih/vim-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 15329 | 1473 | 
 | 2023-03-17 | 15320 | 1473 | 
 | 2023-03-16 | 15316 | 1473 | 
 | 2023-03-15 | 15315 | 1473 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 15258 | 1473 | 
 | 2023-02-18 | 15258 | 1472 | 
 | 2023-02-17 | 15255 | 1472 | 
-| 2023-02-16 | 15252 | 1472 | 
 

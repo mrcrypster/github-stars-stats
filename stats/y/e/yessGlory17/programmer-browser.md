@@ -1,10 +1,10 @@
 # yessGlory17/programmer-browser - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 10
 
-★ Stars: 571
+★ Stars: 570
 
 [Open repository](https://github.com/yessGlory17/programmer-browser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 570 | 10 | 
 | 2023-03-17 | 571 | 10 | 
 | 2023-03-16 | 571 | 10 | 
 | 2023-03-14 | 571 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 568 | 11 | 
 | 2023-02-18 | 568 | 11 | 
 | 2023-02-17 | 568 | 11 | 
-| 2023-02-16 | 568 | 11 | 
 

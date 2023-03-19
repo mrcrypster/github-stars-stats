@@ -1,8 +1,8 @@
 # cmcntsh/stats2021_exer_PearsonCorr - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | - | 36 | 
 | 2023-03-17 | - | 35 | 
 | 2023-03-15 | - | 35 | 
 | 2023-03-14 | - | 33 | 

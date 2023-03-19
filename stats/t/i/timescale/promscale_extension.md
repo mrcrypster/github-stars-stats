@@ -1,10 +1,10 @@
 # timescale/promscale_extension - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 11
 
-★ Stars: 38
+★ Stars: 37
 
 [Open repository](https://github.com/timescale/promscale_extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 37 | 11 | 
 | 2023-03-16 | 38 | 11 | 
 | 2023-03-15 | 38 | 11 | 
 | 2023-03-14 | 38 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 36 | 11 | 
 | 2023-02-18 | 36 | 11 | 
 | 2023-02-17 | 36 | 11 | 
-| 2023-02-16 | 36 | 11 | 
 

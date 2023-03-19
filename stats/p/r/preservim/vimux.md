@@ -1,10 +1,10 @@
 # preservim/vimux - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 160
 
-★ Stars: 2094
+★ Stars: 2097
 
 [Open repository](https://github.com/preservim/vimux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2097 | 160 | 
 | 2023-03-16 | 2094 | 160 | 
 | 2023-03-15 | 2093 | 160 | 
 | 2023-03-14 | 2093 | 160 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 2087 | 160 | 
 | 2023-02-19 | 2087 | 160 | 
 | 2023-02-17 | 2086 | 160 | 
-| 2023-02-16 | 2086 | 160 | 
 

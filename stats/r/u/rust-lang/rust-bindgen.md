@@ -1,10 +1,10 @@
 # rust-lang/rust-bindgen - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 584
 
-★ Stars: 3319
+★ Stars: 3321
 
 [Open repository](https://github.com/rust-lang/rust-bindgen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 3321 | 584 | 
 | 2023-03-17 | 3319 | 584 | 
 | 2023-03-16 | 3316 | 584 | 
 | 2023-03-14 | 3312 | 584 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 3270 | 580 | 
 | 2023-02-18 | 3269 | 579 | 
 | 2023-02-17 | 3267 | 580 | 
-| 2023-02-16 | 3266 | 580 | 
 

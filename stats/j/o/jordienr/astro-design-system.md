@@ -1,6 +1,6 @@
 # jordienr/astro-design-system - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 31 | 6 | 
 | 2023-03-16 | 31 | 6 | 
 | 2023-03-15 | 31 | 6 | 
 | 2023-03-14 | 30 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 22 | 7 | 
 | 2023-02-18 | 22 | 6 | 
 | 2023-02-17 | 21 | 5 | 
-| 2023-02-16 | 21 | 5 | 
 

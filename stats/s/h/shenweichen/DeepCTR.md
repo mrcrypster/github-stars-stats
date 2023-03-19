@@ -1,10 +1,10 @@
 # shenweichen/DeepCTR - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2069
+☋ Forks: 2070
 
-★ Stars: 6711
+★ Stars: 6713
 
 [Open repository](https://github.com/shenweichen/DeepCTR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 6713 | 2070 | 
 | 2023-03-17 | 6711 | 2069 | 
 | 2023-03-15 | 6706 | 2068 | 
 | 2023-03-14 | 6699 | 2068 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 6649 | 2045 | 
 | 2023-02-18 | 6649 | 2045 | 
 | 2023-02-17 | 6648 | 2045 | 
-| 2023-02-16 | 6647 | 2045 | 
 

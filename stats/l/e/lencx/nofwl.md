@@ -1,10 +1,10 @@
 # lencx/nofwl - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 29
+☋ Forks: 31
 
-★ Stars: 485
+★ Stars: 519
 
 [Open repository](https://github.com/lencx/nofwl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 519 | 31 | 
 | 2023-03-17 | 485 | 29 | 
 | 2023-03-16 | 454 | 26 | 
 | 2023-03-15 | 418 | 26 | 

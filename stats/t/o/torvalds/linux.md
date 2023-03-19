@@ -1,10 +1,10 @@
 # torvalds/linux - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 47129
+☋ Forks: 47147
 
-★ Stars: 148092
+★ Stars: 148176
 
 [Open repository](https://github.com/torvalds/linux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 148176 | 47147 | 
 | 2023-03-17 | 148092 | 47129 | 
 | 2023-03-16 | 148062 | 47124 | 
 | 2023-03-15 | 147983 | 47113 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 146395 | 46757 | 
 | 2023-02-18 | 146344 | 46744 | 
 | 2023-02-17 | 146306 | 46736 | 
-| 2023-02-16 | 146257 | 46723 | 
 

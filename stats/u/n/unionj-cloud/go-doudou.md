@@ -1,10 +1,10 @@
 # unionj-cloud/go-doudou - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 194
 
-★ Stars: 1083
+★ Stars: 1084
 
 [Open repository](https://github.com/unionj-cloud/go-doudou)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1084 | 194 | 
 | 2023-03-17 | 1083 | 194 | 
 | 2023-03-15 | 1081 | 194 | 
 | 2023-03-14 | 1081 | 194 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1072 | 193 | 
 | 2023-02-18 | 1070 | 193 | 
 | 2023-02-17 | 1068 | 193 | 
-| 2023-02-16 | 1059 | 193 | 
 

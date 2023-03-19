@@ -1,10 +1,10 @@
 # nblockchain/geewallet - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 37
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/nblockchain/geewallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 55 | 37 | 
 | 2023-03-17 | 54 | 37 | 
 | 2023-03-15 | 54 | 37 | 
 | 2023-03-14 | 54 | 37 | 

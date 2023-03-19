@@ -1,10 +1,10 @@
 # tsulej/GenerateMe - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 233
 
-★ Stars: 882
+★ Stars: 883
 
 [Open repository](https://github.com/tsulej/GenerateMe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 883 | 233 | 
 | 2023-03-17 | 882 | 233 | 
 | 2023-03-16 | 882 | 233 | 
 | 2023-03-14 | 882 | 233 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 880 | 233 | 
 | 2023-02-19 | 880 | 233 | 
 | 2023-02-18 | 880 | 233 | 
-| 2023-02-17 | 880 | 232 | 
 

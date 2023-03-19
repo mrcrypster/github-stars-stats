@@ -1,10 +1,10 @@
 # wombyz/custom-knowledge-chatbot - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 9
+☋ Forks: 13
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/wombyz/custom-knowledge-chatbot)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 7 | 13 | 
 | 2023-03-17 | 6 | 9 | 
 

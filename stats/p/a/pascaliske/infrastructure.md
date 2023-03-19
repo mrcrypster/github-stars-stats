@@ -1,10 +1,10 @@
 # pascaliske/infrastructure - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/pascaliske/infrastructure)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 14 | 2 | 
 | 2023-03-17 | 13 | 2 | 
 | 2023-03-15 | 13 | 2 | 
 | 2023-03-14 | 12 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 11 | 2 | 
 | 2023-02-18 | 11 | 2 | 
 | 2023-02-17 | 11 | 2 | 
-| 2023-02-16 | 11 | 2 | 
 

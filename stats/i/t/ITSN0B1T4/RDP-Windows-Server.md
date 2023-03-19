@@ -1,6 +1,6 @@
 # ITSN0B1T4/RDP-Windows-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2 | 16 | 
 | 2023-03-17 | 2 | 16 | 
 | 2023-03-15 | 2 | 16 | 
 | 2023-03-14 | 2 | 16 | 

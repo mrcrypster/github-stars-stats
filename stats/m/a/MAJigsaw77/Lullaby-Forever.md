@@ -1,6 +1,6 @@
 # MAJigsaw77/Lullaby-Forever - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 14 | 10 | 
 | 2023-03-16 | 14 | 10 | 
 | 2023-03-15 | 14 | 10 | 
 | 2023-03-14 | 14 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 14 | 11 | 
 | 2023-02-18 | 14 | 11 | 
 | 2023-02-17 | 14 | 10 | 
-| 2023-02-16 | 14 | 10 | 
 

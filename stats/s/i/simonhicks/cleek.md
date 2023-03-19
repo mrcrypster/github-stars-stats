@@ -1,0 +1,18 @@
+# simonhicks/cleek - stars & forks statistics
+
+Stats updated on Mar 2023, 19
+
+☋ Forks: 0
+
+★ Stars: 4
+
+[Open repository](https://github.com/simonhicks/cleek)
+
+[Open detailed stats for simonhicks/cleek](https://reviewgithub.com/rep/simonhicks/cleek)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-19 | 4 | - | 
+| 2023-03-18 | 4 | - | 
+

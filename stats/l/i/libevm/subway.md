@@ -1,10 +1,10 @@
 # libevm/subway - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 391
 
-★ Stars: 1572
+★ Stars: 1573
 
 [Open repository](https://github.com/libevm/subway)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1573 | 391 | 
 | 2023-03-16 | 1572 | 391 | 
 | 2023-03-15 | 1572 | 390 | 
 | 2023-03-14 | 1572 | 390 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1532 | 378 | 
 | 2023-02-18 | 1533 | 379 | 
 | 2023-02-17 | 1533 | 378 | 
-| 2023-02-16 | 1532 | 378 | 
 

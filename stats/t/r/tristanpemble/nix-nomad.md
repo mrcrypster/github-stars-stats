@@ -1,8 +1,8 @@
 # tristanpemble/nix-nomad - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 41 | 3 | 
 | 2023-03-17 | 41 | 2 | 
 | 2023-03-16 | 41 | 2 | 
 | 2023-03-14 | 41 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 38 | 2 | 
 | 2023-02-18 | 38 | 2 | 
 | 2023-02-17 | 38 | 2 | 
-| 2023-02-16 | 38 | 2 | 
 

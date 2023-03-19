@@ -1,6 +1,6 @@
 # Rustixir/darkbird - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 274 | 4 | 
 | 2023-03-16 | 274 | 4 | 
 | 2023-03-15 | 273 | 4 | 
 | 2023-03-14 | 272 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 198 | 2 | 
 | 2023-02-18 | 198 | 2 | 
 | 2023-02-17 | 196 | 2 | 
-| 2023-02-16 | 194 | 2 | 
 

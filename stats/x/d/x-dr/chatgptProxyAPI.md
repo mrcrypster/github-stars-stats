@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 18
 
-☋ Forks: 67
+☋ Forks: 76
 
-★ Stars: 145
+★ Stars: 159
 
 [Open repository](https://github.com/x-dr/chatgptProxyAPI)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 145 | 67 | 
+| 2023-03-18 | 159 | 76 | 
 | 2023-03-17 | 145 | 67 | 
 | 2023-03-16 | 129 | 51 | 
 | 2023-03-14 | 100 | 25 | 

@@ -1,6 +1,6 @@
 # magit/with-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 147 | 41 | 
 | 2023-03-16 | 147 | 41 | 
 | 2023-03-15 | 147 | 41 | 
 | 2023-03-14 | 147 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 145 | 41 | 
 | 2023-02-18 | 145 | 41 | 
 | 2023-02-17 | 145 | 41 | 
-| 2023-02-16 | 145 | 41 | 
 

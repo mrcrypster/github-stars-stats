@@ -1,6 +1,6 @@
 # ovotech/kafka-avro-confluent - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 20 | 5 | 
 | 2023-03-17 | 20 | 5 | 
 | 2023-03-16 | 20 | 5 | 
 | 2023-03-15 | 20 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 19 | 5 | 
 | 2023-02-19 | 19 | 5 | 
 | 2023-02-18 | 19 | 5 | 
-| 2023-02-17 | 19 | 5 | 
 

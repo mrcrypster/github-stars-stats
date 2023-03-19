@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 18
 
-☋ Forks: 5
+☋ Forks: 9
 
-★ Stars: 197
+★ Stars: 222
 
 [Open repository](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 197 | 5 | 
+| 2023-03-18 | 222 | 9 | 
 | 2023-03-17 | 192 | 5 | 
 

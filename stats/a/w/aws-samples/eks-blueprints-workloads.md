@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 18
 
 ☋ Forks: 736
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/aws-samples/eks-blueprints-workloads)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 43 | 736 | 
+| 2023-03-18 | 44 | 736 | 
 | 2023-03-17 | 43 | 736 | 
 | 2023-03-16 | 43 | 733 | 
 | 2023-03-15 | 43 | 729 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 39 | 684 | 
 | 2023-02-18 | 38 | 683 | 
 | 2023-02-17 | 38 | 684 | 
-| 2023-02-16 | 37 | 683 | 
 

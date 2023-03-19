@@ -1,10 +1,10 @@
 # WeedwackerPS/DataParser - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 13
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/WeedwackerPS/DataParser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 39 | 13 | 
 | 2023-03-16 | 38 | 13 | 
 | 2023-03-15 | 38 | 13 | 
 | 2023-03-14 | 38 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 38 | 13 | 
 | 2023-02-18 | 38 | 13 | 
 | 2023-02-17 | 38 | 13 | 
-| 2023-02-16 | 38 | 13 | 
 

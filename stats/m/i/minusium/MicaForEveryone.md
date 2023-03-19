@@ -1,10 +1,10 @@
 # minusium/MicaForEveryone - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 79
 
-★ Stars: 1935
+★ Stars: 1941
 
 [Open repository](https://github.com/minusium/MicaForEveryone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1941 | 79 | 
 | 2023-03-17 | 1935 | 79 | 
 | 2023-03-16 | 1931 | 79 | 
 | 2023-03-15 | 1921 | 79 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1780 | 66 | 
 | 2023-02-19 | 1774 | 66 | 
 | 2023-02-18 | 1767 | 65 | 
-| 2023-02-17 | 1763 | 65 | 
 

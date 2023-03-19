@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 18
 
-☋ Forks: 1480
+☋ Forks: 1482
 
-★ Stars: 11159
+★ Stars: 11163
 
 [Open repository](https://github.com/BookStackApp/BookStack)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 11159 | 1480 | 
+| 2023-03-18 | 11163 | 1482 | 
 | 2023-03-17 | 11155 | 1480 | 
 | 2023-03-16 | 11151 | 1478 | 
 | 2023-03-14 | 11133 | 1477 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 11010 | 1460 | 
 | 2023-02-18 | 11005 | 1459 | 
 | 2023-02-17 | 10998 | 1459 | 
-| 2023-02-16 | 10989 | 1460 | 
 

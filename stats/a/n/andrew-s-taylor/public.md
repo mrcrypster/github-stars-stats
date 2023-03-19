@@ -1,10 +1,10 @@
 # andrew-s-taylor/public - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/andrew-s-taylor/public)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 112 | 60 | 
 | 2023-03-17 | 111 | 59 | 
 | 2023-03-15 | 108 | 59 | 
 | 2023-03-14 | 105 | 58 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 92 | 48 | 
 | 2023-02-18 | 91 | 48 | 
 | 2023-02-17 | 91 | 47 | 
-| 2023-02-16 | 91 | 47 | 
 

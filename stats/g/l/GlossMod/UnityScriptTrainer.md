@@ -1,10 +1,10 @@
 # GlossMod/UnityScriptTrainer - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 43
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/GlossMod/UnityScriptTrainer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 82 | 43 | 
 | 2023-03-17 | 81 | 43 | 
 | 2023-03-15 | 81 | 43 | 
 | 2023-03-14 | 81 | 43 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 80 | 42 | 
 | 2023-02-18 | 80 | 42 | 
 | 2023-02-17 | 80 | 42 | 
-| 2023-02-16 | 79 | 42 | 
 

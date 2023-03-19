@@ -1,8 +1,8 @@
 # ai/size-limit - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1793
+☋ Forks: 1794
 
 ★ Stars: 5767
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 5767 | 1794 | 
 | 2023-03-16 | 5767 | 1793 | 
 | 2023-03-15 | 5766 | 1791 | 
 | 2023-03-14 | 5765 | 1787 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 5725 | 1760 | 
 | 2023-02-18 | 5725 | 1761 | 
 | 2023-02-17 | 5722 | 1761 | 
-| 2023-02-16 | 5722 | 1760 | 
 

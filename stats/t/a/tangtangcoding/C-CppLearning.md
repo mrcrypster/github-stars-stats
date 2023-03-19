@@ -1,10 +1,10 @@
 # tangtangcoding/C-CppLearning - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 249
 
-★ Stars: 1206
+★ Stars: 1208
 
 [Open repository](https://github.com/tangtangcoding/C-CppLearning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1208 | 249 | 
 | 2023-03-17 | 1206 | 249 | 
 | 2023-03-16 | 1200 | 249 | 
 | 2023-03-14 | 1195 | 248 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1140 | 241 | 
 | 2023-02-19 | 1139 | 241 | 
 | 2023-02-17 | 1138 | 241 | 
-| 2023-02-16 | 1135 | 241 | 
 

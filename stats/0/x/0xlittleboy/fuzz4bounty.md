@@ -1,10 +1,10 @@
 # 0xlittleboy/fuzz4bounty - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 53
 
-★ Stars: 251
+★ Stars: 254
 
 [Open repository](https://github.com/0xlittleboy/fuzz4bounty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 254 | 53 | 
 | 2023-03-17 | 251 | 53 | 
 | 2023-03-16 | 222 | 51 | 
 | 2023-03-14 | 209 | 50 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 75 | 25 | 
 | 2023-02-18 | 75 | 25 | 
 | 2023-02-17 | 75 | 25 | 
-| 2023-02-16 | 75 | 25 | 
 

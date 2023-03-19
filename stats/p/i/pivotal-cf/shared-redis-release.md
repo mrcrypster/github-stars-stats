@@ -1,6 +1,6 @@
 # pivotal-cf/shared-redis-release - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 5 | 4 | 
 | 2023-03-17 | 5 | 4 | 
 | 2023-03-16 | 5 | 4 | 
 | 2023-03-15 | 5 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 6 | 4 | 
 | 2023-02-18 | 6 | 4 | 
 | 2023-02-17 | 6 | 4 | 
-| 2023-02-16 | 6 | 4 | 
 

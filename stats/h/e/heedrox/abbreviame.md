@@ -1,10 +1,10 @@
 # heedrox/abbreviame - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 13
+☋ Forks: 12
 
-★ Stars: 86
+★ Stars: 89
 
 [Open repository](https://github.com/heedrox/abbreviame)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 89 | 12 | 
 | 2023-03-16 | 86 | 13 | 
 | 2023-03-15 | 74 | 10 | 
 | 2023-03-14 | 74 | 10 | 

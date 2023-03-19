@@ -1,6 +1,6 @@
 # Olical/conjure - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1269 | 85 | 
 | 2023-03-17 | 1269 | 85 | 
 | 2023-03-15 | 1265 | 85 | 
 | 2023-03-14 | 1264 | 85 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1236 | 83 | 
 | 2023-02-18 | 1235 | 83 | 
 | 2023-02-17 | 1234 | 83 | 
-| 2023-02-16 | 1231 | 83 | 
 

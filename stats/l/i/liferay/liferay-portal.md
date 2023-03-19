@@ -1,10 +1,10 @@
 # liferay/liferay-portal - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3437
 
-★ Stars: 1948
+★ Stars: 1949
 
 [Open repository](https://github.com/liferay/liferay-portal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1949 | 3437 | 
 | 2023-03-17 | 1948 | 3437 | 
 | 2023-03-16 | 1946 | 3437 | 
 | 2023-03-14 | 1945 | 3435 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1939 | 3425 | 
 | 2023-02-19 | 1939 | 3425 | 
 | 2023-02-17 | 1939 | 3425 | 
-| 2023-02-16 | 1939 | 3425 | 
 

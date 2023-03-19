@@ -1,10 +1,10 @@
 # camenduru/controlnet-colab - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 28
 
-★ Stars: 279
+★ Stars: 281
 
 [Open repository](https://github.com/camenduru/controlnet-colab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 281 | 28 | 
 | 2023-03-17 | 279 | 28 | 
 | 2023-03-15 | 272 | 27 | 
 | 2023-03-14 | 266 | 26 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 87 | 8 | 
 | 2023-02-18 | 49 | 7 | 
 | 2023-02-17 | 36 | 6 | 
-| 2023-02-16 | 31 | 4 | 
 

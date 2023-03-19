@@ -1,6 +1,6 @@
 # Screenly/screenly-ose - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 547
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1711 | 547 | 
 | 2023-03-17 | 1711 | 547 | 
 | 2023-03-15 | 1709 | 546 | 
 | 2023-03-14 | 1709 | 545 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1682 | 544 | 
 | 2023-02-18 | 1681 | 544 | 
 | 2023-02-17 | 1681 | 544 | 
-| 2023-02-16 | 1680 | 544 | 
 

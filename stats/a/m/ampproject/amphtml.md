@@ -1,8 +1,8 @@
 # ampproject/amphtml - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 4044
+☋ Forks: 4043
 
 ★ Stars: 14952
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 14952 | 4043 | 
 | 2023-03-16 | 14952 | 4044 | 
 | 2023-03-15 | 14952 | 4044 | 
 | 2023-03-14 | 14953 | 4044 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 14948 | 4043 | 
 | 2023-02-18 | 14947 | 4041 | 
 | 2023-02-17 | 14948 | 4040 | 
-| 2023-02-16 | 14947 | 4041 | 
 

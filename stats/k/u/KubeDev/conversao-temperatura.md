@@ -1,8 +1,8 @@
 # KubeDev/conversao-temperatura - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2391
+☋ Forks: 2388
 
 ★ Stars: 148
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 148 | 2388 | 
 | 2023-03-17 | 148 | 2391 | 
 | 2023-03-16 | 148 | 2392 | 
 | 2023-03-14 | 148 | 2394 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 150 | 2405 | 
 | 2023-02-18 | 150 | 2408 | 
 | 2023-02-17 | 150 | 2408 | 
-| 2023-02-16 | 150 | 2408 | 
 

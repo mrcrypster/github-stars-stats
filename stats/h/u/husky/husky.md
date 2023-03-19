@@ -1,10 +1,10 @@
 # husky/husky - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 376
 
-★ Stars: 352
+★ Stars: 353
 
 [Open repository](https://github.com/husky/husky)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 353 | 376 | 
 | 2023-03-16 | 352 | 376 | 
 | 2023-03-15 | 352 | 375 | 
 | 2023-03-14 | 352 | 374 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 348 | 371 | 
 | 2023-02-18 | 348 | 371 | 
 | 2023-02-17 | 348 | 371 | 
-| 2023-02-16 | 347 | 371 | 
 

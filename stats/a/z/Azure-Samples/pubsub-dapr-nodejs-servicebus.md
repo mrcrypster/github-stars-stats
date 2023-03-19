@@ -1,10 +1,10 @@
 # Azure-Samples/pubsub-dapr-nodejs-servicebus - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Azure-Samples/pubsub-dapr-nodejs-servicebus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2 | 2 | 
 | 2023-03-17 | 1 | 2 | 
 | 2023-03-16 | 1 | 2 | 
 | 2023-03-14 | 1 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1 | 1 | 
 | 2023-02-18 | 1 | 1 | 
 | 2023-02-17 | 1 | 1 | 
-| 2023-02-16 | 1 | 1 | 
 

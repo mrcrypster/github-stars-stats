@@ -1,6 +1,6 @@
 # nettantra/filament-slider-input-field - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 12 | 1 | 
 | 2023-03-17 | 12 | 1 | 
 | 2023-03-15 | 12 | 1 | 
 | 2023-03-14 | 12 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 11 | 1 | 
 | 2023-02-18 | 11 | 1 | 
 | 2023-02-17 | 11 | 1 | 
-| 2023-02-16 | 11 | 1 | 
 

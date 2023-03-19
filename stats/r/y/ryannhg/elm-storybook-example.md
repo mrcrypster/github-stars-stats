@@ -1,10 +1,10 @@
 # ryannhg/elm-storybook-example - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/ryannhg/elm-storybook-example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 43 | 1 | 
 | 2023-03-17 | 44 | 1 | 
 | 2023-03-15 | 44 | 1 | 
 | 2023-03-14 | 44 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 41 | 1 | 
 | 2023-02-18 | 41 | 1 | 
 | 2023-02-17 | 41 | 1 | 
-| 2023-02-16 | 40 | 1 | 
 

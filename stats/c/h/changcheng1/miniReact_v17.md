@@ -1,6 +1,6 @@
 # changcheng1/miniReact_v17 - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 227 | 21 | 
 | 2023-03-17 | 227 | 21 | 
 | 2023-03-16 | 227 | 21 | 
 | 2023-03-15 | 226 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 223 | 21 | 
 | 2023-02-18 | 223 | 21 | 
 | 2023-02-17 | 223 | 21 | 
-| 2023-02-16 | 222 | 21 | 
 

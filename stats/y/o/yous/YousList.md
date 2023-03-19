@@ -1,6 +1,6 @@
 # yous/YousList - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 269 | 36 | 
 | 2023-03-16 | 269 | 36 | 
 | 2023-03-15 | 269 | 36 | 
 | 2023-03-14 | 269 | 36 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 265 | 36 | 
 | 2023-02-18 | 265 | 36 | 
 | 2023-02-17 | 265 | 36 | 
-| 2023-02-16 | 265 | 36 | 
 

@@ -1,10 +1,10 @@
 # sharplispers/ironclad - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 24
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/sharplispers/ironclad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 140 | 24 | 
 | 2023-03-17 | 139 | 24 | 
 | 2023-03-15 | 139 | 24 | 
 | 2023-03-14 | 139 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 137 | 24 | 
 | 2023-02-18 | 137 | 24 | 
 | 2023-02-17 | 137 | 24 | 
-| 2023-02-16 | 137 | 24 | 
 

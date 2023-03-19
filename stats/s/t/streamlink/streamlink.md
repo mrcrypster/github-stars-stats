@@ -1,10 +1,10 @@
 # streamlink/streamlink - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1000
+☋ Forks: 1001
 
-★ Stars: 8470
+★ Stars: 8474
 
 [Open repository](https://github.com/streamlink/streamlink)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 8474 | 1001 | 
 | 2023-03-17 | 8470 | 1000 | 
 | 2023-03-16 | 8465 | 1000 | 
 | 2023-03-14 | 8463 | 1000 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 8382 | 994 | 
 | 2023-02-18 | 8380 | 994 | 
 | 2023-02-17 | 8374 | 994 | 
-| 2023-02-16 | 8370 | 994 | 
 

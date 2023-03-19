@@ -1,8 +1,8 @@
 # gayolGate/gayolGate - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 158
+☋ Forks: 159
 
 ★ Stars: 307
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 307 | 159 | 
 | 2023-03-17 | 307 | 158 | 
 | 2023-03-16 | 305 | 158 | 
 | 2023-03-14 | 303 | 155 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 264 | 150 | 
 | 2023-02-18 | 259 | 148 | 
 | 2023-02-17 | 255 | 145 | 
-| 2023-02-16 | 234 | 135 | 
 

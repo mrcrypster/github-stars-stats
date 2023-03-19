@@ -1,10 +1,10 @@
 # Qoraiche/laravel-mail-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 231
 
-★ Stars: 1906
+★ Stars: 1907
 
 [Open repository](https://github.com/Qoraiche/laravel-mail-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1907 | 231 | 
 | 2023-03-17 | 1906 | 231 | 
 | 2023-03-15 | 1906 | 231 | 
 | 2023-03-14 | 1907 | 230 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1900 | 229 | 
 | 2023-02-18 | 1899 | 229 | 
 | 2023-02-17 | 1900 | 229 | 
-| 2023-02-16 | 1900 | 229 | 
 

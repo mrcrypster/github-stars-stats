@@ -1,10 +1,10 @@
 # dry-rb/dry-monads - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 125
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/dry-rb/dry-monads)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 642 | 125 | 
 | 2023-03-17 | 641 | 125 | 
 | 2023-03-16 | 641 | 125 | 
 | 2023-03-14 | 639 | 125 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 634 | 123 | 
 | 2023-02-18 | 634 | 123 | 
 | 2023-02-17 | 634 | 123 | 
-| 2023-02-16 | 634 | 123 | 
 

@@ -1,10 +1,10 @@
 # rust-lang/miri - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 247
 
-★ Stars: 3081
+★ Stars: 3083
 
 [Open repository](https://github.com/rust-lang/miri)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3083 | 247 | 
 | 2023-03-17 | 3081 | 247 | 
 | 2023-03-16 | 3079 | 247 | 
 | 2023-03-15 | 3075 | 247 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 3009 | 246 | 
 | 2023-02-18 | 3007 | 246 | 
 | 2023-02-17 | 3006 | 246 | 
-| 2023-02-16 | 3004 | 246 | 
 

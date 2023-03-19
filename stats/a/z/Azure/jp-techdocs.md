@@ -1,6 +1,6 @@
 # Azure/jp-techdocs - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 109 | 3 | 
 | 2023-03-17 | 109 | 3 | 
 | 2023-03-15 | 109 | 3 | 
 | 2023-03-14 | 109 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 107 | 3 | 
 | 2023-02-18 | 105 | 3 | 
 | 2023-02-17 | 105 | 3 | 
-| 2023-02-16 | 105 | 3 | 
 

@@ -1,10 +1,10 @@
 # NVlabs/VoxFormer - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 20
 
-★ Stars: 460
+★ Stars: 467
 
 [Open repository](https://github.com/NVlabs/VoxFormer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 467 | 20 | 
 | 2023-03-16 | 460 | 20 | 
 | 2023-03-15 | 454 | 18 | 
 | 2023-03-13 | 448 | 18 | 

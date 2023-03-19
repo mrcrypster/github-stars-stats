@@ -1,8 +1,8 @@
 # cosmos/relayer - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 1619
+☋ Forks: 1622
 
 ★ Stars: 286
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 286 | 1622 | 
 | 2023-03-17 | 286 | 1619 | 
 | 2023-03-15 | 286 | 1618 | 
 | 2023-03-14 | 286 | 1618 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 284 | 1613 | 
 | 2023-02-18 | 284 | 1613 | 
 | 2023-02-17 | 284 | 1613 | 
-| 2023-02-16 | 284 | 1612 | 
 

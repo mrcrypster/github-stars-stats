@@ -1,10 +1,10 @@
 # Lakr233/SafariYYDS - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/Lakr233/SafariYYDS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 265 | 4 | 
 | 2023-03-16 | 264 | 4 | 
 | 2023-03-15 | 261 | 4 | 
 | 2023-03-13 | 261 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 260 | 4 | 
 | 2023-02-18 | 260 | 4 | 
 | 2023-02-17 | 260 | 4 | 
-| 2023-02-16 | 259 | 4 | 
 

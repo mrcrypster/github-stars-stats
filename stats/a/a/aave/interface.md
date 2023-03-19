@@ -1,8 +1,8 @@
 # aave/interface - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 200
+☋ Forks: 201
 
 ★ Stars: 249
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 249 | 201 | 
 | 2023-03-16 | 249 | 200 | 
 | 2023-03-15 | 247 | 200 | 
 | 2023-03-14 | 247 | 199 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 227 | 194 | 
 | 2023-02-18 | 226 | 194 | 
 | 2023-02-17 | 226 | 194 | 
-| 2023-02-16 | 226 | 193 | 
 

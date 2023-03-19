@@ -1,10 +1,10 @@
 # haskell/unix - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 84
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/haskell/unix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 99 | 84 | 
 | 2023-03-17 | 98 | 84 | 
 | 2023-03-15 | 98 | 83 | 
 | 2023-03-14 | 98 | 83 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 97 | 82 | 
 | 2023-02-18 | 97 | 82 | 
 | 2023-02-17 | 97 | 82 | 
-| 2023-02-16 | 97 | 82 | 
 

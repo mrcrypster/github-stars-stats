@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-control-flow-conditional-statements - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
-☋ Forks: 2719
+☋ Forks: 2721
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2 | 2721 | 
 | 2023-03-16 | 2 | 2719 | 
 | 2023-03-15 | 2 | 2716 | 
 | 2023-03-14 | 2 | 2712 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 1 | 2681 | 
 | 2023-02-18 | 1 | 2680 | 
 | 2023-02-17 | 1 | 2679 | 
-| 2023-02-16 | 1 | 2674 | 
 

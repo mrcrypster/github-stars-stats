@@ -1,10 +1,10 @@
 # tensorflow/docs-l10n - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 607
 
-★ Stars: 586
+★ Stars: 587
 
 [Open repository](https://github.com/tensorflow/docs-l10n)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 587 | 607 | 
 | 2023-03-16 | 586 | 607 | 
 | 2023-03-15 | 584 | 605 | 
 | 2023-03-13 | 581 | 601 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 574 | 592 | 
 | 2023-02-18 | 574 | 592 | 
 | 2023-02-17 | 573 | 592 | 
-| 2023-02-16 | 574 | 590 | 
 

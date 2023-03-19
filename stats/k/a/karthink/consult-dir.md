@@ -1,10 +1,10 @@
 # karthink/consult-dir - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 8
 
-★ Stars: 105
+★ Stars: 107
 
 [Open repository](https://github.com/karthink/consult-dir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 107 | 8 | 
 | 2023-03-17 | 105 | 8 | 
 | 2023-03-16 | 105 | 8 | 
 | 2023-03-14 | 105 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 104 | 8 | 
 | 2023-02-18 | 104 | 8 | 
 | 2023-02-17 | 104 | 8 | 
-| 2023-02-16 | 104 | 8 | 
 

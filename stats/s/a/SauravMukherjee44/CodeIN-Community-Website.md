@@ -1,10 +1,10 @@
 # SauravMukherjee44/CodeIN-Community-Website - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 425
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 165 | 425 | 
 | 2023-03-16 | 164 | 425 | 
 | 2023-03-15 | 164 | 426 | 
 | 2023-03-13 | 164 | 426 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 167 | 424 | 
 | 2023-02-18 | 167 | 424 | 
 | 2023-02-17 | 167 | 425 | 
-| 2023-02-16 | 167 | 425 | 
 

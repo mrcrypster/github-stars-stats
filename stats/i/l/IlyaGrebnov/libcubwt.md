@@ -1,10 +1,10 @@
 # IlyaGrebnov/libcubwt - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/IlyaGrebnov/libcubwt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 15 | - | 
 | 2023-03-17 | 14 | - | 
 | 2023-03-15 | 14 | - | 
 | 2023-03-14 | 14 | - | 

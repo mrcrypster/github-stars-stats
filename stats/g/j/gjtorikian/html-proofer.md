@@ -1,6 +1,6 @@
 # gjtorikian/html-proofer - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 206
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1487 | 206 | 
 | 2023-03-16 | 1487 | 206 | 
 | 2023-03-15 | 1488 | 207 | 
 | 2023-03-14 | 1487 | 207 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 1484 | 206 | 
 | 2023-02-18 | 1484 | 206 | 
 | 2023-02-17 | 1483 | 206 | 
-| 2023-02-16 | 1483 | 205 | 
 

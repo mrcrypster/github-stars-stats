@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 18
 
-☋ Forks: 2375
+☋ Forks: 2377
 
-★ Stars: 9315
+★ Stars: 9318
 
 [Open repository](https://github.com/fastai/numerical-linear-algebra)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-18 | 9315 | 2375 | 
+| 2023-03-18 | 9318 | 2377 | 
 | 2023-03-17 | 9314 | 2375 | 
 | 2023-03-16 | 9290 | 2373 | 
 | 2023-03-15 | 9287 | 2373 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-19 | 9190 | 2356 | 
 | 2023-02-18 | 9084 | 2344 | 
 | 2023-02-17 | 9082 | 2344 | 
-| 2023-02-16 | 9082 | 2344 | 
 

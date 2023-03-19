@@ -1,6 +1,6 @@
 # johnthebrit/DevOpsMC - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 302
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 398 | 302 | 
 | 2023-03-17 | 398 | 302 | 
 | 2023-03-15 | 395 | 302 | 
 | 2023-03-14 | 394 | 299 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 386 | 285 | 
 | 2023-02-18 | 385 | 285 | 
 | 2023-02-17 | 383 | 283 | 
-| 2023-02-16 | 383 | 282 | 
 

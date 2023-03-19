@@ -1,6 +1,6 @@
 # dotnet/extensions - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 683
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 2225 | 683 | 
 | 2023-03-16 | 2225 | 683 | 
 | 2023-03-15 | 2225 | 683 | 
 | 2023-03-14 | 2225 | 683 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 2223 | 684 | 
 | 2023-02-18 | 2223 | 684 | 
 | 2023-02-17 | 2223 | 684 | 
-| 2023-02-16 | 2223 | 685 | 
 

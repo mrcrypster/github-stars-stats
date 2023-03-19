@@ -1,6 +1,6 @@
 # salesforce/causalai - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 140 | 11 | 
 | 2023-03-17 | 140 | 11 | 
 | 2023-03-16 | 139 | 11 | 
 | 2023-03-14 | 138 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 123 | 9 | 
 | 2023-02-18 | 123 | 9 | 
 | 2023-02-17 | 123 | 9 | 
-| 2023-02-16 | 122 | 9 | 
 

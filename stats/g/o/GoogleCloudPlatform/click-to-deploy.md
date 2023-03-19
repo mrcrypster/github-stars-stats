@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/click-to-deploy - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 416
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 662 | 416 | 
 | 2023-03-17 | 662 | 416 | 
 | 2023-03-16 | 662 | 414 | 
 | 2023-03-15 | 662 | 413 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 656 | 409 | 
 | 2023-02-19 | 656 | 410 | 
 | 2023-02-17 | 656 | 410 | 
-| 2023-02-16 | 656 | 410 | 
 

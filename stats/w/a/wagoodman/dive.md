@@ -1,10 +1,10 @@
 # wagoodman/dive - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1457
 
-★ Stars: 36124
+★ Stars: 36137
 
 [Open repository](https://github.com/wagoodman/dive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 36137 | 1457 | 
 | 2023-03-17 | 36124 | 1457 | 
 | 2023-03-16 | 36113 | 1456 | 
 | 2023-03-15 | 36091 | 1456 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 35765 | 1439 | 
 | 2023-02-19 | 35760 | 1439 | 
 | 2023-02-17 | 35748 | 1439 | 
-| 2023-02-16 | 35736 | 1439 | 
 

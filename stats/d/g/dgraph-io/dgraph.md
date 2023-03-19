@@ -1,10 +1,10 @@
 # dgraph-io/dgraph - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 1447
 
-★ Stars: 19082
+★ Stars: 19083
 
 [Open repository](https://github.com/dgraph-io/dgraph)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 19083 | 1447 | 
 | 2023-03-17 | 19082 | 1447 | 
 | 2023-03-15 | 19070 | 1447 | 
 | 2023-03-14 | 19060 | 1447 | 

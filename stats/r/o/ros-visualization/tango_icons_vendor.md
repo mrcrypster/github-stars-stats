@@ -1,6 +1,6 @@
 # ros-visualization/tango_icons_vendor - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1 | 1 | 
+| 2023-03-18 | 1 | 1 | 
 | 2023-03-16 | 1 | 1 | 
 | 2023-03-15 | 1 | 1 | 
 | 2023-03-14 | 1 | 1 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | - | 1 | 
 | 2023-02-18 | - | 1 | 
 | 2023-02-17 | - | 1 | 
-| 2023-02-16 | - | 1 | 
 

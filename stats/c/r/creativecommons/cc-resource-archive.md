@@ -1,10 +1,10 @@
 # creativecommons/cc-resource-archive - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 54
+☋ Forks: 59
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/creativecommons/cc-resource-archive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 23 | 59 | 
 | 2023-03-17 | 21 | 54 | 
 | 2023-03-16 | 20 | 54 | 
 | 2023-03-15 | 20 | 52 | 

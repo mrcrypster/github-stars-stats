@@ -1,6 +1,6 @@
 # udacity/self-driving-car - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2066
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 6029 | 2066 | 
 | 2023-03-17 | 6029 | 2066 | 
 | 2023-03-16 | 6028 | 2066 | 
 | 2023-03-14 | 6026 | 2065 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 6015 | 2058 | 
 | 2023-02-18 | 6016 | 2058 | 
 | 2023-02-17 | 6016 | 2058 | 
-| 2023-02-16 | 6016 | 2059 | 
 

@@ -1,10 +1,10 @@
 # revanced/revanced-integrations - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 130
 
-★ Stars: 419
+★ Stars: 421
 
 [Open repository](https://github.com/revanced/revanced-integrations)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 421 | 130 | 
 | 2023-03-16 | 419 | 130 | 
 | 2023-03-15 | 419 | 130 | 
 | 2023-03-13 | 416 | 129 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 409 | 119 | 
 | 2023-02-18 | 408 | 119 | 
 | 2023-02-17 | 408 | 120 | 
-| 2023-02-16 | 408 | 120 | 
 

@@ -1,10 +1,10 @@
 # alibaba/arthas - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 6906
 
-★ Stars: 31956
+★ Stars: 31962
 
 [Open repository](https://github.com/alibaba/arthas)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 31962 | 6906 | 
 | 2023-03-17 | 31956 | 6906 | 
 | 2023-03-16 | 31952 | 6906 | 
 | 2023-03-15 | 31942 | 6905 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 31736 | 6874 | 
 | 2023-02-18 | 31733 | 6874 | 
 | 2023-02-17 | 31733 | 6873 | 
-| 2023-02-16 | 31731 | 6872 | 
 

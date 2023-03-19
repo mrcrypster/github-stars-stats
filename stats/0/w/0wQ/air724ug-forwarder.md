@@ -1,6 +1,6 @@
 # 0wQ/air724ug-forwarder - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 68 | 4 | 
 | 2023-03-16 | 68 | 4 | 
 | 2023-03-15 | 67 | 4 | 
 | 2023-03-14 | 67 | 4 | 

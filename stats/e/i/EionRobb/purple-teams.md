@@ -1,6 +1,6 @@
 # EionRobb/purple-teams - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 113 | 4 | 
 | 2023-03-17 | 113 | 4 | 
 | 2023-03-15 | 110 | 4 | 
 | 2023-03-14 | 110 | 4 | 

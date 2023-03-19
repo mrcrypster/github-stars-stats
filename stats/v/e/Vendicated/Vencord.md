@@ -1,10 +1,10 @@
 # Vendicated/Vencord - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 134
+☋ Forks: 138
 
-★ Stars: 681
+★ Stars: 707
 
 [Open repository](https://github.com/Vendicated/Vencord)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 707 | 138 | 
 | 2023-03-17 | 681 | 134 | 
 | 2023-03-16 | 677 | 134 | 
 | 2023-03-14 | 673 | 133 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 570 | 111 | 
 | 2023-02-18 | 565 | 110 | 
 | 2023-02-17 | 559 | 107 | 
-| 2023-02-16 | 553 | 107 | 
 

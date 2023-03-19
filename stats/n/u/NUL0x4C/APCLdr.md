@@ -1,10 +1,10 @@
 # NUL0x4C/APCLdr - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 35
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/NUL0x4C/APCLdr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 228 | 35 | 
 | 2023-03-17 | 227 | 35 | 
 | 2023-03-16 | 227 | 35 | 
 | 2023-03-15 | 227 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 209 | 34 | 
 | 2023-02-18 | 209 | 34 | 
 | 2023-02-17 | 209 | 34 | 
-| 2023-02-16 | 209 | 34 | 
 

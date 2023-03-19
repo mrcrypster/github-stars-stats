@@ -1,6 +1,6 @@
 # JakobBruenker/monadic-bang - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 33 | - | 
 | 2023-03-17 | 33 | - | 
 | 2023-03-15 | 33 | - | 
 | 2023-03-14 | 33 | - | 

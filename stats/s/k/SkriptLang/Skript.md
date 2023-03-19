@@ -1,6 +1,6 @@
 # SkriptLang/Skript - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 308
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 789 | 308 | 
 | 2023-03-16 | 789 | 308 | 
 | 2023-03-15 | 787 | 308 | 
 | 2023-03-14 | 786 | 309 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-20 | 778 | 307 | 
 | 2023-02-19 | 778 | 307 | 
 | 2023-02-18 | 778 | 307 | 
-| 2023-02-17 | 778 | 306 | 
 

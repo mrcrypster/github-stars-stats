@@ -1,10 +1,10 @@
 # 0xPolygon/core-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 8
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/0xPolygon/core-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 19 | 8 | 
 | 2023-03-17 | 18 | 8 | 
 | 2023-03-16 | 18 | 6 | 
 | 2023-03-14 | 18 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 12 | 5 | 
 | 2023-02-18 | 12 | 5 | 
 | 2023-02-17 | 12 | 5 | 
-| 2023-02-16 | 11 | 4 | 
 

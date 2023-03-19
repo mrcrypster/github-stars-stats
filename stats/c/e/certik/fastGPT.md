@@ -1,10 +1,10 @@
 # certik/fastGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 4
+☋ Forks: 6
 
-★ Stars: 55
+★ Stars: 59
 
 [Open repository](https://github.com/certik/fastGPT)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 59 | 6 | 
+| 2023-03-18 | 57 | 5 | 
 | 2023-03-17 | 55 | 4 | 
 

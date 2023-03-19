@@ -1,10 +1,10 @@
 # mspnp/spark-monitoring - stars & forks statistics
 
-Stats updated on Mar 2023, 16
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 141
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/mspnp/spark-monitoring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 174 | 141 | 
 | 2023-03-16 | 173 | 141 | 
 | 2023-03-15 | 173 | 141 | 
 | 2023-03-14 | 172 | 140 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 16
 | 2023-02-19 | 170 | 139 | 
 | 2023-02-18 | 170 | 139 | 
 | 2023-02-17 | 170 | 139 | 
-| 2023-02-16 | 170 | 139 | 
 

@@ -1,10 +1,10 @@
 # denysvitali/thebestmotherfuckingwebsite - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 35
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/denysvitali/thebestmotherfuckingwebsite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 409 | 35 | 
 | 2023-03-17 | 408 | 35 | 
 | 2023-03-16 | 408 | 35 | 
 | 2023-03-15 | 408 | 35 | 

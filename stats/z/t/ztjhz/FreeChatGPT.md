@@ -1,10 +1,10 @@
 # ztjhz/FreeChatGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 192
+☋ Forks: 211
 
-★ Stars: 694
+★ Stars: 752
 
 [Open repository](https://github.com/ztjhz/FreeChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 752 | 211 | 
 | 2023-03-17 | 694 | 192 | 
 | 2023-03-16 | 594 | 167 | 
 | 2023-03-15 | 526 | 145 | 

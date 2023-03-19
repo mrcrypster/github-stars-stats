@@ -1,10 +1,10 @@
 # ps2homebrew/Open-PS2-Loader - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 197
+☋ Forks: 198
 
-★ Stars: 1468
+★ Stars: 1469
 
 [Open repository](https://github.com/ps2homebrew/Open-PS2-Loader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 1469 | 198 | 
 | 2023-03-17 | 1468 | 197 | 
 | 2023-03-16 | 1469 | 198 | 
 | 2023-03-14 | 1466 | 197 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 1436 | 193 | 
 | 2023-02-18 | 1436 | 192 | 
 | 2023-02-17 | 1433 | 192 | 
-| 2023-02-16 | 1433 | 192 | 
 

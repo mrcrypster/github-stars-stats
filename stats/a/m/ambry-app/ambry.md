@@ -1,10 +1,10 @@
 # ambry-app/ambry - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/ambry-app/ambry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 38 | 5 | 
 | 2023-03-17 | 36 | 5 | 
 | 2023-03-16 | 36 | 5 | 
 | 2023-03-14 | 36 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 35 | 5 | 
 | 2023-02-18 | 35 | 5 | 
 | 2023-02-17 | 35 | 5 | 
-| 2023-02-16 | 35 | 5 | 
 

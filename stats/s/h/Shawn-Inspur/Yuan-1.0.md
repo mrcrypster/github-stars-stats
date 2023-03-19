@@ -1,6 +1,6 @@
 # Shawn-Inspur/Yuan-1.0 - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 485 | 97 | 
 | 2023-03-17 | 485 | 97 | 
 | 2023-03-15 | 483 | 96 | 
 | 2023-03-14 | 483 | 96 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 463 | 94 | 
 | 2023-02-18 | 463 | 94 | 
 | 2023-02-17 | 461 | 94 | 
-| 2023-02-16 | 458 | 94 | 
 

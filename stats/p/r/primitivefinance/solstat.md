@@ -1,6 +1,6 @@
 # primitivefinance/solstat - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 99 | 2 | 
 | 2023-03-17 | 99 | 2 | 
 | 2023-03-15 | 99 | 2 | 
 | 2023-03-14 | 98 | 2 | 

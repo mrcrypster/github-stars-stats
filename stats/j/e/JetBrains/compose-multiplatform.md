@@ -1,10 +1,10 @@
 # JetBrains/compose-multiplatform - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 815
+☋ Forks: 817
 
-★ Stars: 10522
+★ Stars: 10533
 
 [Open repository](https://github.com/JetBrains/compose-multiplatform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 10533 | 817 | 
 | 2023-03-17 | 10522 | 815 | 
 | 2023-03-16 | 10513 | 812 | 
 | 2023-03-15 | 10501 | 811 | 

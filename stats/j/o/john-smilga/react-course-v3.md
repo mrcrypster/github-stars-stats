@@ -1,10 +1,10 @@
 # john-smilga/react-course-v3 - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 117
+☋ Forks: 121
 
-★ Stars: 178
+★ Stars: 189
 
 [Open repository](https://github.com/john-smilga/react-course-v3)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 189 | 121 | 
+| 2023-03-18 | 186 | 117 | 
 | 2023-03-17 | 178 | 117 | 
 | 2023-03-16 | 167 | 108 | 
 | 2023-03-15 | 142 | 101 | 

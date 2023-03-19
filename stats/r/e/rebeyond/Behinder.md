@@ -1,10 +1,10 @@
 # rebeyond/Behinder - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 18
 
-☋ Forks: 913
+☋ Forks: 914
 
-★ Stars: 4780
+★ Stars: 4782
 
 [Open repository](https://github.com/rebeyond/Behinder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-18 | 4782 | 914 | 
 | 2023-03-17 | 4780 | 913 | 
 | 2023-03-15 | 4778 | 913 | 
 | 2023-03-14 | 4776 | 912 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-19 | 4720 | 911 | 
 | 2023-02-18 | 4716 | 911 | 
 | 2023-02-17 | 4714 | 911 | 
-| 2023-02-16 | 4711 | 912 | 
 
