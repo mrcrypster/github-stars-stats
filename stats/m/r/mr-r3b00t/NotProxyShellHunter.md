@@ -1,6 +1,6 @@
 # mr-r3b00t/NotProxyShellHunter - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 26 | 10 | 
 | 2023-03-18 | 26 | 10 | 
 | 2023-03-17 | 26 | 10 | 
 | 2023-03-15 | 26 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 26 | 10 | 
 | 2023-02-20 | 26 | 10 | 
 | 2023-02-18 | 26 | 10 | 
-| 2023-02-17 | 26 | 10 | 
 

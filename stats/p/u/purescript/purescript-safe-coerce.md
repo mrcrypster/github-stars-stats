@@ -1,10 +1,10 @@
 # purescript/purescript-safe-coerce - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/purescript/purescript-safe-coerce)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 20 | 4 | 
 | 2023-03-18 | 19 | 4 | 
 | 2023-03-17 | 19 | 4 | 
 | 2023-03-15 | 19 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 18 | 4 | 
 | 2023-02-19 | 18 | 4 | 
 | 2023-02-18 | 18 | 4 | 
-| 2023-02-17 | 18 | 4 | 
 

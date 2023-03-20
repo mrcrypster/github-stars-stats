@@ -1,6 +1,6 @@
 # ese-msc/c-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | - | 60 | 
 | 2023-03-18 | - | 60 | 
 | 2023-03-17 | - | 60 | 
 | 2023-03-16 | - | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1 | 56 | 
 | 2023-02-19 | 1 | 56 | 
 | 2023-02-18 | 1 | 56 | 
-| 2023-02-17 | 1 | 56 | 
 

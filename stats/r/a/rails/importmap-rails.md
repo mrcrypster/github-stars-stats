@@ -1,6 +1,6 @@
 # rails/importmap-rails - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 845 | 97 | 
 | 2023-03-17 | 845 | 97 | 
 | 2023-03-16 | 844 | 97 | 
 | 2023-03-15 | 844 | 97 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 825 | 93 | 
 | 2023-02-19 | 821 | 93 | 
 | 2023-02-18 | 821 | 93 | 
-| 2023-02-17 | 821 | 93 | 
 

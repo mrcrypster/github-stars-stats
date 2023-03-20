@@ -1,10 +1,10 @@
 # docToolchain/docToolchain - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 197
 
-★ Stars: 594
+★ Stars: 595
 
 [Open repository](https://github.com/docToolchain/docToolchain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 595 | 197 | 
 | 2023-03-18 | 594 | 197 | 
 | 2023-03-17 | 594 | 197 | 
 | 2023-03-16 | 594 | 197 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 584 | 190 | 
 | 2023-02-20 | 583 | 190 | 
 | 2023-02-18 | 583 | 190 | 
-| 2023-02-17 | 582 | 189 | 
 

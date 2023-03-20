@@ -1,10 +1,10 @@
 # mjovanc/awesome-ktor - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 7
 
-★ Stars: 94
+★ Stars: 116
 
 [Open repository](https://github.com/mjovanc/awesome-ktor)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 116 | 7 | 
 | 2023-03-18 | 94 | 7 | 
 

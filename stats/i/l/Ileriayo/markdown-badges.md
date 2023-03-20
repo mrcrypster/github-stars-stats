@@ -1,10 +1,10 @@
 # Ileriayo/markdown-badges - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1083
 
-★ Stars: 7216
+★ Stars: 7218
 
 [Open repository](https://github.com/Ileriayo/markdown-badges)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 7218 | 1083 | 
 | 2023-03-18 | 7216 | 1083 | 
 | 2023-03-16 | 7194 | 1081 | 
 | 2023-03-15 | 7179 | 1079 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 6930 | 1049 | 
 | 2023-02-19 | 6910 | 1045 | 
 | 2023-02-18 | 6897 | 1044 | 
-| 2023-02-17 | 6885 | 1043 | 
 

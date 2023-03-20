@@ -1,10 +1,10 @@
 # yanirs/established-remote - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 510
 
-★ Stars: 6042
+★ Stars: 6043
 
 [Open repository](https://github.com/yanirs/established-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 6043 | 510 | 
 | 2023-03-17 | 6042 | 510 | 
 | 2023-03-16 | 6035 | 510 | 
 | 2023-03-15 | 6033 | 509 | 

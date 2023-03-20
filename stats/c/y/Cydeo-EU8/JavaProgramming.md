@@ -1,6 +1,6 @@
 # Cydeo-EU8/JavaProgramming - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 43 | 73 | 
 | 2023-03-18 | 43 | 73 | 
 | 2023-03-17 | 43 | 73 | 
 | 2023-03-16 | 42 | 73 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 42 | 74 | 
 | 2023-02-19 | 41 | 74 | 
 | 2023-02-18 | 41 | 74 | 
-| 2023-02-17 | 41 | 74 | 
 

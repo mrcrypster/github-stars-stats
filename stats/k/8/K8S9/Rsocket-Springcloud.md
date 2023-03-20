@@ -1,10 +1,10 @@
 # K8S9/Rsocket-Springcloud - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 15
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/K8S9/Rsocket-Springcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 174 | 15 | 
 | 2023-03-17 | 173 | 15 | 
 | 2023-03-16 | 171 | 15 | 
 | 2023-03-15 | 169 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 125 | 13 | 
 | 2023-02-19 | 124 | 13 | 
 | 2023-02-18 | 120 | 13 | 
-| 2023-02-17 | 110 | 13 | 
 

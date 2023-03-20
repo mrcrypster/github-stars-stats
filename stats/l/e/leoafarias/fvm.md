@@ -1,10 +1,10 @@
 # leoafarias/fvm - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 159
 
-★ Stars: 3345
+★ Stars: 3346
 
 [Open repository](https://github.com/leoafarias/fvm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3346 | 159 | 
 | 2023-03-18 | 3345 | 159 | 
 | 2023-03-16 | 3341 | 159 | 
 | 2023-03-15 | 3341 | 159 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 3282 | 158 | 
 | 2023-02-19 | 3283 | 158 | 
 | 2023-02-18 | 3279 | 158 | 
-| 2023-02-17 | 3274 | 157 | 
 

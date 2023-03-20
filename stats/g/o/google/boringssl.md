@@ -1,10 +1,10 @@
 # google/boringssl - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 655
+☋ Forks: 656
 
-★ Stars: 1453
+★ Stars: 1454
 
 [Open repository](https://github.com/google/boringssl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1454 | 656 | 
 | 2023-03-17 | 1453 | 655 | 
 | 2023-03-16 | 1453 | 654 | 
 | 2023-03-15 | 1453 | 652 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1438 | 646 | 
 | 2023-02-19 | 1438 | 646 | 
 | 2023-02-18 | 1438 | 646 | 
-| 2023-02-17 | 1437 | 645 | 
 

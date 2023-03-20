@@ -1,6 +1,6 @@
 # darrenjw/fp-ssc-course - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 54 | 1 | 
 | 2023-03-18 | 54 | 1 | 
 | 2023-03-17 | 54 | 1 | 
 | 2023-03-15 | 54 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 52 | 1 | 
 | 2023-02-19 | 52 | 1 | 
 | 2023-02-18 | 52 | 1 | 
-| 2023-02-17 | 52 | 1 | 
 

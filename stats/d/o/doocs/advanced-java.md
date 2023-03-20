@@ -1,10 +1,10 @@
 # doocs/advanced-java - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 18143
+☋ Forks: 18146
 
-★ Stars: 69142
+★ Stars: 69157
 
 [Open repository](https://github.com/doocs/advanced-java)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 69157 | 18146 | 
 | 2023-03-18 | 69142 | 18143 | 
 | 2023-03-16 | 69120 | 18141 | 
 | 2023-03-15 | 69083 | 18143 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 68672 | 18077 | 
 | 2023-02-19 | 68652 | 18077 | 
 | 2023-02-18 | 68638 | 18074 | 
-| 2023-02-17 | 68623 | 18071 | 
 

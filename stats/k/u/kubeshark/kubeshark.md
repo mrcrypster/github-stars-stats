@@ -1,10 +1,10 @@
 # kubeshark/kubeshark - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 309
+☋ Forks: 311
 
-★ Stars: 8514
+★ Stars: 8522
 
 [Open repository](https://github.com/kubeshark/kubeshark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 8522 | 311 | 
 | 2023-03-18 | 8514 | 309 | 
 | 2023-03-17 | 8504 | 308 | 
 | 2023-03-16 | 8494 | 308 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 8342 | 305 | 
 | 2023-02-19 | 8337 | 305 | 
 | 2023-02-18 | 8331 | 305 | 
-| 2023-02-17 | 8324 | 304 | 
 

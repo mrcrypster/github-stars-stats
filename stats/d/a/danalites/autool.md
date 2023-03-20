@@ -1,10 +1,10 @@
 # danalites/autool - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/danalites/autool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 148 | 8 | 
 | 2023-03-18 | 147 | 6 | 
 | 2023-03-17 | 141 | 6 | 
 | 2023-03-15 | 131 | 6 | 

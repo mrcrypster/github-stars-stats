@@ -1,0 +1,17 @@
+# phoreverpheebs/gibberish - stars & forks statistics
+
+Stats updated on Mar 2023, 19
+
+☋ Forks: 2
+
+★ Stars: 35
+
+[Open repository](https://github.com/phoreverpheebs/gibberish)
+
+[Open detailed stats for phoreverpheebs/gibberish](https://reviewgithub.com/rep/phoreverpheebs/gibberish)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-19 | 35 | 2 | 
+

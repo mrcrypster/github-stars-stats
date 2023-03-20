@@ -1,10 +1,10 @@
 # juspay/hyperswitch - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 195
+☋ Forks: 197
 
-★ Stars: 2702
+★ Stars: 2717
 
 [Open repository](https://github.com/juspay/hyperswitch)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2717 | 197 | 
+| 2023-03-19 | 2713 | 197 | 
 | 2023-03-18 | 2702 | 195 | 
 | 2023-03-17 | 2699 | 191 | 
 | 2023-03-16 | 2698 | 186 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 2626 | 171 | 
 | 2023-02-19 | 2621 | 171 | 
 | 2023-02-18 | 2612 | 171 | 
-| 2023-02-17 | 2607 | 171 | 
 

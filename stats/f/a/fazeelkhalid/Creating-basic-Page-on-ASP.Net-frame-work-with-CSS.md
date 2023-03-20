@@ -1,6 +1,6 @@
 # fazeelkhalid/Creating-basic-Page-on-ASP.Net-frame-work-with-CSS - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3 | 12 | 
 | 2023-03-18 | 3 | 12 | 
 | 2023-03-17 | 3 | 12 | 
 | 2023-03-16 | 3 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 3 | 12 | 
 | 2023-02-20 | 3 | 12 | 
 | 2023-02-18 | 3 | 12 | 
-| 2023-02-17 | 3 | 12 | 
 

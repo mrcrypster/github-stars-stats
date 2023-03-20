@@ -1,10 +1,10 @@
 # ossf/scorecard - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 343
 
-★ Stars: 3282
+★ Stars: 3283
 
 [Open repository](https://github.com/ossf/scorecard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3283 | 343 | 
 | 2023-03-18 | 3282 | 343 | 
 | 2023-03-17 | 3279 | 342 | 
 | 2023-03-15 | 3277 | 342 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 3228 | 339 | 
 | 2023-02-19 | 3226 | 338 | 
 | 2023-02-18 | 3226 | 338 | 
-| 2023-02-17 | 3225 | 338 | 
 

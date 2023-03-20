@@ -1,10 +1,10 @@
 # kwindrem/GuiMods - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 16
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/kwindrem/GuiMods)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 99 | 16 | 
 | 2023-03-18 | 98 | 16 | 
 | 2023-03-17 | 98 | 16 | 
 | 2023-03-15 | 98 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 93 | 15 | 
 | 2023-02-19 | 93 | 15 | 
 | 2023-02-18 | 93 | 15 | 
-| 2023-02-17 | 92 | 15 | 
 

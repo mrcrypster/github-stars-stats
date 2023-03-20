@@ -1,10 +1,10 @@
 # salvadordf/CEF4Delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 329
 
-★ Stars: 1034
+★ Stars: 1037
 
 [Open repository](https://github.com/salvadordf/CEF4Delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1037 | 329 | 
 | 2023-03-18 | 1034 | 329 | 
 | 2023-03-17 | 1035 | 329 | 
 | 2023-03-16 | 1034 | 329 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1024 | 326 | 
 | 2023-02-19 | 1023 | 326 | 
 | 2023-02-18 | 1022 | 326 | 
-| 2023-02-17 | 1021 | 326 | 
 

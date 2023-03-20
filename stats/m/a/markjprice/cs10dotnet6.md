@@ -1,10 +1,10 @@
 # markjprice/cs10dotnet6 - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 333
+☋ Forks: 334
 
-★ Stars: 706
+★ Stars: 707
 
 [Open repository](https://github.com/markjprice/cs10dotnet6)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 707 | 334 | 
 | 2023-03-18 | 706 | 333 | 
 | 2023-03-16 | 705 | 332 | 
 | 2023-03-15 | 703 | 332 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 694 | 333 | 
 | 2023-02-19 | 694 | 333 | 
 | 2023-02-18 | 693 | 334 | 
-| 2023-02-17 | 692 | 334 | 
 

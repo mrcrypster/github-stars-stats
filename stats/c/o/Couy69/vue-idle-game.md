@@ -1,6 +1,6 @@
 # Couy69/vue-idle-game - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 913 | 139 | 
 | 2023-03-17 | 913 | 139 | 
 | 2023-03-16 | 912 | 139 | 
 | 2023-03-15 | 912 | 139 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 896 | 137 | 
 | 2023-02-19 | 896 | 137 | 
 | 2023-02-18 | 895 | 137 | 
-| 2023-02-17 | 895 | 136 | 
 

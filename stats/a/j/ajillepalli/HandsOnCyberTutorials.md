@@ -1,6 +1,6 @@
 # ajillepalli/HandsOnCyberTutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 6 | 17 | 
 | 2023-03-17 | 6 | 17 | 
 | 2023-03-16 | 6 | 17 | 
 | 2023-03-15 | 6 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 5 | 17 | 
 | 2023-02-19 | 5 | 17 | 
 | 2023-02-18 | 5 | 17 | 
-| 2023-02-17 | 5 | 17 | 
 

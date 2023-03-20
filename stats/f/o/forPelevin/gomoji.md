@@ -1,10 +1,10 @@
 # forPelevin/gomoji - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 113
 
-★ Stars: 282
+★ Stars: 227
 
 [Open repository](https://github.com/forPelevin/gomoji)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 227 | 113 | 
 | 2023-03-18 | 282 | 113 | 
 | 2023-03-16 | 282 | 113 | 
 | 2023-03-15 | 282 | 113 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 291 | 113 | 
 | 2023-02-19 | 291 | 113 | 
 | 2023-02-18 | 291 | 113 | 
-| 2023-02-17 | 291 | 113 | 
 

@@ -1,6 +1,6 @@
 # brucefan1983/CUDA-Programming - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 805 | 205 | 
 | 2023-03-17 | 805 | 205 | 
 | 2023-03-16 | 804 | 205 | 
 | 2023-03-15 | 801 | 205 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 779 | 200 | 
 | 2023-02-19 | 779 | 200 | 
 | 2023-02-18 | 779 | 200 | 
-| 2023-02-17 | 779 | 199 | 
 

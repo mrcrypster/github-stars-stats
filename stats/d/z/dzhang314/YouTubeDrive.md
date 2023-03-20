@@ -1,10 +1,10 @@
 # dzhang314/YouTubeDrive - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 1771
+★ Stars: 1773
 
 [Open repository](https://github.com/dzhang314/YouTubeDrive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1773 | 44 | 
 | 2023-03-18 | 1771 | 43 | 
 | 2023-03-17 | 1770 | 43 | 
 | 2023-03-15 | 1769 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1729 | 41 | 
 | 2023-02-19 | 1723 | 41 | 
 | 2023-02-18 | 1723 | 41 | 
-| 2023-02-17 | 1723 | 41 | 
 

@@ -1,10 +1,10 @@
 # PollRobots/scheme - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 5
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/PollRobots/scheme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 141 | 5 | 
 | 2023-03-18 | 140 | 5 | 
 | 2023-03-16 | 140 | 5 | 
 | 2023-03-15 | 140 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 136 | 5 | 
 | 2023-02-19 | 134 | 5 | 
 | 2023-02-18 | 134 | 5 | 
-| 2023-02-17 | 134 | 5 | 
 

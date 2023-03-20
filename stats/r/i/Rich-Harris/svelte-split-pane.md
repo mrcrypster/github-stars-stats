@@ -1,6 +1,6 @@
 # Rich-Harris/svelte-split-pane - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 50 | 3 | 
 | 2023-03-18 | 50 | 3 | 
 | 2023-03-17 | 49 | 3 | 
 | 2023-03-15 | 48 | 3 | 

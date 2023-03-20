@@ -1,6 +1,6 @@
 # hotosm/raw-data-api - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 7 | 2 | 
 | 2023-03-18 | 7 | 2 | 
 | 2023-03-17 | 7 | 2 | 
 | 2023-03-15 | 7 | 2 | 

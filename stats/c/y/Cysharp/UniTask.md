@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 19
 
 ☋ Forks: 544
 
-★ Stars: 5014
+★ Stars: 5015
 
 [Open repository](https://github.com/Cysharp/UniTask)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 5014 | 544 | 
+| 2023-03-19 | 5015 | 544 | 
 | 2023-03-18 | 5013 | 544 | 
 | 2023-03-17 | 5008 | 543 | 
 | 2023-03-16 | 4999 | 540 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 4820 | 519 | 
 | 2023-02-19 | 4811 | 519 | 
 | 2023-02-18 | 4809 | 519 | 
-| 2023-02-17 | 4804 | 518 | 
 

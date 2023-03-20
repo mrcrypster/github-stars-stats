@@ -1,10 +1,10 @@
 # gnbdev/opengnb - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 182
 
-★ Stars: 789
+★ Stars: 790
 
 [Open repository](https://github.com/gnbdev/opengnb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 790 | 182 | 
 | 2023-03-17 | 789 | 182 | 
 | 2023-03-16 | 788 | 182 | 
 | 2023-03-15 | 787 | 182 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 781 | 176 | 
 | 2023-02-19 | 780 | 176 | 
 | 2023-02-18 | 780 | 176 | 
-| 2023-02-17 | 779 | 176 | 
 

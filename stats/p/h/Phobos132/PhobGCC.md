@@ -1,6 +1,6 @@
 # Phobos132/PhobGCC - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 95 | 6 | 
 | 2023-03-18 | 95 | 6 | 
 | 2023-03-16 | 95 | 6 | 
 | 2023-03-15 | 95 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 94 | 6 | 
 | 2023-02-19 | 94 | 6 | 
 | 2023-02-18 | 94 | 6 | 
-| 2023-02-17 | 94 | 6 | 
 

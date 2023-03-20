@@ -1,10 +1,10 @@
 # atlassian/react-beautiful-dnd - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 2360
+☋ Forks: 2362
 
-★ Stars: 29529
+★ Stars: 29541
 
 [Open repository](https://github.com/atlassian/react-beautiful-dnd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 29541 | 2362 | 
 | 2023-03-18 | 29529 | 2360 | 
 | 2023-03-17 | 29521 | 2357 | 
 | 2023-03-16 | 29517 | 2357 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 29277 | 2336 | 
 | 2023-02-19 | 29271 | 2336 | 
 | 2023-02-18 | 29267 | 2335 | 
-| 2023-02-17 | 29262 | 2333 | 
 

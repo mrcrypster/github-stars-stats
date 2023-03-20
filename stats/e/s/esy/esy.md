@@ -1,10 +1,10 @@
 # esy/esy - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 93
 
-★ Stars: 798
+★ Stars: 799
 
 [Open repository](https://github.com/esy/esy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 799 | 93 | 
 | 2023-03-17 | 798 | 93 | 
 | 2023-03-16 | 798 | 93 | 
 | 2023-03-15 | 798 | 93 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 796 | 93 | 
 | 2023-02-19 | 796 | 93 | 
 | 2023-02-18 | 796 | 93 | 
-| 2023-02-17 | 797 | 93 | 
 

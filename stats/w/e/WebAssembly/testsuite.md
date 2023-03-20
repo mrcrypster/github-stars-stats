@@ -1,6 +1,6 @@
 # WebAssembly/testsuite - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 144 | 53 | 
 | 2023-03-18 | 144 | 53 | 
 | 2023-03-17 | 144 | 53 | 
 | 2023-03-16 | 144 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 142 | 50 | 
 | 2023-02-19 | 142 | 50 | 
 | 2023-02-18 | 142 | 50 | 
-| 2023-02-17 | 142 | 50 | 
 

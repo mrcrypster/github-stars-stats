@@ -1,10 +1,10 @@
 # fromann/heart - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 66
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/fromann/heart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 40 | 66 | 
 | 2023-03-18 | 39 | 66 | 
 | 2023-03-16 | 39 | 66 | 
 | 2023-03-15 | 39 | 66 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 37 | 65 | 
 | 2023-02-19 | 37 | 65 | 
 | 2023-02-18 | 37 | 65 | 
-| 2023-02-17 | 37 | 65 | 
 

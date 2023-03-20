@@ -1,10 +1,10 @@
 # hogoww/Polyphemus - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 4
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/hogoww/Polyphemus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 12 | 4 | 
 | 2023-03-18 | 11 | 4 | 
 | 2023-03-16 | 11 | 4 | 
 | 2023-03-15 | 11 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 11 | 2 | 
 | 2023-02-20 | 11 | 2 | 
 | 2023-02-19 | 11 | 2 | 
-| 2023-02-17 | 11 | 2 | 
 

@@ -1,10 +1,10 @@
 # yujincheng08/BiliRoaming - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 383
 
-★ Stars: 6387
+★ Stars: 6402
 
 [Open repository](https://github.com/yujincheng08/BiliRoaming)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 6402 | 383 | 
 | 2023-03-18 | 6387 | 383 | 
 | 2023-03-17 | 6375 | 384 | 
 | 2023-03-16 | 6367 | 384 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 6222 | 374 | 
 | 2023-02-19 | 6217 | 373 | 
 | 2023-02-18 | 6215 | 373 | 
-| 2023-02-17 | 6208 | 373 | 
 

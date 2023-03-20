@@ -1,6 +1,6 @@
 # ImperialCollegeLondon/MicroprocessorsLab - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 5 | 87 | 
 | 2023-03-18 | 5 | 87 | 
 | 2023-03-17 | 5 | 87 | 
 | 2023-03-15 | 5 | 87 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 5 | 88 | 
 | 2023-02-19 | 5 | 88 | 
 | 2023-02-18 | 5 | 88 | 
-| 2023-02-17 | 5 | 88 | 
 

@@ -1,6 +1,6 @@
 # apache/atlas - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 769
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1495 | 769 | 
 | 2023-03-18 | 1495 | 769 | 
 | 2023-03-16 | 1494 | 769 | 
 | 2023-03-15 | 1493 | 769 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1471 | 765 | 
 | 2023-02-19 | 1471 | 765 | 
 | 2023-02-18 | 1469 | 764 | 
-| 2023-02-17 | 1467 | 764 | 
 

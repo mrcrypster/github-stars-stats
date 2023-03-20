@@ -1,10 +1,10 @@
 # sethvargo/ratchet - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 27
 
-★ Stars: 713
+★ Stars: 714
 
 [Open repository](https://github.com/sethvargo/ratchet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 714 | 27 | 
 | 2023-03-18 | 713 | 27 | 
 | 2023-03-17 | 713 | 27 | 
 | 2023-03-16 | 713 | 27 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 712 | 27 | 
 | 2023-02-19 | 713 | 27 | 
 | 2023-02-18 | 713 | 27 | 
-| 2023-02-17 | 713 | 27 | 
 

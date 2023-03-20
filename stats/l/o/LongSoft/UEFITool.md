@@ -1,10 +1,10 @@
 # LongSoft/UEFITool - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 548
 
-★ Stars: 3292
+★ Stars: 3294
 
 [Open repository](https://github.com/LongSoft/UEFITool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3294 | 548 | 
 | 2023-03-17 | 3292 | 548 | 
 | 2023-03-16 | 3290 | 550 | 
 | 2023-03-15 | 3287 | 550 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 3239 | 546 | 
 | 2023-02-19 | 3235 | 546 | 
 | 2023-02-18 | 3232 | 546 | 
-| 2023-02-17 | 3230 | 546 | 
 

@@ -1,6 +1,6 @@
 # fholger/vrperfkit - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 953 | 38 | 
 | 2023-03-18 | 953 | 38 | 
 | 2023-03-17 | 951 | 38 | 
 | 2023-03-16 | 949 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 923 | 38 | 
 | 2023-02-19 | 921 | 38 | 
 | 2023-02-18 | 920 | 38 | 
-| 2023-02-17 | 919 | 38 | 
 

@@ -1,10 +1,10 @@
 # spring-io/initializr - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1608
 
-★ Stars: 3078
+★ Stars: 3077
 
 [Open repository](https://github.com/spring-io/initializr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3077 | 1608 | 
 | 2023-03-18 | 3078 | 1608 | 
 | 2023-03-16 | 3078 | 1608 | 
 | 2023-03-15 | 3076 | 1609 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 3064 | 1602 | 
 | 2023-02-20 | 3066 | 1601 | 
 | 2023-02-18 | 3065 | 1600 | 
-| 2023-02-17 | 3063 | 1600 | 
 

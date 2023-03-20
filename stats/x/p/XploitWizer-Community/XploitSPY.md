@@ -1,10 +1,10 @@
 # XploitWizer-Community/XploitSPY - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 514
+☋ Forks: 515
 
-★ Stars: 839
+★ Stars: 840
 
 [Open repository](https://github.com/XploitWizer-Community/XploitSPY)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 840 | 515 | 
 | 2023-03-18 | 839 | 514 | 
 | 2023-03-16 | 839 | 514 | 
 | 2023-03-15 | 838 | 514 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 829 | 513 | 
 | 2023-02-19 | 829 | 513 | 
 | 2023-02-18 | 829 | 513 | 
-| 2023-02-17 | 828 | 513 | 
 

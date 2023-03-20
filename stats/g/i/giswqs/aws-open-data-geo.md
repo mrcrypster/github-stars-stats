@@ -1,10 +1,10 @@
 # giswqs/aws-open-data-geo - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 6
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/giswqs/aws-open-data-geo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 239 | 6 | 
 | 2023-03-18 | 238 | 6 | 
 | 2023-03-17 | 238 | 6 | 
 | 2023-03-16 | 238 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 234 | 6 | 
 | 2023-02-20 | 233 | 6 | 
 | 2023-02-19 | 233 | 6 | 
-| 2023-02-18 | 233 | 6 | 
 

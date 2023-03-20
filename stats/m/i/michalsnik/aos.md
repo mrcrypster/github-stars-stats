@@ -1,10 +1,10 @@
 # michalsnik/aos - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 2395
+☋ Forks: 2397
 
-★ Stars: 22992
+★ Stars: 23000
 
 [Open repository](https://github.com/michalsnik/aos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 23000 | 2397 | 
 | 2023-03-17 | 22992 | 2395 | 
 | 2023-03-16 | 22982 | 2395 | 
 | 2023-03-15 | 22965 | 2394 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 22756 | 2383 | 
 | 2023-02-19 | 22752 | 2384 | 
 | 2023-02-18 | 22749 | 2383 | 
-| 2023-02-17 | 22741 | 2382 | 
 

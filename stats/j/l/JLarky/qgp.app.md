@@ -1,10 +1,10 @@
 # JLarky/qgp.app - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/JLarky/qgp.app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 20 | 2 | 
 | 2023-03-17 | 19 | 2 | 
 | 2023-03-16 | 19 | 2 | 
 | 2023-03-15 | 19 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 14 | 2 | 
 | 2023-02-19 | 13 | 2 | 
 | 2023-02-18 | 12 | 2 | 
-| 2023-02-17 | 12 | 2 | 
 

@@ -1,10 +1,10 @@
 # tom-mohr/particle-life-app - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 32
 
-★ Stars: 413
+★ Stars: 414
 
 [Open repository](https://github.com/tom-mohr/particle-life-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 414 | 32 | 
 | 2023-03-17 | 413 | 32 | 
 | 2023-03-16 | 410 | 32 | 
 | 2023-03-14 | 410 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 368 | 31 | 
 | 2023-02-20 | 368 | 30 | 
 | 2023-02-19 | 365 | 30 | 
-| 2023-02-17 | 359 | 30 | 
 

@@ -1,10 +1,10 @@
 # echasnovski/mini.indentscope - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/echasnovski/mini.indentscope)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 46 | 1 | 
 | 2023-03-18 | 44 | 1 | 
 | 2023-03-17 | 43 | 1 | 
 | 2023-03-15 | 43 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 35 | 1 | 
 | 2023-02-19 | 35 | 1 | 
 | 2023-02-18 | 35 | 1 | 
-| 2023-02-17 | 35 | 1 | 
 

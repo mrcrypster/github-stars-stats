@@ -1,6 +1,6 @@
 # pepsico-ecommerce/crunch_berry - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 10 | - | 
 | 2023-03-17 | 10 | - | 
 | 2023-03-16 | 10 | - | 
 | 2023-03-15 | 10 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 10 | - | 
 | 2023-02-19 | 10 | - | 
 | 2023-02-18 | 10 | - | 
-| 2023-02-17 | 10 | - | 
 

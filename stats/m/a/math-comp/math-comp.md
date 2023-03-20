@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 19
 
 ☋ Forks: 98
 
-★ Stars: 466
+★ Stars: 467
 
 [Open repository](https://github.com/math-comp/math-comp)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 466 | 98 | 
+| 2023-03-19 | 467 | 98 | 
 | 2023-03-18 | 466 | 98 | 
 | 2023-03-16 | 466 | 98 | 
 | 2023-03-15 | 465 | 98 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 460 | 97 | 
 | 2023-02-19 | 460 | 97 | 
 | 2023-02-18 | 460 | 97 | 
-| 2023-02-17 | 459 | 97 | 
 

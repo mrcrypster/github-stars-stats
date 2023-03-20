@@ -1,6 +1,6 @@
 # GetStream/stream-draw-android - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 301 | 18 | 
 | 2023-03-18 | 301 | 18 | 
 | 2023-03-17 | 301 | 18 | 
 | 2023-03-15 | 301 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 298 | 18 | 
 | 2023-02-19 | 297 | 18 | 
 | 2023-02-18 | 296 | 18 | 
-| 2023-02-17 | 296 | 18 | 
 

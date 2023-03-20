@@ -1,10 +1,10 @@
 # yizhongw/self-instruct - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 639
+★ Stars: 643
 
 [Open repository](https://github.com/yizhongw/self-instruct)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 643 | 72 | 
 | 2023-03-18 | 639 | 71 | 
 | 2023-03-17 | 543 | 56 | 
 | 2023-03-16 | 522 | 53 | 

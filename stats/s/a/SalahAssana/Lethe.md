@@ -1,10 +1,10 @@
 # SalahAssana/Lethe - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 47
 
-★ Stars: 49
+★ Stars: 48
 
 [Open repository](https://github.com/SalahAssana/Lethe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 48 | 47 | 
 | 2023-03-18 | 49 | 47 | 
 | 2023-03-17 | 49 | 47 | 
 | 2023-03-16 | 49 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 49 | 47 | 
 | 2023-02-19 | 49 | 47 | 
 | 2023-02-18 | 49 | 47 | 
-| 2023-02-17 | 49 | 47 | 
 

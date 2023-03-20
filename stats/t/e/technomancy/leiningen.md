@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 19
 
 ☋ Forks: 1639
 
-★ Stars: 7297
+★ Stars: 7296
 
 [Open repository](https://github.com/technomancy/leiningen)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 7297 | 1639 | 
+| 2023-03-19 | 7296 | 1639 | 
 | 2023-03-18 | 7297 | 1639 | 
 | 2023-03-17 | 7297 | 1639 | 
 | 2023-03-16 | 7296 | 1639 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 7297 | 1642 | 
 | 2023-02-19 | 7297 | 1642 | 
 | 2023-02-18 | 7297 | 1642 | 
-| 2023-02-17 | 7296 | 1642 | 
 

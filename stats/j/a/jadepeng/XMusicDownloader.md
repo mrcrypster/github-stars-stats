@@ -1,10 +1,10 @@
 # jadepeng/XMusicDownloader - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 1174
+★ Stars: 1176
 
 [Open repository](https://github.com/jadepeng/XMusicDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1176 | 193 | 
 | 2023-03-18 | 1174 | 192 | 
 | 2023-03-17 | 1171 | 192 | 
 | 2023-03-16 | 1171 | 192 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1149 | 190 | 
 | 2023-02-20 | 1148 | 190 | 
 | 2023-02-18 | 1146 | 190 | 
-| 2023-02-17 | 1144 | 190 | 
 

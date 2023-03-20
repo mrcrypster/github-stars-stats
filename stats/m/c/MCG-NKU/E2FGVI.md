@@ -1,10 +1,10 @@
 # MCG-NKU/E2FGVI - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 572
+★ Stars: 573
 
 [Open repository](https://github.com/MCG-NKU/E2FGVI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 573 | 62 | 
 | 2023-03-18 | 572 | 61 | 
 | 2023-03-17 | 572 | 61 | 
 | 2023-03-15 | 572 | 61 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 559 | 58 | 
 | 2023-02-19 | 558 | 58 | 
 | 2023-02-18 | 558 | 58 | 
-| 2023-02-17 | 558 | 58 | 
 

@@ -1,10 +1,10 @@
 # corpnewt/gibMacOS - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 686
 
-★ Stars: 4927
+★ Stars: 4930
 
 [Open repository](https://github.com/corpnewt/gibMacOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 4930 | 686 | 
 | 2023-03-18 | 4927 | 686 | 
 | 2023-03-17 | 4926 | 685 | 
 | 2023-03-15 | 4923 | 684 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 4892 | 679 | 
 | 2023-02-20 | 4889 | 678 | 
 | 2023-02-19 | 4885 | 678 | 
-| 2023-02-17 | 4885 | 678 | 
 

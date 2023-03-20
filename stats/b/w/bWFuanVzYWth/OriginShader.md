@@ -1,10 +1,10 @@
 # bWFuanVzYWth/OriginShader - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 131
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/bWFuanVzYWth/OriginShader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 279 | 131 | 
 | 2023-03-18 | 278 | 131 | 
 | 2023-03-16 | 278 | 131 | 
 | 2023-03-15 | 278 | 131 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 273 | 131 | 
 | 2023-02-19 | 273 | 131 | 
 | 2023-02-18 | 273 | 131 | 
-| 2023-02-17 | 273 | 131 | 
 

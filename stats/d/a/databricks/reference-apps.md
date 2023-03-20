@@ -1,6 +1,6 @@
 # databricks/reference-apps - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 345
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 651 | 345 | 
 | 2023-03-18 | 651 | 345 | 
 | 2023-03-16 | 652 | 345 | 
 | 2023-03-15 | 652 | 345 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 652 | 346 | 
 | 2023-02-19 | 652 | 346 | 
 | 2023-02-18 | 652 | 346 | 
-| 2023-02-17 | 652 | 346 | 
 

@@ -1,6 +1,6 @@
 # cabotapp/docker-cabot - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 57 | 29 | 
 | 2023-03-18 | 57 | 29 | 
 | 2023-03-16 | 57 | 29 | 
 | 2023-03-15 | 57 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 58 | 29 | 
 | 2023-02-20 | 58 | 29 | 
 | 2023-02-18 | 58 | 29 | 
-| 2023-02-17 | 58 | 29 | 
 

@@ -1,6 +1,6 @@
 # freechipsproject/chisel-testers - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 88 | 49 | 
 | 2023-03-18 | 88 | 49 | 
 | 2023-03-17 | 88 | 49 | 
 | 2023-03-15 | 88 | 49 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 88 | 49 | 
 | 2023-02-19 | 88 | 49 | 
 | 2023-02-18 | 88 | 49 | 
-| 2023-02-17 | 88 | 49 | 
 

@@ -1,8 +1,8 @@
 # fenixsoft/awesome-fenix - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 861
+☋ Forks: 862
 
 ★ Stars: 7258
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 7258 | 862 | 
 | 2023-03-18 | 7258 | 861 | 
 | 2023-03-17 | 7255 | 860 | 
 | 2023-03-16 | 7246 | 859 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 7144 | 848 | 
 | 2023-02-19 | 7141 | 848 | 
 | 2023-02-18 | 7134 | 848 | 
-| 2023-02-17 | 7131 | 846 | 
 

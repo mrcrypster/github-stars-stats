@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/sapondanaisriwan/AdashimaaTube)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 50 | 9 | 
+| 2023-03-19 | 52 | 10 | 
 | 2023-03-18 | 47 | 8 | 
 

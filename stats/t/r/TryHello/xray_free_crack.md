@@ -1,6 +1,6 @@
 # TryHello/xray_free_crack - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 168 | 62 | 
 | 2023-03-17 | 168 | 62 | 
 | 2023-03-16 | 168 | 62 | 
 | 2023-03-15 | 168 | 62 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 166 | 62 | 
 | 2023-02-20 | 166 | 62 | 
 | 2023-02-18 | 166 | 62 | 
-| 2023-02-17 | 165 | 62 | 
 

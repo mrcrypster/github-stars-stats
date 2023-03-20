@@ -1,6 +1,6 @@
 # styppo/hamstr - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 47 | 17 | 
 | 2023-03-18 | 47 | 17 | 
 | 2023-03-16 | 47 | 17 | 
 | 2023-03-15 | 47 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 40 | 14 | 
 | 2023-02-19 | 40 | 12 | 
 | 2023-02-18 | 40 | 11 | 
-| 2023-02-17 | 40 | 11 | 
 

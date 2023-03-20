@@ -1,6 +1,6 @@
 # ruby/rbs - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1664 | 173 | 
 | 2023-03-18 | 1664 | 173 | 
 | 2023-03-16 | 1663 | 173 | 
 | 2023-03-15 | 1660 | 173 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1646 | 169 | 
 | 2023-02-19 | 1645 | 168 | 
 | 2023-02-18 | 1645 | 168 | 
-| 2023-02-17 | 1644 | 168 | 
 

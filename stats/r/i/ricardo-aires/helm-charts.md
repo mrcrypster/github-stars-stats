@@ -1,10 +1,10 @@
 # ricardo-aires/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 10
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ricardo-aires/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 17 | 10 | 
 | 2023-03-18 | 16 | 10 | 
 | 2023-03-16 | 15 | 9 | 
 | 2023-03-15 | 15 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 15 | 8 | 
 | 2023-02-19 | 15 | 8 | 
 | 2023-02-18 | 15 | 8 | 
-| 2023-02-17 | 15 | 8 | 
 

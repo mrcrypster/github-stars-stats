@@ -1,10 +1,10 @@
 # vimwiki/vimwiki - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 611
 
-★ Stars: 7948
+★ Stars: 7953
 
 [Open repository](https://github.com/vimwiki/vimwiki)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 7953 | 611 | 
 | 2023-03-18 | 7948 | 611 | 
 | 2023-03-17 | 7947 | 611 | 
 | 2023-03-16 | 7945 | 612 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 7905 | 610 | 
 | 2023-02-19 | 7904 | 610 | 
 | 2023-02-18 | 7903 | 610 | 
-| 2023-02-17 | 7899 | 610 | 
 

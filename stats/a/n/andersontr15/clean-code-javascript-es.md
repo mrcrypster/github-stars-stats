@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 378
+☋ Forks: 380
 
-★ Stars: 1557
+★ Stars: 1577
 
 [Open repository](https://github.com/andersontr15/clean-code-javascript-es)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 1557 | 378 | 
+| 2023-03-19 | 1577 | 380 | 
 | 2023-03-17 | 1487 | 358 | 
 | 2023-03-16 | 1445 | 355 | 
 | 2023-03-15 | 1444 | 355 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 1401 | 350 | 
 | 2023-02-19 | 1398 | 349 | 
 | 2023-02-18 | 1398 | 349 | 
-| 2023-02-17 | 1390 | 348 | 
 

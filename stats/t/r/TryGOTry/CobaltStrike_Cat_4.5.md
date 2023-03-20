@@ -1,10 +1,10 @@
 # TryGOTry/CobaltStrike_Cat_4.5 - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 35
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/TryGOTry/CobaltStrike_Cat_4.5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 283 | 35 | 
 | 2023-03-18 | 282 | 35 | 
 | 2023-03-16 | 281 | 35 | 
 | 2023-03-15 | 281 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 238 | 31 | 
 | 2023-02-19 | 236 | 31 | 
 | 2023-02-18 | 234 | 31 | 
-| 2023-02-17 | 229 | 31 | 
 

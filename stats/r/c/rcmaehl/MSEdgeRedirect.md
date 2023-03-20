@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 2193
+★ Stars: 2198
 
 [Open repository](https://github.com/rcmaehl/MSEdgeRedirect)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 2193 | 66 | 
+| 2023-03-19 | 2198 | 67 | 
 | 2023-03-18 | 2191 | 66 | 
 | 2023-03-17 | 2190 | 66 | 
 | 2023-03-16 | 2187 | 66 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 2111 | 65 | 
 | 2023-02-19 | 2109 | 65 | 
 | 2023-02-18 | 2109 | 65 | 
-| 2023-02-17 | 2107 | 65 | 
 

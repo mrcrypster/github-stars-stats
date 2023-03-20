@@ -1,6 +1,6 @@
 # rocker-org/rocker-versioned2 - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 275 | 142 | 
 | 2023-03-18 | 275 | 142 | 
 | 2023-03-17 | 275 | 142 | 
 | 2023-03-16 | 275 | 142 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 271 | 140 | 
 | 2023-02-19 | 271 | 140 | 
 | 2023-02-18 | 271 | 138 | 
-| 2023-02-17 | 271 | 137 | 
 

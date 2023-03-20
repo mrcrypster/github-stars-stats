@@ -1,6 +1,6 @@
 # demisto/content - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1311
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 920 | 1311 | 
 | 2023-03-18 | 920 | 1311 | 
 | 2023-03-17 | 920 | 1311 | 
 | 2023-03-16 | 920 | 1310 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 908 | 1286 | 
 | 2023-02-20 | 908 | 1282 | 
 | 2023-02-18 | 907 | 1282 | 
-| 2023-02-17 | 906 | 1281 | 
 

@@ -1,10 +1,10 @@
 # docker-library/openjdk - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 478
 
-★ Stars: 1093
+★ Stars: 1092
 
 [Open repository](https://github.com/docker-library/openjdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1092 | 478 | 
 | 2023-03-18 | 1093 | 478 | 
 | 2023-03-16 | 1093 | 478 | 
 | 2023-03-15 | 1093 | 478 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1090 | 476 | 
 | 2023-02-19 | 1090 | 475 | 
 | 2023-02-18 | 1090 | 475 | 
-| 2023-02-17 | 1090 | 475 | 
 

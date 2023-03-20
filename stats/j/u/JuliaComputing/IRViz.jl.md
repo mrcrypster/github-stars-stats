@@ -1,10 +1,10 @@
 # JuliaComputing/IRViz.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/JuliaComputing/IRViz.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 30 | - | 
 | 2023-03-18 | 29 | - | 
 | 2023-03-17 | 27 | - | 
 

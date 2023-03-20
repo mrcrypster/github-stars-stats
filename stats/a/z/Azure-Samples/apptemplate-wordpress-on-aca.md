@@ -1,10 +1,10 @@
 # Azure-Samples/apptemplate-wordpress-on-aca - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 5
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Azure-Samples/apptemplate-wordpress-on-aca)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 5 | 5 | 
 | 2023-03-17 | 4 | 5 | 
 | 2023-03-16 | 4 | 5 | 
 | 2023-03-15 | 4 | 5 | 

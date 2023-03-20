@@ -1,6 +1,6 @@
 # alphadose/ZenQ - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 573 | 18 | 
 | 2023-03-18 | 573 | 18 | 
 | 2023-03-17 | 573 | 18 | 
 | 2023-03-16 | 573 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 557 | 17 | 
 | 2023-02-19 | 557 | 17 | 
 | 2023-02-18 | 557 | 17 | 
-| 2023-02-17 | 557 | 17 | 
 

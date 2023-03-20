@@ -1,6 +1,6 @@
 # kdchambers/vkwayland - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 22 | - | 
 | 2023-03-18 | 22 | - | 
 | 2023-03-17 | 22 | - | 
 | 2023-03-15 | 22 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 22 | - | 
 | 2023-02-19 | 22 | - | 
 | 2023-02-18 | 22 | - | 
-| 2023-02-17 | 22 | - | 
 

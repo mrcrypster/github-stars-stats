@@ -1,6 +1,6 @@
 # corkami/docs - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 714 | 100 | 
 | 2023-03-18 | 714 | 100 | 
 | 2023-03-16 | 713 | 100 | 
 | 2023-03-15 | 712 | 100 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 707 | 99 | 
 | 2023-02-19 | 707 | 99 | 
 | 2023-02-18 | 706 | 99 | 
-| 2023-02-17 | 706 | 99 | 
 

@@ -1,6 +1,6 @@
 # ManlyMarco/HS2-HF_Patch - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 96 | 18 | 
 | 2023-03-18 | 96 | 18 | 
 | 2023-03-16 | 96 | 18 | 
 | 2023-03-15 | 96 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 95 | 18 | 
 | 2023-02-19 | 94 | 18 | 
 | 2023-02-18 | 94 | 18 | 
-| 2023-02-17 | 94 | 17 | 
 

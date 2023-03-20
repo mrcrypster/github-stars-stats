@@ -1,10 +1,10 @@
 # klezVirus/SysWhispers3 - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 119
 
-★ Stars: 802
+★ Stars: 803
 
 [Open repository](https://github.com/klezVirus/SysWhispers3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 803 | 119 | 
 | 2023-03-18 | 802 | 119 | 
 | 2023-03-17 | 800 | 119 | 
 | 2023-03-16 | 798 | 119 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 772 | 115 | 
 | 2023-02-19 | 771 | 115 | 
 | 2023-02-18 | 771 | 115 | 
-| 2023-02-17 | 771 | 115 | 
 

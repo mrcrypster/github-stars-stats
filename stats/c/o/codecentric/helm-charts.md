@@ -1,6 +1,6 @@
 # codecentric/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 563
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 534 | 563 | 
 | 2023-03-18 | 534 | 563 | 
 | 2023-03-17 | 534 | 563 | 
 | 2023-03-16 | 534 | 562 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 528 | 559 | 
 | 2023-02-19 | 528 | 559 | 
 | 2023-02-18 | 528 | 559 | 
-| 2023-02-17 | 528 | 559 | 
 

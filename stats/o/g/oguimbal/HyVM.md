@@ -1,6 +1,6 @@
 # oguimbal/HyVM - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 168 | 7 | 
 | 2023-03-18 | 168 | 7 | 
 | 2023-03-16 | 167 | 7 | 
 | 2023-03-15 | 167 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 162 | 7 | 
 | 2023-02-19 | 161 | 7 | 
 | 2023-02-18 | 161 | 7 | 
-| 2023-02-17 | 161 | 7 | 
 

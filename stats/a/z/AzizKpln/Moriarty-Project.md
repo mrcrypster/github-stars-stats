@@ -1,10 +1,10 @@
 # AzizKpln/Moriarty-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 172
 
-★ Stars: 1024
+★ Stars: 1026
 
 [Open repository](https://github.com/AzizKpln/Moriarty-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1026 | 172 | 
 | 2023-03-18 | 1024 | 172 | 
 | 2023-03-17 | 1024 | 173 | 
 | 2023-03-16 | 1023 | 173 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 996 | 172 | 
 | 2023-02-20 | 996 | 172 | 
 | 2023-02-19 | 995 | 172 | 
-| 2023-02-18 | 995 | 172 | 
 

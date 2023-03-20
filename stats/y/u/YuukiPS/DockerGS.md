@@ -1,10 +1,10 @@
 # YuukiPS/DockerGS - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/YuukiPS/DockerGS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 387 | 97 | 
 | 2023-03-17 | 386 | 96 | 
 | 2023-03-16 | 385 | 96 | 
 | 2023-03-15 | 385 | 97 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 368 | 93 | 
 | 2023-02-19 | 368 | 93 | 
 | 2023-02-18 | 365 | 92 | 
-| 2023-02-17 | 364 | 91 | 
 

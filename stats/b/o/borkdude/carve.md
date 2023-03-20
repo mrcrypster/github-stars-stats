@@ -1,6 +1,6 @@
 # borkdude/carve - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 270 | 18 | 
 | 2023-03-18 | 270 | 18 | 
 | 2023-03-17 | 269 | 18 | 
 | 2023-03-16 | 269 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 270 | 17 | 
 | 2023-02-19 | 270 | 17 | 
 | 2023-02-18 | 270 | 17 | 
-| 2023-02-17 | 270 | 17 | 
 

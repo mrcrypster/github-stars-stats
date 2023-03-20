@@ -1,10 +1,10 @@
 # essensoft/paylink - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 423
+☋ Forks: 424
 
-★ Stars: 1479
+★ Stars: 1480
 
 [Open repository](https://github.com/essensoft/paylink)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1480 | 424 | 
 | 2023-03-18 | 1479 | 423 | 
 | 2023-03-17 | 1477 | 423 | 
 | 2023-03-15 | 1477 | 423 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1454 | 416 | 
 | 2023-02-20 | 1454 | 416 | 
 | 2023-02-19 | 1453 | 416 | 
-| 2023-02-18 | 1453 | 416 | 
 

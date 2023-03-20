@@ -1,8 +1,8 @@
 # amzn/selling-partner-api-models - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 635
+☋ Forks: 636
 
 ★ Stars: 396
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 396 | 636 | 
 | 2023-03-18 | 396 | 635 | 
 | 2023-03-16 | 396 | 634 | 
 | 2023-03-15 | 396 | 633 | 

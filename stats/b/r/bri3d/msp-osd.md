@@ -1,10 +1,10 @@
 # bri3d/msp-osd - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 23
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/bri3d/msp-osd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 177 | 23 | 
 | 2023-03-18 | 176 | 23 | 
 | 2023-03-17 | 176 | 23 | 
 | 2023-03-15 | 176 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 171 | 23 | 
 | 2023-02-20 | 171 | 23 | 
 | 2023-02-19 | 171 | 23 | 
-| 2023-02-17 | 171 | 23 | 
 

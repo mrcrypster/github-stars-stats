@@ -1,10 +1,10 @@
 # otake84/dlhn - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/otake84/dlhn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 102 | 1 | 
 | 2023-03-18 | 101 | 1 | 
 | 2023-03-17 | 101 | 1 | 
 | 2023-03-15 | 101 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 101 | 1 | 
 | 2023-02-20 | 101 | 1 | 
 | 2023-02-18 | 101 | 1 | 
-| 2023-02-17 | 101 | 1 | 
 

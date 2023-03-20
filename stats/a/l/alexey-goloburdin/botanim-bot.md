@@ -1,6 +1,6 @@
 # alexey-goloburdin/botanim-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 118 | 34 | 
 | 2023-03-18 | 118 | 34 | 
 | 2023-03-16 | 117 | 34 | 
 | 2023-03-15 | 116 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 103 | 30 | 
 | 2023-02-19 | 103 | 30 | 
 | 2023-02-18 | 101 | 30 | 
-| 2023-02-17 | 97 | 30 | 
 

@@ -1,8 +1,8 @@
 # choosy-tech/ex_assignment - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3 | 9 | 
 | 2023-03-18 | 3 | 8 | 
 | 2023-03-17 | 3 | 8 | 
 | 2023-03-16 | 1 | 8 | 

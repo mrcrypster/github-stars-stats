@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 19
 
 ☋ Forks: 6
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/certik/fastGPT)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 59 | 6 | 
+| 2023-03-19 | 60 | 6 | 
 | 2023-03-18 | 57 | 5 | 
 | 2023-03-17 | 55 | 4 | 
 

@@ -1,10 +1,10 @@
 # datawhalechina/competition-baseline - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 956
+☋ Forks: 957
 
-★ Stars: 3318
+★ Stars: 3322
 
 [Open repository](https://github.com/datawhalechina/competition-baseline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3322 | 957 | 
 | 2023-03-18 | 3318 | 956 | 
 | 2023-03-17 | 3314 | 955 | 
 | 2023-03-15 | 3312 | 956 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 3264 | 953 | 
 | 2023-02-19 | 3264 | 954 | 
 | 2023-02-18 | 3263 | 953 | 
-| 2023-02-17 | 3260 | 953 | 
 

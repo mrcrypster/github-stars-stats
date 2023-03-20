@@ -1,10 +1,10 @@
 # pestphp/pest - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 195
 
-★ Stars: 6472
+★ Stars: 6485
 
 [Open repository](https://github.com/pestphp/pest)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6485 | 195 | 
+| 2023-03-19 | 6483 | 195 | 
 | 2023-03-18 | 6472 | 195 | 
 | 2023-03-17 | 6455 | 194 | 
 | 2023-03-16 | 6444 | 193 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 6281 | 185 | 
 | 2023-02-20 | 6276 | 185 | 
 | 2023-02-18 | 6271 | 185 | 
-| 2023-02-17 | 6268 | 185 | 
 

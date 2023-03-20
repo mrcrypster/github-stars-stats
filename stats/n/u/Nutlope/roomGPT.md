@@ -1,10 +1,10 @@
 # Nutlope/roomGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 460
+☋ Forks: 465
 
-★ Stars: 5687
+★ Stars: 5755
 
 [Open repository](https://github.com/Nutlope/roomGPT)
 
@@ -13,7 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 5687 | 460 | 
+| 2023-03-20 | 5755 | 465 | 
+| 2023-03-19 | 5736 | 465 | 
 | 2023-03-17 | 5600 | 446 | 
 | 2023-03-16 | 5452 | 419 | 
 | 2023-03-15 | 5341 | 410 | 

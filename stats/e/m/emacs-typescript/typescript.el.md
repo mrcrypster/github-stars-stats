@@ -1,10 +1,10 @@
 # emacs-typescript/typescript.el - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 79
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/emacs-typescript/typescript.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 247 | 79 | 
 | 2023-03-18 | 246 | 79 | 
 | 2023-03-17 | 246 | 79 | 
 | 2023-03-15 | 246 | 79 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 244 | 78 | 
 | 2023-02-20 | 244 | 78 | 
 | 2023-02-19 | 244 | 78 | 
-| 2023-02-17 | 244 | 78 | 
 

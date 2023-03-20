@@ -1,10 +1,10 @@
 # google/perfetto - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 237
 
-★ Stars: 1623
+★ Stars: 1629
 
 [Open repository](https://github.com/google/perfetto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1629 | 237 | 
 | 2023-03-18 | 1623 | 237 | 
 | 2023-03-16 | 1615 | 237 | 
 | 2023-03-15 | 1609 | 236 | 

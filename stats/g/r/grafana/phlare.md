@@ -1,6 +1,6 @@
 # grafana/phlare - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2020 | 67 | 
 | 2023-03-18 | 2020 | 67 | 
 | 2023-03-17 | 2018 | 67 | 
 | 2023-03-15 | 2017 | 67 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1988 | 63 | 
 | 2023-02-19 | 1985 | 63 | 
 | 2023-02-18 | 1981 | 63 | 
-| 2023-02-17 | 1980 | 63 | 
 

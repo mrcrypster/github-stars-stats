@@ -1,6 +1,6 @@
 # PatilShreyas/NotyKT - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1454 | 197 | 
 | 2023-03-18 | 1454 | 197 | 
 | 2023-03-17 | 1452 | 197 | 
 | 2023-03-15 | 1450 | 197 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1442 | 194 | 
 | 2023-02-19 | 1441 | 194 | 
 | 2023-02-18 | 1440 | 194 | 
-| 2023-02-17 | 1440 | 194 | 
 

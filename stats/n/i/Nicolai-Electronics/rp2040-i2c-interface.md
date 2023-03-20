@@ -1,8 +1,8 @@
 # Nicolai-Electronics/rp2040-i2c-interface - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 16
+☋ Forks: 15
 
 ★ Stars: 148
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 148 | 15 | 
 | 2023-03-18 | 148 | 16 | 
 | 2023-03-16 | 148 | 16 | 
 | 2023-03-15 | 148 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 145 | 13 | 
 | 2023-02-19 | 145 | 13 | 
 | 2023-02-18 | 144 | 13 | 
-| 2023-02-17 | 144 | 13 | 
 

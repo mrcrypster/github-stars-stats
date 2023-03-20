@@ -1,10 +1,10 @@
 # quantopian/research_public - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 1452
+☋ Forks: 1455
 
-★ Stars: 2082
+★ Stars: 2086
 
 [Open repository](https://github.com/quantopian/research_public)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2086 | 1455 | 
 | 2023-03-18 | 2082 | 1452 | 
 | 2023-03-16 | 2082 | 1453 | 
 | 2023-03-15 | 2082 | 1452 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 2073 | 1447 | 
 | 2023-02-19 | 2072 | 1443 | 
 | 2023-02-18 | 2071 | 1443 | 
-| 2023-02-17 | 2071 | 1443 | 
 

@@ -1,10 +1,10 @@
 # snesrev/sm - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 295
+★ Stars: 301
 
 [Open repository](https://github.com/snesrev/sm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 301 | 16 | 
 | 2023-03-18 | 295 | 15 | 
 | 2023-03-17 | 287 | 14 | 
 | 2023-03-16 | 284 | 15 | 

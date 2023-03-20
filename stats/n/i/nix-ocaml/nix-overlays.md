@@ -1,6 +1,6 @@
 # nix-ocaml/nix-overlays - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 56 | 14 | 
 | 2023-03-18 | 56 | 14 | 
 | 2023-03-17 | 56 | 14 | 
 | 2023-03-15 | 56 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 57 | 15 | 
 | 2023-02-19 | 57 | 15 | 
 | 2023-02-18 | 57 | 15 | 
-| 2023-02-17 | 57 | 15 | 
 

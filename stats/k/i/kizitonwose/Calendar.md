@@ -1,10 +1,10 @@
 # kizitonwose/Calendar - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 433
+☋ Forks: 434
 
-★ Stars: 3531
+★ Stars: 3532
 
 [Open repository](https://github.com/kizitonwose/Calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3532 | 434 | 
 | 2023-03-18 | 3531 | 433 | 
 | 2023-03-17 | 3530 | 434 | 
 | 2023-03-16 | 3529 | 432 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 3502 | 419 | 
 | 2023-02-19 | 3499 | 419 | 
 | 2023-02-18 | 3497 | 417 | 
-| 2023-02-17 | 3493 | 417 | 
 

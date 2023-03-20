@@ -1,6 +1,6 @@
 # BERADQ/DoingX - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 18 | - | 
 | 2023-03-18 | 18 | - | 
 | 2023-03-17 | 18 | - | 
 | 2023-03-15 | 18 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 17 | - | 
 | 2023-02-19 | 17 | - | 
 | 2023-02-18 | 17 | - | 
-| 2023-02-17 | 17 | - | 
 

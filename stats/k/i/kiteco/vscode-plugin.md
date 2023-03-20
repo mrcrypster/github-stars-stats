@@ -1,6 +1,6 @@
 # kiteco/vscode-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 822 | 134 | 
 | 2023-03-17 | 822 | 134 | 
 | 2023-03-16 | 822 | 134 | 
 | 2023-03-15 | 820 | 134 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 810 | 134 | 
 | 2023-02-19 | 809 | 134 | 
 | 2023-02-18 | 808 | 134 | 
-| 2023-02-17 | 807 | 133 | 
 

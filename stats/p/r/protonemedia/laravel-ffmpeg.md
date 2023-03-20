@@ -1,10 +1,10 @@
 # protonemedia/laravel-ffmpeg - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 166
+☋ Forks: 167
 
-★ Stars: 1329
+★ Stars: 1330
 
 [Open repository](https://github.com/protonemedia/laravel-ffmpeg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1330 | 167 | 
 | 2023-03-17 | 1329 | 166 | 
 | 2023-03-16 | 1327 | 166 | 
 | 2023-03-14 | 1327 | 166 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1311 | 166 | 
 | 2023-02-19 | 1310 | 166 | 
 | 2023-02-18 | 1310 | 165 | 
-| 2023-02-17 | 1309 | 165 | 
 

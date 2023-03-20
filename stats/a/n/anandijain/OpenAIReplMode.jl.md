@@ -1,10 +1,10 @@
 # anandijain/OpenAIReplMode.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 4
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/anandijain/OpenAIReplMode.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 40 | 4 | 
 | 2023-03-18 | 39 | 4 | 
 | 2023-03-16 | 39 | 4 | 
 | 2023-03-15 | 39 | 4 | 

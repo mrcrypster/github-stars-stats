@@ -1,6 +1,6 @@
 # wger-project/flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 191 | 132 | 
 | 2023-03-18 | 191 | 132 | 
 | 2023-03-17 | 191 | 132 | 
 | 2023-03-15 | 191 | 132 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 186 | 131 | 
 | 2023-02-19 | 184 | 131 | 
 | 2023-02-18 | 184 | 131 | 
-| 2023-02-17 | 184 | 131 | 
 

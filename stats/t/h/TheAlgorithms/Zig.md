@@ -1,10 +1,10 @@
 # TheAlgorithms/Zig - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 4
 
-★ Stars: 18
+★ Stars: 20
 
 [Open repository](https://github.com/TheAlgorithms/Zig)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 20 | 4 | 
 | 2023-03-18 | 18 | 4 | 
 | 2023-03-16 | 17 | 4 | 
 | 2023-03-15 | 16 | 4 | 

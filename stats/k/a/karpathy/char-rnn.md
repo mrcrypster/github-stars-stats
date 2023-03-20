@@ -1,6 +1,6 @@
 # karpathy/char-rnn - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2531
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 11043 | 2531 | 
 | 2023-03-18 | 11043 | 2531 | 
 | 2023-03-17 | 11043 | 2531 | 
 | 2023-03-15 | 11045 | 2529 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 11030 | 2521 | 
 | 2023-02-19 | 11030 | 2517 | 
 | 2023-02-18 | 11029 | 2515 | 
-| 2023-02-17 | 11027 | 2513 | 
 

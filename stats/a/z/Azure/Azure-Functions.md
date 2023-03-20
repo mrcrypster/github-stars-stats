@@ -1,6 +1,6 @@
 # Azure/Azure-Functions - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1023 | 177 | 
 | 2023-03-17 | 1023 | 177 | 
 | 2023-03-16 | 1022 | 177 | 
 | 2023-03-15 | 1021 | 177 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 1017 | 176 | 
 | 2023-02-19 | 1017 | 176 | 
 | 2023-02-18 | 1017 | 176 | 
-| 2023-02-17 | 1017 | 176 | 
 

@@ -1,6 +1,6 @@
 # turnly/turnly - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 276 | 18 | 
 | 2023-03-18 | 276 | 18 | 
 | 2023-03-16 | 276 | 18 | 
 | 2023-03-15 | 276 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 270 | 16 | 
 | 2023-02-19 | 270 | 16 | 
 | 2023-02-18 | 269 | 16 | 
-| 2023-02-17 | 267 | 16 | 
 

@@ -1,6 +1,6 @@
 # koel/koel - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1849
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 14525 | 1849 | 
 | 2023-03-18 | 14525 | 1849 | 
 | 2023-03-17 | 14519 | 1848 | 
 | 2023-03-15 | 14514 | 1847 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 14442 | 1844 | 
 | 2023-02-19 | 14442 | 1841 | 
 | 2023-02-18 | 14439 | 1840 | 
-| 2023-02-17 | 14438 | 1838 | 
 

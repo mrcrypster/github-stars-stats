@@ -1,10 +1,10 @@
 # bortexz/graphcom - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/bortexz/graphcom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 53 | 2 | 
 | 2023-03-17 | 52 | 2 | 
 | 2023-03-16 | 52 | 2 | 
 | 2023-03-15 | 52 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 52 | 2 | 
 | 2023-02-19 | 52 | 2 | 
 | 2023-02-18 | 52 | 2 | 
-| 2023-02-17 | 52 | 2 | 
 

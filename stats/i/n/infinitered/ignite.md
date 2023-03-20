@@ -1,10 +1,10 @@
 # infinitered/ignite - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1258
 
-★ Stars: 15009
+★ Stars: 15013
 
 [Open repository](https://github.com/infinitered/ignite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 15013 | 1258 | 
 | 2023-03-18 | 15009 | 1258 | 
 | 2023-03-17 | 15006 | 1258 | 
 | 2023-03-15 | 15000 | 1256 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 14892 | 1248 | 
 | 2023-02-19 | 14890 | 1248 | 
 | 2023-02-18 | 14885 | 1246 | 
-| 2023-02-17 | 14882 | 1245 | 
 

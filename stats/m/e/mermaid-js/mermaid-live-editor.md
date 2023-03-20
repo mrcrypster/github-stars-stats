@@ -1,6 +1,6 @@
 # mermaid-js/mermaid-live-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2190 | 301 | 
 | 2023-03-18 | 2190 | 301 | 
 | 2023-03-17 | 2188 | 299 | 
 | 2023-03-16 | 2184 | 299 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 2099 | 287 | 
 | 2023-02-19 | 2098 | 285 | 
 | 2023-02-18 | 2095 | 285 | 
-| 2023-02-17 | 2091 | 285 | 
 

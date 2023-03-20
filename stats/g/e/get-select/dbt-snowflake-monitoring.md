@@ -1,10 +1,10 @@
 # get-select/dbt-snowflake-monitoring - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 14
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/get-select/dbt-snowflake-monitoring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 98 | 14 | 
 | 2023-03-18 | 97 | 14 | 
 | 2023-03-17 | 97 | 14 | 
 | 2023-03-15 | 97 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 85 | 10 | 
 | 2023-02-19 | 85 | 10 | 
 | 2023-02-18 | 85 | 10 | 
-| 2023-02-17 | 83 | 10 | 
 

@@ -1,6 +1,6 @@
 # ColinLeung-NiloCat/UnityURPToonLitShaderExample - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1222
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 4603 | 1222 | 
 | 2023-03-18 | 4603 | 1222 | 
 | 2023-03-17 | 4600 | 1221 | 
 | 2023-03-16 | 4597 | 1219 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 4509 | 1202 | 
 | 2023-02-19 | 4505 | 1200 | 
 | 2023-02-18 | 4503 | 1199 | 
-| 2023-02-17 | 4503 | 1199 | 
 

@@ -1,10 +1,10 @@
 # google/security-research - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 239
 
-★ Stars: 1708
+★ Stars: 1709
 
 [Open repository](https://github.com/google/security-research)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1709 | 239 | 
 | 2023-03-18 | 1708 | 239 | 
 | 2023-03-17 | 1708 | 239 | 
 | 2023-03-16 | 1708 | 238 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1671 | 231 | 
 | 2023-02-19 | 1671 | 231 | 
 | 2023-02-18 | 1671 | 231 | 
-| 2023-02-17 | 1671 | 231 | 
 

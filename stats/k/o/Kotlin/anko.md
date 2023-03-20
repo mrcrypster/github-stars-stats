@@ -1,10 +1,10 @@
 # Kotlin/anko - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1304
 
-★ Stars: 15936
+★ Stars: 15937
 
 [Open repository](https://github.com/Kotlin/anko)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 15937 | 1304 | 
 | 2023-03-18 | 15936 | 1304 | 
 | 2023-03-17 | 15936 | 1304 | 
 | 2023-03-16 | 15935 | 1304 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 15941 | 1303 | 
 | 2023-02-19 | 15940 | 1304 | 
 | 2023-02-18 | 15939 | 1304 | 
-| 2023-02-17 | 15938 | 1304 | 
 

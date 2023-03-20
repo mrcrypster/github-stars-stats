@@ -1,6 +1,6 @@
 # criteo/ios-publisher-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 9 | 6 | 
 | 2023-03-17 | 9 | 6 | 
 | 2023-03-16 | 9 | 6 | 
 | 2023-03-14 | 9 | 6 | 

@@ -1,10 +1,10 @@
 # palera1n/palera1n-c - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 39
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/palera1n/palera1n-c)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 311 | 39 | 
 | 2023-03-17 | 310 | 39 | 
 | 2023-03-16 | 311 | 40 | 
 | 2023-03-15 | 310 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 250 | 29 | 
 | 2023-02-19 | 235 | 29 | 
 | 2023-02-18 | 226 | 27 | 
-| 2023-02-17 | 219 | 26 | 
 

@@ -1,10 +1,10 @@
 # maharmstone/btrfs - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 191
 
-★ Stars: 3848
+★ Stars: 3851
 
 [Open repository](https://github.com/maharmstone/btrfs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3851 | 191 | 
 | 2023-03-18 | 3848 | 191 | 
 | 2023-03-17 | 3845 | 191 | 
 | 2023-03-16 | 3844 | 190 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 3782 | 189 | 
 | 2023-02-19 | 3777 | 189 | 
 | 2023-02-18 | 3776 | 189 | 
-| 2023-02-17 | 3772 | 190 | 
 

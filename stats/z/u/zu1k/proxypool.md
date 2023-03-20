@@ -1,10 +1,10 @@
 # zu1k/proxypool - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 2517
+☋ Forks: 2518
 
-★ Stars: 3165
+★ Stars: 3164
 
 [Open repository](https://github.com/zu1k/proxypool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3164 | 2518 | 
 | 2023-03-18 | 3165 | 2517 | 
 | 2023-03-16 | 3164 | 2517 | 
 | 2023-03-15 | 3159 | 2515 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 3160 | 2507 | 
 | 2023-02-19 | 3159 | 2507 | 
 | 2023-02-18 | 3159 | 2507 | 
-| 2023-02-17 | 3157 | 2508 | 
 

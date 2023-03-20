@@ -1,10 +1,10 @@
 # Haleydu/Cimoc - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 207
 
-★ Stars: 2081
+★ Stars: 2085
 
 [Open repository](https://github.com/Haleydu/Cimoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2085 | 207 | 
 | 2023-03-18 | 2081 | 207 | 
 | 2023-03-17 | 2079 | 207 | 
 | 2023-03-15 | 2079 | 207 | 

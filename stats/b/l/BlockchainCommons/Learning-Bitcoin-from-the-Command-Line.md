@@ -1,10 +1,10 @@
 # BlockchainCommons/Learning-Bitcoin-from-the-Command-Line - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 638
 
-★ Stars: 2633
+★ Stars: 2634
 
 [Open repository](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2634 | 638 | 
 | 2023-03-18 | 2633 | 638 | 
 | 2023-03-17 | 2633 | 638 | 
 | 2023-03-15 | 2632 | 638 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 2596 | 635 | 
 | 2023-02-19 | 2594 | 635 | 
 | 2023-02-18 | 2594 | 635 | 
-| 2023-02-17 | 2593 | 635 | 
 

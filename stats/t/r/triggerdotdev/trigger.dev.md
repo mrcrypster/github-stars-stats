@@ -1,10 +1,10 @@
 # triggerdotdev/trigger.dev - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 59
 
-★ Stars: 3328
+★ Stars: 3330
 
 [Open repository](https://github.com/triggerdotdev/trigger.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3330 | 59 | 
 | 2023-03-18 | 3328 | 59 | 
 | 2023-03-17 | 3323 | 59 | 
 | 2023-03-15 | 3318 | 59 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 3086 | 51 | 
 | 2023-02-19 | 3053 | 51 | 
 | 2023-02-18 | 3039 | 51 | 
-| 2023-02-17 | 2980 | 50 | 
 

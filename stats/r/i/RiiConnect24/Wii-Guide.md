@@ -1,8 +1,8 @@
 # RiiConnect24/Wii-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 55
+☋ Forks: 54
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 86 | 54 | 
 | 2023-03-18 | 86 | 55 | 
 | 2023-03-17 | 86 | 55 | 
 | 2023-03-15 | 86 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 85 | 55 | 
 | 2023-02-19 | 85 | 55 | 
 | 2023-02-18 | 85 | 55 | 
-| 2023-02-17 | 85 | 55 | 
 

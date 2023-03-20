@@ -1,10 +1,10 @@
 # docblue/chfsgui - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 110
 
-★ Stars: 595
+★ Stars: 596
 
 [Open repository](https://github.com/docblue/chfsgui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 596 | 110 | 
 | 2023-03-18 | 595 | 110 | 
 | 2023-03-17 | 593 | 109 | 
 | 2023-03-16 | 593 | 109 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 544 | 105 | 
 | 2023-02-19 | 543 | 105 | 
 | 2023-02-18 | 542 | 105 | 
-| 2023-02-17 | 541 | 105 | 
 

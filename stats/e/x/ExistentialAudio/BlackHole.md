@@ -1,10 +1,10 @@
 # ExistentialAudio/BlackHole - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 449
 
-★ Stars: 10692
+★ Stars: 10698
 
 [Open repository](https://github.com/ExistentialAudio/BlackHole)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 10698 | 449 | 
 | 2023-03-17 | 10692 | 449 | 
 | 2023-03-16 | 10681 | 448 | 
 | 2023-03-15 | 10671 | 448 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 10503 | 439 | 
 | 2023-02-19 | 10492 | 439 | 
 | 2023-02-18 | 10486 | 438 | 
-| 2023-02-17 | 10480 | 438 | 
 

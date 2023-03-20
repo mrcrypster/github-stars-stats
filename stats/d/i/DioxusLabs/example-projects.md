@@ -1,6 +1,6 @@
 # DioxusLabs/example-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 219 | 36 | 
 | 2023-03-18 | 219 | 36 | 
 | 2023-03-16 | 218 | 36 | 
 | 2023-03-15 | 218 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 209 | 35 | 
 | 2023-02-19 | 209 | 35 | 
 | 2023-02-18 | 208 | 35 | 
-| 2023-02-17 | 208 | 35 | 
 

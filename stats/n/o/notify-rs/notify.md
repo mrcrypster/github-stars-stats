@@ -1,10 +1,10 @@
 # notify-rs/notify - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 161
 
-★ Stars: 2011
+★ Stars: 2012
 
 [Open repository](https://github.com/notify-rs/notify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2012 | 161 | 
 | 2023-03-18 | 2011 | 161 | 
 | 2023-03-17 | 2010 | 161 | 
 | 2023-03-16 | 2008 | 161 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1979 | 160 | 
 | 2023-02-19 | 1975 | 160 | 
 | 2023-02-18 | 1974 | 160 | 
-| 2023-02-17 | 1972 | 160 | 
 

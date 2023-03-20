@@ -1,10 +1,10 @@
 # AmCrypt0/VPN-Chaining - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 22
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/AmCrypt0/VPN-Chaining)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 101 | 22 | 
 | 2023-03-18 | 100 | 22 | 
 | 2023-03-17 | 100 | 22 | 
 | 2023-03-15 | 100 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 99 | 22 | 
 | 2023-02-20 | 99 | 22 | 
 | 2023-02-19 | 99 | 22 | 
-| 2023-02-18 | 99 | 22 | 
 

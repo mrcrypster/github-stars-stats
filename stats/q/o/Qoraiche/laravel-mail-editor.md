@@ -1,6 +1,6 @@
 # Qoraiche/laravel-mail-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 231
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1907 | 231 | 
 | 2023-03-18 | 1907 | 231 | 
 | 2023-03-17 | 1906 | 231 | 
 | 2023-03-15 | 1906 | 231 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1901 | 229 | 
 | 2023-02-19 | 1900 | 229 | 
 | 2023-02-18 | 1899 | 229 | 
-| 2023-02-17 | 1900 | 229 | 
 

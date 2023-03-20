@@ -1,6 +1,6 @@
 # BL-MSCH-C220/Exercise-02b-Bullets-and-Asteroids - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1 | 44 | 
 | 2023-03-17 | 1 | 44 | 
 | 2023-03-16 | 1 | 44 | 
 | 2023-03-15 | 1 | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | - | 44 | 
 | 2023-02-19 | - | 44 | 
 | 2023-02-18 | - | 44 | 
-| 2023-02-17 | - | 44 | 
 

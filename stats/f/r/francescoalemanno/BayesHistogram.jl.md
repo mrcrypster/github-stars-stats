@@ -1,6 +1,6 @@
 # francescoalemanno/BayesHistogram.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 42 | 3 | 
 | 2023-03-18 | 42 | 3 | 
 | 2023-03-16 | 42 | 3 | 
 | 2023-03-15 | 42 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 41 | 3 | 
 | 2023-02-19 | 41 | 3 | 
 | 2023-02-18 | 39 | 3 | 
-| 2023-02-17 | 39 | 3 | 
 

@@ -1,10 +1,10 @@
 # PythonNut/evil-easymotion - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 16
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/PythonNut/evil-easymotion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 177 | 16 | 
 | 2023-03-18 | 176 | 16 | 
 | 2023-03-17 | 176 | 16 | 
 | 2023-03-15 | 176 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 175 | 16 | 
 | 2023-02-19 | 174 | 16 | 
 | 2023-02-18 | 174 | 16 | 
-| 2023-02-17 | 174 | 16 | 
 

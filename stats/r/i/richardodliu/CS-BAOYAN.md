@@ -1,10 +1,10 @@
 # richardodliu/CS-BAOYAN - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 100
 
-★ Stars: 648
+★ Stars: 647
 
 [Open repository](https://github.com/richardodliu/CS-BAOYAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 647 | 100 | 
 | 2023-03-17 | 648 | 100 | 
 | 2023-03-16 | 647 | 100 | 
 | 2023-03-15 | 647 | 100 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 642 | 100 | 
 | 2023-02-20 | 641 | 101 | 
 | 2023-02-19 | 641 | 101 | 
-| 2023-02-18 | 641 | 102 | 
 

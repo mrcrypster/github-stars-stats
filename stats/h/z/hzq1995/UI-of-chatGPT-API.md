@@ -1,6 +1,6 @@
 # hzq1995/UI-of-chatGPT-API - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 76 | 23 | 
 | 2023-03-17 | 76 | 23 | 
 | 2023-03-16 | 76 | 23 | 
 | 2023-03-15 | 76 | 23 | 

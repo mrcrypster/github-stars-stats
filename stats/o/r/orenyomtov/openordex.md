@@ -1,10 +1,10 @@
 # orenyomtov/openordex - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/orenyomtov/openordex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 119 | 50 | 
 | 2023-03-18 | 118 | 49 | 
 | 2023-03-16 | 117 | 49 | 
 | 2023-03-15 | 116 | 46 | 

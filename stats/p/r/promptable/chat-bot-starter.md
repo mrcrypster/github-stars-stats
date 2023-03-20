@@ -1,10 +1,10 @@
 # promptable/chat-bot-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 83
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/promptable/chat-bot-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 193 | 83 | 
 | 2023-03-17 | 192 | 83 | 
 | 2023-03-16 | 190 | 82 | 
 | 2023-03-15 | 190 | 79 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 167 | 68 | 
 | 2023-02-19 | 164 | 66 | 
 | 2023-02-18 | 163 | 64 | 
-| 2023-02-17 | 161 | 61 | 
 

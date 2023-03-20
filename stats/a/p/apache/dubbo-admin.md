@@ -1,8 +1,8 @@
 # apache/dubbo-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 2093
+☋ Forks: 2092
 
 ★ Stars: 3770
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3770 | 2092 | 
 | 2023-03-17 | 3770 | 2093 | 
 | 2023-03-16 | 3768 | 2090 | 
 | 2023-03-15 | 3766 | 2090 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 3731 | 2065 | 
 | 2023-02-19 | 3731 | 2064 | 
 | 2023-02-18 | 3730 | 2064 | 
-| 2023-02-17 | 3730 | 2064 | 
 

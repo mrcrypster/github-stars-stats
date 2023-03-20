@@ -1,10 +1,10 @@
 # queer/boxxy - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 20
+☋ Forks: 19
 
-★ Stars: 947
+★ Stars: 951
 
 [Open repository](https://github.com/queer/boxxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 951 | 19 | 
 | 2023-03-18 | 947 | 20 | 
 | 2023-03-17 | 946 | 20 | 
 | 2023-03-16 | 945 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 892 | 20 | 
 | 2023-02-19 | 888 | 20 | 
 | 2023-02-18 | 882 | 20 | 
-| 2023-02-17 | 876 | 19 | 
 

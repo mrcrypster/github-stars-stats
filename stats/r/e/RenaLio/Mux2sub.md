@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 75
+☋ Forks: 74
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/RenaLio/Mux2sub)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 130 | 75 | 
+| 2023-03-19 | 131 | 74 | 
 | 2023-03-18 | 130 | 75 | 
 | 2023-03-17 | 130 | 74 | 
 | 2023-03-16 | 129 | 74 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 119 | 64 | 
 | 2023-02-19 | 119 | 64 | 
 | 2023-02-18 | 119 | 64 | 
-| 2023-02-17 | 119 | 64 | 
 

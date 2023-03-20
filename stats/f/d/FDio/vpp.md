@@ -1,10 +1,10 @@
 # FDio/vpp - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 527
 
-★ Stars: 928
+★ Stars: 929
 
 [Open repository](https://github.com/FDio/vpp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 929 | 527 | 
 | 2023-03-17 | 928 | 527 | 
 | 2023-03-16 | 927 | 527 | 
 | 2023-03-15 | 927 | 527 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 908 | 516 | 
 | 2023-02-19 | 906 | 515 | 
 | 2023-02-18 | 905 | 514 | 
-| 2023-02-17 | 903 | 514 | 
 

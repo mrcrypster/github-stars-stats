@@ -1,10 +1,10 @@
 # akshatjain1199/L-T-Edutech-Activities - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/akshatjain1199/L-T-Edutech-Activities)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 21 | 23 | 
 | 2023-03-18 | 20 | 22 | 
 | 2023-03-16 | 18 | 20 | 
 | 2023-03-15 | 14 | 12 | 

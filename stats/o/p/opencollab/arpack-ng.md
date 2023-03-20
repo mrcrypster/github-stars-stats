@@ -1,8 +1,8 @@
 # opencollab/arpack-ng - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 103
+☋ Forks: 102
 
 ★ Stars: 222
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 222 | 102 | 
 | 2023-03-18 | 222 | 103 | 
 | 2023-03-16 | 222 | 103 | 
 | 2023-03-15 | 221 | 102 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 218 | 100 | 
 | 2023-02-20 | 218 | 100 | 
 | 2023-02-19 | 218 | 100 | 
-| 2023-02-18 | 218 | 100 | 
 

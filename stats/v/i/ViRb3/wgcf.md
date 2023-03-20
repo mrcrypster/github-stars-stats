@@ -1,8 +1,8 @@
 # ViRb3/wgcf - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 329
+☋ Forks: 330
 
 ★ Stars: 2639
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2639 | 330 | 
 | 2023-03-17 | 2639 | 329 | 
 | 2023-03-16 | 2636 | 329 | 
 | 2023-03-15 | 2630 | 329 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 2561 | 317 | 
 | 2023-02-19 | 2555 | 317 | 
 | 2023-02-18 | 2551 | 317 | 
-| 2023-02-17 | 2547 | 317 | 
 

@@ -1,6 +1,6 @@
 # heavenshell/vim-pydocstring - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 323 | 54 | 
 | 2023-03-18 | 323 | 54 | 
 | 2023-03-17 | 323 | 54 | 
 | 2023-03-15 | 323 | 54 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 322 | 54 | 
 | 2023-02-19 | 322 | 54 | 
 | 2023-02-18 | 322 | 54 | 
-| 2023-02-17 | 322 | 54 | 
 

@@ -1,6 +1,6 @@
 # Sairyss/domain-driven-hexagon - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 898
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 8805 | 898 | 
 | 2023-03-18 | 8805 | 898 | 
 | 2023-03-17 | 8800 | 896 | 
 | 2023-03-15 | 8794 | 896 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 8608 | 824 | 
 | 2023-02-19 | 8599 | 820 | 
 | 2023-02-18 | 8594 | 820 | 
-| 2023-02-17 | 8587 | 818 | 
 

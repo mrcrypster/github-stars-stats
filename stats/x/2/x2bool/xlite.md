@@ -1,10 +1,10 @@
 # x2bool/xlite - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 36
+☋ Forks: 41
 
-★ Stars: 1124
+★ Stars: 1156
 
 [Open repository](https://github.com/x2bool/xlite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1156 | 41 | 
 | 2023-03-18 | 1124 | 36 | 
 | 2023-03-17 | 1125 | 36 | 
 | 2023-03-15 | 1123 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1118 | 35 | 
 | 2023-02-20 | 1118 | 35 | 
 | 2023-02-18 | 1118 | 35 | 
-| 2023-02-17 | 1118 | 35 | 
 

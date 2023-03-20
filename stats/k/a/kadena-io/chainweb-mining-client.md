@@ -1,6 +1,6 @@
 # kadena-io/chainweb-mining-client - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 40 | 11 | 
 | 2023-03-18 | 40 | 11 | 
 | 2023-03-16 | 40 | 11 | 
 | 2023-03-15 | 40 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 40 | 10 | 
 | 2023-02-19 | 40 | 10 | 
 | 2023-02-18 | 40 | 10 | 
-| 2023-02-17 | 39 | 10 | 
 

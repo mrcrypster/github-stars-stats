@@ -1,10 +1,10 @@
 # opa334/IGSideloadFix - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 13
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/opa334/IGSideloadFix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 54 | 13 | 
 | 2023-03-17 | 53 | 13 | 
 | 2023-03-16 | 53 | 13 | 
 | 2023-03-15 | 53 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 52 | 13 | 
 | 2023-02-19 | 52 | 13 | 
 | 2023-02-18 | 52 | 13 | 
-| 2023-02-17 | 52 | 13 | 
 

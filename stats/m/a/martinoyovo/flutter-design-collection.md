@@ -1,10 +1,10 @@
 # martinoyovo/flutter-design-collection - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 69
+★ Stars: 74
 
 [Open repository](https://github.com/martinoyovo/flutter-design-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 74 | 12 | 
 | 2023-03-18 | 69 | 11 | 
 | 2023-03-16 | 61 | 10 | 
 | 2023-03-15 | 61 | 10 | 

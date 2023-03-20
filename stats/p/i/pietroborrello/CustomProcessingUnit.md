@@ -1,6 +1,6 @@
 # pietroborrello/CustomProcessingUnit - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 300 | 18 | 
 | 2023-03-18 | 300 | 18 | 
 | 2023-03-17 | 300 | 18 | 
 | 2023-03-16 | 298 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 283 | 18 | 
 | 2023-02-20 | 283 | 18 | 
 | 2023-02-18 | 283 | 18 | 
-| 2023-02-17 | 283 | 18 | 
 

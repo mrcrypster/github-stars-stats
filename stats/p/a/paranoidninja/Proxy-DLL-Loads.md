@@ -1,6 +1,6 @@
 # paranoidninja/Proxy-DLL-Loads - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 106 | 19 | 
 | 2023-03-18 | 106 | 19 | 
 | 2023-03-17 | 105 | 18 | 
 | 2023-03-16 | 103 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 98 | 18 | 
 | 2023-02-19 | 97 | 18 | 
 | 2023-02-18 | 97 | 18 | 
-| 2023-02-17 | 97 | 18 | 
 

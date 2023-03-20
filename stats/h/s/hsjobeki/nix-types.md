@@ -1,6 +1,6 @@
 # hsjobeki/nix-types - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 42 | 1 | 
 | 2023-03-17 | 42 | 1 | 
 | 2023-03-16 | 42 | 1 | 
 | 2023-03-15 | 42 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 37 | - | 
 | 2023-02-19 | 37 | - | 
 | 2023-02-18 | 37 | - | 
-| 2023-02-17 | 37 | - | 
 

@@ -1,10 +1,10 @@
 # Slurmio/school-dev-k8s - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 411
+☋ Forks: 410
 
-★ Stars: 918
+★ Stars: 917
 
 [Open repository](https://github.com/Slurmio/school-dev-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 917 | 410 | 
 | 2023-03-18 | 918 | 411 | 
 | 2023-03-17 | 918 | 410 | 
 | 2023-03-16 | 918 | 410 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 911 | 400 | 
 | 2023-02-19 | 911 | 401 | 
 | 2023-02-18 | 911 | 400 | 
-| 2023-02-17 | 911 | 400 | 
 

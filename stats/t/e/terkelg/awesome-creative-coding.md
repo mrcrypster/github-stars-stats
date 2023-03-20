@@ -1,10 +1,10 @@
 # terkelg/awesome-creative-coding - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 815
+☋ Forks: 816
 
-★ Stars: 10763
+★ Stars: 10769
 
 [Open repository](https://github.com/terkelg/awesome-creative-coding)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 10769 | 816 | 
 | 2023-03-17 | 10763 | 815 | 
 | 2023-03-16 | 10758 | 815 | 
 | 2023-03-14 | 10747 | 814 | 

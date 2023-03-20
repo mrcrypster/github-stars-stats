@@ -1,6 +1,6 @@
 # MaysLastPlays-FNF-Things/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 18 | 77 | 
 | 2023-03-18 | 18 | 77 | 
 | 2023-03-17 | 18 | 75 | 
 | 2023-03-16 | 18 | 74 | 

@@ -1,10 +1,10 @@
 # meain/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 11
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/meain/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 206 | 11 | 
 | 2023-03-17 | 205 | 11 | 
 | 2023-03-16 | 204 | 11 | 
 | 2023-03-14 | 203 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 198 | 11 | 
 | 2023-02-19 | 197 | 11 | 
 | 2023-02-18 | 197 | 11 | 
-| 2023-02-17 | 197 | 11 | 
 

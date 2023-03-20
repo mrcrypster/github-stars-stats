@@ -1,10 +1,10 @@
 # badtuxx/DescomplicandoArgoCD - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 25
+☋ Forks: 28
 
-★ Stars: 109
+★ Stars: 118
 
 [Open repository](https://github.com/badtuxx/DescomplicandoArgoCD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 118 | 28 | 
 | 2023-03-17 | 109 | 25 | 
 | 2023-03-16 | 104 | 23 | 
 | 2023-03-15 | 98 | 23 | 

@@ -1,10 +1,10 @@
 # DeathKing/Learning-SICP - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1506
 
-★ Stars: 10276
+★ Stars: 10278
 
 [Open repository](https://github.com/DeathKing/Learning-SICP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 10278 | 1506 | 
 | 2023-03-18 | 10276 | 1506 | 
 | 2023-03-16 | 10275 | 1505 | 
 | 2023-03-15 | 10273 | 1505 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 10227 | 1500 | 
 | 2023-02-19 | 10223 | 1501 | 
 | 2023-02-18 | 10223 | 1501 | 
-| 2023-02-17 | 10221 | 1501 | 
 

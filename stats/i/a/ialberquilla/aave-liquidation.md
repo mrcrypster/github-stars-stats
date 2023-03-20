@@ -1,6 +1,6 @@
 # ialberquilla/aave-liquidation - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 358 | 90 | 
 | 2023-03-17 | 358 | 90 | 
 | 2023-03-16 | 358 | 90 | 
 | 2023-03-15 | 358 | 89 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 359 | 88 | 
 | 2023-02-19 | 359 | 88 | 
 | 2023-02-18 | 359 | 88 | 
-| 2023-02-17 | 359 | 88 | 
 

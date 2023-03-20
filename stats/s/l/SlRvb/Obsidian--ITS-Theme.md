@@ -1,6 +1,6 @@
 # SlRvb/Obsidian--ITS-Theme - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 330 | 102 | 
 | 2023-03-18 | 330 | 102 | 
 | 2023-03-16 | 328 | 102 | 
 | 2023-03-15 | 326 | 101 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 318 | 88 | 
 | 2023-02-19 | 318 | 89 | 
 | 2023-02-18 | 317 | 89 | 
-| 2023-02-17 | 316 | 88 | 
 

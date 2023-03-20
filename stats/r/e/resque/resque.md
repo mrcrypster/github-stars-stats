@@ -1,6 +1,6 @@
 # resque/resque - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1676
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 9273 | 1676 | 
 | 2023-03-18 | 9273 | 1676 | 
 | 2023-03-16 | 9273 | 1676 | 
 | 2023-03-15 | 9274 | 1676 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 9262 | 1672 | 
 | 2023-02-19 | 9262 | 1672 | 
 | 2023-02-18 | 9261 | 1672 | 
-| 2023-02-17 | 9261 | 1672 | 
 

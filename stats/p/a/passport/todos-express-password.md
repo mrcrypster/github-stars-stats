@@ -1,8 +1,8 @@
 # passport/todos-express-password - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 378
+☋ Forks: 379
 
 ★ Stars: 774
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 774 | 379 | 
 | 2023-03-18 | 774 | 378 | 
 | 2023-03-16 | 773 | 378 | 
 | 2023-03-15 | 772 | 378 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 765 | 370 | 
 | 2023-02-19 | 765 | 371 | 
 | 2023-02-18 | 763 | 371 | 
-| 2023-02-17 | 762 | 370 | 
 

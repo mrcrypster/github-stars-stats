@@ -1,10 +1,10 @@
 # ProgrammingHero1/portfolio-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 8
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/ProgrammingHero1/portfolio-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 26 | 8 | 
 | 2023-03-17 | 27 | 8 | 
 | 2023-03-16 | 27 | 8 | 
 | 2023-03-15 | 27 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 27 | 8 | 
 | 2023-02-19 | 27 | 8 | 
 | 2023-02-18 | 27 | 8 | 
-| 2023-02-17 | 27 | 8 | 
 

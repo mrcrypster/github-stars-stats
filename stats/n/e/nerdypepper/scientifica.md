@@ -1,10 +1,10 @@
 # nerdypepper/scientifica - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 25
 
-★ Stars: 1550
+★ Stars: 1551
 
 [Open repository](https://github.com/nerdypepper/scientifica)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1551 | 25 | 
 | 2023-03-18 | 1550 | 25 | 
 | 2023-03-16 | 1550 | 25 | 
 | 2023-03-15 | 1549 | 26 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1542 | 26 | 
 | 2023-02-19 | 1542 | 26 | 
 | 2023-02-18 | 1542 | 26 | 
-| 2023-02-17 | 1541 | 26 | 
 

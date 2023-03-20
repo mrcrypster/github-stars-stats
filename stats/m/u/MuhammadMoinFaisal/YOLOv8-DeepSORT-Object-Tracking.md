@@ -1,10 +1,10 @@
 # MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 55
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 205 | 55 | 
 | 2023-03-18 | 204 | 55 | 
 | 2023-03-16 | 203 | 55 | 
 | 2023-03-15 | 203 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 160 | 41 | 
 | 2023-02-19 | 158 | 41 | 
 | 2023-02-18 | 156 | 40 | 
-| 2023-02-17 | 154 | 38 | 
 

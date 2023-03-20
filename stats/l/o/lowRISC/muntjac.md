@@ -1,10 +1,10 @@
 # lowRISC/muntjac - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/lowRISC/muntjac)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 24 | 2 | 
 | 2023-03-18 | 25 | 2 | 
 | 2023-03-16 | 25 | 2 | 
 | 2023-03-15 | 25 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 24 | 2 | 
 | 2023-02-19 | 24 | 2 | 
 | 2023-02-18 | 24 | 2 | 
-| 2023-02-17 | 24 | 2 | 
 

@@ -1,8 +1,8 @@
 # ash-project/ash_postgres - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 24
+☋ Forks: 26
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 51 | 26 | 
 | 2023-03-18 | 51 | 24 | 
 | 2023-03-17 | 51 | 24 | 
 | 2023-03-16 | 51 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 46 | 25 | 
 | 2023-02-19 | 46 | 25 | 
 | 2023-02-18 | 46 | 25 | 
-| 2023-02-17 | 45 | 25 | 
 

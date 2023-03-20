@@ -1,8 +1,8 @@
 # JuliaMolSim/DFTK.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 65
+☋ Forks: 64
 
 ★ Stars: 321
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 321 | 64 | 
 | 2023-03-18 | 321 | 65 | 
 | 2023-03-17 | 321 | 65 | 
 | 2023-03-15 | 321 | 65 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 316 | 63 | 
 | 2023-02-19 | 316 | 63 | 
 | 2023-02-18 | 316 | 63 | 
-| 2023-02-17 | 316 | 63 | 
 

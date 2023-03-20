@@ -1,10 +1,10 @@
 # pmndrs/react-spring - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1113
 
-★ Stars: 25239
+★ Stars: 25244
 
 [Open repository](https://github.com/pmndrs/react-spring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 25244 | 1113 | 
 | 2023-03-17 | 25239 | 1113 | 
 | 2023-03-16 | 25228 | 1112 | 
 | 2023-03-15 | 25214 | 1111 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 25022 | 1103 | 
 | 2023-02-20 | 25004 | 1101 | 
 | 2023-02-19 | 24999 | 1100 | 
-| 2023-02-18 | 24994 | 1100 | 
 

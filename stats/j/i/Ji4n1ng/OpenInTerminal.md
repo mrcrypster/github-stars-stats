@@ -1,10 +1,10 @@
 # Ji4n1ng/OpenInTerminal - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 211
 
-★ Stars: 5150
+★ Stars: 5152
 
 [Open repository](https://github.com/Ji4n1ng/OpenInTerminal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 5152 | 211 | 
 | 2023-03-18 | 5150 | 211 | 
 | 2023-03-17 | 5145 | 211 | 
 | 2023-03-16 | 5145 | 211 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 5109 | 208 | 
 | 2023-02-19 | 5106 | 208 | 
 | 2023-02-18 | 5106 | 208 | 
-| 2023-02-17 | 5103 | 208 | 
 

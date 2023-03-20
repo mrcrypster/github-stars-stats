@@ -1,10 +1,10 @@
 # lostindark/DriverStoreExplorer - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 334
 
-★ Stars: 4607
+★ Stars: 4615
 
 [Open repository](https://github.com/lostindark/DriverStoreExplorer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 4615 | 334 | 
 | 2023-03-18 | 4607 | 334 | 
 | 2023-03-17 | 4601 | 334 | 
 | 2023-03-15 | 4597 | 333 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 4520 | 331 | 
 | 2023-02-19 | 4516 | 332 | 
 | 2023-02-18 | 4513 | 332 | 
-| 2023-02-17 | 4512 | 332 | 
 

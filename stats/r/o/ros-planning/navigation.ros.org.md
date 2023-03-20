@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 19
 
 ☋ Forks: 122
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/ros-planning/navigation.ros.org)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 48 | 122 | 
+| 2023-03-19 | 49 | 122 | 
 | 2023-03-18 | 49 | 122 | 
 | 2023-03-17 | 48 | 123 | 
 | 2023-03-16 | 48 | 122 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 48 | 118 | 
 | 2023-02-20 | 48 | 118 | 
 | 2023-02-19 | 48 | 118 | 
-| 2023-02-18 | 48 | 117 | 
 

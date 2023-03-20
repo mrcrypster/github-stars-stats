@@ -1,10 +1,10 @@
 # AntonioErdeljac/next-netflix-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 31
+☋ Forks: 38
 
-★ Stars: 97
+★ Stars: 111
 
 [Open repository](https://github.com/AntonioErdeljac/next-netflix-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 111 | 38 | 
 | 2023-03-18 | 97 | 31 | 
 | 2023-03-17 | 90 | 27 | 
 | 2023-03-16 | 77 | 22 | 

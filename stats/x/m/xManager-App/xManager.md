@@ -1,10 +1,10 @@
 # xManager-App/xManager - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 183
 
-★ Stars: 4543
+★ Stars: 4579
 
 [Open repository](https://github.com/xManager-App/xManager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 4579 | 183 | 
 | 2023-03-18 | 4543 | 183 | 
 | 2023-03-16 | 4523 | 182 | 
 | 2023-03-15 | 4510 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 4206 | 171 | 
 | 2023-02-19 | 4205 | 171 | 
 | 2023-02-18 | 4189 | 170 | 
-| 2023-02-17 | 4177 | 170 | 
 

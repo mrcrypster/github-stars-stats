@@ -1,10 +1,10 @@
 # clerkinc/t3-turbo-and-clerk - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 25
 
-★ Stars: 574
+★ Stars: 580
 
 [Open repository](https://github.com/clerkinc/t3-turbo-and-clerk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 580 | 25 | 
 | 2023-03-18 | 574 | 25 | 
 | 2023-03-17 | 568 | 25 | 
 | 2023-03-16 | 561 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 490 | 20 | 
 | 2023-02-19 | 488 | 20 | 
 | 2023-02-18 | 487 | 20 | 
-| 2023-02-17 | 484 | 19 | 
 

@@ -1,6 +1,6 @@
 # avinash201199/Competitions-and-Programs-List - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 470 | 211 | 
 | 2023-03-18 | 470 | 211 | 
 | 2023-03-16 | 470 | 211 | 
 | 2023-03-15 | 469 | 211 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 459 | 211 | 
 | 2023-02-19 | 459 | 211 | 
 | 2023-02-18 | 459 | 211 | 
-| 2023-02-17 | 459 | 211 | 
 

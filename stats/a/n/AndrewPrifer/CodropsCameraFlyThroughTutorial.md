@@ -1,10 +1,10 @@
 # AndrewPrifer/CodropsCameraFlyThroughTutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 8
+☋ Forks: 10
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/AndrewPrifer/CodropsCameraFlyThroughTutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 43 | 10 | 
 | 2023-03-18 | 42 | 8 | 
 | 2023-03-17 | 41 | 8 | 
 | 2023-03-15 | 41 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 32 | 4 | 
 | 2023-02-19 | 29 | 3 | 
 | 2023-02-18 | 24 | 3 | 
-| 2023-02-17 | 23 | 3 | 
 

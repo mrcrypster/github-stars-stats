@@ -1,6 +1,6 @@
 # yeatse/KingfisherWebP - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 252 | 66 | 
 | 2023-03-18 | 252 | 66 | 
 | 2023-03-17 | 252 | 66 | 
 | 2023-03-15 | 252 | 66 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 250 | 66 | 
 | 2023-02-19 | 250 | 66 | 
 | 2023-02-18 | 250 | 66 | 
-| 2023-02-17 | 250 | 66 | 
 

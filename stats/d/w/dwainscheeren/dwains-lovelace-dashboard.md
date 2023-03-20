@@ -1,10 +1,10 @@
 # dwainscheeren/dwains-lovelace-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 163
+☋ Forks: 162
 
-★ Stars: 1325
+★ Stars: 1327
 
 [Open repository](https://github.com/dwainscheeren/dwains-lovelace-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1327 | 162 | 
 | 2023-03-18 | 1325 | 163 | 
 | 2023-03-17 | 1324 | 163 | 
 | 2023-03-15 | 1324 | 163 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1306 | 164 | 
 | 2023-02-19 | 1306 | 164 | 
 | 2023-02-18 | 1306 | 164 | 
-| 2023-02-17 | 1306 | 164 | 
 

@@ -1,10 +1,10 @@
 # cjdoris/PreferencesTools.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/cjdoris/PreferencesTools.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 18 | 1 | 
 | 2023-03-18 | 16 | 1 | 
 | 2023-03-16 | 16 | 1 | 
 | 2023-03-15 | 15 | 1 | 

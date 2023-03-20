@@ -1,10 +1,10 @@
 # ultralytics/ultralytics - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 864
+☋ Forks: 869
 
-★ Stars: 5048
+★ Stars: 5078
 
 [Open repository](https://github.com/ultralytics/ultralytics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 5078 | 869 | 
 | 2023-03-18 | 5048 | 864 | 
 | 2023-03-17 | 5006 | 854 | 
 | 2023-03-15 | 4946 | 842 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 4008 | 634 | 
 | 2023-02-19 | 3966 | 626 | 
 | 2023-02-18 | 3944 | 622 | 
-| 2023-02-17 | 3903 | 614 | 
 

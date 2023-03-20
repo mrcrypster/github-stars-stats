@@ -1,10 +1,10 @@
 # cbochs/grapple.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/cbochs/grapple.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 151 | 1 | 
 | 2023-03-18 | 150 | 1 | 
 | 2023-03-17 | 150 | 1 | 
 | 2023-03-15 | 150 | 1 | 

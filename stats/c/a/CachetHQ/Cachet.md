@@ -1,6 +1,6 @@
 # CachetHQ/Cachet - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1558
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 13051 | 1558 | 
 | 2023-03-18 | 13051 | 1558 | 
 | 2023-03-17 | 13049 | 1558 | 
 | 2023-03-15 | 13046 | 1558 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 13025 | 1559 | 
 | 2023-02-19 | 13023 | 1559 | 
 | 2023-02-18 | 13023 | 1559 | 
-| 2023-02-17 | 13023 | 1559 | 
 

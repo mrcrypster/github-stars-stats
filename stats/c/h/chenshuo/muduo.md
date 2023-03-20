@@ -1,10 +1,10 @@
 # chenshuo/muduo - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 4903
+☋ Forks: 4905
 
-★ Stars: 12749
+★ Stars: 12756
 
 [Open repository](https://github.com/chenshuo/muduo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 12756 | 4905 | 
 | 2023-03-17 | 12749 | 4903 | 
 | 2023-03-16 | 12746 | 4902 | 
 | 2023-03-15 | 12737 | 4901 | 

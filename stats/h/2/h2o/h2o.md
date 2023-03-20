@@ -1,10 +1,10 @@
 # h2o/h2o - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 825
+☋ Forks: 826
 
-★ Stars: 10321
+★ Stars: 10323
 
 [Open repository](https://github.com/h2o/h2o)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 10323 | 826 | 
 | 2023-03-17 | 10321 | 825 | 
 | 2023-03-16 | 10320 | 825 | 
 | 2023-03-14 | 10314 | 824 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 10285 | 820 | 
 | 2023-02-19 | 10285 | 820 | 
 | 2023-02-18 | 10283 | 820 | 
-| 2023-02-17 | 10282 | 820 | 
 

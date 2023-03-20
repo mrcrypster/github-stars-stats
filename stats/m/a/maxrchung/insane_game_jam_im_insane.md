@@ -1,10 +1,10 @@
 # maxrchung/insane_game_jam_im_insane - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/maxrchung/insane_game_jam_im_insane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2 | - | 
 | 2023-03-18 | 1 | - | 
 | 2023-03-17 | 1 | - | 
 | 2023-03-15 | 1 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1 | - | 
 | 2023-02-19 | 1 | - | 
 | 2023-02-18 | 1 | - | 
-| 2023-02-17 | 1 | - | 
 

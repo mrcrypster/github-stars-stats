@@ -1,10 +1,10 @@
 # robertdavidgraham/masscan - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2886
 
-★ Stars: 20756
+★ Stars: 20761
 
 [Open repository](https://github.com/robertdavidgraham/masscan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 20761 | 2886 | 
 | 2023-03-18 | 20756 | 2886 | 
 | 2023-03-17 | 20749 | 2886 | 
 | 2023-03-15 | 20745 | 2884 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 20620 | 2872 | 
 | 2023-02-19 | 20614 | 2872 | 
 | 2023-02-18 | 20610 | 2872 | 
-| 2023-02-17 | 20608 | 2871 | 
 

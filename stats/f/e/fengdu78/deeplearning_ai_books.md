@@ -1,10 +1,10 @@
 # fengdu78/deeplearning_ai_books - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 5622
 
-★ Stars: 15656
+★ Stars: 15664
 
 [Open repository](https://github.com/fengdu78/deeplearning_ai_books)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 15664 | 5622 | 
 | 2023-03-18 | 15656 | 5622 | 
 | 2023-03-17 | 15653 | 5620 | 
 | 2023-03-16 | 15651 | 5619 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 15551 | 5601 | 
 | 2023-02-19 | 15546 | 5601 | 
 | 2023-02-18 | 15540 | 5602 | 
-| 2023-02-17 | 15537 | 5602 | 
 

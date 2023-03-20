@@ -1,10 +1,10 @@
 # zen-lang/zen - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 11
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/zen-lang/zen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 97 | 11 | 
 | 2023-03-18 | 96 | 11 | 
 | 2023-03-17 | 96 | 11 | 
 | 2023-03-15 | 96 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 78 | 13 | 
 | 2023-02-19 | 78 | 13 | 
 | 2023-02-18 | 78 | 13 | 
-| 2023-02-17 | 78 | 13 | 
 

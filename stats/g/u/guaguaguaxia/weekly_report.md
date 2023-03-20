@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 374
+☋ Forks: 375
 
-★ Stars: 2570
+★ Stars: 2579
 
 [Open repository](https://github.com/guaguaguaxia/weekly_report)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 2570 | 374 | 
+| 2023-03-19 | 2579 | 375 | 
 | 2023-03-18 | 2570 | 374 | 
 | 2023-03-16 | 2545 | 371 | 
 | 2023-03-15 | 2544 | 369 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-20 | 2227 | 330 | 
 | 2023-02-19 | 2173 | 319 | 
 | 2023-02-18 | 2142 | 308 | 
-| 2023-02-17 | 2095 | 288 | 
 

@@ -1,10 +1,10 @@
 # rdkit/rdkit - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 747
 
-★ Stars: 1957
+★ Stars: 1959
 
 [Open repository](https://github.com/rdkit/rdkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1959 | 747 | 
 | 2023-03-18 | 1957 | 747 | 
 | 2023-03-16 | 1955 | 746 | 
 | 2023-03-15 | 1954 | 746 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1932 | 733 | 
 | 2023-02-19 | 1930 | 733 | 
 | 2023-02-18 | 1930 | 733 | 
-| 2023-02-17 | 1930 | 733 | 
 

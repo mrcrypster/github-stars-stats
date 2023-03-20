@@ -1,8 +1,8 @@
 # kazeburo/query-digester - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 15 | 2 | 
 | 2023-03-18 | 15 | 1 | 
 | 2023-03-17 | 15 | 1 | 
 | 2023-03-15 | 15 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 15 | 1 | 
 | 2023-02-20 | 15 | 1 | 
 | 2023-02-19 | 15 | 1 | 
-| 2023-02-17 | 15 | 1 | 
 

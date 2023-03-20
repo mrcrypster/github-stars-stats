@@ -1,10 +1,10 @@
 # wakatime/vim-wakatime - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 69
 
-★ Stars: 881
+★ Stars: 880
 
 [Open repository](https://github.com/wakatime/vim-wakatime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 880 | 69 | 
 | 2023-03-17 | 881 | 69 | 
 | 2023-03-16 | 880 | 69 | 
 | 2023-03-15 | 879 | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 873 | 67 | 
 | 2023-02-19 | 872 | 67 | 
 | 2023-02-18 | 872 | 67 | 
-| 2023-02-17 | 872 | 67 | 
 

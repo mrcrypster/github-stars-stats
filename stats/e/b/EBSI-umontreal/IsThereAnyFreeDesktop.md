@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 125
+☋ Forks: 128
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/EBSI-umontreal/IsThereAnyFreeDesktop)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 1 | 125 | 
+| 2023-03-19 | 2 | 128 | 
 | 2023-03-18 | 1 | 123 | 
 | 2023-03-17 | 1 | 116 | 
 | 2023-03-16 | 1 | 109 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1 | 65 | 
 | 2023-02-19 | 1 | 62 | 
 | 2023-02-18 | 1 | 62 | 
-| 2023-02-17 | 1 | 62 | 
 

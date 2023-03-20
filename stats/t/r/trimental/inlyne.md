@@ -1,8 +1,8 @@
 # trimental/inlyne - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 333
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 333 | 14 | 
 | 2023-03-18 | 333 | 13 | 
 | 2023-03-16 | 333 | 13 | 
 | 2023-03-15 | 332 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 324 | 13 | 
 | 2023-02-19 | 324 | 13 | 
 | 2023-02-18 | 324 | 13 | 
-| 2023-02-17 | 324 | 13 | 
 

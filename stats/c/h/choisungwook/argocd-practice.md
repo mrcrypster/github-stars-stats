@@ -1,6 +1,6 @@
 # choisungwook/argocd-practice - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1 | 16 | 
 | 2023-03-18 | 1 | 16 | 
 | 2023-03-16 | 1 | 16 | 
 | 2023-03-15 | 1 | 16 | 

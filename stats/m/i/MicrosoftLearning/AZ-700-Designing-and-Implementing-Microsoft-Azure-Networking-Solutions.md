@@ -1,6 +1,6 @@
 # MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 197 | 375 | 
 | 2023-03-18 | 197 | 375 | 
 | 2023-03-17 | 197 | 375 | 
 | 2023-03-16 | 197 | 374 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 187 | 353 | 
 | 2023-02-19 | 187 | 352 | 
 | 2023-02-18 | 187 | 351 | 
-| 2023-02-17 | 187 | 350 | 
 

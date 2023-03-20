@@ -1,10 +1,10 @@
 # Tom60chat/Microsoft-Rewards-Farmer-Sharp - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 322
+★ Stars: 331
 
 [Open repository](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 331 | 34 | 
 | 2023-03-17 | 322 | 33 | 
 | 2023-03-16 | 316 | 33 | 
 | 2023-03-15 | 315 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 199 | 21 | 
 | 2023-02-19 | 193 | 21 | 
 | 2023-02-18 | 186 | 21 | 
-| 2023-02-17 | 178 | 19 | 
 

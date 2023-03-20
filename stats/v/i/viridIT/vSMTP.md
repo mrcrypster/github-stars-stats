@@ -1,6 +1,6 @@
 # viridIT/vSMTP - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 445 | 21 | 
 | 2023-03-17 | 445 | 21 | 
 | 2023-03-16 | 442 | 20 | 
 | 2023-03-14 | 442 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-20 | 427 | 18 | 
 | 2023-02-19 | 427 | 18 | 
 | 2023-02-18 | 426 | 18 | 
-| 2023-02-17 | 426 | 18 | 
 

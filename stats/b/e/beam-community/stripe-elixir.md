@@ -1,10 +1,10 @@
 # beam-community/stripe-elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 305
 
-★ Stars: 797
+★ Stars: 799
 
 [Open repository](https://github.com/beam-community/stripe-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 799 | 305 | 
 | 2023-03-18 | 797 | 305 | 
 | 2023-03-17 | 796 | 305 | 
 | 2023-03-15 | 796 | 305 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 791 | 306 | 
 | 2023-02-19 | 792 | 306 | 
 | 2023-02-18 | 792 | 306 | 
-| 2023-02-17 | 792 | 306 | 
 

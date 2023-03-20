@@ -1,6 +1,6 @@
 # PolyMathOrg/DataFrame - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 66 | 20 | 
 | 2023-03-18 | 66 | 20 | 
 | 2023-03-17 | 66 | 20 | 
 | 2023-03-15 | 66 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 66 | 19 | 
 | 2023-02-19 | 65 | 19 | 
 | 2023-02-18 | 65 | 19 | 
-| 2023-02-17 | 65 | 19 | 
 

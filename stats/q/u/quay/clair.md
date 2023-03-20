@@ -1,10 +1,10 @@
 # quay/clair - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1127
 
-★ Stars: 9372
+★ Stars: 9377
 
 [Open repository](https://github.com/quay/clair)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 9377 | 1127 | 
 | 2023-03-18 | 9372 | 1127 | 
 | 2023-03-17 | 9370 | 1127 | 
 | 2023-03-15 | 9368 | 1127 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 9330 | 1122 | 
 | 2023-02-19 | 9325 | 1122 | 
 | 2023-02-18 | 9324 | 1122 | 
-| 2023-02-17 | 9323 | 1122 | 
 

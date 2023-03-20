@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 19
 
 ☋ Forks: 3
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/allegro/ecto-cursor-based-stream)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 47 | 3 | 
+| 2023-03-19 | 48 | 3 | 
 | 2023-03-18 | 47 | 3 | 
 

@@ -1,10 +1,10 @@
 # easychen/openai-api-proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 40
+☋ Forks: 42
 
-★ Stars: 297
+★ Stars: 302
 
 [Open repository](https://github.com/easychen/openai-api-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 302 | 42 | 
 | 2023-03-18 | 297 | 40 | 
 | 2023-03-17 | 283 | 33 | 
 | 2023-03-15 | 268 | 33 | 

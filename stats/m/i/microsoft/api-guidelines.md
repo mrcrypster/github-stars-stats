@@ -1,10 +1,10 @@
 # microsoft/api-guidelines - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
-☋ Forks: 2586
+☋ Forks: 2589
 
-★ Stars: 21058
+★ Stars: 21068
 
 [Open repository](https://github.com/microsoft/api-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 21068 | 2589 | 
 | 2023-03-17 | 21058 | 2586 | 
 | 2023-03-16 | 21046 | 2584 | 
 | 2023-03-15 | 21030 | 2580 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 20675 | 2543 | 
 | 2023-02-20 | 20667 | 2544 | 
 | 2023-02-19 | 20665 | 2543 | 
-| 2023-02-18 | 20660 | 2541 | 
 

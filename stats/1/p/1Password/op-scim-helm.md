@@ -1,8 +1,8 @@
 # 1Password/op-scim-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 11 | 19 | 
 | 2023-03-18 | 11 | 18 | 
 | 2023-03-16 | 11 | 18 | 
 | 2023-03-15 | 11 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 11 | 18 | 
 | 2023-02-19 | 11 | 18 | 
 | 2023-02-18 | 11 | 18 | 
-| 2023-02-17 | 11 | 18 | 
 

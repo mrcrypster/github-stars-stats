@@ -1,6 +1,6 @@
 # nex3/sass-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 90 | 23 | 
 | 2023-03-18 | 90 | 23 | 
 | 2023-03-17 | 90 | 23 | 
 | 2023-03-15 | 90 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 90 | 22 | 
 | 2023-02-20 | 90 | 22 | 
 | 2023-02-18 | 90 | 22 | 
-| 2023-02-17 | 90 | 22 | 
 

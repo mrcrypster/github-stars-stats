@@ -1,6 +1,6 @@
 # beerandcodeteam/olw-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 52 | 23 | 
 | 2023-03-18 | 52 | 23 | 
 | 2023-03-17 | 52 | 23 | 
 | 2023-03-15 | 52 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 50 | 19 | 
 | 2023-02-19 | 49 | 19 | 
 | 2023-02-18 | 49 | 19 | 
-| 2023-02-17 | 49 | 19 | 
 

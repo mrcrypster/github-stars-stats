@@ -1,6 +1,6 @@
 # kidando/gkanban - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 48 | 1 | 
 | 2023-03-18 | 48 | 1 | 
 | 2023-03-16 | 48 | 1 | 
 | 2023-03-15 | 48 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 45 | 1 | 
 | 2023-02-20 | 45 | 1 | 
 | 2023-02-18 | 45 | 1 | 
-| 2023-02-17 | 45 | 1 | 
 

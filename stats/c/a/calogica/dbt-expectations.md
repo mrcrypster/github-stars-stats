@@ -1,10 +1,10 @@
 # calogica/dbt-expectations - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 78
 
-★ Stars: 634
+★ Stars: 636
 
 [Open repository](https://github.com/calogica/dbt-expectations)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 636 | 78 | 
 | 2023-03-18 | 634 | 78 | 
 | 2023-03-17 | 634 | 78 | 
 | 2023-03-15 | 629 | 78 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 599 | 73 | 
 | 2023-02-19 | 599 | 73 | 
 | 2023-02-18 | 599 | 73 | 
-| 2023-02-17 | 599 | 72 | 
 

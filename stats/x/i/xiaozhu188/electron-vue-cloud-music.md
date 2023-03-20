@@ -1,10 +1,10 @@
 # xiaozhu188/electron-vue-cloud-music - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 673
 
-★ Stars: 2252
+★ Stars: 2253
 
 [Open repository](https://github.com/xiaozhu188/electron-vue-cloud-music)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2253 | 673 | 
 | 2023-03-17 | 2252 | 673 | 
 | 2023-03-16 | 2251 | 673 | 
 | 2023-03-15 | 2251 | 672 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 2225 | 668 | 
 | 2023-02-20 | 2223 | 668 | 
 | 2023-02-19 | 2222 | 667 | 
-| 2023-02-17 | 2221 | 667 | 
 

@@ -1,10 +1,10 @@
 # serverless/serverless - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 5526
 
-★ Stars: 44405
+★ Stars: 44410
 
 [Open repository](https://github.com/serverless/serverless)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 44410 | 5526 | 
 | 2023-03-18 | 44405 | 5526 | 
 | 2023-03-17 | 44399 | 5525 | 
 | 2023-03-16 | 44426 | 5517 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 44255 | 5494 | 
 | 2023-02-19 | 44245 | 5495 | 
 | 2023-02-18 | 44242 | 5492 | 
-| 2023-02-17 | 44236 | 5493 | 
 

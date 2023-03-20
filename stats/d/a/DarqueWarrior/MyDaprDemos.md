@@ -1,6 +1,6 @@
 # DarqueWarrior/MyDaprDemos - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 71 | 55 | 
 | 2023-03-18 | 71 | 55 | 
 | 2023-03-16 | 68 | 55 | 
 | 2023-03-15 | 68 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 68 | 52 | 
 | 2023-02-19 | 68 | 52 | 
 | 2023-02-18 | 68 | 52 | 
-| 2023-02-17 | 68 | 52 | 
 

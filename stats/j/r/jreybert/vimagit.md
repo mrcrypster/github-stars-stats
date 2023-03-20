@@ -1,10 +1,10 @@
 # jreybert/vimagit - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 49
 
-★ Stars: 1266
+★ Stars: 1267
 
 [Open repository](https://github.com/jreybert/vimagit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1267 | 49 | 
 | 2023-03-18 | 1266 | 49 | 
 | 2023-03-17 | 1266 | 49 | 
 | 2023-03-16 | 1265 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1262 | 49 | 
 | 2023-02-19 | 1261 | 49 | 
 | 2023-02-18 | 1261 | 49 | 
-| 2023-02-17 | 1262 | 49 | 
 

@@ -1,10 +1,10 @@
 # madhuakula/kubernetes-goat - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 472
 
-★ Stars: 2953
+★ Stars: 2954
 
 [Open repository](https://github.com/madhuakula/kubernetes-goat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2954 | 472 | 
 | 2023-03-18 | 2953 | 472 | 
 | 2023-03-17 | 2953 | 471 | 
 | 2023-03-15 | 2951 | 471 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 2910 | 457 | 
 | 2023-02-19 | 2908 | 457 | 
 | 2023-02-18 | 2908 | 457 | 
-| 2023-02-17 | 2908 | 456 | 
 

@@ -1,10 +1,10 @@
 # OUXT-Polaris/ros_handson - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/OUXT-Polaris/ros_handson)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 34 | 2 | 
 | 2023-03-17 | 33 | 2 | 
 | 2023-03-16 | 33 | 2 | 
 | 2023-03-15 | 33 | 2 | 

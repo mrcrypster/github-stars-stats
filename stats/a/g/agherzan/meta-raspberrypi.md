@@ -1,10 +1,10 @@
 # agherzan/meta-raspberrypi - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 333
 
-★ Stars: 382
+★ Stars: 383
 
 [Open repository](https://github.com/agherzan/meta-raspberrypi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 383 | 333 | 
 | 2023-03-18 | 382 | 333 | 
 | 2023-03-16 | 382 | 333 | 
 | 2023-03-15 | 382 | 333 | 

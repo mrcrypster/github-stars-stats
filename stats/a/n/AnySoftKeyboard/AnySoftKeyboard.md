@@ -1,10 +1,10 @@
 # AnySoftKeyboard/AnySoftKeyboard - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 750
+☋ Forks: 751
 
-★ Stars: 2374
+★ Stars: 2376
 
 [Open repository](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2376 | 751 | 
 | 2023-03-18 | 2374 | 750 | 
 | 2023-03-16 | 2372 | 750 | 
 | 2023-03-15 | 2371 | 750 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 2351 | 747 | 
 | 2023-02-20 | 2349 | 747 | 
 | 2023-02-19 | 2344 | 746 | 
-| 2023-02-18 | 2340 | 744 | 
 

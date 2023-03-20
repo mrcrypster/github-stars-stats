@@ -1,10 +1,10 @@
 # cocktailpeanut/dalai - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 134
+☋ Forks: 231
 
-★ Stars: 2342
+★ Stars: 3185
 
 [Open repository](https://github.com/cocktailpeanut/dalai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3185 | 231 | 
 | 2023-03-18 | 2342 | 134 | 
 | 2023-03-17 | 2050 | 110 | 
 | 2023-03-16 | 2001 | 106 | 

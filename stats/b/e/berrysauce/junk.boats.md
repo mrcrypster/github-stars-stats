@@ -1,10 +1,10 @@
 # berrysauce/junk.boats - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/berrysauce/junk.boats)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 35 | - | 
 | 2023-03-18 | 34 | - | 
 | 2023-03-17 | 34 | - | 
 | 2023-03-16 | 33 | - | 

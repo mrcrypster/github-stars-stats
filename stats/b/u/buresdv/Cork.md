@@ -1,10 +1,10 @@
 # buresdv/Cork - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 422
+★ Stars: 434
 
 [Open repository](https://github.com/buresdv/Cork)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 434 | 18 | 
 | 2023-03-18 | 422 | 17 | 
 | 2023-03-17 | 417 | 17 | 
 | 2023-03-15 | 409 | 14 | 

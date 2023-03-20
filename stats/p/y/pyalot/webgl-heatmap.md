@@ -1,6 +1,6 @@
 # pyalot/webgl-heatmap - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 900 | 147 | 
 | 2023-03-18 | 900 | 147 | 
 | 2023-03-16 | 900 | 147 | 
 | 2023-03-15 | 900 | 147 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 899 | 148 | 
 | 2023-02-19 | 899 | 148 | 
 | 2023-02-18 | 899 | 148 | 
-| 2023-02-17 | 899 | 148 | 
 

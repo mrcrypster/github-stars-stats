@@ -1,8 +1,8 @@
 # tennc/webshell - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 5540
+☋ Forks: 5539
 
 ★ Stars: 8872
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 8872 | 5539 | 
 | 2023-03-18 | 8872 | 5540 | 
 | 2023-03-17 | 8870 | 5540 | 
 | 2023-03-16 | 8868 | 5537 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 8816 | 5519 | 
 | 2023-02-19 | 8815 | 5517 | 
 | 2023-02-18 | 8811 | 5518 | 
-| 2023-02-17 | 8808 | 5518 | 
 

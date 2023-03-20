@@ -1,6 +1,6 @@
 # ReproNim/containers - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 21 | 13 | 
 | 2023-03-18 | 21 | 13 | 
 | 2023-03-16 | 21 | 13 | 
 | 2023-03-15 | 21 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 22 | 13 | 
 | 2023-02-20 | 22 | 13 | 
 | 2023-02-18 | 22 | 13 | 
-| 2023-02-17 | 22 | 13 | 
 

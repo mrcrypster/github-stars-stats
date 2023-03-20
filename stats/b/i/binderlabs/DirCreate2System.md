@@ -1,6 +1,6 @@
 # binderlabs/DirCreate2System - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 234 | 29 | 
 | 2023-03-18 | 234 | 29 | 
 | 2023-03-17 | 234 | 29 | 
 | 2023-03-15 | 234 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 222 | 28 | 
 | 2023-02-20 | 222 | 28 | 
 | 2023-02-19 | 222 | 28 | 
-| 2023-02-17 | 222 | 28 | 
 

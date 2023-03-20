@@ -1,8 +1,8 @@
 # jinzhu/copier - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 421
+☋ Forks: 420
 
 ★ Stars: 4102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 4102 | 420 | 
 | 2023-03-18 | 4102 | 421 | 
 | 2023-03-17 | 4093 | 421 | 
 | 2023-03-15 | 4085 | 421 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 4009 | 417 | 
 | 2023-02-19 | 4005 | 416 | 
 | 2023-02-18 | 4003 | 416 | 
-| 2023-02-17 | 4003 | 416 | 
 

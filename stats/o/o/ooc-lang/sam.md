@@ -1,6 +1,6 @@
 # ooc-lang/sam - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 14 | 13 | 
 | 2023-03-17 | 14 | 13 | 
 | 2023-03-16 | 14 | 13 | 
 | 2023-03-14 | 14 | 13 | 

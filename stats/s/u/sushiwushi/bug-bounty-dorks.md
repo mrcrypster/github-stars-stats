@@ -1,6 +1,6 @@
 # sushiwushi/bug-bounty-dorks - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 319
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 847 | 319 | 
 | 2023-03-18 | 847 | 319 | 
 | 2023-03-16 | 846 | 319 | 
 | 2023-03-15 | 842 | 319 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 827 | 313 | 
 | 2023-02-19 | 827 | 313 | 
 | 2023-02-18 | 827 | 313 | 
-| 2023-02-17 | 825 | 312 | 
 

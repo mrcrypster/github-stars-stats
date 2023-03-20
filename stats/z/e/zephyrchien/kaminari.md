@@ -1,6 +1,6 @@
 # zephyrchien/kaminari - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 264 | 41 | 
 | 2023-03-18 | 264 | 41 | 
 | 2023-03-16 | 264 | 41 | 
 | 2023-03-15 | 265 | 41 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 262 | 39 | 
 | 2023-02-19 | 262 | 39 | 
 | 2023-02-18 | 262 | 39 | 
-| 2023-02-17 | 262 | 39 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 19
 
-☋ Forks: 671
+☋ Forks: 673
 
-★ Stars: 3291
+★ Stars: 3297
 
 [Open repository](https://github.com/pvqogw/TVBoxOSC)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-19 | 3291 | 671 | 
+| 2023-03-19 | 3297 | 673 | 
 | 2023-03-18 | 3290 | 671 | 
 | 2023-03-17 | 3262 | 666 | 
 | 2023-03-15 | 3253 | 664 | 

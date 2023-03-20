@@ -1,10 +1,10 @@
 # LunarVim/nvim-basic-ide - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 414
+☋ Forks: 412
 
-★ Stars: 1487
+★ Stars: 1488
 
 [Open repository](https://github.com/LunarVim/nvim-basic-ide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1488 | 412 | 
 | 2023-03-18 | 1487 | 414 | 
 | 2023-03-16 | 1482 | 410 | 
 | 2023-03-15 | 1483 | 410 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1426 | 399 | 
 | 2023-02-19 | 1425 | 399 | 
 | 2023-02-18 | 1425 | 399 | 
-| 2023-02-17 | 1417 | 398 | 
 

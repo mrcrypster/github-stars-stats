@@ -1,6 +1,6 @@
 # OLSF/carpe - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 80 | 34 | 
 | 2023-03-18 | 80 | 34 | 
 | 2023-03-16 | 80 | 34 | 
 | 2023-03-15 | 80 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 79 | 32 | 
 | 2023-02-19 | 79 | 32 | 
 | 2023-02-18 | 79 | 32 | 
-| 2023-02-17 | 79 | 32 | 
 

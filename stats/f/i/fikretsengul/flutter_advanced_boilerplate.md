@@ -1,10 +1,10 @@
 # fikretsengul/flutter_advanced_boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 31
 
-★ Stars: 216
+★ Stars: 215
 
 [Open repository](https://github.com/fikretsengul/flutter_advanced_boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 215 | 31 | 
 | 2023-03-18 | 216 | 31 | 
 | 2023-03-17 | 216 | 31 | 
 | 2023-03-15 | 216 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 209 | 30 | 
 | 2023-02-19 | 209 | 30 | 
 | 2023-02-18 | 209 | 30 | 
-| 2023-02-17 | 208 | 30 | 
 

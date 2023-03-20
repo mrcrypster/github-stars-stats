@@ -1,6 +1,6 @@
 # atmoz/sftp - stars & forks statistics
 
-Stats updated on Mar 2023, 17
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 722
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1314 | 722 | 
 | 2023-03-17 | 1314 | 722 | 
 | 2023-03-16 | 1314 | 721 | 
 | 2023-03-15 | 1313 | 720 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 17
 | 2023-02-21 | 1296 | 713 | 
 | 2023-02-19 | 1293 | 712 | 
 | 2023-02-18 | 1293 | 712 | 
-| 2023-02-17 | 1293 | 711 | 
 

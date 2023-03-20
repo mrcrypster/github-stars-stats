@@ -1,6 +1,6 @@
 # sentimentxyz/protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 35 | 4 | 
 | 2023-03-18 | 35 | 4 | 
 | 2023-03-17 | 34 | 4 | 
 | 2023-03-15 | 35 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 35 | 4 | 
 | 2023-02-19 | 35 | 4 | 
 | 2023-02-18 | 35 | 4 | 
-| 2023-02-17 | 34 | 4 | 
 

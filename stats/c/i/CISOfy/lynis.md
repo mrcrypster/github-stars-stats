@@ -1,10 +1,10 @@
 # CISOfy/lynis - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 1293
+☋ Forks: 1294
 
-★ Stars: 10616
+★ Stars: 10619
 
 [Open repository](https://github.com/CISOfy/lynis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 10619 | 1294 | 
 | 2023-03-18 | 10616 | 1293 | 
 | 2023-03-17 | 10615 | 1292 | 
 | 2023-03-16 | 10610 | 1292 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 10536 | 1286 | 
 | 2023-02-20 | 10535 | 1286 | 
 | 2023-02-18 | 10533 | 1286 | 
-| 2023-02-17 | 10531 | 1287 | 
 

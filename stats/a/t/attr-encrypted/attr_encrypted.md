@@ -1,6 +1,6 @@
 # attr-encrypted/attr_encrypted - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 425
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1944 | 425 | 
 | 2023-03-18 | 1944 | 425 | 
 | 2023-03-16 | 1944 | 424 | 
 | 2023-03-15 | 1944 | 423 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1940 | 417 | 
 | 2023-02-19 | 1940 | 416 | 
 | 2023-02-18 | 1940 | 416 | 
-| 2023-02-17 | 1939 | 416 | 
 

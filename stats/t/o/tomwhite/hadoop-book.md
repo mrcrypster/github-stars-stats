@@ -1,10 +1,10 @@
 # tomwhite/hadoop-book - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 2591
+☋ Forks: 2590
 
-★ Stars: 3439
+★ Stars: 3442
 
 [Open repository](https://github.com/tomwhite/hadoop-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3442 | 2590 | 
 | 2023-03-18 | 3439 | 2591 | 
 | 2023-03-16 | 3438 | 2592 | 
 | 2023-03-15 | 3438 | 2593 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 3431 | 2590 | 
 | 2023-02-19 | 3433 | 2590 | 
 | 2023-02-18 | 3432 | 2590 | 
-| 2023-02-17 | 3432 | 2591 | 
 

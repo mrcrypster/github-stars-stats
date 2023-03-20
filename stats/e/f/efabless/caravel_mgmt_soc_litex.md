@@ -1,6 +1,6 @@
 # efabless/caravel_mgmt_soc_litex - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 19 | 14 | 
 | 2023-03-18 | 19 | 14 | 
 | 2023-03-16 | 19 | 14 | 
 | 2023-03-15 | 19 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 19 | 14 | 
 | 2023-02-19 | 19 | 14 | 
 | 2023-02-18 | 19 | 14 | 
-| 2023-02-17 | 19 | 14 | 
 

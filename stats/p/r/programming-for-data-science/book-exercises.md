@@ -1,6 +1,6 @@
 # programming-for-data-science/book-exercises - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 760
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 112 | 760 | 
 | 2023-03-18 | 112 | 760 | 
 | 2023-03-16 | 112 | 761 | 
 | 2023-03-15 | 112 | 761 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 112 | 762 | 
 | 2023-02-20 | 112 | 761 | 
 | 2023-02-18 | 112 | 761 | 
-| 2023-02-17 | 112 | 761 | 
 

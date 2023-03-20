@@ -1,10 +1,10 @@
 # metaplex-foundation/js - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 139
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/metaplex-foundation/js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 286 | 139 | 
 | 2023-03-18 | 285 | 139 | 
 | 2023-03-17 | 285 | 139 | 
 | 2023-03-15 | 285 | 138 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 282 | 123 | 
 | 2023-02-20 | 281 | 123 | 
 | 2023-02-19 | 280 | 122 | 
-| 2023-02-18 | 280 | 121 | 
 

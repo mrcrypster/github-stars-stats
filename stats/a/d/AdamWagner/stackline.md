@@ -1,6 +1,6 @@
 # AdamWagner/stackline - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 729 | 28 | 
 | 2023-03-18 | 729 | 28 | 
 | 2023-03-17 | 729 | 28 | 
 | 2023-03-16 | 728 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 719 | 27 | 
 | 2023-02-19 | 719 | 27 | 
 | 2023-02-18 | 719 | 27 | 
-| 2023-02-17 | 717 | 27 | 
 

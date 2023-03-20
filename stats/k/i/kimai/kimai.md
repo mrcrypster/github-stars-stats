@@ -1,10 +1,10 @@
 # kimai/kimai - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 434
 
-★ Stars: 2102
+★ Stars: 2103
 
 [Open repository](https://github.com/kimai/kimai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 2103 | 434 | 
 | 2023-03-18 | 2102 | 434 | 
 | 2023-03-17 | 2100 | 434 | 
 | 2023-03-16 | 2098 | 433 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 2071 | 426 | 
 | 2023-02-19 | 2067 | 425 | 
 | 2023-02-18 | 2064 | 425 | 
-| 2023-02-17 | 2064 | 424 | 
 

@@ -1,10 +1,10 @@
 # oobabooga/text-generation-webui - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 271
+☋ Forks: 285
 
-★ Stars: 3291
+★ Stars: 3455
 
 [Open repository](https://github.com/oobabooga/text-generation-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 3455 | 285 | 
 | 2023-03-18 | 3291 | 271 | 
 | 2023-03-16 | 3131 | 254 | 
 | 2023-03-15 | 2940 | 239 | 

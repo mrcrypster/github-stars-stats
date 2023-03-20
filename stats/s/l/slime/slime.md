@@ -1,10 +1,10 @@
 # slime/slime - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 307
 
-★ Stars: 1703
+★ Stars: 1704
 
 [Open repository](https://github.com/slime/slime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 1704 | 307 | 
 | 2023-03-18 | 1703 | 307 | 
 | 2023-03-17 | 1702 | 306 | 
 | 2023-03-15 | 1701 | 306 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 1693 | 306 | 
 | 2023-02-19 | 1693 | 306 | 
 | 2023-02-18 | 1693 | 306 | 
-| 2023-02-17 | 1692 | 306 | 
 

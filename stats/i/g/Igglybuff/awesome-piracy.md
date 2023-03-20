@@ -1,10 +1,10 @@
 # Igglybuff/awesome-piracy - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
-☋ Forks: 1955
+☋ Forks: 1959
 
-★ Stars: 21956
+★ Stars: 21996
 
 [Open repository](https://github.com/Igglybuff/awesome-piracy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 21996 | 1959 | 
 | 2023-03-18 | 21956 | 1955 | 
 | 2023-03-16 | 21950 | 1953 | 
 | 2023-03-15 | 21943 | 1951 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 21781 | 1932 | 
 | 2023-02-20 | 21776 | 1932 | 
 | 2023-02-19 | 21765 | 1930 | 
-| 2023-02-18 | 21758 | 1929 | 
 

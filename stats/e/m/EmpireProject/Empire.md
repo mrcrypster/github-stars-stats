@@ -1,10 +1,10 @@
 # EmpireProject/Empire - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 19
 
 ☋ Forks: 2676
 
-★ Stars: 6892
+★ Stars: 6893
 
 [Open repository](https://github.com/EmpireProject/Empire)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-19 | 6893 | 2676 | 
 | 2023-03-18 | 6892 | 2676 | 
 | 2023-03-17 | 6891 | 2676 | 
 | 2023-03-16 | 6888 | 2674 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-20 | 6841 | 2660 | 
 | 2023-02-19 | 6841 | 2659 | 
 | 2023-02-18 | 6842 | 2657 | 
-| 2023-02-17 | 6841 | 2656 | 
 
