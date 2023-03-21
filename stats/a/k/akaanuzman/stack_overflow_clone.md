@@ -1,6 +1,6 @@
 # akaanuzman/stack_overflow_clone - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 39 | 6 | 
 | 2023-03-19 | 39 | 6 | 
 | 2023-03-17 | 39 | 6 | 
 | 2023-03-16 | 39 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 39 | 6 | 
 | 2023-02-21 | 38 | 6 | 
 | 2023-02-19 | 38 | 6 | 
-| 2023-02-18 | 38 | 6 | 
 

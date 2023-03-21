@@ -1,6 +1,6 @@
 # iris-hep/iris-hep.github.io-source - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 25 | 203 | 
 | 2023-03-19 | 25 | 203 | 
 | 2023-03-17 | 25 | 203 | 
 | 2023-03-16 | 25 | 203 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 25 | 200 | 
 | 2023-02-21 | 25 | 200 | 
 | 2023-02-19 | 25 | 200 | 
-| 2023-02-18 | 25 | 200 | 
 

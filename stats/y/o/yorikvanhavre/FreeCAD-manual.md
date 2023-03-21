@@ -1,6 +1,6 @@
 # yorikvanhavre/FreeCAD-manual - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 73 | 37 | 
 | 2023-03-19 | 73 | 37 | 
 | 2023-03-18 | 73 | 37 | 
 | 2023-03-17 | 72 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 69 | 35 | 
 | 2023-02-20 | 68 | 35 | 
 | 2023-02-19 | 68 | 35 | 
-| 2023-02-18 | 68 | 35 | 
 

@@ -1,6 +1,6 @@
 # gabiduarte/awesome-techleads - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1531 | 102 | 
 | 2023-03-18 | 1531 | 102 | 
 | 2023-03-17 | 1531 | 102 | 
 | 2023-03-16 | 1531 | 102 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 1519 | 102 | 
 | 2023-02-21 | 1519 | 102 | 
 | 2023-02-20 | 1518 | 102 | 
-| 2023-02-19 | 1515 | 102 | 
 

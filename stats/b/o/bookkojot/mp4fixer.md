@@ -1,6 +1,6 @@
 # bookkojot/mp4fixer - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 289 | 59 | 
 | 2023-03-19 | 289 | 59 | 
 | 2023-03-17 | 289 | 59 | 
 | 2023-03-16 | 289 | 59 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 286 | 59 | 
 | 2023-02-20 | 285 | 59 | 
 | 2023-02-19 | 284 | 59 | 
-| 2023-02-18 | 284 | 59 | 
 

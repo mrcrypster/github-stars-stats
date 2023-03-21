@@ -1,10 +1,10 @@
 # dutchcoders/transfer.sh - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1445
+☋ Forks: 1446
 
-★ Stars: 13831
+★ Stars: 13835
 
 [Open repository](https://github.com/dutchcoders/transfer.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 13835 | 1446 | 
 | 2023-03-19 | 13831 | 1445 | 
 | 2023-03-18 | 13830 | 1445 | 
 | 2023-03-17 | 13829 | 1445 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 13748 | 1441 | 
 | 2023-02-20 | 13743 | 1440 | 
 | 2023-02-19 | 13739 | 1439 | 
-| 2023-02-18 | 13739 | 1439 | 
 

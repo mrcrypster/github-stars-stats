@@ -1,10 +1,10 @@
 # SEAbdulbasit/MusicApp-KMP - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 11
+☋ Forks: 14
 
-★ Stars: 238
+★ Stars: 270
 
 [Open repository](https://github.com/SEAbdulbasit/MusicApp-KMP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 270 | 14 | 
 | 2023-03-19 | 238 | 11 | 
 | 2023-03-17 | 229 | 11 | 
 | 2023-03-16 | 218 | 11 | 

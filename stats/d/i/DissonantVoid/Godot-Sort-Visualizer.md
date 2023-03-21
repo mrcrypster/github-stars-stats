@@ -1,10 +1,10 @@
 # DissonantVoid/Godot-Sort-Visualizer - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/DissonantVoid/Godot-Sort-Visualizer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 32 | 3 | 
 | 2023-03-19 | 31 | 3 | 
 | 2023-03-18 | 30 | 3 | 
 | 2023-03-16 | 30 | 3 | 

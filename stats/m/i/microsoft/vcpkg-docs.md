@@ -1,6 +1,6 @@
 # microsoft/vcpkg-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 10 | 17 | 
 | 2023-03-19 | 10 | 17 | 
 | 2023-03-18 | 10 | 17 | 
 | 2023-03-17 | 10 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 8 | 14 | 
 | 2023-02-20 | 8 | 14 | 
 | 2023-02-19 | 8 | 13 | 
-| 2023-02-18 | 8 | 13 | 
 

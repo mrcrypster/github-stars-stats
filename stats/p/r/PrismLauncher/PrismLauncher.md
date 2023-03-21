@@ -1,10 +1,10 @@
 # PrismLauncher/PrismLauncher - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 248
+☋ Forks: 249
 
-★ Stars: 3119
+★ Stars: 3124
 
 [Open repository](https://github.com/PrismLauncher/PrismLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3124 | 249 | 
 | 2023-03-18 | 3119 | 248 | 
 | 2023-03-17 | 3115 | 246 | 
 | 2023-03-16 | 3107 | 244 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 3009 | 226 | 
 | 2023-02-20 | 3007 | 225 | 
 | 2023-02-19 | 3001 | 224 | 
-| 2023-02-18 | 2997 | 225 | 
 

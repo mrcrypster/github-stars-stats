@@ -1,10 +1,10 @@
 # PawanOsman/ChatGPT.Net - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 24
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/PawanOsman/ChatGPT.Net)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 158 | 24 | 
 | 2023-03-19 | 157 | 24 | 
 | 2023-03-17 | 156 | 24 | 
 | 2023-03-16 | 154 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 127 | 21 | 
 | 2023-02-21 | 125 | 20 | 
 | 2023-02-20 | 125 | 20 | 
-| 2023-02-18 | 124 | 20 | 
 

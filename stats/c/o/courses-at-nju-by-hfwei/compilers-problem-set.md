@@ -1,10 +1,10 @@
 # courses-at-nju-by-hfwei/compilers-problem-set - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/courses-at-nju-by-hfwei/compilers-problem-set)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 14 | - | 
 | 2023-03-19 | 13 | - | 
 | 2023-03-17 | 13 | - | 
 | 2023-03-16 | 13 | - | 

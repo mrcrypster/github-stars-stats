@@ -1,8 +1,8 @@
 # solana-labs/token-list - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 12175
+☋ Forks: 12178
 
 ★ Stars: 1267
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1267 | 12178 | 
 | 2023-03-19 | 1267 | 12175 | 
 | 2023-03-18 | 1268 | 12174 | 
 | 2023-03-17 | 1268 | 12179 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1261 | 12181 | 
 | 2023-02-20 | 1260 | 12181 | 
 | 2023-02-19 | 1259 | 12181 | 
-| 2023-02-18 | 1259 | 12181 | 
 

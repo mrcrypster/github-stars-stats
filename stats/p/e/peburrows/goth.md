@@ -1,6 +1,6 @@
 # peburrows/goth - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 256 | 99 | 
 | 2023-03-19 | 256 | 99 | 
 | 2023-03-18 | 256 | 99 | 
 | 2023-03-17 | 255 | 99 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 255 | 99 | 
 | 2023-02-20 | 255 | 99 | 
 | 2023-02-19 | 255 | 99 | 
-| 2023-02-18 | 255 | 99 | 
 

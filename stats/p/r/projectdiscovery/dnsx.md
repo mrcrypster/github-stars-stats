@@ -1,10 +1,10 @@
 # projectdiscovery/dnsx - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 187
 
-★ Stars: 1412
+★ Stars: 1413
 
 [Open repository](https://github.com/projectdiscovery/dnsx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1413 | 187 | 
 | 2023-03-19 | 1412 | 187 | 
 | 2023-03-18 | 1411 | 189 | 
 | 2023-03-17 | 1407 | 189 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1352 | 181 | 
 | 2023-02-21 | 1347 | 181 | 
 | 2023-02-19 | 1344 | 181 | 
-| 2023-02-18 | 1343 | 180 | 
 

@@ -1,10 +1,10 @@
 # ImXirvin/xv-dev - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 24
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/ImXirvin/xv-dev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 63 | 24 | 
 | 2023-03-19 | 62 | 24 | 
 | 2023-03-17 | 62 | 24 | 
 | 2023-03-16 | 62 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 62 | 24 | 
 | 2023-02-21 | 62 | 23 | 
 | 2023-02-19 | 62 | 23 | 
-| 2023-02-18 | 61 | 23 | 
 

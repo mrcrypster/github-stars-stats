@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-route-params-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2291
+☋ Forks: 2298
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2 | 2298 | 
 | 2023-03-19 | 2 | 2291 | 
 | 2023-03-18 | 2 | 2284 | 
 | 2023-03-17 | 2 | 2269 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | - | 2079 | 
 | 2023-02-21 | - | 2068 | 
 | 2023-02-19 | - | 2060 | 
-| 2023-02-18 | - | 2060 | 
 

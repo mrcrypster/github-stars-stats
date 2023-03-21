@@ -1,10 +1,10 @@
 # tianon/docker-postgres-upgrade - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 81
 
-★ Stars: 773
+★ Stars: 774
 
 [Open repository](https://github.com/tianon/docker-postgres-upgrade)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 774 | 81 | 
 | 2023-03-19 | 773 | 81 | 
 | 2023-03-18 | 773 | 81 | 
 | 2023-03-17 | 772 | 81 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 755 | 80 | 
 | 2023-02-20 | 755 | 80 | 
 | 2023-02-19 | 755 | 80 | 
-| 2023-02-18 | 755 | 80 | 
 

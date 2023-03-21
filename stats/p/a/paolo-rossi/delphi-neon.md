@@ -1,10 +1,10 @@
 # paolo-rossi/delphi-neon - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 59
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/paolo-rossi/delphi-neon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 221 | 59 | 
 | 2023-03-19 | 220 | 59 | 
 | 2023-03-18 | 220 | 59 | 
 | 2023-03-16 | 220 | 59 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 216 | 57 | 
 | 2023-02-20 | 215 | 57 | 
 | 2023-02-19 | 215 | 57 | 
-| 2023-02-18 | 215 | 57 | 
 

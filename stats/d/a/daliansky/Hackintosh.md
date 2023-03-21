@@ -1,10 +1,10 @@
 # daliansky/Hackintosh - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1000
+☋ Forks: 999
 
-★ Stars: 7676
+★ Stars: 7679
 
 [Open repository](https://github.com/daliansky/Hackintosh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 7679 | 999 | 
 | 2023-03-19 | 7676 | 1000 | 
 | 2023-03-18 | 7670 | 997 | 
 | 2023-03-17 | 7664 | 998 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 7573 | 993 | 
 | 2023-02-20 | 7569 | 993 | 
 | 2023-02-19 | 7563 | 993 | 
-| 2023-02-18 | 7558 | 994 | 
 

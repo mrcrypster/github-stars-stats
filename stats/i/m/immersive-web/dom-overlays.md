@@ -1,6 +1,6 @@
 # immersive-web/dom-overlays - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 67 | 10 | 
 | 2023-03-19 | 67 | 10 | 
 | 2023-03-18 | 67 | 10 | 
 | 2023-03-17 | 67 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 66 | 10 | 
 | 2023-02-21 | 66 | 10 | 
 | 2023-02-19 | 66 | 10 | 
-| 2023-02-18 | 66 | 10 | 
 

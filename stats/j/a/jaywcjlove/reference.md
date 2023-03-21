@@ -1,10 +1,10 @@
 # jaywcjlove/reference - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 815
+☋ Forks: 817
 
-★ Stars: 5370
+★ Stars: 5379
 
 [Open repository](https://github.com/jaywcjlove/reference)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5379 | 817 | 
 | 2023-03-19 | 5370 | 815 | 
 | 2023-03-18 | 5363 | 814 | 
 | 2023-03-17 | 5359 | 813 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 5084 | 745 | 
 | 2023-02-20 | 5073 | 745 | 
 | 2023-02-19 | 5050 | 735 | 
-| 2023-02-18 | 5048 | 734 | 
 

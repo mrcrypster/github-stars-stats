@@ -1,10 +1,10 @@
 # openboxes/openboxes - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 343
 
-★ Stars: 462
+★ Stars: 464
 
 [Open repository](https://github.com/openboxes/openboxes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 464 | 343 | 
 | 2023-03-18 | 462 | 343 | 
 | 2023-03-17 | 462 | 343 | 
 | 2023-03-16 | 463 | 343 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 455 | 339 | 
 | 2023-02-20 | 454 | 339 | 
 | 2023-02-19 | 454 | 338 | 
-| 2023-02-18 | 454 | 338 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 20
 
 ☋ Forks: 357
 
-★ Stars: 2792
+★ Stars: 2795
 
 [Open repository](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 2792 | 357 | 
+| 2023-03-20 | 2795 | 357 | 
 | 2023-03-19 | 2792 | 357 | 
 | 2023-03-18 | 2789 | 356 | 
 | 2023-03-17 | 2788 | 356 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-21 | 2737 | 351 | 
 | 2023-02-20 | 2736 | 351 | 
 | 2023-02-19 | 2735 | 351 | 
-| 2023-02-18 | 2733 | 351 | 
 

@@ -1,10 +1,10 @@
 # brettchalupa/godot_skeleton - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/brettchalupa/godot_skeleton)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 39 | 1 | 
 | 2023-03-18 | 37 | 1 | 
 | 2023-03-17 | 36 | 1 | 
 | 2023-03-16 | 36 | 1 | 

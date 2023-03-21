@@ -1,10 +1,10 @@
 # microsoft/dotnet-framework-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 320
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/microsoft/dotnet-framework-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 616 | 320 | 
 | 2023-03-19 | 615 | 320 | 
 | 2023-03-18 | 615 | 320 | 
 | 2023-03-16 | 613 | 320 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 607 | 318 | 
 | 2023-02-20 | 607 | 318 | 
 | 2023-02-19 | 607 | 317 | 
-| 2023-02-18 | 607 | 317 | 
 

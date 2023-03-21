@@ -1,10 +1,10 @@
 # ucsd-progsys/liquidhaskell - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 124
 
-★ Stars: 1060
+★ Stars: 1061
 
 [Open repository](https://github.com/ucsd-progsys/liquidhaskell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1061 | 124 | 
 | 2023-03-19 | 1060 | 124 | 
 | 2023-03-18 | 1060 | 124 | 
 | 2023-03-16 | 1059 | 124 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1049 | 124 | 
 | 2023-02-20 | 1048 | 123 | 
 | 2023-02-19 | 1047 | 123 | 
-| 2023-02-18 | 1045 | 123 | 
 

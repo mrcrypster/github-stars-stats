@@ -1,10 +1,10 @@
 # wutong16/Voxurf - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 14
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/wutong16/Voxurf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 208 | 14 | 
 | 2023-03-19 | 207 | 14 | 
 | 2023-03-18 | 206 | 14 | 
 | 2023-03-16 | 203 | 13 | 

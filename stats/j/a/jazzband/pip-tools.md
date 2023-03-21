@@ -1,10 +1,10 @@
 # jazzband/pip-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 574
 
-★ Stars: 6700
+★ Stars: 6704
 
 [Open repository](https://github.com/jazzband/pip-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6704 | 574 | 
 | 2023-03-19 | 6700 | 574 | 
 | 2023-03-18 | 6698 | 573 | 
 | 2023-03-16 | 6696 | 572 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 6638 | 564 | 
 | 2023-02-20 | 6633 | 564 | 
 | 2023-02-19 | 6631 | 564 | 
-| 2023-02-18 | 6625 | 564 | 
 

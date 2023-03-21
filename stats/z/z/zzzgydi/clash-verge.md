@@ -1,10 +1,10 @@
 # zzzgydi/clash-verge - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 250
+☋ Forks: 251
 
-★ Stars: 3852
+★ Stars: 3876
 
 [Open repository](https://github.com/zzzgydi/clash-verge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3876 | 251 | 
 | 2023-03-19 | 3852 | 250 | 
 | 2023-03-17 | 3831 | 250 | 
 | 2023-03-16 | 3807 | 248 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 3554 | 227 | 
 | 2023-02-21 | 3542 | 227 | 
 | 2023-02-20 | 3526 | 227 | 
-| 2023-02-18 | 3513 | 226 | 
 

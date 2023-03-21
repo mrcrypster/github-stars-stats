@@ -1,10 +1,10 @@
 # cake-tech/cake_wallet - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 111
+☋ Forks: 110
 
-★ Stars: 343
+★ Stars: 344
 
 [Open repository](https://github.com/cake-tech/cake_wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 344 | 110 | 
 | 2023-03-19 | 343 | 111 | 
 | 2023-03-18 | 342 | 110 | 
 | 2023-03-16 | 340 | 110 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 333 | 105 | 
 | 2023-02-20 | 333 | 105 | 
 | 2023-02-19 | 333 | 105 | 
-| 2023-02-18 | 333 | 105 | 
 

@@ -1,10 +1,10 @@
 # eigenco/frankenpi - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/eigenco/frankenpi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 98 | 2 | 
 | 2023-03-19 | 97 | 2 | 
 | 2023-03-18 | 97 | 2 | 
 | 2023-03-17 | 97 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 96 | 2 | 
 | 2023-02-21 | 96 | 2 | 
 | 2023-02-19 | 96 | 2 | 
-| 2023-02-18 | 94 | 2 | 
 

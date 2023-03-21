@@ -1,6 +1,6 @@
 # LEXUGE/oceanix - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 30 | 1 | 
 | 2023-03-18 | 30 | 1 | 
 | 2023-03-17 | 30 | 1 | 
 | 2023-03-16 | 30 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 30 | 1 | 
 | 2023-02-21 | 30 | 1 | 
 | 2023-02-19 | 30 | 1 | 
-| 2023-02-18 | 30 | 1 | 
 

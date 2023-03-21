@@ -1,10 +1,10 @@
 # gandlafbtc/nutstash-wallet - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/gandlafbtc/nutstash-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 11 | 4 | 
 | 2023-03-19 | 10 | 4 | 
 | 2023-03-17 | 10 | 4 | 
 | 2023-03-16 | 10 | 4 | 

@@ -1,10 +1,10 @@
 # JohnNay/llm-lobbyist - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 11
 
-★ Stars: 120
+★ Stars: 122
 
 [Open repository](https://github.com/JohnNay/llm-lobbyist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 122 | 11 | 
 | 2023-03-19 | 120 | 11 | 
 | 2023-03-18 | 120 | 11 | 
 | 2023-03-16 | 117 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 105 | 9 | 
 | 2023-02-20 | 105 | 8 | 
 | 2023-02-19 | 103 | 8 | 
-| 2023-02-18 | 102 | 8 | 
 

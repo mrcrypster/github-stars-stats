@@ -1,10 +1,10 @@
 # wandersoncferreira/code-review - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 29
 
-★ Stars: 380
+★ Stars: 381
 
 [Open repository](https://github.com/wandersoncferreira/code-review)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 381 | 29 | 
 | 2023-03-19 | 380 | 29 | 
 | 2023-03-17 | 380 | 29 | 
 | 2023-03-16 | 380 | 29 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 374 | 29 | 
 | 2023-02-20 | 374 | 29 | 
 | 2023-02-19 | 374 | 29 | 
-| 2023-02-18 | 374 | 29 | 
 

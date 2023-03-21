@@ -1,10 +1,10 @@
 # daffainfo/AllAboutBugBounty - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 805
+☋ Forks: 810
 
-★ Stars: 3870
+★ Stars: 3896
 
 [Open repository](https://github.com/daffainfo/AllAboutBugBounty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3896 | 810 | 
 | 2023-03-19 | 3870 | 805 | 
 | 2023-03-18 | 3804 | 792 | 
 | 2023-03-17 | 3796 | 789 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 3716 | 773 | 
 | 2023-02-20 | 3714 | 774 | 
 | 2023-02-19 | 3714 | 773 | 
-| 2023-02-18 | 3712 | 773 | 
 

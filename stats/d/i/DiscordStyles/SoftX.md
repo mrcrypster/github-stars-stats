@@ -1,8 +1,8 @@
 # DiscordStyles/SoftX - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 45
+☋ Forks: 55
 
 ★ Stars: 131
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 131 | 55 | 
 | 2023-03-19 | 131 | 45 | 
 | 2023-03-18 | 130 | 41 | 
 | 2023-03-17 | 129 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 127 | 32 | 
 | 2023-02-20 | 127 | 32 | 
 | 2023-02-19 | 127 | 32 | 
-| 2023-02-18 | 128 | 32 | 
 

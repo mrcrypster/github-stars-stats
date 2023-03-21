@@ -1,6 +1,6 @@
 # sbrunk/storch - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 35 | 3 | 
 | 2023-03-19 | 35 | 3 | 
 | 2023-03-17 | 34 | 2 | 
 | 2023-03-16 | 34 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 31 | 1 | 
 | 2023-02-20 | 30 | 1 | 
 | 2023-02-19 | 30 | 1 | 
-| 2023-02-18 | 30 | 1 | 
 

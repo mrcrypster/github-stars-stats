@@ -1,10 +1,10 @@
 # hankchizljaw/hylia - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 228
 
-★ Stars: 897
+★ Stars: 896
 
 [Open repository](https://github.com/hankchizljaw/hylia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 896 | 228 | 
 | 2023-03-19 | 897 | 228 | 
 | 2023-03-18 | 897 | 228 | 
 | 2023-03-17 | 897 | 229 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 894 | 228 | 
 | 2023-02-21 | 894 | 228 | 
 | 2023-02-19 | 894 | 228 | 
-| 2023-02-18 | 895 | 228 | 
 

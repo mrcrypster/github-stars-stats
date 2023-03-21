@@ -1,10 +1,10 @@
 # pixl8/Preside-CMS - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 70
 
-★ Stars: 70
+★ Stars: 69
 
 [Open repository](https://github.com/pixl8/Preside-CMS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 69 | 70 | 
 | 2023-03-19 | 70 | 70 | 
 | 2023-03-18 | 70 | 70 | 
 | 2023-03-16 | 70 | 70 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 70 | 70 | 
 | 2023-02-21 | 70 | 70 | 
 | 2023-02-19 | 70 | 70 | 
-| 2023-02-18 | 70 | 70 | 
 

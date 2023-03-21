@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleSpeech - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1323
+☋ Forks: 1326
 
-★ Stars: 6409
+★ Stars: 6428
 
 [Open repository](https://github.com/PaddlePaddle/PaddleSpeech)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6428 | 1326 | 
 | 2023-03-19 | 6409 | 1323 | 
 | 2023-03-17 | 6397 | 1323 | 
 | 2023-03-16 | 6384 | 1321 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 6081 | 1278 | 
 | 2023-02-21 | 6062 | 1271 | 
 | 2023-02-20 | 6046 | 1265 | 
-| 2023-02-18 | 6040 | 1264 | 
 

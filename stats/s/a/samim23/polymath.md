@@ -1,10 +1,10 @@
 # samim23/polymath - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 85
 
-★ Stars: 1130
+★ Stars: 1132
 
 [Open repository](https://github.com/samim23/polymath)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1132 | 85 | 
 | 2023-03-19 | 1130 | 85 | 
 | 2023-03-17 | 1123 | 85 | 
 | 2023-03-16 | 1117 | 85 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 995 | 66 | 
 | 2023-02-20 | 976 | 63 | 
 | 2023-02-19 | 965 | 60 | 
-| 2023-02-18 | 951 | 59 | 
 

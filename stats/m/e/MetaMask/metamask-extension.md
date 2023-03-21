@@ -1,10 +1,10 @@
 # MetaMask/metamask-extension - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 3754
+☋ Forks: 3755
 
-★ Stars: 9514
+★ Stars: 9520
 
 [Open repository](https://github.com/MetaMask/metamask-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 9520 | 3755 | 
 | 2023-03-19 | 9514 | 3754 | 
 | 2023-03-18 | 9510 | 3754 | 
 | 2023-03-17 | 9502 | 3752 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 9411 | 3716 | 
 | 2023-02-21 | 9407 | 3716 | 
 | 2023-02-19 | 9403 | 3713 | 
-| 2023-02-18 | 9402 | 3710 | 
 

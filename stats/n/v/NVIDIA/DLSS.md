@@ -1,8 +1,8 @@
 # NVIDIA/DLSS - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 365
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 365 | 57 | 
 | 2023-03-18 | 365 | 56 | 
 | 2023-03-17 | 364 | 56 | 
 | 2023-03-16 | 364 | 56 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 339 | 52 | 
 | 2023-02-20 | 338 | 50 | 
 | 2023-02-19 | 337 | 50 | 
-| 2023-02-18 | 335 | 50 | 
 

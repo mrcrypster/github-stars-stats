@@ -1,10 +1,10 @@
 # TommyZihao/MMSegmentation_Tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 21
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/TommyZihao/MMSegmentation_Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 37 | 21 | 
 | 2023-03-18 | 36 | 21 | 
 | 2023-03-17 | 35 | 21 | 
 | 2023-03-16 | 35 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 26 | 13 | 
 | 2023-02-21 | 25 | 12 | 
 | 2023-02-19 | 23 | 12 | 
-| 2023-02-18 | 23 | 12 | 
 

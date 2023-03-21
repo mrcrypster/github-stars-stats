@@ -1,6 +1,6 @@
 # jart/disaster - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 257 | 31 | 
 | 2023-03-18 | 257 | 31 | 
 | 2023-03-17 | 257 | 31 | 
 | 2023-03-16 | 256 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 254 | 31 | 
 | 2023-02-21 | 254 | 31 | 
 | 2023-02-19 | 254 | 31 | 
-| 2023-02-18 | 254 | 31 | 
 

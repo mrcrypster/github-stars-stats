@@ -1,10 +1,10 @@
 # delivr-to/detections - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/delivr-to/detections)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 25 | 3 | 
 | 2023-03-19 | 24 | 3 | 
 | 2023-03-18 | 24 | 3 | 
 

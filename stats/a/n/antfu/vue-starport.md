@@ -1,10 +1,10 @@
 # antfu/vue-starport - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 83
 
-★ Stars: 1508
+★ Stars: 1510
 
 [Open repository](https://github.com/antfu/vue-starport)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1510 | 83 | 
 | 2023-03-19 | 1508 | 83 | 
 | 2023-03-18 | 1507 | 83 | 
 | 2023-03-16 | 1507 | 83 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1491 | 80 | 
 | 2023-02-21 | 1490 | 80 | 
 | 2023-02-20 | 1490 | 80 | 
-| 2023-02-18 | 1489 | 80 | 
 

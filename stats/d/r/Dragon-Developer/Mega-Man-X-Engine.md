@@ -1,6 +1,6 @@
 # Dragon-Developer/Mega-Man-X-Engine - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 110 | 12 | 
 | 2023-03-19 | 110 | 12 | 
 | 2023-03-18 | 110 | 12 | 
 | 2023-03-17 | 110 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 110 | 11 | 
 | 2023-02-21 | 110 | 11 | 
 | 2023-02-19 | 109 | 11 | 
-| 2023-02-18 | 109 | 11 | 
 

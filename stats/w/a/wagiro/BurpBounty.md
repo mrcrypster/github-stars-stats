@@ -1,8 +1,8 @@
 # wagiro/BurpBounty - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 329
+☋ Forks: 330
 
 ★ Stars: 1466
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1466 | 330 | 
 | 2023-03-19 | 1466 | 329 | 
 | 2023-03-18 | 1465 | 329 | 
 | 2023-03-17 | 1464 | 330 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1459 | 329 | 
 | 2023-02-20 | 1459 | 329 | 
 | 2023-02-19 | 1459 | 329 | 
-| 2023-02-18 | 1459 | 329 | 
 

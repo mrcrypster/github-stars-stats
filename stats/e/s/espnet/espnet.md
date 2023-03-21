@@ -1,10 +1,10 @@
 # espnet/espnet - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1864
+☋ Forks: 1863
 
-★ Stars: 6222
+★ Stars: 6225
 
 [Open repository](https://github.com/espnet/espnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6225 | 1863 | 
 | 2023-03-19 | 6222 | 1864 | 
 | 2023-03-18 | 6215 | 1864 | 
 | 2023-03-16 | 6212 | 1863 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 6096 | 1846 | 
 | 2023-02-21 | 6088 | 1841 | 
 | 2023-02-19 | 6081 | 1838 | 
-| 2023-02-18 | 6079 | 1837 | 
 

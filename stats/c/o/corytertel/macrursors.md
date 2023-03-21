@@ -1,6 +1,6 @@
 # corytertel/macrursors - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 35 | 2 | 
 | 2023-03-19 | 35 | 2 | 
 | 2023-03-18 | 35 | 2 | 
 | 2023-03-16 | 35 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 30 | 2 | 
 | 2023-02-20 | 30 | 2 | 
 | 2023-02-19 | 30 | 2 | 
-| 2023-02-18 | 29 | 2 | 
 

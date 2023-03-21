@@ -1,6 +1,6 @@
 # Zohaib-Sathio/Hacktoberfest_22 - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 22 | 67 | 
 | 2023-03-18 | 22 | 67 | 
 | 2023-03-17 | 22 | 67 | 
 | 2023-03-16 | 22 | 67 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 22 | 67 | 
 | 2023-02-20 | 22 | 67 | 
 | 2023-02-19 | 22 | 67 | 
-| 2023-02-18 | 22 | 67 | 
 

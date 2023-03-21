@@ -1,6 +1,6 @@
 # confluentinc/kafka-connect-storage-cloud - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 231 | 296 | 
 | 2023-03-19 | 231 | 296 | 
 | 2023-03-17 | 231 | 296 | 
 | 2023-03-16 | 231 | 296 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 231 | 294 | 
 | 2023-02-21 | 231 | 295 | 
 | 2023-02-19 | 231 | 295 | 
-| 2023-02-18 | 231 | 295 | 
 

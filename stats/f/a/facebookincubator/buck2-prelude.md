@@ -1,8 +1,8 @@
 # facebookincubator/buck2-prelude - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 8 | 5 | 
 | 2023-03-19 | 8 | 4 | 
 | 2023-03-18 | 8 | 4 | 
 | 2023-03-16 | 8 | 4 | 

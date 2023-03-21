@@ -1,10 +1,10 @@
 # ziglibs/zorm - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/ziglibs/zorm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 25 | - | 
 | 2023-03-18 | 23 | - | 
 | 2023-03-17 | 23 | - | 
 | 2023-03-15 | 23 | - | 

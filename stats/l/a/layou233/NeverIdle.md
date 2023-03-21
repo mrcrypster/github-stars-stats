@@ -1,6 +1,6 @@
 # layou233/NeverIdle - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 344 | 111 | 
 | 2023-03-18 | 344 | 111 | 
 | 2023-03-17 | 337 | 110 | 
 | 2023-03-15 | 330 | 107 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 244 | 74 | 
 | 2023-02-20 | 244 | 74 | 
 | 2023-02-19 | 242 | 72 | 
-| 2023-02-18 | 239 | 69 | 
 

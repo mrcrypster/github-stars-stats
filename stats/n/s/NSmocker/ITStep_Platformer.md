@@ -1,6 +1,6 @@
 # NSmocker/ITStep_Platformer - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | - | 6 | 
 | 2023-03-19 | - | 6 | 
 | 2023-03-17 | - | 6 | 
 | 2023-03-16 | - | 6 | 

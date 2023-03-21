@@ -1,8 +1,8 @@
 # judygab/web-dev-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1968
+☋ Forks: 1969
 
 ★ Stars: 1189
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1189 | 1969 | 
 | 2023-03-19 | 1189 | 1968 | 
 | 2023-03-18 | 1179 | 1960 | 
 | 2023-03-17 | 1173 | 1954 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1094 | 1782 | 
 | 2023-02-21 | 1092 | 1781 | 
 | 2023-02-19 | 1078 | 1770 | 
-| 2023-02-18 | 1075 | 1762 | 
 

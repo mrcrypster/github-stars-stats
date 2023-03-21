@@ -1,8 +1,8 @@
 # ivanhao/pvetools - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 329
+☋ Forks: 330
 
 ★ Stars: 2227
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2227 | 330 | 
 | 2023-03-19 | 2227 | 329 | 
 | 2023-03-18 | 2222 | 329 | 
 | 2023-03-17 | 2217 | 329 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 2146 | 317 | 
 | 2023-02-20 | 2135 | 313 | 
 | 2023-02-19 | 2133 | 313 | 
-| 2023-02-18 | 2129 | 313 | 
 

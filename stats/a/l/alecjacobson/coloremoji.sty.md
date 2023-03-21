@@ -1,6 +1,6 @@
 # alecjacobson/coloremoji.sty - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 215 | 47 | 
 | 2023-03-19 | 215 | 47 | 
 | 2023-03-18 | 215 | 47 | 
 | 2023-03-16 | 215 | 47 | 

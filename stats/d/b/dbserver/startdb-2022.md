@@ -1,6 +1,6 @@
 # dbserver/startdb-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 54 | 76 | 
 | 2023-03-19 | 54 | 76 | 
 | 2023-03-18 | 54 | 76 | 
 | 2023-03-17 | 54 | 76 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 55 | 76 | 
 | 2023-02-20 | 55 | 76 | 
 | 2023-02-19 | 55 | 76 | 
-| 2023-02-18 | 55 | 76 | 
 

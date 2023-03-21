@@ -1,6 +1,6 @@
 # Origin-Byte/originmate - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 7 | 5 | 
 | 2023-03-19 | 7 | 5 | 
 | 2023-03-18 | 7 | 5 | 
 | 2023-03-17 | 7 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 7 | 3 | 
 | 2023-02-20 | 7 | 3 | 
 | 2023-02-19 | 7 | 3 | 
-| 2023-02-18 | 7 | 3 | 
 

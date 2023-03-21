@@ -1,10 +1,10 @@
 # NVlabs/sionna - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 85
 
-★ Stars: 356
+★ Stars: 357
 
 [Open repository](https://github.com/NVlabs/sionna)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 357 | 85 | 
 | 2023-03-19 | 356 | 85 | 
 | 2023-03-17 | 357 | 85 | 
 | 2023-03-16 | 357 | 85 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 340 | 84 | 
 | 2023-02-20 | 338 | 84 | 
 | 2023-02-19 | 337 | 84 | 
-| 2023-02-18 | 337 | 84 | 
 

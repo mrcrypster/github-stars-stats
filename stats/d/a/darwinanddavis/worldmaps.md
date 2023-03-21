@@ -1,6 +1,6 @@
 # darwinanddavis/worldmaps - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 57 | 8 | 
 | 2023-03-19 | 57 | 8 | 
 | 2023-03-18 | 57 | 8 | 
 | 2023-03-17 | 57 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 57 | 8 | 
 | 2023-02-20 | 57 | 8 | 
 | 2023-02-19 | 57 | 7 | 
-| 2023-02-18 | 57 | 7 | 
 

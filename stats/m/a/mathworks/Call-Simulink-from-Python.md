@@ -1,10 +1,10 @@
 # mathworks/Call-Simulink-from-Python - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/mathworks/Call-Simulink-from-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 7 | - | 
 | 2023-03-19 | 6 | - | 
 | 2023-03-18 | 6 | - | 
 | 2023-03-17 | 6 | - | 

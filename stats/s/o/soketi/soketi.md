@@ -1,6 +1,6 @@
 # soketi/soketi - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3476 | 168 | 
 | 2023-03-19 | 3476 | 168 | 
 | 2023-03-17 | 3471 | 168 | 
 | 2023-03-16 | 3469 | 168 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 3396 | 160 | 
 | 2023-02-21 | 3392 | 159 | 
 | 2023-02-19 | 3386 | 158 | 
-| 2023-02-18 | 3382 | 158 | 
 

@@ -1,10 +1,10 @@
 # Unity-Technologies/UnityCsReference - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2268
+☋ Forks: 2270
 
-★ Stars: 10151
+★ Stars: 10155
 
 [Open repository](https://github.com/Unity-Technologies/UnityCsReference)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 10155 | 2270 | 
 | 2023-03-19 | 10151 | 2268 | 
 | 2023-03-17 | 10148 | 2267 | 
 | 2023-03-16 | 10143 | 2268 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 10056 | 2253 | 
 | 2023-02-21 | 10043 | 2248 | 
 | 2023-02-19 | 10031 | 2248 | 
-| 2023-02-18 | 10026 | 2245 | 
 

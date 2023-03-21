@@ -1,10 +1,10 @@
 # common-workflow-language/common-workflow-language - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 200
 
-★ Stars: 1396
+★ Stars: 1397
 
 [Open repository](https://github.com/common-workflow-language/common-workflow-language)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1397 | 200 | 
 | 2023-03-19 | 1396 | 200 | 
 | 2023-03-18 | 1396 | 200 | 
 | 2023-03-16 | 1396 | 200 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1391 | 200 | 
 | 2023-02-21 | 1390 | 200 | 
 | 2023-02-19 | 1390 | 200 | 
-| 2023-02-18 | 1390 | 200 | 
 

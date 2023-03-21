@@ -1,6 +1,6 @@
 # mdgriffith/elm-codegen - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 105 | 11 | 
 | 2023-03-18 | 105 | 11 | 
 | 2023-03-17 | 105 | 11 | 
 | 2023-03-16 | 105 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 103 | 11 | 
 | 2023-02-21 | 103 | 11 | 
 | 2023-02-20 | 103 | 11 | 
-| 2023-02-19 | 103 | 11 | 
 

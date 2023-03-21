@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 20
 
 ☋ Forks: 702
 
-★ Stars: 931
+★ Stars: 932
 
 [Open repository](https://github.com/acemod/ACE3)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 931 | 702 | 
+| 2023-03-20 | 932 | 702 | 
 | 2023-03-19 | 931 | 702 | 
 | 2023-03-18 | 931 | 701 | 
 | 2023-03-17 | 930 | 702 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-21 | 928 | 702 | 
 | 2023-02-20 | 929 | 702 | 
 | 2023-02-19 | 929 | 702 | 
-| 2023-02-18 | 928 | 702 | 
 

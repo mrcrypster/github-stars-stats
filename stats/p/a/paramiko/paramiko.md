@@ -1,10 +1,10 @@
 # paramiko/paramiko - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1921
+☋ Forks: 1922
 
-★ Stars: 8216
+★ Stars: 8218
 
 [Open repository](https://github.com/paramiko/paramiko)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 8218 | 1922 | 
 | 2023-03-19 | 8216 | 1921 | 
 | 2023-03-17 | 8211 | 1920 | 
 | 2023-03-16 | 8210 | 1918 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 8177 | 1909 | 
 | 2023-02-21 | 8175 | 1910 | 
 | 2023-02-20 | 8171 | 1909 | 
-| 2023-02-18 | 8171 | 1909 | 
 

@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-controller-validations-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1873
+☋ Forks: 1885
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2 | 1885 | 
 | 2023-03-19 | 2 | 1873 | 
 | 2023-03-17 | 2 | 1842 | 
 | 2023-03-16 | 2 | 1797 | 

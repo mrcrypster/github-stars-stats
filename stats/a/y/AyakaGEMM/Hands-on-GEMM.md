@@ -1,6 +1,6 @@
 # AyakaGEMM/Hands-on-GEMM - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 34 | 5 | 
 | 2023-03-19 | 34 | 5 | 
 | 2023-03-17 | 33 | 5 | 
 | 2023-03-16 | 33 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 30 | 4 | 
 | 2023-02-21 | 30 | 4 | 
 | 2023-02-19 | 30 | 4 | 
-| 2023-02-18 | 30 | 4 | 
 

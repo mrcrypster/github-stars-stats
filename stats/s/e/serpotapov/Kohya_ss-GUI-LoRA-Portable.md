@@ -1,10 +1,10 @@
 # serpotapov/Kohya_ss-GUI-LoRA-Portable - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 0
+☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 24
 
 [Open repository](https://github.com/serpotapov/Kohya_ss-GUI-LoRA-Portable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 24 | 2 | 
 | 2023-03-19 | 19 | - | 
 | 2023-03-18 | 17 | - | 
 

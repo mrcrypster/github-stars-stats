@@ -1,6 +1,6 @@
 # Civitasv/runvim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 61 | 5 | 
 | 2023-03-19 | 61 | 5 | 
 | 2023-03-18 | 61 | 5 | 
 | 2023-03-17 | 61 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 59 | 4 | 
 | 2023-02-20 | 59 | 4 | 
 | 2023-02-19 | 58 | 4 | 
-| 2023-02-18 | 58 | 4 | 
 

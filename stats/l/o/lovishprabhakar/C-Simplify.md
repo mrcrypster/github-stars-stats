@@ -1,10 +1,10 @@
 # lovishprabhakar/C-Simplify - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 51
 
-★ Stars: 22
+★ Stars: 21
 
 [Open repository](https://github.com/lovishprabhakar/C-Simplify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 21 | 51 | 
 | 2023-03-19 | 22 | 51 | 
 | 2023-03-18 | 22 | 51 | 
 | 2023-03-17 | 22 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 23 | 52 | 
 | 2023-02-21 | 23 | 52 | 
 | 2023-02-19 | 23 | 52 | 
-| 2023-02-18 | 23 | 52 | 
 

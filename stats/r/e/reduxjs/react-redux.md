@@ -1,6 +1,6 @@
 # reduxjs/react-redux - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3334
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 22685 | 3334 | 
 | 2023-03-19 | 22685 | 3334 | 
 | 2023-03-18 | 22683 | 3335 | 
 | 2023-03-17 | 22682 | 3333 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 22641 | 3330 | 
 | 2023-02-20 | 22635 | 3329 | 
 | 2023-02-19 | 22633 | 3329 | 
-| 2023-02-18 | 22631 | 3329 | 
 

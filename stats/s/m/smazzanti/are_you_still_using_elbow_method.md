@@ -1,10 +1,10 @@
 # smazzanti/are_you_still_using_elbow_method - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 40
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/smazzanti/are_you_still_using_elbow_method)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 135 | 40 | 
 | 2023-03-19 | 134 | 40 | 
 | 2023-03-18 | 134 | 40 | 
 | 2023-03-16 | 134 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 126 | 34 | 
 | 2023-02-20 | 124 | 32 | 
 | 2023-02-19 | 124 | 32 | 
-| 2023-02-18 | 123 | 31 | 
 

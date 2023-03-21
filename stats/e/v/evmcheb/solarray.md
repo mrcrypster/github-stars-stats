@@ -1,6 +1,6 @@
 # evmcheb/solarray - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 100 | 5 | 
 | 2023-03-19 | 100 | 5 | 
 | 2023-03-18 | 100 | 5 | 
 | 2023-03-17 | 98 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 96 | 4 | 
 | 2023-02-21 | 96 | 4 | 
 | 2023-02-19 | 96 | 4 | 
-| 2023-02-18 | 96 | 4 | 
 

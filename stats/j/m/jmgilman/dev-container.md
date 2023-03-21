@@ -1,6 +1,6 @@
 # jmgilman/dev-container - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 22 | 4 | 
 | 2023-03-19 | 22 | 4 | 
 | 2023-03-18 | 22 | 4 | 
 | 2023-03-17 | 22 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 21 | 4 | 
 | 2023-02-20 | 21 | 4 | 
 | 2023-02-19 | 21 | 4 | 
-| 2023-02-18 | 21 | 4 | 
 

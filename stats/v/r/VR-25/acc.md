@@ -1,10 +1,10 @@
 # VR-25/acc - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 67
 
-★ Stars: 860
+★ Stars: 861
 
 [Open repository](https://github.com/VR-25/acc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 861 | 67 | 
 | 2023-03-19 | 860 | 67 | 
 | 2023-03-18 | 859 | 66 | 
 | 2023-03-17 | 858 | 66 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 839 | 64 | 
 | 2023-02-21 | 838 | 64 | 
 | 2023-02-20 | 835 | 64 | 
-| 2023-02-18 | 835 | 64 | 
 

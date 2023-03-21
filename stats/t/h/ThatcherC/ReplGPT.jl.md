@@ -1,10 +1,10 @@
 # ThatcherC/ReplGPT.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 57
+★ Stars: 61
 
 [Open repository](https://github.com/ThatcherC/ReplGPT.jl)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 61 | 3 | 
+| 2023-03-20 | 61 | 3 | 
 | 2023-03-19 | 57 | 2 | 
 | 2023-03-18 | 52 | 2 | 
 | 2023-03-17 | 51 | 1 | 

@@ -1,6 +1,6 @@
 # jackyzha0/jackyzha0.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 76 | 38 | 
 | 2023-03-18 | 76 | 38 | 
 | 2023-03-17 | 78 | 38 | 
 | 2023-03-16 | 78 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 78 | 37 | 
 | 2023-02-20 | 78 | 37 | 
 | 2023-02-19 | 78 | 37 | 
-| 2023-02-18 | 78 | 37 | 
 

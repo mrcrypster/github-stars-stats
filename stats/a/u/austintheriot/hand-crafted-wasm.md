@@ -1,0 +1,17 @@
+# austintheriot/hand-crafted-wasm - stars & forks statistics
+
+Stats updated on Mar 2023, 20
+
+☋ Forks: 0
+
+★ Stars: 33
+
+[Open repository](https://github.com/austintheriot/hand-crafted-wasm)
+
+[Open detailed stats for austintheriot/hand-crafted-wasm](https://reviewgithub.com/rep/austintheriot/hand-crafted-wasm)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-20 | 33 | - | 
+

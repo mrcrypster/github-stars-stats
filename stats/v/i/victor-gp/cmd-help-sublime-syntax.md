@@ -1,10 +1,10 @@
 # victor-gp/cmd-help-sublime-syntax - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 3
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/victor-gp/cmd-help-sublime-syntax)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 10 | 3 | 
 | 2023-03-19 | 11 | 3 | 
 | 2023-03-18 | 11 | 3 | 
 | 2023-03-17 | 11 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 10 | 3 | 
 | 2023-02-21 | 10 | 3 | 
 | 2023-02-19 | 10 | 3 | 
-| 2023-02-18 | 10 | 3 | 
 

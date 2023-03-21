@@ -1,10 +1,10 @@
 # o-oconnell/minixfromscratch - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 51
 
-★ Stars: 1051
+★ Stars: 1052
 
 [Open repository](https://github.com/o-oconnell/minixfromscratch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1052 | 51 | 
 | 2023-03-19 | 1051 | 51 | 
 | 2023-03-17 | 1048 | 51 | 
 | 2023-03-16 | 1043 | 51 | 

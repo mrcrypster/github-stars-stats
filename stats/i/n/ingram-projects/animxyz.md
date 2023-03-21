@@ -1,10 +1,10 @@
 # ingram-projects/animxyz - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 50
 
-★ Stars: 2182
+★ Stars: 2183
 
 [Open repository](https://github.com/ingram-projects/animxyz)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2183 | 50 | 
 | 2023-03-19 | 2182 | 50 | 
 | 2023-03-17 | 2180 | 50 | 
 | 2023-03-16 | 2179 | 50 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 2165 | 50 | 
 | 2023-02-21 | 2165 | 50 | 
 | 2023-02-19 | 2164 | 50 | 
-| 2023-02-18 | 2163 | 49 | 
 

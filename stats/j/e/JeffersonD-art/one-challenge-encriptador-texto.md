@@ -1,6 +1,6 @@
 # JeffersonD-art/one-challenge-encriptador-texto - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 50 | 2 | 
 | 2023-03-19 | 50 | 2 | 
 | 2023-03-17 | 50 | 2 | 
 | 2023-03-16 | 50 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 48 | 2 | 
 | 2023-02-21 | 48 | 2 | 
 | 2023-02-20 | 48 | 2 | 
-| 2023-02-18 | 48 | 2 | 
 

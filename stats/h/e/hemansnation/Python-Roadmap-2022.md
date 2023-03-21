@@ -1,6 +1,6 @@
 # hemansnation/Python-Roadmap-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 203 | 47 | 
 | 2023-03-19 | 203 | 47 | 
 | 2023-03-18 | 203 | 47 | 
 | 2023-03-17 | 203 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 199 | 46 | 
 | 2023-02-21 | 199 | 46 | 
 | 2023-02-20 | 199 | 45 | 
-| 2023-02-19 | 198 | 45 | 
 

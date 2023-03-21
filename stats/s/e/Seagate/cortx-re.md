@@ -1,6 +1,6 @@
 # Seagate/cortx-re - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6 | 53 | 
 | 2023-03-19 | 6 | 53 | 
 | 2023-03-17 | 6 | 53 | 
 | 2023-03-16 | 6 | 53 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 5 | 53 | 
 | 2023-02-21 | 5 | 53 | 
 | 2023-02-20 | 5 | 54 | 
-| 2023-02-18 | 5 | 54 | 
 

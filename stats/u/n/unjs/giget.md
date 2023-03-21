@@ -1,6 +1,6 @@
 # unjs/giget - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 208 | 17 | 
 | 2023-03-19 | 208 | 17 | 
 | 2023-03-18 | 208 | 17 | 
 | 2023-03-17 | 208 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 205 | 16 | 
 | 2023-02-21 | 204 | 16 | 
 | 2023-02-19 | 203 | 16 | 
-| 2023-02-18 | 203 | 16 | 
 

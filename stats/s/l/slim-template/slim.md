@@ -1,6 +1,6 @@
 # slim-template/slim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 505
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5200 | 505 | 
 | 2023-03-19 | 5200 | 505 | 
 | 2023-03-17 | 5200 | 505 | 
 | 2023-03-16 | 5200 | 505 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 5188 | 504 | 
 | 2023-02-20 | 5188 | 503 | 
 | 2023-02-19 | 5187 | 503 | 
-| 2023-02-18 | 5186 | 503 | 
 

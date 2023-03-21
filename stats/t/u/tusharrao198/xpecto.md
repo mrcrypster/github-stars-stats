@@ -1,6 +1,6 @@
 # tusharrao198/xpecto - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3 | 22 | 
 | 2023-03-19 | 3 | 22 | 
 | 2023-03-17 | 3 | 22 | 
 | 2023-03-16 | 3 | 22 | 

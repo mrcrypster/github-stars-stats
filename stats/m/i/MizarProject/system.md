@@ -1,10 +1,10 @@
 # MizarProject/system - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/MizarProject/system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 25 | 6 | 
 | 2023-03-19 | 24 | 5 | 
 | 2023-03-17 | 24 | 5 | 
 | 2023-03-16 | 24 | 5 | 

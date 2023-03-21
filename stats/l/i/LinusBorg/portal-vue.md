@@ -1,10 +1,10 @@
 # LinusBorg/portal-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 194
 
-★ Stars: 3726
+★ Stars: 3727
 
 [Open repository](https://github.com/LinusBorg/portal-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3727 | 194 | 
 | 2023-03-19 | 3726 | 194 | 
 | 2023-03-17 | 3726 | 194 | 
 | 2023-03-16 | 3727 | 194 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 3719 | 195 | 
 | 2023-02-21 | 3718 | 195 | 
 | 2023-02-19 | 3719 | 194 | 
-| 2023-02-18 | 3719 | 194 | 
 

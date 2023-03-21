@@ -1,10 +1,10 @@
 # akinsho/bufferline.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 2249
+★ Stars: 2258
 
 [Open repository](https://github.com/akinsho/bufferline.nvim)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2258 | 128 | 
+| 2023-03-20 | 2255 | 128 | 
 | 2023-03-19 | 2249 | 127 | 
 | 2023-03-18 | 2244 | 127 | 
 | 2023-03-17 | 2240 | 127 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 2178 | 127 | 
 | 2023-02-20 | 2175 | 128 | 
 | 2023-02-19 | 2170 | 128 | 
-| 2023-02-18 | 2169 | 128 | 
 

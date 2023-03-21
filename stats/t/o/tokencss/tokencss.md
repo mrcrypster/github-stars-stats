@@ -1,6 +1,6 @@
 # tokencss/tokencss - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1060 | 11 | 
 | 2023-03-19 | 1060 | 11 | 
 | 2023-03-17 | 1060 | 11 | 
 | 2023-03-16 | 1060 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1056 | 11 | 
 | 2023-02-21 | 1056 | 11 | 
 | 2023-02-20 | 1056 | 11 | 
-| 2023-02-19 | 1056 | 11 | 
 

@@ -1,6 +1,6 @@
 # joelittlejohn/jsonschema2pojo - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1602
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5945 | 1602 | 
 | 2023-03-19 | 5945 | 1602 | 
 | 2023-03-17 | 5945 | 1602 | 
 | 2023-03-16 | 5944 | 1602 | 

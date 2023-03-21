@@ -1,8 +1,8 @@
 # wix/homebrew-brew - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 14
+☋ Forks: 16
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 10 | 16 | 
 | 2023-03-18 | 10 | 14 | 
 | 2023-03-17 | 10 | 14 | 
 | 2023-03-16 | 10 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 10 | 14 | 
 | 2023-02-21 | 10 | 14 | 
 | 2023-02-19 | 10 | 14 | 
-| 2023-02-18 | 10 | 14 | 
 

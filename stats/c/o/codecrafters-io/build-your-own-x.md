@@ -1,10 +1,10 @@
 # codecrafters-io/build-your-own-x - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 18833
+☋ Forks: 18847
 
-★ Stars: 193362
+★ Stars: 193518
 
 [Open repository](https://github.com/codecrafters-io/build-your-own-x)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 193518 | 18847 | 
 | 2023-03-19 | 193362 | 18833 | 
 | 2023-03-18 | 193224 | 18820 | 
 | 2023-03-17 | 193112 | 18805 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 190595 | 18478 | 
 | 2023-02-20 | 190561 | 18472 | 
 | 2023-02-19 | 190436 | 18462 | 
-| 2023-02-18 | 190175 | 18435 | 
 

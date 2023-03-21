@@ -1,6 +1,6 @@
 # payam-zahedi/toastification - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 38 | 1 | 
 | 2023-03-19 | 38 | 1 | 
 | 2023-03-17 | 37 | 1 | 
 | 2023-03-16 | 31 | 1 | 

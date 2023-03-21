@@ -1,6 +1,6 @@
 # yosshin4004/xdev68k - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 53 | 5 | 
 | 2023-03-19 | 53 | 5 | 
 | 2023-03-18 | 53 | 5 | 
 | 2023-03-17 | 53 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 53 | 4 | 
 | 2023-02-20 | 52 | 4 | 
 | 2023-02-19 | 52 | 4 | 
-| 2023-02-18 | 52 | 4 | 
 

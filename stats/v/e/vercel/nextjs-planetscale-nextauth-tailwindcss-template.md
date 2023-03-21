@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 20
 
 ☋ Forks: 18
 
-★ Stars: 103
+★ Stars: 105
 
 [Open repository](https://github.com/vercel/nextjs-planetscale-nextauth-tailwindcss-template)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 103 | 18 | 
+| 2023-03-20 | 105 | 18 | 
 | 2023-03-19 | 101 | 18 | 
 

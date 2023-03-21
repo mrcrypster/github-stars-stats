@@ -1,10 +1,10 @@
 # mazen160/secrets-patterns-db - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 57
 
-★ Stars: 629
+★ Stars: 631
 
 [Open repository](https://github.com/mazen160/secrets-patterns-db)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 631 | 57 | 
 | 2023-03-19 | 629 | 57 | 
 | 2023-03-18 | 628 | 56 | 
 | 2023-03-16 | 627 | 55 | 

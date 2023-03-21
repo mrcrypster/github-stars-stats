@@ -1,6 +1,6 @@
 # neovimhaskell/haskell-vim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 674 | 83 | 
 | 2023-03-19 | 674 | 83 | 
 | 2023-03-18 | 674 | 83 | 
 | 2023-03-16 | 674 | 83 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 671 | 83 | 
 | 2023-02-21 | 671 | 83 | 
 | 2023-02-20 | 671 | 83 | 
-| 2023-02-19 | 671 | 83 | 
 

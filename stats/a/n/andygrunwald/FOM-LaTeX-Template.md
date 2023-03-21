@@ -1,10 +1,10 @@
 # andygrunwald/FOM-LaTeX-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 152
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/andygrunwald/FOM-LaTeX-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 146 | 152 | 
 | 2023-03-19 | 145 | 152 | 
 | 2023-03-17 | 145 | 152 | 
 | 2023-03-16 | 145 | 152 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 140 | 152 | 
 | 2023-02-20 | 140 | 152 | 
 | 2023-02-19 | 140 | 152 | 
-| 2023-02-18 | 140 | 152 | 
 

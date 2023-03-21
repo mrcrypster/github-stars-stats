@@ -1,6 +1,6 @@
 # joewreschnig/auto-minor-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 33 | 2 | 
 | 2023-03-19 | 33 | 2 | 
 | 2023-03-18 | 33 | 2 | 
 | 2023-03-17 | 33 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 33 | 2 | 
 | 2023-02-20 | 32 | 2 | 
 | 2023-02-19 | 32 | 2 | 
-| 2023-02-18 | 32 | 2 | 
 

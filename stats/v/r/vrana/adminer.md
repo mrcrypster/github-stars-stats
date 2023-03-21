@@ -1,10 +1,10 @@
 # vrana/adminer - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1000
+☋ Forks: 999
 
-★ Stars: 5604
+★ Stars: 5606
 
 [Open repository](https://github.com/vrana/adminer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5606 | 999 | 
 | 2023-03-18 | 5604 | 1000 | 
 | 2023-03-17 | 5603 | 998 | 
 | 2023-03-16 | 5602 | 997 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 5568 | 992 | 
 | 2023-02-20 | 5568 | 993 | 
 | 2023-02-19 | 5570 | 993 | 
-| 2023-02-18 | 5568 | 992 | 
 

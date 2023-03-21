@@ -1,10 +1,10 @@
 # fereidani/kanal - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 22
 
-★ Stars: 973
+★ Stars: 977
 
 [Open repository](https://github.com/fereidani/kanal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 977 | 22 | 
 | 2023-03-19 | 973 | 22 | 
 | 2023-03-17 | 967 | 22 | 
 | 2023-03-16 | 963 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 911 | 21 | 
 | 2023-02-20 | 909 | 21 | 
 | 2023-02-19 | 909 | 21 | 
-| 2023-02-18 | 908 | 21 | 
 

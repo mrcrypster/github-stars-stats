@@ -1,6 +1,6 @@
 # thunlp/BMCourse - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 189 | 30 | 
 | 2023-03-18 | 189 | 30 | 
 | 2023-03-17 | 188 | 30 | 
 | 2023-03-16 | 188 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 187 | 31 | 
 | 2023-02-21 | 187 | 31 | 
 | 2023-02-20 | 187 | 31 | 
-| 2023-02-19 | 187 | 31 | 
 

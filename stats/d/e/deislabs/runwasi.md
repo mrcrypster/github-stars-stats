@@ -1,10 +1,10 @@
 # deislabs/runwasi - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 40
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/deislabs/runwasi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 559 | 40 | 
 | 2023-03-19 | 558 | 40 | 
 | 2023-03-18 | 557 | 39 | 
 | 2023-03-17 | 554 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 484 | 34 | 
 | 2023-02-20 | 462 | 33 | 
 | 2023-02-19 | 433 | 32 | 
-| 2023-02-18 | 421 | 32 | 
 

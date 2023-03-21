@@ -1,6 +1,6 @@
 # p-org/P - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2697 | 158 | 
 | 2023-03-19 | 2697 | 158 | 
 | 2023-03-18 | 2696 | 158 | 
 | 2023-03-17 | 2695 | 158 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 2678 | 158 | 
 | 2023-02-21 | 2676 | 158 | 
 | 2023-02-19 | 2677 | 158 | 
-| 2023-02-18 | 2676 | 158 | 
 

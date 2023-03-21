@@ -1,6 +1,6 @@
 # codepymdev/grad - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 21 | 23 | 
 | 2023-03-19 | 21 | 23 | 
 | 2023-03-18 | 21 | 23 | 
 | 2023-03-16 | 21 | 23 | 

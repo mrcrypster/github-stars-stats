@@ -1,10 +1,10 @@
 # solidex-fantom/solidex - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 25
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/solidex-fantom/solidex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 29 | 25 | 
 | 2023-03-19 | 28 | 25 | 
 | 2023-03-18 | 28 | 24 | 
 | 2023-03-17 | 28 | 24 | 

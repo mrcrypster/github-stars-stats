@@ -1,10 +1,10 @@
 # onsi/ginkgo - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 600
+☋ Forks: 599
 
-★ Stars: 7010
+★ Stars: 7011
 
 [Open repository](https://github.com/onsi/ginkgo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 7011 | 599 | 
 | 2023-03-19 | 7010 | 600 | 
 | 2023-03-17 | 7009 | 601 | 
 | 2023-03-16 | 7003 | 600 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 6917 | 598 | 
 | 2023-02-20 | 6911 | 598 | 
 | 2023-02-19 | 6908 | 596 | 
-| 2023-02-18 | 6905 | 596 | 
 

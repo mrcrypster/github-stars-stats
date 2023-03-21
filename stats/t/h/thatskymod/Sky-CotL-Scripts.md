@@ -1,6 +1,6 @@
 # thatskymod/Sky-CotL-Scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 63 | 24 | 
 | 2023-03-19 | 63 | 24 | 
 | 2023-03-18 | 64 | 24 | 
 | 2023-03-16 | 64 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 52 | 19 | 
 | 2023-02-20 | 52 | 19 | 
 | 2023-02-19 | 51 | 18 | 
-| 2023-02-18 | 51 | 18 | 
 

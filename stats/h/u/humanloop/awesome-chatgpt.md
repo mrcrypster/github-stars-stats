@@ -1,10 +1,10 @@
 # humanloop/awesome-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 331
+☋ Forks: 335
 
-★ Stars: 5988
+★ Stars: 6046
 
 [Open repository](https://github.com/humanloop/awesome-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6046 | 335 | 
 | 2023-03-19 | 5988 | 331 | 
 | 2023-03-17 | 5947 | 329 | 
 | 2023-03-16 | 5909 | 327 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 5182 | 275 | 
 | 2023-02-20 | 5158 | 272 | 
 | 2023-02-19 | 5132 | 270 | 
-| 2023-02-18 | 5101 | 269 | 
 

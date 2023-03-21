@@ -1,6 +1,6 @@
 # GetStream/AvengersChat - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 356 | 36 | 
 | 2023-03-19 | 356 | 36 | 
 | 2023-03-17 | 356 | 36 | 
 | 2023-03-16 | 356 | 36 | 

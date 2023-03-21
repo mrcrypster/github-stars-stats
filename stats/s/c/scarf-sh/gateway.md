@@ -1,10 +1,10 @@
 # scarf-sh/gateway - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/scarf-sh/gateway)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 36 | - | 
+| 2023-03-20 | 35 | - | 
 | 2023-03-19 | 34 | - | 
 

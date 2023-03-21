@@ -1,10 +1,10 @@
 # preservim/vim-indent-guides - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 160
 
-★ Stars: 2544
+★ Stars: 2543
 
 [Open repository](https://github.com/preservim/vim-indent-guides)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2543 | 160 | 
 | 2023-03-19 | 2544 | 160 | 
 | 2023-03-18 | 2543 | 159 | 
 | 2023-03-16 | 2543 | 159 | 

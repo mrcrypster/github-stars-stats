@@ -1,10 +1,10 @@
 # yihong0618/bilingual_book_maker - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 572
+☋ Forks: 579
 
-★ Stars: 4363
+★ Stars: 4413
 
 [Open repository](https://github.com/yihong0618/bilingual_book_maker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 4413 | 579 | 
 | 2023-03-19 | 4363 | 572 | 
 | 2023-03-18 | 4317 | 563 | 
 | 2023-03-17 | 4245 | 548 | 

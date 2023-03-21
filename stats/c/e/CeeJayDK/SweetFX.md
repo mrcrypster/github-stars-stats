@@ -1,6 +1,6 @@
 # CeeJayDK/SweetFX - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 32
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 124 | 32 | 
+| 2023-03-20 | 124 | 32 | 
 | 2023-03-19 | 124 | 32 | 
 | 2023-03-18 | 124 | 32 | 
 | 2023-03-16 | 124 | 32 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 121 | 33 | 
 | 2023-02-20 | 121 | 33 | 
 | 2023-02-19 | 121 | 33 | 
-| 2023-02-18 | 121 | 33 | 
 

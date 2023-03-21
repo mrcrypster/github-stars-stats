@@ -1,8 +1,8 @@
 # lyc8503/EasierConnect - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 403
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 403 | 70 | 
 | 2023-03-19 | 403 | 69 | 
 | 2023-03-18 | 403 | 69 | 
 | 2023-03-17 | 402 | 69 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 398 | 61 | 
 | 2023-02-21 | 397 | 59 | 
 | 2023-02-19 | 396 | 59 | 
-| 2023-02-18 | 396 | 59 | 
 

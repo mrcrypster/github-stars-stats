@@ -1,6 +1,6 @@
 # WebAudio/web-audio-api - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 955 | 162 | 
 | 2023-03-19 | 955 | 162 | 
 | 2023-03-18 | 955 | 162 | 
 | 2023-03-16 | 954 | 162 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 954 | 162 | 
 | 2023-02-20 | 954 | 162 | 
 | 2023-02-19 | 954 | 162 | 
-| 2023-02-18 | 954 | 162 | 
 

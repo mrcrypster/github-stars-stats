@@ -1,6 +1,6 @@
 # microsoft/azure-devops-auth-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 213 | 288 | 
 | 2023-03-19 | 213 | 288 | 
 | 2023-03-18 | 213 | 288 | 
 | 2023-03-16 | 212 | 287 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 211 | 286 | 
 | 2023-02-20 | 211 | 286 | 
 | 2023-02-19 | 210 | 285 | 
-| 2023-02-18 | 210 | 285 | 
 

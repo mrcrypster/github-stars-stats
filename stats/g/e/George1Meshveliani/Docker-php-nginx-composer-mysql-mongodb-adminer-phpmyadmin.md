@@ -1,6 +1,6 @@
 # George1Meshveliani/Docker-php-nginx-composer-mysql-mongodb-adminer-phpmyadmin - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 22 | 1 | 
 | 2023-03-18 | 22 | 1 | 
 | 2023-03-17 | 22 | 1 | 
 | 2023-03-16 | 22 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 21 | 1 | 
 | 2023-02-20 | 21 | 1 | 
 | 2023-02-19 | 21 | 1 | 
-| 2023-02-18 | 21 | 1 | 
 

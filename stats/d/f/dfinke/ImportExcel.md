@@ -1,6 +1,6 @@
 # dfinke/ImportExcel - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 360
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2092 | 360 | 
 | 2023-03-19 | 2092 | 360 | 
 | 2023-03-18 | 2090 | 359 | 
 | 2023-03-17 | 2090 | 358 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 2069 | 360 | 
 | 2023-02-20 | 2066 | 359 | 
 | 2023-02-19 | 2066 | 359 | 
-| 2023-02-18 | 2065 | 358 | 
 

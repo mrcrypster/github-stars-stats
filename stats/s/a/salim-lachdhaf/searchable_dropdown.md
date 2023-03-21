@@ -1,6 +1,6 @@
 # salim-lachdhaf/searchable_dropdown - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 254 | 245 | 
 | 2023-03-19 | 254 | 245 | 
 | 2023-03-18 | 254 | 245 | 
 | 2023-03-17 | 254 | 245 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 251 | 237 | 
 | 2023-02-21 | 251 | 237 | 
 | 2023-02-20 | 251 | 237 | 
-| 2023-02-19 | 251 | 237 | 
 

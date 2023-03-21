@@ -1,10 +1,10 @@
 # vfarid/cf-ip-scanner - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 62
+☋ Forks: 66
 
-★ Stars: 93
+★ Stars: 105
 
 [Open repository](https://github.com/vfarid/cf-ip-scanner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 105 | 66 | 
 | 2023-03-19 | 93 | 62 | 
 | 2023-03-18 | 90 | 57 | 
 | 2023-03-17 | 85 | 53 | 

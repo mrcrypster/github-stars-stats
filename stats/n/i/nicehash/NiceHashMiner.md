@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 20
 
 ☋ Forks: 216
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/nicehash/NiceHashMiner)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 402 | 216 | 
+| 2023-03-20 | 403 | 216 | 
 | 2023-03-19 | 402 | 216 | 
 | 2023-03-18 | 402 | 216 | 
 | 2023-03-17 | 403 | 215 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-21 | 399 | 214 | 
 | 2023-02-20 | 399 | 213 | 
 | 2023-02-19 | 399 | 213 | 
-| 2023-02-18 | 399 | 213 | 
 

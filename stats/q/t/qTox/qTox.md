@@ -1,6 +1,6 @@
 # qTox/qTox - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1005
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 4461 | 1005 | 
 | 2023-03-19 | 4461 | 1005 | 
 | 2023-03-17 | 4461 | 1005 | 
 | 2023-03-16 | 4461 | 1005 | 

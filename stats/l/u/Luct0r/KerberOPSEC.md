@@ -1,10 +1,10 @@
 # Luct0r/KerberOPSEC - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/Luct0r/KerberOPSEC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 108 | 17 | 
 | 2023-03-18 | 107 | 17 | 
 | 2023-03-17 | 107 | 17 | 
 | 2023-03-16 | 107 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 107 | 17 | 
 | 2023-02-21 | 107 | 17 | 
 | 2023-02-20 | 107 | 17 | 
-| 2023-02-19 | 107 | 17 | 
 

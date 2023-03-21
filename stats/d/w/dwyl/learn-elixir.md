@@ -1,6 +1,6 @@
 # dwyl/learn-elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1494 | 104 | 
 | 2023-03-18 | 1494 | 104 | 
 | 2023-03-17 | 1492 | 104 | 
 | 2023-03-16 | 1490 | 104 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1487 | 103 | 
 | 2023-02-20 | 1487 | 103 | 
 | 2023-02-19 | 1485 | 103 | 
-| 2023-02-18 | 1485 | 103 | 
 

@@ -1,8 +1,8 @@
 # DynamoRIO/dynamorio - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 494
+☋ Forks: 495
 
 ★ Stars: 2229
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2229 | 495 | 
 | 2023-03-19 | 2229 | 494 | 
 | 2023-03-18 | 2229 | 494 | 
 | 2023-03-16 | 2228 | 494 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 2225 | 490 | 
 | 2023-02-21 | 2224 | 490 | 
 | 2023-02-20 | 2222 | 490 | 
-| 2023-02-19 | 2221 | 490 | 
 

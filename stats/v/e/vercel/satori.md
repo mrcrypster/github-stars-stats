@@ -1,10 +1,10 @@
 # vercel/satori - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 122
 
-★ Stars: 7355
+★ Stars: 7362
 
 [Open repository](https://github.com/vercel/satori)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 7362 | 122 | 
 | 2023-03-19 | 7355 | 122 | 
 | 2023-03-18 | 7348 | 121 | 
 | 2023-03-17 | 7336 | 119 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 7134 | 115 | 
 | 2023-02-20 | 7126 | 114 | 
 | 2023-02-19 | 7115 | 114 | 
-| 2023-02-18 | 7109 | 114 | 
 

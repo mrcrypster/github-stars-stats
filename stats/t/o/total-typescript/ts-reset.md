@@ -1,10 +1,10 @@
 # total-typescript/ts-reset - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 67
+☋ Forks: 66
 
-★ Stars: 4999
+★ Stars: 5018
 
 [Open repository](https://github.com/total-typescript/ts-reset)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5018 | 66 | 
 | 2023-03-19 | 4999 | 67 | 
 | 2023-03-18 | 4967 | 66 | 
 | 2023-03-16 | 4949 | 66 | 

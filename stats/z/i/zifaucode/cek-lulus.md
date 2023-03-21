@@ -1,6 +1,6 @@
 # zifaucode/cek-lulus - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 42 | 17 | 
 | 2023-03-19 | 42 | 17 | 
 | 2023-03-18 | 42 | 17 | 
 | 2023-03-16 | 42 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 41 | 15 | 
 | 2023-02-20 | 41 | 15 | 
 | 2023-02-19 | 41 | 15 | 
-| 2023-02-18 | 41 | 15 | 
 

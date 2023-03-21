@@ -1,6 +1,6 @@
 # TechMagister/liquid.cr - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 64 | 17 | 
 | 2023-03-19 | 64 | 17 | 
 | 2023-03-17 | 64 | 17 | 
 | 2023-03-16 | 64 | 17 | 

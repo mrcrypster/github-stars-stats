@@ -1,10 +1,10 @@
 # RetroMusicPlayer/RetroMusicPlayer - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 622
+☋ Forks: 620
 
-★ Stars: 2845
+★ Stars: 2855
 
 [Open repository](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2855 | 620 | 
 | 2023-03-19 | 2845 | 622 | 
 | 2023-03-18 | 2843 | 622 | 
 | 2023-03-17 | 2810 | 622 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 2741 | 612 | 
 | 2023-02-21 | 2740 | 612 | 
 | 2023-02-20 | 2738 | 612 | 
-| 2023-02-19 | 2735 | 612 | 
 

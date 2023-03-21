@@ -1,6 +1,6 @@
 # Azure-Samples/containerapps-dapralbums - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5 | 49 | 
 | 2023-03-19 | 5 | 49 | 
 | 2023-03-18 | 5 | 49 | 
 | 2023-03-16 | 5 | 49 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 5 | 44 | 
 | 2023-02-20 | 5 | 43 | 
 | 2023-02-19 | 5 | 43 | 
-| 2023-02-18 | 5 | 42 | 
 

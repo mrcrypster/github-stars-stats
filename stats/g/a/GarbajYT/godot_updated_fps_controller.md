@@ -1,6 +1,6 @@
 # GarbajYT/godot_updated_fps_controller - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 184 | 51 | 
 | 2023-03-19 | 184 | 51 | 
 | 2023-03-18 | 184 | 51 | 
 | 2023-03-16 | 183 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 170 | 49 | 
 | 2023-02-20 | 170 | 49 | 
 | 2023-02-19 | 170 | 49 | 
-| 2023-02-18 | 170 | 49 | 
 

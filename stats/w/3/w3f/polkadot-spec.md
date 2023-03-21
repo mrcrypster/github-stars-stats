@@ -1,10 +1,10 @@
 # w3f/polkadot-spec - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 45
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/w3f/polkadot-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 147 | 45 | 
 | 2023-03-19 | 146 | 45 | 
 | 2023-03-18 | 146 | 45 | 
 | 2023-03-17 | 146 | 45 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 148 | 45 | 
 | 2023-02-21 | 148 | 44 | 
 | 2023-02-19 | 147 | 44 | 
-| 2023-02-18 | 147 | 43 | 
 

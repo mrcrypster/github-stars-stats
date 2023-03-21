@@ -1,10 +1,10 @@
 # Securrency-OSS/mirai - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 9
 
-★ Stars: 153
+★ Stars: 163
 
 [Open repository](https://github.com/Securrency-OSS/mirai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 163 | 9 | 
 | 2023-03-18 | 153 | 9 | 
 | 2023-03-17 | 143 | 9 | 
 | 2023-03-16 | 138 | 9 | 

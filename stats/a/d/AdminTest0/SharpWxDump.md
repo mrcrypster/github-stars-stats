@@ -1,6 +1,6 @@
 # AdminTest0/SharpWxDump - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 950 | 150 | 
 | 2023-03-18 | 950 | 150 | 
 | 2023-03-17 | 950 | 150 | 
 | 2023-03-16 | 943 | 150 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 888 | 135 | 
 | 2023-02-20 | 887 | 135 | 
 | 2023-02-19 | 887 | 134 | 
-| 2023-02-18 | 887 | 134 | 
 

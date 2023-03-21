@@ -1,10 +1,10 @@
 # Rich-Harris/devalue - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 43
 
-★ Stars: 1476
+★ Stars: 1478
 
 [Open repository](https://github.com/Rich-Harris/devalue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1478 | 43 | 
 | 2023-03-19 | 1476 | 43 | 
 | 2023-03-17 | 1476 | 42 | 
 | 2023-03-16 | 1474 | 42 | 

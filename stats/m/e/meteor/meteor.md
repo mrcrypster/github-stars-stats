@@ -1,10 +1,10 @@
 # meteor/meteor - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 5234
 
-★ Stars: 43357
+★ Stars: 43359
 
 [Open repository](https://github.com/meteor/meteor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 43359 | 5234 | 
 | 2023-03-18 | 43357 | 5234 | 
 | 2023-03-17 | 43356 | 5233 | 
 | 2023-03-16 | 43356 | 5235 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 43283 | 5235 | 
 | 2023-02-21 | 43285 | 5235 | 
 | 2023-02-20 | 43281 | 5235 | 
-| 2023-02-19 | 43282 | 5235 | 
 

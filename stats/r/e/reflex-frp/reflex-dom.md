@@ -1,10 +1,10 @@
 # reflex-frp/reflex-dom - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 136
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/reflex-frp/reflex-dom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 347 | 136 | 
 | 2023-03-19 | 346 | 136 | 
 | 2023-03-17 | 346 | 136 | 
 | 2023-03-16 | 346 | 136 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 347 | 136 | 
 | 2023-02-21 | 347 | 136 | 
 | 2023-02-19 | 347 | 136 | 
-| 2023-02-18 | 347 | 136 | 
 

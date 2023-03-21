@@ -1,10 +1,10 @@
 # storyblok/storyblok-astro - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 11
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/storyblok/storyblok-astro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 52 | 11 | 
 | 2023-03-19 | 51 | 11 | 
 | 2023-03-18 | 51 | 11 | 
 | 2023-03-17 | 51 | 11 | 

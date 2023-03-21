@@ -1,10 +1,10 @@
 # termux/termux-api - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 339
+☋ Forks: 340
 
-★ Stars: 1318
+★ Stars: 1319
 
 [Open repository](https://github.com/termux/termux-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1319 | 340 | 
 | 2023-03-19 | 1318 | 339 | 
 | 2023-03-17 | 1313 | 339 | 
 | 2023-03-16 | 1314 | 339 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1288 | 333 | 
 | 2023-02-21 | 1286 | 332 | 
 | 2023-02-20 | 1283 | 332 | 
-| 2023-02-18 | 1282 | 332 | 
 

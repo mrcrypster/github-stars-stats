@@ -1,10 +1,10 @@
 # thoughtworks/build-your-own-radar - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 891
+☋ Forks: 892
 
-★ Stars: 1772
+★ Stars: 1774
 
 [Open repository](https://github.com/thoughtworks/build-your-own-radar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1774 | 892 | 
 | 2023-03-19 | 1772 | 891 | 
 | 2023-03-18 | 1772 | 891 | 
 

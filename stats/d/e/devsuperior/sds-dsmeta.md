@@ -1,8 +1,8 @@
 # devsuperior/sds-dsmeta - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 219
+☋ Forks: 218
 
 ★ Stars: 431
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 431 | 218 | 
 | 2023-03-19 | 431 | 219 | 
 | 2023-03-18 | 431 | 219 | 
 | 2023-03-16 | 431 | 221 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 434 | 221 | 
 | 2023-02-20 | 434 | 221 | 
 | 2023-02-19 | 434 | 221 | 
-| 2023-02-18 | 435 | 221 | 
 

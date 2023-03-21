@@ -1,10 +1,10 @@
 # hellemo/ShortCodes.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 38
 
 [Open repository](https://github.com/hellemo/ShortCodes.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 38 | 2 | 
 | 2023-03-19 | 39 | 2 | 
 | 2023-03-17 | 39 | 2 | 
 | 2023-03-16 | 39 | 2 | 

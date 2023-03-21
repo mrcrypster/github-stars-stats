@@ -1,10 +1,10 @@
 # AssuranceMaladieSec/AD-description-password-finder - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 12
 
-★ Stars: 83
+★ Stars: 85
 
 [Open repository](https://github.com/AssuranceMaladieSec/AD-description-password-finder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 85 | 12 | 
 | 2023-03-19 | 83 | 12 | 
 | 2023-03-18 | 83 | 12 | 
 | 2023-03-17 | 83 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 64 | 10 | 
 | 2023-02-20 | 63 | 10 | 
 | 2023-02-19 | 63 | 10 | 
-| 2023-02-18 | 63 | 10 | 
 

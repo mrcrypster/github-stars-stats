@@ -1,6 +1,6 @@
 # BritishMachineVisionAssociation/BMVCTemplate - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 153 | 98 | 
 | 2023-03-19 | 153 | 98 | 
 | 2023-03-17 | 151 | 98 | 
 | 2023-03-16 | 150 | 98 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 147 | 97 | 
 | 2023-02-21 | 147 | 97 | 
 | 2023-02-20 | 147 | 97 | 
-| 2023-02-18 | 147 | 97 | 
 

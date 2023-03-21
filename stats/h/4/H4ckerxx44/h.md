@@ -1,6 +1,6 @@
 # H4ckerxx44/h - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2 | 4 | 
 | 2023-03-18 | 2 | 4 | 
 | 2023-03-17 | 2 | 4 | 
 | 2023-03-16 | 2 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 2 | 4 | 
 | 2023-02-21 | 2 | 4 | 
 | 2023-02-19 | 2 | 4 | 
-| 2023-02-18 | 2 | 4 | 
 

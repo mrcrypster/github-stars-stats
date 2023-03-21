@@ -1,6 +1,6 @@
 # arturgoms/moonbow.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 63 | 2 | 
 | 2023-03-19 | 63 | 2 | 
 | 2023-03-18 | 63 | 2 | 
 | 2023-03-17 | 62 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 49 | 3 | 
 | 2023-02-20 | 49 | 3 | 
 | 2023-02-19 | 48 | 3 | 
-| 2023-02-18 | 48 | 3 | 
 

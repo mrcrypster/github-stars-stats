@@ -1,6 +1,6 @@
 # standardnotes/web - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 322
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 4179 | 322 | 
 | 2023-03-18 | 4179 | 322 | 
 | 2023-03-17 | 4177 | 322 | 
 | 2023-03-16 | 4175 | 322 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 4124 | 319 | 
 | 2023-02-21 | 4120 | 319 | 
 | 2023-02-19 | 4115 | 317 | 
-| 2023-02-18 | 4112 | 317 | 
 

@@ -1,6 +1,6 @@
 # mini-rose/rose - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 288 | 10 | 
 | 2023-03-19 | 288 | 10 | 
 | 2023-03-18 | 288 | 10 | 
 | 2023-03-17 | 288 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 291 | 10 | 
 | 2023-02-20 | 291 | 10 | 
 | 2023-02-19 | 291 | 10 | 
-| 2023-02-18 | 290 | 10 | 
 

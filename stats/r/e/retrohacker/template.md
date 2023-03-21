@@ -1,10 +1,10 @@
 # retrohacker/template - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 239
+★ Stars: 257
 
 [Open repository](https://github.com/retrohacker/template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 257 | 5 | 
 | 2023-03-19 | 239 | 4 | 
 | 2023-03-18 | 235 | 4 | 
 

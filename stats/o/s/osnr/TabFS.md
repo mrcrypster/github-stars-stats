@@ -1,10 +1,10 @@
 # osnr/TabFS - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 102
 
-★ Stars: 3641
+★ Stars: 3644
 
 [Open repository](https://github.com/osnr/TabFS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 3644 | 102 | 
 | 2023-03-18 | 3641 | 102 | 
 | 2023-03-17 | 3640 | 102 | 
 | 2023-03-15 | 3639 | 102 | 

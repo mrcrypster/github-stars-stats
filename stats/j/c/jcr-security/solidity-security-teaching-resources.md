@@ -1,10 +1,10 @@
 # jcr-security/solidity-security-teaching-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 6
 
-★ Stars: 75
+★ Stars: 82
 
 [Open repository](https://github.com/jcr-security/solidity-security-teaching-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 82 | 6 | 
 | 2023-03-19 | 75 | 6 | 
 | 2023-03-18 | 70 | 6 | 
 | 2023-03-17 | 69 | 6 | 

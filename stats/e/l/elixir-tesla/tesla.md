@@ -1,10 +1,10 @@
 # elixir-tesla/tesla - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 299
 
-★ Stars: 1797
+★ Stars: 1801
 
 [Open repository](https://github.com/elixir-tesla/tesla)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1801 | 299 | 
 | 2023-03-19 | 1797 | 299 | 
 | 2023-03-18 | 1797 | 299 | 
 | 2023-03-16 | 1796 | 299 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1787 | 296 | 
 | 2023-02-20 | 1787 | 296 | 
 | 2023-02-19 | 1786 | 296 | 
-| 2023-02-18 | 1785 | 296 | 
 

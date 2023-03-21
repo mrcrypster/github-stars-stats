@@ -1,10 +1,10 @@
 # kube-rs/kube - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 231
 
-★ Stars: 1950
+★ Stars: 1951
 
 [Open repository](https://github.com/kube-rs/kube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1951 | 231 | 
 | 2023-03-19 | 1950 | 231 | 
 | 2023-03-17 | 1945 | 231 | 
 | 2023-03-16 | 1939 | 229 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1874 | 228 | 
 | 2023-02-20 | 1872 | 228 | 
 | 2023-02-19 | 1869 | 227 | 
-| 2023-02-18 | 1869 | 228 | 
 

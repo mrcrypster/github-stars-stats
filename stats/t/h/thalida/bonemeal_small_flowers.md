@@ -1,6 +1,6 @@
 # thalida/bonemeal_small_flowers - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | - | 
 | 2023-03-19 | 11 | - | 
 | 2023-03-18 | 11 | - | 
 | 2023-03-17 | 11 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 11 | - | 
 | 2023-02-20 | 11 | - | 
 | 2023-02-19 | 11 | - | 
-| 2023-02-18 | 11 | - | 
 

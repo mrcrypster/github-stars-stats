@@ -1,8 +1,8 @@
 # chengchingwen/NeuralAttentionlib.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 31 | 3 | 
 | 2023-03-19 | 31 | 2 | 
 | 2023-03-18 | 30 | 2 | 
 | 2023-03-16 | 30 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 29 | 2 | 
 | 2023-02-20 | 29 | 2 | 
 | 2023-02-19 | 29 | 2 | 
-| 2023-02-18 | 29 | 2 | 
 

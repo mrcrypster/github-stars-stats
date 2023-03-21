@@ -1,10 +1,10 @@
 # sefinek24/Genshin-Impact-ReShade - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/sefinek24/Genshin-Impact-ReShade)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 56 | 2 | 
 | 2023-03-19 | 55 | 2 | 
 | 2023-03-18 | 54 | 2 | 
 | 2023-03-16 | 54 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 43 | 2 | 
 | 2023-02-20 | 42 | 2 | 
 | 2023-02-19 | 42 | 2 | 
-| 2023-02-18 | 42 | 2 | 
 

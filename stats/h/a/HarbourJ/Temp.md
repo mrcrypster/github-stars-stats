@@ -1,10 +1,10 @@
 # HarbourJ/Temp - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 155
 
-★ Stars: 96
+★ Stars: 95
 
 [Open repository](https://github.com/HarbourJ/Temp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 95 | 155 | 
 | 2023-03-19 | 96 | 155 | 
 | 2023-03-17 | 96 | 155 | 
 | 2023-03-16 | 96 | 155 | 

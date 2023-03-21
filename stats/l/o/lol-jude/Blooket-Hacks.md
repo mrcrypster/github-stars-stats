@@ -1,10 +1,10 @@
 # lol-jude/Blooket-Hacks - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2354
+☋ Forks: 2361
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/lol-jude/Blooket-Hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 666 | 2361 | 
 | 2023-03-19 | 665 | 2354 | 
 | 2023-03-17 | 654 | 2335 | 
 | 2023-03-16 | 649 | 2320 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 530 | 2017 | 
 | 2023-02-20 | 528 | 2004 | 
 | 2023-02-19 | 527 | 1999 | 
-| 2023-02-18 | 526 | 1994 | 
 

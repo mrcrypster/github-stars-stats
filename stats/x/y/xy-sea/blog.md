@@ -1,10 +1,10 @@
 # xy-sea/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 57
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/xy-sea/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 82 | 57 | 
 | 2023-03-19 | 81 | 57 | 
 | 2023-03-17 | 81 | 57 | 
 | 2023-03-16 | 79 | 56 | 

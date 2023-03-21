@@ -1,10 +1,10 @@
 # Octoberfest7/MemFiles - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 41
 
-★ Stars: 290
+★ Stars: 292
 
 [Open repository](https://github.com/Octoberfest7/MemFiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 292 | 41 | 
 | 2023-03-19 | 290 | 41 | 
 | 2023-03-17 | 288 | 41 | 
 | 2023-03-16 | 286 | 40 | 

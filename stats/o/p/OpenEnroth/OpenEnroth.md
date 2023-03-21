@@ -1,6 +1,6 @@
 # OpenEnroth/OpenEnroth - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 573 | 60 | 
 | 2023-03-19 | 573 | 60 | 
 | 2023-03-18 | 573 | 60 | 
 | 2023-03-17 | 574 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 566 | 60 | 
 | 2023-02-21 | 566 | 60 | 
 | 2023-02-19 | 566 | 60 | 
-| 2023-02-18 | 563 | 60 | 
 

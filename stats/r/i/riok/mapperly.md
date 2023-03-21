@@ -1,10 +1,10 @@
 # riok/mapperly - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 39
 
-★ Stars: 595
+★ Stars: 597
 
 [Open repository](https://github.com/riok/mapperly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 597 | 39 | 
 | 2023-03-19 | 595 | 39 | 
 | 2023-03-17 | 592 | 39 | 
 | 2023-03-16 | 591 | 39 | 

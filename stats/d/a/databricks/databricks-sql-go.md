@@ -1,6 +1,6 @@
 # databricks/databricks-sql-go - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 20 | 19 | 
 | 2023-03-19 | 20 | 19 | 
 | 2023-03-18 | 20 | 19 | 
 | 2023-03-16 | 20 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 20 | 19 | 
 | 2023-02-21 | 19 | 19 | 
 | 2023-02-19 | 19 | 19 | 
-| 2023-02-18 | 19 | 19 | 
 

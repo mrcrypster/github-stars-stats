@@ -1,10 +1,10 @@
 # useragents/Snapchat-Snapscore-Botter - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 550
+★ Stars: 552
 
 [Open repository](https://github.com/useragents/Snapchat-Snapscore-Botter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 552 | 49 | 
 | 2023-03-18 | 550 | 48 | 
 | 2023-03-17 | 550 | 48 | 
 | 2023-03-16 | 549 | 48 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 532 | 46 | 
 | 2023-02-21 | 532 | 45 | 
 | 2023-02-20 | 532 | 45 | 
-| 2023-02-18 | 533 | 45 | 
 

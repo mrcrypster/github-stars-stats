@@ -1,6 +1,6 @@
 # zvonimirr/tenantee - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 15 | 8 | 
 | 2023-03-19 | 15 | 8 | 
 | 2023-03-17 | 15 | 8 | 
 | 2023-03-16 | 15 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 13 | 8 | 
 | 2023-02-21 | 13 | 8 | 
 | 2023-02-19 | 13 | 8 | 
-| 2023-02-18 | 13 | 8 | 
 

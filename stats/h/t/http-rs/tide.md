@@ -1,6 +1,6 @@
 # http-rs/tide - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 4144 | 304 | 
 | 2023-03-19 | 4144 | 304 | 
 | 2023-03-18 | 4141 | 303 | 
 | 2023-03-17 | 4140 | 303 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 4114 | 304 | 
 | 2023-02-21 | 4113 | 304 | 
 | 2023-02-20 | 4110 | 304 | 
-| 2023-02-18 | 4109 | 304 | 
 

@@ -1,6 +1,6 @@
 # leonoel/missionary - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 478 | 15 | 
 | 2023-03-19 | 478 | 15 | 
 | 2023-03-18 | 478 | 15 | 
 | 2023-03-16 | 477 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 465 | 14 | 
 | 2023-02-20 | 464 | 14 | 
 | 2023-02-19 | 463 | 14 | 
-| 2023-02-18 | 463 | 14 | 
 

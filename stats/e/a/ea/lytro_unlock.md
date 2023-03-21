@@ -1,6 +1,6 @@
 # ea/lytro_unlock - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 339 | 11 | 
 | 2023-03-19 | 339 | 11 | 
 | 2023-03-18 | 338 | 11 | 
 | 2023-03-17 | 334 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 328 | 10 | 
 | 2023-02-20 | 328 | 10 | 
 | 2023-02-19 | 328 | 10 | 
-| 2023-02-18 | 328 | 10 | 
 

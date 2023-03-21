@@ -1,6 +1,6 @@
 # ogoguel/realtimehand - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 243 | 34 | 
 | 2023-03-19 | 243 | 34 | 
 | 2023-03-17 | 243 | 34 | 
 | 2023-03-16 | 243 | 34 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 242 | 34 | 
 | 2023-02-21 | 242 | 34 | 
 | 2023-02-19 | 241 | 34 | 
-| 2023-02-18 | 241 | 34 | 
 

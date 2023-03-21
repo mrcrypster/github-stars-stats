@@ -1,10 +1,10 @@
 # ChimeraOS/chimeraos - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 647
+★ Stars: 648
 
 [Open repository](https://github.com/ChimeraOS/chimeraos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 648 | 40 | 
 | 2023-03-18 | 647 | 39 | 
 | 2023-03-17 | 644 | 38 | 
 | 2023-03-15 | 644 | 38 | 

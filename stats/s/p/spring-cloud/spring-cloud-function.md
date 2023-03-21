@@ -1,8 +1,8 @@
 # spring-cloud/spring-cloud-function - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 565
+☋ Forks: 564
 
 ★ Stars: 955
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 955 | 564 | 
 | 2023-03-19 | 955 | 565 | 
 | 2023-03-17 | 955 | 565 | 
 | 2023-03-16 | 955 | 563 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 942 | 558 | 
 | 2023-02-20 | 943 | 556 | 
 | 2023-02-19 | 943 | 556 | 
-| 2023-02-18 | 943 | 556 | 
 

@@ -1,6 +1,6 @@
 # MrHacker-X/DevilX - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 142 | 28 | 
 | 2023-03-19 | 142 | 28 | 
 | 2023-03-17 | 140 | 28 | 
 | 2023-03-16 | 139 | 28 | 

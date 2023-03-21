@@ -1,8 +1,8 @@
 # jenkins-docs/simple-java-maven-app - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 22849
+☋ Forks: 22865
 
 ★ Stars: 345
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 345 | 22865 | 
 | 2023-03-18 | 345 | 22849 | 
 | 2023-03-17 | 345 | 22843 | 
 | 2023-03-16 | 345 | 22833 | 

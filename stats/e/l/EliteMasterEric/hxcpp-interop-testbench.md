@@ -1,6 +1,6 @@
 # EliteMasterEric/hxcpp-interop-testbench - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 21 | 1 | 
 | 2023-03-19 | 21 | 1 | 
 | 2023-03-17 | 21 | 1 | 
 | 2023-03-16 | 21 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 19 | 1 | 
 | 2023-02-21 | 19 | 1 | 
 | 2023-02-20 | 19 | 1 | 
-| 2023-02-19 | 19 | 1 | 
 

@@ -1,10 +1,10 @@
 # input-output-hk/cardano-world - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 18
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/input-output-hk/cardano-world)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 27 | 18 | 
 | 2023-03-19 | 26 | 18 | 
 | 2023-03-18 | 26 | 18 | 
 | 2023-03-16 | 26 | 18 | 

@@ -1,8 +1,8 @@
 # Yharimium/hugo-stellar - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5 | 3 | 
 | 2023-03-18 | 5 | 2 | 
 | 2023-03-17 | 5 | 2 | 
 | 2023-03-15 | 5 | 2 | 

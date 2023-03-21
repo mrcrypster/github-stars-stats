@@ -1,6 +1,6 @@
 # Ethanlinyf/General-Pure-Emacs - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 24 | 3 | 
 | 2023-03-19 | 24 | 3 | 
 | 2023-03-18 | 24 | 3 | 
 | 2023-03-16 | 24 | 3 | 

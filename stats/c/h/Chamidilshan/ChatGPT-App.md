@@ -1,10 +1,10 @@
 # Chamidilshan/ChatGPT-App - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 14
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/Chamidilshan/ChatGPT-App)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 47 | 14 | 
 | 2023-03-19 | 45 | 14 | 
 | 2023-03-18 | 44 | 14 | 
 | 2023-03-16 | 43 | 14 | 

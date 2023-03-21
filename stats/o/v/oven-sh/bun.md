@@ -1,10 +1,10 @@
 # oven-sh/bun - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 1023
+☋ Forks: 1024
 
-★ Stars: 40064
+★ Stars: 40086
 
 [Open repository](https://github.com/oven-sh/bun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 40086 | 1024 | 
 | 2023-03-19 | 40064 | 1023 | 
 | 2023-03-18 | 40047 | 1021 | 
 | 2023-03-17 | 40031 | 1017 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 39059 | 963 | 
 | 2023-02-20 | 39030 | 962 | 
 | 2023-02-19 | 39011 | 960 | 
-| 2023-02-18 | 38972 | 959 | 
 

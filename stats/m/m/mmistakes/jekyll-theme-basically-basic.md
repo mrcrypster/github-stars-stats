@@ -1,10 +1,10 @@
 # mmistakes/jekyll-theme-basically-basic - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1201
 
-★ Stars: 770
+★ Stars: 771
 
 [Open repository](https://github.com/mmistakes/jekyll-theme-basically-basic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 771 | 1201 | 
 | 2023-03-19 | 770 | 1201 | 
 | 2023-03-18 | 769 | 1202 | 
 | 2023-03-16 | 769 | 1202 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 759 | 1196 | 
 | 2023-02-20 | 759 | 1194 | 
 | 2023-02-19 | 759 | 1195 | 
-| 2023-02-18 | 759 | 1195 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 20
 
 ☋ Forks: 434
 
-★ Stars: 767
+★ Stars: 768
 
 [Open repository](https://github.com/akka/akka-samples)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 767 | 434 | 
+| 2023-03-20 | 768 | 434 | 
 | 2023-03-19 | 767 | 434 | 
 | 2023-03-18 | 767 | 434 | 
 | 2023-03-17 | 767 | 434 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-21 | 763 | 433 | 
 | 2023-02-20 | 762 | 433 | 
 | 2023-02-19 | 762 | 433 | 
-| 2023-02-18 | 762 | 433 | 
 

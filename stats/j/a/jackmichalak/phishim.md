@@ -1,6 +1,6 @@
 # jackmichalak/phishim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 112 | 16 | 
 | 2023-03-19 | 112 | 16 | 
 | 2023-03-18 | 112 | 16 | 
 | 2023-03-16 | 111 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 106 | 15 | 
 | 2023-02-20 | 106 | 15 | 
 | 2023-02-19 | 106 | 15 | 
-| 2023-02-18 | 105 | 15 | 
 

@@ -1,10 +1,10 @@
 # ayaka14732/ChatGPTAPIFree - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 180
+☋ Forks: 186
 
-★ Stars: 1344
+★ Stars: 1423
 
 [Open repository](https://github.com/ayaka14732/ChatGPTAPIFree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1423 | 186 | 
 | 2023-03-19 | 1344 | 180 | 
 | 2023-03-18 | 1316 | 175 | 
 | 2023-03-17 | 1159 | 161 | 

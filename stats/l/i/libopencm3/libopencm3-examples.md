@@ -1,10 +1,10 @@
 # libopencm3/libopencm3-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 313
 
-★ Stars: 443
+★ Stars: 442
 
 [Open repository](https://github.com/libopencm3/libopencm3-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 442 | 313 | 
 | 2023-03-19 | 443 | 313 | 
 | 2023-03-18 | 443 | 313 | 
 | 2023-03-16 | 443 | 313 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 441 | 313 | 
 | 2023-02-21 | 441 | 313 | 
 | 2023-02-19 | 441 | 313 | 
-| 2023-02-18 | 441 | 313 | 
 

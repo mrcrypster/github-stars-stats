@@ -1,6 +1,6 @@
 # minaminao/tornado-cats - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 218 | 12 | 
 | 2023-03-19 | 218 | 12 | 
 | 2023-03-18 | 217 | 12 | 
 | 2023-03-17 | 216 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 192 | 7 | 
 | 2023-02-21 | 177 | 7 | 
 | 2023-02-19 | 141 | 3 | 
-| 2023-02-18 | 137 | 3 | 
 

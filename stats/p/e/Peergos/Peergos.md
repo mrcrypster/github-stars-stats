@@ -1,10 +1,10 @@
 # Peergos/Peergos - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 151
 
-★ Stars: 1642
+★ Stars: 1643
 
 [Open repository](https://github.com/Peergos/Peergos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1643 | 151 | 
 | 2023-03-18 | 1642 | 151 | 
 | 2023-03-17 | 1640 | 151 | 
 | 2023-03-15 | 1640 | 151 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 1630 | 148 | 
 | 2023-02-21 | 1630 | 149 | 
 | 2023-02-20 | 1628 | 148 | 
-| 2023-02-19 | 1627 | 148 | 
 

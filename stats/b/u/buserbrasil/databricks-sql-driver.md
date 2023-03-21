@@ -1,10 +1,10 @@
 # buserbrasil/databricks-sql-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/buserbrasil/databricks-sql-driver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1 | - | 
 | 2023-03-19 | - | - | 
 | 2023-03-18 | - | - | 
 | 2023-03-17 | - | - | 

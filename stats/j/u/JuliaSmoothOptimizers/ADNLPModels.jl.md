@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/ADNLPModels.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 9
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/ADNLPModels.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 16 | 9 | 
 | 2023-03-18 | 15 | 9 | 
 | 2023-03-17 | 15 | 9 | 
 | 2023-03-16 | 15 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 15 | 8 | 
 | 2023-02-20 | 15 | 8 | 
 | 2023-02-19 | 15 | 8 | 
-| 2023-02-18 | 15 | 8 | 
 

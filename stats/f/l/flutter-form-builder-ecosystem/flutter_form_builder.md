@@ -1,10 +1,10 @@
 # flutter-form-builder-ecosystem/flutter_form_builder - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 453
 
-★ Stars: 1234
+★ Stars: 1235
 
 [Open repository](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1235 | 453 | 
 | 2023-03-19 | 1234 | 453 | 
 | 2023-03-17 | 1234 | 453 | 
 | 2023-03-16 | 1233 | 453 | 

@@ -1,10 +1,10 @@
 # NVIDIA-Merlin/Merlin - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 74
 
-★ Stars: 482
+★ Stars: 483
 
 [Open repository](https://github.com/NVIDIA-Merlin/Merlin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 483 | 74 | 
 | 2023-03-19 | 482 | 74 | 
 | 2023-03-18 | 479 | 74 | 
 | 2023-03-17 | 479 | 74 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 455 | 69 | 
 | 2023-02-20 | 454 | 69 | 
 | 2023-02-19 | 452 | 69 | 
-| 2023-02-18 | 452 | 69 | 
 

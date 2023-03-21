@@ -1,6 +1,6 @@
 # ash-project/ash_admin - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 13
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 45 | 13 | 
 | 2023-03-19 | 45 | 13 | 
 

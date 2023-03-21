@@ -1,6 +1,6 @@
 # mozilla/ecosystem-platform - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 17 | 21 | 
 | 2023-03-19 | 17 | 21 | 
 | 2023-03-18 | 17 | 21 | 
 | 2023-03-17 | 16 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 16 | 21 | 
 | 2023-02-20 | 16 | 21 | 
 | 2023-02-19 | 16 | 21 | 
-| 2023-02-18 | 16 | 21 | 
 

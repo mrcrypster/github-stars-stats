@@ -1,10 +1,10 @@
 # Ponderfly/GoogleTranslateIpCheck - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 237
+☋ Forks: 238
 
-★ Stars: 2141
+★ Stars: 2164
 
 [Open repository](https://github.com/Ponderfly/GoogleTranslateIpCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2164 | 238 | 
 | 2023-03-19 | 2141 | 237 | 
 | 2023-03-17 | 2107 | 230 | 
 | 2023-03-16 | 2088 | 228 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1664 | 180 | 
 | 2023-02-20 | 1632 | 178 | 
 | 2023-02-19 | 1586 | 177 | 
-| 2023-02-18 | 1584 | 177 | 
 

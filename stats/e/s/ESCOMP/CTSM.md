@@ -1,6 +1,6 @@
 # ESCOMP/CTSM - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 242 | 252 | 
 | 2023-03-19 | 242 | 252 | 
 | 2023-03-18 | 242 | 252 | 
 | 2023-03-16 | 242 | 252 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 241 | 252 | 
 | 2023-02-21 | 241 | 251 | 
 | 2023-02-20 | 241 | 251 | 
-| 2023-02-18 | 241 | 251 | 
 

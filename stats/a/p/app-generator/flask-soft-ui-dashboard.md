@@ -1,8 +1,8 @@
 # app-generator/flask-soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 109 | 58 | 
 | 2023-03-18 | 109 | 57 | 
 | 2023-03-17 | 109 | 57 | 
 | 2023-03-16 | 109 | 57 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 105 | 54 | 
 | 2023-02-20 | 105 | 54 | 
 | 2023-02-19 | 104 | 54 | 
-| 2023-02-18 | 104 | 54 | 
 

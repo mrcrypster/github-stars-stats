@@ -1,6 +1,6 @@
 # MicrosoftDocs/dynamics-365-unified-operations-public - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 237 | 655 | 
 | 2023-03-19 | 237 | 655 | 
 | 2023-03-17 | 237 | 655 | 
 | 2023-03-16 | 237 | 655 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 234 | 652 | 
 | 2023-02-21 | 234 | 652 | 
 | 2023-02-20 | 234 | 652 | 
-| 2023-02-18 | 234 | 652 | 
 

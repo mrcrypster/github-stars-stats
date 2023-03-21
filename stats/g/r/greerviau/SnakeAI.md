@@ -1,8 +1,8 @@
 # greerviau/SnakeAI - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 524
+☋ Forks: 523
 
 ★ Stars: 2156
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2156 | 523 | 
 | 2023-03-19 | 2156 | 524 | 
 | 2023-03-17 | 2156 | 524 | 
 | 2023-03-16 | 2155 | 524 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 2152 | 521 | 
 | 2023-02-20 | 2153 | 522 | 
 | 2023-02-19 | 2153 | 522 | 
-| 2023-02-18 | 2153 | 522 | 
 

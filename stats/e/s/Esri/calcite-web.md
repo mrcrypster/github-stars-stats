@@ -1,6 +1,6 @@
 # Esri/calcite-web - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 105 | 58 | 
 | 2023-03-19 | 105 | 58 | 
 | 2023-03-18 | 105 | 58 | 
 | 2023-03-16 | 105 | 58 | 

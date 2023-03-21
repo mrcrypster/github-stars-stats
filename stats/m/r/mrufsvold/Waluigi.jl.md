@@ -1,8 +1,8 @@
 # mrufsvold/Waluigi.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 19 | 3 | 
 | 2023-03-18 | 19 | 2 | 
 | 2023-03-17 | 19 | 2 | 
 | 2023-03-16 | 19 | 2 | 

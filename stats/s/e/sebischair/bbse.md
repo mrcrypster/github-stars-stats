@@ -1,6 +1,6 @@
 # sebischair/bbse - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 311 | 50 | 
 | 2023-03-19 | 311 | 50 | 
 | 2023-03-18 | 311 | 50 | 
 | 2023-03-16 | 311 | 50 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 310 | 49 | 
 | 2023-02-21 | 310 | 49 | 
 | 2023-02-20 | 310 | 49 | 
-| 2023-02-18 | 310 | 49 | 
 

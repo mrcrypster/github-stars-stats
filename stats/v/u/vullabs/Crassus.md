@@ -1,10 +1,10 @@
 # vullabs/Crassus - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 39
 
-★ Stars: 316
+★ Stars: 319
 
 [Open repository](https://github.com/vullabs/Crassus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 319 | 39 | 
 | 2023-03-19 | 316 | 39 | 
 | 2023-03-17 | 301 | 38 | 
 | 2023-03-16 | 291 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 279 | 37 | 
 | 2023-02-20 | 280 | 37 | 
 | 2023-02-19 | 280 | 35 | 
-| 2023-02-18 | 279 | 35 | 
 

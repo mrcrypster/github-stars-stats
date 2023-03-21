@@ -1,10 +1,10 @@
 # Hack-with-Github/Awesome-Hacking - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 8390
+☋ Forks: 8391
 
-★ Stars: 62659
+★ Stars: 62701
 
 [Open repository](https://github.com/Hack-with-Github/Awesome-Hacking)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 62701 | 8391 | 
 | 2023-03-19 | 62659 | 8390 | 
 | 2023-03-18 | 62627 | 8390 | 
 | 2023-03-16 | 62599 | 8388 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 61691 | 8340 | 
 | 2023-02-20 | 61657 | 8340 | 
 | 2023-02-19 | 61619 | 8338 | 
-| 2023-02-18 | 61558 | 8337 | 
 

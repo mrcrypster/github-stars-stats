@@ -1,10 +1,10 @@
 # coder-mike/microvium - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
-★ Stars: 509
+★ Stars: 510
 
 [Open repository](https://github.com/coder-mike/microvium)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 510 | 17 | 
 | 2023-03-19 | 509 | 17 | 
 | 2023-03-17 | 508 | 17 | 
 | 2023-03-16 | 507 | 16 | 

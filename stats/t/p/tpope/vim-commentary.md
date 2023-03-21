@@ -1,10 +1,10 @@
 # tpope/vim-commentary - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 222
 
-★ Stars: 5202
+★ Stars: 5201
 
 [Open repository](https://github.com/tpope/vim-commentary)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5201 | 222 | 
 | 2023-03-19 | 5202 | 222 | 
 | 2023-03-18 | 5196 | 222 | 
 | 2023-03-17 | 5195 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 5147 | 220 | 
 | 2023-02-20 | 5145 | 220 | 
 | 2023-02-19 | 5146 | 220 | 
-| 2023-02-18 | 5145 | 220 | 
 

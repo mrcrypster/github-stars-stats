@@ -1,10 +1,10 @@
 # TimOliver/TOCropViewController - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 875
 
-★ Stars: 4471
+★ Stars: 4470
 
 [Open repository](https://github.com/TimOliver/TOCropViewController)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 4470 | 875 | 
 | 2023-03-19 | 4471 | 875 | 
 | 2023-03-17 | 4471 | 874 | 
 | 2023-03-16 | 4470 | 874 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 4459 | 871 | 
 | 2023-02-20 | 4457 | 870 | 
 | 2023-02-19 | 4455 | 868 | 
-| 2023-02-18 | 4455 | 868 | 
 

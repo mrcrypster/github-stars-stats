@@ -1,10 +1,10 @@
 # catppuccin/nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 142
 
-★ Stars: 2392
+★ Stars: 2396
 
 [Open repository](https://github.com/catppuccin/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2396 | 142 | 
 | 2023-03-19 | 2392 | 142 | 
 | 2023-03-18 | 2386 | 142 | 
 | 2023-03-16 | 2375 | 142 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 2242 | 142 | 
 | 2023-02-20 | 2234 | 142 | 
 | 2023-02-19 | 2230 | 142 | 
-| 2023-02-18 | 2224 | 142 | 
 

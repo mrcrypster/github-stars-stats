@@ -1,10 +1,10 @@
 # tinystruct/smalltalk - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 40
 
-★ Stars: 255
+★ Stars: 257
 
 [Open repository](https://github.com/tinystruct/smalltalk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 257 | 40 | 
 | 2023-03-19 | 255 | 40 | 
 | 2023-03-18 | 249 | 40 | 
 | 2023-03-16 | 250 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 207 | 37 | 
 | 2023-02-20 | 200 | 37 | 
 | 2023-02-19 | 190 | 34 | 
-| 2023-02-18 | 179 | 32 | 
 

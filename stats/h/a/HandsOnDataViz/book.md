@@ -1,10 +1,10 @@
 # HandsOnDataViz/book - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 85
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/HandsOnDataViz/book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 254 | 85 | 
 | 2023-03-19 | 253 | 85 | 
 | 2023-03-18 | 253 | 85 | 
 | 2023-03-17 | 253 | 85 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 251 | 84 | 
 | 2023-02-21 | 251 | 84 | 
 | 2023-02-19 | 251 | 84 | 
-| 2023-02-18 | 251 | 84 | 
 

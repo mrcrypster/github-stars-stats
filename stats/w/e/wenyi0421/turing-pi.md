@@ -1,8 +1,8 @@
 # wenyi0421/turing-pi - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 42 | 8 | 
 | 2023-03-19 | 42 | 7 | 
 | 2023-03-18 | 42 | 7 | 
 | 2023-03-17 | 42 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 39 | 4 | 
 | 2023-02-20 | 38 | 4 | 
 | 2023-02-19 | 38 | 4 | 
-| 2023-02-18 | 38 | 4 | 
 

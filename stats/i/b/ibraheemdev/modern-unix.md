@@ -1,10 +1,10 @@
 # ibraheemdev/modern-unix - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 660
+☋ Forks: 662
 
-★ Stars: 26115
+★ Stars: 26132
 
 [Open repository](https://github.com/ibraheemdev/modern-unix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 26132 | 662 | 
 | 2023-03-19 | 26115 | 660 | 
 | 2023-03-18 | 26095 | 660 | 
 | 2023-03-17 | 26078 | 660 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 25813 | 653 | 
 | 2023-02-21 | 25789 | 653 | 
 | 2023-02-20 | 25768 | 653 | 
-| 2023-02-18 | 25752 | 651 | 
 

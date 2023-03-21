@@ -1,10 +1,10 @@
 # guanguans/notify - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 36
 
-★ Stars: 474
+★ Stars: 473
 
 [Open repository](https://github.com/guanguans/notify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 473 | 36 | 
 | 2023-03-19 | 474 | 36 | 
 | 2023-03-17 | 474 | 36 | 
 | 2023-03-16 | 474 | 36 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 464 | 36 | 
 | 2023-02-21 | 463 | 36 | 
 | 2023-02-19 | 463 | 36 | 
-| 2023-02-18 | 462 | 36 | 
 

@@ -1,10 +1,10 @@
 # u-boot/u-boot - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2783
+☋ Forks: 2785
 
-★ Stars: 2712
+★ Stars: 2717
 
 [Open repository](https://github.com/u-boot/u-boot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2717 | 2785 | 
 | 2023-03-19 | 2712 | 2783 | 
 | 2023-03-18 | 2711 | 2783 | 
 | 2023-03-17 | 2703 | 2781 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 2644 | 2756 | 
 | 2023-02-20 | 2640 | 2754 | 
 | 2023-02-19 | 2640 | 2750 | 
-| 2023-02-18 | 2639 | 2746 | 
 

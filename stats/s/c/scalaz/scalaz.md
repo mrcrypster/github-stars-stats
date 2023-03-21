@@ -1,10 +1,10 @@
 # scalaz/scalaz - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 723
 
-★ Stars: 4605
+★ Stars: 4607
 
 [Open repository](https://github.com/scalaz/scalaz)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 4607 | 723 | 
 | 2023-03-18 | 4605 | 723 | 
 | 2023-03-17 | 4606 | 724 | 
 | 2023-03-16 | 4606 | 724 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 4601 | 725 | 
 | 2023-02-20 | 4601 | 725 | 
 | 2023-02-19 | 4602 | 725 | 
-| 2023-02-18 | 4602 | 725 | 
 

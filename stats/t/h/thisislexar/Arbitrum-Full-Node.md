@@ -1,0 +1,17 @@
+# thisislexar/Arbitrum-Full-Node - stars & forks statistics
+
+Stats updated on Mar 2023, 20
+
+☋ Forks: 77
+
+★ Stars: 49
+
+[Open repository](https://github.com/thisislexar/Arbitrum-Full-Node)
+
+[Open detailed stats for thisislexar/Arbitrum-Full-Node](https://reviewgithub.com/rep/thisislexar/Arbitrum-Full-Node)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-20 | 49 | 77 | 
+

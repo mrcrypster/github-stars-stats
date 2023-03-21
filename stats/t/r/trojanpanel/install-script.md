@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 20
 
-☋ Forks: 355
+☋ Forks: 358
 
-★ Stars: 1183
+★ Stars: 1197
 
 [Open repository](https://github.com/trojanpanel/install-script)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 1183 | 355 | 
+| 2023-03-20 | 1197 | 358 | 
 | 2023-03-19 | 1182 | 356 | 
 | 2023-03-18 | 1175 | 354 | 
 | 2023-03-17 | 1160 | 347 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 1073 | 334 | 
 | 2023-02-20 | 1069 | 331 | 
 | 2023-02-19 | 1065 | 331 | 
-| 2023-02-18 | 1062 | 331 | 
 

@@ -1,10 +1,10 @@
 # naver/scavenger - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 26
 
-★ Stars: 273
+★ Stars: 275
 
 [Open repository](https://github.com/naver/scavenger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 275 | 26 | 
 | 2023-03-18 | 273 | 26 | 
 | 2023-03-17 | 271 | 26 | 
 | 2023-03-16 | 255 | 26 | 

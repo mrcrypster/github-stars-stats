@@ -1,10 +1,10 @@
 # Project-Sloth/progressbar - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 39
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/Project-Sloth/progressbar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 38 | 39 | 
 | 2023-03-19 | 37 | 39 | 
 | 2023-03-17 | 37 | 39 | 
 | 2023-03-16 | 37 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 36 | 36 | 
 | 2023-02-20 | 36 | 36 | 
 | 2023-02-19 | 36 | 36 | 
-| 2023-02-18 | 36 | 36 | 
 

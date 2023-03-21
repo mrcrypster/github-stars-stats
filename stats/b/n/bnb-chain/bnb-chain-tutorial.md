@@ -1,10 +1,10 @@
 # bnb-chain/bnb-chain-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 233
+☋ Forks: 308
 
-★ Stars: 151
+★ Stars: 167
 
 [Open repository](https://github.com/bnb-chain/bnb-chain-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 167 | 308 | 
 | 2023-03-19 | 151 | 233 | 
 | 2023-03-18 | 149 | 231 | 
 

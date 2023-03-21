@@ -1,6 +1,6 @@
 # cmcntsh/stats2021_exer_OpenFiles - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | - | 38 | 
 | 2023-03-18 | - | 38 | 
 | 2023-03-17 | - | 38 | 
 | 2023-03-15 | - | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | - | 38 | 
 | 2023-02-20 | - | 38 | 
 | 2023-02-19 | - | 38 | 
-| 2023-02-18 | - | 38 | 
 

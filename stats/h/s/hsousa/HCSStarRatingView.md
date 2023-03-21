@@ -1,10 +1,10 @@
 # hsousa/HCSStarRatingView - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 196
 
-★ Stars: 1280
+★ Stars: 1279
 
 [Open repository](https://github.com/hsousa/HCSStarRatingView)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1279 | 196 | 
 | 2023-03-19 | 1280 | 196 | 
 | 2023-03-18 | 1280 | 196 | 
 | 2023-03-17 | 1280 | 196 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1279 | 196 | 
 | 2023-02-21 | 1279 | 196 | 
 | 2023-02-20 | 1279 | 196 | 
-| 2023-02-18 | 1279 | 196 | 
 

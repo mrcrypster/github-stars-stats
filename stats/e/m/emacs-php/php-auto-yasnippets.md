@@ -1,6 +1,6 @@
 # emacs-php/php-auto-yasnippets - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 42 | 13 | 
 | 2023-03-18 | 42 | 13 | 
 | 2023-03-17 | 42 | 13 | 
 | 2023-03-15 | 42 | 13 | 

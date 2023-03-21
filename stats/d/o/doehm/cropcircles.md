@@ -1,6 +1,6 @@
 # doehm/cropcircles - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 28 | - | 
 | 2023-03-19 | 28 | - | 
 | 2023-03-18 | 28 | - | 
 | 2023-03-17 | 28 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 27 | - | 
 | 2023-02-20 | 25 | - | 
 | 2023-02-19 | 24 | - | 
-| 2023-02-18 | 20 | - | 
 

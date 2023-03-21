@@ -1,10 +1,10 @@
 # p-gen/smenu - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 48
 
-★ Stars: 2199
+★ Stars: 2201
 
 [Open repository](https://github.com/p-gen/smenu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2201 | 48 | 
 | 2023-03-19 | 2199 | 48 | 
 | 2023-03-18 | 2200 | 48 | 
 | 2023-03-16 | 2200 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 2184 | 47 | 
 | 2023-02-20 | 2183 | 47 | 
 | 2023-02-19 | 2183 | 47 | 
-| 2023-02-18 | 2183 | 47 | 
 

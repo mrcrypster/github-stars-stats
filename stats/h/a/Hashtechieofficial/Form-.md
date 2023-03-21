@@ -1,10 +1,10 @@
 # Hashtechieofficial/Form- - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 50
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/Hashtechieofficial/Form-)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 87 | 50 | 
 | 2023-03-18 | 86 | 50 | 
 | 2023-03-17 | 86 | 49 | 
 | 2023-03-16 | 85 | 47 | 

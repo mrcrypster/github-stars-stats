@@ -1,10 +1,10 @@
 # tobychui/arozos - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 92
 
-★ Stars: 1159
+★ Stars: 1162
 
 [Open repository](https://github.com/tobychui/arozos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1162 | 92 | 
 | 2023-03-19 | 1159 | 92 | 
 | 2023-03-18 | 1155 | 92 | 
 | 2023-03-17 | 1142 | 92 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1122 | 90 | 
 | 2023-02-21 | 1121 | 89 | 
 | 2023-02-19 | 1121 | 89 | 
-| 2023-02-18 | 1121 | 88 | 
 

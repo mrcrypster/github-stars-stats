@@ -1,6 +1,6 @@
 # srid/emanote - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 572 | 58 | 
 | 2023-03-19 | 572 | 58 | 
 | 2023-03-17 | 573 | 58 | 
 | 2023-03-16 | 572 | 58 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 560 | 56 | 
 | 2023-02-21 | 558 | 56 | 
 | 2023-02-19 | 557 | 56 | 
-| 2023-02-18 | 557 | 56 | 
 

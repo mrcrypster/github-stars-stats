@@ -1,10 +1,10 @@
 # pytorch/functorch - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 96
 
-★ Stars: 1262
+★ Stars: 1263
 
 [Open repository](https://github.com/pytorch/functorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1263 | 96 | 
 | 2023-03-19 | 1262 | 96 | 
 | 2023-03-18 | 1263 | 96 | 
 | 2023-03-16 | 1263 | 95 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1248 | 95 | 
 | 2023-02-20 | 1248 | 95 | 
 | 2023-02-19 | 1248 | 95 | 
-| 2023-02-18 | 1249 | 95 | 
 

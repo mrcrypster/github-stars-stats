@@ -1,8 +1,8 @@
 # DefiLlama/yield-server - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 333
+☋ Forks: 337
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 89 | 337 | 
 | 2023-03-19 | 89 | 333 | 
 | 2023-03-17 | 89 | 330 | 
 | 2023-03-16 | 89 | 330 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 82 | 298 | 
 | 2023-02-20 | 82 | 296 | 
 | 2023-02-19 | 82 | 292 | 
-| 2023-02-18 | 82 | 290 | 
 

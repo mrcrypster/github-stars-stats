@@ -1,10 +1,10 @@
 # satellite-image-deep-learning/datasets - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 19
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/satellite-image-deep-learning/datasets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 195 | 19 | 
 | 2023-03-19 | 194 | 19 | 
 | 2023-03-18 | 194 | 19 | 
 | 2023-03-16 | 192 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 175 | 17 | 
 | 2023-02-21 | 175 | 17 | 
 | 2023-02-19 | 175 | 17 | 
-| 2023-02-18 | 175 | 17 | 
 

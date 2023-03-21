@@ -1,6 +1,6 @@
 # clhodapp/nix-runner - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 27 | 3 | 
 | 2023-03-19 | 27 | 3 | 
 | 2023-03-18 | 27 | 3 | 
 | 2023-03-17 | 26 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 25 | 2 | 
 | 2023-02-20 | 25 | 2 | 
 | 2023-02-19 | 25 | 2 | 
-| 2023-02-18 | 25 | 2 | 
 

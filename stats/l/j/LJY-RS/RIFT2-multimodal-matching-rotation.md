@@ -1,6 +1,6 @@
 # LJY-RS/RIFT2-multimodal-matching-rotation - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 26 | 3 | 
 | 2023-03-19 | 26 | 3 | 
 | 2023-03-18 | 26 | 3 | 
 | 2023-03-16 | 25 | 3 | 

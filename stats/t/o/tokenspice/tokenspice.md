@@ -1,10 +1,10 @@
 # tokenspice/tokenspice - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 42
 
-★ Stars: 268
+★ Stars: 269
 
 [Open repository](https://github.com/tokenspice/tokenspice)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 269 | 42 | 
 | 2023-03-19 | 268 | 42 | 
 | 2023-03-17 | 268 | 42 | 
 | 2023-03-16 | 268 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 264 | 42 | 
 | 2023-02-21 | 264 | 42 | 
 | 2023-02-19 | 263 | 42 | 
-| 2023-02-18 | 263 | 42 | 
 

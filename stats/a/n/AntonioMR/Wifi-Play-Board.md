@@ -1,6 +1,6 @@
 # AntonioMR/Wifi-Play-Board - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 23
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 9 | 23 | 
+| 2023-03-20 | 9 | 23 | 
 | 2023-03-19 | 9 | 23 | 
 | 2023-03-18 | 9 | 23 | 
 | 2023-03-17 | 9 | 23 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 9 | 23 | 
 | 2023-02-20 | 9 | 23 | 
 | 2023-02-19 | 9 | 23 | 
-| 2023-02-18 | 9 | 23 | 
 

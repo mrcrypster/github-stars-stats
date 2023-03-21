@@ -1,6 +1,6 @@
 # EL1P2/tp-template-integration - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | - | 41 | 
 | 2023-03-19 | - | 41 | 
 | 2023-03-18 | - | 41 | 
 | 2023-03-16 | - | 41 | 

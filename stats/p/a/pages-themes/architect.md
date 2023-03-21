@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 20
 
 ☋ Forks: 693
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/pages-themes/architect)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-20 | 254 | 693 | 
+| 2023-03-20 | 255 | 693 | 
 | 2023-03-19 | 253 | 692 | 
 | 2023-03-17 | 252 | 689 | 
 | 2023-03-16 | 252 | 688 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 251 | 677 | 
 | 2023-02-21 | 251 | 677 | 
 | 2023-02-19 | 251 | 678 | 
-| 2023-02-18 | 251 | 678 | 
 

@@ -1,10 +1,10 @@
 # Renumics/awesome-open-data-centric-ai - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 18
 
-★ Stars: 493
+★ Stars: 498
 
 [Open repository](https://github.com/Renumics/awesome-open-data-centric-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 498 | 18 | 
 | 2023-03-19 | 493 | 18 | 
 | 2023-03-17 | 491 | 18 | 
 | 2023-03-16 | 487 | 18 | 

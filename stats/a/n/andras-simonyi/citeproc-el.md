@@ -1,6 +1,6 @@
 # andras-simonyi/citeproc-el - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 75 | 7 | 
 | 2023-03-19 | 75 | 7 | 
 | 2023-03-18 | 75 | 7 | 
 | 2023-03-16 | 75 | 7 | 

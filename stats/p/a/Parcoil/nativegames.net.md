@@ -1,6 +1,6 @@
 # Parcoil/nativegames.net - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 18 | 88 | 
 | 2023-03-19 | 18 | 88 | 
 | 2023-03-18 | 18 | 86 | 
 | 2023-03-17 | 18 | 85 | 

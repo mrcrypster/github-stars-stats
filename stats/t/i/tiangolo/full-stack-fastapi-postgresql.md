@@ -1,10 +1,10 @@
 # tiangolo/full-stack-fastapi-postgresql - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 2075
+☋ Forks: 2078
 
-★ Stars: 11390
+★ Stars: 11397
 
 [Open repository](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 11397 | 2078 | 
 | 2023-03-19 | 11390 | 2075 | 
 | 2023-03-18 | 11381 | 2074 | 
 | 2023-03-17 | 11369 | 2074 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 11166 | 2037 | 
 | 2023-02-21 | 11158 | 2032 | 
 | 2023-02-19 | 11146 | 2026 | 
-| 2023-02-18 | 11140 | 2025 | 
 

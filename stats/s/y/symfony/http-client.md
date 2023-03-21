@@ -1,10 +1,10 @@
 # symfony/http-client - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 1699
+★ Stars: 1701
 
 [Open repository](https://github.com/symfony/http-client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1701 | 48 | 
 | 2023-03-19 | 1699 | 47 | 
 | 2023-03-18 | 1699 | 47 | 
 | 2023-03-17 | 1698 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1687 | 46 | 
 | 2023-02-20 | 1687 | 46 | 
 | 2023-02-19 | 1687 | 46 | 
-| 2023-02-18 | 1687 | 46 | 
 

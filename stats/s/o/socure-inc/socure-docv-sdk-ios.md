@@ -1,6 +1,6 @@
 # socure-inc/socure-docv-sdk-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5 | 2 | 
+| 2023-03-20 | 5 | 2 | 
 | 2023-03-19 | 5 | 2 | 
 | 2023-03-17 | 5 | 2 | 
 | 2023-03-16 | 5 | 2 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 6 | 1 | 
 | 2023-02-21 | 6 | 1 | 
 | 2023-02-20 | 6 | 1 | 
-| 2023-02-18 | 6 | 1 | 
 

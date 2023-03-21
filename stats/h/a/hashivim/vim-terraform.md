@@ -1,10 +1,10 @@
 # hashivim/vim-terraform - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 103
+☋ Forks: 102
 
-★ Stars: 950
+★ Stars: 951
 
 [Open repository](https://github.com/hashivim/vim-terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 951 | 102 | 
 | 2023-03-18 | 950 | 103 | 
 | 2023-03-17 | 949 | 103 | 
 | 2023-03-15 | 948 | 103 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 941 | 103 | 
 | 2023-02-20 | 940 | 103 | 
 | 2023-02-19 | 937 | 103 | 
-| 2023-02-18 | 935 | 103 | 
 

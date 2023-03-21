@@ -1,6 +1,6 @@
 # blasty/lexmark - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 181 | 46 | 
 | 2023-03-19 | 181 | 46 | 
 | 2023-03-18 | 181 | 46 | 
 | 2023-03-16 | 181 | 46 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 175 | 45 | 
 | 2023-02-20 | 174 | 45 | 
 | 2023-02-19 | 168 | 44 | 
-| 2023-02-18 | 167 | 43 | 
 

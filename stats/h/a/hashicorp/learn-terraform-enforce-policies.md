@@ -1,8 +1,8 @@
 # hashicorp/learn-terraform-enforce-policies - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 555
+☋ Forks: 556
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 9 | 556 | 
 | 2023-03-19 | 9 | 555 | 
 | 2023-03-18 | 9 | 555 | 
 | 2023-03-17 | 9 | 555 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 9 | 544 | 
 | 2023-02-21 | 9 | 545 | 
 | 2023-02-19 | 9 | 544 | 
-| 2023-02-18 | 9 | 544 | 
 

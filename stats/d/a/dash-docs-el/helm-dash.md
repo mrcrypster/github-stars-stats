@@ -1,10 +1,10 @@
 # dash-docs-el/helm-dash - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 57
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/dash-docs-el/helm-dash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 507 | 57 | 
 | 2023-03-18 | 506 | 57 | 
 | 2023-03-17 | 506 | 57 | 
 | 2023-03-16 | 506 | 57 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 505 | 57 | 
 | 2023-02-21 | 505 | 57 | 
 | 2023-02-20 | 505 | 57 | 
-| 2023-02-18 | 505 | 57 | 
 

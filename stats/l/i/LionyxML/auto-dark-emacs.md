@@ -1,6 +1,6 @@
 # LionyxML/auto-dark-emacs - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 77 | 17 | 
 | 2023-03-18 | 77 | 17 | 
 | 2023-03-17 | 75 | 17 | 
 | 2023-03-16 | 75 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 76 | 15 | 
 | 2023-02-20 | 76 | 15 | 
 | 2023-02-19 | 76 | 15 | 
-| 2023-02-18 | 76 | 15 | 
 

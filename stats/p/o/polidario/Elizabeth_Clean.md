@@ -1,8 +1,8 @@
 # polidario/Elizabeth_Clean - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 33 | 51 | 
 | 2023-03-18 | 33 | 50 | 
 | 2023-03-17 | 33 | 51 | 
 | 2023-03-15 | 33 | 51 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 32 | 45 | 
 | 2023-02-20 | 32 | 45 | 
 | 2023-02-19 | 32 | 45 | 
-| 2023-02-18 | 32 | 45 | 
 

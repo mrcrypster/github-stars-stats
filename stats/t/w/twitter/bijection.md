@@ -1,6 +1,6 @@
 # twitter/bijection - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 626 | 116 | 
 | 2023-03-19 | 626 | 116 | 
 | 2023-03-17 | 626 | 116 | 
 | 2023-03-16 | 626 | 116 | 

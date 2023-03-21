@@ -1,10 +1,10 @@
 # denisidoro/navi - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 454
 
-★ Stars: 12599
+★ Stars: 12606
 
 [Open repository](https://github.com/denisidoro/navi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 12606 | 454 | 
 | 2023-03-18 | 12599 | 454 | 
 | 2023-03-17 | 12592 | 454 | 
 | 2023-03-16 | 12586 | 454 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-22 | 12509 | 454 | 
 | 2023-02-21 | 12501 | 454 | 
 | 2023-02-19 | 12502 | 454 | 
-| 2023-02-18 | 12497 | 454 | 
 

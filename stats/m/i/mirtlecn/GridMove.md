@@ -1,6 +1,6 @@
 # mirtlecn/GridMove - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 52 | - | 
 | 2023-03-19 | 52 | - | 
 | 2023-03-17 | 53 | - | 
 | 2023-03-16 | 53 | - | 

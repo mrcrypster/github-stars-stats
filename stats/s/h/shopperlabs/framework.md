@@ -1,6 +1,6 @@
 # shopperlabs/framework - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 568 | 96 | 
 | 2023-03-19 | 568 | 96 | 
 | 2023-03-18 | 566 | 96 | 
 | 2023-03-16 | 566 | 96 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 561 | 93 | 
 | 2023-02-21 | 561 | 93 | 
 | 2023-02-19 | 560 | 93 | 
-| 2023-02-18 | 560 | 93 | 
 

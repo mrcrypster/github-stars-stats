@@ -1,8 +1,8 @@
 # besteon/Ironmon-Tracker - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 67 | 30 | 
 | 2023-03-19 | 67 | 29 | 
 | 2023-03-17 | 67 | 29 | 
 | 2023-03-16 | 67 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 63 | 27 | 
 | 2023-02-20 | 63 | 27 | 
 | 2023-02-19 | 62 | 26 | 
-| 2023-02-18 | 62 | 26 | 
 

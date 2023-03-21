@@ -1,6 +1,6 @@
 # bythepixel/fullstack-challenge - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 2 | 56 | 
 | 2023-03-19 | 2 | 56 | 
 | 2023-03-18 | 2 | 56 | 
 | 2023-03-17 | 2 | 56 | 

@@ -1,6 +1,6 @@
 # cpputest/cpputest - stars & forks statistics
 
-Stats updated on Mar 2023, 18
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 454
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 1197 | 454 | 
 | 2023-03-18 | 1197 | 454 | 
 | 2023-03-17 | 1196 | 454 | 
 | 2023-03-16 | 1195 | 453 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 18
 | 2023-02-21 | 1184 | 449 | 
 | 2023-02-20 | 1184 | 449 | 
 | 2023-02-19 | 1182 | 449 | 
-| 2023-02-18 | 1180 | 449 | 
 

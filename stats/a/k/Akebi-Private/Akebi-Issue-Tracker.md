@@ -1,10 +1,10 @@
 # Akebi-Private/Akebi-Issue-Tracker - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 10
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/Akebi-Private/Akebi-Issue-Tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 43 | 10 | 
 | 2023-03-19 | 42 | 10 | 
 | 2023-03-18 | 42 | 10 | 
 | 2023-03-17 | 42 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 29 | 8 | 
 | 2023-02-20 | 29 | 8 | 
 | 2023-02-19 | 29 | 8 | 
-| 2023-02-18 | 28 | 8 | 
 

@@ -1,10 +1,10 @@
 # guillaumekln/faster-whisper - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 37
+☋ Forks: 39
 
-★ Stars: 591
+★ Stars: 612
 
 [Open repository](https://github.com/guillaumekln/faster-whisper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 612 | 39 | 
 | 2023-03-19 | 591 | 37 | 
 | 2023-03-18 | 559 | 36 | 
 | 2023-03-17 | 447 | 33 | 

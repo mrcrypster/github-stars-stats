@@ -1,6 +1,6 @@
 # pclubiitk/puppy-love - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 66 | 22 | 
 | 2023-03-19 | 66 | 22 | 
 | 2023-03-18 | 66 | 22 | 
 | 2023-03-17 | 66 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 66 | 22 | 
 | 2023-02-20 | 66 | 22 | 
 | 2023-02-19 | 66 | 22 | 
-| 2023-02-18 | 66 | 22 | 
 

@@ -1,10 +1,10 @@
 # hlissner/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 101
 
-★ Stars: 1077
+★ Stars: 1080
 
 [Open repository](https://github.com/hlissner/dotfiles)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1080 | 101 | 
+| 2023-03-20 | 1080 | 101 | 
 | 2023-03-19 | 1077 | 101 | 
 | 2023-03-18 | 1074 | 100 | 
 | 2023-03-17 | 1072 | 100 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 1048 | 100 | 
 | 2023-02-20 | 1045 | 100 | 
 | 2023-02-19 | 1044 | 100 | 
-| 2023-02-18 | 1043 | 100 | 
 

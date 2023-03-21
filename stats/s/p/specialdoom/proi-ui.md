@@ -1,6 +1,6 @@
 # specialdoom/proi-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 91 | 9 | 
 | 2023-03-19 | 91 | 9 | 
 | 2023-03-17 | 91 | 9 | 
 | 2023-03-16 | 91 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 88 | 9 | 
 | 2023-02-21 | 88 | 9 | 
 | 2023-02-20 | 87 | 9 | 
-| 2023-02-18 | 87 | 9 | 
 

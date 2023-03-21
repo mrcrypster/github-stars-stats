@@ -1,6 +1,6 @@
 # Raku/nqp - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 309 | 132 | 
 | 2023-03-19 | 309 | 132 | 
 | 2023-03-18 | 309 | 132 | 
 | 2023-03-17 | 309 | 132 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 307 | 132 | 
 | 2023-02-20 | 307 | 132 | 
 | 2023-02-19 | 307 | 132 | 
-| 2023-02-18 | 307 | 132 | 
 

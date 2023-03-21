@@ -1,10 +1,10 @@
 # MarvinChung/Orbeez-SLAM - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/MarvinChung/Orbeez-SLAM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 37 | 7 | 
 | 2023-03-19 | 36 | 6 | 
 | 2023-03-17 | 34 | 6 | 
 | 2023-03-16 | 34 | 5 | 

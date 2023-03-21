@@ -1,10 +1,10 @@
 # dgkanatsios/CKAD-exercises - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 5076
+☋ Forks: 5077
 
-★ Stars: 6976
+★ Stars: 6983
 
 [Open repository](https://github.com/dgkanatsios/CKAD-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 6983 | 5077 | 
 | 2023-03-19 | 6976 | 5076 | 
 | 2023-03-18 | 6974 | 5076 | 
 | 2023-03-17 | 6969 | 5074 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 6880 | 5014 | 
 | 2023-02-20 | 6876 | 5010 | 
 | 2023-02-19 | 6876 | 5007 | 
-| 2023-02-18 | 6873 | 5004 | 
 

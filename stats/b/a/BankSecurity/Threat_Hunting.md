@@ -1,6 +1,6 @@
 # BankSecurity/Threat_Hunting - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 97 | 20 | 
 | 2023-03-19 | 97 | 20 | 
 | 2023-03-17 | 97 | 20 | 
 | 2023-03-16 | 97 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 97 | 20 | 
 | 2023-02-21 | 96 | 20 | 
 | 2023-02-19 | 96 | 20 | 
-| 2023-02-18 | 95 | 20 | 
 

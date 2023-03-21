@@ -1,8 +1,8 @@
 # weniv/FrontendSchool_5 - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 8
+☋ Forks: 11
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 23 | 11 | 
 | 2023-03-19 | 23 | 8 | 
 | 2023-03-17 | 23 | 8 | 
 | 2023-03-16 | 23 | 8 | 

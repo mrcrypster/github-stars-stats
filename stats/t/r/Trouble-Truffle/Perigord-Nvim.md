@@ -1,10 +1,10 @@
 # Trouble-Truffle/Perigord-Nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/Trouble-Truffle/Perigord-Nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | - | 
 | 2023-03-19 | 10 | - | 
 | 2023-03-18 | 10 | - | 
 | 2023-03-17 | 10 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 12 | - | 
 | 2023-02-20 | 12 | - | 
 | 2023-02-19 | 12 | - | 
-| 2023-02-18 | 12 | - | 
 

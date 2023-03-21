@@ -1,10 +1,10 @@
 # LunarEclipseStudios/From-The-Fog - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/LunarEclipseStudios/From-The-Fog)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | - | 
+| 2023-03-20 | 11 | - | 
 | 2023-03-19 | 10 | - | 
 | 2023-03-18 | 9 | - | 
 | 2023-03-17 | 9 | - | 

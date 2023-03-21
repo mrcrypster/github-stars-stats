@@ -1,6 +1,6 @@
 # sumithpdd/flutterdevcampapp - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6 | 48 | 
 | 2023-03-19 | 6 | 48 | 
 | 2023-03-18 | 6 | 48 | 
 | 2023-03-17 | 6 | 48 | 

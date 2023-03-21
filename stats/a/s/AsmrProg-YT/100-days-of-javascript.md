@@ -1,10 +1,10 @@
 # AsmrProg-YT/100-days-of-javascript - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
-☋ Forks: 215
+☋ Forks: 224
 
-★ Stars: 296
+★ Stars: 303
 
 [Open repository](https://github.com/AsmrProg-YT/100-days-of-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 303 | 224 | 
 | 2023-03-19 | 296 | 215 | 
 | 2023-03-18 | 294 | 212 | 
 | 2023-03-16 | 278 | 198 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 128 | 87 | 
 | 2023-02-20 | 121 | 83 | 
 | 2023-02-19 | 108 | 82 | 
-| 2023-02-18 | 86 | 71 | 
 

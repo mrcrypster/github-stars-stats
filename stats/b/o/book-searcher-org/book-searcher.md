@@ -1,10 +1,10 @@
 # book-searcher-org/book-searcher - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 125
 
-★ Stars: 5012
+★ Stars: 5014
 
 [Open repository](https://github.com/book-searcher-org/book-searcher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 5014 | 125 | 
 | 2023-03-19 | 5012 | 125 | 
 | 2023-03-17 | 5012 | 124 | 
 | 2023-03-16 | 5010 | 123 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-21 | 4961 | 111 | 
 | 2023-02-20 | 4942 | 104 | 
 | 2023-02-19 | 4938 | 104 | 
-| 2023-02-18 | 4934 | 104 | 
 

@@ -1,10 +1,10 @@
 # mulesoft-labs/data-weave-custom-data-format - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/mulesoft-labs/data-weave-custom-data-format)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-20 | 7 | 1 | 
 | 2023-03-19 | 6 | 1 | 
 | 2023-03-18 | 6 | 1 | 
 | 2023-03-16 | 6 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 6 | 1 | 
 | 2023-02-21 | 6 | 1 | 
 | 2023-02-19 | 6 | 1 | 
-| 2023-02-18 | 6 | 1 | 
 
