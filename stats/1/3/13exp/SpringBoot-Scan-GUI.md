@@ -1,6 +1,6 @@
 # 13exp/SpringBoot-Scan-GUI - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 207 | 27 | 
 | 2023-03-20 | 207 | 27 | 
 | 2023-03-19 | 205 | 27 | 
 | 2023-03-18 | 205 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 172 | 17 | 
 | 2023-02-21 | 166 | 17 | 
 | 2023-02-20 | 159 | 15 | 
-| 2023-02-19 | 153 | 15 | 
 

@@ -1,10 +1,10 @@
 # Misterio77/nix-config - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 22
 
-★ Stars: 180
+★ Stars: 185
 
 [Open repository](https://github.com/Misterio77/nix-config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 185 | 22 | 
 | 2023-03-20 | 180 | 22 | 
 | 2023-03-18 | 180 | 22 | 
 | 2023-03-17 | 177 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 162 | 17 | 
 | 2023-02-21 | 162 | 17 | 
 | 2023-02-20 | 160 | 16 | 
-| 2023-02-19 | 156 | 16 | 
 

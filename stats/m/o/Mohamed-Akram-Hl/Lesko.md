@@ -1,6 +1,6 @@
 # Mohamed-Akram-Hl/Lesko - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 26 | 1 | 
 | 2023-03-19 | 26 | 1 | 
 | 2023-03-18 | 26 | 1 | 
 | 2023-03-17 | 26 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 27 | 1 | 
 | 2023-02-22 | 27 | 1 | 
 | 2023-02-20 | 28 | 1 | 
-| 2023-02-19 | 28 | 1 | 
 

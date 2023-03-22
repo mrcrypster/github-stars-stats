@@ -1,6 +1,6 @@
 # merthankavak/dailyhoroscopes - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 63 | 8 | 
 | 2023-03-20 | 63 | 8 | 
 | 2023-03-19 | 62 | 8 | 
 | 2023-03-17 | 62 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 63 | 8 | 
 | 2023-02-22 | 63 | 8 | 
 | 2023-02-21 | 63 | 8 | 
-| 2023-02-19 | 63 | 8 | 
 

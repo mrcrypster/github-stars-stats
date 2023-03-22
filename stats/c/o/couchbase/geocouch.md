@@ -1,10 +1,10 @@
 # couchbase/geocouch - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 65
 
-★ Stars: 514
+★ Stars: 513
 
 [Open repository](https://github.com/couchbase/geocouch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 513 | 65 | 
 | 2023-03-19 | 514 | 65 | 
 | 2023-03-18 | 514 | 65 | 
 | 2023-03-17 | 514 | 65 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 514 | 65 | 
 | 2023-02-21 | 514 | 65 | 
 | 2023-02-20 | 514 | 65 | 
-| 2023-02-19 | 514 | 65 | 
 

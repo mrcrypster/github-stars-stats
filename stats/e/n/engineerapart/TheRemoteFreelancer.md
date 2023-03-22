@@ -1,10 +1,10 @@
 # engineerapart/TheRemoteFreelancer - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 410
 
-★ Stars: 6781
+★ Stars: 6782
 
 [Open repository](https://github.com/engineerapart/TheRemoteFreelancer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6782 | 410 | 
 | 2023-03-20 | 6781 | 410 | 
 | 2023-03-19 | 6781 | 409 | 
 | 2023-03-18 | 6782 | 409 | 

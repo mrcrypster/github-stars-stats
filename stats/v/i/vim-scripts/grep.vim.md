@@ -1,6 +1,6 @@
 # vim-scripts/grep.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 56 | 12 | 
 | 2023-03-19 | 56 | 12 | 
 | 2023-03-18 | 56 | 12 | 
 | 2023-03-17 | 56 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 57 | 12 | 
 | 2023-02-21 | 57 | 12 | 
 | 2023-02-20 | 57 | 12 | 
-| 2023-02-19 | 57 | 12 | 
 

@@ -1,6 +1,6 @@
 # ese-msc/irp-template - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | - | 8 | 
 | 2023-03-19 | - | 8 | 
 | 2023-03-18 | - | 8 | 
 | 2023-03-17 | - | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | - | 8 | 
 | 2023-02-22 | - | 8 | 
 | 2023-02-21 | - | 8 | 
-| 2023-02-19 | - | 8 | 
 

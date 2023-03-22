@@ -1,10 +1,10 @@
 # openSUSE/obs-build - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 168
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/openSUSE/obs-build)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 127 | 168 | 
 | 2023-03-19 | 126 | 168 | 
 | 2023-03-18 | 133 | 168 | 
 | 2023-03-17 | 133 | 168 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 145 | 165 | 
 | 2023-02-22 | 145 | 165 | 
 | 2023-02-21 | 145 | 165 | 
-| 2023-02-19 | 145 | 165 | 
 

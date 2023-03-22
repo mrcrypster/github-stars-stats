@@ -1,8 +1,8 @@
 # NaiboWang/EasySpider - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 147
+☋ Forks: 153
 
 ★ Stars: 1719
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1719 | 153 | 
 | 2023-03-20 | 1719 | 147 | 
 | 2023-03-18 | 1718 | 144 | 
 | 2023-03-17 | 1704 | 138 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 1362 | 119 | 
 | 2023-02-21 | 1332 | 119 | 
 | 2023-02-20 | 1300 | 119 | 
-| 2023-02-19 | 1276 | 119 | 
 

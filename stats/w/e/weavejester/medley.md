@@ -1,10 +1,10 @@
 # weavejester/medley - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 63
+☋ Forks: 62
 
-★ Stars: 777
+★ Stars: 779
 
 [Open repository](https://github.com/weavejester/medley)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 779 | 62 | 
 | 2023-03-19 | 777 | 63 | 
 | 2023-03-18 | 778 | 63 | 
 | 2023-03-17 | 778 | 63 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 768 | 60 | 
 | 2023-02-21 | 768 | 60 | 
 | 2023-02-20 | 768 | 60 | 
-| 2023-02-19 | 769 | 60 | 
 

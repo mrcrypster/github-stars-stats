@@ -1,6 +1,6 @@
 # Aselya2507/team4-project - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | - | 7 | 
 | 2023-03-20 | - | 7 | 
 | 2023-03-18 | - | 7 | 
 | 2023-03-17 | - | 7 | 

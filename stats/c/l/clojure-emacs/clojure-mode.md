@@ -1,6 +1,6 @@
 # clojure-emacs/clojure-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 240
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 872 | 240 | 
+| 2023-03-21 | 872 | 240 | 
 | 2023-03-20 | 872 | 240 | 
 | 2023-03-18 | 872 | 240 | 
 | 2023-03-17 | 872 | 240 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 872 | 239 | 
 | 2023-02-21 | 872 | 239 | 
 | 2023-02-20 | 872 | 239 | 
-| 2023-02-19 | 872 | 239 | 
 

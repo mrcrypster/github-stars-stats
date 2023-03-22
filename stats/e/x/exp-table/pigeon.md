@@ -1,6 +1,6 @@
 # exp-table/pigeon - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 87 | 2 | 
 | 2023-03-19 | 87 | 2 | 
 | 2023-03-18 | 86 | 2 | 
 | 2023-03-17 | 86 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 85 | 2 | 
 | 2023-02-21 | 85 | 2 | 
 | 2023-02-20 | 85 | 2 | 
-| 2023-02-19 | 85 | 2 | 
 

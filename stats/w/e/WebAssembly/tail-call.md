@@ -1,6 +1,6 @@
 # WebAssembly/tail-call - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 92 | 13 | 
 | 2023-03-19 | 92 | 13 | 
 | 2023-03-18 | 92 | 13 | 
 | 2023-03-17 | 92 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 92 | 13 | 
 | 2023-02-22 | 92 | 13 | 
 | 2023-02-21 | 92 | 13 | 
-| 2023-02-19 | 92 | 13 | 
 

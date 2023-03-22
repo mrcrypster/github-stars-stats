@@ -1,6 +1,6 @@
 # DeekshithSN/Jenkins - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | 153 | 
 | 2023-03-19 | 11 | 153 | 
 | 2023-03-18 | 11 | 152 | 
 | 2023-03-17 | 11 | 152 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 11 | 148 | 
 | 2023-02-21 | 11 | 148 | 
 | 2023-02-20 | 11 | 148 | 
-| 2023-02-19 | 11 | 148 | 
 

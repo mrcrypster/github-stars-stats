@@ -1,10 +1,10 @@
 # sameoldlab/anvil-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/sameoldlab/anvil-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 23 | - | 
 | 2023-03-20 | 22 | - | 
 | 2023-03-19 | 22 | - | 
 | 2023-03-18 | 22 | - | 

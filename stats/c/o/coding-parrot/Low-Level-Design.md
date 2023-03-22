@@ -1,6 +1,6 @@
 # coding-parrot/Low-Level-Design - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 308
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 778 | 308 | 
 | 2023-03-19 | 778 | 308 | 
 | 2023-03-18 | 778 | 308 | 
 | 2023-03-17 | 778 | 308 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 769 | 301 | 
 | 2023-02-22 | 769 | 301 | 
 | 2023-02-21 | 769 | 300 | 
-| 2023-02-20 | 768 | 300 | 
 

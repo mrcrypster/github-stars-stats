@@ -1,10 +1,10 @@
 # Tercioo/Details-Damage-Meter - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 89
+☋ Forks: 87
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/Tercioo/Details-Damage-Meter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 140 | 87 | 
 | 2023-03-19 | 139 | 89 | 
 | 2023-03-18 | 138 | 89 | 
 | 2023-03-17 | 138 | 89 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 139 | 89 | 
 | 2023-02-21 | 139 | 89 | 
 | 2023-02-20 | 139 | 89 | 
-| 2023-02-19 | 138 | 89 | 
 

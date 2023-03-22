@@ -1,10 +1,10 @@
 # gureum/gureum - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 123
 
-★ Stars: 764
+★ Stars: 765
 
 [Open repository](https://github.com/gureum/gureum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 765 | 123 | 
 | 2023-03-20 | 764 | 123 | 
 | 2023-03-19 | 764 | 123 | 
 | 2023-03-18 | 764 | 123 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 763 | 123 | 
 | 2023-02-21 | 763 | 123 | 
 | 2023-02-20 | 763 | 123 | 
-| 2023-02-19 | 763 | 123 | 
 

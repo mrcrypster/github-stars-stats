@@ -1,10 +1,10 @@
 # ed-roh/chat-app - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 67
+★ Stars: 70
 
 [Open repository](https://github.com/ed-roh/chat-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 70 | 42 | 
 | 2023-03-20 | 67 | 41 | 
 | 2023-03-19 | 63 | 39 | 
 | 2023-03-18 | 59 | 35 | 

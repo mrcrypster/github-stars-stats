@@ -1,8 +1,8 @@
 # Icinga/puppet-icingaweb2 - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 96
+☋ Forks: 95
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 32 | 95 | 
 | 2023-03-19 | 32 | 96 | 
 | 2023-03-18 | 32 | 96 | 
 | 2023-03-17 | 32 | 96 | 

@@ -1,6 +1,6 @@
 # Nivanchenko/formhelper - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 22 | 5 | 
 | 2023-03-19 | 22 | 5 | 
 | 2023-03-18 | 21 | 5 | 
 | 2023-03-16 | 21 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 20 | 5 | 
 | 2023-02-22 | 20 | 5 | 
 | 2023-02-21 | 20 | 5 | 
-| 2023-02-19 | 20 | 5 | 
 

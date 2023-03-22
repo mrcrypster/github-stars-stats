@@ -1,6 +1,6 @@
 # lakinduakash/linux-wifi-hotspot - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1793 | 201 | 
 | 2023-03-20 | 1793 | 201 | 
 | 2023-03-19 | 1788 | 200 | 
 | 2023-03-17 | 1786 | 199 | 

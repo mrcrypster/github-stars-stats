@@ -1,10 +1,10 @@
 # w3tecch/express-typescript-boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 799
 
-★ Stars: 2898
+★ Stars: 2899
 
 [Open repository](https://github.com/w3tecch/express-typescript-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2899 | 799 | 
 | 2023-03-20 | 2898 | 799 | 
 | 2023-03-19 | 2894 | 797 | 
 | 2023-03-18 | 2894 | 797 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2859 | 793 | 
 | 2023-02-21 | 2859 | 793 | 
 | 2023-02-20 | 2858 | 793 | 
-| 2023-02-19 | 2856 | 793 | 
 

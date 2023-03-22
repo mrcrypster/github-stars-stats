@@ -1,10 +1,10 @@
 # marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 17
+☋ Forks: 21
 
-★ Stars: 25
+★ Stars: 42
 
 [Open repository](https://github.com/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 42 | 21 | 
 | 2023-03-20 | 25 | 17 | 
 

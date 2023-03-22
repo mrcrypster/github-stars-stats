@@ -1,10 +1,10 @@
 # limbopro/paolujichang - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 19
 
-★ Stars: 852
+★ Stars: 858
 
 [Open repository](https://github.com/limbopro/paolujichang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 858 | 19 | 
 | 2023-03-20 | 852 | 19 | 
 | 2023-03-19 | 849 | 19 | 
 | 2023-03-17 | 843 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 764 | 17 | 
 | 2023-02-22 | 760 | 17 | 
 | 2023-02-21 | 758 | 17 | 
-| 2023-02-19 | 757 | 17 | 
 

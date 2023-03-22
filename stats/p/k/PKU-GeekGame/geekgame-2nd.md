@@ -1,10 +1,10 @@
 # PKU-GeekGame/geekgame-2nd - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 5
 
-★ Stars: 46
+★ Stars: 51
 
 [Open repository](https://github.com/PKU-GeekGame/geekgame-2nd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 51 | 5 | 
 | 2023-03-20 | 46 | 5 | 
 | 2023-03-19 | 46 | 5 | 
 | 2023-03-18 | 46 | 5 | 

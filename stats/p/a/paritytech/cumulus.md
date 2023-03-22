@@ -1,10 +1,10 @@
 # paritytech/cumulus - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 386
 
-★ Stars: 574
+★ Stars: 575
 
 [Open repository](https://github.com/paritytech/cumulus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 575 | 386 | 
 | 2023-03-19 | 574 | 386 | 
 | 2023-03-18 | 574 | 386 | 
 | 2023-03-17 | 574 | 386 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 563 | 368 | 
 | 2023-02-21 | 563 | 368 | 
 | 2023-02-20 | 562 | 364 | 
-| 2023-02-19 | 562 | 362 | 
 

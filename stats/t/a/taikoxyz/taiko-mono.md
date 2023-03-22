@@ -1,10 +1,10 @@
 # taikoxyz/taiko-mono - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 202
+☋ Forks: 204
 
-★ Stars: 374
+★ Stars: 379
 
 [Open repository](https://github.com/taikoxyz/taiko-mono)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 379 | 204 | 
 | 2023-03-19 | 374 | 202 | 
 | 2023-03-18 | 372 | 202 | 
 | 2023-03-17 | 365 | 200 | 

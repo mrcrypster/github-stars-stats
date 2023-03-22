@@ -1,8 +1,8 @@
 # appdev-projects/refactoring-msm-queries-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 723
+☋ Forks: 725
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | - | 725 | 
 | 2023-03-20 | - | 723 | 
 | 2023-03-19 | - | 723 | 
 | 2023-03-17 | - | 722 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | - | 712 | 
 | 2023-02-21 | - | 710 | 
 | 2023-02-20 | - | 705 | 
-| 2023-02-19 | - | 702 | 
 

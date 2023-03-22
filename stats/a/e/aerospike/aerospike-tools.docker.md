@@ -1,6 +1,6 @@
 # aerospike/aerospike-tools.docker - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 18 | 13 | 
 | 2023-03-19 | 18 | 13 | 
 | 2023-03-18 | 18 | 13 | 
 | 2023-03-16 | 18 | 13 | 

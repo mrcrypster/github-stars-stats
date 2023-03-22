@@ -1,10 +1,10 @@
 # RareSkills/Solidity-Exercises - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/RareSkills/Solidity-Exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 20 | 2 | 
 | 2023-03-19 | 19 | 2 | 
 | 2023-03-18 | 19 | 2 | 
 | 2023-03-16 | 19 | 2 | 

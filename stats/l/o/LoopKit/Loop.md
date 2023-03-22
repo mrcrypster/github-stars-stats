@@ -1,10 +1,10 @@
 # LoopKit/Loop - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1182
 
-★ Stars: 1175
+★ Stars: 1179
 
 [Open repository](https://github.com/LoopKit/Loop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1179 | 1182 | 
 | 2023-03-20 | 1175 | 1182 | 
 | 2023-03-19 | 1173 | 1182 | 
 | 2023-03-18 | 1170 | 1181 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 1158 | 1180 | 
 | 2023-02-21 | 1157 | 1180 | 
 | 2023-02-20 | 1157 | 1178 | 
-| 2023-02-19 | 1157 | 1177 | 
 

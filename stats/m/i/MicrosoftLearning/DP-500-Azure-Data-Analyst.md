@@ -1,6 +1,6 @@
 # MicrosoftLearning/DP-500-Azure-Data-Analyst - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 52 | 58 | 
 | 2023-03-20 | 52 | 58 | 
 | 2023-03-19 | 52 | 57 | 
 | 2023-03-17 | 52 | 57 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 51 | 47 | 
 | 2023-02-22 | 49 | 47 | 
 | 2023-02-21 | 49 | 47 | 
-| 2023-02-19 | 49 | 47 | 
 

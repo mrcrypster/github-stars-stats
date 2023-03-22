@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 21
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 65
+★ Stars: 73
 
 [Open repository](https://github.com/lyr408/MobileCyberSecurity)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 65 | 18 | 
+| 2023-03-21 | 73 | 19 | 
 | 2023-03-20 | 64 | 18 | 
 

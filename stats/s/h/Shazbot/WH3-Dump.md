@@ -1,6 +1,6 @@
 # Shazbot/WH3-Dump - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5 | 16 | 
 | 2023-03-20 | 5 | 16 | 
 | 2023-03-19 | 5 | 16 | 
 | 2023-03-17 | 5 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 5 | 15 | 
 | 2023-02-22 | 5 | 15 | 
 | 2023-02-21 | 5 | 15 | 
-| 2023-02-19 | 5 | 15 | 
 

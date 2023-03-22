@@ -1,10 +1,10 @@
 # SmritiChawla/Precily - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 11
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/SmritiChawla/Precily)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 13 | 11 | 
 | 2023-03-19 | 12 | 11 | 
 | 2023-03-18 | 12 | 11 | 
 | 2023-03-16 | 12 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 11 | 11 | 
 | 2023-02-22 | 11 | 11 | 
 | 2023-02-21 | 11 | 11 | 
-| 2023-02-19 | 11 | 11 | 
 

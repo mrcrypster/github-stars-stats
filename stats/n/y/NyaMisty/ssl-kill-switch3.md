@@ -1,10 +1,10 @@
 # NyaMisty/ssl-kill-switch3 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 6
 
-★ Stars: 84
+★ Stars: 87
 
 [Open repository](https://github.com/NyaMisty/ssl-kill-switch3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 87 | 6 | 
 | 2023-03-20 | 84 | 6 | 
 | 2023-03-18 | 84 | 6 | 
 | 2023-03-17 | 83 | 6 | 

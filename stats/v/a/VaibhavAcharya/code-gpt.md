@@ -1,10 +1,10 @@
 # VaibhavAcharya/code-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 24
 
-★ Stars: 284
+★ Stars: 286
 
 [Open repository](https://github.com/VaibhavAcharya/code-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 286 | 24 | 
 | 2023-03-20 | 284 | 24 | 
 | 2023-03-19 | 283 | 24 | 
 | 2023-03-18 | 282 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 245 | 22 | 
 | 2023-02-21 | 243 | 22 | 
 | 2023-02-20 | 241 | 22 | 
-| 2023-02-19 | 236 | 20 | 
 

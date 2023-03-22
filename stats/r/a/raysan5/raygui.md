@@ -1,10 +1,10 @@
 # raysan5/raygui - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 205
 
-★ Stars: 2093
+★ Stars: 2094
 
 [Open repository](https://github.com/raysan5/raygui)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2094 | 205 | 
 | 2023-03-20 | 2093 | 205 | 
 

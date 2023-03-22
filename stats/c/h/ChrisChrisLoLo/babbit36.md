@@ -1,10 +1,10 @@
 # ChrisChrisLoLo/babbit36 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/ChrisChrisLoLo/babbit36)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 14 | - | 
 | 2023-03-20 | 13 | - | 
 | 2023-03-19 | 13 | - | 
 | 2023-03-18 | 13 | - | 

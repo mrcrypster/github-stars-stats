@@ -1,10 +1,10 @@
 # nvim-neo-tree/neo-tree.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 102
+☋ Forks: 101
 
-★ Stars: 1331
+★ Stars: 1340
 
 [Open repository](https://github.com/nvim-neo-tree/neo-tree.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1340 | 101 | 
 | 2023-03-20 | 1331 | 102 | 
 | 2023-03-19 | 1328 | 102 | 
 | 2023-03-17 | 1321 | 103 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 1216 | 96 | 
 | 2023-02-21 | 1209 | 96 | 
 | 2023-02-20 | 1204 | 94 | 
-| 2023-02-19 | 1194 | 95 | 
 

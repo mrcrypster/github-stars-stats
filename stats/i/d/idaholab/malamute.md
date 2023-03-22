@@ -1,8 +1,8 @@
 # idaholab/malamute - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2 | 6 | 
 | 2023-03-20 | 2 | 5 | 
 | 2023-03-19 | 2 | 5 | 
 | 2023-03-18 | 2 | 5 | 

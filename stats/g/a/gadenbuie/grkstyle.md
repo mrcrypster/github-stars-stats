@@ -1,6 +1,6 @@
 # gadenbuie/grkstyle - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 80 | 12 | 
 | 2023-03-19 | 80 | 12 | 
 | 2023-03-18 | 80 | 12 | 
 | 2023-03-16 | 80 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 80 | 12 | 
 | 2023-02-22 | 80 | 12 | 
 | 2023-02-21 | 80 | 12 | 
-| 2023-02-19 | 80 | 12 | 
 

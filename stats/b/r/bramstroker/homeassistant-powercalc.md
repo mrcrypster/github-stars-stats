@@ -1,8 +1,8 @@
 # bramstroker/homeassistant-powercalc - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 168
+☋ Forks: 169
 
 ★ Stars: 639
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 639 | 169 | 
 | 2023-03-19 | 639 | 168 | 
 | 2023-03-18 | 639 | 167 | 
 | 2023-03-16 | 638 | 167 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 628 | 163 | 
 | 2023-02-22 | 628 | 163 | 
 | 2023-02-21 | 627 | 163 | 
-| 2023-02-19 | 625 | 162 | 
 

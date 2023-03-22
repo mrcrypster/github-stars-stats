@@ -1,10 +1,10 @@
 # KTruong008/aichatbestie - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/KTruong008/aichatbestie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 28 | 4 | 
 | 2023-03-20 | 27 | 4 | 
 | 2023-03-19 | 27 | 4 | 
 | 2023-03-18 | 24 | 4 | 

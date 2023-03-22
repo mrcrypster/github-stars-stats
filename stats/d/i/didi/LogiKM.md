@@ -1,10 +1,10 @@
 # didi/LogiKM - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1132
+☋ Forks: 1133
 
-★ Stars: 5902
+★ Stars: 5911
 
 [Open repository](https://github.com/didi/LogiKM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5911 | 1133 | 
 | 2023-03-20 | 5902 | 1132 | 
 | 2023-03-19 | 5898 | 1131 | 
 | 2023-03-18 | 5897 | 1131 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 5810 | 1106 | 
 | 2023-02-21 | 5807 | 1106 | 
 | 2023-02-20 | 5803 | 1105 | 
-| 2023-02-19 | 5799 | 1105 | 
 

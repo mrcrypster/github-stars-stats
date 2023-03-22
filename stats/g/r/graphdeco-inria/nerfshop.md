@@ -1,10 +1,10 @@
 # graphdeco-inria/nerfshop - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 209
+★ Stars: 221
 
 [Open repository](https://github.com/graphdeco-inria/nerfshop)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 221 | 7 | 
+| 2023-03-21 | 221 | 7 | 
 | 2023-03-20 | 209 | 6 | 
 | 2023-03-19 | 194 | 6 | 
 | 2023-03-18 | 191 | 6 | 

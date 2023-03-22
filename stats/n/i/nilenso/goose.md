@@ -1,10 +1,10 @@
 # nilenso/goose - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 172
+★ Stars: 171
 
 [Open repository](https://github.com/nilenso/goose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 171 | 4 | 
 | 2023-03-20 | 172 | 4 | 
 | 2023-03-19 | 172 | 4 | 
 | 2023-03-17 | 172 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 172 | 4 | 
 | 2023-02-21 | 172 | 4 | 
 | 2023-02-20 | 172 | 4 | 
-| 2023-02-19 | 172 | 4 | 
 

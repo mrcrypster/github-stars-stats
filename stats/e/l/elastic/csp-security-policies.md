@@ -1,10 +1,10 @@
 # elastic/csp-security-policies - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 14
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/elastic/csp-security-policies)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 26 | 14 | 
 | 2023-03-20 | 25 | 14 | 
 | 2023-03-19 | 25 | 14 | 
 | 2023-03-18 | 25 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 24 | 14 | 
 | 2023-02-22 | 24 | 14 | 
 | 2023-02-21 | 24 | 14 | 
-| 2023-02-20 | 24 | 14 | 
 

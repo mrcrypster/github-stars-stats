@@ -1,10 +1,10 @@
 # Bastian/dapper-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/Bastian/dapper-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 33 | - | 
 | 2023-03-20 | 32 | - | 
 | 2023-03-19 | 32 | - | 
 | 2023-03-18 | 32 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 27 | - | 
 | 2023-02-21 | 26 | - | 
 | 2023-02-20 | 26 | - | 
-| 2023-02-19 | 26 | - | 
 

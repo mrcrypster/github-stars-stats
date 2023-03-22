@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 21
 
 ☋ Forks: 584
 
-★ Stars: 4971
+★ Stars: 4972
 
 [Open repository](https://github.com/fpillet/NSLogger)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 4971 | 584 | 
+| 2023-03-21 | 4972 | 584 | 
 | 2023-03-20 | 4971 | 584 | 
 | 2023-03-19 | 4972 | 584 | 
 | 2023-03-18 | 4973 | 584 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-22 | 4968 | 585 | 
 | 2023-02-21 | 4969 | 585 | 
 | 2023-02-20 | 4969 | 585 | 
-| 2023-02-19 | 4969 | 585 | 
 

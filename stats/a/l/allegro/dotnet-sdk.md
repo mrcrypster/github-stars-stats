@@ -1,8 +1,8 @@
 # allegro/dotnet-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | 3 | 
 | 2023-03-20 | 11 | 2 | 
 | 2023-03-19 | 11 | 2 | 
 | 2023-03-18 | 11 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 11 | 1 | 
 | 2023-02-22 | 11 | 1 | 
 | 2023-02-21 | 11 | 1 | 
-| 2023-02-19 | 11 | 1 | 
 

@@ -1,8 +1,8 @@
 # cmcntsh/stats2021_exer_simpleRegression - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 31
+☋ Forks: 34
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | - | 34 | 
 | 2023-03-20 | - | 31 | 
 | 2023-03-19 | - | 29 | 
 | 2023-03-18 | - | 26 | 

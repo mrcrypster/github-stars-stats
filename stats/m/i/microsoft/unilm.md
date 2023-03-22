@@ -1,10 +1,10 @@
 # microsoft/unilm - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1687
+☋ Forks: 1694
 
-★ Stars: 11192
+★ Stars: 11229
 
 [Open repository](https://github.com/microsoft/unilm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11229 | 1694 | 
 | 2023-03-19 | 11192 | 1687 | 
 | 2023-03-18 | 11146 | 1684 | 
 | 2023-03-17 | 11106 | 1681 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 8907 | 1544 | 
 | 2023-02-22 | 8892 | 1540 | 
 | 2023-02-21 | 8869 | 1535 | 
-| 2023-02-19 | 8858 | 1529 | 
 

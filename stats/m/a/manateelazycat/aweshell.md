@@ -1,10 +1,10 @@
 # manateelazycat/aweshell - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 36
 
-★ Stars: 391
+★ Stars: 392
 
 [Open repository](https://github.com/manateelazycat/aweshell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 392 | 36 | 
 | 2023-03-20 | 391 | 36 | 
 | 2023-03-18 | 391 | 36 | 
 | 2023-03-17 | 391 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 388 | 34 | 
 | 2023-02-21 | 388 | 34 | 
 | 2023-02-20 | 388 | 34 | 
-| 2023-02-19 | 388 | 34 | 
 

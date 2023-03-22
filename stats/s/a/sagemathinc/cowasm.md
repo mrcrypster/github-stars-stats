@@ -1,10 +1,10 @@
 # sagemathinc/cowasm - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 12
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/sagemathinc/cowasm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 358 | 12 | 
 | 2023-03-20 | 357 | 12 | 
 | 2023-03-18 | 357 | 12 | 
 | 2023-03-17 | 356 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 347 | 12 | 
 | 2023-02-22 | 347 | 12 | 
 | 2023-02-20 | 346 | 12 | 
-| 2023-02-19 | 345 | 12 | 
 

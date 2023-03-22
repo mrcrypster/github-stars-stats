@@ -1,6 +1,6 @@
 # ballerina-platform/module-ballerinax-azure.eventhub - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2 | 16 | 
 | 2023-03-20 | 2 | 16 | 
 | 2023-03-19 | 2 | 16 | 
 | 2023-03-18 | 2 | 16 | 

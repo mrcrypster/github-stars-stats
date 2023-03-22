@@ -1,10 +1,10 @@
 # krizzsk/HackersCave4StaticAndroidSec - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/krizzsk/HackersCave4StaticAndroidSec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 96 | 13 | 
 | 2023-03-20 | 95 | 13 | 
 | 2023-03-19 | 94 | 13 | 
 | 2023-03-17 | 93 | 13 | 

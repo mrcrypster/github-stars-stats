@@ -1,10 +1,10 @@
 # typoes/harry-potter-gen-z - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 114
 
-★ Stars: 435
+★ Stars: 437
 
 [Open repository](https://github.com/typoes/harry-potter-gen-z)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 437 | 114 | 
 | 2023-03-19 | 435 | 114 | 
 | 2023-03-18 | 434 | 114 | 
 | 2023-03-16 | 434 | 114 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 431 | 113 | 
 | 2023-02-21 | 431 | 113 | 
 | 2023-02-20 | 429 | 113 | 
-| 2023-02-19 | 429 | 113 | 
 

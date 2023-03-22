@@ -1,10 +1,10 @@
 # getsentry/sentry-dart - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 168
 
-★ Stars: 617
+★ Stars: 618
 
 [Open repository](https://github.com/getsentry/sentry-dart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 618 | 168 | 
 | 2023-03-19 | 617 | 168 | 
 | 2023-03-18 | 617 | 168 | 
 | 2023-03-17 | 617 | 168 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 614 | 167 | 
 | 2023-02-21 | 614 | 167 | 
 | 2023-02-20 | 615 | 167 | 
-| 2023-02-19 | 615 | 166 | 
 

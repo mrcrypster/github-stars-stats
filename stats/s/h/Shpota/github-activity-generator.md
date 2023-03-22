@@ -1,6 +1,6 @@
 # Shpota/github-activity-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 630 | 59 | 
 | 2023-03-20 | 630 | 59 | 
 | 2023-03-19 | 628 | 59 | 
 | 2023-03-17 | 627 | 60 | 

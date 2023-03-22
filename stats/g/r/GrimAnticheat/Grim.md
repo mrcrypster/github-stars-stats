@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 21
 
 ☋ Forks: 159
 
-★ Stars: 587
+★ Stars: 588
 
 [Open repository](https://github.com/GrimAnticheat/Grim)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 587 | 159 | 
+| 2023-03-21 | 588 | 159 | 
 | 2023-03-20 | 587 | 160 | 
 | 2023-03-18 | 582 | 157 | 
 | 2023-03-17 | 580 | 156 | 

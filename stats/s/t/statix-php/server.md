@@ -1,6 +1,6 @@
 # statix-php/server - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 114 | 1 | 
 | 2023-03-19 | 114 | 1 | 
 | 2023-03-18 | 114 | 1 | 
 | 2023-03-17 | 114 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 113 | 1 | 
 | 2023-02-22 | 113 | 1 | 
 | 2023-02-21 | 113 | 1 | 
-| 2023-02-19 | 113 | 1 | 
 

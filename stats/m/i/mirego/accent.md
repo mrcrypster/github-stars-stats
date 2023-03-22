@@ -1,10 +1,10 @@
 # mirego/accent - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 78
 
-★ Stars: 922
+★ Stars: 923
 
 [Open repository](https://github.com/mirego/accent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 923 | 78 | 
 | 2023-03-20 | 922 | 78 | 
 | 2023-03-19 | 922 | 78 | 
 | 2023-03-18 | 922 | 78 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 918 | 76 | 
 | 2023-02-21 | 918 | 75 | 
 | 2023-02-20 | 916 | 75 | 
-| 2023-02-19 | 916 | 75 | 
 

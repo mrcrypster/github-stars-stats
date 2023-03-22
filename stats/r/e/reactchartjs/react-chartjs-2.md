@@ -1,10 +1,10 @@
 # reactchartjs/react-chartjs-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1358
+☋ Forks: 1360
 
-★ Stars: 5753
+★ Stars: 5755
 
 [Open repository](https://github.com/reactchartjs/react-chartjs-2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5755 | 1360 | 
 | 2023-03-20 | 5753 | 1358 | 
 | 2023-03-18 | 5750 | 1356 | 
 | 2023-03-17 | 5748 | 1351 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 5703 | 1325 | 
 | 2023-02-21 | 5700 | 1326 | 
 | 2023-02-20 | 5700 | 1324 | 
-| 2023-02-19 | 5697 | 1323 | 
 

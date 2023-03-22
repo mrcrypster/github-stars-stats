@@ -1,10 +1,10 @@
 # softwaremill/sttp - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 260
+☋ Forks: 262
 
-★ Stars: 1341
+★ Stars: 1342
 
 [Open repository](https://github.com/softwaremill/sttp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1342 | 262 | 
 | 2023-03-20 | 1341 | 260 | 
 | 2023-03-18 | 1341 | 260 | 
 | 2023-03-17 | 1339 | 260 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 1330 | 256 | 
 | 2023-02-21 | 1329 | 256 | 
 | 2023-02-20 | 1328 | 256 | 
-| 2023-02-19 | 1328 | 256 | 
 

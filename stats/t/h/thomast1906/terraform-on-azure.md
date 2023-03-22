@@ -1,10 +1,10 @@
 # thomast1906/terraform-on-azure - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 41
+★ Stars: 44
 
 [Open repository](https://github.com/thomast1906/terraform-on-azure)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 44 | 22 | 
 | 2023-03-20 | 41 | 21 | 
 | 2023-03-19 | 39 | 20 | 
 | 2023-03-17 | 39 | 20 | 

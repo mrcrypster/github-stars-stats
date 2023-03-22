@@ -1,10 +1,10 @@
 # cssxsh/fix-protocol-version - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 81
+★ Stars: 86
 
 [Open repository](https://github.com/cssxsh/fix-protocol-version)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 86 | 4 | 
 | 2023-03-20 | 81 | 4 | 
 | 2023-03-18 | 74 | 4 | 
 | 2023-03-17 | 71 | 4 | 

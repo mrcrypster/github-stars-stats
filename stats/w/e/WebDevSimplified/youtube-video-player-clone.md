@@ -1,10 +1,10 @@
 # WebDevSimplified/youtube-video-player-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 76
 
-★ Stars: 123
+★ Stars: 122
 
 [Open repository](https://github.com/WebDevSimplified/youtube-video-player-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 122 | 76 | 
 | 2023-03-20 | 123 | 76 | 
 | 2023-03-19 | 123 | 76 | 
 | 2023-03-18 | 123 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 117 | 70 | 
 | 2023-02-22 | 117 | 70 | 
 | 2023-02-21 | 117 | 70 | 
-| 2023-02-20 | 117 | 70 | 
 

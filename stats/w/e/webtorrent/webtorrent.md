@@ -1,10 +1,10 @@
 # webtorrent/webtorrent - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2675
 
-★ Stars: 27655
+★ Stars: 27661
 
 [Open repository](https://github.com/webtorrent/webtorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 27661 | 2675 | 
 | 2023-03-20 | 27655 | 2675 | 
 | 2023-03-19 | 27651 | 2674 | 
 | 2023-03-17 | 27643 | 2674 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 27549 | 2669 | 
 | 2023-02-22 | 27546 | 2669 | 
 | 2023-02-21 | 27536 | 2668 | 
-| 2023-02-19 | 27528 | 2667 | 
 

@@ -1,6 +1,6 @@
 # BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2698 | 356 | 
 | 2023-03-19 | 2698 | 356 | 
 | 2023-03-18 | 2698 | 355 | 
 | 2023-03-17 | 2697 | 355 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 2676 | 353 | 
 | 2023-02-21 | 2675 | 353 | 
 | 2023-02-20 | 2674 | 353 | 
-| 2023-02-19 | 2671 | 352 | 
 

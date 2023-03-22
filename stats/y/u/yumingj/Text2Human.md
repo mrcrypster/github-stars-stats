@@ -1,10 +1,10 @@
 # yumingj/Text2Human - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 60
 
-★ Stars: 606
+★ Stars: 607
 
 [Open repository](https://github.com/yumingj/Text2Human)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 607 | 60 | 
 | 2023-03-19 | 606 | 60 | 
 | 2023-03-18 | 604 | 59 | 
 | 2023-03-17 | 604 | 59 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 598 | 58 | 
 | 2023-02-21 | 598 | 58 | 
 | 2023-02-20 | 598 | 58 | 
-| 2023-02-19 | 597 | 58 | 
 

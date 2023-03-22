@@ -1,6 +1,6 @@
 # projen/projen - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 295
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1923 | 295 | 
 | 2023-03-20 | 1923 | 295 | 
 | 2023-03-18 | 1924 | 295 | 
 | 2023-03-17 | 1920 | 294 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 1892 | 289 | 
 | 2023-02-22 | 1888 | 289 | 
 | 2023-02-21 | 1888 | 289 | 
-| 2023-02-19 | 1887 | 289 | 
 

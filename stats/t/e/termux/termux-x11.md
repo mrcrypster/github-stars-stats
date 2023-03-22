@@ -1,8 +1,8 @@
 # termux/termux-x11 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 573
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 573 | 128 | 
 | 2023-03-20 | 573 | 127 | 
 | 2023-03-19 | 573 | 127 | 
 | 2023-03-17 | 566 | 125 | 

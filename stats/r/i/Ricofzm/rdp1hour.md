@@ -1,10 +1,8 @@
 # Ricofzm/rdp1hour - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+☋ Forks: 
 
-☋ Forks: 7
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/Ricofzm/rdp1hour)
 
@@ -13,5 +11,4 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | - | 7 | 
 

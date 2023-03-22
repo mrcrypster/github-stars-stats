@@ -1,10 +1,10 @@
 # Dress-backup/Dress - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/Dress-backup/Dress)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 42 | 13 | 
 | 2023-03-20 | 41 | 13 | 
 | 2023-03-19 | 40 | 13 | 
 | 2023-03-17 | 39 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 22 | 9 | 
 | 2023-02-21 | 22 | 9 | 
 | 2023-02-20 | 22 | 9 | 
-| 2023-02-19 | 22 | 9 | 
 

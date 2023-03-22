@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ec2-bastion-server - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 118 | 103 | 
 | 2023-03-20 | 118 | 103 | 
 | 2023-03-18 | 118 | 103 | 
 | 2023-03-17 | 118 | 103 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 118 | 104 | 
 | 2023-02-22 | 118 | 104 | 
 | 2023-02-20 | 118 | 104 | 
-| 2023-02-19 | 118 | 104 | 
 

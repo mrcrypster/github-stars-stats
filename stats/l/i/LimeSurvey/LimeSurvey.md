@@ -1,6 +1,6 @@
 # LimeSurvey/LimeSurvey - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 911
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2205 | 911 | 
 | 2023-03-19 | 2205 | 911 | 
 | 2023-03-18 | 2205 | 911 | 
 | 2023-03-17 | 2204 | 911 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 2186 | 904 | 
 | 2023-02-22 | 2184 | 904 | 
 | 2023-02-20 | 2182 | 903 | 
-| 2023-02-19 | 2179 | 903 | 
 

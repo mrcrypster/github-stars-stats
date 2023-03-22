@@ -1,10 +1,10 @@
 # lmaccherone/node-localstorage - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 38
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/lmaccherone/node-localstorage)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 410 | 38 | 
 | 2023-03-20 | 409 | 38 | 
 | 2023-03-19 | 409 | 38 | 
 | 2023-03-17 | 408 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 408 | 38 | 
 | 2023-02-21 | 408 | 38 | 
 | 2023-02-20 | 408 | 38 | 
-| 2023-02-19 | 408 | 38 | 
 

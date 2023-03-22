@@ -1,10 +1,10 @@
 # Gurobi/modeling-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 179
+☋ Forks: 180
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/Gurobi/modeling-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 323 | 180 | 
 | 2023-03-20 | 322 | 179 | 
 | 2023-03-19 | 322 | 179 | 
 | 2023-03-17 | 321 | 179 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 314 | 176 | 
 | 2023-02-22 | 314 | 176 | 
 | 2023-02-21 | 313 | 175 | 
-| 2023-02-20 | 313 | 175 | 
 

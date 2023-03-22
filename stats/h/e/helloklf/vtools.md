@@ -1,6 +1,6 @@
 # helloklf/vtools - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 785 | 95 | 
 | 2023-03-19 | 785 | 95 | 
 | 2023-03-18 | 785 | 95 | 
 | 2023-03-17 | 785 | 94 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 768 | 90 | 
 | 2023-02-21 | 768 | 90 | 
 | 2023-02-20 | 766 | 90 | 
-| 2023-02-19 | 765 | 90 | 
 

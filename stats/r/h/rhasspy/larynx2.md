@@ -1,10 +1,10 @@
 # rhasspy/larynx2 - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 104
+★ Stars: 107
 
 [Open repository](https://github.com/rhasspy/larynx2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 107 | 13 | 
 | 2023-03-19 | 104 | 13 | 
 | 2023-03-18 | 101 | 13 | 
 | 2023-03-17 | 101 | 13 | 

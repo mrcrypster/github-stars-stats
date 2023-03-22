@@ -1,6 +1,6 @@
 # pulp-platform/scm - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2 | 5 | 
 | 2023-03-20 | 2 | 5 | 
 | 2023-03-19 | 2 | 5 | 
 | 2023-03-18 | 2 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2 | 5 | 
 | 2023-02-21 | 2 | 5 | 
 | 2023-02-20 | 2 | 5 | 
-| 2023-02-19 | 2 | 5 | 
 

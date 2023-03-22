@@ -1,10 +1,10 @@
 # vueschool/laravel-backends-for-vuejs-3 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 11
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/vueschool/laravel-backends-for-vuejs-3)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 9 | 11 | 
 | 2023-03-20 | 8 | 11 | 
 

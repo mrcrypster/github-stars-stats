@@ -1,10 +1,10 @@
 # cleanlab/cleanlab - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 461
+☋ Forks: 462
 
-★ Stars: 5564
+★ Stars: 5572
 
 [Open repository](https://github.com/cleanlab/cleanlab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5572 | 462 | 
 | 2023-03-19 | 5564 | 461 | 
 | 2023-03-18 | 5562 | 461 | 
 | 2023-03-17 | 5552 | 460 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 5298 | 448 | 
 | 2023-02-21 | 5291 | 447 | 
 | 2023-02-20 | 5273 | 447 | 
-| 2023-02-19 | 5269 | 446 | 
 

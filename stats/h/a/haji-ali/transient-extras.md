@@ -1,10 +1,10 @@
 # haji-ali/transient-extras - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/haji-ali/transient-extras)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 33 | 4 | 
 | 2023-03-20 | 31 | 4 | 
 | 2023-03-19 | 28 | 4 | 
 | 2023-03-18 | 28 | 4 | 

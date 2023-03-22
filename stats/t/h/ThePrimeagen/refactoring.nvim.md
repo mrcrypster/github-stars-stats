@@ -1,10 +1,10 @@
 # ThePrimeagen/refactoring.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 63
 
-★ Stars: 1499
+★ Stars: 1501
 
 [Open repository](https://github.com/ThePrimeagen/refactoring.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1501 | 63 | 
 | 2023-03-19 | 1499 | 63 | 
 | 2023-03-18 | 1494 | 63 | 
 | 2023-03-17 | 1490 | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 1450 | 64 | 
 | 2023-02-22 | 1448 | 64 | 
 | 2023-02-21 | 1437 | 64 | 
-| 2023-02-20 | 1433 | 64 | 
 

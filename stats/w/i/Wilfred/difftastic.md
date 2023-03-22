@@ -1,10 +1,10 @@
 # Wilfred/difftastic - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 230
 
-★ Stars: 14450
+★ Stars: 14456
 
 [Open repository](https://github.com/Wilfred/difftastic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 14456 | 230 | 
 | 2023-03-19 | 14450 | 230 | 
 | 2023-03-18 | 14441 | 231 | 
 | 2023-03-16 | 14428 | 231 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 14306 | 229 | 
 | 2023-02-21 | 14301 | 230 | 
 | 2023-02-20 | 14296 | 230 | 
-| 2023-02-19 | 14290 | 230 | 
 

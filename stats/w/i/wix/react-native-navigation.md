@@ -1,8 +1,8 @@
 # wix/react-native-navigation - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2692
+☋ Forks: 2693
 
 ★ Stars: 12754
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 12754 | 2693 | 
 | 2023-03-20 | 12754 | 2692 | 
 | 2023-03-19 | 12752 | 2692 | 
 | 2023-03-17 | 12752 | 2692 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 12738 | 2695 | 
 | 2023-02-21 | 12737 | 2695 | 
 | 2023-02-20 | 12736 | 2695 | 
-| 2023-02-19 | 12736 | 2695 | 
 

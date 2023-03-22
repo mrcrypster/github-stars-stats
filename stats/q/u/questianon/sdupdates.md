@@ -1,10 +1,10 @@
 # questianon/sdupdates - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 19
 
-★ Stars: 460
+★ Stars: 462
 
 [Open repository](https://github.com/questianon/sdupdates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 462 | 19 | 
 | 2023-03-20 | 460 | 19 | 
 | 2023-03-18 | 459 | 19 | 
 | 2023-03-17 | 459 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 420 | 17 | 
 | 2023-02-21 | 420 | 17 | 
 | 2023-02-20 | 417 | 17 | 
-| 2023-02-19 | 417 | 17 | 
 

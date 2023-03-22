@@ -1,10 +1,10 @@
 # sifive/block-nvdla-sifive - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 29
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/sifive/block-nvdla-sifive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 38 | 29 | 
 | 2023-03-20 | 37 | 29 | 
 | 2023-03-19 | 37 | 29 | 
 | 2023-03-18 | 37 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 37 | 29 | 
 | 2023-02-22 | 37 | 29 | 
 | 2023-02-21 | 37 | 29 | 
-| 2023-02-19 | 37 | 29 | 
 

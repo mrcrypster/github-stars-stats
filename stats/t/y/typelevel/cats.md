@@ -1,10 +1,10 @@
 # typelevel/cats - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1213
 
-★ Stars: 4872
+★ Stars: 4873
 
 [Open repository](https://github.com/typelevel/cats)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4873 | 1213 | 
 | 2023-03-20 | 4872 | 1213 | 
 | 2023-03-19 | 4872 | 1212 | 
 | 2023-03-18 | 4872 | 1212 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 4858 | 1208 | 
 | 2023-02-21 | 4859 | 1208 | 
 | 2023-02-20 | 4859 | 1208 | 
-| 2023-02-19 | 4858 | 1208 | 
 

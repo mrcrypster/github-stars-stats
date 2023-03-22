@@ -1,10 +1,10 @@
 # raspberrypi/picoprobe - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 106
+☋ Forks: 107
 
-★ Stars: 364
+★ Stars: 366
 
 [Open repository](https://github.com/raspberrypi/picoprobe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 366 | 107 | 
 | 2023-03-20 | 364 | 106 | 
 | 2023-03-19 | 363 | 106 | 
 | 2023-03-18 | 361 | 106 | 

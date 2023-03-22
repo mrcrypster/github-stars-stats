@@ -1,6 +1,6 @@
 # Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 160
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 38 | 160 | 
+| 2023-03-21 | 38 | 160 | 
 | 2023-03-19 | 38 | 160 | 
 | 2023-03-18 | 38 | 160 | 
 | 2023-03-17 | 38 | 159 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 36 | 156 | 
 | 2023-02-22 | 36 | 156 | 
 | 2023-02-21 | 36 | 156 | 
-| 2023-02-19 | 36 | 156 | 
 

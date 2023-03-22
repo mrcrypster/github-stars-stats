@@ -1,10 +1,10 @@
 # SiJiDo/H - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 131
 
-★ Stars: 597
+★ Stars: 598
 
 [Open repository](https://github.com/SiJiDo/H)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 598 | 131 | 
 | 2023-03-20 | 597 | 131 | 
 | 2023-03-19 | 597 | 131 | 
 | 2023-03-17 | 595 | 131 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 589 | 125 | 
 | 2023-02-21 | 587 | 125 | 
 | 2023-02-20 | 586 | 125 | 
-| 2023-02-19 | 585 | 125 | 
 

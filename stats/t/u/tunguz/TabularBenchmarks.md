@@ -1,6 +1,6 @@
 # tunguz/TabularBenchmarks - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 170 | 20 | 
 | 2023-03-20 | 170 | 20 | 
 | 2023-03-18 | 170 | 20 | 
 | 2023-03-17 | 170 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 169 | 21 | 
 | 2023-02-22 | 168 | 21 | 
 | 2023-02-20 | 167 | 21 | 
-| 2023-02-19 | 167 | 21 | 
 

@@ -1,6 +1,6 @@
 # mikeshulman/ohtt - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 30 | 1 | 
 | 2023-03-19 | 30 | 1 | 
 | 2023-03-18 | 30 | 1 | 
 | 2023-03-17 | 30 | 1 | 

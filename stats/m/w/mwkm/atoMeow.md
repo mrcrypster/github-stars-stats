@@ -1,6 +1,6 @@
 # mwkm/atoMeow - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 142 | 15 | 
 | 2023-03-20 | 142 | 15 | 
 | 2023-03-18 | 142 | 15 | 
 | 2023-03-17 | 142 | 15 | 

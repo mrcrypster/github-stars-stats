@@ -1,6 +1,6 @@
 # github/hubot-scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1927
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3542 | 1927 | 
 | 2023-03-19 | 3542 | 1927 | 
 | 2023-03-18 | 3542 | 1927 | 
 | 2023-03-17 | 3542 | 1927 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 3542 | 1926 | 
 | 2023-02-22 | 3542 | 1926 | 
 | 2023-02-21 | 3542 | 1926 | 
-| 2023-02-19 | 3542 | 1927 | 
 

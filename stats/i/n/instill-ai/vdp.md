@@ -1,10 +1,10 @@
 # instill-ai/vdp - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 28
 
-★ Stars: 719
+★ Stars: 727
 
 [Open repository](https://github.com/instill-ai/vdp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 727 | 28 | 
 | 2023-03-20 | 719 | 28 | 
 | 2023-03-19 | 711 | 28 | 
 | 2023-03-18 | 711 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 688 | 26 | 
 | 2023-02-21 | 686 | 26 | 
 | 2023-02-20 | 686 | 26 | 
-| 2023-02-19 | 686 | 26 | 
 

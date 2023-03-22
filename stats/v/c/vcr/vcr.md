@@ -1,10 +1,10 @@
 # vcr/vcr - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 500
 
-★ Stars: 5541
+★ Stars: 5542
 
 [Open repository](https://github.com/vcr/vcr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5542 | 500 | 
 | 2023-03-19 | 5541 | 500 | 
 | 2023-03-18 | 5540 | 499 | 
 | 2023-03-17 | 5539 | 499 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 5525 | 499 | 
 | 2023-02-21 | 5524 | 499 | 
 | 2023-02-20 | 5523 | 499 | 
-| 2023-02-19 | 5523 | 499 | 
 

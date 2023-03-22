@@ -1,6 +1,6 @@
 # NVIDIA/nccl-tests - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 347 | 135 | 
 | 2023-03-20 | 347 | 135 | 
 | 2023-03-19 | 348 | 135 | 
 | 2023-03-18 | 348 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 334 | 133 | 
 | 2023-02-21 | 333 | 133 | 
 | 2023-02-20 | 333 | 133 | 
-| 2023-02-19 | 333 | 133 | 
 

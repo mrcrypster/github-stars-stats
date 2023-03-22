@@ -1,6 +1,6 @@
 # pixelated-noise/bb-dialog - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 30 | 4 | 
 | 2023-03-20 | 30 | 4 | 
 | 2023-03-18 | 30 | 4 | 
 | 2023-03-17 | 29 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 29 | 3 | 
 | 2023-02-22 | 29 | 2 | 
 | 2023-02-20 | 29 | 2 | 
-| 2023-02-19 | 28 | 2 | 
 

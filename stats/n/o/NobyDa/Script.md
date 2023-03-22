@@ -1,10 +1,10 @@
 # NobyDa/Script - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 3349
+☋ Forks: 3350
 
-★ Stars: 6887
+★ Stars: 6891
 
 [Open repository](https://github.com/NobyDa/Script)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6891 | 3350 | 
 | 2023-03-20 | 6887 | 3349 | 
 | 2023-03-18 | 6882 | 3349 | 
 | 2023-03-17 | 6877 | 3349 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 6808 | 3349 | 
 | 2023-02-21 | 6804 | 3348 | 
 | 2023-02-20 | 6805 | 3349 | 
-| 2023-02-19 | 6800 | 3348 | 
 

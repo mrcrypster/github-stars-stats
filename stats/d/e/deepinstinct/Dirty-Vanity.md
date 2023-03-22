@@ -1,6 +1,6 @@
 # deepinstinct/Dirty-Vanity - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 436 | 52 | 
 | 2023-03-20 | 436 | 52 | 
 | 2023-03-19 | 436 | 52 | 
 | 2023-03-17 | 436 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 426 | 51 | 
 | 2023-02-22 | 425 | 51 | 
 | 2023-02-21 | 424 | 51 | 
-| 2023-02-19 | 422 | 51 | 
 

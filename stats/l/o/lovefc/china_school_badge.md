@@ -1,10 +1,10 @@
 # lovefc/china_school_badge - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 17
 
-★ Stars: 409
+★ Stars: 411
 
 [Open repository](https://github.com/lovefc/china_school_badge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 411 | 17 | 
 | 2023-03-20 | 409 | 17 | 
 | 2023-03-18 | 409 | 17 | 
 | 2023-03-17 | 409 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 393 | 15 | 
 | 2023-02-22 | 393 | 15 | 
 | 2023-02-21 | 392 | 15 | 
-| 2023-02-19 | 392 | 15 | 
 

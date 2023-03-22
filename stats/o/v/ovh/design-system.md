@@ -1,10 +1,10 @@
 # ovh/design-system - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/ovh/design-system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 8 | - | 
 | 2023-03-19 | 7 | - | 
 | 2023-03-18 | 7 | - | 
 | 2023-03-17 | 7 | - | 

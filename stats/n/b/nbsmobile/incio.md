@@ -1,6 +1,6 @@
 # nbsmobile/incio - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 62 | 14 | 
 | 2023-03-19 | 62 | 14 | 
 | 2023-03-18 | 62 | 14 | 
 | 2023-03-17 | 61 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 51 | 13 | 
 | 2023-02-21 | 51 | 13 | 
 | 2023-02-20 | 50 | 13 | 
-| 2023-02-19 | 50 | 13 | 
 

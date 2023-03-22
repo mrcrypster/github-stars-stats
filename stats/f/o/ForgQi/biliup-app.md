@@ -1,6 +1,6 @@
 # ForgQi/biliup-app - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 708 | 44 | 
 | 2023-03-20 | 708 | 44 | 
 | 2023-03-19 | 707 | 44 | 
 | 2023-03-17 | 704 | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 678 | 40 | 
 | 2023-02-21 | 678 | 40 | 
 | 2023-02-20 | 677 | 40 | 
-| 2023-02-19 | 673 | 40 | 
 

@@ -1,6 +1,6 @@
 # buildspace/flow-nft-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 7 | 70 | 
 | 2023-03-20 | 7 | 70 | 
 | 2023-03-18 | 7 | 70 | 
 | 2023-03-17 | 7 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 7 | 69 | 
 | 2023-02-22 | 7 | 69 | 
 | 2023-02-20 | 7 | 67 | 
-| 2023-02-19 | 7 | 67 | 
 

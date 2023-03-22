@@ -1,10 +1,10 @@
 # flatpak/flatpak - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 367
 
-★ Stars: 3624
+★ Stars: 3626
 
 [Open repository](https://github.com/flatpak/flatpak)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3626 | 367 | 
 | 2023-03-19 | 3624 | 367 | 
 | 2023-03-18 | 3624 | 367 | 
 | 2023-03-17 | 3623 | 367 | 

@@ -1,10 +1,10 @@
 # antonhibl/gptai - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 6
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/antonhibl/gptai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 34 | 6 | 
 | 2023-03-19 | 33 | 6 | 
 | 2023-03-18 | 30 | 5 | 
 | 2023-03-17 | 26 | 5 | 

@@ -1,6 +1,6 @@
 # facebookresearch/hyperreel - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 351 | 22 | 
 | 2023-03-20 | 351 | 22 | 
 | 2023-03-19 | 350 | 22 | 
 | 2023-03-18 | 349 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 338 | 21 | 
 | 2023-02-22 | 337 | 21 | 
 | 2023-02-21 | 335 | 21 | 
-| 2023-02-19 | 333 | 21 | 
 

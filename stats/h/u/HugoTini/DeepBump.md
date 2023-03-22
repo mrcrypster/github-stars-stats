@@ -1,10 +1,10 @@
 # HugoTini/DeepBump - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 11
 
-★ Stars: 436
+★ Stars: 437
 
 [Open repository](https://github.com/HugoTini/DeepBump)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 437 | 11 | 
 | 2023-03-20 | 436 | 11 | 
 | 2023-03-19 | 433 | 11 | 
 | 2023-03-18 | 432 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 372 | 8 | 
 | 2023-02-21 | 367 | 7 | 
 | 2023-02-20 | 359 | 6 | 
-| 2023-02-19 | 357 | 6 | 
 

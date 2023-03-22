@@ -1,8 +1,8 @@
 # vgist/dockerfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 54
+☋ Forks: 55
 
 ★ Stars: 140
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 140 | 55 | 
 | 2023-03-19 | 140 | 54 | 
 | 2023-03-18 | 140 | 54 | 
 | 2023-03-16 | 140 | 54 | 

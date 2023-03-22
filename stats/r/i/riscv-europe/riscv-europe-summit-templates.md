@@ -1,8 +1,8 @@
 # riscv-europe/riscv-europe-summit-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3 | 6 | 
 | 2023-03-19 | 3 | 5 | 
 | 2023-03-18 | 3 | 5 | 
 | 2023-03-16 | 2 | 5 | 

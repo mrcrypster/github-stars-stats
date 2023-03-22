@@ -1,8 +1,8 @@
 # letientai299/7guis - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 24 | 2 | 
 | 2023-03-20 | 24 | 1 | 
 | 2023-03-18 | 24 | 1 | 
 | 2023-03-17 | 23 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 22 | 1 | 
 | 2023-02-22 | 22 | 1 | 
 | 2023-02-21 | 22 | 1 | 
-| 2023-02-19 | 22 | 1 | 
 

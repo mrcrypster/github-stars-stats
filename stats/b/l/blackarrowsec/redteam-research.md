@@ -1,10 +1,10 @@
 # blackarrowsec/redteam-research - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 148
 
-★ Stars: 691
+★ Stars: 692
 
 [Open repository](https://github.com/blackarrowsec/redteam-research)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 692 | 148 | 
 | 2023-03-20 | 691 | 148 | 
 | 2023-03-19 | 688 | 148 | 
 | 2023-03-17 | 687 | 148 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 609 | 140 | 
 | 2023-02-21 | 604 | 139 | 
 | 2023-02-20 | 601 | 136 | 
-| 2023-02-19 | 595 | 135 | 
 

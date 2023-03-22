@@ -1,10 +1,10 @@
 # enso-org/enso - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 227
 
-★ Stars: 6392
+★ Stars: 6393
 
 [Open repository](https://github.com/enso-org/enso)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6393 | 227 | 
 | 2023-03-20 | 6392 | 227 | 
 | 2023-03-19 | 6390 | 228 | 
 | 2023-03-18 | 6390 | 228 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 6353 | 225 | 
 | 2023-02-21 | 6352 | 225 | 
 | 2023-02-20 | 6350 | 224 | 
-| 2023-02-19 | 6348 | 224 | 
 

@@ -1,6 +1,6 @@
 # saml-idp/saml_idp - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 231 | 162 | 
 | 2023-03-20 | 231 | 162 | 
 | 2023-03-19 | 231 | 162 | 
 | 2023-03-18 | 231 | 162 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 228 | 161 | 
 | 2023-02-21 | 228 | 161 | 
 | 2023-02-20 | 228 | 161 | 
-| 2023-02-19 | 228 | 161 | 
 

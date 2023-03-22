@@ -1,10 +1,10 @@
 # haesbaert/oslo - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/haesbaert/oslo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 19 | - | 
 | 2023-03-20 | 18 | - | 
 | 2023-03-19 | 18 | - | 
 

@@ -1,10 +1,10 @@
 # microsoft/Visual-Studio-Administrative-Templates - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 6
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/microsoft/Visual-Studio-Administrative-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 12 | 6 | 
 | 2023-03-19 | 11 | 6 | 
 | 2023-03-18 | 11 | 6 | 
 | 2023-03-17 | 10 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 9 | 6 | 
 | 2023-02-21 | 9 | 6 | 
 | 2023-02-20 | 9 | 6 | 
-| 2023-02-19 | 9 | 6 | 
 

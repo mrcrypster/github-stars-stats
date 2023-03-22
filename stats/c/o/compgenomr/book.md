@@ -1,8 +1,8 @@
 # compgenomr/book - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 225
+☋ Forks: 226
 
 ★ Stars: 256
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 256 | 226 | 
 | 2023-03-20 | 256 | 225 | 
 | 2023-03-19 | 255 | 225 | 
 | 2023-03-18 | 255 | 225 | 

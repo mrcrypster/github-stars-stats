@@ -1,10 +1,10 @@
 # 4ndr34z/shells - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 54
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/4ndr34z/shells)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 264 | 54 | 
 | 2023-03-19 | 263 | 54 | 
 | 2023-03-18 | 263 | 54 | 
 | 2023-03-17 | 264 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 263 | 53 | 
 | 2023-02-21 | 263 | 53 | 
 | 2023-02-20 | 262 | 53 | 
-| 2023-02-19 | 260 | 53 | 
 

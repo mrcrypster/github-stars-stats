@@ -1,10 +1,10 @@
 # devkodeio/the-dom-challenge - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 199
 
-★ Stars: 974
+★ Stars: 973
 
 [Open repository](https://github.com/devkodeio/the-dom-challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 973 | 199 | 
 | 2023-03-20 | 974 | 199 | 
 | 2023-03-19 | 973 | 199 | 
 | 2023-03-17 | 972 | 199 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 971 | 199 | 
 | 2023-02-21 | 971 | 199 | 
 | 2023-02-20 | 971 | 199 | 
-| 2023-02-19 | 971 | 199 | 
 

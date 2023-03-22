@@ -1,10 +1,10 @@
 # markusfisch/BinaryEye - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 89
 
-★ Stars: 876
+★ Stars: 878
 
 [Open repository](https://github.com/markusfisch/BinaryEye)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 878 | 89 | 
 | 2023-03-19 | 876 | 89 | 
 | 2023-03-18 | 873 | 89 | 
 | 2023-03-17 | 874 | 89 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 853 | 88 | 
 | 2023-02-22 | 851 | 87 | 
 | 2023-02-21 | 851 | 87 | 
-| 2023-02-19 | 851 | 87 | 
 

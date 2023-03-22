@@ -1,10 +1,10 @@
 # cachix/pre-commit-hooks.nix - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/cachix/pre-commit-hooks.nix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 271 | 86 | 
 | 2023-03-19 | 270 | 85 | 
 | 2023-03-18 | 270 | 85 | 
 | 2023-03-17 | 270 | 86 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 263 | 86 | 
 | 2023-02-22 | 261 | 85 | 
 | 2023-02-20 | 259 | 84 | 
-| 2023-02-19 | 258 | 84 | 
 

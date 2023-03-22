@@ -1,10 +1,10 @@
 # mckaywrigley/paul-graham-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 196
+☋ Forks: 201
 
-★ Stars: 1575
+★ Stars: 1620
 
 [Open repository](https://github.com/mckaywrigley/paul-graham-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1620 | 201 | 
 | 2023-03-20 | 1575 | 196 | 
 | 2023-03-18 | 1540 | 188 | 
 | 2023-03-17 | 1527 | 186 | 

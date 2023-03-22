@@ -1,10 +1,10 @@
 # LeadCoding/3-weeks-Google-Prep - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 517
+☋ Forks: 516
 
-★ Stars: 1104
+★ Stars: 1105
 
 [Open repository](https://github.com/LeadCoding/3-weeks-Google-Prep)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1105 | 516 | 
 | 2023-03-20 | 1104 | 517 | 
 | 2023-03-19 | 1102 | 517 | 
 | 2023-03-18 | 1102 | 516 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 1096 | 514 | 
 | 2023-02-22 | 1096 | 514 | 
 | 2023-02-21 | 1096 | 514 | 
-| 2023-02-19 | 1096 | 513 | 
 

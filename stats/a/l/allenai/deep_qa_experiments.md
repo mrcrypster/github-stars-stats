@@ -1,6 +1,6 @@
 # allenai/deep_qa_experiments - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 7 | 11 | 
 | 2023-03-19 | 7 | 11 | 
 | 2023-03-18 | 7 | 11 | 
 | 2023-03-16 | 7 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 7 | 11 | 
 | 2023-02-22 | 7 | 11 | 
 | 2023-02-21 | 7 | 11 | 
-| 2023-02-20 | 7 | 11 | 
 

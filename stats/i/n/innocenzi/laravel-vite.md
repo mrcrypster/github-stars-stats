@@ -1,6 +1,6 @@
 # innocenzi/laravel-vite - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 592 | 70 | 
 | 2023-03-19 | 592 | 70 | 
 | 2023-03-18 | 592 | 70 | 
 | 2023-03-17 | 592 | 70 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 592 | 68 | 
 | 2023-02-22 | 592 | 66 | 
 | 2023-02-21 | 592 | 66 | 
-| 2023-02-19 | 592 | 66 | 
 

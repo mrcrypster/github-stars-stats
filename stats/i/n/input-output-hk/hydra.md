@@ -1,6 +1,6 @@
 # input-output-hk/hydra - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 191 | 62 | 
 | 2023-03-19 | 191 | 62 | 
 | 2023-03-18 | 189 | 62 | 
 | 2023-03-17 | 189 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 182 | 58 | 
 | 2023-02-21 | 182 | 57 | 
 | 2023-02-20 | 183 | 57 | 
-| 2023-02-19 | 183 | 56 | 
 

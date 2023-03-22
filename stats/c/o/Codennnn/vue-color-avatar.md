@@ -1,10 +1,10 @@
 # Codennnn/vue-color-avatar - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 313
 
-★ Stars: 2451
+★ Stars: 2458
 
 [Open repository](https://github.com/Codennnn/vue-color-avatar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2458 | 313 | 
 | 2023-03-20 | 2451 | 313 | 
 | 2023-03-18 | 2448 | 312 | 
 | 2023-03-17 | 2448 | 312 | 

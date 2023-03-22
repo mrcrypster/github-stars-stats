@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 21
 
-☋ Forks: 47
+☋ Forks: 49
 
-★ Stars: 567
+★ Stars: 582
 
 [Open repository](https://github.com/yuhuage/dizhi)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 567 | 47 | 
+| 2023-03-21 | 582 | 49 | 
 | 2023-03-20 | 567 | 47 | 
 | 2023-03-19 | 556 | 46 | 
 | 2023-03-18 | 554 | 45 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-22 | 529 | 43 | 
 | 2023-02-21 | 528 | 43 | 
 | 2023-02-20 | 528 | 43 | 
-| 2023-02-19 | 526 | 43 | 
 

@@ -1,6 +1,6 @@
 # googlemaps/js-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 765
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 611 | 765 | 
 | 2023-03-20 | 611 | 765 | 
 | 2023-03-19 | 610 | 765 | 
 | 2023-03-18 | 610 | 764 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 606 | 761 | 
 | 2023-02-21 | 606 | 761 | 
 | 2023-02-20 | 606 | 761 | 
-| 2023-02-19 | 605 | 761 | 
 

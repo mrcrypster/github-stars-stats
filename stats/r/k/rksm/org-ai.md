@@ -1,10 +1,10 @@
 # rksm/org-ai - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 79
+★ Stars: 89
 
 [Open repository](https://github.com/rksm/org-ai)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 89 | 6 | 
+| 2023-03-21 | 88 | 5 | 
 | 2023-03-20 | 79 | 5 | 
 | 2023-03-19 | 71 | 3 | 
 | 2023-03-18 | 70 | 3 | 

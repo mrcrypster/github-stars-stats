@@ -1,10 +1,10 @@
 # VRCFury/VRCFury - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/VRCFury/VRCFury)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 41 | 2 | 
 | 2023-03-20 | 39 | 2 | 
 | 2023-03-19 | 31 | 1 | 
 | 2023-03-18 | 27 | 1 | 

@@ -1,10 +1,10 @@
 # honza/vim-snippets - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2023
 
-★ Stars: 4526
+★ Stars: 4527
 
 [Open repository](https://github.com/honza/vim-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4527 | 2023 | 
 | 2023-03-20 | 4526 | 2023 | 
 | 2023-03-19 | 4527 | 2022 | 
 | 2023-03-18 | 4525 | 2023 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 4517 | 2024 | 
 | 2023-02-21 | 4517 | 2024 | 
 | 2023-02-20 | 4516 | 2024 | 
-| 2023-02-19 | 4516 | 2023 | 
 

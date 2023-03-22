@@ -1,10 +1,10 @@
 # matyunya/smelte - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 117
 
-★ Stars: 1444
+★ Stars: 1446
 
 [Open repository](https://github.com/matyunya/smelte)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1446 | 117 | 
 | 2023-03-19 | 1444 | 117 | 
 | 2023-03-18 | 1443 | 117 | 
 | 2023-03-17 | 1442 | 117 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 1434 | 117 | 
 | 2023-02-22 | 1434 | 117 | 
 | 2023-02-21 | 1434 | 117 | 
-| 2023-02-19 | 1434 | 117 | 
 

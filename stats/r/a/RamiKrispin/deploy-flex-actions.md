@@ -1,6 +1,6 @@
 # RamiKrispin/deploy-flex-actions - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 180 | 23 | 
 | 2023-03-20 | 180 | 23 | 
 | 2023-03-19 | 180 | 23 | 
 | 2023-03-17 | 180 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 176 | 23 | 
 | 2023-02-21 | 176 | 23 | 
 | 2023-02-20 | 176 | 22 | 
-| 2023-02-19 | 175 | 22 | 
 

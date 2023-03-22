@@ -1,8 +1,8 @@
 # hashicorp/learn-terraform-provision-gke-cluster - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 203
+☋ Forks: 204
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 86 | 204 | 
 | 2023-03-19 | 86 | 203 | 
 | 2023-03-18 | 86 | 203 | 
 | 2023-03-17 | 86 | 203 | 

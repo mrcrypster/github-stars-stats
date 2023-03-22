@@ -1,6 +1,6 @@
 # pimbrouwers/Falco.Markup - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 18 | 2 | 
 | 2023-03-20 | 18 | 2 | 
 | 2023-03-18 | 18 | 2 | 
 | 2023-03-17 | 18 | 2 | 

@@ -1,6 +1,6 @@
 # skydoves/Orbitary - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 579 | 16 | 
 | 2023-03-19 | 579 | 16 | 
 | 2023-03-18 | 578 | 15 | 
 | 2023-03-17 | 578 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 548 | 14 | 
 | 2023-02-22 | 548 | 14 | 
 | 2023-02-21 | 548 | 14 | 
-| 2023-02-19 | 548 | 14 | 
 

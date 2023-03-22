@@ -1,10 +1,10 @@
 # hagezi/dns-blocklists - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 38
 
-★ Stars: 771
+★ Stars: 773
 
 [Open repository](https://github.com/hagezi/dns-blocklists)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 773 | 38 | 
 | 2023-03-20 | 771 | 38 | 
 | 2023-03-19 | 765 | 37 | 
 | 2023-03-18 | 759 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 646 | 30 | 
 | 2023-02-21 | 630 | 29 | 
 | 2023-02-20 | 627 | 29 | 
-| 2023-02-19 | 625 | 29 | 
 

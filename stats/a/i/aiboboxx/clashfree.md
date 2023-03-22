@@ -1,10 +1,10 @@
 # aiboboxx/clashfree - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 247
+☋ Forks: 252
 
-★ Stars: 901
+★ Stars: 915
 
 [Open repository](https://github.com/aiboboxx/clashfree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 915 | 252 | 
 | 2023-03-20 | 901 | 247 | 
 | 2023-03-19 | 893 | 242 | 
 | 2023-03-18 | 885 | 238 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 735 | 170 | 
 | 2023-02-21 | 729 | 168 | 
 | 2023-02-20 | 719 | 165 | 
-| 2023-02-19 | 713 | 161 | 
 

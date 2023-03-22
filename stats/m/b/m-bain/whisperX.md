@@ -1,10 +1,10 @@
 # m-bain/whisperX - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 156
+☋ Forks: 161
 
-★ Stars: 2086
+★ Stars: 2102
 
 [Open repository](https://github.com/m-bain/whisperX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2102 | 161 | 
 | 2023-03-20 | 2086 | 156 | 
 | 2023-03-19 | 2067 | 156 | 
 | 2023-03-18 | 2057 | 155 | 

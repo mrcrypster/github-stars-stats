@@ -1,6 +1,6 @@
 # WerWolv/ImHex-Patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 328 | 74 | 
 | 2023-03-19 | 328 | 74 | 
 | 2023-03-18 | 327 | 73 | 
 | 2023-03-17 | 327 | 73 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 305 | 67 | 
 | 2023-02-21 | 305 | 67 | 
 | 2023-02-20 | 304 | 67 | 
-| 2023-02-19 | 304 | 67 | 
 

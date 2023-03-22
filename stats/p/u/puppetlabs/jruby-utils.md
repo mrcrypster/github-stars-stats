@@ -1,8 +1,8 @@
 # puppetlabs/jruby-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5 | 21 | 
 | 2023-03-20 | 5 | 20 | 
 | 2023-03-19 | 5 | 20 | 
 | 2023-03-18 | 5 | 20 | 

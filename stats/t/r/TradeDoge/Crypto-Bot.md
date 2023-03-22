@@ -1,6 +1,6 @@
 # TradeDoge/Crypto-Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 11 | 50 | 
 | 2023-03-20 | 11 | 50 | 
 | 2023-03-19 | 11 | 50 | 
 | 2023-03-18 | 11 | 50 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 14 | 49 | 
 | 2023-02-22 | 14 | 49 | 
 | 2023-02-21 | 13 | 49 | 
-| 2023-02-19 | 14 | 49 | 
 

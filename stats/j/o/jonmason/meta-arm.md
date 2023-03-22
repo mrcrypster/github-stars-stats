@@ -1,10 +1,10 @@
 # jonmason/meta-arm - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 9
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/jonmason/meta-arm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 9 | 9 | 
 | 2023-03-20 | 8 | 9 | 
 | 2023-03-19 | 8 | 9 | 
 | 2023-03-18 | 8 | 9 | 

@@ -1,10 +1,10 @@
 # robinsloan/spring-83 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 9
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/robinsloan/spring-83)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 241 | 9 | 
 | 2023-03-20 | 240 | 9 | 
 | 2023-03-18 | 240 | 9 | 
 | 2023-03-17 | 240 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 230 | 9 | 
 | 2023-02-21 | 230 | 9 | 
 | 2023-02-20 | 230 | 9 | 
-| 2023-02-19 | 230 | 9 | 
 

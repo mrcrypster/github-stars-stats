@@ -1,6 +1,6 @@
 # Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 38 | 5 | 
 | 2023-03-20 | 38 | 5 | 
 | 2023-03-19 | 38 | 5 | 
 | 2023-03-18 | 38 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 38 | 5 | 
 | 2023-02-22 | 38 | 5 | 
 | 2023-02-21 | 38 | 5 | 
-| 2023-02-19 | 38 | 5 | 
 

@@ -1,10 +1,10 @@
 # cksystemsteaching/selfie - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 291
+☋ Forks: 292
 
-★ Stars: 2222
+★ Stars: 2223
 
 [Open repository](https://github.com/cksystemsteaching/selfie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2223 | 292 | 
 | 2023-03-20 | 2222 | 291 | 
 | 2023-03-19 | 2222 | 291 | 
 | 2023-03-18 | 2221 | 291 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2207 | 284 | 
 | 2023-02-21 | 2206 | 284 | 
 | 2023-02-20 | 2206 | 284 | 
-| 2023-02-19 | 2203 | 284 | 
 

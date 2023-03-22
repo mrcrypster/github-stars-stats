@@ -1,10 +1,10 @@
 # cncf/mentoring - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 484
+☋ Forks: 485
 
-★ Stars: 1591
+★ Stars: 1594
 
 [Open repository](https://github.com/cncf/mentoring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1594 | 485 | 
 | 2023-03-20 | 1591 | 484 | 
 | 2023-03-18 | 1585 | 484 | 
 | 2023-03-17 | 1583 | 482 | 

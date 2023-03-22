@@ -1,10 +1,10 @@
 # bxinquan/zynq_cam_isp_demo - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 39
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/bxinquan/zynq_cam_isp_demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 82 | 39 | 
 | 2023-03-20 | 81 | 39 | 
 | 2023-03-19 | 81 | 39 | 
 | 2023-03-18 | 81 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 76 | 36 | 
 | 2023-02-22 | 75 | 36 | 
 | 2023-02-21 | 75 | 36 | 
-| 2023-02-19 | 75 | 36 | 
 

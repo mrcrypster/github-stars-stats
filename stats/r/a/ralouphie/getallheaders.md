@@ -1,8 +1,8 @@
 # ralouphie/getallheaders - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 3567
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3567 | 31 | 
 | 2023-03-20 | 3567 | 30 | 
 | 2023-03-18 | 3567 | 30 | 
 | 2023-03-17 | 3566 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 3549 | 30 | 
 | 2023-02-21 | 3548 | 30 | 
 | 2023-02-20 | 3547 | 30 | 
-| 2023-02-19 | 3547 | 30 | 
 

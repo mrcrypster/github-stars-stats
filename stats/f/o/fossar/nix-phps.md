@@ -1,10 +1,10 @@
 # fossar/nix-phps - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/fossar/nix-phps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 27 | 11 | 
 | 2023-03-20 | 26 | 10 | 
 | 2023-03-18 | 24 | 10 | 
 | 2023-03-17 | 24 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 23 | 10 | 
 | 2023-02-21 | 23 | 10 | 
 | 2023-02-20 | 23 | 10 | 
-| 2023-02-19 | 23 | 10 | 
 

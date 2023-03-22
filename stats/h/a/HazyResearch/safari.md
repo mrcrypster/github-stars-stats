@@ -1,10 +1,10 @@
 # HazyResearch/safari - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 10
 
-★ Stars: 226
+★ Stars: 235
 
 [Open repository](https://github.com/HazyResearch/safari)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 235 | 10 | 
+| 2023-03-21 | 234 | 10 | 
 | 2023-03-20 | 226 | 10 | 
 | 2023-03-19 | 221 | 9 | 
 | 2023-03-18 | 220 | 9 | 

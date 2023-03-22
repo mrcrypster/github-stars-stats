@@ -1,8 +1,8 @@
 # 0xfoobar/bitsignal - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 51
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 51 | 4 | 
 | 2023-03-20 | 51 | 3 | 
 

@@ -1,6 +1,6 @@
 # lcpz/awesome-copycats - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 513
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2817 | 513 | 
 | 2023-03-20 | 2817 | 513 | 
 | 2023-03-18 | 2817 | 513 | 
 | 2023-03-17 | 2817 | 513 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 2802 | 512 | 
 | 2023-02-21 | 2800 | 512 | 
 | 2023-02-20 | 2800 | 512 | 
-| 2023-02-19 | 2799 | 512 | 
 

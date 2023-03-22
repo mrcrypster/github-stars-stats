@@ -1,10 +1,10 @@
 # pi-hole/pi-hole - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2480
+☋ Forks: 2481
 
-★ Stars: 41639
+★ Stars: 41642
 
 [Open repository](https://github.com/pi-hole/pi-hole)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 41642 | 2481 | 
 | 2023-03-20 | 41639 | 2480 | 
 | 2023-03-19 | 41633 | 2479 | 
 | 2023-03-18 | 41617 | 2479 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 41362 | 2464 | 
 | 2023-02-21 | 41354 | 2462 | 
 | 2023-02-20 | 41352 | 2462 | 
-| 2023-02-19 | 41339 | 2463 | 
 

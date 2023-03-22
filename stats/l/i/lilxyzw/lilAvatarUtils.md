@@ -1,10 +1,10 @@
 # lilxyzw/lilAvatarUtils - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/lilxyzw/lilAvatarUtils)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 52 | 2 | 
 | 2023-03-20 | 51 | 2 | 
 | 2023-03-18 | 50 | 2 | 
 | 2023-03-17 | 48 | 2 | 

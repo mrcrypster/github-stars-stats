@@ -1,10 +1,10 @@
 # zubairehman/flutter-boilerplate-project - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 829
+☋ Forks: 830
 
-★ Stars: 1989
+★ Stars: 1990
 
 [Open repository](https://github.com/zubairehman/flutter-boilerplate-project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1990 | 830 | 
 | 2023-03-20 | 1989 | 829 | 
 | 2023-03-18 | 1989 | 829 | 
 | 2023-03-17 | 1989 | 830 | 

@@ -1,10 +1,10 @@
 # googleapis/googleapis - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2200
 
-★ Stars: 5458
+★ Stars: 5460
 
 [Open repository](https://github.com/googleapis/googleapis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5460 | 2200 | 
 | 2023-03-20 | 5458 | 2200 | 
 | 2023-03-19 | 5455 | 2200 | 
 | 2023-03-18 | 5453 | 2199 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 5399 | 2176 | 
 | 2023-02-21 | 5396 | 2174 | 
 | 2023-02-20 | 5393 | 2173 | 
-| 2023-02-19 | 5391 | 2172 | 
 

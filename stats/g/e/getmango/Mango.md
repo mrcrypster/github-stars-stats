@@ -1,10 +1,10 @@
 # getmango/Mango - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 97
 
-★ Stars: 1341
+★ Stars: 1348
 
 [Open repository](https://github.com/getmango/Mango)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1348 | 97 | 
 | 2023-03-19 | 1341 | 97 | 
 | 2023-03-18 | 1339 | 97 | 
 | 2023-03-16 | 1338 | 97 | 

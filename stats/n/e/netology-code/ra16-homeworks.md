@@ -1,8 +1,8 @@
 # netology-code/ra16-homeworks - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 221
+☋ Forks: 222
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 7 | 222 | 
 | 2023-03-20 | 7 | 221 | 
 | 2023-03-19 | 7 | 220 | 
 | 2023-03-17 | 7 | 219 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 8 | 213 | 
 | 2023-02-21 | 8 | 213 | 
 | 2023-02-20 | 8 | 212 | 
-| 2023-02-19 | 8 | 212 | 
 

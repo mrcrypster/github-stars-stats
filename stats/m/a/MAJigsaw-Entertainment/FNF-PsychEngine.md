@@ -1,8 +1,8 @@
 # MAJigsaw-Entertainment/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 121
+☋ Forks: 122
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 24 | 122 | 
 | 2023-03-20 | 24 | 121 | 
 | 2023-03-19 | 24 | 120 | 
 | 2023-03-17 | 24 | 120 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 23 | 119 | 
 | 2023-02-21 | 23 | 119 | 
 | 2023-02-20 | 22 | 119 | 
-| 2023-02-19 | 22 | 119 | 
 

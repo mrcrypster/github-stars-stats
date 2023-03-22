@@ -1,8 +1,8 @@
 # proxyplu/Nullify - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 105
+☋ Forks: 108
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 93 | 108 | 
 | 2023-03-20 | 93 | 105 | 
 | 2023-03-19 | 92 | 104 | 
 | 2023-03-17 | 87 | 102 | 

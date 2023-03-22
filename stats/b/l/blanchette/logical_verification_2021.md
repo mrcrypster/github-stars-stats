@@ -1,6 +1,6 @@
 # blanchette/logical_verification_2021 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 24 | 7 | 
 | 2023-03-20 | 24 | 7 | 
 | 2023-03-19 | 24 | 7 | 
 | 2023-03-18 | 23 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 21 | 7 | 
 | 2023-02-22 | 21 | 7 | 
 | 2023-02-20 | 21 | 7 | 
-| 2023-02-19 | 21 | 7 | 
 

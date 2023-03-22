@@ -1,8 +1,8 @@
 # mate-academy/react_todo-app-add-and-delete - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 363
+☋ Forks: 365
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4 | 365 | 
 | 2023-03-19 | 4 | 363 | 
 | 2023-03-18 | 4 | 361 | 
 | 2023-03-17 | 4 | 361 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 4 | 337 | 
 | 2023-02-21 | 4 | 336 | 
 | 2023-02-20 | 4 | 306 | 
-| 2023-02-19 | 4 | 306 | 
 

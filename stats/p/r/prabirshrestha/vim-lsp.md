@@ -1,10 +1,10 @@
 # prabirshrestha/vim-lsp - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 268
 
-★ Stars: 2707
+★ Stars: 2708
 
 [Open repository](https://github.com/prabirshrestha/vim-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2708 | 268 | 
 | 2023-03-20 | 2707 | 268 | 
 | 2023-03-18 | 2706 | 268 | 
 | 2023-03-17 | 2704 | 268 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2684 | 264 | 
 | 2023-02-21 | 2683 | 264 | 
 | 2023-02-20 | 2682 | 264 | 
-| 2023-02-19 | 2681 | 264 | 
 

@@ -1,6 +1,6 @@
 # haskellfoundation/error-message-index - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 68 | 16 | 
 | 2023-03-20 | 68 | 16 | 
 | 2023-03-18 | 68 | 16 | 
 | 2023-03-17 | 68 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 64 | 13 | 
 | 2023-02-21 | 64 | 13 | 
 | 2023-02-20 | 64 | 12 | 
-| 2023-02-19 | 64 | 12 | 
 

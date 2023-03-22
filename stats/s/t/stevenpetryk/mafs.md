@@ -1,10 +1,10 @@
 # stevenpetryk/mafs - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 51
 
-★ Stars: 2818
+★ Stars: 2820
 
 [Open repository](https://github.com/stevenpetryk/mafs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2820 | 51 | 
 | 2023-03-20 | 2818 | 51 | 
 | 2023-03-18 | 2816 | 51 | 
 | 2023-03-17 | 2815 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2781 | 50 | 
 | 2023-02-21 | 2780 | 50 | 
 | 2023-02-20 | 2780 | 50 | 
-| 2023-02-19 | 2776 | 50 | 
 

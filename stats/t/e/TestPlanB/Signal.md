@@ -1,6 +1,6 @@
 # TestPlanB/Signal - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 239 | 45 | 
 | 2023-03-20 | 239 | 45 | 
 | 2023-03-18 | 238 | 45 | 
 | 2023-03-17 | 238 | 45 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 234 | 42 | 
 | 2023-02-22 | 234 | 42 | 
 | 2023-02-20 | 233 | 42 | 
-| 2023-02-19 | 232 | 42 | 
 

@@ -1,6 +1,6 @@
 # elastic/package-storage - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | 105 | 
 | 2023-03-19 | 11 | 105 | 
 | 2023-03-18 | 11 | 105 | 
 | 2023-03-17 | 11 | 105 | 

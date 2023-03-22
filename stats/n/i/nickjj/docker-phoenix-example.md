@@ -1,6 +1,6 @@
 # nickjj/docker-phoenix-example - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 157 | 19 | 
 | 2023-03-20 | 157 | 19 | 
 | 2023-03-19 | 157 | 19 | 
 | 2023-03-18 | 157 | 19 | 

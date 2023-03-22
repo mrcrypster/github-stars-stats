@@ -1,6 +1,6 @@
 # alin23/m1-panic - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 48 | 2 | 
 | 2023-03-19 | 48 | 2 | 
 | 2023-03-18 | 48 | 2 | 
 | 2023-03-16 | 48 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 49 | 2 | 
 | 2023-02-22 | 49 | 2 | 
 | 2023-02-21 | 49 | 2 | 
-| 2023-02-19 | 49 | 2 | 
 

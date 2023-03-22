@@ -1,10 +1,10 @@
 # Haxxnet/Compose-Examples - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 77
 
-★ Stars: 2968
+★ Stars: 2979
 
 [Open repository](https://github.com/Haxxnet/Compose-Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2979 | 77 | 
 | 2023-03-20 | 2968 | 77 | 
 | 2023-03-18 | 2956 | 75 | 
 | 2023-03-17 | 2948 | 74 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 186 | 9 | 
 | 2023-02-21 | 182 | 8 | 
 | 2023-02-20 | 172 | 8 | 
-| 2023-02-19 | 168 | 7 | 
 

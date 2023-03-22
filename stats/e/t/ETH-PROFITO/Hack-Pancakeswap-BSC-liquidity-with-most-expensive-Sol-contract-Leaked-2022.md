@@ -1,6 +1,6 @@
 # ETH-PROFITO/Hack-Pancakeswap-BSC-liquidity-with-most-expensive-Sol-contract-Leaked-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 34 | 18 | 
 | 2023-03-20 | 34 | 18 | 
 | 2023-03-19 | 33 | 18 | 
 | 2023-03-17 | 66 | 18 | 

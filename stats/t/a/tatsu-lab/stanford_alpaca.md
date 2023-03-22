@@ -1,10 +1,10 @@
 # tatsu-lab/stanford_alpaca - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1145
+☋ Forks: 1394
 
-★ Stars: 10701
+★ Stars: 12085
 
 [Open repository](https://github.com/tatsu-lab/stanford_alpaca)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 12085 | 1394 | 
 | 2023-03-20 | 10701 | 1145 | 
 | 2023-03-19 | 9609 | 982 | 
 | 2023-03-18 | 9475 | 969 | 

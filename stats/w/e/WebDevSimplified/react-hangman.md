@@ -1,10 +1,10 @@
 # WebDevSimplified/react-hangman - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 41
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/WebDevSimplified/react-hangman)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 35 | 41 | 
 | 2023-03-19 | 34 | 41 | 
 | 2023-03-18 | 33 | 41 | 
 | 2023-03-17 | 33 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 32 | 37 | 
 | 2023-02-21 | 32 | 37 | 
 | 2023-02-20 | 31 | 37 | 
-| 2023-02-19 | 31 | 37 | 
 

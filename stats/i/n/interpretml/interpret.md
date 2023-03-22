@@ -1,10 +1,10 @@
 # interpretml/interpret - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 655
+☋ Forks: 656
 
-★ Stars: 5355
+★ Stars: 5362
 
 [Open repository](https://github.com/interpretml/interpret)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 5362 | 656 | 
 | 2023-03-20 | 5355 | 655 | 
 | 2023-03-19 | 5351 | 654 | 
 | 2023-03-17 | 5346 | 654 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 5297 | 648 | 
 | 2023-02-22 | 5293 | 647 | 
 | 2023-02-21 | 5290 | 647 | 
-| 2023-02-19 | 5287 | 646 | 
 

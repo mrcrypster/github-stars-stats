@@ -1,10 +1,10 @@
 # shadeemerhi/reddit-clone-yt - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 126
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/shadeemerhi/reddit-clone-yt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 142 | 126 | 
 | 2023-03-20 | 141 | 126 | 
 | 2023-03-19 | 140 | 124 | 
 | 2023-03-18 | 138 | 120 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 126 | 73 | 
 | 2023-02-21 | 123 | 73 | 
 | 2023-02-20 | 123 | 73 | 
-| 2023-02-19 | 121 | 73 | 
 

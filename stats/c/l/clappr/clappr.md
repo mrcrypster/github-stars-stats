@@ -1,10 +1,10 @@
 # clappr/clappr - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 823
+☋ Forks: 824
 
-★ Stars: 6324
+★ Stars: 6325
 
 [Open repository](https://github.com/clappr/clappr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6325 | 824 | 
 | 2023-03-20 | 6324 | 823 | 
 | 2023-03-19 | 6320 | 823 | 
 | 2023-03-17 | 6317 | 821 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 6252 | 819 | 
 | 2023-02-21 | 6251 | 819 | 
 | 2023-02-20 | 6245 | 819 | 
-| 2023-02-19 | 6232 | 818 | 
 

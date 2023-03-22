@@ -1,6 +1,6 @@
 # exercism/delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 31 | 33 | 
 | 2023-03-20 | 31 | 33 | 
 | 2023-03-19 | 31 | 33 | 
 | 2023-03-17 | 31 | 33 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 30 | 31 | 
 | 2023-02-22 | 30 | 31 | 
 | 2023-02-21 | 30 | 31 | 
-| 2023-02-20 | 30 | 31 | 
 

@@ -1,6 +1,6 @@
 # mmhelloworld/idris-jvm - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 440 | 24 | 
 | 2023-03-20 | 440 | 24 | 
 | 2023-03-18 | 440 | 24 | 
 | 2023-03-17 | 440 | 24 | 

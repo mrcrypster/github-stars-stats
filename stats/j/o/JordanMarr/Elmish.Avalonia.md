@@ -1,10 +1,10 @@
 # JordanMarr/Elmish.Avalonia - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/JordanMarr/Elmish.Avalonia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 46 | 3 | 
 | 2023-03-19 | 45 | 2 | 
 | 2023-03-18 | 45 | 2 | 
 | 2023-03-17 | 45 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 45 | 2 | 
 | 2023-02-21 | 44 | 2 | 
 | 2023-02-20 | 43 | 2 | 
-| 2023-02-19 | 42 | 2 | 
 

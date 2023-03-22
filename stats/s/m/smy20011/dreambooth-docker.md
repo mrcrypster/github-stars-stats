@@ -1,6 +1,6 @@
 # smy20011/dreambooth-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 120 | 23 | 
 | 2023-03-20 | 120 | 23 | 
 | 2023-03-19 | 120 | 23 | 
 | 2023-03-18 | 120 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 117 | 23 | 
 | 2023-02-22 | 116 | 23 | 
 | 2023-02-21 | 115 | 23 | 
-| 2023-02-19 | 114 | 23 | 
 

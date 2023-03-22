@@ -1,10 +1,10 @@
 # JuliaLang/juliaup - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 50
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/JuliaLang/juliaup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 525 | 50 | 
 | 2023-03-20 | 524 | 50 | 
 | 2023-03-19 | 519 | 50 | 
 | 2023-03-18 | 519 | 50 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 480 | 49 | 
 | 2023-02-22 | 479 | 49 | 
 | 2023-02-21 | 478 | 48 | 
-| 2023-02-19 | 477 | 48 | 
 

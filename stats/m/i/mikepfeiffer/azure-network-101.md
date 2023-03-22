@@ -1,10 +1,10 @@
 # mikepfeiffer/azure-network-101 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 23
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/mikepfeiffer/azure-network-101)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 55 | 23 | 
 | 2023-03-20 | 54 | 23 | 
 | 2023-03-18 | 54 | 23 | 
 | 2023-03-17 | 54 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 54 | 23 | 
 | 2023-02-21 | 54 | 23 | 
 | 2023-02-20 | 54 | 23 | 
-| 2023-02-19 | 54 | 23 | 
 

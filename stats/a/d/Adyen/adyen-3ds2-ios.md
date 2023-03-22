@@ -1,8 +1,8 @@
 # Adyen/adyen-3ds2-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 15 | 14 | 
 | 2023-03-19 | 15 | 13 | 
 | 2023-03-18 | 15 | 13 | 
 | 2023-03-16 | 15 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 15 | 13 | 
 | 2023-02-21 | 15 | 13 | 
 | 2023-02-20 | 15 | 13 | 
-| 2023-02-19 | 15 | 14 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 21
 
 ☋ Forks: 71
 
-★ Stars: 172
+★ Stars: 174
 
 [Open repository](https://github.com/leanprover-community/mathlib4)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 172 | 71 | 
+| 2023-03-21 | 174 | 71 | 
 | 2023-03-20 | 171 | 71 | 
 | 2023-03-19 | 171 | 71 | 
 | 2023-03-18 | 172 | 71 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-22 | 166 | 67 | 
 | 2023-02-21 | 165 | 67 | 
 | 2023-02-20 | 165 | 66 | 
-| 2023-02-19 | 165 | 66 | 
 

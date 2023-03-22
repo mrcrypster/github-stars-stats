@@ -1,6 +1,6 @@
 # paradigmxyz/zk-eth-rng - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 141 | 10 | 
 | 2023-03-20 | 141 | 10 | 
 | 2023-03-19 | 141 | 10 | 
 | 2023-03-18 | 140 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 136 | 9 | 
 | 2023-02-22 | 136 | 9 | 
 | 2023-02-21 | 135 | 9 | 
-| 2023-02-19 | 135 | 9 | 
 

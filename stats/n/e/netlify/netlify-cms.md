@@ -1,10 +1,10 @@
 # netlify/netlify-cms - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2960
+☋ Forks: 2963
 
-★ Stars: 16315
+★ Stars: 16316
 
 [Open repository](https://github.com/netlify/netlify-cms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 16316 | 2963 | 
 | 2023-03-20 | 16315 | 2960 | 
 | 2023-03-18 | 16310 | 2959 | 
 | 2023-03-17 | 16307 | 2960 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 16154 | 2945 | 
 | 2023-02-21 | 16150 | 2942 | 
 | 2023-02-20 | 16150 | 2937 | 
-| 2023-02-19 | 16143 | 2939 | 
 

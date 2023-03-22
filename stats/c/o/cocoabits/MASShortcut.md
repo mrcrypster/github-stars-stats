@@ -1,8 +1,8 @@
 # cocoabits/MASShortcut - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 203
+☋ Forks: 204
 
 ★ Stars: 1460
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1460 | 204 | 
 | 2023-03-20 | 1460 | 203 | 
 | 2023-03-18 | 1460 | 203 | 
 | 2023-03-17 | 1460 | 203 | 

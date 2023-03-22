@@ -1,6 +1,6 @@
 # theradixproject/radixproject.org - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 15 | 1 | 
 | 2023-03-20 | 15 | 1 | 
 | 2023-03-19 | 15 | 1 | 
 | 2023-03-18 | 15 | 1 | 

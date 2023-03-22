@@ -1,10 +1,10 @@
 # srid/haskell-template - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 20
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/srid/haskell-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 136 | 20 | 
 | 2023-03-20 | 135 | 20 | 
 | 2023-03-19 | 135 | 20 | 
 | 2023-03-18 | 134 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 133 | 16 | 
 | 2023-02-21 | 132 | 16 | 
 | 2023-02-20 | 132 | 16 | 
-| 2023-02-19 | 132 | 16 | 
 

@@ -1,10 +1,10 @@
 # zloirock/core-js - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1614
+☋ Forks: 1616
 
-★ Stars: 21968
+★ Stars: 21983
 
 [Open repository](https://github.com/zloirock/core-js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 21983 | 1616 | 
 | 2023-03-20 | 21968 | 1614 | 
 | 2023-03-18 | 21962 | 1614 | 
 | 2023-03-17 | 21949 | 1613 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 21260 | 1577 | 
 | 2023-02-21 | 21181 | 1572 | 
 | 2023-02-20 | 21060 | 1565 | 
-| 2023-02-19 | 20921 | 1560 | 
 

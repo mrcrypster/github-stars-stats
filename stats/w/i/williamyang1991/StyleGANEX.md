@@ -1,10 +1,10 @@
 # williamyang1991/StyleGANEX - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 159
+★ Stars: 165
 
 [Open repository](https://github.com/williamyang1991/StyleGANEX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 165 | 10 | 
 | 2023-03-19 | 159 | 9 | 
 | 2023-03-18 | 156 | 9 | 
 | 2023-03-17 | 151 | 8 | 

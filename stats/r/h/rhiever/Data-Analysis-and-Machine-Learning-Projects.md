@@ -1,10 +1,10 @@
 # rhiever/Data-Analysis-and-Machine-Learning-Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1982
 
-★ Stars: 5512
+★ Stars: 5513
 
 [Open repository](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 5513 | 1982 | 
 | 2023-03-20 | 5512 | 1982 | 
 | 2023-03-19 | 5512 | 1980 | 
 | 2023-03-17 | 5512 | 1980 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 5502 | 1980 | 
 | 2023-02-21 | 5502 | 1980 | 
 | 2023-02-20 | 5499 | 1980 | 
-| 2023-02-19 | 5496 | 1980 | 
 

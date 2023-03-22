@@ -1,8 +1,8 @@
 # haskell/haskell-language-server - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 285
+☋ Forks: 284
 
 ★ Stars: 2300
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2300 | 284 | 
 | 2023-03-20 | 2300 | 285 | 
 | 2023-03-19 | 2300 | 284 | 
 | 2023-03-18 | 2299 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2295 | 281 | 
 | 2023-02-21 | 2293 | 281 | 
 | 2023-02-20 | 2293 | 281 | 
-| 2023-02-19 | 2292 | 280 | 
 

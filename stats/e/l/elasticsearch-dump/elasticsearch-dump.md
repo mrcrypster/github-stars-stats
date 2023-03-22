@@ -1,10 +1,10 @@
 # elasticsearch-dump/elasticsearch-dump - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 804
 
-★ Stars: 6773
+★ Stars: 6774
 
 [Open repository](https://github.com/elasticsearch-dump/elasticsearch-dump)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6774 | 804 | 
 | 2023-03-20 | 6773 | 804 | 
 | 2023-03-18 | 6772 | 804 | 
 | 2023-03-17 | 6770 | 804 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 6719 | 805 | 
 | 2023-02-21 | 6718 | 805 | 
 | 2023-02-20 | 6716 | 805 | 
-| 2023-02-19 | 6713 | 805 | 
 

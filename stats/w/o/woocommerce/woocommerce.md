@@ -1,8 +1,8 @@
 # woocommerce/woocommerce - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 10707
+☋ Forks: 10708
 
 ★ Stars: 8439
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 8439 | 10708 | 
 | 2023-03-20 | 8439 | 10707 | 
 | 2023-03-19 | 8436 | 10706 | 
 | 2023-03-18 | 8435 | 10705 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 8391 | 10651 | 
 | 2023-02-21 | 8391 | 10651 | 
 | 2023-02-20 | 8390 | 10651 | 
-| 2023-02-19 | 8388 | 10647 | 
 

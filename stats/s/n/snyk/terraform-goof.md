@@ -1,8 +1,8 @@
 # snyk/terraform-goof - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 259
+☋ Forks: 261
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 10 | 261 | 
 | 2023-03-19 | 10 | 259 | 
 | 2023-03-18 | 10 | 259 | 
 | 2023-03-16 | 10 | 259 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 10 | 249 | 
 | 2023-02-22 | 10 | 249 | 
 | 2023-02-21 | 10 | 249 | 
-| 2023-02-19 | 10 | 248 | 
 

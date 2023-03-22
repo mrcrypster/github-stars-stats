@@ -1,10 +1,10 @@
 # mli/autocut - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 324
+☋ Forks: 328
 
-★ Stars: 3947
+★ Stars: 4032
 
 [Open repository](https://github.com/mli/autocut)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4032 | 328 | 
 | 2023-03-20 | 3947 | 324 | 
 | 2023-03-19 | 3925 | 319 | 
 | 2023-03-18 | 3885 | 315 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 3689 | 287 | 
 | 2023-02-21 | 3676 | 287 | 
 | 2023-02-20 | 3670 | 286 | 
-| 2023-02-19 | 3663 | 286 | 
 

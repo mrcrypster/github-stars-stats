@@ -1,6 +1,6 @@
 # hamsternz/MMCM_GPSDO - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 26 | 1 | 
 | 2023-03-20 | 26 | 1 | 
 | 2023-03-19 | 26 | 1 | 
 | 2023-03-17 | 26 | 1 | 

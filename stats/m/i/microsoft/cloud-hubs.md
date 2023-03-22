@@ -1,10 +1,10 @@
 # microsoft/cloud-hubs - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/microsoft/cloud-hubs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 35 | 3 | 
 | 2023-03-20 | 34 | 2 | 
 | 2023-03-19 | 34 | 2 | 
 | 2023-03-17 | 34 | 2 | 

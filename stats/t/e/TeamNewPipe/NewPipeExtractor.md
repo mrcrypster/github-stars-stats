@@ -1,10 +1,10 @@
 # TeamNewPipe/NewPipeExtractor - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 327
 
-★ Stars: 857
+★ Stars: 858
 
 [Open repository](https://github.com/TeamNewPipe/NewPipeExtractor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 858 | 327 | 
 | 2023-03-19 | 857 | 327 | 
 | 2023-03-18 | 857 | 327 | 
 | 2023-03-17 | 856 | 327 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 843 | 324 | 
 | 2023-02-21 | 843 | 325 | 
 | 2023-02-20 | 843 | 325 | 
-| 2023-02-19 | 843 | 324 | 
 

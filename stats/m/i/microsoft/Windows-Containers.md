@@ -1,6 +1,6 @@
 # microsoft/Windows-Containers - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 238 | 35 | 
 | 2023-03-19 | 238 | 35 | 
 | 2023-03-18 | 237 | 35 | 
 | 2023-03-17 | 235 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 231 | 35 | 
 | 2023-02-22 | 232 | 35 | 
 | 2023-02-21 | 232 | 35 | 
-| 2023-02-20 | 232 | 35 | 
 

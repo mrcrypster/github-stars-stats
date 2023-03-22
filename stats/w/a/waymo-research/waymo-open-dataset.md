@@ -1,10 +1,10 @@
 # waymo-research/waymo-open-dataset - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 503
+☋ Forks: 506
 
-★ Stars: 2115
+★ Stars: 2116
 
 [Open repository](https://github.com/waymo-research/waymo-open-dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2116 | 506 | 
 | 2023-03-20 | 2115 | 503 | 
 | 2023-03-19 | 2114 | 502 | 
 | 2023-03-18 | 2113 | 501 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 2077 | 486 | 
 | 2023-02-22 | 2076 | 485 | 
 | 2023-02-20 | 2075 | 485 | 
-| 2023-02-19 | 2074 | 485 | 
 

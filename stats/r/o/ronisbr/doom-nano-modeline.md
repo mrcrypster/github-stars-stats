@@ -1,10 +1,10 @@
 # ronisbr/doom-nano-modeline - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/ronisbr/doom-nano-modeline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 23 | 1 | 
 | 2023-03-19 | 22 | 1 | 
 | 2023-03-18 | 22 | 1 | 
 | 2023-03-17 | 21 | 1 | 

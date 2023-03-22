@@ -1,6 +1,6 @@
 # rskTech/k8s_material - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 38 | 218 | 
 | 2023-03-20 | 38 | 218 | 
 | 2023-03-19 | 38 | 218 | 
 | 2023-03-18 | 38 | 217 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 36 | 196 | 
 | 2023-02-21 | 36 | 196 | 
 | 2023-02-20 | 36 | 196 | 
-| 2023-02-19 | 36 | 193 | 
 

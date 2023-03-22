@@ -1,8 +1,8 @@
 # kyleavery/AceLdr - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 114
+☋ Forks: 115
 
 ★ Stars: 609
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 609 | 115 | 
 | 2023-03-20 | 609 | 114 | 
 | 2023-03-18 | 609 | 114 | 
 | 2023-03-17 | 608 | 113 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 602 | 112 | 
 | 2023-02-22 | 601 | 112 | 
 | 2023-02-21 | 601 | 112 | 
-| 2023-02-19 | 601 | 112 | 
 

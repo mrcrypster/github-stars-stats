@@ -1,6 +1,6 @@
 # hrkfdn/ncspot - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3633 | 167 | 
 | 2023-03-20 | 3633 | 167 | 
 | 2023-03-19 | 3629 | 167 | 
 | 2023-03-17 | 3627 | 165 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 3533 | 158 | 
 | 2023-02-22 | 3528 | 158 | 
 | 2023-02-21 | 3528 | 157 | 
-| 2023-02-19 | 3523 | 156 | 
 

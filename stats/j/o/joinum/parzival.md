@@ -1,10 +1,10 @@
 # joinum/parzival - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/joinum/parzival)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 8 | 4 | 
 | 2023-03-19 | 7 | 4 | 
 | 2023-03-18 | 6 | 4 | 
 | 2023-03-16 | 6 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 5 | 3 | 
 | 2023-02-21 | 5 | 3 | 
 | 2023-02-20 | 5 | 3 | 
-| 2023-02-19 | 5 | 3 | 
 

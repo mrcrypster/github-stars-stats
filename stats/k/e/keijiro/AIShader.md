@@ -1,10 +1,10 @@
 # keijiro/AIShader - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 130
+☋ Forks: 134
 
-★ Stars: 1503
+★ Stars: 1570
 
 [Open repository](https://github.com/keijiro/AIShader)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1570 | 134 | 
+| 2023-03-21 | 1569 | 131 | 
 | 2023-03-20 | 1503 | 130 | 
 | 2023-03-19 | 1435 | 128 | 
 | 2023-03-18 | 1427 | 126 | 

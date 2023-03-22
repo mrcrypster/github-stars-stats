@@ -1,10 +1,10 @@
 # avelino/awesome-go - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 10792
+☋ Forks: 10797
 
-★ Stars: 98352
+★ Stars: 98435
 
 [Open repository](https://github.com/avelino/awesome-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 98435 | 10797 | 
 | 2023-03-20 | 98352 | 10792 | 
 | 2023-03-19 | 98270 | 10787 | 
 | 2023-03-17 | 98203 | 10788 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 96844 | 10722 | 
 | 2023-02-21 | 96813 | 10721 | 
 | 2023-02-20 | 96724 | 10718 | 
-| 2023-02-19 | 96628 | 10717 | 
 

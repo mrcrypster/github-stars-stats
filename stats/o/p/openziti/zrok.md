@@ -1,6 +1,6 @@
 # openziti/zrok - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 728 | 13 | 
 | 2023-03-19 | 728 | 13 | 
 | 2023-03-18 | 727 | 13 | 
 | 2023-03-17 | 724 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 588 | 12 | 
 | 2023-02-22 | 588 | 12 | 
 | 2023-02-20 | 587 | 12 | 
-| 2023-02-19 | 584 | 12 | 
 

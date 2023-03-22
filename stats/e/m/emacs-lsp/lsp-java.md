@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-java - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 573 | 76 | 
 | 2023-03-20 | 573 | 76 | 
 | 2023-03-19 | 573 | 77 | 
 | 2023-03-18 | 573 | 77 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 569 | 77 | 
 | 2023-02-21 | 569 | 77 | 
 | 2023-02-20 | 568 | 77 | 
-| 2023-02-19 | 568 | 77 | 
 

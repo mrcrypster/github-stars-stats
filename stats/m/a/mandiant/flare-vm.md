@@ -1,10 +1,10 @@
 # mandiant/flare-vm - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 744
 
-★ Stars: 4645
+★ Stars: 4648
 
 [Open repository](https://github.com/mandiant/flare-vm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4648 | 744 | 
 | 2023-03-20 | 4645 | 744 | 
 | 2023-03-19 | 4642 | 744 | 
 | 2023-03-18 | 4636 | 744 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 4555 | 735 | 
 | 2023-02-21 | 4555 | 734 | 
 | 2023-02-20 | 4553 | 734 | 
-| 2023-02-19 | 4551 | 733 | 
 

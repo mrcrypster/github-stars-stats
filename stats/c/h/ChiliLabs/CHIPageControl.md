@@ -1,8 +1,8 @@
 # ChiliLabs/CHIPageControl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 244
+☋ Forks: 245
 
 ★ Stars: 3115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3115 | 245 | 
 | 2023-03-19 | 3115 | 244 | 
 | 2023-03-18 | 3115 | 244 | 
 | 2023-03-17 | 3115 | 244 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 3105 | 243 | 
 | 2023-02-21 | 3101 | 243 | 
 | 2023-02-20 | 3100 | 243 | 
-| 2023-02-19 | 3099 | 243 | 
 

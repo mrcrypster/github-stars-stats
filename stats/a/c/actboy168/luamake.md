@@ -1,6 +1,6 @@
 # actboy168/luamake - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 81 | 21 | 
 | 2023-03-20 | 81 | 21 | 
 | 2023-03-19 | 81 | 21 | 
 | 2023-03-17 | 81 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 81 | 20 | 
 | 2023-02-21 | 81 | 20 | 
 | 2023-02-20 | 80 | 20 | 
-| 2023-02-19 | 80 | 20 | 
 

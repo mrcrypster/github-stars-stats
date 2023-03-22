@@ -1,10 +1,10 @@
 # streetturtle/awesome-wm-widgets - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 245
 
-★ Stars: 1789
+★ Stars: 1791
 
 [Open repository](https://github.com/streetturtle/awesome-wm-widgets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1791 | 245 | 
 | 2023-03-20 | 1789 | 245 | 
 | 2023-03-18 | 1789 | 245 | 
 | 2023-03-17 | 1787 | 245 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 1761 | 240 | 
 | 2023-02-22 | 1760 | 240 | 
 | 2023-02-21 | 1759 | 240 | 
-| 2023-02-19 | 1758 | 240 | 
 

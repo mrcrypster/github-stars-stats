@@ -1,6 +1,6 @@
 # wrf-model/WPS - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 169 | 139 | 
 | 2023-03-20 | 169 | 139 | 
 | 2023-03-18 | 169 | 139 | 
 | 2023-03-17 | 169 | 139 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 167 | 136 | 
 | 2023-02-21 | 167 | 136 | 
 | 2023-02-20 | 167 | 136 | 
-| 2023-02-19 | 167 | 136 | 
 

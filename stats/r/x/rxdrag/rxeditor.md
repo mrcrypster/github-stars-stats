@@ -1,10 +1,10 @@
 # rxdrag/rxeditor - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 279
+☋ Forks: 282
 
-★ Stars: 1874
+★ Stars: 1898
 
 [Open repository](https://github.com/rxdrag/rxeditor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1898 | 282 | 
 | 2023-03-20 | 1874 | 279 | 
 | 2023-03-19 | 1835 | 273 | 
 | 2023-03-17 | 1800 | 273 | 

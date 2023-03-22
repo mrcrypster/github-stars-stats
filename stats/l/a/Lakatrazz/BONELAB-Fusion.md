@@ -1,10 +1,10 @@
 # Lakatrazz/BONELAB-Fusion - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/Lakatrazz/BONELAB-Fusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 29 | 10 | 
 | 2023-03-20 | 28 | 9 | 
 | 2023-03-18 | 27 | 7 | 
 | 2023-03-17 | 25 | 6 | 

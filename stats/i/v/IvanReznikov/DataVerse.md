@@ -1,10 +1,10 @@
 # IvanReznikov/DataVerse - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 4
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/IvanReznikov/DataVerse)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 44 | 4 | 
 | 2023-03-20 | 43 | 4 | 
 | 2023-03-19 | 43 | 4 | 
 | 2023-03-18 | 43 | 4 | 

@@ -1,6 +1,6 @@
 # VitorVilela7/SA1-Root - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 466 | 26 | 
 | 2023-03-20 | 466 | 26 | 
 | 2023-03-18 | 466 | 26 | 
 | 2023-03-17 | 466 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 460 | 26 | 
 | 2023-02-21 | 459 | 26 | 
 | 2023-02-20 | 458 | 26 | 
-| 2023-02-19 | 458 | 26 | 
 

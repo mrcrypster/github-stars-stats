@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 21
 
 ☋ Forks: 217
 
-★ Stars: 3745
+★ Stars: 3753
 
 [Open repository](https://github.com/vfsfitvnm/ViMusic)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 3745 | 217 | 
+| 2023-03-21 | 3753 | 217 | 
 | 2023-03-20 | 3739 | 217 | 
 | 2023-03-18 | 3711 | 216 | 
 | 2023-03-17 | 3696 | 214 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-22 | 3401 | 197 | 
 | 2023-02-21 | 3397 | 196 | 
 | 2023-02-20 | 3380 | 196 | 
-| 2023-02-19 | 3367 | 196 | 
 

@@ -1,10 +1,10 @@
 # AlaSQL/alasql - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 620
 
-★ Stars: 6530
+★ Stars: 6531
 
 [Open repository](https://github.com/AlaSQL/alasql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 6531 | 620 | 
 | 2023-03-19 | 6530 | 620 | 
 | 2023-03-18 | 6530 | 621 | 
 | 2023-03-17 | 6529 | 621 | 

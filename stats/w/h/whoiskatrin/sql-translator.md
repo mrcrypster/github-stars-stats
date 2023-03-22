@@ -1,10 +1,10 @@
 # whoiskatrin/sql-translator - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 147
+☋ Forks: 160
 
-★ Stars: 2006
+★ Stars: 2209
 
 [Open repository](https://github.com/whoiskatrin/sql-translator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2209 | 160 | 
 | 2023-03-19 | 2006 | 147 | 
 | 2023-03-18 | 1797 | 126 | 
 | 2023-03-17 | 1705 | 125 | 

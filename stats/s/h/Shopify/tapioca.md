@@ -1,6 +1,6 @@
 # Shopify/tapioca - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 497 | 78 | 
 | 2023-03-19 | 497 | 78 | 
 | 2023-03-18 | 496 | 77 | 
 | 2023-03-17 | 496 | 77 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 487 | 76 | 
 | 2023-02-21 | 486 | 76 | 
 | 2023-02-20 | 486 | 76 | 
-| 2023-02-19 | 485 | 76 | 
 

@@ -1,10 +1,10 @@
 # bnb-chain/bsc - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1007
+☋ Forks: 1010
 
-★ Stars: 2040
+★ Stars: 2044
 
 [Open repository](https://github.com/bnb-chain/bsc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2044 | 1010 | 
 | 2023-03-20 | 2040 | 1007 | 
 | 2023-03-18 | 2037 | 1008 | 
 | 2023-03-17 | 2037 | 1006 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2019 | 944 | 
 | 2023-02-21 | 2018 | 941 | 
 | 2023-02-20 | 2016 | 940 | 
-| 2023-02-19 | 2015 | 939 | 
 

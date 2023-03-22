@@ -1,6 +1,6 @@
 # chimpler/postgres-aws-s3 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 107 | 36 | 
 | 2023-03-20 | 107 | 36 | 
 | 2023-03-18 | 107 | 36 | 
 | 2023-03-17 | 107 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 101 | 34 | 
 | 2023-02-21 | 100 | 34 | 
 | 2023-02-20 | 99 | 34 | 
-| 2023-02-19 | 99 | 34 | 
 

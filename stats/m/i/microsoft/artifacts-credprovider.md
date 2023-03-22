@@ -1,8 +1,8 @@
 # microsoft/artifacts-credprovider - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 709
+☋ Forks: 710
 
 ★ Stars: 575
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 575 | 710 | 
 | 2023-03-20 | 575 | 709 | 
 | 2023-03-19 | 575 | 709 | 
 | 2023-03-17 | 575 | 708 | 

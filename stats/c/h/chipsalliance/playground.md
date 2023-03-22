@@ -1,6 +1,6 @@
 # chipsalliance/playground - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 55 | 29 | 
 | 2023-03-20 | 55 | 29 | 
 | 2023-03-18 | 56 | 29 | 
 | 2023-03-17 | 56 | 29 | 

@@ -1,10 +1,10 @@
 # mrcodedev/frontend-developer-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 426
+☋ Forks: 425
 
-★ Stars: 2943
+★ Stars: 2945
 
 [Open repository](https://github.com/mrcodedev/frontend-developer-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2945 | 425 | 
 | 2023-03-20 | 2943 | 426 | 
 | 2023-03-19 | 2944 | 426 | 
 | 2023-03-17 | 2945 | 426 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2936 | 426 | 
 | 2023-02-21 | 2936 | 426 | 
 | 2023-02-20 | 2934 | 426 | 
-| 2023-02-19 | 2933 | 426 | 
 

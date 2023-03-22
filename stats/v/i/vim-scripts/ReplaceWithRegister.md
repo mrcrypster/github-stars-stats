@@ -1,6 +1,6 @@
 # vim-scripts/ReplaceWithRegister - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 275 | 19 | 
 | 2023-03-20 | 275 | 19 | 
 | 2023-03-19 | 275 | 19 | 
 | 2023-03-17 | 275 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 273 | 18 | 
 | 2023-02-22 | 273 | 18 | 
 | 2023-02-21 | 273 | 18 | 
-| 2023-02-19 | 272 | 18 | 
 

@@ -1,8 +1,8 @@
 # philipplackner/WeatherApp - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 119
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 119 | 57 | 
 | 2023-03-20 | 119 | 56 | 
 | 2023-03-19 | 119 | 56 | 
 | 2023-03-18 | 119 | 55 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 116 | 54 | 
 | 2023-02-22 | 114 | 54 | 
 | 2023-02-21 | 114 | 54 | 
-| 2023-02-19 | 114 | 55 | 
 

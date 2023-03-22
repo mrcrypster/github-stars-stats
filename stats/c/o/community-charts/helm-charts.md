@@ -1,6 +1,6 @@
 # community-charts/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 13 | 14 | 
 | 2023-03-20 | 13 | 14 | 
 | 2023-03-18 | 13 | 14 | 
 | 2023-03-17 | 13 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 13 | 13 | 
 | 2023-02-22 | 13 | 12 | 
 | 2023-02-20 | 13 | 12 | 
-| 2023-02-19 | 12 | 12 | 
 

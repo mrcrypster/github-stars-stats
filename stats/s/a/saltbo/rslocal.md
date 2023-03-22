@@ -1,6 +1,6 @@
 # saltbo/rslocal - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 226 | 13 | 
 | 2023-03-19 | 226 | 13 | 
 | 2023-03-18 | 226 | 13 | 
 | 2023-03-17 | 226 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 226 | 13 | 
 | 2023-02-21 | 226 | 13 | 
 | 2023-02-20 | 224 | 13 | 
-| 2023-02-19 | 224 | 13 | 
 

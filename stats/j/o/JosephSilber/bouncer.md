@@ -1,10 +1,10 @@
 # JosephSilber/bouncer - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 323
 
-★ Stars: 3214
+★ Stars: 3213
 
 [Open repository](https://github.com/JosephSilber/bouncer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3213 | 323 | 
 | 2023-03-20 | 3214 | 323 | 
 | 2023-03-19 | 3213 | 323 | 
 | 2023-03-17 | 3212 | 323 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 3201 | 319 | 
 | 2023-02-21 | 3201 | 318 | 
 | 2023-02-20 | 3201 | 318 | 
-| 2023-02-19 | 3201 | 317 | 
 

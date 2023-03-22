@@ -1,10 +1,10 @@
 # shortishly/pgec - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/shortishly/pgec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 72 | - | 
 | 2023-03-20 | 71 | - | 
 | 2023-03-19 | 69 | - | 
 | 2023-03-17 | 68 | - | 

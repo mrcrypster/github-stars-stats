@@ -1,6 +1,6 @@
 # jx3-gitops-repositories/jx3-eks-asm - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2 | 18 | 
 | 2023-03-20 | 2 | 18 | 
 | 2023-03-19 | 2 | 18 | 
 | 2023-03-18 | 2 | 18 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2 | 17 | 
 | 2023-02-21 | 2 | 17 | 
 | 2023-02-20 | 2 | 17 | 
-| 2023-02-19 | 2 | 17 | 
 

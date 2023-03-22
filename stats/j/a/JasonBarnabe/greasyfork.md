@@ -1,10 +1,10 @@
 # JasonBarnabe/greasyfork - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 400
+☋ Forks: 401
 
-★ Stars: 1156
+★ Stars: 1158
 
 [Open repository](https://github.com/JasonBarnabe/greasyfork)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1158 | 401 | 
 | 2023-03-20 | 1156 | 400 | 
 | 2023-03-18 | 1154 | 400 | 
 | 2023-03-17 | 1154 | 401 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 1142 | 397 | 
 | 2023-02-22 | 1141 | 397 | 
 | 2023-02-21 | 1141 | 397 | 
-| 2023-02-19 | 1140 | 397 | 
 

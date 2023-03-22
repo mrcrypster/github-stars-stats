@@ -1,6 +1,6 @@
 # heig-vd-tin/template-tb - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4 | 32 | 
 | 2023-03-19 | 4 | 32 | 
 | 2023-03-18 | 4 | 32 | 
 | 2023-03-17 | 4 | 32 | 

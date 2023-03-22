@@ -1,8 +1,8 @@
 # anoma/namada-testnets - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 472
+☋ Forks: 473
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 54 | 473 | 
 | 2023-03-20 | 54 | 472 | 
 | 2023-03-19 | 54 | 472 | 
 | 2023-03-18 | 54 | 471 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 52 | 462 | 
 | 2023-02-21 | 52 | 460 | 
 | 2023-02-20 | 52 | 460 | 
-| 2023-02-19 | 52 | 460 | 
 

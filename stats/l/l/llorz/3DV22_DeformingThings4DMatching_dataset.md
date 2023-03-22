@@ -1,6 +1,6 @@
 # llorz/3DV22_DeformingThings4DMatching_dataset - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 20 | 2 | 
 | 2023-03-19 | 20 | 2 | 
 | 2023-03-18 | 20 | 2 | 
 | 2023-03-17 | 20 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 20 | 2 | 
 | 2023-02-22 | 20 | 2 | 
 | 2023-02-21 | 20 | 2 | 
-| 2023-02-19 | 20 | 2 | 
 

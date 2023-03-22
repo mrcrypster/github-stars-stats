@@ -1,10 +1,10 @@
 # miniMAC/magic - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1173
 
-★ Stars: 7968
+★ Stars: 7970
 
 [Open repository](https://github.com/miniMAC/magic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 7970 | 1173 | 
 | 2023-03-20 | 7968 | 1173 | 
 | 2023-03-19 | 7966 | 1173 | 
 | 2023-03-17 | 7966 | 1173 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 7931 | 1175 | 
 | 2023-02-22 | 7928 | 1175 | 
 | 2023-02-21 | 7927 | 1175 | 
-| 2023-02-19 | 7927 | 1175 | 
 

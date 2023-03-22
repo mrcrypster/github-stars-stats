@@ -1,10 +1,10 @@
 # QingyangKong/ChainlinkLearningPath - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/QingyangKong/ChainlinkLearningPath)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 28 | 22 | 
 | 2023-03-20 | 27 | 21 | 
 | 2023-03-18 | 27 | 21 | 
 | 2023-03-17 | 26 | 21 | 

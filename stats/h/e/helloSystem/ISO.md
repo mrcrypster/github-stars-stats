@@ -1,10 +1,10 @@
 # helloSystem/ISO - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 61
 
-★ Stars: 745
+★ Stars: 748
 
 [Open repository](https://github.com/helloSystem/ISO)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 748 | 61 | 
 | 2023-03-20 | 745 | 61 | 
 | 2023-03-18 | 745 | 61 | 
 | 2023-03-17 | 745 | 61 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 729 | 60 | 
 | 2023-02-22 | 729 | 60 | 
 | 2023-02-20 | 728 | 60 | 
-| 2023-02-19 | 727 | 60 | 
 

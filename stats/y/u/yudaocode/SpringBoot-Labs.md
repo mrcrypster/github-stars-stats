@@ -1,10 +1,10 @@
 # yudaocode/SpringBoot-Labs - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 5334
+☋ Forks: 5338
 
-★ Stars: 16309
+★ Stars: 16324
 
 [Open repository](https://github.com/yudaocode/SpringBoot-Labs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 16324 | 5338 | 
 | 2023-03-20 | 16309 | 5334 | 
 | 2023-03-18 | 16302 | 5332 | 
 | 2023-03-17 | 16303 | 5329 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 16082 | 5255 | 
 | 2023-02-21 | 16069 | 5251 | 
 | 2023-02-20 | 16054 | 5245 | 
-| 2023-02-19 | 16040 | 5241 | 
 

@@ -1,6 +1,6 @@
 # yanjiaxuan/TOMATOX - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 572 | 115 | 
 | 2023-03-19 | 572 | 115 | 
 | 2023-03-18 | 572 | 115 | 
 | 2023-03-16 | 572 | 115 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 557 | 108 | 
 | 2023-02-21 | 555 | 108 | 
 | 2023-02-20 | 557 | 108 | 
-| 2023-02-19 | 557 | 108 | 
 

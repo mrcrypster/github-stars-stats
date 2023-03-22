@@ -1,10 +1,10 @@
 # swarmpit/swarmpit - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 263
+☋ Forks: 264
 
-★ Stars: 2602
+★ Stars: 2604
 
 [Open repository](https://github.com/swarmpit/swarmpit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2604 | 264 | 
 | 2023-03-20 | 2602 | 263 | 
 | 2023-03-19 | 2600 | 263 | 
 | 2023-03-17 | 2600 | 263 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 2583 | 262 | 
 | 2023-02-21 | 2582 | 262 | 
 | 2023-02-20 | 2582 | 262 | 
-| 2023-02-19 | 2579 | 262 | 
 

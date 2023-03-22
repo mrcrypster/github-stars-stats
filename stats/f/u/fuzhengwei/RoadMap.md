@@ -1,10 +1,10 @@
 # fuzhengwei/RoadMap - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 498
+★ Stars: 505
 
 [Open repository](https://github.com/fuzhengwei/RoadMap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 505 | 92 | 
 | 2023-03-20 | 498 | 91 | 
 | 2023-03-18 | 496 | 91 | 
 | 2023-03-17 | 493 | 90 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 445 | 79 | 
 | 2023-02-22 | 443 | 78 | 
 | 2023-02-21 | 441 | 78 | 
-| 2023-02-19 | 438 | 77 | 
 

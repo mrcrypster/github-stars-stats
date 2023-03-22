@@ -1,6 +1,6 @@
 # pmb6tz/windows-desktop-switcher - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 918 | 197 | 
 | 2023-03-20 | 918 | 197 | 
 | 2023-03-19 | 918 | 197 | 
 | 2023-03-17 | 918 | 197 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 909 | 195 | 
 | 2023-02-21 | 909 | 195 | 
 | 2023-02-20 | 908 | 196 | 
-| 2023-02-19 | 908 | 196 | 
 

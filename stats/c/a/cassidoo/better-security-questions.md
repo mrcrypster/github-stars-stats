@@ -1,6 +1,6 @@
 # cassidoo/better-security-questions - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 140 | 30 | 
 | 2023-03-20 | 140 | 30 | 
 | 2023-03-19 | 140 | 30 | 
 | 2023-03-18 | 140 | 30 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 140 | 30 | 
 | 2023-02-22 | 140 | 30 | 
 | 2023-02-21 | 140 | 30 | 
-| 2023-02-19 | 140 | 30 | 
 

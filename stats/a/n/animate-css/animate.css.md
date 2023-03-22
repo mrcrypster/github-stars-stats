@@ -1,10 +1,10 @@
 # animate-css/animate.css - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 16394
+☋ Forks: 16397
 
-★ Stars: 77333
+★ Stars: 77356
 
 [Open repository](https://github.com/animate-css/animate.css)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 77356 | 16397 | 
+| 2023-03-21 | 77353 | 16397 | 
 | 2023-03-20 | 77333 | 16394 | 
 | 2023-03-18 | 77325 | 16393 | 
 | 2023-03-17 | 77316 | 16396 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 77108 | 16390 | 
 | 2023-02-21 | 77098 | 16386 | 
 | 2023-02-20 | 77087 | 16385 | 
-| 2023-02-19 | 77079 | 16384 | 
 

@@ -1,6 +1,6 @@
 # phoenixframework/phoenix_ecto - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 391 | 108 | 
 | 2023-03-19 | 391 | 108 | 
 | 2023-03-18 | 390 | 108 | 
 | 2023-03-17 | 390 | 108 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 388 | 109 | 
 | 2023-02-21 | 388 | 109 | 
 | 2023-02-20 | 388 | 109 | 
-| 2023-02-19 | 388 | 109 | 
 

@@ -1,10 +1,10 @@
 # Novartis/shinyValidator - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/Novartis/shinyValidator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 35 | 2 | 
 | 2023-03-20 | 34 | 2 | 
 | 2023-03-19 | 34 | 2 | 
 | 2023-03-17 | 34 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 34 | 2 | 
 | 2023-02-21 | 34 | 2 | 
 | 2023-02-20 | 34 | 2 | 
-| 2023-02-19 | 34 | 2 | 
 

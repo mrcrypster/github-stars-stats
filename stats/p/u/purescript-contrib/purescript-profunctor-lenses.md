@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-profunctor-lenses - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 141 | 52 | 
 | 2023-03-19 | 141 | 52 | 
 | 2023-03-18 | 141 | 52 | 
 | 2023-03-17 | 141 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 140 | 52 | 
 | 2023-02-21 | 140 | 52 | 
 | 2023-02-20 | 140 | 52 | 
-| 2023-02-19 | 140 | 52 | 
 

@@ -1,10 +1,10 @@
 # spring-cloud/spring-cloud-netflix - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2401
 
-★ Stars: 4706
+★ Stars: 4707
 
 [Open repository](https://github.com/spring-cloud/spring-cloud-netflix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4707 | 2401 | 
 | 2023-03-20 | 4706 | 2401 | 
 | 2023-03-18 | 4703 | 2401 | 
 | 2023-03-17 | 4703 | 2400 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 4693 | 2394 | 
 | 2023-02-21 | 4696 | 2394 | 
 | 2023-02-20 | 4694 | 2392 | 
-| 2023-02-19 | 4694 | 2392 | 
 

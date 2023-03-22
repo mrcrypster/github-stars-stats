@@ -1,6 +1,6 @@
 # Authing/Authing - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 958 | 69 | 
 | 2023-03-20 | 958 | 69 | 
 | 2023-03-18 | 958 | 69 | 
 | 2023-03-17 | 958 | 69 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 953 | 69 | 
 | 2023-02-21 | 953 | 69 | 
 | 2023-02-20 | 953 | 69 | 
-| 2023-02-19 | 953 | 69 | 
 

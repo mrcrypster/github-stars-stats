@@ -1,6 +1,6 @@
 # fluxcd/flux2-kustomize-helm-example - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 790
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 634 | 790 | 
 | 2023-03-20 | 634 | 790 | 
 | 2023-03-19 | 632 | 791 | 
 | 2023-03-18 | 632 | 789 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 611 | 760 | 
 | 2023-02-21 | 609 | 760 | 
 | 2023-02-20 | 609 | 757 | 
-| 2023-02-19 | 609 | 756 | 
 

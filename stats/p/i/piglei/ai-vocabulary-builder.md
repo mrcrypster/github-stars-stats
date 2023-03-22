@@ -1,10 +1,10 @@
 # piglei/ai-vocabulary-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 592
+★ Stars: 602
 
 [Open repository](https://github.com/piglei/ai-vocabulary-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 602 | 37 | 
 | 2023-03-20 | 592 | 36 | 
 | 2023-03-18 | 582 | 35 | 
 | 2023-03-17 | 578 | 35 | 

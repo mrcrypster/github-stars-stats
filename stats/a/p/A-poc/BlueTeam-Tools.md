@@ -1,10 +1,10 @@
 # A-poc/BlueTeam-Tools - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 1361
+★ Stars: 1365
 
 [Open repository](https://github.com/A-poc/BlueTeam-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1365 | 186 | 
 | 2023-03-20 | 1361 | 185 | 
 | 2023-03-19 | 1355 | 184 | 
 | 2023-03-18 | 1347 | 183 | 

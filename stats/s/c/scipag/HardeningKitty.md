@@ -1,6 +1,6 @@
 # scipag/HardeningKitty - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 740 | 92 | 
 | 2023-03-20 | 740 | 92 | 
 | 2023-03-19 | 740 | 92 | 
 | 2023-03-18 | 739 | 92 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 719 | 90 | 
 | 2023-02-22 | 718 | 90 | 
 | 2023-02-20 | 718 | 89 | 
-| 2023-02-19 | 716 | 89 | 
 

@@ -1,6 +1,6 @@
 # crosire/reshade - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 478
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3138 | 478 | 
 | 2023-03-20 | 3138 | 478 | 
 | 2023-03-18 | 3131 | 477 | 
 | 2023-03-17 | 3131 | 477 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 3081 | 475 | 
 | 2023-02-22 | 3080 | 475 | 
 | 2023-02-21 | 3077 | 476 | 
-| 2023-02-20 | 3076 | 476 | 
 

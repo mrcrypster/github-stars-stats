@@ -1,10 +1,10 @@
 # gwuhaolin/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 281
+☋ Forks: 280
 
-★ Stars: 2171
+★ Stars: 2172
 
 [Open repository](https://github.com/gwuhaolin/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2172 | 280 | 
 | 2023-03-20 | 2171 | 281 | 
 | 2023-03-18 | 2171 | 281 | 
 | 2023-03-17 | 2171 | 281 | 

@@ -1,6 +1,6 @@
 # chianjin/outline-of-mechanics - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 137 | 25 | 
 | 2023-03-20 | 137 | 25 | 
 | 2023-03-19 | 136 | 25 | 
 | 2023-03-17 | 136 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 134 | 23 | 
 | 2023-02-22 | 134 | 23 | 
 | 2023-02-21 | 134 | 23 | 
-| 2023-02-19 | 134 | 23 | 
 

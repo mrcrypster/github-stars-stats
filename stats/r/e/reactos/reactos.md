@@ -1,6 +1,6 @@
 # reactos/reactos - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1515
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 12126 | 1515 | 
 | 2023-03-20 | 12126 | 1515 | 
 | 2023-03-19 | 12124 | 1515 | 
 | 2023-03-18 | 12118 | 1514 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 12042 | 1501 | 
 | 2023-02-21 | 12041 | 1500 | 
 | 2023-02-20 | 12036 | 1500 | 
-| 2023-02-19 | 12035 | 1500 | 
 

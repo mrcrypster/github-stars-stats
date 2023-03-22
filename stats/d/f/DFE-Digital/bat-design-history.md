@@ -1,6 +1,6 @@
 # DFE-Digital/bat-design-history - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 10 | 11 | 
 | 2023-03-20 | 10 | 11 | 
 | 2023-03-19 | 10 | 11 | 
 | 2023-03-18 | 10 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 10 | 11 | 
 | 2023-02-22 | 10 | 11 | 
 | 2023-02-21 | 10 | 11 | 
-| 2023-02-19 | 10 | 11 | 
 

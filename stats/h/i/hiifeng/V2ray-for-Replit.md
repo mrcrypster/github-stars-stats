@@ -1,8 +1,8 @@
 # hiifeng/V2ray-for-Replit - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 390
+☋ Forks: 393
 
 ★ Stars: 233
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 233 | 393 | 
 | 2023-03-20 | 233 | 390 | 
 | 2023-03-19 | 230 | 384 | 
 | 2023-03-17 | 226 | 377 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 121 | 212 | 
 | 2023-02-21 | 118 | 201 | 
 | 2023-02-20 | 114 | 194 | 
-| 2023-02-19 | 107 | 185 | 
 

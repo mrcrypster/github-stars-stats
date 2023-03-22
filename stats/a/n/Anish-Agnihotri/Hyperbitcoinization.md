@@ -1,10 +1,10 @@
 # Anish-Agnihotri/Hyperbitcoinization - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1
 
-★ Stars: 105
+★ Stars: 110
 
 [Open repository](https://github.com/Anish-Agnihotri/Hyperbitcoinization)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 110 | 1 | 
 | 2023-03-20 | 105 | 1 | 
 

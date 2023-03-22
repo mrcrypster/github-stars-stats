@@ -1,10 +1,10 @@
 # pointfreeco/swift-custom-dump - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 657
+★ Stars: 660
 
 [Open repository](https://github.com/pointfreeco/swift-custom-dump)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 660 | 59 | 
 | 2023-03-20 | 657 | 58 | 
 | 2023-03-18 | 657 | 58 | 
 | 2023-03-17 | 657 | 58 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 653 | 55 | 
 | 2023-02-22 | 653 | 55 | 
 | 2023-02-21 | 653 | 55 | 
-| 2023-02-19 | 652 | 55 | 
 

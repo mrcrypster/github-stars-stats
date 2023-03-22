@@ -1,10 +1,10 @@
 # HangfireIO/Hangfire - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1579
 
-★ Stars: 8114
+★ Stars: 8120
 
 [Open repository](https://github.com/HangfireIO/Hangfire)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 8120 | 1579 | 
 | 2023-03-19 | 8114 | 1579 | 
 | 2023-03-18 | 8112 | 1579 | 
 | 2023-03-17 | 8108 | 1580 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 8049 | 1576 | 
 | 2023-02-21 | 8044 | 1576 | 
 | 2023-02-20 | 8041 | 1575 | 
-| 2023-02-19 | 8038 | 1575 | 
 

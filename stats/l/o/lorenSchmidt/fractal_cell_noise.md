@@ -1,6 +1,6 @@
 # lorenSchmidt/fractal_cell_noise - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 260 | 9 | 
 | 2023-03-19 | 260 | 9 | 
 | 2023-03-18 | 260 | 9 | 
 | 2023-03-17 | 260 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 258 | 9 | 
 | 2023-02-21 | 258 | 9 | 
 | 2023-02-20 | 258 | 9 | 
-| 2023-02-19 | 257 | 9 | 
 

@@ -1,10 +1,10 @@
 # trobonox/kanri - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 16
+☋ Forks: 15
 
-★ Stars: 175
+★ Stars: 177
 
 [Open repository](https://github.com/trobonox/kanri)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 177 | 15 | 
 | 2023-03-20 | 175 | 16 | 
 | 2023-03-18 | 174 | 16 | 
 | 2023-03-17 | 174 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 154 | 12 | 
 | 2023-02-22 | 152 | 12 | 
 | 2023-02-20 | 141 | 10 | 
-| 2023-02-19 | 137 | 10 | 
 

@@ -1,10 +1,10 @@
 # pandas-dev/pandas - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 15934
+☋ Forks: 15939
 
-★ Stars: 37285
+★ Stars: 37296
 
 [Open repository](https://github.com/pandas-dev/pandas)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 37296 | 15939 | 
 | 2023-03-19 | 37285 | 15934 | 
 | 2023-03-18 | 37269 | 15928 | 
 | 2023-03-17 | 37254 | 15928 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 36934 | 15790 | 
 | 2023-02-21 | 36929 | 15787 | 
 | 2023-02-20 | 36916 | 15785 | 
-| 2023-02-19 | 36908 | 15781 | 
 

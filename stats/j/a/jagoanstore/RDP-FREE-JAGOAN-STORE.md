@@ -1,8 +1,8 @@
 # jagoanstore/RDP-FREE-JAGOAN-STORE - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 205
+☋ Forks: 211
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1 | 211 | 
 | 2023-03-20 | 1 | 205 | 
 | 2023-03-19 | 1 | 205 | 
 | 2023-03-18 | 1 | 200 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 1 | 139 | 
 | 2023-02-21 | 1 | 139 | 
 | 2023-02-20 | 1 | 136 | 
-| 2023-02-19 | 1 | 133 | 
 

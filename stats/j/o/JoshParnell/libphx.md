@@ -1,6 +1,6 @@
 # JoshParnell/libphx - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 185 | 57 | 
 | 2023-03-20 | 185 | 57 | 
 | 2023-03-19 | 185 | 57 | 
 | 2023-03-17 | 185 | 57 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 183 | 58 | 
 | 2023-02-21 | 183 | 58 | 
 | 2023-02-20 | 183 | 58 | 
-| 2023-02-19 | 183 | 58 | 
 

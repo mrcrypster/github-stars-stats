@@ -1,8 +1,8 @@
 # alist-org/alist-replit - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 284
+☋ Forks: 283
 
 ★ Stars: 241
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 241 | 283 | 
 | 2023-03-19 | 241 | 284 | 
 | 2023-03-18 | 240 | 283 | 
 | 2023-03-17 | 240 | 281 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 225 | 253 | 
 | 2023-02-21 | 223 | 249 | 
 | 2023-02-20 | 220 | 244 | 
-| 2023-02-19 | 220 | 236 | 
 

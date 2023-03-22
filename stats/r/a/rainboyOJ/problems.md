@@ -1,6 +1,6 @@
 # rainboyOJ/problems - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 19 | 16 | 
 | 2023-03-19 | 19 | 16 | 
 | 2023-03-18 | 19 | 16 | 
 | 2023-03-17 | 19 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 19 | 16 | 
 | 2023-02-22 | 19 | 16 | 
 | 2023-02-21 | 19 | 17 | 
-| 2023-02-19 | 19 | 17 | 
 

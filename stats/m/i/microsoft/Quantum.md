@@ -1,10 +1,10 @@
 # microsoft/Quantum - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 916
+☋ Forks: 917
 
-★ Stars: 3658
+★ Stars: 3659
 
 [Open repository](https://github.com/microsoft/Quantum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 3659 | 917 | 
 | 2023-03-20 | 3658 | 916 | 
 | 2023-03-19 | 3657 | 916 | 
 | 2023-03-18 | 3656 | 913 | 

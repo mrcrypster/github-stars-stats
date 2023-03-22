@@ -1,10 +1,10 @@
 # swirldev/swirl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 593
 
-★ Stars: 1059
+★ Stars: 1060
 
 [Open repository](https://github.com/swirldev/swirl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1060 | 593 | 
 | 2023-03-19 | 1059 | 593 | 
 | 2023-03-18 | 1058 | 593 | 
 | 2023-03-17 | 1058 | 594 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 1055 | 593 | 
 | 2023-02-21 | 1055 | 593 | 
 | 2023-02-20 | 1055 | 593 | 
-| 2023-02-19 | 1055 | 593 | 
 

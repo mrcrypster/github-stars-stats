@@ -1,6 +1,6 @@
 # froggey/Mezzano - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3347 | 183 | 
 | 2023-03-20 | 3347 | 183 | 
 | 2023-03-19 | 3347 | 183 | 
 | 2023-03-18 | 3345 | 183 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 3331 | 183 | 
 | 2023-02-22 | 3328 | 183 | 
 | 2023-02-20 | 3326 | 183 | 
-| 2023-02-19 | 3325 | 183 | 
 

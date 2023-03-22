@@ -1,10 +1,10 @@
 # modelleicher/FS22_simpleIC - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 17
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/modelleicher/FS22_simpleIC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 54 | 17 | 
 | 2023-03-20 | 53 | 17 | 
 | 2023-03-19 | 52 | 17 | 
 | 2023-03-18 | 52 | 17 | 

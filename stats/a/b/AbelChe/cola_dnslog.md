@@ -1,10 +1,10 @@
 # AbelChe/cola_dnslog - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 48
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/AbelChe/cola_dnslog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 287 | 48 | 
 | 2023-03-19 | 286 | 48 | 
 | 2023-03-18 | 286 | 48 | 
 | 2023-03-16 | 285 | 48 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 273 | 46 | 
 | 2023-02-21 | 271 | 46 | 
 | 2023-02-20 | 267 | 46 | 
-| 2023-02-19 | 267 | 46 | 
 

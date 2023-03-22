@@ -1,6 +1,6 @@
 # shogo4405/HaishinKit.swift - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 535
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2471 | 535 | 
 | 2023-03-19 | 2471 | 535 | 
 | 2023-03-18 | 2469 | 535 | 
 | 2023-03-17 | 2469 | 535 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 2454 | 531 | 
 | 2023-02-21 | 2455 | 531 | 
 | 2023-02-20 | 2452 | 529 | 
-| 2023-02-19 | 2451 | 529 | 
 

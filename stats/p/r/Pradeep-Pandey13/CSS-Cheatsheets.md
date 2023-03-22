@@ -1,6 +1,6 @@
 # Pradeep-Pandey13/CSS-Cheatsheets - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 942 | 105 | 
 | 2023-03-19 | 942 | 105 | 
 | 2023-03-18 | 937 | 103 | 
 | 2023-03-17 | 932 | 103 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 849 | 94 | 
 | 2023-02-22 | 848 | 93 | 
 | 2023-02-21 | 845 | 92 | 
-| 2023-02-19 | 841 | 92 | 
 

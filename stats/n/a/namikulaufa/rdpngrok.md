@@ -1,10 +1,8 @@
 # namikulaufa/rdpngrok - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+☋ Forks: 
 
-☋ Forks: 732
-
-★ Stars: 8
+★ Stars: 
 
 [Open repository](https://github.com/namikulaufa/rdpngrok)
 
@@ -13,5 +11,4 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 8 | 732 | 
 

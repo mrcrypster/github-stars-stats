@@ -1,8 +1,8 @@
 # LuaJIT/LuaJIT - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 803
+☋ Forks: 806
 
 ★ Stars: 3715
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3715 | 806 | 
 | 2023-03-19 | 3715 | 803 | 
 | 2023-03-18 | 3714 | 804 | 
 | 2023-03-16 | 3714 | 804 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 3682 | 798 | 
 | 2023-02-22 | 3678 | 798 | 
 | 2023-02-20 | 3673 | 798 | 
-| 2023-02-19 | 3672 | 798 | 
 

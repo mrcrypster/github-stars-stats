@@ -1,6 +1,6 @@
 # afinesami/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 67 | 226 | 
 | 2023-03-20 | 67 | 226 | 
 | 2023-03-18 | 67 | 227 | 
 | 2023-03-17 | 67 | 227 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 59 | 224 | 
 | 2023-02-22 | 59 | 223 | 
 | 2023-02-20 | 59 | 223 | 
-| 2023-02-19 | 59 | 222 | 
 

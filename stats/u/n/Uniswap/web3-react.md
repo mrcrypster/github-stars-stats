@@ -1,10 +1,10 @@
 # Uniswap/web3-react - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1320
+☋ Forks: 1322
 
-★ Stars: 4829
+★ Stars: 4832
 
 [Open repository](https://github.com/Uniswap/web3-react)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 4832 | 1322 | 
 | 2023-03-20 | 4829 | 1320 | 
 | 2023-03-18 | 4825 | 1318 | 
 | 2023-03-17 | 4825 | 1316 | 

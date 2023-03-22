@@ -1,6 +1,6 @@
 # vkurko/calendar - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 286 | 15 | 
 | 2023-03-20 | 286 | 15 | 
 | 2023-03-19 | 284 | 15 | 
 | 2023-03-17 | 283 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 257 | 11 | 
 | 2023-02-21 | 255 | 11 | 
 | 2023-02-20 | 252 | 10 | 
-| 2023-02-19 | 250 | 10 | 
 

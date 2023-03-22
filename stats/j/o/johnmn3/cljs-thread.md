@@ -1,10 +1,10 @@
 # johnmn3/cljs-thread - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/johnmn3/cljs-thread)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 41 | - | 
 | 2023-03-20 | 40 | - | 
 | 2023-03-19 | 40 | - | 
 | 2023-03-17 | 39 | - | 

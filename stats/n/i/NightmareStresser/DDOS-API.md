@@ -1,10 +1,10 @@
 # NightmareStresser/DDOS-API - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 108
 
-★ Stars: 206
+★ Stars: 204
 
 [Open repository](https://github.com/NightmareStresser/DDOS-API)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 204 | 108 | 
 | 2023-03-20 | 206 | 108 | 
 | 2023-03-19 | 207 | 108 | 
 | 2023-03-18 | 277 | 108 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 362 | 108 | 
 | 2023-02-22 | 362 | 108 | 
 | 2023-02-21 | 362 | 108 | 
-| 2023-02-20 | 362 | 108 | 
 

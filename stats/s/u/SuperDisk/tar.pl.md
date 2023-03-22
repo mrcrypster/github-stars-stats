@@ -1,6 +1,6 @@
 # SuperDisk/tar.pl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 249 | 6 | 
 | 2023-03-19 | 249 | 6 | 
 | 2023-03-18 | 249 | 6 | 
 | 2023-03-17 | 249 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 247 | 5 | 
 | 2023-02-22 | 247 | 5 | 
 | 2023-02-20 | 246 | 5 | 
-| 2023-02-19 | 245 | 5 | 
 

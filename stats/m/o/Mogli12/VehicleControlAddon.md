@@ -1,10 +1,10 @@
 # Mogli12/VehicleControlAddon - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 174
 
-★ Stars: 322
+★ Stars: 321
 
 [Open repository](https://github.com/Mogli12/VehicleControlAddon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 321 | 174 | 
 | 2023-03-19 | 322 | 174 | 
 | 2023-03-18 | 323 | 174 | 
 | 2023-03-17 | 323 | 174 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 322 | 173 | 
 | 2023-02-22 | 322 | 173 | 
 | 2023-02-21 | 322 | 173 | 
-| 2023-02-19 | 322 | 173 | 
 

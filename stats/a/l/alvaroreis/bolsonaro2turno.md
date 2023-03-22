@@ -1,6 +1,6 @@
 # alvaroreis/bolsonaro2turno - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 122 | 72 | 
 | 2023-03-20 | 122 | 72 | 
 | 2023-03-19 | 122 | 72 | 
 | 2023-03-17 | 122 | 72 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 122 | 72 | 
 | 2023-02-21 | 122 | 72 | 
 | 2023-02-20 | 122 | 72 | 
-| 2023-02-19 | 122 | 72 | 
 

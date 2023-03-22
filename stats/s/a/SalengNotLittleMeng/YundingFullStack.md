@@ -1,6 +1,6 @@
 # SalengNotLittleMeng/YundingFullStack - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 11 | 65 | 
 | 2023-03-19 | 11 | 65 | 
 | 2023-03-18 | 11 | 65 | 
 | 2023-03-17 | 11 | 65 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 10 | 65 | 
 | 2023-02-22 | 10 | 65 | 
 | 2023-02-21 | 10 | 65 | 
-| 2023-02-20 | 10 | 65 | 
 

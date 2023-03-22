@@ -1,10 +1,10 @@
 # VipaiLab/Signals-and-Systems-course - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/VipaiLab/Signals-and-Systems-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 109 | 42 | 
 | 2023-03-19 | 108 | 41 | 
 | 2023-03-18 | 108 | 41 | 
 | 2023-03-17 | 107 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 95 | 33 | 
 | 2023-02-21 | 94 | 33 | 
 | 2023-02-20 | 93 | 32 | 
-| 2023-02-19 | 92 | 31 | 
 

@@ -1,8 +1,8 @@
 # seatonjiang/kratos - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 586
+☋ Forks: 585
 
 ★ Stars: 2702
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2702 | 585 | 
 | 2023-03-20 | 2702 | 586 | 
 | 2023-03-18 | 2703 | 585 | 
 | 2023-03-17 | 2702 | 586 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 2673 | 582 | 
 | 2023-02-22 | 2673 | 582 | 
 | 2023-02-20 | 2672 | 582 | 
-| 2023-02-19 | 2670 | 581 | 
 

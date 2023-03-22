@@ -1,10 +1,10 @@
 # asciinema/agg - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 12
 
-★ Stars: 564
+★ Stars: 569
 
 [Open repository](https://github.com/asciinema/agg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 569 | 12 | 
 | 2023-03-20 | 564 | 12 | 
 | 2023-03-19 | 564 | 12 | 
 | 2023-03-17 | 562 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 536 | 10 | 
 | 2023-02-21 | 535 | 10 | 
 | 2023-02-20 | 533 | 10 | 
-| 2023-02-19 | 533 | 10 | 
 

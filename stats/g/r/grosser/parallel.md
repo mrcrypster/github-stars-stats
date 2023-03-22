@@ -1,10 +1,10 @@
 # grosser/parallel - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 257
 
-★ Stars: 3996
+★ Stars: 3995
 
 [Open repository](https://github.com/grosser/parallel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 3995 | 257 | 
 | 2023-03-20 | 3996 | 257 | 
 | 2023-03-19 | 3994 | 257 | 
 | 2023-03-18 | 3993 | 257 | 

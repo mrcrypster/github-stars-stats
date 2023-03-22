@@ -1,8 +1,8 @@
 # mbdavid/LiteDB - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1112
+☋ Forks: 1113
 
 ★ Stars: 7323
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 7323 | 1113 | 
 | 2023-03-20 | 7323 | 1112 | 
 | 2023-03-18 | 7324 | 1111 | 
 | 2023-03-17 | 7322 | 1111 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 7259 | 1099 | 
 | 2023-02-22 | 7253 | 1098 | 
 | 2023-02-21 | 7251 | 1097 | 
-| 2023-02-19 | 7250 | 1097 | 
 

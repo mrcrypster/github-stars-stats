@@ -1,10 +1,10 @@
 # Lora-net/LoRaMac-node - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 1040
 
-★ Stars: 1682
+★ Stars: 1683
 
 [Open repository](https://github.com/Lora-net/LoRaMac-node)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 1683 | 1040 | 
 | 2023-03-20 | 1682 | 1040 | 
 | 2023-03-19 | 1682 | 1040 | 
 | 2023-03-18 | 1681 | 1039 | 

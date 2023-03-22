@@ -1,10 +1,10 @@
 # dastergon/awesome-sre - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
-☋ Forks: 1331
+☋ Forks: 1332
 
-★ Stars: 9836
+★ Stars: 9843
 
 [Open repository](https://github.com/dastergon/awesome-sre)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 9843 | 1332 | 
 | 2023-03-19 | 9836 | 1331 | 
 | 2023-03-18 | 9832 | 1331 | 
 | 2023-03-17 | 9826 | 1332 | 

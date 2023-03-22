@@ -1,10 +1,10 @@
 # plumatic/schema - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 257
 
-★ Stars: 2343
+★ Stars: 2344
 
 [Open repository](https://github.com/plumatic/schema)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 2344 | 257 | 
 | 2023-03-20 | 2343 | 257 | 
 | 2023-03-19 | 2343 | 257 | 
 | 2023-03-17 | 2343 | 257 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 2341 | 256 | 
 | 2023-02-22 | 2341 | 256 | 
 | 2023-02-20 | 2341 | 256 | 
-| 2023-02-19 | 2341 | 256 | 
 

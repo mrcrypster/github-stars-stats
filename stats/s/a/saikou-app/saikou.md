@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 21
 
 ☋ Forks: 212
 
-★ Stars: 3427
+★ Stars: 3428
 
 [Open repository](https://github.com/saikou-app/saikou)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 3427 | 212 | 
+| 2023-03-21 | 3428 | 212 | 
 | 2023-03-20 | 3425 | 212 | 
 | 2023-03-19 | 3419 | 212 | 
 | 2023-03-18 | 3403 | 212 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-22 | 3308 | 202 | 
 | 2023-02-21 | 3300 | 201 | 
 | 2023-02-20 | 3289 | 200 | 
-| 2023-02-19 | 3277 | 200 | 
 

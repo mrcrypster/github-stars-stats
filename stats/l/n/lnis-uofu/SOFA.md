@@ -1,10 +1,10 @@
 # lnis-uofu/SOFA - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 26
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/lnis-uofu/SOFA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 112 | 26 | 
 | 2023-03-20 | 111 | 26 | 
 | 2023-03-19 | 111 | 26 | 
 | 2023-03-17 | 111 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 110 | 26 | 
 | 2023-02-22 | 110 | 26 | 
 | 2023-02-21 | 109 | 26 | 
-| 2023-02-19 | 109 | 26 | 
 

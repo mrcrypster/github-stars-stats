@@ -1,10 +1,10 @@
 # Suzhou-Tongyuan/TyOOP.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/Suzhou-Tongyuan/TyOOP.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 68 | 4 | 
 | 2023-03-19 | 67 | 4 | 
 | 2023-03-18 | 67 | 4 | 
 | 2023-03-17 | 67 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-22 | 65 | 4 | 
 | 2023-02-21 | 65 | 4 | 
 | 2023-02-20 | 65 | 4 | 
-| 2023-02-19 | 65 | 4 | 
 

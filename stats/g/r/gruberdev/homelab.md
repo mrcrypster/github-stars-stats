@@ -1,10 +1,10 @@
 # gruberdev/homelab - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/gruberdev/homelab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 30 | 2 | 
 | 2023-03-20 | 29 | 2 | 
 | 2023-03-19 | 28 | 2 | 
 | 2023-03-18 | 28 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-22 | 23 | 1 | 
 | 2023-02-21 | 23 | 1 | 
 | 2023-02-20 | 23 | 1 | 
-| 2023-02-19 | 23 | 1 | 
 

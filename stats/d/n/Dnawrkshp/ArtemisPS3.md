@@ -1,6 +1,6 @@
 # Dnawrkshp/ArtemisPS3 - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 89 | 55 | 
 | 2023-03-19 | 89 | 55 | 
 | 2023-03-18 | 89 | 55 | 
 | 2023-03-17 | 89 | 55 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 88 | 55 | 
 | 2023-02-22 | 88 | 55 | 
 | 2023-02-21 | 88 | 55 | 
-| 2023-02-19 | 88 | 55 | 
 

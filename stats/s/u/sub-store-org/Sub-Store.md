@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 21
 
-☋ Forks: 229
+☋ Forks: 228
 
-★ Stars: 2279
+★ Stars: 2282
 
 [Open repository](https://github.com/sub-store-org/Sub-Store)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-21 | 2279 | 229 | 
+| 2023-03-21 | 2282 | 228 | 
 | 2023-03-20 | 2279 | 229 | 
 | 2023-03-19 | 2272 | 227 | 
 | 2023-03-17 | 2273 | 222 | 

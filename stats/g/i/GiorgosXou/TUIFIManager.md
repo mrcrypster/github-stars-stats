@@ -1,10 +1,10 @@
 # GiorgosXou/TUIFIManager - stars & forks statistics
 
-Stats updated on Mar 2023, 19
+Stats updated on Mar 2023, 21
 
 ☋ Forks: 9
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/GiorgosXou/TUIFIManager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 355 | 9 | 
 | 2023-03-19 | 354 | 9 | 
 | 2023-03-18 | 354 | 9 | 
 | 2023-03-17 | 354 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 19
 | 2023-02-23 | 346 | 9 | 
 | 2023-02-22 | 346 | 9 | 
 | 2023-02-21 | 346 | 9 | 
-| 2023-02-19 | 346 | 9 | 
 

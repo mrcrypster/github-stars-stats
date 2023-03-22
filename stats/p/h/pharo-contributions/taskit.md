@@ -1,8 +1,8 @@
 # pharo-contributions/taskit - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 21
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-21 | 38 | 20 | 
 | 2023-03-20 | 38 | 19 | 
 | 2023-03-18 | 38 | 19 | 
 | 2023-03-17 | 38 | 19 | 
