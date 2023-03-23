@@ -1,10 +1,10 @@
 # Pradumnasaraf/open-source-with-pradumna - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 172
+☋ Forks: 171
 
-★ Stars: 673
+★ Stars: 674
 
 [Open repository](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 674 | 171 | 
 | 2023-03-21 | 673 | 172 | 
 | 2023-03-20 | 673 | 172 | 
 | 2023-03-19 | 670 | 172 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 656 | 165 | 
 | 2023-02-23 | 656 | 166 | 
 | 2023-02-22 | 656 | 165 | 
-| 2023-02-20 | 654 | 165 | 
 

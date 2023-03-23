@@ -1,10 +1,10 @@
 # jakehamilton/config - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 8
 
-★ Stars: 72
+★ Stars: 71
 
 [Open repository](https://github.com/jakehamilton/config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 71 | 8 | 
 | 2023-03-21 | 72 | 8 | 
 | 2023-03-19 | 69 | 7 | 
 | 2023-03-18 | 68 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 50 | 5 | 
 | 2023-02-23 | 49 | 5 | 
 | 2023-02-21 | 46 | 5 | 
-| 2023-02-20 | 46 | 5 | 
 

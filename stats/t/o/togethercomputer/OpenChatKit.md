@@ -1,10 +1,10 @@
 # togethercomputer/OpenChatKit - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 624
+☋ Forks: 654
 
-★ Stars: 6110
+★ Stars: 6354
 
 [Open repository](https://github.com/togethercomputer/OpenChatKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6354 | 654 | 
 | 2023-03-21 | 6110 | 624 | 
 | 2023-03-19 | 5871 | 602 | 
 | 2023-03-18 | 5676 | 585 | 

@@ -1,8 +1,8 @@
 # apache/camel - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 4698
+☋ Forks: 4699
 
 ★ Stars: 4775
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4775 | 4699 | 
 | 2023-03-21 | 4775 | 4698 | 
 | 2023-03-20 | 4776 | 4695 | 
 | 2023-03-19 | 4771 | 4696 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 4742 | 4684 | 
 | 2023-02-23 | 4736 | 4683 | 
 | 2023-02-21 | 4734 | 4682 | 
-| 2023-02-20 | 4734 | 4682 | 
 

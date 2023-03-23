@@ -1,6 +1,6 @@
 # attila-lendvai/maru - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 168 | 9 | 
 | 2023-03-21 | 168 | 9 | 
 | 2023-03-20 | 168 | 9 | 
 | 2023-03-18 | 168 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 163 | 9 | 
 | 2023-02-22 | 163 | 9 | 
 | 2023-02-21 | 163 | 9 | 
-| 2023-02-20 | 163 | 9 | 
 

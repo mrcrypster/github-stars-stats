@@ -1,6 +1,6 @@
 # code-423n4/2023-01-canto-identity - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2 | 3 | 
 | 2023-03-21 | 2 | 3 | 
 | 2023-03-20 | 2 | 3 | 
 | 2023-03-18 | 2 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 3 | 2 | 
 | 2023-02-22 | 3 | 2 | 
 | 2023-02-21 | 3 | 2 | 
-| 2023-02-20 | 3 | 2 | 
 

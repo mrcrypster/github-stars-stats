@@ -1,6 +1,6 @@
 # keycloak/keycloak-web - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 33 | 106 | 
 | 2023-03-21 | 33 | 106 | 
 | 2023-03-20 | 33 | 106 | 
 | 2023-03-19 | 33 | 106 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 30 | 106 | 
 | 2023-02-22 | 30 | 106 | 
 | 2023-02-21 | 30 | 106 | 
-| 2023-02-20 | 30 | 106 | 
 

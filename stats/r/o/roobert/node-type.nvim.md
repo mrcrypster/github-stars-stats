@@ -1,10 +1,10 @@
 # roobert/node-type.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/roobert/node-type.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 22 | 2 | 
 | 2023-03-21 | 23 | 2 | 
 | 2023-03-19 | 23 | 2 | 
 | 2023-03-18 | 23 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 20 | 1 | 
 | 2023-02-22 | 20 | 1 | 
 | 2023-02-21 | 20 | 1 | 
-| 2023-02-20 | 18 | 1 | 
 

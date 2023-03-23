@@ -1,10 +1,10 @@
 # pratikratadiya/awesome-ml-internships - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 35
 
-★ Stars: 381
+★ Stars: 382
 
 [Open repository](https://github.com/pratikratadiya/awesome-ml-internships)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 382 | 35 | 
 | 2023-03-21 | 381 | 35 | 
 | 2023-03-20 | 381 | 35 | 
 | 2023-03-18 | 381 | 35 | 

@@ -1,6 +1,6 @@
 # ament/google_benchmark_vendor - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | - | 4 | 
 | 2023-03-21 | - | 4 | 
 | 2023-03-20 | - | 4 | 
 | 2023-03-18 | - | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | - | 4 | 
 | 2023-02-23 | - | 4 | 
 | 2023-02-22 | - | 4 | 
-| 2023-02-20 | - | 4 | 
 

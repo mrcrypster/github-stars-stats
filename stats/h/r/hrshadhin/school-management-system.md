@@ -1,8 +1,8 @@
 # hrshadhin/school-management-system - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 815
+☋ Forks: 816
 
 ★ Stars: 779
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 779 | 816 | 
 | 2023-03-21 | 779 | 815 | 
 | 2023-03-20 | 779 | 815 | 
 | 2023-03-19 | 779 | 815 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 772 | 797 | 
 | 2023-02-22 | 772 | 797 | 
 | 2023-02-21 | 772 | 795 | 
-| 2023-02-20 | 772 | 796 | 
 

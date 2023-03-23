@@ -1,10 +1,10 @@
 # StavinLi/Workflow-Vue3 - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 116
+★ Stars: 118
 
 [Open repository](https://github.com/StavinLi/Workflow-Vue3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 118 | 38 | 
 | 2023-03-20 | 116 | 37 | 
 | 2023-03-19 | 116 | 37 | 
 | 2023-03-18 | 116 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 93 | 32 | 
 | 2023-02-22 | 92 | 32 | 
 | 2023-02-21 | 91 | 32 | 
-| 2023-02-20 | 89 | 32 | 
 

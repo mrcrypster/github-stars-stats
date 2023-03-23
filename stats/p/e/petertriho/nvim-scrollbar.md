@@ -1,10 +1,10 @@
 # petertriho/nvim-scrollbar - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 19
 
-★ Stars: 573
+★ Stars: 574
 
 [Open repository](https://github.com/petertriho/nvim-scrollbar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 574 | 19 | 
 | 2023-03-21 | 573 | 19 | 
 | 2023-03-19 | 572 | 19 | 
 | 2023-03-18 | 572 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 556 | 17 | 
 | 2023-02-23 | 556 | 17 | 
 | 2023-02-22 | 556 | 17 | 
-| 2023-02-20 | 556 | 17 | 
 

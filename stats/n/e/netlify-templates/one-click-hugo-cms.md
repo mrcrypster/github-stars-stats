@@ -1,10 +1,10 @@
 # netlify-templates/one-click-hugo-cms - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 289
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/netlify-templates/one-click-hugo-cms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 425 | 289 | 
 | 2023-03-21 | 424 | 289 | 
 | 2023-03-20 | 424 | 289 | 
 | 2023-03-19 | 424 | 289 | 

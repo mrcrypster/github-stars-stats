@@ -1,8 +1,8 @@
 # teamleadercrm/api - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 140
+☋ Forks: 141
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 48 | 141 | 
 | 2023-03-21 | 48 | 140 | 
 | 2023-03-20 | 48 | 140 | 
 | 2023-03-18 | 48 | 140 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 48 | 140 | 
 | 2023-02-22 | 48 | 140 | 
 | 2023-02-21 | 48 | 139 | 
-| 2023-02-20 | 48 | 140 | 
 

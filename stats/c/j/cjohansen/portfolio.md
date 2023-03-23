@@ -1,10 +1,10 @@
 # cjohansen/portfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 43
+★ Stars: 52
 
 [Open repository](https://github.com/cjohansen/portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 52 | 3 | 
 | 2023-03-20 | 43 | 2 | 
 | 2023-03-19 | 43 | 2 | 
 | 2023-03-18 | 42 | 2 | 

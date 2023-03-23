@@ -1,10 +1,10 @@
 # Nyandwi/machine_learning_complete - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 592
+☋ Forks: 594
 
-★ Stars: 3856
+★ Stars: 3859
 
 [Open repository](https://github.com/Nyandwi/machine_learning_complete)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3859 | 594 | 
 | 2023-03-21 | 3856 | 592 | 
 | 2023-03-20 | 3856 | 592 | 
 | 2023-03-19 | 3852 | 591 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 3834 | 586 | 
 | 2023-02-22 | 3832 | 585 | 
 | 2023-02-21 | 3829 | 585 | 
-| 2023-02-20 | 3825 | 585 | 
 

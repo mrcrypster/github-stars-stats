@@ -1,6 +1,6 @@
 # mcflyamorim/GitHub_Cursos - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 33 | 15 | 
 | 2023-03-21 | 33 | 15 | 
 | 2023-03-20 | 33 | 15 | 
 | 2023-03-19 | 33 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 32 | 15 | 
 | 2023-02-22 | 32 | 15 | 
 | 2023-02-21 | 32 | 15 | 
-| 2023-02-20 | 32 | 15 | 
 

@@ -1,6 +1,6 @@
 # seancorfield/honeysql - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1589 | 163 | 
 | 2023-03-21 | 1589 | 163 | 
 | 2023-03-20 | 1589 | 163 | 
 | 2023-03-18 | 1588 | 163 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1577 | 159 | 
 | 2023-02-22 | 1577 | 159 | 
 | 2023-02-21 | 1577 | 159 | 
-| 2023-02-20 | 1576 | 159 | 
 

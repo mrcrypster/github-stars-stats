@@ -1,10 +1,10 @@
 # WilfredTA/formal-methods-curriculum - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 10
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/WilfredTA/formal-methods-curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 122 | 10 | 
 | 2023-03-21 | 121 | 10 | 
 | 2023-03-20 | 121 | 10 | 
 | 2023-03-18 | 121 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 122 | 10 | 
 | 2023-02-22 | 122 | 10 | 
 | 2023-02-21 | 122 | 10 | 
-| 2023-02-20 | 122 | 10 | 
 

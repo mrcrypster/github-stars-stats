@@ -1,10 +1,10 @@
 # vlang/vab - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 23
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/vlang/vab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 261 | 23 | 
 | 2023-03-21 | 260 | 23 | 
 | 2023-03-20 | 259 | 23 | 
 | 2023-03-19 | 259 | 23 | 

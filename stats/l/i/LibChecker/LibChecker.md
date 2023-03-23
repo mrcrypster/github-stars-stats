@@ -1,10 +1,10 @@
 # LibChecker/LibChecker - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 211
 
-★ Stars: 2368
+★ Stars: 2370
 
 [Open repository](https://github.com/LibChecker/LibChecker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2370 | 211 | 
 | 2023-03-21 | 2368 | 211 | 
 | 2023-03-20 | 2366 | 211 | 
 | 2023-03-18 | 2366 | 211 | 

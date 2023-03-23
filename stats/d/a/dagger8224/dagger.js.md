@@ -1,6 +1,6 @@
 # dagger8224/dagger.js - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 645 | 44 | 
 | 2023-03-21 | 645 | 44 | 
 | 2023-03-20 | 643 | 44 | 
 | 2023-03-18 | 642 | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 613 | 44 | 
 | 2023-02-22 | 611 | 44 | 
 | 2023-02-21 | 608 | 44 | 
-| 2023-02-20 | 605 | 44 | 
 

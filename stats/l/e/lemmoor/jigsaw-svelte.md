@@ -1,10 +1,10 @@
 # lemmoor/jigsaw-svelte - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 6
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/lemmoor/jigsaw-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 7 | 6 | 
 | 2023-03-21 | 6 | 6 | 
 | 2023-03-19 | 6 | 6 | 
 | 2023-03-18 | 4 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 4 | 6 | 
 | 2023-02-22 | 4 | 6 | 
 | 2023-02-21 | 4 | 6 | 
-| 2023-02-20 | 4 | 6 | 
 

@@ -1,6 +1,6 @@
 # scalikejdbc/scalikejdbc - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1236 | 224 | 
 | 2023-03-21 | 1236 | 224 | 
 | 2023-03-20 | 1235 | 224 | 
 | 2023-03-18 | 1235 | 224 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1234 | 224 | 
 | 2023-02-22 | 1234 | 224 | 
 | 2023-02-21 | 1234 | 224 | 
-| 2023-02-20 | 1234 | 224 | 
 

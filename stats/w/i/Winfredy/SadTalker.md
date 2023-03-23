@@ -1,10 +1,10 @@
 # Winfredy/SadTalker - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 67
+☋ Forks: 76
 
-★ Stars: 449
+★ Stars: 510
 
 [Open repository](https://github.com/Winfredy/SadTalker)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 510 | 76 | 
+| 2023-03-22 | 501 | 72 | 
 | 2023-03-21 | 449 | 67 | 
 | 2023-03-20 | 353 | 45 | 
 | 2023-03-19 | 340 | 44 | 

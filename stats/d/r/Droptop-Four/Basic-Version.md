@@ -1,10 +1,10 @@
 # Droptop-Four/Basic-Version - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 250
+★ Stars: 249
 
 [Open repository](https://github.com/Droptop-Four/Basic-Version)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 249 | 15 | 
 | 2023-03-21 | 250 | 15 | 
 | 2023-03-19 | 251 | 15 | 
 | 2023-03-18 | 251 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 235 | 14 | 
 | 2023-02-22 | 234 | 14 | 
 | 2023-02-21 | 234 | 14 | 
-| 2023-02-20 | 233 | 14 | 
 

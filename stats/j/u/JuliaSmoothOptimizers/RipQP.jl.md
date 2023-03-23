@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/RipQP.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 26 | 4 | 
 | 2023-03-21 | 26 | 4 | 
 | 2023-03-20 | 26 | 4 | 
 | 2023-03-18 | 26 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 25 | 4 | 
 | 2023-02-23 | 25 | 4 | 
 | 2023-02-22 | 25 | 4 | 
-| 2023-02-20 | 25 | 4 | 
 

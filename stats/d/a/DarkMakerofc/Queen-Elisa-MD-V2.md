@@ -1,10 +1,10 @@
 # DarkMakerofc/Queen-Elisa-MD-V2 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 2978
+☋ Forks: 3013
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 295 | 3013 | 
 | 2023-03-21 | 294 | 2978 | 
 | 2023-03-20 | 288 | 2940 | 
 | 2023-03-18 | 286 | 2889 | 

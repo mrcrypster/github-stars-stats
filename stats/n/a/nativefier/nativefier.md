@@ -1,10 +1,10 @@
 # nativefier/nativefier - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 2084
 
-★ Stars: 33167
+★ Stars: 33176
 
 [Open repository](https://github.com/nativefier/nativefier)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 33176 | 2084 | 
 | 2023-03-20 | 33167 | 2084 | 
 | 2023-03-19 | 33150 | 2082 | 
 | 2023-03-17 | 33147 | 2082 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 32956 | 2074 | 
 | 2023-02-23 | 32946 | 2075 | 
 | 2023-02-22 | 32926 | 2075 | 
-| 2023-02-21 | 32908 | 2076 | 
 

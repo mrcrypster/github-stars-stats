@@ -1,6 +1,6 @@
 # GrupoYACCK/odoo-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6 | 12 | 
 | 2023-03-21 | 6 | 12 | 
 | 2023-03-19 | 6 | 12 | 
 | 2023-03-18 | 6 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 5 | 12 | 
 | 2023-02-23 | 5 | 12 | 
 | 2023-02-22 | 5 | 12 | 
-| 2023-02-20 | 5 | 12 | 
 

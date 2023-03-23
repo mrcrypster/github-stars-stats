@@ -1,6 +1,6 @@
 # dhslrl321/cqrs-journey-guide-korean - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 225 | 32 | 
 | 2023-03-21 | 225 | 32 | 
 | 2023-03-20 | 225 | 32 | 
 | 2023-03-19 | 225 | 32 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 224 | 31 | 
 | 2023-02-22 | 224 | 31 | 
 | 2023-02-21 | 223 | 31 | 
-| 2023-02-20 | 223 | 31 | 
 

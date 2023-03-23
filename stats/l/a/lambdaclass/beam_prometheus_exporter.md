@@ -1,6 +1,6 @@
 # lambdaclass/beam_prometheus_exporter - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6 | 4 | 
 | 2023-03-20 | 6 | 4 | 
 | 2023-03-19 | 6 | 4 | 
 | 2023-03-17 | 6 | 4 | 

@@ -1,10 +1,10 @@
 # PingKuNet/aliyunpan - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 41
 
-★ Stars: 753
+★ Stars: 755
 
 [Open repository](https://github.com/PingKuNet/aliyunpan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 755 | 41 | 
 | 2023-03-21 | 753 | 41 | 
 | 2023-03-20 | 751 | 41 | 
 | 2023-03-19 | 751 | 41 | 

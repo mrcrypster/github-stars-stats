@@ -1,10 +1,10 @@
 # boa-dev/boa - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 331
+☋ Forks: 332
 
-★ Stars: 3830
+★ Stars: 3833
 
 [Open repository](https://github.com/boa-dev/boa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 3833 | 332 | 
 | 2023-03-21 | 3830 | 331 | 
 | 2023-03-19 | 3827 | 331 | 
 | 2023-03-18 | 3826 | 328 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3784 | 324 | 
 | 2023-02-23 | 3780 | 324 | 
 | 2023-02-22 | 3779 | 324 | 
-| 2023-02-21 | 3778 | 324 | 
 

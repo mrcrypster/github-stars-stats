@@ -1,10 +1,10 @@
 # micah-frank-studio/Lore - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 24
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/micah-frank-studio/Lore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 181 | 24 | 
 | 2023-03-21 | 180 | 24 | 
 | 2023-03-20 | 179 | 23 | 
 | 2023-03-18 | 179 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 177 | 23 | 
 | 2023-02-22 | 177 | 23 | 
 | 2023-02-21 | 177 | 23 | 
-| 2023-02-20 | 177 | 23 | 
 

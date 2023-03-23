@@ -1,6 +1,6 @@
 # phasetr/AlgorithmsAndDataStructureByFSharp - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 51 | 7 | 
 | 2023-03-21 | 51 | 7 | 
 | 2023-03-20 | 51 | 7 | 
 | 2023-03-18 | 51 | 7 | 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 22
 
 ☋ Forks: 67
 
-★ Stars: 1876
+★ Stars: 1878
 
 [Open repository](https://github.com/aleksey-hoffman/sigma-file-manager)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 1876 | 67 | 
+| 2023-03-22 | 1878 | 67 | 
 | 2023-03-21 | 1875 | 67 | 
 | 2023-03-20 | 1865 | 68 | 
 | 2023-03-19 | 1849 | 65 | 

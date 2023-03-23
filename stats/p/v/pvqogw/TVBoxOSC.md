@@ -1,10 +1,10 @@
 # pvqogw/TVBoxOSC - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 676
+☋ Forks: 677
 
-★ Stars: 3312
+★ Stars: 3323
 
 [Open repository](https://github.com/pvqogw/TVBoxOSC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 3323 | 677 | 
 | 2023-03-21 | 3312 | 676 | 
 | 2023-03-20 | 3304 | 675 | 
 | 2023-03-19 | 3297 | 673 | 

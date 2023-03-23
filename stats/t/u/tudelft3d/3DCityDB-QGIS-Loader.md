@@ -1,6 +1,6 @@
 # tudelft3d/3DCityDB-QGIS-Loader - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 29 | 2 | 
 | 2023-03-21 | 29 | 2 | 
 | 2023-03-20 | 28 | 2 | 
 | 2023-03-19 | 28 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 26 | 2 | 
 | 2023-02-22 | 26 | 2 | 
 | 2023-02-21 | 26 | 2 | 
-| 2023-02-20 | 26 | 2 | 
 

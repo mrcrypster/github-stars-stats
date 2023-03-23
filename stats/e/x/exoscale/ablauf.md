@@ -1,6 +1,6 @@
 # exoscale/ablauf - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 32 | - | 
 | 2023-03-21 | 32 | - | 
 | 2023-03-20 | 32 | - | 
 | 2023-03-19 | 32 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 29 | - | 
 | 2023-02-22 | 29 | - | 
 | 2023-02-21 | 29 | - | 
-| 2023-02-20 | 29 | - | 
 

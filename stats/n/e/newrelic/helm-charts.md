@@ -1,10 +1,10 @@
 # newrelic/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 182
 
-★ Stars: 81
+★ Stars: 80
 
 [Open repository](https://github.com/newrelic/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 80 | 182 | 
 | 2023-03-21 | 81 | 182 | 
 | 2023-03-20 | 81 | 181 | 
 | 2023-03-19 | 81 | 181 | 

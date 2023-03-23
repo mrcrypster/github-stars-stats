@@ -1,6 +1,6 @@
 # insidegui/MacPreviewUtils - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 156 | 1 | 
 | 2023-03-21 | 156 | 1 | 
 | 2023-03-20 | 156 | 1 | 
 | 2023-03-18 | 156 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 152 | 1 | 
 | 2023-02-23 | 152 | 1 | 
 | 2023-02-22 | 152 | 1 | 
-| 2023-02-20 | 152 | 1 | 
 

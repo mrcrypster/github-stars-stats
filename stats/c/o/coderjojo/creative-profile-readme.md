@@ -1,10 +1,10 @@
 # coderjojo/creative-profile-readme - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 466
 
-★ Stars: 1987
+★ Stars: 1988
 
 [Open repository](https://github.com/coderjojo/creative-profile-readme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1988 | 466 | 
 | 2023-03-21 | 1987 | 466 | 
 | 2023-03-20 | 1985 | 466 | 
 | 2023-03-19 | 1979 | 465 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1957 | 462 | 
 | 2023-02-22 | 1958 | 458 | 
 | 2023-02-21 | 1954 | 457 | 
-| 2023-02-20 | 1949 | 456 | 
 

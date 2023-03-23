@@ -1,10 +1,10 @@
 # IIC2233/contenidos - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/IIC2233/contenidos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 32 | 51 | 
 | 2023-03-21 | 30 | 50 | 
 | 2023-03-19 | 25 | 46 | 
 | 2023-03-18 | 25 | 46 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 77 | 66 | 
 | 2023-02-23 | 77 | 66 | 
 | 2023-02-22 | 77 | 66 | 
-| 2023-02-21 | 77 | 65 | 
 

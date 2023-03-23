@@ -1,6 +1,6 @@
 # luxdefi/zchain - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6 | 112 | 
 | 2023-03-21 | 6 | 112 | 
 | 2023-03-19 | 6 | 112 | 
 | 2023-03-18 | 8 | 112 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 13 | 112 | 
 | 2023-02-23 | 13 | 112 | 
 | 2023-02-22 | 13 | 112 | 
-| 2023-02-20 | 13 | 112 | 
 

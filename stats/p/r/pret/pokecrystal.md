@@ -1,10 +1,10 @@
 # pret/pokecrystal - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 567
+☋ Forks: 568
 
-★ Stars: 1764
+★ Stars: 1766
 
 [Open repository](https://github.com/pret/pokecrystal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1766 | 568 | 
 | 2023-03-21 | 1764 | 567 | 
 | 2023-03-20 | 1764 | 567 | 
 | 2023-03-19 | 1764 | 567 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1755 | 566 | 
 | 2023-02-22 | 1754 | 565 | 
 | 2023-02-21 | 1754 | 565 | 
-| 2023-02-20 | 1754 | 565 | 
 

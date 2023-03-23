@@ -1,6 +1,6 @@
 # guanguans/notify - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 473 | 36 | 
 | 2023-03-20 | 473 | 36 | 
 | 2023-03-19 | 474 | 36 | 
 | 2023-03-17 | 474 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 466 | 36 | 
 | 2023-02-23 | 465 | 36 | 
 | 2023-02-22 | 464 | 36 | 
-| 2023-02-21 | 463 | 36 | 
 

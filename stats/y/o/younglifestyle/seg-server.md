@@ -1,10 +1,10 @@
 # younglifestyle/seg-server - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 9
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/younglifestyle/seg-server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 68 | 9 | 
 | 2023-03-20 | 67 | 9 | 
 | 2023-03-19 | 67 | 9 | 
 | 2023-03-18 | 67 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 67 | 9 | 
 | 2023-02-22 | 67 | 9 | 
 | 2023-02-21 | 67 | 9 | 
-| 2023-02-20 | 67 | 9 | 
 

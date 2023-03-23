@@ -1,10 +1,10 @@
 # boredzo/impluse-hfs - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/boredzo/impluse-hfs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 29 | 1 | 
 | 2023-03-21 | 28 | 1 | 
 | 2023-03-19 | 28 | 1 | 
 | 2023-03-18 | 27 | 1 | 

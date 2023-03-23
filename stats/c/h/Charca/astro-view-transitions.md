@@ -1,10 +1,10 @@
 # Charca/astro-view-transitions - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 3
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/Charca/astro-view-transitions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 64 | 3 | 
 | 2023-03-21 | 63 | 3 | 
 | 2023-03-20 | 63 | 3 | 
 | 2023-03-18 | 63 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 63 | 3 | 
 | 2023-02-22 | 63 | 3 | 
 | 2023-02-21 | 63 | 3 | 
-| 2023-02-20 | 63 | 3 | 
 

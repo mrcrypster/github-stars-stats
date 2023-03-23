@@ -1,10 +1,10 @@
 # Xogy/xsound - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 61
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/Xogy/xsound)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 79 | 61 | 
 | 2023-03-21 | 78 | 61 | 
 | 2023-03-20 | 78 | 61 | 
 | 2023-03-18 | 78 | 61 | 

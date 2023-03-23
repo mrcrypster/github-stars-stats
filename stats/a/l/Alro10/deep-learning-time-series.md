@@ -1,10 +1,10 @@
 # Alro10/deep-learning-time-series - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 454
 
-★ Stars: 2056
+★ Stars: 2057
 
 [Open repository](https://github.com/Alro10/deep-learning-time-series)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2057 | 454 | 
 | 2023-03-21 | 2056 | 454 | 
 | 2023-03-19 | 2057 | 454 | 
 | 2023-03-18 | 2057 | 454 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 2032 | 454 | 
 | 2023-02-22 | 2030 | 454 | 
 | 2023-02-21 | 2029 | 454 | 
-| 2023-02-20 | 2025 | 454 | 
 

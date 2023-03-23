@@ -1,6 +1,6 @@
 # zalky/reflet - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 52 | 1 | 
 | 2023-03-21 | 52 | 1 | 
 | 2023-03-20 | 52 | 1 | 
 | 2023-03-19 | 52 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 48 | 1 | 
 | 2023-02-22 | 47 | 1 | 
 | 2023-02-21 | 47 | 1 | 
-| 2023-02-20 | 44 | 1 | 
 

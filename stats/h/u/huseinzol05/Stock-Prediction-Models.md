@@ -1,10 +1,10 @@
 # huseinzol05/Stock-Prediction-Models - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 2352
+☋ Forks: 2354
 
-★ Stars: 6129
+★ Stars: 6135
 
 [Open repository](https://github.com/huseinzol05/Stock-Prediction-Models)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6135 | 2354 | 
 | 2023-03-21 | 6129 | 2352 | 
 | 2023-03-20 | 6126 | 2349 | 
 | 2023-03-18 | 6125 | 2349 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 6031 | 2322 | 
 | 2023-02-22 | 6025 | 2321 | 
 | 2023-02-21 | 6017 | 2321 | 
-| 2023-02-20 | 6013 | 2321 | 
 

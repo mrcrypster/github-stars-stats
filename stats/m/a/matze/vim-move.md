@@ -1,6 +1,6 @@
 # matze/vim-move - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1113 | 55 | 
 | 2023-03-20 | 1113 | 55 | 
 | 2023-03-19 | 1114 | 55 | 
 | 2023-03-18 | 1114 | 55 | 

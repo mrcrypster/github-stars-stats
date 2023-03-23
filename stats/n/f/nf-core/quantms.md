@@ -1,10 +1,10 @@
 # nf-core/quantms - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 14
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/nf-core/quantms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 5 | 14 | 
 | 2023-03-21 | 4 | 14 | 
 | 2023-03-20 | 4 | 13 | 
 | 2023-03-19 | 4 | 13 | 

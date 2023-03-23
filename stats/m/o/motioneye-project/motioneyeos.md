@@ -1,10 +1,10 @@
 # motioneye-project/motioneyeos - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 858
 
-★ Stars: 7355
+★ Stars: 7356
 
 [Open repository](https://github.com/motioneye-project/motioneyeos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 7356 | 858 | 
 | 2023-03-21 | 7355 | 858 | 
 | 2023-03-20 | 7354 | 858 | 
 | 2023-03-19 | 7355 | 858 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 7318 | 855 | 
 | 2023-02-22 | 7317 | 855 | 
 | 2023-02-21 | 7315 | 854 | 
-| 2023-02-20 | 7315 | 854 | 
 

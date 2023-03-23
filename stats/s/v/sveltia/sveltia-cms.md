@@ -1,10 +1,10 @@
 # sveltia/sveltia-cms - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/sveltia/sveltia-cms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 18 | 1 | 
 | 2023-03-21 | 17 | 1 | 
 | 2023-03-19 | 17 | 1 | 
 | 2023-03-18 | 16 | 1 | 

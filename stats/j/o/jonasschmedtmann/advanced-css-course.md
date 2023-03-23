@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 22
 
-☋ Forks: 4949
+☋ Forks: 4950
 
-★ Stars: 4013
+★ Stars: 4015
 
 [Open repository](https://github.com/jonasschmedtmann/advanced-css-course)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 4013 | 4949 | 
+| 2023-03-22 | 4015 | 4950 | 
 | 2023-03-21 | 4013 | 4948 | 
 | 2023-03-20 | 4010 | 4943 | 
 | 2023-03-19 | 4010 | 4942 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-23 | 3981 | 4883 | 
 | 2023-02-22 | 3978 | 4879 | 
 | 2023-02-21 | 3978 | 4879 | 
-| 2023-02-20 | 3976 | 4877 | 
 

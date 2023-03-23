@@ -1,10 +1,10 @@
 # Postcatlab/postcat - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 433
+☋ Forks: 456
 
-★ Stars: 2777
+★ Stars: 2860
 
 [Open repository](https://github.com/Postcatlab/postcat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2860 | 456 | 
 | 2023-03-20 | 2777 | 433 | 
 | 2023-03-19 | 2731 | 423 | 
 | 2023-03-18 | 2712 | 419 | 

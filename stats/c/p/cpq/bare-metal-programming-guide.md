@@ -1,10 +1,10 @@
 # cpq/bare-metal-programming-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 102
 
-★ Stars: 1400
+★ Stars: 1402
 
 [Open repository](https://github.com/cpq/bare-metal-programming-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1402 | 102 | 
 | 2023-03-21 | 1400 | 102 | 
 | 2023-03-20 | 1392 | 101 | 
 | 2023-03-19 | 1387 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1315 | 90 | 
 | 2023-02-23 | 1308 | 90 | 
 | 2023-02-22 | 1302 | 90 | 
-| 2023-02-20 | 1299 | 90 | 
 

@@ -1,10 +1,10 @@
 # TonnyL/Awesome_APIs - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 1104
 
-★ Stars: 9049
+★ Stars: 9051
 
 [Open repository](https://github.com/TonnyL/Awesome_APIs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 9051 | 1104 | 
 | 2023-03-21 | 9049 | 1104 | 
 | 2023-03-20 | 9044 | 1104 | 
 | 2023-03-19 | 9043 | 1103 | 

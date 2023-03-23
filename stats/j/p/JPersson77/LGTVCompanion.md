@@ -1,10 +1,10 @@
 # JPersson77/LGTVCompanion - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 25
 
-★ Stars: 546
+★ Stars: 548
 
 [Open repository](https://github.com/JPersson77/LGTVCompanion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 548 | 25 | 
 | 2023-03-21 | 546 | 25 | 
 | 2023-03-19 | 544 | 25 | 
 | 2023-03-18 | 543 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 522 | 25 | 
 | 2023-02-22 | 521 | 25 | 
 | 2023-02-21 | 519 | 25 | 
-| 2023-02-20 | 516 | 25 | 
 

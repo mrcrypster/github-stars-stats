@@ -1,10 +1,10 @@
 # phhusson/vendor_hardware_overlay - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 452
+☋ Forks: 454
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/phhusson/vendor_hardware_overlay)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 98 | 454 | 
+| 2023-03-22 | 98 | 454 | 
 | 2023-03-21 | 97 | 452 | 
 | 2023-03-20 | 97 | 450 | 
 | 2023-03-18 | 97 | 451 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 93 | 443 | 
 | 2023-02-22 | 93 | 441 | 
 | 2023-02-21 | 93 | 441 | 
-| 2023-02-20 | 93 | 440 | 
 

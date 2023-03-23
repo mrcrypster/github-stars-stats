@@ -1,6 +1,6 @@
 # GregBahm/PlaceViewer - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 388 | 42 | 
 | 2023-03-21 | 388 | 42 | 
 | 2023-03-19 | 388 | 42 | 
 | 2023-03-18 | 388 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 388 | 42 | 
 | 2023-02-23 | 388 | 42 | 
 | 2023-02-22 | 388 | 42 | 
-| 2023-02-20 | 388 | 42 | 
 

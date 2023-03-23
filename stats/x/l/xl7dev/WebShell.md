@@ -1,10 +1,10 @@
 # xl7dev/WebShell - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 997
+☋ Forks: 998
 
-★ Stars: 1513
+★ Stars: 1514
 
 [Open repository](https://github.com/xl7dev/WebShell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1514 | 998 | 
 | 2023-03-20 | 1513 | 997 | 
 | 2023-03-19 | 1513 | 997 | 
 | 2023-03-18 | 1513 | 997 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 1501 | 989 | 
 | 2023-02-23 | 1501 | 989 | 
 | 2023-02-22 | 1500 | 989 | 
-| 2023-02-21 | 1499 | 989 | 
 

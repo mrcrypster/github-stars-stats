@@ -1,6 +1,6 @@
 # diku-compSys/compSys-e2022-pub - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 34 | 49 | 
 | 2023-03-21 | 34 | 49 | 
 | 2023-03-20 | 34 | 49 | 
 | 2023-03-18 | 34 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 34 | 49 | 
 | 2023-02-23 | 34 | 49 | 
 | 2023-02-21 | 35 | 49 | 
-| 2023-02-20 | 35 | 49 | 
 

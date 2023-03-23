@@ -1,8 +1,8 @@
 # xiaorouji/openwrt-passwall2 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 136
+☋ Forks: 138
 
 ★ Stars: 245
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 245 | 138 | 
 | 2023-03-21 | 245 | 136 | 
 | 2023-03-20 | 242 | 136 | 
 | 2023-03-19 | 238 | 135 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 226 | 130 | 
 | 2023-02-22 | 226 | 131 | 
 | 2023-02-21 | 225 | 131 | 
-| 2023-02-20 | 225 | 130 | 
 

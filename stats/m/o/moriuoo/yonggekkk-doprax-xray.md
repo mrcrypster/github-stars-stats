@@ -1,8 +1,8 @@
 # moriuoo/yonggekkk-doprax-xray - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 115
+☋ Forks: 117
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 29 | 117 | 
 | 2023-03-21 | 29 | 115 | 
 | 2023-03-20 | 29 | 114 | 
 | 2023-03-19 | 29 | 113 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 25 | 90 | 
 | 2023-02-23 | 25 | 90 | 
 | 2023-02-21 | 24 | 89 | 
-| 2023-02-20 | 24 | 88 | 
 

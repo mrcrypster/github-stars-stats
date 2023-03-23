@@ -1,10 +1,10 @@
 # GoAdminGroup/go-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1156
+☋ Forks: 1158
 
-★ Stars: 6963
+★ Stars: 6972
 
 [Open repository](https://github.com/GoAdminGroup/go-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6972 | 1158 | 
 | 2023-03-21 | 6963 | 1156 | 
 | 2023-03-19 | 6957 | 1156 | 
 | 2023-03-18 | 6952 | 1156 | 

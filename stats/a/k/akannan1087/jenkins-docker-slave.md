@@ -1,8 +1,8 @@
 # akannan1087/jenkins-docker-slave - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2 | 28 | 
 | 2023-03-21 | 2 | 27 | 
 | 2023-03-20 | 2 | 27 | 
 | 2023-03-18 | 2 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 2 | 22 | 
 | 2023-02-22 | 2 | 22 | 
 | 2023-02-21 | 2 | 22 | 
-| 2023-02-20 | 2 | 20 | 
 

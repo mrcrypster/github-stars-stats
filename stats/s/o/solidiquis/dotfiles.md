@@ -1,6 +1,6 @@
 # solidiquis/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 190 | 11 | 
 | 2023-03-21 | 190 | 11 | 
 | 2023-03-20 | 188 | 11 | 
 | 2023-03-18 | 189 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 188 | 11 | 
 | 2023-02-22 | 188 | 11 | 
 | 2023-02-21 | 187 | 11 | 
-| 2023-02-20 | 187 | 11 | 
 

@@ -1,10 +1,10 @@
 # citusdata/pg_cron - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 153
 
-★ Stars: 1957
+★ Stars: 1960
 
 [Open repository](https://github.com/citusdata/pg_cron)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1960 | 153 | 
 | 2023-03-21 | 1957 | 153 | 
 | 2023-03-19 | 1954 | 153 | 
 | 2023-03-18 | 1954 | 153 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1929 | 152 | 
 | 2023-02-22 | 1927 | 151 | 
 | 2023-02-21 | 1927 | 151 | 
-| 2023-02-20 | 1924 | 151 | 
 

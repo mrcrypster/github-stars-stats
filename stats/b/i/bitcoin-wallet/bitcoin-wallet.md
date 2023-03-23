@@ -1,10 +1,10 @@
 # bitcoin-wallet/bitcoin-wallet - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 1912
+☋ Forks: 1913
 
-★ Stars: 3158
+★ Stars: 3159
 
 [Open repository](https://github.com/bitcoin-wallet/bitcoin-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3159 | 1913 | 
 | 2023-03-21 | 3158 | 1912 | 
 | 2023-03-20 | 3160 | 1912 | 
 | 2023-03-18 | 3158 | 1912 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 3144 | 1904 | 
 | 2023-02-22 | 3141 | 1904 | 
 | 2023-02-21 | 3141 | 1904 | 
-| 2023-02-20 | 3138 | 1904 | 
 

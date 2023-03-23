@@ -1,10 +1,10 @@
 # paperswithcode/ai-deadlines - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 772
+☋ Forks: 774
 
-★ Stars: 4737
+★ Stars: 4739
 
 [Open repository](https://github.com/paperswithcode/ai-deadlines)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4739 | 774 | 
 | 2023-03-21 | 4737 | 772 | 
 | 2023-03-20 | 4736 | 772 | 
 | 2023-03-19 | 4733 | 772 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 4693 | 766 | 
 | 2023-02-22 | 4692 | 766 | 
 | 2023-02-21 | 4690 | 766 | 
-| 2023-02-20 | 4685 | 765 | 
 

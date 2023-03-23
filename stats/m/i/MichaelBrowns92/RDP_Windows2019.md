@@ -1,10 +1,10 @@
 # MichaelBrowns92/RDP_Windows2019 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/MichaelBrowns92/RDP_Windows2019)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4 | 86 | 
 | 2023-03-21 | 3 | 85 | 
 | 2023-03-20 | 3 | 85 | 
 | 2023-03-19 | 3 | 84 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 3 | 74 | 
 | 2023-02-22 | 3 | 73 | 
 | 2023-02-21 | 3 | 73 | 
-| 2023-02-20 | 3 | 71 | 
 

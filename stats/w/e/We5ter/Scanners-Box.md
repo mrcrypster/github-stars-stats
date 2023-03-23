@@ -1,10 +1,10 @@
 # We5ter/Scanners-Box - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 2282
 
-★ Stars: 7081
+★ Stars: 7084
 
 [Open repository](https://github.com/We5ter/Scanners-Box)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 7084 | 2282 | 
 | 2023-03-21 | 7081 | 2282 | 
 | 2023-03-19 | 7078 | 2282 | 
 | 2023-03-18 | 7074 | 2281 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 7017 | 2269 | 
 | 2023-02-22 | 7014 | 2269 | 
 | 2023-02-21 | 7012 | 2269 | 
-| 2023-02-20 | 7012 | 2269 | 
 

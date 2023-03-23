@@ -1,6 +1,6 @@
 # DarkPacks/SevTech-Ages - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 226 | 82 | 
 | 2023-03-21 | 226 | 82 | 
 | 2023-03-20 | 226 | 82 | 
 | 2023-03-19 | 226 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 225 | 81 | 
 | 2023-02-22 | 225 | 81 | 
 | 2023-02-21 | 225 | 81 | 
-| 2023-02-20 | 225 | 81 | 
 

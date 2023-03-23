@@ -1,6 +1,6 @@
 # its-puneet/Geeky-Coders - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 36 | 133 | 
 | 2023-03-20 | 36 | 133 | 
 | 2023-03-19 | 36 | 133 | 
 | 2023-03-18 | 36 | 133 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 38 | 133 | 
 | 2023-02-23 | 38 | 133 | 
 | 2023-02-22 | 38 | 133 | 
-| 2023-02-21 | 38 | 134 | 
 

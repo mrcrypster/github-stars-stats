@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 22
 
 ☋ Forks: 23
 
-★ Stars: 960
+★ Stars: 966
 
 [Open repository](https://github.com/hyperfiddle/electric)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 960 | 23 | 
+| 2023-03-22 | 966 | 23 | 
 | 2023-03-21 | 960 | 23 | 
 | 2023-03-20 | 956 | 23 | 
 | 2023-03-19 | 952 | 22 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-23 | 837 | 17 | 
 | 2023-02-22 | 825 | 17 | 
 | 2023-02-21 | 822 | 17 | 
-| 2023-02-20 | 804 | 16 | 
 

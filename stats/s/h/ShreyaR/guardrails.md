@@ -1,10 +1,10 @@
 # ShreyaR/guardrails - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 25
+☋ Forks: 27
 
-★ Stars: 559
+★ Stars: 587
 
 [Open repository](https://github.com/ShreyaR/guardrails)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 587 | 27 | 
 | 2023-03-20 | 559 | 25 | 
 | 2023-03-19 | 526 | 25 | 
 | 2023-03-18 | 513 | 24 | 

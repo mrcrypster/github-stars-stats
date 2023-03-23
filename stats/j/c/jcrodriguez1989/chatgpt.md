@@ -1,10 +1,10 @@
 # jcrodriguez1989/chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 17
 
-★ Stars: 119
+★ Stars: 123
 
 [Open repository](https://github.com/jcrodriguez1989/chatgpt)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 123 | 17 | 
+| 2023-03-22 | 122 | 17 | 
 | 2023-03-21 | 119 | 17 | 
 | 2023-03-20 | 116 | 17 | 
 | 2023-03-19 | 116 | 17 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 52 | 11 | 
 | 2023-02-22 | 51 | 11 | 
 | 2023-02-21 | 50 | 11 | 
-| 2023-02-20 | 50 | 11 | 
 

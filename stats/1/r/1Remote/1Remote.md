@@ -1,6 +1,6 @@
 # 1Remote/1Remote - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1159 | 190 | 
 | 2023-03-21 | 1159 | 190 | 
 | 2023-03-20 | 1158 | 190 | 
 | 2023-03-19 | 1154 | 190 | 

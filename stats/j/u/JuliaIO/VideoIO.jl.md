@@ -1,6 +1,6 @@
 # JuliaIO/VideoIO.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 114 | 51 | 
 | 2023-03-21 | 114 | 51 | 
 | 2023-03-20 | 114 | 51 | 
 | 2023-03-19 | 114 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 114 | 50 | 
 | 2023-02-22 | 112 | 50 | 
 | 2023-02-21 | 112 | 50 | 
-| 2023-02-20 | 112 | 50 | 
 

@@ -1,10 +1,10 @@
 # edluffy/hologram.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 26
 
-★ Stars: 811
+★ Stars: 813
 
 [Open repository](https://github.com/edluffy/hologram.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 813 | 26 | 
 | 2023-03-21 | 811 | 26 | 
 | 2023-03-20 | 809 | 26 | 
 | 2023-03-19 | 808 | 26 | 

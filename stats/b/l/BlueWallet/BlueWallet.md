@@ -1,8 +1,8 @@
 # BlueWallet/BlueWallet - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 658
+☋ Forks: 660
 
 ★ Stars: 1941
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1941 | 660 | 
 | 2023-03-21 | 1941 | 658 | 
 | 2023-03-19 | 1938 | 656 | 
 | 2023-03-18 | 1938 | 657 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1916 | 646 | 
 | 2023-02-22 | 1914 | 646 | 
 | 2023-02-21 | 1912 | 646 | 
-| 2023-02-20 | 1912 | 646 | 
 

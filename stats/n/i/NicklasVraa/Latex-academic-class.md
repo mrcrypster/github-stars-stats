@@ -1,6 +1,6 @@
 # NicklasVraa/Latex-academic-class - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 21 | 1 | 
 | 2023-03-21 | 21 | 1 | 
 | 2023-03-19 | 21 | 1 | 
 | 2023-03-18 | 21 | 1 | 

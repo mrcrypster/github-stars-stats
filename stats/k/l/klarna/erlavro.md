@@ -1,8 +1,8 @@
 # klarna/erlavro - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 127 | 39 | 
 | 2023-03-21 | 127 | 38 | 
 | 2023-03-19 | 127 | 38 | 
 | 2023-03-18 | 127 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 127 | 38 | 
 | 2023-02-22 | 127 | 38 | 
 | 2023-02-21 | 127 | 38 | 
-| 2023-02-20 | 127 | 38 | 
 

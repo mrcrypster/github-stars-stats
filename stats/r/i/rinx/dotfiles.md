@@ -1,10 +1,10 @@
 # rinx/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/rinx/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 16 | 2 | 
 | 2023-03-21 | 15 | 2 | 
 | 2023-03-20 | 15 | 2 | 
 | 2023-03-18 | 15 | 2 | 

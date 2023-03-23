@@ -1,10 +1,10 @@
 # nandland/spi-slave - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 53
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/nandland/spi-slave)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 88 | 53 | 
 | 2023-03-21 | 87 | 53 | 
 | 2023-03-20 | 87 | 53 | 
 | 2023-03-19 | 87 | 53 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 85 | 52 | 
 | 2023-02-22 | 85 | 52 | 
 | 2023-02-21 | 85 | 52 | 
-| 2023-02-20 | 85 | 52 | 
 

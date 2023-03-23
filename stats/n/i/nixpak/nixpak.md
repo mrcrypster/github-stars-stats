@@ -1,10 +1,10 @@
 # nixpak/nixpak - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/nixpak/nixpak)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 56 | 2 | 
 | 2023-03-21 | 55 | 2 | 
 | 2023-03-19 | 55 | 2 | 
 | 2023-03-18 | 55 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 53 | 2 | 
 | 2023-02-23 | 53 | 2 | 
 | 2023-02-21 | 53 | 2 | 
-| 2023-02-20 | 52 | 2 | 
 

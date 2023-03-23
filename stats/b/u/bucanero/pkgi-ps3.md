@@ -1,6 +1,6 @@
 # bucanero/pkgi-ps3 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 443 | 80 | 
 | 2023-03-21 | 443 | 80 | 
 | 2023-03-19 | 443 | 80 | 
 | 2023-03-18 | 441 | 80 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 432 | 79 | 
 | 2023-02-22 | 431 | 79 | 
 | 2023-02-21 | 429 | 79 | 
-| 2023-02-20 | 428 | 79 | 
 

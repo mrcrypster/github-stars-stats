@@ -1,8 +1,8 @@
 # iNavFlight/inav - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1220
+☋ Forks: 1223
 
 ★ Stars: 2321
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2321 | 1223 | 
 | 2023-03-21 | 2321 | 1220 | 
 | 2023-03-20 | 2318 | 1221 | 
 | 2023-03-19 | 2318 | 1221 | 

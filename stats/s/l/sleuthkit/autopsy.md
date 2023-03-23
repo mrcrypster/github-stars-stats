@@ -1,10 +1,10 @@
 # sleuthkit/autopsy - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 551
 
-★ Stars: 1867
+★ Stars: 1868
 
 [Open repository](https://github.com/sleuthkit/autopsy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1868 | 551 | 
 | 2023-03-21 | 1867 | 551 | 
 | 2023-03-19 | 1865 | 551 | 
 | 2023-03-18 | 1864 | 551 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1841 | 548 | 
 | 2023-02-22 | 1840 | 548 | 
 | 2023-02-21 | 1839 | 548 | 
-| 2023-02-20 | 1839 | 548 | 
 

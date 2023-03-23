@@ -1,10 +1,10 @@
 # sesopenko/gatt - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/sesopenko/gatt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 21 | 1 | 
 | 2023-03-20 | 20 | 1 | 
 | 2023-03-19 | 20 | 1 | 
 | 2023-03-18 | 20 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 19 | 1 | 
 | 2023-02-22 | 19 | 1 | 
 | 2023-02-21 | 18 | 1 | 
-| 2023-02-20 | 18 | 1 | 
 

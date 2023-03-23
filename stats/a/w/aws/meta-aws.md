@@ -1,6 +1,6 @@
 # aws/meta-aws - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 96 | 71 | 
 | 2023-03-21 | 96 | 71 | 
 | 2023-03-19 | 96 | 71 | 
 | 2023-03-18 | 96 | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 93 | 69 | 
 | 2023-02-23 | 93 | 69 | 
 | 2023-02-22 | 93 | 69 | 
-| 2023-02-21 | 93 | 69 | 
 

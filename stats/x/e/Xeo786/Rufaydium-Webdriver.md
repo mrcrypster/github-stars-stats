@@ -1,10 +1,10 @@
 # Xeo786/Rufaydium-Webdriver - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 12
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/Xeo786/Rufaydium-Webdriver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 67 | 12 | 
 | 2023-03-21 | 66 | 12 | 
 | 2023-03-19 | 66 | 12 | 
 | 2023-03-18 | 66 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 62 | 11 | 
 | 2023-02-23 | 62 | 11 | 
 | 2023-02-22 | 62 | 11 | 
-| 2023-02-20 | 62 | 11 | 
 

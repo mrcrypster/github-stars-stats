@@ -1,10 +1,10 @@
 # soulmachine/leetcode - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 3473
+☋ Forks: 3475
 
-★ Stars: 10919
+★ Stars: 10921
 
 [Open repository](https://github.com/soulmachine/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 10921 | 3475 | 
 | 2023-03-20 | 10919 | 3473 | 
 | 2023-03-19 | 10918 | 3473 | 
 | 2023-03-18 | 10917 | 3473 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 10896 | 3470 | 
 | 2023-02-22 | 10896 | 3470 | 
 | 2023-02-21 | 10897 | 3470 | 
-| 2023-02-20 | 10895 | 3469 | 
 

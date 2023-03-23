@@ -1,10 +1,10 @@
 # goccy/go-json - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 97
 
-★ Stars: 2143
+★ Stars: 2150
 
 [Open repository](https://github.com/goccy/go-json)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2150 | 97 | 
 | 2023-03-20 | 2143 | 97 | 
 | 2023-03-19 | 2142 | 97 | 
 | 2023-03-18 | 2140 | 97 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 2101 | 90 | 
 | 2023-02-23 | 2092 | 90 | 
 | 2023-02-22 | 2086 | 90 | 
-| 2023-02-20 | 2084 | 90 | 
 

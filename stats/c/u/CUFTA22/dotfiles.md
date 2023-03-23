@@ -1,6 +1,6 @@
 # CUFTA22/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 59 | 5 | 
 | 2023-03-21 | 59 | 5 | 
 | 2023-03-20 | 58 | 5 | 
 | 2023-03-18 | 58 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 56 | 5 | 
 | 2023-02-22 | 57 | 5 | 
 | 2023-02-21 | 57 | 5 | 
-| 2023-02-20 | 57 | 5 | 
 

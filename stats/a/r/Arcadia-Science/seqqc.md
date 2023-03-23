@@ -1,10 +1,10 @@
 # Arcadia-Science/seqqc - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Arcadia-Science/seqqc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 24 | - | 
 | 2023-03-21 | 23 | - | 
 | 2023-03-20 | 23 | - | 
 | 2023-03-18 | 23 | - | 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 22
 
 ☋ Forks: 117
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/snowflakedb/snowflake-connector-net)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 123 | 117 | 
+| 2023-03-22 | 124 | 117 | 
 | 2023-03-21 | 123 | 117 | 
 

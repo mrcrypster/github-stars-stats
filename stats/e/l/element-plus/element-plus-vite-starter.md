@@ -1,10 +1,10 @@
 # element-plus/element-plus-vite-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 226
+☋ Forks: 227
 
-★ Stars: 672
+★ Stars: 676
 
 [Open repository](https://github.com/element-plus/element-plus-vite-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 676 | 227 | 
 | 2023-03-21 | 672 | 226 | 
 | 2023-03-20 | 669 | 227 | 
 | 2023-03-19 | 668 | 227 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 636 | 216 | 
 | 2023-02-22 | 633 | 217 | 
 | 2023-02-21 | 633 | 218 | 
-| 2023-02-20 | 633 | 218 | 
 

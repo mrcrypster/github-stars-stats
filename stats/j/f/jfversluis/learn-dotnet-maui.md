@@ -1,10 +1,10 @@
 # jfversluis/learn-dotnet-maui - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/jfversluis/learn-dotnet-maui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 368 | 30 | 
 | 2023-03-20 | 367 | 29 | 
 | 2023-03-19 | 367 | 29 | 
 | 2023-03-18 | 366 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 315 | 21 | 
 | 2023-02-22 | 315 | 21 | 
 | 2023-02-21 | 315 | 21 | 
-| 2023-02-20 | 314 | 21 | 
 

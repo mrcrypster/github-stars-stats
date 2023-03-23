@@ -1,10 +1,10 @@
 # meta-rust/meta-rust - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 107
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/meta-rust/meta-rust)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 167 | 107 | 
+| 2023-03-22 | 167 | 107 | 
 | 2023-03-20 | 166 | 107 | 
 | 2023-03-19 | 166 | 108 | 
 | 2023-03-18 | 166 | 108 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 164 | 106 | 
 | 2023-02-22 | 164 | 106 | 
 | 2023-02-21 | 164 | 106 | 
-| 2023-02-20 | 164 | 106 | 
 

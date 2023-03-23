@@ -1,10 +1,10 @@
 # apple/swift-book - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 104
 
-★ Stars: 1399
+★ Stars: 1400
 
 [Open repository](https://github.com/apple/swift-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1400 | 104 | 
 | 2023-03-21 | 1399 | 104 | 
 | 2023-03-19 | 1399 | 104 | 
 | 2023-03-18 | 1397 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1376 | 102 | 
 | 2023-02-22 | 1376 | 102 | 
 | 2023-02-21 | 1374 | 102 | 
-| 2023-02-20 | 1371 | 102 | 
 

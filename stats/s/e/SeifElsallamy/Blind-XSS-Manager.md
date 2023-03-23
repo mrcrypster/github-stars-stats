@@ -1,10 +1,10 @@
 # SeifElsallamy/Blind-XSS-Manager - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 24
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/SeifElsallamy/Blind-XSS-Manager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 189 | 24 | 
 | 2023-03-21 | 188 | 24 | 
 | 2023-03-20 | 188 | 24 | 
 | 2023-03-19 | 188 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 187 | 23 | 
 | 2023-02-22 | 187 | 23 | 
 | 2023-02-21 | 187 | 23 | 
-| 2023-02-20 | 187 | 23 | 
 

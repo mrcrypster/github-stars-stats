@@ -1,6 +1,6 @@
 # wix-incubator/homebrew-brew - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 10 | 17 | 
 | 2023-03-21 | 10 | 17 | 
 | 2023-03-20 | 10 | 16 | 
 | 2023-03-18 | 10 | 14 | 

@@ -1,6 +1,6 @@
 # facebook/facebook-php-business-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 505
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 736 | 505 | 
 | 2023-03-21 | 736 | 505 | 
 | 2023-03-20 | 736 | 504 | 
 | 2023-03-19 | 736 | 503 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 732 | 502 | 
 | 2023-02-23 | 732 | 502 | 
 | 2023-02-21 | 732 | 502 | 
-| 2023-02-20 | 733 | 502 | 
 

@@ -1,10 +1,10 @@
 # AstroNvim/user_example - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 55
+☋ Forks: 58
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/AstroNvim/user_example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 25 | 58 | 
 | 2023-03-20 | 24 | 55 | 
 | 2023-03-19 | 21 | 54 | 
 | 2023-03-18 | 21 | 51 | 

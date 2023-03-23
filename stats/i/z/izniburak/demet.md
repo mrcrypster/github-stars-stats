@@ -1,6 +1,6 @@
 # izniburak/demet - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 88 | 12 | 
 | 2023-03-21 | 88 | 12 | 
 | 2023-03-20 | 88 | 12 | 
 | 2023-03-19 | 88 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 88 | 12 | 
 | 2023-02-23 | 88 | 12 | 
 | 2023-02-21 | 88 | 12 | 
-| 2023-02-20 | 88 | 12 | 
 

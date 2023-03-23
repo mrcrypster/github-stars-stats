@@ -1,8 +1,8 @@
 # shani5maurya/AWS-RDP - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | - | 79 | 
 | 2023-03-21 | - | 78 | 
 | 2023-03-19 | - | 78 | 
 | 2023-03-18 | - | 77 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | - | 73 | 
 | 2023-02-22 | - | 73 | 
 | 2023-02-21 | - | 73 | 
-| 2023-02-20 | - | 73 | 
 

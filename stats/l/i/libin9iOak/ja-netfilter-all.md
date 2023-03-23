@@ -1,10 +1,10 @@
 # libin9iOak/ja-netfilter-all - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 262
+☋ Forks: 263
 
-★ Stars: 910
+★ Stars: 913
 
 [Open repository](https://github.com/libin9iOak/ja-netfilter-all)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 913 | 263 | 
 | 2023-03-21 | 910 | 262 | 
 | 2023-03-20 | 910 | 261 | 
 | 2023-03-19 | 908 | 258 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 845 | 237 | 
 | 2023-02-22 | 840 | 237 | 
 | 2023-02-21 | 837 | 237 | 
-| 2023-02-20 | 835 | 237 | 
 

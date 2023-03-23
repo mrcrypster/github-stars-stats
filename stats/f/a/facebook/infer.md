@@ -1,10 +1,10 @@
 # facebook/infer - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1940
 
-★ Stars: 13891
+★ Stars: 13892
 
 [Open repository](https://github.com/facebook/infer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 13892 | 1940 | 
 | 2023-03-21 | 13891 | 1940 | 
 | 2023-03-20 | 13888 | 1938 | 
 | 2023-03-19 | 13889 | 1938 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 13854 | 1923 | 
 | 2023-02-22 | 13853 | 1923 | 
 | 2023-02-21 | 13853 | 1924 | 
-| 2023-02-20 | 13854 | 1924 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 22
 
-☋ Forks: 1596
+☋ Forks: 1598
 
-★ Stars: 2897
+★ Stars: 2900
 
 [Open repository](https://github.com/azerothcore/azerothcore-wotlk)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 2897 | 1596 | 
+| 2023-03-22 | 2900 | 1598 | 
 | 2023-03-21 | 2897 | 1596 | 
 | 2023-03-20 | 2892 | 1594 | 
 | 2023-03-19 | 2888 | 1594 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-23 | 2812 | 1552 | 
 | 2023-02-22 | 2812 | 1547 | 
 | 2023-02-21 | 2804 | 1546 | 
-| 2023-02-20 | 2800 | 1543 | 
 

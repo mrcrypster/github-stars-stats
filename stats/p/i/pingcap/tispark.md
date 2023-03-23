@@ -1,6 +1,6 @@
 # pingcap/tispark - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 852 | 244 | 
 | 2023-03-21 | 852 | 244 | 
 | 2023-03-20 | 852 | 244 | 
 | 2023-03-19 | 852 | 244 | 

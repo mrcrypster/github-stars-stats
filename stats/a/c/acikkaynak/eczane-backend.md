@@ -1,6 +1,6 @@
 # acikkaynak/eczane-backend - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 24 | 15 | 
 | 2023-03-21 | 24 | 15 | 
 | 2023-03-20 | 24 | 15 | 
 | 2023-03-18 | 24 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 21 | 15 | 
 | 2023-02-23 | 21 | 15 | 
 | 2023-02-22 | 21 | 15 | 
-| 2023-02-20 | 21 | 15 | 
 

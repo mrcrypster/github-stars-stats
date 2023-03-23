@@ -1,10 +1,10 @@
 # OpenVic2Project/OpenVic2 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 18
+☋ Forks: 17
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/OpenVic2Project/OpenVic2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 79 | 17 | 
 | 2023-03-21 | 78 | 18 | 
 | 2023-03-20 | 77 | 18 | 
 | 2023-03-18 | 76 | 18 | 

@@ -1,10 +1,10 @@
 # Embarcadero/Dev-Cpp - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 224
 
-★ Stars: 1990
+★ Stars: 1994
 
 [Open repository](https://github.com/Embarcadero/Dev-Cpp)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1994 | 224 | 
+| 2023-03-22 | 1994 | 224 | 
 | 2023-03-21 | 1990 | 224 | 
 | 2023-03-20 | 1990 | 224 | 
 | 2023-03-19 | 1983 | 224 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1952 | 218 | 
 | 2023-02-22 | 1950 | 218 | 
 | 2023-02-21 | 1946 | 218 | 
-| 2023-02-20 | 1941 | 218 | 
 

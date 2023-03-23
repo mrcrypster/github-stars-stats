@@ -1,10 +1,10 @@
 # pablouser1/ProxiTok - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 1063
+★ Stars: 1068
 
 [Open repository](https://github.com/pablouser1/ProxiTok)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1068 | 91 | 
 | 2023-03-21 | 1063 | 90 | 
 | 2023-03-20 | 1061 | 90 | 
 | 2023-03-19 | 1058 | 90 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1004 | 85 | 
 | 2023-02-22 | 1002 | 85 | 
 | 2023-02-21 | 1000 | 85 | 
-| 2023-02-20 | 999 | 85 | 
 

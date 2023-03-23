@@ -1,6 +1,6 @@
 # facebookarchive/xctool - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 776
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6974 | 776 | 
 | 2023-03-21 | 6974 | 776 | 
 | 2023-03-20 | 6976 | 776 | 
 | 2023-03-18 | 6976 | 776 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 6979 | 776 | 
 | 2023-02-22 | 6980 | 776 | 
 | 2023-02-21 | 6981 | 776 | 
-| 2023-02-20 | 6981 | 776 | 
 

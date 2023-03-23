@@ -1,6 +1,6 @@
 # iamvery/iamvery-elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 17 | 2 | 
 | 2023-03-21 | 17 | 2 | 
 | 2023-03-20 | 17 | 2 | 
 | 2023-03-19 | 17 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 16 | 2 | 
 | 2023-02-22 | 16 | 2 | 
 | 2023-02-21 | 16 | 3 | 
-| 2023-02-20 | 16 | 3 | 
 

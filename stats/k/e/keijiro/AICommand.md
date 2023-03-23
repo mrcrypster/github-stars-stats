@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 22
 
-☋ Forks: 173
+☋ Forks: 231
 
-★ Stars: 1931
+★ Stars: 2253
 
 [Open repository](https://github.com/keijiro/AICommand)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 1931 | 173 | 
+| 2023-03-22 | 2253 | 231 | 
 | 2023-03-21 | 1820 | 151 | 
 

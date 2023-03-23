@@ -1,10 +1,10 @@
 # files-community/Website - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 112
 
-★ Stars: 261
+★ Stars: 262
 
 [Open repository](https://github.com/files-community/Website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 262 | 112 | 
 | 2023-03-20 | 261 | 112 | 
 | 2023-03-19 | 261 | 111 | 
 | 2023-03-18 | 261 | 111 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 259 | 110 | 
 | 2023-02-22 | 259 | 110 | 
 | 2023-02-21 | 259 | 110 | 
-| 2023-02-20 | 260 | 110 | 
 

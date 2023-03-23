@@ -1,10 +1,10 @@
 # Cameri/nostream - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/Cameri/nostream)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 525 | 113 | 
 | 2023-03-21 | 524 | 112 | 
 | 2023-03-19 | 522 | 112 | 
 | 2023-03-18 | 521 | 110 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 483 | 102 | 
 | 2023-02-22 | 482 | 99 | 
 | 2023-02-21 | 479 | 98 | 
-| 2023-02-20 | 475 | 97 | 
 

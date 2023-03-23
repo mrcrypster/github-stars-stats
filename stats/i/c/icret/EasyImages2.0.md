@@ -1,10 +1,10 @@
 # icret/EasyImages2.0 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 247
 
-★ Stars: 1354
+★ Stars: 1356
 
 [Open repository](https://github.com/icret/EasyImages2.0)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1356 | 247 | 
 | 2023-03-21 | 1354 | 247 | 
 | 2023-03-20 | 1351 | 247 | 
 | 2023-03-18 | 1346 | 246 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1284 | 240 | 
 | 2023-02-22 | 1280 | 240 | 
 | 2023-02-21 | 1279 | 240 | 
-| 2023-02-20 | 1279 | 239 | 
 

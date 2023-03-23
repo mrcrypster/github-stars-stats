@@ -1,10 +1,10 @@
 # singer-io/getting-started - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 1102
+★ Stars: 1103
 
 [Open repository](https://github.com/singer-io/getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1103 | 141 | 
 | 2023-03-21 | 1102 | 140 | 
 | 2023-03-19 | 1101 | 140 | 
 | 2023-03-18 | 1100 | 140 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1089 | 138 | 
 | 2023-02-22 | 1089 | 138 | 
 | 2023-02-21 | 1089 | 138 | 
-| 2023-02-20 | 1087 | 138 | 
 

@@ -1,6 +1,6 @@
 # Trouble-Truffle/Perigord-Nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 11 | - | 
 | 2023-03-21 | 11 | - | 
 | 2023-03-19 | 10 | - | 
 | 2023-03-18 | 10 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 11 | - | 
 | 2023-02-23 | 12 | - | 
 | 2023-02-22 | 12 | - | 
-| 2023-02-20 | 12 | - | 
 

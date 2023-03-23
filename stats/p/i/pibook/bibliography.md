@@ -1,6 +1,6 @@
 # pibook/bibliography - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | - | 168 | 
 | 2023-03-21 | - | 168 | 
 | 2023-03-20 | - | 169 | 
 | 2023-03-18 | - | 169 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | - | 159 | 
 | 2023-02-23 | - | 159 | 
 | 2023-02-22 | - | 158 | 
-| 2023-02-20 | - | 158 | 
 

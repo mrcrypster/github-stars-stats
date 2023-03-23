@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 22
 
-☋ Forks: 502
+☋ Forks: 504
 
-★ Stars: 506
+★ Stars: 509
 
 [Open repository](https://github.com/bharat-biradar/Google-Ml-Kit-plugin)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-22 | 506 | 502 | 
+| 2023-03-22 | 509 | 504 | 
 | 2023-03-21 | 506 | 501 | 
 | 2023-03-20 | 505 | 498 | 
 | 2023-03-19 | 505 | 495 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-23 | 473 | 476 | 
 | 2023-02-22 | 472 | 476 | 
 | 2023-02-21 | 472 | 475 | 
-| 2023-02-20 | 471 | 473 | 
 

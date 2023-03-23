@@ -1,6 +1,6 @@
 # mochi/mochiweb - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 480
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1836 | 480 | 
 | 2023-03-21 | 1836 | 480 | 
 | 2023-03-20 | 1836 | 480 | 
 | 2023-03-19 | 1836 | 480 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1833 | 480 | 
 | 2023-02-22 | 1833 | 480 | 
 | 2023-02-21 | 1832 | 480 | 
-| 2023-02-20 | 1832 | 480 | 
 

@@ -1,8 +1,8 @@
 # antoniosarosi/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 189
+☋ Forks: 190
 
 ★ Stars: 692
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 692 | 190 | 
 | 2023-03-21 | 692 | 189 | 
 | 2023-03-20 | 692 | 188 | 
 | 2023-03-18 | 692 | 188 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 678 | 181 | 
 | 2023-02-22 | 678 | 181 | 
 | 2023-02-21 | 678 | 180 | 
-| 2023-02-20 | 676 | 179 | 
 

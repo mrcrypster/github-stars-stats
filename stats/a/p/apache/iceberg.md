@@ -1,10 +1,10 @@
 # apache/iceberg - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1496
+☋ Forks: 1499
 
-★ Stars: 4030
+★ Stars: 4033
 
 [Open repository](https://github.com/apache/iceberg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4033 | 1499 | 
 | 2023-03-21 | 4030 | 1496 | 
 | 2023-03-20 | 4027 | 1493 | 
 | 2023-03-19 | 4021 | 1490 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3911 | 1458 | 
 | 2023-02-23 | 3905 | 1456 | 
 | 2023-02-22 | 3890 | 1452 | 
-| 2023-02-21 | 3886 | 1450 | 
 

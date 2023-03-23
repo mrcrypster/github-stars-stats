@@ -1,8 +1,8 @@
 # elunez/openai-java - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 103
+☋ Forks: 104
 
 ★ Stars: 239
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 239 | 104 | 
 | 2023-03-21 | 239 | 103 | 
 | 2023-03-20 | 239 | 103 | 
 | 2023-03-19 | 235 | 101 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 40 | 19 | 
 | 2023-02-22 | 34 | 18 | 
 | 2023-02-21 | 34 | 18 | 
-| 2023-02-20 | 28 | 16 | 
 

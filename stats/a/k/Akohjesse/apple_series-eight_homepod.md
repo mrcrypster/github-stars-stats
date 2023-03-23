@@ -1,8 +1,8 @@
 # Akohjesse/apple_series-eight_homepod - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 57 | 20 | 
 | 2023-03-21 | 57 | 19 | 
 | 2023-03-20 | 46 | 14 | 
 | 2023-03-18 | 46 | 14 | 

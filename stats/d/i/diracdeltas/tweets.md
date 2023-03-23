@@ -1,6 +1,6 @@
 # diracdeltas/tweets - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 766 | 242 | 
 | 2023-03-21 | 766 | 242 | 
 | 2023-03-20 | 767 | 242 | 
 | 2023-03-19 | 767 | 242 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 757 | 243 | 
 | 2023-02-22 | 757 | 243 | 
 | 2023-02-21 | 757 | 243 | 
-| 2023-02-20 | 757 | 243 | 
 

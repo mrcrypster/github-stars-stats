@@ -1,10 +1,10 @@
 # cheesecakeufo/komorebi - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 220
+☋ Forks: 221
 
-★ Stars: 2968
+★ Stars: 2970
 
 [Open repository](https://github.com/cheesecakeufo/komorebi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2970 | 221 | 
 | 2023-03-21 | 2968 | 220 | 
 | 2023-03-20 | 2969 | 220 | 
 | 2023-03-19 | 2970 | 220 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 2955 | 221 | 
 | 2023-02-22 | 2955 | 221 | 
 | 2023-02-21 | 2954 | 221 | 
-| 2023-02-20 | 2951 | 221 | 
 

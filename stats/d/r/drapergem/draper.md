@@ -1,6 +1,6 @@
 # drapergem/draper - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 525
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 5157 | 525 | 
 | 2023-03-21 | 5157 | 525 | 
 | 2023-03-20 | 5157 | 525 | 
 | 2023-03-19 | 5157 | 525 | 

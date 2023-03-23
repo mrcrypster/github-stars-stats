@@ -1,8 +1,8 @@
 # appdev-projects/array-chapter - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 797
+☋ Forks: 801
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | - | 801 | 
 | 2023-03-20 | - | 797 | 
 | 2023-03-19 | - | 793 | 
 | 2023-03-18 | - | 792 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | - | 783 | 
 | 2023-02-22 | - | 782 | 
 | 2023-02-21 | - | 781 | 
-| 2023-02-20 | - | 779 | 
 

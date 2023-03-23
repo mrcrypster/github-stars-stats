@@ -1,10 +1,10 @@
 # hashishrajan/cloud-security-vulnerabilities - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 31
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/hashishrajan/cloud-security-vulnerabilities)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 280 | 31 | 
 | 2023-03-20 | 279 | 31 | 
 | 2023-03-19 | 279 | 31 | 
 | 2023-03-18 | 279 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 275 | 30 | 
 | 2023-02-23 | 275 | 30 | 
 | 2023-02-22 | 275 | 30 | 
-| 2023-02-20 | 274 | 30 | 
 

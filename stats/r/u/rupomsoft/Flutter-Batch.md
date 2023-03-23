@@ -1,10 +1,10 @@
 # rupomsoft/Flutter-Batch - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 18
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/rupomsoft/Flutter-Batch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 19 | 18 | 
 | 2023-03-21 | 18 | 18 | 
 | 2023-03-19 | 18 | 18 | 
 | 2023-03-18 | 18 | 18 | 

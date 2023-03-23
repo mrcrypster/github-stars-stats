@@ -1,10 +1,10 @@
 # microservices-patterns/ftgo-application - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1152
 
-★ Stars: 2920
+★ Stars: 2921
 
 [Open repository](https://github.com/microservices-patterns/ftgo-application)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2921 | 1152 | 
 | 2023-03-21 | 2920 | 1152 | 
 | 2023-03-20 | 2918 | 1152 | 
 | 2023-03-19 | 2917 | 1151 | 

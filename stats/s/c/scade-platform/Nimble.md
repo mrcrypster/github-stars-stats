@@ -1,6 +1,6 @@
 # scade-platform/Nimble - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 222 | 9 | 
 | 2023-03-21 | 222 | 9 | 
 | 2023-03-19 | 222 | 9 | 
 | 2023-03-18 | 222 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 219 | 9 | 
 | 2023-02-22 | 219 | 9 | 
 | 2023-02-21 | 218 | 9 | 
-| 2023-02-20 | 217 | 9 | 
 

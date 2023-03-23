@@ -1,10 +1,10 @@
 # seongkyu-lim/TechBlogs - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 9
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/seongkyu-lim/TechBlogs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 116 | 9 | 
 | 2023-03-21 | 115 | 9 | 
 | 2023-03-19 | 115 | 9 | 
 | 2023-03-18 | 115 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 113 | 10 | 
 | 2023-02-22 | 113 | 10 | 
 | 2023-02-21 | 113 | 10 | 
-| 2023-02-20 | 112 | 10 | 
 

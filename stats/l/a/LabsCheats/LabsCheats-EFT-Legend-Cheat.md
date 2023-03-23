@@ -1,10 +1,10 @@
 # LabsCheats/LabsCheats-EFT-Legend-Cheat - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 9
 
-★ Stars: 91
+★ Stars: 90
 
 [Open repository](https://github.com/LabsCheats/LabsCheats-EFT-Legend-Cheat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 90 | 9 | 
 | 2023-03-21 | 91 | 9 | 
 | 2023-03-19 | 91 | 8 | 
 | 2023-03-18 | 120 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 157 | 7 | 
 | 2023-02-22 | 157 | 7 | 
 | 2023-02-21 | 157 | 7 | 
-| 2023-02-20 | 157 | 7 | 
 

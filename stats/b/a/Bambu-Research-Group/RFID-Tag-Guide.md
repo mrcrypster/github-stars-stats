@@ -1,10 +1,10 @@
 # Bambu-Research-Group/RFID-Tag-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/Bambu-Research-Group/RFID-Tag-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 56 | 16 | 
 | 2023-03-21 | 54 | 15 | 
 | 2023-03-20 | 53 | 15 | 
 | 2023-03-19 | 53 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 43 | 13 | 
 | 2023-02-22 | 43 | 13 | 
 | 2023-02-21 | 40 | 12 | 
-| 2023-02-20 | 39 | 11 | 
 

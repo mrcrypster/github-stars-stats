@@ -1,6 +1,6 @@
 # thomasKn/astro-shopify - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 39 | 14 | 
 | 2023-03-21 | 39 | 14 | 
 | 2023-03-20 | 38 | 14 | 
 | 2023-03-19 | 38 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 21 | 5 | 
 | 2023-02-23 | 21 | 5 | 
 | 2023-02-22 | 21 | 5 | 
-| 2023-02-20 | 21 | 5 | 
 

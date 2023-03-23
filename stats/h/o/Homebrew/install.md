@@ -1,10 +1,10 @@
 # Homebrew/install - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 995
+☋ Forks: 997
 
-★ Stars: 1737
+★ Stars: 1740
 
 [Open repository](https://github.com/Homebrew/install)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1740 | 997 | 
 | 2023-03-21 | 1737 | 995 | 
 | 2023-03-20 | 1736 | 995 | 
 | 2023-03-18 | 1736 | 994 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1704 | 988 | 
 | 2023-02-23 | 1701 | 989 | 
 | 2023-02-22 | 1697 | 987 | 
-| 2023-02-21 | 1695 | 983 | 
 

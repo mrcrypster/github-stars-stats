@@ -1,8 +1,8 @@
 # bedimcode/responsive-real-state-website - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 49
+☋ Forks: 50
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 120 | 50 | 
 | 2023-03-20 | 120 | 49 | 
 | 2023-03-19 | 120 | 49 | 
 | 2023-03-18 | 120 | 49 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 116 | 45 | 
 | 2023-02-23 | 117 | 45 | 
 | 2023-02-22 | 117 | 44 | 
-| 2023-02-20 | 117 | 44 | 
 

@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-resource-naming - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 21 | 48 | 
 | 2023-03-21 | 21 | 48 | 
 | 2023-03-19 | 21 | 48 | 
 | 2023-03-18 | 21 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 21 | 48 | 
 | 2023-02-23 | 21 | 48 | 
 | 2023-02-22 | 21 | 48 | 
-| 2023-02-21 | 21 | 48 | 
 

@@ -1,10 +1,10 @@
 # roots/bedrock - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1141
+☋ Forks: 1142
 
-★ Stars: 5761
+★ Stars: 5762
 
 [Open repository](https://github.com/roots/bedrock)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 5762 | 1142 | 
 | 2023-03-21 | 5761 | 1141 | 
 | 2023-03-20 | 5759 | 1141 | 
 | 2023-03-19 | 5758 | 1142 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 5732 | 1136 | 
 | 2023-02-22 | 5730 | 1136 | 
 | 2023-02-21 | 5731 | 1135 | 
-| 2023-02-20 | 5729 | 1135 | 
 

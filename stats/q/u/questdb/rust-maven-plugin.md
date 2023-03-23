@@ -1,10 +1,10 @@
 # questdb/rust-maven-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 3
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/questdb/rust-maven-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 81 | 3 | 
 | 2023-03-21 | 80 | 3 | 
 | 2023-03-19 | 80 | 3 | 
 | 2023-03-18 | 80 | 4 | 

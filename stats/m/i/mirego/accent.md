@@ -1,8 +1,8 @@
 # mirego/accent - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 923
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 923 | 79 | 
 | 2023-03-21 | 923 | 78 | 
 | 2023-03-20 | 922 | 78 | 
 | 2023-03-19 | 922 | 78 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 918 | 76 | 
 | 2023-02-22 | 918 | 76 | 
 | 2023-02-21 | 918 | 75 | 
-| 2023-02-20 | 916 | 75 | 
 

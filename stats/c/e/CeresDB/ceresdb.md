@@ -1,10 +1,10 @@
 # CeresDB/ceresdb - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 130
 
-★ Stars: 2027
+★ Stars: 2032
 
 [Open repository](https://github.com/CeresDB/ceresdb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2032 | 130 | 
 | 2023-03-21 | 2027 | 130 | 
 | 2023-03-19 | 2025 | 130 | 
 | 2023-03-18 | 2021 | 130 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1821 | 115 | 
 | 2023-02-22 | 1820 | 115 | 
 | 2023-02-21 | 1815 | 115 | 
-| 2023-02-20 | 1814 | 115 | 
 

@@ -1,10 +1,10 @@
 # snoopysecurity/Vulnerable-Code-Snippets - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 258
+☋ Forks: 259
 
-★ Stars: 287
+★ Stars: 290
 
 [Open repository](https://github.com/snoopysecurity/Vulnerable-Code-Snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 290 | 259 | 
 | 2023-03-21 | 287 | 258 | 
 | 2023-03-20 | 285 | 258 | 
 | 2023-03-18 | 285 | 258 | 

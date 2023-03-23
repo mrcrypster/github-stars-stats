@@ -1,10 +1,10 @@
 # kkokosa/dotnet-counters-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 8
 
-★ Stars: 152
+★ Stars: 158
 
 [Open repository](https://github.com/kkokosa/dotnet-counters-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 158 | 8 | 
 | 2023-03-21 | 152 | 8 | 
 | 2023-03-19 | 141 | 8 | 
 | 2023-03-18 | 141 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 139 | 8 | 
 | 2023-02-23 | 139 | 8 | 
 | 2023-02-22 | 139 | 8 | 
-| 2023-02-20 | 139 | 8 | 
 

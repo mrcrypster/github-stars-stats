@@ -1,6 +1,6 @@
 # vapor/url-encoded-form - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 40 | 21 | 
 | 2023-03-21 | 40 | 21 | 
 | 2023-03-20 | 40 | 21 | 
 | 2023-03-19 | 40 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 40 | 21 | 
 | 2023-02-22 | 40 | 21 | 
 | 2023-02-21 | 40 | 21 | 
-| 2023-02-20 | 40 | 21 | 
 

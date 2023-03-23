@@ -1,6 +1,6 @@
 # JuliaNeuralGraphics/Nerf.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 71 | 1 | 
 | 2023-03-21 | 71 | 1 | 
 | 2023-03-20 | 71 | 1 | 
 | 2023-03-19 | 71 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 67 | - | 
 | 2023-02-23 | 66 | - | 
 | 2023-02-21 | 66 | - | 
-| 2023-02-20 | 65 | - | 
 

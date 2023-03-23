@@ -1,10 +1,10 @@
 # purescript/purescript-validation - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 48
+★ Stars: 47
 
 [Open repository](https://github.com/purescript/purescript-validation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 47 | 15 | 
 | 2023-03-21 | 48 | 15 | 
 | 2023-03-19 | 48 | 15 | 
 | 2023-03-18 | 48 | 15 | 

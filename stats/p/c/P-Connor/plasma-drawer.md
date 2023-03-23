@@ -1,10 +1,10 @@
 # P-Connor/plasma-drawer - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/P-Connor/plasma-drawer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 37 | 2 | 
 | 2023-03-21 | 36 | 2 | 
 | 2023-03-20 | 36 | 2 | 
 | 2023-03-18 | 36 | 1 | 

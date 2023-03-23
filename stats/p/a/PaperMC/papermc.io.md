@@ -1,8 +1,8 @@
 # PaperMC/papermc.io - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 121 | 61 | 
 | 2023-03-20 | 121 | 60 | 
 | 2023-03-19 | 121 | 60 | 
 | 2023-03-18 | 120 | 60 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 121 | 60 | 
 | 2023-02-23 | 121 | 60 | 
 | 2023-02-22 | 121 | 60 | 
-| 2023-02-20 | 120 | 60 | 
 

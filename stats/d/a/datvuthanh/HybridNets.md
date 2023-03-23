@@ -1,6 +1,6 @@
 # datvuthanh/HybridNets - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 408 | 87 | 
 | 2023-03-21 | 408 | 87 | 
 | 2023-03-20 | 407 | 86 | 
 | 2023-03-19 | 407 | 86 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 393 | 83 | 
 | 2023-02-22 | 393 | 83 | 
 | 2023-02-21 | 393 | 83 | 
-| 2023-02-20 | 392 | 83 | 
 

@@ -1,10 +1,10 @@
 # Hopding/pdf-lib - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 444
+☋ Forks: 445
 
-★ Stars: 4939
+★ Stars: 4941
 
 [Open repository](https://github.com/Hopding/pdf-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4941 | 445 | 
 | 2023-03-21 | 4939 | 444 | 
 | 2023-03-19 | 4936 | 444 | 
 | 2023-03-18 | 4934 | 444 | 

@@ -1,10 +1,10 @@
 # optiv/Freeze - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 138
 
-★ Stars: 1151
+★ Stars: 1154
 
 [Open repository](https://github.com/optiv/Freeze)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1154 | 138 | 
 | 2023-03-20 | 1151 | 138 | 
 | 2023-03-19 | 1151 | 138 | 
 | 2023-03-18 | 1151 | 138 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 1106 | 136 | 
 | 2023-02-23 | 1105 | 136 | 
 | 2023-02-21 | 1104 | 136 | 
-| 2023-02-20 | 1104 | 136 | 
 

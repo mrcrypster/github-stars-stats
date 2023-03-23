@@ -1,6 +1,6 @@
 # kamailio/kamailio - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 829
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1842 | 829 | 
 | 2023-03-20 | 1842 | 829 | 
 | 2023-03-19 | 1840 | 829 | 
 | 2023-03-18 | 1839 | 828 | 

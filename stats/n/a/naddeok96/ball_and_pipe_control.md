@@ -1,6 +1,6 @@
 # naddeok96/ball_and_pipe_control - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1 | 33 | 
 | 2023-03-21 | 1 | 33 | 
 | 2023-03-20 | 1 | 33 | 
 | 2023-03-19 | 1 | 33 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1 | 33 | 
 | 2023-02-23 | 1 | 33 | 
 | 2023-02-22 | 1 | 33 | 
-| 2023-02-20 | 1 | 33 | 
 

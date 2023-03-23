@@ -1,10 +1,10 @@
 # CPMD-code/CPMD - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 8
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/CPMD-code/CPMD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 13 | 8 | 
 | 2023-03-21 | 12 | 8 | 
 | 2023-03-20 | 11 | 8 | 
 | 2023-03-19 | 11 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 10 | 6 | 
 | 2023-02-23 | 10 | 6 | 
 | 2023-02-22 | 10 | 6 | 
-| 2023-02-20 | 10 | 6 | 
 

@@ -1,8 +1,8 @@
 # elastic/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1896
+☋ Forks: 1897
 
 ★ Stars: 1767
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1767 | 1897 | 
 | 2023-03-21 | 1767 | 1896 | 
 | 2023-03-20 | 1766 | 1893 | 
 | 2023-03-18 | 1766 | 1893 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1754 | 1876 | 
 | 2023-02-22 | 1752 | 1874 | 
 | 2023-02-21 | 1751 | 1873 | 
-| 2023-02-20 | 1750 | 1873 | 
 

@@ -1,6 +1,6 @@
 # purescript-node/purescript-node-process - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 14 | 20 | 
 | 2023-03-21 | 14 | 20 | 
 | 2023-03-20 | 14 | 20 | 
 | 2023-03-18 | 14 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 14 | 20 | 
 | 2023-02-22 | 14 | 20 | 
 | 2023-02-21 | 14 | 20 | 
-| 2023-02-20 | 14 | 20 | 
 

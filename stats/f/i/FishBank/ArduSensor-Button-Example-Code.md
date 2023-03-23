@@ -1,10 +1,10 @@
 # FishBank/ArduSensor-Button-Example-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/FishBank/ArduSensor-Button-Example-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4 | - | 
 | 2023-03-20 | 3 | - | 
 | 2023-03-19 | 3 | - | 
 | 2023-03-18 | 3 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 1 | - | 
 | 2023-02-23 | 1 | - | 
 | 2023-02-22 | 1 | - | 
-| 2023-02-20 | 1 | - | 
 

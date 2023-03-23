@@ -1,10 +1,10 @@
 # forza-painter/forza-painter - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 63
 
-★ Stars: 341
+★ Stars: 342
 
 [Open repository](https://github.com/forza-painter/forza-painter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 342 | 63 | 
 | 2023-03-20 | 341 | 63 | 
 | 2023-03-19 | 340 | 63 | 
 | 2023-03-18 | 339 | 63 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 330 | 63 | 
 | 2023-02-22 | 330 | 64 | 
 | 2023-02-21 | 330 | 63 | 
-| 2023-02-20 | 330 | 63 | 
 

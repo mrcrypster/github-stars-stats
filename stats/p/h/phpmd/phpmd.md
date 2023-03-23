@@ -1,10 +1,10 @@
 # phpmd/phpmd - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 345
 
-★ Stars: 2159
+★ Stars: 2160
 
 [Open repository](https://github.com/phpmd/phpmd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2160 | 345 | 
 | 2023-03-21 | 2159 | 345 | 
 | 2023-03-20 | 2159 | 345 | 
 | 2023-03-19 | 2159 | 345 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 2154 | 345 | 
 | 2023-02-23 | 2155 | 345 | 
 | 2023-02-22 | 2155 | 345 | 
-| 2023-02-20 | 2155 | 345 | 
 

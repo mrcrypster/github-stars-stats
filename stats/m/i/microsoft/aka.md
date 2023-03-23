@@ -1,6 +1,6 @@
 # microsoft/aka - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 201 | 14 | 
 | 2023-03-21 | 201 | 14 | 
 | 2023-03-20 | 201 | 14 | 
 | 2023-03-19 | 201 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 185 | 12 | 
 | 2023-02-23 | 183 | 12 | 
 | 2023-02-22 | 183 | 12 | 
-| 2023-02-21 | 182 | 12 | 
 

@@ -1,6 +1,6 @@
 # IObundle/iob-lib - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 16 | 19 | 
 | 2023-03-21 | 16 | 19 | 
 | 2023-03-20 | 16 | 19 | 
 | 2023-03-19 | 16 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 16 | 18 | 
 | 2023-02-22 | 16 | 18 | 
 | 2023-02-21 | 16 | 18 | 
-| 2023-02-20 | 16 | 18 | 
 

@@ -1,10 +1,10 @@
 # jonhoo/configs - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 163
 
-★ Stars: 908
+★ Stars: 909
 
 [Open repository](https://github.com/jonhoo/configs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 909 | 163 | 
 | 2023-03-21 | 908 | 163 | 
 | 2023-03-19 | 908 | 163 | 
 | 2023-03-18 | 908 | 163 | 

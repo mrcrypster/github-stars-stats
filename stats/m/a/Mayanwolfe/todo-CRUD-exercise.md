@@ -1,6 +1,6 @@
 # Mayanwolfe/todo-CRUD-exercise - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 11 | 41 | 
 | 2023-03-21 | 11 | 41 | 
 | 2023-03-19 | 11 | 41 | 
 | 2023-03-18 | 11 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 11 | 41 | 
 | 2023-02-23 | 10 | 41 | 
 | 2023-02-21 | 10 | 41 | 
-| 2023-02-20 | 10 | 41 | 
 

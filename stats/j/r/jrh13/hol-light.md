@@ -1,6 +1,6 @@
 # jrh13/hol-light - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 330 | 70 | 
 | 2023-03-21 | 330 | 70 | 
 | 2023-03-20 | 330 | 70 | 
 | 2023-03-19 | 330 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 329 | 69 | 
 | 2023-02-22 | 329 | 68 | 
 | 2023-02-21 | 329 | 68 | 
-| 2023-02-20 | 329 | 68 | 
 

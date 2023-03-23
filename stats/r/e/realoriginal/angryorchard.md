@@ -1,10 +1,10 @@
 # realoriginal/angryorchard - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 66
+★ Stars: 70
 
 [Open repository](https://github.com/realoriginal/angryorchard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 70 | 20 | 
 | 2023-03-20 | 66 | 18 | 
 | 2023-03-19 | 66 | 17 | 
 | 2023-03-18 | 65 | 17 | 

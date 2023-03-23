@@ -1,6 +1,6 @@
 # LeventErkok/sbv - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 197 | 26 | 
 | 2023-03-21 | 197 | 26 | 
 | 2023-03-19 | 197 | 26 | 
 | 2023-03-18 | 197 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 192 | 26 | 
 | 2023-02-22 | 192 | 26 | 
 | 2023-02-21 | 192 | 26 | 
-| 2023-02-20 | 192 | 26 | 
 

@@ -1,10 +1,10 @@
 # amanchadha/coursera-deep-learning-specialization - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1599
+☋ Forks: 1600
 
-★ Stars: 1832
+★ Stars: 1836
 
 [Open repository](https://github.com/amanchadha/coursera-deep-learning-specialization)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1836 | 1600 | 
 | 2023-03-21 | 1832 | 1599 | 
 | 2023-03-20 | 1830 | 1598 | 
 | 2023-03-18 | 1825 | 1595 | 

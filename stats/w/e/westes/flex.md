@@ -1,10 +1,10 @@
 # westes/flex - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 487
 
-★ Stars: 2938
+★ Stars: 2940
 
 [Open repository](https://github.com/westes/flex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2940 | 487 | 
 | 2023-03-21 | 2938 | 487 | 
 | 2023-03-20 | 2936 | 487 | 
 | 2023-03-19 | 2933 | 489 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 2899 | 488 | 
 | 2023-02-22 | 2898 | 488 | 
 | 2023-02-21 | 2896 | 488 | 
-| 2023-02-20 | 2894 | 488 | 
 

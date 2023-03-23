@@ -1,10 +1,10 @@
 # jwilk/url.sh - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 5
 
-★ Stars: 139
+★ Stars: 138
 
 [Open repository](https://github.com/jwilk/url.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 138 | 5 | 
 | 2023-03-21 | 139 | 5 | 
 | 2023-03-19 | 139 | 5 | 
 | 2023-03-18 | 139 | 5 | 

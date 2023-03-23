@@ -1,10 +1,10 @@
 # ColombianGuy/r5_aimtrainer - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 34
 
-★ Stars: 371
+★ Stars: 373
 
 [Open repository](https://github.com/ColombianGuy/r5_aimtrainer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 373 | 34 | 
 | 2023-03-21 | 371 | 34 | 
 | 2023-03-20 | 371 | 34 | 
 | 2023-03-19 | 372 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 367 | 31 | 
 | 2023-02-22 | 367 | 31 | 
 | 2023-02-21 | 366 | 31 | 
-| 2023-02-20 | 365 | 31 | 
 

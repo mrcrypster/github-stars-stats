@@ -1,6 +1,6 @@
 # shijiaoliang/go-sensitive - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 103 | 14 | 
 | 2023-03-21 | 103 | 14 | 
 | 2023-03-20 | 103 | 14 | 
 | 2023-03-18 | 103 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 104 | 14 | 
 | 2023-02-22 | 103 | 14 | 
 | 2023-02-21 | 103 | 14 | 
-| 2023-02-20 | 103 | 14 | 
 

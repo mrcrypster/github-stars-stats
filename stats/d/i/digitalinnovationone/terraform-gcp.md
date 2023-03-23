@@ -1,6 +1,6 @@
 # digitalinnovationone/terraform-gcp - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6 | 55 | 
 | 2023-03-21 | 6 | 55 | 
 | 2023-03-20 | 6 | 55 | 
 | 2023-03-18 | 6 | 55 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 6 | 53 | 
 | 2023-02-22 | 6 | 52 | 
 | 2023-02-21 | 6 | 52 | 
-| 2023-02-20 | 6 | 52 | 
 

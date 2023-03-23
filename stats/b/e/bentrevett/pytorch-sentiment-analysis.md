@@ -1,8 +1,8 @@
 # bentrevett/pytorch-sentiment-analysis - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1085
+☋ Forks: 1086
 
 ★ Stars: 3849
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 3849 | 1086 | 
 | 2023-03-21 | 3849 | 1085 | 
 | 2023-03-20 | 3848 | 1085 | 
 | 2023-03-19 | 3847 | 1084 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 3809 | 1076 | 
 | 2023-02-22 | 3806 | 1075 | 
 | 2023-02-21 | 3806 | 1073 | 
-| 2023-02-20 | 3804 | 1073 | 
 

@@ -1,6 +1,6 @@
 # emacs-straight/org-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 18 | 4 | 
 | 2023-03-21 | 18 | 4 | 
 | 2023-03-20 | 18 | 4 | 
 | 2023-03-19 | 18 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 18 | 4 | 
 | 2023-02-22 | 18 | 4 | 
 | 2023-02-21 | 18 | 4 | 
-| 2023-02-20 | 18 | 4 | 
 

@@ -1,6 +1,6 @@
 # meilisearch/milli - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 460 | 89 | 
 | 2023-03-20 | 460 | 89 | 
 | 2023-03-19 | 460 | 89 | 
 | 2023-03-18 | 459 | 89 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 452 | 88 | 
 | 2023-02-23 | 452 | 88 | 
 | 2023-02-22 | 452 | 88 | 
-| 2023-02-21 | 452 | 88 | 
 

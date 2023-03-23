@@ -1,6 +1,6 @@
 # appdev-projects/omnicalc-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 802
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | - | 802 | 
 | 2023-03-21 | - | 802 | 
 | 2023-03-20 | - | 802 | 
 | 2023-03-18 | - | 802 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | - | 799 | 
 | 2023-02-22 | - | 799 | 
 | 2023-02-21 | - | 798 | 
-| 2023-02-20 | - | 798 | 
 

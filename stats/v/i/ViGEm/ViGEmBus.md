@@ -1,10 +1,10 @@
 # ViGEm/ViGEmBus - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 212
 
-★ Stars: 2037
+★ Stars: 2040
 
 [Open repository](https://github.com/ViGEm/ViGEmBus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2040 | 212 | 
 | 2023-03-21 | 2037 | 212 | 
 | 2023-03-20 | 2033 | 212 | 
 | 2023-03-19 | 2032 | 212 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1958 | 211 | 
 | 2023-02-23 | 1956 | 211 | 
 | 2023-02-21 | 1953 | 210 | 
-| 2023-02-20 | 1952 | 210 | 
 

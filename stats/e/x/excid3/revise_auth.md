@@ -1,6 +1,6 @@
 # excid3/revise_auth - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 190 | 17 | 
 | 2023-03-21 | 190 | 17 | 
 | 2023-03-20 | 190 | 17 | 
 | 2023-03-18 | 190 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 184 | 15 | 
 | 2023-02-23 | 184 | 15 | 
 | 2023-02-22 | 184 | 15 | 
-| 2023-02-20 | 184 | 15 | 
 

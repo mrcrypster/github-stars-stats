@@ -1,10 +1,10 @@
 # rust-lang/rustlings - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 6076
+☋ Forks: 6087
 
-★ Stars: 35572
+★ Stars: 35600
 
 [Open repository](https://github.com/rust-lang/rustlings)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 35600 | 6087 | 
 | 2023-03-21 | 35572 | 6076 | 
 | 2023-03-20 | 35563 | 6075 | 
 | 2023-03-19 | 35514 | 6058 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 34772 | 5845 | 
 | 2023-02-22 | 34702 | 5830 | 
 | 2023-02-21 | 34663 | 5821 | 
-| 2023-02-20 | 34658 | 5818 | 
 

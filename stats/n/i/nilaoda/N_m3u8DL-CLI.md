@@ -1,10 +1,10 @@
 # nilaoda/N_m3u8DL-CLI - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1862
 
-★ Stars: 11120
+★ Stars: 11133
 
 [Open repository](https://github.com/nilaoda/N_m3u8DL-CLI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 11133 | 1862 | 
 | 2023-03-21 | 11120 | 1862 | 
 | 2023-03-19 | 11111 | 1861 | 
 | 2023-03-18 | 11096 | 1860 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 10937 | 1853 | 
 | 2023-02-22 | 10934 | 1852 | 
 | 2023-02-21 | 10925 | 1852 | 
-| 2023-02-20 | 10911 | 1849 | 
 

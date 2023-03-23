@@ -1,10 +1,10 @@
 # byoungd/English-level-up-tips - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 3242
+☋ Forks: 3244
 
-★ Stars: 26641
+★ Stars: 26655
 
 [Open repository](https://github.com/byoungd/English-level-up-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 26655 | 3244 | 
 | 2023-03-21 | 26641 | 3242 | 
 | 2023-03-19 | 26628 | 3238 | 
 | 2023-03-18 | 26621 | 3239 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 25942 | 3198 | 
 | 2023-02-22 | 25938 | 3199 | 
 | 2023-02-21 | 25932 | 3199 | 
-| 2023-02-20 | 25929 | 3199 | 
 

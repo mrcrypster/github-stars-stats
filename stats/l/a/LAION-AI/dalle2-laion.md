@@ -1,10 +1,10 @@
 # LAION-AI/dalle2-laion - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 41
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/LAION-AI/dalle2-laion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 410 | 41 | 
 | 2023-03-21 | 409 | 41 | 
 | 2023-03-20 | 408 | 40 | 
 | 2023-03-18 | 407 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 398 | 36 | 
 | 2023-02-22 | 397 | 36 | 
 | 2023-02-21 | 397 | 36 | 
-| 2023-02-20 | 395 | 36 | 
 

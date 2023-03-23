@@ -1,6 +1,6 @@
 # prawnpdf/prawn - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 673
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4430 | 673 | 
 | 2023-03-21 | 4430 | 673 | 
 | 2023-03-19 | 4430 | 673 | 
 | 2023-03-18 | 4430 | 673 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 4414 | 671 | 
 | 2023-02-22 | 4413 | 671 | 
 | 2023-02-21 | 4413 | 671 | 
-| 2023-02-20 | 4413 | 671 | 
 

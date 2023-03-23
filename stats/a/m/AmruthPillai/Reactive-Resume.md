@@ -1,10 +1,10 @@
 # AmruthPillai/Reactive-Resume - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 1299
+☋ Forks: 1304
 
-★ Stars: 11261
+★ Stars: 11270
 
 [Open repository](https://github.com/AmruthPillai/Reactive-Resume)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 11270 | 1304 | 
 | 2023-03-20 | 11261 | 1299 | 
 | 2023-03-19 | 11254 | 1299 | 
 | 2023-03-18 | 11253 | 1299 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 11104 | 1282 | 
 | 2023-02-22 | 11095 | 1279 | 
 | 2023-02-21 | 11087 | 1277 | 
-| 2023-02-20 | 11076 | 1274 | 
 

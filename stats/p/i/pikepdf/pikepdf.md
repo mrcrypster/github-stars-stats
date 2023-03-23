@@ -1,6 +1,6 @@
 # pikepdf/pikepdf - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1687 | 165 | 
 | 2023-03-21 | 1687 | 165 | 
 | 2023-03-20 | 1686 | 165 | 
 | 2023-03-19 | 1686 | 165 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 1656 | 164 | 
 | 2023-02-22 | 1656 | 162 | 
 | 2023-02-21 | 1656 | 161 | 
-| 2023-02-20 | 1654 | 161 | 
 

@@ -1,10 +1,10 @@
 # microsoft/ML-For-Beginners - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 9422
+☋ Forks: 9429
 
-★ Stars: 45358
+★ Stars: 45385
 
 [Open repository](https://github.com/microsoft/ML-For-Beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 45385 | 9429 | 
 | 2023-03-21 | 45358 | 9422 | 
 | 2023-03-20 | 45333 | 9409 | 
 | 2023-03-19 | 45315 | 9402 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 44943 | 9287 | 
 | 2023-02-23 | 44894 | 9270 | 
 | 2023-02-21 | 44872 | 9268 | 
-| 2023-02-20 | 44848 | 9266 | 
 

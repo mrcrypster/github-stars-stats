@@ -1,10 +1,10 @@
 # insidesherpa/JPMC-tech-task-1 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 358
+☋ Forks: 359
 
-★ Stars: 55
+★ Stars: 57
 
 [Open repository](https://github.com/insidesherpa/JPMC-tech-task-1)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 57 | 359 | 
 | 2023-03-21 | 55 | 358 | 
 | 2023-03-20 | 55 | 359 | 
 | 2023-03-19 | 55 | 359 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 55 | 357 | 
 | 2023-02-23 | 55 | 357 | 
 | 2023-02-21 | 55 | 357 | 
-| 2023-02-20 | 55 | 357 | 
 

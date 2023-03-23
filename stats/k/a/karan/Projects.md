@@ -1,10 +1,10 @@
 # karan/Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 10448
+☋ Forks: 10449
 
-★ Stars: 41573
+★ Stars: 41587
 
 [Open repository](https://github.com/karan/Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 41587 | 10449 | 
 | 2023-03-21 | 41573 | 10448 | 
 | 2023-03-20 | 41559 | 10446 | 
 | 2023-03-18 | 41548 | 10446 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 41314 | 10447 | 
 | 2023-02-22 | 41303 | 10447 | 
 | 2023-02-21 | 41298 | 10447 | 
-| 2023-02-20 | 41287 | 10448 | 
 

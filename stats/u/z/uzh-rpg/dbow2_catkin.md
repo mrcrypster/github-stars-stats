@@ -1,6 +1,6 @@
 # uzh-rpg/dbow2_catkin - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | - | 16 | 
 | 2023-03-21 | - | 16 | 
 | 2023-03-19 | - | 16 | 
 | 2023-03-18 | - | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | - | 15 | 
 | 2023-02-22 | - | 15 | 
 | 2023-02-21 | - | 15 | 
-| 2023-02-20 | - | 14 | 
 

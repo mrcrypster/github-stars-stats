@@ -1,6 +1,6 @@
 # m4xshen/smartcolumn.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 124 | 5 | 
 | 2023-03-21 | 124 | 5 | 
 | 2023-03-20 | 123 | 5 | 
 | 2023-03-18 | 123 | 5 | 

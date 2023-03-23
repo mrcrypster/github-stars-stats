@@ -1,10 +1,10 @@
 # nseguin42/website - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/nseguin42/website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 1 | - | 
 | 2023-03-21 | - | - | 
 | 2023-03-19 | - | - | 
 | 2023-03-18 | - | - | 

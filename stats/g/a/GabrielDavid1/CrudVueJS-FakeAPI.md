@@ -1,6 +1,6 @@
 # GabrielDavid1/CrudVueJS-FakeAPI - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 35 | - | 
 | 2023-03-20 | 35 | - | 
 | 2023-03-19 | 35 | - | 
 | 2023-03-18 | 35 | - | 

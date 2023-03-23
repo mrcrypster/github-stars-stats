@@ -1,10 +1,10 @@
 # NikodemBartnik/Pico-Watering-System - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/NikodemBartnik/Pico-Watering-System)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 25 | 6 | 
 | 2023-03-21 | 24 | 6 | 
 | 2023-03-20 | 24 | 6 | 
 | 2023-03-18 | 24 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 24 | 6 | 
 | 2023-02-22 | 24 | 6 | 
 | 2023-02-21 | 24 | 6 | 
-| 2023-02-20 | 24 | 6 | 
 

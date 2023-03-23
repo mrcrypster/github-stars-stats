@@ -1,10 +1,10 @@
 # PixelExtended/OTA - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 55
 
-★ Stars: 33
+★ Stars: 32
 
 [Open repository](https://github.com/PixelExtended/OTA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 32 | 55 | 
 | 2023-03-20 | 33 | 55 | 
 | 2023-03-19 | 33 | 54 | 
 | 2023-03-18 | 33 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 32 | 53 | 
 | 2023-02-22 | 31 | 53 | 
 | 2023-02-21 | 31 | 53 | 
-| 2023-02-20 | 31 | 52 | 
 

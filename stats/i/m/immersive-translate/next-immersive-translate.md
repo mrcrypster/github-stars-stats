@@ -1,10 +1,10 @@
 # immersive-translate/next-immersive-translate - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 199
+☋ Forks: 202
 
-★ Stars: 4104
+★ Stars: 4139
 
 [Open repository](https://github.com/immersive-translate/next-immersive-translate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4139 | 202 | 
 | 2023-03-21 | 4104 | 199 | 
 | 2023-03-20 | 4051 | 193 | 
 | 2023-03-18 | 4008 | 192 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3018 | 132 | 
 | 2023-02-22 | 2956 | 130 | 
 | 2023-02-21 | 2744 | 120 | 
-| 2023-02-20 | 2631 | 117 | 
 

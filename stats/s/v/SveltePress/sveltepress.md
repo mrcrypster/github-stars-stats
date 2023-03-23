@@ -1,10 +1,10 @@
 # SveltePress/sveltepress - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/SveltePress/sveltepress)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 38 | 1 | 
 | 2023-03-21 | 36 | 1 | 
 | 2023-03-20 | 36 | 1 | 
 | 2023-03-18 | 35 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 32 | 1 | 
 | 2023-02-22 | 31 | 1 | 
 | 2023-02-21 | 31 | 1 | 
-| 2023-02-20 | 31 | 1 | 
 

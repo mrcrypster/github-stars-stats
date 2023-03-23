@@ -1,10 +1,10 @@
 # bernhardstrobl/Pico3D - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 8
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/bernhardstrobl/Pico3D)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 87 | 8 | 
 | 2023-03-21 | 86 | 8 | 
 | 2023-03-19 | 85 | 8 | 
 | 2023-03-18 | 85 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 78 | 8 | 
 | 2023-02-22 | 78 | 8 | 
 | 2023-02-21 | 78 | 8 | 
-| 2023-02-20 | 78 | 8 | 
 

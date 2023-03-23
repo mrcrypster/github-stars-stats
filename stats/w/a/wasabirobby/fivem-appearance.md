@@ -1,6 +1,6 @@
 # wasabirobby/fivem-appearance - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 33 | 32 | 
 | 2023-03-21 | 33 | 32 | 
 | 2023-03-20 | 33 | 32 | 
 | 2023-03-18 | 33 | 32 | 

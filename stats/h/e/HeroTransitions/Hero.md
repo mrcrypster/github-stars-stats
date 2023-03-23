@@ -1,6 +1,6 @@
 # HeroTransitions/Hero - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1721
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 21308 | 1721 | 
 | 2023-03-21 | 21308 | 1721 | 
 | 2023-03-19 | 21307 | 1721 | 
 | 2023-03-18 | 21305 | 1721 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 21268 | 1718 | 
 | 2023-02-22 | 21266 | 1717 | 
 | 2023-02-21 | 21267 | 1716 | 
-| 2023-02-20 | 21263 | 1715 | 
 

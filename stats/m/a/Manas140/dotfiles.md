@@ -1,10 +1,10 @@
 # Manas140/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 18
 
-★ Stars: 302
+★ Stars: 301
 
 [Open repository](https://github.com/Manas140/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 301 | 18 | 
 | 2023-03-21 | 302 | 18 | 
 | 2023-03-19 | 303 | 18 | 
 | 2023-03-18 | 303 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 300 | 18 | 
 | 2023-02-22 | 299 | 18 | 
 | 2023-02-21 | 298 | 18 | 
-| 2023-02-20 | 298 | 18 | 
 

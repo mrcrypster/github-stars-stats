@@ -1,10 +1,10 @@
 # composer/docker - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 137
 
-★ Stars: 224
+★ Stars: 225
 
 [Open repository](https://github.com/composer/docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 225 | 137 | 
 | 2023-03-21 | 224 | 137 | 
 | 2023-03-19 | 224 | 136 | 
 | 2023-03-18 | 224 | 136 | 

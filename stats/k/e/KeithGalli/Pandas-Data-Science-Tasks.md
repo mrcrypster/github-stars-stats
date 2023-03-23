@@ -1,8 +1,8 @@
 # KeithGalli/Pandas-Data-Science-Tasks - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 2465
+☋ Forks: 2466
 
 ★ Stars: 686
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 686 | 2466 | 
 | 2023-03-21 | 686 | 2465 | 
 | 2023-03-20 | 685 | 2464 | 
 | 2023-03-19 | 685 | 2463 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 669 | 2441 | 
 | 2023-02-22 | 668 | 2439 | 
 | 2023-02-21 | 668 | 2438 | 
-| 2023-02-20 | 668 | 2434 | 
 

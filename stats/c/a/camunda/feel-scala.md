@@ -1,10 +1,10 @@
 # camunda/feel-scala - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 40
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/camunda/feel-scala)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 86 | 40 | 
 | 2023-03-21 | 85 | 40 | 
 | 2023-03-19 | 84 | 40 | 
 | 2023-03-18 | 84 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 84 | 40 | 
 | 2023-02-22 | 84 | 40 | 
 | 2023-02-21 | 84 | 40 | 
-| 2023-02-20 | 84 | 40 | 
 

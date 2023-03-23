@@ -1,10 +1,10 @@
 # dotnet/roslyn - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 3834
 
-★ Stars: 17206
+★ Stars: 17210
 
 [Open repository](https://github.com/dotnet/roslyn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 17210 | 3834 | 
 | 2023-03-21 | 17206 | 3834 | 
 | 2023-03-20 | 17201 | 3834 | 
 | 2023-03-19 | 17194 | 3835 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 17101 | 3816 | 
 | 2023-02-22 | 17092 | 3816 | 
 | 2023-02-21 | 17084 | 3815 | 
-| 2023-02-20 | 17075 | 3815 | 
 

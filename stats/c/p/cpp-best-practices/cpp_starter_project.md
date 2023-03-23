@@ -1,10 +1,10 @@
 # cpp-best-practices/cpp_starter_project - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 445
+☋ Forks: 446
 
-★ Stars: 2361
+★ Stars: 2363
 
 [Open repository](https://github.com/cpp-best-practices/cpp_starter_project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2363 | 446 | 
 | 2023-03-21 | 2361 | 445 | 
 | 2023-03-20 | 2359 | 444 | 
 | 2023-03-18 | 2358 | 445 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 2334 | 446 | 
 | 2023-02-22 | 2332 | 446 | 
 | 2023-02-21 | 2330 | 446 | 
-| 2023-02-20 | 2329 | 444 | 
 

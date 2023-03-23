@@ -1,6 +1,6 @@
 # tpope/vim-classpath - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 110 | 14 | 
 | 2023-03-20 | 110 | 14 | 
 | 2023-03-19 | 110 | 14 | 
 | 2023-03-18 | 110 | 14 | 

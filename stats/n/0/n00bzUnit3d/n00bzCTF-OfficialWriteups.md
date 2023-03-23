@@ -1,6 +1,6 @@
 # n00bzUnit3d/n00bzCTF-OfficialWriteups - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 6 | 4 | 
 | 2023-03-20 | 6 | 4 | 
 | 2023-03-19 | 6 | 4 | 
 | 2023-03-17 | 6 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-24 | 6 | 4 | 
 | 2023-02-23 | 6 | 4 | 
 | 2023-02-22 | 6 | 4 | 
-| 2023-02-21 | 6 | 4 | 
 

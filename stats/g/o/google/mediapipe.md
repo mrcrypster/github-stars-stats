@@ -1,10 +1,10 @@
 # google/mediapipe - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 4396
+☋ Forks: 4400
 
-★ Stars: 20982
+★ Stars: 21000
 
 [Open repository](https://github.com/google/mediapipe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 21000 | 4400 | 
 | 2023-03-21 | 20982 | 4396 | 
 | 2023-03-20 | 20958 | 4390 | 
 | 2023-03-18 | 20949 | 4383 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 20600 | 4299 | 
 | 2023-02-22 | 20591 | 4297 | 
 | 2023-02-21 | 20583 | 4294 | 
-| 2023-02-20 | 20550 | 4287 | 
 

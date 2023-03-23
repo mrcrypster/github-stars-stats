@@ -1,6 +1,6 @@
 # actions/setup-node - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 1023
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2800 | 1023 | 
 | 2023-03-21 | 2800 | 1023 | 
 | 2023-03-19 | 2796 | 1020 | 
 | 2023-03-18 | 2794 | 1020 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 2757 | 994 | 
 | 2023-02-23 | 2752 | 991 | 
 | 2023-02-22 | 2747 | 988 | 
-| 2023-02-20 | 2744 | 988 | 
 

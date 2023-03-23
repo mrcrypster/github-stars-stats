@@ -1,6 +1,6 @@
 # taxfix/grakn_elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 15 | 6 | 
 | 2023-03-21 | 15 | 6 | 
 | 2023-03-20 | 15 | 6 | 
 | 2023-03-19 | 15 | 6 | 

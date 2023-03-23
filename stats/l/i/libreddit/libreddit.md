@@ -1,10 +1,10 @@
 # libreddit/libreddit - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 217
 
-★ Stars: 4247
+★ Stars: 4250
 
 [Open repository](https://github.com/libreddit/libreddit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 4250 | 217 | 
 | 2023-03-21 | 4247 | 217 | 
 | 2023-03-20 | 4239 | 217 | 
 | 2023-03-19 | 4230 | 216 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 4132 | 215 | 
 | 2023-02-22 | 4128 | 216 | 
 | 2023-02-21 | 4123 | 215 | 
-| 2023-02-20 | 4115 | 215 | 
 

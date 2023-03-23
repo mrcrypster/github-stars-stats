@@ -1,8 +1,8 @@
 # xAranaktu/FIFA-23-CM-Cheat-Table - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 34 | 18 | 
 | 2023-03-20 | 34 | 17 | 
 | 2023-03-19 | 34 | 17 | 
 | 2023-03-17 | 34 | 17 | 

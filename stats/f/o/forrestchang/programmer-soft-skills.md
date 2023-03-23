@@ -1,6 +1,6 @@
 # forrestchang/programmer-soft-skills - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 375 | 29 | 
 | 2023-03-21 | 375 | 29 | 
 | 2023-03-19 | 375 | 29 | 
 | 2023-03-18 | 375 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 371 | 29 | 
 | 2023-02-22 | 371 | 29 | 
 | 2023-02-21 | 371 | 29 | 
-| 2023-02-20 | 371 | 29 | 
 

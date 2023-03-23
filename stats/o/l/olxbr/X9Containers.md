@@ -1,6 +1,6 @@
 # olxbr/X9Containers - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 8 | 1 | 
 | 2023-03-21 | 8 | 1 | 
 | 2023-03-20 | 8 | 1 | 
 | 2023-03-18 | 8 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 8 | 1 | 
 | 2023-02-22 | 8 | 1 | 
 | 2023-02-21 | 8 | 1 | 
-| 2023-02-20 | 8 | 1 | 
 

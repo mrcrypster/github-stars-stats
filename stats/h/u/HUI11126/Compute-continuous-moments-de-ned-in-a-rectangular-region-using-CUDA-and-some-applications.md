@@ -1,6 +1,6 @@
 # HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 23 | 3 | 
 | 2023-03-21 | 23 | 3 | 
 | 2023-03-19 | 23 | 3 | 
 | 2023-03-18 | 23 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 23 | 3 | 
 | 2023-02-22 | 23 | 3 | 
 | 2023-02-21 | 23 | 3 | 
-| 2023-02-20 | 23 | 3 | 
 

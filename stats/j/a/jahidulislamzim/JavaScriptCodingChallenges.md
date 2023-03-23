@@ -1,6 +1,6 @@
 # jahidulislamzim/JavaScriptCodingChallenges - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 220 | 41 | 
 | 2023-03-21 | 220 | 41 | 
 | 2023-03-20 | 220 | 41 | 
 | 2023-03-18 | 220 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 220 | 39 | 
 | 2023-02-23 | 220 | 39 | 
 | 2023-02-21 | 219 | 39 | 
-| 2023-02-20 | 219 | 39 | 
 

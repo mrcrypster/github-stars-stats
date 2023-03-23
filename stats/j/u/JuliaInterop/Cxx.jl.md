@@ -1,10 +1,10 @@
 # JuliaInterop/Cxx.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 107
 
-★ Stars: 728
+★ Stars: 727
 
 [Open repository](https://github.com/JuliaInterop/Cxx.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 727 | 107 | 
 | 2023-03-21 | 728 | 107 | 
 | 2023-03-20 | 728 | 107 | 
 | 2023-03-18 | 728 | 107 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 722 | 107 | 
 | 2023-02-22 | 722 | 107 | 
 | 2023-02-21 | 722 | 107 | 
-| 2023-02-20 | 722 | 107 | 
 

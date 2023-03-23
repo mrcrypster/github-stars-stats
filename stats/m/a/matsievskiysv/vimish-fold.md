@@ -1,6 +1,6 @@
 # matsievskiysv/vimish-fold - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 237 | 18 | 
 | 2023-03-21 | 237 | 18 | 
 | 2023-03-19 | 237 | 18 | 
 | 2023-03-18 | 237 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 237 | 18 | 
 | 2023-02-22 | 238 | 18 | 
 | 2023-02-21 | 238 | 18 | 
-| 2023-02-20 | 238 | 18 | 
 

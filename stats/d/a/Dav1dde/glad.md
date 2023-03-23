@@ -1,6 +1,6 @@
 # Dav1dde/glad - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 2936 | 365 | 
 | 2023-03-20 | 2936 | 365 | 
 | 2023-03-19 | 2936 | 365 | 
 | 2023-03-18 | 2936 | 365 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 2913 | 358 | 
 | 2023-02-22 | 2910 | 358 | 
 | 2023-02-21 | 2907 | 358 | 
-| 2023-02-20 | 2903 | 356 | 
 

@@ -1,10 +1,10 @@
 # sam4llis/nvim-tundra - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 5
 
-★ Stars: 210
+★ Stars: 209
 
 [Open repository](https://github.com/sam4llis/nvim-tundra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 209 | 5 | 
 | 2023-03-21 | 210 | 5 | 
 | 2023-03-20 | 210 | 5 | 
 | 2023-03-19 | 210 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 205 | 5 | 
 | 2023-02-22 | 205 | 5 | 
 | 2023-02-21 | 205 | 5 | 
-| 2023-02-20 | 206 | 5 | 
 

@@ -1,10 +1,10 @@
 # microsoft/azureadexporter - stars & forks statistics
 
-Stats updated on Mar 2023, 20
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 44
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/microsoft/azureadexporter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 323 | 44 | 
 | 2023-03-20 | 322 | 44 | 
 | 2023-03-19 | 322 | 44 | 
 | 2023-03-18 | 322 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 20
 | 2023-02-23 | 313 | 44 | 
 | 2023-02-22 | 313 | 44 | 
 | 2023-02-21 | 312 | 44 | 
-| 2023-02-20 | 312 | 44 | 
 

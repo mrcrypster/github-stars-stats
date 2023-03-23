@@ -1,6 +1,6 @@
 # uber/dosa-idl - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 9 | 8 | 
 | 2023-03-21 | 9 | 8 | 
 | 2023-03-20 | 9 | 8 | 
 | 2023-03-19 | 9 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 9 | 7 | 
 | 2023-02-22 | 9 | 7 | 
 | 2023-02-21 | 9 | 7 | 
-| 2023-02-20 | 9 | 7 | 
 

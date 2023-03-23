@@ -1,10 +1,10 @@
 # joreilly/PeopleInSpace - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 210
 
-★ Stars: 2316
+★ Stars: 2319
 
 [Open repository](https://github.com/joreilly/PeopleInSpace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2319 | 210 | 
 | 2023-03-21 | 2316 | 210 | 
 | 2023-03-20 | 2313 | 210 | 
 | 2023-03-19 | 2312 | 210 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 2277 | 206 | 
 | 2023-02-22 | 2273 | 206 | 
 | 2023-02-21 | 2270 | 206 | 
-| 2023-02-20 | 2270 | 206 | 
 

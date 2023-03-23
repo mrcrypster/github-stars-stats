@@ -1,8 +1,8 @@
 # GoogleCloudPlatform/magic-modules - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
-☋ Forks: 910
+☋ Forks: 915
 
 ★ Stars: 638
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 638 | 915 | 
 | 2023-03-21 | 638 | 910 | 
 | 2023-03-20 | 637 | 908 | 
 | 2023-03-18 | 635 | 907 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 630 | 877 | 
 | 2023-02-22 | 630 | 877 | 
 | 2023-02-21 | 629 | 875 | 
-| 2023-02-20 | 629 | 874 | 
 

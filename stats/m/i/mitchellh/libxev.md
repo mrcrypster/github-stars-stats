@@ -1,10 +1,10 @@
 # mitchellh/libxev - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 22
 
 ☋ Forks: 10
 
-★ Stars: 427
+★ Stars: 429
 
 [Open repository](https://github.com/mitchellh/libxev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-22 | 429 | 10 | 
 | 2023-03-21 | 427 | 10 | 
 | 2023-03-19 | 423 | 10 | 
 | 2023-03-18 | 421 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-23 | 379 | 5 | 
 | 2023-02-22 | 379 | 5 | 
 | 2023-02-21 | 379 | 5 | 
-| 2023-02-20 | 377 | 5 | 
 
