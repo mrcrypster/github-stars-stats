@@ -1,6 +1,6 @@
 # kadenzipfel/bit-packed-map - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 64 | 3 | 
 | 2023-03-22 | 64 | 3 | 
 | 2023-03-20 | 64 | 3 | 
 | 2023-03-19 | 64 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 64 | 3 | 
 | 2023-02-23 | 64 | 3 | 
 | 2023-02-22 | 64 | 3 | 
-| 2023-02-21 | 64 | 3 | 
 

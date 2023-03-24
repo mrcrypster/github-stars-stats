@@ -1,6 +1,6 @@
 # opensearch-project/project-website - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 31 | 203 | 
 | 2023-03-22 | 31 | 203 | 
 | 2023-03-20 | 31 | 202 | 
 | 2023-03-19 | 31 | 202 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 31 | 198 | 
 | 2023-02-23 | 31 | 198 | 
 | 2023-02-22 | 31 | 197 | 
-| 2023-02-21 | 31 | 197 | 
 

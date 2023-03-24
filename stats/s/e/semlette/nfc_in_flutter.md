@@ -1,6 +1,6 @@
 # semlette/nfc_in_flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 115 | 114 | 
 | 2023-03-22 | 115 | 114 | 
 | 2023-03-20 | 115 | 114 | 
 | 2023-03-19 | 115 | 114 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 115 | 111 | 
 | 2023-02-23 | 115 | 111 | 
 | 2023-02-22 | 115 | 111 | 
-| 2023-02-21 | 115 | 111 | 
 

@@ -1,6 +1,6 @@
 # codepath/and102-lab3-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 231
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2 | 231 | 
 | 2023-03-22 | 2 | 231 | 
 | 2023-03-20 | 2 | 231 | 
 | 2023-03-19 | 2 | 230 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 2 | 182 | 
 | 2023-02-23 | 2 | 183 | 
 | 2023-02-22 | 2 | 183 | 
-| 2023-02-21 | 2 | 183 | 
 

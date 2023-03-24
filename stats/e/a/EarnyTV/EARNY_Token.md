@@ -1,6 +1,6 @@
 # EarnyTV/EARNY_Token - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 40 | 21 | 
 | 2023-03-22 | 40 | 21 | 
 | 2023-03-21 | 40 | 21 | 
 | 2023-03-19 | 40 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 41 | 21 | 
 | 2023-02-23 | 41 | 21 | 
 | 2023-02-22 | 41 | 21 | 
-| 2023-02-21 | 41 | 21 | 
 

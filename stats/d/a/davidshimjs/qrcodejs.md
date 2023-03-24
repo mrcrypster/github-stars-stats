@@ -1,10 +1,10 @@
 # davidshimjs/qrcodejs - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 4713
+☋ Forks: 4716
 
-★ Stars: 12278
+★ Stars: 12287
 
 [Open repository](https://github.com/davidshimjs/qrcodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 12287 | 4716 | 
 | 2023-03-22 | 12278 | 4713 | 
 | 2023-03-20 | 12272 | 4712 | 
 | 2023-03-19 | 12269 | 4712 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 12208 | 4705 | 
 | 2023-02-24 | 12204 | 4705 | 
 | 2023-02-23 | 12201 | 4706 | 
-| 2023-02-22 | 12198 | 4704 | 
 

@@ -1,10 +1,10 @@
 # rstudio/plumber - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 250
 
-★ Stars: 1319
+★ Stars: 1320
 
 [Open repository](https://github.com/rstudio/plumber)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1320 | 250 | 
 | 2023-03-22 | 1319 | 250 | 
 | 2023-03-20 | 1319 | 250 | 
 | 2023-03-19 | 1319 | 251 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1316 | 250 | 
 | 2023-02-23 | 1316 | 250 | 
 | 2023-02-22 | 1316 | 250 | 
-| 2023-02-21 | 1316 | 250 | 
 

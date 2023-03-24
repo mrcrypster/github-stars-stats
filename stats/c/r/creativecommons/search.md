@@ -1,8 +1,8 @@
 # creativecommons/search - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 84
+☋ Forks: 83
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 16 | 83 | 
 | 2023-03-21 | 16 | 84 | 
 | 2023-03-20 | 16 | 84 | 
 | 2023-03-19 | 16 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 17 | 81 | 
 | 2023-02-23 | 16 | 80 | 
 | 2023-02-22 | 16 | 80 | 
-| 2023-02-21 | 16 | 80 | 
 

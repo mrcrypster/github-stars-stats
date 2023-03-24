@@ -1,10 +1,10 @@
 # keatz55/phoenix_ui - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/keatz55/phoenix_ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 18 | - | 
 | 2023-03-22 | 17 | - | 
 | 2023-03-21 | 17 | - | 
 | 2023-03-20 | 17 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 17 | - | 
 | 2023-02-24 | 17 | - | 
 | 2023-02-23 | 17 | - | 
-| 2023-02-21 | 17 | - | 
 

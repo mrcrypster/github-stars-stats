@@ -1,10 +1,10 @@
 # torproject/tor - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 884
+☋ Forks: 885
 
-★ Stars: 3740
+★ Stars: 3743
 
 [Open repository](https://github.com/torproject/tor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3743 | 885 | 
 | 2023-03-21 | 3740 | 884 | 
 | 2023-03-20 | 3739 | 883 | 
 | 2023-03-19 | 3738 | 883 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3709 | 881 | 
 | 2023-02-23 | 3708 | 881 | 
 | 2023-02-22 | 3706 | 880 | 
-| 2023-02-21 | 3705 | 880 | 
 

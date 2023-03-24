@@ -1,10 +1,10 @@
 # celer-network/sgn-v2-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 61
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/celer-network/sgn-v2-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 85 | 61 | 
 | 2023-03-22 | 84 | 61 | 
 | 2023-03-20 | 84 | 61 | 
 | 2023-03-19 | 84 | 61 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 82 | 56 | 
 | 2023-02-23 | 82 | 56 | 
 | 2023-02-22 | 81 | 56 | 
-| 2023-02-21 | 81 | 56 | 
 

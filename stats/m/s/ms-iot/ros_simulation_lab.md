@@ -1,6 +1,6 @@
 # ms-iot/ros_simulation_lab - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 6 | 34 | 
 | 2023-03-21 | 6 | 34 | 
 | 2023-03-20 | 6 | 34 | 
 | 2023-03-19 | 6 | 34 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 6 | 33 | 
 | 2023-02-23 | 6 | 33 | 
 | 2023-02-22 | 6 | 33 | 
-| 2023-02-21 | 6 | 33 | 
 

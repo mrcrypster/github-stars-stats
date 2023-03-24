@@ -1,10 +1,10 @@
 # tarampampam/free-domains - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 213
+☋ Forks: 217
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/tarampampam/free-domains)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 316 | 217 | 
 | 2023-03-22 | 315 | 213 | 
 | 2023-03-20 | 312 | 211 | 
 | 2023-03-19 | 306 | 211 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 202 | 118 | 
 | 2023-02-24 | 188 | 115 | 
 | 2023-02-22 | 185 | 113 | 
-| 2023-02-21 | 183 | 111 | 
 

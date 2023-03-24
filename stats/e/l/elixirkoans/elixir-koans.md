@@ -1,10 +1,10 @@
 # elixirkoans/elixir-koans - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 545
 
-★ Stars: 1949
+★ Stars: 1951
 
 [Open repository](https://github.com/elixirkoans/elixir-koans)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1951 | 545 | 
 | 2023-03-21 | 1949 | 545 | 
 | 2023-03-20 | 1947 | 544 | 
 | 2023-03-19 | 1947 | 544 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1943 | 541 | 
 | 2023-02-23 | 1942 | 540 | 
 | 2023-02-22 | 1942 | 539 | 
-| 2023-02-21 | 1942 | 539 | 
 

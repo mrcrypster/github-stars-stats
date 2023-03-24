@@ -1,10 +1,10 @@
 # bmeviauac01/softwarelab1 - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 9
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/bmeviauac01/softwarelab1)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 5 | 9 | 
 | 2023-03-22 | 4 | 9 | 
 | 2023-03-20 | 3 | 9 | 
 | 2023-03-19 | 3 | 9 | 

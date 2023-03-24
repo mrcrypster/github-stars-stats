@@ -1,10 +1,10 @@
 # lllyasviel/ControlNet - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 1239
+☋ Forks: 1256
 
-★ Stars: 14623
+★ Stars: 14741
 
 [Open repository](https://github.com/lllyasviel/ControlNet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 14741 | 1256 | 
 | 2023-03-22 | 14623 | 1239 | 
 | 2023-03-21 | 14421 | 1225 | 
 | 2023-03-19 | 14215 | 1204 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 8022 | 621 | 
 | 2023-02-23 | 7645 | 594 | 
 | 2023-02-22 | 7006 | 538 | 
-| 2023-02-21 | 6170 | 471 | 
 

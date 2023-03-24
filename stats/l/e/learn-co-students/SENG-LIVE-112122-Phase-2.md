@@ -1,6 +1,6 @@
 # learn-co-students/SENG-LIVE-112122-Phase-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | - | 26 | 
 | 2023-03-22 | - | 26 | 
 | 2023-03-20 | - | 26 | 
 | 2023-03-19 | - | 26 | 

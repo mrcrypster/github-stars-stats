@@ -1,10 +1,10 @@
 # huawei-noah/CV-Backbones - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 631
+☋ Forks: 632
 
-★ Stars: 3139
+★ Stars: 3150
 
 [Open repository](https://github.com/huawei-noah/CV-Backbones)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3150 | 632 | 
 | 2023-03-22 | 3139 | 631 | 
 | 2023-03-20 | 3133 | 631 | 
 | 2023-03-19 | 3128 | 631 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 3075 | 620 | 
 | 2023-02-23 | 3073 | 620 | 
 | 2023-02-22 | 3069 | 618 | 
-| 2023-02-21 | 3067 | 617 | 
 

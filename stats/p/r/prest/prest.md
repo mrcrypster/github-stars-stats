@@ -1,8 +1,8 @@
 # prest/prest - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 267
+☋ Forks: 268
 
 ★ Stars: 3701
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3701 | 268 | 
 | 2023-03-22 | 3701 | 267 | 
 | 2023-03-21 | 3700 | 266 | 
 | 2023-03-19 | 3690 | 265 | 

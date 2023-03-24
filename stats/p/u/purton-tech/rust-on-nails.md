@@ -1,10 +1,10 @@
 # purton-tech/rust-on-nails - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 13
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/purton-tech/rust-on-nails)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 110 | 13 | 
 | 2023-03-22 | 109 | 13 | 
 | 2023-03-20 | 105 | 13 | 
 | 2023-03-19 | 103 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 79 | 7 | 
 | 2023-02-23 | 77 | 7 | 
 | 2023-02-22 | 77 | 7 | 
-| 2023-02-21 | 76 | 5 | 
 

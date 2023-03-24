@@ -1,10 +1,10 @@
 # r-lib/lintr - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 169
 
-★ Stars: 1057
+★ Stars: 1061
 
 [Open repository](https://github.com/r-lib/lintr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1061 | 169 | 
 | 2023-03-22 | 1057 | 169 | 
 | 2023-03-21 | 1057 | 169 | 
 | 2023-03-20 | 1057 | 169 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1053 | 170 | 
 | 2023-02-23 | 1052 | 170 | 
 | 2023-02-22 | 1052 | 170 | 
-| 2023-02-21 | 1052 | 170 | 
 

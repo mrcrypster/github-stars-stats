@@ -1,6 +1,6 @@
 # WeAreDotnet/dotnet-creator-cards - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 84 | 85 | 
 | 2023-03-22 | 84 | 85 | 
 | 2023-03-21 | 83 | 82 | 
 | 2023-03-20 | 79 | 80 | 

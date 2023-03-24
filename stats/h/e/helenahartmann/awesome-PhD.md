@@ -1,6 +1,6 @@
 # helenahartmann/awesome-PhD - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 310 | 16 | 
 | 2023-03-21 | 310 | 16 | 
 | 2023-03-20 | 310 | 16 | 
 | 2023-03-19 | 309 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 295 | 15 | 
 | 2023-02-23 | 295 | 15 | 
 | 2023-02-22 | 294 | 15 | 
-| 2023-02-21 | 290 | 15 | 
 

@@ -1,10 +1,10 @@
 # andri27-ts/Reinforcement-Learning - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 525
+☋ Forks: 527
 
-★ Stars: 3623
+★ Stars: 3631
 
 [Open repository](https://github.com/andri27-ts/Reinforcement-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3631 | 527 | 
 | 2023-03-22 | 3623 | 525 | 
 | 2023-03-21 | 3618 | 525 | 
 

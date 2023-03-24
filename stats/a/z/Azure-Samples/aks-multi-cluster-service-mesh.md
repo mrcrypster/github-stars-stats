@@ -1,10 +1,10 @@
 # Azure-Samples/aks-multi-cluster-service-mesh - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 12
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/Azure-Samples/aks-multi-cluster-service-mesh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 31 | 12 | 
 | 2023-03-22 | 29 | 12 | 
 | 2023-03-20 | 29 | 12 | 
 | 2023-03-19 | 29 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 29 | 11 | 
 | 2023-02-24 | 29 | 11 | 
 | 2023-02-23 | 29 | 11 | 
-| 2023-02-21 | 29 | 11 | 
 

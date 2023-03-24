@@ -1,10 +1,10 @@
 # wuelnerdotexe/vim-enfocado - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 10
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/wuelnerdotexe/vim-enfocado)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 293 | 10 | 
 | 2023-03-21 | 292 | 10 | 
 | 2023-03-20 | 292 | 10 | 
 | 2023-03-18 | 292 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 287 | 10 | 
 | 2023-02-23 | 287 | 10 | 
 | 2023-02-22 | 287 | 10 | 
-| 2023-02-21 | 287 | 10 | 
 

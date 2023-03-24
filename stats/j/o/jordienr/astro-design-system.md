@@ -1,10 +1,10 @@
 # jordienr/astro-design-system - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 6
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/jordienr/astro-design-system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 34 | 6 | 
 | 2023-03-22 | 33 | 6 | 
 | 2023-03-20 | 33 | 6 | 
 | 2023-03-19 | 31 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 23 | 6 | 
 | 2023-02-24 | 23 | 6 | 
 | 2023-02-22 | 23 | 6 | 
-| 2023-02-21 | 22 | 6 | 
 

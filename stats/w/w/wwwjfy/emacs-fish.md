@@ -1,6 +1,6 @@
 # wwwjfy/emacs-fish - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 82 | 14 | 
 | 2023-03-22 | 82 | 14 | 
 | 2023-03-20 | 82 | 14 | 
 | 2023-03-19 | 82 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 82 | 14 | 
 | 2023-02-23 | 82 | 14 | 
 | 2023-02-22 | 82 | 14 | 
-| 2023-02-21 | 82 | 14 | 
 

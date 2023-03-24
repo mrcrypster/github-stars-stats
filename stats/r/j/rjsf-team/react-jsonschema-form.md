@@ -1,10 +1,10 @@
 # rjsf-team/react-jsonschema-form - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 2050
+☋ Forks: 2053
 
-★ Stars: 12419
+★ Stars: 12431
 
 [Open repository](https://github.com/rjsf-team/react-jsonschema-form)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 12431 | 2053 | 
 | 2023-03-21 | 12419 | 2050 | 
 | 2023-03-20 | 12409 | 2048 | 
 | 2023-03-18 | 12405 | 2048 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 12317 | 2032 | 
 | 2023-02-24 | 12314 | 2032 | 
 | 2023-02-23 | 12310 | 2031 | 
-| 2023-02-22 | 12307 | 2030 | 
 

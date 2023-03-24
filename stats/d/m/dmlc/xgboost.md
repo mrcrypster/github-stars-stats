@@ -1,10 +1,10 @@
 # dmlc/xgboost - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 8556
+☋ Forks: 8558
 
-★ Stars: 23885
+★ Stars: 23887
 
 [Open repository](https://github.com/dmlc/xgboost)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 23887 | 8558 | 
 | 2023-03-22 | 23885 | 8556 | 
 | 2023-03-21 | 23880 | 8557 | 
 | 2023-03-20 | 23878 | 8556 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 23792 | 8549 | 
 | 2023-02-23 | 23785 | 8548 | 
 | 2023-02-22 | 23781 | 8547 | 
-| 2023-02-21 | 23781 | 8545 | 
 

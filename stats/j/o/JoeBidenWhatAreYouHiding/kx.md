@@ -1,10 +1,10 @@
 # JoeBidenWhatAreYouHiding/kx - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 130
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/JoeBidenWhatAreYouHiding/kx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 50 | 130 | 
 | 2023-03-21 | 49 | 130 | 
 | 2023-03-20 | 49 | 130 | 
 | 2023-03-19 | 49 | 130 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 47 | 129 | 
 | 2023-02-23 | 47 | 129 | 
 | 2023-02-22 | 46 | 129 | 
-| 2023-02-21 | 46 | 129 | 
 

@@ -1,6 +1,6 @@
 # mgechev/google-interview-preparation-problems - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 470
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2970 | 470 | 
 | 2023-03-22 | 2970 | 470 | 
 | 2023-03-20 | 2970 | 470 | 
 | 2023-03-19 | 2968 | 470 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 2925 | 464 | 
 | 2023-02-23 | 2922 | 464 | 
 | 2023-02-22 | 2921 | 464 | 
-| 2023-02-21 | 2920 | 464 | 
 

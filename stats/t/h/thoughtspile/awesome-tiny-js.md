@@ -1,10 +1,10 @@
 # thoughtspile/awesome-tiny-js - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 6
 
-★ Stars: 229
+★ Stars: 234
 
 [Open repository](https://github.com/thoughtspile/awesome-tiny-js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 234 | 6 | 
 | 2023-03-22 | 229 | 6 | 
 | 2023-03-20 | 221 | 6 | 
 | 2023-03-19 | 217 | 6 | 

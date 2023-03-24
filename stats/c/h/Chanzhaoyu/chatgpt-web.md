@@ -1,10 +1,10 @@
 # Chanzhaoyu/chatgpt-web - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 2547
+☋ Forks: 2689
 
-★ Stars: 9201
+★ Stars: 9628
 
 [Open repository](https://github.com/Chanzhaoyu/chatgpt-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 9628 | 2689 | 
 | 2023-03-22 | 9201 | 2547 | 
 | 2023-03-21 | 8767 | 2393 | 
 | 2023-03-20 | 8272 | 2234 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 895 | 233 | 
 | 2023-02-23 | 722 | 200 | 
 | 2023-02-22 | 623 | 170 | 
-| 2023-02-21 | 597 | 164 | 
 

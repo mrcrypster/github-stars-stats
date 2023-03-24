@@ -1,6 +1,6 @@
 # owenmcateer/FlipDots - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 139 | 6 | 
 | 2023-03-21 | 139 | 6 | 
 | 2023-03-20 | 139 | 6 | 
 | 2023-03-19 | 139 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 133 | 6 | 
 | 2023-02-24 | 132 | 6 | 
 | 2023-02-23 | 128 | 6 | 
-| 2023-02-22 | 125 | 6 | 
 

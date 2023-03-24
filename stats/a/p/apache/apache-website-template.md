@@ -1,6 +1,6 @@
 # apache/apache-website-template - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 23 | 35 | 
 | 2023-03-21 | 23 | 35 | 
 | 2023-03-20 | 22 | 35 | 
 | 2023-03-18 | 22 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 21 | 35 | 
 | 2023-02-23 | 21 | 35 | 
 | 2023-02-22 | 21 | 35 | 
-| 2023-02-21 | 21 | 35 | 
 

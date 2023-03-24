@@ -1,6 +1,6 @@
 # antonbabenko/terraform-best-practices - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1663 | 358 | 
 | 2023-03-22 | 1663 | 358 | 
 | 2023-03-20 | 1662 | 357 | 
 | 2023-03-19 | 1661 | 357 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1635 | 344 | 
 | 2023-02-24 | 1633 | 344 | 
 | 2023-02-23 | 1631 | 344 | 
-| 2023-02-21 | 1629 | 344 | 
 

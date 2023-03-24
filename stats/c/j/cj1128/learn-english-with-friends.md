@@ -1,10 +1,10 @@
 # cj1128/learn-english-with-friends - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 40
+☋ Forks: 39
 
-★ Stars: 347
+★ Stars: 348
 
 [Open repository](https://github.com/cj1128/learn-english-with-friends)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 348 | 39 | 
 | 2023-03-22 | 347 | 40 | 
 | 2023-03-20 | 347 | 40 | 
 | 2023-03-19 | 343 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 307 | 38 | 
 | 2023-02-23 | 305 | 38 | 
 | 2023-02-22 | 304 | 38 | 
-| 2023-02-21 | 304 | 38 | 
 

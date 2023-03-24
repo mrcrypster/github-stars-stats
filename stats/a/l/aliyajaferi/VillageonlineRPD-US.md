@@ -1,6 +1,6 @@
 # aliyajaferi/VillageonlineRPD-US - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | - | 82 | 
 | 2023-03-21 | - | 82 | 
 | 2023-03-20 | - | 82 | 
 | 2023-03-19 | - | 82 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | - | 81 | 
 | 2023-02-24 | - | 81 | 
 | 2023-02-22 | - | 81 | 
-| 2023-02-21 | - | 81 | 
 

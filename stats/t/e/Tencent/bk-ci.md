@@ -1,10 +1,10 @@
 # Tencent/bk-ci - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 463
 
-★ Stars: 2121
+★ Stars: 2122
 
 [Open repository](https://github.com/Tencent/bk-ci)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2122 | 463 | 
 | 2023-03-22 | 2121 | 463 | 
 | 2023-03-20 | 2117 | 463 | 
 | 2023-03-19 | 2116 | 463 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 2101 | 462 | 
 | 2023-02-23 | 2099 | 460 | 
 | 2023-02-22 | 2099 | 460 | 
-| 2023-02-21 | 2099 | 460 | 
 

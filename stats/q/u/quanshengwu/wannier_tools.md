@@ -1,10 +1,10 @@
 # quanshengwu/wannier_tools - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 124
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/quanshengwu/wannier_tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 205 | 124 | 
 | 2023-03-22 | 204 | 124 | 
 | 2023-03-21 | 203 | 124 | 
 | 2023-03-19 | 203 | 124 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 201 | 122 | 
 | 2023-02-23 | 201 | 122 | 
 | 2023-02-22 | 201 | 122 | 
-| 2023-02-21 | 201 | 122 | 
 

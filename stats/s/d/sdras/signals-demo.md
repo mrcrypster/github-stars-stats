@@ -1,10 +1,10 @@
 # sdras/signals-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 7
 
-★ Stars: 101
+★ Stars: 103
 
 [Open repository](https://github.com/sdras/signals-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 103 | 7 | 
 | 2023-03-22 | 101 | 7 | 
 | 2023-03-21 | 101 | 7 | 
 | 2023-03-19 | 101 | 7 | 

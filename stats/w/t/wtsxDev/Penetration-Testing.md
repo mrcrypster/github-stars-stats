@@ -1,6 +1,6 @@
 # wtsxDev/Penetration-Testing - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 658
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2074 | 658 | 
 | 2023-03-22 | 2074 | 658 | 
 | 2023-03-21 | 2071 | 657 | 
 | 2023-03-19 | 2070 | 657 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 2057 | 654 | 
 | 2023-02-23 | 2055 | 654 | 
 | 2023-02-22 | 2054 | 653 | 
-| 2023-02-21 | 2053 | 653 | 
 

@@ -1,10 +1,10 @@
 # levkk/pgcat - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 47
 
-★ Stars: 1458
+★ Stars: 1466
 
 [Open repository](https://github.com/levkk/pgcat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1466 | 47 | 
 | 2023-03-21 | 1458 | 47 | 
 | 2023-03-20 | 1438 | 47 | 
 | 2023-03-19 | 1416 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 1243 | 38 | 
 | 2023-02-24 | 1241 | 38 | 
 | 2023-02-23 | 1237 | 37 | 
-| 2023-02-21 | 1231 | 37 | 
 

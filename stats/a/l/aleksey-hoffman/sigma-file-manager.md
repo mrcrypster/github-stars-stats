@@ -1,10 +1,10 @@
 # aleksey-hoffman/sigma-file-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 67
 
-★ Stars: 1878
+★ Stars: 1889
 
 [Open repository](https://github.com/aleksey-hoffman/sigma-file-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1889 | 67 | 
 | 2023-03-22 | 1878 | 67 | 
 | 2023-03-21 | 1875 | 67 | 
 | 2023-03-20 | 1865 | 68 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1321 | 49 | 
 | 2023-02-23 | 1312 | 49 | 
 | 2023-02-22 | 1298 | 49 | 
-| 2023-02-21 | 1291 | 48 | 
 

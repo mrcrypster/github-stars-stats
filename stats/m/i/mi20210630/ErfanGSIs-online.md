@@ -1,8 +1,8 @@
 # mi20210630/ErfanGSIs-online - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 13
+☋ Forks: 12
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2 | 12 | 
 | 2023-03-21 | 2 | 13 | 
 | 2023-03-20 | 2 | 12 | 
 | 2023-03-19 | 2 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 2 | 10 | 
 | 2023-02-24 | 2 | 10 | 
 | 2023-02-23 | 2 | 10 | 
-| 2023-02-21 | 2 | 10 | 
 

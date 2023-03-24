@@ -1,10 +1,10 @@
 # AlexvZyl/nordic.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 9
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/AlexvZyl/nordic.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 177 | 9 | 
 | 2023-03-21 | 176 | 9 | 
 | 2023-03-20 | 174 | 9 | 
 | 2023-03-19 | 172 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 165 | 11 | 
 | 2023-02-23 | 162 | 11 | 
 | 2023-02-22 | 162 | 10 | 
-| 2023-02-21 | 161 | 10 | 
 

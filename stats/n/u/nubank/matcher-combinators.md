@@ -1,6 +1,6 @@
 # nubank/matcher-combinators - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 380 | 19 | 
 | 2023-03-22 | 380 | 19 | 
 | 2023-03-21 | 380 | 19 | 
 | 2023-03-20 | 380 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 376 | 19 | 
 | 2023-02-23 | 376 | 19 | 
 | 2023-02-22 | 375 | 19 | 
-| 2023-02-21 | 375 | 19 | 
 

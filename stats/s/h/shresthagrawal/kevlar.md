@@ -1,10 +1,10 @@
 # shresthagrawal/kevlar - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 21
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/shresthagrawal/kevlar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 229 | 21 | 
 | 2023-03-22 | 228 | 21 | 
 | 2023-03-21 | 227 | 21 | 
 | 2023-03-20 | 227 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 224 | 20 | 
 | 2023-02-23 | 224 | 20 | 
 | 2023-02-22 | 224 | 20 | 
-| 2023-02-21 | 224 | 20 | 
 

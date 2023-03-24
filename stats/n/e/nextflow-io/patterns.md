@@ -1,6 +1,6 @@
 # nextflow-io/patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 270 | 66 | 
 | 2023-03-21 | 270 | 66 | 
 | 2023-03-20 | 270 | 66 | 
 | 2023-03-19 | 270 | 66 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 262 | 65 | 
 | 2023-02-24 | 262 | 65 | 
 | 2023-02-23 | 262 | 65 | 
-| 2023-02-22 | 261 | 65 | 
 

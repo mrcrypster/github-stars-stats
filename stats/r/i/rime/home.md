@@ -1,8 +1,8 @@
 # rime/home - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 210
+☋ Forks: 213
 
 ★ Stars: 3569
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3569 | 213 | 
 | 2023-03-21 | 3569 | 210 | 
 | 2023-03-20 | 3569 | 209 | 
 | 2023-03-19 | 3565 | 209 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3540 | 209 | 
 | 2023-02-23 | 3539 | 209 | 
 | 2023-02-22 | 3537 | 209 | 
-| 2023-02-21 | 3535 | 208 | 
 

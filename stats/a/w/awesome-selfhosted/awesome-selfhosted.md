@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 23
 
 ☋ Forks: 7272
 
-★ Stars: 124735
+★ Stars: 124775
 
 [Open repository](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-23 | 124735 | 7272 | 
+| 2023-03-23 | 124775 | 7272 | 
 | 2023-03-22 | 124708 | 7272 | 
 | 2023-03-21 | 124619 | 7268 | 
 | 2023-03-20 | 124485 | 7262 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-24 | 119991 | 6977 | 
 | 2023-02-23 | 119824 | 6975 | 
 | 2023-02-22 | 119711 | 6969 | 
-| 2023-02-21 | 119580 | 6962 | 
 

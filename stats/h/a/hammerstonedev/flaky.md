@@ -1,10 +1,10 @@
 # hammerstonedev/flaky - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 3
 
-★ Stars: 347
+★ Stars: 353
 
 [Open repository](https://github.com/hammerstonedev/flaky)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 353 | 3 | 
 | 2023-03-21 | 347 | 3 | 
 | 2023-03-20 | 345 | 3 | 
 | 2023-03-19 | 339 | 3 | 

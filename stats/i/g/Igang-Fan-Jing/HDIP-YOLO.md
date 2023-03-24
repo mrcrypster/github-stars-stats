@@ -1,6 +1,6 @@
 # Igang-Fan-Jing/HDIP-YOLO - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 79 | 28 | 
 | 2023-03-22 | 79 | 28 | 
 | 2023-03-20 | 79 | 28 | 
 | 2023-03-19 | 79 | 29 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 79 | 29 | 
 | 2023-02-23 | 79 | 29 | 
 | 2023-02-22 | 79 | 29 | 
-| 2023-02-21 | 79 | 29 | 
 

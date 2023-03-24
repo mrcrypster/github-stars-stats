@@ -1,6 +1,6 @@
 # Triple-T/gradle-play-publisher - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 330
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3922 | 330 | 
 | 2023-03-22 | 3922 | 330 | 
 | 2023-03-21 | 3922 | 329 | 
 | 2023-03-19 | 3920 | 329 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 3911 | 327 | 
 | 2023-02-23 | 3909 | 327 | 
 | 2023-02-22 | 3907 | 327 | 
-| 2023-02-21 | 3907 | 327 | 
 

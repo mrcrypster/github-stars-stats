@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 23
 
-☋ Forks: 884
+☋ Forks: 885
 
-★ Stars: 1600
+★ Stars: 1601
 
 [Open repository](https://github.com/aws-amplify/aws-sdk-ios)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-23 | 1600 | 884 | 
+| 2023-03-23 | 1601 | 885 | 
 | 2023-03-22 | 1600 | 884 | 
 | 2023-03-20 | 1600 | 884 | 
 | 2023-03-19 | 1600 | 885 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-24 | 1601 | 880 | 
 | 2023-02-23 | 1600 | 880 | 
 | 2023-02-22 | 1599 | 880 | 
-| 2023-02-21 | 1599 | 880 | 
 

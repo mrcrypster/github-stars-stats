@@ -1,8 +1,8 @@
 # zevlg/telega.el - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 943
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 943 | 72 | 
 | 2023-03-22 | 943 | 71 | 
 | 2023-03-21 | 942 | 72 | 
 | 2023-03-19 | 943 | 72 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 938 | 68 | 
 | 2023-02-23 | 938 | 68 | 
 | 2023-02-22 | 938 | 68 | 
-| 2023-02-21 | 938 | 68 | 
 

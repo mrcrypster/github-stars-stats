@@ -1,6 +1,6 @@
 # CKolkey/ts-node-action - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 247 | 11 | 
 | 2023-03-21 | 247 | 11 | 
 | 2023-03-20 | 247 | 11 | 
 | 2023-03-19 | 247 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 235 | 11 | 
 | 2023-02-23 | 232 | 11 | 
 | 2023-02-22 | 230 | 11 | 
-| 2023-02-21 | 230 | 11 | 
 

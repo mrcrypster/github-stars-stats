@@ -1,6 +1,6 @@
 # algolia/algoliasearch-client-swift - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 197 | 64 | 
 | 2023-03-22 | 197 | 64 | 
 | 2023-03-20 | 197 | 64 | 
 | 2023-03-19 | 197 | 64 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 193 | 63 | 
 | 2023-02-23 | 193 | 63 | 
 | 2023-02-22 | 193 | 63 | 
-| 2023-02-21 | 193 | 63 | 
 

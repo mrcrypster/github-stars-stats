@@ -1,10 +1,10 @@
 # Staacks/gbinterceptor - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 8
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/Staacks/gbinterceptor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 268 | 8 | 
 | 2023-03-22 | 267 | 8 | 
 | 2023-03-20 | 265 | 7 | 
 | 2023-03-19 | 264 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 251 | 7 | 
 | 2023-02-23 | 249 | 7 | 
 | 2023-02-22 | 249 | 7 | 
-| 2023-02-21 | 244 | 7 | 
 

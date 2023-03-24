@@ -1,6 +1,6 @@
 # COPS-CSOC-2022/csoc-week3-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | - | 15 | 
 | 2023-03-22 | - | 15 | 
 | 2023-03-20 | - | 15 | 
 | 2023-03-19 | - | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | - | 16 | 
 | 2023-02-23 | - | 16 | 
 | 2023-02-22 | - | 16 | 
-| 2023-02-21 | - | 16 | 
 

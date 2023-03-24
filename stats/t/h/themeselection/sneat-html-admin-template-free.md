@@ -1,10 +1,10 @@
 # themeselection/sneat-html-admin-template-free - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 536
+★ Stars: 539
 
 [Open repository](https://github.com/themeselection/sneat-html-admin-template-free)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 539 | 104 | 
 | 2023-03-22 | 536 | 103 | 
 | 2023-03-20 | 536 | 102 | 
 | 2023-03-19 | 535 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 511 | 96 | 
 | 2023-02-23 | 507 | 96 | 
 | 2023-02-22 | 507 | 96 | 
-| 2023-02-21 | 506 | 96 | 
 

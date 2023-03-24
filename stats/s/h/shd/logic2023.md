@@ -1,8 +1,8 @@
 # shd/logic2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 15 | 12 | 
 | 2023-03-22 | 15 | 11 | 
 | 2023-03-20 | 16 | 11 | 
 | 2023-03-19 | 15 | 10 | 

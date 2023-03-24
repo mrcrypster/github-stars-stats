@@ -1,10 +1,10 @@
 # msolli/proletarian - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 127
+★ Stars: 129
 
 [Open repository](https://github.com/msolli/proletarian)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 129 | 4 | 
 | 2023-03-21 | 127 | 4 | 
 | 2023-03-20 | 127 | 4 | 
 | 2023-03-19 | 127 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 127 | 4 | 
 | 2023-02-23 | 127 | 4 | 
 | 2023-02-22 | 126 | 4 | 
-| 2023-02-21 | 126 | 4 | 
 

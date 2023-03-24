@@ -1,10 +1,10 @@
 # zobront/halmos-solady - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/zobront/halmos-solady)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 28 | - | 
 | 2023-03-21 | 27 | - | 
 | 2023-03-20 | 27 | - | 
 | 2023-03-19 | 27 | - | 

@@ -1,6 +1,6 @@
 # 5T33Z0/OC-Little-Translated - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 281 | 32 | 
 | 2023-03-22 | 281 | 32 | 
 | 2023-03-21 | 279 | 32 | 
 | 2023-03-20 | 278 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 270 | 32 | 
 | 2023-02-23 | 269 | 32 | 
 | 2023-02-22 | 269 | 32 | 
-| 2023-02-21 | 269 | 32 | 
 

@@ -1,10 +1,10 @@
 # Laskyyy/Create-Astral - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 14
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Laskyyy/Create-Astral)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 17 | 14 | 
 | 2023-03-22 | 16 | 14 | 
 | 2023-03-21 | 16 | 12 | 
 | 2023-03-20 | 16 | 11 | 

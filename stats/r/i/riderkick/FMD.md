@@ -1,8 +1,8 @@
 # riderkick/FMD - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 208
+☋ Forks: 209
 
 ★ Stars: 681
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 681 | 209 | 
 | 2023-03-22 | 681 | 208 | 
 | 2023-03-21 | 681 | 208 | 
 | 2023-03-19 | 681 | 209 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 681 | 211 | 
 | 2023-02-24 | 681 | 211 | 
 | 2023-02-23 | 680 | 210 | 
-| 2023-02-22 | 680 | 210 | 
 

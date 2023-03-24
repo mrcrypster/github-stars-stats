@@ -1,6 +1,6 @@
 # jackal/jackal - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 98 | 121 | 
 | 2023-03-22 | 98 | 121 | 
 | 2023-03-20 | 98 | 121 | 
 | 2023-03-19 | 98 | 121 | 

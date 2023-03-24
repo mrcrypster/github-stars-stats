@@ -1,10 +1,10 @@
 # Data-Liberation-Front/csvlint.rb - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 84
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/Data-Liberation-Front/csvlint.rb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 267 | 84 | 
 | 2023-03-22 | 266 | 84 | 
 | 2023-03-20 | 266 | 84 | 
 | 2023-03-19 | 266 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 263 | 83 | 
 | 2023-02-23 | 263 | 83 | 
 | 2023-02-22 | 263 | 83 | 
-| 2023-02-21 | 261 | 83 | 
 

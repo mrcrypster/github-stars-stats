@@ -1,10 +1,10 @@
 # cdpierse/transformers-interpret - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 86
 
-★ Stars: 988
+★ Stars: 989
 
 [Open repository](https://github.com/cdpierse/transformers-interpret)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 989 | 86 | 
 | 2023-03-22 | 988 | 86 | 
 | 2023-03-20 | 986 | 86 | 
 | 2023-03-19 | 985 | 86 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 969 | 85 | 
 | 2023-02-24 | 966 | 85 | 
 | 2023-02-23 | 966 | 85 | 
-| 2023-02-22 | 966 | 85 | 
 

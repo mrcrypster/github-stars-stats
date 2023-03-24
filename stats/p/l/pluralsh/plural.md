@@ -1,10 +1,10 @@
 # pluralsh/plural - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 37
 
-★ Stars: 982
+★ Stars: 987
 
 [Open repository](https://github.com/pluralsh/plural)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 987 | 37 | 
 | 2023-03-22 | 982 | 37 | 
 | 2023-03-21 | 980 | 37 | 
 | 2023-03-19 | 977 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 935 | 37 | 
 | 2023-02-23 | 931 | 37 | 
 | 2023-02-22 | 927 | 37 | 
-| 2023-02-21 | 924 | 37 | 
 

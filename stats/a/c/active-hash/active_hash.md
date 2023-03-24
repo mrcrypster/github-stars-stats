@@ -1,6 +1,6 @@
 # active-hash/active_hash - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1041 | 175 | 
 | 2023-03-22 | 1041 | 175 | 
 | 2023-03-20 | 1041 | 175 | 
 | 2023-03-19 | 1041 | 175 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1038 | 176 | 
 | 2023-02-24 | 1038 | 175 | 
 | 2023-02-23 | 1038 | 175 | 
-| 2023-02-22 | 1038 | 175 | 
 

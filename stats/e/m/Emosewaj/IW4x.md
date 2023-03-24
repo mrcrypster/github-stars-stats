@@ -1,10 +1,10 @@
 # Emosewaj/IW4x - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 13
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/Emosewaj/IW4x)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 108 | 13 | 
 | 2023-03-22 | 107 | 13 | 
 | 2023-03-20 | 107 | 13 | 
 | 2023-03-19 | 107 | 13 | 

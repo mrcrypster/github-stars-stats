@@ -1,6 +1,6 @@
 # haskell/cabal - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 641
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1473 | 641 | 
 | 2023-03-22 | 1473 | 641 | 
 | 2023-03-21 | 1470 | 640 | 
 | 2023-03-20 | 1470 | 640 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1462 | 633 | 
 | 2023-02-23 | 1461 | 633 | 
 | 2023-02-22 | 1461 | 633 | 
-| 2023-02-21 | 1462 | 634 | 
 

@@ -1,10 +1,10 @@
 # ppeetteerrs/obsidian-zola - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 421
+★ Stars: 423
 
 [Open repository](https://github.com/ppeetteerrs/obsidian-zola)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 423 | 104 | 
 | 2023-03-22 | 421 | 103 | 
 | 2023-03-21 | 421 | 102 | 
 | 2023-03-20 | 419 | 102 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 403 | 96 | 
 | 2023-02-23 | 402 | 96 | 
 | 2023-02-22 | 400 | 96 | 
-| 2023-02-21 | 399 | 96 | 
 

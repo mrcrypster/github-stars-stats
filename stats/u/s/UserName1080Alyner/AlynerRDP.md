@@ -1,8 +1,8 @@
 # UserName1080Alyner/AlynerRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3 | 84 | 
 | 2023-03-22 | 3 | 83 | 
 | 2023-03-20 | 3 | 83 | 
 | 2023-03-19 | 3 | 83 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 3 | 80 | 
 | 2023-02-23 | 3 | 80 | 
 | 2023-02-22 | 3 | 80 | 
-| 2023-02-21 | 3 | 80 | 
 

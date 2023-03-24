@@ -1,6 +1,6 @@
 # EasyRecon/Hunt3r - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 129 | 19 | 
 | 2023-03-22 | 129 | 19 | 
 | 2023-03-21 | 128 | 19 | 
 | 2023-03-20 | 127 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 122 | 18 | 
 | 2023-02-24 | 122 | 18 | 
 | 2023-02-22 | 122 | 18 | 
-| 2023-02-21 | 122 | 18 | 
 

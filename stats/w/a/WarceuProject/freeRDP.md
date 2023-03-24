@@ -1,10 +1,8 @@
 # WarceuProject/freeRDP - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+☋ Forks: 
 
-☋ Forks: 321
-
-★ Stars: 9
+★ Stars: 
 
 [Open repository](https://github.com/WarceuProject/freeRDP)
 
@@ -13,5 +11,4 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 9 | 321 | 
 

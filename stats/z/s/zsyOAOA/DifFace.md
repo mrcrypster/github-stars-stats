@@ -1,10 +1,10 @@
 # zsyOAOA/DifFace - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 31
 
-★ Stars: 414
+★ Stars: 415
 
 [Open repository](https://github.com/zsyOAOA/DifFace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 415 | 31 | 
 | 2023-03-22 | 414 | 31 | 
 | 2023-03-21 | 412 | 31 | 
 | 2023-03-19 | 409 | 31 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 360 | 28 | 
 | 2023-02-23 | 358 | 28 | 
 | 2023-02-22 | 358 | 28 | 
-| 2023-02-21 | 358 | 28 | 
 

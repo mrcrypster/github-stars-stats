@@ -1,10 +1,10 @@
 # ouromoros/PowerGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 5
 
-★ Stars: 97
+★ Stars: 100
 
 [Open repository](https://github.com/ouromoros/PowerGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 100 | 5 | 
 | 2023-03-21 | 97 | 5 | 
 | 2023-03-20 | 93 | 5 | 
 | 2023-03-19 | 81 | 5 | 

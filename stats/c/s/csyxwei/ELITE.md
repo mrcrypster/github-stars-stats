@@ -1,10 +1,10 @@
 # csyxwei/ELITE - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 256
+★ Stars: 259
 
 [Open repository](https://github.com/csyxwei/ELITE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 259 | 8 | 
 | 2023-03-21 | 256 | 6 | 
 | 2023-03-20 | 251 | 5 | 
 | 2023-03-19 | 248 | 5 | 

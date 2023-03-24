@@ -1,10 +1,10 @@
 # nathanhleung/fallback - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/nathanhleung/fallback)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 157 | 4 | 
 | 2023-03-21 | 156 | 4 | 
 | 2023-03-20 | 156 | 4 | 
 | 2023-03-19 | 156 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 152 | 4 | 
 | 2023-02-23 | 152 | 4 | 
 | 2023-02-22 | 153 | 4 | 
-| 2023-02-21 | 153 | 4 | 
 

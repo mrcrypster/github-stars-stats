@@ -1,6 +1,6 @@
 # Djancyp/better-comments.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 96 | 3 | 
 | 2023-03-21 | 96 | 3 | 
 | 2023-03-20 | 96 | 3 | 
 | 2023-03-19 | 96 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 93 | 3 | 
 | 2023-02-23 | 93 | 3 | 
 | 2023-02-22 | 93 | 3 | 
-| 2023-02-21 | 93 | 3 | 
 

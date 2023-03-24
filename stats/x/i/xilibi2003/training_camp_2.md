@@ -1,10 +1,10 @@
 # xilibi2003/training_camp_2 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 24
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 34
+★ Stars: 37
 
 [Open repository](https://github.com/xilibi2003/training_camp_2)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 37 | 10 | 
+| 2023-03-23 | 37 | 10 | 
 | 2023-03-21 | 34 | 9 | 
 | 2023-03-20 | 33 | 9 | 
 | 2023-03-19 | 32 | 8 | 

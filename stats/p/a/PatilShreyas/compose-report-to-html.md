@@ -1,6 +1,6 @@
 # PatilShreyas/compose-report-to-html - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 191 | 5 | 
 | 2023-03-22 | 191 | 5 | 
 | 2023-03-20 | 190 | 5 | 
 | 2023-03-19 | 187 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 176 | 4 | 
 | 2023-02-23 | 175 | 4 | 
 | 2023-02-22 | 175 | 4 | 
-| 2023-02-21 | 174 | 4 | 
 

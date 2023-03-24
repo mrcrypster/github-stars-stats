@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 23
 
 ☋ Forks: 32
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/yugabyte/charts)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-23 | 15 | 32 | 
+| 2023-03-23 | 14 | 32 | 
 | 2023-03-22 | 15 | 32 | 
 | 2023-03-21 | 16 | 32 | 
 | 2023-03-20 | 16 | 32 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-24 | 17 | 32 | 
 | 2023-02-23 | 17 | 32 | 
 | 2023-02-22 | 17 | 32 | 
-| 2023-02-21 | 17 | 32 | 
 

@@ -1,10 +1,10 @@
 # YunYouJun/hexo-theme-yun - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 182
 
-★ Stars: 1232
+★ Stars: 1231
 
 [Open repository](https://github.com/YunYouJun/hexo-theme-yun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1231 | 182 | 
 | 2023-03-22 | 1232 | 182 | 
 | 2023-03-20 | 1232 | 182 | 
 | 2023-03-19 | 1232 | 182 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1225 | 183 | 
 | 2023-02-23 | 1225 | 183 | 
 | 2023-02-22 | 1224 | 183 | 
-| 2023-02-21 | 1224 | 183 | 
 

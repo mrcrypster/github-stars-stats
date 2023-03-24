@@ -1,10 +1,10 @@
 # youking-lib/ai-assistant - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 42
 
-★ Stars: 112
+★ Stars: 114
 
 [Open repository](https://github.com/youking-lib/ai-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 114 | 42 | 
 | 2023-03-22 | 112 | 42 | 
 | 2023-03-20 | 111 | 41 | 
 | 2023-03-19 | 110 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 80 | 31 | 
 | 2023-02-23 | 76 | 31 | 
 | 2023-02-22 | 73 | 28 | 
-| 2023-02-21 | 70 | 27 | 
 

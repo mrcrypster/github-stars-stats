@@ -1,6 +1,6 @@
 # snowplow/snowplow-objc-tracker - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 69 | 88 | 
 | 2023-03-21 | 69 | 88 | 
 | 2023-03-20 | 69 | 88 | 
 | 2023-03-19 | 69 | 88 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 69 | 88 | 
 | 2023-02-23 | 69 | 88 | 
 | 2023-02-22 | 69 | 88 | 
-| 2023-02-21 | 69 | 88 | 
 

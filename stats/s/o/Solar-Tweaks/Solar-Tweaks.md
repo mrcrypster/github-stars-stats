@@ -1,10 +1,10 @@
 # Solar-Tweaks/Solar-Tweaks - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/Solar-Tweaks/Solar-Tweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 169 | 40 | 
 | 2023-03-21 | 168 | 39 | 
 | 2023-03-20 | 165 | 40 | 
 | 2023-03-19 | 166 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 148 | 37 | 
 | 2023-02-23 | 148 | 36 | 
 | 2023-02-22 | 148 | 36 | 
-| 2023-02-21 | 147 | 36 | 
 

@@ -1,10 +1,10 @@
 # 2881099/FreeScheduler - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 24
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/2881099/FreeScheduler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 146 | 24 | 
 | 2023-03-22 | 145 | 24 | 
 | 2023-03-20 | 144 | 24 | 
 | 2023-03-19 | 144 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 141 | 22 | 
 | 2023-02-23 | 141 | 21 | 
 | 2023-02-22 | 141 | 21 | 
-| 2023-02-21 | 141 | 21 | 
 

@@ -1,6 +1,6 @@
 # isen-ng/homebrew-dotnet-sdk-versions - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 308 | 27 | 
 | 2023-03-22 | 308 | 27 | 
 | 2023-03-20 | 307 | 26 | 
 | 2023-03-19 | 307 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 292 | 26 | 
 | 2023-02-23 | 292 | 26 | 
 | 2023-02-22 | 291 | 26 | 
-| 2023-02-21 | 291 | 26 | 
 

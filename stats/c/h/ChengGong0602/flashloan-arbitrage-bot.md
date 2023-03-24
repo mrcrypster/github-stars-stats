@@ -1,6 +1,6 @@
 # ChengGong0602/flashloan-arbitrage-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 61 | 29 | 
 | 2023-03-22 | 61 | 29 | 
 | 2023-03-21 | 61 | 29 | 
 | 2023-03-20 | 61 | 29 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 60 | 28 | 
 | 2023-02-23 | 60 | 28 | 
 | 2023-02-22 | 60 | 28 | 
-| 2023-02-21 | 60 | 28 | 
 

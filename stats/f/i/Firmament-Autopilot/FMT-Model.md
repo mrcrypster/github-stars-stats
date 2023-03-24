@@ -1,6 +1,6 @@
 # Firmament-Autopilot/FMT-Model - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 76 | 45 | 
 | 2023-03-22 | 76 | 45 | 
 | 2023-03-21 | 75 | 45 | 
 | 2023-03-19 | 75 | 45 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 67 | 42 | 
 | 2023-02-23 | 67 | 41 | 
 | 2023-02-22 | 67 | 41 | 
-| 2023-02-21 | 67 | 41 | 
 

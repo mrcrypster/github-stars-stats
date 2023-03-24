@@ -1,10 +1,10 @@
 # angular/angular-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 12094
+☋ Forks: 12091
 
-★ Stars: 26006
+★ Stars: 26005
 
 [Open repository](https://github.com/angular/angular-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 26005 | 12091 | 
 | 2023-03-22 | 26006 | 12094 | 
 | 2023-03-20 | 26001 | 12094 | 
 | 2023-03-19 | 26001 | 12091 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 25962 | 12096 | 
 | 2023-02-24 | 25958 | 12096 | 
 | 2023-02-22 | 25960 | 12098 | 
-| 2023-02-21 | 25957 | 12100 | 
 

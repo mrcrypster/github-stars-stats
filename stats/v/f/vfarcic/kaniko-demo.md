@@ -1,6 +1,6 @@
 # vfarcic/kaniko-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 9 | 233 | 
 | 2023-03-22 | 9 | 233 | 
 | 2023-03-21 | 9 | 233 | 
 | 2023-03-19 | 9 | 233 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 9 | 230 | 
 | 2023-02-23 | 9 | 229 | 
 | 2023-02-22 | 9 | 229 | 
-| 2023-02-21 | 9 | 229 | 
 

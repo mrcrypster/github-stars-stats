@@ -1,10 +1,10 @@
 # microsoft/fluentui-system-icons - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 406
 
-★ Stars: 4457
+★ Stars: 4460
 
 [Open repository](https://github.com/microsoft/fluentui-system-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4460 | 406 | 
 | 2023-03-22 | 4457 | 406 | 
 | 2023-03-21 | 4456 | 406 | 
 | 2023-03-20 | 4453 | 405 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 4419 | 393 | 
 | 2023-02-23 | 4414 | 393 | 
 | 2023-02-22 | 4412 | 392 | 
-| 2023-02-21 | 4414 | 392 | 
 

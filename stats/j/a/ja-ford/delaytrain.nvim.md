@@ -1,10 +1,10 @@
 # ja-ford/delaytrain.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 2
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/ja-ford/delaytrain.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 94 | 2 | 
 | 2023-03-22 | 93 | 2 | 
 | 2023-03-21 | 93 | 3 | 
 | 2023-03-20 | 93 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 89 | 3 | 
 | 2023-02-23 | 89 | 3 | 
 | 2023-02-22 | 89 | 3 | 
-| 2023-02-21 | 89 | 3 | 
 

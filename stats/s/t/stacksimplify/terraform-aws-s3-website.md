@@ -1,8 +1,8 @@
 # stacksimplify/terraform-aws-s3-website - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 481
+☋ Forks: 482
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 22 | 482 | 
 | 2023-03-21 | 22 | 481 | 
 | 2023-03-20 | 21 | 480 | 
 | 2023-03-19 | 21 | 480 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 21 | 459 | 
 | 2023-02-23 | 21 | 458 | 
 | 2023-02-22 | 21 | 457 | 
-| 2023-02-21 | 21 | 457 | 
 

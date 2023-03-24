@@ -1,10 +1,10 @@
 # timescale/timescaledb - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 775
+☋ Forks: 778
 
-★ Stars: 14696
+★ Stars: 14711
 
 [Open repository](https://github.com/timescale/timescaledb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 14711 | 778 | 
 | 2023-03-22 | 14696 | 775 | 
 | 2023-03-20 | 14690 | 775 | 
 | 2023-03-19 | 14680 | 775 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 14545 | 771 | 
 | 2023-02-23 | 14537 | 770 | 
 | 2023-02-22 | 14531 | 770 | 
-| 2023-02-21 | 14526 | 769 | 
 

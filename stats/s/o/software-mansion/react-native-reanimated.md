@@ -1,10 +1,10 @@
 # software-mansion/react-native-reanimated - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1070
+☋ Forks: 1071
 
-★ Stars: 7071
+★ Stars: 7077
 
 [Open repository](https://github.com/software-mansion/react-native-reanimated)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7077 | 1071 | 
 | 2023-03-22 | 7071 | 1070 | 
 | 2023-03-21 | 7066 | 1069 | 
 | 2023-03-19 | 7063 | 1069 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 6961 | 1048 | 
 | 2023-02-23 | 6957 | 1046 | 
 | 2023-02-22 | 6953 | 1045 | 
-| 2023-02-21 | 6952 | 1045 | 
 

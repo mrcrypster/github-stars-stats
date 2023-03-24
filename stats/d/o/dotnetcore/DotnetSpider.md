@@ -1,10 +1,10 @@
 # dotnetcore/DotnetSpider - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 977
 
-★ Stars: 3593
+★ Stars: 3596
 
 [Open repository](https://github.com/dotnetcore/DotnetSpider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3596 | 977 | 
 | 2023-03-21 | 3593 | 977 | 
 | 2023-03-20 | 3593 | 977 | 
 | 2023-03-19 | 3593 | 977 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3570 | 975 | 
 | 2023-02-23 | 3567 | 974 | 
 | 2023-02-22 | 3563 | 973 | 
-| 2023-02-21 | 3560 | 973 | 
 

@@ -1,10 +1,10 @@
 # Saltssaumure/xp-discord-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 20
+☋ Forks: 24
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/Saltssaumure/xp-discord-theme)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 41 | 24 | 
+| 2023-03-23 | 41 | 21 | 
 | 2023-03-22 | 39 | 20 | 
 | 2023-03-21 | 39 | 19 | 
 | 2023-03-19 | 39 | 15 | 

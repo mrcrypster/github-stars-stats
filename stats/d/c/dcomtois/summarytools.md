@@ -1,10 +1,10 @@
 # dcomtois/summarytools - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 468
+★ Stars: 469
 
 [Open repository](https://github.com/dcomtois/summarytools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 469 | 72 | 
 | 2023-03-21 | 468 | 71 | 
 | 2023-03-20 | 468 | 71 | 
 | 2023-03-19 | 468 | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 466 | 71 | 
 | 2023-02-24 | 466 | 71 | 
 | 2023-02-23 | 466 | 71 | 
-| 2023-02-22 | 466 | 71 | 
 

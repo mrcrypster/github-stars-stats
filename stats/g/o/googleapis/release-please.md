@@ -1,10 +1,10 @@
 # googleapis/release-please - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 239
+☋ Forks: 240
 
-★ Stars: 2228
+★ Stars: 2244
 
 [Open repository](https://github.com/googleapis/release-please)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2244 | 240 | 
 | 2023-03-21 | 2228 | 239 | 
 | 2023-03-20 | 2222 | 239 | 
 | 2023-03-18 | 2219 | 239 | 

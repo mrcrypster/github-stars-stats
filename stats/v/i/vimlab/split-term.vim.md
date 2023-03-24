@@ -1,6 +1,6 @@
 # vimlab/split-term.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 187 | 15 | 
 | 2023-03-22 | 187 | 15 | 
 | 2023-03-20 | 186 | 15 | 
 | 2023-03-19 | 186 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 184 | 15 | 
 | 2023-02-23 | 184 | 15 | 
 | 2023-02-22 | 184 | 15 | 
-| 2023-02-21 | 184 | 15 | 
 

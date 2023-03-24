@@ -1,6 +1,6 @@
 # Ttanasart-pt/Pixel-Composer - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 264 | 12 | 
 | 2023-03-21 | 264 | 12 | 
 | 2023-03-20 | 263 | 12 | 
 | 2023-03-18 | 261 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 233 | 11 | 
 | 2023-02-24 | 232 | 11 | 
 | 2023-02-23 | 228 | 11 | 
-| 2023-02-21 | 224 | 11 | 
 

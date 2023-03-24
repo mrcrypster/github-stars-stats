@@ -1,10 +1,10 @@
 # xKDR/Survey.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 13
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/xKDR/Survey.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 36 | 13 | 
 | 2023-03-22 | 35 | 13 | 
 | 2023-03-20 | 35 | 13 | 
 | 2023-03-19 | 35 | 13 | 

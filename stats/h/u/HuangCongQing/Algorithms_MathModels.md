@@ -1,10 +1,10 @@
 # HuangCongQing/Algorithms_MathModels - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 534
+☋ Forks: 535
 
-★ Stars: 1655
+★ Stars: 1657
 
 [Open repository](https://github.com/HuangCongQing/Algorithms_MathModels)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1657 | 535 | 
 | 2023-03-21 | 1655 | 534 | 
 | 2023-03-20 | 1655 | 533 | 
 | 2023-03-19 | 1656 | 533 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1645 | 532 | 
 | 2023-02-23 | 1645 | 531 | 
 | 2023-02-22 | 1645 | 531 | 
-| 2023-02-21 | 1645 | 532 | 
 

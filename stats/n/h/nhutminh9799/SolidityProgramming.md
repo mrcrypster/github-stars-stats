@@ -1,6 +1,6 @@
 # nhutminh9799/SolidityProgramming - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2 | 7 | 
 | 2023-03-22 | 2 | 7 | 
 | 2023-03-21 | 2 | 7 | 
 | 2023-03-19 | 2 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 3 | 7 | 
 | 2023-02-23 | 3 | 7 | 
 | 2023-02-22 | 3 | 7 | 
-| 2023-02-21 | 3 | 7 | 
 

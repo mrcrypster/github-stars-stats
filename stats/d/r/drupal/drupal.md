@@ -1,10 +1,10 @@
 # drupal/drupal - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 1885
 
-★ Stars: 3847
+★ Stars: 3846
 
 [Open repository](https://github.com/drupal/drupal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3846 | 1885 | 
 | 2023-03-21 | 3847 | 1885 | 
 | 2023-03-20 | 3844 | 1884 | 
 | 2023-03-19 | 3844 | 1883 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3831 | 1873 | 
 | 2023-02-23 | 3831 | 1873 | 
 | 2023-02-22 | 3830 | 1873 | 
-| 2023-02-21 | 3829 | 1873 | 
 

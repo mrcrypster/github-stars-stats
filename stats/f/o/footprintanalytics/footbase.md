@@ -1,6 +1,6 @@
 # footprintanalytics/footbase - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 61 | 4 | 
 | 2023-03-22 | 61 | 4 | 
 | 2023-03-21 | 61 | 4 | 
 | 2023-03-19 | 61 | 4 | 

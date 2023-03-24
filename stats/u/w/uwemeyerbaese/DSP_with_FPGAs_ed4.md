@@ -1,6 +1,6 @@
 # uwemeyerbaese/DSP_with_FPGAs_ed4 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 20 | 9 | 
 | 2023-03-21 | 20 | 9 | 
 | 2023-03-20 | 20 | 9 | 
 | 2023-03-19 | 19 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 18 | 9 | 
 | 2023-02-23 | 18 | 9 | 
 | 2023-02-22 | 18 | 9 | 
-| 2023-02-21 | 18 | 9 | 
 

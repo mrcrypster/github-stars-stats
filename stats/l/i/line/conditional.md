@@ -1,6 +1,6 @@
 # line/conditional - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 52 | 6 | 
 | 2023-03-22 | 52 | 6 | 
 | 2023-03-21 | 52 | 6 | 
 | 2023-03-20 | 52 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 52 | 4 | 
 | 2023-02-23 | 52 | 4 | 
 | 2023-02-22 | 52 | 4 | 
-| 2023-02-21 | 52 | 4 | 
 

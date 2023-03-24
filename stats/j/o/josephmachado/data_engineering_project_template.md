@@ -1,10 +1,10 @@
 # josephmachado/data_engineering_project_template - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 52
 
-★ Stars: 83
+★ Stars: 85
 
 [Open repository](https://github.com/josephmachado/data_engineering_project_template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 85 | 52 | 
 | 2023-03-22 | 83 | 52 | 
 | 2023-03-21 | 82 | 52 | 
 | 2023-03-19 | 81 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 74 | 48 | 
 | 2023-02-24 | 74 | 49 | 
 | 2023-02-22 | 74 | 49 | 
-| 2023-02-21 | 74 | 49 | 
 

@@ -1,10 +1,10 @@
 # NoahTheDuke/splint - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 35
 
 [Open repository](https://github.com/NoahTheDuke/splint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 35 | 1 | 
 | 2023-03-22 | 32 | 1 | 
 | 2023-03-21 | 32 | 1 | 
 

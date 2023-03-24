@@ -1,10 +1,10 @@
 # sveltejs/realworld - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 333
 
-★ Stars: 1887
+★ Stars: 1888
 
 [Open repository](https://github.com/sveltejs/realworld)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1888 | 333 | 
+| 2023-03-23 | 1888 | 332 | 
 | 2023-03-22 | 1887 | 333 | 
 | 2023-03-21 | 1885 | 333 | 
 | 2023-03-20 | 1886 | 334 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1862 | 329 | 
 | 2023-02-24 | 1861 | 329 | 
 | 2023-02-22 | 1857 | 328 | 
-| 2023-02-21 | 1852 | 328 | 
 

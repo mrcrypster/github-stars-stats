@@ -1,8 +1,8 @@
 # sigstore/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 58
+☋ Forks: 57
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 47 | 57 | 
 | 2023-03-21 | 47 | 58 | 
 | 2023-03-20 | 46 | 58 | 
 | 2023-03-19 | 46 | 58 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 46 | 54 | 
 | 2023-02-24 | 46 | 54 | 
 | 2023-02-23 | 46 | 53 | 
-| 2023-02-21 | 46 | 53 | 
 

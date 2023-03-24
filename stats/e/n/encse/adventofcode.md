@@ -1,10 +1,10 @@
 # encse/adventofcode - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 41
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/encse/adventofcode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 203 | 41 | 
 | 2023-03-22 | 202 | 41 | 
 | 2023-03-20 | 202 | 42 | 
 | 2023-03-19 | 202 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 201 | 40 | 
 | 2023-02-23 | 201 | 40 | 
 | 2023-02-22 | 201 | 40 | 
-| 2023-02-21 | 201 | 40 | 
 

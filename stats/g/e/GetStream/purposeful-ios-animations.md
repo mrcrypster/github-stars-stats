@@ -1,10 +1,10 @@
 # GetStream/purposeful-ios-animations - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 485
+★ Stars: 487
 
 [Open repository](https://github.com/GetStream/purposeful-ios-animations)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 487 | 36 | 
 | 2023-03-21 | 485 | 35 | 
 | 2023-03-20 | 483 | 35 | 
 | 2023-03-19 | 483 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 467 | 32 | 
 | 2023-02-23 | 466 | 32 | 
 | 2023-02-22 | 465 | 32 | 
-| 2023-02-21 | 464 | 32 | 
 

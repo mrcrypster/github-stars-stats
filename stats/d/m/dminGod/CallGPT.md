@@ -1,10 +1,10 @@
 # dminGod/CallGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 6
 
-★ Stars: 58
+★ Stars: 57
 
 [Open repository](https://github.com/dminGod/CallGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 57 | 6 | 
 | 2023-03-22 | 58 | 6 | 
 | 2023-03-21 | 58 | 6 | 
 | 2023-03-19 | 58 | 6 | 

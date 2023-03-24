@@ -1,8 +1,8 @@
 # raspberrypi/firmware - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 1665
+☋ Forks: 1664
 
 ★ Stars: 4772
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 4772 | 1664 | 
 | 2023-03-22 | 4772 | 1665 | 
 | 2023-03-20 | 4770 | 1666 | 
 | 2023-03-19 | 4769 | 1666 | 

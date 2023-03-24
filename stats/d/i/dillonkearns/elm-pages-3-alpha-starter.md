@@ -1,6 +1,6 @@
 # dillonkearns/elm-pages-3-alpha-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 8 | 8 | 
 | 2023-03-22 | 8 | 8 | 
 | 2023-03-20 | 8 | 8 | 
 | 2023-03-19 | 8 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 8 | 8 | 
 | 2023-02-24 | 8 | 8 | 
 | 2023-02-22 | 8 | 8 | 
-| 2023-02-21 | 8 | 8 | 
 

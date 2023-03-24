@@ -1,10 +1,10 @@
 # chipsalliance/rocket-chip-blocks - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 6
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/chipsalliance/rocket-chip-blocks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 7 | 6 | 
 | 2023-03-22 | 6 | 6 | 
 | 2023-03-20 | 5 | 6 | 
 | 2023-03-19 | 5 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 5 | 5 | 
 | 2023-02-24 | 5 | 5 | 
 | 2023-02-23 | 5 | 5 | 
-| 2023-02-22 | 5 | 5 | 
 

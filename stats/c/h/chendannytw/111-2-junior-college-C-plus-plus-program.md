@@ -1,10 +1,10 @@
 # chendannytw/111-2-junior-college-C-plus-plus-program - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/chendannytw/111-2-junior-college-C-plus-plus-program)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1 | 18 | 
 | 2023-03-21 | - | 16 | 
 | 2023-03-20 | - | 16 | 
 | 2023-03-19 | - | 16 | 

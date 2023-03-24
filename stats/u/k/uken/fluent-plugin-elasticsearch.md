@@ -1,10 +1,10 @@
 # uken/fluent-plugin-elasticsearch - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 304
 
-★ Stars: 852
+★ Stars: 851
 
 [Open repository](https://github.com/uken/fluent-plugin-elasticsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 851 | 304 | 
 | 2023-03-22 | 852 | 304 | 
 | 2023-03-20 | 852 | 303 | 
 | 2023-03-19 | 852 | 303 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 853 | 303 | 
 | 2023-02-24 | 853 | 303 | 
 | 2023-02-22 | 853 | 302 | 
-| 2023-02-21 | 854 | 301 | 
 

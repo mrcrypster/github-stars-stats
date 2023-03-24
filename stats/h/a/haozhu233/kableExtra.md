@@ -1,6 +1,6 @@
 # haozhu233/kableExtra - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 591 | 133 | 
 | 2023-03-21 | 591 | 133 | 
 | 2023-03-20 | 591 | 133 | 
 | 2023-03-19 | 591 | 133 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 591 | 133 | 
 | 2023-02-23 | 590 | 133 | 
 | 2023-02-22 | 590 | 133 | 
-| 2023-02-21 | 590 | 133 | 
 

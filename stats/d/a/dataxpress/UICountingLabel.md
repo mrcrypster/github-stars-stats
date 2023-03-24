@@ -1,6 +1,6 @@
 # dataxpress/UICountingLabel - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1891 | 251 | 
 | 2023-03-21 | 1891 | 251 | 
 | 2023-03-20 | 1891 | 251 | 
 | 2023-03-18 | 1891 | 251 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1891 | 251 | 
 | 2023-02-23 | 1891 | 251 | 
 | 2023-02-22 | 1891 | 251 | 
-| 2023-02-21 | 1891 | 251 | 
 

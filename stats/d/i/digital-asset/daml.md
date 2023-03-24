@@ -1,10 +1,10 @@
 # digital-asset/daml - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 190
 
-★ Stars: 751
+★ Stars: 750
 
 [Open repository](https://github.com/digital-asset/daml)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 750 | 190 | 
+| 2023-03-23 | 750 | 190 | 
 | 2023-03-22 | 751 | 190 | 
 | 2023-03-21 | 751 | 190 | 
 | 2023-03-20 | 750 | 190 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 744 | 185 | 
 | 2023-02-23 | 744 | 185 | 
 | 2023-02-22 | 744 | 185 | 
-| 2023-02-21 | 744 | 185 | 
 

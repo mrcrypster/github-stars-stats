@@ -1,10 +1,10 @@
 # 2hacc/TVBox - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 118
+☋ Forks: 119
 
-★ Stars: 333
+★ Stars: 338
 
 [Open repository](https://github.com/2hacc/TVBox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 338 | 119 | 
 | 2023-03-22 | 333 | 118 | 
 | 2023-03-21 | 322 | 117 | 
 | 2023-03-20 | 311 | 115 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 226 | 91 | 
 | 2023-02-23 | 222 | 90 | 
 | 2023-02-22 | 215 | 88 | 
-| 2023-02-21 | 212 | 87 | 
 

@@ -1,6 +1,6 @@
 # steinbergmedia/vst3_cmake - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 17 | 11 | 
 | 2023-03-22 | 17 | 11 | 
 | 2023-03-21 | 17 | 11 | 
 | 2023-03-20 | 17 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 16 | 11 | 
 | 2023-02-23 | 16 | 11 | 
 | 2023-02-22 | 16 | 11 | 
-| 2023-02-21 | 16 | 11 | 
 

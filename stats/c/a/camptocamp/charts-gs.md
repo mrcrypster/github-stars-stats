@@ -1,6 +1,6 @@
 # camptocamp/charts-gs - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | - | - | 
+| 2023-03-23 | - | - | 
 | 2023-03-22 | - | - | 
 | 2023-03-20 | - | - | 
 | 2023-03-19 | - | - | 
@@ -35,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | - | - | 
 | 2023-02-24 | - | - | 
 | 2023-02-22 | - | - | 
-| 2023-02-21 | - | - | 
 

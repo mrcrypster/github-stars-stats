@@ -1,8 +1,8 @@
 # JasonMa0012/MooaToon - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 187
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 187 | 21 | 
 | 2023-03-22 | 187 | 20 | 
 | 2023-03-21 | 184 | 20 | 
 | 2023-03-20 | 181 | 20 | 

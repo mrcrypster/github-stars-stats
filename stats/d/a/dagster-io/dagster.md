@@ -1,10 +1,10 @@
 # dagster-io/dagster - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 866
+☋ Forks: 871
 
-★ Stars: 6889
+★ Stars: 6915
 
 [Open repository](https://github.com/dagster-io/dagster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 6915 | 871 | 
 | 2023-03-21 | 6889 | 866 | 
 | 2023-03-20 | 6876 | 863 | 
 | 2023-03-19 | 6870 | 862 | 

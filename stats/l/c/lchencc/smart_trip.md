@@ -1,8 +1,8 @@
 # lchencc/smart_trip - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 20
+☋ Forks: 19
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 69 | 19 | 
 | 2023-03-22 | 69 | 20 | 
 | 2023-03-20 | 69 | 20 | 
 | 2023-03-19 | 69 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 69 | 20 | 
 | 2023-02-23 | 69 | 20 | 
 | 2023-02-22 | 69 | 20 | 
-| 2023-02-21 | 69 | 20 | 
 

@@ -1,6 +1,6 @@
 # linuxserver/docker-budge - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 48 | 2 | 
 | 2023-03-22 | 48 | 2 | 
 | 2023-03-20 | 48 | 2 | 
 | 2023-03-19 | 49 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 49 | 2 | 
 | 2023-02-24 | 49 | 2 | 
 | 2023-02-22 | 49 | 2 | 
-| 2023-02-21 | 49 | 2 | 
 

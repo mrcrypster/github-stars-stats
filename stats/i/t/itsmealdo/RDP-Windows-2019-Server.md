@@ -1,8 +1,8 @@
 # itsmealdo/RDP-Windows-2019-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 83
+☋ Forks: 85
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | - | 85 | 
 | 2023-03-21 | - | 83 | 
 | 2023-03-20 | - | 83 | 
 | 2023-03-19 | - | 82 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | - | 57 | 
 | 2023-02-23 | - | 57 | 
 | 2023-02-22 | - | 56 | 
-| 2023-02-21 | - | 55 | 
 

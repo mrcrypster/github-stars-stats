@@ -1,10 +1,10 @@
 # getAlby/lightning-browser-extension - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 129
+☋ Forks: 131
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/getAlby/lightning-browser-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 371 | 131 | 
 | 2023-03-21 | 370 | 129 | 
 | 2023-03-20 | 369 | 127 | 
 | 2023-03-19 | 369 | 126 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 349 | 111 | 
 | 2023-02-23 | 346 | 111 | 
 | 2023-02-22 | 345 | 111 | 
-| 2023-02-21 | 345 | 111 | 
 

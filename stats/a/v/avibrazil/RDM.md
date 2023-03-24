@@ -1,6 +1,6 @@
 # avibrazil/RDM - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 342
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3887 | 342 | 
 | 2023-03-22 | 3887 | 342 | 
 | 2023-03-21 | 3887 | 342 | 
 | 2023-03-20 | 3887 | 342 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 3865 | 330 | 
 | 2023-02-23 | 3862 | 330 | 
 | 2023-02-22 | 3862 | 330 | 
-| 2023-02-21 | 3860 | 330 | 
 

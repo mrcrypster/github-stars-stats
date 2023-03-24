@@ -1,10 +1,10 @@
 # ly4k/BloodHound - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/ly4k/BloodHound)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 63 | 1 | 
 | 2023-03-22 | 62 | 1 | 
 | 2023-03-21 | 62 | 1 | 
 | 2023-03-20 | 61 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 57 | 1 | 
 | 2023-02-23 | 57 | 1 | 
 | 2023-02-22 | 57 | 1 | 
-| 2023-02-21 | 57 | 1 | 
 

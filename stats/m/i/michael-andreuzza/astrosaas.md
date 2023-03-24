@@ -1,10 +1,10 @@
 # michael-andreuzza/astrosaas - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/michael-andreuzza/astrosaas)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 41 | 4 | 
 | 2023-03-21 | 40 | 4 | 
 | 2023-03-20 | 40 | 4 | 
 | 2023-03-19 | 40 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 26 | 5 | 
 | 2023-02-23 | 26 | 5 | 
 | 2023-02-22 | 26 | 5 | 
-| 2023-02-21 | 25 | 6 | 
 

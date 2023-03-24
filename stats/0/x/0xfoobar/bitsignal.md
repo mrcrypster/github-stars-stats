@@ -1,10 +1,10 @@
 # 0xfoobar/bitsignal - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 4
+☋ Forks: 6
 
-★ Stars: 51
+★ Stars: 54
 
 [Open repository](https://github.com/0xfoobar/bitsignal)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 54 | 6 | 
+| 2023-03-23 | 54 | 6 | 
 | 2023-03-22 | 51 | 4 | 
 | 2023-03-21 | 51 | 4 | 
 | 2023-03-20 | 51 | 3 | 

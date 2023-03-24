@@ -1,10 +1,10 @@
 # kmcquade/awesome-azure-security - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 42
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/kmcquade/awesome-azure-security)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 194 | 42 | 
 | 2023-03-22 | 193 | 42 | 
 | 2023-03-21 | 193 | 42 | 
 | 2023-03-20 | 193 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 189 | 42 | 
 | 2023-02-23 | 189 | 42 | 
 | 2023-02-22 | 189 | 41 | 
-| 2023-02-21 | 187 | 41 | 
 

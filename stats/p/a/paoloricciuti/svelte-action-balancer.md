@@ -1,10 +1,10 @@
 # paoloricciuti/svelte-action-balancer - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/paoloricciuti/svelte-action-balancer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 37 | 1 | 
 | 2023-03-21 | 36 | 1 | 
 | 2023-03-20 | 36 | 1 | 
 | 2023-03-19 | 36 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 27 | 1 | 
 | 2023-02-23 | 27 | 1 | 
 | 2023-02-22 | 27 | 1 | 
-| 2023-02-21 | 27 | 1 | 
 

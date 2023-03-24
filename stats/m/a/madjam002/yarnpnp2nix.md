@@ -1,10 +1,10 @@
 # madjam002/yarnpnp2nix - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/madjam002/yarnpnp2nix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 28 | 1 | 
 | 2023-03-22 | 27 | 1 | 
 | 2023-03-21 | 27 | 1 | 
 | 2023-03-20 | 27 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 26 | - | 
 | 2023-02-23 | 26 | - | 
 | 2023-02-22 | 26 | - | 
-| 2023-02-21 | 26 | - | 
 

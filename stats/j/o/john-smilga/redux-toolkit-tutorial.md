@@ -1,10 +1,10 @@
 # john-smilga/redux-toolkit-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 227
+☋ Forks: 228
 
-★ Stars: 226
+★ Stars: 228
 
 [Open repository](https://github.com/john-smilga/redux-toolkit-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 228 | 228 | 
 | 2023-03-22 | 226 | 227 | 
 | 2023-03-20 | 226 | 225 | 
 | 2023-03-19 | 221 | 223 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 195 | 206 | 
 | 2023-02-23 | 195 | 205 | 
 | 2023-02-22 | 195 | 203 | 
-| 2023-02-21 | 195 | 202 | 
 

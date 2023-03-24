@@ -1,10 +1,10 @@
 # trananhtuat/tua-react-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 185
+☋ Forks: 184
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/trananhtuat/tua-react-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 218 | 184 | 
 | 2023-03-21 | 217 | 185 | 
 | 2023-03-20 | 217 | 185 | 
 | 2023-03-18 | 217 | 185 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 215 | 184 | 
 | 2023-02-24 | 215 | 184 | 
 | 2023-02-23 | 215 | 184 | 
-| 2023-02-22 | 215 | 184 | 
 

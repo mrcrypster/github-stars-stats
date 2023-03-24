@@ -1,10 +1,10 @@
 # NordicSemiconductor/Android-BLE-Library - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 357
 
-★ Stars: 1535
+★ Stars: 1536
 
 [Open repository](https://github.com/NordicSemiconductor/Android-BLE-Library)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1536 | 357 | 
 | 2023-03-22 | 1535 | 357 | 
 | 2023-03-21 | 1535 | 356 | 
 | 2023-03-19 | 1534 | 353 | 

@@ -1,10 +1,10 @@
 # Diptenusarkar/Website-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 94
 
-★ Stars: 48
+★ Stars: 47
 
 [Open repository](https://github.com/Diptenusarkar/Website-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 47 | 94 | 
 | 2023-03-21 | 48 | 94 | 
 | 2023-03-20 | 48 | 95 | 
 | 2023-03-19 | 48 | 95 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 44 | 96 | 
 | 2023-02-23 | 44 | 96 | 
 | 2023-02-22 | 44 | 96 | 
-| 2023-02-21 | 44 | 96 | 
 

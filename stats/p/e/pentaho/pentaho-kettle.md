@@ -1,10 +1,10 @@
 # pentaho/pentaho-kettle - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 3169
 
-★ Stars: 6444
+★ Stars: 6447
 
 [Open repository](https://github.com/pentaho/pentaho-kettle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 6447 | 3169 | 
 | 2023-03-22 | 6444 | 3169 | 
 | 2023-03-21 | 6436 | 3168 | 
 | 2023-03-20 | 6433 | 3167 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 6364 | 3134 | 
 | 2023-02-23 | 6362 | 3131 | 
 | 2023-02-22 | 6361 | 3130 | 
-| 2023-02-21 | 6361 | 3129 | 
 

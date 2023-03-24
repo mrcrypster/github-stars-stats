@@ -1,10 +1,10 @@
 # doocs/leetcode - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 3862
+☋ Forks: 3863
 
-★ Stars: 21538
+★ Stars: 21554
 
 [Open repository](https://github.com/doocs/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 21554 | 3863 | 
 | 2023-03-22 | 21538 | 3862 | 
 | 2023-03-21 | 21514 | 3858 | 
 | 2023-03-20 | 21501 | 3856 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 21207 | 3796 | 
 | 2023-02-23 | 21173 | 3785 | 
 | 2023-02-22 | 21136 | 3780 | 
-| 2023-02-21 | 21111 | 3776 | 
 

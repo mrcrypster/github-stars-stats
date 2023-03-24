@@ -1,10 +1,10 @@
 # hamed-shirbandi/TaskoMask - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 89
 
-★ Stars: 517
+★ Stars: 518
 
 [Open repository](https://github.com/hamed-shirbandi/TaskoMask)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 518 | 89 | 
 | 2023-03-22 | 517 | 89 | 
 | 2023-03-21 | 516 | 89 | 
 | 2023-03-19 | 516 | 89 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 508 | 87 | 
 | 2023-02-23 | 508 | 87 | 
 | 2023-02-22 | 508 | 87 | 
-| 2023-02-21 | 508 | 87 | 
 

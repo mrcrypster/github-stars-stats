@@ -1,6 +1,6 @@
 # sail-sg/metaformer - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 232 | 15 | 
 | 2023-03-22 | 232 | 15 | 
 | 2023-03-20 | 230 | 15 | 
 | 2023-03-19 | 230 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 220 | 13 | 
 | 2023-02-23 | 219 | 13 | 
 | 2023-02-22 | 216 | 13 | 
-| 2023-02-21 | 216 | 13 | 
 

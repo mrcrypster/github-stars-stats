@@ -1,10 +1,10 @@
 # CoffeeBeforeArch/cuda_programming - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 427
+★ Stars: 429
 
 [Open repository](https://github.com/CoffeeBeforeArch/cuda_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 429 | 113 | 
 | 2023-03-22 | 427 | 112 | 
 | 2023-03-20 | 425 | 111 | 
 | 2023-03-19 | 424 | 111 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 410 | 107 | 
 | 2023-02-23 | 410 | 106 | 
 | 2023-02-22 | 410 | 106 | 
-| 2023-02-21 | 410 | 106 | 
 

@@ -1,6 +1,6 @@
 # mikel/mail - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 928
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3513 | 928 | 
 | 2023-03-22 | 3513 | 928 | 
 | 2023-03-21 | 3513 | 927 | 
 | 2023-03-20 | 3513 | 926 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 3509 | 923 | 
 | 2023-02-23 | 3509 | 923 | 
 | 2023-02-22 | 3509 | 923 | 
-| 2023-02-21 | 3509 | 922 | 
 

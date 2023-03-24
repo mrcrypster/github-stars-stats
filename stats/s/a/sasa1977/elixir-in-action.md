@@ -1,10 +1,10 @@
 # sasa1977/elixir-in-action - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 172
 
-★ Stars: 826
+★ Stars: 827
 
 [Open repository](https://github.com/sasa1977/elixir-in-action)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 827 | 172 | 
 | 2023-03-22 | 826 | 172 | 
 | 2023-03-20 | 826 | 172 | 
 | 2023-03-19 | 825 | 172 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 825 | 171 | 
 | 2023-02-24 | 825 | 171 | 
 | 2023-02-22 | 825 | 171 | 
-| 2023-02-21 | 825 | 171 | 
 

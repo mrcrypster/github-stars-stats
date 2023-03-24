@@ -1,10 +1,10 @@
 # boydm/scenic - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 132
 
-★ Stars: 1831
+★ Stars: 1832
 
 [Open repository](https://github.com/boydm/scenic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1832 | 132 | 
 | 2023-03-22 | 1831 | 132 | 
 | 2023-03-20 | 1830 | 132 | 
 | 2023-03-19 | 1830 | 132 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1823 | 132 | 
 | 2023-02-23 | 1822 | 132 | 
 | 2023-02-22 | 1822 | 132 | 
-| 2023-02-21 | 1821 | 132 | 
 

@@ -1,8 +1,8 @@
 # open-mpi/ompi - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 757
+☋ Forks: 758
 
 ★ Stars: 1668
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1668 | 758 | 
 | 2023-03-22 | 1668 | 757 | 
 | 2023-03-21 | 1668 | 757 | 
 | 2023-03-20 | 1667 | 756 | 

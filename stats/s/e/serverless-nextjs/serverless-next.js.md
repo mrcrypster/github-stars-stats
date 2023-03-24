@@ -1,10 +1,10 @@
 # serverless-nextjs/serverless-next.js - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 445
+☋ Forks: 446
 
-★ Stars: 4063
+★ Stars: 4065
 
 [Open repository](https://github.com/serverless-nextjs/serverless-next.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 4065 | 446 | 
 | 2023-03-22 | 4063 | 445 | 
 | 2023-03-21 | 4062 | 444 | 
 | 2023-03-19 | 4061 | 444 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 4025 | 447 | 
 | 2023-02-23 | 4022 | 447 | 
 | 2023-02-22 | 4020 | 447 | 
-| 2023-02-21 | 4015 | 447 | 
 

@@ -1,6 +1,6 @@
 # h3xduck/TripleCross - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1414 | 176 | 
 | 2023-03-22 | 1414 | 176 | 
 | 2023-03-21 | 1409 | 175 | 
 | 2023-03-19 | 1406 | 175 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1362 | 172 | 
 | 2023-02-23 | 1359 | 172 | 
 | 2023-02-22 | 1357 | 172 | 
-| 2023-02-21 | 1356 | 172 | 
 

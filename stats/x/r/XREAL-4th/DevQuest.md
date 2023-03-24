@@ -1,10 +1,10 @@
 # XREAL-4th/DevQuest - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 2
+★ Stars: 4
 
 [Open repository](https://github.com/XREAL-4th/DevQuest)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4 | 22 | 
+| 2023-03-23 | 4 | 22 | 
 | 2023-03-22 | 2 | 20 | 
 

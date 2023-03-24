@@ -1,6 +1,6 @@
 # cucumber/cucumber-java-skeleton - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 546
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 394 | 546 | 
 | 2023-03-21 | 394 | 546 | 
 | 2023-03-20 | 394 | 545 | 
 | 2023-03-19 | 394 | 545 | 

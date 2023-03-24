@@ -1,10 +1,10 @@
 # CGAL/cgal - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 1199
+☋ Forks: 1200
 
-★ Stars: 3768
+★ Stars: 3771
 
 [Open repository](https://github.com/CGAL/cgal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3771 | 1200 | 
 | 2023-03-21 | 3768 | 1199 | 
 | 2023-03-20 | 3763 | 1197 | 
 | 2023-03-19 | 3762 | 1197 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 3703 | 1188 | 
 | 2023-02-23 | 3696 | 1187 | 
 | 2023-02-22 | 3691 | 1188 | 
-| 2023-02-21 | 3690 | 1188 | 
 

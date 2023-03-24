@@ -1,10 +1,10 @@
 # kifuan/helang - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 101
 
-★ Stars: 2439
+★ Stars: 2444
 
 [Open repository](https://github.com/kifuan/helang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2444 | 101 | 
 | 2023-03-22 | 2439 | 101 | 
 | 2023-03-21 | 2438 | 101 | 
 | 2023-03-20 | 2436 | 101 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 2426 | 102 | 
 | 2023-02-23 | 2424 | 102 | 
 | 2023-02-22 | 2424 | 102 | 
-| 2023-02-21 | 2425 | 102 | 
 

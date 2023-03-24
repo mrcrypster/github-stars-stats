@@ -1,10 +1,10 @@
 # xtdb/core2 - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 7
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/xtdb/core2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 179 | 7 | 
 | 2023-03-22 | 178 | 7 | 
 | 2023-03-20 | 178 | 7 | 
 | 2023-03-19 | 178 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 175 | 7 | 
 | 2023-02-23 | 175 | 7 | 
 | 2023-02-22 | 175 | 7 | 
-| 2023-02-21 | 175 | 7 | 
 

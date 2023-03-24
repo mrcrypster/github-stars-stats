@@ -1,6 +1,6 @@
 # jacobobryant/platypub - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 49 | 13 | 
 | 2023-03-21 | 49 | 13 | 
 | 2023-03-20 | 48 | 13 | 
 | 2023-03-19 | 48 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 46 | 12 | 
 | 2023-02-23 | 46 | 12 | 
 | 2023-02-22 | 46 | 12 | 
-| 2023-02-21 | 46 | 12 | 
 

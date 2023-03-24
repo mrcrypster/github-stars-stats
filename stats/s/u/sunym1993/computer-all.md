@@ -1,10 +1,10 @@
 # sunym1993/computer-all - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 47
 
-★ Stars: 332
+★ Stars: 331
 
 [Open repository](https://github.com/sunym1993/computer-all)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 331 | 47 | 
 | 2023-03-22 | 332 | 47 | 
 | 2023-03-21 | 332 | 48 | 
 | 2023-03-19 | 331 | 48 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 329 | 49 | 
 | 2023-02-24 | 329 | 49 | 
 | 2023-02-22 | 329 | 49 | 
-| 2023-02-21 | 329 | 49 | 
 

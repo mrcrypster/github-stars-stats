@@ -1,10 +1,10 @@
 # Pool-Of-Tears/GreenStash - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 182
+★ Stars: 186
 
 [Open repository](https://github.com/Pool-Of-Tears/GreenStash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 186 | 15 | 
 | 2023-03-21 | 182 | 14 | 
 | 2023-03-20 | 178 | 12 | 
 | 2023-03-19 | 176 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 133 | 10 | 
 | 2023-02-23 | 132 | 10 | 
 | 2023-02-22 | 133 | 10 | 
-| 2023-02-21 | 133 | 10 | 
 

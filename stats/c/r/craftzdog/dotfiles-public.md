@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 23
 
-☋ Forks: 1039
+☋ Forks: 1038
 
-★ Stars: 4547
+★ Stars: 4553
 
 [Open repository](https://github.com/craftzdog/dotfiles-public)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-23 | 4547 | 1039 | 
+| 2023-03-23 | 4553 | 1038 | 
 | 2023-03-22 | 4547 | 1039 | 
 | 2023-03-21 | 4539 | 1032 | 
 | 2023-03-20 | 4537 | 1033 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-24 | 4441 | 1012 | 
 | 2023-02-23 | 4436 | 1012 | 
 | 2023-02-22 | 4431 | 1008 | 
-| 2023-02-21 | 4429 | 1008 | 
 

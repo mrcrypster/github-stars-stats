@@ -1,10 +1,10 @@
 # opentiny/tiny-vue-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 10
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/opentiny/tiny-vue-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 4 | 10 | 
 | 2023-03-22 | 3 | 10 | 
 | 2023-03-20 | 3 | 9 | 
 | 2023-03-19 | 3 | 9 | 

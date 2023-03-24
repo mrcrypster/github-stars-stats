@@ -1,10 +1,10 @@
 # laravel/breeze - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 347
+☋ Forks: 350
 
-★ Stars: 2190
+★ Stars: 2192
 
 [Open repository](https://github.com/laravel/breeze)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2192 | 350 | 
 | 2023-03-21 | 2190 | 347 | 
 | 2023-03-20 | 2187 | 344 | 
 | 2023-03-19 | 2186 | 344 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 2159 | 339 | 
 | 2023-02-24 | 2158 | 339 | 
 | 2023-02-23 | 2157 | 338 | 
-| 2023-02-21 | 2157 | 337 | 
 

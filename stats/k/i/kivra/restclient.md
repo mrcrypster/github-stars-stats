@@ -1,6 +1,6 @@
 # kivra/restclient - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 88 | 48 | 
 | 2023-03-21 | 88 | 48 | 
 | 2023-03-20 | 88 | 48 | 
 | 2023-03-19 | 88 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 88 | 48 | 
 | 2023-02-24 | 88 | 48 | 
 | 2023-02-23 | 88 | 48 | 
-| 2023-02-22 | 88 | 48 | 
 

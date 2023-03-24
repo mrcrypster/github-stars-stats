@@ -1,10 +1,10 @@
 # TJU-DRL-LAB/AI-Optimizer - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 353
+☋ Forks: 360
 
-★ Stars: 2112
+★ Stars: 2133
 
 [Open repository](https://github.com/TJU-DRL-LAB/AI-Optimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 2133 | 360 | 
 | 2023-03-22 | 2112 | 353 | 
 | 2023-03-20 | 2095 | 347 | 
 | 2023-03-19 | 2086 | 343 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1864 | 290 | 
 | 2023-02-23 | 1855 | 287 | 
 | 2023-02-22 | 1846 | 285 | 
-| 2023-02-21 | 1827 | 282 | 
 

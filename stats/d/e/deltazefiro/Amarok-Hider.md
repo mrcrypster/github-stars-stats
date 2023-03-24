@@ -1,10 +1,10 @@
 # deltazefiro/Amarok-Hider - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 24
 
-★ Stars: 435
+★ Stars: 438
 
 [Open repository](https://github.com/deltazefiro/Amarok-Hider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 438 | 24 | 
 | 2023-03-21 | 435 | 24 | 
 | 2023-03-20 | 433 | 24 | 
 | 2023-03-19 | 428 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 349 | 23 | 
 | 2023-02-23 | 345 | 23 | 
 | 2023-02-22 | 345 | 23 | 
-| 2023-02-21 | 344 | 23 | 
 

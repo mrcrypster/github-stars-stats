@@ -1,10 +1,10 @@
 # Spartan711/Genshin-to-Honkai-PC-Control-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 6
 
-★ Stars: 61
+★ Stars: 60
 
 [Open repository](https://github.com/Spartan711/Genshin-to-Honkai-PC-Control-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 60 | 6 | 
 | 2023-03-22 | 61 | 6 | 
 | 2023-03-21 | 61 | 6 | 
 | 2023-03-20 | 61 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 59 | 6 | 
 | 2023-02-24 | 59 | 6 | 
 | 2023-02-22 | 59 | 6 | 
-| 2023-02-21 | 59 | 6 | 
 

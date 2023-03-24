@@ -1,10 +1,10 @@
 # JuliaIO/JSON.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 97
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/JuliaIO/JSON.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 289 | 97 | 
 | 2023-03-22 | 288 | 97 | 
 | 2023-03-21 | 288 | 97 | 
 | 2023-03-20 | 288 | 97 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 283 | 96 | 
 | 2023-02-23 | 283 | 96 | 
 | 2023-02-22 | 283 | 96 | 
-| 2023-02-21 | 283 | 96 | 
 

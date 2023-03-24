@@ -1,6 +1,6 @@
 # djhaled/Uiana-MapImporter - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 106 | 16 | 
 | 2023-03-22 | 106 | 16 | 
 | 2023-03-21 | 106 | 16 | 
 | 2023-03-20 | 106 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 103 | 15 | 
 | 2023-02-23 | 103 | 15 | 
 | 2023-02-22 | 103 | 15 | 
-| 2023-02-21 | 102 | 15 | 
 

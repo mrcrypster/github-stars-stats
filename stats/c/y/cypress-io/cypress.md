@@ -1,10 +1,10 @@
 # cypress-io/cypress - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 2756
+☋ Forks: 2759
 
-★ Stars: 42914
+★ Stars: 42932
 
 [Open repository](https://github.com/cypress-io/cypress)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 42932 | 2759 | 
 | 2023-03-22 | 42914 | 2756 | 
 | 2023-03-21 | 42907 | 2755 | 
 | 2023-03-20 | 42894 | 2754 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 42681 | 2734 | 
 | 2023-02-23 | 42664 | 2733 | 
 | 2023-02-22 | 42650 | 2730 | 
-| 2023-02-21 | 42642 | 2729 | 
 

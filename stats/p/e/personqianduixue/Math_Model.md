@@ -1,10 +1,10 @@
 # personqianduixue/Math_Model - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 568
 
-★ Stars: 1843
+★ Stars: 1845
 
 [Open repository](https://github.com/personqianduixue/Math_Model)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1845 | 568 | 
 | 2023-03-22 | 1843 | 568 | 
 | 2023-03-21 | 1840 | 568 | 
 | 2023-03-20 | 1837 | 565 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1817 | 561 | 
 | 2023-02-23 | 1816 | 561 | 
 | 2023-02-22 | 1815 | 561 | 
-| 2023-02-21 | 1814 | 560 | 
 

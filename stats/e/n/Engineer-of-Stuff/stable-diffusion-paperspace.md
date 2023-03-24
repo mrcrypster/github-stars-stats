@@ -1,10 +1,10 @@
 # Engineer-of-Stuff/stable-diffusion-paperspace - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 104
 
-★ Stars: 171
+★ Stars: 173
 
 [Open repository](https://github.com/Engineer-of-Stuff/stable-diffusion-paperspace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 173 | 104 | 
 | 2023-03-22 | 171 | 104 | 
 | 2023-03-21 | 170 | 104 | 
 | 2023-03-19 | 170 | 104 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 152 | 99 | 
 | 2023-02-23 | 149 | 99 | 
 | 2023-02-22 | 148 | 99 | 
-| 2023-02-21 | 145 | 98 | 
 

@@ -1,6 +1,6 @@
 # clj-commons/etaoin - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 849 | 86 | 
 | 2023-03-21 | 849 | 86 | 
 | 2023-03-20 | 848 | 86 | 
 | 2023-03-19 | 848 | 86 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 838 | 83 | 
 | 2023-02-24 | 838 | 83 | 
 | 2023-02-23 | 837 | 83 | 
-| 2023-02-22 | 835 | 83 | 
 

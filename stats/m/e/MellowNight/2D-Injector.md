@@ -1,10 +1,10 @@
 # MellowNight/2D-Injector - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 32
+★ Stars: 34
 
 [Open repository](https://github.com/MellowNight/2D-Injector)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 34 | 26 | 
 | 2023-03-22 | 32 | 24 | 
 

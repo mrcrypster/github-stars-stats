@@ -1,10 +1,10 @@
 # glados-network/GLaDOS - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 275
+☋ Forks: 274
 
-★ Stars: 2043
+★ Stars: 2048
 
 [Open repository](https://github.com/glados-network/GLaDOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2048 | 274 | 
 | 2023-03-22 | 2043 | 275 | 
 | 2023-03-21 | 2040 | 275 | 
 | 2023-03-19 | 2027 | 272 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1953 | 266 | 
 | 2023-02-24 | 1954 | 265 | 
 | 2023-02-23 | 1950 | 264 | 
-| 2023-02-22 | 1948 | 263 | 
 

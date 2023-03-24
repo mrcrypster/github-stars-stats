@@ -1,10 +1,10 @@
 # apache/bigtop - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 445
 
-★ Stars: 471
+★ Stars: 472
 
 [Open repository](https://github.com/apache/bigtop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 472 | 445 | 
 | 2023-03-22 | 471 | 445 | 
 | 2023-03-20 | 471 | 445 | 
 | 2023-03-19 | 471 | 445 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 465 | 440 | 
 | 2023-02-23 | 465 | 440 | 
 | 2023-02-22 | 465 | 440 | 
-| 2023-02-21 | 465 | 439 | 
 

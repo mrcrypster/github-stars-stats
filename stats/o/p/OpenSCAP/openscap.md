@@ -1,10 +1,10 @@
 # OpenSCAP/openscap - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 340
 
-★ Stars: 1077
+★ Stars: 1078
 
 [Open repository](https://github.com/OpenSCAP/openscap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1078 | 340 | 
 | 2023-03-22 | 1077 | 340 | 
 | 2023-03-21 | 1075 | 340 | 
 | 2023-03-20 | 1073 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1064 | 339 | 
 | 2023-02-23 | 1063 | 339 | 
 | 2023-02-22 | 1062 | 338 | 
-| 2023-02-21 | 1062 | 338 | 
 

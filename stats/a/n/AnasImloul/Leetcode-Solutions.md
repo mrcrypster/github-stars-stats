@@ -1,10 +1,10 @@
 # AnasImloul/Leetcode-Solutions - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 101
 
-★ Stars: 320
+★ Stars: 319
 
 [Open repository](https://github.com/AnasImloul/Leetcode-Solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 319 | 101 | 
 | 2023-03-22 | 320 | 101 | 
 | 2023-03-20 | 320 | 101 | 
 | 2023-03-19 | 320 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 314 | 101 | 
 | 2023-02-23 | 313 | 101 | 
 | 2023-02-22 | 313 | 101 | 
-| 2023-02-21 | 313 | 102 | 
 

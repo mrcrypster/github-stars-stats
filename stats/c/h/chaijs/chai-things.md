@@ -1,6 +1,6 @@
 # chaijs/chai-things - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 106 | 14 | 
 | 2023-03-22 | 106 | 14 | 
 | 2023-03-20 | 106 | 14 | 
 | 2023-03-19 | 106 | 14 | 

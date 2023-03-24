@@ -1,10 +1,10 @@
 # 25H/Maya - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 109
 
-★ Stars: 1298
+★ Stars: 1300
 
 [Open repository](https://github.com/25H/Maya)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1300 | 109 | 
 | 2023-03-21 | 1298 | 109 | 
 | 2023-03-20 | 1297 | 108 | 
 | 2023-03-19 | 1297 | 108 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 1273 | 105 | 
 | 2023-02-23 | 1273 | 105 | 
 | 2023-02-22 | 1273 | 105 | 
-| 2023-02-21 | 1272 | 105 | 
 

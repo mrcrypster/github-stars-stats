@@ -1,6 +1,6 @@
 # memester-xyz/surl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 270 | 16 | 
 | 2023-03-22 | 270 | 16 | 
 | 2023-03-20 | 270 | 16 | 
 | 2023-03-19 | 270 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 266 | 15 | 
 | 2023-02-23 | 265 | 15 | 
 | 2023-02-22 | 266 | 15 | 
-| 2023-02-21 | 266 | 15 | 
 

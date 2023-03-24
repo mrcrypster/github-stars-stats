@@ -1,6 +1,6 @@
 # hakluke/hakip2host - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 163 | 28 | 
 | 2023-03-21 | 163 | 28 | 
 | 2023-03-20 | 163 | 28 | 
 | 2023-03-19 | 163 | 28 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 162 | 27 | 
 | 2023-02-23 | 162 | 27 | 
 | 2023-02-22 | 162 | 27 | 
-| 2023-02-21 | 162 | 27 | 
 

@@ -1,10 +1,10 @@
 # barimehdi77/42-piscine-exam - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 78
 
-★ Stars: 208
+★ Stars: 207
 
 [Open repository](https://github.com/barimehdi77/42-piscine-exam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 207 | 78 | 
 | 2023-03-22 | 208 | 78 | 
 | 2023-03-21 | 208 | 78 | 
 | 2023-03-20 | 208 | 78 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 212 | 79 | 
 | 2023-02-23 | 212 | 79 | 
 | 2023-02-22 | 212 | 79 | 
-| 2023-02-21 | 214 | 79 | 
 

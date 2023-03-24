@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 23
 
 ☋ Forks: 586
 
-★ Stars: 4408
+★ Stars: 4412
 
 [Open repository](https://github.com/Kotlin/kotlinx.serialization)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-23 | 4408 | 586 | 
+| 2023-03-23 | 4412 | 586 | 
 | 2023-03-22 | 4408 | 586 | 
 | 2023-03-21 | 4405 | 586 | 
 | 2023-03-19 | 4401 | 584 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-24 | 4364 | 575 | 
 | 2023-02-23 | 4362 | 576 | 
 | 2023-02-22 | 4362 | 576 | 
-| 2023-02-21 | 4362 | 576 | 
 

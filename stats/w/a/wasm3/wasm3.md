@@ -1,8 +1,8 @@
 # wasm3/wasm3 - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
-☋ Forks: 379
+☋ Forks: 380
 
 ★ Stars: 5955
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 5955 | 380 | 
 | 2023-03-21 | 5955 | 379 | 
 | 2023-03-20 | 5954 | 379 | 
 | 2023-03-19 | 5948 | 378 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-25 | 5884 | 375 | 
 | 2023-02-24 | 5883 | 375 | 
 | 2023-02-23 | 5880 | 375 | 
-| 2023-02-21 | 5880 | 375 | 
 

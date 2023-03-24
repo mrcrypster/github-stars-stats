@@ -1,6 +1,6 @@
 # bwiernik/pipebind - stars & forks statistics
 
-Stats updated on Mar 2023, 21
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 48 | 2 | 
 | 2023-03-21 | 48 | 2 | 
 | 2023-03-20 | 48 | 2 | 
 | 2023-03-18 | 48 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 21
 | 2023-02-24 | 48 | 2 | 
 | 2023-02-23 | 48 | 2 | 
 | 2023-02-22 | 48 | 2 | 
-| 2023-02-21 | 48 | 2 | 
 

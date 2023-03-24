@@ -1,10 +1,10 @@
 # gitkraken/vscode-gitlens - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 917
 
-★ Stars: 7896
+★ Stars: 7903
 
 [Open repository](https://github.com/gitkraken/vscode-gitlens)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7903 | 917 | 
 | 2023-03-22 | 7896 | 917 | 
 | 2023-03-21 | 7890 | 913 | 
 | 2023-03-20 | 7885 | 911 | 

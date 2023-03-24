@@ -1,6 +1,6 @@
 # glacambre/firenvim - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 3570 | 127 | 
 | 2023-03-22 | 3570 | 127 | 
 | 2023-03-21 | 3568 | 127 | 
 | 2023-03-20 | 3564 | 126 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 3521 | 125 | 
 | 2023-02-24 | 3519 | 125 | 
 | 2023-02-23 | 3520 | 125 | 
-| 2023-02-22 | 3520 | 125 | 
 

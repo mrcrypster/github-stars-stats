@@ -1,10 +1,10 @@
 # frenck/awesome-home-assistant - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 312
 
-★ Stars: 4497
+★ Stars: 4503
 
 [Open repository](https://github.com/frenck/awesome-home-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 4503 | 312 | 
 | 2023-03-22 | 4497 | 312 | 
 | 2023-03-20 | 4495 | 312 | 
 | 2023-03-19 | 4491 | 312 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 4434 | 312 | 
 | 2023-02-24 | 4430 | 312 | 
 | 2023-02-22 | 4427 | 312 | 
-| 2023-02-21 | 4426 | 312 | 
 

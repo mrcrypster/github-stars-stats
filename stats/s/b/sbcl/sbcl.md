@@ -1,10 +1,10 @@
 # sbcl/sbcl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 289
 
-★ Stars: 1602
+★ Stars: 1604
 
 [Open repository](https://github.com/sbcl/sbcl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 1604 | 289 | 
 | 2023-03-22 | 1602 | 289 | 
 | 2023-03-21 | 1602 | 289 | 
 | 2023-03-20 | 1602 | 289 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 1589 | 288 | 
 | 2023-02-23 | 1589 | 288 | 
 | 2023-02-22 | 1588 | 288 | 
-| 2023-02-21 | 1587 | 288 | 
 

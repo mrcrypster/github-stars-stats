@@ -1,6 +1,6 @@
 # JuliaLang/Pkg.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 23
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-23 | 540 | 218 | 
 | 2023-03-22 | 540 | 218 | 
 | 2023-03-21 | 539 | 218 | 
 | 2023-03-20 | 539 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-24 | 527 | 218 | 
 | 2023-02-23 | 526 | 218 | 
 | 2023-02-22 | 526 | 218 | 
-| 2023-02-21 | 525 | 214 | 
 
