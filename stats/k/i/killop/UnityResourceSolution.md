@@ -1,10 +1,10 @@
 # killop/UnityResourceSolution - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 189
+★ Stars: 191
 
 [Open repository](https://github.com/killop/UnityResourceSolution)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 191 | 38 | 
 | 2023-03-22 | 189 | 37 | 
 | 2023-03-21 | 188 | 37 | 
 | 2023-03-20 | 187 | 37 | 

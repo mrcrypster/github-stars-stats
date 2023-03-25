@@ -1,6 +1,6 @@
 # brianmaierjr/long-haul - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 699
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 607 | 699 | 
 | 2023-03-23 | 607 | 699 | 
 | 2023-03-22 | 607 | 698 | 
 | 2023-03-21 | 606 | 697 | 

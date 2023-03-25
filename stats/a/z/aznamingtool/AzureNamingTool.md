@@ -1,10 +1,10 @@
 # aznamingtool/AzureNamingTool - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/aznamingtool/AzureNamingTool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 62 | 9 | 
 | 2023-03-22 | 61 | 9 | 
 | 2023-03-21 | 61 | 9 | 
 | 2023-03-20 | 61 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 59 | 9 | 
 | 2023-02-24 | 59 | 9 | 
 | 2023-02-23 | 59 | 9 | 
-| 2023-02-22 | 59 | 9 | 
 

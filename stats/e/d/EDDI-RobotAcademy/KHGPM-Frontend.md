@@ -1,6 +1,6 @@
 # EDDI-RobotAcademy/KHGPM-Frontend - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 21 | 30 | 
 | 2023-03-23 | 21 | 30 | 
 | 2023-03-22 | 21 | 30 | 
 | 2023-03-21 | 21 | 30 | 

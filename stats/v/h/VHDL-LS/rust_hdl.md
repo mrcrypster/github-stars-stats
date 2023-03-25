@@ -1,10 +1,10 @@
 # VHDL-LS/rust_hdl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/VHDL-LS/rust_hdl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 204 | 42 | 
 | 2023-03-22 | 203 | 41 | 
 | 2023-03-21 | 203 | 41 | 
 | 2023-03-19 | 203 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 199 | 39 | 
 | 2023-02-24 | 199 | 39 | 
 | 2023-02-23 | 198 | 39 | 
-| 2023-02-22 | 198 | 39 | 
 

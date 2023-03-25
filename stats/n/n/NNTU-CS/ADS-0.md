@@ -1,10 +1,10 @@
 # NNTU-CS/ADS-0 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 90
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/NNTU-CS/ADS-0)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1 | 90 | 
 | 2023-03-23 | 2 | 90 | 
 | 2023-03-21 | 2 | 90 | 
 | 2023-03-20 | 2 | 90 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1 | 73 | 
 | 2023-02-24 | 1 | 62 | 
 | 2023-02-23 | 1 | 55 | 
-| 2023-02-22 | 1 | 54 | 
 

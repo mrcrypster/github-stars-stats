@@ -1,8 +1,8 @@
 # geovens/gInk - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 270
+☋ Forks: 271
 
 ★ Stars: 1405
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1405 | 271 | 
 | 2023-03-23 | 1405 | 270 | 
 | 2023-03-22 | 1405 | 270 | 
 | 2023-03-21 | 1405 | 270 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1381 | 268 | 
 | 2023-02-24 | 1379 | 268 | 
 | 2023-02-23 | 1376 | 268 | 
-| 2023-02-22 | 1375 | 268 | 
 

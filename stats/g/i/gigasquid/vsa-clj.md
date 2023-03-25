@@ -1,10 +1,10 @@
 # gigasquid/vsa-clj - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/gigasquid/vsa-clj)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 18 | - | 
 | 2023-03-22 | 17 | - | 
 | 2023-03-21 | 17 | - | 
 | 2023-03-20 | 17 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 16 | - | 
 | 2023-02-25 | 16 | - | 
 | 2023-02-24 | 16 | - | 
-| 2023-02-22 | 16 | - | 
 

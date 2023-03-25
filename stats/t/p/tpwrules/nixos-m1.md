@@ -1,8 +1,8 @@
 # tpwrules/nixos-m1 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 404
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 404 | 34 | 
 | 2023-03-23 | 404 | 33 | 
 | 2023-03-21 | 403 | 33 | 
 | 2023-03-20 | 403 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 389 | 31 | 
 | 2023-02-24 | 388 | 31 | 
 | 2023-02-23 | 388 | 31 | 
-| 2023-02-22 | 388 | 31 | 
 

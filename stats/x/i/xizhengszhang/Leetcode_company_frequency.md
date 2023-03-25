@@ -1,10 +1,10 @@
 # xizhengszhang/Leetcode_company_frequency - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1331
+☋ Forks: 1334
 
-★ Stars: 3586
+★ Stars: 3591
 
 [Open repository](https://github.com/xizhengszhang/Leetcode_company_frequency)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3591 | 1334 | 
 | 2023-03-23 | 3586 | 1331 | 
 | 2023-03-22 | 3582 | 1331 | 
 | 2023-03-20 | 3576 | 1330 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 3513 | 1316 | 
 | 2023-02-24 | 3508 | 1315 | 
 | 2023-02-23 | 3505 | 1314 | 
-| 2023-02-22 | 3504 | 1313 | 
 

@@ -1,10 +1,10 @@
 # torchgm/RoundedTB - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 157
 
-★ Stars: 2133
+★ Stars: 2138
 
 [Open repository](https://github.com/torchgm/RoundedTB)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2138 | 157 | 
 | 2023-03-23 | 2133 | 157 | 
 | 2023-03-22 | 2133 | 157 | 
 | 2023-03-21 | 2129 | 156 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2028 | 145 | 
 | 2023-02-24 | 2022 | 144 | 
 | 2023-02-23 | 2021 | 144 | 
-| 2023-02-22 | 2015 | 144 | 
 

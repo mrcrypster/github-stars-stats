@@ -1,6 +1,6 @@
 # MauritsWilke/mcpfp - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 50 | 11 | 
 | 2023-03-22 | 50 | 11 | 
 | 2023-03-21 | 50 | 11 | 
 | 2023-03-19 | 50 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 42 | 9 | 
 | 2023-02-25 | 40 | 9 | 
 | 2023-02-24 | 39 | 9 | 
-| 2023-02-22 | 39 | 9 | 
 

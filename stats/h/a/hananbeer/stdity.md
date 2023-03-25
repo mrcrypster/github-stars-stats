@@ -1,10 +1,10 @@
 # hananbeer/stdity - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/hananbeer/stdity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 81 | 5 | 
 | 2023-03-23 | 80 | 5 | 
 | 2023-03-21 | 80 | 5 | 
 | 2023-03-20 | 80 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 80 | 5 | 
 | 2023-02-25 | 80 | 5 | 
 | 2023-02-23 | 80 | 5 | 
-| 2023-02-22 | 78 | 5 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 24
 
 ☋ Forks: 217
 
-★ Stars: 1717
+★ Stars: 1728
 
 [Open repository](https://github.com/mckaywrigley/paul-graham-gpt)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 1717 | 217 | 
+| 2023-03-24 | 1728 | 217 | 
 | 2023-03-23 | 1710 | 216 | 
 | 2023-03-22 | 1668 | 213 | 
 | 2023-03-21 | 1620 | 201 | 

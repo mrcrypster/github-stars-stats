@@ -1,6 +1,6 @@
 # Netflix/vectorflow - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1279 | 86 | 
 | 2023-03-23 | 1279 | 86 | 
 | 2023-03-21 | 1279 | 86 | 
 | 2023-03-20 | 1279 | 86 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1278 | 86 | 
 | 2023-02-24 | 1278 | 86 | 
 | 2023-02-23 | 1278 | 86 | 
-| 2023-02-22 | 1278 | 86 | 
 

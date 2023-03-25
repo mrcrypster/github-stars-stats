@@ -1,10 +1,10 @@
 # john-smilga/javascript-basic-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 3355
+☋ Forks: 3359
 
-★ Stars: 3018
+★ Stars: 3025
 
 [Open repository](https://github.com/john-smilga/javascript-basic-projects)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3025 | 3359 | 
+| 2023-03-24 | 3023 | 3359 | 
 | 2023-03-23 | 3018 | 3355 | 
 | 2023-03-22 | 3016 | 3354 | 
 | 2023-03-21 | 3010 | 3349 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2931 | 3308 | 
 | 2023-02-24 | 2927 | 3307 | 
 | 2023-02-23 | 2924 | 3305 | 
-| 2023-02-22 | 2921 | 3302 | 
 

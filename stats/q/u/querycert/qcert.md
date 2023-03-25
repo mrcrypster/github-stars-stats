@@ -1,6 +1,6 @@
 # querycert/qcert - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 52 | 9 | 
 | 2023-03-22 | 52 | 9 | 
 | 2023-03-21 | 52 | 9 | 
 | 2023-03-20 | 52 | 9 | 

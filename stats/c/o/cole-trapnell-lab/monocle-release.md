@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 24
 
 ☋ Forks: 104
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/cole-trapnell-lab/monocle-release)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 248 | 104 | 
+| 2023-03-24 | 249 | 104 | 
 | 2023-03-23 | 248 | 104 | 
 | 2023-03-22 | 248 | 104 | 
 | 2023-03-21 | 248 | 104 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 245 | 104 | 
 | 2023-02-25 | 245 | 104 | 
 | 2023-02-24 | 244 | 104 | 
-| 2023-02-22 | 244 | 104 | 
 

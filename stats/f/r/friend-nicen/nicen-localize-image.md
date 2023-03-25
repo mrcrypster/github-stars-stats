@@ -1,6 +1,6 @@
 # friend-nicen/nicen-localize-image - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 56 | 9 | 
 | 2023-03-22 | 56 | 9 | 
 | 2023-03-21 | 56 | 9 | 
 | 2023-03-20 | 55 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 54 | 8 | 
 | 2023-02-25 | 54 | 8 | 
 | 2023-02-24 | 54 | 8 | 
-| 2023-02-23 | 54 | 8 | 
 

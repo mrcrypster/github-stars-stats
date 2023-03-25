@@ -1,10 +1,10 @@
 # bitswired/ai-chat-app - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 20
+☋ Forks: 23
 
-★ Stars: 152
+★ Stars: 156
 
 [Open repository](https://github.com/bitswired/ai-chat-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 156 | 23 | 
 | 2023-03-23 | 152 | 20 | 
 | 2023-03-22 | 142 | 17 | 
 | 2023-03-21 | 139 | 17 | 

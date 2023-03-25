@@ -1,10 +1,10 @@
 # nichobi/sponsorblockcast - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 13
 
-★ Stars: 301
+★ Stars: 302
 
 [Open repository](https://github.com/nichobi/sponsorblockcast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 302 | 13 | 
 | 2023-03-23 | 301 | 13 | 
 | 2023-03-22 | 299 | 13 | 
 | 2023-03-21 | 299 | 13 | 

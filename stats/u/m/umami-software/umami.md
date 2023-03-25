@@ -1,10 +1,10 @@
 # umami-software/umami - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 2471
+☋ Forks: 2469
 
-★ Stars: 14983
+★ Stars: 14998
 
 [Open repository](https://github.com/umami-software/umami)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 14998 | 2469 | 
 | 2023-03-23 | 14983 | 2471 | 
 | 2023-03-21 | 14969 | 2468 | 
 | 2023-03-20 | 14962 | 2465 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 14679 | 2414 | 
 | 2023-02-24 | 14669 | 2409 | 
 | 2023-02-23 | 14654 | 2405 | 
-| 2023-02-22 | 14639 | 2400 | 
 

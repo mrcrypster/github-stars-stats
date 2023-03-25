@@ -1,6 +1,6 @@
 # brucemiller/LaTeXML - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 561 | 81 | 
 | 2023-03-22 | 561 | 81 | 
 | 2023-03-21 | 560 | 81 | 
 | 2023-03-20 | 560 | 81 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 554 | 80 | 
 | 2023-02-24 | 554 | 80 | 
 | 2023-02-23 | 554 | 80 | 
-| 2023-02-22 | 554 | 80 | 
 

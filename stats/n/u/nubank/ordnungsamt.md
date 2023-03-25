@@ -1,10 +1,10 @@
 # nubank/ordnungsamt - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/nubank/ordnungsamt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 22 | 2 | 
 | 2023-03-23 | 21 | 2 | 
 | 2023-03-22 | 21 | 2 | 
 | 2023-03-20 | 21 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 21 | 2 | 
 | 2023-02-25 | 21 | 2 | 
 | 2023-02-24 | 21 | 2 | 
-| 2023-02-22 | 21 | 2 | 
 

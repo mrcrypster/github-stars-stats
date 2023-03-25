@@ -1,10 +1,10 @@
 # misohena/el-easydraw - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 11
 
-★ Stars: 371
+★ Stars: 372
 
 [Open repository](https://github.com/misohena/el-easydraw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 372 | 11 | 
 | 2023-03-22 | 371 | 11 | 
 | 2023-03-21 | 370 | 11 | 
 | 2023-03-20 | 369 | 11 | 

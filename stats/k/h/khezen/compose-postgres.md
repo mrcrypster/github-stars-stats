@@ -1,8 +1,8 @@
 # khezen/compose-postgres - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 761
+☋ Forks: 762
 
 ★ Stars: 1056
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1056 | 762 | 
 | 2023-03-23 | 1056 | 761 | 
 | 2023-03-22 | 1054 | 760 | 
 | 2023-03-21 | 1052 | 760 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1033 | 748 | 
 | 2023-02-25 | 1032 | 748 | 
 | 2023-02-23 | 1030 | 748 | 
-| 2023-02-22 | 1027 | 748 | 
 

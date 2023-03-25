@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 24
 
 ☋ Forks: 73
 
-★ Stars: 92
+★ Stars: 91
 
 [Open repository](https://github.com/Orange-OpenSource/towards5gs-helm)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 92 | 73 | 
+| 2023-03-24 | 91 | 73 | 
 | 2023-03-23 | 92 | 73 | 
 | 2023-03-22 | 92 | 72 | 
 | 2023-03-20 | 92 | 72 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-25 | 91 | 66 | 
 | 2023-02-24 | 91 | 65 | 
 | 2023-02-23 | 90 | 65 | 
-| 2023-02-22 | 90 | 65 | 
 

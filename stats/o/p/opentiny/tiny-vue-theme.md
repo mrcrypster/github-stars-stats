@@ -1,6 +1,6 @@
 # opentiny/tiny-vue-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4 | 10 | 
 | 2023-03-23 | 4 | 10 | 
 | 2023-03-22 | 3 | 10 | 
 | 2023-03-20 | 3 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | - | 9 | 
 | 2023-02-24 | - | 9 | 
 | 2023-02-23 | - | 7 | 
-| 2023-02-22 | - | 5 | 
 

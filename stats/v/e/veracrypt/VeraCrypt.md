@@ -1,10 +1,10 @@
 # veracrypt/VeraCrypt - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 747
+☋ Forks: 748
 
-★ Stars: 4842
+★ Stars: 4845
 
 [Open repository](https://github.com/veracrypt/VeraCrypt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4845 | 748 | 
 | 2023-03-23 | 4842 | 747 | 
 | 2023-03-22 | 4839 | 747 | 
 | 2023-03-20 | 4833 | 746 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 4768 | 738 | 
 | 2023-02-24 | 4766 | 738 | 
 | 2023-02-23 | 4762 | 738 | 
-| 2023-02-22 | 4760 | 738 | 
 

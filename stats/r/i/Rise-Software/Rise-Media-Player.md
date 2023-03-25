@@ -1,10 +1,10 @@
 # Rise-Software/Rise-Media-Player - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 59
 
-★ Stars: 789
+★ Stars: 790
 
 [Open repository](https://github.com/Rise-Software/Rise-Media-Player)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 790 | 59 | 
 | 2023-03-23 | 789 | 59 | 
 | 2023-03-21 | 789 | 59 | 
 | 2023-03-20 | 787 | 59 | 

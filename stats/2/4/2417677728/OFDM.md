@@ -1,10 +1,10 @@
 # 2417677728/OFDM - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 84
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/2417677728/OFDM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 174 | 84 | 
 | 2023-03-23 | 173 | 84 | 
 | 2023-03-21 | 172 | 84 | 
 | 2023-03-20 | 172 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 167 | 83 | 
 | 2023-02-24 | 167 | 83 | 
 | 2023-02-23 | 166 | 83 | 
-| 2023-02-22 | 166 | 83 | 
 

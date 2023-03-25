@@ -1,10 +1,10 @@
 # Ayanaminn/N46Whisper - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 49
+☋ Forks: 51
 
-★ Stars: 563
+★ Stars: 585
 
 [Open repository](https://github.com/Ayanaminn/N46Whisper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 585 | 51 | 
 | 2023-03-23 | 563 | 49 | 
 | 2023-03-22 | 561 | 47 | 
 | 2023-03-21 | 528 | 41 | 

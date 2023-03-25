@@ -1,10 +1,10 @@
 # paxosglobal/busd-contract - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 85
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/paxosglobal/busd-contract)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 123 | 85 | 
 | 2023-03-23 | 122 | 85 | 
 | 2023-03-22 | 122 | 85 | 
 | 2023-03-21 | 122 | 85 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 120 | 84 | 
 | 2023-02-24 | 120 | 84 | 
 | 2023-02-23 | 120 | 84 | 
-| 2023-02-22 | 118 | 84 | 
 

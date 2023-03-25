@@ -1,10 +1,10 @@
 # ShaifArfan/one-page-website-html-css-project - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 637
+☋ Forks: 638
 
-★ Stars: 570
+★ Stars: 571
 
 [Open repository](https://github.com/ShaifArfan/one-page-website-html-css-project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 571 | 638 | 
 | 2023-03-23 | 570 | 637 | 
 | 2023-03-22 | 570 | 637 | 
 | 2023-03-20 | 569 | 637 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 564 | 624 | 
 | 2023-02-24 | 561 | 625 | 
 | 2023-02-23 | 561 | 625 | 
-| 2023-02-22 | 561 | 625 | 
 

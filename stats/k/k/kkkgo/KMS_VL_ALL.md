@@ -1,10 +1,10 @@
 # kkkgo/KMS_VL_ALL - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 424
+☋ Forks: 423
 
-★ Stars: 2717
+★ Stars: 2718
 
 [Open repository](https://github.com/kkkgo/KMS_VL_ALL)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2718 | 423 | 
 | 2023-03-22 | 2717 | 424 | 
 | 2023-03-21 | 2714 | 424 | 
 | 2023-03-20 | 2714 | 424 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 2677 | 423 | 
 | 2023-02-24 | 2677 | 423 | 
 | 2023-02-23 | 2677 | 423 | 
-| 2023-02-22 | 2674 | 423 | 
 

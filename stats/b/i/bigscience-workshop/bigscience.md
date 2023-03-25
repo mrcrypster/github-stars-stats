@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 24
 
 ☋ Forks: 60
 
-★ Stars: 602
+★ Stars: 605
 
 [Open repository](https://github.com/bigscience-workshop/bigscience)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 602 | 60 | 
+| 2023-03-24 | 605 | 60 | 
 | 2023-03-23 | 601 | 60 | 
 | 2023-03-22 | 597 | 59 | 
 | 2023-03-21 | 593 | 58 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-25 | 541 | 54 | 
 | 2023-02-24 | 540 | 54 | 
 | 2023-02-23 | 534 | 54 | 
-| 2023-02-22 | 531 | 54 | 
 

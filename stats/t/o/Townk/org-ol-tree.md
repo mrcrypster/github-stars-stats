@@ -1,6 +1,6 @@
 # Townk/org-ol-tree - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 65 | 4 | 
 | 2023-03-22 | 65 | 4 | 
 | 2023-03-21 | 65 | 4 | 
 | 2023-03-20 | 65 | 4 | 

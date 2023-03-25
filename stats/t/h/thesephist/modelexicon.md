@@ -1,6 +1,6 @@
 # thesephist/modelexicon - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 143 | 5 | 
 | 2023-03-22 | 143 | 5 | 
 | 2023-03-21 | 143 | 5 | 
 | 2023-03-19 | 143 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 144 | 5 | 
 | 2023-02-25 | 144 | 5 | 
 | 2023-02-24 | 144 | 5 | 
-| 2023-02-22 | 144 | 5 | 
 

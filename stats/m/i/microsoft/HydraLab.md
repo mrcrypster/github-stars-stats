@@ -1,10 +1,10 @@
 # microsoft/HydraLab - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 62
+☋ Forks: 65
 
-★ Stars: 505
+★ Stars: 507
 
 [Open repository](https://github.com/microsoft/HydraLab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 507 | 65 | 
 | 2023-03-23 | 505 | 62 | 
 | 2023-03-22 | 504 | 62 | 
 | 2023-03-20 | 504 | 62 | 

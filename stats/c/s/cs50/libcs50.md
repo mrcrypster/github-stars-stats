@@ -1,10 +1,10 @@
 # cs50/libcs50 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 684
 
-★ Stars: 1206
+★ Stars: 1208
 
 [Open repository](https://github.com/cs50/libcs50)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1208 | 684 | 
 | 2023-03-23 | 1206 | 684 | 
 | 2023-03-21 | 1206 | 685 | 
 | 2023-03-20 | 1203 | 684 | 

@@ -1,6 +1,6 @@
 # Erensu/cors - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 57 | 35 | 
 | 2023-03-22 | 57 | 35 | 
 | 2023-03-21 | 57 | 35 | 
 | 2023-03-20 | 56 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 52 | 34 | 
 | 2023-02-24 | 52 | 34 | 
 | 2023-02-23 | 52 | 34 | 
-| 2023-02-22 | 52 | 34 | 
 

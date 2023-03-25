@@ -1,10 +1,10 @@
 # easybangumiorg/EasyBangumi - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 13
 
-★ Stars: 488
+★ Stars: 510
 
 [Open repository](https://github.com/easybangumiorg/EasyBangumi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 510 | 13 | 
 | 2023-03-23 | 488 | 13 | 
 | 2023-03-22 | 461 | 10 | 
 | 2023-03-21 | 452 | 9 | 

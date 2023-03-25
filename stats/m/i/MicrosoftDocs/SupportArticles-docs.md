@@ -1,6 +1,6 @@
 # MicrosoftDocs/SupportArticles-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 688
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 90 | 688 | 
 | 2023-03-23 | 90 | 688 | 
 | 2023-03-22 | 88 | 685 | 
 | 2023-03-20 | 88 | 685 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 86 | 662 | 
 | 2023-02-24 | 86 | 662 | 
 | 2023-02-23 | 86 | 660 | 
-| 2023-02-22 | 86 | 659 | 
 

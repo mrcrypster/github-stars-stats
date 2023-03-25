@@ -1,6 +1,6 @@
 # fongandrew/hydeout - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 723
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 553 | 723 | 
 | 2023-03-23 | 553 | 723 | 
 | 2023-03-21 | 554 | 723 | 
 | 2023-03-20 | 554 | 723 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 550 | 723 | 
 | 2023-02-25 | 550 | 723 | 
 | 2023-02-24 | 550 | 723 | 
-| 2023-02-23 | 550 | 723 | 
 

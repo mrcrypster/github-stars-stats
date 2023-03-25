@@ -1,10 +1,10 @@
 # pjsip/pjproject - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 611
+☋ Forks: 612
 
-★ Stars: 1445
+★ Stars: 1450
 
 [Open repository](https://github.com/pjsip/pjproject)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1450 | 612 | 
+| 2023-03-24 | 1449 | 612 | 
 | 2023-03-23 | 1445 | 611 | 
 | 2023-03-21 | 1444 | 611 | 
 | 2023-03-20 | 1440 | 610 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1417 | 609 | 
 | 2023-02-24 | 1416 | 609 | 
 | 2023-02-23 | 1416 | 610 | 
-| 2023-02-22 | 1415 | 610 | 
 

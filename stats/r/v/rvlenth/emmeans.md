@@ -1,10 +1,10 @@
 # rvlenth/emmeans - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 23
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/rvlenth/emmeans)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 286 | 23 | 
 | 2023-03-22 | 285 | 23 | 
 | 2023-03-21 | 285 | 23 | 
 | 2023-03-20 | 285 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 280 | 22 | 
 | 2023-02-24 | 280 | 21 | 
 | 2023-02-23 | 280 | 21 | 
-| 2023-02-22 | 280 | 21 | 
 

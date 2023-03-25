@@ -1,6 +1,6 @@
 # griffithlab/rnaseq_tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 607
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1229 | 607 | 
 | 2023-03-22 | 1229 | 607 | 
 | 2023-03-21 | 1228 | 607 | 
 | 2023-03-20 | 1226 | 607 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1217 | 608 | 
 | 2023-02-24 | 1217 | 608 | 
 | 2023-02-23 | 1218 | 608 | 
-| 2023-02-22 | 1216 | 608 | 
 

@@ -1,10 +1,10 @@
 # amrrs/chatgpt-api-python - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 19
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/amrrs/chatgpt-api-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 37 | 19 | 
 | 2023-03-23 | 35 | 19 | 
 | 2023-03-21 | 34 | 19 | 
 | 2023-03-20 | 34 | 19 | 

@@ -1,10 +1,10 @@
 # sonic-pi-net/sonic-pi - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 889
 
-★ Stars: 9846
+★ Stars: 9849
 
 [Open repository](https://github.com/sonic-pi-net/sonic-pi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 9849 | 889 | 
 | 2023-03-22 | 9846 | 889 | 
 | 2023-03-21 | 9845 | 889 | 
 | 2023-03-20 | 9844 | 889 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 9810 | 890 | 
 | 2023-02-24 | 9806 | 890 | 
 | 2023-02-23 | 9804 | 890 | 
-| 2023-02-22 | 9797 | 890 | 
 

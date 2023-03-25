@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 110
+★ Stars: 112
 
 [Open repository](https://github.com/SleepTheGod/iPhone-SSH-Backdoor)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 110 | 8 | 
+| 2023-03-24 | 112 | 8 | 
 | 2023-03-23 | 110 | 8 | 
 

@@ -1,10 +1,10 @@
 # ekzhang/redis-rope - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/ekzhang/redis-rope)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 106 | 1 | 
 | 2023-03-23 | 105 | 1 | 
 | 2023-03-21 | 105 | 1 | 
 | 2023-03-20 | 104 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 104 | 1 | 
 | 2023-02-24 | 104 | 1 | 
 | 2023-02-23 | 104 | 1 | 
-| 2023-02-22 | 104 | 1 | 
 

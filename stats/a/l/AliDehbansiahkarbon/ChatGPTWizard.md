@@ -1,10 +1,10 @@
 # AliDehbansiahkarbon/ChatGPTWizard - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/AliDehbansiahkarbon/ChatGPTWizard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 60 | 18 | 
 | 2023-03-23 | 59 | 17 | 
 | 2023-03-22 | 56 | 15 | 
 | 2023-03-21 | 51 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 29 | 8 | 
 | 2023-02-24 | 29 | 8 | 
 | 2023-02-23 | 29 | 8 | 
-| 2023-02-22 | 29 | 8 | 
 

@@ -1,10 +1,10 @@
 # B0und/WikiSpeedrun - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/B0und/WikiSpeedrun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 37 | 4 | 
 | 2023-03-23 | 36 | 4 | 
 | 2023-03-22 | 36 | 4 | 
 | 2023-03-20 | 36 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 35 | 4 | 
 | 2023-02-24 | 35 | 4 | 
 | 2023-02-23 | 35 | 4 | 
-| 2023-02-22 | 35 | 4 | 
 

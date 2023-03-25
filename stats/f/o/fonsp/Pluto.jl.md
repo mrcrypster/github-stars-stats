@@ -1,6 +1,6 @@
 # fonsp/Pluto.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4413 | 262 | 
 | 2023-03-23 | 4413 | 262 | 
 | 2023-03-22 | 4413 | 262 | 
 | 2023-03-21 | 4410 | 262 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 4376 | 261 | 
 | 2023-02-24 | 4375 | 261 | 
 | 2023-02-23 | 4373 | 261 | 
-| 2023-02-22 | 4374 | 261 | 
 

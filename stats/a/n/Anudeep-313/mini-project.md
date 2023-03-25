@@ -1,6 +1,6 @@
 # Anudeep-313/mini-project - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 20 | 35 | 
 | 2023-03-23 | 20 | 35 | 
 | 2023-03-22 | 20 | 35 | 
 | 2023-03-20 | 20 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 18 | 35 | 
 | 2023-02-24 | 18 | 35 | 
 | 2023-02-23 | 18 | 35 | 
-| 2023-02-22 | 18 | 35 | 
 

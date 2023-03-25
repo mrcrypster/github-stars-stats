@@ -1,6 +1,6 @@
 # EtherDream/QuickReader - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 158 | 4 | 
 | 2023-03-23 | 158 | 4 | 
 | 2023-03-22 | 158 | 4 | 
 | 2023-03-20 | 158 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 157 | 4 | 
 | 2023-02-24 | 157 | 4 | 
 | 2023-02-23 | 157 | 4 | 
-| 2023-02-22 | 157 | 4 | 
 

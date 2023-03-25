@@ -1,10 +1,10 @@
 # THUDM/GLM - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 128
+☋ Forks: 133
 
-★ Stars: 1005
+★ Stars: 1049
 
 [Open repository](https://github.com/THUDM/GLM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1049 | 133 | 
 | 2023-03-23 | 1005 | 128 | 
 | 2023-03-22 | 955 | 121 | 
 | 2023-03-20 | 909 | 114 | 

@@ -1,6 +1,6 @@
 # asdfugil/haxx - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 151 | 17 | 
 | 2023-03-23 | 151 | 17 | 
 | 2023-03-22 | 151 | 17 | 
 | 2023-03-20 | 151 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 150 | 17 | 
 | 2023-02-24 | 150 | 17 | 
 | 2023-02-23 | 150 | 17 | 
-| 2023-02-22 | 150 | 17 | 
 

@@ -1,10 +1,10 @@
 # this-is-bennyk/FNF-Benjine - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/this-is-bennyk/FNF-Benjine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 35 | 7 | 
 | 2023-03-22 | 34 | 7 | 
 | 2023-03-21 | 34 | 7 | 
 | 2023-03-19 | 34 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 33 | 7 | 
 | 2023-02-24 | 33 | 7 | 
 | 2023-02-23 | 33 | 7 | 
-| 2023-02-22 | 33 | 7 | 
 

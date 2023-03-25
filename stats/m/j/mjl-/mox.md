@@ -1,10 +1,10 @@
 # mjl-/mox - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 42
 
-★ Stars: 2430
+★ Stars: 2444
 
 [Open repository](https://github.com/mjl-/mox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2444 | 42 | 
 | 2023-03-22 | 2430 | 42 | 
 | 2023-03-21 | 2430 | 42 | 
 | 2023-03-19 | 2421 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1870 | 27 | 
 | 2023-02-24 | 1571 | 26 | 
 | 2023-02-23 | 502 | 8 | 
-| 2023-02-22 | 478 | 8 | 
 

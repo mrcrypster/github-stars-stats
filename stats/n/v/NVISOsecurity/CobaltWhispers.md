@@ -1,10 +1,10 @@
 # NVISOsecurity/CobaltWhispers - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 25
 
-★ Stars: 171
+★ Stars: 173
 
 [Open repository](https://github.com/NVISOsecurity/CobaltWhispers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 173 | 25 | 
 | 2023-03-23 | 171 | 25 | 
 | 2023-03-22 | 171 | 25 | 
 | 2023-03-20 | 171 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 164 | 24 | 
 | 2023-02-24 | 164 | 24 | 
 | 2023-02-23 | 164 | 24 | 
-| 2023-02-22 | 164 | 24 | 
 

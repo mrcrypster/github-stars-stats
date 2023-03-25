@@ -1,6 +1,6 @@
 # Shock9616/Phoenix - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 43 | 2 | 
 | 2023-03-22 | 43 | 2 | 
 | 2023-03-21 | 43 | 2 | 
 | 2023-03-20 | 43 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 42 | 2 | 
 | 2023-02-25 | 42 | 2 | 
 | 2023-02-24 | 42 | 2 | 
-| 2023-02-22 | 42 | 2 | 
 

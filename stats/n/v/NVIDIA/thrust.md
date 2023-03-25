@@ -1,10 +1,10 @@
 # NVIDIA/thrust - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 730
+☋ Forks: 733
 
-★ Stars: 4439
+★ Stars: 4441
 
 [Open repository](https://github.com/NVIDIA/thrust)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4441 | 733 | 
 | 2023-03-22 | 4439 | 730 | 
 | 2023-03-21 | 4434 | 730 | 
 | 2023-03-19 | 4433 | 730 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 4395 | 726 | 
 | 2023-02-25 | 4395 | 726 | 
 | 2023-02-23 | 4393 | 726 | 
-| 2023-02-22 | 4392 | 726 | 
 

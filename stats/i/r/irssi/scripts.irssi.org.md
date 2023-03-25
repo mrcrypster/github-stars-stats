@@ -1,6 +1,6 @@
 # irssi/scripts.irssi.org - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 482 | 241 | 
 | 2023-03-23 | 482 | 241 | 
 | 2023-03-22 | 482 | 241 | 
 | 2023-03-20 | 482 | 241 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 480 | 239 | 
 | 2023-02-25 | 480 | 239 | 
 | 2023-02-24 | 480 | 239 | 
-| 2023-02-22 | 480 | 239 | 
 

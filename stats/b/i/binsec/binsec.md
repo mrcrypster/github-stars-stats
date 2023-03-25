@@ -1,6 +1,6 @@
 # binsec/binsec - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 243 | 25 | 
 | 2023-03-23 | 243 | 25 | 
 | 2023-03-21 | 243 | 25 | 
 | 2023-03-20 | 243 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 234 | 24 | 
 | 2023-02-24 | 234 | 23 | 
 | 2023-02-23 | 234 | 23 | 
-| 2023-02-22 | 233 | 23 | 
 

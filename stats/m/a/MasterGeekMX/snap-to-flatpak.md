@@ -1,6 +1,6 @@
 # MasterGeekMX/snap-to-flatpak - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 61 | 9 | 
 | 2023-03-23 | 61 | 9 | 
 | 2023-03-22 | 61 | 9 | 
 | 2023-03-21 | 61 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 56 | 9 | 
 | 2023-02-24 | 56 | 9 | 
 | 2023-02-23 | 56 | 9 | 
-| 2023-02-22 | 56 | 9 | 
 

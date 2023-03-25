@@ -1,10 +1,10 @@
 # pengelana/blocklist - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 20
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/pengelana/blocklist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 206 | 20 | 
 | 2023-03-22 | 205 | 20 | 
 | 2023-03-21 | 205 | 21 | 
 | 2023-03-20 | 205 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 200 | 21 | 
 | 2023-02-25 | 200 | 21 | 
 | 2023-02-24 | 200 | 21 | 
-| 2023-02-22 | 200 | 21 | 
 

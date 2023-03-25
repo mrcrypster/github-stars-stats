@@ -1,10 +1,10 @@
 # emacs-straight/undo-tree - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/emacs-straight/undo-tree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4 | - | 
 | 2023-03-23 | 3 | - | 
 | 2023-03-21 | 3 | - | 
 | 2023-03-20 | 3 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2 | - | 
 | 2023-02-24 | 2 | - | 
 | 2023-02-23 | 2 | - | 
-| 2023-02-22 | 2 | - | 
 

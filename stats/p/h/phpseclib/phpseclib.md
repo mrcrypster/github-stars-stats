@@ -1,10 +1,10 @@
 # phpseclib/phpseclib - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 868
 
-★ Stars: 5000
+★ Stars: 5001
 
 [Open repository](https://github.com/phpseclib/phpseclib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 5001 | 868 | 
 | 2023-03-22 | 5000 | 868 | 
 | 2023-03-21 | 4996 | 866 | 
 | 2023-03-20 | 4997 | 866 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 4978 | 862 | 
 | 2023-02-24 | 4977 | 862 | 
 | 2023-02-23 | 4977 | 861 | 
-| 2023-02-22 | 4975 | 860 | 
 

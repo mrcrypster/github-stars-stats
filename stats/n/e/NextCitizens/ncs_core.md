@@ -1,10 +1,10 @@
 # NextCitizens/ncs_core - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 38
 
-★ Stars: 111
+★ Stars: 110
 
 [Open repository](https://github.com/NextCitizens/ncs_core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 110 | 38 | 
 | 2023-03-23 | 111 | 38 | 
 | 2023-03-22 | 111 | 38 | 
 | 2023-03-20 | 111 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 111 | 39 | 
 | 2023-02-25 | 111 | 39 | 
 | 2023-02-23 | 111 | 39 | 
-| 2023-02-22 | 110 | 39 | 
 

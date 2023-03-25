@@ -1,10 +1,10 @@
 # hyperf/hyperf - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1047
+☋ Forks: 1048
 
-★ Stars: 5116
+★ Stars: 5118
 
 [Open repository](https://github.com/hyperf/hyperf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 5118 | 1048 | 
 | 2023-03-23 | 5116 | 1047 | 
 | 2023-03-21 | 5113 | 1047 | 
 | 2023-03-20 | 5113 | 1047 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 5066 | 1034 | 
 | 2023-02-24 | 5064 | 1034 | 
 | 2023-02-23 | 5061 | 1034 | 
-| 2023-02-22 | 5057 | 1031 | 
 

@@ -1,6 +1,6 @@
 # MicrosoftEdge/WebView2Samples - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 409
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 650 | 409 | 
 | 2023-03-23 | 650 | 409 | 
 | 2023-03-21 | 650 | 409 | 
 | 2023-03-20 | 650 | 409 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 644 | 399 | 
 | 2023-02-25 | 644 | 399 | 
 | 2023-02-24 | 642 | 398 | 
-| 2023-02-23 | 641 | 398 | 
 

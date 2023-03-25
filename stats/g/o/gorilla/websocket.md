@@ -1,10 +1,10 @@
 # gorilla/websocket - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 3260
+☋ Forks: 3263
 
-★ Stars: 18931
+★ Stars: 18938
 
 [Open repository](https://github.com/gorilla/websocket)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 18938 | 3263 | 
 | 2023-03-22 | 18931 | 3260 | 
 | 2023-03-21 | 18929 | 3259 | 
 | 2023-03-20 | 18924 | 3257 | 

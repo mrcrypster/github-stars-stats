@@ -1,10 +1,10 @@
 # activepieces/activepieces - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 67
 
-★ Stars: 1672
+★ Stars: 1687
 
 [Open repository](https://github.com/activepieces/activepieces)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1687 | 67 | 
 | 2023-03-22 | 1672 | 67 | 
 | 2023-03-21 | 1660 | 67 | 
 | 2023-03-20 | 1653 | 67 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 1389 | 53 | 
 | 2023-02-25 | 1383 | 53 | 
 | 2023-02-24 | 1369 | 53 | 
-| 2023-02-23 | 1361 | 53 | 
 

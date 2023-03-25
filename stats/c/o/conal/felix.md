@@ -1,10 +1,10 @@
 # conal/felix - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/conal/felix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 27 | 1 | 
 | 2023-03-23 | 26 | 1 | 
 | 2023-03-22 | 26 | 1 | 
 | 2023-03-21 | 26 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 23 | 1 | 
 | 2023-02-25 | 23 | 1 | 
 | 2023-02-24 | 23 | 1 | 
-| 2023-02-23 | 23 | 1 | 
 

@@ -1,10 +1,10 @@
 # m3g/JuliaNotes.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 111
+★ Stars: 113
 
 [Open repository](https://github.com/m3g/JuliaNotes.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 113 | 8 | 
 | 2023-03-22 | 111 | 8 | 
 | 2023-03-21 | 109 | 8 | 
 | 2023-03-19 | 108 | 8 | 

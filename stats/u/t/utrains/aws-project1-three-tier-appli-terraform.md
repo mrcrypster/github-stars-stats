@@ -1,6 +1,6 @@
 # utrains/aws-project1-three-tier-appli-terraform - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1 | 71 | 
 | 2023-03-23 | 1 | 71 | 
 | 2023-03-21 | 1 | 71 | 
 | 2023-03-20 | 1 | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1 | 69 | 
 | 2023-02-24 | 1 | 69 | 
 | 2023-02-23 | 1 | 69 | 
-| 2023-02-22 | 1 | 69 | 
 

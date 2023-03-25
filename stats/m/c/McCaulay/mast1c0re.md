@@ -1,6 +1,6 @@
 # McCaulay/mast1c0re - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 96 | 7 | 
 | 2023-03-22 | 96 | 7 | 
 | 2023-03-21 | 95 | 7 | 
 | 2023-03-19 | 94 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 71 | 6 | 
 | 2023-02-24 | 70 | 6 | 
 | 2023-02-23 | 70 | 6 | 
-| 2023-02-22 | 65 | 6 | 
 

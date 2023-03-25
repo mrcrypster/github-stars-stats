@@ -1,10 +1,10 @@
 # actions/checkout - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1252
+☋ Forks: 1254
 
-★ Stars: 3844
+★ Stars: 3845
 
 [Open repository](https://github.com/actions/checkout)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3845 | 1254 | 
 | 2023-03-23 | 3844 | 1252 | 
 | 2023-03-21 | 3840 | 1246 | 
 | 2023-03-20 | 3837 | 1245 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 3741 | 1224 | 
 | 2023-02-24 | 3733 | 1224 | 
 | 2023-02-23 | 3724 | 1221 | 
-| 2023-02-22 | 3722 | 1219 | 
 

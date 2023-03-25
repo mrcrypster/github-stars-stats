@@ -1,10 +1,10 @@
 # arttor/helmify - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 63
 
-★ Stars: 622
+★ Stars: 634
 
 [Open repository](https://github.com/arttor/helmify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 634 | 63 | 
 | 2023-03-23 | 622 | 63 | 
 | 2023-03-22 | 622 | 63 | 
 | 2023-03-20 | 621 | 63 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 584 | 60 | 
 | 2023-02-25 | 583 | 60 | 
 | 2023-02-24 | 582 | 60 | 
-| 2023-02-22 | 581 | 60 | 
 

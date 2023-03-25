@@ -1,10 +1,10 @@
 # knative/serving - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1019
+☋ Forks: 1021
 
-★ Stars: 4909
+★ Stars: 4907
 
 [Open repository](https://github.com/knative/serving)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4907 | 1021 | 
 | 2023-03-23 | 4909 | 1019 | 
 | 2023-03-22 | 4909 | 1018 | 
 | 2023-03-20 | 4908 | 1018 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 4878 | 1013 | 
 | 2023-02-24 | 4876 | 1012 | 
 | 2023-02-23 | 4874 | 1010 | 
-| 2023-02-22 | 4874 | 1011 | 
 

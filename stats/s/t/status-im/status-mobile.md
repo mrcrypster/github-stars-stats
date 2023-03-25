@@ -1,10 +1,10 @@
 # status-im/status-mobile - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 938
 
-★ Stars: 3640
+★ Stars: 3641
 
 [Open repository](https://github.com/status-im/status-mobile)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3641 | 938 | 
+| 2023-03-24 | 3641 | 938 | 
 | 2023-03-23 | 3640 | 938 | 
 | 2023-03-22 | 3640 | 938 | 
 | 2023-03-21 | 3637 | 937 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 3609 | 936 | 
 | 2023-02-24 | 3608 | 936 | 
 | 2023-02-23 | 3608 | 936 | 
-| 2023-02-22 | 3607 | 936 | 
 

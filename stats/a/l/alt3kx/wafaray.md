@@ -1,6 +1,6 @@
 # alt3kx/wafaray - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 74 | 9 | 
 | 2023-03-23 | 74 | 9 | 
 | 2023-03-22 | 74 | 9 | 
 | 2023-03-21 | 74 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 73 | 9 | 
 | 2023-02-24 | 73 | 9 | 
 | 2023-02-23 | 73 | 9 | 
-| 2023-02-22 | 73 | 9 | 
 

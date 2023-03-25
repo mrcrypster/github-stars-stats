@@ -1,6 +1,6 @@
 # jacany/nosbin - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 31 | 1 | 
 | 2023-03-22 | 31 | 1 | 
 | 2023-03-21 | 31 | 1 | 
 | 2023-03-19 | 30 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 29 | 1 | 
 | 2023-02-25 | 27 | 1 | 
 | 2023-02-24 | 27 | 1 | 
-| 2023-02-22 | 27 | 1 | 
 

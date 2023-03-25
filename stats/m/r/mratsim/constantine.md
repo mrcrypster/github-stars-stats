@@ -1,10 +1,10 @@
 # mratsim/constantine - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 15
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/mratsim/constantine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 156 | 15 | 
 | 2023-03-22 | 155 | 15 | 
 | 2023-03-21 | 155 | 15 | 
 | 2023-03-20 | 155 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 150 | 14 | 
 | 2023-02-24 | 150 | 14 | 
 | 2023-02-23 | 148 | 14 | 
-| 2023-02-22 | 148 | 14 | 
 

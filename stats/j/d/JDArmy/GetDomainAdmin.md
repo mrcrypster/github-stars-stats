@@ -1,10 +1,10 @@
 # JDArmy/GetDomainAdmin - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 565
+★ Stars: 566
 
 [Open repository](https://github.com/JDArmy/GetDomainAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 566 | 97 | 
 | 2023-03-22 | 565 | 96 | 
 | 2023-03-21 | 565 | 96 | 
 | 2023-03-20 | 564 | 96 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 556 | 95 | 
 | 2023-02-24 | 556 | 95 | 
 | 2023-02-23 | 556 | 95 | 
-| 2023-02-22 | 556 | 94 | 
 

@@ -1,10 +1,10 @@
 # GodotModding/godot-mod-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/GodotModding/godot-mod-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 19 | 2 | 
 | 2023-03-22 | 18 | 2 | 
 | 2023-03-21 | 18 | 2 | 
 | 2023-03-20 | 18 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 14 | 2 | 
 | 2023-02-25 | 13 | 2 | 
 | 2023-02-24 | 13 | 2 | 
-| 2023-02-22 | 13 | 2 | 
 

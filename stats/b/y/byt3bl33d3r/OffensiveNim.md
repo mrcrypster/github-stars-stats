@@ -1,10 +1,10 @@
 # byt3bl33d3r/OffensiveNim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 290
 
-★ Stars: 2201
+★ Stars: 2202
 
 [Open repository](https://github.com/byt3bl33d3r/OffensiveNim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2202 | 290 | 
 | 2023-03-23 | 2201 | 290 | 
 | 2023-03-22 | 2199 | 290 | 
 | 2023-03-21 | 2197 | 290 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2155 | 282 | 
 | 2023-02-24 | 2151 | 282 | 
 | 2023-02-23 | 2151 | 283 | 
-| 2023-02-22 | 2148 | 281 | 
 

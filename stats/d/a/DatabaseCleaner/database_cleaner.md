@@ -1,8 +1,8 @@
 # DatabaseCleaner/database_cleaner - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 488
+☋ Forks: 487
 
 ★ Stars: 2852
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2852 | 487 | 
 | 2023-03-23 | 2852 | 488 | 
 | 2023-03-22 | 2851 | 488 | 
 | 2023-03-21 | 2850 | 488 | 

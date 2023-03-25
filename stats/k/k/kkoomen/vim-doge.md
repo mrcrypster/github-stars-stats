@@ -1,10 +1,10 @@
 # kkoomen/vim-doge - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 38
 
-★ Stars: 835
+★ Stars: 836
 
 [Open repository](https://github.com/kkoomen/vim-doge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 836 | 38 | 
 | 2023-03-23 | 835 | 38 | 
 | 2023-03-21 | 832 | 38 | 
 | 2023-03-20 | 832 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 826 | 38 | 
 | 2023-02-24 | 826 | 38 | 
 | 2023-02-23 | 825 | 38 | 
-| 2023-02-22 | 824 | 38 | 
 

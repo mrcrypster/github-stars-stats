@@ -1,6 +1,6 @@
 # MizzyPD/Pokemon-Daybreak - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 10 | 17 | 
 | 2023-03-23 | 10 | 17 | 
 | 2023-03-21 | 10 | 17 | 
 | 2023-03-20 | 10 | 16 | 

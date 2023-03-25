@@ -1,8 +1,8 @@
 # Azure/autorest - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 734
+☋ Forks: 735
 
 ★ Stars: 4145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4145 | 735 | 
 | 2023-03-22 | 4145 | 734 | 
 | 2023-03-21 | 4145 | 734 | 
 | 2023-03-20 | 4142 | 734 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 4117 | 732 | 
 | 2023-02-24 | 4116 | 732 | 
 | 2023-02-23 | 4116 | 732 | 
-| 2023-02-22 | 4116 | 732 | 
 

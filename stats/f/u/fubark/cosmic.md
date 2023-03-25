@@ -1,10 +1,10 @@
 # fubark/cosmic - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 11
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/fubark/cosmic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 281 | 11 | 
 | 2023-03-23 | 280 | 11 | 
 | 2023-03-21 | 278 | 11 | 
 | 2023-03-20 | 276 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 272 | 11 | 
 | 2023-02-24 | 271 | 11 | 
 | 2023-02-23 | 269 | 10 | 
-| 2023-02-22 | 269 | 10 | 
 

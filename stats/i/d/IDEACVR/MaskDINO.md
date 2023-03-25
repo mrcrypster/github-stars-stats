@@ -1,10 +1,10 @@
 # IDEACVR/MaskDINO - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 31
 
-★ Stars: 507
+★ Stars: 513
 
 [Open repository](https://github.com/IDEACVR/MaskDINO)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 513 | 31 | 
 | 2023-03-23 | 507 | 31 | 
 | 2023-03-21 | 504 | 31 | 
 | 2023-03-20 | 497 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 474 | 26 | 
 | 2023-02-24 | 473 | 26 | 
 | 2023-02-23 | 472 | 26 | 
-| 2023-02-22 | 470 | 26 | 
 

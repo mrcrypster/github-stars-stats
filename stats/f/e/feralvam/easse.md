@@ -1,10 +1,10 @@
 # feralvam/easse - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 33
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/feralvam/easse)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 127 | 33 | 
 | 2023-03-23 | 126 | 33 | 
 | 2023-03-22 | 126 | 33 | 
 | 2023-03-20 | 126 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 126 | 33 | 
 | 2023-02-24 | 126 | 33 | 
 | 2023-02-23 | 126 | 33 | 
-| 2023-02-22 | 126 | 33 | 
 

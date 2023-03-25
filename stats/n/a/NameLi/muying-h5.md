@@ -1,10 +1,10 @@
 # NameLi/muying-h5 - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 16
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/NameLi/muying-h5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 68 | 16 | 
 | 2023-03-22 | 67 | 16 | 
 | 2023-03-21 | 67 | 16 | 
 | 2023-03-19 | 67 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 66 | 16 | 
 | 2023-02-24 | 66 | 16 | 
 | 2023-02-23 | 66 | 16 | 
-| 2023-02-22 | 66 | 16 | 
 

@@ -1,10 +1,10 @@
 # ArbitrumFoundation/sybil-detection - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 23
 
-★ Stars: 140
+★ Stars: 147
 
 [Open repository](https://github.com/ArbitrumFoundation/sybil-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 147 | 23 | 
 | 2023-03-23 | 140 | 23 | 
 | 2023-03-22 | 137 | 22 | 
 | 2023-03-21 | 130 | 20 | 

@@ -1,10 +1,10 @@
 # upgundecha/howtheysre - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 666
+☋ Forks: 668
 
-★ Stars: 8236
+★ Stars: 8254
 
 [Open repository](https://github.com/upgundecha/howtheysre)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8254 | 668 | 
 | 2023-03-23 | 8236 | 666 | 
 | 2023-03-21 | 8230 | 665 | 
 | 2023-03-20 | 8227 | 664 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 8183 | 651 | 
 | 2023-02-24 | 8182 | 651 | 
 | 2023-02-23 | 8179 | 650 | 
-| 2023-02-22 | 8177 | 650 | 
 

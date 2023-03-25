@@ -1,6 +1,6 @@
 # susam/hello - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 137 | 4 | 
 | 2023-03-23 | 137 | 4 | 
 | 2023-03-22 | 137 | 4 | 
 | 2023-03-21 | 137 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 136 | 4 | 
 | 2023-02-24 | 136 | 4 | 
 | 2023-02-23 | 136 | 4 | 
-| 2023-02-22 | 136 | 4 | 
 

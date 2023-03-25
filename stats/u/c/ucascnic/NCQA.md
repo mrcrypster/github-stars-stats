@@ -1,10 +1,10 @@
 # ucascnic/NCQA - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/ucascnic/NCQA)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 32 | - | 
 | 2023-03-23 | 31 | - | 
 

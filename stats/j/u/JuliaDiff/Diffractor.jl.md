@@ -1,10 +1,10 @@
 # JuliaDiff/Diffractor.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 27
 
-★ Stars: 381
+★ Stars: 380
 
 [Open repository](https://github.com/JuliaDiff/Diffractor.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 380 | 27 | 
 | 2023-03-22 | 381 | 27 | 
 | 2023-03-21 | 381 | 26 | 
 | 2023-03-20 | 381 | 26 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 379 | 24 | 
 | 2023-02-24 | 379 | 24 | 
 | 2023-02-23 | 378 | 24 | 
-| 2023-02-22 | 379 | 24 | 
 

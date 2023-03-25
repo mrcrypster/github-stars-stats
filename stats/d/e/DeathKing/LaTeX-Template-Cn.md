@@ -1,8 +1,8 @@
 # DeathKing/LaTeX-Template-Cn - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 893
+☋ Forks: 892
 
 ★ Stars: 1457
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1457 | 892 | 
 | 2023-03-22 | 1457 | 893 | 
 | 2023-03-21 | 1457 | 893 | 
 | 2023-03-20 | 1456 | 892 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1447 | 893 | 
 | 2023-02-24 | 1446 | 893 | 
 | 2023-02-23 | 1446 | 893 | 
-| 2023-02-22 | 1446 | 893 | 
 

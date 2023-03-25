@@ -1,6 +1,6 @@
 # usualtool/framework - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 276 | 38 | 
 | 2023-03-22 | 276 | 38 | 
 | 2023-03-21 | 275 | 38 | 
 | 2023-03-19 | 274 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 261 | 37 | 
 | 2023-02-24 | 261 | 37 | 
 | 2023-02-23 | 260 | 37 | 
-| 2023-02-22 | 259 | 37 | 
 

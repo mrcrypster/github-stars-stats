@@ -1,6 +1,6 @@
 # vyashemang/flask-salary-predictor - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 82 | 135 | 
 | 2023-03-23 | 82 | 135 | 
 | 2023-03-21 | 82 | 135 | 
 | 2023-03-20 | 82 | 135 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 82 | 134 | 
 | 2023-02-24 | 82 | 134 | 
 | 2023-02-23 | 82 | 134 | 
-| 2023-02-22 | 82 | 134 | 
 

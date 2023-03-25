@@ -1,6 +1,6 @@
 # with-backed/NFTEDA - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 38 | 3 | 
 | 2023-03-23 | 38 | 3 | 
 | 2023-03-22 | 38 | 3 | 
 | 2023-03-21 | 38 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 30 | 2 | 
 | 2023-02-24 | 29 | 2 | 
 | 2023-02-23 | 29 | 2 | 
-| 2023-02-22 | 29 | 2 | 
 

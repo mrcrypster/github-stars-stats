@@ -1,6 +1,6 @@
 # AsFLY-902/RDP_AZURE - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | - | 13 | 
 | 2023-03-23 | - | 13 | 
 | 2023-03-22 | - | 13 | 
 | 2023-03-21 | - | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | - | 10 | 
 | 2023-02-25 | - | 10 | 
 | 2023-02-23 | - | 10 | 
-| 2023-02-22 | - | 10 | 
 

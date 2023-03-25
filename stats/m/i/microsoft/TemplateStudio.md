@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 24
 
 ☋ Forks: 440
 
-★ Stars: 2410
+★ Stars: 2411
 
 [Open repository](https://github.com/microsoft/TemplateStudio)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 2410 | 440 | 
+| 2023-03-24 | 2411 | 440 | 
 | 2023-03-23 | 2410 | 440 | 
 | 2023-03-22 | 2409 | 440 | 
 | 2023-03-21 | 2409 | 440 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-25 | 2399 | 439 | 
 | 2023-02-24 | 2398 | 439 | 
 | 2023-02-23 | 2395 | 439 | 
-| 2023-02-22 | 2395 | 439 | 
 

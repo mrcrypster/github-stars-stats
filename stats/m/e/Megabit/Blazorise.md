@@ -1,6 +1,6 @@
 # Megabit/Blazorise - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 485
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2715 | 485 | 
 | 2023-03-23 | 2715 | 485 | 
 | 2023-03-21 | 2715 | 484 | 
 | 2023-03-20 | 2715 | 484 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 2680 | 476 | 
 | 2023-02-24 | 2680 | 477 | 
 | 2023-02-23 | 2679 | 478 | 
-| 2023-02-22 | 2679 | 477 | 
 

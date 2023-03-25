@@ -1,6 +1,6 @@
 # nikomatsakis/a-mir-formality - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 182 | 19 | 
 | 2023-03-23 | 182 | 19 | 
 | 2023-03-22 | 182 | 19 | 
 | 2023-03-20 | 182 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 169 | 19 | 
 | 2023-02-24 | 169 | 19 | 
 | 2023-02-23 | 169 | 19 | 
-| 2023-02-22 | 169 | 19 | 
 

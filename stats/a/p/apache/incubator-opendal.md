@@ -1,10 +1,10 @@
 # apache/incubator-opendal - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 946
+★ Stars: 972
 
 [Open repository](https://github.com/apache/incubator-opendal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 972 | 117 | 
 | 2023-03-23 | 946 | 116 | 
 | 2023-03-21 | 935 | 115 | 
 | 2023-03-20 | 913 | 112 | 

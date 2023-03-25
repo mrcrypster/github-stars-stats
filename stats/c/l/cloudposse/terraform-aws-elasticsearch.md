@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-elasticsearch - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 225
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 200 | 225 | 
 | 2023-03-23 | 200 | 225 | 
 | 2023-03-22 | 200 | 224 | 
 | 2023-03-21 | 200 | 223 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 200 | 219 | 
 | 2023-02-24 | 200 | 220 | 
 | 2023-02-23 | 200 | 220 | 
-| 2023-02-22 | 200 | 220 | 
 

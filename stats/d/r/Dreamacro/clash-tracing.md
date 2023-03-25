@@ -1,10 +1,10 @@
 # Dreamacro/clash-tracing - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 71
 
-★ Stars: 783
+★ Stars: 784
 
 [Open repository](https://github.com/Dreamacro/clash-tracing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 784 | 71 | 
 | 2023-03-23 | 783 | 71 | 
 | 2023-03-21 | 782 | 71 | 
 | 2023-03-20 | 782 | 70 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 774 | 70 | 
 | 2023-02-24 | 774 | 70 | 
 | 2023-02-23 | 773 | 70 | 
-| 2023-02-22 | 773 | 70 | 
 

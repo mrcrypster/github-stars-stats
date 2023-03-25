@@ -1,6 +1,6 @@
 # Foadsf/Cmathtuts - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 360 | 49 | 
 | 2023-03-23 | 360 | 49 | 
 | 2023-03-21 | 361 | 49 | 
 | 2023-03-20 | 360 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 360 | 49 | 
 | 2023-02-24 | 360 | 49 | 
 | 2023-02-23 | 360 | 49 | 
-| 2023-02-22 | 360 | 49 | 
 

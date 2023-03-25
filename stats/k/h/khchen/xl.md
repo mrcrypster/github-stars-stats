@@ -1,6 +1,6 @@
 # khchen/xl - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 43 | - | 
 | 2023-03-23 | 43 | - | 
 | 2023-03-22 | 43 | - | 
 | 2023-03-20 | 43 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 38 | - | 
 | 2023-02-24 | 38 | - | 
 | 2023-02-23 | 38 | - | 
-| 2023-02-22 | 38 | - | 
 

@@ -1,6 +1,6 @@
 # haoxie666/HxMinerProxy - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 161 | 44 | 
 | 2023-03-23 | 161 | 44 | 
 | 2023-03-22 | 161 | 44 | 
 | 2023-03-20 | 161 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 160 | 44 | 
 | 2023-02-25 | 160 | 44 | 
 | 2023-02-24 | 160 | 44 | 
-| 2023-02-23 | 160 | 44 | 
 

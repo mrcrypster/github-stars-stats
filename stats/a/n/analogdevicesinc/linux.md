@@ -1,8 +1,8 @@
 # analogdevicesinc/linux - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 709
+☋ Forks: 711
 
 ★ Stars: 326
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 326 | 711 | 
 | 2023-03-23 | 326 | 709 | 
 | 2023-03-21 | 326 | 709 | 
 | 2023-03-20 | 326 | 708 | 

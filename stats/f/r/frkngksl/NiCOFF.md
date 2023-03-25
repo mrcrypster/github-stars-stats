@@ -1,10 +1,10 @@
 # frkngksl/NiCOFF - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 19
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/frkngksl/NiCOFF)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 142 | 19 | 
 | 2023-03-22 | 141 | 19 | 
 | 2023-03-21 | 141 | 19 | 
 | 2023-03-20 | 141 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 140 | 18 | 
 | 2023-02-24 | 140 | 17 | 
 | 2023-02-23 | 140 | 17 | 
-| 2023-02-22 | 139 | 17 | 
 

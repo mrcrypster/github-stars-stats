@@ -1,10 +1,10 @@
 # GitHubDaily/GitHubDaily - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 2354
+☋ Forks: 2383
 
-★ Stars: 20584
+★ Stars: 20832
 
 [Open repository](https://github.com/GitHubDaily/GitHubDaily)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 20832 | 2383 | 
+| 2023-03-24 | 20828 | 2382 | 
 | 2023-03-23 | 20584 | 2354 | 
 | 2023-03-21 | 20449 | 2335 | 
 | 2023-03-20 | 20368 | 2327 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 19295 | 2212 | 
 | 2023-02-24 | 19290 | 2211 | 
 | 2023-02-23 | 19277 | 2212 | 
-| 2023-02-22 | 19269 | 2212 | 
 

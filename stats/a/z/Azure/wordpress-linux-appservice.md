@@ -1,10 +1,10 @@
 # Azure/wordpress-linux-appservice - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 31
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/Azure/wordpress-linux-appservice)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 30 | 31 | 
 | 2023-03-23 | 29 | 31 | 
 | 2023-03-21 | 29 | 31 | 
 | 2023-03-20 | 28 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 26 | 28 | 
 | 2023-02-24 | 26 | 28 | 
 | 2023-02-23 | 26 | 28 | 
-| 2023-02-22 | 26 | 28 | 
 

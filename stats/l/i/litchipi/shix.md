@@ -1,10 +1,10 @@
 # litchipi/shix - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/litchipi/shix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 13 | - | 
 | 2023-03-23 | 12 | - | 
 | 2023-03-21 | 12 | - | 
 | 2023-03-20 | 12 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 13 | - | 
 | 2023-02-24 | 13 | - | 
 | 2023-02-23 | 13 | - | 
-| 2023-02-22 | 13 | - | 
 

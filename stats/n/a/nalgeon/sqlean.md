@@ -1,6 +1,6 @@
 # nalgeon/sqlean - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2804 | 79 | 
 | 2023-03-23 | 2804 | 79 | 
 | 2023-03-21 | 2802 | 79 | 
 | 2023-03-20 | 2800 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2178 | 74 | 
 | 2023-02-24 | 2179 | 74 | 
 | 2023-02-23 | 2179 | 74 | 
-| 2023-02-22 | 2176 | 74 | 
 

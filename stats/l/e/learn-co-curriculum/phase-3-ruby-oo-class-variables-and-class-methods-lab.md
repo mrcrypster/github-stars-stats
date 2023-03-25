@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-oo-class-variables-and-class-methods-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 2564
+☋ Forks: 2566
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | - | 2566 | 
 | 2023-03-23 | - | 2564 | 
 | 2023-03-21 | - | 2557 | 
 | 2023-03-20 | - | 2556 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | - | 2526 | 
 | 2023-02-25 | - | 2526 | 
 | 2023-02-24 | - | 2525 | 
-| 2023-02-23 | - | 2520 | 
 

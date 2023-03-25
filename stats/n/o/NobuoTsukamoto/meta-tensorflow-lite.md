@@ -1,10 +1,10 @@
 # NobuoTsukamoto/meta-tensorflow-lite - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 13
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/NobuoTsukamoto/meta-tensorflow-lite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 21 | 13 | 
 | 2023-03-23 | 20 | 13 | 
 | 2023-03-21 | 19 | 13 | 
 | 2023-03-20 | 19 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 19 | 13 | 
 | 2023-02-25 | 19 | 13 | 
 | 2023-02-24 | 19 | 13 | 
-| 2023-02-23 | 19 | 13 | 
 

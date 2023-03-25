@@ -1,10 +1,10 @@
 # fgsect/FitM - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 17
 
-★ Stars: 259
+★ Stars: 258
 
 [Open repository](https://github.com/fgsect/FitM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 258 | 17 | 
 | 2023-03-22 | 259 | 17 | 
 | 2023-03-21 | 258 | 17 | 
 | 2023-03-20 | 258 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 257 | 17 | 
 | 2023-02-24 | 257 | 17 | 
 | 2023-02-23 | 257 | 17 | 
-| 2023-02-22 | 257 | 17 | 
 

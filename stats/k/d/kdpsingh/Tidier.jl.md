@@ -1,10 +1,10 @@
 # kdpsingh/Tidier.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
-★ Stars: 238
+★ Stars: 241
 
 [Open repository](https://github.com/kdpsingh/Tidier.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 241 | 7 | 
 | 2023-03-23 | 238 | 7 | 
 | 2023-03-22 | 238 | 7 | 
 | 2023-03-21 | 237 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 133 | 5 | 
 | 2023-02-24 | 133 | 5 | 
 | 2023-02-23 | 131 | 5 | 
-| 2023-02-22 | 130 | 5 | 
 

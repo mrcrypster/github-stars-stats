@@ -1,10 +1,10 @@
 # ClojureHaxe/ClojureHaxe - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/ClojureHaxe/ClojureHaxe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 61 | 2 | 
 | 2023-03-23 | 60 | 2 | 
 | 2023-03-21 | 59 | 2 | 
 | 2023-03-20 | 59 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 58 | 2 | 
 | 2023-02-25 | 58 | 2 | 
 | 2023-02-24 | 58 | 2 | 
-| 2023-02-22 | 58 | 2 | 
 

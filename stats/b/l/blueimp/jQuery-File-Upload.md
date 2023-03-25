@@ -1,10 +1,10 @@
 # blueimp/jQuery-File-Upload - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 8167
+☋ Forks: 8165
 
-★ Stars: 31048
+★ Stars: 31045
 
 [Open repository](https://github.com/blueimp/jQuery-File-Upload)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 31045 | 8165 | 
 | 2023-03-23 | 31048 | 8167 | 
 | 2023-03-21 | 31048 | 8166 | 
 | 2023-03-20 | 31048 | 8166 | 

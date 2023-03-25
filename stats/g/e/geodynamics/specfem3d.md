@@ -1,6 +1,6 @@
 # geodynamics/specfem3d - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 298 | 212 | 
 | 2023-03-23 | 298 | 212 | 
 | 2023-03-21 | 298 | 212 | 
 | 2023-03-20 | 298 | 212 | 

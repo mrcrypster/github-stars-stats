@@ -1,6 +1,6 @@
 # mrluanma/chisel-heroku - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 57 | 116 | 
 | 2023-03-23 | 57 | 116 | 
 | 2023-03-22 | 57 | 116 | 
 | 2023-03-20 | 57 | 116 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 57 | 116 | 
 | 2023-02-25 | 57 | 116 | 
 | 2023-02-24 | 57 | 116 | 
-| 2023-02-22 | 57 | 116 | 
 

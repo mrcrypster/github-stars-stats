@@ -1,10 +1,10 @@
 # zhengbangbo/chat-simplifier - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 39
 
-★ Stars: 455
+★ Stars: 458
 
 [Open repository](https://github.com/zhengbangbo/chat-simplifier)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 458 | 39 | 
 | 2023-03-23 | 455 | 39 | 
 | 2023-03-21 | 452 | 39 | 
 | 2023-03-20 | 450 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 398 | 30 | 
 | 2023-02-24 | 397 | 31 | 
 | 2023-02-23 | 395 | 31 | 
-| 2023-02-22 | 387 | 29 | 
 

@@ -1,10 +1,10 @@
 # 521xueweihan/git-tips - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 3183
+☋ Forks: 3185
 
-★ Stars: 14876
+★ Stars: 14877
 
 [Open repository](https://github.com/521xueweihan/git-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 14877 | 3185 | 
 | 2023-03-23 | 14876 | 3183 | 
 | 2023-03-21 | 14874 | 3183 | 
 | 2023-03-20 | 14869 | 3182 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 14670 | 3178 | 
 | 2023-02-24 | 14670 | 3178 | 
 | 2023-02-23 | 14668 | 3178 | 
-| 2023-02-22 | 14667 | 3176 | 
 

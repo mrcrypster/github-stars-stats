@@ -1,10 +1,10 @@
 # Authing/Authing - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 69
 
-★ Stars: 958
+★ Stars: 961
 
 [Open repository](https://github.com/Authing/Authing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 961 | 69 | 
 | 2023-03-22 | 958 | 69 | 
 | 2023-03-21 | 958 | 69 | 
 | 2023-03-20 | 958 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 954 | 69 | 
 | 2023-02-25 | 954 | 69 | 
 | 2023-02-24 | 954 | 69 | 
-| 2023-02-22 | 953 | 69 | 
 

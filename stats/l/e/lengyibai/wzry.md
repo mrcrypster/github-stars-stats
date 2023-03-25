@@ -1,10 +1,10 @@
 # lengyibai/wzry - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/lengyibai/wzry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 121 | 7 | 
 | 2023-03-23 | 120 | 7 | 
 | 2023-03-21 | 119 | 6 | 
 | 2023-03-20 | 118 | 6 | 

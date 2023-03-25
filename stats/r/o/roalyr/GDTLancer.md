@@ -1,10 +1,10 @@
 # roalyr/GDTLancer - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/roalyr/GDTLancer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 49 | 3 | 
 | 2023-03-22 | 48 | 3 | 
 | 2023-03-21 | 48 | 3 | 
 | 2023-03-20 | 48 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 46 | 1 | 
 | 2023-02-24 | 46 | 1 | 
 | 2023-02-23 | 46 | 1 | 
-| 2023-02-22 | 46 | 1 | 
 

@@ -1,10 +1,10 @@
 # corundum/corundum - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 276
 
-★ Stars: 1081
+★ Stars: 1083
 
 [Open repository](https://github.com/corundum/corundum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1083 | 276 | 
 | 2023-03-22 | 1081 | 276 | 
 | 2023-03-21 | 1078 | 275 | 
 | 2023-03-20 | 1075 | 274 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1063 | 271 | 
 | 2023-02-24 | 1062 | 271 | 
 | 2023-02-23 | 1061 | 271 | 
-| 2023-02-22 | 1061 | 271 | 
 

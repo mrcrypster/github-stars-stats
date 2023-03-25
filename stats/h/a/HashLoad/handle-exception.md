@@ -1,6 +1,6 @@
 # HashLoad/handle-exception - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 28 | 15 | 
 | 2023-03-22 | 28 | 15 | 
 | 2023-03-21 | 28 | 15 | 
 | 2023-03-20 | 28 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 28 | 15 | 
 | 2023-02-24 | 28 | 15 | 
 | 2023-02-23 | 28 | 15 | 
-| 2023-02-22 | 28 | 15 | 
 

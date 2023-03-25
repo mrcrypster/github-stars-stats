@@ -1,10 +1,10 @@
 # NVlabs/GLAMR - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 25
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/NVlabs/GLAMR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 278 | 25 | 
 | 2023-03-23 | 277 | 25 | 
 | 2023-03-21 | 277 | 25 | 
 | 2023-03-20 | 277 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 274 | 24 | 
 | 2023-02-25 | 274 | 24 | 
 | 2023-02-23 | 274 | 24 | 
-| 2023-02-22 | 274 | 24 | 
 

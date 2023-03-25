@@ -1,6 +1,6 @@
 # velor2012/lookbusy-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 68 | 29 | 
 | 2023-03-23 | 68 | 29 | 
 | 2023-03-22 | 67 | 29 | 
 | 2023-03-20 | 67 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 45 | 23 | 
 | 2023-02-24 | 45 | 23 | 
 | 2023-02-23 | 45 | 23 | 
-| 2023-02-22 | 45 | 23 | 
 

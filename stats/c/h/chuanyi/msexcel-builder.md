@@ -1,6 +1,6 @@
 # chuanyi/msexcel-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 187 | 131 | 
 | 2023-03-23 | 187 | 131 | 
 | 2023-03-22 | 187 | 131 | 
 | 2023-03-20 | 187 | 132 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 188 | 133 | 
 | 2023-02-24 | 188 | 133 | 
 | 2023-02-23 | 188 | 133 | 
-| 2023-02-22 | 188 | 133 | 
 

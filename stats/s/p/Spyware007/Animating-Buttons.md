@@ -1,6 +1,6 @@
 # Spyware007/Animating-Buttons - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 60 | 145 | 
 | 2023-03-22 | 60 | 145 | 
 | 2023-03-21 | 60 | 145 | 
 | 2023-03-19 | 60 | 145 | 

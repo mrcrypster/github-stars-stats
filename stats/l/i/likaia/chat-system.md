@@ -1,10 +1,10 @@
 # likaia/chat-system - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 139
 
-★ Stars: 535
+★ Stars: 536
 
 [Open repository](https://github.com/likaia/chat-system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 536 | 139 | 
 | 2023-03-23 | 535 | 139 | 
 | 2023-03-22 | 534 | 138 | 
 | 2023-03-20 | 533 | 138 | 

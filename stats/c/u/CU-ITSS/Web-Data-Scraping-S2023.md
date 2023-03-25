@@ -1,6 +1,6 @@
 # CU-ITSS/Web-Data-Scraping-S2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 79 | 7 | 
 | 2023-03-23 | 79 | 7 | 
 | 2023-03-21 | 78 | 7 | 
 | 2023-03-20 | 74 | 6 | 

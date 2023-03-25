@@ -1,6 +1,6 @@
 # dapperlabs/nba-smart-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 321 | 100 | 
 | 2023-03-22 | 321 | 100 | 
 | 2023-03-21 | 321 | 100 | 
 | 2023-03-20 | 321 | 100 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 320 | 100 | 
 | 2023-02-25 | 320 | 100 | 
 | 2023-02-24 | 320 | 100 | 
-| 2023-02-23 | 318 | 100 | 
 

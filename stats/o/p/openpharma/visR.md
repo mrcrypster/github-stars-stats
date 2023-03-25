@@ -1,10 +1,10 @@
 # openpharma/visR - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 31
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/openpharma/visR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 174 | 31 | 
 | 2023-03-22 | 173 | 31 | 
 | 2023-03-21 | 173 | 31 | 
 | 2023-03-20 | 173 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 173 | 31 | 
 | 2023-02-24 | 173 | 31 | 
 | 2023-02-23 | 173 | 31 | 
-| 2023-02-22 | 173 | 31 | 
 

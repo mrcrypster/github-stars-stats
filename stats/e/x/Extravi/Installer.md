@@ -1,6 +1,6 @@
 # Extravi/Installer - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 18 | 5 | 
 | 2023-03-22 | 18 | 5 | 
 | 2023-03-21 | 18 | 5 | 
 | 2023-03-20 | 18 | 5 | 

@@ -1,6 +1,6 @@
 # scfmod/FS22_TerraFarm - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 127 | 68 | 
 | 2023-03-22 | 127 | 68 | 
 | 2023-03-21 | 125 | 68 | 
 | 2023-03-20 | 124 | 68 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 123 | 67 | 
 | 2023-02-24 | 122 | 67 | 
 | 2023-02-23 | 122 | 67 | 
-| 2023-02-22 | 122 | 67 | 
 

@@ -1,10 +1,10 @@
 # allegro/map-with-indifferent-access - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/allegro/map-with-indifferent-access)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 16 | 1 | 
 | 2023-03-23 | 15 | 1 | 
 | 2023-03-22 | 15 | 1 | 
 | 2023-03-20 | 15 | 1 | 

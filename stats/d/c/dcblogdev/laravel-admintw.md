@@ -1,10 +1,10 @@
 # dcblogdev/laravel-admintw - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 15
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/dcblogdev/laravel-admintw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 141 | 15 | 
 | 2023-03-23 | 140 | 15 | 
 | 2023-03-21 | 140 | 15 | 
 | 2023-03-20 | 140 | 15 | 

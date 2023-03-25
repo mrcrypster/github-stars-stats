@@ -1,8 +1,8 @@
 # wesbos/who-blue - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 32
+☋ Forks: 31
 
 ★ Stars: 364
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 364 | 31 | 
 | 2023-03-22 | 364 | 32 | 
 | 2023-03-21 | 364 | 32 | 
 | 2023-03-20 | 364 | 32 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 367 | 32 | 
 | 2023-02-24 | 367 | 32 | 
 | 2023-02-23 | 367 | 32 | 
-| 2023-02-22 | 367 | 32 | 
 

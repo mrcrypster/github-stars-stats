@@ -1,10 +1,10 @@
 # PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 87
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 273 | 87 | 
 | 2023-03-22 | 272 | 87 | 
 | 2023-03-21 | 272 | 87 | 
 | 2023-03-20 | 271 | 86 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 261 | 83 | 
 | 2023-02-24 | 258 | 83 | 
 | 2023-02-23 | 255 | 83 | 
-| 2023-02-22 | 253 | 82 | 
 

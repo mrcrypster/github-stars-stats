@@ -1,10 +1,10 @@
 # Ajaxy/telegram-tt - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 270
 
-★ Stars: 1602
+★ Stars: 1605
 
 [Open repository](https://github.com/Ajaxy/telegram-tt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1605 | 270 | 
 | 2023-03-23 | 1602 | 270 | 
 | 2023-03-21 | 1602 | 270 | 
 | 2023-03-20 | 1600 | 271 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1580 | 259 | 
 | 2023-02-25 | 1578 | 259 | 
 | 2023-02-24 | 1578 | 259 | 
-| 2023-02-23 | 1575 | 258 | 
 

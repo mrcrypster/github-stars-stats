@@ -1,10 +1,10 @@
 # rapidsai/cudf - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 679
 
-★ Stars: 5409
+★ Stars: 5412
 
 [Open repository](https://github.com/rapidsai/cudf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 5412 | 679 | 
 | 2023-03-23 | 5409 | 679 | 
 | 2023-03-22 | 5409 | 679 | 
 | 2023-03-21 | 5403 | 678 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 5353 | 676 | 
 | 2023-02-25 | 5350 | 676 | 
 | 2023-02-24 | 5350 | 676 | 
-| 2023-02-22 | 5341 | 676 | 
 

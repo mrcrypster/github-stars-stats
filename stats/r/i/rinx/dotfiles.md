@@ -1,6 +1,6 @@
 # rinx/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 16 | 2 | 
 | 2023-03-22 | 16 | 2 | 
 | 2023-03-21 | 15 | 2 | 
 | 2023-03-20 | 15 | 2 | 

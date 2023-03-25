@@ -1,6 +1,6 @@
 # amaargiru/pyroad - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 253 | 27 | 
 | 2023-03-22 | 253 | 27 | 
 | 2023-03-21 | 254 | 27 | 
 | 2023-03-19 | 253 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 248 | 28 | 
 | 2023-02-25 | 248 | 28 | 
 | 2023-02-24 | 248 | 28 | 
-| 2023-02-23 | 248 | 28 | 
 

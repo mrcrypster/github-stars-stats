@@ -1,6 +1,6 @@
 # Qix-/node-error-ex - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 62 | 13 | 
 | 2023-03-22 | 62 | 13 | 
 | 2023-03-21 | 62 | 13 | 
 | 2023-03-20 | 61 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 61 | 13 | 
 | 2023-02-24 | 62 | 13 | 
 | 2023-02-23 | 62 | 13 | 
-| 2023-02-22 | 62 | 13 | 
 

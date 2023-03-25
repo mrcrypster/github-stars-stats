@@ -1,6 +1,6 @@
 # alvarop/usb_c_cable_tester - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 509 | 11 | 
 | 2023-03-23 | 509 | 11 | 
 | 2023-03-21 | 509 | 11 | 
 | 2023-03-20 | 509 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 498 | 11 | 
 | 2023-02-25 | 497 | 11 | 
 | 2023-02-24 | 496 | 11 | 
-| 2023-02-22 | 493 | 11 | 
 

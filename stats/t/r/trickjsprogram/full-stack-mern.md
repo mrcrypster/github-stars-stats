@@ -1,6 +1,6 @@
 # trickjsprogram/full-stack-mern - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 65 | 40 | 
 | 2023-03-23 | 65 | 40 | 
 | 2023-03-21 | 65 | 40 | 
 | 2023-03-20 | 65 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 64 | 39 | 
 | 2023-02-24 | 64 | 39 | 
 | 2023-02-23 | 64 | 39 | 
-| 2023-02-22 | 64 | 39 | 
 

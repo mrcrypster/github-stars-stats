@@ -1,10 +1,10 @@
 # aws/copilot-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 331
 
-★ Stars: 2735
+★ Stars: 2745
 
 [Open repository](https://github.com/aws/copilot-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2745 | 331 | 
 | 2023-03-23 | 2735 | 331 | 
 | 2023-03-22 | 2727 | 330 | 
 | 2023-03-20 | 2727 | 331 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2654 | 327 | 
 | 2023-02-24 | 2653 | 328 | 
 | 2023-02-23 | 2652 | 328 | 
-| 2023-02-22 | 2650 | 328 | 
 

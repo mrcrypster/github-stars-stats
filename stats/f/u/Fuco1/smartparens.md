@@ -1,6 +1,6 @@
 # Fuco1/smartparens - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1671 | 171 | 
 | 2023-03-23 | 1671 | 171 | 
 | 2023-03-22 | 1670 | 171 | 
 | 2023-03-21 | 1670 | 171 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1662 | 171 | 
 | 2023-02-24 | 1662 | 171 | 
 | 2023-02-23 | 1662 | 171 | 
-| 2023-02-22 | 1662 | 171 | 
 

@@ -1,6 +1,6 @@
 # Certora/Secureum2023_ERC4626_public - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1 | 7 | 
 | 2023-03-23 | 1 | 7 | 
 | 2023-03-21 | 1 | 7 | 
 | 2023-03-20 | 1 | 7 | 

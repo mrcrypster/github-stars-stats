@@ -1,6 +1,6 @@
 # SublimeText/QML - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 25 | 4 | 
 | 2023-03-22 | 25 | 4 | 
 | 2023-03-21 | 25 | 4 | 
 | 2023-03-20 | 25 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 24 | 4 | 
 | 2023-02-24 | 24 | 4 | 
 | 2023-02-23 | 24 | 4 | 
-| 2023-02-22 | 24 | 4 | 
 

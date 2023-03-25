@@ -1,10 +1,10 @@
 # jtmuller5/The-HustleGPT-Challenge - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 68
+☋ Forks: 72
 
-★ Stars: 1415
+★ Stars: 1550
 
 [Open repository](https://github.com/jtmuller5/The-HustleGPT-Challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1550 | 72 | 
 | 2023-03-23 | 1415 | 68 | 
 | 2023-03-22 | 1388 | 67 | 
 | 2023-03-21 | 1158 | 54 | 

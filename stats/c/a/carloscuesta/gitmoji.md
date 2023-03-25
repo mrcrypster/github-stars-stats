@@ -1,10 +1,10 @@
 # carloscuesta/gitmoji - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 745
+☋ Forks: 746
 
-★ Stars: 13621
+★ Stars: 13639
 
 [Open repository](https://github.com/carloscuesta/gitmoji)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 13639 | 746 | 
 | 2023-03-22 | 13621 | 745 | 
 | 2023-03-21 | 13618 | 745 | 
 | 2023-03-20 | 13609 | 745 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 13474 | 744 | 
 | 2023-02-24 | 13472 | 744 | 
 | 2023-02-23 | 13469 | 744 | 
-| 2023-02-22 | 13463 | 744 | 
 

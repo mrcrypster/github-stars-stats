@@ -1,10 +1,10 @@
 # frappe/frappe_docker - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 25
 
-☋ Forks: 799
+☋ Forks: 804
 
-★ Stars: 746
+★ Stars: 747
 
 [Open repository](https://github.com/frappe/frappe_docker)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 747 | 804 | 
+| 2023-03-24 | 747 | 803 | 
 | 2023-03-22 | 746 | 799 | 
 | 2023-03-21 | 744 | 797 | 
 | 2023-03-20 | 744 | 797 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 731 | 766 | 
 | 2023-02-24 | 731 | 766 | 
 | 2023-02-23 | 729 | 766 | 
-| 2023-02-22 | 728 | 763 | 
 

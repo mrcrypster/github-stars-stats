@@ -1,10 +1,10 @@
 # brutal-org/brutal - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 42
 
-★ Stars: 952
+★ Stars: 953
 
 [Open repository](https://github.com/brutal-org/brutal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 953 | 42 | 
 | 2023-03-22 | 952 | 42 | 
 | 2023-03-21 | 952 | 42 | 
 | 2023-03-20 | 952 | 42 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 943 | 42 | 
 | 2023-02-25 | 943 | 42 | 
 | 2023-02-23 | 943 | 42 | 
-| 2023-02-22 | 942 | 42 | 
 

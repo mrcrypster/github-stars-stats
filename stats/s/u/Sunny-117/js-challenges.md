@@ -1,10 +1,10 @@
 # Sunny-117/js-challenges - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 146
 
-★ Stars: 1148
+★ Stars: 1154
 
 [Open repository](https://github.com/Sunny-117/js-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1154 | 146 | 
 | 2023-03-23 | 1148 | 146 | 
 | 2023-03-21 | 1147 | 146 | 
 | 2023-03-20 | 1144 | 145 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1059 | 135 | 
 | 2023-02-25 | 1039 | 133 | 
 | 2023-02-24 | 1027 | 132 | 
-| 2023-02-23 | 976 | 127 | 
 

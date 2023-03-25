@@ -1,10 +1,10 @@
 # revenkroz/telegram-web-app-bot-example - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 113
+☋ Forks: 115
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/revenkroz/telegram-web-app-bot-example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 175 | 115 | 
 | 2023-03-23 | 174 | 113 | 
 | 2023-03-22 | 174 | 112 | 
 | 2023-03-20 | 173 | 111 | 

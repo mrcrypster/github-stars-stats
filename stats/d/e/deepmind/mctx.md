@@ -1,6 +1,6 @@
 # deepmind/mctx - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1803 | 145 | 
 | 2023-03-23 | 1803 | 145 | 
 | 2023-03-21 | 1803 | 145 | 
 | 2023-03-20 | 1801 | 145 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1758 | 142 | 
 | 2023-02-25 | 1752 | 141 | 
 | 2023-02-24 | 1746 | 140 | 
-| 2023-02-22 | 1740 | 139 | 
 

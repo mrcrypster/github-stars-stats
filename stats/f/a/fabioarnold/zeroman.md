@@ -1,6 +1,6 @@
 # fabioarnold/zeroman - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 64 | 5 | 
 | 2023-03-23 | 64 | 5 | 
 | 2023-03-21 | 64 | 5 | 
 | 2023-03-20 | 64 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 65 | 5 | 
 | 2023-02-25 | 65 | 5 | 
 | 2023-02-23 | 65 | 5 | 
-| 2023-02-22 | 61 | 4 | 
 

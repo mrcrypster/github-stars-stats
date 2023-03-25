@@ -1,10 +1,10 @@
 # TheAlgorithms/Jupyter - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 256
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/TheAlgorithms/Jupyter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 632 | 256 | 
 | 2023-03-23 | 631 | 256 | 
 | 2023-03-22 | 631 | 256 | 
 | 2023-03-20 | 631 | 256 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 627 | 255 | 
 | 2023-02-24 | 627 | 255 | 
 | 2023-02-23 | 624 | 254 | 
-| 2023-02-22 | 624 | 254 | 
 

@@ -1,10 +1,10 @@
 # lettier/gifcurry - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 54
 
-★ Stars: 1186
+★ Stars: 1188
 
 [Open repository](https://github.com/lettier/gifcurry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1188 | 54 | 
 | 2023-03-22 | 1186 | 54 | 
 | 2023-03-21 | 1186 | 54 | 
 | 2023-03-20 | 1186 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 1174 | 53 | 
 | 2023-02-24 | 1174 | 53 | 
 | 2023-02-23 | 1173 | 53 | 
-| 2023-02-22 | 1172 | 53 | 
 

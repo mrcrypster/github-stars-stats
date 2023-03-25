@@ -1,6 +1,6 @@
 # fumiama/copymanga - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 362 | 15 | 
 | 2023-03-23 | 362 | 15 | 
 | 2023-03-21 | 361 | 15 | 
 | 2023-03-20 | 360 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 320 | 14 | 
 | 2023-02-24 | 316 | 14 | 
 | 2023-02-23 | 316 | 14 | 
-| 2023-02-22 | 315 | 14 | 
 

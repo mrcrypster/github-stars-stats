@@ -1,6 +1,6 @@
 # KronicDeth/intellij-elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1660 | 128 | 
 | 2023-03-23 | 1660 | 128 | 
 | 2023-03-22 | 1660 | 128 | 
 | 2023-03-21 | 1659 | 128 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1649 | 128 | 
 | 2023-02-24 | 1649 | 128 | 
 | 2023-02-23 | 1648 | 128 | 
-| 2023-02-22 | 1647 | 128 | 
 

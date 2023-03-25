@@ -1,10 +1,10 @@
 # sickcodes/osx-optimizer - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 57
 
-★ Stars: 792
+★ Stars: 794
 
 [Open repository](https://github.com/sickcodes/osx-optimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 794 | 57 | 
 | 2023-03-22 | 792 | 57 | 
 | 2023-03-21 | 791 | 57 | 
 | 2023-03-20 | 789 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 764 | 53 | 
 | 2023-02-24 | 764 | 53 | 
 | 2023-02-23 | 762 | 53 | 
-| 2023-02-22 | 757 | 53 | 
 

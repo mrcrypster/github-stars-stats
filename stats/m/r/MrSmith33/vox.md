@@ -1,6 +1,6 @@
 # MrSmith33/vox - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 291 | 17 | 
 | 2023-03-23 | 291 | 17 | 
 | 2023-03-21 | 291 | 17 | 
 | 2023-03-20 | 291 | 17 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 290 | 18 | 
 | 2023-02-24 | 290 | 18 | 
 | 2023-02-23 | 290 | 18 | 
-| 2023-02-22 | 290 | 18 | 
 

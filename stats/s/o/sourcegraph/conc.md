@@ -1,10 +1,10 @@
 # sourcegraph/conc - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 205
+☋ Forks: 206
 
-★ Stars: 6390
+★ Stars: 6399
 
 [Open repository](https://github.com/sourcegraph/conc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 6399 | 206 | 
 | 2023-03-23 | 6390 | 205 | 
 | 2023-03-21 | 6373 | 205 | 
 | 2023-03-20 | 6352 | 204 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 6023 | 185 | 
 | 2023-02-25 | 6012 | 185 | 
 | 2023-02-24 | 6001 | 185 | 
-| 2023-02-23 | 5978 | 182 | 
 

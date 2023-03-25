@@ -1,6 +1,6 @@
 # riscv/meta-riscv - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 255 | 100 | 
 | 2023-03-23 | 255 | 100 | 
 | 2023-03-22 | 255 | 100 | 
 | 2023-03-21 | 254 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 246 | 97 | 
 | 2023-02-24 | 246 | 97 | 
 | 2023-02-23 | 246 | 97 | 
-| 2023-02-22 | 246 | 97 | 
 

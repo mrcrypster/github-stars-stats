@@ -1,6 +1,6 @@
 # jiba-plus/web - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 128 | 21 | 
 | 2023-03-23 | 128 | 21 | 
 | 2023-03-21 | 128 | 21 | 
 | 2023-03-20 | 128 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 126 | 20 | 
 | 2023-02-25 | 126 | 20 | 
 | 2023-02-24 | 125 | 20 | 
-| 2023-02-22 | 125 | 20 | 
 

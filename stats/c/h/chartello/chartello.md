@@ -1,10 +1,10 @@
 # chartello/chartello - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 116
+★ Stars: 121
 
 [Open repository](https://github.com/chartello/chartello)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 121 | 5 | 
 | 2023-03-22 | 116 | 5 | 
 | 2023-03-21 | 116 | 5 | 
 | 2023-03-20 | 116 | 5 | 

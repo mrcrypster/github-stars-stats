@@ -1,10 +1,10 @@
 # GnikDroy/projections.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 5
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/GnikDroy/projections.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 128 | 5 | 
 | 2023-03-23 | 127 | 5 | 
 | 2023-03-22 | 127 | 5 | 
 | 2023-03-20 | 126 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 115 | 6 | 
 | 2023-02-24 | 115 | 6 | 
 | 2023-02-23 | 115 | 6 | 
-| 2023-02-22 | 115 | 6 | 
 

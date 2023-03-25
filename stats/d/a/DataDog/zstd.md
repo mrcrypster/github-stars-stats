@@ -1,10 +1,10 @@
 # DataDog/zstd - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 76
 
-★ Stars: 663
+★ Stars: 664
 
 [Open repository](https://github.com/DataDog/zstd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 664 | 76 | 
 | 2023-03-22 | 663 | 76 | 
 | 2023-03-21 | 663 | 76 | 
 | 2023-03-20 | 663 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 657 | 75 | 
 | 2023-02-24 | 657 | 75 | 
 | 2023-02-23 | 657 | 75 | 
-| 2023-02-22 | 657 | 75 | 
 

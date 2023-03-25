@@ -1,10 +1,10 @@
 # HarmVeenstra/Powershellisfun - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/HarmVeenstra/Powershellisfun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 191 | 37 | 
 | 2023-03-23 | 190 | 36 | 
 | 2023-03-21 | 187 | 36 | 
 | 2023-03-20 | 185 | 36 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 172 | 30 | 
 | 2023-02-24 | 169 | 30 | 
 | 2023-02-23 | 168 | 29 | 
-| 2023-02-22 | 168 | 29 | 
 

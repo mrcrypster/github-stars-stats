@@ -1,10 +1,10 @@
 # ZusaXT/Seaport-Drainer - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 114
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/ZusaXT/Seaport-Drainer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 310 | 114 | 
 | 2023-03-22 | 309 | 114 | 
 | 2023-03-21 | 309 | 114 | 
 | 2023-03-20 | 314 | 114 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 362 | 114 | 
 | 2023-02-25 | 362 | 114 | 
 | 2023-02-24 | 362 | 114 | 
-| 2023-02-22 | 361 | 114 | 
 

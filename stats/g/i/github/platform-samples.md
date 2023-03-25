@@ -1,10 +1,10 @@
 # github/platform-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1928
+☋ Forks: 1929
 
-★ Stars: 1742
+★ Stars: 1743
 
 [Open repository](https://github.com/github/platform-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1743 | 1929 | 
 | 2023-03-23 | 1742 | 1928 | 
 | 2023-03-22 | 1742 | 1928 | 
 | 2023-03-20 | 1743 | 1928 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1733 | 1924 | 
 | 2023-02-24 | 1732 | 1925 | 
 | 2023-02-23 | 1731 | 1922 | 
-| 2023-02-22 | 1730 | 1919 | 
 

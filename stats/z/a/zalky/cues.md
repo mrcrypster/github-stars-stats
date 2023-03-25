@@ -1,10 +1,10 @@
 # zalky/cues - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 40
+★ Stars: 45
 
 [Open repository](https://github.com/zalky/cues)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 45 | - | 
 | 2023-03-23 | 40 | - | 
 

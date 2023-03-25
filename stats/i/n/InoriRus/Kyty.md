@@ -1,10 +1,10 @@
 # InoriRus/Kyty - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 128
 
-★ Stars: 2182
+★ Stars: 2184
 
 [Open repository](https://github.com/InoriRus/Kyty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2184 | 128 | 
 | 2023-03-23 | 2182 | 128 | 
 | 2023-03-21 | 2182 | 128 | 
 | 2023-03-20 | 2182 | 128 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2156 | 122 | 
 | 2023-02-24 | 2154 | 122 | 
 | 2023-02-23 | 2153 | 122 | 
-| 2023-02-22 | 2153 | 122 | 
 

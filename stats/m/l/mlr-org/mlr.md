@@ -1,6 +1,6 @@
 # mlr-org/mlr - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 402
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1599 | 402 | 
 | 2023-03-22 | 1599 | 402 | 
 | 2023-03-21 | 1598 | 402 | 
 | 2023-03-19 | 1597 | 402 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 1597 | 403 | 
 | 2023-02-24 | 1597 | 403 | 
 | 2023-02-23 | 1597 | 403 | 
-| 2023-02-22 | 1596 | 403 | 
 

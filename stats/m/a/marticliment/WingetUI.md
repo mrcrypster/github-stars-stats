@@ -1,10 +1,10 @@
 # marticliment/WingetUI - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 79
 
-★ Stars: 2213
+★ Stars: 2224
 
 [Open repository](https://github.com/marticliment/WingetUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2224 | 79 | 
 | 2023-03-22 | 2213 | 79 | 
 | 2023-03-21 | 2195 | 78 | 
 | 2023-03-19 | 2172 | 78 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1902 | 67 | 
 | 2023-02-24 | 1891 | 67 | 
 | 2023-02-23 | 1884 | 66 | 
-| 2023-02-22 | 1878 | 66 | 
 

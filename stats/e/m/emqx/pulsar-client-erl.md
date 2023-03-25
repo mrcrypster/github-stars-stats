@@ -1,10 +1,10 @@
 # emqx/pulsar-client-erl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/emqx/pulsar-client-erl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 8 | 2 | 
 | 2023-03-22 | 9 | 2 | 
 | 2023-03-21 | 9 | 2 | 
 | 2023-03-20 | 9 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 8 | - | 
 | 2023-02-25 | 8 | - | 
 | 2023-02-24 | 8 | - | 
-| 2023-02-23 | 8 | - | 
 

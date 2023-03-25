@@ -1,10 +1,10 @@
 # nunomaduro/collision - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 4233
+★ Stars: 4237
 
 [Open repository](https://github.com/nunomaduro/collision)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4237 | 141 | 
 | 2023-03-22 | 4233 | 140 | 
 | 2023-03-21 | 4234 | 140 | 
 | 2023-03-20 | 4233 | 139 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 4219 | 139 | 
 | 2023-02-24 | 4219 | 139 | 
 | 2023-02-23 | 4219 | 139 | 
-| 2023-02-22 | 4216 | 139 | 
 

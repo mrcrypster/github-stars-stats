@@ -1,10 +1,10 @@
 # camenduru/text-to-video-synthesis-colab - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/camenduru/text-to-video-synthesis-colab)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 49 | 7 | 
 | 2023-03-23 | 48 | 5 | 
 

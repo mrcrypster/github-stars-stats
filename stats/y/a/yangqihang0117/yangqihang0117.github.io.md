@@ -1,6 +1,6 @@
 # yangqihang0117/yangqihang0117.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 27 | - | 
 | 2023-03-23 | 27 | - | 
 | 2023-03-22 | 27 | - | 
 | 2023-03-21 | 27 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 28 | - | 
 | 2023-02-24 | 28 | - | 
 | 2023-02-23 | 28 | - | 
-| 2023-02-22 | 28 | - | 
 

@@ -1,8 +1,8 @@
 # chklovski/CheckM2 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 83 | 9 | 
 | 2023-03-23 | 83 | 8 | 
 | 2023-03-21 | 83 | 8 | 
 | 2023-03-20 | 83 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 80 | 8 | 
 | 2023-02-24 | 80 | 8 | 
 | 2023-02-23 | 80 | 8 | 
-| 2023-02-22 | 80 | 8 | 
 

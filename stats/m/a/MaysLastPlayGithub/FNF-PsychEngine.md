@@ -1,8 +1,8 @@
 # MaysLastPlayGithub/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 19 | 81 | 
 | 2023-03-23 | 19 | 80 | 
 | 2023-03-21 | 19 | 77 | 
 | 2023-03-20 | 19 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | - | 58 | 
 | 2023-02-25 | - | 57 | 
 | 2023-02-23 | - | 54 | 
-| 2023-02-22 | - | 53 | 
 

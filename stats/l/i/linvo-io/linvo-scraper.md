@@ -1,6 +1,6 @@
 # linvo-io/linvo-scraper - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 543 | 60 | 
 | 2023-03-23 | 543 | 60 | 
 | 2023-03-22 | 541 | 60 | 
 | 2023-03-20 | 541 | 60 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 533 | 59 | 
 | 2023-02-24 | 533 | 59 | 
 | 2023-02-23 | 533 | 59 | 
-| 2023-02-22 | 533 | 58 | 
 

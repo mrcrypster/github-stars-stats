@@ -1,6 +1,6 @@
 # asiamina/A-Course-on-Digital-Forensics - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 125 | 30 | 
 | 2023-03-22 | 125 | 30 | 
 | 2023-03-21 | 125 | 30 | 
 | 2023-03-20 | 124 | 30 | 

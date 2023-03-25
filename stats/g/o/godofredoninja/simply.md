@@ -1,10 +1,10 @@
 # godofredoninja/simply - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 170
 
-★ Stars: 553
+★ Stars: 554
 
 [Open repository](https://github.com/godofredoninja/simply)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 554 | 170 | 
 | 2023-03-23 | 553 | 170 | 
 | 2023-03-21 | 553 | 170 | 
 | 2023-03-20 | 553 | 170 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 545 | 169 | 
 | 2023-02-24 | 545 | 168 | 
 | 2023-02-23 | 545 | 168 | 
-| 2023-02-22 | 545 | 167 | 
 

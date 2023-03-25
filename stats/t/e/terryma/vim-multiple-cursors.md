@@ -1,6 +1,6 @@
 # terryma/vim-multiple-cursors - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7838 | 255 | 
 | 2023-03-23 | 7838 | 255 | 
 | 2023-03-21 | 7839 | 255 | 
 | 2023-03-20 | 7839 | 255 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 7832 | 253 | 
 | 2023-02-24 | 7831 | 253 | 
 | 2023-02-23 | 7830 | 253 | 
-| 2023-02-22 | 7830 | 253 | 
 

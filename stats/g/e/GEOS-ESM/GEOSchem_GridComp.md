@@ -1,6 +1,6 @@
 # GEOS-ESM/GEOSchem_GridComp - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 6 | 4 | 
 | 2023-03-22 | 6 | 4 | 
 | 2023-03-21 | 6 | 4 | 
 | 2023-03-20 | 5 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 4 | 4 | 
 | 2023-02-24 | 3 | 4 | 
 | 2023-02-23 | 3 | 4 | 
-| 2023-02-22 | 3 | 4 | 
 

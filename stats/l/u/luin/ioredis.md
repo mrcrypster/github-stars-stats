@@ -1,10 +1,10 @@
 # luin/ioredis - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1051
+☋ Forks: 1052
 
-★ Stars: 11787
+★ Stars: 11792
 
 [Open repository](https://github.com/luin/ioredis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 11792 | 1052 | 
 | 2023-03-23 | 11787 | 1051 | 
 | 2023-03-22 | 11783 | 1051 | 
 | 2023-03-20 | 11782 | 1051 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 11734 | 1052 | 
 | 2023-02-24 | 11729 | 1052 | 
 | 2023-02-23 | 11726 | 1052 | 
-| 2023-02-22 | 11726 | 1052 | 
 

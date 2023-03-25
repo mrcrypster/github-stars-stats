@@ -1,6 +1,6 @@
 # deeplearning-ai/machine-learning-yearning-cn - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1495
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7410 | 1495 | 
 | 2023-03-22 | 7410 | 1495 | 
 | 2023-03-21 | 7409 | 1495 | 
 | 2023-03-20 | 7410 | 1496 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 7402 | 1495 | 
 | 2023-02-24 | 7402 | 1495 | 
 | 2023-02-23 | 7402 | 1495 | 
-| 2023-02-22 | 7403 | 1495 | 
 

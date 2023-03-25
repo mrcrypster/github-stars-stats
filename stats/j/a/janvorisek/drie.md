@@ -1,10 +1,10 @@
 # janvorisek/drie - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/janvorisek/drie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 64 | 1 | 
 | 2023-03-22 | 63 | 1 | 
 | 2023-03-21 | 62 | 1 | 
 | 2023-03-19 | 62 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 79 | - | 
 | 2023-02-25 | 79 | - | 
 | 2023-02-23 | 79 | - | 
-| 2023-02-22 | 79 | - | 
 

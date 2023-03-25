@@ -1,6 +1,6 @@
 # mickeynp/ezf - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 33 | 3 | 
 | 2023-03-23 | 33 | 3 | 
 | 2023-03-21 | 33 | 3 | 
 | 2023-03-20 | 33 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 31 | 2 | 
 | 2023-02-25 | 31 | 2 | 
 | 2023-02-24 | 31 | 2 | 
-| 2023-02-22 | 31 | 2 | 
 

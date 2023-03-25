@@ -1,10 +1,10 @@
 # gvergnaud/hotscript - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 35
 
-★ Stars: 1463
+★ Stars: 1469
 
 [Open repository](https://github.com/gvergnaud/hotscript)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1469 | 35 | 
 | 2023-03-23 | 1463 | 35 | 
 | 2023-03-21 | 1460 | 35 | 
 | 2023-03-20 | 1449 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1221 | 36 | 
 | 2023-02-25 | 1194 | 34 | 
 | 2023-02-24 | 1116 | 34 | 
-| 2023-02-22 | 1072 | 34 | 
 

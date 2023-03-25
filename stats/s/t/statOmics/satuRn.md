@@ -1,6 +1,6 @@
 # statOmics/satuRn - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 17 | 1 | 
 | 2023-03-22 | 17 | 1 | 
 | 2023-03-21 | 17 | 1 | 
 | 2023-03-20 | 17 | 1 | 

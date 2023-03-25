@@ -1,6 +1,6 @@
 # LegacyGwent/LegacyGwent - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 126 | 14 | 
 | 2023-03-22 | 126 | 14 | 
 | 2023-03-21 | 124 | 13 | 
 | 2023-03-20 | 124 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 122 | 11 | 
 | 2023-02-24 | 122 | 11 | 
 | 2023-02-23 | 121 | 11 | 
-| 2023-02-22 | 121 | 11 | 
 

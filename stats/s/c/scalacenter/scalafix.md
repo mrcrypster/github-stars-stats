@@ -1,6 +1,6 @@
 # scalacenter/scalafix - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 737 | 173 | 
 | 2023-03-23 | 737 | 173 | 
 | 2023-03-22 | 737 | 173 | 
 | 2023-03-20 | 736 | 173 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 731 | 173 | 
 | 2023-02-24 | 730 | 173 | 
 | 2023-02-23 | 730 | 173 | 
-| 2023-02-22 | 729 | 173 | 
 

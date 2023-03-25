@@ -1,8 +1,8 @@
 # Specy/asm-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 57 | 3 | 
 | 2023-03-23 | 57 | 2 | 
 | 2023-03-22 | 56 | 2 | 
 | 2023-03-20 | 55 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 54 | 2 | 
 | 2023-02-24 | 54 | 2 | 
 | 2023-02-23 | 54 | 2 | 
-| 2023-02-22 | 53 | 2 | 
 

@@ -1,6 +1,6 @@
 # WhatsApp/erlfmt - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 354 | 45 | 
 | 2023-03-23 | 354 | 45 | 
 | 2023-03-22 | 354 | 45 | 
 | 2023-03-21 | 354 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 352 | 45 | 
 | 2023-02-24 | 351 | 45 | 
 | 2023-02-23 | 351 | 45 | 
-| 2023-02-22 | 351 | 45 | 
 

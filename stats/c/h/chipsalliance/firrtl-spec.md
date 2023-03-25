@@ -1,10 +1,10 @@
 # chipsalliance/firrtl-spec - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 16
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/chipsalliance/firrtl-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 18 | 16 | 
 | 2023-03-23 | 17 | 16 | 
 | 2023-03-22 | 17 | 16 | 
 | 2023-03-20 | 17 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 17 | 15 | 
 | 2023-02-24 | 17 | 15 | 
 | 2023-02-23 | 16 | 14 | 
-| 2023-02-22 | 16 | 14 | 
 

@@ -1,10 +1,10 @@
 # pinecone-io/examples - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 155
+☋ Forks: 160
 
-★ Stars: 354
+★ Stars: 371
 
 [Open repository](https://github.com/pinecone-io/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 371 | 160 | 
 | 2023-03-22 | 354 | 155 | 
 | 2023-03-21 | 345 | 152 | 
 | 2023-03-20 | 340 | 152 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 252 | 109 | 
 | 2023-02-24 | 250 | 108 | 
 | 2023-02-23 | 245 | 106 | 
-| 2023-02-22 | 242 | 105 | 
 

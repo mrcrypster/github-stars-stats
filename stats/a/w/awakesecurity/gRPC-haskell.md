@@ -1,10 +1,10 @@
 # awakesecurity/gRPC-haskell - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 68
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/awakesecurity/gRPC-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 214 | 68 | 
 | 2023-03-23 | 213 | 68 | 
 | 2023-03-21 | 213 | 68 | 
 | 2023-03-20 | 213 | 68 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 211 | 68 | 
 | 2023-02-24 | 211 | 68 | 
 | 2023-02-23 | 211 | 68 | 
-| 2023-02-22 | 211 | 68 | 
 

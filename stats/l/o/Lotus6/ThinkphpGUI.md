@@ -1,10 +1,10 @@
 # Lotus6/ThinkphpGUI - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 137
 
-★ Stars: 997
+★ Stars: 999
 
 [Open repository](https://github.com/Lotus6/ThinkphpGUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 999 | 137 | 
 | 2023-03-22 | 997 | 137 | 
 | 2023-03-21 | 997 | 137 | 
 | 2023-03-20 | 995 | 137 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 980 | 136 | 
 | 2023-02-25 | 980 | 136 | 
 | 2023-02-24 | 980 | 136 | 
-| 2023-02-22 | 980 | 136 | 
 

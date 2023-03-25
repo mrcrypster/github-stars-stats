@@ -1,6 +1,6 @@
 # Sunblood/D2RML - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 131 | 25 | 
 | 2023-03-22 | 131 | 25 | 
 | 2023-03-21 | 131 | 25 | 
 | 2023-03-20 | 131 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 133 | 25 | 
 | 2023-02-25 | 132 | 25 | 
 | 2023-02-24 | 132 | 25 | 
-| 2023-02-22 | 132 | 25 | 
 

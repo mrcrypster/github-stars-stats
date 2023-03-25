@@ -1,6 +1,6 @@
 # lucasvegi/Elixir-Code-Smells - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1224 | 38 | 
 | 2023-03-22 | 1224 | 38 | 
 | 2023-03-21 | 1223 | 38 | 
 | 2023-03-20 | 1223 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 1217 | 38 | 
 | 2023-02-24 | 1217 | 38 | 
 | 2023-02-23 | 1217 | 38 | 
-| 2023-02-22 | 1216 | 38 | 
 

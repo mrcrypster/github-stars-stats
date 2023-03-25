@@ -1,10 +1,10 @@
 # reeceyng/v2ray-agent - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 582
+☋ Forks: 583
 
-★ Stars: 720
+★ Stars: 724
 
 [Open repository](https://github.com/reeceyng/v2ray-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 724 | 583 | 
 | 2023-03-23 | 720 | 582 | 
 | 2023-03-21 | 717 | 578 | 
 | 2023-03-20 | 716 | 577 | 

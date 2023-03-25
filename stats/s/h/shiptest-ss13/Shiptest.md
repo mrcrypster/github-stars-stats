@@ -1,6 +1,6 @@
 # shiptest-ss13/Shiptest - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 249
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 57 | 249 | 
 | 2023-03-23 | 57 | 249 | 
 | 2023-03-21 | 57 | 249 | 
 | 2023-03-20 | 57 | 249 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 56 | 247 | 
 | 2023-02-24 | 55 | 247 | 
 | 2023-02-23 | 55 | 247 | 
-| 2023-02-22 | 55 | 246 | 
 

@@ -1,10 +1,10 @@
 # jeffrey-xiao/papers - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 317
+☋ Forks: 320
 
-★ Stars: 963
+★ Stars: 966
 
 [Open repository](https://github.com/jeffrey-xiao/papers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 966 | 320 | 
 | 2023-03-23 | 963 | 317 | 
 | 2023-03-22 | 963 | 317 | 
 | 2023-03-21 | 960 | 316 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 899 | 298 | 
 | 2023-02-24 | 895 | 297 | 
 | 2023-02-23 | 891 | 297 | 
-| 2023-02-22 | 890 | 296 | 
 

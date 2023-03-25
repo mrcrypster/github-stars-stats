@@ -1,10 +1,10 @@
 # miversen33/import.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/miversen33/import.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 171 | 1 | 
 | 2023-03-23 | 170 | 1 | 
 | 2023-03-22 | 170 | 1 | 
 | 2023-03-20 | 171 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 171 | 1 | 
 | 2023-02-24 | 170 | - | 
 | 2023-02-23 | 170 | - | 
-| 2023-02-22 | 170 | - | 
 

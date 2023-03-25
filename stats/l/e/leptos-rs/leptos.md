@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 24
 
-☋ Forks: 223
+☋ Forks: 224
 
-★ Stars: 7472
+★ Stars: 7480
 
 [Open repository](https://github.com/leptos-rs/leptos)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 7472 | 223 | 
+| 2023-03-24 | 7480 | 224 | 
 | 2023-03-23 | 7461 | 223 | 
 | 2023-03-22 | 7432 | 221 | 
 | 2023-03-21 | 7391 | 216 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-25 | 6583 | 172 | 
 | 2023-02-24 | 6554 | 170 | 
 | 2023-02-23 | 6528 | 168 | 
-| 2023-02-22 | 6504 | 168 | 
 

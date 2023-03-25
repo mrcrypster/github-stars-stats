@@ -1,10 +1,10 @@
 # autowarefoundation/autoware_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/autowarefoundation/autoware_msgs)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10 | 11 | 
+| 2023-03-24 | 10 | 11 | 
 | 2023-03-23 | 9 | 11 | 
 | 2023-03-22 | 9 | 11 | 
 | 2023-03-21 | 9 | 11 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 9 | 10 | 
 | 2023-02-24 | 9 | 10 | 
 | 2023-02-23 | 9 | 10 | 
-| 2023-02-22 | 9 | 10 | 
 

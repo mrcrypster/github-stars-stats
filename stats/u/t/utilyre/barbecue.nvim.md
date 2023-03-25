@@ -1,10 +1,10 @@
 # utilyre/barbecue.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 15
 
-★ Stars: 294
+★ Stars: 296
 
 [Open repository](https://github.com/utilyre/barbecue.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 296 | 15 | 
 | 2023-03-22 | 294 | 15 | 
 | 2023-03-21 | 293 | 15 | 
 | 2023-03-20 | 292 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 258 | 15 | 
 | 2023-02-24 | 251 | 15 | 
 | 2023-02-23 | 247 | 15 | 
-| 2023-02-22 | 246 | 15 | 
 

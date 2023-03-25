@@ -1,8 +1,8 @@
 # tomnomnom/waybackurls - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 368
+☋ Forks: 367
 
 ★ Stars: 2462
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2462 | 367 | 
 | 2023-03-22 | 2462 | 368 | 
 | 2023-03-21 | 2461 | 368 | 
 | 2023-03-20 | 2457 | 368 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 2402 | 365 | 
 | 2023-02-24 | 2396 | 363 | 
 | 2023-02-23 | 2396 | 363 | 
-| 2023-02-22 | 2394 | 363 | 
 

@@ -1,6 +1,6 @@
 # Shopify/shadowenv.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7 | 6 | 
 | 2023-03-23 | 7 | 6 | 
 | 2023-03-21 | 7 | 6 | 
 | 2023-03-20 | 7 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 7 | 5 | 
 | 2023-02-24 | 7 | 5 | 
 | 2023-02-23 | 7 | 5 | 
-| 2023-02-22 | 7 | 5 | 
 

@@ -1,6 +1,6 @@
 # dacap/keyfreq - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 299 | 23 | 
 | 2023-03-23 | 299 | 23 | 
 | 2023-03-21 | 299 | 23 | 
 | 2023-03-20 | 299 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 300 | 23 | 
 | 2023-02-24 | 300 | 22 | 
 | 2023-02-23 | 299 | 22 | 
-| 2023-02-22 | 299 | 22 | 
 

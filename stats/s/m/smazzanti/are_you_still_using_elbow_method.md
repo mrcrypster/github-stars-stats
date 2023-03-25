@@ -1,6 +1,6 @@
 # smazzanti/are_you_still_using_elbow_method - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 135 | 40 | 
 | 2023-03-23 | 135 | 40 | 
 | 2023-03-21 | 135 | 40 | 
 | 2023-03-20 | 135 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 128 | 37 | 
 | 2023-02-24 | 127 | 36 | 
 | 2023-02-23 | 127 | 35 | 
-| 2023-02-22 | 126 | 35 | 
 

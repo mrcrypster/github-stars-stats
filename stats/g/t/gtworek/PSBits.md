@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 24
 
-☋ Forks: 408
+☋ Forks: 409
 
-★ Stars: 2123
+★ Stars: 2124
 
 [Open repository](https://github.com/gtworek/PSBits)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 2123 | 408 | 
+| 2023-03-24 | 2124 | 409 | 
 | 2023-03-23 | 2123 | 408 | 
 | 2023-03-22 | 2118 | 408 | 
 | 2023-03-21 | 2110 | 405 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1864 | 363 | 
 | 2023-02-25 | 1864 | 363 | 
 | 2023-02-24 | 1861 | 362 | 
-| 2023-02-22 | 1860 | 362 | 
 

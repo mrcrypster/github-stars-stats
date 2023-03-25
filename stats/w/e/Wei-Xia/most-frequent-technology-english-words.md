@@ -1,10 +1,10 @@
 # Wei-Xia/most-frequent-technology-english-words - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 388
 
-★ Stars: 5289
+★ Stars: 5290
 
 [Open repository](https://github.com/Wei-Xia/most-frequent-technology-english-words)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 5290 | 388 | 
 | 2023-03-22 | 5289 | 388 | 
 | 2023-03-21 | 5287 | 388 | 
 | 2023-03-19 | 5284 | 389 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 5258 | 386 | 
 | 2023-02-24 | 5258 | 386 | 
 | 2023-02-23 | 5257 | 386 | 
-| 2023-02-22 | 5253 | 386 | 
 

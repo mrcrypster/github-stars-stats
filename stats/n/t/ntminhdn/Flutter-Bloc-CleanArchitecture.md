@@ -1,6 +1,6 @@
 # ntminhdn/Flutter-Bloc-CleanArchitecture - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 124 | 57 | 
 | 2023-03-23 | 124 | 57 | 
 | 2023-03-22 | 124 | 57 | 
 | 2023-03-20 | 124 | 56 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 112 | 48 | 
 | 2023-02-24 | 112 | 48 | 
 | 2023-02-23 | 110 | 48 | 
-| 2023-02-22 | 109 | 47 | 
 

@@ -1,10 +1,10 @@
 # tweag/capability - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
-★ Stars: 211
+★ Stars: 210
 
 [Open repository](https://github.com/tweag/capability)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 210 | 9 | 
 | 2023-03-22 | 211 | 9 | 
 | 2023-03-21 | 211 | 9 | 
 | 2023-03-20 | 211 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 210 | 9 | 
 | 2023-02-24 | 210 | 9 | 
 | 2023-02-23 | 210 | 9 | 
-| 2023-02-22 | 210 | 9 | 
 

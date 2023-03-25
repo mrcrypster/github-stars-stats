@@ -1,10 +1,10 @@
 # xb8/t119bruteforcer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 37
 
-★ Stars: 342
+★ Stars: 344
 
 [Open repository](https://github.com/xb8/t119bruteforcer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 344 | 37 | 
 | 2023-03-23 | 342 | 37 | 
 | 2023-03-22 | 342 | 37 | 
 | 2023-03-21 | 341 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 328 | 36 | 
 | 2023-02-24 | 328 | 36 | 
 | 2023-02-23 | 328 | 36 | 
-| 2023-02-22 | 328 | 36 | 
 

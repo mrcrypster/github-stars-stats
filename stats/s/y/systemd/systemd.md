@@ -1,10 +1,10 @@
 # systemd/systemd - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 3278
+☋ Forks: 3277
 
-★ Stars: 10835
+★ Stars: 10839
 
 [Open repository](https://github.com/systemd/systemd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 10839 | 3277 | 
 | 2023-03-22 | 10835 | 3278 | 
 | 2023-03-21 | 10833 | 3276 | 
 | 2023-03-20 | 10831 | 3271 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 10732 | 3235 | 
 | 2023-02-24 | 10727 | 3234 | 
 | 2023-02-23 | 10730 | 3233 | 
-| 2023-02-22 | 10727 | 3232 | 
 

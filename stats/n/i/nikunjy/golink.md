@@ -1,6 +1,6 @@
 # nikunjy/golink - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 42 | 12 | 
 | 2023-03-23 | 42 | 12 | 
 | 2023-03-22 | 42 | 12 | 
 | 2023-03-21 | 42 | 12 | 

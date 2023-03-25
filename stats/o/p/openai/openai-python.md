@@ -1,10 +1,10 @@
 # openai/openai-python - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 942
+☋ Forks: 957
 
-★ Stars: 6596
+★ Stars: 6720
 
 [Open repository](https://github.com/openai/openai-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6720 | 957 | 
 | 2023-03-23 | 6596 | 942 | 
 | 2023-03-21 | 6490 | 931 | 
 | 2023-03-20 | 6378 | 917 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 3072 | 630 | 
 | 2023-02-24 | 3063 | 625 | 
 | 2023-02-23 | 3041 | 624 | 
-| 2023-02-22 | 3011 | 621 | 
 

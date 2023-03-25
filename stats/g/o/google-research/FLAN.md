@@ -1,10 +1,10 @@
 # google-research/FLAN - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 686
+★ Stars: 691
 
 [Open repository](https://github.com/google-research/FLAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 691 | 80 | 
 | 2023-03-22 | 686 | 79 | 
 | 2023-03-21 | 681 | 77 | 
 | 2023-03-20 | 674 | 76 | 

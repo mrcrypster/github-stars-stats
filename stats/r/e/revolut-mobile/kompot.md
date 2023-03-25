@@ -1,10 +1,10 @@
 # revolut-mobile/kompot - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/revolut-mobile/kompot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 84 | 3 | 
 | 2023-03-23 | 83 | 3 | 
 | 2023-03-21 | 83 | 3 | 
 | 2023-03-20 | 83 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 82 | 3 | 
 | 2023-02-24 | 82 | 3 | 
 | 2023-02-23 | 82 | 3 | 
-| 2023-02-22 | 82 | 3 | 
 

@@ -1,6 +1,6 @@
 # YauhenKavalchuk/useful - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 408 | 137 | 
 | 2023-03-23 | 408 | 137 | 
 | 2023-03-21 | 408 | 138 | 
 | 2023-03-20 | 407 | 138 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 407 | 139 | 
 | 2023-02-24 | 407 | 139 | 
 | 2023-02-23 | 407 | 139 | 
-| 2023-02-22 | 407 | 139 | 
 

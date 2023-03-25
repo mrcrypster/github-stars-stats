@@ -1,10 +1,10 @@
 # github/hubot-sans - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 25
 
-★ Stars: 1571
+★ Stars: 1573
 
 [Open repository](https://github.com/github/hubot-sans)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1573 | 25 | 
 | 2023-03-23 | 1571 | 25 | 
 | 2023-03-22 | 1571 | 25 | 
 | 2023-03-21 | 1571 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1542 | 22 | 
 | 2023-02-24 | 1542 | 22 | 
 | 2023-02-23 | 1542 | 21 | 
-| 2023-02-22 | 1539 | 21 | 
 

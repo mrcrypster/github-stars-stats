@@ -1,10 +1,10 @@
 # mdozmorov/scRNA-seq_notes - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/mdozmorov/scRNA-seq_notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 375 | 103 | 
 | 2023-03-22 | 374 | 102 | 
 | 2023-03-21 | 374 | 102 | 
 | 2023-03-20 | 374 | 102 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 368 | 101 | 
 | 2023-02-24 | 367 | 101 | 
 | 2023-02-23 | 367 | 101 | 
-| 2023-02-22 | 367 | 101 | 
 

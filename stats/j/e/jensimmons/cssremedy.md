@@ -1,10 +1,10 @@
 # jensimmons/cssremedy - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 111
 
-★ Stars: 2090
+★ Stars: 2091
 
 [Open repository](https://github.com/jensimmons/cssremedy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2091 | 111 | 
 | 2023-03-22 | 2090 | 111 | 
 | 2023-03-21 | 2089 | 111 | 
 | 2023-03-20 | 2086 | 111 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 2084 | 110 | 
 | 2023-02-25 | 2084 | 110 | 
 | 2023-02-24 | 2084 | 110 | 
-| 2023-02-23 | 2084 | 110 | 
 

@@ -1,10 +1,10 @@
 # redballoonsecurity/ofrak - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 107
 
-★ Stars: 1488
+★ Stars: 1490
 
 [Open repository](https://github.com/redballoonsecurity/ofrak)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1490 | 107 | 
 | 2023-03-22 | 1488 | 107 | 
 | 2023-03-21 | 1487 | 106 | 
 | 2023-03-19 | 1484 | 106 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 1464 | 103 | 
 | 2023-02-24 | 1464 | 103 | 
 | 2023-02-23 | 1464 | 103 | 
-| 2023-02-22 | 1464 | 103 | 
 

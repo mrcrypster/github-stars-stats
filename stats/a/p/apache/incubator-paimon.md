@@ -1,8 +1,8 @@
 # apache/incubator-paimon - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 223
+☋ Forks: 224
 
 ★ Stars: 607
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 607 | 224 | 
 | 2023-03-23 | 607 | 223 | 
 | 2023-03-22 | 599 | 220 | 
 | 2023-03-21 | 551 | 213 | 

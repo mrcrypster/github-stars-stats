@@ -1,6 +1,6 @@
 # ITZ-ZAID/Scalingo - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1 | 63 | 
 | 2023-03-23 | 1 | 63 | 
 | 2023-03-21 | 1 | 63 | 
 | 2023-03-20 | 1 | 63 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 2 | 61 | 
 | 2023-02-24 | 2 | 60 | 
 | 2023-02-23 | 2 | 61 | 
-| 2023-02-22 | 2 | 60 | 
 

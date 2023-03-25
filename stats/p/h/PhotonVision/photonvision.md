@@ -1,6 +1,6 @@
 # PhotonVision/photonvision - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 162 | 106 | 
 | 2023-03-23 | 162 | 106 | 
 | 2023-03-22 | 162 | 106 | 
 | 2023-03-20 | 161 | 106 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 158 | 105 | 
 | 2023-02-25 | 158 | 105 | 
 | 2023-02-24 | 158 | 105 | 
-| 2023-02-22 | 157 | 104 | 
 

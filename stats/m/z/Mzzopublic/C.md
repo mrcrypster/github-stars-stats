@@ -1,10 +1,10 @@
 # Mzzopublic/C - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1561
+☋ Forks: 1563
 
-★ Stars: 3082
+★ Stars: 3081
 
 [Open repository](https://github.com/Mzzopublic/C)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3081 | 1563 | 
 | 2023-03-22 | 3082 | 1561 | 
 | 2023-03-21 | 3082 | 1562 | 
 | 2023-03-20 | 3082 | 1562 | 

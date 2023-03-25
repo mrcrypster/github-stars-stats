@@ -1,8 +1,8 @@
 # receyuki/nas-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 552
+☋ Forks: 559
 
 ★ Stars: 207
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 207 | 559 | 
 | 2023-03-23 | 207 | 552 | 
 | 2023-03-22 | 205 | 548 | 
 | 2023-03-20 | 204 | 540 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 141 | 381 | 
 | 2023-02-24 | 134 | 371 | 
 | 2023-02-23 | 119 | 343 | 
-| 2023-02-22 | 104 | 305 | 
 

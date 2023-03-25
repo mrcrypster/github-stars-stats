@@ -1,10 +1,10 @@
 # jameswenzel/foundry-create2-deployer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/jameswenzel/foundry-create2-deployer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 23 | 1 | 
 | 2023-03-23 | 22 | 1 | 
 | 2023-03-21 | 22 | 1 | 
 | 2023-03-20 | 22 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 21 | - | 
 | 2023-02-24 | 21 | - | 
 | 2023-02-23 | 21 | - | 
-| 2023-02-22 | 21 | - | 
 

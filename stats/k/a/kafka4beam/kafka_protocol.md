@@ -1,6 +1,6 @@
 # kafka4beam/kafka_protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 88 | 59 | 
 | 2023-03-23 | 88 | 59 | 
 | 2023-03-21 | 88 | 59 | 
 | 2023-03-20 | 88 | 59 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 88 | 57 | 
 | 2023-02-24 | 88 | 57 | 
 | 2023-02-23 | 88 | 57 | 
-| 2023-02-22 | 88 | 58 | 
 

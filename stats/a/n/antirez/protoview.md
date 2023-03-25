@@ -1,10 +1,10 @@
 # antirez/protoview - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 9
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/antirez/protoview)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 320 | 9 | 
 | 2023-03-22 | 319 | 9 | 
 | 2023-03-21 | 319 | 9 | 
 | 2023-03-20 | 319 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 308 | 9 | 
 | 2023-02-24 | 306 | 9 | 
 | 2023-02-23 | 305 | 10 | 
-| 2023-02-22 | 305 | 10 | 
 

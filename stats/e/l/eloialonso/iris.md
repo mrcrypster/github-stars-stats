@@ -1,10 +1,10 @@
 # eloialonso/iris - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 42
 
-★ Stars: 560
+★ Stars: 562
 
 [Open repository](https://github.com/eloialonso/iris)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 562 | 42 | 
 | 2023-03-23 | 560 | 42 | 
 | 2023-03-21 | 560 | 42 | 
 | 2023-03-20 | 560 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 546 | 39 | 
 | 2023-02-25 | 546 | 39 | 
 | 2023-02-23 | 545 | 39 | 
-| 2023-02-22 | 545 | 38 | 
 

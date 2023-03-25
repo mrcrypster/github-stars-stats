@@ -1,10 +1,10 @@
 # sjvasquez/handwriting-synthesis - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 381
 
-★ Stars: 2099
+★ Stars: 2100
 
 [Open repository](https://github.com/sjvasquez/handwriting-synthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2100 | 381 | 
 | 2023-03-23 | 2099 | 381 | 
 | 2023-03-21 | 2098 | 381 | 
 | 2023-03-20 | 2098 | 381 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 2077 | 377 | 
 | 2023-02-25 | 2076 | 377 | 
 | 2023-02-24 | 2076 | 377 | 
-| 2023-02-22 | 2073 | 377 | 
 

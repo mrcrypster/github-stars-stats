@@ -1,6 +1,6 @@
 # zodiacon/rust-course - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 96 | 13 | 
 | 2023-03-23 | 96 | 13 | 
 | 2023-03-22 | 94 | 13 | 
 | 2023-03-20 | 91 | 13 | 

@@ -1,10 +1,10 @@
 # scala-native/scala-native - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 336
 
-★ Stars: 4290
+★ Stars: 4288
 
 [Open repository](https://github.com/scala-native/scala-native)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 4288 | 336 | 
 | 2023-03-23 | 4290 | 336 | 
 | 2023-03-22 | 4289 | 336 | 
 | 2023-03-20 | 4290 | 336 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 4281 | 332 | 
 | 2023-02-25 | 4280 | 332 | 
 | 2023-02-24 | 4280 | 332 | 
-| 2023-02-23 | 4276 | 332 | 
 

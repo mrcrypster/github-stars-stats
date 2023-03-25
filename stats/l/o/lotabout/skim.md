@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 24
 
-☋ Forks: 159
+☋ Forks: 160
 
-★ Stars: 4013
+★ Stars: 4030
 
 [Open repository](https://github.com/lotabout/skim)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 4013 | 159 | 
+| 2023-03-24 | 4030 | 160 | 
 | 2023-03-23 | 4007 | 159 | 
 

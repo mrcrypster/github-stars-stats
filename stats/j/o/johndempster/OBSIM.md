@@ -1,6 +1,6 @@
 # johndempster/OBSIM - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3 | 8 | 
 | 2023-03-22 | 3 | 8 | 
 | 2023-03-21 | 3 | 8 | 
 | 2023-03-19 | 3 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 3 | 8 | 
 | 2023-02-24 | 3 | 8 | 
 | 2023-02-23 | 3 | 8 | 
-| 2023-02-22 | 3 | 8 | 
 

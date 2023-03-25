@@ -1,10 +1,10 @@
 # luke-schutt/Pi5Keyboard - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/luke-schutt/Pi5Keyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 28 | - | 
 | 2023-03-23 | 27 | - | 
 | 2023-03-21 | 27 | - | 
 | 2023-03-20 | 27 | - | 

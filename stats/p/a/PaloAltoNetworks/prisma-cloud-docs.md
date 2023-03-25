@@ -1,10 +1,10 @@
 # PaloAltoNetworks/prisma-cloud-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 152
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/PaloAltoNetworks/prisma-cloud-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 54 | 152 | 
 | 2023-03-22 | 53 | 152 | 
 | 2023-03-21 | 53 | 152 | 
 | 2023-03-20 | 53 | 152 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 48 | 143 | 
 | 2023-02-24 | 48 | 142 | 
 | 2023-02-23 | 48 | 142 | 
-| 2023-02-22 | 48 | 141 | 
 

@@ -1,8 +1,8 @@
 # OCA/account-invoicing - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 598
+☋ Forks: 597
 
 ★ Stars: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 194 | 597 | 
 | 2023-03-22 | 194 | 598 | 
 | 2023-03-21 | 194 | 598 | 
 | 2023-03-20 | 194 | 597 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 193 | 590 | 
 | 2023-02-24 | 193 | 590 | 
 | 2023-02-23 | 192 | 589 | 
-| 2023-02-22 | 192 | 589 | 
 

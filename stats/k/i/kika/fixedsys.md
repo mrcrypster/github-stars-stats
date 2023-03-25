@@ -1,10 +1,10 @@
 # kika/fixedsys - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 48
 
-★ Stars: 829
+★ Stars: 831
 
 [Open repository](https://github.com/kika/fixedsys)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 831 | 48 | 
 | 2023-03-23 | 829 | 48 | 
 | 2023-03-22 | 829 | 48 | 
 | 2023-03-20 | 829 | 48 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 816 | 48 | 
 | 2023-02-25 | 815 | 48 | 
 | 2023-02-24 | 815 | 48 | 
-| 2023-02-22 | 815 | 48 | 
 

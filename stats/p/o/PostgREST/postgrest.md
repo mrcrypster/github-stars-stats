@@ -1,10 +1,10 @@
 # PostgREST/postgrest - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 929
 
-★ Stars: 20240
+★ Stars: 20241
 
 [Open repository](https://github.com/PostgREST/postgrest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 20241 | 929 | 
 | 2023-03-23 | 20240 | 929 | 
 | 2023-03-22 | 20239 | 928 | 
 | 2023-03-21 | 20233 | 927 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 20103 | 918 | 
 | 2023-02-24 | 20102 | 918 | 
 | 2023-02-23 | 20092 | 917 | 
-| 2023-02-22 | 20090 | 917 | 
 

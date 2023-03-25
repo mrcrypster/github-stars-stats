@@ -1,6 +1,6 @@
 # tittoassini/notebook - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 41 | 1 | 
 | 2023-03-22 | 41 | 1 | 
 | 2023-03-21 | 41 | 1 | 
 | 2023-03-20 | 41 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 41 | 1 | 
 | 2023-02-25 | 41 | 1 | 
 | 2023-02-24 | 41 | 1 | 
-| 2023-02-23 | 41 | 1 | 
 

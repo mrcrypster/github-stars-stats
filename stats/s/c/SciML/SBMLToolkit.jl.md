@@ -1,10 +1,10 @@
 # SciML/SBMLToolkit.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 6
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/SciML/SBMLToolkit.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 31 | 6 | 
 | 2023-03-22 | 30 | 6 | 
 | 2023-03-21 | 30 | 6 | 
 | 2023-03-20 | 29 | 6 | 

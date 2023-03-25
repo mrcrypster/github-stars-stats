@@ -1,10 +1,10 @@
 # bazel-contrib/rules_oci - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 11
 
-★ Stars: 40
+★ Stars: 43
 
 [Open repository](https://github.com/bazel-contrib/rules_oci)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 43 | 11 | 
 | 2023-03-22 | 40 | 11 | 
 | 2023-03-21 | 38 | 11 | 
 | 2023-03-20 | 38 | 10 | 

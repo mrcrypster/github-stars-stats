@@ -1,10 +1,10 @@
 # xianyi/OpenBLAS - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1286
+☋ Forks: 1289
 
-★ Stars: 5058
+★ Stars: 5070
 
 [Open repository](https://github.com/xianyi/OpenBLAS)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 5070 | 1289 | 
+| 2023-03-24 | 5069 | 1289 | 
 | 2023-03-22 | 5058 | 1286 | 
 | 2023-03-21 | 5055 | 1284 | 
 | 2023-03-20 | 5052 | 1284 | 
@@ -35,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 5015 | 1272 | 
 | 2023-02-25 | 5014 | 1273 | 
 | 2023-02-24 | 5011 | 1272 | 
-| 2023-02-22 | 5012 | 1271 | 
 

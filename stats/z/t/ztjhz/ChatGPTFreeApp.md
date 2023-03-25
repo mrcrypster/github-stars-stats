@@ -1,10 +1,10 @@
 # ztjhz/ChatGPTFreeApp - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 333
+☋ Forks: 364
 
-★ Stars: 1160
+★ Stars: 1226
 
 [Open repository](https://github.com/ztjhz/ChatGPTFreeApp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1226 | 364 | 
 | 2023-03-23 | 1160 | 333 | 
 | 2023-03-22 | 1068 | 300 | 
 | 2023-03-20 | 970 | 261 | 

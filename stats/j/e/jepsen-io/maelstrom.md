@@ -1,6 +1,6 @@
 # jepsen-io/maelstrom - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1243 | 81 | 
 | 2023-03-23 | 1243 | 81 | 
 | 2023-03-22 | 1237 | 82 | 
 | 2023-03-21 | 1236 | 82 | 

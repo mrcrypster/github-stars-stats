@@ -1,6 +1,6 @@
 # unkperson/consulta-operadora - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 53 | 50 | 
 | 2023-03-23 | 53 | 50 | 
 | 2023-03-21 | 53 | 50 | 
 | 2023-03-20 | 53 | 50 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 54 | 50 | 
 | 2023-02-24 | 54 | 50 | 
 | 2023-02-23 | 54 | 50 | 
-| 2023-02-22 | 54 | 50 | 
 

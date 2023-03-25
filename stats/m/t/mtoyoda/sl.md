@@ -1,10 +1,10 @@
 # mtoyoda/sl - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 390
 
-★ Stars: 2549
+★ Stars: 2550
 
 [Open repository](https://github.com/mtoyoda/sl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2550 | 390 | 
 | 2023-03-22 | 2549 | 390 | 
 | 2023-03-21 | 2548 | 390 | 
 | 2023-03-20 | 2546 | 388 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 2530 | 389 | 
 | 2023-02-24 | 2529 | 389 | 
 | 2023-02-23 | 2527 | 389 | 
-| 2023-02-22 | 2526 | 389 | 
 

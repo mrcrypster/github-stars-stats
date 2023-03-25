@@ -1,8 +1,8 @@
 # AzureAD/microsoft-authentication-library-for-dotnet - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 291
+☋ Forks: 292
 
 ★ Stars: 1096
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1096 | 292 | 
 | 2023-03-23 | 1096 | 291 | 
 | 2023-03-21 | 1095 | 291 | 
 | 2023-03-20 | 1095 | 291 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1083 | 289 | 
 | 2023-02-24 | 1083 | 289 | 
 | 2023-02-23 | 1081 | 288 | 
-| 2023-02-22 | 1080 | 288 | 
 

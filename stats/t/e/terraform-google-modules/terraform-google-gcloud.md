@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-gcloud - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-gcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 110 | 93 | 
 | 2023-03-23 | 109 | 92 | 
 | 2023-03-21 | 109 | 92 | 
 | 2023-03-20 | 109 | 91 | 

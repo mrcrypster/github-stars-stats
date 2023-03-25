@@ -1,10 +1,10 @@
 # salesforce/rules_spring - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 35
 
-★ Stars: 172
+★ Stars: 171
 
 [Open repository](https://github.com/salesforce/rules_spring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 171 | 35 | 
 | 2023-03-23 | 172 | 35 | 
 | 2023-03-21 | 171 | 35 | 
 | 2023-03-20 | 171 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 169 | 35 | 
 | 2023-02-24 | 169 | 35 | 
 | 2023-02-23 | 169 | 35 | 
-| 2023-02-22 | 169 | 35 | 
 

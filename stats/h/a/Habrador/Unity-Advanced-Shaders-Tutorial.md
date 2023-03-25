@@ -1,6 +1,6 @@
 # Habrador/Unity-Advanced-Shaders-Tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 25 | 3 | 
 | 2023-03-23 | 25 | 3 | 
 | 2023-03-21 | 25 | 3 | 
 | 2023-03-20 | 25 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 25 | 3 | 
 | 2023-02-24 | 25 | 3 | 
 | 2023-02-23 | 25 | 3 | 
-| 2023-02-22 | 25 | 3 | 
 

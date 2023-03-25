@@ -1,10 +1,10 @@
 # EleutherAI/gpt-neo - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 765
+☋ Forks: 767
 
-★ Stars: 7412
+★ Stars: 7433
 
 [Open repository](https://github.com/EleutherAI/gpt-neo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7433 | 767 | 
 | 2023-03-23 | 7412 | 765 | 
 | 2023-03-21 | 7391 | 761 | 
 | 2023-03-20 | 7370 | 758 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 7148 | 704 | 
 | 2023-02-24 | 7138 | 703 | 
 | 2023-02-23 | 7124 | 701 | 
-| 2023-02-22 | 7113 | 699 | 
 

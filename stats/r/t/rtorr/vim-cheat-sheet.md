@@ -1,10 +1,10 @@
 # rtorr/vim-cheat-sheet - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 301
+☋ Forks: 302
 
-★ Stars: 1420
+★ Stars: 1422
 
 [Open repository](https://github.com/rtorr/vim-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1422 | 302 | 
 | 2023-03-23 | 1420 | 301 | 
 | 2023-03-21 | 1420 | 301 | 
 | 2023-03-20 | 1419 | 301 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1413 | 300 | 
 | 2023-02-24 | 1413 | 300 | 
 | 2023-02-23 | 1413 | 299 | 
-| 2023-02-22 | 1413 | 299 | 
 

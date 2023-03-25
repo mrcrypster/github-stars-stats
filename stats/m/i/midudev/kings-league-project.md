@@ -1,10 +1,10 @@
 # midudev/kings-league-project - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 219
+☋ Forks: 218
 
-★ Stars: 1509
+★ Stars: 1507
 
 [Open repository](https://github.com/midudev/kings-league-project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1507 | 218 | 
 | 2023-03-22 | 1509 | 219 | 
 | 2023-03-21 | 1508 | 219 | 
 | 2023-03-20 | 1509 | 220 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 1516 | 222 | 
 | 2023-02-24 | 1516 | 222 | 
 | 2023-02-23 | 1515 | 222 | 
-| 2023-02-22 | 1517 | 222 | 
 

@@ -1,10 +1,10 @@
 # austin2035/astro-air-blog - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 25
 
-☋ Forks: 55
+☋ Forks: 57
 
-★ Stars: 506
+★ Stars: 520
 
 [Open repository](https://github.com/austin2035/astro-air-blog)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 520 | 57 | 
+| 2023-03-24 | 520 | 57 | 
 | 2023-03-22 | 506 | 55 | 
 | 2023-03-21 | 502 | 52 | 
 | 2023-03-20 | 498 | 50 | 

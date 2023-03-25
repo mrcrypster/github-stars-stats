@@ -1,10 +1,10 @@
 # stripe/stripe-php - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 809
 
-★ Stars: 3343
+★ Stars: 3347
 
 [Open repository](https://github.com/stripe/stripe-php)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3347 | 809 | 
 | 2023-03-23 | 3343 | 809 | 
 | 2023-03-22 | 3343 | 809 | 
 | 2023-03-21 | 3342 | 808 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 3322 | 801 | 
 | 2023-02-24 | 3322 | 801 | 
 | 2023-02-23 | 3320 | 801 | 
-| 2023-02-22 | 3320 | 801 | 
 

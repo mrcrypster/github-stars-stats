@@ -1,6 +1,6 @@
 # JPersson77/LGTVCompanion - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 548 | 25 | 
 | 2023-03-22 | 548 | 25 | 
 | 2023-03-21 | 546 | 25 | 
 | 2023-03-19 | 544 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 524 | 25 | 
 | 2023-02-25 | 523 | 25 | 
 | 2023-02-24 | 522 | 25 | 
-| 2023-02-22 | 521 | 25 | 
 

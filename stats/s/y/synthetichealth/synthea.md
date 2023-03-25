@@ -1,8 +1,8 @@
 # synthetichealth/synthea - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 510
+☋ Forks: 511
 
 ★ Stars: 1617
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1617 | 511 | 
 | 2023-03-23 | 1617 | 510 | 
 | 2023-03-22 | 1614 | 510 | 
 | 2023-03-21 | 1613 | 509 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1585 | 503 | 
 | 2023-02-24 | 1585 | 501 | 
 | 2023-02-23 | 1584 | 500 | 
-| 2023-02-22 | 1582 | 501 | 
 

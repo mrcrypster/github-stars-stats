@@ -1,6 +1,6 @@
 # HDoujinDownloader/HDoujinDownloader - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 265 | 15 | 
 | 2023-03-22 | 265 | 15 | 
 | 2023-03-21 | 264 | 15 | 
 | 2023-03-20 | 264 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 263 | 15 | 
 | 2023-02-24 | 262 | 15 | 
 | 2023-02-23 | 261 | 15 | 
-| 2023-02-22 | 261 | 15 | 
 

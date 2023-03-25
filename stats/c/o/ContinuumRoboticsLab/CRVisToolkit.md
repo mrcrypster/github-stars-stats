@@ -1,8 +1,8 @@
 # ContinuumRoboticsLab/CRVisToolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 23 | 3 | 
 | 2023-03-23 | 23 | 2 | 
 | 2023-03-21 | 23 | 2 | 
 | 2023-03-20 | 23 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 19 | 1 | 
 | 2023-02-25 | 19 | 1 | 
 | 2023-02-24 | 19 | 1 | 
-| 2023-02-22 | 19 | 1 | 
 

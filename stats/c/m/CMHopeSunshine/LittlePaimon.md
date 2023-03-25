@@ -1,10 +1,10 @@
 # CMHopeSunshine/LittlePaimon - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 118
 
-★ Stars: 898
+★ Stars: 902
 
 [Open repository](https://github.com/CMHopeSunshine/LittlePaimon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 902 | 118 | 
 | 2023-03-23 | 898 | 118 | 
 | 2023-03-22 | 896 | 118 | 
 | 2023-03-21 | 895 | 118 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 858 | 113 | 
 | 2023-02-25 | 857 | 112 | 
 | 2023-02-24 | 855 | 112 | 
-| 2023-02-22 | 851 | 111 | 
 

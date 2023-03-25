@@ -1,10 +1,10 @@
 # elceef/subzuf - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 13
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/elceef/subzuf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 128 | 13 | 
 | 2023-03-23 | 127 | 13 | 
 | 2023-03-22 | 127 | 13 | 
 | 2023-03-20 | 127 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 126 | 12 | 
 | 2023-02-24 | 126 | 12 | 
 | 2023-02-23 | 126 | 12 | 
-| 2023-02-22 | 126 | 12 | 
 

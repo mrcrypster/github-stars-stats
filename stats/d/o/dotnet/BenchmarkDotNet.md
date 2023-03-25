@@ -1,10 +1,10 @@
 # dotnet/BenchmarkDotNet - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 873
 
-★ Stars: 8816
+★ Stars: 8819
 
 [Open repository](https://github.com/dotnet/BenchmarkDotNet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 8819 | 873 | 
 | 2023-03-22 | 8816 | 873 | 
 | 2023-03-21 | 8810 | 873 | 
 | 2023-03-20 | 8801 | 871 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 8731 | 862 | 
 | 2023-02-24 | 8733 | 862 | 
 | 2023-02-23 | 8728 | 862 | 
-| 2023-02-22 | 8726 | 862 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 24
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 112
+★ Stars: 116
 
 [Open repository](https://github.com/KSESEU/LLMPapers)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 112 | 8 | 
+| 2023-03-24 | 116 | 9 | 
 | 2023-03-23 | 112 | 8 | 
 | 2023-03-22 | 106 | 7 | 
 | 2023-03-21 | 83 | 7 | 

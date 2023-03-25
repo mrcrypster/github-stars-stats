@@ -1,6 +1,6 @@
 # afzafri/UiTM-Timetable-Generator - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 33 | 28 | 
 | 2023-03-23 | 33 | 28 | 
 | 2023-03-21 | 32 | 27 | 
 | 2023-03-20 | 32 | 27 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 29 | 26 | 
 | 2023-02-24 | 29 | 26 | 
 | 2023-02-23 | 29 | 26 | 
-| 2023-02-22 | 29 | 26 | 
 

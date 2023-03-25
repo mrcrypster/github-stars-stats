@@ -1,10 +1,10 @@
 # google-research/big_vision - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 52
 
-★ Stars: 811
+★ Stars: 813
 
 [Open repository](https://github.com/google-research/big_vision)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 813 | 52 | 
 | 2023-03-23 | 811 | 52 | 
 | 2023-03-22 | 811 | 52 | 
 | 2023-03-20 | 810 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 783 | 47 | 
 | 2023-02-24 | 783 | 47 | 
 | 2023-02-23 | 784 | 47 | 
-| 2023-02-22 | 784 | 47 | 
 

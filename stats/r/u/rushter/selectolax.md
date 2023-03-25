@@ -1,8 +1,8 @@
 # rushter/selectolax - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 772
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 772 | 62 | 
 | 2023-03-22 | 772 | 61 | 
 | 2023-03-21 | 771 | 60 | 
 | 2023-03-20 | 769 | 60 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 752 | 60 | 
 | 2023-02-24 | 750 | 60 | 
 | 2023-02-23 | 749 | 60 | 
-| 2023-02-22 | 748 | 60 | 
 

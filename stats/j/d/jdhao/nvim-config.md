@@ -1,6 +1,6 @@
 # jdhao/nvim-config - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 400
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 2276 | 400 | 
 | 2023-03-22 | 2276 | 400 | 
 | 2023-03-21 | 2273 | 399 | 
 | 2023-03-20 | 2271 | 400 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 2222 | 385 | 
 | 2023-02-24 | 2216 | 381 | 
 | 2023-02-23 | 2215 | 380 | 
-| 2023-02-22 | 2215 | 381 | 
 

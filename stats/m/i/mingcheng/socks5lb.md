@@ -1,6 +1,6 @@
 # mingcheng/socks5lb - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 365 | 22 | 
 | 2023-03-23 | 365 | 22 | 
 | 2023-03-21 | 365 | 22 | 
 | 2023-03-20 | 365 | 22 | 

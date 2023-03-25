@@ -1,8 +1,8 @@
 # spring-guides/gs-rest-service - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 2220
+☋ Forks: 2221
 
 ★ Stars: 1255
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1255 | 2221 | 
 | 2023-03-23 | 1255 | 2220 | 
 | 2023-03-21 | 1254 | 2218 | 
 | 2023-03-20 | 1254 | 2217 | 

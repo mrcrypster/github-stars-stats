@@ -1,6 +1,6 @@
 # babashka/nbb - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 718 | 45 | 
 | 2023-03-22 | 718 | 45 | 
 | 2023-03-21 | 717 | 45 | 
 | 2023-03-20 | 717 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 708 | 45 | 
 | 2023-02-25 | 708 | 45 | 
 | 2023-02-24 | 707 | 45 | 
-| 2023-02-22 | 705 | 45 | 
 

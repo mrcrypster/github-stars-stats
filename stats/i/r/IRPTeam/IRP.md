@@ -1,10 +1,10 @@
 # IRPTeam/IRP - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 74
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/IRPTeam/IRP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 78 | 74 | 
 | 2023-03-23 | 77 | 74 | 
 | 2023-03-21 | 77 | 74 | 
 | 2023-03-20 | 77 | 74 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 77 | 74 | 
 | 2023-02-25 | 77 | 74 | 
 | 2023-02-24 | 76 | 74 | 
-| 2023-02-23 | 76 | 74 | 
 

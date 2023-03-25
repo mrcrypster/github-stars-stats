@@ -1,10 +1,10 @@
 # TA-Lib/ta-lib-python - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 1487
+☋ Forks: 1488
 
-★ Stars: 7581
+★ Stars: 7586
 
 [Open repository](https://github.com/TA-Lib/ta-lib-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 7586 | 1488 | 
 | 2023-03-23 | 7581 | 1487 | 
 | 2023-03-22 | 7578 | 1484 | 
 | 2023-03-21 | 7577 | 1482 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 7488 | 1467 | 
 | 2023-02-24 | 7483 | 1467 | 
 | 2023-02-23 | 7481 | 1466 | 
-| 2023-02-22 | 7477 | 1466 | 
 

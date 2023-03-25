@@ -1,10 +1,10 @@
 # junegunn/seoul256.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 133
 
-★ Stars: 1567
+★ Stars: 1569
 
 [Open repository](https://github.com/junegunn/seoul256.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1569 | 133 | 
 | 2023-03-23 | 1567 | 133 | 
 | 2023-03-22 | 1567 | 133 | 
 | 2023-03-20 | 1567 | 133 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1563 | 131 | 
 | 2023-02-25 | 1563 | 131 | 
 | 2023-02-24 | 1563 | 131 | 
-| 2023-02-23 | 1563 | 131 | 
 

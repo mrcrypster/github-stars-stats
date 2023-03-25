@@ -1,10 +1,10 @@
 # AndrasKovacs/sett - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/AndrasKovacs/sett)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 36 | - | 
 | 2023-03-22 | 37 | - | 
 | 2023-03-21 | 37 | - | 
 | 2023-03-20 | 37 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 37 | - | 
 | 2023-02-25 | 37 | - | 
 | 2023-02-24 | 37 | - | 
-| 2023-02-22 | 37 | - | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 24
 
-☋ Forks: 106
+☋ Forks: 112
 
-★ Stars: 1618
+★ Stars: 1666
 
 [Open repository](https://github.com/logspace-ai/langflow)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-24 | 1618 | 106 | 
+| 2023-03-24 | 1666 | 112 | 
 | 2023-03-23 | 1597 | 105 | 
 | 2023-03-22 | 1451 | 90 | 
 | 2023-03-21 | 1177 | 71 | 

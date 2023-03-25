@@ -1,10 +1,10 @@
 # nunomaduro/termwind - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 61
 
-★ Stars: 1870
+★ Stars: 1872
 
 [Open repository](https://github.com/nunomaduro/termwind)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1872 | 61 | 
 | 2023-03-23 | 1870 | 61 | 
 | 2023-03-22 | 1868 | 61 | 
 | 2023-03-21 | 1866 | 61 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1823 | 61 | 
 | 2023-02-24 | 1822 | 61 | 
 | 2023-02-23 | 1821 | 61 | 
-| 2023-02-22 | 1821 | 61 | 
 

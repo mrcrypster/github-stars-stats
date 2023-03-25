@@ -1,10 +1,10 @@
 # curiousily/Getting-Things-Done-with-Pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 553
+☋ Forks: 554
 
-★ Stars: 1883
+★ Stars: 1885
 
 [Open repository](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1885 | 554 | 
 | 2023-03-23 | 1883 | 553 | 
 | 2023-03-22 | 1881 | 553 | 
 | 2023-03-20 | 1881 | 554 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1861 | 547 | 
 | 2023-02-24 | 1856 | 545 | 
 | 2023-02-23 | 1855 | 545 | 
-| 2023-02-22 | 1852 | 544 | 
 

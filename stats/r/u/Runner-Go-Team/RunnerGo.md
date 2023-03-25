@@ -1,10 +1,10 @@
 # Runner-Go-Team/RunnerGo - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 25
 
-★ Stars: 164
+★ Stars: 178
 
 [Open repository](https://github.com/Runner-Go-Team/RunnerGo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 178 | 25 | 
 | 2023-03-23 | 164 | 25 | 
 | 2023-03-21 | 154 | 24 | 
 | 2023-03-20 | 149 | 24 | 

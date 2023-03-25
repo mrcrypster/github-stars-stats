@@ -1,10 +1,10 @@
 # jupyter/notebook - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 4038
 
-★ Stars: 9877
+★ Stars: 9883
 
 [Open repository](https://github.com/jupyter/notebook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 9883 | 4038 | 
 | 2023-03-22 | 9877 | 4038 | 
 | 2023-03-21 | 9871 | 4036 | 
 | 2023-03-20 | 9867 | 4032 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 9796 | 4015 | 
 | 2023-02-24 | 9794 | 4014 | 
 | 2023-02-23 | 9790 | 4014 | 
-| 2023-02-22 | 9789 | 4014 | 
 

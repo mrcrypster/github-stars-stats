@@ -1,6 +1,6 @@
 # theepiccode/Awesome-CyberSec-Resources - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 258 | 108 | 
 | 2023-03-22 | 258 | 108 | 
 | 2023-03-21 | 255 | 108 | 
 | 2023-03-20 | 255 | 108 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 221 | 105 | 
 | 2023-02-24 | 220 | 104 | 
 | 2023-02-23 | 218 | 104 | 
-| 2023-02-22 | 217 | 104 | 
 

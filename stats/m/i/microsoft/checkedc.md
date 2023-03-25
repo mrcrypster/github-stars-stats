@@ -1,6 +1,6 @@
 # microsoft/checkedc - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3113 | 194 | 
 | 2023-03-23 | 3113 | 194 | 
 | 2023-03-21 | 3113 | 194 | 
 | 2023-03-20 | 3113 | 194 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 3114 | 194 | 
 | 2023-02-24 | 3114 | 194 | 
 | 2023-02-23 | 3114 | 194 | 
-| 2023-02-22 | 3113 | 194 | 
 

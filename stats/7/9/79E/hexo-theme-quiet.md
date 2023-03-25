@@ -1,10 +1,10 @@
 # 79E/hexo-theme-quiet - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/79E/hexo-theme-quiet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 158 | 25 | 
 | 2023-03-22 | 157 | 24 | 
 | 2023-03-21 | 156 | 24 | 
 | 2023-03-20 | 155 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 153 | 24 | 
 | 2023-02-24 | 153 | 24 | 
 | 2023-02-23 | 153 | 24 | 
-| 2023-02-22 | 152 | 24 | 
 

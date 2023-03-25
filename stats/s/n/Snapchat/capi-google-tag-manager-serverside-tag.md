@@ -1,6 +1,6 @@
 # Snapchat/capi-google-tag-manager-serverside-tag - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 3 | 3 | 
 | 2023-03-23 | 3 | 3 | 
 | 2023-03-22 | 3 | 3 | 
 | 2023-03-20 | 3 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 2 | 1 | 
 | 2023-02-25 | 2 | 1 | 
 | 2023-02-24 | 2 | 1 | 
-| 2023-02-22 | 2 | 1 | 
 

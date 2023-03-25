@@ -1,10 +1,10 @@
 # gree/unity-webview - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 645
 
-★ Stars: 1952
+★ Stars: 1954
 
 [Open repository](https://github.com/gree/unity-webview)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 1954 | 645 | 
 | 2023-03-23 | 1952 | 645 | 
 | 2023-03-22 | 1951 | 645 | 
 | 2023-03-21 | 1951 | 645 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 1936 | 642 | 
 | 2023-02-24 | 1936 | 642 | 
 | 2023-02-23 | 1936 | 642 | 
-| 2023-02-22 | 1935 | 642 | 
 

@@ -1,8 +1,8 @@
 # world-class/REPL - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
-☋ Forks: 185
+☋ Forks: 186
 
 ★ Stars: 653
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 653 | 186 | 
 | 2023-03-23 | 653 | 185 | 
 | 2023-03-21 | 652 | 185 | 
 | 2023-03-20 | 651 | 187 | 

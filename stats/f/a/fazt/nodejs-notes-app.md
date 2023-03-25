@@ -1,6 +1,6 @@
 # fazt/nodejs-notes-app - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 211 | 173 | 
 | 2023-03-22 | 211 | 173 | 
 | 2023-03-21 | 211 | 173 | 
 | 2023-03-20 | 210 | 174 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-25 | 210 | 173 | 
 | 2023-02-24 | 210 | 172 | 
 | 2023-02-23 | 210 | 172 | 
-| 2023-02-22 | 209 | 172 | 
 

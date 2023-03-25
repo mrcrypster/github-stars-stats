@@ -1,10 +1,10 @@
 # motion-canvas/motion-canvas - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 390
+☋ Forks: 397
 
-★ Stars: 10281
+★ Stars: 10327
 
 [Open repository](https://github.com/motion-canvas/motion-canvas)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10327 | 397 | 
 | 2023-03-23 | 10281 | 390 | 
 | 2023-03-22 | 10220 | 388 | 
 | 2023-03-20 | 10143 | 384 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 9032 | 336 | 
 | 2023-02-24 | 8958 | 334 | 
 | 2023-02-23 | 8814 | 328 | 
-| 2023-02-22 | 8205 | 312 | 
 

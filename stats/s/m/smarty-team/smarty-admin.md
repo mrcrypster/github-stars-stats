@@ -1,6 +1,6 @@
 # smarty-team/smarty-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 54 | 106 | 
 | 2023-03-23 | 54 | 106 | 
 | 2023-03-22 | 54 | 106 | 
 | 2023-03-21 | 54 | 106 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | 50 | 105 | 
 | 2023-02-24 | 50 | 105 | 
 | 2023-02-23 | 50 | 105 | 
-| 2023-02-22 | 50 | 104 | 
 

@@ -1,6 +1,6 @@
 # weak1337/Alcatraz - stars & forks statistics
 
-Stats updated on Mar 2023, 22
+Stats updated on Mar 2023, 24
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-24 | 834 | 143 | 
 | 2023-03-22 | 834 | 143 | 
 | 2023-03-21 | 831 | 142 | 
 | 2023-03-20 | 830 | 142 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 22
 | 2023-02-26 | 779 | 128 | 
 | 2023-02-24 | 775 | 126 | 
 | 2023-02-23 | 774 | 126 | 
-| 2023-02-22 | 771 | 126 | 
 

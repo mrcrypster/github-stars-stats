@@ -1,6 +1,6 @@
 # carlosalexei/ratings-web - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | - | 71 | 
 | 2023-03-23 | - | 71 | 
 | 2023-03-22 | - | 71 | 
 | 2023-03-20 | - | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-25 | - | 68 | 
 | 2023-02-24 | - | 67 | 
 | 2023-02-23 | - | 67 | 
-| 2023-02-22 | - | 67 | 
 
