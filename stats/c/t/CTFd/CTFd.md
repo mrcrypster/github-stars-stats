@@ -1,10 +1,10 @@
 # CTFd/CTFd - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1742
+☋ Forks: 1743
 
-★ Stars: 4542
+★ Stars: 4546
 
 [Open repository](https://github.com/CTFd/CTFd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4546 | 1743 | 
 | 2023-03-24 | 4542 | 1742 | 
 | 2023-03-23 | 4543 | 1743 | 
 | 2023-03-22 | 4544 | 1741 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 4488 | 1712 | 
 | 2023-02-25 | 4487 | 1713 | 
 | 2023-02-24 | 4485 | 1710 | 
-| 2023-02-23 | 4479 | 1708 | 
 

@@ -1,6 +1,6 @@
 # microsoft/vscode-remote-try-go - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 273 | 184 | 
 | 2023-03-23 | 273 | 184 | 
 | 2023-03-22 | 273 | 185 | 
 | 2023-03-20 | 273 | 185 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 270 | 179 | 
 | 2023-02-26 | 268 | 179 | 
 | 2023-02-25 | 268 | 179 | 
-| 2023-02-23 | 268 | 179 | 
 

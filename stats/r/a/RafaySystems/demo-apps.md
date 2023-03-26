@@ -1,8 +1,8 @@
 # RafaySystems/demo-apps - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 63
+☋ Forks: 62
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 62 | 
 | 2023-03-24 | - | 63 | 
 | 2023-03-23 | - | 63 | 
 | 2023-03-21 | - | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | - | 64 | 
 | 2023-02-25 | - | 64 | 
 | 2023-02-24 | - | 64 | 
-| 2023-02-23 | - | 64 | 
 

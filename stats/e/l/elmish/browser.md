@@ -1,10 +1,10 @@
 # elmish/browser - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 18
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/elmish/browser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 34 | 18 | 
 | 2023-03-24 | 33 | 18 | 
 | 2023-03-23 | 33 | 18 | 
 | 2023-03-21 | 33 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 34 | 18 | 
 | 2023-02-26 | 34 | 18 | 
 | 2023-02-25 | 34 | 18 | 
-| 2023-02-24 | 34 | 18 | 
 

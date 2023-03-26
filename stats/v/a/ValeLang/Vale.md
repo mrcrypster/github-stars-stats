@@ -1,6 +1,6 @@
 # ValeLang/Vale - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1190 | 42 | 
 | 2023-03-23 | 1190 | 42 | 
 | 2023-03-22 | 1188 | 42 | 
 | 2023-03-21 | 1188 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1164 | 42 | 
 | 2023-02-25 | 1162 | 42 | 
 | 2023-02-24 | 1161 | 42 | 
-| 2023-02-23 | 1159 | 42 | 
 

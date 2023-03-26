@@ -1,6 +1,6 @@
 # rktjmp/paperplanes.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 68 | 3 | 
 | 2023-03-23 | 68 | 3 | 
 | 2023-03-22 | 68 | 3 | 
 | 2023-03-20 | 68 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 65 | 3 | 
 | 2023-02-25 | 65 | 3 | 
 | 2023-02-24 | 65 | 3 | 
-| 2023-02-23 | 65 | 3 | 
 

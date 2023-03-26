@@ -1,10 +1,10 @@
 # Mazamars312/openfpga-pcengine-cd - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/Mazamars312/openfpga-pcengine-cd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 31 | 4 | 
 | 2023-03-23 | 30 | 4 | 
 | 2023-03-22 | 30 | 4 | 
 | 2023-03-20 | 30 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 26 | 4 | 
 | 2023-02-25 | 26 | 4 | 
 | 2023-02-24 | 26 | 4 | 
-| 2023-02-23 | 26 | 4 | 
 

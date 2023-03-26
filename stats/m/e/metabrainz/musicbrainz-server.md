@@ -1,6 +1,6 @@
 # metabrainz/musicbrainz-server - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 741 | 265 | 
 | 2023-03-24 | 741 | 265 | 
 | 2023-03-22 | 740 | 265 | 
 | 2023-03-21 | 740 | 265 | 

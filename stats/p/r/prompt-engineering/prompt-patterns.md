@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 25
 
 ☋ Forks: 63
 
-★ Stars: 1203
+★ Stars: 1234
 
 [Open repository](https://github.com/prompt-engineering/prompt-patterns)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 1203 | 63 | 
+| 2023-03-25 | 1234 | 63 | 
 | 2023-03-24 | 1203 | 63 | 
 | 2023-03-23 | 1127 | 60 | 
 

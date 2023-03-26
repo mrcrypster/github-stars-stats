@@ -1,8 +1,8 @@
 # libsql/sqld - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 19
+☋ Forks: 22
 
 ★ Stars: 472
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 472 | 22 | 
 | 2023-03-24 | 472 | 19 | 
 | 2023-03-22 | 472 | 19 | 
 | 2023-03-21 | 471 | 19 | 

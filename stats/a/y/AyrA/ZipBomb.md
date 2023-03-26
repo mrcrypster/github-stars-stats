@@ -1,10 +1,10 @@
 # AyrA/ZipBomb - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 16
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/AyrA/ZipBomb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 123 | 16 | 
 | 2023-03-23 | 122 | 16 | 
 | 2023-03-22 | 122 | 16 | 
 | 2023-03-21 | 122 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 121 | 16 | 
 | 2023-02-26 | 121 | 16 | 
 | 2023-02-24 | 121 | 16 | 
-| 2023-02-23 | 121 | 16 | 
 

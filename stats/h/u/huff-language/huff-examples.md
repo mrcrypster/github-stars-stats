@@ -1,6 +1,6 @@
 # huff-language/huff-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 100 | 12 | 
 | 2023-03-24 | 100 | 12 | 
 | 2023-03-23 | 99 | 12 | 
 | 2023-03-21 | 99 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 95 | 11 | 
 | 2023-02-25 | 95 | 11 | 
 | 2023-02-24 | 95 | 11 | 
-| 2023-02-23 | 95 | 11 | 
 

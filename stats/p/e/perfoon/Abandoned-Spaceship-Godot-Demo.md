@@ -1,10 +1,10 @@
 # perfoon/Abandoned-Spaceship-Godot-Demo - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 170
+★ Stars: 173
 
 [Open repository](https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 173 | 6 | 
 | 2023-03-24 | 170 | 6 | 
 | 2023-03-22 | 163 | 6 | 
 | 2023-03-21 | 159 | 6 | 

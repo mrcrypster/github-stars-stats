@@ -1,6 +1,6 @@
 # cjdoris/Bokeh.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 71 | 3 | 
 | 2023-03-23 | 71 | 3 | 
 | 2023-03-21 | 71 | 3 | 
 | 2023-03-20 | 71 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 70 | 3 | 
 | 2023-02-25 | 70 | 3 | 
 | 2023-02-24 | 69 | 3 | 
-| 2023-02-23 | 69 | 3 | 
 

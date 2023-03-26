@@ -1,10 +1,10 @@
 # CCBlueX/LiquidBounce - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 324
+☋ Forks: 323
 
-★ Stars: 855
+★ Stars: 854
 
 [Open repository](https://github.com/CCBlueX/LiquidBounce)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 854 | 323 | 
 | 2023-03-24 | 855 | 324 | 
 | 2023-03-23 | 856 | 323 | 
 | 2023-03-22 | 856 | 323 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 846 | 312 | 
 | 2023-02-25 | 845 | 311 | 
 | 2023-02-24 | 840 | 310 | 
-| 2023-02-23 | 840 | 309 | 
 

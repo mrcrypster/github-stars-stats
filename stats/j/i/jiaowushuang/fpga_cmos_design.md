@@ -1,6 +1,6 @@
 # jiaowushuang/fpga_cmos_design - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 22 | 14 | 
 | 2023-03-24 | 22 | 14 | 
 | 2023-03-23 | 22 | 14 | 
 | 2023-03-21 | 22 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 21 | 13 | 
 | 2023-02-26 | 21 | 13 | 
 | 2023-02-25 | 21 | 13 | 
-| 2023-02-24 | 21 | 13 | 
 

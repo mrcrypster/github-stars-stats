@@ -1,10 +1,10 @@
 # hachy/eva01.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/hachy/eva01.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 53 | 4 | 
 | 2023-03-24 | 52 | 4 | 
 | 2023-03-22 | 52 | 4 | 
 | 2023-03-21 | 52 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 50 | 4 | 
 | 2023-02-25 | 50 | 4 | 
 | 2023-02-24 | 50 | 4 | 
-| 2023-02-23 | 50 | 4 | 
 

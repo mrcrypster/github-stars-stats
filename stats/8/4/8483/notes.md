@@ -1,10 +1,10 @@
 # 8483/notes - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 385
+☋ Forks: 386
 
-★ Stars: 3019
+★ Stars: 3020
 
 [Open repository](https://github.com/8483/notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3020 | 386 | 
 | 2023-03-23 | 3019 | 385 | 
 | 2023-03-22 | 3017 | 384 | 
 | 2023-03-21 | 3016 | 384 | 

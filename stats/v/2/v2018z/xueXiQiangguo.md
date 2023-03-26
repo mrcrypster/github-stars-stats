@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 25
 
 ☋ Forks: 132
 
-★ Stars: 385
+★ Stars: 388
 
 [Open repository](https://github.com/v2018z/xueXiQiangguo)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 385 | 132 | 
+| 2023-03-25 | 388 | 132 | 
 | 2023-03-24 | 385 | 132 | 
 

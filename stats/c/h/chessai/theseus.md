@@ -1,6 +1,6 @@
 # chessai/theseus - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 110 | 6 | 
 | 2023-03-24 | 110 | 6 | 
 | 2023-03-23 | 110 | 6 | 
 | 2023-03-22 | 110 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 109 | 6 | 
 | 2023-02-25 | 109 | 6 | 
 | 2023-02-24 | 109 | 6 | 
-| 2023-02-23 | 109 | 6 | 
 

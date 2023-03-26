@@ -1,10 +1,10 @@
 # GhostPack/Certify - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 142
 
-★ Stars: 935
+★ Stars: 939
 
 [Open repository](https://github.com/GhostPack/Certify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 939 | 142 | 
 | 2023-03-23 | 935 | 142 | 
 | 2023-03-22 | 934 | 142 | 
 | 2023-03-21 | 934 | 140 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 908 | 136 | 
 | 2023-02-25 | 907 | 135 | 
 | 2023-02-24 | 907 | 135 | 
-| 2023-02-23 | 905 | 135 | 
 

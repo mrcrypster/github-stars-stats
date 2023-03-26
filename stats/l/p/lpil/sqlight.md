@@ -1,10 +1,10 @@
 # lpil/sqlight - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/lpil/sqlight)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 16 | 1 | 
 | 2023-03-24 | 15 | 1 | 
 | 2023-03-23 | 13 | 1 | 
 | 2023-03-21 | 13 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 13 | - | 
 | 2023-02-26 | 13 | - | 
 | 2023-02-25 | 13 | - | 
-| 2023-02-23 | 13 | - | 
 

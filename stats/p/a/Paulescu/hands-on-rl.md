@@ -1,8 +1,8 @@
 # Paulescu/hands-on-rl - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 64
+☋ Forks: 62
 
 ★ Stars: 356
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 356 | 62 | 
 | 2023-03-24 | 356 | 64 | 
 | 2023-03-23 | 356 | 64 | 
 | 2023-03-21 | 354 | 64 | 

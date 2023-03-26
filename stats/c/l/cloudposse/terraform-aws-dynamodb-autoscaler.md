@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-dynamodb-autoscaler - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 21 | 32 | 
 | 2023-03-24 | 21 | 32 | 
 | 2023-03-23 | 21 | 32 | 
 | 2023-03-21 | 21 | 32 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 21 | 32 | 
 | 2023-02-25 | 21 | 32 | 
 | 2023-02-24 | 21 | 32 | 
-| 2023-02-23 | 21 | 32 | 
 

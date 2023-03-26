@@ -1,10 +1,10 @@
 # sozercan/kubectl-ai - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 334
+★ Stars: 343
 
 [Open repository](https://github.com/sozercan/kubectl-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 343 | 13 | 
 | 2023-03-24 | 334 | 12 | 
 | 2023-03-23 | 296 | 9 | 
 

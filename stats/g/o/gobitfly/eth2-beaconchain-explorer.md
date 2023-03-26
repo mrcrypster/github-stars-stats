@@ -1,8 +1,8 @@
 # gobitfly/eth2-beaconchain-explorer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 318
+☋ Forks: 320
 
 ★ Stars: 592
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 592 | 320 | 
 | 2023-03-23 | 592 | 318 | 
 | 2023-03-22 | 592 | 318 | 
 | 2023-03-20 | 593 | 317 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 578 | 311 | 
 | 2023-02-25 | 577 | 311 | 
 | 2023-02-24 | 577 | 310 | 
-| 2023-02-23 | 574 | 309 | 
 

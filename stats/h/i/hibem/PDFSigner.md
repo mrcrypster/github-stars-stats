@@ -1,10 +1,10 @@
 # hibem/PDFSigner - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 29
 
-★ Stars: 129
+★ Stars: 128
 
 [Open repository](https://github.com/hibem/PDFSigner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 128 | 29 | 
 | 2023-03-23 | 129 | 29 | 
 | 2023-03-22 | 129 | 30 | 
 | 2023-03-20 | 129 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 128 | 30 | 
 | 2023-02-25 | 127 | 29 | 
 | 2023-02-24 | 127 | 29 | 
-| 2023-02-23 | 127 | 29 | 
 

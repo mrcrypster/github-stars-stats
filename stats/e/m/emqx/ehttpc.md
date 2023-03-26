@@ -1,6 +1,6 @@
 # emqx/ehttpc - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6 | 6 | 
 | 2023-03-24 | 6 | 6 | 
 | 2023-03-23 | 6 | 6 | 
 | 2023-03-21 | 6 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 6 | 5 | 
 | 2023-02-25 | 6 | 5 | 
 | 2023-02-24 | 6 | 5 | 
-| 2023-02-23 | 6 | 4 | 
 

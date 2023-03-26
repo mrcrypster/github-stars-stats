@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-debugging-with-pry - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 2682
+☋ Forks: 2684
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2 | 2684 | 
 | 2023-03-24 | 2 | 2682 | 
 | 2023-03-22 | 2 | 2679 | 
 | 2023-03-21 | 2 | 2678 | 

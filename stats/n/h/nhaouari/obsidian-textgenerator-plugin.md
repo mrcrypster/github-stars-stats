@@ -1,10 +1,10 @@
 # nhaouari/obsidian-textgenerator-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 680
+★ Stars: 688
 
 [Open repository](https://github.com/nhaouari/obsidian-textgenerator-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 688 | 53 | 
 | 2023-03-24 | 680 | 52 | 
 | 2023-03-22 | 675 | 52 | 
 | 2023-03-21 | 671 | 52 | 

@@ -1,6 +1,6 @@
 # petripaavola/IntuneDeviceDetailsGUI - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 139 | 12 | 
 | 2023-03-23 | 139 | 12 | 
 | 2023-03-22 | 138 | 12 | 
 | 2023-03-21 | 138 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 137 | 11 | 
 | 2023-02-26 | 137 | 11 | 
 | 2023-02-25 | 137 | 11 | 
-| 2023-02-24 | 137 | 11 | 
 

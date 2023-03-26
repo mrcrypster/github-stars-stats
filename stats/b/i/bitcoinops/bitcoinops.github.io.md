@@ -1,8 +1,8 @@
 # bitcoinops/bitcoinops.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 197
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 197 | 105 | 
 | 2023-03-24 | 197 | 104 | 
 | 2023-03-23 | 197 | 104 | 
 | 2023-03-22 | 197 | 104 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 196 | 103 | 
 | 2023-02-25 | 196 | 103 | 
 | 2023-02-24 | 196 | 103 | 
-| 2023-02-23 | 196 | 104 | 
 

@@ -1,6 +1,6 @@
 # owlman/study_note - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 121 | 12 | 
 | 2023-03-24 | 121 | 12 | 
 | 2023-03-22 | 124 | 12 | 
 | 2023-03-21 | 124 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 123 | 12 | 
 | 2023-02-25 | 123 | 12 | 
 | 2023-02-24 | 123 | 12 | 
-| 2023-02-23 | 123 | 12 | 
 

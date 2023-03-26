@@ -1,6 +1,6 @@
 # balena-io/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 12 | 13 | 
 | 2023-03-24 | 12 | 13 | 
 | 2023-03-23 | 12 | 12 | 
 | 2023-03-22 | 12 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 12 | 10 | 
 | 2023-02-25 | 12 | 10 | 
 | 2023-02-24 | 12 | 10 | 
-| 2023-02-23 | 12 | 10 | 
 

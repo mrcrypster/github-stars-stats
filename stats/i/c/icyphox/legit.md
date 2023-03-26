@@ -1,10 +1,10 @@
 # icyphox/legit - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 14
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/icyphox/legit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 137 | 14 | 
 | 2023-03-24 | 136 | 14 | 
 | 2023-03-22 | 136 | 14 | 
 | 2023-03-21 | 135 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 129 | 14 | 
 | 2023-02-25 | 128 | 14 | 
 | 2023-02-24 | 128 | 14 | 
-| 2023-02-23 | 128 | 14 | 
 

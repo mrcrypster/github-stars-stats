@@ -1,10 +1,10 @@
 # akamai/akamai-security-research - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 49
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/akamai/akamai-security-research)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 305 | 49 | 
 | 2023-03-24 | 304 | 49 | 
 | 2023-03-22 | 304 | 49 | 
 | 2023-03-21 | 302 | 49 | 

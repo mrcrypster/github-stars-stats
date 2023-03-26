@@ -1,6 +1,6 @@
 # succinctlabs/eth-proof-of-consensus - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 97 | 24 | 
 | 2023-03-24 | 97 | 24 | 
 | 2023-03-22 | 97 | 24 | 
 | 2023-03-21 | 97 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 93 | 24 | 
 | 2023-02-25 | 93 | 24 | 
 | 2023-02-24 | 92 | 24 | 
-| 2023-02-23 | 92 | 24 | 
 

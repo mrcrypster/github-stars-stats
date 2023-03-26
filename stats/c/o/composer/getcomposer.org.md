@@ -1,8 +1,8 @@
 # composer/getcomposer.org - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 540
+☋ Forks: 541
 
 ★ Stars: 500
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 500 | 541 | 
 | 2023-03-24 | 500 | 540 | 
 | 2023-03-22 | 500 | 540 | 
 | 2023-03-21 | 500 | 540 | 

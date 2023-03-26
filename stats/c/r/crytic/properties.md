@@ -1,10 +1,10 @@
 # crytic/properties - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
-★ Stars: 78
+★ Stars: 81
 
 [Open repository](https://github.com/crytic/properties)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 81 | 9 | 
 | 2023-03-24 | 78 | 9 | 
 | 2023-03-23 | 78 | 9 | 
 | 2023-03-22 | 77 | 9 | 

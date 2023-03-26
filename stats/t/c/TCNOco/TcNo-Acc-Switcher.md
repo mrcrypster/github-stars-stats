@@ -1,10 +1,10 @@
 # TCNOco/TcNo-Acc-Switcher - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 106
 
-★ Stars: 1177
+★ Stars: 1181
 
 [Open repository](https://github.com/TCNOco/TcNo-Acc-Switcher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1181 | 106 | 
 | 2023-03-23 | 1177 | 106 | 
 | 2023-03-22 | 1172 | 106 | 
 | 2023-03-21 | 1168 | 106 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 1119 | 110 | 
 | 2023-02-25 | 1115 | 109 | 
 | 2023-02-24 | 1113 | 109 | 
-| 2023-02-23 | 1113 | 108 | 
 

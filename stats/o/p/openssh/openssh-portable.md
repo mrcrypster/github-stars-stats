@@ -1,10 +1,10 @@
 # openssh/openssh-portable - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1541
+☋ Forks: 1542
 
-★ Stars: 2261
+★ Stars: 2266
 
 [Open repository](https://github.com/openssh/openssh-portable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2266 | 1542 | 
 | 2023-03-24 | 2261 | 1541 | 
 | 2023-03-22 | 2260 | 1541 | 
 | 2023-03-21 | 2260 | 1539 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 2234 | 1525 | 
 | 2023-02-26 | 2234 | 1526 | 
 | 2023-02-24 | 2232 | 1526 | 
-| 2023-02-23 | 2231 | 1524 | 
 

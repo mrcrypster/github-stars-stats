@@ -1,10 +1,10 @@
 # 11ty/webc - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 28
 
-★ Stars: 1114
+★ Stars: 1116
 
 [Open repository](https://github.com/11ty/webc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1116 | 28 | 
 | 2023-03-24 | 1114 | 28 | 
 | 2023-03-23 | 1114 | 28 | 
 | 2023-03-22 | 1111 | 28 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1082 | 26 | 
 | 2023-02-25 | 1082 | 26 | 
 | 2023-02-24 | 1082 | 26 | 
-| 2023-02-23 | 1080 | 26 | 
 

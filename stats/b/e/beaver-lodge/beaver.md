@@ -1,10 +1,10 @@
 # beaver-lodge/beaver - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 43
+★ Stars: 42
 
 [Open repository](https://github.com/beaver-lodge/beaver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 42 | 1 | 
 | 2023-03-24 | 43 | 1 | 
 | 2023-03-22 | 42 | 1 | 
 | 2023-03-21 | 42 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 34 | 1 | 
 | 2023-02-25 | 34 | 1 | 
 | 2023-02-24 | 34 | 1 | 
-| 2023-02-23 | 34 | 1 | 
 

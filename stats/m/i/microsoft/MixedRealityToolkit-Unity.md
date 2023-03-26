@@ -1,6 +1,6 @@
 # microsoft/MixedRealityToolkit-Unity - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 2118
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 5656 | 2118 | 
 | 2023-03-23 | 5656 | 2118 | 
 | 2023-03-22 | 5654 | 2116 | 
 | 2023-03-21 | 5652 | 2115 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 5614 | 2107 | 
 | 2023-02-25 | 5611 | 2107 | 
 | 2023-02-24 | 5611 | 2107 | 
-| 2023-02-23 | 5610 | 2107 | 
 

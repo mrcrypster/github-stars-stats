@@ -1,10 +1,10 @@
 # wasabeef/awesome-android-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 10286
+☋ Forks: 10285
 
-★ Stars: 45831
+★ Stars: 45847
 
 [Open repository](https://github.com/wasabeef/awesome-android-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 45847 | 10285 | 
 | 2023-03-24 | 45831 | 10286 | 
 | 2023-03-22 | 45818 | 10285 | 
 | 2023-03-21 | 45803 | 10285 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 45551 | 10265 | 
 | 2023-02-25 | 45538 | 10266 | 
 | 2023-02-24 | 45527 | 10266 | 
-| 2023-02-23 | 45508 | 10265 | 
 

@@ -1,6 +1,6 @@
 # apache/incubator-pekko-http - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 43 | 12 | 
 | 2023-03-23 | 43 | 12 | 
 | 2023-03-22 | 43 | 12 | 
 | 2023-03-21 | 43 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 37 | 11 | 
 | 2023-02-26 | 37 | 10 | 
 | 2023-02-24 | 36 | 9 | 
-| 2023-02-23 | 36 | 9 | 
 

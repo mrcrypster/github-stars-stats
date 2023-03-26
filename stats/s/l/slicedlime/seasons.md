@@ -1,6 +1,6 @@
 # slicedlime/seasons - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 171 | 7 | 
 | 2023-03-24 | 171 | 7 | 
 | 2023-03-23 | 169 | 7 | 
 | 2023-03-21 | 169 | 7 | 

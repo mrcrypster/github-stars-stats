@@ -1,10 +1,10 @@
 # Automattic/woocommerce-payments - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 39
 
-★ Stars: 84
+★ Stars: 83
 
 [Open repository](https://github.com/Automattic/woocommerce-payments)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 83 | 39 | 
+| 2023-03-25 | 83 | 39 | 
 | 2023-03-23 | 84 | 39 | 
 | 2023-03-22 | 84 | 39 | 
 | 2023-03-21 | 84 | 39 | 

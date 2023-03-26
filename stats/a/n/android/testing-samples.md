@@ -1,10 +1,10 @@
 # android/testing-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 3589
+☋ Forks: 3590
 
-★ Stars: 8779
+★ Stars: 8781
 
 [Open repository](https://github.com/android/testing-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8781 | 3590 | 
 | 2023-03-23 | 8779 | 3589 | 
 | 2023-03-21 | 8775 | 3589 | 
 | 2023-03-20 | 8776 | 3588 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 8760 | 3572 | 
 | 2023-02-26 | 8757 | 3572 | 
 | 2023-02-25 | 8757 | 3573 | 
-| 2023-02-24 | 8755 | 3573 | 
 

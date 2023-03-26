@@ -1,10 +1,10 @@
 # Yelp/detect-secrets - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 362
+☋ Forks: 364
 
-★ Stars: 2790
+★ Stars: 2793
 
 [Open repository](https://github.com/Yelp/detect-secrets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2793 | 364 | 
 | 2023-03-23 | 2790 | 362 | 
 | 2023-03-21 | 2790 | 363 | 
 | 2023-03-20 | 2788 | 363 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 2756 | 354 | 
 | 2023-02-25 | 2753 | 354 | 
 | 2023-02-24 | 2753 | 354 | 
-| 2023-02-23 | 2749 | 352 | 
 

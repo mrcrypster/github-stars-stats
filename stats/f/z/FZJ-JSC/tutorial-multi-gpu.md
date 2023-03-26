@@ -1,10 +1,10 @@
 # FZJ-JSC/tutorial-multi-gpu - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 24
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/FZJ-JSC/tutorial-multi-gpu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 72 | 24 | 
 | 2023-03-24 | 71 | 24 | 
 | 2023-03-23 | 71 | 24 | 
 | 2023-03-21 | 70 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 69 | 24 | 
 | 2023-02-25 | 69 | 24 | 
 | 2023-02-24 | 69 | 24 | 
-| 2023-02-23 | 69 | 24 | 
 

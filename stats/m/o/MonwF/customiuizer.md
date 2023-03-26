@@ -1,10 +1,10 @@
 # MonwF/customiuizer - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 262
+★ Stars: 268
 
 [Open repository](https://github.com/MonwF/customiuizer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 268 | 17 | 
 | 2023-03-24 | 262 | 16 | 
 | 2023-03-23 | 261 | 16 | 
 | 2023-03-21 | 260 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 225 | 16 | 
 | 2023-02-25 | 223 | 16 | 
 | 2023-02-24 | 220 | 16 | 
-| 2023-02-23 | 218 | 16 | 
 

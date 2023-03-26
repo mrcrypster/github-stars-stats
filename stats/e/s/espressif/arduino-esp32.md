@@ -1,10 +1,10 @@
 # espressif/arduino-esp32 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 6605
+☋ Forks: 6614
 
-★ Stars: 10385
+★ Stars: 10398
 
 [Open repository](https://github.com/espressif/arduino-esp32)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10398 | 6614 | 
 | 2023-03-23 | 10385 | 6605 | 
 | 2023-03-22 | 10379 | 6600 | 
 | 2023-03-21 | 10368 | 6593 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 10212 | 6487 | 
 | 2023-02-25 | 10205 | 6485 | 
 | 2023-02-24 | 10200 | 6478 | 
-| 2023-02-23 | 10196 | 6477 | 
 

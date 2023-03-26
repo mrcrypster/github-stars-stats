@@ -1,10 +1,10 @@
 # zackradisic/rust-vs-zig - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/zackradisic/rust-vs-zig)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 78 | 4 | 
 | 2023-03-24 | 77 | 4 | 
 | 2023-03-23 | 75 | 3 | 
 | 2023-03-21 | 73 | 3 | 

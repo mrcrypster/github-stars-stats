@@ -1,10 +1,10 @@
 # mouredev/hello-git - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 405
+☋ Forks: 412
 
-★ Stars: 2222
+★ Stars: 2236
 
 [Open repository](https://github.com/mouredev/hello-git)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2236 | 412 | 
 | 2023-03-23 | 2222 | 405 | 
 | 2023-03-22 | 2197 | 395 | 
 | 2023-03-21 | 2186 | 385 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1871 | 267 | 
 | 2023-02-25 | 1860 | 257 | 
 | 2023-02-24 | 1841 | 248 | 
-| 2023-02-23 | 1829 | 241 | 
 

@@ -1,10 +1,10 @@
 # tsoding/seroost - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 19
 
-★ Stars: 117
+★ Stars: 119
 
 [Open repository](https://github.com/tsoding/seroost)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 119 | 19 | 
 | 2023-03-24 | 117 | 19 | 
 | 2023-03-22 | 117 | 18 | 
 | 2023-03-21 | 115 | 18 | 

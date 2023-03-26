@@ -1,10 +1,10 @@
 # thapatechnical/thapareactecom - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 247
+☋ Forks: 249
 
-★ Stars: 285
+★ Stars: 287
 
 [Open repository](https://github.com/thapatechnical/thapareactecom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 287 | 249 | 
 | 2023-03-23 | 285 | 247 | 
 | 2023-03-22 | 284 | 244 | 
 | 2023-03-21 | 282 | 243 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 251 | 220 | 
 | 2023-02-25 | 250 | 220 | 
 | 2023-02-24 | 248 | 220 | 
-| 2023-02-23 | 245 | 219 | 
 

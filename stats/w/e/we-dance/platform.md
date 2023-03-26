@@ -1,10 +1,10 @@
 # we-dance/platform - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/we-dance/platform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 36 | 56 | 
 | 2023-03-23 | 35 | 55 | 
 | 2023-03-22 | 35 | 54 | 
 | 2023-03-21 | 35 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 33 | 51 | 
 | 2023-02-25 | 33 | 51 | 
 | 2023-02-24 | 33 | 51 | 
-| 2023-02-23 | 33 | 51 | 
 

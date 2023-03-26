@@ -1,6 +1,6 @@
 # msgpack/msgpack-erlang - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 199 | 77 | 
 | 2023-03-24 | 199 | 77 | 
 | 2023-03-22 | 199 | 77 | 
 | 2023-03-21 | 199 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 199 | 77 | 
 | 2023-02-25 | 199 | 77 | 
 | 2023-02-24 | 199 | 77 | 
-| 2023-02-23 | 199 | 77 | 
 

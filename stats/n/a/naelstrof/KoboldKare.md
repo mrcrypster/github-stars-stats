@@ -1,10 +1,10 @@
 # naelstrof/KoboldKare - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 44
 
-★ Stars: 42
+★ Stars: 44
 
 [Open repository](https://github.com/naelstrof/KoboldKare)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 44 | 44 | 
 | 2023-03-24 | 42 | 44 | 
 | 2023-03-23 | 42 | 44 | 
 | 2023-03-22 | 42 | 44 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 37 | 43 | 
 | 2023-02-25 | 37 | 43 | 
 | 2023-02-24 | 37 | 43 | 
-| 2023-02-23 | 37 | 42 | 
 

@@ -1,6 +1,6 @@
 # dwyl/learn-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 379 | 162 | 
 | 2023-03-23 | 379 | 162 | 
 | 2023-03-22 | 379 | 162 | 
 | 2023-03-21 | 379 | 162 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 375 | 163 | 
 | 2023-02-25 | 375 | 163 | 
 | 2023-02-24 | 375 | 163 | 
-| 2023-02-23 | 375 | 163 | 
 

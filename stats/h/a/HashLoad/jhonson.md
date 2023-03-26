@@ -1,6 +1,6 @@
 # HashLoad/jhonson - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 77 | 22 | 
 | 2023-03-23 | 77 | 22 | 
 | 2023-03-22 | 76 | 22 | 
 | 2023-03-21 | 75 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 74 | 21 | 
 | 2023-02-26 | 74 | 21 | 
 | 2023-02-25 | 74 | 21 | 
-| 2023-02-23 | 74 | 21 | 
 

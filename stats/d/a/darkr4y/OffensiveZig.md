@@ -1,6 +1,6 @@
 # darkr4y/OffensiveZig - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 90 | 7 | 
 | 2023-03-24 | 90 | 7 | 
 | 2023-03-23 | 90 | 7 | 
 | 2023-03-21 | 89 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 87 | 6 | 
 | 2023-02-26 | 87 | 6 | 
 | 2023-02-25 | 87 | 6 | 
-| 2023-02-23 | 87 | 6 | 
 

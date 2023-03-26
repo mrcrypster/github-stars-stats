@@ -1,10 +1,10 @@
 # MLH-Fellowship/prep-portfolio-23.MAR.PREP.2 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/MLH-Fellowship/prep-portfolio-23.MAR.PREP.2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4 | 14 | 
 | 2023-03-23 | 3 | 13 | 
 | 2023-03-21 | 3 | 13 | 
 | 2023-03-20 | 3 | 13 | 

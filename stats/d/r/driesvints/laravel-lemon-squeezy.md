@@ -1,6 +1,6 @@
 # driesvints/laravel-lemon-squeezy - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 67 | 4 | 
 | 2023-03-24 | 67 | 4 | 
 | 2023-03-23 | 66 | 4 | 
 | 2023-03-21 | 66 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 54 | - | 
 | 2023-02-25 | 54 | - | 
 | 2023-02-24 | 54 | - | 
-| 2023-02-23 | 53 | - | 
 

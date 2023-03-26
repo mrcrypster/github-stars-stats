@@ -1,6 +1,6 @@
 # imihajlow/ccpu - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 58 | 2 | 
 | 2023-03-24 | 58 | 2 | 
 | 2023-03-23 | 58 | 2 | 
 | 2023-03-21 | 58 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 57 | 2 | 
 | 2023-02-25 | 57 | 2 | 
 | 2023-02-24 | 57 | 2 | 
-| 2023-02-23 | 57 | 2 | 
 

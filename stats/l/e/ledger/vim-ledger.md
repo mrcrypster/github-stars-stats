@@ -1,6 +1,6 @@
 # ledger/vim-ledger - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 48
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 318 | 48 | 
 | 2023-03-24 | 318 | 48 | 
 

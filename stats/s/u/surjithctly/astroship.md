@@ -1,6 +1,6 @@
 # surjithctly/astroship - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 413 | 70 | 
 | 2023-03-24 | 413 | 70 | 
 | 2023-03-23 | 411 | 71 | 
 | 2023-03-22 | 410 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 354 | 50 | 
 | 2023-02-25 | 351 | 49 | 
 | 2023-02-24 | 351 | 48 | 
-| 2023-02-23 | 349 | 47 | 
 

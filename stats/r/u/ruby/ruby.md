@@ -1,10 +1,10 @@
 # ruby/ruby - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 5278
 
-★ Stars: 20093
+★ Stars: 20096
 
 [Open repository](https://github.com/ruby/ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 20096 | 5278 | 
 | 2023-03-24 | 20093 | 5278 | 
 | 2023-03-22 | 20092 | 5279 | 
 | 2023-03-21 | 20088 | 5278 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 19988 | 5263 | 
 | 2023-02-25 | 19986 | 5263 | 
 | 2023-02-24 | 19986 | 5263 | 
-| 2023-02-23 | 19976 | 5259 | 
 

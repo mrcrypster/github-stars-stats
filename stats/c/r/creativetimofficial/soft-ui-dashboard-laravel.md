@@ -1,10 +1,10 @@
 # creativetimofficial/soft-ui-dashboard-laravel - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 220
+☋ Forks: 223
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/creativetimofficial/soft-ui-dashboard-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 44 | 223 | 
 | 2023-03-24 | 43 | 220 | 
 | 2023-03-22 | 43 | 220 | 
 | 2023-03-21 | 43 | 219 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 34 | 169 | 
 | 2023-02-25 | 34 | 169 | 
 | 2023-02-24 | 34 | 168 | 
-| 2023-02-23 | 34 | 168 | 
 

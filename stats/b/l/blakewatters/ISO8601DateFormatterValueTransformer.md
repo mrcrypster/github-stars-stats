@@ -1,6 +1,6 @@
 # blakewatters/ISO8601DateFormatterValueTransformer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 26 | 17 | 
 | 2023-03-23 | 26 | 17 | 
 | 2023-03-21 | 26 | 16 | 
 | 2023-03-20 | 26 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 26 | 16 | 
 | 2023-02-25 | 26 | 16 | 
 | 2023-02-24 | 26 | 16 | 
-| 2023-02-23 | 26 | 16 | 
 

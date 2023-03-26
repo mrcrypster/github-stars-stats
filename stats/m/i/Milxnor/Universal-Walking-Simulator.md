@@ -1,6 +1,6 @@
 # Milxnor/Universal-Walking-Simulator - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 75 | 24 | 
 | 2023-03-23 | 75 | 24 | 
 | 2023-03-21 | 75 | 24 | 
 | 2023-03-20 | 76 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 76 | 26 | 
 | 2023-02-25 | 76 | 26 | 
 | 2023-02-24 | 76 | 26 | 
-| 2023-02-23 | 76 | 26 | 
 

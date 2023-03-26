@@ -1,10 +1,10 @@
 # AnthonyCalandra/modern-cpp-features - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1792
+☋ Forks: 1793
 
-★ Stars: 15807
+★ Stars: 15823
 
 [Open repository](https://github.com/AnthonyCalandra/modern-cpp-features)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 15823 | 1793 | 
 | 2023-03-24 | 15807 | 1792 | 
 | 2023-03-23 | 15798 | 1792 | 
 | 2023-03-21 | 15791 | 1792 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 15662 | 1772 | 
 | 2023-02-25 | 15659 | 1771 | 
 | 2023-02-24 | 15651 | 1771 | 
-| 2023-02-23 | 15644 | 1771 | 
 

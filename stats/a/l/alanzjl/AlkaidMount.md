@@ -1,10 +1,10 @@
 # alanzjl/AlkaidMount - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 26
 
-★ Stars: 190
+★ Stars: 192
 
 [Open repository](https://github.com/alanzjl/AlkaidMount)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 192 | 26 | 
 | 2023-03-24 | 190 | 26 | 
 | 2023-03-23 | 190 | 26 | 
 | 2023-03-21 | 190 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 183 | 24 | 
 | 2023-02-26 | 182 | 24 | 
 | 2023-02-25 | 182 | 24 | 
-| 2023-02-24 | 182 | 24 | 
 

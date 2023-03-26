@@ -1,6 +1,6 @@
 # learning-zone/css-interview-questions - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 630 | 230 | 
 | 2023-03-24 | 630 | 230 | 
 | 2023-03-23 | 629 | 230 | 
 | 2023-03-21 | 628 | 230 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 613 | 228 | 
 | 2023-02-25 | 613 | 228 | 
 | 2023-02-24 | 611 | 227 | 
-| 2023-02-23 | 611 | 227 | 
 

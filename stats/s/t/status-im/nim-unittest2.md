@@ -1,6 +1,6 @@
 # status-im/nim-unittest2 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 15 | 5 | 
 | 2023-03-24 | 15 | 5 | 
 | 2023-03-22 | 15 | 5 | 
 | 2023-03-21 | 15 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 14 | 5 | 
 | 2023-02-26 | 14 | 5 | 
 | 2023-02-24 | 14 | 5 | 
-| 2023-02-23 | 14 | 5 | 
 

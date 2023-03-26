@@ -1,6 +1,6 @@
 # D3Ext/AORT - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 610 | 85 | 
 | 2023-03-24 | 610 | 85 | 
 | 2023-03-23 | 609 | 85 | 
 | 2023-03-21 | 609 | 85 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 597 | 84 | 
 | 2023-02-25 | 597 | 84 | 
 | 2023-02-24 | 597 | 83 | 
-| 2023-02-23 | 597 | 83 | 
 

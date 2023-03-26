@@ -1,10 +1,10 @@
 # oslabs-beta/geSvelte - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/oslabs-beta/geSvelte)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 49 | 1 | 
 | 2023-03-24 | 50 | 1 | 
 | 2023-03-22 | 50 | 1 | 
 | 2023-03-21 | 50 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 50 | 1 | 
 | 2023-02-25 | 50 | 1 | 
 | 2023-02-24 | 49 | 1 | 
-| 2023-02-23 | 49 | 1 | 
 

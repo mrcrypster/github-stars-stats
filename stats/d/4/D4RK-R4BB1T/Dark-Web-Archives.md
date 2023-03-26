@@ -1,10 +1,10 @@
 # D4RK-R4BB1T/Dark-Web-Archives - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 36
 
-★ Stars: 381
+★ Stars: 390
 
 [Open repository](https://github.com/D4RK-R4BB1T/Dark-Web-Archives)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 390 | 36 | 
 | 2023-03-24 | 381 | 36 | 
 | 2023-03-23 | 380 | 36 | 
 | 2023-03-22 | 373 | 35 | 

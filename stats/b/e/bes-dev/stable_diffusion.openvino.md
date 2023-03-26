@@ -1,10 +1,10 @@
 # bes-dev/stable_diffusion.openvino - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 174
+☋ Forks: 175
 
-★ Stars: 1270
+★ Stars: 1273
 
 [Open repository](https://github.com/bes-dev/stable_diffusion.openvino)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1273 | 175 | 
 | 2023-03-24 | 1270 | 174 | 
 | 2023-03-22 | 1268 | 171 | 
 | 2023-03-21 | 1267 | 170 | 

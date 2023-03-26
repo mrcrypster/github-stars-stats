@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 25
 
-☋ Forks: 226
+☋ Forks: 232
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/ShadowDevilsAvenged/ShadowDevilsAvenged)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 50 | 226 | 
+| 2023-03-25 | 51 | 232 | 
 | 2023-03-24 | 50 | 222 | 
 | 2023-03-23 | 49 | 214 | 
 | 2023-03-22 | 49 | 209 | 

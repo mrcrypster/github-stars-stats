@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/LinkedInLearning/level-up-advanced-sql-4311094)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 2 | 11 | 
+| 2023-03-25 | 3 | 11 | 
 | 2023-03-24 | 2 | 9 | 
 

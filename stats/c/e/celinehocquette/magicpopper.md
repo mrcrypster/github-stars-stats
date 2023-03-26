@@ -1,10 +1,10 @@
 # celinehocquette/magicpopper - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/celinehocquette/magicpopper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 15 | 1 | 
 | 2023-03-24 | 13 | 1 | 
 | 2023-03-22 | 13 | 1 | 
 | 2023-03-21 | 13 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 13 | 1 | 
 | 2023-02-25 | 13 | 1 | 
 | 2023-02-24 | 13 | 1 | 
-| 2023-02-23 | 13 | 1 | 
 

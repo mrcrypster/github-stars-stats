@@ -1,8 +1,8 @@
 # BlazingRockStorm/MISP-assembly-of-HEDSPI - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 15
+☋ Forks: 14
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 15 | 14 | 
 | 2023-03-24 | 15 | 15 | 
 | 2023-03-23 | 15 | 15 | 
 | 2023-03-21 | 15 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 15 | 15 | 
 | 2023-02-26 | 15 | 15 | 
 | 2023-02-24 | 15 | 15 | 
-| 2023-02-23 | 15 | 15 | 
 

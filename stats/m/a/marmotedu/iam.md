@@ -1,10 +1,10 @@
 # marmotedu/iam - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 838
+☋ Forks: 840
 
-★ Stars: 2762
+★ Stars: 2770
 
 [Open repository](https://github.com/marmotedu/iam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2770 | 840 | 
 | 2023-03-24 | 2762 | 838 | 
 | 2023-03-22 | 2758 | 836 | 
 | 2023-03-21 | 2756 | 835 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2684 | 815 | 
 | 2023-02-25 | 2680 | 815 | 
 | 2023-02-24 | 2679 | 815 | 
-| 2023-02-23 | 2666 | 812 | 
 

@@ -1,10 +1,10 @@
 # nmlgc/ReC98 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 20
 
-★ Stars: 578
+★ Stars: 579
 
 [Open repository](https://github.com/nmlgc/ReC98)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 579 | 20 | 
 | 2023-03-24 | 578 | 20 | 
 | 2023-03-23 | 577 | 20 | 
 | 2023-03-21 | 577 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 569 | 20 | 
 | 2023-02-26 | 569 | 20 | 
 | 2023-02-25 | 568 | 20 | 
-| 2023-02-24 | 568 | 20 | 
 

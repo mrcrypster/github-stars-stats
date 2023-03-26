@@ -1,10 +1,10 @@
 # airtai/fastkafka - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 243
+★ Stars: 250
 
 [Open repository](https://github.com/airtai/fastkafka)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 250 | 3 | 
 | 2023-03-24 | 243 | 3 | 
 | 2023-03-23 | 242 | 3 | 
 | 2023-03-21 | 238 | 3 | 

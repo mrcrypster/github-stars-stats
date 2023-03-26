@@ -1,6 +1,6 @@
 # bitonic/mazzo.li - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 17 | 5 | 
 | 2023-03-24 | 17 | 5 | 
 | 2023-03-23 | 17 | 5 | 
 | 2023-03-21 | 17 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 17 | 5 | 
 | 2023-02-25 | 17 | 5 | 
 | 2023-02-24 | 17 | 5 | 
-| 2023-02-23 | 17 | 5 | 
 

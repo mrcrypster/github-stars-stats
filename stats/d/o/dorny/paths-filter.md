@@ -1,10 +1,10 @@
 # dorny/paths-filter - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 1052
+★ Stars: 1053
 
 [Open repository](https://github.com/dorny/paths-filter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1053 | 141 | 
 | 2023-03-23 | 1052 | 140 | 
 | 2023-03-22 | 1049 | 140 | 
 | 2023-03-21 | 1047 | 140 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1006 | 132 | 
 | 2023-02-25 | 1005 | 132 | 
 | 2023-02-24 | 1004 | 132 | 
-| 2023-02-23 | 1000 | 132 | 
 

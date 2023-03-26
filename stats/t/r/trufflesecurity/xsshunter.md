@@ -1,8 +1,8 @@
 # trufflesecurity/xsshunter - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 174 | 35 | 
 | 2023-03-24 | 174 | 34 | 
 | 2023-03-23 | 172 | 34 | 
 | 2023-03-21 | 170 | 34 | 

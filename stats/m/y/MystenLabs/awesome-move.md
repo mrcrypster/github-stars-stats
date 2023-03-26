@@ -1,10 +1,10 @@
 # MystenLabs/awesome-move - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 184
 
-★ Stars: 1043
+★ Stars: 1046
 
 [Open repository](https://github.com/MystenLabs/awesome-move)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1046 | 184 | 
 | 2023-03-24 | 1043 | 184 | 
 | 2023-03-22 | 1042 | 182 | 
 | 2023-03-21 | 1042 | 182 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1003 | 178 | 
 | 2023-02-26 | 1002 | 177 | 
 | 2023-02-25 | 1001 | 176 | 
-| 2023-02-23 | 1000 | 176 | 
 

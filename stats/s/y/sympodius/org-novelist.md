@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 25
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 69
 
 [Open repository](https://github.com/sympodius/org-novelist)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 62 | 1 | 
+| 2023-03-25 | 69 | 2 | 
 | 2023-03-24 | 57 | 1 | 
 

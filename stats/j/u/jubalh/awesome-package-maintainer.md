@@ -1,10 +1,10 @@
 # jubalh/awesome-package-maintainer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/jubalh/awesome-package-maintainer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 240 | 6 | 
 | 2023-03-23 | 239 | 6 | 
 | 2023-03-22 | 239 | 6 | 
 | 2023-03-21 | 239 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 233 | 5 | 
 | 2023-02-25 | 231 | 5 | 
 | 2023-02-24 | 231 | 5 | 
-| 2023-02-23 | 231 | 5 | 
 

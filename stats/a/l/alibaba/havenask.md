@@ -1,10 +1,10 @@
 # alibaba/havenask - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 206
 
-★ Stars: 1037
+★ Stars: 1036
 
 [Open repository](https://github.com/alibaba/havenask)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1036 | 206 | 
 | 2023-03-23 | 1037 | 206 | 
 | 2023-03-22 | 1037 | 206 | 
 | 2023-03-21 | 1035 | 206 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 993 | 198 | 
 | 2023-02-26 | 993 | 198 | 
 | 2023-02-24 | 992 | 198 | 
-| 2023-02-23 | 993 | 198 | 
 

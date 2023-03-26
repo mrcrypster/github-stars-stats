@@ -1,10 +1,10 @@
 # marler8997/html-css-renderer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 10
 
 [Open repository](https://github.com/marler8997/html-css-renderer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10 | 2 | 
 | 2023-03-23 | 8 | 1 | 
 | 2023-03-22 | 8 | 1 | 
 | 2023-03-20 | 8 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 8 | 1 | 
 | 2023-02-25 | 8 | 1 | 
 | 2023-02-24 | 8 | 1 | 
-| 2023-02-23 | 8 | 1 | 
 

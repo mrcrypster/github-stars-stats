@@ -1,10 +1,10 @@
 # imroc/kubernetes-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/imroc/kubernetes-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 166 | 71 | 
 | 2023-03-24 | 165 | 70 | 
 | 2023-03-22 | 165 | 69 | 
 | 2023-03-21 | 164 | 69 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 150 | 61 | 
 | 2023-02-25 | 150 | 61 | 
 | 2023-02-24 | 150 | 61 | 
-| 2023-02-23 | 146 | 59 | 
 

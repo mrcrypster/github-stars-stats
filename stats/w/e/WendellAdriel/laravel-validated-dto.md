@@ -1,6 +1,6 @@
 # WendellAdriel/laravel-validated-dto - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 220 | 9 | 
 | 2023-03-23 | 220 | 9 | 
 | 2023-03-22 | 219 | 9 | 
 | 2023-03-20 | 219 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 207 | 9 | 
 | 2023-02-26 | 207 | 9 | 
 | 2023-02-24 | 204 | 9 | 
-| 2023-02-23 | 204 | 9 | 
 

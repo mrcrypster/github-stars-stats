@@ -1,6 +1,6 @@
 # enjoiz/Privesc - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 416 | 91 | 
 | 2023-03-24 | 416 | 91 | 
 | 2023-03-23 | 414 | 90 | 
 | 2023-03-21 | 414 | 90 | 

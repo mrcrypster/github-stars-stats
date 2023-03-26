@@ -1,10 +1,10 @@
 # geekcompany/ResumeSample - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 9073
+☋ Forks: 9077
 
-★ Stars: 25994
+★ Stars: 25998
 
 [Open repository](https://github.com/geekcompany/ResumeSample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 25998 | 9077 | 
 | 2023-03-23 | 25994 | 9073 | 
 | 2023-03-22 | 25988 | 9073 | 
 | 2023-03-21 | 25983 | 9071 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 25858 | 9060 | 
 | 2023-02-25 | 25851 | 9058 | 
 | 2023-02-24 | 25848 | 9058 | 
-| 2023-02-23 | 25841 | 9055 | 
 

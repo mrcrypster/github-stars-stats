@@ -1,8 +1,8 @@
 # tock/tock - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 558
+☋ Forks: 560
 
 ★ Stars: 4218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4218 | 560 | 
 | 2023-03-24 | 4218 | 558 | 
 | 2023-03-22 | 4215 | 557 | 
 | 2023-03-21 | 4209 | 557 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 4174 | 548 | 
 | 2023-02-26 | 4176 | 548 | 
 | 2023-02-24 | 4173 | 548 | 
-| 2023-02-23 | 4173 | 547 | 
 

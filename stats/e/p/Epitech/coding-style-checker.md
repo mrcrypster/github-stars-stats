@@ -1,6 +1,6 @@
 # Epitech/coding-style-checker - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 13 | 43 | 
 | 2023-03-23 | 13 | 43 | 
 | 2023-03-22 | 13 | 42 | 
 | 2023-03-20 | 13 | 42 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 13 | 40 | 
 | 2023-02-26 | 13 | 40 | 
 | 2023-02-25 | 13 | 40 | 
-| 2023-02-23 | 13 | 40 | 
 

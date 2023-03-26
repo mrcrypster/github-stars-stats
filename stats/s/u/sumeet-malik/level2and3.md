@@ -1,6 +1,6 @@
 # sumeet-malik/level2and3 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 109 | 74 | 
 | 2023-03-24 | 109 | 74 | 
 | 2023-03-23 | 109 | 75 | 
 | 2023-03-21 | 109 | 75 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 108 | 74 | 
 | 2023-02-25 | 108 | 74 | 
 | 2023-02-24 | 108 | 74 | 
-| 2023-02-23 | 108 | 74 | 
 

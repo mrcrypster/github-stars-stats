@@ -1,6 +1,6 @@
 # bloomrpc/bloomrpc - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 444
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8917 | 444 | 
 | 2023-03-23 | 8917 | 444 | 
 | 2023-03-22 | 8917 | 444 | 
 | 2023-03-20 | 8914 | 444 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 8910 | 441 | 
 | 2023-02-25 | 8910 | 441 | 
 | 2023-02-24 | 8909 | 441 | 
-| 2023-02-23 | 8912 | 442 | 
 

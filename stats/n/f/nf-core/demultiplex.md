@@ -1,6 +1,6 @@
 # nf-core/demultiplex - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 23 | 14 | 
 | 2023-03-23 | 23 | 14 | 
 | 2023-03-22 | 23 | 14 | 
 | 2023-03-21 | 23 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 22 | 14 | 
 | 2023-02-25 | 22 | 14 | 
 | 2023-02-24 | 22 | 14 | 
-| 2023-02-23 | 21 | 14 | 
 

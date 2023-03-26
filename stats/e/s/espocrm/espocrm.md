@@ -1,6 +1,6 @@
 # espocrm/espocrm - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1069 | 441 | 
 | 2023-03-24 | 1069 | 441 | 
 | 2023-03-22 | 1068 | 441 | 
 | 2023-03-21 | 1068 | 440 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1051 | 433 | 
 | 2023-02-25 | 1051 | 432 | 
 | 2023-02-24 | 1052 | 430 | 
-| 2023-02-23 | 1050 | 429 | 
 

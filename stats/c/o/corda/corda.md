@@ -1,6 +1,6 @@
 # corda/corda - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1086
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3924 | 1086 | 
 | 2023-03-24 | 3924 | 1086 | 
 | 2023-03-22 | 3924 | 1085 | 
 | 2023-03-21 | 3924 | 1085 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 3918 | 1085 | 
 | 2023-02-26 | 3919 | 1086 | 
 | 2023-02-24 | 3918 | 1087 | 
-| 2023-02-23 | 3918 | 1087 | 
 

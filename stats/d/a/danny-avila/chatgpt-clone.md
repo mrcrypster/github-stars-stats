@@ -1,10 +1,10 @@
 # danny-avila/chatgpt-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 150
+★ Stars: 158
 
 [Open repository](https://github.com/danny-avila/chatgpt-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 158 | 43 | 
 | 2023-03-24 | 150 | 42 | 
 | 2023-03-23 | 131 | 38 | 
 | 2023-03-22 | 120 | 38 | 

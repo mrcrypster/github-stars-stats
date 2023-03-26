@@ -1,10 +1,10 @@
 # dhruvasagar/vim-table-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 94
 
-★ Stars: 1860
+★ Stars: 1861
 
 [Open repository](https://github.com/dhruvasagar/vim-table-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1861 | 94 | 
 | 2023-03-23 | 1860 | 94 | 
 | 2023-03-22 | 1860 | 94 | 
 | 2023-03-20 | 1860 | 94 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1843 | 94 | 
 | 2023-02-25 | 1843 | 94 | 
 | 2023-02-24 | 1844 | 94 | 
-| 2023-02-23 | 1843 | 94 | 
 

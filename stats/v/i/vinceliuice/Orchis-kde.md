@@ -1,10 +1,10 @@
 # vinceliuice/Orchis-kde - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 15
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/vinceliuice/Orchis-kde)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 140 | 15 | 
 | 2023-03-23 | 139 | 15 | 
 | 2023-03-21 | 138 | 15 | 
 | 2023-03-20 | 138 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 132 | 15 | 
 | 2023-02-25 | 132 | 15 | 
 | 2023-02-24 | 132 | 15 | 
-| 2023-02-23 | 132 | 15 | 
 

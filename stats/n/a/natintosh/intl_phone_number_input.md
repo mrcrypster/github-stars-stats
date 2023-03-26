@@ -1,6 +1,6 @@
 # natintosh/intl_phone_number_input - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 363
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 146 | 363 | 
 | 2023-03-24 | 146 | 363 | 
 | 2023-03-22 | 146 | 362 | 
 | 2023-03-21 | 145 | 362 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 142 | 354 | 
 | 2023-02-25 | 142 | 354 | 
 | 2023-02-24 | 142 | 354 | 
-| 2023-02-23 | 142 | 353 | 
 

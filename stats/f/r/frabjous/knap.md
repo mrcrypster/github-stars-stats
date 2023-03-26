@@ -1,10 +1,10 @@
 # frabjous/knap - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 210
+★ Stars: 212
 
 [Open repository](https://github.com/frabjous/knap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 212 | 3 | 
 | 2023-03-23 | 210 | 3 | 
 | 2023-03-22 | 209 | 3 | 
 | 2023-03-20 | 210 | 3 | 

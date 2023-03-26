@@ -1,8 +1,8 @@
 # coursier/coursier - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 288
+☋ Forks: 290
 
 ★ Stars: 1941
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1941 | 290 | 
 | 2023-03-23 | 1941 | 288 | 
 | 2023-03-22 | 1939 | 288 | 
 | 2023-03-21 | 1939 | 288 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1937 | 282 | 
 | 2023-02-25 | 1937 | 282 | 
 | 2023-02-24 | 1937 | 281 | 
-| 2023-02-23 | 1937 | 281 | 
 

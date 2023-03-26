@@ -1,6 +1,6 @@
 # fex-team/ueditor - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 2389
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6359 | 2389 | 
 | 2023-03-24 | 6359 | 2389 | 
 | 2023-03-22 | 6355 | 2389 | 
 | 2023-03-21 | 6353 | 2389 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 6335 | 2386 | 
 | 2023-02-25 | 6336 | 2386 | 
 | 2023-02-24 | 6335 | 2385 | 
-| 2023-02-23 | 6334 | 2383 | 
 

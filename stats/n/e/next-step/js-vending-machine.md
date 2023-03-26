@@ -1,6 +1,6 @@
 # next-step/js-vending-machine - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10 | 56 | 
 | 2023-03-24 | 10 | 56 | 
 | 2023-03-23 | 10 | 56 | 
 | 2023-03-22 | 10 | 56 | 

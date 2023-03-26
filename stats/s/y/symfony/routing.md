@@ -1,10 +1,10 @@
 # symfony/routing - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 99
 
-★ Stars: 7373
+★ Stars: 7372
 
 [Open repository](https://github.com/symfony/routing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 7372 | 99 | 
 | 2023-03-24 | 7373 | 99 | 
 | 2023-03-23 | 7369 | 99 | 
 | 2023-03-21 | 7369 | 99 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 7355 | 98 | 
 | 2023-02-25 | 7355 | 98 | 
 | 2023-02-24 | 7353 | 98 | 
-| 2023-02-23 | 7353 | 98 | 
 

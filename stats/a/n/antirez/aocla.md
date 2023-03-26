@@ -1,10 +1,10 @@
 # antirez/aocla - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 13
 
-★ Stars: 306
+★ Stars: 307
 
 [Open repository](https://github.com/antirez/aocla)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 307 | 13 | 
 | 2023-03-23 | 306 | 13 | 
 | 2023-03-21 | 306 | 13 | 
 | 2023-03-20 | 306 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 281 | 11 | 
 | 2023-02-25 | 281 | 11 | 
 | 2023-02-24 | 281 | 11 | 
-| 2023-02-23 | 280 | 11 | 
 

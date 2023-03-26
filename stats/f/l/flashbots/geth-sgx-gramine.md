@@ -1,10 +1,10 @@
 # flashbots/geth-sgx-gramine - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/flashbots/geth-sgx-gramine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 39 | 1 | 
 | 2023-03-24 | 38 | 1 | 
 | 2023-03-23 | 38 | 1 | 
 | 2023-03-22 | 38 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 25 | 1 | 
 | 2023-02-25 | 25 | 1 | 
 | 2023-02-24 | 25 | 1 | 
-| 2023-02-23 | 25 | 1 | 
 

@@ -1,10 +1,10 @@
 # hikari-no-yume/touchHLE - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 1352
+★ Stars: 1356
 
 [Open repository](https://github.com/hikari-no-yume/touchHLE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1356 | 49 | 
 | 2023-03-24 | 1352 | 48 | 
 | 2023-03-22 | 1349 | 48 | 
 | 2023-03-21 | 1339 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 952 | 38 | 
 | 2023-02-26 | 948 | 38 | 
 | 2023-02-24 | 943 | 37 | 
-| 2023-02-23 | 940 | 37 | 
 

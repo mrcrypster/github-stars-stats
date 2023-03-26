@@ -1,8 +1,8 @@
 # cM2908/leetcode-sql - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 129
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 129 | 36 | 
 | 2023-03-23 | 129 | 35 | 
 | 2023-03-21 | 129 | 35 | 
 | 2023-03-20 | 129 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 127 | 34 | 
 | 2023-02-25 | 127 | 34 | 
 | 2023-02-24 | 127 | 34 | 
-| 2023-02-23 | 127 | 34 | 
 

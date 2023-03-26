@@ -1,10 +1,10 @@
 # DamonMohammadbagher/NativePayloads - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 32
 
-★ Stars: 176
+★ Stars: 178
 
 [Open repository](https://github.com/DamonMohammadbagher/NativePayloads)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 178 | 32 | 
 | 2023-03-24 | 176 | 32 | 
 | 2023-03-23 | 176 | 32 | 
 | 2023-03-22 | 174 | 31 | 

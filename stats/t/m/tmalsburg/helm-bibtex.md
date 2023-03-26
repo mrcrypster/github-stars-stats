@@ -1,6 +1,6 @@
 # tmalsburg/helm-bibtex - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 430 | 68 | 
 | 2023-03-23 | 430 | 68 | 
 | 2023-03-22 | 429 | 68 | 
 | 2023-03-20 | 429 | 68 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 428 | 68 | 
 | 2023-02-26 | 429 | 68 | 
 | 2023-02-24 | 429 | 68 | 
-| 2023-02-23 | 429 | 68 | 
 

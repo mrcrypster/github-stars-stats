@@ -1,10 +1,10 @@
 # Wind4/vlmcsd - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1981
 
-★ Stars: 7116
+★ Stars: 7120
 
 [Open repository](https://github.com/Wind4/vlmcsd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 7120 | 1981 | 
 | 2023-03-24 | 7116 | 1981 | 
 | 2023-03-22 | 7114 | 1979 | 
 | 2023-03-21 | 7104 | 1978 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 7032 | 1962 | 
 | 2023-02-25 | 7026 | 1961 | 
 | 2023-02-24 | 7025 | 1961 | 
-| 2023-02-23 | 7023 | 1961 | 
 

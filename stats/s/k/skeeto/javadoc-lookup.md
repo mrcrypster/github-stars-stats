@@ -1,6 +1,6 @@
 # skeeto/javadoc-lookup - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 55 | 14 | 
 | 2023-03-24 | 55 | 14 | 
 | 2023-03-23 | 55 | 14 | 
 | 2023-03-22 | 55 | 14 | 

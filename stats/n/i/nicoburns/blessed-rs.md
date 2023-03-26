@@ -1,10 +1,10 @@
 # nicoburns/blessed-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 858
+★ Stars: 859
 
 [Open repository](https://github.com/nicoburns/blessed-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 859 | 40 | 
 | 2023-03-24 | 858 | 39 | 
 | 2023-03-22 | 857 | 39 | 
 | 2023-03-21 | 856 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 825 | 36 | 
 | 2023-02-25 | 825 | 36 | 
 | 2023-02-24 | 824 | 36 | 
-| 2023-02-23 | 824 | 36 | 
 

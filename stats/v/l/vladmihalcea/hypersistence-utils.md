@@ -1,10 +1,10 @@
 # vladmihalcea/hypersistence-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 305
 
-★ Stars: 1924
+★ Stars: 1925
 
 [Open repository](https://github.com/vladmihalcea/hypersistence-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1925 | 305 | 
 | 2023-03-24 | 1924 | 305 | 
 | 2023-03-23 | 1922 | 305 | 
 | 2023-03-21 | 1920 | 304 | 

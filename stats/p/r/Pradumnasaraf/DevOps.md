@@ -1,10 +1,10 @@
 # Pradumnasaraf/DevOps - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 279
+☋ Forks: 280
 
-★ Stars: 1103
+★ Stars: 1108
 
 [Open repository](https://github.com/Pradumnasaraf/DevOps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1108 | 280 | 
 | 2023-03-24 | 1103 | 279 | 
 | 2023-03-23 | 1099 | 277 | 
 | 2023-03-21 | 1089 | 275 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 948 | 251 | 
 | 2023-02-25 | 947 | 249 | 
 | 2023-02-24 | 946 | 248 | 
-| 2023-02-23 | 945 | 247 | 
 

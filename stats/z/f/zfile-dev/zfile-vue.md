@@ -1,10 +1,10 @@
 # zfile-dev/zfile-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 206
+☋ Forks: 207
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/zfile-dev/zfile-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 327 | 207 | 
 | 2023-03-23 | 326 | 206 | 
 | 2023-03-22 | 325 | 204 | 
 | 2023-03-20 | 323 | 203 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 318 | 201 | 
 | 2023-02-25 | 318 | 201 | 
 | 2023-02-24 | 318 | 201 | 
-| 2023-02-23 | 317 | 199 | 
 

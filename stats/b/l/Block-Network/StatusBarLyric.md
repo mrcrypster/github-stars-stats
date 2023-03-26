@@ -1,10 +1,10 @@
 # Block-Network/StatusBarLyric - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 24
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/Block-Network/StatusBarLyric)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 507 | 24 | 
 | 2023-03-23 | 506 | 24 | 
 | 2023-03-22 | 505 | 24 | 
 | 2023-03-20 | 504 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 474 | 21 | 
 | 2023-02-26 | 469 | 21 | 
 | 2023-02-25 | 469 | 21 | 
-| 2023-02-23 | 469 | 21 | 
 

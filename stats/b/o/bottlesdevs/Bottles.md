@@ -1,10 +1,10 @@
 # bottlesdevs/Bottles - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 197
+☋ Forks: 198
 
-★ Stars: 4553
+★ Stars: 4557
 
 [Open repository](https://github.com/bottlesdevs/Bottles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4557 | 198 | 
 | 2023-03-23 | 4553 | 197 | 
 | 2023-03-22 | 4551 | 196 | 
 | 2023-03-21 | 4551 | 197 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 4465 | 193 | 
 | 2023-02-26 | 4458 | 191 | 
 | 2023-02-24 | 4457 | 192 | 
-| 2023-02-23 | 4450 | 192 | 
 

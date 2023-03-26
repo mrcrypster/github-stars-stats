@@ -1,8 +1,8 @@
 # LinkedInLearning/gitops-foundations-env-2892009 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 408
+☋ Forks: 409
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 22 | 409 | 
 | 2023-03-23 | 22 | 408 | 
 | 2023-03-22 | 22 | 408 | 
 | 2023-03-20 | 22 | 408 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 22 | 397 | 
 | 2023-02-25 | 22 | 397 | 
 | 2023-02-24 | 22 | 396 | 
-| 2023-02-23 | 21 | 396 | 
 

@@ -1,6 +1,6 @@
 # automl/auto-sklearn - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6802 | 1218 | 
 | 2023-03-24 | 6802 | 1218 | 
 | 2023-03-22 | 6801 | 1218 | 
 | 2023-03-21 | 6797 | 1218 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 6757 | 1212 | 
 | 2023-02-25 | 6751 | 1212 | 
 | 2023-02-24 | 6750 | 1213 | 
-| 2023-02-23 | 6747 | 1214 | 
 

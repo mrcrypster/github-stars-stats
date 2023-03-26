@@ -1,10 +1,10 @@
 # XaFF-XaFF/Black-Angel-Rootkit - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 49
+☋ Forks: 53
 
-★ Stars: 312
+★ Stars: 323
 
 [Open repository](https://github.com/XaFF-XaFF/Black-Angel-Rootkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 323 | 53 | 
 | 2023-03-24 | 312 | 49 | 
 | 2023-03-23 | 297 | 48 | 
 

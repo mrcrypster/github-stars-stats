@@ -1,6 +1,6 @@
 # EmielH/tale-hugo - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 246 | 121 | 
 | 2023-03-24 | 246 | 121 | 
 | 2023-03-23 | 246 | 121 | 
 | 2023-03-21 | 246 | 121 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 245 | 121 | 
 | 2023-02-25 | 245 | 121 | 
 | 2023-02-24 | 245 | 121 | 
-| 2023-02-23 | 245 | 121 | 
 

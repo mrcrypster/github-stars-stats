@@ -1,10 +1,10 @@
 # apache/calcite - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1923
+☋ Forks: 1928
 
-★ Stars: 3743
+★ Stars: 3745
 
 [Open repository](https://github.com/apache/calcite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3745 | 1928 | 
 | 2023-03-23 | 3743 | 1923 | 
 | 2023-03-22 | 3740 | 1922 | 
 | 2023-03-21 | 3735 | 1923 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 3686 | 1897 | 
 | 2023-02-26 | 3682 | 1895 | 
 | 2023-02-25 | 3678 | 1895 | 
-| 2023-02-23 | 3669 | 1893 | 
 

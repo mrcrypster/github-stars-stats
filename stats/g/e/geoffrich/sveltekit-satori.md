@@ -1,10 +1,10 @@
 # geoffrich/sveltekit-satori - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/geoffrich/sveltekit-satori)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 47 | 3 | 
 | 2023-03-24 | 46 | 3 | 
 | 2023-03-22 | 46 | 3 | 
 | 2023-03-21 | 46 | 3 | 

@@ -1,6 +1,6 @@
 # muneeb-mbytes/SystemVerilog_Course - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 20 | 10 | 
 | 2023-03-24 | 20 | 10 | 
 | 2023-03-22 | 20 | 10 | 
 | 2023-03-21 | 19 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 16 | 8 | 
 | 2023-02-25 | 16 | 8 | 
 | 2023-02-24 | 16 | 8 | 
-| 2023-02-23 | 16 | 8 | 
 

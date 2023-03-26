@@ -1,10 +1,10 @@
 # matthieu-hackwitharts/Win32_Offensive_Cheatsheet - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 92
 
-★ Stars: 515
+★ Stars: 519
 
 [Open repository](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 519 | 92 | 
 | 2023-03-23 | 515 | 92 | 
 | 2023-03-22 | 502 | 88 | 
 | 2023-03-21 | 499 | 87 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 314 | 54 | 
 | 2023-02-26 | 314 | 54 | 
 | 2023-02-25 | 314 | 54 | 
-| 2023-02-23 | 314 | 54 | 
 

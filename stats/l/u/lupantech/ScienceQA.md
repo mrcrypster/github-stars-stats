@@ -1,10 +1,10 @@
 # lupantech/ScienceQA - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 34
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/lupantech/ScienceQA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 215 | 34 | 
 | 2023-03-24 | 214 | 34 | 
 | 2023-03-22 | 212 | 34 | 
 | 2023-03-21 | 211 | 34 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 174 | 31 | 
 | 2023-02-25 | 163 | 28 | 
 | 2023-02-24 | 155 | 25 | 
-| 2023-02-23 | 117 | 23 | 
 

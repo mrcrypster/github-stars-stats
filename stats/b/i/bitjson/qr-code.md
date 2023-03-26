@@ -1,10 +1,10 @@
 # bitjson/qr-code - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 13
 
-★ Stars: 392
+★ Stars: 394
 
 [Open repository](https://github.com/bitjson/qr-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 394 | 13 | 
 | 2023-03-24 | 392 | 13 | 
 | 2023-03-22 | 389 | 13 | 
 | 2023-03-21 | 386 | 12 | 

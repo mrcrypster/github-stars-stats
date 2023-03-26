@@ -1,10 +1,10 @@
 # motianjun4/ChatGPT_Chatbot - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 19
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/motianjun4/ChatGPT_Chatbot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 93 | 19 | 
 | 2023-03-23 | 92 | 19 | 
 | 2023-03-22 | 92 | 19 | 
 | 2023-03-21 | 91 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 75 | 19 | 
 | 2023-02-26 | 74 | 19 | 
 | 2023-02-25 | 73 | 17 | 
-| 2023-02-23 | 73 | 16 | 
 

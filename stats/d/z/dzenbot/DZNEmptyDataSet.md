@@ -1,10 +1,10 @@
 # dzenbot/DZNEmptyDataSet - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1758
 
-★ Stars: 12140
+★ Stars: 12139
 
 [Open repository](https://github.com/dzenbot/DZNEmptyDataSet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 12139 | 1758 | 
 | 2023-03-24 | 12140 | 1758 | 
 | 2023-03-23 | 12139 | 1758 | 
 | 2023-03-21 | 12139 | 1758 | 

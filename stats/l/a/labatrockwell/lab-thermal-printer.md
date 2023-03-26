@@ -1,6 +1,6 @@
 # labatrockwell/lab-thermal-printer - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3 | 1 | 
 | 2023-03-24 | 3 | 1 | 
 | 2023-03-23 | 3 | 1 | 
 | 2023-03-21 | 3 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2 | 1 | 
 | 2023-02-25 | 1 | 1 | 
 | 2023-02-24 | 1 | 1 | 
-| 2023-02-23 | 1 | 1 | 
 

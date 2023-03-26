@@ -1,6 +1,6 @@
 # spm/spm - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 17 | 5 | 
 | 2023-03-24 | 17 | 5 | 
 | 2023-03-22 | 17 | 5 | 
 | 2023-03-21 | 17 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 16 | 5 | 
 | 2023-02-26 | 16 | 5 | 
 | 2023-02-24 | 16 | 5 | 
-| 2023-02-23 | 16 | 5 | 
 

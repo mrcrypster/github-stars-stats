@@ -1,6 +1,6 @@
 # Vuepic/vue-datepicker - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 644 | 62 | 
 | 2023-03-24 | 644 | 62 | 
 | 2023-03-22 | 641 | 62 | 
 | 2023-03-21 | 637 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 603 | 54 | 
 | 2023-02-26 | 601 | 54 | 
 | 2023-02-25 | 600 | 54 | 
-| 2023-02-24 | 596 | 54 | 
 

@@ -1,10 +1,10 @@
 # ctor-lab/ERC1155Delta - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/ctor-lab/ERC1155Delta)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 35 | - | 
 | 2023-03-23 | 34 | - | 
 | 2023-03-21 | 34 | - | 
 | 2023-03-20 | 33 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 32 | - | 
 | 2023-02-25 | 32 | - | 
 | 2023-02-24 | 32 | - | 
-| 2023-02-23 | 32 | - | 
 

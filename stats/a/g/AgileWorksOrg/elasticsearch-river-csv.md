@@ -1,6 +1,6 @@
 # AgileWorksOrg/elasticsearch-river-csv - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 91 | 46 | 
 | 2023-03-24 | 91 | 46 | 
 | 2023-03-22 | 91 | 46 | 
 | 2023-03-21 | 91 | 46 | 

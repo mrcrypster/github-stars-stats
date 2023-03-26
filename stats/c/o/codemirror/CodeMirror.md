@@ -1,10 +1,10 @@
 # codemirror/CodeMirror - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 4993
+☋ Forks: 4995
 
-★ Stars: 25765
+★ Stars: 25769
 
 [Open repository](https://github.com/codemirror/CodeMirror)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 25769 | 4995 | 
 | 2023-03-23 | 25765 | 4993 | 
 | 2023-03-22 | 25764 | 4993 | 
 | 2023-03-20 | 25763 | 4992 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 25706 | 4985 | 
 | 2023-02-26 | 25705 | 4985 | 
 | 2023-02-25 | 25705 | 4984 | 
-| 2023-02-23 | 25704 | 4984 | 
 

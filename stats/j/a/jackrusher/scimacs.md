@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/jackrusher/scimacs)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 70 | 1 | 
+| 2023-03-25 | 72 | 1 | 
 | 2023-03-24 | 70 | 1 | 
 | 2023-03-23 | 67 | 1 | 
 | 2023-03-22 | 65 | 1 | 

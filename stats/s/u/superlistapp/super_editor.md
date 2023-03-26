@@ -1,10 +1,10 @@
 # superlistapp/super_editor - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 154
+☋ Forks: 156
 
-★ Stars: 1080
+★ Stars: 1081
 
 [Open repository](https://github.com/superlistapp/super_editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1081 | 156 | 
 | 2023-03-24 | 1080 | 154 | 
 | 2023-03-23 | 1079 | 153 | 
 | 2023-03-22 | 1074 | 153 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1052 | 148 | 
 | 2023-02-26 | 1051 | 148 | 
 | 2023-02-24 | 1051 | 148 | 
-| 2023-02-23 | 1051 | 146 | 
 

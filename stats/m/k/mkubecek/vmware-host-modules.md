@@ -1,6 +1,6 @@
 # mkubecek/vmware-host-modules - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 282
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1674 | 282 | 
 | 2023-03-24 | 1674 | 282 | 
 | 2023-03-23 | 1673 | 281 | 
 | 2023-03-21 | 1673 | 281 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1659 | 279 | 
 | 2023-02-25 | 1659 | 279 | 
 | 2023-02-24 | 1656 | 279 | 
-| 2023-02-23 | 1655 | 278 | 
 

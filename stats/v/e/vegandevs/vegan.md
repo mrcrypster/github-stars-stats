@@ -1,10 +1,10 @@
 # vegandevs/vegan - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 89
 
-★ Stars: 356
+★ Stars: 358
 
 [Open repository](https://github.com/vegandevs/vegan)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 358 | 89 | 
+| 2023-03-25 | 358 | 89 | 
 | 2023-03-24 | 356 | 89 | 
 | 2023-03-22 | 356 | 89 | 
 | 2023-03-21 | 356 | 89 | 

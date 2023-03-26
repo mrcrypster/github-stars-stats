@@ -1,10 +1,10 @@
 # anshuopinion/10-Practice-Project-Html-CSS - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 105
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/anshuopinion/10-Practice-Project-Html-CSS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 85 | 105 | 
 | 2023-03-23 | 84 | 105 | 
 | 2023-03-21 | 83 | 104 | 
 | 2023-03-20 | 83 | 103 | 

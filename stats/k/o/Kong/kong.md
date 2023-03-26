@@ -1,10 +1,10 @@
 # Kong/kong - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 4420
+☋ Forks: 4423
 
-★ Stars: 34368
+★ Stars: 34379
 
 [Open repository](https://github.com/Kong/kong)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 34379 | 4423 | 
 | 2023-03-24 | 34368 | 4420 | 
 | 2023-03-23 | 34365 | 4421 | 
 | 2023-03-22 | 34358 | 4421 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 34142 | 4408 | 
 | 2023-02-25 | 34141 | 4408 | 
 | 2023-02-24 | 34130 | 4407 | 
-| 2023-02-23 | 34115 | 4407 | 
 

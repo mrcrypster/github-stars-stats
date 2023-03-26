@@ -1,8 +1,8 @@
 # trinodb/charts - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 92
+☋ Forks: 93
 
 ★ Stars: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 92 | 93 | 
 | 2023-03-23 | 92 | 92 | 
 | 2023-03-22 | 92 | 92 | 
 | 2023-03-20 | 92 | 92 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 90 | 87 | 
 | 2023-02-25 | 90 | 86 | 
 | 2023-02-24 | 90 | 86 | 
-| 2023-02-23 | 90 | 86 | 
 

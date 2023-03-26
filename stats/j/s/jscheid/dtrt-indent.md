@@ -1,6 +1,6 @@
 # jscheid/dtrt-indent - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 158 | 25 | 
 | 2023-03-23 | 158 | 25 | 
 | 2023-03-22 | 158 | 25 | 
 | 2023-03-21 | 158 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 157 | 24 | 
 | 2023-02-25 | 157 | 24 | 
 | 2023-02-24 | 157 | 24 | 
-| 2023-02-23 | 157 | 24 | 
 

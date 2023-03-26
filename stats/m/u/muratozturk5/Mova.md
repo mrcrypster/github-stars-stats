@@ -1,10 +1,10 @@
 # muratozturk5/Mova - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 70
+★ Stars: 74
 
 [Open repository](https://github.com/muratozturk5/Mova)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 74 | 9 | 
 | 2023-03-24 | 70 | 8 | 
 | 2023-03-23 | 67 | 7 | 
 | 2023-03-22 | 63 | 6 | 

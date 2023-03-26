@@ -1,10 +1,10 @@
 # astoff/code-cells.el - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/astoff/code-cells.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 112 | 6 | 
 | 2023-03-23 | 111 | 6 | 
 | 2023-03-22 | 111 | 6 | 
 | 2023-03-20 | 111 | 6 | 

@@ -1,8 +1,8 @@
 # arcadesdude/BRU - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 389
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 389 | 23 | 
 | 2023-03-23 | 389 | 22 | 
 | 2023-03-22 | 389 | 22 | 
 | 2023-03-21 | 387 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 375 | 22 | 
 | 2023-02-25 | 375 | 22 | 
 | 2023-02-24 | 374 | 21 | 
-| 2023-02-23 | 371 | 21 | 
 

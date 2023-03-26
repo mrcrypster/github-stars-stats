@@ -1,8 +1,8 @@
 # brentvollebregt/auto-py-to-exe - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 553
+☋ Forks: 552
 
 ★ Stars: 2899
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2899 | 552 | 
 | 2023-03-24 | 2899 | 553 | 
 | 2023-03-22 | 2893 | 550 | 
 | 2023-03-21 | 2890 | 550 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2822 | 530 | 
 | 2023-02-25 | 2822 | 528 | 
 | 2023-02-24 | 2822 | 528 | 
-| 2023-02-23 | 2819 | 527 | 
 

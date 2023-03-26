@@ -1,6 +1,6 @@
 # JungSangup/mspt3 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 17 | 26 | 
 | 2023-03-24 | 17 | 26 | 
 | 2023-03-23 | 16 | 26 | 
 | 2023-03-21 | 16 | 26 | 

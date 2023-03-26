@@ -1,6 +1,6 @@
 # openboxes/openboxes - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 344
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 466 | 344 | 
 | 2023-03-24 | 466 | 344 | 
 | 2023-03-22 | 465 | 343 | 
 | 2023-03-21 | 465 | 343 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 456 | 342 | 
 | 2023-02-25 | 456 | 341 | 
 | 2023-02-24 | 456 | 340 | 
-| 2023-02-23 | 456 | 339 | 
 

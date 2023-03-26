@@ -1,6 +1,6 @@
 # elleryqueenhomels/fast_neural_style_transfer - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 509 | 90 | 
 | 2023-03-24 | 509 | 90 | 
 | 2023-03-23 | 509 | 90 | 
 | 2023-03-21 | 509 | 90 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 311 | 56 | 
 | 2023-02-25 | 289 | 52 | 
 | 2023-02-24 | 261 | 48 | 
-| 2023-02-23 | 242 | 46 | 
 

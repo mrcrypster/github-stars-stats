@@ -1,10 +1,10 @@
 # codebdy/rxdrag - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 291
+☋ Forks: 298
 
-★ Stars: 2141
+★ Stars: 2243
 
 [Open repository](https://github.com/codebdy/rxdrag)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2243 | 298 | 
 | 2023-03-24 | 2141 | 291 | 
 | 2023-03-23 | 2042 | 285 | 
 | 2023-03-22 | 1900 | 282 | 

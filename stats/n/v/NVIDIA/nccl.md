@@ -1,10 +1,10 @@
 # NVIDIA/nccl - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 568
 
-★ Stars: 2065
+★ Stars: 2071
 
 [Open repository](https://github.com/NVIDIA/nccl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2071 | 568 | 
 | 2023-03-24 | 2065 | 568 | 
 | 2023-03-22 | 2063 | 568 | 
 | 2023-03-21 | 2055 | 566 | 

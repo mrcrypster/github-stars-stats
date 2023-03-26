@@ -1,10 +1,10 @@
 # krivahtoo/silicon.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 7
+☋ Forks: 6
 
-★ Stars: 180
+★ Stars: 188
 
 [Open repository](https://github.com/krivahtoo/silicon.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 188 | 6 | 
 | 2023-03-24 | 180 | 7 | 
 | 2023-03-23 | 178 | 7 | 
 | 2023-03-22 | 172 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 117 | 7 | 
 | 2023-02-25 | 116 | 7 | 
 | 2023-02-24 | 115 | 7 | 
-| 2023-02-23 | 115 | 7 | 
 

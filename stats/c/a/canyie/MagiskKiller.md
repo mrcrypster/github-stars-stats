@@ -1,6 +1,6 @@
 # canyie/MagiskKiller - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 125 | 31 | 
 | 2023-03-23 | 125 | 31 | 
 | 2023-03-22 | 125 | 31 | 
 | 2023-03-20 | 125 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 121 | 29 | 
 | 2023-02-25 | 121 | 29 | 
 | 2023-02-24 | 121 | 29 | 
-| 2023-02-23 | 121 | 29 | 
 

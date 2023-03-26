@@ -1,10 +1,10 @@
 # coskuncay/flutter_chatgpt_api - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 41
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/coskuncay/flutter_chatgpt_api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 158 | 41 | 
 | 2023-03-24 | 157 | 41 | 
 | 2023-03-22 | 157 | 41 | 
 | 2023-03-21 | 156 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 141 | 37 | 
 | 2023-02-25 | 141 | 37 | 
 | 2023-02-24 | 141 | 37 | 
-| 2023-02-23 | 141 | 37 | 
 

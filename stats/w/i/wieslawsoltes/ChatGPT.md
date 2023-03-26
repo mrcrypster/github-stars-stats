@@ -1,10 +1,10 @@
 # wieslawsoltes/ChatGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 74
+☋ Forks: 79
 
-★ Stars: 458
+★ Stars: 478
 
 [Open repository](https://github.com/wieslawsoltes/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 478 | 79 | 
 | 2023-03-24 | 458 | 74 | 
 | 2023-03-22 | 441 | 71 | 
 | 2023-03-21 | 420 | 65 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 144 | 24 | 
 | 2023-02-25 | 141 | 23 | 
 | 2023-02-24 | 141 | 22 | 
-| 2023-02-23 | 138 | 20 | 
 

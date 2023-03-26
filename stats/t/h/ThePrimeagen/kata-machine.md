@@ -1,10 +1,10 @@
 # ThePrimeagen/kata-machine - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 328
+☋ Forks: 333
 
-★ Stars: 444
+★ Stars: 445
 
 [Open repository](https://github.com/ThePrimeagen/kata-machine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 445 | 333 | 
 | 2023-03-24 | 444 | 328 | 
 | 2023-03-23 | 441 | 324 | 
 | 2023-03-21 | 437 | 324 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 392 | 280 | 
 | 2023-02-25 | 390 | 281 | 
 | 2023-02-24 | 388 | 279 | 
-| 2023-02-23 | 386 | 278 | 
 

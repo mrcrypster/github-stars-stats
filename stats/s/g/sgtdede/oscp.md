@@ -1,6 +1,6 @@
 # sgtdede/oscp - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 44 | 9 | 
 | 2023-03-24 | 44 | 9 | 
 | 2023-03-23 | 44 | 9 | 
 | 2023-03-22 | 44 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 43 | 9 | 
 | 2023-02-25 | 43 | 9 | 
 | 2023-02-24 | 43 | 9 | 
-| 2023-02-23 | 43 | 9 | 
 

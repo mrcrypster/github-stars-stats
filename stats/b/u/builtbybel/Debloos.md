@@ -1,10 +1,10 @@
 # builtbybel/Debloos - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 447
+★ Stars: 455
 
 [Open repository](https://github.com/builtbybel/Debloos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 455 | 11 | 
 | 2023-03-24 | 447 | 11 | 
 | 2023-03-23 | 441 | 11 | 
 | 2023-03-21 | 434 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 324 | 6 | 
 | 2023-02-25 | 315 | 6 | 
 | 2023-02-24 | 303 | 5 | 
-| 2023-02-23 | 283 | 5 | 
 

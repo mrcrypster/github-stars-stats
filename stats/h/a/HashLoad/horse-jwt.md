@@ -1,10 +1,10 @@
 # HashLoad/horse-jwt - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/HashLoad/horse-jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 54 | 25 | 
 | 2023-03-23 | 53 | 24 | 
 | 2023-03-22 | 53 | 24 | 
 | 2023-03-20 | 53 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 51 | 24 | 
 | 2023-02-25 | 51 | 24 | 
 | 2023-02-24 | 51 | 24 | 
-| 2023-02-23 | 51 | 24 | 
 

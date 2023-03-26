@@ -1,6 +1,6 @@
 # liuyinz/binky-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 26 | 3 | 
 | 2023-03-24 | 26 | 3 | 
 | 2023-03-23 | 26 | 3 | 
 | 2023-03-21 | 26 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 26 | 3 | 
 | 2023-02-25 | 26 | 3 | 
 | 2023-02-24 | 26 | 3 | 
-| 2023-02-23 | 26 | 3 | 
 

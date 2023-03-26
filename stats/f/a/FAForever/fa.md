@@ -1,6 +1,6 @@
 # FAForever/fa - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 173 | 197 | 
 | 2023-03-23 | 173 | 197 | 
 | 2023-03-22 | 173 | 196 | 
 | 2023-03-20 | 173 | 196 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 171 | 194 | 
 | 2023-02-25 | 172 | 193 | 
 | 2023-02-24 | 172 | 193 | 
-| 2023-02-23 | 172 | 193 | 
 

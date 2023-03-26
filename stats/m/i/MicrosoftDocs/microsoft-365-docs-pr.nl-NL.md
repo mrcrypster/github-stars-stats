@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoft-365-docs-pr.nl-NL - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4 | 4 | 
 | 2023-03-24 | 4 | 4 | 
 | 2023-03-23 | 4 | 4 | 
 | 2023-03-21 | 4 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 5 | 4 | 
 | 2023-02-26 | 5 | 4 | 
 | 2023-02-24 | 5 | 4 | 
-| 2023-02-23 | 5 | 4 | 
 

@@ -1,8 +1,8 @@
 # webb-tools/protocol-solidity - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 28 | 9 | 
 | 2023-03-24 | 28 | 8 | 
 | 2023-03-23 | 28 | 8 | 
 | 2023-03-21 | 28 | 8 | 

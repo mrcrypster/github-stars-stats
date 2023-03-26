@@ -1,6 +1,6 @@
 # deskree-inc/feedback-tool - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3 | 21 | 
 | 2023-03-24 | 3 | 21 | 
 | 2023-03-23 | 3 | 21 | 
 | 2023-03-22 | 3 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 3 | 21 | 
 | 2023-02-26 | 3 | 21 | 
 | 2023-02-25 | 3 | 21 | 
-| 2023-02-23 | 3 | 21 | 
 

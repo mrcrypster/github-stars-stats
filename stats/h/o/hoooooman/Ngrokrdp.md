@@ -1,6 +1,6 @@
 # hoooooman/Ngrokrdp - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | - | 59 | 
 | 2023-03-24 | - | 59 | 
 | 2023-03-23 | - | 56 | 
 | 2023-03-22 | - | 55 | 

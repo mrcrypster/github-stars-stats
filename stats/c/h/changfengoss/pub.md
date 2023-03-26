@@ -1,10 +1,10 @@
 # changfengoss/pub - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 273
 
-★ Stars: 737
+★ Stars: 738
 
 [Open repository](https://github.com/changfengoss/pub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 738 | 273 | 
 | 2023-03-24 | 737 | 273 | 
 | 2023-03-23 | 737 | 273 | 
 | 2023-03-21 | 736 | 272 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 717 | 270 | 
 | 2023-02-26 | 717 | 269 | 
 | 2023-02-25 | 717 | 269 | 
-| 2023-02-23 | 715 | 268 | 
 

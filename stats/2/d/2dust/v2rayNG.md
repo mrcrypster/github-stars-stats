@@ -1,10 +1,10 @@
 # 2dust/v2rayNG - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3271
 
-★ Stars: 20139
+★ Stars: 20155
 
 [Open repository](https://github.com/2dust/v2rayNG)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 20155 | 3271 | 
 | 2023-03-24 | 20139 | 3271 | 
 | 2023-03-23 | 20122 | 3267 | 
 | 2023-03-22 | 20083 | 3267 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 19517 | 3186 | 
 | 2023-02-25 | 19485 | 3184 | 
 | 2023-02-24 | 19457 | 3180 | 
-| 2023-02-23 | 19433 | 3179 | 
 

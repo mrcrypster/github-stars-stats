@@ -1,6 +1,6 @@
 # spences10/pacellman - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 48 | 6 | 
 | 2023-03-23 | 48 | 6 | 
 | 2023-03-21 | 48 | 6 | 
 | 2023-03-20 | 48 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 48 | 6 | 
 | 2023-02-25 | 48 | 6 | 
 | 2023-02-24 | 48 | 6 | 
-| 2023-02-23 | 48 | 6 | 
 

@@ -1,10 +1,10 @@
 # immunefi-team/forge-poc-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 23
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/immunefi-team/forge-poc-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 139 | 23 | 
 | 2023-03-23 | 138 | 23 | 
 | 2023-03-22 | 133 | 22 | 
 | 2023-03-21 | 131 | 22 | 

@@ -1,6 +1,6 @@
 # marc-jones/game-off-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 28 | 4 | 
 | 2023-03-24 | 28 | 4 | 
 | 2023-03-23 | 28 | 4 | 
 | 2023-03-21 | 28 | 4 | 

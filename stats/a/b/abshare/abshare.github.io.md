@@ -1,10 +1,10 @@
 # abshare/abshare.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 158
+★ Stars: 161
 
 [Open repository](https://github.com/abshare/abshare.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 161 | 12 | 
 | 2023-03-24 | 158 | 11 | 
 | 2023-03-23 | 158 | 11 | 
 | 2023-03-21 | 158 | 10 | 

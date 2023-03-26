@@ -1,10 +1,10 @@
 # google/protobuf.dart - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 169
 
-★ Stars: 447
+★ Stars: 448
 
 [Open repository](https://github.com/google/protobuf.dart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 448 | 169 | 
 | 2023-03-24 | 447 | 169 | 
 | 2023-03-22 | 447 | 169 | 
 | 2023-03-21 | 446 | 169 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 447 | 170 | 
 | 2023-02-25 | 447 | 170 | 
 | 2023-02-24 | 447 | 170 | 
-| 2023-02-23 | 447 | 170 | 
 

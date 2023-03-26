@@ -1,10 +1,10 @@
 # flutter/news_toolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 152
+☋ Forks: 151
 
-★ Stars: 840
+★ Stars: 842
 
 [Open repository](https://github.com/flutter/news_toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 842 | 151 | 
 | 2023-03-23 | 840 | 152 | 
 | 2023-03-22 | 838 | 152 | 
 | 2023-03-21 | 836 | 152 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 795 | 141 | 
 | 2023-02-25 | 791 | 140 | 
 | 2023-02-24 | 785 | 140 | 
-| 2023-02-23 | 784 | 140 | 
 

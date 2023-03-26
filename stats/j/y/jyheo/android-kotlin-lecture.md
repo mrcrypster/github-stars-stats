@@ -1,6 +1,6 @@
 # jyheo/android-kotlin-lecture - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10 | 92 | 
 | 2023-03-24 | 10 | 92 | 
 | 2023-03-22 | 10 | 92 | 
 | 2023-03-21 | 10 | 92 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 10 | 82 | 
 | 2023-02-25 | 10 | 82 | 
 | 2023-02-24 | 10 | 82 | 
-| 2023-02-23 | 10 | 82 | 
 

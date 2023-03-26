@@ -1,10 +1,10 @@
 # cookpete/react-player - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1039
 
-★ Stars: 7523
+★ Stars: 7534
 
 [Open repository](https://github.com/cookpete/react-player)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 7534 | 1039 | 
 | 2023-03-23 | 7523 | 1039 | 
 | 2023-03-22 | 7522 | 1039 | 
 | 2023-03-20 | 7516 | 1037 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 7380 | 1020 | 
 | 2023-02-25 | 7376 | 1020 | 
 | 2023-02-24 | 7374 | 1020 | 
-| 2023-02-23 | 7367 | 1020 | 
 

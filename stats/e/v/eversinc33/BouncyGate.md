@@ -1,6 +1,6 @@
 # eversinc33/BouncyGate - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 141 | 9 | 
 | 2023-03-23 | 141 | 9 | 
 | 2023-03-22 | 141 | 9 | 
 | 2023-03-21 | 141 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 127 | 8 | 
 | 2023-02-25 | 127 | 8 | 
 | 2023-02-24 | 127 | 8 | 
-| 2023-02-23 | 127 | 8 | 
 

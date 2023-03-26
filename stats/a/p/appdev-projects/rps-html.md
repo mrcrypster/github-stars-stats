@@ -1,8 +1,8 @@
 # appdev-projects/rps-html - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1006
+☋ Forks: 1015
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1 | 1015 | 
 | 2023-03-23 | 1 | 1006 | 
 | 2023-03-22 | 1 | 1001 | 
 | 2023-03-21 | 1 | 1000 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 1 | 976 | 
 | 2023-02-25 | 1 | 976 | 
 | 2023-02-24 | 1 | 976 | 
-| 2023-02-23 | 1 | 976 | 
 

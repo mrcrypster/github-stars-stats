@@ -1,6 +1,6 @@
 # SaumyajeetDas/GodGenesis - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 398 | 83 | 
 | 2023-03-24 | 398 | 83 | 
 | 2023-03-22 | 398 | 83 | 
 | 2023-03-21 | 398 | 83 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 392 | 81 | 
 | 2023-02-25 | 392 | 81 | 
 | 2023-02-24 | 390 | 81 | 
-| 2023-02-23 | 390 | 81 | 
 

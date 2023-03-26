@@ -1,8 +1,8 @@
 # SchemaStore/schemastore - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1244
+☋ Forks: 1246
 
 ★ Stars: 2203
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2203 | 1246 | 
 | 2023-03-23 | 2203 | 1244 | 
 | 2023-03-22 | 2198 | 1243 | 
 | 2023-03-21 | 2199 | 1242 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 2164 | 1222 | 
 | 2023-02-25 | 2163 | 1220 | 
 | 2023-02-24 | 2162 | 1220 | 
-| 2023-02-23 | 2161 | 1219 | 
 

@@ -1,6 +1,6 @@
 # ProjectOpenSea/operator-filter-registry - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 287 | 82 | 
 | 2023-03-24 | 287 | 82 | 
 | 2023-03-22 | 287 | 82 | 
 | 2023-03-21 | 286 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 268 | 75 | 
 | 2023-02-25 | 268 | 75 | 
 | 2023-02-24 | 266 | 75 | 
-| 2023-02-23 | 265 | 75 | 
 

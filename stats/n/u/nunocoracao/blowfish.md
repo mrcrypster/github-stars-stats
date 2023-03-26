@@ -1,8 +1,8 @@
 # nunocoracao/blowfish - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 330
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 330 | 114 | 
 | 2023-03-24 | 330 | 113 | 
 | 2023-03-23 | 329 | 112 | 
 | 2023-03-22 | 321 | 111 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 297 | 95 | 
 | 2023-02-26 | 296 | 96 | 
 | 2023-02-25 | 293 | 95 | 
-| 2023-02-23 | 292 | 93 | 
 

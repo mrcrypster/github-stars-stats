@@ -1,10 +1,10 @@
 # SteamDeckHomebrew/decky-loader - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 85
 
-★ Stars: 2136
+★ Stars: 2146
 
 [Open repository](https://github.com/SteamDeckHomebrew/decky-loader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2146 | 85 | 
 | 2023-03-24 | 2136 | 85 | 
 | 2023-03-23 | 2121 | 84 | 
 | 2023-03-21 | 2109 | 84 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1945 | 80 | 
 | 2023-02-25 | 1928 | 78 | 
 | 2023-02-24 | 1923 | 78 | 
-| 2023-02-23 | 1910 | 78 | 
 

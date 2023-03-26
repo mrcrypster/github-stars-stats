@@ -1,10 +1,10 @@
 # kuca-belludo/urnas - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 16
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/kuca-belludo/urnas)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 88 | 16 | 
 | 2023-03-23 | 87 | 16 | 
 | 2023-03-22 | 87 | 16 | 
 | 2023-03-21 | 86 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 86 | 16 | 
 | 2023-02-25 | 86 | 16 | 
 | 2023-02-24 | 85 | 16 | 
-| 2023-02-23 | 85 | 16 | 
 

@@ -1,10 +1,10 @@
 # defiAnalysis/MakerDAO-DSS - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 14
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/defiAnalysis/MakerDAO-DSS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 27 | 14 | 
 | 2023-03-23 | 26 | 14 | 
 | 2023-03-21 | 26 | 14 | 
 | 2023-03-20 | 26 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 26 | 14 | 
 | 2023-02-26 | 26 | 14 | 
 | 2023-02-25 | 26 | 14 | 
-| 2023-02-24 | 26 | 14 | 
 

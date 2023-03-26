@@ -1,6 +1,6 @@
 # robjhyndman/fpp3_slides - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 30 | 8 | 
 | 2023-03-24 | 30 | 8 | 
 | 2023-03-23 | 30 | 8 | 
 | 2023-03-21 | 30 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 28 | 7 | 
 | 2023-02-26 | 28 | 7 | 
 | 2023-02-25 | 28 | 7 | 
-| 2023-02-24 | 28 | 7 | 
 

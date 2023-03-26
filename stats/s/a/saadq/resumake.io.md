@@ -1,6 +1,6 @@
 # saadq/resumake.io - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 388
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2795 | 388 | 
 | 2023-03-24 | 2795 | 388 | 
 | 2023-03-22 | 2793 | 387 | 
 | 2023-03-21 | 2793 | 386 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2774 | 384 | 
 | 2023-02-25 | 2773 | 384 | 
 | 2023-02-24 | 2773 | 384 | 
-| 2023-02-23 | 2773 | 384 | 
 

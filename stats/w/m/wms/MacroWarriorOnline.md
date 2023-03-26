@@ -1,0 +1,17 @@
+# wms/MacroWarriorOnline - stars & forks statistics
+
+Stats updated on Mar 2023, 25
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/wms/MacroWarriorOnline)
+
+[Open detailed stats for wms/MacroWarriorOnline](https://reviewgithub.com/rep/wms/MacroWarriorOnline)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-25 | 2 | - | 
+

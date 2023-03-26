@@ -1,10 +1,10 @@
 # Kitware/CMake - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 2413
+☋ Forks: 2414
 
-★ Stars: 5596
+★ Stars: 5597
 
 [Open repository](https://github.com/Kitware/CMake)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 5597 | 2414 | 
 | 2023-03-23 | 5596 | 2413 | 
 | 2023-03-22 | 5593 | 2412 | 
 | 2023-03-21 | 5590 | 2411 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 5537 | 2398 | 
 | 2023-02-25 | 5532 | 2398 | 
 | 2023-02-24 | 5526 | 2398 | 
-| 2023-02-23 | 5523 | 2398 | 
 

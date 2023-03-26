@@ -1,6 +1,6 @@
 # felixSchl/purescript-pipes - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 32 | 12 | 
+| 2023-03-25 | 32 | 12 | 
 | 2023-03-24 | 32 | 12 | 
 | 2023-03-23 | 32 | 12 | 
 | 2023-03-22 | 32 | 12 | 

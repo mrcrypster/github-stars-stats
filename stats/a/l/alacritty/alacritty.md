@@ -1,10 +1,10 @@
 # alacritty/alacritty - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 2710
+☋ Forks: 2711
 
-★ Stars: 45610
+★ Stars: 45646
 
 [Open repository](https://github.com/alacritty/alacritty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 45646 | 2711 | 
 | 2023-03-24 | 45610 | 2710 | 
 | 2023-03-22 | 45587 | 2708 | 
 | 2023-03-21 | 45545 | 2708 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 45039 | 2688 | 
 | 2023-02-25 | 45018 | 2686 | 
 | 2023-02-24 | 44986 | 2685 | 
-| 2023-02-23 | 44949 | 2683 | 
 

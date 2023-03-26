@@ -1,10 +1,10 @@
 # bazelbuild/rules_nodejs - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 524
 
-★ Stars: 690
+★ Stars: 691
 
 [Open repository](https://github.com/bazelbuild/rules_nodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 691 | 524 | 
 | 2023-03-24 | 690 | 524 | 
 | 2023-03-23 | 690 | 524 | 
 | 2023-03-22 | 690 | 524 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 688 | 522 | 
 | 2023-02-25 | 688 | 522 | 
 | 2023-02-24 | 688 | 522 | 
-| 2023-02-23 | 688 | 522 | 
 

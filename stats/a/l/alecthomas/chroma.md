@@ -1,10 +1,10 @@
 # alecthomas/chroma - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 330
 
-★ Stars: 3682
+★ Stars: 3684
 
 [Open repository](https://github.com/alecthomas/chroma)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3684 | 330 | 
 | 2023-03-24 | 3682 | 330 | 
 | 2023-03-22 | 3681 | 330 | 
 | 2023-03-21 | 3677 | 331 | 

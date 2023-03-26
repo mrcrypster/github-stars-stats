@@ -1,6 +1,6 @@
 # giann/buzz - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 529 | 9 | 
 | 2023-03-23 | 529 | 9 | 
 | 2023-03-22 | 528 | 9 | 
 | 2023-03-21 | 528 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 524 | 9 | 
 | 2023-02-25 | 524 | 9 | 
 | 2023-02-24 | 524 | 9 | 
-| 2023-02-23 | 524 | 9 | 
 

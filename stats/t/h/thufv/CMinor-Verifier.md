@@ -1,10 +1,10 @@
 # thufv/CMinor-Verifier - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 17
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/thufv/CMinor-Verifier)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 136 | 17 | 
 | 2023-03-24 | 135 | 17 | 
 | 2023-03-22 | 135 | 17 | 
 | 2023-03-21 | 135 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 130 | 13 | 
 | 2023-02-25 | 130 | 12 | 
 | 2023-02-24 | 129 | 12 | 
-| 2023-02-23 | 129 | 12 | 
 

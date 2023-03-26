@@ -1,10 +1,10 @@
 # PaulJuliusMartinez/jless - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 62
 
-★ Stars: 3627
+★ Stars: 3630
 
 [Open repository](https://github.com/PaulJuliusMartinez/jless)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3630 | 62 | 
 | 2023-03-24 | 3627 | 62 | 
 | 2023-03-22 | 3624 | 62 | 
 | 2023-03-21 | 3623 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 3590 | 62 | 
 | 2023-02-25 | 3589 | 62 | 
 | 2023-02-24 | 3585 | 62 | 
-| 2023-02-23 | 3583 | 62 | 
 

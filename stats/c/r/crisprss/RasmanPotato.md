@@ -1,6 +1,6 @@
 # crisprss/RasmanPotato - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 322 | 49 | 
 | 2023-03-24 | 322 | 49 | 
 | 2023-03-22 | 321 | 49 | 
 | 2023-03-21 | 320 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 284 | 44 | 
 | 2023-02-25 | 283 | 44 | 
 | 2023-02-24 | 283 | 44 | 
-| 2023-02-23 | 282 | 44 | 
 

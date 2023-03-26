@@ -1,6 +1,6 @@
 # Spring23-EE595/helloworld - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 53 | 
 | 2023-03-24 | - | 53 | 
 | 2023-03-23 | - | 53 | 
 | 2023-03-21 | - | 53 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | - | 53 | 
 | 2023-02-26 | - | 53 | 
 | 2023-02-24 | - | 53 | 
-| 2023-02-23 | - | 53 | 
 

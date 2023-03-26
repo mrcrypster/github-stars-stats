@@ -1,10 +1,10 @@
 # scipy/scipy - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4642
 
-★ Stars: 10976
+★ Stars: 10978
 
 [Open repository](https://github.com/scipy/scipy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 10978 | 4642 | 
 | 2023-03-23 | 10976 | 4642 | 
 | 2023-03-22 | 10967 | 4640 | 
 | 2023-03-21 | 10964 | 4638 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 10879 | 4605 | 
 | 2023-02-26 | 10875 | 4605 | 
 | 2023-02-25 | 10873 | 4605 | 
-| 2023-02-24 | 10869 | 4601 | 
 

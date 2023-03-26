@@ -1,6 +1,6 @@
 # RobotnikAutomation/robotnik_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6 | 27 | 
 | 2023-03-23 | 6 | 27 | 
 | 2023-03-22 | 6 | 27 | 
 | 2023-03-21 | 6 | 27 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 7 | 27 | 
 | 2023-02-25 | 7 | 27 | 
 | 2023-02-24 | 7 | 27 | 
-| 2023-02-23 | 7 | 27 | 
 

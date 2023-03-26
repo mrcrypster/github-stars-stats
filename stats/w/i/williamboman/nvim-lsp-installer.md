@@ -1,10 +1,10 @@
 # williamboman/nvim-lsp-installer - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 131
 
-★ Stars: 2017
+★ Stars: 2016
 
 [Open repository](https://github.com/williamboman/nvim-lsp-installer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2016 | 131 | 
 | 2023-03-23 | 2017 | 131 | 
 | 2023-03-22 | 2018 | 131 | 
 | 2023-03-21 | 2018 | 131 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 2027 | 131 | 
 | 2023-02-26 | 2026 | 131 | 
 | 2023-02-25 | 2028 | 131 | 
-| 2023-02-24 | 2028 | 131 | 
 

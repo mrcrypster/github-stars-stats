@@ -1,10 +1,10 @@
 # d4rken-org/capod - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 224
+★ Stars: 226
 
 [Open repository](https://github.com/d4rken-org/capod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 226 | 10 | 
 | 2023-03-23 | 224 | 9 | 
 | 2023-03-22 | 222 | 9 | 
 | 2023-03-20 | 221 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 202 | 9 | 
 | 2023-02-25 | 201 | 9 | 
 | 2023-02-24 | 199 | 9 | 
-| 2023-02-23 | 199 | 9 | 
 

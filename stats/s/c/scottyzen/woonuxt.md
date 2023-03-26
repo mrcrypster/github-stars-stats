@@ -1,10 +1,10 @@
 # scottyzen/woonuxt - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/scottyzen/woonuxt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 196 | 24 | 
 | 2023-03-24 | 195 | 23 | 
 | 2023-03-22 | 194 | 23 | 
 | 2023-03-21 | 193 | 23 | 

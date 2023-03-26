@@ -1,6 +1,6 @@
 # SP23CSCI1423/ParentRepo - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | - | 7 | 
 | 2023-03-23 | - | 7 | 
 | 2023-03-22 | - | 7 | 
 | 2023-03-21 | - | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | - | 6 | 
 | 2023-02-26 | - | 6 | 
 | 2023-02-24 | - | 6 | 
-| 2023-02-23 | - | 6 | 
 

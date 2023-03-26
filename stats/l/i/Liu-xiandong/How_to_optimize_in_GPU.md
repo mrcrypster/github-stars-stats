@@ -1,6 +1,6 @@
 # Liu-xiandong/How_to_optimize_in_GPU - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 286 | 53 | 
 | 2023-03-23 | 286 | 53 | 
 | 2023-03-21 | 285 | 53 | 
 | 2023-03-20 | 285 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 279 | 51 | 
 | 2023-02-25 | 278 | 51 | 
 | 2023-02-24 | 278 | 51 | 
-| 2023-02-23 | 277 | 51 | 
 

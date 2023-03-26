@@ -1,10 +1,10 @@
 # bauglir/Kroki.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/bauglir/Kroki.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 64 | 2 | 
 | 2023-03-24 | 62 | 2 | 
 | 2023-03-22 | 62 | 2 | 
 | 2023-03-21 | 62 | 2 | 

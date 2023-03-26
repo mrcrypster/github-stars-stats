@@ -1,10 +1,10 @@
 # Ildaron/Laser_control - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 101
 
-★ Stars: 1035
+★ Stars: 1036
 
 [Open repository](https://github.com/Ildaron/Laser_control)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1036 | 101 | 
 | 2023-03-24 | 1035 | 101 | 
 | 2023-03-22 | 1032 | 101 | 
 | 2023-03-21 | 1032 | 101 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1023 | 98 | 
 | 2023-02-25 | 1023 | 98 | 
 | 2023-02-24 | 1023 | 98 | 
-| 2023-02-23 | 1023 | 98 | 
 

@@ -1,6 +1,6 @@
 # HashLips/example_nft_minter - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 252 | 182 | 
 | 2023-03-24 | 252 | 182 | 
 | 2023-03-22 | 252 | 182 | 
 | 2023-03-21 | 252 | 182 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 251 | 182 | 
 | 2023-02-25 | 251 | 182 | 
 | 2023-02-24 | 251 | 182 | 
-| 2023-02-23 | 251 | 182 | 
 

@@ -1,6 +1,6 @@
 # AnthonyChen0921/SmartAC - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 93 | 11 | 
 | 2023-03-23 | 93 | 11 | 
 | 2023-03-22 | 93 | 11 | 
 | 2023-03-21 | 93 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 94 | 11 | 
 | 2023-02-26 | 94 | 11 | 
 | 2023-02-24 | 94 | 11 | 
-| 2023-02-23 | 94 | 11 | 
 

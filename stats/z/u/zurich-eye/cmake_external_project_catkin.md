@@ -1,6 +1,6 @@
 # zurich-eye/cmake_external_project_catkin - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1 | 6 | 
 | 2023-03-24 | 1 | 6 | 
 | 2023-03-22 | 1 | 6 | 
 | 2023-03-21 | 1 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1 | 6 | 
 | 2023-02-25 | 1 | 6 | 
 | 2023-02-24 | 1 | 6 | 
-| 2023-02-23 | 1 | 6 | 
 

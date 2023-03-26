@@ -1,10 +1,10 @@
 # alliedmodders/sourcemod - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 398
 
-★ Stars: 828
+★ Stars: 829
 
 [Open repository](https://github.com/alliedmodders/sourcemod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 829 | 398 | 
 | 2023-03-23 | 828 | 398 | 
 | 2023-03-22 | 828 | 398 | 
 | 2023-03-21 | 828 | 398 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 816 | 391 | 
 | 2023-02-26 | 817 | 391 | 
 | 2023-02-25 | 817 | 391 | 
-| 2023-02-23 | 817 | 391 | 
 

@@ -1,10 +1,10 @@
 # prest/prest - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 268
 
-★ Stars: 3701
+★ Stars: 3702
 
 [Open repository](https://github.com/prest/prest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3702 | 268 | 
 | 2023-03-23 | 3701 | 268 | 
 | 2023-03-22 | 3701 | 267 | 
 | 2023-03-21 | 3700 | 266 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 3658 | 265 | 
 | 2023-02-25 | 3658 | 265 | 
 | 2023-02-24 | 3655 | 265 | 
-| 2023-02-23 | 3647 | 265 | 
 

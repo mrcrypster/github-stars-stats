@@ -1,6 +1,6 @@
 # Quansight/scipy-2022-swag - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 28 | 9 | 
 | 2023-03-23 | 28 | 9 | 
 | 2023-03-22 | 27 | 9 | 
 | 2023-03-21 | 27 | 9 | 

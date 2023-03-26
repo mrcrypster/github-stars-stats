@@ -1,10 +1,10 @@
 # TheDatumOrg/TSB-UAD - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 49
 
-★ Stars: 78
+★ Stars: 77
 
 [Open repository](https://github.com/TheDatumOrg/TSB-UAD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 77 | 49 | 
 | 2023-03-23 | 78 | 49 | 
 | 2023-03-22 | 77 | 49 | 
 | 2023-03-20 | 77 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 75 | 49 | 
 | 2023-02-25 | 75 | 49 | 
 | 2023-02-24 | 74 | 49 | 
-| 2023-02-23 | 74 | 49 | 
 

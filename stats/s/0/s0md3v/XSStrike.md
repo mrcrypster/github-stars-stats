@@ -1,10 +1,10 @@
 # s0md3v/XSStrike - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1728
+☋ Forks: 1727
 
-★ Stars: 11365
+★ Stars: 11379
 
 [Open repository](https://github.com/s0md3v/XSStrike)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 11379 | 1727 | 
 | 2023-03-24 | 11365 | 1728 | 
 | 2023-03-22 | 11364 | 1728 | 
 | 2023-03-21 | 11357 | 1728 | 

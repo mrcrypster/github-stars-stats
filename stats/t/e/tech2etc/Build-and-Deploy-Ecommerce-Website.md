@@ -1,8 +1,8 @@
 # tech2etc/Build-and-Deploy-Ecommerce-Website - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 114
+☋ Forks: 118
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 66 | 118 | 
 | 2023-03-24 | 66 | 114 | 
 | 2023-03-23 | 66 | 112 | 
 | 2023-03-21 | 65 | 112 | 

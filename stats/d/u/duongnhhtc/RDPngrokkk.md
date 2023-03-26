@@ -1,6 +1,6 @@
 # duongnhhtc/RDPngrokkk - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1 | 123 | 
 | 2023-03-24 | 1 | 123 | 
 | 2023-03-23 | 1 | 120 | 
 | 2023-03-22 | 1 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1 | 97 | 
 | 2023-02-25 | 1 | 97 | 
 | 2023-02-24 | 1 | 96 | 
-| 2023-02-23 | 1 | 94 | 
 

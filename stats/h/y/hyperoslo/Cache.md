@@ -1,6 +1,6 @@
 # hyperoslo/Cache - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 321
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2721 | 321 | 
 | 2023-03-24 | 2721 | 321 | 
 | 2023-03-23 | 2721 | 322 | 
 | 2023-03-21 | 2720 | 322 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2704 | 322 | 
 | 2023-02-25 | 2703 | 322 | 
 | 2023-02-24 | 2702 | 322 | 
-| 2023-02-23 | 2702 | 322 | 
 

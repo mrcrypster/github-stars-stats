@@ -1,10 +1,10 @@
 # zyedidia/Literate - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 43
 
-★ Stars: 617
+★ Stars: 618
 
 [Open repository](https://github.com/zyedidia/Literate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 618 | 43 | 
 | 2023-03-23 | 617 | 43 | 
 | 2023-03-22 | 617 | 43 | 
 | 2023-03-21 | 616 | 43 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 615 | 43 | 
 | 2023-02-25 | 615 | 43 | 
 | 2023-02-24 | 615 | 43 | 
-| 2023-02-23 | 614 | 43 | 
 

@@ -1,10 +1,10 @@
 # ExpLangcn/Aopo - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 69
 
-★ Stars: 359
+★ Stars: 360
 
 [Open repository](https://github.com/ExpLangcn/Aopo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 360 | 69 | 
 | 2023-03-24 | 359 | 69 | 
 | 2023-03-22 | 359 | 69 | 
 | 2023-03-21 | 359 | 69 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 355 | 67 | 
 | 2023-02-25 | 355 | 67 | 
 | 2023-02-24 | 355 | 67 | 
-| 2023-02-23 | 355 | 67 | 
 

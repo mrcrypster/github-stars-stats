@@ -1,6 +1,6 @@
 # dkogan/vnlog - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 125 | 6 | 
 | 2023-03-24 | 125 | 6 | 
 | 2023-03-23 | 125 | 6 | 
 | 2023-03-21 | 125 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 111 | 6 | 
 | 2023-02-26 | 111 | 6 | 
 | 2023-02-25 | 111 | 6 | 
-| 2023-02-23 | 111 | 6 | 
 

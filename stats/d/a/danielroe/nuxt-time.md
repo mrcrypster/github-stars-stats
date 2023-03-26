@@ -1,10 +1,10 @@
 # danielroe/nuxt-time - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 7
 
-★ Stars: 135
+★ Stars: 134
 
 [Open repository](https://github.com/danielroe/nuxt-time)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 134 | 7 | 
 | 2023-03-24 | 135 | 7 | 
 | 2023-03-22 | 135 | 7 | 
 | 2023-03-21 | 134 | 7 | 

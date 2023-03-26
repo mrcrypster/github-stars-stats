@@ -1,6 +1,6 @@
 # Shopify/shipit-engine - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1340 | 142 | 
 | 2023-03-23 | 1340 | 142 | 
 | 2023-03-22 | 1339 | 142 | 
 | 2023-03-20 | 1338 | 141 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1336 | 138 | 
 | 2023-02-25 | 1336 | 138 | 
 | 2023-02-24 | 1336 | 138 | 
-| 2023-02-23 | 1336 | 138 | 
 

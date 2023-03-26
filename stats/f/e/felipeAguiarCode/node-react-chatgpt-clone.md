@@ -1,8 +1,8 @@
 # felipeAguiarCode/node-react-chatgpt-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 53
+☋ Forks: 55
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 72 | 55 | 
 | 2023-03-24 | 72 | 53 | 
 | 2023-03-22 | 71 | 53 | 
 | 2023-03-21 | 71 | 52 | 

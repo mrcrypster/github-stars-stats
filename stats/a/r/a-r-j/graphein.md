@@ -1,10 +1,10 @@
 # a-r-j/graphein - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 100
 
-★ Stars: 774
+★ Stars: 775
 
 [Open repository](https://github.com/a-r-j/graphein)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 775 | 100 | 
 | 2023-03-24 | 774 | 100 | 
 | 2023-03-22 | 772 | 100 | 
 | 2023-03-21 | 771 | 100 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 754 | 97 | 
 | 2023-02-25 | 752 | 96 | 
 | 2023-02-24 | 752 | 96 | 
-| 2023-02-23 | 750 | 96 | 
 

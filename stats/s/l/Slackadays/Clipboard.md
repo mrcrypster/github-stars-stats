@@ -1,10 +1,10 @@
 # Slackadays/Clipboard - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 76
+☋ Forks: 75
 
-★ Stars: 2976
+★ Stars: 3023
 
 [Open repository](https://github.com/Slackadays/Clipboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3023 | 75 | 
 | 2023-03-23 | 2976 | 76 | 
 | 2023-03-22 | 2965 | 75 | 
 | 2023-03-21 | 2956 | 75 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 2707 | 71 | 
 | 2023-02-25 | 2697 | 71 | 
 | 2023-02-24 | 2690 | 71 | 
-| 2023-02-23 | 2683 | 71 | 
 

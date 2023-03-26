@@ -1,10 +1,10 @@
 # SRI-CSL/yices2 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 41
 
-★ Stars: 318
+★ Stars: 319
 
 [Open repository](https://github.com/SRI-CSL/yices2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 319 | 41 | 
 | 2023-03-24 | 318 | 41 | 
 | 2023-03-22 | 318 | 41 | 
 | 2023-03-21 | 318 | 40 | 

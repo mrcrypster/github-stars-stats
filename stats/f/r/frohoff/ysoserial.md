@@ -1,10 +1,10 @@
 # frohoff/ysoserial - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1619
+☋ Forks: 1620
 
-★ Stars: 6195
+★ Stars: 6201
 
 [Open repository](https://github.com/frohoff/ysoserial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6201 | 1620 | 
 | 2023-03-24 | 6195 | 1619 | 
 | 2023-03-23 | 6187 | 1619 | 
 | 2023-03-21 | 6183 | 1619 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 6102 | 1610 | 
 | 2023-02-25 | 6100 | 1610 | 
 | 2023-02-24 | 6098 | 1610 | 
-| 2023-02-23 | 6095 | 1609 | 
 

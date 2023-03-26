@@ -1,10 +1,10 @@
 # tallyhowallet/extension - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 295
 
-★ Stars: 2755
+★ Stars: 2757
 
 [Open repository](https://github.com/tallyhowallet/extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2757 | 295 | 
 | 2023-03-24 | 2755 | 295 | 
 | 2023-03-23 | 2755 | 295 | 
 | 2023-03-22 | 2758 | 295 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 2694 | 278 | 
 | 2023-02-26 | 2691 | 275 | 
 | 2023-02-25 | 2690 | 276 | 
-| 2023-02-23 | 2683 | 274 | 
 

@@ -1,8 +1,8 @@
 # QiuChenly/QQFlacMusicDownloader - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 118
+☋ Forks: 119
 
 ★ Stars: 552
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 552 | 119 | 
 | 2023-03-24 | 552 | 118 | 
 | 2023-03-23 | 538 | 115 | 
 | 2023-03-21 | 531 | 114 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 229 | 50 | 
 | 2023-02-25 | 229 | 50 | 
 | 2023-02-24 | 228 | 50 | 
-| 2023-02-23 | 228 | 50 | 
 

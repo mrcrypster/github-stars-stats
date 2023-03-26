@@ -1,6 +1,6 @@
 # google/google-ctf - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 459
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3199 | 459 | 
 | 2023-03-24 | 3199 | 459 | 
 | 2023-03-23 | 3199 | 459 | 
 | 2023-03-21 | 3197 | 457 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 3189 | 456 | 
 | 2023-02-26 | 3187 | 456 | 
 | 2023-02-24 | 3186 | 456 | 
-| 2023-02-23 | 3186 | 456 | 
 

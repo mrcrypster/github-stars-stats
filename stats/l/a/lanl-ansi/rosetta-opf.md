@@ -1,6 +1,6 @@
 # lanl-ansi/rosetta-opf - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 30 | 3 | 
 | 2023-03-24 | 30 | 3 | 
 | 2023-03-23 | 30 | 3 | 
 | 2023-03-21 | 30 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 30 | 3 | 
 | 2023-02-25 | 30 | 3 | 
 | 2023-02-24 | 29 | 3 | 
-| 2023-02-23 | 29 | 3 | 
 

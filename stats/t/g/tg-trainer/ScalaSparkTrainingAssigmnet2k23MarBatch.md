@@ -1,6 +1,6 @@
 # tg-trainer/ScalaSparkTrainingAssigmnet2k23MarBatch - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | - | 11 | 
 | 2023-03-24 | - | 11 | 
 | 2023-03-22 | - | 11 | 
 | 2023-03-21 | - | 11 | 

@@ -1,6 +1,6 @@
 # potatosalad/erlang-jose - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 275 | 87 | 
 | 2023-03-24 | 275 | 87 | 
 | 2023-03-23 | 275 | 87 | 
 | 2023-03-22 | 275 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 271 | 86 | 
 | 2023-02-25 | 271 | 86 | 
 | 2023-02-24 | 271 | 86 | 
-| 2023-02-23 | 271 | 86 | 
 

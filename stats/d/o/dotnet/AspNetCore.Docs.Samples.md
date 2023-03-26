@@ -1,10 +1,10 @@
 # dotnet/AspNetCore.Docs.Samples - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 80
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/dotnet/AspNetCore.Docs.Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 51 | 80 | 
 | 2023-03-24 | 50 | 80 | 
 | 2023-03-22 | 50 | 80 | 
 | 2023-03-21 | 50 | 80 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 43 | 68 | 
 | 2023-02-25 | 43 | 68 | 
 | 2023-02-24 | 42 | 66 | 
-| 2023-02-23 | 41 | 65 | 
 

@@ -1,10 +1,10 @@
 # OnlineHacKing/PWD-WindowsRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 21
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/OnlineHacKing/PWD-WindowsRDP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 8 | 21 | 
 | 2023-03-24 | 7 | 21 | 
 | 2023-03-22 | 7 | 18 | 
 | 2023-03-21 | 6 | 18 | 

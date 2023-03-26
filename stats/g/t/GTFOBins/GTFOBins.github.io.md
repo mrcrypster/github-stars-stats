@@ -1,10 +1,10 @@
 # GTFOBins/GTFOBins.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 1066
+☋ Forks: 1065
 
-★ Stars: 8093
+★ Stars: 8097
 
 [Open repository](https://github.com/GTFOBins/GTFOBins.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8097 | 1065 | 
 | 2023-03-24 | 8093 | 1066 | 
 | 2023-03-22 | 8090 | 1064 | 
 | 2023-03-21 | 8083 | 1063 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 7987 | 1051 | 
 | 2023-02-25 | 7984 | 1051 | 
 | 2023-02-24 | 7976 | 1050 | 
-| 2023-02-23 | 7969 | 1050 | 
 

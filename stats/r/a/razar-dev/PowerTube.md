@@ -1,10 +1,10 @@
 # razar-dev/PowerTube - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 21
 
-★ Stars: 617
+★ Stars: 621
 
 [Open repository](https://github.com/razar-dev/PowerTube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 621 | 21 | 
 | 2023-03-24 | 617 | 21 | 
 | 2023-03-22 | 615 | 21 | 
 | 2023-03-21 | 611 | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 568 | 19 | 
 | 2023-02-25 | 567 | 19 | 
 | 2023-02-24 | 566 | 19 | 
-| 2023-02-23 | 565 | 19 | 
 

@@ -1,10 +1,10 @@
 # alecthomas/participle - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 161
+☋ Forks: 162
 
-★ Stars: 2852
+★ Stars: 2871
 
 [Open repository](https://github.com/alecthomas/participle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2871 | 162 | 
 | 2023-03-23 | 2852 | 161 | 
 | 2023-03-22 | 2852 | 161 | 
 | 2023-03-21 | 2851 | 160 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 2820 | 160 | 
 | 2023-02-26 | 2820 | 160 | 
 | 2023-02-24 | 2820 | 160 | 
-| 2023-02-23 | 2819 | 160 | 
 

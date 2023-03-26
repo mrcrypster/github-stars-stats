@@ -1,6 +1,6 @@
 # MSB-s-Projects/Generate-QR-code - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 3 | 10 | 
 | 2023-03-23 | 3 | 10 | 
 | 2023-03-22 | 3 | 10 | 
 | 2023-03-21 | 3 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1 | 10 | 
 | 2023-02-25 | 1 | 10 | 
 | 2023-02-24 | 1 | 10 | 
-| 2023-02-23 | 1 | 10 | 
 

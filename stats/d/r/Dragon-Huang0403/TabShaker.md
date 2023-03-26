@@ -1,10 +1,10 @@
 # Dragon-Huang0403/TabShaker - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 7
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/Dragon-Huang0403/TabShaker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 30 | 7 | 
 | 2023-03-23 | 29 | 7 | 
 | 2023-03-22 | 29 | 7 | 
 | 2023-03-21 | 29 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 28 | 7 | 
 | 2023-02-26 | 28 | 7 | 
 | 2023-02-24 | 28 | 7 | 
-| 2023-02-23 | 28 | 7 | 
 

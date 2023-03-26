@@ -1,10 +1,10 @@
 # tui-rs-revival/ratatui - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 665
+★ Stars: 679
 
 [Open repository](https://github.com/tui-rs-revival/ratatui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 679 | 22 | 
 | 2023-03-23 | 665 | 21 | 
 | 2023-03-22 | 647 | 18 | 
 | 2023-03-21 | 637 | 18 | 

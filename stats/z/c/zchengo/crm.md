@@ -1,10 +1,10 @@
 # zchengo/crm - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/zchengo/crm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 72 | 20 | 
 | 2023-03-23 | 71 | 19 | 
 | 2023-03-22 | 71 | 19 | 
 | 2023-03-20 | 71 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 62 | 16 | 
 | 2023-02-25 | 62 | 16 | 
 | 2023-02-24 | 62 | 16 | 
-| 2023-02-23 | 62 | 16 | 
 

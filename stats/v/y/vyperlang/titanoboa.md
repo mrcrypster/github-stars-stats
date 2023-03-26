@@ -1,6 +1,6 @@
 # vyperlang/titanoboa - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 163 | 16 | 
 | 2023-03-23 | 163 | 16 | 
 | 2023-03-22 | 163 | 16 | 
 | 2023-03-21 | 163 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 162 | 16 | 
 | 2023-02-26 | 162 | 16 | 
 | 2023-02-25 | 161 | 16 | 
-| 2023-02-23 | 161 | 16 | 
 

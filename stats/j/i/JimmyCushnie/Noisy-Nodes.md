@@ -1,6 +1,6 @@
 # JimmyCushnie/Noisy-Nodes - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 254 | 18 | 
 | 2023-03-24 | 254 | 18 | 
 | 2023-03-22 | 251 | 18 | 
 | 2023-03-21 | 250 | 18 | 

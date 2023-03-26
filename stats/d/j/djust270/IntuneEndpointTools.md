@@ -1,10 +1,10 @@
 # djust270/IntuneEndpointTools - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/djust270/IntuneEndpointTools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 34 | 1 | 
 | 2023-03-24 | 33 | 1 | 
 | 2023-03-22 | 33 | 1 | 
 | 2023-03-21 | 33 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 32 | 1 | 
 | 2023-02-25 | 32 | 1 | 
 | 2023-02-24 | 32 | 1 | 
-| 2023-02-23 | 32 | 1 | 
 

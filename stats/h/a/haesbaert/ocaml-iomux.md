@@ -1,8 +1,8 @@
 # haesbaert/ocaml-iomux - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 22 | 3 | 
 | 2023-03-24 | 22 | 2 | 
 | 2023-03-22 | 22 | 2 | 
 | 2023-03-21 | 22 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 19 | 2 | 
 | 2023-02-25 | 19 | 2 | 
 | 2023-02-24 | 19 | 2 | 
-| 2023-02-23 | 19 | 2 | 
 

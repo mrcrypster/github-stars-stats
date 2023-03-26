@@ -1,6 +1,6 @@
 # emqx/ecpool - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 26 | 18 | 
 | 2023-03-23 | 26 | 18 | 
 | 2023-03-22 | 25 | 18 | 
 | 2023-03-21 | 25 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 25 | 18 | 
 | 2023-02-25 | 25 | 18 | 
 | 2023-02-24 | 25 | 18 | 
-| 2023-02-23 | 25 | 18 | 
 

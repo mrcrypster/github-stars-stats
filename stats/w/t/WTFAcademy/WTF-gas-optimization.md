@@ -1,10 +1,10 @@
 # WTFAcademy/WTF-gas-optimization - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 8
 
-★ Stars: 69
+★ Stars: 73
 
 [Open repository](https://github.com/WTFAcademy/WTF-gas-optimization)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 73 | 8 | 
 | 2023-03-24 | 69 | 8 | 
 | 2023-03-22 | 65 | 8 | 
 | 2023-03-21 | 63 | 8 | 

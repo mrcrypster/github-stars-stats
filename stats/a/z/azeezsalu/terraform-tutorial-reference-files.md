@@ -1,6 +1,6 @@
 # azeezsalu/terraform-tutorial-reference-files - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4 | 113 | 
 | 2023-03-24 | 4 | 113 | 
 | 2023-03-22 | 4 | 112 | 
 | 2023-03-21 | 4 | 112 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 4 | 99 | 
 | 2023-02-25 | 4 | 98 | 
 | 2023-02-24 | 4 | 98 | 
-| 2023-02-23 | 4 | 98 | 
 

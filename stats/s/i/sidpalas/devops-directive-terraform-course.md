@@ -1,10 +1,10 @@
 # sidpalas/devops-directive-terraform-course - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 775
+☋ Forks: 776
 
-★ Stars: 526
+★ Stars: 530
 
 [Open repository](https://github.com/sidpalas/devops-directive-terraform-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 530 | 776 | 
 | 2023-03-24 | 526 | 775 | 
 | 2023-03-22 | 526 | 771 | 
 | 2023-03-21 | 526 | 770 | 

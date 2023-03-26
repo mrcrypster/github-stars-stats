@@ -1,6 +1,6 @@
 # kavli-ntnu/MINI2P_toolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 71 | 13 | 
 | 2023-03-23 | 71 | 13 | 
 | 2023-03-22 | 71 | 13 | 
 | 2023-03-21 | 71 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 71 | 13 | 
 | 2023-02-25 | 71 | 13 | 
 | 2023-02-24 | 71 | 13 | 
-| 2023-02-23 | 71 | 13 | 
 

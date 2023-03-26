@@ -1,10 +1,10 @@
 # prompt-engineering/understand-prompt - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 119
+☋ Forks: 124
 
-★ Stars: 1794
+★ Stars: 1815
 
 [Open repository](https://github.com/prompt-engineering/understand-prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1815 | 124 | 
 | 2023-03-24 | 1794 | 119 | 
 | 2023-03-23 | 1758 | 118 | 
 | 2023-03-22 | 1707 | 114 | 

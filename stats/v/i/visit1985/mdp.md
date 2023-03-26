@@ -1,10 +1,10 @@
 # visit1985/mdp - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 258
 
-★ Stars: 4566
+★ Stars: 4567
 
 [Open repository](https://github.com/visit1985/mdp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4567 | 258 | 
 | 2023-03-23 | 4566 | 258 | 
 | 2023-03-22 | 4566 | 258 | 
 | 2023-03-21 | 4564 | 258 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 4554 | 258 | 
 | 2023-02-26 | 4554 | 258 | 
 | 2023-02-24 | 4554 | 258 | 
-| 2023-02-23 | 4553 | 258 | 
 

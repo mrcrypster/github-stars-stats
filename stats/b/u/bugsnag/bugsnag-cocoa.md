@@ -1,10 +1,10 @@
 # bugsnag/bugsnag-cocoa - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 129
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/bugsnag/bugsnag-cocoa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 212 | 129 | 
 | 2023-03-24 | 211 | 129 | 
 | 2023-03-23 | 211 | 129 | 
 | 2023-03-22 | 211 | 130 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 212 | 127 | 
 | 2023-02-25 | 212 | 127 | 
 | 2023-02-24 | 212 | 128 | 
-| 2023-02-23 | 212 | 128 | 
 

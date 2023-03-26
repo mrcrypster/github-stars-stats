@@ -1,6 +1,6 @@
 # movingparts-io/Pow - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 943 | 19 | 
 | 2023-03-23 | 943 | 19 | 
 | 2023-03-22 | 943 | 19 | 
 | 2023-03-20 | 943 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 934 | 18 | 
 | 2023-02-26 | 934 | 18 | 
 | 2023-02-25 | 933 | 18 | 
-| 2023-02-23 | 932 | 18 | 
 

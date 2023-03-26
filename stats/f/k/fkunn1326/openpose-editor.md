@@ -1,10 +1,10 @@
 # fkunn1326/openpose-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 79
+☋ Forks: 81
 
-★ Stars: 814
+★ Stars: 829
 
 [Open repository](https://github.com/fkunn1326/openpose-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 829 | 81 | 
 | 2023-03-24 | 814 | 79 | 
 | 2023-03-22 | 805 | 78 | 
 | 2023-03-21 | 791 | 77 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 528 | 33 | 
 | 2023-02-25 | 512 | 31 | 
 | 2023-02-24 | 484 | 31 | 
-| 2023-02-23 | 436 | 29 | 
 

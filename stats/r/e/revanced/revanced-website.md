@@ -1,10 +1,10 @@
 # revanced/revanced-website - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 22
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/revanced/revanced-website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 88 | 22 | 
 | 2023-03-23 | 87 | 22 | 
 | 2023-03-22 | 87 | 22 | 
 | 2023-03-21 | 87 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 82 | 20 | 
 | 2023-02-25 | 79 | 20 | 
 | 2023-02-24 | 78 | 20 | 
-| 2023-02-23 | 78 | 20 | 
 

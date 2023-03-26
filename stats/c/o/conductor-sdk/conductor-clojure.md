@@ -1,10 +1,10 @@
 # conductor-sdk/conductor-clojure - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/conductor-sdk/conductor-clojure)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 20 | 1 | 
 | 2023-03-23 | 19 | 1 | 
 | 2023-03-22 | 19 | 1 | 
 | 2023-03-21 | 19 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 19 | 1 | 
 | 2023-02-26 | 19 | 1 | 
 | 2023-02-24 | 19 | 1 | 
-| 2023-02-23 | 19 | 1 | 
 

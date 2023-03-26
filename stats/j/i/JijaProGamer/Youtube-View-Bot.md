@@ -1,10 +1,10 @@
 # JijaProGamer/Youtube-View-Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/JijaProGamer/Youtube-View-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 28 | 7 | 
 | 2023-03-24 | 27 | 7 | 
 | 2023-03-23 | 27 | 7 | 
 | 2023-03-22 | 27 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 25 | 5 | 
 | 2023-02-25 | 25 | 5 | 
 | 2023-02-24 | 25 | 4 | 
-| 2023-02-23 | 25 | 4 | 
 

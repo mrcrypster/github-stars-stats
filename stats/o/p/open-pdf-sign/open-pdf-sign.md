@@ -1,6 +1,6 @@
 # open-pdf-sign/open-pdf-sign - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 693 | 19 | 
 | 2023-03-24 | 693 | 19 | 
 | 2023-03-23 | 693 | 19 | 
 | 2023-03-22 | 692 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 676 | 19 | 
 | 2023-02-25 | 676 | 19 | 
 | 2023-02-24 | 676 | 19 | 
-| 2023-02-23 | 675 | 19 | 
 

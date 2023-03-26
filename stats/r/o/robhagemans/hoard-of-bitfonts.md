@@ -1,10 +1,10 @@
 # robhagemans/hoard-of-bitfonts - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 38
 
-★ Stars: 1051
+★ Stars: 1052
 
 [Open repository](https://github.com/robhagemans/hoard-of-bitfonts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1052 | 38 | 
 | 2023-03-24 | 1051 | 38 | 
 | 2023-03-22 | 1050 | 38 | 
 | 2023-03-21 | 1049 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1035 | 38 | 
 | 2023-02-26 | 1034 | 38 | 
 | 2023-02-25 | 1034 | 38 | 
-| 2023-02-24 | 1033 | 38 | 
 

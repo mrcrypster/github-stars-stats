@@ -1,10 +1,10 @@
 # enricocid/Music-Player-GO - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 176
 
-★ Stars: 1272
+★ Stars: 1273
 
 [Open repository](https://github.com/enricocid/Music-Player-GO)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1273 | 176 | 
 | 2023-03-23 | 1272 | 176 | 
 | 2023-03-22 | 1270 | 176 | 
 | 2023-03-21 | 1266 | 176 | 

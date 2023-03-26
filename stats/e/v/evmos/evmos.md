@@ -1,10 +1,10 @@
 # evmos/evmos - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 633
+☋ Forks: 634
 
-★ Stars: 1415
+★ Stars: 1414
 
 [Open repository](https://github.com/evmos/evmos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1414 | 634 | 
 | 2023-03-23 | 1415 | 633 | 
 | 2023-03-22 | 1414 | 632 | 
 | 2023-03-21 | 1414 | 631 | 

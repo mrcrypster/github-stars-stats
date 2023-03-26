@@ -1,10 +1,10 @@
 # Lissy93/cheat-code - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Lissy93/cheat-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 16 | 1 | 
 | 2023-03-24 | 15 | - | 
 | 2023-03-23 | 15 | - | 
 

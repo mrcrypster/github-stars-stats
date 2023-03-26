@@ -1,8 +1,8 @@
 # Octoberfest7/XLL_Phishing - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 72
+☋ Forks: 73
 
 ★ Stars: 316
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 316 | 73 | 
 | 2023-03-23 | 316 | 72 | 
 | 2023-03-22 | 315 | 72 | 
 | 2023-03-21 | 314 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 311 | 72 | 
 | 2023-02-26 | 311 | 72 | 
 | 2023-02-25 | 311 | 72 | 
-| 2023-02-24 | 310 | 72 | 
 

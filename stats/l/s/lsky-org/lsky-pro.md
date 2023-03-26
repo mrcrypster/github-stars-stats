@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 25
 
 ☋ Forks: 521
 
-★ Stars: 3031
+★ Stars: 3035
 
 [Open repository](https://github.com/lsky-org/lsky-pro)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 3031 | 521 | 
+| 2023-03-25 | 3035 | 521 | 
 | 2023-03-24 | 3031 | 521 | 
 | 2023-03-23 | 3029 | 521 | 
 | 2023-03-22 | 3028 | 520 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-26 | 2968 | 520 | 
 | 2023-02-25 | 2965 | 520 | 
 | 2023-02-24 | 2960 | 520 | 
-| 2023-02-23 | 2957 | 520 | 
 

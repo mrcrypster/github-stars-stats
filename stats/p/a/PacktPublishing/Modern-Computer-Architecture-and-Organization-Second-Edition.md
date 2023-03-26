@@ -1,8 +1,8 @@
 # PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 97
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 97 | 24 | 
 | 2023-03-24 | 97 | 23 | 
 | 2023-03-23 | 96 | 23 | 
 | 2023-03-21 | 96 | 23 | 

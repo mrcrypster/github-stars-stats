@@ -1,10 +1,10 @@
 # TGlide/codeverter - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 10
 
-★ Stars: 114
+★ Stars: 113
 
 [Open repository](https://github.com/TGlide/codeverter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 113 | 10 | 
 | 2023-03-24 | 114 | 10 | 
 | 2023-03-23 | 114 | 10 | 
 | 2023-03-21 | 112 | 10 | 

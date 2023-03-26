@@ -1,10 +1,10 @@
 # HiPhish/nvim-ts-rainbow2 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 8
 
-★ Stars: 170
+★ Stars: 173
 
 [Open repository](https://github.com/HiPhish/nvim-ts-rainbow2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 173 | 8 | 
 | 2023-03-23 | 170 | 8 | 
 | 2023-03-22 | 168 | 8 | 
 | 2023-03-21 | 166 | 8 | 

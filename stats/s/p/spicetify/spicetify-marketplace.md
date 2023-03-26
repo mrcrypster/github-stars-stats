@@ -1,10 +1,10 @@
 # spicetify/spicetify-marketplace - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 109
 
-★ Stars: 544
+★ Stars: 543
 
 [Open repository](https://github.com/spicetify/spicetify-marketplace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 543 | 109 | 
 | 2023-03-23 | 544 | 109 | 
 | 2023-03-22 | 543 | 109 | 
 | 2023-03-20 | 543 | 109 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 523 | 102 | 
 | 2023-02-25 | 522 | 101 | 
 | 2023-02-24 | 519 | 100 | 
-| 2023-02-23 | 519 | 99 | 
 

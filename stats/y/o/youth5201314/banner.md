@@ -1,10 +1,10 @@
 # youth5201314/banner - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 2400
+☋ Forks: 2401
 
-★ Stars: 12325
+★ Stars: 12324
 
 [Open repository](https://github.com/youth5201314/banner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 12324 | 2401 | 
 | 2023-03-23 | 12325 | 2400 | 
 | 2023-03-22 | 12323 | 2400 | 
 | 2023-03-21 | 12321 | 2400 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 12302 | 2396 | 
 | 2023-02-26 | 12302 | 2396 | 
 | 2023-02-25 | 12300 | 2396 | 
-| 2023-02-24 | 12300 | 2396 | 
 

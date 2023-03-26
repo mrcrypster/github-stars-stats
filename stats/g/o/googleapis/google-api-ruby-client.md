@@ -1,10 +1,10 @@
 # googleapis/google-api-ruby-client - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 872
 
-★ Stars: 2622
+★ Stars: 2625
 
 [Open repository](https://github.com/googleapis/google-api-ruby-client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2625 | 872 | 
 | 2023-03-24 | 2622 | 872 | 
 | 2023-03-23 | 2622 | 872 | 
 | 2023-03-21 | 2623 | 872 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2617 | 863 | 
 | 2023-02-25 | 2617 | 863 | 
 | 2023-02-24 | 2617 | 864 | 
-| 2023-02-23 | 2617 | 864 | 
 

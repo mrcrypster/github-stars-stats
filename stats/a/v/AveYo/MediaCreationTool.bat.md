@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 25
 
-☋ Forks: 2511
+☋ Forks: 2512
 
-★ Stars: 6079
+★ Stars: 6086
 
 [Open repository](https://github.com/AveYo/MediaCreationTool.bat)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 6079 | 2511 | 
+| 2023-03-25 | 6086 | 2512 | 
 | 2023-03-24 | 6075 | 2509 | 
 | 2023-03-23 | 6070 | 2506 | 
 | 2023-03-22 | 6067 | 2505 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-26 | 5919 | 2456 | 
 | 2023-02-25 | 5911 | 2454 | 
 | 2023-02-24 | 5904 | 2450 | 
-| 2023-02-23 | 5893 | 2447 | 
 

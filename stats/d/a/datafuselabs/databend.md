@@ -1,10 +1,10 @@
 # datafuselabs/databend - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 564
 
-★ Stars: 5621
+★ Stars: 5633
 
 [Open repository](https://github.com/datafuselabs/databend)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 5633 | 564 | 
 | 2023-03-23 | 5621 | 564 | 
 | 2023-03-22 | 5614 | 563 | 
 | 2023-03-21 | 5602 | 566 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 5384 | 551 | 
 | 2023-02-25 | 5385 | 551 | 
 | 2023-02-24 | 5374 | 551 | 
-| 2023-02-23 | 5340 | 547 | 
 

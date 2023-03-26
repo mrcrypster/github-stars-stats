@@ -1,8 +1,8 @@
 # WebCon-2023/WebCon-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 42
+☋ Forks: 59
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 13 | 59 | 
 | 2023-03-24 | 13 | 42 | 
 | 2023-03-23 | 12 | 40 | 
 

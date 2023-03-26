@@ -1,10 +1,10 @@
 # dreamncn/ParallelsDesktopCrack - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 312
+☋ Forks: 316
 
-★ Stars: 1264
+★ Stars: 1272
 
 [Open repository](https://github.com/dreamncn/ParallelsDesktopCrack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1272 | 316 | 
 | 2023-03-24 | 1264 | 312 | 
 | 2023-03-23 | 1258 | 307 | 
 | 2023-03-21 | 1248 | 304 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1086 | 279 | 
 | 2023-02-25 | 1083 | 279 | 
 | 2023-02-24 | 1080 | 279 | 
-| 2023-02-23 | 1076 | 278 | 
 

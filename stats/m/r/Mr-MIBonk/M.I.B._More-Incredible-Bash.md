@@ -1,10 +1,10 @@
 # Mr-MIBonk/M.I.B._More-Incredible-Bash - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 31
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/Mr-MIBonk/M.I.B._More-Incredible-Bash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 148 | 31 | 
 | 2023-03-24 | 147 | 31 | 
 | 2023-03-22 | 147 | 31 | 
 | 2023-03-21 | 147 | 30 | 

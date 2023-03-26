@@ -1,10 +1,10 @@
 # apangin/nalim - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 20
 
-★ Stars: 360
+★ Stars: 359
 
 [Open repository](https://github.com/apangin/nalim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 359 | 20 | 
 | 2023-03-23 | 360 | 20 | 
 | 2023-03-21 | 360 | 20 | 
 | 2023-03-20 | 360 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 355 | 20 | 
 | 2023-02-25 | 354 | 20 | 
 | 2023-02-24 | 352 | 20 | 
-| 2023-02-23 | 348 | 20 | 
 

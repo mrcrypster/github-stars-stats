@@ -1,10 +1,10 @@
 # amazonlinux/amazon-linux-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 29
 
-★ Stars: 320
+★ Stars: 322
 
 [Open repository](https://github.com/amazonlinux/amazon-linux-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 322 | 29 | 
 | 2023-03-23 | 320 | 29 | 
 | 2023-03-22 | 319 | 29 | 
 | 2023-03-21 | 316 | 29 | 

@@ -1,10 +1,10 @@
 # YimMenu/YimMenu - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 443
+★ Stars: 446
 
 [Open repository](https://github.com/YimMenu/YimMenu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 446 | 187 | 
 | 2023-03-24 | 443 | 186 | 
 | 2023-03-22 | 441 | 185 | 
 | 2023-03-21 | 439 | 186 | 

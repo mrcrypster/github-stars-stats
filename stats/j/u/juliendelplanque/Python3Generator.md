@@ -1,6 +1,6 @@
 # juliendelplanque/Python3Generator - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 26 | 4 | 
+| 2023-03-25 | 26 | 4 | 
 | 2023-03-24 | 26 | 4 | 
 | 2023-03-23 | 26 | 4 | 
 | 2023-03-22 | 26 | 4 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 25 | 4 | 
 | 2023-02-25 | 25 | 4 | 
 | 2023-02-24 | 25 | 4 | 
-| 2023-02-23 | 25 | 4 | 
 

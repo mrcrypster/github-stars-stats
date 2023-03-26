@@ -1,6 +1,6 @@
 # nf-core/circrna - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 28 | 10 | 
 | 2023-03-23 | 28 | 10 | 
 | 2023-03-22 | 27 | 9 | 
 | 2023-03-20 | 27 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 26 | 8 | 
 | 2023-02-25 | 26 | 8 | 
 | 2023-02-24 | 26 | 8 | 
-| 2023-02-23 | 26 | 8 | 
 

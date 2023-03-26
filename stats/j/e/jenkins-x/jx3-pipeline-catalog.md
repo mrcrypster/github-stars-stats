@@ -1,6 +1,6 @@
 # jenkins-x/jx3-pipeline-catalog - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 21 | 119 | 
 | 2023-03-23 | 21 | 119 | 
 | 2023-03-22 | 21 | 119 | 
 | 2023-03-21 | 21 | 119 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 21 | 118 | 
 | 2023-02-25 | 21 | 118 | 
 | 2023-02-24 | 21 | 118 | 
-| 2023-02-23 | 21 | 117 | 
 

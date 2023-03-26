@@ -1,6 +1,6 @@
 # davidmorinNTNU/ABAQUS_subroutines - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 63 | 22 | 
 | 2023-03-24 | 63 | 22 | 
 | 2023-03-22 | 63 | 22 | 
 | 2023-03-21 | 63 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 61 | 22 | 
 | 2023-02-25 | 61 | 22 | 
 | 2023-02-24 | 61 | 22 | 
-| 2023-02-23 | 61 | 22 | 
 

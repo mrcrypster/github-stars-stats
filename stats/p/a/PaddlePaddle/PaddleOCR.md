@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleOCR - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 5996
+☋ Forks: 6004
 
-★ Stars: 29060
+★ Stars: 29082
 
 [Open repository](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 29082 | 6004 | 
 | 2023-03-24 | 29060 | 5996 | 
 | 2023-03-23 | 29042 | 5996 | 
 | 2023-03-22 | 29006 | 5990 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 28416 | 5865 | 
 | 2023-02-25 | 28400 | 5864 | 
 | 2023-02-24 | 28386 | 5861 | 
-| 2023-02-23 | 28361 | 5857 | 
 

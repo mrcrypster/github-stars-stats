@@ -1,6 +1,6 @@
 # iamthefrogy/frogy - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 586 | 116 | 
 | 2023-03-24 | 586 | 116 | 
 | 2023-03-22 | 585 | 116 | 
 | 2023-03-21 | 585 | 116 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 576 | 113 | 
 | 2023-02-25 | 575 | 113 | 
 | 2023-02-24 | 575 | 112 | 
-| 2023-02-23 | 576 | 112 | 
 

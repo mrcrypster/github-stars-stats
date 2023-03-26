@@ -1,6 +1,6 @@
 # splinedrive/kianRiscV - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 167 | 12 | 
 | 2023-03-24 | 167 | 12 | 
 | 2023-03-22 | 166 | 12 | 
 | 2023-03-21 | 163 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 160 | 12 | 
 | 2023-02-25 | 160 | 12 | 
 | 2023-02-24 | 159 | 12 | 
-| 2023-02-23 | 159 | 12 | 
 

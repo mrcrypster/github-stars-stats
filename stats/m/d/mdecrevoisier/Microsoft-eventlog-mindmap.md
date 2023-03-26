@@ -1,6 +1,6 @@
 # mdecrevoisier/Microsoft-eventlog-mindmap - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 856 | 154 | 
 | 2023-03-24 | 856 | 154 | 
 | 2023-03-22 | 855 | 153 | 
 | 2023-03-21 | 854 | 153 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 846 | 152 | 
 | 2023-02-26 | 846 | 152 | 
 | 2023-02-24 | 846 | 152 | 
-| 2023-02-23 | 845 | 152 | 
 

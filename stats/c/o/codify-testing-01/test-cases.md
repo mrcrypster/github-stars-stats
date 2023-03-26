@@ -1,6 +1,6 @@
 # codify-testing-01/test-cases - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | - | 5 | 
 | 2023-03-24 | - | 5 | 
 | 2023-03-22 | - | 5 | 
 | 2023-03-21 | - | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | - | 6 | 
 | 2023-02-25 | - | 6 | 
 | 2023-02-24 | - | 6 | 
-| 2023-02-23 | - | 6 | 
 

@@ -1,6 +1,6 @@
 # TomConlin/json_to_paths - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 64 | 1 | 
 | 2023-03-24 | 64 | 1 | 
 | 2023-03-22 | 64 | 1 | 
 | 2023-03-21 | 64 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 65 | 1 | 
 | 2023-02-25 | 65 | 1 | 
 | 2023-02-24 | 65 | 1 | 
-| 2023-02-23 | 65 | 1 | 
 

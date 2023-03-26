@@ -1,10 +1,10 @@
 # wulabing/Xray_onekey - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3694
 
-★ Stars: 8588
+★ Stars: 8595
 
 [Open repository](https://github.com/wulabing/Xray_onekey)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8595 | 3694 | 
 | 2023-03-23 | 8588 | 3694 | 
 | 2023-03-21 | 8575 | 3690 | 
 | 2023-03-20 | 8568 | 3692 | 

@@ -1,10 +1,10 @@
 # shakacode/react_on_rails - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 620
 
-★ Stars: 4944
+★ Stars: 4945
 
 [Open repository](https://github.com/shakacode/react_on_rails)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4945 | 620 | 
 | 2023-03-24 | 4944 | 620 | 
 | 2023-03-23 | 4944 | 620 | 
 | 2023-03-21 | 4944 | 620 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 4938 | 619 | 
 | 2023-02-25 | 4937 | 619 | 
 | 2023-02-24 | 4937 | 619 | 
-| 2023-02-23 | 4937 | 619 | 
 

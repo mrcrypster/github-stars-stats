@@ -1,10 +1,10 @@
 # microsoft/MM-REACT - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 264
+★ Stars: 284
 
 [Open repository](https://github.com/microsoft/MM-REACT)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 284 | 11 | 
 | 2023-03-24 | 264 | 11 | 
 

@@ -1,6 +1,6 @@
 # codecov/codecov-action - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1200 | 191 | 
 | 2023-03-24 | 1200 | 191 | 
 | 2023-03-23 | 1199 | 191 | 
 | 2023-03-21 | 1196 | 191 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1187 | 187 | 
 | 2023-02-26 | 1187 | 187 | 
 | 2023-02-25 | 1184 | 188 | 
-| 2023-02-24 | 1184 | 188 | 
 

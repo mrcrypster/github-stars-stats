@@ -1,10 +1,10 @@
 # sebastianbergmann/exporter - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 31
 
-★ Stars: 6562
+★ Stars: 6565
 
 [Open repository](https://github.com/sebastianbergmann/exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 6565 | 31 | 
 | 2023-03-24 | 6562 | 31 | 
 | 2023-03-22 | 6559 | 31 | 
 | 2023-03-21 | 6558 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 6548 | 31 | 
 | 2023-02-25 | 6547 | 31 | 
 | 2023-02-24 | 6545 | 31 | 
-| 2023-02-23 | 6545 | 30 | 
 

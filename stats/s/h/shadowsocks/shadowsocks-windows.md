@@ -1,10 +1,10 @@
 # shadowsocks/shadowsocks-windows - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 16420
 
-★ Stars: 56064
+★ Stars: 56084
 
 [Open repository](https://github.com/shadowsocks/shadowsocks-windows)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 56084 | 16420 | 
 | 2023-03-24 | 56064 | 16420 | 
 | 2023-03-22 | 56065 | 16422 | 
 | 2023-03-21 | 56043 | 16420 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 55872 | 16396 | 
 | 2023-02-26 | 55870 | 16397 | 
 | 2023-02-25 | 55867 | 16396 | 
-| 2023-02-23 | 55865 | 16394 | 
 

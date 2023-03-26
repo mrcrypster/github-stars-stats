@@ -1,6 +1,6 @@
 # joken-elixir/joken - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 703 | 99 | 
 | 2023-03-23 | 703 | 99 | 
 | 2023-03-22 | 703 | 99 | 
 | 2023-03-21 | 703 | 99 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 701 | 99 | 
 | 2023-02-25 | 701 | 99 | 
 | 2023-02-24 | 701 | 99 | 
-| 2023-02-23 | 701 | 99 | 
 

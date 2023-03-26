@@ -1,10 +1,10 @@
 # googleads/googleads-mobile-ios-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 808
+☋ Forks: 809
 
-★ Stars: 854
+★ Stars: 853
 
 [Open repository](https://github.com/googleads/googleads-mobile-ios-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 853 | 809 | 
 | 2023-03-24 | 854 | 808 | 
 | 2023-03-22 | 853 | 808 | 
 | 2023-03-21 | 852 | 808 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 845 | 804 | 
 | 2023-02-26 | 844 | 804 | 
 | 2023-02-25 | 844 | 803 | 
-| 2023-02-23 | 844 | 803 | 
 

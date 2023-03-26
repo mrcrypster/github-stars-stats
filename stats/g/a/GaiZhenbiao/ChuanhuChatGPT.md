@@ -1,10 +1,10 @@
 # GaiZhenbiao/ChuanhuChatGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 691
+☋ Forks: 725
 
-★ Stars: 5552
+★ Stars: 5838
 
 [Open repository](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5838 | 725 | 
+| 2023-03-25 | 5817 | 721 | 
 | 2023-03-24 | 5552 | 691 | 
 | 2023-03-23 | 4861 | 592 | 
 | 2023-03-22 | 4220 | 500 | 

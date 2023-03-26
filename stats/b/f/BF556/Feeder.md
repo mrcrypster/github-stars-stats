@@ -1,0 +1,18 @@
+# BF556/Feeder - stars & forks statistics
+
+Stats updated on Mar 2023, 26
+
+☋ Forks: 11
+
+★ Stars: 46
+
+[Open repository](https://github.com/BF556/Feeder)
+
+[Open detailed stats for BF556/Feeder](https://reviewgithub.com/rep/BF556/Feeder)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-26 | 46 | 11 | 
+| 2023-03-25 | 46 | 11 | 
+

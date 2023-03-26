@@ -1,6 +1,6 @@
 # JJTechInc/Terraform - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8 | 96 | 
 | 2023-03-23 | 8 | 96 | 
 | 2023-03-22 | 8 | 95 | 
 | 2023-03-21 | 8 | 95 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 8 | 91 | 
 | 2023-02-25 | 8 | 91 | 
 | 2023-02-24 | 8 | 91 | 
-| 2023-02-23 | 8 | 91 | 
 

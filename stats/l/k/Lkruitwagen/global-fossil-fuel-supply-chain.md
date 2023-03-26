@@ -1,6 +1,6 @@
 # Lkruitwagen/global-fossil-fuel-supply-chain - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 166 | 12 | 
 | 2023-03-24 | 166 | 12 | 
 | 2023-03-22 | 166 | 12 | 
 | 2023-03-21 | 166 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 165 | 12 | 
 | 2023-02-25 | 165 | 12 | 
 | 2023-02-24 | 165 | 12 | 
-| 2023-02-23 | 165 | 12 | 
 

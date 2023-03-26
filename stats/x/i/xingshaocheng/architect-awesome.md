@@ -1,10 +1,10 @@
 # xingshaocheng/architect-awesome - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 17686
+☋ Forks: 17685
 
-★ Stars: 57796
+★ Stars: 57798
 
 [Open repository](https://github.com/xingshaocheng/architect-awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 57798 | 17685 | 
 | 2023-03-24 | 57796 | 17686 | 
 | 2023-03-22 | 57781 | 17684 | 
 | 2023-03-21 | 57777 | 17682 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 57639 | 17652 | 
 | 2023-02-25 | 57632 | 17652 | 
 | 2023-02-24 | 57635 | 17653 | 
-| 2023-02-23 | 57635 | 17648 | 
 

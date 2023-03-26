@@ -1,10 +1,10 @@
 # jszczerbinsky/lwp - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
-★ Stars: 677
+★ Stars: 678
 
 [Open repository](https://github.com/jszczerbinsky/lwp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 678 | 9 | 
 | 2023-03-23 | 677 | 9 | 
 | 2023-03-22 | 671 | 8 | 
 | 2023-03-20 | 663 | 8 | 

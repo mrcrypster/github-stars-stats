@@ -1,10 +1,10 @@
 # dieghernan/tidyterra - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/dieghernan/tidyterra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 125 | 3 | 
 | 2023-03-23 | 124 | 3 | 
 | 2023-03-22 | 119 | 3 | 
 | 2023-03-21 | 119 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 109 | 3 | 
 | 2023-02-26 | 109 | 3 | 
 | 2023-02-25 | 109 | 3 | 
-| 2023-02-23 | 109 | 3 | 
 

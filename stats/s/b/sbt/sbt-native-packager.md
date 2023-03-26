@@ -1,10 +1,10 @@
 # sbt/sbt-native-packager - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 439
 
-★ Stars: 1555
+★ Stars: 1556
 
 [Open repository](https://github.com/sbt/sbt-native-packager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1556 | 439 | 
 | 2023-03-23 | 1555 | 439 | 
 | 2023-03-22 | 1555 | 438 | 
 | 2023-03-21 | 1556 | 438 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 1557 | 439 | 
 | 2023-02-26 | 1557 | 440 | 
 | 2023-02-25 | 1557 | 440 | 
-| 2023-02-23 | 1557 | 440 | 
 

@@ -1,10 +1,10 @@
 # yieldprotocol/vault-v2 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 23
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/yieldprotocol/vault-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 146 | 23 | 
 | 2023-03-24 | 145 | 23 | 
 | 2023-03-22 | 145 | 23 | 
 | 2023-03-21 | 145 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 143 | 23 | 
 | 2023-02-25 | 143 | 23 | 
 | 2023-02-24 | 143 | 23 | 
-| 2023-02-23 | 143 | 22 | 
 

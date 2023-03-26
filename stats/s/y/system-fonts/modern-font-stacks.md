@@ -1,10 +1,10 @@
 # system-fonts/modern-font-stacks - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 1334
+★ Stars: 1348
 
 [Open repository](https://github.com/system-fonts/modern-font-stacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1348 | 16 | 
 | 2023-03-24 | 1334 | 15 | 
 | 2023-03-23 | 1306 | 15 | 
 | 2023-03-22 | 1272 | 15 | 

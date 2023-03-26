@@ -1,6 +1,6 @@
 # godlygeek/tabular - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 2461 | 160 | 
 | 2023-03-24 | 2461 | 160 | 
 | 2023-03-23 | 2461 | 160 | 
 | 2023-03-21 | 2461 | 160 | 

@@ -1,8 +1,8 @@
 # NoroffFEU/css-frameworks-ca - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 17
+☋ Forks: 19
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 19 | 
+| 2023-03-25 | - | 19 | 
 | 2023-03-24 | - | 17 | 
 | 2023-03-23 | - | 15 | 
 | 2023-03-22 | - | 14 | 

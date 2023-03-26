@@ -1,10 +1,10 @@
 # onlydustxyz/starklings - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 291
+★ Stars: 292
 
 [Open repository](https://github.com/onlydustxyz/starklings)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 292 | 77 | 
 | 2023-03-24 | 291 | 76 | 
 | 2023-03-22 | 291 | 76 | 
 | 2023-03-21 | 290 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 287 | 76 | 
 | 2023-02-25 | 287 | 76 | 
 | 2023-02-24 | 286 | 76 | 
-| 2023-02-23 | 286 | 76 | 
 

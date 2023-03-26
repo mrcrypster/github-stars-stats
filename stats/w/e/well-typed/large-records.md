@@ -1,6 +1,6 @@
 # well-typed/large-records - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 38 | 12 | 
 | 2023-03-24 | 38 | 12 | 
 | 2023-03-23 | 38 | 12 | 
 | 2023-03-21 | 38 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 36 | 12 | 
 | 2023-02-26 | 36 | 12 | 
 | 2023-02-24 | 36 | 12 | 
-| 2023-02-23 | 36 | 12 | 
 

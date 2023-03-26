@@ -1,10 +1,10 @@
 # vaadin/flow - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 139
 
-★ Stars: 461
+★ Stars: 462
 
 [Open repository](https://github.com/vaadin/flow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 462 | 139 | 
 | 2023-03-24 | 461 | 139 | 
 | 2023-03-22 | 458 | 139 | 
 | 2023-03-21 | 459 | 139 | 

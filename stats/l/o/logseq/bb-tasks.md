@@ -1,10 +1,10 @@
 # logseq/bb-tasks - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/logseq/bb-tasks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 14 | - | 
 | 2023-03-24 | 15 | - | 
 | 2023-03-22 | 15 | - | 
 | 2023-03-21 | 15 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 13 | - | 
 | 2023-02-25 | 13 | - | 
 | 2023-02-24 | 13 | - | 
-| 2023-02-23 | 13 | - | 
 

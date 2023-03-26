@@ -1,10 +1,10 @@
 # chromedp/chromedp - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 705
 
-★ Stars: 8826
+★ Stars: 8837
 
 [Open repository](https://github.com/chromedp/chromedp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 8837 | 705 | 
 | 2023-03-24 | 8826 | 705 | 
 | 2023-03-23 | 8817 | 704 | 
 | 2023-03-21 | 8810 | 703 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 8701 | 693 | 
 | 2023-02-25 | 8697 | 693 | 
 | 2023-02-24 | 8690 | 694 | 
-| 2023-02-23 | 8686 | 691 | 
 

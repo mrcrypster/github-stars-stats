@@ -1,10 +1,10 @@
 # HuanCheng65/TiebaLite - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 160
+☋ Forks: 161
 
-★ Stars: 1938
+★ Stars: 1942
 
 [Open repository](https://github.com/HuanCheng65/TiebaLite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1942 | 161 | 
 | 2023-03-24 | 1938 | 160 | 
 | 2023-03-22 | 1936 | 160 | 
 | 2023-03-21 | 1934 | 160 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1849 | 150 | 
 | 2023-02-25 | 1845 | 148 | 
 | 2023-02-24 | 1839 | 147 | 
-| 2023-02-23 | 1838 | 147 | 
 

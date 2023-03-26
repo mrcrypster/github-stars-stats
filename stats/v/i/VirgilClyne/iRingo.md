@@ -1,10 +1,10 @@
 # VirgilClyne/iRingo - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 283
 
-★ Stars: 6313
+★ Stars: 6320
 
 [Open repository](https://github.com/VirgilClyne/iRingo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6320 | 283 | 
 | 2023-03-24 | 6313 | 283 | 
 | 2023-03-23 | 6304 | 282 | 
 | 2023-03-22 | 6299 | 282 | 

@@ -1,10 +1,10 @@
 # Leizhenpeng/feishu-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 289
+☋ Forks: 299
 
-★ Stars: 1810
+★ Stars: 1939
 
 [Open repository](https://github.com/Leizhenpeng/feishu-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1939 | 299 | 
 | 2023-03-24 | 1810 | 289 | 
 | 2023-03-23 | 1565 | 256 | 
 | 2023-03-22 | 1269 | 215 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 161 | 57 | 
 | 2023-02-25 | 156 | 54 | 
 | 2023-02-24 | 155 | 52 | 
-| 2023-02-23 | 146 | 49 | 
 

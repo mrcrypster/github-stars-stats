@@ -1,10 +1,10 @@
 # aws-samples/ecs-refarch-cloudformation - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1279
 
-★ Stars: 1612
+★ Stars: 1613
 
 [Open repository](https://github.com/aws-samples/ecs-refarch-cloudformation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1613 | 1279 | 
 | 2023-03-24 | 1612 | 1279 | 
 | 2023-03-22 | 1612 | 1278 | 
 | 2023-03-21 | 1612 | 1279 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1610 | 1277 | 
 | 2023-02-26 | 1610 | 1277 | 
 | 2023-02-25 | 1608 | 1277 | 
-| 2023-02-24 | 1608 | 1276 | 
 

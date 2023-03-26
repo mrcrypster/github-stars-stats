@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 25
 
-☋ Forks: 528
+☋ Forks: 532
 
-★ Stars: 1966
+★ Stars: 1974
 
 [Open repository](https://github.com/programthink/sites)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 1966 | 528 | 
+| 2023-03-25 | 1974 | 532 | 
 | 2023-03-24 | 1966 | 528 | 
 

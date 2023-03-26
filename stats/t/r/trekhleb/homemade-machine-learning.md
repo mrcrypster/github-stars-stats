@@ -1,10 +1,10 @@
 # trekhleb/homemade-machine-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 3873
+☋ Forks: 3877
 
-★ Stars: 21071
+★ Stars: 21075
 
 [Open repository](https://github.com/trekhleb/homemade-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 21075 | 3877 | 
 | 2023-03-23 | 21071 | 3873 | 
 | 2023-03-22 | 21063 | 3874 | 
 | 2023-03-20 | 21056 | 3873 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 20955 | 3855 | 
 | 2023-02-26 | 20953 | 3857 | 
 | 2023-02-24 | 20951 | 3855 | 
-| 2023-02-23 | 20945 | 3854 | 
 

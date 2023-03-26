@@ -1,10 +1,10 @@
 # typst/hypher - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/typst/hypher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 69 | 4 | 
 | 2023-03-24 | 68 | 4 | 
 | 2023-03-22 | 68 | 4 | 
 | 2023-03-21 | 64 | 4 | 

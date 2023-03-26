@@ -1,6 +1,6 @@
 # tsloughter/rebar3_erlydtl_plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 11 | 31 | 
 | 2023-03-23 | 11 | 31 | 
 | 2023-03-21 | 11 | 31 | 
 | 2023-03-20 | 11 | 31 | 

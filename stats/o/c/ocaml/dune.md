@@ -1,10 +1,10 @@
 # ocaml/dune - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 337
+☋ Forks: 339
 
-★ Stars: 1320
+★ Stars: 1318
 
 [Open repository](https://github.com/ocaml/dune)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1318 | 339 | 
+| 2023-03-25 | 1318 | 339 | 
 | 2023-03-24 | 1320 | 337 | 
 | 2023-03-23 | 1319 | 337 | 
 | 2023-03-22 | 1319 | 337 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 1311 | 336 | 
 | 2023-02-25 | 1311 | 336 | 
 | 2023-02-24 | 1310 | 336 | 
-| 2023-02-23 | 1310 | 336 | 
 

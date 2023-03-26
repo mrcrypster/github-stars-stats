@@ -1,10 +1,10 @@
 # rancher/partner-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 140
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/rancher/partner-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 33 | 140 | 
 | 2023-03-23 | 34 | 140 | 
 | 2023-03-22 | 34 | 139 | 
 | 2023-03-21 | 34 | 139 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 33 | 136 | 
 | 2023-02-26 | 33 | 136 | 
 | 2023-02-24 | 33 | 136 | 
-| 2023-02-23 | 33 | 136 | 
 

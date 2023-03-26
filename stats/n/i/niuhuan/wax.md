@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 268
+★ Stars: 270
 
 [Open repository](https://github.com/niuhuan/wax)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-25 | 268 | 6 | 
+| 2023-03-25 | 270 | 6 | 
 | 2023-03-24 | 267 | 6 | 
 | 2023-03-23 | 260 | 6 | 
 | 2023-03-21 | 255 | 6 | 
@@ -37,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 238 | 6 | 
 | 2023-02-26 | 237 | 6 | 
 | 2023-02-25 | 235 | 6 | 
-| 2023-02-24 | 234 | 6 | 
 

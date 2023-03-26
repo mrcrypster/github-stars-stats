@@ -1,6 +1,6 @@
 # muhammadtalhasultan/flutter_animations - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 31 | 10 | 
 | 2023-03-23 | 31 | 10 | 
 | 2023-03-22 | 31 | 10 | 
 | 2023-03-20 | 31 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 32 | 10 | 
 | 2023-02-25 | 32 | 10 | 
 | 2023-02-24 | 32 | 10 | 
-| 2023-02-23 | 32 | 10 | 
 

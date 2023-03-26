@@ -1,6 +1,6 @@
 # findmypast/vaultex - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 102 | 36 | 
 | 2023-03-24 | 102 | 36 | 
 | 2023-03-23 | 102 | 36 | 
 | 2023-03-22 | 101 | 36 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 101 | 36 | 
 | 2023-02-25 | 101 | 36 | 
 | 2023-02-24 | 101 | 36 | 
-| 2023-02-23 | 101 | 36 | 
 

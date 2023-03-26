@@ -1,10 +1,10 @@
 # Cybereason/siofra - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 79
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/Cybereason/siofra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 410 | 79 | 
 | 2023-03-24 | 409 | 79 | 
 | 2023-03-22 | 409 | 79 | 
 | 2023-03-21 | 409 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 403 | 78 | 
 | 2023-02-25 | 403 | 78 | 
 | 2023-02-24 | 402 | 78 | 
-| 2023-02-23 | 402 | 78 | 
 

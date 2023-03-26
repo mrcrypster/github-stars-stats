@@ -1,10 +1,10 @@
 # RotherOSS/otobo - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 54
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/RotherOSS/otobo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 168 | 54 | 
 | 2023-03-24 | 167 | 54 | 
 | 2023-03-23 | 167 | 54 | 
 | 2023-03-22 | 167 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 168 | 53 | 
 | 2023-02-25 | 168 | 53 | 
 | 2023-02-24 | 168 | 53 | 
-| 2023-02-23 | 168 | 53 | 
 

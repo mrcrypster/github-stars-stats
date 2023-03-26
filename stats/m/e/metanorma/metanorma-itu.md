@@ -1,6 +1,6 @@
 # metanorma/metanorma-itu - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 5 | 4 | 
 | 2023-03-24 | 5 | 4 | 
 | 2023-03-23 | 5 | 4 | 
 | 2023-03-21 | 5 | 4 | 

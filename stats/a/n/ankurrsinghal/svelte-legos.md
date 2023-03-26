@@ -1,10 +1,10 @@
 # ankurrsinghal/svelte-legos - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 9
+☋ Forks: 8
 
-★ Stars: 254
+★ Stars: 264
 
 [Open repository](https://github.com/ankurrsinghal/svelte-legos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 264 | 8 | 
 | 2023-03-24 | 254 | 9 | 
 | 2023-03-22 | 243 | 7 | 
 | 2023-03-21 | 230 | 7 | 

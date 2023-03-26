@@ -1,10 +1,10 @@
 # editorconfig/editorconfig-emacs - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 93
 
-★ Stars: 675
+★ Stars: 676
 
 [Open repository](https://github.com/editorconfig/editorconfig-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 676 | 93 | 
 | 2023-03-24 | 675 | 93 | 
 | 2023-03-23 | 675 | 93 | 
 | 2023-03-22 | 675 | 93 | 

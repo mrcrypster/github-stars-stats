@@ -1,10 +1,10 @@
 # neelnanda-io/TransformerLens - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 159
+★ Stars: 161
 
 [Open repository](https://github.com/neelnanda-io/TransformerLens)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 161 | 48 | 
 | 2023-03-24 | 159 | 47 | 
 | 2023-03-22 | 157 | 46 | 
 | 2023-03-21 | 153 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 134 | 39 | 
 | 2023-02-25 | 134 | 38 | 
 | 2023-02-24 | 134 | 38 | 
-| 2023-02-23 | 131 | 38 | 
 

@@ -1,10 +1,10 @@
 # gogo/googleapis - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 20
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/gogo/googleapis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 32 | 20 | 
 | 2023-03-24 | 31 | 20 | 
 | 2023-03-23 | 31 | 20 | 
 | 2023-03-22 | 31 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 30 | 20 | 
 | 2023-02-25 | 30 | 20 | 
 | 2023-02-24 | 30 | 20 | 
-| 2023-02-23 | 30 | 20 | 
 

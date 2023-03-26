@@ -1,10 +1,10 @@
 # vectra-ai-research/MAAD-AF - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 25
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/vectra-ai-research/MAAD-AF)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 172 | 25 | 
 | 2023-03-24 | 171 | 25 | 
 | 2023-03-22 | 170 | 25 | 
 | 2023-03-21 | 168 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 98 | 16 | 
 | 2023-02-25 | 96 | 16 | 
 | 2023-02-24 | 95 | 16 | 
-| 2023-02-23 | 92 | 15 | 
 

@@ -1,6 +1,6 @@
 # os2xx/os - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 4 | 9 | 
 | 2023-03-23 | 4 | 9 | 
 | 2023-03-22 | 4 | 9 | 
 | 2023-03-20 | 4 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 4 | 9 | 
 | 2023-02-25 | 4 | 9 | 
 | 2023-02-24 | 4 | 9 | 
-| 2023-02-23 | 4 | 9 | 
 

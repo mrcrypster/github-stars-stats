@@ -1,6 +1,6 @@
 # archethic-foundation/archethic-node - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 55 | 20 | 
 | 2023-03-23 | 55 | 20 | 
 | 2023-03-22 | 55 | 20 | 
 | 2023-03-21 | 55 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 57 | 21 | 
 | 2023-02-25 | 57 | 21 | 
 | 2023-02-24 | 56 | 21 | 
-| 2023-02-23 | 56 | 21 | 
 

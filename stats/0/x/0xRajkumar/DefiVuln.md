@@ -1,6 +1,6 @@
 # 0xRajkumar/DefiVuln - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 50 | 3 | 
 | 2023-03-24 | 50 | 3 | 
 | 2023-03-22 | 50 | 3 | 
 | 2023-03-21 | 50 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 44 | 3 | 
 | 2023-02-26 | 43 | 3 | 
 | 2023-02-25 | 43 | 3 | 
-| 2023-02-24 | 43 | 3 | 
 

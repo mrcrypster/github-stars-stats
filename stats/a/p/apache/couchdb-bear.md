@@ -1,6 +1,6 @@
 # apache/couchdb-bear - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3 | 8 | 
 | 2023-03-24 | 3 | 8 | 
 | 2023-03-23 | 3 | 8 | 
 | 2023-03-21 | 3 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 2 | 8 | 
 | 2023-02-25 | 2 | 8 | 
 | 2023-02-24 | 2 | 8 | 
-| 2023-02-23 | 2 | 8 | 
 

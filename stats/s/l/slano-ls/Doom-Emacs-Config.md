@@ -1,10 +1,10 @@
 # slano-ls/Doom-Emacs-Config - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/slano-ls/Doom-Emacs-Config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 55 | 1 | 
 | 2023-03-24 | 53 | 1 | 
 | 2023-03-23 | 53 | 1 | 
 | 2023-03-21 | 53 | 1 | 

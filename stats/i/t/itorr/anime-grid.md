@@ -1,6 +1,6 @@
 # itorr/anime-grid - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 193 | 35 | 
 | 2023-03-24 | 193 | 35 | 
 | 2023-03-23 | 192 | 35 | 
 | 2023-03-21 | 192 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 185 | 35 | 
 | 2023-02-26 | 185 | 35 | 
 | 2023-02-25 | 185 | 35 | 
-| 2023-02-23 | 184 | 35 | 
 

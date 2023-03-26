@@ -1,6 +1,6 @@
 # kubewharf/kubezoo - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 537 | 46 | 
 | 2023-03-24 | 537 | 46 | 
 | 2023-03-23 | 537 | 46 | 
 | 2023-03-21 | 537 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 533 | 45 | 
 | 2023-02-25 | 533 | 45 | 
 | 2023-02-24 | 533 | 45 | 
-| 2023-02-23 | 531 | 45 | 
 

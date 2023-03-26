@@ -1,6 +1,6 @@
 # otsembo/my-todos-sinatra - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1 | 33 | 
 | 2023-03-23 | 1 | 33 | 
 | 2023-03-22 | 1 | 33 | 
 | 2023-03-21 | 1 | 33 | 

@@ -1,6 +1,6 @@
 # foxanna/tests_assertions_cheat_sheet - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 44 | 8 | 
 | 2023-03-24 | 44 | 8 | 
 | 2023-03-22 | 44 | 8 | 
 | 2023-03-21 | 43 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 36 | 6 | 
 | 2023-02-25 | 35 | 5 | 
 | 2023-02-24 | 35 | 5 | 
-| 2023-02-23 | 35 | 5 | 
 

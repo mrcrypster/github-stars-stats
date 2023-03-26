@@ -1,6 +1,6 @@
 # kourgeorge/arxiv-style - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 810 | 254 | 
 | 2023-03-24 | 810 | 254 | 
 | 2023-03-22 | 810 | 255 | 
 | 2023-03-21 | 810 | 255 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 800 | 253 | 
 | 2023-02-26 | 799 | 253 | 
 | 2023-02-24 | 798 | 253 | 
-| 2023-02-23 | 798 | 253 | 
 

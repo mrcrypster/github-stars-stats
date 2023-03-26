@@ -1,6 +1,6 @@
 # btnguyen2k/govueadmin.g8 - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 39 | 26 | 
 | 2023-03-24 | 39 | 26 | 
 | 2023-03-23 | 39 | 26 | 
 | 2023-03-21 | 39 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 39 | 26 | 
 | 2023-02-25 | 39 | 26 | 
 | 2023-02-24 | 39 | 26 | 
-| 2023-02-23 | 39 | 26 | 
 

@@ -1,10 +1,10 @@
 # FrozenBurning/Text2Light - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 30
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/FrozenBurning/Text2Light)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 405 | 30 | 
 | 2023-03-24 | 404 | 30 | 
 | 2023-03-22 | 402 | 30 | 
 | 2023-03-21 | 400 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 387 | 28 | 
 | 2023-02-25 | 387 | 28 | 
 | 2023-02-24 | 385 | 28 | 
-| 2023-02-23 | 384 | 27 | 
 

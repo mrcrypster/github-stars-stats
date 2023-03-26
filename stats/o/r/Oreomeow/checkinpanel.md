@@ -1,10 +1,10 @@
 # Oreomeow/checkinpanel - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 372
 
-★ Stars: 1231
+★ Stars: 1234
 
 [Open repository](https://github.com/Oreomeow/checkinpanel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 1234 | 372 | 
 | 2023-03-23 | 1231 | 372 | 
 | 2023-03-22 | 1230 | 372 | 
 | 2023-03-21 | 1231 | 372 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 1214 | 369 | 
 | 2023-02-25 | 1209 | 370 | 
 | 2023-02-24 | 1208 | 370 | 
-| 2023-02-23 | 1204 | 370 | 
 

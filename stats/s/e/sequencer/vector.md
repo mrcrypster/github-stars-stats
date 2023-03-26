@@ -1,10 +1,10 @@
 # sequencer/vector - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/sequencer/vector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 23 | 5 | 
 | 2023-03-24 | 22 | 5 | 
 | 2023-03-23 | 22 | 3 | 
 | 2023-03-21 | 22 | 3 | 

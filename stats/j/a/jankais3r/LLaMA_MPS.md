@@ -1,10 +1,10 @@
 # jankais3r/LLaMA_MPS - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
-☋ Forks: 22
+☋ Forks: 27
 
-★ Stars: 350
+★ Stars: 363
 
 [Open repository](https://github.com/jankais3r/LLaMA_MPS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 363 | 27 | 
 | 2023-03-23 | 350 | 22 | 
 | 2023-03-22 | 335 | 22 | 
 | 2023-03-20 | 315 | 22 | 

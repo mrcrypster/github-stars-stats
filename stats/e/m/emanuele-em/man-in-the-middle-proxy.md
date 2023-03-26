@@ -1,6 +1,6 @@
 # emanuele-em/man-in-the-middle-proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 207 | 16 | 
 | 2023-03-24 | 207 | 16 | 
 | 2023-03-22 | 207 | 16 | 
 | 2023-03-21 | 206 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-26 | 150 | 11 | 
 | 2023-02-25 | 148 | 11 | 
 | 2023-02-24 | 148 | 10 | 
-| 2023-02-23 | 146 | 8 | 
 

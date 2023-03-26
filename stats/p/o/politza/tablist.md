@@ -1,6 +1,6 @@
 # politza/tablist - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 54 | 20 | 
 | 2023-03-23 | 54 | 20 | 
 | 2023-03-22 | 53 | 20 | 
 | 2023-03-21 | 53 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-26 | 51 | 17 | 
 | 2023-02-25 | 51 | 17 | 
 | 2023-02-24 | 51 | 17 | 
-| 2023-02-23 | 51 | 17 | 
 

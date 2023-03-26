@@ -1,6 +1,6 @@
 # shaunchander/astro-pwa-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 23
+Stats updated on Mar 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-25 | 62 | 12 | 
 | 2023-03-23 | 62 | 12 | 
 | 2023-03-22 | 59 | 12 | 
 | 2023-03-21 | 57 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 23
 | 2023-02-27 | 52 | 11 | 
 | 2023-02-25 | 51 | 11 | 
 | 2023-02-24 | 51 | 11 | 
-| 2023-02-23 | 51 | 11 | 
 
