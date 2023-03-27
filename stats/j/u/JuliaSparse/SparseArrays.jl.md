@@ -1,6 +1,6 @@
 # JuliaSparse/SparseArrays.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 57 | 31 | 
 | 2023-03-24 | 57 | 31 | 
 | 2023-03-23 | 56 | 31 | 
 | 2023-03-21 | 56 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 55 | 30 | 
 | 2023-02-27 | 54 | 30 | 
 | 2023-02-25 | 54 | 30 | 
-| 2023-02-24 | 54 | 30 | 
 

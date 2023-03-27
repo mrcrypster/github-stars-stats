@@ -1,8 +1,8 @@
 # vfarcic/argo-combined-app - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 137
+☋ Forks: 136
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 34 | 136 | 
 | 2023-03-25 | 34 | 137 | 
 | 2023-03-23 | 34 | 137 | 
 | 2023-03-22 | 34 | 137 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 35 | 136 | 
 | 2023-02-26 | 35 | 136 | 
 | 2023-02-25 | 35 | 136 | 
-| 2023-02-24 | 35 | 136 | 
 

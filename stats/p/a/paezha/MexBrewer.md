@@ -1,6 +1,6 @@
 # paezha/MexBrewer - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 18 | 1 | 
 | 2023-03-24 | 18 | 1 | 
 | 2023-03-23 | 18 | 1 | 
 | 2023-03-21 | 18 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 18 | 1 | 
 | 2023-02-26 | 18 | 1 | 
 | 2023-02-25 | 17 | 1 | 
-| 2023-02-24 | 17 | 1 | 
 

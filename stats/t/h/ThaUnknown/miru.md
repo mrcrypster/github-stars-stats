@@ -1,6 +1,6 @@
 # ThaUnknown/miru - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 802 | 48 | 
 | 2023-03-25 | 802 | 48 | 
 | 2023-03-24 | 800 | 48 | 
 | 2023-03-23 | 800 | 48 | 

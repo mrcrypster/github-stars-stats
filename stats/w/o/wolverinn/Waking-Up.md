@@ -1,10 +1,10 @@
 # wolverinn/Waking-Up - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1780
+☋ Forks: 1781
 
-★ Stars: 8670
+★ Stars: 8673
 
 [Open repository](https://github.com/wolverinn/Waking-Up)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 8673 | 1781 | 
 | 2023-03-25 | 8670 | 1780 | 
 | 2023-03-24 | 8668 | 1781 | 
 | 2023-03-22 | 8663 | 1780 | 

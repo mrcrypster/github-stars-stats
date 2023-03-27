@@ -1,6 +1,6 @@
 # saucepoint/solwiss-tournament - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 25 | 2 | 
 | 2023-03-25 | 25 | 2 | 
 | 2023-03-23 | 25 | 2 | 
 | 2023-03-21 | 25 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 24 | 2 | 
 | 2023-02-27 | 24 | 2 | 
 | 2023-02-26 | 24 | 2 | 
-| 2023-02-25 | 24 | 2 | 
 

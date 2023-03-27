@@ -1,6 +1,6 @@
 # samzx/soft-portfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 153 | 29 | 
 | 2023-03-25 | 153 | 29 | 
 | 2023-03-24 | 153 | 29 | 
 | 2023-03-22 | 153 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 150 | 29 | 
 | 2023-02-27 | 150 | 30 | 
 | 2023-02-26 | 150 | 30 | 
-| 2023-02-25 | 150 | 30 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 26
 
-☋ Forks: 4495
+☋ Forks: 4501
 
-★ Stars: 1172
+★ Stars: 1174
 
 [Open repository](https://github.com/pages-themes/minimal)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 1172 | 4495 | 
+| 2023-03-26 | 1174 | 4501 | 
 | 2023-03-25 | 1171 | 4493 | 
 | 2023-03-24 | 1168 | 4487 | 
 | 2023-03-23 | 1168 | 4486 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-27 | 1155 | 4438 | 
 | 2023-02-26 | 1155 | 4432 | 
 | 2023-02-25 | 1156 | 4426 | 
-| 2023-02-24 | 1155 | 4425 | 
 

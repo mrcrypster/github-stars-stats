@@ -1,6 +1,6 @@
 # smarras79/jexpresso - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 11
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1 | 11 | 
 | 2023-03-25 | 1 | 11 | 
 

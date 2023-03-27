@@ -1,6 +1,6 @@
 # nanochess/bootBASIC - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 322 | 22 | 
 | 2023-03-24 | 322 | 22 | 
 | 2023-03-23 | 322 | 22 | 
 | 2023-03-22 | 323 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 322 | 22 | 
 | 2023-02-26 | 322 | 22 | 
 | 2023-02-25 | 322 | 22 | 
-| 2023-02-24 | 322 | 22 | 
 

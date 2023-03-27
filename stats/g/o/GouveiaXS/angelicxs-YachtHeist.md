@@ -1,10 +1,10 @@
 # GouveiaXS/angelicxs-YachtHeist - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/GouveiaXS/angelicxs-YachtHeist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6 | 7 | 
 | 2023-03-24 | 5 | 7 | 
 | 2023-03-23 | 5 | 7 | 
 | 2023-03-21 | 5 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 2 | 6 | 
 | 2023-02-26 | 2 | 6 | 
 | 2023-02-25 | 2 | 6 | 
-| 2023-02-24 | 2 | 6 | 
 

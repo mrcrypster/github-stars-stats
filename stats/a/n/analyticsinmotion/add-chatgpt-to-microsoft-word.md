@@ -1,8 +1,8 @@
 # analyticsinmotion/add-chatgpt-to-microsoft-word - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 22 | 10 | 
 | 2023-03-25 | 22 | 9 | 
 | 2023-03-24 | 21 | 9 | 
 | 2023-03-22 | 21 | 9 | 

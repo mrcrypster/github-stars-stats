@@ -1,10 +1,10 @@
 # astoff/jit-spell - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 31
 
 [Open repository](https://github.com/astoff/jit-spell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 31 | 1 | 
 | 2023-03-24 | 25 | 1 | 
 | 2023-03-23 | 26 | 1 | 
 | 2023-03-21 | 26 | 1 | 

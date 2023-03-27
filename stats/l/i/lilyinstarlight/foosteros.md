@@ -1,10 +1,10 @@
 # lilyinstarlight/foosteros - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/lilyinstarlight/foosteros)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 20 | - | 
 | 2023-03-24 | 19 | - | 
 | 2023-03-23 | 19 | - | 
 | 2023-03-22 | 19 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 18 | - | 
 | 2023-02-26 | 18 | - | 
 | 2023-02-25 | 18 | - | 
-| 2023-02-24 | 18 | - | 
 

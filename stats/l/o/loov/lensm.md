@@ -1,10 +1,10 @@
 # loov/lensm - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 101
 
-★ Stars: 2888
+★ Stars: 2890
 
 [Open repository](https://github.com/loov/lensm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2890 | 101 | 
 | 2023-03-25 | 2888 | 101 | 
 | 2023-03-24 | 2888 | 101 | 
 | 2023-03-23 | 2884 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2860 | 101 | 
 | 2023-02-27 | 2858 | 101 | 
 | 2023-02-25 | 2857 | 101 | 
-| 2023-02-24 | 2851 | 101 | 
 

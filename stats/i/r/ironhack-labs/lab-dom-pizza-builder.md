@@ -1,6 +1,6 @@
 # ironhack-labs/lab-dom-pizza-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2141
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 12 | 2141 | 
 | 2023-03-25 | 12 | 2141 | 
 | 2023-03-24 | 12 | 2141 | 
 | 2023-03-22 | 12 | 2141 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 12 | 2124 | 
 | 2023-02-26 | 12 | 2125 | 
 | 2023-02-25 | 12 | 2126 | 
-| 2023-02-24 | 12 | 2124 | 
 

@@ -1,10 +1,10 @@
 # BITNP/BIThesis - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 77
 
-★ Stars: 339
+★ Stars: 338
 
 [Open repository](https://github.com/BITNP/BIThesis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 338 | 77 | 
 | 2023-03-25 | 339 | 77 | 
 | 2023-03-24 | 339 | 76 | 
 | 2023-03-22 | 339 | 75 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 326 | 73 | 
 | 2023-02-26 | 325 | 73 | 
 | 2023-02-25 | 325 | 73 | 
-| 2023-02-24 | 325 | 74 | 
 

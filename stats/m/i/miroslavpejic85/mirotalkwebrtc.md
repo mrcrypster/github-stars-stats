@@ -1,8 +1,8 @@
 # miroslavpejic85/mirotalkwebrtc - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 162 | 17 | 
 | 2023-03-25 | 162 | 16 | 
 | 2023-03-23 | 161 | 16 | 
 | 2023-03-22 | 161 | 16 | 

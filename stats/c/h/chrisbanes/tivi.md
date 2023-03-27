@@ -1,6 +1,6 @@
 # chrisbanes/tivi - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 791
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5742 | 791 | 
 | 2023-03-25 | 5742 | 791 | 
 | 2023-03-24 | 5738 | 791 | 
 | 2023-03-23 | 5734 | 790 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 5682 | 783 | 
 | 2023-02-27 | 5671 | 784 | 
 | 2023-02-26 | 5672 | 783 | 
-| 2023-02-25 | 5672 | 785 | 
 

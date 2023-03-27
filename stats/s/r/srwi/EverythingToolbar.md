@@ -1,10 +1,10 @@
 # srwi/EverythingToolbar - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 304
 
-★ Stars: 5823
+★ Stars: 5827
 
 [Open repository](https://github.com/srwi/EverythingToolbar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5827 | 304 | 
 | 2023-03-25 | 5823 | 304 | 
 | 2023-03-24 | 5821 | 303 | 
 | 2023-03-22 | 5819 | 302 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 5689 | 299 | 
 | 2023-02-26 | 5669 | 299 | 
 | 2023-02-25 | 5660 | 298 | 
-| 2023-02-24 | 5635 | 298 | 
 

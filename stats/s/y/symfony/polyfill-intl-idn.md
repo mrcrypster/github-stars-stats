@@ -1,6 +1,6 @@
 # symfony/polyfill-intl-idn - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3102 | 7 | 
 | 2023-03-25 | 3102 | 7 | 
 | 2023-03-24 | 3100 | 7 | 
 | 2023-03-22 | 3098 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 3087 | 7 | 
 | 2023-02-26 | 3087 | 7 | 
 | 2023-02-25 | 3086 | 7 | 
-| 2023-02-24 | 3085 | 7 | 
 

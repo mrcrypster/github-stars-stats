@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 26
 
 ☋ Forks: 185
 
-★ Stars: 1297
+★ Stars: 1298
 
 [Open repository](https://github.com/tilo/smarter_csv)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 1297 | 185 | 
+| 2023-03-26 | 1298 | 185 | 
 | 2023-03-25 | 1297 | 185 | 
 

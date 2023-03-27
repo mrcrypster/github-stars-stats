@@ -1,6 +1,6 @@
 # robaho/seashore - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 387 | 15 | 
 | 2023-03-25 | 387 | 15 | 
 | 2023-03-24 | 387 | 15 | 
 | 2023-03-22 | 387 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 387 | 16 | 
 | 2023-02-26 | 387 | 16 | 
 | 2023-02-25 | 387 | 16 | 
-| 2023-02-24 | 387 | 16 | 
 

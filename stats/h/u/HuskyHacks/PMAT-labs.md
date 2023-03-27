@@ -1,10 +1,10 @@
 # HuskyHacks/PMAT-labs - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 127
 
-★ Stars: 529
+★ Stars: 530
 
 [Open repository](https://github.com/HuskyHacks/PMAT-labs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 530 | 127 | 
 | 2023-03-25 | 529 | 127 | 
 | 2023-03-24 | 529 | 126 | 
 | 2023-03-22 | 528 | 126 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 505 | 121 | 
 | 2023-02-27 | 506 | 121 | 
 | 2023-02-26 | 506 | 121 | 
-| 2023-02-24 | 506 | 121 | 
 

@@ -1,10 +1,10 @@
 # Exodus-Privacy/exodus-android-app - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 42
 
-★ Stars: 321
+★ Stars: 322
 
 [Open repository](https://github.com/Exodus-Privacy/exodus-android-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 322 | 42 | 
 | 2023-03-25 | 321 | 42 | 
 | 2023-03-23 | 318 | 42 | 
 | 2023-03-22 | 319 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 310 | 41 | 
 | 2023-02-26 | 310 | 41 | 
 | 2023-02-25 | 310 | 41 | 
-| 2023-02-24 | 310 | 41 | 
 

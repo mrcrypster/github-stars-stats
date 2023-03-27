@@ -1,10 +1,10 @@
 # RSKriegs/finnhub-streaming-data-pipeline - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 12
 
-★ Stars: 66
+★ Stars: 70
 
 [Open repository](https://github.com/RSKriegs/finnhub-streaming-data-pipeline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 70 | 12 | 
 | 2023-03-25 | 66 | 12 | 
 | 2023-03-23 | 66 | 12 | 
 | 2023-03-22 | 66 | 12 | 

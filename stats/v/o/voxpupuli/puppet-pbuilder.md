@@ -1,6 +1,6 @@
 # voxpupuli/puppet-pbuilder - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3 | 11 | 
 | 2023-03-25 | 3 | 11 | 
 | 2023-03-24 | 3 | 11 | 
 | 2023-03-22 | 3 | 11 | 

@@ -1,10 +1,10 @@
 # dahliaOS/pangolin_desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 124
 
-★ Stars: 1746
+★ Stars: 1748
 
 [Open repository](https://github.com/dahliaOS/pangolin_desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1748 | 124 | 
 | 2023-03-24 | 1746 | 124 | 
 | 2023-03-23 | 1745 | 124 | 
 | 2023-03-21 | 1743 | 125 | 

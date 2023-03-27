@@ -1,6 +1,6 @@
 # WenchaoD/FSPagerView - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 887
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 6739 | 887 | 
 | 2023-03-25 | 6739 | 887 | 
 | 2023-03-24 | 6739 | 887 | 
 | 2023-03-23 | 6738 | 884 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 6715 | 880 | 
 | 2023-02-27 | 6713 | 880 | 
 | 2023-02-25 | 6712 | 880 | 
-| 2023-02-24 | 6712 | 880 | 
 

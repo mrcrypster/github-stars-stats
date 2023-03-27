@@ -1,6 +1,6 @@
 # goodchai0/day-planner - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 45 | 67 | 
 | 2023-03-25 | 45 | 67 | 
 | 2023-03-23 | 45 | 67 | 
 | 2023-03-22 | 45 | 67 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 47 | 68 | 
 | 2023-02-26 | 47 | 68 | 
 | 2023-02-25 | 47 | 68 | 
-| 2023-02-24 | 47 | 68 | 
 

@@ -1,6 +1,6 @@
 # niklasekstrom/clockport_pi_interface - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 36 | 7 | 
 | 2023-03-25 | 36 | 7 | 
 | 2023-03-24 | 36 | 7 | 
 | 2023-03-22 | 36 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 34 | 6 | 
 | 2023-02-26 | 34 | 6 | 
 | 2023-02-25 | 34 | 6 | 
-| 2023-02-24 | 34 | 6 | 
 

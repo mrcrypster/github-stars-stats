@@ -1,10 +1,10 @@
 # seaswalker/spring-analysis - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 4048
+☋ Forks: 4049
 
-★ Stars: 12561
+★ Stars: 12567
 
 [Open repository](https://github.com/seaswalker/spring-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 12567 | 4049 | 
 | 2023-03-25 | 12561 | 4048 | 
 | 2023-03-24 | 12526 | 4038 | 
 | 2023-03-22 | 12423 | 4014 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 12366 | 3999 | 
 | 2023-02-27 | 12357 | 3996 | 
 | 2023-02-26 | 12354 | 3995 | 
-| 2023-02-24 | 12351 | 3995 | 
 

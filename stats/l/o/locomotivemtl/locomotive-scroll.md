@@ -1,6 +1,6 @@
 # locomotivemtl/locomotive-scroll - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1070
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6285 | 1070 | 
 | 2023-03-25 | 6285 | 1070 | 
 | 2023-03-24 | 6278 | 1068 | 
 | 2023-03-22 | 6274 | 1067 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 6167 | 1050 | 
 | 2023-02-26 | 6153 | 1049 | 
 | 2023-02-25 | 6151 | 1048 | 
-| 2023-02-24 | 6153 | 1047 | 
 

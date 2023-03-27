@@ -1,6 +1,6 @@
 # FreeYourStream/freedeck-hardware - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 689 | 50 | 
 | 2023-03-24 | 689 | 50 | 
 | 2023-03-23 | 688 | 50 | 
 | 2023-03-22 | 687 | 50 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 686 | 51 | 
 | 2023-02-26 | 685 | 51 | 
 | 2023-02-25 | 685 | 51 | 
-| 2023-02-24 | 685 | 51 | 
 

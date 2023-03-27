@@ -1,10 +1,10 @@
 # shaka-project/shaka-player - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1260
 
-★ Stars: 6219
+★ Stars: 6220
 
 [Open repository](https://github.com/shaka-project/shaka-player)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6220 | 1260 | 
 | 2023-03-25 | 6219 | 1260 | 
 | 2023-03-24 | 6219 | 1261 | 
 | 2023-03-22 | 6217 | 1261 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 6186 | 1255 | 
 | 2023-02-26 | 6185 | 1255 | 
 | 2023-02-25 | 6186 | 1255 | 
-| 2023-02-24 | 6184 | 1253 | 
 

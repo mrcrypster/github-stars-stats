@@ -1,6 +1,6 @@
 # aws-samples/amazon-sagemaker-statistical-simulation-rstudio - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6 | 5 | 
 | 2023-03-25 | 6 | 5 | 
 | 2023-03-23 | 6 | 5 | 
 | 2023-03-22 | 6 | 5 | 

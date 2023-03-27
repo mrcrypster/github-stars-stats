@@ -1,10 +1,10 @@
 # snowflakedb/snowflake-connector-python - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 375
+☋ Forks: 374
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/snowflakedb/snowflake-connector-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 426 | 374 | 
 | 2023-03-25 | 425 | 375 | 
 | 2023-03-24 | 425 | 374 | 
 | 2023-03-22 | 425 | 375 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 417 | 364 | 
 | 2023-02-26 | 416 | 363 | 
 | 2023-02-25 | 415 | 363 | 
-| 2023-02-24 | 414 | 363 | 
 

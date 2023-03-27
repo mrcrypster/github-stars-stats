@@ -1,10 +1,10 @@
 # lllyasviel/AdverseCleaner - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 191
+★ Stars: 201
 
 [Open repository](https://github.com/lllyasviel/AdverseCleaner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 201 | 14 | 
 | 2023-03-24 | 191 | 13 | 
 | 2023-03-23 | 172 | 12 | 
 | 2023-03-22 | 162 | 12 | 

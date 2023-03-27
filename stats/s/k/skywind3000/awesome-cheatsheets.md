@@ -1,10 +1,10 @@
 # skywind3000/awesome-cheatsheets - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1950
+☋ Forks: 1951
 
-★ Stars: 9947
+★ Stars: 9951
 
 [Open repository](https://github.com/skywind3000/awesome-cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 9951 | 1951 | 
 | 2023-03-25 | 9947 | 1950 | 
 | 2023-03-24 | 9935 | 1948 | 
 | 2023-03-22 | 9927 | 1949 | 

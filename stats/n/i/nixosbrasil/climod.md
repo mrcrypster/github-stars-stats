@@ -1,6 +1,6 @@
 # nixosbrasil/climod - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 38 | 2 | 
 | 2023-03-25 | 38 | 2 | 
 | 2023-03-23 | 38 | 2 | 
 | 2023-03-22 | 38 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 38 | 2 | 
 | 2023-02-26 | 38 | 2 | 
 | 2023-02-25 | 38 | 2 | 
-| 2023-02-24 | 38 | 2 | 
 

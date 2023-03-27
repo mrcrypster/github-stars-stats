@@ -1,6 +1,6 @@
 # emacs-csharp/csharp-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 150 | 49 | 
 | 2023-03-25 | 150 | 49 | 
 | 2023-03-23 | 149 | 49 | 
 | 2023-03-22 | 149 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 149 | 49 | 
 | 2023-02-26 | 149 | 49 | 
 | 2023-02-25 | 149 | 49 | 
-| 2023-02-24 | 149 | 49 | 
 

@@ -1,6 +1,6 @@
 # facemoji/alter-core - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 408 | 41 | 
 | 2023-03-25 | 408 | 41 | 
 | 2023-03-24 | 408 | 41 | 
 | 2023-03-22 | 408 | 41 | 

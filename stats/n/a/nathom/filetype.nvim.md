@@ -1,10 +1,10 @@
 # nathom/filetype.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 33
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/nathom/filetype.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 522 | 33 | 
 | 2023-03-25 | 521 | 33 | 
 | 2023-03-24 | 521 | 33 | 
 | 2023-03-22 | 521 | 33 | 

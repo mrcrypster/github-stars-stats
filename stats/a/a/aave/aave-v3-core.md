@@ -1,6 +1,6 @@
 # aave/aave-v3-core - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 534 | 325 | 
 | 2023-03-25 | 534 | 325 | 
 | 2023-03-23 | 533 | 325 | 
 | 2023-03-21 | 532 | 323 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 508 | 319 | 
 | 2023-02-26 | 507 | 319 | 
 | 2023-02-25 | 505 | 319 | 
-| 2023-02-24 | 504 | 319 | 
 

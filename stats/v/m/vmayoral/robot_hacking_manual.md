@@ -1,6 +1,6 @@
 # vmayoral/robot_hacking_manual - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 239 | 36 | 
 | 2023-03-24 | 239 | 36 | 
 | 2023-03-23 | 239 | 36 | 
 | 2023-03-21 | 238 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 239 | 36 | 
 | 2023-02-27 | 238 | 36 | 
 | 2023-02-25 | 238 | 36 | 
-| 2023-02-24 | 237 | 36 | 
 

@@ -1,10 +1,10 @@
 # git-noter/gitnoter - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 115
 
-★ Stars: 2142
+★ Stars: 2143
 
 [Open repository](https://github.com/git-noter/gitnoter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2143 | 115 | 
 | 2023-03-25 | 2142 | 115 | 
 | 2023-03-24 | 2140 | 115 | 
 | 2023-03-22 | 2138 | 115 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2112 | 109 | 
 | 2023-02-26 | 2110 | 109 | 
 | 2023-02-25 | 2110 | 109 | 
-| 2023-02-24 | 2109 | 109 | 
 

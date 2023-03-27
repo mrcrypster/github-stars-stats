@@ -1,8 +1,8 @@
 # mudgen/diamond-3-hardhat - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 173
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 173 | 96 | 
 | 2023-03-24 | 173 | 95 | 
 | 2023-03-23 | 171 | 95 | 
 | 2023-03-22 | 170 | 95 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 166 | 91 | 
 | 2023-02-26 | 166 | 91 | 
 | 2023-02-25 | 166 | 91 | 
-| 2023-02-24 | 166 | 91 | 
 

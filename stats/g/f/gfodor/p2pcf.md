@@ -1,10 +1,10 @@
 # gfodor/p2pcf - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 29
 
-★ Stars: 596
+★ Stars: 597
 
 [Open repository](https://github.com/gfodor/p2pcf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 597 | 29 | 
 | 2023-03-25 | 596 | 29 | 
 | 2023-03-24 | 595 | 29 | 
 | 2023-03-22 | 595 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 585 | 28 | 
 | 2023-02-27 | 584 | 28 | 
 | 2023-02-26 | 584 | 28 | 
-| 2023-02-24 | 583 | 28 | 
 

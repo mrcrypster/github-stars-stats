@@ -1,6 +1,6 @@
 # simeydotme/svelte-range-slider-pips - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 295 | 29 | 
 | 2023-03-24 | 295 | 29 | 
 | 2023-03-22 | 295 | 29 | 
 | 2023-03-21 | 294 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 286 | 29 | 
 | 2023-02-26 | 285 | 29 | 
 | 2023-02-25 | 285 | 29 | 
-| 2023-02-24 | 285 | 29 | 
 

@@ -1,10 +1,10 @@
 # Jimmey-Jiang/Common.Utility - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1977
 
-★ Stars: 4474
+★ Stars: 4476
 
 [Open repository](https://github.com/Jimmey-Jiang/Common.Utility)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4476 | 1977 | 
 | 2023-03-25 | 4474 | 1977 | 
 | 2023-03-23 | 4472 | 1976 | 
 | 2023-03-21 | 4469 | 1975 | 

@@ -1,10 +1,10 @@
 # OpenXiangShan/XiangShan - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 413
+☋ Forks: 419
 
-★ Stars: 3273
+★ Stars: 3406
 
 [Open repository](https://github.com/OpenXiangShan/XiangShan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3406 | 419 | 
 | 2023-03-25 | 3273 | 413 | 
 | 2023-03-24 | 3272 | 413 | 
 | 2023-03-23 | 3267 | 412 | 

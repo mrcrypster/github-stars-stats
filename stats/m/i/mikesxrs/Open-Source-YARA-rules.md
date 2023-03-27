@@ -1,10 +1,10 @@
 # mikesxrs/Open-Source-YARA-rules - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 70
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/mikesxrs/Open-Source-YARA-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 245 | 70 | 
 | 2023-03-25 | 244 | 70 | 
 | 2023-03-24 | 244 | 70 | 
 | 2023-03-22 | 244 | 70 | 

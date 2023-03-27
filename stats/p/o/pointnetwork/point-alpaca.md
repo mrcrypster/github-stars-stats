@@ -1,10 +1,10 @@
 # pointnetwork/point-alpaca - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 295
+★ Stars: 303
 
 [Open repository](https://github.com/pointnetwork/point-alpaca)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 303 | 22 | 
 | 2023-03-25 | 295 | 21 | 
 | 2023-03-23 | 273 | 17 | 
 | 2023-03-22 | 257 | 17 | 

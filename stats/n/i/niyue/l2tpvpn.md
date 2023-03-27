@@ -1,6 +1,6 @@
 # niyue/l2tpvpn - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 9 | 2 | 
 | 2023-03-25 | 9 | 2 | 
 | 2023-03-24 | 9 | 2 | 
 | 2023-03-23 | 9 | 2 | 

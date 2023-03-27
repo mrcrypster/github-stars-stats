@@ -1,6 +1,6 @@
 # jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 24 | 
 | 2023-03-25 | - | 24 | 
 | 2023-03-23 | - | 24 | 
 | 2023-03-22 | - | 24 | 

@@ -1,6 +1,6 @@
 # ricardocamisa/clsTextBox - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 21 | 4 | 
 | 2023-03-24 | 21 | 4 | 
 | 2023-03-23 | 21 | 4 | 
 | 2023-03-21 | 21 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 20 | 4 | 
 | 2023-02-27 | 20 | 4 | 
 | 2023-02-26 | 20 | 4 | 
-| 2023-02-24 | 20 | 4 | 
 

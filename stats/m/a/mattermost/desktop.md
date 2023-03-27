@@ -1,10 +1,10 @@
 # mattermost/desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 726
+☋ Forks: 727
 
-★ Stars: 1782
+★ Stars: 1783
 
 [Open repository](https://github.com/mattermost/desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1783 | 727 | 
 | 2023-03-25 | 1782 | 726 | 
 | 2023-03-23 | 1781 | 726 | 
 | 2023-03-22 | 1778 | 726 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 1762 | 718 | 
 | 2023-02-26 | 1760 | 717 | 
 | 2023-02-25 | 1760 | 717 | 
-| 2023-02-24 | 1761 | 717 | 
 

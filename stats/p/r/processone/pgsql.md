@@ -1,6 +1,6 @@
 # processone/pgsql - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 8 | 5 | 
 | 2023-03-25 | 8 | 5 | 
 | 2023-03-24 | 8 | 5 | 
 | 2023-03-22 | 8 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 8 | 5 | 
 | 2023-02-26 | 8 | 5 | 
 | 2023-02-25 | 8 | 5 | 
-| 2023-02-24 | 8 | 5 | 
 

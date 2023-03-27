@@ -1,10 +1,10 @@
 # flxzt/rnote - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 3818
+★ Stars: 3824
 
 [Open repository](https://github.com/flxzt/rnote)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3824 | 138 | 
 | 2023-03-25 | 3818 | 137 | 
 | 2023-03-23 | 3803 | 137 | 
 | 2023-03-22 | 3798 | 137 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 3665 | 124 | 
 | 2023-02-26 | 3652 | 123 | 
 | 2023-02-25 | 3646 | 123 | 
-| 2023-02-24 | 3636 | 124 | 
 

@@ -1,6 +1,6 @@
 # Parrot-Developers/alchemy - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 17 | 16 | 
 | 2023-03-24 | 17 | 16 | 
 | 2023-03-23 | 17 | 16 | 
 | 2023-03-21 | 17 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 16 | 16 | 
 | 2023-02-27 | 16 | 16 | 
 | 2023-02-26 | 16 | 16 | 
-| 2023-02-25 | 16 | 16 | 
 

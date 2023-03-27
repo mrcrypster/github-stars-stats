@@ -1,10 +1,10 @@
 # TH3xACE/SUDO_KILLER - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 228
+☋ Forks: 230
 
-★ Stars: 1860
+★ Stars: 1861
 
 [Open repository](https://github.com/TH3xACE/SUDO_KILLER)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1861 | 230 | 
 | 2023-03-25 | 1860 | 228 | 
 | 2023-03-24 | 1859 | 228 | 
 | 2023-03-23 | 1858 | 228 | 

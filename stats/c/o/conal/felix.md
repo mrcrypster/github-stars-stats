@@ -1,6 +1,6 @@
 # conal/felix - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 27 | 1 | 
 | 2023-03-24 | 27 | 1 | 
 | 2023-03-23 | 26 | 1 | 
 | 2023-03-22 | 26 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 23 | 1 | 
 | 2023-02-26 | 23 | 1 | 
 | 2023-02-25 | 23 | 1 | 
-| 2023-02-24 | 23 | 1 | 
 

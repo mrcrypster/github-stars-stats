@@ -1,6 +1,6 @@
 # snoobi-seggs/nilou_seggs - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 55 | 19 | 
 | 2023-03-25 | 55 | 19 | 
 | 2023-03-23 | 55 | 19 | 
 | 2023-03-22 | 55 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 58 | 19 | 
 | 2023-02-27 | 58 | 19 | 
 | 2023-02-26 | 58 | 19 | 
-| 2023-02-25 | 58 | 19 | 
 

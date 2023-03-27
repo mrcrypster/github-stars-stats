@@ -1,6 +1,6 @@
 # CN-Belief/MIUI- - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 143 | 24 | 
 | 2023-03-24 | 143 | 24 | 
 | 2023-03-23 | 143 | 24 | 
 | 2023-03-22 | 143 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 132 | 24 | 
 | 2023-02-26 | 131 | 24 | 
 | 2023-02-25 | 131 | 24 | 
-| 2023-02-24 | 131 | 24 | 
 

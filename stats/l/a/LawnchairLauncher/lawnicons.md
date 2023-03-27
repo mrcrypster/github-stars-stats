@@ -1,10 +1,10 @@
 # LawnchairLauncher/lawnicons - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 303
+☋ Forks: 301
 
-★ Stars: 674
+★ Stars: 676
 
 [Open repository](https://github.com/LawnchairLauncher/lawnicons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 676 | 301 | 
 | 2023-03-24 | 674 | 303 | 
 | 2023-03-23 | 673 | 303 | 
 | 2023-03-22 | 673 | 301 | 

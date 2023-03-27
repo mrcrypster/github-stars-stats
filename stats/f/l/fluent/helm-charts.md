@@ -1,6 +1,6 @@
 # fluent/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 352
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 265 | 352 | 
 | 2023-03-25 | 265 | 352 | 
 | 2023-03-24 | 265 | 352 | 
 | 2023-03-23 | 265 | 352 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 255 | 338 | 
 | 2023-02-26 | 255 | 337 | 
 | 2023-02-25 | 255 | 337 | 
-| 2023-02-24 | 255 | 337 | 
 

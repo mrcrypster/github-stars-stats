@@ -1,10 +1,10 @@
 # arcadia-finance/lending-core - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/arcadia-finance/lending-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 76 | 3 | 
 | 2023-03-25 | 75 | 3 | 
 | 2023-03-24 | 75 | 2 | 
 | 2023-03-22 | 75 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 73 | 3 | 
 | 2023-02-26 | 71 | 3 | 
 | 2023-02-25 | 66 | 3 | 
-| 2023-02-24 | 66 | 3 | 
 

@@ -1,10 +1,10 @@
 # neetcode-gh/leetcode - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1425
+☋ Forks: 1429
 
-★ Stars: 2644
+★ Stars: 2646
 
 [Open repository](https://github.com/neetcode-gh/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2646 | 1429 | 
 | 2023-03-25 | 2644 | 1425 | 
 | 2023-03-24 | 2642 | 1425 | 
 | 2023-03-22 | 2637 | 1424 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 2579 | 1368 | 
 | 2023-02-26 | 2576 | 1364 | 
 | 2023-02-25 | 2570 | 1359 | 
-| 2023-02-24 | 2566 | 1360 | 
 

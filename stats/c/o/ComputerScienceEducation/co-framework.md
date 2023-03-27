@@ -1,6 +1,6 @@
 # ComputerScienceEducation/co-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 7 | 10 | 
 | 2023-03-24 | 7 | 10 | 
 | 2023-03-23 | 7 | 10 | 
 | 2023-03-22 | 7 | 10 | 

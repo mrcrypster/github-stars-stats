@@ -1,8 +1,8 @@
 # Ajay026/SQL-Project-for-Data-Analysis-part-1-7 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 90
+☋ Forks: 91
 
 ★ Stars: 232
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 232 | 91 | 
 | 2023-03-25 | 232 | 90 | 
 | 2023-03-23 | 229 | 90 | 
 | 2023-03-22 | 228 | 89 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 214 | 85 | 
 | 2023-02-26 | 214 | 85 | 
 | 2023-02-25 | 213 | 85 | 
-| 2023-02-24 | 213 | 86 | 
 

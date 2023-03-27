@@ -1,6 +1,6 @@
 # returntocorp/TIP-ocaml - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | - | 
 | 2023-03-25 | 3 | - | 
 | 2023-03-24 | 3 | - | 
 | 2023-03-22 | 3 | - | 

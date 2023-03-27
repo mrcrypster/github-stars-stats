@@ -1,0 +1,17 @@
+# nicuveo/Slides_GameOfLife - stars & forks statistics
+
+Stats updated on Mar 2023, 26
+
+☋ Forks: 1
+
+★ Stars: 0
+
+[Open repository](https://github.com/nicuveo/Slides_GameOfLife)
+
+[Open detailed stats for nicuveo/Slides_GameOfLife](https://reviewgithub.com/rep/nicuveo/Slides_GameOfLife)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-26 | - | 1 | 
+

@@ -1,6 +1,6 @@
 # learnenough/le_js_full - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 313
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 10 | 313 | 
 | 2023-03-24 | 10 | 313 | 
 | 2023-03-23 | 10 | 314 | 
 | 2023-03-21 | 10 | 314 | 

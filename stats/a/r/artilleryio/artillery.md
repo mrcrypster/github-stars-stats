@@ -1,10 +1,10 @@
 # artilleryio/artillery - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 436
 
-★ Stars: 6318
+★ Stars: 6323
 
 [Open repository](https://github.com/artilleryio/artillery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6323 | 436 | 
 | 2023-03-25 | 6318 | 436 | 
 | 2023-03-23 | 6309 | 436 | 
 | 2023-03-22 | 6308 | 435 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 6239 | 430 | 
 | 2023-02-26 | 6238 | 430 | 
 | 2023-02-25 | 6233 | 430 | 
-| 2023-02-24 | 6226 | 430 | 
 

@@ -1,6 +1,6 @@
 # kean/Nuke - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 467
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 7266 | 467 | 
 | 2023-03-25 | 7266 | 467 | 
 | 2023-03-24 | 7264 | 467 | 
 | 2023-03-22 | 7262 | 468 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 7195 | 463 | 
 | 2023-02-26 | 7191 | 463 | 
 | 2023-02-25 | 7187 | 463 | 
-| 2023-02-24 | 7177 | 463 | 
 

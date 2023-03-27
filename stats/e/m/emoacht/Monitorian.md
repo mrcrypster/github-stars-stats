@@ -1,10 +1,10 @@
 # emoacht/Monitorian - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 127
 
-★ Stars: 2167
+★ Stars: 2170
 
 [Open repository](https://github.com/emoacht/Monitorian)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2170 | 127 | 
 | 2023-03-24 | 2167 | 127 | 
 | 2023-03-23 | 2161 | 127 | 
 | 2023-03-21 | 2157 | 127 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 2107 | 123 | 
 | 2023-02-26 | 2106 | 123 | 
 | 2023-02-25 | 2105 | 122 | 
-| 2023-02-24 | 2104 | 122 | 
 

@@ -1,6 +1,6 @@
 # bakavets/k8s-lessons - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 54 | 58 | 
 | 2023-03-25 | 54 | 58 | 
 | 2023-03-24 | 54 | 58 | 
 | 2023-03-22 | 54 | 58 | 

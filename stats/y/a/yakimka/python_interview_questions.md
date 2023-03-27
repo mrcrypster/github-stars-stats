@@ -1,10 +1,10 @@
 # yakimka/python_interview_questions - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 143
+☋ Forks: 145
 
-★ Stars: 549
+★ Stars: 551
 
 [Open repository](https://github.com/yakimka/python_interview_questions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 551 | 145 | 
 | 2023-03-25 | 549 | 143 | 
 | 2023-03-24 | 546 | 142 | 
 | 2023-03-22 | 542 | 140 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 418 | 123 | 
 | 2023-02-26 | 415 | 122 | 
 | 2023-02-25 | 413 | 122 | 
-| 2023-02-24 | 411 | 122 | 
 

@@ -1,6 +1,6 @@
 # blueroler/RDP_main - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1 | 45 | 
 | 2023-03-25 | 1 | 45 | 
 | 2023-03-24 | 1 | 45 | 
 | 2023-03-22 | 1 | 45 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | - | 44 | 
 | 2023-02-26 | - | 44 | 
 | 2023-02-25 | - | 44 | 
-| 2023-02-24 | - | 45 | 
 

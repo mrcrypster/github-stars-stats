@@ -1,6 +1,6 @@
 # yetone/bob-plugin-rapidapi-deepl-translator - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 305 | 17 | 
 | 2023-03-24 | 305 | 17 | 
 | 2023-03-23 | 304 | 17 | 
 | 2023-03-22 | 303 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 241 | 15 | 
 | 2023-02-26 | 238 | 15 | 
 | 2023-02-25 | 232 | 15 | 
-| 2023-02-24 | 229 | 14 | 
 

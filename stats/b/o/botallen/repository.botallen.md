@@ -1,10 +1,10 @@
 # botallen/repository.botallen - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 131
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/botallen/repository.botallen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 278 | 131 | 
 | 2023-03-24 | 277 | 131 | 
 | 2023-03-23 | 277 | 131 | 
 | 2023-03-22 | 277 | 131 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 276 | 130 | 
 | 2023-02-26 | 276 | 130 | 
 | 2023-02-25 | 276 | 130 | 
-| 2023-02-24 | 276 | 130 | 
 

@@ -1,10 +1,10 @@
 # gruntwork-io/terratest - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1233
 
-★ Stars: 6757
+★ Stars: 6758
 
 [Open repository](https://github.com/gruntwork-io/terratest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6758 | 1233 | 
 | 2023-03-25 | 6757 | 1233 | 
 | 2023-03-24 | 6754 | 1233 | 
 | 2023-03-22 | 6753 | 1232 | 

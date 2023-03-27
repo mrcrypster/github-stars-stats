@@ -1,6 +1,6 @@
 # andrewcottam/IWC-ArcGIS-Server-SecurityWebServices - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5 | - | 
 | 2023-03-25 | 5 | - | 
 | 2023-03-24 | 5 | - | 
 | 2023-03-22 | 5 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 5 | - | 
 | 2023-02-27 | 5 | - | 
 | 2023-02-26 | 5 | - | 
-| 2023-02-25 | 5 | - | 
 

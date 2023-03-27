@@ -1,6 +1,6 @@
 # nathanlesage/academics-on-mastodon - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 746 | 73 | 
 | 2023-03-25 | 746 | 73 | 
 | 2023-03-24 | 745 | 73 | 
 | 2023-03-22 | 742 | 74 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 734 | 73 | 
 | 2023-02-26 | 734 | 73 | 
 | 2023-02-25 | 734 | 73 | 
-| 2023-02-24 | 734 | 73 | 
 

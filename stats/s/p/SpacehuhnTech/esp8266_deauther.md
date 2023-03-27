@@ -1,10 +1,10 @@
 # SpacehuhnTech/esp8266_deauther - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 2374
+☋ Forks: 2376
 
-★ Stars: 11460
+★ Stars: 11462
 
 [Open repository](https://github.com/SpacehuhnTech/esp8266_deauther)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 11462 | 2376 | 
 | 2023-03-25 | 11460 | 2374 | 
 | 2023-03-24 | 11452 | 2374 | 
 | 2023-03-22 | 11445 | 2374 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 11341 | 2358 | 
 | 2023-02-26 | 11337 | 2359 | 
 | 2023-02-25 | 11332 | 2359 | 
-| 2023-02-24 | 11327 | 2357 | 
 

@@ -1,10 +1,10 @@
 # qunash/chatgpt-advanced - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 385
+☋ Forks: 387
 
-★ Stars: 3394
+★ Stars: 3426
 
 [Open repository](https://github.com/qunash/chatgpt-advanced)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3426 | 387 | 
 | 2023-03-25 | 3394 | 385 | 
 | 2023-03-24 | 3365 | 383 | 
 | 2023-03-22 | 3326 | 376 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2310 | 287 | 
 | 2023-02-26 | 2262 | 280 | 
 | 2023-02-25 | 2238 | 277 | 
-| 2023-02-24 | 2213 | 267 | 
 

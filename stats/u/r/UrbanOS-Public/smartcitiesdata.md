@@ -1,6 +1,6 @@
 # UrbanOS-Public/smartcitiesdata - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 56 | 8 | 
 | 2023-03-24 | 56 | 8 | 
 | 2023-03-23 | 56 | 8 | 
 | 2023-03-22 | 56 | 8 | 

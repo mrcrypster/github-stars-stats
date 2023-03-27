@@ -1,10 +1,10 @@
 # dragonflyoss/image-service - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 113
 
-★ Stars: 742
+★ Stars: 744
 
 [Open repository](https://github.com/dragonflyoss/image-service)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 744 | 113 | 
 | 2023-03-25 | 742 | 113 | 
 | 2023-03-24 | 740 | 126 | 
 | 2023-03-23 | 735 | 116 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 702 | 106 | 
 | 2023-02-26 | 702 | 106 | 
 | 2023-02-25 | 702 | 106 | 
-| 2023-02-24 | 701 | 107 | 
 

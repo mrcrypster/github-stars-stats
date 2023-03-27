@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/beamable/genamon-polygon)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 18 | 5 | 
+| 2023-03-26 | 19 | 5 | 
 | 2023-03-25 | 18 | 5 | 
 | 2023-03-24 | 18 | 4 | 
 

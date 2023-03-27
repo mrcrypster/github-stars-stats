@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 26
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 421
+★ Stars: 424
 
 [Open repository](https://github.com/lukasHoel/text2room)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 421 | 20 | 
+| 2023-03-26 | 424 | 22 | 
 | 2023-03-25 | 419 | 20 | 
 | 2023-03-24 | 352 | 14 | 
 

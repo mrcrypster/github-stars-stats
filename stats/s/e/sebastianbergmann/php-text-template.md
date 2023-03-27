@@ -1,6 +1,6 @@
 # sebastianbergmann/php-text-template - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 7156 | 32 | 
 | 2023-03-25 | 7156 | 32 | 
 | 2023-03-24 | 7153 | 33 | 
 | 2023-03-22 | 7151 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 7138 | 32 | 
 | 2023-02-27 | 7138 | 32 | 
 | 2023-02-26 | 7138 | 32 | 
-| 2023-02-24 | 7137 | 32 | 
 

@@ -1,10 +1,10 @@
 # lipbon23/functional_options - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/lipbon23/functional_options)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4 | 3 | 
 | 2023-03-25 | 5 | 3 | 
 | 2023-03-24 | 5 | 3 | 
 | 2023-03-22 | 5 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 5 | 3 | 
 | 2023-02-26 | 5 | 3 | 
 | 2023-02-25 | 5 | 3 | 
-| 2023-02-24 | 5 | 3 | 
 

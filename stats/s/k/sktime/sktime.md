@@ -1,10 +1,10 @@
 # sktime/sktime - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1045
+☋ Forks: 1048
 
-★ Stars: 6286
+★ Stars: 6287
 
 [Open repository](https://github.com/sktime/sktime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6287 | 1048 | 
 | 2023-03-25 | 6286 | 1045 | 
 | 2023-03-23 | 6282 | 1044 | 
 | 2023-03-22 | 6274 | 1043 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 6191 | 1032 | 
 | 2023-02-26 | 6187 | 1031 | 
 | 2023-02-25 | 6185 | 1030 | 
-| 2023-02-24 | 6181 | 1031 | 
 

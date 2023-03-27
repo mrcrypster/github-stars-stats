@@ -1,10 +1,10 @@
 # tpope/vim-surround - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 443
 
-★ Stars: 11941
+★ Stars: 11945
 
 [Open repository](https://github.com/tpope/vim-surround)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 11945 | 443 | 
 | 2023-03-25 | 11941 | 443 | 
 | 2023-03-24 | 11939 | 443 | 
 | 2023-03-22 | 11925 | 443 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 11867 | 442 | 
 | 2023-02-26 | 11859 | 442 | 
 | 2023-02-25 | 11859 | 442 | 
-| 2023-02-24 | 11855 | 442 | 
 

@@ -1,8 +1,8 @@
 # Skoolgq/skoolv2 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 20 | 105 | 
 | 2023-03-25 | 20 | 104 | 
 | 2023-03-23 | 17 | 95 | 
 | 2023-03-22 | 17 | 78 | 

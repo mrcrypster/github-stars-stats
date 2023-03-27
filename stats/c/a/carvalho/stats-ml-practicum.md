@@ -1,6 +1,6 @@
 # carvalho/stats-ml-practicum - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 56 | 
 | 2023-03-24 | - | 56 | 
 | 2023-03-23 | - | 56 | 
 | 2023-03-22 | - | 56 | 

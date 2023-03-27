@@ -1,10 +1,10 @@
 # SAP-samples/s4hana-cloud-extension-process-automation - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/SAP-samples/s4hana-cloud-extension-process-automation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2 | 1 | 
 | 2023-03-24 | 1 | 1 | 
 | 2023-03-23 | 1 | 1 | 
 | 2023-03-22 | 1 | 1 | 

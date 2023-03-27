@@ -1,10 +1,10 @@
 # GoldHEN/GoldHEN_Plugins_Repository - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 69 | 5 | 
 | 2023-03-24 | 68 | 5 | 
 | 2023-03-23 | 67 | 5 | 
 | 2023-03-22 | 66 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 58 | 5 | 
 | 2023-02-26 | 58 | 5 | 
 | 2023-02-25 | 58 | 5 | 
-| 2023-02-24 | 58 | 5 | 
 

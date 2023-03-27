@@ -1,10 +1,10 @@
 # MicrosoftDocs/PowerShell-Docs-Modules - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 27
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/MicrosoftDocs/PowerShell-Docs-Modules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 21 | 27 | 
 | 2023-03-25 | 20 | 27 | 
 | 2023-03-24 | 20 | 27 | 
 | 2023-03-22 | 20 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 19 | 26 | 
 | 2023-02-26 | 19 | 25 | 
 | 2023-02-25 | 19 | 25 | 
-| 2023-02-24 | 19 | 24 | 
 

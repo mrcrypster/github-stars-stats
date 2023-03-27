@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 26
 
 ☋ Forks: 281
 
-★ Stars: 1861
+★ Stars: 1862
 
 [Open repository](https://github.com/scalameta/metals)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 1861 | 281 | 
+| 2023-03-26 | 1862 | 281 | 
 | 2023-03-25 | 1860 | 281 | 
 | 2023-03-24 | 1859 | 281 | 
 | 2023-03-23 | 1858 | 280 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-27 | 1846 | 276 | 
 | 2023-02-26 | 1845 | 275 | 
 | 2023-02-25 | 1845 | 275 | 
-| 2023-02-24 | 1844 | 275 | 
 

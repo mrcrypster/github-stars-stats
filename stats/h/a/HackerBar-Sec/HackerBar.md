@@ -1,10 +1,10 @@
 # HackerBar-Sec/HackerBar - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 76
+☋ Forks: 78
 
-★ Stars: 126
+★ Stars: 138
 
 [Open repository](https://github.com/HackerBar-Sec/HackerBar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 138 | 78 | 
 | 2023-03-25 | 126 | 76 | 
 | 2023-03-24 | 124 | 76 | 
 | 2023-03-23 | 112 | 73 | 

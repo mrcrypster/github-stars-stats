@@ -1,6 +1,6 @@
 # teambit/bit - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 908
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 16489 | 908 | 
 | 2023-03-24 | 16489 | 908 | 
 | 2023-03-23 | 16484 | 907 | 
 | 2023-03-22 | 16481 | 907 | 

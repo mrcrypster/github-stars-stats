@@ -1,6 +1,6 @@
 # zhenxun-org/nonebot_plugins_zhenxun_bot - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 331 | 201 | 
 | 2023-03-24 | 331 | 201 | 
 | 2023-03-23 | 329 | 199 | 
 | 2023-03-21 | 327 | 199 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 311 | 195 | 
 | 2023-02-26 | 310 | 195 | 
 | 2023-02-25 | 309 | 195 | 
-| 2023-02-24 | 307 | 194 | 
 

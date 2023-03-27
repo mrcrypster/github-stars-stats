@@ -1,10 +1,10 @@
 # DataDog/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 958
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/DataDog/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 259 | 958 | 
 | 2023-03-25 | 258 | 958 | 
 | 2023-03-24 | 258 | 957 | 
 | 2023-03-23 | 258 | 956 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 249 | 927 | 
 | 2023-02-26 | 249 | 925 | 
 | 2023-02-25 | 249 | 925 | 
-| 2023-02-24 | 249 | 925 | 
 

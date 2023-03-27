@@ -1,6 +1,6 @@
 # nix-community/nixos-images - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 40 | 8 | 
 | 2023-03-25 | 40 | 8 | 
 | 2023-03-24 | 40 | 8 | 
 | 2023-03-22 | 40 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 37 | 8 | 
 | 2023-02-26 | 37 | 8 | 
 | 2023-02-25 | 37 | 8 | 
-| 2023-02-24 | 37 | 8 | 
 

@@ -1,10 +1,10 @@
 # GhostPack/DeepPass - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 22
 
-★ Stars: 126
+★ Stars: 130
 
 [Open repository](https://github.com/GhostPack/DeepPass)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 130 | 22 | 
 | 2023-03-24 | 126 | 22 | 
 | 2023-03-23 | 126 | 22 | 
 | 2023-03-22 | 126 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 125 | 22 | 
 | 2023-02-26 | 125 | 22 | 
 | 2023-02-25 | 125 | 22 | 
-| 2023-02-24 | 125 | 22 | 
 

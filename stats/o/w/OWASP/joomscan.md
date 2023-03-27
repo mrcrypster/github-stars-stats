@@ -1,6 +1,6 @@
 # OWASP/joomscan - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 901 | 246 | 
 | 2023-03-25 | 901 | 246 | 
 | 2023-03-24 | 901 | 246 | 
 | 2023-03-23 | 901 | 245 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 891 | 245 | 
 | 2023-02-26 | 891 | 245 | 
 | 2023-02-25 | 891 | 245 | 
-| 2023-02-24 | 891 | 245 | 
 

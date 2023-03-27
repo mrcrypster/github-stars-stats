@@ -1,10 +1,10 @@
 # nodenv/nodenv - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 129
 
-★ Stars: 1942
+★ Stars: 1944
 
 [Open repository](https://github.com/nodenv/nodenv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1944 | 129 | 
 | 2023-03-25 | 1942 | 129 | 
 | 2023-03-23 | 1942 | 129 | 
 | 2023-03-21 | 1942 | 129 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 1925 | 127 | 
 | 2023-02-26 | 1925 | 127 | 
 | 2023-02-25 | 1925 | 127 | 
-| 2023-02-24 | 1925 | 127 | 
 

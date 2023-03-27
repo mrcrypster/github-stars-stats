@@ -1,6 +1,6 @@
 # styled-components/vim-styled-components - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 295 | 26 | 
 | 2023-03-25 | 295 | 26 | 
 | 2023-03-24 | 294 | 26 | 
 | 2023-03-22 | 293 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 293 | 25 | 
 | 2023-02-27 | 293 | 25 | 
 | 2023-02-26 | 292 | 25 | 
-| 2023-02-24 | 292 | 25 | 
 

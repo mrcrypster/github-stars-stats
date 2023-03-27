@@ -1,6 +1,6 @@
 # grafov/hulk - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 452
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 700 | 452 | 
 | 2023-03-24 | 700 | 452 | 
 | 2023-03-23 | 700 | 452 | 
 | 2023-03-21 | 700 | 452 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 694 | 452 | 
 | 2023-02-26 | 693 | 453 | 
 | 2023-02-25 | 692 | 453 | 
-| 2023-02-24 | 692 | 453 | 
 

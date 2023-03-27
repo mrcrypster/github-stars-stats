@@ -1,10 +1,10 @@
 # buefy/buefy - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1127
 
-★ Stars: 9399
+★ Stars: 9400
 
 [Open repository](https://github.com/buefy/buefy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 9400 | 1127 | 
 | 2023-03-25 | 9399 | 1127 | 
 | 2023-03-24 | 9399 | 1127 | 
 | 2023-03-23 | 9398 | 1127 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 9384 | 1122 | 
 | 2023-02-26 | 9383 | 1121 | 
 | 2023-02-25 | 9382 | 1121 | 
-| 2023-02-24 | 9382 | 1121 | 
 

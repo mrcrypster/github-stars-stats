@@ -1,6 +1,6 @@
 # sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 393
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1278 | 393 | 
 | 2023-03-24 | 1278 | 393 | 
 | 2023-03-23 | 1278 | 392 | 
 | 2023-03-21 | 1278 | 393 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1270 | 388 | 
 | 2023-02-26 | 1269 | 387 | 
 | 2023-02-25 | 1269 | 387 | 
-| 2023-02-24 | 1269 | 387 | 
 

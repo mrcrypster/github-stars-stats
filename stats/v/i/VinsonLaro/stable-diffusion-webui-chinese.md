@@ -1,10 +1,10 @@
 # VinsonLaro/stable-diffusion-webui-chinese - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 89
+☋ Forks: 93
 
-★ Stars: 710
+★ Stars: 735
 
 [Open repository](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 735 | 93 | 
 | 2023-03-25 | 710 | 89 | 
 | 2023-03-23 | 699 | 87 | 
 | 2023-03-22 | 664 | 83 | 

@@ -1,10 +1,10 @@
 # forthespada/CS-Books - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 2751
+☋ Forks: 2753
 
-★ Stars: 12038
+★ Stars: 12065
 
 [Open repository](https://github.com/forthespada/CS-Books)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 12065 | 2753 | 
 | 2023-03-25 | 12038 | 2751 | 
 | 2023-03-23 | 12020 | 2750 | 
 | 2023-03-22 | 11993 | 2747 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 11531 | 2688 | 
 | 2023-02-27 | 11492 | 2680 | 
 | 2023-02-26 | 11472 | 2678 | 
-| 2023-02-24 | 11454 | 2674 | 
 

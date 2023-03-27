@@ -1,10 +1,10 @@
 # citizenfx/fivem - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1694
+☋ Forks: 1693
 
-★ Stars: 2806
+★ Stars: 2807
 
 [Open repository](https://github.com/citizenfx/fivem)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2807 | 1693 | 
 | 2023-03-24 | 2806 | 1694 | 
 | 2023-03-23 | 2805 | 1694 | 
 | 2023-03-22 | 2807 | 1693 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 2787 | 1677 | 
 | 2023-02-26 | 2785 | 1676 | 
 | 2023-02-25 | 2783 | 1675 | 
-| 2023-02-24 | 2782 | 1671 | 
 

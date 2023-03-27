@@ -1,6 +1,6 @@
 # simbricks/simbricks - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 40 | 11 | 
 | 2023-03-25 | 40 | 11 | 
 | 2023-03-23 | 40 | 11 | 
 | 2023-03-22 | 40 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 39 | 11 | 
 | 2023-02-26 | 38 | 11 | 
 | 2023-02-25 | 38 | 10 | 
-| 2023-02-24 | 38 | 10 | 
 

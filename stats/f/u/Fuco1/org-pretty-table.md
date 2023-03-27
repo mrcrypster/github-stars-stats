@@ -1,6 +1,6 @@
 # Fuco1/org-pretty-table - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 85 | 6 | 
 | 2023-03-25 | 85 | 6 | 
 | 2023-03-24 | 85 | 6 | 
 | 2023-03-22 | 84 | 6 | 

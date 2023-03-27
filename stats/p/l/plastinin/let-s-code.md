@@ -1,6 +1,6 @@
 # plastinin/let-s-code - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 65 | 26 | 
 | 2023-03-24 | 65 | 26 | 
 | 2023-03-23 | 65 | 26 | 
 | 2023-03-22 | 64 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 64 | 25 | 
 | 2023-02-26 | 64 | 25 | 
 | 2023-02-25 | 64 | 25 | 
-| 2023-02-24 | 64 | 25 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 26
 
-☋ Forks: 337
+☋ Forks: 339
 
-★ Stars: 9415
+★ Stars: 9427
 
 [Open repository](https://github.com/immich-app/immich)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 9415 | 337 | 
+| 2023-03-26 | 9427 | 339 | 
 | 2023-03-24 | 9399 | 333 | 
 | 2023-03-23 | 9388 | 333 | 
 | 2023-03-22 | 9387 | 332 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-27 | 8709 | 305 | 
 | 2023-02-26 | 8397 | 298 | 
 | 2023-02-25 | 8097 | 288 | 
-| 2023-02-24 | 7957 | 282 | 
 

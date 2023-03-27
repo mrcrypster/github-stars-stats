@@ -1,10 +1,10 @@
 # franzinc/aserve - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 27
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/franzinc/aserve)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 178 | 27 | 
 | 2023-03-25 | 177 | 27 | 
 | 2023-03-23 | 177 | 27 | 
 | 2023-03-22 | 177 | 27 | 

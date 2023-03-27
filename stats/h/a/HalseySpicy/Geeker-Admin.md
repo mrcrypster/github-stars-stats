@@ -1,10 +1,10 @@
 # HalseySpicy/Geeker-Admin - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 684
 
-★ Stars: 3521
+★ Stars: 3526
 
 [Open repository](https://github.com/HalseySpicy/Geeker-Admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3526 | 684 | 
 | 2023-03-24 | 3521 | 684 | 
 | 2023-03-23 | 3508 | 680 | 
 | 2023-03-22 | 3506 | 679 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 3270 | 584 | 
 | 2023-02-26 | 3256 | 582 | 
 | 2023-02-25 | 3251 | 579 | 
-| 2023-02-24 | 3236 | 577 | 
 

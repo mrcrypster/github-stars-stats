@@ -1,10 +1,10 @@
 # ssleert/zfxtop - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/ssleert/zfxtop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 277 | 11 | 
 | 2023-03-25 | 276 | 10 | 
 | 2023-03-24 | 276 | 9 | 
 | 2023-03-22 | 276 | 9 | 

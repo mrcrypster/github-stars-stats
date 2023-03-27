@@ -1,6 +1,6 @@
 # ssnhd/googlevoice - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1535 | 150 | 
 | 2023-03-24 | 1535 | 150 | 
 | 2023-03-23 | 1535 | 150 | 
 | 2023-03-22 | 1534 | 150 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1522 | 150 | 
 | 2023-02-26 | 1522 | 150 | 
 | 2023-02-25 | 1521 | 150 | 
-| 2023-02-24 | 1522 | 150 | 
 

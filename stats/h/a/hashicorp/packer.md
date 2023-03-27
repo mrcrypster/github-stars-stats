@@ -1,6 +1,6 @@
 # hashicorp/packer - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3306
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 14320 | 3306 | 
 | 2023-03-25 | 14320 | 3306 | 
 | 2023-03-23 | 14314 | 3304 | 
 | 2023-03-22 | 14316 | 3304 | 

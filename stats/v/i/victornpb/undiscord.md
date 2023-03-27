@@ -1,10 +1,10 @@
 # victornpb/undiscord - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 692
+☋ Forks: 693
 
-★ Stars: 3879
+★ Stars: 3882
 
 [Open repository](https://github.com/victornpb/undiscord)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3882 | 693 | 
 | 2023-03-25 | 3879 | 692 | 
 | 2023-03-23 | 3872 | 693 | 
 | 2023-03-22 | 3867 | 691 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 3781 | 688 | 
 | 2023-02-27 | 3779 | 688 | 
 | 2023-02-26 | 3777 | 688 | 
-| 2023-02-25 | 3776 | 688 | 
 

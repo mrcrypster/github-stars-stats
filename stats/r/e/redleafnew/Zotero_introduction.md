@@ -1,10 +1,10 @@
 # redleafnew/Zotero_introduction - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 20
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/redleafnew/Zotero_introduction)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 217 | 20 | 
 | 2023-03-24 | 216 | 20 | 
 | 2023-03-23 | 216 | 20 | 
 | 2023-03-21 | 215 | 19 | 

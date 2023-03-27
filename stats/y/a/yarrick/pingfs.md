@@ -1,6 +1,6 @@
 # yarrick/pingfs - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2776 | 129 | 
 | 2023-03-25 | 2776 | 129 | 
 | 2023-03-24 | 2775 | 129 | 
 | 2023-03-22 | 2774 | 129 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2754 | 128 | 
 | 2023-02-26 | 2752 | 128 | 
 | 2023-02-25 | 2750 | 128 | 
-| 2023-02-24 | 2748 | 128 | 
 

@@ -1,10 +1,10 @@
 # fastjs-team/fastjs-next - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 34
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/fastjs-team/fastjs-next)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 288 | 34 | 
 | 2023-03-25 | 287 | 34 | 
 | 2023-03-24 | 287 | 34 | 
 | 2023-03-22 | 287 | 34 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 290 | 34 | 
 | 2023-02-26 | 290 | 34 | 
 | 2023-02-25 | 290 | 34 | 
-| 2023-02-24 | 290 | 34 | 
 

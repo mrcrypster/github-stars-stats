@@ -1,10 +1,10 @@
 # CnTransGroup/EffectiveModernCppChinese - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 892
+☋ Forks: 894
 
-★ Stars: 5652
+★ Stars: 5660
 
 [Open repository](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5660 | 894 | 
 | 2023-03-25 | 5652 | 892 | 
 | 2023-03-23 | 5645 | 891 | 
 | 2023-03-22 | 5637 | 891 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 5536 | 882 | 
 | 2023-02-26 | 5528 | 882 | 
 | 2023-02-25 | 5522 | 882 | 
-| 2023-02-24 | 5517 | 880 | 
 

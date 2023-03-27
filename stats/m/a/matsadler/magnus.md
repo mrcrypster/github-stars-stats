@@ -1,6 +1,6 @@
 # matsadler/magnus - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 405 | 19 | 
 | 2023-03-25 | 405 | 19 | 
 | 2023-03-24 | 404 | 19 | 
 | 2023-03-22 | 399 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 394 | 19 | 
 | 2023-02-27 | 393 | 19 | 
 | 2023-02-25 | 392 | 20 | 
-| 2023-02-24 | 391 | 20 | 
 

@@ -1,10 +1,10 @@
 # louislivi/fireworks - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 144
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/louislivi/fireworks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 177 | 144 | 
 | 2023-03-25 | 176 | 144 | 
 | 2023-03-23 | 175 | 144 | 
 | 2023-03-22 | 175 | 144 | 

@@ -1,6 +1,6 @@
 # spotify/tfreader - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 56 | 17 | 
 | 2023-03-24 | 56 | 17 | 
 | 2023-03-23 | 56 | 17 | 
 | 2023-03-21 | 56 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 56 | 16 | 
 | 2023-02-26 | 56 | 16 | 
 | 2023-02-25 | 56 | 16 | 
-| 2023-02-24 | 56 | 16 | 
 

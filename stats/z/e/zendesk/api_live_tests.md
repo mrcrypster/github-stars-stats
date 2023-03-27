@@ -1,6 +1,6 @@
 # zendesk/api_live_tests - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2 | 3 | 
 | 2023-03-25 | 2 | 3 | 
 | 2023-03-23 | 2 | 3 | 
 | 2023-03-22 | 2 | 3 | 

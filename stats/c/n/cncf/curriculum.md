@@ -1,10 +1,10 @@
 # cncf/curriculum - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1406
+☋ Forks: 1407
 
-★ Stars: 4397
+★ Stars: 4400
 
 [Open repository](https://github.com/cncf/curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4400 | 1407 | 
 | 2023-03-25 | 4397 | 1406 | 
 | 2023-03-24 | 4395 | 1405 | 
 | 2023-03-22 | 4394 | 1401 | 

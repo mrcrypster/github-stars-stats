@@ -1,10 +1,10 @@
 # JuliaTrustworthyAI/CounterfactualExplanations.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 67 | 1 | 
 | 2023-03-25 | 66 | 1 | 
 | 2023-03-23 | 66 | 1 | 
 | 2023-03-22 | 66 | 1 | 

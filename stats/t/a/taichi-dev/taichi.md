@@ -1,10 +1,10 @@
 # taichi-dev/taichi - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 2175
+☋ Forks: 2174
 
-★ Stars: 22738
+★ Stars: 22744
 
 [Open repository](https://github.com/taichi-dev/taichi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 22744 | 2174 | 
 | 2023-03-25 | 22738 | 2175 | 
 | 2023-03-24 | 22725 | 2173 | 
 | 2023-03-23 | 22720 | 2173 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 22342 | 2157 | 
 | 2023-02-26 | 22336 | 2157 | 
 | 2023-02-25 | 22334 | 2158 | 
-| 2023-02-24 | 22332 | 2157 | 
 

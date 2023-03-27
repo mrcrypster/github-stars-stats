@@ -1,8 +1,8 @@
 # xinzhengzhang/bis - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 3
+☋ Forks: 2
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6 | 2 | 
 | 2023-03-24 | 6 | 3 | 
 | 2023-03-23 | 6 | 3 | 
 | 2023-03-21 | 6 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 5 | 2 | 
 | 2023-02-26 | 5 | 2 | 
 | 2023-02-25 | 5 | 2 | 
-| 2023-02-24 | 5 | 2 | 
 

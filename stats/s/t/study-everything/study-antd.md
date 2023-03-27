@@ -1,6 +1,6 @@
 # study-everything/study-antd - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 162 | 71 | 
 | 2023-03-24 | 162 | 71 | 
 | 2023-03-23 | 162 | 71 | 
 | 2023-03-21 | 162 | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 163 | 71 | 
 | 2023-02-26 | 163 | 71 | 
 | 2023-02-25 | 163 | 71 | 
-| 2023-02-24 | 163 | 71 | 
 

@@ -1,10 +1,10 @@
 # farm-fe/farm - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 28
 
-★ Stars: 623
+★ Stars: 630
 
 [Open repository](https://github.com/farm-fe/farm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 630 | 28 | 
 | 2023-03-25 | 623 | 28 | 
 | 2023-03-23 | 615 | 28 | 
 | 2023-03-22 | 580 | 27 | 

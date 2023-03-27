@@ -1,8 +1,8 @@
 # jenkinsci/docker - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 4207
+☋ Forks: 4211
 
 ★ Stars: 5811
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5811 | 4211 | 
 | 2023-03-25 | 5811 | 4207 | 
 | 2023-03-24 | 5807 | 4203 | 
 | 2023-03-23 | 5801 | 4197 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 5757 | 4093 | 
 | 2023-02-26 | 5756 | 4090 | 
 | 2023-02-25 | 5755 | 4085 | 
-| 2023-02-24 | 5753 | 4084 | 
 

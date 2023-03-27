@@ -1,6 +1,6 @@
 # ansible-ThoTeam/nexus3-oss - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 240 | 183 | 
 | 2023-03-24 | 240 | 183 | 
 | 2023-03-23 | 240 | 183 | 
 | 2023-03-22 | 240 | 183 | 

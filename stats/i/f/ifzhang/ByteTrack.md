@@ -1,10 +1,10 @@
 # ifzhang/ByteTrack - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 605
 
-★ Stars: 3103
+★ Stars: 3105
 
 [Open repository](https://github.com/ifzhang/ByteTrack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3105 | 605 | 
 | 2023-03-24 | 3103 | 605 | 
 | 2023-03-23 | 3100 | 605 | 
 | 2023-03-22 | 3096 | 604 | 

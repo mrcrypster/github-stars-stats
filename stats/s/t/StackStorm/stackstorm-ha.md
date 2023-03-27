@@ -1,6 +1,6 @@
 # StackStorm/stackstorm-ha - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 93 | 90 | 
 | 2023-03-25 | 93 | 90 | 
 | 2023-03-23 | 93 | 90 | 
 | 2023-03-22 | 93 | 90 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 91 | 90 | 
 | 2023-02-27 | 91 | 90 | 
 | 2023-02-26 | 91 | 90 | 
-| 2023-02-24 | 91 | 90 | 
 

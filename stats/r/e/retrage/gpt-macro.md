@@ -1,10 +1,10 @@
 # retrage/gpt-macro - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 8
 
-★ Stars: 408
+★ Stars: 412
 
 [Open repository](https://github.com/retrage/gpt-macro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 412 | 8 | 
 | 2023-03-25 | 408 | 8 | 
 | 2023-03-24 | 407 | 8 | 
 | 2023-03-22 | 404 | 8 | 

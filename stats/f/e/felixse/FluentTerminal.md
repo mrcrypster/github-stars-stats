@@ -1,10 +1,10 @@
 # felixse/FluentTerminal - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 442
+☋ Forks: 443
 
-★ Stars: 8758
+★ Stars: 8761
 
 [Open repository](https://github.com/felixse/FluentTerminal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 8761 | 443 | 
 | 2023-03-25 | 8758 | 442 | 
 | 2023-03-23 | 8751 | 442 | 
 | 2023-03-22 | 8745 | 442 | 

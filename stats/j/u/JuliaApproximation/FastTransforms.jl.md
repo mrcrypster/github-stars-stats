@@ -1,6 +1,6 @@
 # JuliaApproximation/FastTransforms.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 222 | 26 | 
 | 2023-03-25 | 222 | 26 | 
 | 2023-03-24 | 222 | 26 | 
 | 2023-03-22 | 222 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 221 | 27 | 
 | 2023-02-27 | 221 | 27 | 
 | 2023-02-26 | 222 | 27 | 
-| 2023-02-25 | 222 | 27 | 
 

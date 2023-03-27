@@ -1,10 +1,10 @@
 # akka/akka-http - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 597
+☋ Forks: 598
 
-★ Stars: 1313
+★ Stars: 1315
 
 [Open repository](https://github.com/akka/akka-http)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1315 | 598 | 
 | 2023-03-25 | 1313 | 597 | 
 | 2023-03-24 | 1313 | 597 | 
 | 2023-03-23 | 1313 | 597 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 1315 | 596 | 
 | 2023-02-26 | 1315 | 596 | 
 | 2023-02-25 | 1315 | 596 | 
-| 2023-02-24 | 1315 | 597 | 
 

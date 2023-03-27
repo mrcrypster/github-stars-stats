@@ -1,6 +1,6 @@
 # brendan-duncan/image - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 220
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 956 | 220 | 
 | 2023-03-24 | 956 | 220 | 
 | 2023-03-23 | 955 | 219 | 
 | 2023-03-21 | 955 | 219 | 

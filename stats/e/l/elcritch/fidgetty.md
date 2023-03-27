@@ -1,10 +1,10 @@
 # elcritch/fidgetty - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/elcritch/fidgetty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 52 | 4 | 
 | 2023-03-25 | 51 | 4 | 
 | 2023-03-24 | 51 | 4 | 
 | 2023-03-23 | 51 | 4 | 

@@ -1,6 +1,6 @@
 # PatrickAlphaC/hardhat-defi-fcc - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 26 | 43 | 
 | 2023-03-25 | 26 | 43 | 
 | 2023-03-24 | 26 | 43 | 
 | 2023-03-22 | 26 | 43 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 26 | 42 | 
 | 2023-02-26 | 26 | 42 | 
 | 2023-02-25 | 26 | 42 | 
-| 2023-02-24 | 26 | 42 | 
 

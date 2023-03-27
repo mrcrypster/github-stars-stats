@@ -1,6 +1,6 @@
 # proxmox/ksm-control-daemon - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6 | 5 | 
 | 2023-03-24 | 6 | 5 | 
 | 2023-03-23 | 6 | 5 | 
 | 2023-03-22 | 6 | 5 | 

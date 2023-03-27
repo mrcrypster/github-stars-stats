@@ -1,10 +1,10 @@
 # hugo2046/Quantitative-analysis - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 309
 
-★ Stars: 941
+★ Stars: 943
 
 [Open repository](https://github.com/hugo2046/Quantitative-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 943 | 309 | 
 | 2023-03-24 | 941 | 309 | 
 | 2023-03-23 | 936 | 308 | 
 | 2023-03-22 | 930 | 308 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 871 | 290 | 
 | 2023-02-26 | 869 | 290 | 
 | 2023-02-25 | 867 | 290 | 
-| 2023-02-24 | 866 | 288 | 
 

@@ -1,6 +1,6 @@
 # Igigog/anomaly-modding-book - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 11 | 13 | 
 | 2023-03-25 | 11 | 13 | 
 | 2023-03-23 | 11 | 13 | 
 | 2023-03-22 | 11 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 11 | 12 | 
 | 2023-02-26 | 11 | 12 | 
 | 2023-02-25 | 11 | 12 | 
-| 2023-02-24 | 11 | 11 | 
 

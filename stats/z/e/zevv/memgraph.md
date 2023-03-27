@@ -1,10 +1,10 @@
 # zevv/memgraph - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/zevv/memgraph)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 17 | - | 
 | 2023-03-25 | 16 | - | 
 | 2023-03-24 | 16 | - | 
 | 2023-03-23 | 16 | - | 

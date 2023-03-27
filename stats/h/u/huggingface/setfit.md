@@ -1,8 +1,8 @@
 # huggingface/setfit - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 131
+☋ Forks: 132
 
 ★ Stars: 1228
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1228 | 132 | 
 | 2023-03-25 | 1228 | 131 | 
 | 2023-03-23 | 1221 | 131 | 
 | 2023-03-22 | 1217 | 130 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1129 | 117 | 
 | 2023-02-26 | 1122 | 117 | 
 | 2023-02-25 | 1116 | 117 | 
-| 2023-02-24 | 1108 | 114 | 
 

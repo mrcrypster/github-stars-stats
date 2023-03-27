@@ -1,10 +1,10 @@
 # LooveToLoose/BROINK - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/LooveToLoose/BROINK)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 22 | 2 | 
 | 2023-03-24 | 21 | 2 | 
 | 2023-03-23 | 20 | 2 | 
 | 2023-03-22 | 19 | 2 | 

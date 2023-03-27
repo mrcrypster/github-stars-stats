@@ -1,10 +1,10 @@
 # symkat/MarkdownSite - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 17
 
-★ Stars: 409
+★ Stars: 408
 
 [Open repository](https://github.com/symkat/MarkdownSite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 408 | 17 | 
 | 2023-03-25 | 409 | 17 | 
 | 2023-03-24 | 409 | 17 | 
 | 2023-03-22 | 409 | 17 | 

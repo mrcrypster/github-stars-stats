@@ -1,10 +1,10 @@
 # ThinhVu/mevn - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 58
+★ Stars: 64
 
 [Open repository](https://github.com/ThinhVu/mevn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 64 | 45 | 
 | 2023-03-25 | 58 | 44 | 
 | 2023-03-23 | 58 | 44 | 
 | 2023-03-22 | 54 | 41 | 

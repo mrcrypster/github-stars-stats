@@ -1,6 +1,6 @@
 # mattrobmattrob/bazel-ios-swiftui-template - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 12 | - | 
 | 2023-03-24 | 12 | - | 
 | 2023-03-23 | 12 | - | 
 | 2023-03-21 | 12 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 10 | - | 
 | 2023-02-26 | 10 | - | 
 | 2023-02-25 | 10 | - | 
-| 2023-02-24 | 10 | - | 
 

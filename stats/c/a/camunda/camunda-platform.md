@@ -1,6 +1,6 @@
 # camunda/camunda-platform - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 133 | 109 | 
 | 2023-03-25 | 133 | 109 | 
 | 2023-03-23 | 133 | 108 | 
 | 2023-03-22 | 131 | 107 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 126 | 101 | 
 | 2023-02-26 | 126 | 101 | 
 | 2023-02-25 | 125 | 101 | 
-| 2023-02-24 | 124 | 101 | 
 

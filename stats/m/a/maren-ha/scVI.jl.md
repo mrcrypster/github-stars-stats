@@ -1,6 +1,6 @@
 # maren-ha/scVI.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 16 | 5 | 
 | 2023-03-24 | 16 | 5 | 
 | 2023-03-23 | 16 | 5 | 
 | 2023-03-21 | 16 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 16 | 5 | 
 | 2023-02-27 | 16 | 5 | 
 | 2023-02-25 | 16 | 5 | 
-| 2023-02-24 | 16 | 5 | 
 

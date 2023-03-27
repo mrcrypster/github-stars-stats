@@ -1,6 +1,6 @@
 # dart-homework-2022B/control_flow_statements - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2 | 34 | 
 | 2023-03-25 | 2 | 34 | 
 | 2023-03-23 | 2 | 34 | 
 | 2023-03-21 | 2 | 34 | 

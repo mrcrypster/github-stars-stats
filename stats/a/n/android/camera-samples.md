@@ -1,10 +1,10 @@
 # android/camera-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 2138
+☋ Forks: 2140
 
-★ Stars: 4215
+★ Stars: 4217
 
 [Open repository](https://github.com/android/camera-samples)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4217 | 2140 | 
+| 2023-03-26 | 4217 | 2140 | 
 | 2023-03-25 | 4215 | 2138 | 
 | 2023-03-24 | 4213 | 2137 | 
 | 2023-03-23 | 4211 | 2135 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 4153 | 2118 | 
 | 2023-02-26 | 4152 | 2118 | 
 | 2023-02-25 | 4152 | 2119 | 
-| 2023-02-24 | 4148 | 2116 | 
 

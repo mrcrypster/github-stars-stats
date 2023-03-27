@@ -1,6 +1,6 @@
 # code-423n4/2022-05-opensea-seaport - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 52 | 15 | 
 | 2023-03-24 | 52 | 15 | 
 | 2023-03-23 | 52 | 15 | 
 | 2023-03-22 | 52 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 52 | 15 | 
 | 2023-02-27 | 52 | 15 | 
 | 2023-02-26 | 52 | 15 | 
-| 2023-02-25 | 52 | 15 | 
 

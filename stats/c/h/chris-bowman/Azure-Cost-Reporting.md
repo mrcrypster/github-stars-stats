@@ -1,8 +1,8 @@
 # chris-bowman/Azure-Cost-Reporting - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 63 | 17 | 
 | 2023-03-25 | 63 | 16 | 
 | 2023-03-23 | 58 | 15 | 
 | 2023-03-22 | 54 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 50 | 11 | 
 | 2023-02-26 | 49 | 11 | 
 | 2023-02-25 | 49 | 11 | 
-| 2023-02-24 | 49 | 11 | 
 

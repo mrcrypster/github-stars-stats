@@ -1,10 +1,10 @@
 # nextcloud/nextcloudpi - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 277
 
-★ Stars: 1975
+★ Stars: 1976
 
 [Open repository](https://github.com/nextcloud/nextcloudpi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1976 | 277 | 
 | 2023-03-25 | 1975 | 277 | 
 | 2023-03-23 | 1973 | 277 | 
 | 2023-03-22 | 1972 | 277 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1948 | 271 | 
 | 2023-02-27 | 1947 | 271 | 
 | 2023-02-25 | 1947 | 269 | 
-| 2023-02-24 | 1946 | 270 | 
 

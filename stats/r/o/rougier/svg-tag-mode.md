@@ -1,6 +1,6 @@
 # rougier/svg-tag-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 382 | 22 | 
 | 2023-03-24 | 382 | 22 | 
 | 2023-03-23 | 381 | 22 | 
 | 2023-03-22 | 380 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 378 | 21 | 
 | 2023-02-26 | 376 | 21 | 
 | 2023-02-25 | 376 | 21 | 
-| 2023-02-24 | 376 | 21 | 
 

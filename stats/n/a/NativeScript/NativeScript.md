@@ -1,6 +1,6 @@
 # NativeScript/NativeScript - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1619
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 22342 | 1619 | 
 | 2023-03-25 | 22342 | 1619 | 
 | 2023-03-24 | 22333 | 1619 | 
 | 2023-03-23 | 22327 | 1619 | 

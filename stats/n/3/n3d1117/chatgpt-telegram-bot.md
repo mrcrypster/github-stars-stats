@@ -1,10 +1,10 @@
 # n3d1117/chatgpt-telegram-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 151
+☋ Forks: 162
 
-★ Stars: 500
+★ Stars: 532
 
 [Open repository](https://github.com/n3d1117/chatgpt-telegram-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 532 | 162 | 
 | 2023-03-25 | 500 | 151 | 
 | 2023-03-24 | 486 | 142 | 
 | 2023-03-22 | 472 | 128 | 

@@ -1,10 +1,10 @@
 # vhqtvn/VHEditor-Android - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 81
 
-★ Stars: 711
+★ Stars: 712
 
 [Open repository](https://github.com/vhqtvn/VHEditor-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 712 | 81 | 
 | 2023-03-25 | 711 | 81 | 
 | 2023-03-24 | 711 | 81 | 
 | 2023-03-23 | 709 | 81 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 702 | 79 | 
 | 2023-02-26 | 701 | 79 | 
 | 2023-02-25 | 700 | 79 | 
-| 2023-02-24 | 699 | 79 | 
 

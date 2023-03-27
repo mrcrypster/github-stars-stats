@@ -1,10 +1,10 @@
 # kholia/OSX-KVM - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1573
 
-★ Stars: 15795
+★ Stars: 15801
 
 [Open repository](https://github.com/kholia/OSX-KVM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 15801 | 1573 | 
 | 2023-03-24 | 15795 | 1573 | 
 | 2023-03-23 | 15791 | 1572 | 
 | 2023-03-21 | 15782 | 1571 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 15638 | 1558 | 
 | 2023-02-26 | 15631 | 1557 | 
 | 2023-02-25 | 15624 | 1558 | 
-| 2023-02-24 | 15616 | 1556 | 
 

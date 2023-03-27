@@ -1,6 +1,6 @@
 # nuxt-themes/typography - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 106 | 4 | 
 | 2023-03-25 | 106 | 4 | 
 | 2023-03-23 | 106 | 4 | 
 | 2023-03-22 | 106 | 4 | 

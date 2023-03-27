@@ -1,10 +1,10 @@
 # paradigmxyz/zk-eth-rng - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 10
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/paradigmxyz/zk-eth-rng)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 144 | 10 | 
 | 2023-03-25 | 143 | 10 | 
 | 2023-03-23 | 141 | 10 | 
 | 2023-03-21 | 141 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 137 | 9 | 
 | 2023-02-26 | 137 | 9 | 
 | 2023-02-25 | 137 | 9 | 
-| 2023-02-24 | 137 | 9 | 
 

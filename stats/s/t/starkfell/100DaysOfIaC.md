@@ -1,10 +1,10 @@
 # starkfell/100DaysOfIaC - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 231
 
-★ Stars: 504
+★ Stars: 505
 
 [Open repository](https://github.com/starkfell/100DaysOfIaC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 505 | 231 | 
 | 2023-03-24 | 504 | 231 | 
 | 2023-03-23 | 503 | 231 | 
 | 2023-03-22 | 503 | 231 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 501 | 228 | 
 | 2023-02-27 | 501 | 228 | 
 | 2023-02-26 | 501 | 228 | 
-| 2023-02-24 | 501 | 228 | 
 

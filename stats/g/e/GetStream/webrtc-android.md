@@ -1,6 +1,6 @@
 # GetStream/webrtc-android - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 195 | 13 | 
 | 2023-03-25 | 195 | 13 | 
 | 2023-03-23 | 195 | 13 | 
 | 2023-03-22 | 192 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 143 | 7 | 
 | 2023-02-26 | 141 | 7 | 
 | 2023-02-25 | 138 | 7 | 
-| 2023-02-24 | 138 | 7 | 
 

@@ -1,6 +1,6 @@
 # CleverTap/clevertap-ios-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 48 | 37 | 
 | 2023-03-25 | 48 | 37 | 
 | 2023-03-24 | 48 | 37 | 
 | 2023-03-22 | 48 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 48 | 38 | 
 | 2023-02-26 | 48 | 38 | 
 | 2023-02-25 | 48 | 38 | 
-| 2023-02-24 | 48 | 38 | 
 

@@ -1,10 +1,10 @@
 # nandorojo/burnt - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 15
 
-★ Stars: 505
+★ Stars: 507
 
 [Open repository](https://github.com/nandorojo/burnt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 507 | 15 | 
 | 2023-03-25 | 505 | 15 | 
 | 2023-03-23 | 505 | 15 | 
 | 2023-03-22 | 505 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 455 | 13 | 
 | 2023-02-26 | 455 | 13 | 
 | 2023-02-25 | 455 | 13 | 
-| 2023-02-24 | 455 | 13 | 
 

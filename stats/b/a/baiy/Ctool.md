@@ -1,10 +1,10 @@
 # baiy/Ctool - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 116
 
-★ Stars: 745
+★ Stars: 746
 
 [Open repository](https://github.com/baiy/Ctool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 746 | 116 | 
 | 2023-03-25 | 745 | 116 | 
 | 2023-03-24 | 745 | 115 | 
 | 2023-03-23 | 742 | 115 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 693 | 111 | 
 | 2023-02-27 | 692 | 111 | 
 | 2023-02-25 | 691 | 111 | 
-| 2023-02-24 | 691 | 112 | 
 

@@ -1,6 +1,6 @@
 # nf-core/rnafusion - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 92 | 70 | 
 | 2023-03-25 | 92 | 70 | 
 | 2023-03-24 | 91 | 70 | 
 | 2023-03-22 | 90 | 70 | 

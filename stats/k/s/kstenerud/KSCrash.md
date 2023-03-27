@@ -1,10 +1,10 @@
 # kstenerud/KSCrash - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 664
 
-★ Stars: 3990
+★ Stars: 3989
 
 [Open repository](https://github.com/kstenerud/KSCrash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3989 | 664 | 
 | 2023-03-25 | 3990 | 664 | 
 | 2023-03-24 | 3987 | 663 | 
 | 2023-03-22 | 3986 | 663 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 3978 | 656 | 
 | 2023-02-26 | 3978 | 656 | 
 | 2023-02-25 | 3979 | 656 | 
-| 2023-02-24 | 3978 | 656 | 
 

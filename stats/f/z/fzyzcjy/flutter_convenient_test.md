@@ -1,10 +1,10 @@
 # fzyzcjy/flutter_convenient_test - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 24
 
-★ Stars: 362
+★ Stars: 364
 
 [Open repository](https://github.com/fzyzcjy/flutter_convenient_test)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 364 | 24 | 
 | 2023-03-25 | 362 | 24 | 
 | 2023-03-23 | 362 | 24 | 
 | 2023-03-22 | 362 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 353 | 22 | 
 | 2023-02-26 | 353 | 22 | 
 | 2023-02-25 | 350 | 22 | 
-| 2023-02-24 | 350 | 22 | 
 

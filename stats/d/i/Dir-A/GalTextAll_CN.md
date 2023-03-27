@@ -1,10 +1,10 @@
 # Dir-A/GalTextAll_CN - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 24
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/Dir-A/GalTextAll_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 92 | 24 | 
 | 2023-03-25 | 90 | 24 | 
 | 2023-03-24 | 89 | 24 | 
 | 2023-03-22 | 89 | 24 | 

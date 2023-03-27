@@ -1,6 +1,6 @@
 # ros2/ros2cli_common_extensions - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1 | 3 | 
 | 2023-03-24 | 1 | 3 | 
 | 2023-03-23 | 1 | 3 | 
 | 2023-03-21 | 1 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 1 | 3 | 
 | 2023-02-26 | 1 | 3 | 
 | 2023-02-25 | 1 | 3 | 
-| 2023-02-24 | 1 | 3 | 
 

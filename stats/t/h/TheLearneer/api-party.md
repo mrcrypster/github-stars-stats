@@ -1,6 +1,6 @@
 # TheLearneer/api-party - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 23 | 44 | 
 | 2023-03-25 | 23 | 44 | 
 | 2023-03-24 | 23 | 44 | 
 | 2023-03-22 | 23 | 44 | 

@@ -1,8 +1,8 @@
 # AndrewEllis93/Print-Tuning-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 231
+☋ Forks: 232
 
 ★ Stars: 1650
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1650 | 232 | 
 | 2023-03-25 | 1650 | 231 | 
 | 2023-03-23 | 1649 | 230 | 
 | 2023-03-22 | 1649 | 230 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1631 | 220 | 
 | 2023-02-27 | 1628 | 220 | 
 | 2023-02-26 | 1625 | 219 | 
-| 2023-02-24 | 1625 | 219 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 26
 
-☋ Forks: 1404
+☋ Forks: 1406
 
-★ Stars: 20190
+★ Stars: 20203
 
 [Open repository](https://github.com/SergioBenitez/Rocket)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 20190 | 1404 | 
+| 2023-03-26 | 20203 | 1406 | 
 | 2023-03-25 | 20185 | 1403 | 
 | 2023-03-24 | 20163 | 1400 | 
 | 2023-03-22 | 20155 | 1399 | 

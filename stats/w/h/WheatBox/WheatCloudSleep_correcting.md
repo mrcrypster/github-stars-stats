@@ -1,6 +1,6 @@
 # WheatBox/WheatCloudSleep_correcting - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 356 | 42 | 
 | 2023-03-25 | 356 | 42 | 
 | 2023-03-24 | 356 | 42 | 
 | 2023-03-22 | 356 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 360 | 42 | 
 | 2023-02-26 | 360 | 42 | 
 | 2023-02-25 | 360 | 42 | 
-| 2023-02-24 | 360 | 42 | 
 

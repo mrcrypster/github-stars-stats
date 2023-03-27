@@ -1,6 +1,6 @@
 # Kraigie/nostrum - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 482 | 114 | 
 | 2023-03-25 | 482 | 114 | 
 | 2023-03-23 | 482 | 114 | 
 | 2023-03-22 | 482 | 114 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 476 | 111 | 
 | 2023-02-26 | 476 | 111 | 
 | 2023-02-25 | 476 | 111 | 
-| 2023-02-24 | 476 | 111 | 
 

@@ -1,6 +1,6 @@
 # Kiriki-liszt/JS_Inflator_to_VST2_VST3 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 41 | 5 | 
 | 2023-03-25 | 41 | 5 | 
 | 2023-03-24 | 39 | 5 | 
 | 2023-03-22 | 38 | 5 | 

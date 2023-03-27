@@ -1,6 +1,6 @@
 # rafaballerini/AnaliseDaPlaylistDeRock - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 84 | 7 | 
 | 2023-03-25 | 84 | 7 | 
 | 2023-03-24 | 84 | 7 | 
 | 2023-03-22 | 84 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 85 | 7 | 
 | 2023-02-27 | 85 | 7 | 
 | 2023-02-26 | 85 | 7 | 
-| 2023-02-25 | 85 | 7 | 
 

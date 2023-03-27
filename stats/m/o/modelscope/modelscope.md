@@ -1,10 +1,10 @@
 # modelscope/modelscope - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 169
 
-★ Stars: 1467
+★ Stars: 1488
 
 [Open repository](https://github.com/modelscope/modelscope)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1488 | 169 | 
 | 2023-03-25 | 1467 | 169 | 
 | 2023-03-23 | 1412 | 164 | 
 | 2023-03-22 | 1309 | 159 | 

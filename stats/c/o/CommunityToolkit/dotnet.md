@@ -1,8 +1,8 @@
 # CommunityToolkit/dotnet - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 144
+☋ Forks: 145
 
 ★ Stars: 1946
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1946 | 145 | 
 | 2023-03-25 | 1946 | 144 | 
 | 2023-03-24 | 1945 | 143 | 
 | 2023-03-22 | 1940 | 143 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1893 | 138 | 
 | 2023-02-27 | 1887 | 138 | 
 | 2023-02-25 | 1886 | 139 | 
-| 2023-02-24 | 1884 | 138 | 
 

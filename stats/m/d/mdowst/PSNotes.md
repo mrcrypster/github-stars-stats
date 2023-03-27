@@ -1,6 +1,6 @@
 # mdowst/PSNotes - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 66 | 2 | 
 | 2023-03-24 | 66 | 2 | 
 | 2023-03-23 | 66 | 2 | 
 | 2023-03-21 | 66 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 65 | 2 | 
 | 2023-02-26 | 65 | 2 | 
 | 2023-02-25 | 65 | 2 | 
-| 2023-02-24 | 65 | 2 | 
 

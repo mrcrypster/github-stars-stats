@@ -1,10 +1,10 @@
 # chipsalliance/playground - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 29
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/chipsalliance/playground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 58 | 29 | 
 | 2023-03-25 | 57 | 29 | 
 | 2023-03-24 | 55 | 29 | 
 | 2023-03-22 | 55 | 29 | 

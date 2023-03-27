@@ -1,6 +1,6 @@
 # wstaeblein/texthighlighter - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 111 | 2 | 
 | 2023-03-25 | 111 | 2 | 
 | 2023-03-23 | 110 | 2 | 
 | 2023-03-22 | 109 | 2 | 

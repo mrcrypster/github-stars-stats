@@ -1,10 +1,10 @@
 # metacpan/metacpan-web - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 250
 
-★ Stars: 397
+★ Stars: 399
 
 [Open repository](https://github.com/metacpan/metacpan-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 399 | 250 | 
 | 2023-03-24 | 397 | 250 | 
 | 2023-03-23 | 397 | 250 | 
 | 2023-03-22 | 397 | 250 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 397 | 250 | 
 | 2023-02-26 | 398 | 250 | 
 | 2023-02-25 | 398 | 250 | 
-| 2023-02-24 | 398 | 250 | 
 

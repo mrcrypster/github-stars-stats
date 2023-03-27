@@ -1,10 +1,10 @@
 # hide-your-code/weather_compose_clean_architecture - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 30
 
-★ Stars: 73
+★ Stars: 75
 
 [Open repository](https://github.com/hide-your-code/weather_compose_clean_architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 75 | 30 | 
 | 2023-03-24 | 73 | 30 | 
 | 2023-03-23 | 71 | 30 | 
 | 2023-03-21 | 71 | 30 | 

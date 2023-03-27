@@ -1,10 +1,10 @@
 # react-boilerplate/react-boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 6180
+☋ Forks: 6181
 
-★ Stars: 29051
+★ Stars: 29052
 
 [Open repository](https://github.com/react-boilerplate/react-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 29052 | 6181 | 
 | 2023-03-25 | 29051 | 6180 | 
 | 2023-03-24 | 29048 | 6181 | 
 | 2023-03-22 | 29045 | 6178 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 29008 | 6170 | 
 | 2023-02-26 | 29010 | 6171 | 
 | 2023-02-25 | 29010 | 6171 | 
-| 2023-02-24 | 29008 | 6170 | 
 

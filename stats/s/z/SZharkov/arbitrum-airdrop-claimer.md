@@ -1,10 +1,10 @@
 # SZharkov/arbitrum-airdrop-claimer - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 22
+★ Stars: 25
 
 [Open repository](https://github.com/SZharkov/arbitrum-airdrop-claimer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 25 | 17 | 
 | 2023-03-25 | 22 | 16 | 
 | 2023-03-24 | 22 | 16 | 
 

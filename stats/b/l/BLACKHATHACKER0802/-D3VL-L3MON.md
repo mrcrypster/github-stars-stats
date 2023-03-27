@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 26
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/BLACKHATHACKER0802/-D3VL-L3MON)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 47 | 36 | 
+| 2023-03-26 | 48 | 37 | 
 | 2023-03-24 | 47 | 34 | 
 | 2023-03-23 | 47 | 34 | 
 | 2023-03-22 | 47 | 34 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-27 | 39 | 24 | 
 | 2023-02-26 | 39 | 24 | 
 | 2023-02-25 | 39 | 24 | 
-| 2023-02-24 | 39 | 23 | 
 

@@ -1,6 +1,6 @@
 # Shikhar82/springboot-maven-nexus-deploy - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 38 | 
 | 2023-03-25 | - | 38 | 
 | 2023-03-24 | - | 38 | 
 | 2023-03-22 | - | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | - | 36 | 
 | 2023-02-26 | - | 36 | 
 | 2023-02-25 | - | 36 | 
-| 2023-02-24 | - | 36 | 
 

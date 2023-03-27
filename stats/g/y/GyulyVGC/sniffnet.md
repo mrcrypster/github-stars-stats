@@ -1,10 +1,10 @@
 # GyulyVGC/sniffnet - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 89
+☋ Forks: 90
 
-★ Stars: 3462
+★ Stars: 3465
 
 [Open repository](https://github.com/GyulyVGC/sniffnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3465 | 90 | 
 | 2023-03-24 | 3462 | 89 | 
 | 2023-03-23 | 3457 | 89 | 
 | 2023-03-22 | 3432 | 88 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 3254 | 84 | 
 | 2023-02-26 | 3226 | 84 | 
 | 2023-02-25 | 3167 | 79 | 
-| 2023-02-24 | 3164 | 79 | 
 

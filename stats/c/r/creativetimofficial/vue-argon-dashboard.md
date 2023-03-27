@@ -1,8 +1,8 @@
 # creativetimofficial/vue-argon-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 405
+☋ Forks: 407
 
 ★ Stars: 335
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 335 | 407 | 
 | 2023-03-25 | 335 | 405 | 
 | 2023-03-23 | 334 | 405 | 
 | 2023-03-22 | 334 | 405 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 331 | 382 | 
 | 2023-02-26 | 331 | 376 | 
 | 2023-02-25 | 331 | 375 | 
-| 2023-02-24 | 331 | 373 | 
 

@@ -1,10 +1,10 @@
 # composewell/streamly - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 60
 
-★ Stars: 778
+★ Stars: 779
 
 [Open repository](https://github.com/composewell/streamly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 779 | 60 | 
 | 2023-03-25 | 778 | 60 | 
 | 2023-03-23 | 778 | 60 | 
 | 2023-03-22 | 778 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 770 | 60 | 
 | 2023-02-27 | 770 | 60 | 
 | 2023-02-25 | 770 | 60 | 
-| 2023-02-24 | 770 | 60 | 
 

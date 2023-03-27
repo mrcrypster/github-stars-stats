@@ -1,8 +1,8 @@
 # spdx/license-list-XML - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 27
 
-☋ Forks: 247
+☋ Forks: 249
 
 ★ Stars: 252
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 252 | 249 | 
+| 2023-03-26 | 252 | 249 | 
 | 2023-03-24 | 252 | 247 | 
 | 2023-03-23 | 251 | 246 | 
 | 2023-03-22 | 251 | 245 | 
@@ -35,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 248 | 241 | 
 | 2023-02-26 | 248 | 241 | 
 | 2023-02-25 | 248 | 241 | 
-| 2023-02-24 | 247 | 241 | 
 

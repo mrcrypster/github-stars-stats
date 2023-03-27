@@ -1,6 +1,6 @@
 # erts-RnD/eYRC-2022_HolA_Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 17 | 
 | 2023-03-25 | - | 17 | 
 | 2023-03-24 | - | 17 | 
 | 2023-03-22 | - | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | - | 17 | 
 | 2023-02-26 | - | 17 | 
 | 2023-02-25 | - | 17 | 
-| 2023-02-24 | - | 17 | 
 

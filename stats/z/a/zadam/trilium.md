@@ -1,10 +1,10 @@
 # zadam/trilium - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 1338
+☋ Forks: 1343
 
-★ Stars: 20468
+★ Stars: 20508
 
 [Open repository](https://github.com/zadam/trilium)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 20508 | 1343 | 
+| 2023-03-26 | 20505 | 1341 | 
 | 2023-03-25 | 20468 | 1338 | 
 | 2023-03-24 | 20412 | 1333 | 
 | 2023-03-23 | 20353 | 1330 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 19986 | 1305 | 
 | 2023-02-26 | 19952 | 1303 | 
 | 2023-02-25 | 19934 | 1299 | 
-| 2023-02-24 | 19918 | 1300 | 
 

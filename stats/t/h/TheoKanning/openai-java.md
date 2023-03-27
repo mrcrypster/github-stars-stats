@@ -1,10 +1,10 @@
 # TheoKanning/openai-java - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 27
 
-☋ Forks: 455
+☋ Forks: 468
 
-★ Stars: 1845
+★ Stars: 1896
 
 [Open repository](https://github.com/TheoKanning/openai-java)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1896 | 468 | 
+| 2023-03-26 | 1894 | 467 | 
 | 2023-03-24 | 1845 | 455 | 
 | 2023-03-23 | 1787 | 445 | 
 | 2023-03-22 | 1774 | 444 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 962 | 257 | 
 | 2023-02-26 | 936 | 253 | 
 | 2023-02-25 | 927 | 252 | 
-| 2023-02-24 | 907 | 246 | 
 

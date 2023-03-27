@@ -1,6 +1,6 @@
 # Gameslinx/Tessellation - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 215 | 27 | 
 | 2023-03-25 | 215 | 27 | 
 | 2023-03-24 | 215 | 27 | 
 | 2023-03-22 | 215 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 206 | 26 | 
 | 2023-02-26 | 205 | 26 | 
 | 2023-02-25 | 205 | 26 | 
-| 2023-02-24 | 203 | 26 | 
 

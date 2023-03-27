@@ -1,10 +1,10 @@
 # JonathanSalwan/Tigress_protection - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 144
 
-★ Stars: 701
+★ Stars: 702
 
 [Open repository](https://github.com/JonathanSalwan/Tigress_protection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 702 | 144 | 
 | 2023-03-24 | 701 | 144 | 
 | 2023-03-22 | 701 | 144 | 
 | 2023-03-21 | 701 | 144 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 690 | 143 | 
 | 2023-02-27 | 690 | 142 | 
 | 2023-02-26 | 690 | 142 | 
-| 2023-02-24 | 689 | 142 | 
 

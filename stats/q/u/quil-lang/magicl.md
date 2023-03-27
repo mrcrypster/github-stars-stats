@@ -1,10 +1,10 @@
 # quil-lang/magicl - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 38
 
-★ Stars: 208
+★ Stars: 207
 
 [Open repository](https://github.com/quil-lang/magicl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 207 | 38 | 
 | 2023-03-25 | 208 | 38 | 
 | 2023-03-24 | 208 | 38 | 
 | 2023-03-22 | 208 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 208 | 38 | 
 | 2023-02-26 | 207 | 38 | 
 | 2023-02-25 | 207 | 38 | 
-| 2023-02-24 | 206 | 38 | 
 

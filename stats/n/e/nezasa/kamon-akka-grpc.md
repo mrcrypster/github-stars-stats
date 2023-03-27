@@ -1,10 +1,10 @@
 # nezasa/kamon-akka-grpc - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/nezasa/kamon-akka-grpc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2 | 4 | 
 | 2023-03-24 | 1 | 4 | 
 | 2023-03-23 | 1 | 4 | 
 | 2023-03-21 | 1 | 4 | 

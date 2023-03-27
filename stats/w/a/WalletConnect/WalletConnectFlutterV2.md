@@ -1,10 +1,10 @@
 # WalletConnect/WalletConnectFlutterV2 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 8
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/WalletConnect/WalletConnectFlutterV2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 29 | 8 | 
 | 2023-03-25 | 28 | 8 | 
 | 2023-03-24 | 28 | 8 | 
 | 2023-03-22 | 27 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 21 | 6 | 
 | 2023-02-26 | 20 | 6 | 
 | 2023-02-25 | 20 | 6 | 
-| 2023-02-24 | 19 | 6 | 
 

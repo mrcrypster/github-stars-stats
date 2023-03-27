@@ -1,10 +1,10 @@
 # codesandbox/sandpack - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 226
+☋ Forks: 227
 
-★ Stars: 3435
+★ Stars: 3436
 
 [Open repository](https://github.com/codesandbox/sandpack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3436 | 227 | 
 | 2023-03-24 | 3435 | 226 | 
 | 2023-03-23 | 3427 | 226 | 
 | 2023-03-22 | 3424 | 224 | 

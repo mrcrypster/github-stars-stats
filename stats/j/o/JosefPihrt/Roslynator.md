@@ -1,10 +1,10 @@
 # JosefPihrt/Roslynator - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 228
 
-★ Stars: 2619
+★ Stars: 2620
 
 [Open repository](https://github.com/JosefPihrt/Roslynator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2620 | 228 | 
 | 2023-03-25 | 2619 | 228 | 
 | 2023-03-24 | 2619 | 227 | 
 | 2023-03-22 | 2618 | 227 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 2608 | 223 | 
 | 2023-02-26 | 2607 | 223 | 
 | 2023-02-25 | 2607 | 223 | 
-| 2023-02-24 | 2606 | 222 | 
 

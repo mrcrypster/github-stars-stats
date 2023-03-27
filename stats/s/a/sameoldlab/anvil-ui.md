@@ -1,6 +1,6 @@
 # sameoldlab/anvil-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 23 | - | 
 | 2023-03-25 | 23 | - | 
 | 2023-03-24 | 23 | - | 
 | 2023-03-23 | 23 | - | 

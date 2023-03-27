@@ -1,6 +1,6 @@
 # electric-capital/developer-reports - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 218 | 19 | 
 | 2023-03-24 | 218 | 19 | 
 | 2023-03-23 | 218 | 19 | 
 | 2023-03-21 | 218 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 216 | 18 | 
 | 2023-02-26 | 216 | 18 | 
 | 2023-02-25 | 216 | 18 | 
-| 2023-02-24 | 215 | 18 | 
 

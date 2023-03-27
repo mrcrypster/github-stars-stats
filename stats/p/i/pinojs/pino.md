@@ -1,10 +1,10 @@
 # pinojs/pino - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 812
 
-★ Stars: 11174
+★ Stars: 11188
 
 [Open repository](https://github.com/pinojs/pino)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 11188 | 812 | 
 | 2023-03-24 | 11174 | 812 | 
 | 2023-03-23 | 11169 | 812 | 
 | 2023-03-21 | 11161 | 812 | 

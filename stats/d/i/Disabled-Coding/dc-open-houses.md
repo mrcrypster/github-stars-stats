@@ -1,6 +1,6 @@
 # Disabled-Coding/dc-open-houses - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 50 | 33 | 
 | 2023-03-25 | 50 | 33 | 
 | 2023-03-24 | 50 | 33 | 
 | 2023-03-22 | 50 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 49 | 33 | 
 | 2023-02-26 | 49 | 33 | 
 | 2023-02-25 | 49 | 33 | 
-| 2023-02-24 | 49 | 33 | 
 

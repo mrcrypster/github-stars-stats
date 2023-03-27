@@ -1,6 +1,6 @@
 # kittoku/Open-SSTP-Client - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 285 | 73 | 
 | 2023-03-25 | 285 | 73 | 
 | 2023-03-24 | 285 | 73 | 
 | 2023-03-22 | 285 | 73 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 278 | 71 | 
 | 2023-02-27 | 277 | 71 | 
 | 2023-02-26 | 277 | 71 | 
-| 2023-02-24 | 277 | 71 | 
 

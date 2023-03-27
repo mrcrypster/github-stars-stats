@@ -1,10 +1,10 @@
 # elastic/elasticsearch-php - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 953
 
-★ Stars: 5103
+★ Stars: 5104
 
 [Open repository](https://github.com/elastic/elasticsearch-php)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5104 | 953 | 
 | 2023-03-25 | 5103 | 953 | 
 | 2023-03-24 | 5100 | 953 | 
 | 2023-03-22 | 5099 | 953 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 5079 | 954 | 
 | 2023-02-26 | 5078 | 954 | 
 | 2023-02-25 | 5078 | 953 | 
-| 2023-02-24 | 5075 | 953 | 
 

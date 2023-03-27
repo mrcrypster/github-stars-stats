@@ -1,10 +1,10 @@
 # mzabani/codd - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/mzabani/codd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 31 | - | 
 | 2023-03-24 | 30 | - | 
 | 2023-03-23 | 30 | - | 
 | 2023-03-21 | 30 | - | 

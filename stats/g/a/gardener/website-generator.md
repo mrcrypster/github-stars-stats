@@ -1,10 +1,10 @@
 # gardener/website-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 17
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/gardener/website-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 8 | 17 | 
 | 2023-03-24 | 9 | 17 | 
 | 2023-03-23 | 9 | 17 | 
 | 2023-03-22 | 9 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 9 | 17 | 
 | 2023-02-27 | 9 | 17 | 
 | 2023-02-26 | 9 | 17 | 
-| 2023-02-25 | 9 | 17 | 
 

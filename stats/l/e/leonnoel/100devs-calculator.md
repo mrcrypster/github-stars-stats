@@ -1,6 +1,6 @@
 # leonnoel/100devs-calculator - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 769
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 68 | 769 | 
 | 2023-03-25 | 68 | 769 | 
 | 2023-03-24 | 68 | 767 | 
 | 2023-03-22 | 68 | 767 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 68 | 742 | 
 | 2023-02-27 | 67 | 740 | 
 | 2023-02-26 | 67 | 741 | 
-| 2023-02-24 | 66 | 740 | 
 

@@ -1,10 +1,10 @@
 # Vita3K/Vita3K-Android - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 13
 
-★ Stars: 488
+★ Stars: 495
 
 [Open repository](https://github.com/Vita3K/Vita3K-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 495 | 13 | 
 | 2023-03-25 | 488 | 13 | 
 | 2023-03-24 | 485 | 13 | 
 | 2023-03-23 | 485 | 13 | 

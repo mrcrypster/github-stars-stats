@@ -1,6 +1,6 @@
 # bdenney/phase-1-practice-friday-the-13th - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 165 | 
 | 2023-03-25 | - | 165 | 
 | 2023-03-23 | - | 165 | 
 | 2023-03-22 | - | 165 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | - | 164 | 
 | 2023-02-26 | - | 164 | 
 | 2023-02-25 | - | 164 | 
-| 2023-02-24 | - | 164 | 
 

@@ -1,10 +1,10 @@
 # radi-cho/awesome-gpt4 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 24
+☋ Forks: 28
 
-★ Stars: 421
+★ Stars: 566
 
 [Open repository](https://github.com/radi-cho/awesome-gpt4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 566 | 28 | 
 | 2023-03-25 | 421 | 24 | 
 | 2023-03-24 | 292 | 18 | 
 | 2023-03-23 | 77 | 7 | 

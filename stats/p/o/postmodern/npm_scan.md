@@ -1,6 +1,6 @@
 # postmodern/npm_scan - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 19 | 2 | 
 | 2023-03-24 | 19 | 2 | 
 | 2023-03-23 | 19 | 2 | 
 | 2023-03-22 | 19 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 19 | 2 | 
 | 2023-02-26 | 19 | 2 | 
 | 2023-02-25 | 19 | 2 | 
-| 2023-02-24 | 19 | 2 | 
 

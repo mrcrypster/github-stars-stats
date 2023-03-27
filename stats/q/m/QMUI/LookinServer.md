@@ -1,6 +1,6 @@
 # QMUI/LookinServer - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 323
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2332 | 323 | 
 | 2023-03-25 | 2332 | 323 | 
 | 2023-03-24 | 2332 | 323 | 
 | 2023-03-23 | 2332 | 324 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2316 | 317 | 
 | 2023-02-26 | 2316 | 317 | 
 | 2023-02-25 | 2315 | 317 | 
-| 2023-02-24 | 2316 | 317 | 
 

@@ -1,6 +1,6 @@
 # hirashoaib/learn-javascript - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 66 | 45 | 
 | 2023-03-25 | 66 | 45 | 
 | 2023-03-23 | 66 | 45 | 
 | 2023-03-21 | 66 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 65 | 44 | 
 | 2023-02-27 | 65 | 44 | 
 | 2023-02-26 | 65 | 44 | 
-| 2023-02-24 | 65 | 44 | 
 

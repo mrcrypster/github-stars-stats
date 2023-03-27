@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 26
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/kheeyaa/dev-jeans)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-26 | 44 | 6 | 
+| 2023-03-26 | 46 | 7 | 
 | 2023-03-25 | 43 | 6 | 
 | 2023-03-24 | 37 | 6 | 
 

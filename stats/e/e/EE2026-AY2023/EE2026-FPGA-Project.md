@@ -1,6 +1,6 @@
 # EE2026-AY2023/EE2026-FPGA-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 4 | 
 | 2023-03-25 | - | 4 | 
 | 2023-03-24 | - | 4 | 
 | 2023-03-22 | - | 4 | 

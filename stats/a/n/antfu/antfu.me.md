@@ -1,6 +1,6 @@
 # antfu/antfu.me - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 373 | 115 | 
 | 2023-03-25 | 373 | 115 | 
 | 2023-03-24 | 373 | 115 | 
 | 2023-03-22 | 373 | 115 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 368 | 115 | 
 | 2023-02-26 | 368 | 115 | 
 | 2023-02-25 | 367 | 115 | 
-| 2023-02-24 | 366 | 114 | 
 

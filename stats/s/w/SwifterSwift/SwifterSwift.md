@@ -1,10 +1,10 @@
 # SwifterSwift/SwifterSwift - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1538
+☋ Forks: 1539
 
-★ Stars: 12308
+★ Stars: 12309
 
 [Open repository](https://github.com/SwifterSwift/SwifterSwift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 12309 | 1539 | 
 | 2023-03-24 | 12308 | 1538 | 
 | 2023-03-23 | 12304 | 1537 | 
 | 2023-03-21 | 12299 | 1537 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 12202 | 1514 | 
 | 2023-02-26 | 12196 | 1513 | 
 | 2023-02-25 | 12194 | 1513 | 
-| 2023-02-24 | 12192 | 1513 | 
 

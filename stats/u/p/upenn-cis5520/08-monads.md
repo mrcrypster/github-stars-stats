@@ -1,6 +1,6 @@
 # upenn-cis5520/08-monads - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 13 | 
 | 2023-03-25 | - | 13 | 
 | 2023-03-23 | - | 13 | 
 | 2023-03-22 | - | 13 | 

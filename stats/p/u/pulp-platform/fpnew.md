@@ -1,10 +1,10 @@
 # pulp-platform/fpnew - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/pulp-platform/fpnew)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 256 | 80 | 
 | 2023-03-25 | 255 | 79 | 
 | 2023-03-23 | 255 | 79 | 
 | 2023-03-22 | 253 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 243 | 79 | 
 | 2023-02-26 | 243 | 79 | 
 | 2023-02-25 | 243 | 79 | 
-| 2023-02-24 | 242 | 79 | 
 

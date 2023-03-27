@@ -1,10 +1,10 @@
 # lgd8981289/book_read_quickly - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 170
+★ Stars: 174
 
 [Open repository](https://github.com/lgd8981289/book_read_quickly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 174 | 39 | 
 | 2023-03-25 | 170 | 38 | 
 | 2023-03-24 | 162 | 36 | 
 | 2023-03-22 | 160 | 35 | 

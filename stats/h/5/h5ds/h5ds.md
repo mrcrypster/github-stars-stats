@@ -1,10 +1,10 @@
 # h5ds/h5ds - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 372
 
-★ Stars: 1217
+★ Stars: 1216
 
 [Open repository](https://github.com/h5ds/h5ds)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1216 | 372 | 
 | 2023-03-25 | 1217 | 372 | 
 | 2023-03-23 | 1217 | 372 | 
 | 2023-03-21 | 1217 | 372 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 1214 | 370 | 
 | 2023-02-26 | 1214 | 370 | 
 | 2023-02-25 | 1214 | 370 | 
-| 2023-02-24 | 1214 | 370 | 
 

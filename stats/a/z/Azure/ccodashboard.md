@@ -1,10 +1,10 @@
 # Azure/ccodashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 185
 
-★ Stars: 608
+★ Stars: 607
 
 [Open repository](https://github.com/Azure/ccodashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 607 | 185 | 
 | 2023-03-25 | 608 | 185 | 
 | 2023-03-23 | 608 | 185 | 
 | 2023-03-22 | 608 | 185 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 601 | 183 | 
 | 2023-02-26 | 601 | 182 | 
 | 2023-02-25 | 601 | 182 | 
-| 2023-02-24 | 601 | 183 | 
 

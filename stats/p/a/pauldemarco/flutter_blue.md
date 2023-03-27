@@ -1,6 +1,6 @@
 # pauldemarco/flutter_blue - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1203
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2202 | 1203 | 
 | 2023-03-25 | 2202 | 1203 | 
 | 2023-03-23 | 2202 | 1202 | 
 | 2023-03-22 | 2201 | 1202 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2188 | 1196 | 
 | 2023-02-27 | 2188 | 1196 | 
 | 2023-02-26 | 2190 | 1196 | 
-| 2023-02-25 | 2190 | 1196 | 
 

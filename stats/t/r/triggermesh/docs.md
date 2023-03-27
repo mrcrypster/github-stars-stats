@@ -1,6 +1,6 @@
 # triggermesh/docs - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5 | 9 | 
 | 2023-03-24 | 5 | 9 | 
 | 2023-03-23 | 5 | 9 | 
 | 2023-03-21 | 5 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 5 | 9 | 
 | 2023-02-26 | 5 | 9 | 
 | 2023-02-25 | 5 | 9 | 
-| 2023-02-24 | 5 | 9 | 
 

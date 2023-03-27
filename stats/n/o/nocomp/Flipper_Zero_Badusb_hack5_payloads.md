@@ -1,10 +1,10 @@
 # nocomp/Flipper_Zero_Badusb_hack5_payloads - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 80
 
-★ Stars: 597
+★ Stars: 601
 
 [Open repository](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 601 | 80 | 
+| 2023-03-26 | 601 | 80 | 
 | 2023-03-25 | 597 | 80 | 
 | 2023-03-24 | 596 | 80 | 
 | 2023-03-23 | 594 | 80 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 567 | 79 | 
 | 2023-02-26 | 565 | 79 | 
 | 2023-02-25 | 564 | 79 | 
-| 2023-02-24 | 562 | 77 | 
 

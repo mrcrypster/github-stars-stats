@@ -1,6 +1,6 @@
 # eeveelo/SexLab - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 25 | 24 | 
+| 2023-03-26 | 25 | 24 | 
 | 2023-03-24 | 25 | 24 | 
 | 2023-03-23 | 24 | 24 | 
 | 2023-03-22 | 23 | 24 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 22 | 22 | 
 | 2023-02-26 | 22 | 22 | 
 | 2023-02-25 | 22 | 22 | 
-| 2023-02-24 | 22 | 22 | 
 

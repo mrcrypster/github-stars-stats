@@ -1,10 +1,10 @@
 # pry/pry - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 606
 
-★ Stars: 6599
+★ Stars: 6600
 
 [Open repository](https://github.com/pry/pry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6600 | 606 | 
 | 2023-03-25 | 6599 | 606 | 
 | 2023-03-23 | 6597 | 606 | 
 | 2023-03-22 | 6596 | 606 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 6585 | 605 | 
 | 2023-02-27 | 6584 | 605 | 
 | 2023-02-26 | 6583 | 605 | 
-| 2023-02-24 | 6581 | 605 | 
 

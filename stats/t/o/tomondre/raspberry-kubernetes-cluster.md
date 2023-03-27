@@ -1,10 +1,10 @@
 # tomondre/raspberry-kubernetes-cluster - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 79
+★ Stars: 78
 
 [Open repository](https://github.com/tomondre/raspberry-kubernetes-cluster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 78 | 2 | 
 | 2023-03-24 | 79 | 2 | 
 | 2023-03-23 | 79 | 2 | 
 | 2023-03-22 | 79 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 80 | 2 | 
 | 2023-02-26 | 80 | 2 | 
 | 2023-02-25 | 80 | 2 | 
-| 2023-02-24 | 80 | 2 | 
 

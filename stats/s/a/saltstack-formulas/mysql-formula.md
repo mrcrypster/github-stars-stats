@@ -1,6 +1,6 @@
 # saltstack-formulas/mysql-formula - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 370
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 82 | 370 | 
 | 2023-03-25 | 82 | 370 | 
 | 2023-03-23 | 82 | 369 | 
 | 2023-03-22 | 82 | 369 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 82 | 369 | 
 | 2023-02-26 | 82 | 369 | 
 | 2023-02-25 | 82 | 369 | 
-| 2023-02-24 | 83 | 369 | 
 

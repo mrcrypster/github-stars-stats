@@ -1,10 +1,10 @@
 # CleanCut/ultimate_rust_crash_course - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 688
+☋ Forks: 690
 
-★ Stars: 1429
+★ Stars: 1430
 
 [Open repository](https://github.com/CleanCut/ultimate_rust_crash_course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1430 | 690 | 
 | 2023-03-25 | 1429 | 688 | 
 | 2023-03-24 | 1428 | 686 | 
 | 2023-03-22 | 1426 | 685 | 

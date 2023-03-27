@@ -1,8 +1,8 @@
 # HavoScripting/RDP-Windows-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 30 | 
 | 2023-03-24 | - | 29 | 
 | 2023-03-23 | - | 26 | 
 | 2023-03-21 | - | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | - | 20 | 
 | 2023-02-26 | - | 20 | 
 | 2023-02-25 | - | 19 | 
-| 2023-02-24 | - | 19 | 
 

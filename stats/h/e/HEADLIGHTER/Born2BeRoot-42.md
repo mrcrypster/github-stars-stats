@@ -1,10 +1,10 @@
 # HEADLIGHTER/Born2BeRoot-42 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 62
+☋ Forks: 61
 
-★ Stars: 94
+★ Stars: 93
 
 [Open repository](https://github.com/HEADLIGHTER/Born2BeRoot-42)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 93 | 61 | 
 | 2023-03-25 | 94 | 62 | 
 | 2023-03-24 | 94 | 62 | 
 | 2023-03-22 | 93 | 62 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 90 | 61 | 
 | 2023-02-26 | 90 | 61 | 
 | 2023-02-25 | 90 | 60 | 
-| 2023-02-24 | 90 | 60 | 
 

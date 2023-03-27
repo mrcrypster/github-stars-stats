@@ -1,10 +1,10 @@
 # liuchengxu/vista.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 75
 
-★ Stars: 1743
+★ Stars: 1746
 
 [Open repository](https://github.com/liuchengxu/vista.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1746 | 75 | 
 | 2023-03-25 | 1743 | 75 | 
 | 2023-03-24 | 1743 | 75 | 
 | 2023-03-22 | 1744 | 75 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1738 | 75 | 
 | 2023-02-27 | 1738 | 75 | 
 | 2023-02-26 | 1736 | 75 | 
-| 2023-02-24 | 1736 | 75 | 
 

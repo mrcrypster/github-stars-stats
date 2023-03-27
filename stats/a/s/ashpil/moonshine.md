@@ -1,10 +1,10 @@
 # ashpil/moonshine - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/ashpil/moonshine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 73 | - | 
 | 2023-03-24 | 72 | - | 
 | 2023-03-23 | 71 | - | 
 | 2023-03-22 | 71 | - | 

@@ -1,10 +1,10 @@
 # cogentapps/chat-with-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 123
+☋ Forks: 131
 
-★ Stars: 901
+★ Stars: 932
 
 [Open repository](https://github.com/cogentapps/chat-with-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 932 | 131 | 
 | 2023-03-24 | 901 | 123 | 
 | 2023-03-23 | 868 | 119 | 
 | 2023-03-21 | 831 | 105 | 

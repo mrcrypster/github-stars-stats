@@ -1,10 +1,10 @@
 # LongDirtyAnimAlf/fpcupdeluxe - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 71
 
-★ Stars: 357
+★ Stars: 359
 
 [Open repository](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 359 | 71 | 
 | 2023-03-24 | 357 | 71 | 
 | 2023-03-23 | 357 | 71 | 
 | 2023-03-22 | 358 | 71 | 

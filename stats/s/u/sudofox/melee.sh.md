@@ -1,6 +1,6 @@
 # sudofox/melee.sh - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 221 | 3 | 
 | 2023-03-25 | 221 | 3 | 
 | 2023-03-24 | 221 | 3 | 
 | 2023-03-22 | 221 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 220 | 3 | 
 | 2023-02-26 | 220 | 3 | 
 | 2023-02-25 | 220 | 3 | 
-| 2023-02-24 | 220 | 3 | 
 

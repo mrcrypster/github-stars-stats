@@ -1,10 +1,10 @@
 # efabless/openlane2 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/efabless/openlane2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 14 | - | 
 | 2023-03-25 | 13 | - | 
 | 2023-03-24 | 13 | - | 
 | 2023-03-22 | 12 | - | 

@@ -1,8 +1,8 @@
 # duneanalytics/abstractions - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 717
+☋ Forks: 705
 
 ★ Stars: 768
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 768 | 705 | 
 | 2023-03-25 | 768 | 717 | 
 | 2023-03-23 | 765 | 700 | 
 | 2023-03-22 | 764 | 698 | 

@@ -1,10 +1,10 @@
 # microsoft/prompt-engine - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 1674
+★ Stars: 1682
 
 [Open repository](https://github.com/microsoft/prompt-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1682 | 51 | 
 | 2023-03-25 | 1674 | 50 | 
 | 2023-03-24 | 1664 | 50 | 
 | 2023-03-23 | 1647 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1377 | 39 | 
 | 2023-02-27 | 1368 | 38 | 
 | 2023-02-26 | 1353 | 37 | 
-| 2023-02-24 | 1351 | 37 | 
 

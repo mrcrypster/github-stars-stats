@@ -1,6 +1,6 @@
 # theseyan/bkg - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 140 | 1 | 
 | 2023-03-24 | 140 | 1 | 
 | 2023-03-23 | 139 | 1 | 
 | 2023-03-22 | 138 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 131 | 1 | 
 | 2023-02-26 | 130 | 1 | 
 | 2023-02-25 | 130 | 1 | 
-| 2023-02-24 | 131 | 1 | 
 

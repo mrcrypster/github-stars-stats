@@ -1,10 +1,10 @@
 # joysofcode/enterprise-stack - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 146
+★ Stars: 155
 
 [Open repository](https://github.com/joysofcode/enterprise-stack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 155 | 10 | 
 | 2023-03-25 | 146 | 9 | 
 | 2023-03-23 | 140 | 9 | 
 | 2023-03-21 | 136 | 10 | 

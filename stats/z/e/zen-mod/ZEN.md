@@ -1,6 +1,6 @@
 # zen-mod/ZEN - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 98 | 43 | 
 | 2023-03-24 | 98 | 43 | 
 | 2023-03-23 | 97 | 43 | 
 | 2023-03-21 | 97 | 43 | 

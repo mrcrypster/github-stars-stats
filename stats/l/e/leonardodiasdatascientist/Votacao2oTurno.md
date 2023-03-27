@@ -1,6 +1,6 @@
 # leonardodiasdatascientist/Votacao2oTurno - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 20 | 5 | 
 | 2023-03-24 | 20 | 5 | 
 | 2023-03-23 | 20 | 5 | 
 | 2023-03-22 | 20 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 21 | 5 | 
 | 2023-02-26 | 21 | 5 | 
 | 2023-02-25 | 21 | 5 | 
-| 2023-02-24 | 21 | 5 | 
 

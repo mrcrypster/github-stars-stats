@@ -1,6 +1,6 @@
 # ipod825/igit.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 41 | 2 | 
 | 2023-03-24 | 41 | 2 | 
 | 2023-03-23 | 41 | 2 | 
 | 2023-03-22 | 41 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 41 | 2 | 
 | 2023-02-27 | 41 | 2 | 
 | 2023-02-26 | 41 | 2 | 
-| 2023-02-25 | 41 | 2 | 
 

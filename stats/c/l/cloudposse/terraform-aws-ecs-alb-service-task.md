@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ecs-alb-service-task - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 126 | 179 | 
 | 2023-03-25 | 126 | 179 | 
 | 2023-03-24 | 126 | 179 | 
 | 2023-03-22 | 126 | 179 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 126 | 175 | 
 | 2023-02-26 | 126 | 175 | 
 | 2023-02-25 | 126 | 175 | 
-| 2023-02-24 | 125 | 175 | 
 

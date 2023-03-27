@@ -1,6 +1,6 @@
 # spalladino/zkp-tests - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 82 | 2 | 
 | 2023-03-24 | 82 | 2 | 
 | 2023-03-23 | 82 | 2 | 
 | 2023-03-22 | 81 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 79 | 1 | 
 | 2023-02-26 | 79 | 1 | 
 | 2023-02-25 | 79 | 1 | 
-| 2023-02-24 | 78 | 1 | 
 

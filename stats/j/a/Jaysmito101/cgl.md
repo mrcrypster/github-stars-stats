@@ -1,6 +1,6 @@
 # Jaysmito101/cgl - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 345 | 38 | 
 | 2023-03-25 | 345 | 38 | 
 | 2023-03-24 | 345 | 38 | 
 | 2023-03-22 | 345 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 339 | 37 | 
 | 2023-02-27 | 338 | 36 | 
 | 2023-02-26 | 337 | 36 | 
-| 2023-02-24 | 336 | 36 | 
 

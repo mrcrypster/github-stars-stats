@@ -1,6 +1,6 @@
 # Andy8647/react-portfolio-template - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 53 | 15 | 
 | 2023-03-25 | 53 | 15 | 
 | 2023-03-24 | 52 | 15 | 
 | 2023-03-23 | 52 | 15 | 

@@ -1,6 +1,6 @@
 # zendesk/copenhagen_theme - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 82 | 310 | 
 | 2023-03-25 | 82 | 310 | 
 | 2023-03-23 | 82 | 309 | 
 | 2023-03-22 | 82 | 309 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 81 | 304 | 
 | 2023-02-26 | 81 | 304 | 
 | 2023-02-25 | 81 | 304 | 
-| 2023-02-24 | 81 | 304 | 
 

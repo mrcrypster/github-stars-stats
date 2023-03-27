@@ -1,10 +1,10 @@
 # DiscordStyles/DarkMatter - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 249
+☋ Forks: 269
 
-★ Stars: 66
+★ Stars: 68
 
 [Open repository](https://github.com/DiscordStyles/DarkMatter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 68 | 269 | 
 | 2023-03-24 | 66 | 249 | 
 | 2023-03-23 | 66 | 234 | 
 | 2023-03-22 | 65 | 230 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 61 | 162 | 
 | 2023-02-26 | 61 | 162 | 
 | 2023-02-25 | 61 | 159 | 
-| 2023-02-24 | 61 | 158 | 
 

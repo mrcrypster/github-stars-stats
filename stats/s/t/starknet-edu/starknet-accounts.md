@@ -1,6 +1,6 @@
 # starknet-edu/starknet-accounts - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 66 | 20 | 
 | 2023-03-24 | 66 | 20 | 
 | 2023-03-23 | 66 | 20 | 
 | 2023-03-21 | 66 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 65 | 21 | 
 | 2023-02-26 | 65 | 21 | 
 | 2023-02-25 | 65 | 21 | 
-| 2023-02-24 | 65 | 21 | 
 

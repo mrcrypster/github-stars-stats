@@ -1,10 +1,10 @@
 # domaindrivendev/Swashbuckle.AspNetCore - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1194
 
-★ Stars: 4761
+★ Stars: 4765
 
 [Open repository](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4765 | 1194 | 
 | 2023-03-25 | 4761 | 1194 | 
 | 2023-03-24 | 4759 | 1193 | 
 | 2023-03-22 | 4758 | 1192 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 4718 | 1190 | 
 | 2023-02-26 | 4717 | 1189 | 
 | 2023-02-25 | 4717 | 1189 | 
-| 2023-02-24 | 4717 | 1189 | 
 

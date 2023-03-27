@@ -1,8 +1,8 @@
 # chainapsis/keplr-chain-registry - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 68
+☋ Forks: 69
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 79 | 69 | 
 | 2023-03-24 | 79 | 68 | 
 | 2023-03-23 | 79 | 67 | 
 | 2023-03-21 | 76 | 66 | 

@@ -1,8 +1,8 @@
 # blueStragglr/wanted-pre-onboarding-3-FE-quest - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 367
+☋ Forks: 365
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 30 | 365 | 
 | 2023-03-25 | 30 | 367 | 
 | 2023-03-23 | 30 | 368 | 
 | 2023-03-22 | 31 | 370 | 

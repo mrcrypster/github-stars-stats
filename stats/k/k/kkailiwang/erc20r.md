@@ -1,8 +1,8 @@
 # kkailiwang/erc20r - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 52 | 5 | 
 | 2023-03-25 | 52 | 4 | 
 | 2023-03-23 | 52 | 4 | 
 | 2023-03-22 | 52 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 52 | 4 | 
 | 2023-02-26 | 52 | 4 | 
 | 2023-02-25 | 52 | 4 | 
-| 2023-02-24 | 52 | 4 | 
 

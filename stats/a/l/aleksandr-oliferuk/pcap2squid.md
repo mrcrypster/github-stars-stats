@@ -1,6 +1,6 @@
 # aleksandr-oliferuk/pcap2squid - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 88 | 7 | 
 | 2023-03-24 | 88 | 7 | 
 | 2023-03-23 | 88 | 7 | 
 | 2023-03-22 | 88 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 87 | 7 | 
 | 2023-02-26 | 87 | 7 | 
 | 2023-02-25 | 87 | 7 | 
-| 2023-02-24 | 87 | 7 | 
 

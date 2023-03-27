@@ -1,10 +1,10 @@
 # DtKdPython/Furk-Ultra - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/DtKdPython/Furk-Ultra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 31 | 2 | 
 | 2023-03-24 | 30 | 2 | 
 | 2023-03-23 | 30 | 2 | 
 | 2023-03-21 | 30 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 30 | 1 | 
 | 2023-02-26 | 30 | 1 | 
 | 2023-02-25 | 30 | 1 | 
-| 2023-02-24 | 30 | 1 | 
 

@@ -1,6 +1,6 @@
 # tom-mohr/particle-life-app - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 416 | 32 | 
 | 2023-03-24 | 416 | 32 | 
 | 2023-03-23 | 415 | 32 | 
 | 2023-03-22 | 414 | 32 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 382 | 32 | 
 | 2023-02-26 | 381 | 32 | 
 | 2023-02-25 | 375 | 32 | 
-| 2023-02-24 | 375 | 32 | 
 

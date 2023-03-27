@@ -1,10 +1,10 @@
 # yuesong-feng/30dayMakeCppServer - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 393
+☋ Forks: 392
 
-★ Stars: 2718
+★ Stars: 2727
 
 [Open repository](https://github.com/yuesong-feng/30dayMakeCppServer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2727 | 392 | 
 | 2023-03-25 | 2718 | 393 | 
 | 2023-03-23 | 2706 | 391 | 
 | 2023-03-22 | 2696 | 389 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 2550 | 364 | 
 | 2023-02-26 | 2538 | 361 | 
 | 2023-02-25 | 2534 | 361 | 
-| 2023-02-24 | 2530 | 361 | 
 

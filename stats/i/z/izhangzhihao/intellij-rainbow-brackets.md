@@ -1,10 +1,10 @@
 # izhangzhihao/intellij-rainbow-brackets - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 166
 
-★ Stars: 3955
+★ Stars: 3958
 
 [Open repository](https://github.com/izhangzhihao/intellij-rainbow-brackets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3958 | 166 | 
 | 2023-03-25 | 3955 | 166 | 
 | 2023-03-23 | 3954 | 166 | 
 | 2023-03-22 | 3952 | 165 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 3919 | 166 | 
 | 2023-02-26 | 3918 | 165 | 
 | 2023-02-25 | 3914 | 165 | 
-| 2023-02-24 | 3904 | 165 | 
 

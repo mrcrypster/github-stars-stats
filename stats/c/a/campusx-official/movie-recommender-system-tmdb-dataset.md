@@ -1,10 +1,10 @@
 # campusx-official/movie-recommender-system-tmdb-dataset - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 138
+☋ Forks: 139
 
-★ Stars: 72
+★ Stars: 74
 
 [Open repository](https://github.com/campusx-official/movie-recommender-system-tmdb-dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 74 | 139 | 
 | 2023-03-24 | 72 | 138 | 
 | 2023-03-23 | 71 | 136 | 
 | 2023-03-21 | 72 | 136 | 

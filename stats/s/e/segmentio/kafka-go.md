@@ -1,6 +1,6 @@
 # segmentio/kafka-go - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 662
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5959 | 662 | 
 | 2023-03-24 | 5959 | 662 | 
 | 2023-03-23 | 5953 | 662 | 
 | 2023-03-21 | 5950 | 662 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 5881 | 654 | 
 | 2023-02-26 | 5876 | 650 | 
 | 2023-02-25 | 5873 | 649 | 
-| 2023-02-24 | 5870 | 649 | 
 

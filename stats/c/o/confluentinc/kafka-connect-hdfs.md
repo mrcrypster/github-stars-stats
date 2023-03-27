@@ -1,6 +1,6 @@
 # confluentinc/kafka-connect-hdfs - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 451 | 394 | 
 | 2023-03-25 | 451 | 394 | 
 | 2023-03-24 | 451 | 394 | 
 | 2023-03-22 | 451 | 394 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 452 | 396 | 
 | 2023-02-26 | 452 | 396 | 
 | 2023-02-25 | 452 | 396 | 
-| 2023-02-24 | 452 | 396 | 
 

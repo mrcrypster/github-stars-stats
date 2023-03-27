@@ -1,10 +1,10 @@
 # K0p1-Git/cloudflare-ddns-updater - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 220
 
-★ Stars: 712
+★ Stars: 713
 
 [Open repository](https://github.com/K0p1-Git/cloudflare-ddns-updater)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 713 | 220 | 
 | 2023-03-25 | 712 | 220 | 
 | 2023-03-24 | 712 | 220 | 
 | 2023-03-23 | 710 | 220 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 683 | 218 | 
 | 2023-02-26 | 680 | 218 | 
 | 2023-02-25 | 680 | 218 | 
-| 2023-02-24 | 679 | 219 | 
 

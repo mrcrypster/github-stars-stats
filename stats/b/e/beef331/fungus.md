@@ -1,10 +1,10 @@
 # beef331/fungus - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/beef331/fungus)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 31 | - | 
+| 2023-03-26 | 31 | - | 
 | 2023-03-25 | 29 | - | 
 | 2023-03-23 | 29 | - | 
 | 2023-03-22 | 29 | - | 

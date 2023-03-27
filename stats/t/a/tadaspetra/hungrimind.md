@@ -1,10 +1,10 @@
 # tadaspetra/hungrimind - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/tadaspetra/hungrimind)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 14 | 2 | 
 | 2023-03-25 | 15 | 1 | 
 | 2023-03-24 | 15 | 1 | 
 | 2023-03-23 | 15 | 1 | 

@@ -1,10 +1,10 @@
 # armanbilge/fs2-io_uring - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/armanbilge/fs2-io_uring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 24 | 3 | 
 | 2023-03-24 | 23 | 1 | 
 | 2023-03-23 | 23 | 1 | 
 | 2023-03-21 | 23 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 23 | 1 | 
 | 2023-02-26 | 23 | 1 | 
 | 2023-02-25 | 23 | 1 | 
-| 2023-02-24 | 23 | 1 | 
 

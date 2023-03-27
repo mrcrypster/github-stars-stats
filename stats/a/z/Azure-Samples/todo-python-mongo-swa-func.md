@@ -1,10 +1,10 @@
 # Azure-Samples/todo-python-mongo-swa-func - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Azure-Samples/todo-python-mongo-swa-func)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 7 | 7 | 
 | 2023-03-25 | 6 | 7 | 
 | 2023-03-23 | 6 | 7 | 
 | 2023-03-22 | 6 | 7 | 

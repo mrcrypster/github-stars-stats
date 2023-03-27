@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-dotnet - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 590
+☋ Forks: 591
 
-★ Stars: 2320
+★ Stars: 2321
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 2321 | 591 | 
 | 2023-03-25 | 2320 | 590 | 
 | 2023-03-24 | 2320 | 590 | 
 | 2023-03-23 | 2317 | 589 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 2266 | 583 | 
 | 2023-02-26 | 2264 | 583 | 
 | 2023-02-25 | 2263 | 583 | 
-| 2023-02-24 | 2260 | 579 | 
 

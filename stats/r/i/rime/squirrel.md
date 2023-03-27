@@ -1,10 +1,10 @@
 # rime/squirrel - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 357
 
-★ Stars: 3559
+★ Stars: 3562
 
 [Open repository](https://github.com/rime/squirrel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 3562 | 357 | 
 | 2023-03-25 | 3559 | 357 | 
 | 2023-03-24 | 3560 | 358 | 
 | 2023-03-22 | 3561 | 358 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 3529 | 356 | 
 | 2023-02-27 | 3527 | 356 | 
 | 2023-02-26 | 3524 | 356 | 
-| 2023-02-24 | 3523 | 354 | 
 

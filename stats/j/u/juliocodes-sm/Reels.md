@@ -1,10 +1,10 @@
 # juliocodes-sm/Reels - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 29
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/juliocodes-sm/Reels)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 69 | 29 | 
 | 2023-03-25 | 68 | 29 | 
 | 2023-03-24 | 66 | 30 | 
 | 2023-03-22 | 65 | 28 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 47 | 23 | 
 | 2023-02-26 | 47 | 22 | 
 | 2023-02-25 | 45 | 22 | 
-| 2023-02-24 | 43 | 22 | 
 

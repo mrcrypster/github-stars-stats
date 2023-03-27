@@ -1,6 +1,6 @@
 # ufs-community/ufs-weather-model - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 104 | 192 | 
 | 2023-03-25 | 104 | 192 | 
 | 2023-03-24 | 104 | 192 | 
 | 2023-03-22 | 104 | 192 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 102 | 187 | 
 | 2023-02-26 | 102 | 186 | 
 | 2023-02-25 | 102 | 186 | 
-| 2023-02-24 | 102 | 186 | 
 

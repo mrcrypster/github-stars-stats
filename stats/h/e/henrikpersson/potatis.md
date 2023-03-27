@@ -1,10 +1,10 @@
 # henrikpersson/potatis - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 591
+★ Stars: 594
 
 [Open repository](https://github.com/henrikpersson/potatis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 594 | 4 | 
 | 2023-03-25 | 591 | 4 | 
 | 2023-03-23 | 591 | 4 | 
 | 2023-03-22 | 589 | 4 | 

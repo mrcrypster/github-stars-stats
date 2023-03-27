@@ -1,10 +1,10 @@
 # stevearc/dressing.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 20
 
-★ Stars: 915
+★ Stars: 916
 
 [Open repository](https://github.com/stevearc/dressing.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 916 | 20 | 
 | 2023-03-25 | 915 | 20 | 
 | 2023-03-24 | 914 | 20 | 
 | 2023-03-22 | 914 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 881 | 20 | 
 | 2023-02-26 | 881 | 20 | 
 | 2023-02-25 | 881 | 20 | 
-| 2023-02-24 | 878 | 20 | 
 

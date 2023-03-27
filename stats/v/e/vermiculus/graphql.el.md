@@ -1,6 +1,6 @@
 # vermiculus/graphql.el - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 61 | 6 | 
 | 2023-03-25 | 61 | 6 | 
 | 2023-03-24 | 61 | 6 | 
 | 2023-03-22 | 61 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 61 | 6 | 
 | 2023-02-26 | 61 | 6 | 
 | 2023-02-25 | 61 | 6 | 
-| 2023-02-24 | 61 | 6 | 
 

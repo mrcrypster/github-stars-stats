@@ -1,10 +1,10 @@
 # inverse-scaling/prize - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 13
 
-★ Stars: 394
+★ Stars: 399
 
 [Open repository](https://github.com/inverse-scaling/prize)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 399 | 13 | 
 | 2023-03-25 | 394 | 13 | 
 | 2023-03-24 | 390 | 13 | 
 | 2023-03-22 | 386 | 13 | 

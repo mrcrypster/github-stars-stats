@@ -1,10 +1,10 @@
 # ldc-developers/ldc - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 238
 
-★ Stars: 1081
+★ Stars: 1082
 
 [Open repository](https://github.com/ldc-developers/ldc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1082 | 238 | 
 | 2023-03-25 | 1081 | 238 | 
 | 2023-03-24 | 1081 | 238 | 
 | 2023-03-22 | 1080 | 238 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 1070 | 238 | 
 | 2023-02-26 | 1070 | 238 | 
 | 2023-02-25 | 1070 | 238 | 
-| 2023-02-24 | 1070 | 238 | 
 

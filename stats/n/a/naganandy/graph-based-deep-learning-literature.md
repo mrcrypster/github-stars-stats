@@ -1,10 +1,10 @@
 # naganandy/graph-based-deep-learning-literature - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 707
+☋ Forks: 706
 
-★ Stars: 4106
+★ Stars: 4105
 
 [Open repository](https://github.com/naganandy/graph-based-deep-learning-literature)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4105 | 706 | 
 | 2023-03-24 | 4106 | 707 | 
 | 2023-03-23 | 4101 | 707 | 
 | 2023-03-22 | 4100 | 706 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 4076 | 699 | 
 | 2023-02-27 | 4074 | 699 | 
 | 2023-02-26 | 4072 | 699 | 
-| 2023-02-24 | 4069 | 699 | 
 

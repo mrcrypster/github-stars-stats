@@ -1,6 +1,6 @@
 # Finalboss77/Best-foss-apps-for-privacy-security- - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 152 | 3 | 
 | 2023-03-25 | 152 | 3 | 
 | 2023-03-24 | 152 | 3 | 
 | 2023-03-22 | 151 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 145 | 3 | 
 | 2023-02-27 | 144 | 3 | 
 | 2023-02-26 | 144 | 3 | 
-| 2023-02-25 | 144 | 3 | 
 

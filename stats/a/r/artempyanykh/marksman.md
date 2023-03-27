@@ -1,10 +1,10 @@
 # artempyanykh/marksman - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 836
+★ Stars: 837
 
 [Open repository](https://github.com/artempyanykh/marksman)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 837 | 18 | 
 | 2023-03-25 | 836 | 17 | 
 | 2023-03-24 | 835 | 17 | 
 | 2023-03-23 | 835 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 769 | 18 | 
 | 2023-02-26 | 768 | 18 | 
 | 2023-02-25 | 763 | 18 | 
-| 2023-02-24 | 762 | 18 | 
 

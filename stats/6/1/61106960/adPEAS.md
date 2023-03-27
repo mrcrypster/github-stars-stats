@@ -1,10 +1,10 @@
 # 61106960/adPEAS - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 83
 
-★ Stars: 494
+★ Stars: 495
 
 [Open repository](https://github.com/61106960/adPEAS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 495 | 83 | 
 | 2023-03-25 | 494 | 83 | 
 | 2023-03-24 | 493 | 83 | 
 | 2023-03-22 | 490 | 83 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 476 | 80 | 
 | 2023-02-26 | 474 | 80 | 
 | 2023-02-25 | 474 | 80 | 
-| 2023-02-24 | 473 | 79 | 
 

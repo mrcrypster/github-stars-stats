@@ -1,8 +1,8 @@
 # emacs-eask/eask - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
-☋ Forks: 1
+☋ Forks: 3
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 5 | 3 | 
 | 2023-03-25 | 5 | 1 | 
 | 2023-03-24 | 2 | 1 | 
 | 2023-03-22 | 2 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 2 | 1 | 
 | 2023-02-26 | 2 | 1 | 
 | 2023-02-25 | 2 | 1 | 
-| 2023-02-24 | 2 | 1 | 
 

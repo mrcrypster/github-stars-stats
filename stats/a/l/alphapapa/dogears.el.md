@@ -1,10 +1,10 @@
 # alphapapa/dogears.el - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/alphapapa/dogears.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 151 | 4 | 
 | 2023-03-25 | 150 | 4 | 
 | 2023-03-23 | 150 | 4 | 
 | 2023-03-22 | 150 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 151 | 3 | 
 | 2023-02-27 | 151 | 3 | 
 | 2023-02-25 | 151 | 3 | 
-| 2023-02-24 | 151 | 3 | 
 

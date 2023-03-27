@@ -1,6 +1,6 @@
 # CITUCCS/csit327-dapper-3-school-multimapping-solution - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | - | 1 | 
 | 2023-03-25 | - | 1 | 
 | 2023-03-24 | - | 1 | 
 | 2023-03-23 | - | 1 | 

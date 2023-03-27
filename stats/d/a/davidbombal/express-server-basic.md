@@ -1,10 +1,10 @@
 # davidbombal/express-server-basic - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 66
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/davidbombal/express-server-basic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 140 | 66 | 
 | 2023-03-25 | 139 | 66 | 
 | 2023-03-24 | 139 | 66 | 
 | 2023-03-22 | 139 | 66 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 138 | 64 | 
 | 2023-02-26 | 137 | 64 | 
 | 2023-02-25 | 137 | 64 | 
-| 2023-02-24 | 137 | 63 | 
 

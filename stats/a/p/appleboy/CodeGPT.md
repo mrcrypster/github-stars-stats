@@ -1,10 +1,10 @@
 # appleboy/CodeGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 228
+★ Stars: 234
 
 [Open repository](https://github.com/appleboy/CodeGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 234 | 6 | 
 | 2023-03-25 | 228 | 6 | 
 | 2023-03-23 | 217 | 5 | 
 | 2023-03-22 | 215 | 5 | 

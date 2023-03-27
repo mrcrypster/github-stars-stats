@@ -1,6 +1,6 @@
 # shogo82148/actions-setup-perl - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 64 | 4 | 
 | 2023-03-24 | 64 | 4 | 
 | 2023-03-23 | 64 | 4 | 
 | 2023-03-21 | 64 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 63 | 4 | 
 | 2023-02-26 | 63 | 4 | 
 | 2023-02-25 | 62 | 4 | 
-| 2023-02-24 | 62 | 4 | 
 

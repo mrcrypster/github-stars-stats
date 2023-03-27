@@ -1,6 +1,6 @@
 # cepxeo/dll4shell - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 195 | 39 | 
 | 2023-03-25 | 195 | 39 | 
 | 2023-03-24 | 195 | 39 | 
 | 2023-03-22 | 195 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 195 | 40 | 
 | 2023-02-26 | 195 | 40 | 
 | 2023-02-25 | 195 | 40 | 
-| 2023-02-24 | 195 | 40 | 
 

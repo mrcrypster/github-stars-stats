@@ -1,6 +1,6 @@
 # gydoma/arcade - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 4 | 7 | 
 | 2023-03-24 | 4 | 7 | 
 | 2023-03-23 | 4 | 7 | 
 | 2023-03-22 | 4 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 3 | 6 | 
 | 2023-02-26 | 3 | 6 | 
 | 2023-02-25 | 3 | 6 | 
-| 2023-02-24 | 3 | 6 | 
 

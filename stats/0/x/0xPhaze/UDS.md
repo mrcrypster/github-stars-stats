@@ -1,6 +1,6 @@
 # 0xPhaze/UDS - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 40 | 3 | 
 | 2023-03-25 | 40 | 3 | 
 | 2023-03-24 | 39 | 3 | 
 | 2023-03-23 | 38 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 38 | 3 | 
 | 2023-02-27 | 38 | 3 | 
 | 2023-02-26 | 38 | 3 | 
-| 2023-02-24 | 38 | 3 | 
 

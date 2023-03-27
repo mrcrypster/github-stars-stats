@@ -1,6 +1,6 @@
 # purescript/purescript-profunctor - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 30 | 14 | 
 | 2023-03-24 | 30 | 14 | 
 | 2023-03-23 | 30 | 14 | 
 | 2023-03-22 | 30 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 30 | 14 | 
 | 2023-02-27 | 30 | 14 | 
 | 2023-02-25 | 30 | 14 | 
-| 2023-02-24 | 30 | 14 | 
 

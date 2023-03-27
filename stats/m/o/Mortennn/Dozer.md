@@ -1,10 +1,10 @@
 # Mortennn/Dozer - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 224
 
-★ Stars: 6929
+★ Stars: 6931
 
 [Open repository](https://github.com/Mortennn/Dozer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 6931 | 224 | 
 | 2023-03-25 | 6929 | 224 | 
 | 2023-03-23 | 6925 | 224 | 
 | 2023-03-22 | 6921 | 224 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 6861 | 221 | 
 | 2023-02-26 | 6859 | 221 | 
 | 2023-02-25 | 6859 | 221 | 
-| 2023-02-24 | 6858 | 222 | 
 

@@ -1,6 +1,6 @@
 # PROGR-2223/01_git - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1 | 61 | 
 | 2023-03-25 | 1 | 61 | 
 | 2023-03-23 | 1 | 61 | 
 | 2023-03-22 | 1 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1 | 57 | 
 | 2023-02-26 | 1 | 57 | 
 | 2023-02-25 | 1 | 57 | 
-| 2023-02-24 | 1 | 57 | 
 

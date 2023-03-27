@@ -1,6 +1,6 @@
 # maheshkn400/DevOps - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 10 | 36 | 
 | 2023-03-24 | 10 | 36 | 
 | 2023-03-22 | 10 | 36 | 
 | 2023-03-21 | 10 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 10 | 36 | 
 | 2023-02-26 | 10 | 36 | 
 | 2023-02-25 | 10 | 36 | 
-| 2023-02-24 | 10 | 36 | 
 

@@ -1,6 +1,6 @@
 # a16z/evm-powers-of-tau - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 87 | 4 | 
 | 2023-03-24 | 87 | 4 | 
 | 2023-03-23 | 87 | 4 | 
 | 2023-03-22 | 87 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 86 | 4 | 
 | 2023-02-26 | 86 | 4 | 
 | 2023-02-25 | 86 | 4 | 
-| 2023-02-24 | 86 | 4 | 
 

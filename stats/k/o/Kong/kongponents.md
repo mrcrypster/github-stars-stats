@@ -1,6 +1,6 @@
 # Kong/kongponents - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 98 | 17 | 
 | 2023-03-25 | 98 | 17 | 
 | 2023-03-23 | 98 | 17 | 
 | 2023-03-22 | 98 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 98 | 17 | 
 | 2023-02-26 | 98 | 17 | 
 | 2023-02-25 | 98 | 17 | 
-| 2023-02-24 | 98 | 17 | 
 

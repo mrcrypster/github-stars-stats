@@ -1,6 +1,6 @@
 # erlware/erlcron - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 251 | 138 | 
 | 2023-03-25 | 251 | 138 | 
 | 2023-03-24 | 251 | 138 | 
 | 2023-03-22 | 251 | 138 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 249 | 138 | 
 | 2023-02-26 | 249 | 138 | 
 | 2023-02-25 | 249 | 138 | 
-| 2023-02-24 | 249 | 138 | 
 

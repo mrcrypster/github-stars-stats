@@ -1,10 +1,10 @@
 # ChifiSource/Olive.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/ChifiSource/Olive.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 79 | 3 | 
 | 2023-03-25 | 78 | 3 | 
 | 2023-03-24 | 76 | 3 | 
 | 2023-03-23 | 76 | 3 | 

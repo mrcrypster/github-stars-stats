@@ -1,10 +1,10 @@
 # iawia002/lux - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
-☋ Forks: 2421
+☋ Forks: 2420
 
-★ Stars: 20435
+★ Stars: 20446
 
 [Open repository](https://github.com/iawia002/lux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 20446 | 2420 | 
 | 2023-03-24 | 20435 | 2421 | 
 | 2023-03-23 | 20427 | 2422 | 
 | 2023-03-22 | 20418 | 2423 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-28 | 20245 | 2415 | 
 | 2023-02-27 | 20239 | 2414 | 
 | 2023-02-25 | 20234 | 2413 | 
-| 2023-02-24 | 20229 | 2413 | 
 

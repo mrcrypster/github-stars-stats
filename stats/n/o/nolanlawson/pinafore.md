@@ -1,6 +1,6 @@
 # nolanlawson/pinafore - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1020 | 162 | 
 | 2023-03-25 | 1020 | 162 | 
 | 2023-03-23 | 1020 | 162 | 
 | 2023-03-22 | 1020 | 162 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 1021 | 162 | 
 | 2023-02-26 | 1021 | 162 | 
 | 2023-02-25 | 1020 | 161 | 
-| 2023-02-24 | 1019 | 160 | 
 

@@ -1,10 +1,10 @@
 # PostHog/posthog-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 23
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/PostHog/posthog-ios)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 12 | 23 | 
+| 2023-03-26 | 12 | 23 | 
 | 2023-03-25 | 11 | 23 | 
 | 2023-03-23 | 11 | 23 | 
 | 2023-03-22 | 11 | 22 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 11 | 22 | 
 | 2023-02-27 | 11 | 22 | 
 | 2023-02-25 | 11 | 22 | 
-| 2023-02-24 | 11 | 22 | 
 

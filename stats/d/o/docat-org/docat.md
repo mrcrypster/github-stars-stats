@@ -1,10 +1,10 @@
 # docat-org/docat - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 31
 
-★ Stars: 576
+★ Stars: 577
 
 [Open repository](https://github.com/docat-org/docat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 577 | 31 | 
 | 2023-03-24 | 576 | 31 | 
 | 2023-03-23 | 574 | 31 | 
 | 2023-03-22 | 572 | 31 | 

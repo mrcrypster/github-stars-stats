@@ -1,6 +1,6 @@
 # italia/design-comuni-pagine-statiche - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 14 | 19 | 
 | 2023-03-24 | 14 | 19 | 
 | 2023-03-23 | 14 | 19 | 
 | 2023-03-22 | 14 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 13 | 17 | 
 | 2023-02-26 | 13 | 17 | 
 | 2023-02-25 | 13 | 17 | 
-| 2023-02-24 | 13 | 17 | 
 

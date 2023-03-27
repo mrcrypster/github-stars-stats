@@ -1,6 +1,6 @@
 # matschik/component-party - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 683 | 87 | 
 | 2023-03-25 | 683 | 87 | 
 | 2023-03-24 | 681 | 87 | 
 | 2023-03-22 | 677 | 87 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-27 | 655 | 87 | 
 | 2023-02-26 | 653 | 87 | 
 | 2023-02-25 | 648 | 86 | 
-| 2023-02-24 | 648 | 86 | 
 

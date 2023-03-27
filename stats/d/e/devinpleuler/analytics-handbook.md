@@ -1,6 +1,6 @@
 # devinpleuler/analytics-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 1169 | 180 | 
 | 2023-03-25 | 1169 | 180 | 
 | 2023-03-24 | 1168 | 179 | 
 | 2023-03-22 | 1167 | 179 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 1159 | 178 | 
 | 2023-02-26 | 1157 | 178 | 
 | 2023-02-25 | 1155 | 178 | 
-| 2023-02-24 | 1154 | 177 | 
 

@@ -1,6 +1,6 @@
 # Ennoriel/svelte-awesome-color-picker - stars & forks statistics
 
-Stats updated on Mar 2023, 24
+Stats updated on Mar 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-26 | 55 | 7 | 
 | 2023-03-24 | 55 | 7 | 
 | 2023-03-23 | 54 | 7 | 
 | 2023-03-21 | 54 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 24
 | 2023-02-27 | 51 | 7 | 
 | 2023-02-26 | 50 | 7 | 
 | 2023-02-25 | 50 | 7 | 
-| 2023-02-24 | 50 | 8 | 
 
