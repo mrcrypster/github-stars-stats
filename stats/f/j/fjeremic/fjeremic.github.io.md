@@ -1,8 +1,8 @@
 # fjeremic/fjeremic.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | 3 | 
 | 2023-03-26 | 3 | 2 | 
 | 2023-03-25 | 3 | 2 | 
 | 2023-03-24 | 3 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2 | 1 | 
 | 2023-02-27 | 2 | 1 | 
 | 2023-02-26 | 2 | 1 | 
-| 2023-02-25 | 2 | 1 | 
 

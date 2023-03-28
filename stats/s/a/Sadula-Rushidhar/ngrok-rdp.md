@@ -1,10 +1,10 @@
 # Sadula-Rushidhar/ngrok-rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 196
+☋ Forks: 285
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Sadula-Rushidhar/ngrok-rdp)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3 | 285 | 
+| 2023-03-27 | 3 | 266 | 
 | 2023-03-26 | 2 | 196 | 
 | 2023-03-25 | 2 | 182 | 
 | 2023-03-24 | 2 | 148 | 

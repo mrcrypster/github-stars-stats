@@ -1,10 +1,10 @@
 # raspu/Highlightr - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 215
 
-★ Stars: 1428
+★ Stars: 1429
 
 [Open repository](https://github.com/raspu/Highlightr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1429 | 215 | 
 | 2023-03-26 | 1428 | 215 | 
 | 2023-03-25 | 1427 | 215 | 
 | 2023-03-23 | 1426 | 214 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1410 | 214 | 
 | 2023-02-27 | 1410 | 214 | 
 | 2023-02-26 | 1409 | 214 | 
-| 2023-02-25 | 1408 | 214 | 
 

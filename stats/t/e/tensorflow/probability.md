@@ -1,10 +1,10 @@
 # tensorflow/probability - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1057
 
-★ Stars: 3878
+★ Stars: 3879
 
 [Open repository](https://github.com/tensorflow/probability)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3879 | 1057 | 
 | 2023-03-26 | 3878 | 1057 | 
 | 2023-03-25 | 3878 | 1057 | 
 | 2023-03-23 | 3875 | 1057 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3865 | 1053 | 
 | 2023-02-27 | 3865 | 1053 | 
 | 2023-02-26 | 3864 | 1052 | 
-| 2023-02-25 | 3863 | 1052 | 
 

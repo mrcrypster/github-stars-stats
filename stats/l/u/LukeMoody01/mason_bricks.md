@@ -1,10 +1,10 @@
 # LukeMoody01/mason_bricks - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 35
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/LukeMoody01/mason_bricks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 92 | 35 | 
 | 2023-03-26 | 91 | 35 | 
 | 2023-03-25 | 91 | 35 | 
 | 2023-03-23 | 89 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 86 | 34 | 
 | 2023-02-28 | 86 | 33 | 
 | 2023-02-26 | 85 | 33 | 
-| 2023-02-25 | 85 | 33 | 
 

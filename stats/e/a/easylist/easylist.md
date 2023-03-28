@@ -1,10 +1,10 @@
 # easylist/easylist - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 590
 
-★ Stars: 1577
+★ Stars: 1579
 
 [Open repository](https://github.com/easylist/easylist)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1579 | 590 | 
+| 2023-03-27 | 1578 | 590 | 
 | 2023-03-26 | 1577 | 590 | 
 | 2023-03-25 | 1577 | 590 | 
 | 2023-03-24 | 1575 | 590 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1552 | 584 | 
 | 2023-02-27 | 1549 | 584 | 
 | 2023-02-26 | 1545 | 584 | 
-| 2023-02-25 | 1544 | 580 | 
 

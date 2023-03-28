@@ -1,10 +1,10 @@
 # mymusise/ChatGLM-Tuning - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 81
+☋ Forks: 95
 
-★ Stars: 779
+★ Stars: 865
 
 [Open repository](https://github.com/mymusise/ChatGLM-Tuning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 865 | 95 | 
 | 2023-03-26 | 779 | 81 | 
 | 2023-03-24 | 727 | 69 | 
 | 2023-03-23 | 595 | 56 | 

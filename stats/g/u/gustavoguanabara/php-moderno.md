@@ -1,10 +1,10 @@
 # gustavoguanabara/php-moderno - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/gustavoguanabara/php-moderno)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 175 | 24 | 
 | 2023-03-25 | 174 | 25 | 
 | 2023-03-24 | 174 | 25 | 
 | 2023-03-23 | 170 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 119 | 5 | 
 | 2023-02-27 | 115 | 4 | 
 | 2023-02-26 | 113 | 4 | 
-| 2023-02-25 | 112 | 4 | 
 

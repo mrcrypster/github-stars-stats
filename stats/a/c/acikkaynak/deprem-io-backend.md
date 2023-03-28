@@ -1,6 +1,6 @@
 # acikkaynak/deprem-io-backend - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 79 | 29 | 
 | 2023-03-26 | 79 | 29 | 
 | 2023-03-24 | 79 | 29 | 
 | 2023-03-22 | 79 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 81 | 30 | 
 | 2023-02-27 | 81 | 30 | 
 | 2023-02-26 | 80 | 29 | 
-| 2023-02-25 | 80 | 29 | 
 

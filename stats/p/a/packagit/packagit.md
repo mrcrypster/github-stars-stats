@@ -1,10 +1,10 @@
 # packagit/packagit - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 17
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/packagit/packagit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 366 | 17 | 
 | 2023-03-25 | 365 | 17 | 
 | 2023-03-24 | 365 | 17 | 
 | 2023-03-23 | 365 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 365 | 16 | 
 | 2023-02-28 | 365 | 16 | 
 | 2023-02-27 | 365 | 16 | 
-| 2023-02-26 | 365 | 16 | 
 

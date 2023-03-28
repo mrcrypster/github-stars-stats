@@ -1,10 +1,10 @@
 # kubernetes/design-proposals-archive - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 126
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/kubernetes/design-proposals-archive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 312 | 126 | 
 | 2023-03-26 | 311 | 126 | 
 | 2023-03-24 | 311 | 126 | 
 | 2023-03-23 | 310 | 126 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 298 | 117 | 
 | 2023-02-27 | 296 | 117 | 
 | 2023-02-26 | 296 | 117 | 
-| 2023-02-25 | 296 | 118 | 
 

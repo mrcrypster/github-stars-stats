@@ -1,6 +1,6 @@
 # lambdaisland/deep-diff2 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 267 | 15 | 
 | 2023-03-26 | 267 | 15 | 
 | 2023-03-25 | 267 | 15 | 
 | 2023-03-23 | 266 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 264 | 14 | 
 | 2023-02-27 | 264 | 14 | 
 | 2023-02-26 | 264 | 14 | 
-| 2023-02-25 | 264 | 14 | 
 

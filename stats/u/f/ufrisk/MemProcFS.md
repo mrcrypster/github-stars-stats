@@ -1,10 +1,10 @@
 # ufrisk/MemProcFS - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 230
 
-★ Stars: 1841
+★ Stars: 1842
 
 [Open repository](https://github.com/ufrisk/MemProcFS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1842 | 230 | 
 | 2023-03-25 | 1841 | 230 | 
 | 2023-03-24 | 1841 | 230 | 
 | 2023-03-22 | 1840 | 229 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 1818 | 228 | 
 | 2023-02-28 | 1814 | 227 | 
 | 2023-02-26 | 1803 | 227 | 
-| 2023-02-25 | 1799 | 227 | 
 

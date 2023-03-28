@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/budimanjojo/dotfiles)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 90 | 6 | 
+| 2023-03-27 | 91 | 6 | 
 | 2023-03-26 | 90 | 6 | 
 

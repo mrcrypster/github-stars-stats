@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-building-applications-gems-and-bundler - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 1725
+☋ Forks: 1727
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | - | 1727 | 
 | 2023-03-26 | - | 1725 | 
 | 2023-03-25 | - | 1723 | 
 | 2023-03-24 | - | 1720 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | - | 1694 | 
 | 2023-02-28 | - | 1695 | 
 | 2023-02-26 | - | 1692 | 
-| 2023-02-25 | - | 1688 | 
 

@@ -1,10 +1,10 @@
 # nunomaduro/phpinsights - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 268
 
-★ Stars: 4948
+★ Stars: 4950
 
 [Open repository](https://github.com/nunomaduro/phpinsights)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4950 | 268 | 
 | 2023-03-26 | 4948 | 268 | 
 | 2023-03-24 | 4948 | 268 | 
 | 2023-03-23 | 4947 | 269 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4919 | 266 | 
 | 2023-02-27 | 4916 | 265 | 
 | 2023-02-26 | 4912 | 265 | 
-| 2023-02-25 | 4909 | 265 | 
 

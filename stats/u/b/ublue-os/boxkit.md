@@ -1,10 +1,10 @@
 # ublue-os/boxkit - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 23
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/ublue-os/boxkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 32 | 23 | 
 | 2023-03-26 | 30 | 23 | 
 | 2023-03-25 | 30 | 23 | 
 | 2023-03-24 | 29 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 19 | 19 | 
 | 2023-02-28 | 19 | 18 | 
 | 2023-02-26 | 16 | 19 | 
-| 2023-02-25 | 16 | 18 | 
 

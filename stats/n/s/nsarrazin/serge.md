@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 122
+☋ Forks: 124
 
-★ Stars: 2225
+★ Stars: 2306
 
 [Open repository](https://github.com/nsarrazin/serge)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 2225 | 122 | 
+| 2023-03-27 | 2306 | 124 | 
 | 2023-03-26 | 2137 | 117 | 
 | 2023-03-25 | 1881 | 103 | 
 | 2023-03-24 | 1429 | 74 | 

@@ -1,10 +1,10 @@
 # aczw/sddm-theme-corners - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/aczw/sddm-theme-corners)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 28 | 4 | 
 | 2023-03-26 | 27 | 4 | 
 | 2023-03-25 | 26 | 4 | 
 | 2023-03-23 | 26 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 21 | 4 | 
 | 2023-02-27 | 21 | 4 | 
 | 2023-02-26 | 21 | 4 | 
-| 2023-02-25 | 21 | 4 | 
 

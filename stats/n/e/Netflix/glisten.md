@@ -1,6 +1,6 @@
 # Netflix/glisten - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 66 | 31 | 
 | 2023-03-26 | 66 | 31 | 
 | 2023-03-24 | 66 | 31 | 
 | 2023-03-23 | 66 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 65 | 30 | 
 | 2023-02-28 | 65 | 30 | 
 | 2023-02-26 | 65 | 30 | 
-| 2023-02-25 | 65 | 30 | 
 

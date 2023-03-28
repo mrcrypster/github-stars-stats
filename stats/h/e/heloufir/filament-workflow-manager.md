@@ -1,10 +1,10 @@
 # heloufir/filament-workflow-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 49
+★ Stars: 52
 
 [Open repository](https://github.com/heloufir/filament-workflow-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 52 | 6 | 
 | 2023-03-26 | 49 | 6 | 
 | 2023-03-25 | 49 | 6 | 
 | 2023-03-23 | 49 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 47 | 6 | 
 | 2023-02-28 | 47 | 6 | 
 | 2023-02-27 | 46 | 5 | 
-| 2023-02-26 | 46 | 5 | 
 

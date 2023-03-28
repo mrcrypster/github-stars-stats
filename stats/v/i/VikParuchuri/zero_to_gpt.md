@@ -1,10 +1,10 @@
 # VikParuchuri/zero_to_gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 202
+★ Stars: 208
 
 [Open repository](https://github.com/VikParuchuri/zero_to_gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 208 | 82 | 
 | 2023-03-26 | 202 | 81 | 
 | 2023-03-25 | 201 | 79 | 
 | 2023-03-24 | 198 | 79 | 

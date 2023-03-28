@@ -1,10 +1,10 @@
 # actions/cache - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 938
+☋ Forks: 940
 
-★ Stars: 3537
+★ Stars: 3540
 
 [Open repository](https://github.com/actions/cache)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3540 | 940 | 
 | 2023-03-25 | 3537 | 938 | 
 | 2023-03-24 | 3535 | 935 | 
 | 2023-03-23 | 3529 | 933 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 3483 | 917 | 
 | 2023-02-27 | 3480 | 914 | 
 | 2023-02-26 | 3474 | 914 | 
-| 2023-02-25 | 3470 | 915 | 
 

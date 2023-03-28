@@ -1,6 +1,6 @@
 # ad4mx/spinoff - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 386 | 8 | 
 | 2023-03-26 | 386 | 8 | 
 | 2023-03-25 | 386 | 8 | 
 | 2023-03-23 | 386 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 385 | 8 | 
 | 2023-02-27 | 385 | 8 | 
 | 2023-02-26 | 385 | 8 | 
-| 2023-02-25 | 385 | 8 | 
 

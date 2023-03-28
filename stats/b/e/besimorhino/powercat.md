@@ -1,10 +1,10 @@
 # besimorhino/powercat - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 456
+☋ Forks: 457
 
-★ Stars: 1742
+★ Stars: 1743
 
 [Open repository](https://github.com/besimorhino/powercat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1743 | 457 | 
 | 2023-03-26 | 1742 | 456 | 
 | 2023-03-24 | 1740 | 456 | 
 | 2023-03-23 | 1739 | 456 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1722 | 460 | 
 | 2023-02-28 | 1721 | 460 | 
 | 2023-02-26 | 1721 | 460 | 
-| 2023-02-25 | 1721 | 460 | 
 

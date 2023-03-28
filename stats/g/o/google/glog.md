@@ -1,10 +1,10 @@
 # google/glog - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1936
+☋ Forks: 1937
 
-★ Stars: 6012
+★ Stars: 6013
 
 [Open repository](https://github.com/google/glog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6013 | 1937 | 
 | 2023-03-26 | 6012 | 1936 | 
 | 2023-03-25 | 6012 | 1936 | 
 | 2023-03-24 | 6011 | 1937 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 5968 | 1931 | 
 | 2023-02-27 | 5969 | 1929 | 
 | 2023-02-26 | 5968 | 1928 | 
-| 2023-02-25 | 5964 | 1928 | 
 

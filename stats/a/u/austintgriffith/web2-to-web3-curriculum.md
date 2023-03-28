@@ -1,10 +1,10 @@
 # austintgriffith/web2-to-web3-curriculum - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 27
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/austintgriffith/web2-to-web3-curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 245 | 27 | 
 | 2023-03-26 | 244 | 27 | 
 | 2023-03-25 | 244 | 27 | 
 | 2023-03-23 | 243 | 27 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 240 | 26 | 
 | 2023-02-27 | 240 | 26 | 
 | 2023-02-26 | 240 | 26 | 
-| 2023-02-25 | 240 | 26 | 
 

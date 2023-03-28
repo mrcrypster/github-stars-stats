@@ -1,6 +1,6 @@
 # mrdbourke/pytorch-apple-silicon - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 218 | 36 | 
 | 2023-03-26 | 218 | 36 | 
 | 2023-03-24 | 216 | 36 | 
 | 2023-03-23 | 214 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 202 | 35 | 
 | 2023-02-27 | 201 | 35 | 
 | 2023-02-26 | 200 | 37 | 
-| 2023-02-25 | 199 | 37 | 
 

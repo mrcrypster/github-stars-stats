@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 20
 
-★ Stars: 136
+★ Stars: 138
 
 [Open repository](https://github.com/jcrodriguez1989/chatgpt)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 136 | 20 | 
+| 2023-03-27 | 138 | 20 | 
 | 2023-03-26 | 135 | 20 | 
 | 2023-03-25 | 132 | 19 | 
 | 2023-03-24 | 129 | 19 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 54 | 11 | 
 | 2023-02-27 | 53 | 11 | 
 | 2023-02-26 | 53 | 11 | 
-| 2023-02-25 | 53 | 11 | 
 

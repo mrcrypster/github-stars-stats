@@ -1,10 +1,10 @@
 # Saik0s/Whisperboard - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 25
 
-★ Stars: 210
+★ Stars: 215
 
 [Open repository](https://github.com/Saik0s/Whisperboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 215 | 25 | 
 | 2023-03-26 | 210 | 25 | 
 | 2023-03-25 | 209 | 25 | 
 | 2023-03-23 | 207 | 25 | 

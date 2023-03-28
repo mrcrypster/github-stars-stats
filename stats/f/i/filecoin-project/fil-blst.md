@@ -1,8 +1,8 @@
 # filecoin-project/fil-blst - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 15
+☋ Forks: 14
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 9 | 14 | 
 | 2023-03-26 | 9 | 15 | 
 | 2023-03-25 | 9 | 15 | 
 | 2023-03-24 | 9 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 9 | 14 | 
 | 2023-02-27 | 9 | 14 | 
 | 2023-02-26 | 9 | 14 | 
-| 2023-02-25 | 9 | 14 | 
 

@@ -1,10 +1,10 @@
 # LyonSyonII/lyon-deck-toolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/LyonSyonII/lyon-deck-toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 54 | - | 
 | 2023-03-26 | 53 | - | 
 | 2023-03-25 | 53 | - | 
 | 2023-03-23 | 53 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 52 | - | 
 | 2023-02-28 | 51 | - | 
 | 2023-02-26 | 51 | - | 
-| 2023-02-25 | 51 | - | 
 

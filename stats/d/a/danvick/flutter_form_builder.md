@@ -1,10 +1,10 @@
 # danvick/flutter_form_builder - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 454
+☋ Forks: 455
 
-★ Stars: 1235
+★ Stars: 1236
 
 [Open repository](https://github.com/danvick/flutter_form_builder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1236 | 455 | 
 | 2023-03-26 | 1235 | 454 | 
 | 2023-03-25 | 1236 | 453 | 
 | 2023-03-23 | 1235 | 453 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1222 | 450 | 
 | 2023-02-27 | 1222 | 450 | 
 | 2023-02-26 | 1223 | 450 | 
-| 2023-02-25 | 1223 | 450 | 
 

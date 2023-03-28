@@ -1,10 +1,10 @@
 # tpope/vim-dotenv - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 163
+★ Stars: 162
 
 [Open repository](https://github.com/tpope/vim-dotenv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 162 | 6 | 
 | 2023-03-26 | 163 | 6 | 
 | 2023-03-25 | 162 | 6 | 
 | 2023-03-23 | 162 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 160 | 6 | 
 | 2023-02-27 | 160 | 6 | 
 | 2023-02-26 | 160 | 6 | 
-| 2023-02-25 | 160 | 6 | 
 

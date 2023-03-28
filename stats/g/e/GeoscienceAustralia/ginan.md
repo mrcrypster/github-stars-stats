@@ -1,8 +1,8 @@
 # GeoscienceAustralia/ginan - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 126
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 126 | 67 | 
 | 2023-03-26 | 126 | 66 | 
 | 2023-03-25 | 125 | 66 | 
 | 2023-03-23 | 125 | 66 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 125 | 66 | 
 | 2023-02-28 | 122 | 66 | 
 | 2023-02-27 | 122 | 66 | 
-| 2023-02-25 | 122 | 66 | 
 

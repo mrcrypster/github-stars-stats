@@ -1,10 +1,10 @@
 # kpatel427/YouTubeTutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/kpatel427/YouTubeTutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 95 | 64 | 
 | 2023-03-26 | 94 | 63 | 
 | 2023-03-25 | 94 | 63 | 
 | 2023-03-24 | 94 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 88 | 55 | 
 | 2023-02-27 | 87 | 55 | 
 | 2023-02-26 | 87 | 55 | 
-| 2023-02-25 | 87 | 55 | 
 

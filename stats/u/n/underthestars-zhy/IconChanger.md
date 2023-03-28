@@ -1,10 +1,10 @@
 # underthestars-zhy/IconChanger - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 673
+★ Stars: 672
 
 [Open repository](https://github.com/underthestars-zhy/IconChanger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 672 | 11 | 
 | 2023-03-25 | 673 | 11 | 
 | 2023-03-24 | 671 | 11 | 
 | 2023-03-23 | 670 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 645 | 10 | 
 | 2023-02-27 | 644 | 10 | 
 | 2023-02-26 | 645 | 10 | 
-| 2023-02-25 | 645 | 10 | 
 

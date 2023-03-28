@@ -1,6 +1,6 @@
 # BastiaanJansen/toast-swift - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 273 | 47 | 
 | 2023-03-26 | 273 | 47 | 
 | 2023-03-25 | 271 | 47 | 
 | 2023-03-24 | 270 | 47 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 260 | 44 | 
 | 2023-02-27 | 260 | 43 | 
 | 2023-02-26 | 259 | 43 | 
-| 2023-02-25 | 259 | 43 | 
 

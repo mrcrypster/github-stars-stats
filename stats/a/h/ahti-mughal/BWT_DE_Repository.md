@@ -1,10 +1,10 @@
 # ahti-mughal/BWT_DE_Repository - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/ahti-mughal/BWT_DE_Repository)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4 | 51 | 
+| 2023-03-27 | 3 | 51 | 
 | 2023-03-26 | 3 | 50 | 
 | 2023-03-25 | 3 | 45 | 
 | 2023-03-24 | 3 | 44 | 

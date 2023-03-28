@@ -1,6 +1,6 @@
 # DigitalMars/med - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 83 | 14 | 
 | 2023-03-26 | 83 | 14 | 
 | 2023-03-25 | 83 | 14 | 
 | 2023-03-24 | 83 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 81 | 14 | 
 | 2023-02-28 | 81 | 14 | 
 | 2023-02-26 | 81 | 14 | 
-| 2023-02-25 | 81 | 14 | 
 

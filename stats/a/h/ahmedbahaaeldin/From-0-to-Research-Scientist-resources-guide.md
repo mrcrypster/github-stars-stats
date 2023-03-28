@@ -1,10 +1,10 @@
 # ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 837
+☋ Forks: 838
 
-★ Stars: 6144
+★ Stars: 6150
 
 [Open repository](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 6150 | 838 | 
 | 2023-03-26 | 6144 | 837 | 
 | 2023-03-25 | 6139 | 836 | 
 | 2023-03-23 | 6134 | 836 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 5411 | 710 | 
 | 2023-02-27 | 5402 | 710 | 
 | 2023-02-26 | 5357 | 705 | 
-| 2023-02-25 | 5326 | 699 | 
 

@@ -1,6 +1,6 @@
 # getify/youperiod.app - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 427 | 80 | 
 | 2023-03-26 | 427 | 80 | 
 | 2023-03-25 | 427 | 80 | 
 | 2023-03-24 | 427 | 80 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 425 | 80 | 
 | 2023-02-28 | 425 | 80 | 
 | 2023-02-26 | 425 | 80 | 
-| 2023-02-25 | 425 | 80 | 
 

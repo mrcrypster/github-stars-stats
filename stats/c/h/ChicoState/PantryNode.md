@@ -1,6 +1,6 @@
 # ChicoState/PantryNode - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2 | 36 | 
 | 2023-03-26 | 2 | 36 | 
 | 2023-03-24 | 2 | 36 | 
 | 2023-03-23 | 2 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | - | 34 | 
 | 2023-02-27 | - | 28 | 
 | 2023-02-26 | - | 28 | 
-| 2023-02-25 | - | 28 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 386
 
-★ Stars: 974
+★ Stars: 975
 
 [Open repository](https://github.com/JuliaStats/Distributions.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 974 | 386 | 
+| 2023-03-27 | 975 | 386 | 
 | 2023-03-26 | 974 | 386 | 
 | 2023-03-24 | 973 | 384 | 
 | 2023-03-23 | 971 | 384 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 968 | 379 | 
 | 2023-02-27 | 968 | 379 | 
 | 2023-02-26 | 968 | 379 | 
-| 2023-02-25 | 968 | 379 | 
 

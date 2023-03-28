@@ -1,10 +1,10 @@
 # atmosgames/SuperSimple2DKit - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 516
 
-★ Stars: 1384
+★ Stars: 1386
 
 [Open repository](https://github.com/atmosgames/SuperSimple2DKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1386 | 516 | 
 | 2023-03-26 | 1384 | 516 | 
 | 2023-03-25 | 1383 | 515 | 
 | 2023-03-24 | 1380 | 514 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1356 | 504 | 
 | 2023-02-27 | 1355 | 504 | 
 | 2023-02-26 | 1355 | 504 | 
-| 2023-02-25 | 1353 | 505 | 
 

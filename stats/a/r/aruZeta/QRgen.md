@@ -1,6 +1,6 @@
 # aruZeta/QRgen - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 79 | 4 | 
 | 2023-03-26 | 79 | 4 | 
 | 2023-03-25 | 79 | 4 | 
 | 2023-03-24 | 79 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 75 | 4 | 
 | 2023-02-27 | 75 | 4 | 
 | 2023-02-26 | 75 | 4 | 
-| 2023-02-25 | 75 | 4 | 
 

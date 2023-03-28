@@ -1,10 +1,10 @@
 # alibaba/butterfly - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 512
 
-★ Stars: 3535
+★ Stars: 3536
 
 [Open repository](https://github.com/alibaba/butterfly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3536 | 512 | 
 | 2023-03-25 | 3535 | 512 | 
 | 2023-03-24 | 3534 | 511 | 
 | 2023-03-23 | 3530 | 511 | 

@@ -1,10 +1,10 @@
 # victorharry/zap-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/victorharry/zap-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 226 | 117 | 
 | 2023-03-26 | 225 | 116 | 
 | 2023-03-24 | 222 | 117 | 
 | 2023-03-23 | 222 | 116 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 197 | 98 | 
 | 2023-02-27 | 194 | 97 | 
 | 2023-02-26 | 193 | 97 | 
-| 2023-02-25 | 191 | 96 | 
 

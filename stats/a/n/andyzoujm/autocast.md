@@ -1,6 +1,6 @@
 # andyzoujm/autocast - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 147 | 47 | 
 | 2023-03-26 | 147 | 47 | 
 | 2023-03-25 | 147 | 45 | 
 | 2023-03-24 | 147 | 45 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 141 | 41 | 
 | 2023-02-28 | 141 | 41 | 
 | 2023-02-26 | 140 | 39 | 
-| 2023-02-25 | 140 | 38 | 
 

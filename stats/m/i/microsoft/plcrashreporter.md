@@ -1,6 +1,6 @@
 # microsoft/plcrashreporter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 513
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2619 | 513 | 
 | 2023-03-26 | 2619 | 513 | 
 | 2023-03-25 | 2618 | 513 | 
 | 2023-03-24 | 2618 | 513 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2607 | 509 | 
 | 2023-02-28 | 2608 | 509 | 
 | 2023-02-26 | 2608 | 508 | 
-| 2023-02-25 | 2608 | 507 | 
 

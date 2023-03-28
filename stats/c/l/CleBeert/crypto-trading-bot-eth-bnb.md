@@ -1,10 +1,10 @@
 # CleBeert/crypto-trading-bot-eth-bnb - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 158
+☋ Forks: 165
 
-★ Stars: 125
+★ Stars: 132
 
 [Open repository](https://github.com/CleBeert/crypto-trading-bot-eth-bnb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 132 | 165 | 
 | 2023-03-26 | 125 | 158 | 
 | 2023-03-24 | 125 | 158 | 
 | 2023-03-23 | 109 | 143 | 

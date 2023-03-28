@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 11
+☋ Forks: 13
 
-★ Stars: 144
+★ Stars: 152
 
 [Open repository](https://github.com/xicilion/gptproxy)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 144 | 11 | 
+| 2023-03-27 | 152 | 13 | 
 | 2023-03-26 | 144 | 11 | 
 

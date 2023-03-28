@@ -1,10 +1,10 @@
 # msterzhang/onelist - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 36
+☋ Forks: 38
 
-★ Stars: 326
+★ Stars: 337
 
 [Open repository](https://github.com/msterzhang/onelist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 337 | 38 | 
 | 2023-03-26 | 326 | 36 | 
 | 2023-03-24 | 324 | 35 | 
 | 2023-03-23 | 318 | 34 | 

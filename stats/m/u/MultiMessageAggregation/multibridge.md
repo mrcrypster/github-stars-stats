@@ -1,10 +1,10 @@
 # MultiMessageAggregation/multibridge - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 8
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/MultiMessageAggregation/multibridge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 41 | 8 | 
 | 2023-03-25 | 40 | 8 | 
 | 2023-03-24 | 40 | 7 | 
 | 2023-03-23 | 38 | 5 | 

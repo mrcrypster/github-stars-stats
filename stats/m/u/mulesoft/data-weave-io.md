@@ -1,10 +1,10 @@
 # mulesoft/data-weave-io - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/mulesoft/data-weave-io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 11 | - | 
 | 2023-03-26 | 12 | - | 
 | 2023-03-25 | 12 | - | 
 | 2023-03-24 | 12 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 12 | - | 
 | 2023-02-27 | 12 | - | 
 | 2023-02-26 | 12 | - | 
-| 2023-02-25 | 12 | - | 
 

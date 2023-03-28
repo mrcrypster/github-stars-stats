@@ -1,10 +1,10 @@
 # XavierXiao/Dreambooth-Stable-Diffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 657
+☋ Forks: 655
 
-★ Stars: 5914
+★ Stars: 5924
 
 [Open repository](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 5924 | 655 | 
 | 2023-03-26 | 5914 | 657 | 
 | 2023-03-25 | 5904 | 657 | 
 | 2023-03-24 | 5890 | 655 | 

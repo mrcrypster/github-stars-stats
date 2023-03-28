@@ -1,10 +1,10 @@
 # juananpe/express-mongo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/juananpe/express-mongo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2 | 10 | 
 | 2023-03-26 | 1 | 10 | 
 | 2023-03-24 | 1 | 10 | 
 | 2023-03-23 | - | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | - | 9 | 
 | 2023-02-28 | - | 9 | 
 | 2023-02-26 | - | 9 | 
-| 2023-02-25 | - | 9 | 
 

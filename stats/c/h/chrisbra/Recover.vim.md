@@ -1,10 +1,10 @@
 # chrisbra/Recover.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 25
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/chrisbra/Recover.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 227 | 25 | 
 | 2023-03-26 | 226 | 25 | 
 | 2023-03-24 | 226 | 25 | 
 | 2023-03-22 | 226 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 225 | 25 | 
 | 2023-02-27 | 225 | 25 | 
 | 2023-02-26 | 225 | 25 | 
-| 2023-02-25 | 225 | 25 | 
 

@@ -1,6 +1,6 @@
 # bazelbuild/rules_cc - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 120 | 80 | 
 | 2023-03-26 | 120 | 80 | 
 | 2023-03-25 | 120 | 80 | 
 | 2023-03-24 | 120 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 119 | 80 | 
 | 2023-02-27 | 119 | 80 | 
 | 2023-02-26 | 119 | 80 | 
-| 2023-02-25 | 119 | 80 | 
 

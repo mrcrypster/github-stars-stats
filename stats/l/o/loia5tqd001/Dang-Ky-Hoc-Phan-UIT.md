@@ -1,6 +1,6 @@
 # loia5tqd001/Dang-Ky-Hoc-Phan-UIT - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 167 | 8 | 
 | 2023-03-26 | 167 | 8 | 
 | 2023-03-25 | 167 | 8 | 
 | 2023-03-24 | 167 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 167 | 8 | 
 | 2023-02-27 | 167 | 8 | 
 | 2023-02-26 | 167 | 8 | 
-| 2023-02-25 | 167 | 8 | 
 

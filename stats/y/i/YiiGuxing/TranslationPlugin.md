@@ -1,10 +1,10 @@
 # YiiGuxing/TranslationPlugin - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 706
 
-★ Stars: 9725
+★ Stars: 9730
 
 [Open repository](https://github.com/YiiGuxing/TranslationPlugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 9730 | 706 | 
 | 2023-03-26 | 9725 | 706 | 
 | 2023-03-25 | 9721 | 707 | 
 | 2023-03-23 | 9712 | 707 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 9592 | 700 | 
 | 2023-02-27 | 9587 | 699 | 
 | 2023-02-26 | 9581 | 699 | 
-| 2023-02-25 | 9578 | 699 | 
 

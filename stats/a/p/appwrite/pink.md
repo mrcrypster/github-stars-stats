@@ -1,10 +1,10 @@
 # appwrite/pink - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 13
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/appwrite/pink)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 286 | 13 | 
 | 2023-03-26 | 285 | 13 | 
 | 2023-03-25 | 284 | 13 | 
 | 2023-03-24 | 283 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 254 | 7 | 
 | 2023-02-28 | 248 | 6 | 
 | 2023-02-26 | 248 | 6 | 
-| 2023-02-25 | 248 | 6 | 
 

@@ -1,6 +1,6 @@
 # Usaid-Dev/google_map - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 36 | 13 | 
 | 2023-03-26 | 36 | 13 | 
 | 2023-03-25 | 36 | 13 | 
 | 2023-03-23 | 35 | 12 | 

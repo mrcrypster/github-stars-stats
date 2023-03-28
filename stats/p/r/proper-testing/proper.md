@@ -1,6 +1,6 @@
 # proper-testing/proper - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 848 | 167 | 
 | 2023-03-26 | 848 | 167 | 
 | 2023-03-25 | 848 | 167 | 
 | 2023-03-24 | 848 | 166 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 845 | 165 | 
 | 2023-02-27 | 845 | 165 | 
 | 2023-02-26 | 845 | 165 | 
-| 2023-02-25 | 845 | 165 | 
 

@@ -1,6 +1,6 @@
 # studio1902/statamic-peak - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 445 | 91 | 
 | 2023-03-26 | 445 | 91 | 
 | 2023-03-25 | 444 | 91 | 
 | 2023-03-23 | 444 | 91 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 438 | 91 | 
 | 2023-02-28 | 438 | 91 | 
 | 2023-02-26 | 437 | 91 | 
-| 2023-02-25 | 436 | 92 | 
 

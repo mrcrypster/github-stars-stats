@@ -1,10 +1,10 @@
 # toeverything/blocksuite - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 94
 
-★ Stars: 1087
+★ Stars: 1092
 
 [Open repository](https://github.com/toeverything/blocksuite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1092 | 94 | 
 | 2023-03-26 | 1087 | 94 | 
 | 2023-03-24 | 1084 | 94 | 
 | 2023-03-23 | 1079 | 94 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 986 | 81 | 
 | 2023-02-27 | 980 | 81 | 
 | 2023-02-26 | 970 | 80 | 
-| 2023-02-25 | 967 | 80 | 
 

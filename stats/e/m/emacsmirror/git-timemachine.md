@@ -1,10 +1,10 @@
 # emacsmirror/git-timemachine - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/emacsmirror/git-timemachine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 86 | 5 | 
 | 2023-03-26 | 85 | 5 | 
 | 2023-03-25 | 85 | 5 | 
 | 2023-03-23 | 85 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 83 | 5 | 
 | 2023-02-28 | 83 | 5 | 
 | 2023-02-27 | 83 | 5 | 
-| 2023-02-26 | 83 | 5 | 
 

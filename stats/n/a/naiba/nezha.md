@@ -1,10 +1,10 @@
 # naiba/nezha - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 935
+☋ Forks: 938
 
-★ Stars: 3950
+★ Stars: 3961
 
 [Open repository](https://github.com/naiba/nezha)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3961 | 938 | 
 | 2023-03-26 | 3950 | 935 | 
 | 2023-03-25 | 3948 | 934 | 
 | 2023-03-23 | 3945 | 934 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3863 | 918 | 
 | 2023-02-28 | 3860 | 918 | 
 | 2023-02-26 | 3857 | 918 | 
-| 2023-02-25 | 3849 | 916 | 
 

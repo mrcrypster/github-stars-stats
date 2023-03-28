@@ -1,8 +1,8 @@
 # gulihua10010/playPiano - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 128
+☋ Forks: 129
 
 ★ Stars: 267
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 267 | 129 | 
 | 2023-03-26 | 267 | 128 | 
 | 2023-03-25 | 267 | 128 | 
 | 2023-03-24 | 268 | 128 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 263 | 127 | 
 | 2023-02-28 | 263 | 127 | 
 | 2023-02-26 | 262 | 127 | 
-| 2023-02-25 | 262 | 127 | 
 

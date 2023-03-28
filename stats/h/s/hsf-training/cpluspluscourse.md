@@ -1,6 +1,6 @@
 # hsf-training/cpluspluscourse - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 62 | 29 | 
 | 2023-03-26 | 62 | 29 | 
 | 2023-03-25 | 62 | 29 | 
 | 2023-03-23 | 61 | 29 | 

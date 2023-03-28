@@ -1,6 +1,6 @@
 # finos/open-reg-tech-us-lcr - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5 | 12 | 
 | 2023-03-26 | 5 | 12 | 
 | 2023-03-25 | 5 | 12 | 
 | 2023-03-24 | 5 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4 | 10 | 
 | 2023-02-27 | 4 | 10 | 
 | 2023-02-26 | 4 | 10 | 
-| 2023-02-25 | 4 | 10 | 
 

@@ -1,6 +1,6 @@
 # sjseth/AI-Case-Sorter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 30 | 7 | 
 | 2023-03-26 | 30 | 7 | 
 | 2023-03-24 | 30 | 7 | 
 | 2023-03-22 | 30 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 22 | 6 | 
 | 2023-02-27 | 22 | 6 | 
 | 2023-02-26 | 22 | 6 | 
-| 2023-02-25 | 21 | 6 | 
 

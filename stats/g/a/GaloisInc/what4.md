@@ -1,10 +1,10 @@
 # GaloisInc/what4 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 10
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/GaloisInc/what4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 136 | 10 | 
 | 2023-03-26 | 135 | 10 | 
 | 2023-03-25 | 135 | 10 | 
 | 2023-03-24 | 135 | 10 | 

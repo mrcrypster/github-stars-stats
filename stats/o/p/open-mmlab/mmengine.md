@@ -1,10 +1,10 @@
 # open-mmlab/mmengine - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 481
+★ Stars: 482
 
 [Open repository](https://github.com/open-mmlab/mmengine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 482 | 143 | 
 | 2023-03-26 | 481 | 142 | 
 | 2023-03-25 | 480 | 143 | 
 | 2023-03-23 | 480 | 142 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 455 | 133 | 
 | 2023-02-28 | 454 | 130 | 
 | 2023-02-26 | 453 | 129 | 
-| 2023-02-25 | 452 | 129 | 
 

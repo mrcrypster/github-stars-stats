@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 97
+☋ Forks: 99
 
-★ Stars: 1647
+★ Stars: 1671
 
 [Open repository](https://github.com/microsoft/LoRA)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 1647 | 97 | 
+| 2023-03-27 | 1671 | 99 | 
 | 2023-03-26 | 1640 | 96 | 
 | 2023-03-24 | 1497 | 87 | 
 | 2023-03-23 | 1207 | 83 | 

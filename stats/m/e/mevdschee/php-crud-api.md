@@ -1,10 +1,10 @@
 # mevdschee/php-crud-api - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 976
+☋ Forks: 975
 
-★ Stars: 3290
+★ Stars: 3291
 
 [Open repository](https://github.com/mevdschee/php-crud-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3291 | 975 | 
 | 2023-03-26 | 3290 | 976 | 
 | 2023-03-25 | 3289 | 977 | 
 | 2023-03-23 | 3287 | 977 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3267 | 973 | 
 | 2023-02-28 | 3267 | 972 | 
 | 2023-02-27 | 3267 | 972 | 
-| 2023-02-25 | 3268 | 972 | 
 

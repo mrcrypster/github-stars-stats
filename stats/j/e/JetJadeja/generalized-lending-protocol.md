@@ -1,10 +1,10 @@
 # JetJadeja/generalized-lending-protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 8
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/JetJadeja/generalized-lending-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 84 | 8 | 
 | 2023-03-26 | 83 | 8 | 
 | 2023-03-24 | 83 | 8 | 
 | 2023-03-23 | 83 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 82 | 8 | 
 | 2023-02-27 | 82 | 8 | 
 | 2023-02-26 | 82 | 8 | 
-| 2023-02-25 | 82 | 8 | 
 

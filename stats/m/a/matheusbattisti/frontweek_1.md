@@ -1,6 +1,6 @@
 # matheusbattisti/frontweek_1 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 35 | 22 | 
 | 2023-03-26 | 35 | 22 | 
 | 2023-03-25 | 35 | 22 | 
 | 2023-03-23 | 35 | 22 | 

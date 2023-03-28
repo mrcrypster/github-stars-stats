@@ -1,10 +1,10 @@
 # fosskers/cl-transducers - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/fosskers/cl-transducers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 52 | - | 
 | 2023-03-26 | 51 | - | 
 | 2023-03-24 | 51 | - | 
 | 2023-03-23 | 50 | - | 

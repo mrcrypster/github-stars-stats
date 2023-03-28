@@ -1,10 +1,10 @@
 # setzer22/llama-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 1936
+★ Stars: 1972
 
 [Open repository](https://github.com/setzer22/llama-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1972 | 77 | 
 | 2023-03-26 | 1936 | 76 | 
 | 2023-03-24 | 1875 | 75 | 
 | 2023-03-23 | 1827 | 72 | 

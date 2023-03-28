@@ -1,6 +1,6 @@
 # patricoferris/try-eio - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 19 | - | 
 | 2023-03-26 | 19 | - | 
 | 2023-03-24 | 18 | - | 
 | 2023-03-23 | 18 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 17 | - | 
 | 2023-02-27 | 17 | - | 
 | 2023-02-26 | 17 | - | 
-| 2023-02-25 | 17 | - | 
 

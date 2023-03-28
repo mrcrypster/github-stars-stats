@@ -1,10 +1,10 @@
 # grpc/grpc-dart - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 219
+☋ Forks: 220
 
-★ Stars: 763
+★ Stars: 765
 
 [Open repository](https://github.com/grpc/grpc-dart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 765 | 220 | 
 | 2023-03-26 | 763 | 219 | 
 | 2023-03-25 | 763 | 219 | 
 

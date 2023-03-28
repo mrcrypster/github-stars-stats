@@ -1,10 +1,10 @@
 # notable/notable - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1098
 
-★ Stars: 21409
+★ Stars: 21413
 
 [Open repository](https://github.com/notable/notable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 21413 | 1098 | 
 | 2023-03-26 | 21409 | 1098 | 
 | 2023-03-24 | 21407 | 1098 | 
 | 2023-03-23 | 21403 | 1098 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 21130 | 1078 | 
 | 2023-02-27 | 21127 | 1075 | 
 | 2023-02-26 | 21112 | 1073 | 
-| 2023-02-25 | 21099 | 1073 | 
 

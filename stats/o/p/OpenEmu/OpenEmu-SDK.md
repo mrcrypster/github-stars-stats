@@ -1,10 +1,10 @@
 # OpenEmu/OpenEmu-SDK - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 60
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/OpenEmu/OpenEmu-SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 126 | 60 | 
 | 2023-03-26 | 125 | 60 | 
 | 2023-03-24 | 125 | 60 | 
 | 2023-03-23 | 125 | 60 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 124 | 59 | 
 | 2023-02-28 | 124 | 59 | 
 | 2023-02-26 | 124 | 59 | 
-| 2023-02-25 | 124 | 59 | 
 

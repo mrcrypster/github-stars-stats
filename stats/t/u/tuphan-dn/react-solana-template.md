@@ -1,6 +1,6 @@
 # tuphan-dn/react-solana-template - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4 | 10 | 
 | 2023-03-26 | 4 | 10 | 
 | 2023-03-24 | 4 | 10 | 
 | 2023-03-23 | 4 | 10 | 

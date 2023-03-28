@@ -1,6 +1,6 @@
 # primitivefinance/hardhat-foundry - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 90 | 10 | 
 | 2023-03-26 | 90 | 10 | 
 | 2023-03-24 | 90 | 10 | 
 | 2023-03-23 | 90 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 89 | 10 | 
 | 2023-02-27 | 89 | 10 | 
 | 2023-02-26 | 89 | 10 | 
-| 2023-02-25 | 89 | 10 | 
 

@@ -1,10 +1,10 @@
 # drcode/nrepl-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/drcode/nrepl-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 15 | 2 | 
 | 2023-03-26 | 14 | 2 | 
 | 2023-03-25 | 14 | 2 | 
 | 2023-03-24 | 11 | 1 | 

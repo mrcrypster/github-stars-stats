@@ -1,6 +1,6 @@
 # Oriyomi12/otp-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 135 | 80 | 
 | 2023-03-26 | 135 | 80 | 
 | 2023-03-25 | 135 | 80 | 
 | 2023-03-23 | 135 | 79 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 130 | 73 | 
 | 2023-02-27 | 130 | 73 | 
 | 2023-02-26 | 130 | 72 | 
-| 2023-02-25 | 130 | 71 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 9
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/p1s1lver/FiddlerEverywhereMockScripts)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 24 | 9 | 
+| 2023-03-27 | 25 | 9 | 
 | 2023-03-26 | 24 | 9 | 
 

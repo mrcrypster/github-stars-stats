@@ -1,6 +1,6 @@
 # Y1ran/Free-VPN-for-Coursera - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 837
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2699 | 837 | 
 | 2023-03-26 | 2699 | 837 | 
 | 2023-03-24 | 2699 | 837 | 
 | 2023-03-23 | 2698 | 836 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2672 | 831 | 
 | 2023-02-27 | 2671 | 830 | 
 | 2023-02-26 | 2670 | 830 | 
-| 2023-02-25 | 2671 | 829 | 
 

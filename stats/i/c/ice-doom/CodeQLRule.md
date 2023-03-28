@@ -1,6 +1,6 @@
 # ice-doom/CodeQLRule - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 113 | 19 | 
 | 2023-03-26 | 113 | 19 | 
 | 2023-03-25 | 113 | 19 | 
 | 2023-03-23 | 113 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 111 | 18 | 
 | 2023-02-28 | 111 | 18 | 
 | 2023-02-26 | 111 | 18 | 
-| 2023-02-25 | 111 | 18 | 
 

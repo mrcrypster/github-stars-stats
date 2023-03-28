@@ -1,10 +1,10 @@
 # fastai/fastpages - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 795
 
-★ Stars: 3468
+★ Stars: 3469
 
 [Open repository](https://github.com/fastai/fastpages)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3469 | 795 | 
 | 2023-03-26 | 3468 | 795 | 
 | 2023-03-25 | 3467 | 795 | 
 | 2023-03-23 | 3467 | 795 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3460 | 793 | 
 | 2023-02-28 | 3461 | 793 | 
 | 2023-02-27 | 3460 | 793 | 
-| 2023-02-26 | 3460 | 792 | 
 

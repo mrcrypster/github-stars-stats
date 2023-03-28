@@ -1,6 +1,6 @@
 # ouster-lidar/ouster_example - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 395
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 400 | 395 | 
 | 2023-03-26 | 400 | 395 | 
 | 2023-03-24 | 400 | 395 | 
 | 2023-03-22 | 400 | 395 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 397 | 398 | 
 | 2023-02-28 | 397 | 398 | 
 | 2023-02-26 | 396 | 398 | 
-| 2023-02-25 | 396 | 398 | 
 

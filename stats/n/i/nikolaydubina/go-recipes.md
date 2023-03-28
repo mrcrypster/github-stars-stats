@@ -1,6 +1,6 @@
 # nikolaydubina/go-recipes - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2477 | 90 | 
 | 2023-03-26 | 2477 | 90 | 
 | 2023-03-24 | 2475 | 90 | 
 | 2023-03-23 | 2474 | 90 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2434 | 88 | 
 | 2023-02-28 | 2434 | 88 | 
 | 2023-02-26 | 2434 | 88 | 
-| 2023-02-25 | 2433 | 88 | 
 

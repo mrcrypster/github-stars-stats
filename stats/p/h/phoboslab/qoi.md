@@ -1,10 +1,10 @@
 # phoboslab/qoi - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 291
 
-★ Stars: 6140
+★ Stars: 6148
 
 [Open repository](https://github.com/phoboslab/qoi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 6148 | 291 | 
 | 2023-03-26 | 6140 | 291 | 
 | 2023-03-24 | 6139 | 291 | 
 | 2023-03-23 | 6138 | 291 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 6096 | 289 | 
 | 2023-02-27 | 6094 | 289 | 
 | 2023-02-26 | 6092 | 289 | 
-| 2023-02-25 | 6090 | 289 | 
 

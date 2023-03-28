@@ -1,6 +1,6 @@
 # BrieflyHarun/Azure - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1 | 55 | 
 | 2023-03-26 | 1 | 55 | 
 | 2023-03-25 | 1 | 55 | 
 | 2023-03-24 | 1 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1 | 51 | 
 | 2023-02-28 | 1 | 50 | 
 | 2023-02-26 | 1 | 50 | 
-| 2023-02-25 | 1 | 50 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 30
+☋ Forks: 32
 
-★ Stars: 433
+★ Stars: 447
 
 [Open repository](https://github.com/cisagov/untitledgoosetool)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 433 | 30 | 
+| 2023-03-27 | 447 | 32 | 
 | 2023-03-26 | 416 | 29 | 
 | 2023-03-25 | 314 | 22 | 
 

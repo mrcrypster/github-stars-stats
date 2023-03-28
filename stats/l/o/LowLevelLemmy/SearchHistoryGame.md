@@ -1,6 +1,6 @@
 # LowLevelLemmy/SearchHistoryGame - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 24 | 10 | 
 | 2023-03-26 | 24 | 10 | 
 | 2023-03-25 | 24 | 10 | 
 | 2023-03-23 | 23 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 19 | 10 | 
 | 2023-02-28 | 19 | 10 | 
 | 2023-02-27 | 19 | 10 | 
-| 2023-02-25 | 19 | 9 | 
 

@@ -1,10 +1,10 @@
 # 0xronin/30-days-SmartContractProgrammer - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 9
 
-★ Stars: 88
+★ Stars: 87
 
 [Open repository](https://github.com/0xronin/30-days-SmartContractProgrammer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 87 | 9 | 
 | 2023-03-26 | 88 | 9 | 
 | 2023-03-25 | 88 | 9 | 
 | 2023-03-24 | 88 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 89 | 9 | 
 | 2023-02-27 | 89 | 9 | 
 | 2023-02-26 | 89 | 9 | 
-| 2023-02-25 | 89 | 9 | 
 

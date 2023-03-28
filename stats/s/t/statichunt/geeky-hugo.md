@@ -1,8 +1,8 @@
 # statichunt/geeky-hugo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 49
+☋ Forks: 50
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 73 | 50 | 
 | 2023-03-26 | 73 | 49 | 
 | 2023-03-24 | 73 | 49 | 
 | 2023-03-23 | 73 | 50 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 71 | 46 | 
 | 2023-02-27 | 69 | 46 | 
 | 2023-02-26 | 69 | 46 | 
-| 2023-02-25 | 69 | 45 | 
 

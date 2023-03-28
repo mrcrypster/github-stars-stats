@@ -1,6 +1,6 @@
 # PoignardAzur/masonry-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 342 | 12 | 
 | 2023-03-26 | 342 | 12 | 
 | 2023-03-25 | 341 | 12 | 
 | 2023-03-23 | 341 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 332 | 11 | 
 | 2023-02-28 | 332 | 11 | 
 | 2023-02-27 | 331 | 11 | 
-| 2023-02-25 | 331 | 11 | 
 

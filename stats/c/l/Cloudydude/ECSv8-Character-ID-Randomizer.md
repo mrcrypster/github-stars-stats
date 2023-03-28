@@ -1,8 +1,8 @@
 # Cloudydude/ECSv8-Character-ID-Randomizer - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 37
+☋ Forks: 42
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 6 | 42 | 
 | 2023-03-25 | 6 | 37 | 
 | 2023-03-24 | 6 | 37 | 
 | 2023-03-22 | 6 | 37 | 

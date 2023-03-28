@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 1168
 
-★ Stars: 4314
+★ Stars: 4315
 
 [Open repository](https://github.com/jlord/git-it-electron)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 4314 | 1168 | 
+| 2023-03-27 | 4315 | 1168 | 
 | 2023-03-26 | 4314 | 1168 | 
 | 2023-03-25 | 4314 | 1168 | 
 | 2023-03-23 | 4313 | 1167 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 4289 | 1163 | 
 | 2023-02-27 | 4285 | 1163 | 
 | 2023-02-26 | 4284 | 1163 | 
-| 2023-02-25 | 4280 | 1163 | 
 

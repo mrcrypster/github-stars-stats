@@ -1,6 +1,6 @@
 # commanded/eventstore - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 936 | 132 | 
 | 2023-03-26 | 936 | 132 | 
 | 2023-03-25 | 935 | 132 | 
 | 2023-03-24 | 935 | 132 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 931 | 133 | 
 | 2023-02-27 | 930 | 133 | 
 | 2023-02-26 | 928 | 133 | 
-| 2023-02-25 | 928 | 133 | 
 

@@ -1,10 +1,10 @@
 # pgbackrest/pgbackrest - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 162
 
-★ Stars: 1595
+★ Stars: 1598
 
 [Open repository](https://github.com/pgbackrest/pgbackrest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1598 | 162 | 
 | 2023-03-26 | 1595 | 162 | 
 | 2023-03-25 | 1594 | 162 | 
 | 2023-03-24 | 1590 | 162 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1544 | 161 | 
 | 2023-02-27 | 1540 | 161 | 
 | 2023-02-26 | 1538 | 161 | 
-| 2023-02-25 | 1538 | 161 | 
 

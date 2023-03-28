@@ -1,10 +1,10 @@
 # sidpalas/devops-directive-docker-course - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 331
+★ Stars: 338
 
 [Open repository](https://github.com/sidpalas/devops-directive-docker-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 338 | 27 | 
 | 2023-03-26 | 331 | 26 | 
 | 2023-03-25 | 326 | 25 | 
 | 2023-03-24 | 324 | 24 | 

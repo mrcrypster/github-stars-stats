@@ -1,10 +1,10 @@
 # numba/numba - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1016
 
-★ Stars: 8429
+★ Stars: 8431
 
 [Open repository](https://github.com/numba/numba)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 8431 | 1016 | 
 | 2023-03-26 | 8429 | 1016 | 
 | 2023-03-24 | 8422 | 1016 | 
 | 2023-03-23 | 8418 | 1016 | 

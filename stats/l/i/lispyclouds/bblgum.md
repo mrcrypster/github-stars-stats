@@ -1,10 +1,10 @@
 # lispyclouds/bblgum - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1
 
-★ Stars: 70
+★ Stars: 73
 
 [Open repository](https://github.com/lispyclouds/bblgum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 73 | 1 | 
 | 2023-03-26 | 70 | 1 | 
 | 2023-03-25 | 69 | 1 | 
 | 2023-03-23 | 69 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 65 | 1 | 
 | 2023-02-27 | 65 | 1 | 
 | 2023-02-26 | 65 | 1 | 
-| 2023-02-25 | 65 | 1 | 
 

@@ -1,8 +1,8 @@
 # mirage/mirage-tcpip - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 318
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 318 | 84 | 
 | 2023-03-26 | 318 | 83 | 
 | 2023-03-25 | 318 | 83 | 
 | 2023-03-24 | 318 | 83 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 317 | 83 | 
 | 2023-02-28 | 317 | 83 | 
 | 2023-02-26 | 317 | 83 | 
-| 2023-02-25 | 317 | 83 | 
 

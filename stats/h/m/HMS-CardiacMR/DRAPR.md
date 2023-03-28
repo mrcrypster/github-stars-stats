@@ -1,6 +1,6 @@
 # HMS-CardiacMR/DRAPR - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 48 | 47 | 
 | 2023-03-26 | 48 | 47 | 
 | 2023-03-25 | 48 | 47 | 
 | 2023-03-23 | 48 | 47 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 50 | 47 | 
 | 2023-02-28 | 50 | 47 | 
 | 2023-02-26 | 50 | 47 | 
-| 2023-02-25 | 50 | 47 | 
 

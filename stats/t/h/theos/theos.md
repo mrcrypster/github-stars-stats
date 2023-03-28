@@ -1,10 +1,10 @@
 # theos/theos - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1048
 
-★ Stars: 3991
+★ Stars: 3994
 
 [Open repository](https://github.com/theos/theos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3994 | 1048 | 
 | 2023-03-26 | 3991 | 1048 | 
 | 2023-03-25 | 3990 | 1049 | 
 | 2023-03-23 | 3989 | 1049 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 3972 | 1044 | 
 | 2023-02-27 | 3972 | 1043 | 
 | 2023-02-26 | 3972 | 1043 | 
-| 2023-02-25 | 3973 | 1042 | 
 

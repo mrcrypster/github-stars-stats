@@ -1,6 +1,6 @@
 # r0tule/rcnetBoard - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2 | - | 
 | 2023-03-26 | 2 | - | 
 | 2023-03-24 | 2 | - | 
 | 2023-03-23 | 2 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2 | - | 
 | 2023-02-27 | 2 | - | 
 | 2023-02-26 | 2 | - | 
-| 2023-02-25 | 2 | - | 
 

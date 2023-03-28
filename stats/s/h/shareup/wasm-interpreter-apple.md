@@ -1,10 +1,10 @@
 # shareup/wasm-interpreter-apple - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 19
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/shareup/wasm-interpreter-apple)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 62 | 19 | 
 | 2023-03-26 | 61 | 19 | 
 

@@ -1,6 +1,6 @@
 # ghoullier/awesome-template-literal-types - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1031 | 21 | 
 | 2023-03-26 | 1031 | 21 | 
 | 2023-03-24 | 1031 | 21 | 
 | 2023-03-23 | 1031 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1012 | 20 | 
 | 2023-02-27 | 1011 | 20 | 
 | 2023-02-26 | 1010 | 20 | 
-| 2023-02-25 | 1010 | 20 | 
 

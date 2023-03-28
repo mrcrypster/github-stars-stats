@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 3
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/voicemxil/TS2-Starter-Pack)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 58 | 3 | 
+| 2023-03-27 | 59 | 3 | 
 | 2023-03-26 | 58 | 3 | 
 | 2023-03-25 | 57 | 3 | 
 | 2023-03-24 | 57 | 3 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 56 | 3 | 
 | 2023-02-27 | 55 | 3 | 
 | 2023-02-26 | 54 | 3 | 
-| 2023-02-25 | 53 | 3 | 
 

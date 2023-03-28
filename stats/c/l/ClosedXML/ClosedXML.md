@@ -1,10 +1,10 @@
 # ClosedXML/ClosedXML - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 716
 
-★ Stars: 3636
+★ Stars: 3639
 
 [Open repository](https://github.com/ClosedXML/ClosedXML)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3639 | 716 | 
 | 2023-03-26 | 3636 | 716 | 
 | 2023-03-25 | 3635 | 716 | 
 | 2023-03-24 | 3634 | 714 | 

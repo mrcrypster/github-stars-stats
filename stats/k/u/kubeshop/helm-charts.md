@@ -1,6 +1,6 @@
 # kubeshop/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 21 | 24 | 
 | 2023-03-26 | 21 | 24 | 
 | 2023-03-25 | 21 | 24 | 
 | 2023-03-23 | 21 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 21 | 22 | 
 | 2023-02-27 | 21 | 21 | 
 | 2023-02-26 | 21 | 21 | 
-| 2023-02-25 | 21 | 21 | 
 

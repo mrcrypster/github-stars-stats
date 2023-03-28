@@ -1,6 +1,6 @@
 # 640-KB/GLaBIOS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 95 | 6 | 
 | 2023-03-26 | 95 | 6 | 
 | 2023-03-24 | 95 | 6 | 
 | 2023-03-23 | 95 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 97 | 6 | 
 | 2023-02-28 | 97 | 6 | 
 | 2023-02-26 | 97 | 6 | 
-| 2023-02-25 | 97 | 6 | 
 

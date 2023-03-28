@@ -1,10 +1,10 @@
 # Xilinx/XilinxTclStore - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 181
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/Xilinx/XilinxTclStore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 286 | 181 | 
 | 2023-03-26 | 285 | 181 | 
 | 2023-03-25 | 285 | 181 | 
 | 2023-03-23 | 285 | 181 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 281 | 182 | 
 | 2023-02-27 | 281 | 182 | 
 | 2023-02-26 | 281 | 182 | 
-| 2023-02-25 | 281 | 182 | 
 

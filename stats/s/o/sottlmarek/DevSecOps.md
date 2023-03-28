@@ -1,10 +1,10 @@
 # sottlmarek/DevSecOps - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 771
 
-★ Stars: 4454
+★ Stars: 4458
 
 [Open repository](https://github.com/sottlmarek/DevSecOps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4458 | 771 | 
 | 2023-03-26 | 4454 | 771 | 
 | 2023-03-25 | 4450 | 770 | 
 | 2023-03-23 | 4448 | 770 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4374 | 752 | 
 | 2023-02-28 | 4367 | 752 | 
 | 2023-02-26 | 4360 | 750 | 
-| 2023-02-25 | 4355 | 750 | 
 

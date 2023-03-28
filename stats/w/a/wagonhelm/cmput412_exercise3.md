@@ -1,6 +1,6 @@
 # wagonhelm/cmput412_exercise3 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | - | 10 | 
 | 2023-03-26 | - | 10 | 
 | 2023-03-25 | - | 10 | 
 | 2023-03-24 | - | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | - | 9 | 
 | 2023-02-27 | - | 9 | 
 | 2023-02-26 | - | 9 | 
-| 2023-02-25 | - | 9 | 
 

@@ -1,6 +1,6 @@
 # chinarulezzz/pixload - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 965 | 232 | 
 | 2023-03-26 | 965 | 232 | 
 | 2023-03-24 | 965 | 232 | 
 | 2023-03-23 | 963 | 232 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 946 | 229 | 
 | 2023-02-27 | 946 | 229 | 
 | 2023-02-26 | 946 | 228 | 
-| 2023-02-25 | 946 | 228 | 
 

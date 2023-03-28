@@ -1,6 +1,6 @@
 # denistreshchev/Voiles - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 38 | - | 
 | 2023-03-26 | 38 | - | 
 | 2023-03-25 | 38 | - | 
 | 2023-03-23 | 38 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 38 | - | 
 | 2023-02-28 | 38 | - | 
 | 2023-02-26 | 38 | - | 
-| 2023-02-25 | 38 | - | 
 

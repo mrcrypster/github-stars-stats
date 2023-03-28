@@ -1,6 +1,6 @@
 # HotCakeX/Harden-Windows-Security - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 72 | 5 | 
 | 2023-03-26 | 72 | 5 | 
 | 2023-03-24 | 69 | 5 | 
 | 2023-03-23 | 69 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 54 | 3 | 
 | 2023-02-27 | 52 | 3 | 
 | 2023-02-26 | 51 | 3 | 
-| 2023-02-25 | 51 | 3 | 
 

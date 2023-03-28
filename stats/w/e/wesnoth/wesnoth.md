@@ -1,10 +1,10 @@
 # wesnoth/wesnoth - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 843
+☋ Forks: 845
 
-★ Stars: 4337
+★ Stars: 4339
 
 [Open repository](https://github.com/wesnoth/wesnoth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4339 | 845 | 
 | 2023-03-26 | 4337 | 843 | 
 | 2023-03-25 | 4334 | 843 | 
 | 2023-03-23 | 4332 | 843 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 4293 | 832 | 
 | 2023-02-27 | 4290 | 832 | 
 | 2023-02-26 | 4288 | 832 | 
-| 2023-02-25 | 4287 | 831 | 
 

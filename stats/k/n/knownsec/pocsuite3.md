@@ -1,6 +1,6 @@
 # knownsec/pocsuite3 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 745
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3040 | 745 | 
 | 2023-03-26 | 3040 | 745 | 
 | 2023-03-25 | 3040 | 745 | 
 | 2023-03-23 | 3035 | 745 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3010 | 740 | 
 | 2023-02-28 | 3007 | 740 | 
 | 2023-02-27 | 3004 | 739 | 
-| 2023-02-25 | 3003 | 738 | 
 

@@ -1,8 +1,8 @@
 # coredns/helm - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 60 | 87 | 
 | 2023-03-26 | 60 | 86 | 
 | 2023-03-25 | 60 | 86 | 
 | 2023-03-24 | 60 | 86 | 

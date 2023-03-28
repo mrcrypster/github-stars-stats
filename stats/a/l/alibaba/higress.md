@@ -1,10 +1,10 @@
 # alibaba/higress - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 972
+★ Stars: 977
 
 [Open repository](https://github.com/alibaba/higress)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 977 | 146 | 
 | 2023-03-26 | 972 | 145 | 
 | 2023-03-25 | 970 | 145 | 
 | 2023-03-24 | 964 | 143 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 905 | 131 | 
 | 2023-02-28 | 901 | 131 | 
 | 2023-02-26 | 896 | 130 | 
-| 2023-02-25 | 894 | 129 | 
 

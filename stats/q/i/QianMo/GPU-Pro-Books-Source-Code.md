@@ -1,10 +1,10 @@
 # QianMo/GPU-Pro-Books-Source-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 316
 
-★ Stars: 575
+★ Stars: 576
 
 [Open repository](https://github.com/QianMo/GPU-Pro-Books-Source-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 576 | 316 | 
 | 2023-03-26 | 575 | 316 | 
 | 2023-03-25 | 575 | 316 | 
 | 2023-03-23 | 574 | 315 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 568 | 311 | 
 | 2023-02-28 | 567 | 311 | 
 | 2023-02-26 | 566 | 311 | 
-| 2023-02-25 | 566 | 311 | 
 

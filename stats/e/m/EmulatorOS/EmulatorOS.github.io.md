@@ -1,10 +1,10 @@
 # EmulatorOS/EmulatorOS.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 133
+☋ Forks: 134
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/EmulatorOS/EmulatorOS.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 43 | 134 | 
 | 2023-03-26 | 42 | 133 | 
 | 2023-03-25 | 42 | 133 | 
 | 2023-03-24 | 41 | 133 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 35 | 124 | 
 | 2023-02-28 | 35 | 123 | 
 | 2023-02-26 | 35 | 123 | 
-| 2023-02-25 | 35 | 123 | 
 

@@ -1,10 +1,10 @@
 # GabryB03/ChatGPT-Jailbreaks - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 28
 
-☋ Forks: 29
+☋ Forks: 38
 
-★ Stars: 52
+★ Stars: 70
 
 [Open repository](https://github.com/GabryB03/ChatGPT-Jailbreaks)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 70 | 38 | 
+| 2023-03-27 | 68 | 38 | 
 | 2023-03-25 | 52 | 29 | 
 | 2023-03-24 | 46 | 24 | 
 | 2023-03-22 | 37 | 21 | 

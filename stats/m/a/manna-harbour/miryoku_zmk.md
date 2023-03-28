@@ -1,6 +1,6 @@
 # manna-harbour/miryoku_zmk - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 521
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 152 | 521 | 
 | 2023-03-26 | 152 | 521 | 
 | 2023-03-25 | 152 | 517 | 
 | 2023-03-23 | 152 | 512 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 139 | 461 | 
 | 2023-02-28 | 139 | 458 | 
 | 2023-02-27 | 138 | 456 | 
-| 2023-02-26 | 138 | 455 | 
 

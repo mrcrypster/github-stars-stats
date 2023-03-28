@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 1238
 
-★ Stars: 8026
+★ Stars: 8029
 
 [Open repository](https://github.com/major/MySQLTuner-perl)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 8026 | 1238 | 
+| 2023-03-27 | 8029 | 1238 | 
 | 2023-03-26 | 8025 | 1238 | 
 | 2023-03-25 | 8024 | 1238 | 
 | 2023-03-24 | 8022 | 1238 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 7973 | 1229 | 
 | 2023-02-27 | 7971 | 1229 | 
 | 2023-02-26 | 7971 | 1228 | 
-| 2023-02-25 | 7969 | 1228 | 
 

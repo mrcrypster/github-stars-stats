@@ -1,6 +1,6 @@
 # dlemstra/Magick.NET - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 374
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2720 | 374 | 
 | 2023-03-26 | 2720 | 374 | 
 | 2023-03-24 | 2718 | 374 | 
 | 2023-03-23 | 2712 | 373 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2683 | 371 | 
 | 2023-02-27 | 2680 | 371 | 
 | 2023-02-26 | 2677 | 369 | 
-| 2023-02-25 | 2675 | 369 | 
 

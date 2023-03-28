@@ -1,8 +1,8 @@
 # ddddxxx/LyricsX - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 317
+☋ Forks: 318
 
 ★ Stars: 3940
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3940 | 318 | 
 | 2023-03-26 | 3940 | 317 | 
 | 2023-03-25 | 3939 | 317 | 
 | 2023-03-23 | 3938 | 317 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 3892 | 309 | 
 | 2023-02-27 | 3892 | 309 | 
 | 2023-02-26 | 3891 | 310 | 
-| 2023-02-25 | 3889 | 310 | 
 

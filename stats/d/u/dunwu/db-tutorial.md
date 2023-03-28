@@ -1,10 +1,10 @@
 # dunwu/db-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 446
 
-★ Stars: 3140
+★ Stars: 3145
 
 [Open repository](https://github.com/dunwu/db-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3145 | 446 | 
 | 2023-03-26 | 3140 | 446 | 
 | 2023-03-25 | 3140 | 446 | 
 | 2023-03-23 | 3138 | 446 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3078 | 435 | 
 | 2023-02-28 | 3068 | 433 | 
 | 2023-02-27 | 3062 | 432 | 
-| 2023-02-25 | 3059 | 430 | 
 

@@ -1,10 +1,10 @@
 # imroc/istio-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 18
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/imroc/istio-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 59 | 18 | 
 | 2023-03-26 | 58 | 18 | 
 | 2023-03-25 | 58 | 18 | 
 | 2023-03-23 | 58 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 55 | 18 | 
 | 2023-02-27 | 54 | 18 | 
 | 2023-02-26 | 54 | 18 | 
-| 2023-02-25 | 54 | 18 | 
 

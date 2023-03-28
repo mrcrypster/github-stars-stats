@@ -1,6 +1,6 @@
 # johannchopin/gitmoji-browser-extension - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 66 | 8 | 
 | 2023-03-25 | 66 | 8 | 
 | 2023-03-24 | 66 | 8 | 
 | 2023-03-22 | 66 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 65 | 8 | 
 | 2023-02-27 | 65 | 8 | 
 | 2023-02-26 | 65 | 8 | 
-| 2023-02-25 | 65 | 8 | 
 

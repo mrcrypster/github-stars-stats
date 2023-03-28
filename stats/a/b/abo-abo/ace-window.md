@@ -1,6 +1,6 @@
 # abo-abo/ace-window - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 868 | 82 | 
 | 2023-03-26 | 868 | 82 | 
 | 2023-03-24 | 867 | 82 | 
 | 2023-03-23 | 867 | 82 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 864 | 82 | 
 | 2023-02-27 | 864 | 82 | 
 | 2023-02-26 | 864 | 82 | 
-| 2023-02-25 | 863 | 82 | 
 

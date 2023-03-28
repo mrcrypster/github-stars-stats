@@ -1,6 +1,6 @@
 # derfloh205/CraftSim - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4 | 16 | 
 | 2023-03-26 | 4 | 16 | 
 | 2023-03-24 | 4 | 16 | 
 | 2023-03-22 | 4 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 3 | 15 | 
 | 2023-02-27 | 3 | 15 | 
 | 2023-02-26 | 3 | 15 | 
-| 2023-02-25 | 3 | 15 | 
 

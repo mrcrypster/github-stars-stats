@@ -1,10 +1,10 @@
 # susMdT/SharpAgent - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 16
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/susMdT/SharpAgent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 55 | 16 | 
 | 2023-03-26 | 54 | 16 | 
 | 2023-03-25 | 54 | 16 | 
 | 2023-03-23 | 54 | 16 | 

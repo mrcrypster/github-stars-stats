@@ -1,6 +1,6 @@
 # Jutho/VectorInterface.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 21 | 1 | 
 | 2023-03-25 | 21 | 1 | 
 | 2023-03-24 | 21 | 1 | 
 | 2023-03-23 | 21 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 21 | 1 | 
 | 2023-02-28 | 21 | 1 | 
 | 2023-02-26 | 20 | 1 | 
-| 2023-02-25 | 20 | 1 | 
 

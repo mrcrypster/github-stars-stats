@@ -1,8 +1,8 @@
 # SemanticSugar/dinerl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 35 | 23 | 
 | 2023-03-26 | 35 | 22 | 
 | 2023-03-25 | 35 | 22 | 
 | 2023-03-24 | 35 | 22 | 

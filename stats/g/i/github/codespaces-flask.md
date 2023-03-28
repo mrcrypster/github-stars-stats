@@ -1,10 +1,10 @@
 # github/codespaces-flask - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 46
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/github/codespaces-flask)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 49 | 46 | 
 | 2023-03-26 | 48 | 46 | 
 | 2023-03-25 | 48 | 46 | 
 | 2023-03-24 | 48 | 46 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 42 | 42 | 
 | 2023-02-27 | 41 | 43 | 
 | 2023-02-26 | 41 | 43 | 
-| 2023-02-25 | 41 | 43 | 
 

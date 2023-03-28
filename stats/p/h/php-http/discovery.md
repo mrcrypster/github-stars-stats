@@ -1,10 +1,10 @@
 # php-http/discovery - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 38
 
-★ Stars: 1123
+★ Stars: 1122
 
 [Open repository](https://github.com/php-http/discovery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1122 | 38 | 
 | 2023-03-26 | 1123 | 38 | 
 | 2023-03-25 | 1123 | 38 | 
 | 2023-03-23 | 1120 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1115 | 39 | 
 | 2023-02-27 | 1115 | 39 | 
 | 2023-02-26 | 1115 | 39 | 
-| 2023-02-25 | 1115 | 40 | 
 

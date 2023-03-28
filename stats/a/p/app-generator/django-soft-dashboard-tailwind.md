@@ -1,6 +1,6 @@
 # app-generator/django-soft-dashboard-tailwind - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | - | - | 
 | 2023-03-26 | - | - | 
 | 2023-03-24 | - | - | 
 | 2023-03-23 | - | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 44 | 5 | 
 | 2023-02-28 | 44 | 5 | 
 | 2023-02-27 | 44 | 5 | 
-| 2023-02-26 | 44 | 5 | 
 

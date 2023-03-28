@@ -1,10 +1,10 @@
 # MicrosoftDocs/live-share - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 254
 
-★ Stars: 2121
+★ Stars: 2122
 
 [Open repository](https://github.com/MicrosoftDocs/live-share)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2122 | 254 | 
 | 2023-03-26 | 2121 | 254 | 
 | 2023-03-25 | 2120 | 254 | 
 | 2023-03-23 | 2117 | 253 | 

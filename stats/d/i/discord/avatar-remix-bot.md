@@ -1,8 +1,8 @@
 # discord/avatar-remix-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 116 | 5 | 
 | 2023-03-26 | 116 | 4 | 
 | 2023-03-25 | 115 | 4 | 
 | 2023-03-23 | 113 | 4 | 

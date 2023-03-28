@@ -1,10 +1,10 @@
 # zsh-users/zsh-history-substring-search - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 142
 
-★ Stars: 2092
+★ Stars: 2093
 
 [Open repository](https://github.com/zsh-users/zsh-history-substring-search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2093 | 142 | 
 | 2023-03-26 | 2092 | 142 | 
 | 2023-03-25 | 2090 | 140 | 
 | 2023-03-23 | 2088 | 140 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2064 | 138 | 
 | 2023-02-27 | 2063 | 137 | 
 | 2023-02-26 | 2060 | 137 | 
-| 2023-02-25 | 2057 | 137 | 
 

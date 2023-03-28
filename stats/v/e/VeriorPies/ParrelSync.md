@@ -1,10 +1,10 @@
 # VeriorPies/ParrelSync - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 202
+☋ Forks: 203
 
-★ Stars: 2986
+★ Stars: 2991
 
 [Open repository](https://github.com/VeriorPies/ParrelSync)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2991 | 203 | 
 | 2023-03-26 | 2986 | 202 | 
 | 2023-03-25 | 2983 | 202 | 
 | 2023-03-24 | 2980 | 202 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2900 | 193 | 
 | 2023-02-27 | 2899 | 193 | 
 | 2023-02-26 | 2896 | 193 | 
-| 2023-02-25 | 2892 | 193 | 
 

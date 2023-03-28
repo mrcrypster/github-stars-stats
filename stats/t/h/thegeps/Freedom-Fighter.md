@@ -1,10 +1,10 @@
 # thegeps/Freedom-Fighter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/thegeps/Freedom-Fighter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 10 | - | 
 | 2023-03-26 | 9 | - | 
 | 2023-03-25 | 9 | - | 
 | 2023-03-23 | 9 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 8 | - | 
 | 2023-02-27 | 8 | - | 
 | 2023-02-26 | 8 | - | 
-| 2023-02-25 | 8 | - | 
 

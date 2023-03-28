@@ -1,10 +1,10 @@
 # KRTirtho/spotube - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 168
+☋ Forks: 169
 
-★ Stars: 2621
+★ Stars: 2635
 
 [Open repository](https://github.com/KRTirtho/spotube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2635 | 169 | 
 | 2023-03-26 | 2621 | 168 | 
 | 2023-03-25 | 2614 | 168 | 
 | 2023-03-23 | 2601 | 168 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2480 | 159 | 
 | 2023-02-27 | 2474 | 158 | 
 | 2023-02-26 | 2470 | 158 | 
-| 2023-02-25 | 2466 | 158 | 
 

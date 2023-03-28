@@ -1,10 +1,10 @@
 # jdavis/latex-homework-template - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 398
+☋ Forks: 397
 
-★ Stars: 984
+★ Stars: 985
 
 [Open repository](https://github.com/jdavis/latex-homework-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 985 | 397 | 
 | 2023-03-26 | 984 | 398 | 
 | 2023-03-24 | 983 | 398 | 
 | 2023-03-23 | 983 | 398 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 974 | 399 | 
 | 2023-02-28 | 972 | 399 | 
 | 2023-02-27 | 972 | 400 | 
-| 2023-02-26 | 971 | 398 | 
 

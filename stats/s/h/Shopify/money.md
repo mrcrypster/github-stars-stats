@@ -1,10 +1,10 @@
 # Shopify/money - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 42
 
-★ Stars: 245
+★ Stars: 244
 
 [Open repository](https://github.com/Shopify/money)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 244 | 42 | 
 | 2023-03-26 | 245 | 42 | 
 | 2023-03-25 | 245 | 42 | 
 | 2023-03-23 | 245 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 246 | 40 | 
 | 2023-02-27 | 246 | 40 | 
 | 2023-02-26 | 246 | 40 | 
-| 2023-02-25 | 246 | 40 | 
 

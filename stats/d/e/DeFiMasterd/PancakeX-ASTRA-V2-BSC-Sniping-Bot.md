@@ -1,10 +1,10 @@
 # DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 248
 
-★ Stars: 302
+★ Stars: 341
 
 [Open repository](https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 341 | 248 | 
 | 2023-03-26 | 302 | 248 | 
 | 2023-03-25 | 302 | 248 | 
 | 2023-03-24 | 302 | 248 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 399 | 242 | 
 | 2023-02-27 | 387 | 242 | 
 | 2023-02-26 | 387 | 241 | 
-| 2023-02-25 | 388 | 241 | 
 

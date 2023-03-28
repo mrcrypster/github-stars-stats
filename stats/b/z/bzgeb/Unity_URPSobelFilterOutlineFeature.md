@@ -1,6 +1,6 @@
 # bzgeb/Unity_URPSobelFilterOutlineFeature - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 9 | 2 | 
 | 2023-03-26 | 9 | 2 | 
 | 2023-03-24 | 9 | 2 | 
 | 2023-03-22 | 9 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 8 | 2 | 
 | 2023-02-28 | 8 | 2 | 
 | 2023-02-27 | 8 | 2 | 
-| 2023-02-26 | 8 | 2 | 
 

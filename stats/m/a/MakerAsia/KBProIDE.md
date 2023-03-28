@@ -1,6 +1,6 @@
 # MakerAsia/KBProIDE - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 126 | 42 | 
 | 2023-03-26 | 126 | 42 | 
 | 2023-03-25 | 126 | 41 | 
 | 2023-03-23 | 126 | 41 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 125 | 41 | 
 | 2023-02-28 | 125 | 41 | 
 | 2023-02-26 | 125 | 41 | 
-| 2023-02-25 | 125 | 41 | 
 

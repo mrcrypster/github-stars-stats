@@ -1,6 +1,6 @@
 # jtdaugherty/brick - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1412 | 163 | 
 | 2023-03-26 | 1412 | 163 | 
 | 2023-03-25 | 1412 | 163 | 
 | 2023-03-24 | 1412 | 163 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1407 | 159 | 
 | 2023-02-27 | 1407 | 160 | 
 | 2023-02-26 | 1407 | 160 | 
-| 2023-02-25 | 1407 | 160 | 
 

@@ -1,6 +1,6 @@
 # ruesandora/Newrl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 50 | 107 | 
 | 2023-03-26 | 50 | 107 | 
 | 2023-03-24 | 50 | 107 | 
 | 2023-03-22 | 50 | 107 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 50 | 107 | 
 | 2023-02-27 | 50 | 107 | 
 | 2023-02-26 | 50 | 107 | 
-| 2023-02-25 | 50 | 107 | 
 

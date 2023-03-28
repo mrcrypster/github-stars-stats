@@ -1,8 +1,8 @@
 # TapXWorld/ChinaTextbook - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 191
+☋ Forks: 192
 
 ★ Stars: 949
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 949 | 192 | 
 | 2023-03-26 | 949 | 191 | 
 | 2023-03-25 | 949 | 191 | 
 | 2023-03-24 | 948 | 191 | 

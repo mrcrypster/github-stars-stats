@@ -1,8 +1,8 @@
 # onedr0p/home-ops - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 139
+☋ Forks: 140
 
 ★ Stars: 1069
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1069 | 140 | 
 | 2023-03-26 | 1069 | 139 | 
 | 2023-03-25 | 1067 | 138 | 
 | 2023-03-24 | 1063 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1000 | 137 | 
 | 2023-02-27 | 999 | 137 | 
 | 2023-02-26 | 998 | 137 | 
-| 2023-02-25 | 996 | 137 | 
 

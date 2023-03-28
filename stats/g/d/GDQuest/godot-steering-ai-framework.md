@@ -1,10 +1,10 @@
 # GDQuest/godot-steering-ai-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 68
 
-★ Stars: 783
+★ Stars: 784
 
 [Open repository](https://github.com/GDQuest/godot-steering-ai-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 784 | 68 | 
 | 2023-03-26 | 783 | 68 | 
 | 2023-03-24 | 783 | 68 | 
 | 2023-03-23 | 783 | 68 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 774 | 68 | 
 | 2023-02-28 | 774 | 67 | 
 | 2023-02-26 | 774 | 67 | 
-| 2023-02-25 | 774 | 67 | 
 

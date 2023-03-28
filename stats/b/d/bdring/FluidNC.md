@@ -1,8 +1,8 @@
 # bdring/FluidNC - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 216
+☋ Forks: 217
 
 ★ Stars: 833
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 833 | 217 | 
 | 2023-03-26 | 833 | 216 | 
 | 2023-03-25 | 830 | 215 | 
 | 2023-03-23 | 828 | 215 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 802 | 209 | 
 | 2023-02-27 | 799 | 209 | 
 | 2023-02-26 | 797 | 209 | 
-| 2023-02-25 | 796 | 209 | 
 

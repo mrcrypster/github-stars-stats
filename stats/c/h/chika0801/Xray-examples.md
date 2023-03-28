@@ -1,10 +1,10 @@
 # chika0801/Xray-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 142
 
-★ Stars: 565
+★ Stars: 577
 
 [Open repository](https://github.com/chika0801/Xray-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 577 | 142 | 
 | 2023-03-26 | 565 | 142 | 
 | 2023-03-24 | 555 | 140 | 
 | 2023-03-23 | 543 | 138 | 

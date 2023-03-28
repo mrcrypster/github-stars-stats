@@ -1,6 +1,6 @@
 # Code-Pop/Real-World-Vue-3-TypeScript - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 117 | 92 | 
 | 2023-03-26 | 117 | 92 | 
 | 2023-03-25 | 117 | 92 | 
 | 2023-03-23 | 117 | 92 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 116 | 92 | 
 | 2023-02-28 | 116 | 92 | 
 | 2023-02-27 | 116 | 92 | 
-| 2023-02-25 | 116 | 92 | 
 

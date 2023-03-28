@@ -1,10 +1,10 @@
 # wangxinleo/wechat-public-account-push - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 4552
+☋ Forks: 4565
 
-★ Stars: 1040
+★ Stars: 1047
 
 [Open repository](https://github.com/wangxinleo/wechat-public-account-push)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1047 | 4565 | 
 | 2023-03-26 | 1040 | 4552 | 
 | 2023-03-25 | 1037 | 4549 | 
 | 2023-03-23 | 1032 | 4540 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1004 | 4479 | 
 | 2023-02-28 | 1001 | 4475 | 
 | 2023-02-26 | 997 | 4467 | 
-| 2023-02-25 | 995 | 4465 | 
 

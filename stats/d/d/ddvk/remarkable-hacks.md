@@ -1,10 +1,10 @@
 # ddvk/remarkable-hacks - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 76
 
-★ Stars: 1438
+★ Stars: 1439
 
 [Open repository](https://github.com/ddvk/remarkable-hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1439 | 76 | 
 | 2023-03-25 | 1438 | 76 | 
 | 2023-03-24 | 1438 | 76 | 
 | 2023-03-23 | 1438 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 1424 | 77 | 
 | 2023-02-28 | 1423 | 77 | 
 | 2023-02-26 | 1422 | 77 | 
-| 2023-02-25 | 1422 | 77 | 
 

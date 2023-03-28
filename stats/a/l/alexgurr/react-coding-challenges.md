@@ -1,10 +1,10 @@
 # alexgurr/react-coding-challenges - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 1027
+☋ Forks: 1029
 
-★ Stars: 2704
+★ Stars: 2706
 
 [Open repository](https://github.com/alexgurr/react-coding-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2706 | 1029 | 
 | 2023-03-26 | 2704 | 1027 | 
 | 2023-03-24 | 2703 | 1027 | 
 | 2023-03-23 | 2704 | 1025 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2672 | 1021 | 
 | 2023-02-27 | 2668 | 1021 | 
 | 2023-02-26 | 2668 | 1021 | 
-| 2023-02-25 | 2667 | 1019 | 
 

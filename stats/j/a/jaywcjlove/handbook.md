@@ -1,6 +1,6 @@
 # jaywcjlove/handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1042
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4042 | 1042 | 
 | 2023-03-26 | 4042 | 1042 | 
 | 2023-03-25 | 4042 | 1042 | 
 | 2023-03-24 | 4042 | 1042 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4028 | 1041 | 
 | 2023-02-27 | 4027 | 1041 | 
 | 2023-02-26 | 4025 | 1041 | 
-| 2023-02-25 | 4025 | 1041 | 
 

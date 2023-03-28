@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 1519
+☋ Forks: 1526
 
-★ Stars: 3945
+★ Stars: 3975
 
 [Open repository](https://github.com/acantril/learn-cantrill-io-labs)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 3945 | 1519 | 
+| 2023-03-27 | 3975 | 1526 | 
 | 2023-03-26 | 3938 | 1518 | 
 | 2023-03-25 | 3794 | 1498 | 
 | 2023-03-23 | 3752 | 1489 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 3616 | 1428 | 
 | 2023-02-27 | 3594 | 1420 | 
 | 2023-02-26 | 3587 | 1417 | 
-| 2023-02-25 | 3585 | 1416 | 
 

@@ -1,10 +1,10 @@
 # kgns/weapons - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 124
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/kgns/weapons)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 323 | 124 | 
+| 2023-03-27 | 323 | 124 | 
 | 2023-03-26 | 322 | 124 | 
 | 2023-03-25 | 323 | 123 | 
 | 2023-03-24 | 323 | 123 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 320 | 121 | 
 | 2023-02-27 | 320 | 121 | 
 | 2023-02-26 | 320 | 121 | 
-| 2023-02-25 | 321 | 121 | 
 

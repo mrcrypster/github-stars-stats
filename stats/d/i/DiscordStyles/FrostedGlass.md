@@ -1,8 +1,8 @@
 # DiscordStyles/FrostedGlass - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 114
+☋ Forks: 115
 
 ★ Stars: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 78 | 115 | 
 | 2023-03-26 | 78 | 114 | 
 | 2023-03-25 | 78 | 108 | 
 | 2023-03-24 | 78 | 106 | 

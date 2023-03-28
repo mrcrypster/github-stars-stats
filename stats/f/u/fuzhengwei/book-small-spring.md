@@ -1,10 +1,10 @@
 # fuzhengwei/book-small-spring - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 93
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/fuzhengwei/book-small-spring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 166 | 93 | 
 | 2023-03-26 | 165 | 93 | 
 | 2023-03-24 | 165 | 93 | 
 | 2023-03-23 | 165 | 93 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 150 | 87 | 
 | 2023-02-28 | 150 | 87 | 
 | 2023-02-26 | 150 | 86 | 
-| 2023-02-25 | 150 | 86 | 
 

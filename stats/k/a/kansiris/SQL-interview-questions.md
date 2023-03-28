@@ -1,6 +1,6 @@
 # kansiris/SQL-interview-questions - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 236 | 69 | 
 | 2023-03-25 | 236 | 69 | 
 | 2023-03-24 | 236 | 69 | 
 | 2023-03-23 | 235 | 68 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 228 | 67 | 
 | 2023-02-27 | 228 | 66 | 
 | 2023-02-26 | 228 | 66 | 
-| 2023-02-25 | 227 | 66 | 
 

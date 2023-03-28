@@ -1,8 +1,8 @@
 # Esteban10yt/Esteban_10YT_VPS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2 | 82 | 
 | 2023-03-26 | 2 | 81 | 
 | 2023-03-25 | 2 | 81 | 
 | 2023-03-24 | 2 | 80 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2 | 67 | 
 | 2023-02-27 | 2 | 67 | 
 | 2023-02-26 | 2 | 67 | 
-| 2023-02-25 | 2 | 66 | 
 

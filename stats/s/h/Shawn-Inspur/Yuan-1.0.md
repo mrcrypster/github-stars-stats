@@ -1,10 +1,10 @@
 # Shawn-Inspur/Yuan-1.0 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 97
+☋ Forks: 98
 
-★ Stars: 488
+★ Stars: 492
 
 [Open repository](https://github.com/Shawn-Inspur/Yuan-1.0)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 492 | 98 | 
 | 2023-03-26 | 488 | 97 | 
 | 2023-03-24 | 488 | 97 | 
 | 2023-03-23 | 486 | 97 | 

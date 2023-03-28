@@ -1,10 +1,10 @@
 # WebBreacher/obsidian-osint-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 41
 
-★ Stars: 248
+★ Stars: 251
 
 [Open repository](https://github.com/WebBreacher/obsidian-osint-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 251 | 41 | 
 | 2023-03-25 | 248 | 41 | 
 | 2023-03-24 | 248 | 40 | 
 | 2023-03-23 | 248 | 40 | 

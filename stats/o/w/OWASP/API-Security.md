@@ -1,10 +1,10 @@
 # OWASP/API-Security - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 313
+☋ Forks: 315
 
-★ Stars: 1507
+★ Stars: 1511
 
 [Open repository](https://github.com/OWASP/API-Security)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1511 | 315 | 
 | 2023-03-26 | 1507 | 313 | 
 | 2023-03-24 | 1504 | 311 | 
 | 2023-03-22 | 1495 | 307 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1209 | 287 | 
 | 2023-02-28 | 1199 | 282 | 
 | 2023-02-26 | 1193 | 282 | 
-| 2023-02-25 | 1190 | 281 | 
 

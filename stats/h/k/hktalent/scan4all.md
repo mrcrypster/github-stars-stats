@@ -1,10 +1,10 @@
 # hktalent/scan4all - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 416
 
-★ Stars: 3485
+★ Stars: 3489
 
 [Open repository](https://github.com/hktalent/scan4all)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3489 | 416 | 
 | 2023-03-26 | 3485 | 416 | 
 | 2023-03-24 | 3483 | 416 | 
 | 2023-03-22 | 3478 | 415 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3437 | 413 | 
 | 2023-02-28 | 3437 | 413 | 
 | 2023-02-26 | 3429 | 413 | 
-| 2023-02-25 | 3427 | 413 | 
 

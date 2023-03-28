@@ -1,6 +1,6 @@
 # TheEconomist/2022-france-election-model - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 74 | 13 | 
 | 2023-03-26 | 74 | 13 | 
 | 2023-03-25 | 74 | 13 | 
 | 2023-03-23 | 74 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 74 | 12 | 
 | 2023-02-27 | 74 | 12 | 
 | 2023-02-26 | 74 | 12 | 
-| 2023-02-25 | 73 | 12 | 
 

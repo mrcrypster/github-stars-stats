@@ -1,10 +1,10 @@
 # breck7/pldb - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 73
 
-★ Stars: 646
+★ Stars: 647
 
 [Open repository](https://github.com/breck7/pldb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 647 | 73 | 
 | 2023-03-26 | 646 | 73 | 
 | 2023-03-25 | 646 | 73 | 
 | 2023-03-23 | 646 | 73 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 639 | 72 | 
 | 2023-02-27 | 636 | 72 | 
 | 2023-02-26 | 636 | 72 | 
-| 2023-02-25 | 636 | 71 | 
 

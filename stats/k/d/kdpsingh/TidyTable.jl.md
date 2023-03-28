@@ -1,10 +1,10 @@
 # kdpsingh/TidyTable.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/kdpsingh/TidyTable.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 22 | - | 
 | 2023-03-26 | 21 | - | 
 | 2023-03-25 | 21 | - | 
 | 2023-03-24 | 21 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 19 | - | 
 | 2023-02-28 | 19 | - | 
 | 2023-02-26 | 18 | - | 
-| 2023-02-25 | 18 | - | 
 

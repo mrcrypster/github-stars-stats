@@ -1,10 +1,10 @@
 # patcg-individual-drafts/topics - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 80
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/patcg-individual-drafts/topics)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 423 | 80 | 
+| 2023-03-27 | 424 | 80 | 
 | 2023-03-26 | 422 | 80 | 
 | 2023-03-24 | 422 | 80 | 
 | 2023-03-23 | 422 | 80 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 419 | 79 | 
 | 2023-02-27 | 418 | 79 | 
 | 2023-02-26 | 418 | 79 | 
-| 2023-02-25 | 416 | 77 | 
 

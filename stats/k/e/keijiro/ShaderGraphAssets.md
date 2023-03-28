@@ -1,10 +1,10 @@
 # keijiro/ShaderGraphAssets - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/keijiro/ShaderGraphAssets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 157 | 7 | 
 | 2023-03-26 | 156 | 6 | 
 | 2023-03-25 | 156 | 6 | 
 | 2023-03-23 | 156 | 6 | 

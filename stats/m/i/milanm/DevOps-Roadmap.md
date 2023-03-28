@@ -1,10 +1,10 @@
 # milanm/DevOps-Roadmap - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 393
+☋ Forks: 396
 
-★ Stars: 4630
+★ Stars: 4639
 
 [Open repository](https://github.com/milanm/DevOps-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4639 | 396 | 
 | 2023-03-26 | 4630 | 393 | 
 | 2023-03-24 | 4616 | 391 | 
 | 2023-03-23 | 4590 | 389 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4305 | 347 | 
 | 2023-02-28 | 4288 | 346 | 
 | 2023-02-26 | 4269 | 341 | 
-| 2023-02-25 | 4243 | 340 | 
 

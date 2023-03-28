@@ -1,6 +1,6 @@
 # pantor/ruckig - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 412 | 102 | 
 | 2023-03-26 | 412 | 102 | 
 | 2023-03-25 | 412 | 102 | 
 | 2023-03-24 | 412 | 102 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 404 | 98 | 
 | 2023-02-28 | 403 | 98 | 
 | 2023-02-27 | 402 | 98 | 
-| 2023-02-25 | 402 | 98 | 
 

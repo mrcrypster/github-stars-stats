@@ -1,6 +1,6 @@
 # sustainable-computing-io/kepler-helm-chart - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | - | 17 | 
 | 2023-03-26 | - | 17 | 
 | 2023-03-25 | - | 17 | 
 | 2023-03-24 | - | 15 | 

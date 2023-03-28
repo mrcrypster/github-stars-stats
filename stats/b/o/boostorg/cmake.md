@@ -1,6 +1,6 @@
 # boostorg/cmake - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 45 | 16 | 
 | 2023-03-26 | 45 | 16 | 
 | 2023-03-25 | 45 | 16 | 
 | 2023-03-24 | 45 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 46 | 16 | 
 | 2023-02-27 | 46 | 16 | 
 | 2023-02-26 | 46 | 16 | 
-| 2023-02-25 | 46 | 16 | 
 

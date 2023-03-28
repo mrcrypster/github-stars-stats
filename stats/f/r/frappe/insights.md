@@ -1,6 +1,6 @@
 # frappe/insights - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 173 | 59 | 
 | 2023-03-26 | 173 | 59 | 
 | 2023-03-25 | 173 | 59 | 
 | 2023-03-23 | 173 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 170 | 56 | 
 | 2023-02-28 | 169 | 56 | 
 | 2023-02-26 | 169 | 56 | 
-| 2023-02-25 | 169 | 56 | 
 

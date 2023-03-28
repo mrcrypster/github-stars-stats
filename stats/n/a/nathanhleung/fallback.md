@@ -1,6 +1,6 @@
 # nathanhleung/fallback - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 157 | 4 | 
 | 2023-03-26 | 157 | 4 | 
 | 2023-03-25 | 157 | 4 | 
 | 2023-03-23 | 157 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 154 | 4 | 
 | 2023-02-27 | 154 | 4 | 
 | 2023-02-26 | 153 | 4 | 
-| 2023-02-25 | 152 | 4 | 
 

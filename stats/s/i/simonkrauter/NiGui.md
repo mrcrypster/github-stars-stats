@@ -1,10 +1,10 @@
 # simonkrauter/NiGui - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 46
 
-★ Stars: 625
+★ Stars: 624
 
 [Open repository](https://github.com/simonkrauter/NiGui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 624 | 46 | 
 | 2023-03-26 | 625 | 46 | 
 | 2023-03-24 | 624 | 46 | 
 | 2023-03-23 | 623 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 618 | 46 | 
 | 2023-02-28 | 618 | 46 | 
 | 2023-02-26 | 618 | 46 | 
-| 2023-02-25 | 618 | 46 | 
 

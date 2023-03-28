@@ -1,10 +1,10 @@
 # pichenettes/eurorack - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 627
 
-★ Stars: 2206
+★ Stars: 2208
 
 [Open repository](https://github.com/pichenettes/eurorack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2208 | 627 | 
 | 2023-03-26 | 2206 | 627 | 
 | 2023-03-25 | 2206 | 627 | 
 | 2023-03-23 | 2205 | 627 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2182 | 616 | 
 | 2023-02-27 | 2182 | 616 | 
 | 2023-02-26 | 2181 | 616 | 
-| 2023-02-25 | 2180 | 614 | 
 

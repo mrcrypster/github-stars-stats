@@ -1,6 +1,6 @@
 # CodeWithSwastik/clash-of-chem - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 19 | 9 | 
 | 2023-03-26 | 19 | 9 | 
 | 2023-03-24 | 19 | 9 | 
 | 2023-03-22 | 18 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 18 | 9 | 
 | 2023-02-28 | 18 | 9 | 
 | 2023-02-26 | 18 | 9 | 
-| 2023-02-25 | 18 | 9 | 
 

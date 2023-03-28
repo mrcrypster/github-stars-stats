@@ -1,6 +1,6 @@
 # rust-tw/advent-of-code - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 40 | 17 | 
 | 2023-03-26 | 40 | 17 | 
 | 2023-03-25 | 39 | 17 | 
 | 2023-03-24 | 39 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 40 | 17 | 
 | 2023-02-27 | 40 | 17 | 
 | 2023-02-26 | 40 | 17 | 
-| 2023-02-25 | 40 | 17 | 
 

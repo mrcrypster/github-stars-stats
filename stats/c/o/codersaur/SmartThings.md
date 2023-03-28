@@ -1,6 +1,6 @@
 # codersaur/SmartThings - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 553
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 291 | 553 | 
 | 2023-03-26 | 291 | 553 | 
 | 2023-03-24 | 291 | 553 | 
 | 2023-03-23 | 291 | 553 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 292 | 553 | 
 | 2023-02-28 | 292 | 553 | 
 | 2023-02-26 | 291 | 553 | 
-| 2023-02-25 | 291 | 553 | 
 

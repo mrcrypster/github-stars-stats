@@ -1,6 +1,6 @@
 # zdimension/parm_extended - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 49 | 3 | 
 | 2023-03-26 | 49 | 3 | 
 | 2023-03-25 | 49 | 3 | 
 | 2023-03-23 | 49 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 49 | 3 | 
 | 2023-02-27 | 49 | 3 | 
 | 2023-02-26 | 49 | 3 | 
-| 2023-02-25 | 49 | 3 | 
 

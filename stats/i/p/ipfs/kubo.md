@@ -1,10 +1,10 @@
 # ipfs/kubo - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 2943
+☋ Forks: 2945
 
-★ Stars: 14928
+★ Stars: 14932
 
 [Open repository](https://github.com/ipfs/kubo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 14932 | 2945 | 
 | 2023-03-25 | 14928 | 2943 | 
 | 2023-03-24 | 14922 | 2943 | 
 | 2023-03-23 | 14918 | 2940 | 

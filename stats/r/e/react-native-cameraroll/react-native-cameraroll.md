@@ -1,6 +1,6 @@
 # react-native-cameraroll/react-native-cameraroll - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 385
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 712 | 385 | 
 | 2023-03-26 | 712 | 385 | 
 | 2023-03-25 | 711 | 385 | 
 | 2023-03-23 | 710 | 385 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 698 | 376 | 
 | 2023-02-27 | 697 | 375 | 
 | 2023-02-26 | 696 | 374 | 
-| 2023-02-25 | 696 | 373 | 
 

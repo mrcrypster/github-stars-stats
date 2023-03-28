@@ -1,6 +1,6 @@
 # google/bazel-common - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 79 | 45 | 
 | 2023-03-26 | 79 | 45 | 
 | 2023-03-25 | 79 | 45 | 
 | 2023-03-24 | 79 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 78 | 45 | 
 | 2023-02-27 | 78 | 45 | 
 | 2023-02-26 | 78 | 45 | 
-| 2023-02-25 | 78 | 45 | 
 

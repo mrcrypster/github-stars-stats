@@ -1,10 +1,10 @@
 # slowmist/Knowledge-Base - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 453
 
-★ Stars: 2936
+★ Stars: 2938
 
 [Open repository](https://github.com/slowmist/Knowledge-Base)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2938 | 453 | 
 | 2023-03-26 | 2936 | 453 | 
 | 2023-03-24 | 2935 | 453 | 
 | 2023-03-23 | 2934 | 452 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2883 | 450 | 
 | 2023-02-28 | 2878 | 449 | 
 | 2023-02-26 | 2877 | 448 | 
-| 2023-02-25 | 2876 | 448 | 
 

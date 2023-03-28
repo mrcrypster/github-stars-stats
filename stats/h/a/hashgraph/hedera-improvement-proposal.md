@@ -1,8 +1,8 @@
 # hashgraph/hedera-improvement-proposal - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 106
+☋ Forks: 107
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 116 | 107 | 
 | 2023-03-26 | 116 | 106 | 
 | 2023-03-25 | 116 | 106 | 
 | 2023-03-23 | 116 | 105 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 114 | 104 | 
 | 2023-02-28 | 113 | 104 | 
 | 2023-02-27 | 113 | 104 | 
-| 2023-02-26 | 113 | 104 | 
 

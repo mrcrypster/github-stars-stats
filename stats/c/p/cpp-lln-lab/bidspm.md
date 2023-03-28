@@ -1,6 +1,6 @@
 # cpp-lln-lab/bidspm - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | 11 | 
 | 2023-03-26 | 3 | 11 | 
 | 2023-03-24 | 3 | 11 | 
 | 2023-03-22 | 3 | 11 | 

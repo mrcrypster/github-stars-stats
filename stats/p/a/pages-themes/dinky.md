@@ -1,6 +1,6 @@
 # pages-themes/dinky - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 95 | 269 | 
 | 2023-03-26 | 95 | 269 | 
 | 2023-03-25 | 94 | 269 | 
 | 2023-03-23 | 94 | 267 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 92 | 266 | 
 | 2023-02-27 | 92 | 267 | 
 | 2023-02-26 | 92 | 267 | 
-| 2023-02-25 | 92 | 267 | 
 

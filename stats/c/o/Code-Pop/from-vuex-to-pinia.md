@@ -1,6 +1,6 @@
 # Code-Pop/from-vuex-to-pinia - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 24 | 41 | 
 | 2023-03-26 | 24 | 41 | 
 | 2023-03-25 | 20 | 37 | 
 | 2023-03-23 | 18 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 18 | 33 | 
 | 2023-02-27 | 19 | 33 | 
 | 2023-02-26 | 19 | 33 | 
-| 2023-02-25 | 19 | 33 | 
 

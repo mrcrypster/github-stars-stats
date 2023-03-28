@@ -1,6 +1,6 @@
 # flano-yuki/http3-note - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 695 | 10 | 
 | 2023-03-26 | 695 | 10 | 
 | 2023-03-25 | 695 | 10 | 
 | 2023-03-23 | 695 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 696 | 10 | 
 | 2023-02-27 | 696 | 10 | 
 | 2023-02-26 | 696 | 10 | 
-| 2023-02-25 | 696 | 10 | 
 

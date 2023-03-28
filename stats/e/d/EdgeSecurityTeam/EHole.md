@@ -1,10 +1,10 @@
 # EdgeSecurityTeam/EHole - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 336
 
-★ Stars: 2032
+★ Stars: 2035
 
 [Open repository](https://github.com/EdgeSecurityTeam/EHole)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2035 | 336 | 
 | 2023-03-25 | 2032 | 336 | 
 | 2023-03-24 | 2031 | 336 | 
 | 2023-03-22 | 2028 | 336 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 1993 | 335 | 
 | 2023-02-28 | 1993 | 335 | 
 | 2023-02-27 | 1989 | 335 | 
-| 2023-02-26 | 1984 | 335 | 
 

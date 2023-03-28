@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-rust - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 253
+☋ Forks: 256
 
-★ Stars: 1022
+★ Stars: 1025
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1025 | 256 | 
 | 2023-03-26 | 1022 | 253 | 
 | 2023-03-25 | 1017 | 253 | 
 | 2023-03-24 | 1017 | 253 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 992 | 239 | 
 | 2023-02-28 | 989 | 239 | 
 | 2023-02-26 | 986 | 239 | 
-| 2023-02-25 | 986 | 239 | 
 

@@ -1,6 +1,6 @@
 # wp-cli/scaffold-command - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 151 | 84 | 
 | 2023-03-26 | 151 | 84 | 
 | 2023-03-25 | 151 | 84 | 
 | 2023-03-23 | 151 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 150 | 84 | 
 | 2023-02-28 | 150 | 84 | 
 | 2023-02-26 | 149 | 84 | 
-| 2023-02-25 | 149 | 84 | 
 

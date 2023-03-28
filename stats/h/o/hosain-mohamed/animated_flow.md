@@ -1,6 +1,6 @@
 # hosain-mohamed/animated_flow - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 71 | 16 | 
 | 2023-03-26 | 71 | 16 | 
 | 2023-03-25 | 71 | 16 | 
 | 2023-03-23 | 69 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 68 | 16 | 
 | 2023-02-28 | 68 | 16 | 
 | 2023-02-26 | 68 | 16 | 
-| 2023-02-25 | 68 | 16 | 
 

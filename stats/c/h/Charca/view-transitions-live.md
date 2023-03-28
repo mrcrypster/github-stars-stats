@@ -1,10 +1,10 @@
 # Charca/view-transitions-live - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 8
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/Charca/view-transitions-live)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 126 | 8 | 
 | 2023-03-26 | 125 | 8 | 
 | 2023-03-25 | 125 | 8 | 
 | 2023-03-24 | 123 | 7 | 

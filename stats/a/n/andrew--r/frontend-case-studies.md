@@ -1,6 +1,6 @@
 # andrew--r/frontend-case-studies - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 398
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 6917 | 398 | 
 | 2023-03-25 | 6917 | 398 | 
 | 2023-03-24 | 6915 | 398 | 
 | 2023-03-23 | 6914 | 398 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 6881 | 398 | 
 | 2023-02-28 | 6875 | 398 | 
 | 2023-02-26 | 6873 | 398 | 
-| 2023-02-25 | 6871 | 398 | 
 

@@ -1,10 +1,10 @@
 # juliand665/Recon-Bolt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 10
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/juliand665/Recon-Bolt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 189 | 10 | 
 | 2023-03-26 | 188 | 10 | 
 | 2023-03-25 | 187 | 10 | 
 | 2023-03-24 | 187 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 163 | 8 | 
 | 2023-02-27 | 163 | 8 | 
 | 2023-02-26 | 163 | 8 | 
-| 2023-02-25 | 163 | 8 | 
 

@@ -1,6 +1,6 @@
 # joreilly/Confetti - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 218 | 14 | 
 | 2023-03-26 | 218 | 14 | 
 | 2023-03-25 | 216 | 13 | 
 | 2023-03-23 | 213 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 189 | 10 | 
 | 2023-02-28 | 189 | 10 | 
 | 2023-02-26 | 183 | 10 | 
-| 2023-02-25 | 181 | 10 | 
 

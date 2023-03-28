@@ -1,6 +1,6 @@
 # TechDevOnGitHub/Lux-Shader - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 59 | 4 | 
 | 2023-03-26 | 59 | 4 | 
 | 2023-03-25 | 59 | 4 | 
 | 2023-03-23 | 59 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 56 | 4 | 
 | 2023-02-28 | 56 | 4 | 
 | 2023-02-27 | 56 | 4 | 
-| 2023-02-25 | 56 | 4 | 
 

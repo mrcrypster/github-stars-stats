@@ -1,10 +1,10 @@
 # lepture/shibuya - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 48
+★ Stars: 53
 
 [Open repository](https://github.com/lepture/shibuya)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 53 | - | 
 | 2023-03-26 | 48 | - | 
 | 2023-03-25 | 48 | - | 
 | 2023-03-23 | 48 | - | 

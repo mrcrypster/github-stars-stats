@@ -1,6 +1,6 @@
 # PapirusDevelopmentTeam/papirus-icon-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 385
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 5677 | 385 | 
 | 2023-03-26 | 5677 | 385 | 
 | 2023-03-24 | 5672 | 384 | 
 | 2023-03-23 | 5668 | 384 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5636 | 384 | 
 | 2023-02-28 | 5636 | 384 | 
 | 2023-02-27 | 5631 | 384 | 
-| 2023-02-25 | 5630 | 384 | 
 

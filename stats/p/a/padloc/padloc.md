@@ -1,10 +1,10 @@
 # padloc/padloc - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 211
 
-★ Stars: 2192
+★ Stars: 2195
 
 [Open repository](https://github.com/padloc/padloc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2195 | 211 | 
 | 2023-03-26 | 2192 | 211 | 
 | 2023-03-25 | 2191 | 210 | 
 | 2023-03-24 | 2189 | 210 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2139 | 209 | 
 | 2023-02-27 | 2134 | 208 | 
 | 2023-02-26 | 2133 | 208 | 
-| 2023-02-25 | 2133 | 208 | 
 

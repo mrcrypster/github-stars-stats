@@ -1,6 +1,6 @@
 # getify/Functional-Light-JS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1953
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 16084 | 1953 | 
 | 2023-03-26 | 16084 | 1953 | 
 | 2023-03-24 | 16084 | 1953 | 
 | 2023-03-23 | 16083 | 1953 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 16059 | 1949 | 
 | 2023-02-28 | 16058 | 1949 | 
 | 2023-02-26 | 16058 | 1949 | 
-| 2023-02-25 | 16053 | 1949 | 
 

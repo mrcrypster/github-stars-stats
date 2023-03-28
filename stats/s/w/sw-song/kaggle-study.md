@@ -1,6 +1,6 @@
 # sw-song/kaggle-study - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 48 | 10 | 
 | 2023-03-26 | 48 | 10 | 
 | 2023-03-24 | 48 | 10 | 
 | 2023-03-23 | 48 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 47 | 10 | 
 | 2023-02-27 | 47 | 10 | 
 | 2023-02-26 | 47 | 10 | 
-| 2023-02-25 | 47 | 10 | 
 

@@ -1,10 +1,10 @@
 # zinclabs/zincsearch - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 631
+☋ Forks: 632
 
-★ Stars: 14646
+★ Stars: 14655
 
 [Open repository](https://github.com/zinclabs/zincsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 14655 | 632 | 
 | 2023-03-26 | 14646 | 631 | 
 | 2023-03-25 | 14640 | 631 | 
 | 2023-03-23 | 14628 | 631 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 13910 | 604 | 
 | 2023-02-28 | 13891 | 601 | 
 | 2023-02-26 | 13878 | 600 | 
-| 2023-02-25 | 13862 | 600 | 
 

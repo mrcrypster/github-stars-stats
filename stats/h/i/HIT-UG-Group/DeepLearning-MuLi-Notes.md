@@ -1,10 +1,10 @@
 # HIT-UG-Group/DeepLearning-MuLi-Notes - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 451
 
-★ Stars: 2641
+★ Stars: 2656
 
 [Open repository](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2656 | 451 | 
 | 2023-03-25 | 2641 | 451 | 
 | 2023-03-24 | 2631 | 451 | 
 | 2023-03-23 | 2609 | 448 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 2356 | 405 | 
 | 2023-02-27 | 2353 | 403 | 
 | 2023-02-26 | 2350 | 401 | 
-| 2023-02-25 | 2348 | 400 | 
 

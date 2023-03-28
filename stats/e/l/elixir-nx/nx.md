@@ -1,10 +1,10 @@
 # elixir-nx/nx - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 152
 
-★ Stars: 2112
+★ Stars: 2113
 
 [Open repository](https://github.com/elixir-nx/nx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2113 | 152 | 
 | 2023-03-26 | 2112 | 152 | 
 | 2023-03-25 | 2111 | 152 | 
 | 2023-03-24 | 2111 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2091 | 151 | 
 | 2023-02-28 | 2091 | 151 | 
 | 2023-02-27 | 2090 | 150 | 
-| 2023-02-25 | 2089 | 150 | 
 

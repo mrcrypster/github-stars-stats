@@ -1,6 +1,6 @@
 # meower-media-co/Meower-Svelte - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 7 | 25 | 
 | 2023-03-26 | 7 | 25 | 
 | 2023-03-24 | 7 | 24 | 
 | 2023-03-23 | 7 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 7 | 22 | 
 | 2023-02-27 | 7 | 22 | 
 | 2023-02-26 | 7 | 22 | 
-| 2023-02-25 | 7 | 22 | 
 

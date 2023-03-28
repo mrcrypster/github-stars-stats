@@ -1,6 +1,6 @@
 # Your-First-Open-Source-Project/start-here - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 101 | 111 | 
 | 2023-03-26 | 101 | 111 | 
 | 2023-03-25 | 100 | 111 | 
 | 2023-03-23 | 100 | 111 | 

@@ -1,6 +1,6 @@
 # VitoVan/calm - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 59 | 2 | 
 | 2023-03-26 | 59 | 2 | 
 | 2023-03-25 | 59 | 2 | 
 | 2023-03-24 | 59 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 38 | 1 | 
 | 2023-02-27 | 37 | 1 | 
 | 2023-02-26 | 34 | 1 | 
-| 2023-02-25 | 27 | 1 | 
 

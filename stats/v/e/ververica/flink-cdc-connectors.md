@@ -1,10 +1,10 @@
 # ververica/flink-cdc-connectors - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 1305
+☋ Forks: 1308
 
-★ Stars: 3737
+★ Stars: 3741
 
 [Open repository](https://github.com/ververica/flink-cdc-connectors)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3741 | 1308 | 
 | 2023-03-26 | 3737 | 1305 | 
 | 2023-03-25 | 3737 | 1304 | 
 | 2023-03-24 | 3732 | 1306 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 3582 | 1252 | 
 | 2023-02-27 | 3569 | 1251 | 
 | 2023-02-26 | 3557 | 1248 | 
-| 2023-02-25 | 3557 | 1248 | 
 

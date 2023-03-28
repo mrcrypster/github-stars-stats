@@ -1,6 +1,6 @@
 # LinkedInLearning/level-up-rust-3041143 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | 10 | 
 | 2023-03-25 | 3 | 10 | 
 | 2023-03-24 | 3 | 11 | 
 | 2023-03-23 | 3 | 11 | 

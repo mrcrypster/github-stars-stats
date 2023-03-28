@@ -1,10 +1,10 @@
 # morrownr/USB-WiFi - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 93
 
-★ Stars: 1105
+★ Stars: 1108
 
 [Open repository](https://github.com/morrownr/USB-WiFi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1108 | 93 | 
 | 2023-03-26 | 1105 | 93 | 
 | 2023-03-25 | 1102 | 93 | 
 | 2023-03-23 | 1099 | 93 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1059 | 86 | 
 | 2023-02-28 | 1058 | 86 | 
 | 2023-02-27 | 1056 | 86 | 
-| 2023-02-26 | 1055 | 86 | 
 

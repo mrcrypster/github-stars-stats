@@ -1,10 +1,10 @@
 # beeradmoore/dlss-swapper - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 43
 
-★ Stars: 947
+★ Stars: 952
 
 [Open repository](https://github.com/beeradmoore/dlss-swapper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 952 | 43 | 
 | 2023-03-26 | 947 | 43 | 
 | 2023-03-24 | 947 | 43 | 
 | 2023-03-23 | 942 | 43 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 905 | 42 | 
 | 2023-02-27 | 899 | 42 | 
 | 2023-02-26 | 895 | 41 | 
-| 2023-02-25 | 890 | 41 | 
 

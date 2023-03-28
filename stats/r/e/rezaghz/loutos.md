@@ -1,10 +1,10 @@
 # rezaghz/loutos - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/rezaghz/loutos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 212 | 4 | 
 | 2023-03-26 | 211 | 4 | 
 | 2023-03-25 | 211 | 4 | 
 | 2023-03-23 | 211 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 209 | 4 | 
 | 2023-02-28 | 209 | 4 | 
 | 2023-02-27 | 209 | 4 | 
-| 2023-02-25 | 209 | 4 | 
 

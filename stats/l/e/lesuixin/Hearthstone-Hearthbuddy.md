@@ -1,8 +1,8 @@
 # lesuixin/Hearthstone-Hearthbuddy - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 118
+☋ Forks: 117
 
 ★ Stars: 470
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 470 | 117 | 
 | 2023-03-26 | 470 | 118 | 
 | 2023-03-25 | 469 | 118 | 
 | 2023-03-23 | 471 | 118 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 473 | 118 | 
 | 2023-02-28 | 473 | 118 | 
 | 2023-02-26 | 473 | 118 | 
-| 2023-02-25 | 473 | 118 | 
 

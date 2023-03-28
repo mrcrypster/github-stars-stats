@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 292
 
-★ Stars: 845
+★ Stars: 846
 
 [Open repository](https://github.com/pyscripter/pyscripter)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 845 | 292 | 
+| 2023-03-27 | 846 | 292 | 
 | 2023-03-26 | 844 | 292 | 
 | 2023-03-25 | 844 | 292 | 
 | 2023-03-24 | 843 | 292 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 836 | 287 | 
 | 2023-02-27 | 835 | 287 | 
 | 2023-02-26 | 835 | 287 | 
-| 2023-02-25 | 834 | 288 | 
 

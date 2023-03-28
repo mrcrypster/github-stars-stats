@@ -1,10 +1,10 @@
 # tg12/gpt_jailbreak_status - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 451
+★ Stars: 472
 
 [Open repository](https://github.com/tg12/gpt_jailbreak_status)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 472 | 26 | 
 | 2023-03-26 | 451 | 24 | 
 | 2023-03-25 | 440 | 23 | 
 | 2023-03-24 | 436 | 22 | 

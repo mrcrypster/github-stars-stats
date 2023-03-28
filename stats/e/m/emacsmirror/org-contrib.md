@@ -1,10 +1,10 @@
 # emacsmirror/org-contrib - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/emacsmirror/org-contrib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 17 | 2 | 
 | 2023-03-26 | 16 | 2 | 
 | 2023-03-25 | 16 | 2 | 
 | 2023-03-23 | 16 | 2 | 

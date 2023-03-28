@@ -1,6 +1,6 @@
 # MSF-OCB/NixOS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 14 | 7 | 
 | 2023-03-26 | 14 | 7 | 
 | 2023-03-25 | 14 | 7 | 
 | 2023-03-23 | 14 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 13 | 7 | 
 | 2023-02-27 | 13 | 7 | 
 | 2023-02-26 | 13 | 7 | 
-| 2023-02-25 | 13 | 7 | 
 

@@ -1,6 +1,6 @@
 # Shopify/shadowenv.el - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 20 | 6 | 
 | 2023-03-26 | 20 | 6 | 
 | 2023-03-25 | 20 | 6 | 
 | 2023-03-24 | 20 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 20 | 5 | 
 | 2023-02-27 | 20 | 5 | 
 | 2023-02-26 | 20 | 5 | 
-| 2023-02-25 | 20 | 5 | 
 

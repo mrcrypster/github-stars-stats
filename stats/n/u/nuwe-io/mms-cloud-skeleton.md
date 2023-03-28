@@ -1,8 +1,8 @@
 # nuwe-io/mms-cloud-skeleton - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 11
+☋ Forks: 13
 
 ★ Stars: 3
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | 13 | 
 | 2023-03-26 | 3 | 11 | 
 

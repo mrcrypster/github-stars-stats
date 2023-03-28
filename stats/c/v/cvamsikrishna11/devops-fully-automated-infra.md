@@ -1,6 +1,6 @@
 # cvamsikrishna11/devops-fully-automated-infra - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 8 | 228 | 
 | 2023-03-26 | 8 | 228 | 
 | 2023-03-25 | 8 | 228 | 
 | 2023-03-23 | 8 | 230 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 7 | 227 | 
 | 2023-02-27 | 7 | 227 | 
 | 2023-02-26 | 7 | 227 | 
-| 2023-02-25 | 7 | 227 | 
 

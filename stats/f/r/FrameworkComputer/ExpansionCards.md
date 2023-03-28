@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 37
 
-★ Stars: 565
+★ Stars: 568
 
 [Open repository](https://github.com/FrameworkComputer/ExpansionCards)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 565 | 37 | 
+| 2023-03-27 | 568 | 37 | 
 | 2023-03-26 | 562 | 37 | 
 | 2023-03-25 | 552 | 37 | 
 | 2023-03-23 | 536 | 37 | 
@@ -37,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 531 | 37 | 
 | 2023-02-28 | 531 | 37 | 
 | 2023-02-26 | 531 | 37 | 
-| 2023-02-25 | 531 | 37 | 
 

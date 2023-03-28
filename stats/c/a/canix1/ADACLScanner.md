@@ -1,10 +1,10 @@
 # canix1/ADACLScanner - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 138
 
-★ Stars: 722
+★ Stars: 723
 
 [Open repository](https://github.com/canix1/ADACLScanner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 723 | 138 | 
 | 2023-03-26 | 722 | 138 | 
 | 2023-03-24 | 722 | 138 | 
 | 2023-03-23 | 722 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 711 | 137 | 
 | 2023-02-28 | 711 | 137 | 
 | 2023-02-26 | 710 | 137 | 
-| 2023-02-25 | 710 | 137 | 
 

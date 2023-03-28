@@ -1,6 +1,6 @@
 # spatie/visit - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 375 | 11 | 
 | 2023-03-26 | 375 | 11 | 
 | 2023-03-24 | 375 | 11 | 
 | 2023-03-23 | 375 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 376 | 11 | 
 | 2023-02-27 | 376 | 11 | 
 | 2023-02-26 | 376 | 10 | 
-| 2023-02-25 | 376 | 10 | 
 

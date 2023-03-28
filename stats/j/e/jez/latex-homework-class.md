@@ -1,6 +1,6 @@
 # jez/latex-homework-class - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 138 | 195 | 
 | 2023-03-26 | 138 | 195 | 
 | 2023-03-25 | 138 | 195 | 
 | 2023-03-23 | 138 | 195 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 139 | 194 | 
 | 2023-02-27 | 139 | 194 | 
 | 2023-02-26 | 139 | 194 | 
-| 2023-02-25 | 139 | 194 | 
 

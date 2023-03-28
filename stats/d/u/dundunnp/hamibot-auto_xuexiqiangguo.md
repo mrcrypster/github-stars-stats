@@ -1,10 +1,10 @@
 # dundunnp/hamibot-auto_xuexiqiangguo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 940
 
-★ Stars: 2428
+★ Stars: 2435
 
 [Open repository](https://github.com/dundunnp/hamibot-auto_xuexiqiangguo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2435 | 940 | 
 | 2023-03-26 | 2428 | 940 | 
 | 2023-03-25 | 2415 | 939 | 
 | 2023-03-23 | 2408 | 937 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2322 | 903 | 
 | 2023-02-28 | 2314 | 901 | 
 | 2023-02-27 | 2302 | 900 | 
-| 2023-02-25 | 2296 | 900 | 
 

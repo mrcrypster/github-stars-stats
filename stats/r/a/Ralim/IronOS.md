@@ -1,10 +1,10 @@
 # Ralim/IronOS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 614
 
-★ Stars: 5435
+★ Stars: 5438
 
 [Open repository](https://github.com/Ralim/IronOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 5438 | 614 | 
 | 2023-03-26 | 5435 | 614 | 
 | 2023-03-24 | 5428 | 614 | 
 | 2023-03-23 | 5422 | 614 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5349 | 607 | 
 | 2023-02-28 | 5347 | 607 | 
 | 2023-02-27 | 5346 | 605 | 
-| 2023-02-25 | 5343 | 605 | 
 

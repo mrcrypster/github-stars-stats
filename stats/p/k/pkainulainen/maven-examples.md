@@ -1,6 +1,6 @@
 # pkainulainen/maven-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 700
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 305 | 700 | 
 | 2023-03-26 | 305 | 700 | 
 | 2023-03-25 | 305 | 700 | 
 | 2023-03-23 | 305 | 700 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 305 | 696 | 
 | 2023-02-27 | 305 | 696 | 
 | 2023-02-26 | 305 | 696 | 
-| 2023-02-25 | 305 | 696 | 
 

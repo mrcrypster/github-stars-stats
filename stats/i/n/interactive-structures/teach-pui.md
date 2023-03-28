@@ -1,6 +1,6 @@
 # interactive-structures/teach-pui - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 9 | 74 | 
 | 2023-03-26 | 9 | 74 | 
 | 2023-03-25 | 9 | 73 | 
 | 2023-03-23 | 9 | 73 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 9 | 73 | 
 | 2023-02-27 | 9 | 73 | 
 | 2023-02-26 | 9 | 73 | 
-| 2023-02-25 | 9 | 73 | 
 

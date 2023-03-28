@@ -1,6 +1,6 @@
 # hzbnb/affair - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 92 | 53 | 
 | 2023-03-26 | 92 | 53 | 
 | 2023-03-25 | 92 | 53 | 
 | 2023-03-23 | 90 | 53 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 88 | 54 | 
 | 2023-02-28 | 87 | 54 | 
 | 2023-02-26 | 87 | 53 | 
-| 2023-02-25 | 87 | 53 | 
 

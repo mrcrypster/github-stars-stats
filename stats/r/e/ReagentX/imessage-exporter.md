@@ -1,10 +1,10 @@
 # ReagentX/imessage-exporter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 29
 
-★ Stars: 1106
+★ Stars: 1138
 
 [Open repository](https://github.com/ReagentX/imessage-exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1138 | 29 | 
 | 2023-03-26 | 1106 | 29 | 
 | 2023-03-24 | 1103 | 29 | 
 | 2023-03-23 | 1099 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1026 | 27 | 
 | 2023-02-28 | 1022 | 27 | 
 | 2023-02-26 | 1021 | 26 | 
-| 2023-02-25 | 1016 | 25 | 
 

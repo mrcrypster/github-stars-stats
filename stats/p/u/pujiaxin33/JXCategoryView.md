@@ -1,10 +1,10 @@
 # pujiaxin33/JXCategoryView - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1134
 
-★ Stars: 5863
+★ Stars: 5864
 
 [Open repository](https://github.com/pujiaxin33/JXCategoryView)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 5864 | 1134 | 
 | 2023-03-26 | 5863 | 1134 | 
 | 2023-03-24 | 5863 | 1134 | 
 | 2023-03-23 | 5861 | 1134 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5856 | 1131 | 
 | 2023-02-28 | 5855 | 1132 | 
 | 2023-02-27 | 5855 | 1132 | 
-| 2023-02-26 | 5855 | 1132 | 
 

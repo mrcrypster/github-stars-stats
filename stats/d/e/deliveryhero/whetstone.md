@@ -1,6 +1,6 @@
 # deliveryhero/whetstone - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 178 | 4 | 
 | 2023-03-26 | 178 | 4 | 
 | 2023-03-24 | 177 | 4 | 
 | 2023-03-23 | 175 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 171 | 4 | 
 | 2023-02-27 | 171 | 4 | 
 | 2023-02-26 | 170 | 4 | 
-| 2023-02-25 | 170 | 4 | 
 

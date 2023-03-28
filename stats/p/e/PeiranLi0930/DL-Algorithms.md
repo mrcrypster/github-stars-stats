@@ -1,10 +1,10 @@
 # PeiranLi0930/DL-Algorithms - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 84
 
-★ Stars: 699
+★ Stars: 718
 
 [Open repository](https://github.com/PeiranLi0930/DL-Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 718 | 84 | 
 | 2023-03-26 | 699 | 84 | 
 | 2023-03-25 | 686 | 84 | 
 | 2023-03-23 | 669 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 256 | 40 | 
 | 2023-02-27 | 229 | 37 | 
 | 2023-02-26 | 223 | 35 | 
-| 2023-02-25 | 205 | 34 | 
 

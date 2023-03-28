@@ -1,6 +1,6 @@
 # freshworks/freshchat-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 38 | 48 | 
 | 2023-03-26 | 38 | 48 | 
 | 2023-03-25 | 38 | 48 | 
 | 2023-03-23 | 38 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 38 | 47 | 
 | 2023-02-27 | 38 | 47 | 
 | 2023-02-26 | 38 | 47 | 
-| 2023-02-25 | 37 | 47 | 
 

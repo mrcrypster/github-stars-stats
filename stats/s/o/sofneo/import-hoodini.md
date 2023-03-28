@@ -1,6 +1,6 @@
 # sofneo/import-hoodini - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 48 | 11 | 
 | 2023-03-26 | 48 | 11 | 
 | 2023-03-24 | 48 | 11 | 
 | 2023-03-22 | 48 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 49 | 11 | 
 | 2023-02-28 | 49 | 11 | 
 | 2023-02-26 | 49 | 11 | 
-| 2023-02-25 | 48 | 11 | 
 

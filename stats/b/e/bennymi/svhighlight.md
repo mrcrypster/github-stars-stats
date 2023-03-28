@@ -1,10 +1,10 @@
 # bennymi/svhighlight - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 34
 
 [Open repository](https://github.com/bennymi/svhighlight)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 34 | - | 
 | 2023-03-26 | 32 | - | 
 

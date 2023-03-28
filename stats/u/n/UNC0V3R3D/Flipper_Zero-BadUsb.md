@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 270
+☋ Forks: 273
 
-★ Stars: 1009
+★ Stars: 1013
 
 [Open repository](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 1009 | 270 | 
+| 2023-03-27 | 1013 | 273 | 
 | 2023-03-26 | 1008 | 267 | 
 | 2023-03-25 | 1004 | 265 | 
 | 2023-03-24 | 1003 | 261 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 1000 | 245 | 
 | 2023-02-27 | 998 | 244 | 
 | 2023-02-26 | 993 | 242 | 
-| 2023-02-25 | 987 | 240 | 
 

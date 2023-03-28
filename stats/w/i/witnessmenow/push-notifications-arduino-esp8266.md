@@ -1,6 +1,6 @@
 # witnessmenow/push-notifications-arduino-esp8266 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 154 | 45 | 
 | 2023-03-26 | 154 | 45 | 
 | 2023-03-24 | 154 | 45 | 
 | 2023-03-23 | 154 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 152 | 45 | 
 | 2023-02-28 | 152 | 45 | 
 | 2023-02-27 | 152 | 45 | 
-| 2023-02-26 | 152 | 45 | 
 

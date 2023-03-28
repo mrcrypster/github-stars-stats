@@ -1,10 +1,10 @@
 # hercules-ci/flake-modules-core - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 20
 
-★ Stars: 260
+★ Stars: 259
 
 [Open repository](https://github.com/hercules-ci/flake-modules-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 259 | 20 | 
 | 2023-03-26 | 260 | 20 | 
 | 2023-03-25 | 260 | 20 | 
 | 2023-03-24 | 258 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 231 | 18 | 
 | 2023-02-27 | 230 | 18 | 
 | 2023-02-26 | 229 | 18 | 
-| 2023-02-25 | 228 | 18 | 
 

@@ -1,6 +1,6 @@
 # kristijanhusak/vim-dadbod-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 745 | 32 | 
 | 2023-03-26 | 745 | 32 | 
 | 2023-03-24 | 745 | 32 | 
 | 2023-03-22 | 744 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 722 | 31 | 
 | 2023-02-27 | 721 | 31 | 
 | 2023-02-26 | 721 | 30 | 
-| 2023-02-25 | 721 | 31 | 
 

@@ -1,10 +1,10 @@
 # lux-org/lux - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 346
+☋ Forks: 347
 
-★ Stars: 4495
+★ Stars: 4499
 
 [Open repository](https://github.com/lux-org/lux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4499 | 347 | 
 | 2023-03-26 | 4495 | 346 | 
 | 2023-03-24 | 4492 | 346 | 
 | 2023-03-23 | 4490 | 345 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4452 | 344 | 
 | 2023-02-28 | 4450 | 344 | 
 | 2023-02-26 | 4450 | 343 | 
-| 2023-02-25 | 4449 | 343 | 
 

@@ -1,6 +1,6 @@
 # cocos/cocomat - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 154 | 57 | 
 | 2023-03-25 | 154 | 57 | 
 | 2023-03-24 | 154 | 57 | 
 | 2023-03-23 | 154 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 148 | 56 | 
 | 2023-02-27 | 148 | 56 | 
 | 2023-02-26 | 148 | 56 | 
-| 2023-02-25 | 148 | 56 | 
 

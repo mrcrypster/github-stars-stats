@@ -1,10 +1,10 @@
 # mockito/mockito - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 2385
+☋ Forks: 2389
 
-★ Stars: 13795
+★ Stars: 13805
 
 [Open repository](https://github.com/mockito/mockito)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 13805 | 2389 | 
 | 2023-03-26 | 13795 | 2385 | 
 | 2023-03-25 | 13790 | 2383 | 
 | 2023-03-23 | 13784 | 2379 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 13719 | 2355 | 
 | 2023-02-27 | 13715 | 2354 | 
 | 2023-02-26 | 13713 | 2354 | 
-| 2023-02-25 | 13712 | 2354 | 
 

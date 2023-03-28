@@ -1,6 +1,6 @@
 # haskell-hvr/HsYAML-aeson - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 9 | 9 | 
 | 2023-03-26 | 9 | 9 | 
 | 2023-03-25 | 9 | 9 | 
 | 2023-03-24 | 9 | 9 | 

@@ -1,6 +1,6 @@
 # jasonisop/lpc_game - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 8 | 2 | 
 | 2023-03-26 | 8 | 2 | 
 | 2023-03-25 | 8 | 2 | 
 | 2023-03-23 | 8 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 8 | 2 | 
 | 2023-02-28 | 8 | 2 | 
 | 2023-02-26 | 8 | 2 | 
-| 2023-02-25 | 8 | 2 | 
 

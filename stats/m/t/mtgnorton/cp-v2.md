@@ -1,6 +1,6 @@
 # mtgnorton/cp-v2 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 51 | 9 | 
 | 2023-03-26 | 51 | 9 | 
 | 2023-03-24 | 51 | 9 | 
 | 2023-03-23 | 51 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 53 | 9 | 
 | 2023-02-28 | 53 | 9 | 
 | 2023-02-27 | 53 | 9 | 
-| 2023-02-26 | 53 | 9 | 
 

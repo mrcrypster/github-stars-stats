@@ -1,10 +1,10 @@
 # buildkite/docs - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 221
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/buildkite/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 33 | 221 | 
 | 2023-03-26 | 32 | 221 | 
 | 2023-03-25 | 32 | 221 | 
 | 2023-03-23 | 32 | 221 | 

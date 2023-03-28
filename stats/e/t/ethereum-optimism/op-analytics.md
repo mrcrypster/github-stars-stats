@@ -1,10 +1,10 @@
 # ethereum-optimism/op-analytics - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 25
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/ethereum-optimism/op-analytics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 65 | 25 | 
 | 2023-03-26 | 64 | 25 | 
 | 2023-03-25 | 64 | 25 | 
 | 2023-03-23 | 64 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 59 | 24 | 
 | 2023-02-27 | 59 | 24 | 
 | 2023-02-26 | 59 | 24 | 
-| 2023-02-25 | 59 | 24 | 
 

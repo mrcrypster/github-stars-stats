@@ -1,6 +1,6 @@
 # name99-org/AArch64-Explore - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 86 | 10 | 
 | 2023-03-26 | 86 | 10 | 
 | 2023-03-24 | 83 | 10 | 
 | 2023-03-22 | 81 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 78 | 9 | 
 | 2023-02-28 | 78 | 9 | 
 | 2023-02-26 | 77 | 9 | 
-| 2023-02-25 | 77 | 9 | 
 

@@ -1,6 +1,6 @@
 # DartHomewrok-2022/basic_function_homework - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | 35 | 
 | 2023-03-26 | 3 | 35 | 
 | 2023-03-24 | 3 | 35 | 
 | 2023-03-23 | 3 | 35 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3 | 35 | 
 | 2023-02-27 | 3 | 35 | 
 | 2023-02-26 | 3 | 35 | 
-| 2023-02-25 | 3 | 35 | 
 

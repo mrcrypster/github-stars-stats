@@ -1,8 +1,8 @@
 # frappe/gantt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 808
+☋ Forks: 810
 
 ★ Stars: 3606
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3606 | 810 | 
 | 2023-03-26 | 3606 | 808 | 
 | 2023-03-24 | 3604 | 809 | 
 | 2023-03-22 | 3600 | 808 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3564 | 802 | 
 | 2023-02-28 | 3561 | 800 | 
 | 2023-02-26 | 3558 | 800 | 
-| 2023-02-25 | 3557 | 800 | 
 

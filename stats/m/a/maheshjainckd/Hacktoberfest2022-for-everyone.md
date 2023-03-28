@@ -1,8 +1,8 @@
 # maheshjainckd/Hacktoberfest2022-for-everyone - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 808
+☋ Forks: 806
 
 ★ Stars: 163
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 163 | 806 | 
 | 2023-03-26 | 163 | 808 | 
 | 2023-03-25 | 163 | 808 | 
 | 2023-03-23 | 163 | 809 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 165 | 819 | 
 | 2023-02-27 | 165 | 821 | 
 | 2023-02-26 | 165 | 821 | 
-| 2023-02-25 | 165 | 821 | 
 

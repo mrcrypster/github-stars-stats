@@ -1,6 +1,6 @@
 # ControlCplusControlV/Arbitrage-Example - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 95 | 12 | 
 | 2023-03-26 | 95 | 12 | 
 | 2023-03-24 | 95 | 12 | 
 | 2023-03-23 | 95 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 94 | 11 | 
 | 2023-02-28 | 94 | 11 | 
 | 2023-02-26 | 94 | 11 | 
-| 2023-02-25 | 94 | 11 | 
 

@@ -1,10 +1,10 @@
 # ElectronNET/Electron.NET - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 667
 
-★ Stars: 6620
+★ Stars: 6624
 
 [Open repository](https://github.com/ElectronNET/Electron.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6624 | 667 | 
 | 2023-03-26 | 6620 | 667 | 
 | 2023-03-25 | 6618 | 667 | 
 | 2023-03-23 | 6615 | 667 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 6587 | 664 | 
 | 2023-02-27 | 6585 | 664 | 
 | 2023-02-26 | 6584 | 664 | 
-| 2023-02-25 | 6584 | 664 | 
 

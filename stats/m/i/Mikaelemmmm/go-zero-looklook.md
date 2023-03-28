@@ -1,10 +1,10 @@
 # Mikaelemmmm/go-zero-looklook - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 613
+☋ Forks: 617
 
-★ Stars: 2971
+★ Stars: 2977
 
 [Open repository](https://github.com/Mikaelemmmm/go-zero-looklook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2977 | 617 | 
 | 2023-03-26 | 2971 | 613 | 
 | 2023-03-24 | 2967 | 609 | 
 | 2023-03-22 | 2962 | 606 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2820 | 589 | 
 | 2023-02-27 | 2808 | 587 | 
 | 2023-02-26 | 2798 | 586 | 
-| 2023-02-25 | 2790 | 584 | 
 

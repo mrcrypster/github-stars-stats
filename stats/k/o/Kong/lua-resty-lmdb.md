@@ -1,6 +1,6 @@
 # Kong/lua-resty-lmdb - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 17 | 3 | 
 | 2023-03-26 | 17 | 3 | 
 | 2023-03-25 | 17 | 3 | 
 | 2023-03-24 | 17 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 16 | 3 | 
 | 2023-02-27 | 16 | 3 | 
 | 2023-02-26 | 16 | 3 | 
-| 2023-02-25 | 16 | 3 | 
 

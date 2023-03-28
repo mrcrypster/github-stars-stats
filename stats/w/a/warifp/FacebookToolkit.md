@@ -1,10 +1,10 @@
 # warifp/FacebookToolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 239
 
-★ Stars: 622
+★ Stars: 624
 
 [Open repository](https://github.com/warifp/FacebookToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 624 | 239 | 
 | 2023-03-26 | 622 | 239 | 
 | 2023-03-25 | 620 | 239 | 
 | 2023-03-23 | 620 | 239 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 606 | 233 | 
 | 2023-02-27 | 605 | 233 | 
 | 2023-02-26 | 605 | 232 | 
-| 2023-02-25 | 605 | 232 | 
 

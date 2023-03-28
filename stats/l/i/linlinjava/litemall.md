@@ -1,10 +1,10 @@
 # linlinjava/litemall - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 6944
 
-★ Stars: 17835
+★ Stars: 17840
 
 [Open repository](https://github.com/linlinjava/litemall)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 17840 | 6944 | 
 | 2023-03-26 | 17835 | 6944 | 
 | 2023-03-24 | 17833 | 6942 | 
 | 2023-03-23 | 17829 | 6942 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 17753 | 6917 | 
 | 2023-02-27 | 17752 | 6914 | 
 | 2023-02-26 | 17752 | 6914 | 
-| 2023-02-25 | 17750 | 6914 | 
 

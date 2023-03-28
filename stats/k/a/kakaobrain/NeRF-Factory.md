@@ -1,10 +1,10 @@
 # kakaobrain/NeRF-Factory - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 74
 
-★ Stars: 957
+★ Stars: 958
 
 [Open repository](https://github.com/kakaobrain/NeRF-Factory)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 958 | 74 | 
 | 2023-03-26 | 957 | 74 | 
 | 2023-03-25 | 957 | 74 | 
 | 2023-03-24 | 957 | 74 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 933 | 71 | 
 | 2023-02-28 | 931 | 71 | 
 | 2023-02-26 | 928 | 71 | 
-| 2023-02-25 | 928 | 71 | 
 

@@ -1,6 +1,6 @@
 # ARF-SS13/ARFS-6 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4 | 15 | 
 | 2023-03-26 | 4 | 15 | 
 | 2023-03-25 | 4 | 15 | 
 | 2023-03-23 | 4 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4 | 15 | 
 | 2023-02-27 | 4 | 15 | 
 | 2023-02-26 | 4 | 15 | 
-| 2023-02-25 | 4 | 15 | 
 

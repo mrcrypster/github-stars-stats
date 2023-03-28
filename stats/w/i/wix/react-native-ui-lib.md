@@ -1,10 +1,10 @@
 # wix/react-native-ui-lib - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 655
+☋ Forks: 654
 
-★ Stars: 5256
+★ Stars: 5259
 
 [Open repository](https://github.com/wix/react-native-ui-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 5259 | 654 | 
 | 2023-03-26 | 5256 | 655 | 
 | 2023-03-25 | 5250 | 655 | 
 | 2023-03-23 | 5249 | 655 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5195 | 651 | 
 | 2023-02-28 | 5190 | 650 | 
 | 2023-02-26 | 5189 | 649 | 
-| 2023-02-25 | 5188 | 649 | 
 

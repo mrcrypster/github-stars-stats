@@ -1,10 +1,10 @@
 # Kaustubh-Natuskar/moreThanFAANGM - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 752
+☋ Forks: 753
 
-★ Stars: 3587
+★ Stars: 3589
 
 [Open repository](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3589 | 753 | 
 | 2023-03-26 | 3587 | 752 | 
 | 2023-03-24 | 3584 | 753 | 
 | 2023-03-23 | 3583 | 753 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 3558 | 745 | 
 | 2023-02-27 | 3556 | 745 | 
 | 2023-02-26 | 3555 | 744 | 
-| 2023-02-25 | 3555 | 744 | 
 

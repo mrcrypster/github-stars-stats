@@ -1,10 +1,10 @@
 # fosscord/fosscord - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 165
 
-★ Stars: 4660
+★ Stars: 4665
 
 [Open repository](https://github.com/fosscord/fosscord)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 4665 | 165 | 
 | 2023-03-25 | 4660 | 165 | 
 | 2023-03-24 | 4657 | 165 | 
 | 2023-03-22 | 4649 | 165 | 

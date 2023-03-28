@@ -1,6 +1,6 @@
 # widdix/mastodon-on-aws - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 117 | 21 | 
 | 2023-03-26 | 117 | 21 | 
 | 2023-03-24 | 116 | 21 | 
 | 2023-03-23 | 116 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 111 | 21 | 
 | 2023-02-27 | 110 | 21 | 
 | 2023-02-26 | 110 | 21 | 
-| 2023-02-25 | 110 | 21 | 
 

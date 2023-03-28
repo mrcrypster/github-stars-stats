@@ -1,6 +1,6 @@
 # svenstaro/genact - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 326
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 7029 | 326 | 
 | 2023-03-26 | 7029 | 326 | 
 | 2023-03-25 | 7023 | 326 | 
 | 2023-03-24 | 7019 | 326 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 6987 | 325 | 
 | 2023-02-27 | 6985 | 325 | 
 | 2023-02-26 | 6983 | 325 | 
-| 2023-02-25 | 6981 | 325 | 
 

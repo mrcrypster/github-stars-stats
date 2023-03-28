@@ -1,10 +1,10 @@
 # coil-kt/coil - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 573
+☋ Forks: 574
 
-★ Stars: 9006
+★ Stars: 9014
 
 [Open repository](https://github.com/coil-kt/coil)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 9014 | 574 | 
 | 2023-03-26 | 9006 | 573 | 
 | 2023-03-25 | 9007 | 573 | 
 | 2023-03-24 | 9003 | 572 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 8945 | 570 | 
 | 2023-02-27 | 8944 | 569 | 
 | 2023-02-26 | 8939 | 569 | 
-| 2023-02-25 | 8938 | 568 | 
 

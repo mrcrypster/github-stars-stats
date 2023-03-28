@@ -1,10 +1,10 @@
 # mxismean/chatgpt-app - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/mxismean/chatgpt-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 48 | 5 | 
 | 2023-03-26 | 47 | 5 | 
 | 2023-03-24 | 47 | 5 | 
 | 2023-03-23 | 47 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 39 | 5 | 
 | 2023-02-27 | 38 | 5 | 
 | 2023-02-26 | 38 | 5 | 
-| 2023-02-25 | 38 | 5 | 
 

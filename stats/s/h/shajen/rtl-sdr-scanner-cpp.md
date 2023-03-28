@@ -1,10 +1,10 @@
 # shajen/rtl-sdr-scanner-cpp - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 362
+★ Stars: 363
 
 [Open repository](https://github.com/shajen/rtl-sdr-scanner-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 363 | 35 | 
 | 2023-03-26 | 362 | 34 | 
 | 2023-03-24 | 360 | 34 | 
 | 2023-03-22 | 356 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 337 | 31 | 
 | 2023-02-28 | 338 | 31 | 
 | 2023-02-26 | 334 | 30 | 
-| 2023-02-25 | 333 | 29 | 
 

@@ -1,6 +1,6 @@
 # Sketchware-Pro/Sketchware-Pro - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 572 | 191 | 
 | 2023-03-26 | 572 | 191 | 
 | 2023-03-25 | 571 | 191 | 
 | 2023-03-23 | 570 | 190 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 544 | 185 | 
 | 2023-02-28 | 543 | 184 | 
 | 2023-02-26 | 543 | 183 | 
-| 2023-02-25 | 543 | 183 | 
 

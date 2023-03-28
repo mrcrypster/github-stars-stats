@@ -1,10 +1,10 @@
 # vitobotta/hetzner-k3s - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 57
 
-★ Stars: 741
+★ Stars: 742
 
 [Open repository](https://github.com/vitobotta/hetzner-k3s)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 742 | 57 | 
 | 2023-03-26 | 741 | 57 | 
 | 2023-03-25 | 738 | 57 | 
 | 2023-03-24 | 736 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 685 | 51 | 
 | 2023-02-27 | 684 | 51 | 
 | 2023-02-26 | 684 | 51 | 
-| 2023-02-25 | 683 | 51 | 
 

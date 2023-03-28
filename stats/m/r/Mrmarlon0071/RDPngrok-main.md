@@ -1,6 +1,6 @@
 # Mrmarlon0071/RDPngrok-main - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | - | 43 | 
 | 2023-03-26 | - | 43 | 
 | 2023-03-24 | - | 43 | 
 | 2023-03-23 | - | 43 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | - | 39 | 
 | 2023-02-27 | - | 39 | 
 | 2023-02-26 | - | 39 | 
-| 2023-02-25 | - | 37 | 
 

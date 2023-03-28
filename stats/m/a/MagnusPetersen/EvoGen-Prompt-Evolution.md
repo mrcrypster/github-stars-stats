@@ -1,10 +1,10 @@
 # MagnusPetersen/EvoGen-Prompt-Evolution - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 12
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/MagnusPetersen/EvoGen-Prompt-Evolution)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 110 | 12 | 
 | 2023-03-25 | 109 | 12 | 
 | 2023-03-24 | 109 | 12 | 
 | 2023-03-22 | 109 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 108 | 12 | 
 | 2023-02-28 | 108 | 13 | 
 | 2023-02-26 | 108 | 13 | 
-| 2023-02-25 | 108 | 13 | 
 

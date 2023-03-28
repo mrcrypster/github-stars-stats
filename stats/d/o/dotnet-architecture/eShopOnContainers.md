@@ -1,10 +1,10 @@
 # dotnet-architecture/eShopOnContainers - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 9811
+☋ Forks: 9816
 
-★ Stars: 22792
+★ Stars: 22798
 
 [Open repository](https://github.com/dotnet-architecture/eShopOnContainers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 22798 | 9816 | 
 | 2023-03-25 | 22792 | 9811 | 
 | 2023-03-24 | 22787 | 9809 | 
 | 2023-03-23 | 22772 | 9805 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 22613 | 9743 | 
 | 2023-02-27 | 22604 | 9737 | 
 | 2023-02-26 | 22597 | 9735 | 
-| 2023-02-25 | 22593 | 9733 | 
 

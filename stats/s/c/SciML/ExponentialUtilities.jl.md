@@ -1,6 +1,6 @@
 # SciML/ExponentialUtilities.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 74 | 25 | 
 | 2023-03-26 | 74 | 25 | 
 | 2023-03-25 | 74 | 25 | 
 | 2023-03-23 | 74 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 74 | 24 | 
 | 2023-02-27 | 74 | 24 | 
 | 2023-02-26 | 74 | 24 | 
-| 2023-02-25 | 74 | 24 | 
 

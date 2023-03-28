@@ -1,8 +1,8 @@
 # larsiusprime/polymod - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 54
+☋ Forks: 56
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 135 | 56 | 
 | 2023-03-26 | 135 | 54 | 
 | 2023-03-24 | 135 | 54 | 
 | 2023-03-23 | 135 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 136 | 53 | 
 | 2023-02-28 | 136 | 54 | 
 | 2023-02-26 | 137 | 54 | 
-| 2023-02-25 | 137 | 55 | 
 

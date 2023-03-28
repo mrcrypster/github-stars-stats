@@ -1,10 +1,10 @@
 # supabase/examples-archive - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 163
+☋ Forks: 164
 
-★ Stars: 202
+★ Stars: 204
 
 [Open repository](https://github.com/supabase/examples-archive)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 204 | 164 | 
 | 2023-03-26 | 202 | 163 | 
 | 2023-03-25 | 202 | 163 | 
 | 2023-03-23 | 201 | 162 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 194 | 155 | 
 | 2023-02-27 | 193 | 155 | 
 | 2023-02-26 | 190 | 155 | 
-| 2023-02-25 | 190 | 154 | 
 

@@ -1,10 +1,10 @@
 # NVIDIA/cuda-quantum - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 92
+★ Stars: 104
 
 [Open repository](https://github.com/NVIDIA/cuda-quantum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 104 | 13 | 
 | 2023-03-26 | 92 | 12 | 
 | 2023-03-25 | 86 | 10 | 
 | 2023-03-24 | 81 | 10 | 

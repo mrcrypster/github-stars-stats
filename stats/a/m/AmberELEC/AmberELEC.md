@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 121
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/AmberELEC/AmberELEC)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 905 | 121 | 
+| 2023-03-27 | 906 | 121 | 
 | 2023-03-26 | 905 | 121 | 
 | 2023-03-25 | 905 | 121 | 
 | 2023-03-24 | 905 | 121 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 895 | 119 | 
 | 2023-02-27 | 896 | 119 | 
 | 2023-02-26 | 895 | 119 | 
-| 2023-02-25 | 893 | 119 | 
 

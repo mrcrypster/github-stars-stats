@@ -1,10 +1,10 @@
 # weiwensangsang/golang-internal - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 41
 
-★ Stars: 199
+★ Stars: 201
 
 [Open repository](https://github.com/weiwensangsang/golang-internal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 201 | 41 | 
 | 2023-03-26 | 199 | 41 | 
 | 2023-03-24 | 199 | 41 | 
 | 2023-03-23 | 199 | 41 | 

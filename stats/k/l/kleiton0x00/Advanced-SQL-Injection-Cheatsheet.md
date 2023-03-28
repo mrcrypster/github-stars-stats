@@ -1,10 +1,10 @@
 # kleiton0x00/Advanced-SQL-Injection-Cheatsheet - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 485
+☋ Forks: 488
 
-★ Stars: 1898
+★ Stars: 1904
 
 [Open repository](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1904 | 488 | 
+| 2023-03-27 | 1904 | 487 | 
 | 2023-03-26 | 1898 | 485 | 
 | 2023-03-25 | 1884 | 483 | 
 | 2023-03-24 | 1873 | 482 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1833 | 477 | 
 | 2023-02-27 | 1831 | 474 | 
 | 2023-02-26 | 1828 | 473 | 
-| 2023-02-25 | 1827 | 474 | 
 

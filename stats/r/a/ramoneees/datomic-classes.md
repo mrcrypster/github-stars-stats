@@ -1,6 +1,6 @@
 # ramoneees/datomic-classes - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2 | 7 | 
 | 2023-03-26 | 2 | 7 | 
 | 2023-03-25 | 2 | 7 | 
 | 2023-03-24 | 2 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 2 | 7 | 
 | 2023-02-27 | 2 | 7 | 
 | 2023-02-26 | 2 | 7 | 
-| 2023-02-25 | 2 | 7 | 
 

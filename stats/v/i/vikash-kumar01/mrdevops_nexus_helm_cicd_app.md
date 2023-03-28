@@ -1,6 +1,6 @@
 # vikash-kumar01/mrdevops_nexus_helm_cicd_app - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | - | 63 | 
 | 2023-03-26 | - | 63 | 
 | 2023-03-25 | - | 63 | 
 | 2023-03-24 | - | 62 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | - | 47 | 
 | 2023-02-27 | - | 47 | 
 | 2023-02-26 | - | 46 | 
-| 2023-02-25 | - | 46 | 
 

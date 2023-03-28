@@ -1,10 +1,10 @@
 # localsend/localsend - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 472
+☋ Forks: 474
 
-★ Stars: 9431
+★ Stars: 9479
 
 [Open repository](https://github.com/localsend/localsend)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 9479 | 474 | 
 | 2023-03-26 | 9431 | 472 | 
 | 2023-03-25 | 9354 | 465 | 
 | 2023-03-24 | 9331 | 463 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 7827 | 397 | 
 | 2023-02-27 | 7611 | 388 | 
 | 2023-02-26 | 7562 | 385 | 
-| 2023-02-25 | 7426 | 383 | 
 

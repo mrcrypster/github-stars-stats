@@ -1,6 +1,6 @@
 # Azure/reddog-code - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 132 | 78 | 
 | 2023-03-26 | 132 | 78 | 
 | 2023-03-25 | 132 | 77 | 
 | 2023-03-23 | 132 | 77 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 130 | 76 | 
 | 2023-02-27 | 129 | 75 | 
 | 2023-02-26 | 129 | 75 | 
-| 2023-02-25 | 129 | 75 | 
 

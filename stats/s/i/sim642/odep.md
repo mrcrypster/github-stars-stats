@@ -1,6 +1,6 @@
 # sim642/odep - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 21 | - | 
 | 2023-03-26 | 21 | - | 
 | 2023-03-24 | 21 | - | 
 | 2023-03-23 | 21 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 21 | - | 
 | 2023-02-28 | 21 | - | 
 | 2023-02-26 | 21 | - | 
-| 2023-02-25 | 21 | - | 
 

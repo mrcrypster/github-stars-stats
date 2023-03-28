@@ -1,6 +1,6 @@
 # Sunyc666/YCJsonToModel - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 34 | - | 
 | 2023-03-26 | 34 | - | 
 | 2023-03-25 | 34 | - | 
 | 2023-03-24 | 34 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 35 | - | 
 | 2023-02-27 | 35 | - | 
 | 2023-02-26 | 35 | - | 
-| 2023-02-25 | 35 | - | 
 

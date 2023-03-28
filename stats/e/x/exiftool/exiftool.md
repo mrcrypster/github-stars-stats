@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 27
 
 ☋ Forks: 239
 
-★ Stars: 1982
+★ Stars: 1988
 
 [Open repository](https://github.com/exiftool/exiftool)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 1982 | 239 | 
+| 2023-03-27 | 1988 | 239 | 
 | 2023-03-26 | 1981 | 239 | 
 | 2023-03-25 | 1977 | 239 | 
 | 2023-03-24 | 1976 | 239 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 27
 | 2023-02-28 | 1932 | 241 | 
 | 2023-02-27 | 1928 | 241 | 
 | 2023-02-26 | 1925 | 241 | 
-| 2023-02-25 | 1921 | 240 | 
 

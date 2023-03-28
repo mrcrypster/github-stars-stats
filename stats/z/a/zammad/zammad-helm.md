@@ -1,6 +1,6 @@
 # zammad/zammad-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 43 | 58 | 
 | 2023-03-26 | 43 | 58 | 
 | 2023-03-24 | 43 | 58 | 
 | 2023-03-23 | 44 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 42 | 58 | 
 | 2023-02-28 | 42 | 58 | 
 | 2023-02-27 | 42 | 58 | 
-| 2023-02-25 | 42 | 58 | 
 

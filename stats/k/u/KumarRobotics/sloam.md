@@ -1,6 +1,6 @@
 # KumarRobotics/sloam - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 150 | 21 | 
 | 2023-03-25 | 150 | 21 | 
 | 2023-03-24 | 150 | 21 | 
 | 2023-03-23 | 149 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 147 | 20 | 
 | 2023-02-27 | 147 | 20 | 
 | 2023-02-26 | 147 | 20 | 
-| 2023-02-25 | 147 | 20 | 
 

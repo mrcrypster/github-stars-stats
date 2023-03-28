@@ -1,10 +1,10 @@
 # Azure/terraform-azurerm-virtual-machine - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/Azure/terraform-azurerm-virtual-machine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 8 | 5 | 
 | 2023-03-26 | 7 | 5 | 
 | 2023-03-25 | 7 | 5 | 
 | 2023-03-24 | 6 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5 | 4 | 
 | 2023-02-28 | 5 | 4 | 
 | 2023-02-26 | 5 | 4 | 
-| 2023-02-25 | 5 | 4 | 
 

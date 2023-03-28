@@ -1,6 +1,6 @@
 # madskristensen/RainbowBraces - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 107 | 7 | 
 | 2023-03-26 | 107 | 7 | 
 | 2023-03-25 | 107 | 7 | 
 | 2023-03-24 | 107 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 106 | 8 | 
 | 2023-02-28 | 105 | 8 | 
 | 2023-02-27 | 105 | 8 | 
-| 2023-02-26 | 105 | 8 | 
 

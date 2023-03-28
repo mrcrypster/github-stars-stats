@@ -1,10 +1,10 @@
 # LightCountry/TokenPay - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 76
+☋ Forks: 78
 
-★ Stars: 175
+★ Stars: 178
 
 [Open repository](https://github.com/LightCountry/TokenPay)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 178 | 78 | 
 | 2023-03-26 | 175 | 76 | 
 | 2023-03-24 | 174 | 74 | 
 | 2023-03-23 | 174 | 74 | 

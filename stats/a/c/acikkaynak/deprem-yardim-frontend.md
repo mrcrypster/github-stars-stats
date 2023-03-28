@@ -1,6 +1,6 @@
 # acikkaynak/deprem-yardim-frontend - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 315
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 921 | 315 | 
 | 2023-03-25 | 921 | 315 | 
 | 2023-03-24 | 920 | 315 | 
 | 2023-03-22 | 920 | 315 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 924 | 317 | 
 | 2023-02-28 | 923 | 317 | 
 | 2023-02-26 | 922 | 317 | 
-| 2023-02-25 | 920 | 318 | 
 

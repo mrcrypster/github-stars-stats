@@ -1,6 +1,6 @@
 # baiyutang/meetup - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 336
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1290 | 336 | 
 | 2023-03-26 | 1290 | 336 | 
 | 2023-03-25 | 1291 | 336 | 
 | 2023-03-24 | 1287 | 336 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1265 | 328 | 
 | 2023-02-27 | 1264 | 328 | 
 | 2023-02-26 | 1264 | 326 | 
-| 2023-02-25 | 1264 | 326 | 
 

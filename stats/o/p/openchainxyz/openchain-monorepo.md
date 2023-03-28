@@ -1,6 +1,6 @@
 # openchainxyz/openchain-monorepo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 108 | 22 | 
 | 2023-03-26 | 108 | 22 | 
 | 2023-03-25 | 108 | 22 | 
 | 2023-03-24 | 108 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 90 | 22 | 
 | 2023-02-27 | 88 | 22 | 
 | 2023-02-26 | 88 | 22 | 
-| 2023-02-25 | 88 | 22 | 
 

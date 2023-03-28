@@ -1,6 +1,6 @@
 # Stanley-GF/Arizona - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 151 | 71 | 
 | 2023-03-26 | 151 | 71 | 
 | 2023-03-24 | 152 | 71 | 
 | 2023-03-23 | 152 | 71 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 148 | 71 | 
 | 2023-02-27 | 147 | 71 | 
 | 2023-02-26 | 147 | 71 | 
-| 2023-02-25 | 146 | 71 | 
 

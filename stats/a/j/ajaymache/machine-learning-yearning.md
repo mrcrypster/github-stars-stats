@@ -1,10 +1,10 @@
 # ajaymache/machine-learning-yearning - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 254
 
-★ Stars: 834
+★ Stars: 835
 
 [Open repository](https://github.com/ajaymache/machine-learning-yearning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 835 | 254 | 
 | 2023-03-26 | 834 | 254 | 
 | 2023-03-24 | 833 | 254 | 
 | 2023-03-23 | 832 | 253 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 823 | 252 | 
 | 2023-02-28 | 822 | 252 | 
 | 2023-02-26 | 822 | 252 | 
-| 2023-02-25 | 822 | 252 | 
 

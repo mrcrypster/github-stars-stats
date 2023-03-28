@@ -1,10 +1,10 @@
 # hnmr293/sd-webui-cutoff - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 416
+★ Stars: 427
 
 [Open repository](https://github.com/hnmr293/sd-webui-cutoff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 427 | 23 | 
 | 2023-03-25 | 416 | 22 | 
 | 2023-03-24 | 404 | 22 | 
 | 2023-03-22 | 393 | 22 | 

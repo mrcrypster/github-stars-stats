@@ -1,6 +1,6 @@
 # nrennie/tidytuesday - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 85 | 22 | 
 | 2023-03-26 | 85 | 22 | 
 | 2023-03-25 | 85 | 22 | 
 | 2023-03-23 | 84 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 82 | 21 | 
 | 2023-02-27 | 82 | 21 | 
 | 2023-02-26 | 82 | 21 | 
-| 2023-02-25 | 82 | 21 | 
 

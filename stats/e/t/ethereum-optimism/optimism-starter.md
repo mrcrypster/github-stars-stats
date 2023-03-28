@@ -1,10 +1,10 @@
 # ethereum-optimism/optimism-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 98
+★ Stars: 100
 
 [Open repository](https://github.com/ethereum-optimism/optimism-starter)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 100 | 11 | 
+| 2023-03-27 | 100 | 11 | 
 | 2023-03-26 | 98 | 11 | 
 | 2023-03-25 | 98 | 10 | 
 | 2023-03-24 | 98 | 10 | 

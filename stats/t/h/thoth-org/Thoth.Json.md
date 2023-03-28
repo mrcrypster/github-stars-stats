@@ -1,6 +1,6 @@
 # thoth-org/Thoth.Json - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 127 | 30 | 
 | 2023-03-26 | 127 | 30 | 
 | 2023-03-25 | 126 | 30 | 
 | 2023-03-24 | 126 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 125 | 30 | 
 | 2023-02-28 | 125 | 30 | 
 | 2023-02-26 | 125 | 30 | 
-| 2023-02-25 | 125 | 30 | 
 

@@ -1,6 +1,6 @@
 # objectbox/objectbox-dart - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 776 | 100 | 
 | 2023-03-26 | 776 | 100 | 
 | 2023-03-24 | 776 | 100 | 
 | 2023-03-23 | 768 | 100 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 760 | 99 | 
 | 2023-02-27 | 759 | 99 | 
 | 2023-02-26 | 759 | 99 | 
-| 2023-02-25 | 757 | 99 | 
 

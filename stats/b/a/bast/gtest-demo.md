@@ -1,6 +1,6 @@
 # bast/gtest-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 317 | 152 | 
 | 2023-03-26 | 317 | 152 | 
 | 2023-03-24 | 317 | 152 | 
 | 2023-03-23 | 317 | 152 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 315 | 152 | 
 | 2023-02-28 | 315 | 152 | 
 | 2023-02-27 | 315 | 153 | 
-| 2023-02-25 | 316 | 152 | 
 

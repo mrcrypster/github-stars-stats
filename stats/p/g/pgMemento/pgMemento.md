@@ -1,6 +1,6 @@
 # pgMemento/pgMemento - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 344 | 38 | 
 | 2023-03-25 | 344 | 38 | 
 | 2023-03-24 | 343 | 38 | 
 | 2023-03-23 | 343 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 340 | 38 | 
 | 2023-02-28 | 339 | 38 | 
 | 2023-02-26 | 339 | 38 | 
-| 2023-02-25 | 339 | 38 | 
 

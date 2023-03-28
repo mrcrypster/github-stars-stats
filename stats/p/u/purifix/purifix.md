@@ -1,6 +1,6 @@
 # purifix/purifix - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 36 | 2 | 
 | 2023-03-26 | 36 | 2 | 
 | 2023-03-25 | 36 | 2 | 
 | 2023-03-23 | 36 | 2 | 

@@ -1,10 +1,10 @@
 # google/yapf - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 893
 
-★ Stars: 13161
+★ Stars: 13164
 
 [Open repository](https://github.com/google/yapf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 13164 | 893 | 
 | 2023-03-25 | 13161 | 893 | 
 | 2023-03-24 | 13161 | 893 | 
 | 2023-03-22 | 13157 | 891 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 13119 | 894 | 
 | 2023-02-27 | 13118 | 894 | 
 | 2023-02-26 | 13113 | 894 | 
-| 2023-02-25 | 13112 | 894 | 
 

@@ -1,6 +1,6 @@
 # AFKDAO/wrapper - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 545 | 87 | 
 | 2023-03-25 | 545 | 87 | 
 | 2023-03-24 | 545 | 87 | 
 | 2023-03-23 | 545 | 87 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 546 | 86 | 
 | 2023-02-28 | 546 | 86 | 
 | 2023-02-26 | 546 | 86 | 
-| 2023-02-25 | 546 | 86 | 
 

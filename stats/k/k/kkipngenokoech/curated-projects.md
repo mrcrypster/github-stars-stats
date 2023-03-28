@@ -1,10 +1,10 @@
 # kkipngenokoech/curated-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/kkipngenokoech/curated-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3 | 6 | 
 | 2023-03-26 | 4 | 6 | 
 | 2023-03-25 | 4 | 6 | 
 | 2023-03-24 | 4 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 4 | 6 | 
 | 2023-02-27 | 4 | 6 | 
 | 2023-02-26 | 4 | 6 | 
-| 2023-02-25 | 4 | 6 | 
 

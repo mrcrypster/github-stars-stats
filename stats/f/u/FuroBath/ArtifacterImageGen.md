@@ -1,10 +1,10 @@
 # FuroBath/ArtifacterImageGen - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 32
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/FuroBath/ArtifacterImageGen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 44 | 32 | 
 | 2023-03-26 | 43 | 32 | 
 | 2023-03-24 | 43 | 32 | 
 | 2023-03-22 | 42 | 32 | 

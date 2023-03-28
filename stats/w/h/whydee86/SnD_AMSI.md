@@ -1,6 +1,6 @@
 # whydee86/SnD_AMSI - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 153 | 23 | 
 | 2023-03-26 | 153 | 23 | 
 | 2023-03-25 | 153 | 23 | 
 | 2023-03-23 | 153 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 153 | 23 | 
 | 2023-02-28 | 153 | 23 | 
 | 2023-02-26 | 153 | 23 | 
-| 2023-02-25 | 153 | 23 | 
 

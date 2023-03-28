@@ -1,10 +1,10 @@
 # dylanaraps/pure-bash-bible - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 3029
+☋ Forks: 3030
 
-★ Stars: 33155
+★ Stars: 33161
 
 [Open repository](https://github.com/dylanaraps/pure-bash-bible)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 33161 | 3030 | 
 | 2023-03-26 | 33155 | 3029 | 
 | 2023-03-25 | 33154 | 3029 | 
 | 2023-03-24 | 33145 | 3029 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 33029 | 3022 | 
 | 2023-02-28 | 33023 | 3022 | 
 | 2023-02-26 | 33017 | 3022 | 
-| 2023-02-25 | 33017 | 3022 | 
 

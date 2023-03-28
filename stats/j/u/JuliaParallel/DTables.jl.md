@@ -1,6 +1,6 @@
 # JuliaParallel/DTables.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 44 | 1 | 
 | 2023-03-26 | 44 | 1 | 
 | 2023-03-25 | 44 | 1 | 
 | 2023-03-23 | 44 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 42 | - | 
 | 2023-02-28 | 42 | - | 
 | 2023-02-26 | 41 | - | 
-| 2023-02-25 | 41 | - | 
 

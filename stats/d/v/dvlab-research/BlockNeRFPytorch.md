@@ -1,10 +1,10 @@
 # dvlab-research/BlockNeRFPytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 921
+★ Stars: 924
 
 [Open repository](https://github.com/dvlab-research/BlockNeRFPytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 924 | 85 | 
 | 2023-03-26 | 921 | 84 | 
 | 2023-03-25 | 920 | 83 | 
 | 2023-03-23 | 918 | 83 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 848 | 77 | 
 | 2023-02-28 | 840 | 76 | 
 | 2023-02-27 | 834 | 75 | 
-| 2023-02-26 | 834 | 75 | 
 

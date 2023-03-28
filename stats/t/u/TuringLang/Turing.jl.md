@@ -1,6 +1,6 @@
 # TuringLang/Turing.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1777 | 203 | 
 | 2023-03-26 | 1777 | 203 | 
 | 2023-03-24 | 1777 | 203 | 
 | 2023-03-23 | 1777 | 203 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1762 | 203 | 
 | 2023-02-28 | 1763 | 203 | 
 | 2023-02-27 | 1762 | 203 | 
-| 2023-02-25 | 1761 | 203 | 
 

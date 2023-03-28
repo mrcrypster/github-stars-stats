@@ -1,6 +1,6 @@
 # tomdjong/MGS-domain-theory - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 27 | 1 | 
 | 2023-03-25 | 27 | 1 | 
 | 2023-03-24 | 26 | 1 | 
 | 2023-03-23 | 26 | 1 | 

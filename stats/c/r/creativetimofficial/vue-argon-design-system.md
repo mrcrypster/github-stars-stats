@@ -1,8 +1,8 @@
 # creativetimofficial/vue-argon-design-system - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 479
+☋ Forks: 480
 
 ★ Stars: 821
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 821 | 480 | 
 | 2023-03-26 | 821 | 479 | 
 | 2023-03-24 | 821 | 479 | 
 | 2023-03-23 | 818 | 476 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 814 | 456 | 
 | 2023-02-27 | 814 | 453 | 
 | 2023-02-26 | 813 | 451 | 
-| 2023-02-25 | 813 | 450 | 
 

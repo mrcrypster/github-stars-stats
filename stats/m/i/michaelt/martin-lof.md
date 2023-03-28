@@ -1,10 +1,10 @@
 # michaelt/martin-lof - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 60
 
-★ Stars: 669
+★ Stars: 670
 
 [Open repository](https://github.com/michaelt/martin-lof)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 670 | 60 | 
 | 2023-03-26 | 669 | 60 | 
 | 2023-03-24 | 669 | 59 | 
 | 2023-03-23 | 669 | 59 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 666 | 59 | 
 | 2023-02-27 | 666 | 59 | 
 | 2023-02-26 | 665 | 59 | 
-| 2023-02-25 | 665 | 59 | 
 

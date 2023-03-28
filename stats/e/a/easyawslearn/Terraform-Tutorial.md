@@ -1,6 +1,6 @@
 # easyawslearn/Terraform-Tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 678
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 106 | 678 | 
 | 2023-03-26 | 106 | 678 | 
 | 2023-03-25 | 106 | 676 | 
 | 2023-03-24 | 106 | 676 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 105 | 658 | 
 | 2023-02-27 | 104 | 658 | 
 | 2023-02-26 | 104 | 658 | 
-| 2023-02-25 | 104 | 657 | 
 

@@ -1,6 +1,6 @@
 # Techokami/SonicWorldsNext - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 37 | 7 | 
 | 2023-03-26 | 37 | 7 | 
 | 2023-03-25 | 37 | 7 | 
 | 2023-03-23 | 37 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 34 | 6 | 
 | 2023-02-28 | 33 | 6 | 
 | 2023-02-27 | 32 | 6 | 
-| 2023-02-25 | 32 | 6 | 
 

@@ -1,6 +1,6 @@
 # hmcts/azure-platform-terraform - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5 | 10 | 
 | 2023-03-26 | 5 | 10 | 
 | 2023-03-25 | 5 | 10 | 
 | 2023-03-24 | 5 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5 | 10 | 
 | 2023-02-28 | 5 | 10 | 
 | 2023-02-27 | 5 | 10 | 
-| 2023-02-25 | 5 | 10 | 
 

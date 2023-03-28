@@ -1,6 +1,6 @@
 # anneestherlf/pacbuco-alpha - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2 | 4 | 
 | 2023-03-26 | 2 | 4 | 
 | 2023-03-25 | 2 | 4 | 
 | 2023-03-24 | 2 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1 | 4 | 
 | 2023-02-28 | 1 | 4 | 
 | 2023-02-26 | 1 | 4 | 
-| 2023-02-25 | 1 | 4 | 
 

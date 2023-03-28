@@ -1,10 +1,10 @@
 # will133/vim-dirdiff - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 57
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/will133/vim-dirdiff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 296 | 57 | 
 | 2023-03-26 | 295 | 57 | 
 | 2023-03-24 | 295 | 57 | 
 | 2023-03-23 | 294 | 57 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 294 | 57 | 
 | 2023-02-27 | 294 | 57 | 
 | 2023-02-26 | 294 | 57 | 
-| 2023-02-25 | 294 | 57 | 
 

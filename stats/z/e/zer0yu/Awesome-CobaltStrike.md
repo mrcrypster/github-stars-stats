@@ -1,10 +1,10 @@
 # zer0yu/Awesome-CobaltStrike - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 637
+☋ Forks: 638
 
-★ Stars: 3117
+★ Stars: 3119
 
 [Open repository](https://github.com/zer0yu/Awesome-CobaltStrike)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3119 | 638 | 
 | 2023-03-26 | 3117 | 637 | 
 | 2023-03-25 | 3116 | 636 | 
 | 2023-03-23 | 3111 | 636 | 

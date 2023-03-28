@@ -1,6 +1,6 @@
 # benoitc/hackney - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 429
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 1266 | 429 | 
 | 2023-03-26 | 1266 | 429 | 
 | 2023-03-25 | 1266 | 429 | 
 | 2023-03-24 | 1266 | 429 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1261 | 425 | 
 | 2023-02-27 | 1261 | 425 | 
 | 2023-02-26 | 1261 | 425 | 
-| 2023-02-25 | 1261 | 425 | 
 

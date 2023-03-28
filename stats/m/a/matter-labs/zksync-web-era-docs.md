@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 124
+☋ Forks: 127
 
-★ Stars: 119
+★ Stars: 134
 
 [Open repository](https://github.com/matter-labs/zksync-web-era-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 119 | 124 | 
+| 2023-03-27 | 134 | 127 | 
 | 2023-03-26 | 114 | 123 | 
 | 2023-03-25 | 90 | 113 | 
 | 2023-03-24 | 89 | 111 | 

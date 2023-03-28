@@ -1,6 +1,6 @@
 # eunomia-bpf/wasm-bpf - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 175 | 11 | 
 | 2023-03-26 | 175 | 11 | 
 | 2023-03-24 | 175 | 11 | 
 | 2023-03-23 | 175 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 139 | 8 | 
 | 2023-02-28 | 138 | 8 | 
 | 2023-02-27 | 137 | 8 | 
-| 2023-02-26 | 134 | 8 | 
 

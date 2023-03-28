@@ -1,6 +1,6 @@
 # fpv-wtf/wtfos - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 177 | 8 | 
 | 2023-03-26 | 177 | 8 | 
 | 2023-03-25 | 177 | 8 | 
 | 2023-03-24 | 177 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 170 | 7 | 
 | 2023-02-28 | 170 | 7 | 
 | 2023-02-26 | 169 | 7 | 
-| 2023-02-25 | 169 | 7 | 
 

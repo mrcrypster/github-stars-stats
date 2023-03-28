@@ -1,6 +1,6 @@
 # Mauler125/r5sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 408 | 79 | 
 | 2023-03-25 | 408 | 79 | 
 | 2023-03-24 | 408 | 80 | 
 | 2023-03-23 | 408 | 80 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 395 | 80 | 
 | 2023-02-27 | 393 | 80 | 
 | 2023-02-26 | 392 | 80 | 
-| 2023-02-25 | 392 | 80 | 
 

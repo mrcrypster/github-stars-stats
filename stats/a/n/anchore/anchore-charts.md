@@ -1,6 +1,6 @@
 # anchore/anchore-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 43 | 69 | 
 | 2023-03-25 | 43 | 69 | 
 | 2023-03-24 | 43 | 69 | 
 | 2023-03-23 | 44 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 44 | 68 | 
 | 2023-02-28 | 44 | 68 | 
 | 2023-02-27 | 44 | 68 | 
-| 2023-02-25 | 44 | 68 | 
 

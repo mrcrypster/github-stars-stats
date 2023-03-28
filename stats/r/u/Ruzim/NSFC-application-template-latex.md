@@ -1,6 +1,6 @@
 # Ruzim/NSFC-application-template-latex - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 448 | 103 | 
 | 2023-03-26 | 448 | 103 | 
 | 2023-03-25 | 448 | 103 | 
 | 2023-03-23 | 447 | 103 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 410 | 93 | 
 | 2023-02-27 | 410 | 92 | 
 | 2023-02-26 | 407 | 90 | 
-| 2023-02-25 | 406 | 90 | 
 

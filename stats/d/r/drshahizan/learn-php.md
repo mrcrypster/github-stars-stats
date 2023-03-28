@@ -1,8 +1,8 @@
 # drshahizan/learn-php - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 27
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 27 | 32 | 
 | 2023-03-26 | 27 | 31 | 
 

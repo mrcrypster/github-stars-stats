@@ -1,6 +1,6 @@
 # pingc0y/go_proxy_pool - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 520 | 77 | 
 | 2023-03-25 | 520 | 77 | 
 | 2023-03-24 | 520 | 77 | 
 | 2023-03-23 | 520 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 476 | 73 | 
 | 2023-02-27 | 471 | 73 | 
 | 2023-02-26 | 466 | 73 | 
-| 2023-02-25 | 464 | 71 | 
 

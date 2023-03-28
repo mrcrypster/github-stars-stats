@@ -1,8 +1,8 @@
 # Harchanel15/RDP-CONNECT-IN-REMOTE-DESKTOP-CHROME - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 91
+☋ Forks: 90
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1 | 90 | 
 | 2023-03-26 | 1 | 91 | 
 | 2023-03-25 | 1 | 91 | 
 | 2023-03-23 | 1 | 90 | 

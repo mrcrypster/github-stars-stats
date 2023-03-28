@@ -1,6 +1,6 @@
 # killgcd/justmysocks - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 364 | 75 | 
 | 2023-03-26 | 364 | 75 | 
 | 2023-03-25 | 364 | 75 | 
 | 2023-03-24 | 364 | 75 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 363 | 75 | 
 | 2023-02-27 | 363 | 75 | 
 | 2023-02-26 | 363 | 75 | 
-| 2023-02-25 | 363 | 75 | 
 

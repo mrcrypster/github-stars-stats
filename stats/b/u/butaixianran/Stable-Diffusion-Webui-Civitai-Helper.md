@@ -1,10 +1,10 @@
 # butaixianran/Stable-Diffusion-Webui-Civitai-Helper - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 41
+☋ Forks: 44
 
-★ Stars: 480
+★ Stars: 505
 
 [Open repository](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 505 | 44 | 
 | 2023-03-26 | 480 | 41 | 
 | 2023-03-25 | 448 | 40 | 
 | 2023-03-23 | 431 | 35 | 

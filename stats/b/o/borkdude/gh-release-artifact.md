@@ -1,6 +1,6 @@
 # borkdude/gh-release-artifact - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 22 | 1 | 
 | 2023-03-26 | 22 | 1 | 
 | 2023-03-25 | 22 | 1 | 
 | 2023-03-24 | 22 | 1 | 

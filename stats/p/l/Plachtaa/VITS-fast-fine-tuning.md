@@ -1,10 +1,10 @@
 # Plachtaa/VITS-fast-fine-tuning - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 104
 
-★ Stars: 721
+★ Stars: 744
 
 [Open repository](https://github.com/Plachtaa/VITS-fast-fine-tuning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 744 | 104 | 
 | 2023-03-25 | 721 | 104 | 
 | 2023-03-24 | 692 | 101 | 
 | 2023-03-22 | 670 | 98 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-02-28 | 243 | 30 | 
 | 2023-02-27 | 217 | 27 | 
 | 2023-02-26 | 198 | 23 | 
-| 2023-02-25 | 168 | 18 | 
 

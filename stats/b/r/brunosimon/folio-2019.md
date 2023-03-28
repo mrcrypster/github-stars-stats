@@ -1,8 +1,8 @@
 # brunosimon/folio-2019 - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 629
+☋ Forks: 628
 
 ★ Stars: 3660
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3660 | 628 | 
 | 2023-03-25 | 3660 | 629 | 
 | 2023-03-24 | 3650 | 626 | 
 | 2023-03-23 | 3644 | 623 | 

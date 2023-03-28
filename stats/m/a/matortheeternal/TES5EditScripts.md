@@ -1,6 +1,6 @@
 # matortheeternal/TES5EditScripts - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 82 | 124 | 
 | 2023-03-26 | 82 | 124 | 
 | 2023-03-24 | 82 | 124 | 
 | 2023-03-23 | 82 | 124 | 

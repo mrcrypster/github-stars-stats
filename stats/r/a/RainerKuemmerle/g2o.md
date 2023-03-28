@@ -1,8 +1,8 @@
 # RainerKuemmerle/g2o - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 1043
+☋ Forks: 1044
 
 ★ Stars: 2556
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2556 | 1044 | 
 | 2023-03-26 | 2556 | 1043 | 
 | 2023-03-24 | 2554 | 1043 | 
 | 2023-03-23 | 2553 | 1044 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2527 | 1042 | 
 | 2023-02-27 | 2526 | 1043 | 
 | 2023-02-26 | 2521 | 1043 | 
-| 2023-02-25 | 2521 | 1043 | 
 

@@ -1,6 +1,6 @@
 # gleam-lang/stdlib - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 187 | 79 | 
 | 2023-03-26 | 187 | 79 | 
 | 2023-03-25 | 187 | 79 | 
 | 2023-03-23 | 187 | 79 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 184 | 77 | 
 | 2023-02-28 | 184 | 77 | 
 | 2023-02-26 | 183 | 77 | 
-| 2023-02-25 | 183 | 78 | 
 

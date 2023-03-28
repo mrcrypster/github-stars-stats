@@ -1,8 +1,8 @@
 # joy-of-react/toast-component - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 122
+☋ Forks: 124
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 22 | 124 | 
 | 2023-03-25 | 22 | 122 | 
 | 2023-03-24 | 22 | 119 | 
 | 2023-03-22 | 21 | 119 | 

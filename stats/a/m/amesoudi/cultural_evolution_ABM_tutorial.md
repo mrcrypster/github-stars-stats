@@ -1,6 +1,6 @@
 # amesoudi/cultural_evolution_ABM_tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 84 | 14 | 
 | 2023-03-26 | 84 | 14 | 
 | 2023-03-24 | 84 | 14 | 
 | 2023-03-23 | 84 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 83 | 13 | 
 | 2023-02-27 | 83 | 13 | 
 | 2023-02-26 | 83 | 13 | 
-| 2023-02-25 | 83 | 13 | 
 

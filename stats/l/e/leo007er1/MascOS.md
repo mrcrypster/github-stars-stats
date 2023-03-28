@@ -1,6 +1,6 @@
 # leo007er1/MascOS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 28 | - | 
 | 2023-03-26 | 28 | - | 
 | 2023-03-24 | 28 | - | 
 | 2023-03-22 | 28 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 26 | - | 
 | 2023-02-27 | 26 | - | 
 | 2023-02-26 | 26 | - | 
-| 2023-02-25 | 26 | - | 
 

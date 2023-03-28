@@ -1,10 +1,10 @@
 # dylanaraps/neofetch - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
-☋ Forks: 1312
+☋ Forks: 1314
 
-★ Stars: 17618
+★ Stars: 17627
 
 [Open repository](https://github.com/dylanaraps/neofetch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 17627 | 1314 | 
 | 2023-03-25 | 17618 | 1312 | 
 | 2023-03-24 | 17608 | 1310 | 
 | 2023-03-23 | 17596 | 1311 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 17431 | 1307 | 
 | 2023-02-27 | 17424 | 1307 | 
 | 2023-02-26 | 17414 | 1306 | 
-| 2023-02-25 | 17407 | 1306 | 
 

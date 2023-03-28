@@ -1,6 +1,6 @@
 # ex0dus-0x/fuzzable - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 404 | 41 | 
 | 2023-03-26 | 404 | 41 | 
 | 2023-03-25 | 404 | 41 | 
 | 2023-03-24 | 402 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 380 | 39 | 
 | 2023-02-28 | 378 | 39 | 
 | 2023-02-26 | 377 | 39 | 
-| 2023-02-25 | 376 | 39 | 
 

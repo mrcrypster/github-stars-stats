@@ -1,6 +1,6 @@
 # MercuryTechnologies/slack-web - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 25 | 15 | 
 | 2023-03-26 | 25 | 15 | 
 | 2023-03-24 | 25 | 15 | 
 | 2023-03-23 | 25 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 24 | 15 | 
 | 2023-02-28 | 24 | 15 | 
 | 2023-02-26 | 24 | 15 | 
-| 2023-02-25 | 24 | 15 | 
 

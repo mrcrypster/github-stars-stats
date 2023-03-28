@@ -1,6 +1,6 @@
 # traceo-dev/traceo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 322 | 5 | 
 | 2023-03-26 | 322 | 5 | 
 | 2023-03-24 | 322 | 5 | 
 | 2023-03-22 | 322 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 312 | 5 | 
 | 2023-02-27 | 312 | 5 | 
 | 2023-02-26 | 307 | 5 | 
-| 2023-02-25 | 306 | 5 | 
 

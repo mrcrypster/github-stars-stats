@@ -1,10 +1,10 @@
 # Unity-Technologies/BoatAttack - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 842
+☋ Forks: 841
 
-★ Stars: 2156
+★ Stars: 2158
 
 [Open repository](https://github.com/Unity-Technologies/BoatAttack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 2158 | 841 | 
 | 2023-03-26 | 2156 | 842 | 
 | 2023-03-25 | 2156 | 842 | 
 | 2023-03-23 | 2156 | 842 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2142 | 835 | 
 | 2023-02-27 | 2142 | 834 | 
 | 2023-02-26 | 2142 | 833 | 
-| 2023-02-25 | 2141 | 832 | 
 

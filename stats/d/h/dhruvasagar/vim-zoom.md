@@ -1,10 +1,10 @@
 # dhruvasagar/vim-zoom - stars & forks statistics
 
-Stats updated on Mar 2023, 25
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 13
 
-★ Stars: 229
+★ Stars: 228
 
 [Open repository](https://github.com/dhruvasagar/vim-zoom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 228 | 13 | 
 | 2023-03-25 | 229 | 13 | 
 | 2023-03-24 | 229 | 13 | 
 | 2023-03-22 | 229 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 25
 | 2023-03-01 | 227 | 13 | 
 | 2023-02-27 | 227 | 13 | 
 | 2023-02-26 | 227 | 13 | 
-| 2023-02-25 | 227 | 14 | 
 

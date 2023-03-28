@@ -1,8 +1,8 @@
 # KameKameHAa/FreeRdP - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 76
+☋ Forks: 78
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | - | 78 | 
 | 2023-03-26 | - | 76 | 
 | 2023-03-25 | - | 69 | 
 | 2023-03-24 | - | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | - | 39 | 
 | 2023-02-27 | - | 37 | 
 | 2023-02-26 | - | 34 | 
-| 2023-02-25 | - | 33 | 
 

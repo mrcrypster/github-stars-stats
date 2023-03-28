@@ -1,8 +1,8 @@
 # loypoll/PizzaTowerOnline - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 9
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 9 | 13 | 
+| 2023-03-27 | 9 | 12 | 
 | 2023-03-26 | 9 | 12 | 
 | 2023-03-25 | 9 | 11 | 
 | 2023-03-24 | 9 | 11 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 27
 
-☋ Forks: 1884
+☋ Forks: 1886
 
-★ Stars: 6175
+★ Stars: 6177
 
 [Open repository](https://github.com/ankidroid/Anki-Android)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-27 | 6175 | 1884 | 
+| 2023-03-27 | 6177 | 1886 | 
 | 2023-03-25 | 6169 | 1883 | 
 | 2023-03-24 | 6166 | 1883 | 
 | 2023-03-22 | 6161 | 1883 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 6080 | 1864 | 
 | 2023-02-28 | 6077 | 1864 | 
 | 2023-02-26 | 6069 | 1862 | 
-| 2023-02-25 | 6062 | 1863 | 
 

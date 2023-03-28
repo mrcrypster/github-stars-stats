@@ -1,10 +1,10 @@
 # sverweij/dependency-cruiser - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 226
 
-★ Stars: 3946
+★ Stars: 3952
 
 [Open repository](https://github.com/sverweij/dependency-cruiser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 3952 | 226 | 
 | 2023-03-26 | 3946 | 226 | 
 | 2023-03-25 | 3941 | 225 | 
 | 2023-03-23 | 3934 | 225 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3745 | 219 | 
 | 2023-02-28 | 3734 | 218 | 
 | 2023-02-26 | 3725 | 218 | 
-| 2023-02-25 | 3719 | 218 | 
 

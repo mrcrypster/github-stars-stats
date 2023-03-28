@@ -1,10 +1,10 @@
 # howl-anderson/unlocking-the-power-of-llms - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 106
 
-★ Stars: 1886
+★ Stars: 1913
 
 [Open repository](https://github.com/howl-anderson/unlocking-the-power-of-llms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1913 | 106 | 
 | 2023-03-26 | 1886 | 106 | 
 | 2023-03-25 | 1862 | 106 | 
 | 2023-03-23 | 1845 | 103 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 1128 | 50 | 
 | 2023-02-27 | 1107 | 50 | 
 | 2023-02-26 | 1080 | 49 | 
-| 2023-02-25 | 1070 | 49 | 
 

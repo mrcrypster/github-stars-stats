@@ -1,10 +1,10 @@
 # FOSS-Community/website-fossc - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 36
 
-★ Stars: 18
+★ Stars: 20
 
 [Open repository](https://github.com/FOSS-Community/website-fossc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 20 | 36 | 
 | 2023-03-26 | 18 | 36 | 
 | 2023-03-24 | 18 | 36 | 
 | 2023-03-23 | 18 | 36 | 

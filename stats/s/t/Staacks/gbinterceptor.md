@@ -1,6 +1,6 @@
 # Staacks/gbinterceptor - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 269 | 9 | 
 | 2023-03-26 | 269 | 9 | 
 | 2023-03-25 | 268 | 9 | 
 | 2023-03-23 | 268 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 256 | 7 | 
 | 2023-02-28 | 255 | 7 | 
 | 2023-02-26 | 254 | 7 | 
-| 2023-02-25 | 253 | 7 | 
 

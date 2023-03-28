@@ -1,6 +1,6 @@
 # pashov/audits - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 383 | 49 | 
 | 2023-03-26 | 383 | 49 | 
 | 2023-03-25 | 382 | 49 | 
 | 2023-03-24 | 379 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 281 | 35 | 
 | 2023-02-27 | 280 | 35 | 
 | 2023-02-26 | 279 | 34 | 
-| 2023-02-25 | 264 | 27 | 
 

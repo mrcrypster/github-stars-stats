@@ -1,6 +1,6 @@
 # appbrewery/Magic-8-Ball-iOS13 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 443
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 82 | 443 | 
 | 2023-03-26 | 82 | 443 | 
 | 2023-03-25 | 82 | 442 | 
 | 2023-03-24 | 82 | 442 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 83 | 430 | 
 | 2023-02-27 | 83 | 429 | 
 | 2023-02-26 | 83 | 428 | 
-| 2023-02-25 | 83 | 429 | 
 

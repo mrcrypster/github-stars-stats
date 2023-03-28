@@ -1,6 +1,6 @@
 # iview/iview-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 4901
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 16307 | 4901 | 
 | 2023-03-26 | 16307 | 4901 | 
 | 2023-03-25 | 16308 | 4901 | 
 | 2023-03-23 | 16305 | 4901 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 16296 | 4907 | 
 | 2023-02-28 | 16295 | 4909 | 
 | 2023-02-27 | 16292 | 4909 | 
-| 2023-02-26 | 16291 | 4910 | 
 

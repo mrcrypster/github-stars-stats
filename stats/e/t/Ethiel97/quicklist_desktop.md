@@ -1,8 +1,8 @@
 # Ethiel97/quicklist_desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 49 | 10 | 
 | 2023-03-26 | 49 | 9 | 
 | 2023-03-25 | 49 | 9 | 
 | 2023-03-24 | 49 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 47 | 9 | 
 | 2023-02-27 | 47 | 9 | 
 | 2023-02-26 | 47 | 9 | 
-| 2023-02-25 | 47 | 9 | 
 

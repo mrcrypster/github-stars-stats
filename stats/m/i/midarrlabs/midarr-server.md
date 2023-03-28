@@ -1,10 +1,10 @@
 # midarrlabs/midarr-server - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 22
 
-★ Stars: 917
+★ Stars: 919
 
 [Open repository](https://github.com/midarrlabs/midarr-server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 919 | 22 | 
 | 2023-03-26 | 917 | 22 | 
 | 2023-03-25 | 914 | 22 | 
 | 2023-03-24 | 914 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 903 | 21 | 
 | 2023-02-28 | 903 | 21 | 
 | 2023-02-26 | 903 | 21 | 
-| 2023-02-25 | 903 | 21 | 
 

@@ -1,6 +1,6 @@
 # microsoft/Windows-Driver-Developer-Supplemental-Tools - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-27 | 23 | 19 | 
 | 2023-03-26 | 23 | 19 | 
 | 2023-03-24 | 22 | 19 | 
 | 2023-03-23 | 22 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-02-28 | 23 | 18 | 
 | 2023-02-27 | 23 | 18 | 
 | 2023-02-26 | 23 | 18 | 
-| 2023-02-25 | 23 | 18 | 
 
