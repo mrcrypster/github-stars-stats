@@ -1,10 +1,10 @@
 # alibaba/ali-dbhub - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 54
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/alibaba/ali-dbhub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 265 | 54 | 
 | 2023-03-27 | 264 | 54 | 
 | 2023-03-26 | 262 | 54 | 
 | 2023-03-24 | 261 | 55 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 232 | 48 | 
 | 2023-03-01 | 227 | 48 | 
 | 2023-02-28 | 223 | 42 | 
-| 2023-02-26 | 212 | 42 | 
 

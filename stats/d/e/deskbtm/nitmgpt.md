@@ -1,10 +1,10 @@
 # deskbtm/nitmgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/deskbtm/nitmgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 80 | 6 | 
 | 2023-03-26 | 79 | 6 | 
 | 2023-03-25 | 79 | 6 | 
 | 2023-03-24 | 78 | 6 | 

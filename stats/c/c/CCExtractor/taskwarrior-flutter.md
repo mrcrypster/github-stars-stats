@@ -1,8 +1,8 @@
 # CCExtractor/taskwarrior-flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 19 | 53 | 
 | 2023-03-27 | 19 | 52 | 
 | 2023-03-25 | 19 | 52 | 
 | 2023-03-24 | 19 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 17 | 46 | 
 | 2023-02-28 | 15 | 44 | 
 | 2023-02-27 | 15 | 44 | 
-| 2023-02-26 | 15 | 44 | 
 

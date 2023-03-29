@@ -1,6 +1,6 @@
 # google/CFU-Playground - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 359 | 90 | 
 | 2023-03-27 | 359 | 90 | 
 | 2023-03-26 | 359 | 91 | 
 | 2023-03-25 | 358 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 357 | 91 | 
 | 2023-02-28 | 357 | 90 | 
 | 2023-02-27 | 357 | 90 | 
-| 2023-02-26 | 357 | 90 | 
 

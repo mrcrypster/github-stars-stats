@@ -1,6 +1,6 @@
 # docyx/imdb-table - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 12 | - | 
 | 2023-03-27 | 12 | - | 
 | 2023-03-26 | 12 | - | 
 | 2023-03-25 | 12 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 13 | - | 
 | 2023-03-01 | 13 | - | 
 | 2023-02-28 | 13 | - | 
-| 2023-02-27 | 13 | - | 
 

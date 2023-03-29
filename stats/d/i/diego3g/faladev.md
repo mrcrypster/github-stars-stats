@@ -1,10 +1,10 @@
 # diego3g/faladev - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 37
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/diego3g/faladev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 211 | 37 | 
 | 2023-03-26 | 210 | 37 | 
 | 2023-03-25 | 209 | 37 | 
 | 2023-03-23 | 208 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 173 | 32 | 
 | 2023-03-01 | 171 | 31 | 
 | 2023-02-28 | 171 | 30 | 
-| 2023-02-26 | 168 | 29 | 
 

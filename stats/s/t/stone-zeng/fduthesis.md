@@ -1,10 +1,10 @@
 # stone-zeng/fduthesis - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 159
 
-★ Stars: 601
+★ Stars: 602
 
 [Open repository](https://github.com/stone-zeng/fduthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 602 | 159 | 
 | 2023-03-27 | 601 | 159 | 
 | 2023-03-25 | 600 | 159 | 
 | 2023-03-24 | 600 | 159 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 594 | 156 | 
 | 2023-02-28 | 593 | 155 | 
 | 2023-02-27 | 592 | 155 | 
-| 2023-02-26 | 592 | 155 | 
 

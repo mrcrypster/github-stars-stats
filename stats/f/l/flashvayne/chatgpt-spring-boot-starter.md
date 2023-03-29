@@ -1,10 +1,10 @@
 # flashvayne/chatgpt-spring-boot-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 116
+★ Stars: 119
 
 [Open repository](https://github.com/flashvayne/chatgpt-spring-boot-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 119 | 29 | 
 | 2023-03-26 | 116 | 28 | 
 | 2023-03-25 | 115 | 27 | 
 | 2023-03-24 | 112 | 26 | 

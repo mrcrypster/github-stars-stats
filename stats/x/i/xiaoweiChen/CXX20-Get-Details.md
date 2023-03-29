@@ -1,6 +1,6 @@
 # xiaoweiChen/CXX20-Get-Details - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 34 | 6 | 
 | 2023-03-27 | 34 | 6 | 
 | 2023-03-26 | 33 | 6 | 
 | 2023-03-24 | 33 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 20 | 5 | 
 | 2023-02-28 | 18 | 4 | 
 | 2023-02-27 | 16 | 4 | 
-| 2023-02-26 | 16 | 4 | 
 

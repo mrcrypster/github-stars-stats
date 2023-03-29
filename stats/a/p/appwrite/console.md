@@ -1,10 +1,10 @@
 # appwrite/console - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 215
+★ Stars: 217
 
 [Open repository](https://github.com/appwrite/console)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 217 | 36 | 
 | 2023-03-27 | 215 | 35 | 
 | 2023-03-25 | 214 | 35 | 
 | 2023-03-24 | 214 | 35 | 

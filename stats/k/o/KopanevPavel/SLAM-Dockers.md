@@ -1,6 +1,6 @@
 # KopanevPavel/SLAM-Dockers - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 79 | 8 | 
 | 2023-03-26 | 79 | 8 | 
 | 2023-03-25 | 79 | 8 | 
 | 2023-03-23 | 79 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 78 | 8 | 
 | 2023-03-01 | 78 | 8 | 
 | 2023-02-28 | 78 | 8 | 
-| 2023-02-26 | 78 | 8 | 
 

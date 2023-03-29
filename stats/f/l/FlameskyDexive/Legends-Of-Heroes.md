@@ -1,10 +1,10 @@
 # FlameskyDexive/Legends-Of-Heroes - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 121
+★ Stars: 123
 
 [Open repository](https://github.com/FlameskyDexive/Legends-Of-Heroes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 123 | 40 | 
 | 2023-03-26 | 121 | 39 | 
 | 2023-03-25 | 120 | 38 | 
 | 2023-03-23 | 120 | 38 | 

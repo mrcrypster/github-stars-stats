@@ -1,10 +1,10 @@
 # m3g/packmol - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 44
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/m3g/packmol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 129 | 44 | 
 | 2023-03-26 | 128 | 44 | 
 | 2023-03-25 | 128 | 44 | 
 | 2023-03-23 | 128 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 126 | 39 | 
 | 2023-03-01 | 126 | 39 | 
 | 2023-02-27 | 125 | 39 | 
-| 2023-02-26 | 125 | 39 | 
 

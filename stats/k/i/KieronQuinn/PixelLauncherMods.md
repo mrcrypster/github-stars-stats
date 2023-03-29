@@ -1,10 +1,10 @@
 # KieronQuinn/PixelLauncherMods - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 15
 
-★ Stars: 498
+★ Stars: 497
 
 [Open repository](https://github.com/KieronQuinn/PixelLauncherMods)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 497 | 15 | 
 | 2023-03-26 | 498 | 15 | 
 | 2023-03-25 | 496 | 15 | 
 | 2023-03-24 | 492 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 472 | 14 | 
 | 2023-02-28 | 472 | 14 | 
 | 2023-02-27 | 473 | 14 | 
-| 2023-02-26 | 472 | 14 | 
 

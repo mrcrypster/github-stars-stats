@@ -1,6 +1,6 @@
 # CliMA/Oceananigans.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 770 | 145 | 
 | 2023-03-27 | 770 | 145 | 
 | 2023-03-26 | 769 | 145 | 
 | 2023-03-25 | 769 | 145 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 764 | 144 | 
 | 2023-02-28 | 760 | 143 | 
 | 2023-02-27 | 759 | 143 | 
-| 2023-02-26 | 758 | 143 | 
 

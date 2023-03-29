@@ -1,10 +1,10 @@
 # nubank/workspaces - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 21
 
-★ Stars: 473
+★ Stars: 474
 
 [Open repository](https://github.com/nubank/workspaces)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 474 | 21 | 
 | 2023-03-27 | 473 | 21 | 
 | 2023-03-25 | 473 | 21 | 
 | 2023-03-24 | 473 | 21 | 

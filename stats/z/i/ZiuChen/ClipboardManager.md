@@ -1,10 +1,10 @@
 # ZiuChen/ClipboardManager - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 24
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/ZiuChen/ClipboardManager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 113 | 24 | 
 | 2023-03-27 | 112 | 24 | 
 | 2023-03-26 | 111 | 24 | 
 | 2023-03-24 | 111 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 106 | 25 | 
 | 2023-02-28 | 106 | 25 | 
 | 2023-02-27 | 106 | 25 | 
-| 2023-02-26 | 106 | 25 | 
 

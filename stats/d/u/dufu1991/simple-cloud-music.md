@@ -1,6 +1,6 @@
 # dufu1991/simple-cloud-music - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 357 | 34 | 
 | 2023-03-26 | 357 | 34 | 
 | 2023-03-25 | 356 | 34 | 
 | 2023-03-24 | 356 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 354 | 34 | 
 | 2023-02-28 | 353 | 34 | 
 | 2023-02-27 | 351 | 33 | 
-| 2023-02-26 | 351 | 33 | 
 

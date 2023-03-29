@@ -1,6 +1,6 @@
 # orsinium-labs/re - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 42 | 2 | 
 | 2023-03-26 | 42 | 2 | 
 | 2023-03-25 | 42 | 2 | 
 | 2023-03-24 | 42 | 2 | 

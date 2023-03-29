@@ -1,10 +1,10 @@
 # leeoniya/uFuzzy - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 36
 
-★ Stars: 2123
+★ Stars: 2125
 
 [Open repository](https://github.com/leeoniya/uFuzzy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2125 | 36 | 
 | 2023-03-26 | 2123 | 36 | 
 | 2023-03-25 | 2122 | 36 | 
 | 2023-03-23 | 2120 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 2103 | 35 | 
 | 2023-03-01 | 2101 | 35 | 
 | 2023-02-28 | 2099 | 35 | 
-| 2023-02-27 | 2097 | 35 | 
 

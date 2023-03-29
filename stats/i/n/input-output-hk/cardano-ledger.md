@@ -1,10 +1,10 @@
 # input-output-hk/cardano-ledger - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 136
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/input-output-hk/cardano-ledger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 203 | 136 | 
 | 2023-03-27 | 202 | 136 | 
 | 2023-03-26 | 202 | 136 | 
 | 2023-03-25 | 202 | 136 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 198 | 135 | 
 | 2023-02-28 | 198 | 135 | 
 | 2023-02-27 | 198 | 135 | 
-| 2023-02-26 | 198 | 135 | 
 

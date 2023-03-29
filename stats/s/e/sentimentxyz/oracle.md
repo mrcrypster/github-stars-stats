@@ -1,6 +1,6 @@
 # sentimentxyz/oracle - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 33 | 1 | 
 | 2023-03-26 | 33 | 1 | 
 | 2023-03-25 | 33 | 1 | 
 | 2023-03-24 | 33 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 32 | 1 | 
 | 2023-03-01 | 32 | 1 | 
 | 2023-02-28 | 32 | 1 | 
-| 2023-02-26 | 32 | 1 | 
 

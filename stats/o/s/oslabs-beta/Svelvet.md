@@ -1,8 +1,8 @@
 # oslabs-beta/Svelvet - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 98
+☋ Forks: 99
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5 | 99 | 
 | 2023-03-26 | 5 | 98 | 
 | 2023-03-25 | 5 | 98 | 
 | 2023-03-24 | 5 | 98 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1656 | 89 | 
 | 2023-02-28 | 1654 | 89 | 
 | 2023-02-27 | 1650 | 88 | 
-| 2023-02-26 | 1644 | 88 | 
 

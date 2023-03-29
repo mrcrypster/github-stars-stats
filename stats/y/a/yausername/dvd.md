@@ -1,10 +1,10 @@
 # yausername/dvd - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 35
 
-★ Stars: 688
+★ Stars: 690
 
 [Open repository](https://github.com/yausername/dvd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 690 | 35 | 
 | 2023-03-26 | 688 | 35 | 
 | 2023-03-25 | 687 | 35 | 
 | 2023-03-24 | 682 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 671 | 36 | 
 | 2023-03-01 | 671 | 36 | 
 | 2023-02-27 | 669 | 36 | 
-| 2023-02-26 | 667 | 36 | 
 

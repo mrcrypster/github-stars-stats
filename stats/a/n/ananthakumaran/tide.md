@@ -1,6 +1,6 @@
 # ananthakumaran/tide - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1414 | 108 | 
 | 2023-03-27 | 1414 | 108 | 
 | 2023-03-25 | 1414 | 108 | 
 | 2023-03-24 | 1414 | 108 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1414 | 110 | 
 | 2023-02-28 | 1414 | 110 | 
 | 2023-02-27 | 1415 | 110 | 
-| 2023-02-26 | 1415 | 110 | 
 

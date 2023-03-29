@@ -1,6 +1,6 @@
 # ice1000/copilot-learning-materials - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 11 | - | 
 | 2023-03-26 | 11 | - | 
 | 2023-03-25 | 11 | - | 
 | 2023-03-24 | 11 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 11 | - | 
 | 2023-02-28 | 11 | - | 
 | 2023-02-27 | 11 | - | 
-| 2023-02-26 | 11 | - | 
 

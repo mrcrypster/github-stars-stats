@@ -1,8 +1,8 @@
 # wiragunajaya/windowRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 114
+☋ Forks: 116
 
 ★ Stars: 1
 
@@ -13,7 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 1 | 114 | 
+| 2023-03-29 | 1 | 116 | 
+| 2023-03-28 | 1 | 115 | 
 | 2023-03-27 | 1 | 113 | 
 | 2023-03-26 | - | 110 | 
 | 2023-03-25 | - | 107 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 1 | 78 | 
 | 2023-03-01 | 1 | 77 | 
 | 2023-02-27 | - | 77 | 
-| 2023-02-26 | - | 76 | 
 

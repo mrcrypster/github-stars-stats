@@ -1,6 +1,6 @@
 # SamBumgardner/CSC-303-Git-Playground - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3 | 23 | 
 | 2023-03-26 | 3 | 23 | 
 | 2023-03-25 | 3 | 23 | 
 | 2023-03-23 | 3 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 3 | 23 | 
 | 2023-02-28 | 3 | 23 | 
 | 2023-02-27 | 3 | 23 | 
-| 2023-02-26 | 3 | 23 | 
 

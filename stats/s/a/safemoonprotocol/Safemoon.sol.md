@@ -1,8 +1,8 @@
 # safemoonprotocol/Safemoon.sol - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 934
+☋ Forks: 933
 
 ★ Stars: 665
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 665 | 933 | 
 | 2023-03-26 | 665 | 934 | 
 | 2023-03-25 | 665 | 934 | 
 | 2023-03-24 | 665 | 934 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 665 | 933 | 
 | 2023-02-28 | 665 | 933 | 
 | 2023-02-27 | 665 | 932 | 
-| 2023-02-26 | 666 | 932 | 
 

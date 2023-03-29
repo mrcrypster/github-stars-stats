@@ -1,10 +1,10 @@
 # haze/zelda - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/haze/zelda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 72 | 5 | 
 | 2023-03-27 | 71 | 5 | 
 | 2023-03-25 | 71 | 5 | 
 | 2023-03-24 | 71 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 70 | 5 | 
 | 2023-02-28 | 70 | 5 | 
 | 2023-02-27 | 70 | 5 | 
-| 2023-02-26 | 70 | 5 | 
 

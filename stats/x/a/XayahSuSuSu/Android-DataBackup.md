@@ -1,6 +1,6 @@
 # XayahSuSuSu/Android-DataBackup - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 620 | 26 | 
 | 2023-03-27 | 620 | 26 | 
 | 2023-03-25 | 619 | 26 | 
 | 2023-03-24 | 618 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 568 | 26 | 
 | 2023-02-28 | 567 | 25 | 
 | 2023-02-27 | 561 | 25 | 
-| 2023-02-26 | 557 | 24 | 
 

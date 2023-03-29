@@ -1,6 +1,6 @@
 # d3ward/toolz - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 340 | 41 | 
 | 2023-03-27 | 340 | 41 | 
 | 2023-03-26 | 339 | 41 | 
 | 2023-03-25 | 338 | 41 | 

@@ -1,10 +1,10 @@
 # zetbaitsu/Compressor - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 951
 
-★ Stars: 6750
+★ Stars: 6751
 
 [Open repository](https://github.com/zetbaitsu/Compressor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6751 | 951 | 
 | 2023-03-27 | 6750 | 951 | 
 | 2023-03-26 | 6751 | 951 | 
 | 2023-03-25 | 6750 | 951 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 6722 | 950 | 
 | 2023-03-01 | 6717 | 950 | 
 | 2023-02-27 | 6715 | 950 | 
-| 2023-02-26 | 6714 | 950 | 
 

@@ -1,10 +1,10 @@
 # puppeteer/puppeteer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 8857
+☋ Forks: 8862
 
-★ Stars: 82438
+★ Stars: 82456
 
 [Open repository](https://github.com/puppeteer/puppeteer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 82456 | 8862 | 
 | 2023-03-27 | 82438 | 8857 | 
 | 2023-03-25 | 82428 | 8857 | 
 | 2023-03-24 | 82413 | 8857 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 82125 | 8830 | 
 | 2023-03-01 | 82110 | 8829 | 
 | 2023-02-28 | 82097 | 8828 | 
-| 2023-02-26 | 82074 | 8830 | 
 

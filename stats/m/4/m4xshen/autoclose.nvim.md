@@ -1,10 +1,10 @@
 # m4xshen/autoclose.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 2
+☋ Forks: 1
 
-★ Stars: 215
+★ Stars: 217
 
 [Open repository](https://github.com/m4xshen/autoclose.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 217 | 1 | 
 | 2023-03-27 | 215 | 2 | 
 | 2023-03-26 | 215 | 1 | 
 | 2023-03-24 | 214 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 197 | 1 | 
 | 2023-02-28 | 196 | 1 | 
 | 2023-02-27 | 195 | 1 | 
-| 2023-02-26 | 195 | 1 | 
 

@@ -1,10 +1,10 @@
 # redcanaryco/invoke-atomicredteam - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 156
 
-★ Stars: 552
+★ Stars: 553
 
 [Open repository](https://github.com/redcanaryco/invoke-atomicredteam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 553 | 156 | 
 | 2023-03-27 | 552 | 156 | 
 | 2023-03-26 | 552 | 156 | 
 | 2023-03-24 | 552 | 156 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 533 | 152 | 
 | 2023-03-01 | 533 | 152 | 
 | 2023-02-27 | 533 | 153 | 
-| 2023-02-26 | 533 | 153 | 
 

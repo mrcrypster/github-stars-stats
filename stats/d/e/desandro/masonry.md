@@ -1,10 +1,10 @@
 # desandro/masonry - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 2172
+☋ Forks: 2171
 
-★ Stars: 15947
+★ Stars: 15949
 
 [Open repository](https://github.com/desandro/masonry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 15949 | 2171 | 
 | 2023-03-27 | 15947 | 2172 | 
 | 2023-03-26 | 15945 | 2172 | 
 | 2023-03-24 | 15943 | 2172 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 15904 | 2174 | 
 | 2023-02-28 | 15903 | 2174 | 
 | 2023-02-27 | 15900 | 2173 | 
-| 2023-02-26 | 15898 | 2173 | 
 

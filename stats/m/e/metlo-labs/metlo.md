@@ -1,10 +1,10 @@
 # metlo-labs/metlo - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 59
 
-★ Stars: 1273
+★ Stars: 1279
 
 [Open repository](https://github.com/metlo-labs/metlo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1279 | 59 | 
 | 2023-03-27 | 1273 | 59 | 
 | 2023-03-25 | 1260 | 59 | 
 | 2023-03-24 | 1223 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1169 | 53 | 
 | 2023-03-01 | 1168 | 53 | 
 | 2023-02-27 | 1167 | 52 | 
-| 2023-02-26 | 1167 | 52 | 
 

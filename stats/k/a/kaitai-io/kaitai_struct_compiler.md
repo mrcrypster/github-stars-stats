@@ -1,10 +1,10 @@
 # kaitai-io/kaitai_struct_compiler - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/kaitai-io/kaitai_struct_compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 405 | 124 | 
 | 2023-03-27 | 404 | 123 | 
 | 2023-03-25 | 404 | 123 | 
 | 2023-03-24 | 404 | 123 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 399 | 123 | 
 | 2023-03-01 | 398 | 123 | 
 | 2023-02-27 | 398 | 123 | 
-| 2023-02-26 | 397 | 122 | 
 

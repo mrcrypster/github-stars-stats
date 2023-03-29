@@ -1,10 +1,10 @@
 # maize-tech/laravel-markable - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 16
 
-★ Stars: 535
+★ Stars: 537
 
 [Open repository](https://github.com/maize-tech/laravel-markable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 537 | 16 | 
 | 2023-03-27 | 535 | 16 | 
 | 2023-03-26 | 535 | 15 | 
 | 2023-03-25 | 535 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 529 | 15 | 
 | 2023-03-01 | 528 | 15 | 
 | 2023-02-27 | 529 | 15 | 
-| 2023-02-26 | 529 | 15 | 
 

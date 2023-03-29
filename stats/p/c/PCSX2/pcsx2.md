@@ -1,10 +1,10 @@
 # PCSX2/pcsx2 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1307
 
-★ Stars: 8205
+★ Stars: 8210
 
 [Open repository](https://github.com/PCSX2/pcsx2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 8210 | 1307 | 
 | 2023-03-26 | 8205 | 1307 | 
 | 2023-03-25 | 8202 | 1305 | 
 | 2023-03-23 | 8194 | 1304 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 8026 | 1287 | 
 | 2023-03-01 | 8023 | 1287 | 
 | 2023-02-27 | 8011 | 1288 | 
-| 2023-02-26 | 8004 | 1286 | 
 

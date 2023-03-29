@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 28
 
 ☋ Forks: 14
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/t3dotgg/chirp)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 121 | 14 | 
+| 2023-03-28 | 122 | 14 | 
 | 2023-03-27 | 121 | 14 | 
 | 2023-03-26 | 113 | 12 | 
 | 2023-03-25 | 94 | 10 | 

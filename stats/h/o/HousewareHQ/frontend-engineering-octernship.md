@@ -1,10 +1,10 @@
 # HousewareHQ/frontend-engineering-octernship - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 64
+☋ Forks: 63
 
-★ Stars: 51
+★ Stars: 53
 
 [Open repository](https://github.com/HousewareHQ/frontend-engineering-octernship)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 53 | 63 | 
 | 2023-03-27 | 51 | 64 | 
 | 2023-03-25 | 52 | 61 | 
 | 2023-03-24 | 52 | 57 | 

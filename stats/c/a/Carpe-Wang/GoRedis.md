@@ -1,10 +1,10 @@
 # Carpe-Wang/GoRedis - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 12
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/Carpe-Wang/GoRedis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 59 | 12 | 
 | 2023-03-26 | 58 | 12 | 
 | 2023-03-25 | 58 | 12 | 
 | 2023-03-23 | 58 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 57 | 12 | 
 | 2023-02-28 | 57 | 12 | 
 | 2023-02-27 | 57 | 12 | 
-| 2023-02-26 | 57 | 12 | 
 

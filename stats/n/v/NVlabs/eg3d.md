@@ -1,10 +1,10 @@
 # NVlabs/eg3d - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 282
+☋ Forks: 284
 
-★ Stars: 2582
+★ Stars: 2589
 
 [Open repository](https://github.com/NVlabs/eg3d)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2589 | 284 | 
 | 2023-03-27 | 2582 | 282 | 
 | 2023-03-25 | 2580 | 281 | 
 | 2023-03-24 | 2576 | 281 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2479 | 272 | 
 | 2023-03-01 | 2478 | 272 | 
 | 2023-02-27 | 2475 | 271 | 
-| 2023-02-26 | 2471 | 269 | 
 

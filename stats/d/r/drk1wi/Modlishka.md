@@ -1,10 +1,10 @@
 # drk1wi/Modlishka - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 834
 
-★ Stars: 4229
+★ Stars: 4230
 
 [Open repository](https://github.com/drk1wi/Modlishka)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4230 | 834 | 
 | 2023-03-27 | 4229 | 834 | 
 | 2023-03-26 | 4228 | 832 | 
 | 2023-03-24 | 4228 | 833 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 4210 | 831 | 
 | 2023-03-01 | 4207 | 831 | 
 | 2023-02-28 | 4203 | 830 | 
-| 2023-02-26 | 4201 | 830 | 
 

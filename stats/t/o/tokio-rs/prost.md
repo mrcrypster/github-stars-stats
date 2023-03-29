@@ -1,10 +1,10 @@
 # tokio-rs/prost - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 363
 
-★ Stars: 2683
+★ Stars: 2689
 
 [Open repository](https://github.com/tokio-rs/prost)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2689 | 363 | 
 | 2023-03-26 | 2683 | 363 | 
 | 2023-03-25 | 2680 | 363 | 
 | 2023-03-23 | 2682 | 363 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 2612 | 358 | 
 | 2023-03-01 | 2609 | 358 | 
 | 2023-02-27 | 2608 | 357 | 
-| 2023-02-26 | 2605 | 357 | 
 

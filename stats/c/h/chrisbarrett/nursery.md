@@ -1,10 +1,10 @@
 # chrisbarrett/nursery - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 79
+★ Stars: 81
 
 [Open repository](https://github.com/chrisbarrett/nursery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 81 | 3 | 
 | 2023-03-26 | 79 | 3 | 
 | 2023-03-25 | 79 | 3 | 
 | 2023-03-24 | 79 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 78 | 2 | 
 | 2023-03-01 | 78 | 2 | 
 | 2023-02-28 | 78 | 2 | 
-| 2023-02-27 | 78 | 2 | 
 

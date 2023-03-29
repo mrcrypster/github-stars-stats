@@ -1,10 +1,10 @@
 # eslam3kl/SQLiDetector - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 89
 
-★ Stars: 440
+★ Stars: 444
 
 [Open repository](https://github.com/eslam3kl/SQLiDetector)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 444 | 89 | 
+| 2023-03-28 | 443 | 89 | 
 | 2023-03-26 | 440 | 89 | 
 | 2023-03-25 | 437 | 87 | 
 | 2023-03-24 | 432 | 87 | 
@@ -35,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 426 | 86 | 
 | 2023-03-01 | 426 | 86 | 
 | 2023-02-27 | 426 | 86 | 
-| 2023-02-26 | 425 | 86 | 
 

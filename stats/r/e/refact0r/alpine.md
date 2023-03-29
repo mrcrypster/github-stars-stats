@@ -1,10 +1,10 @@
 # refact0r/alpine - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/refact0r/alpine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 30 | 3 | 
 | 2023-03-27 | 29 | 3 | 
 | 2023-03-26 | 29 | 3 | 
 | 2023-03-24 | 29 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 26 | 3 | 
 | 2023-03-01 | 25 | 3 | 
 | 2023-02-27 | 25 | 3 | 
-| 2023-02-26 | 24 | 3 | 
 

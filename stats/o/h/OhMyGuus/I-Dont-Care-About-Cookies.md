@@ -1,10 +1,10 @@
 # OhMyGuus/I-Dont-Care-About-Cookies - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 48
+☋ Forks: 47
 
-★ Stars: 2022
+★ Stars: 2024
 
 [Open repository](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2024 | 47 | 
 | 2023-03-26 | 2022 | 48 | 
 | 2023-03-25 | 2021 | 48 | 
 | 2023-03-24 | 2020 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 1948 | 46 | 
 | 2023-03-01 | 1946 | 46 | 
 | 2023-02-28 | 1944 | 46 | 
-| 2023-02-26 | 1932 | 46 | 
 

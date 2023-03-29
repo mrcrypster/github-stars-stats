@@ -1,6 +1,6 @@
 # Sceleratis/Adonis - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 189 | 135 | 
 | 2023-03-26 | 189 | 135 | 
 | 2023-03-25 | 188 | 135 | 
 | 2023-03-24 | 188 | 135 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 185 | 131 | 
 | 2023-03-01 | 185 | 131 | 
 | 2023-02-28 | 185 | 131 | 
-| 2023-02-26 | 185 | 131 | 
 

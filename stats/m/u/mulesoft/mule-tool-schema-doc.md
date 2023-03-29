@@ -1,10 +1,10 @@
 # mulesoft/mule-tool-schema-doc - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/mulesoft/mule-tool-schema-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3 | 1 | 
 | 2023-03-27 | 2 | 1 | 
 | 2023-03-26 | 2 | 1 | 
 | 2023-03-25 | 2 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 2 | 1 | 
 | 2023-02-28 | 2 | 1 | 
 | 2023-02-27 | 2 | 1 | 
-| 2023-02-26 | 2 | 1 | 
 

@@ -1,6 +1,6 @@
 # gexijin/RTutor - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 205 | 27 | 
 | 2023-03-27 | 205 | 27 | 
 | 2023-03-25 | 205 | 27 | 
 | 2023-03-24 | 205 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 198 | 23 | 
 | 2023-03-01 | 197 | 23 | 
 | 2023-02-27 | 197 | 23 | 
-| 2023-02-26 | 196 | 23 | 
 

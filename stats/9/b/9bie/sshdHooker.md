@@ -1,10 +1,10 @@
 # 9bie/sshdHooker - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 39
 
-★ Stars: 309
+★ Stars: 308
 
 [Open repository](https://github.com/9bie/sshdHooker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 308 | 39 | 
 | 2023-03-27 | 309 | 39 | 
 | 2023-03-26 | 309 | 39 | 
 | 2023-03-25 | 309 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 304 | 38 | 
 | 2023-03-01 | 304 | 38 | 
 | 2023-02-28 | 304 | 38 | 
-| 2023-02-26 | 304 | 38 | 
 

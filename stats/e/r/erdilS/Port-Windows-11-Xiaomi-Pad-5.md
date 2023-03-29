@@ -1,10 +1,10 @@
 # erdilS/Port-Windows-11-Xiaomi-Pad-5 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 27
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 104 | 27 | 
 | 2023-03-27 | 103 | 27 | 
 | 2023-03-25 | 101 | 26 | 
 | 2023-03-24 | 97 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 87 | 22 | 
 | 2023-02-28 | 86 | 22 | 
 | 2023-02-27 | 86 | 22 | 
-| 2023-02-26 | 87 | 22 | 
 

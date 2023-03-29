@@ -1,6 +1,6 @@
 # rapiz1/catp - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1131 | 23 | 
 | 2023-03-26 | 1131 | 23 | 
 | 2023-03-25 | 1131 | 23 | 
 | 2023-03-24 | 1131 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1126 | 23 | 
 | 2023-02-28 | 1124 | 23 | 
 | 2023-02-27 | 1124 | 23 | 
-| 2023-02-26 | 1124 | 23 | 
 

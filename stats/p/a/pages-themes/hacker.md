@@ -1,8 +1,8 @@
 # pages-themes/hacker - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1024
+☋ Forks: 1025
 
 ★ Stars: 733
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 733 | 1025 | 
 | 2023-03-26 | 733 | 1024 | 
 | 2023-03-25 | 731 | 1022 | 
 | 2023-03-23 | 729 | 1023 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 714 | 1012 | 
 | 2023-02-28 | 715 | 1012 | 
 | 2023-02-27 | 715 | 1012 | 
-| 2023-02-26 | 713 | 1010 | 
 

@@ -1,6 +1,6 @@
 # dominicsayers/isemail - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 288 | 45 | 
 | 2023-03-27 | 288 | 45 | 
 | 2023-03-26 | 288 | 45 | 
 | 2023-03-24 | 288 | 45 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 287 | 45 | 
 | 2023-02-28 | 287 | 45 | 
 | 2023-02-27 | 286 | 45 | 
-| 2023-02-26 | 286 | 45 | 
 

@@ -1,6 +1,6 @@
 # projectdiscovery/pdtm - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 394 | 23 | 
 | 2023-03-27 | 394 | 23 | 
 | 2023-03-25 | 392 | 23 | 
 | 2023-03-24 | 391 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 354 | 21 | 
 | 2023-03-01 | 351 | 21 | 
 | 2023-02-28 | 349 | 20 | 
-| 2023-02-26 | 347 | 20 | 
 

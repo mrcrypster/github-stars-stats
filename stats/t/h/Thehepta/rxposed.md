@@ -1,10 +1,10 @@
 # Thehepta/rxposed - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 14
+☋ Forks: 17
 
-★ Stars: 52
+★ Stars: 57
 
 [Open repository](https://github.com/Thehepta/rxposed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 57 | 17 | 
 | 2023-03-27 | 52 | 14 | 
 | 2023-03-26 | 47 | 14 | 
 | 2023-03-25 | 44 | 13 | 

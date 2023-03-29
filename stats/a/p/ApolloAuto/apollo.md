@@ -1,10 +1,10 @@
 # ApolloAuto/apollo - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 9080
+☋ Forks: 9084
 
-★ Stars: 22476
+★ Stars: 22485
 
 [Open repository](https://github.com/ApolloAuto/apollo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 22485 | 9084 | 
 | 2023-03-27 | 22476 | 9080 | 
 | 2023-03-25 | 22473 | 9079 | 
 | 2023-03-24 | 22463 | 9074 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 22362 | 9044 | 
 | 2023-02-28 | 22352 | 9044 | 
 | 2023-02-27 | 22345 | 9041 | 
-| 2023-02-26 | 22338 | 9040 | 
 

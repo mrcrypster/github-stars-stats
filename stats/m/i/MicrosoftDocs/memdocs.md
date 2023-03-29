@@ -1,6 +1,6 @@
 # MicrosoftDocs/memdocs - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 719
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 191 | 719 | 
 | 2023-03-26 | 191 | 719 | 
 | 2023-03-25 | 191 | 720 | 
 | 2023-03-24 | 191 | 720 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 188 | 705 | 
 | 2023-03-01 | 188 | 705 | 
 | 2023-02-28 | 184 | 705 | 
-| 2023-02-27 | 183 | 705 | 
 

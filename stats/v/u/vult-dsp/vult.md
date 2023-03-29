@@ -1,6 +1,6 @@
 # vult-dsp/vult - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 407 | 23 | 
 | 2023-03-26 | 407 | 23 | 
 | 2023-03-25 | 407 | 23 | 
 | 2023-03-24 | 407 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 403 | 23 | 
 | 2023-02-28 | 403 | 23 | 
 | 2023-02-27 | 402 | 23 | 
-| 2023-02-26 | 401 | 23 | 
 

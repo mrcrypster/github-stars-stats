@@ -1,6 +1,6 @@
 # maxsnew/synthetic-domain-theory - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 14 | - | 
 | 2023-03-26 | 14 | - | 
 | 2023-03-25 | 14 | - | 
 | 2023-03-23 | 14 | - | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 15 | - | 
 | 2023-03-01 | 15 | - | 
 | 2023-02-27 | 15 | - | 
-| 2023-02-26 | 15 | - | 
 

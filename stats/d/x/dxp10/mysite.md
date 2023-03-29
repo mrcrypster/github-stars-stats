@@ -1,10 +1,10 @@
 # dxp10/mysite - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 179
+★ Stars: 178
 
 [Open repository](https://github.com/dxp10/mysite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 178 | 1 | 
 | 2023-03-26 | 179 | 1 | 
 | 2023-03-25 | 179 | 1 | 
 | 2023-03-24 | 181 | 1 | 

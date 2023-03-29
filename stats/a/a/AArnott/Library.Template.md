@@ -1,6 +1,6 @@
 # AArnott/Library.Template - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 107 | 18 | 
 | 2023-03-26 | 107 | 18 | 
 | 2023-03-25 | 106 | 18 | 
 | 2023-03-24 | 106 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 105 | 18 | 
 | 2023-03-01 | 105 | 18 | 
 | 2023-02-27 | 105 | 18 | 
-| 2023-02-26 | 105 | 18 | 
 

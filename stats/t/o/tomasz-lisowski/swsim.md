@@ -1,6 +1,6 @@
 # tomasz-lisowski/swsim - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 203 | 16 | 
 | 2023-03-26 | 203 | 16 | 
 | 2023-03-25 | 203 | 16 | 
 | 2023-03-24 | 203 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 198 | 15 | 
 | 2023-02-28 | 198 | 15 | 
 | 2023-02-27 | 198 | 15 | 
-| 2023-02-26 | 198 | 15 | 
 

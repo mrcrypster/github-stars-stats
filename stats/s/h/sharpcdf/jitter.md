@@ -1,6 +1,6 @@
 # sharpcdf/jitter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 89 | 2 | 
 | 2023-03-26 | 89 | 2 | 
 | 2023-03-25 | 89 | 2 | 
 | 2023-03-24 | 89 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 90 | 2 | 
 | 2023-02-28 | 90 | 2 | 
 | 2023-02-27 | 90 | 2 | 
-| 2023-02-26 | 90 | 2 | 
 

@@ -1,8 +1,8 @@
 # CocoaPods/Specs - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 9135
+☋ Forks: 9138
 
 ★ Stars: 6540
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6540 | 9138 | 
 | 2023-03-27 | 6540 | 9135 | 
 | 2023-03-25 | 6540 | 9135 | 
 | 2023-03-24 | 6539 | 9136 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 6535 | 9134 | 
 | 2023-03-01 | 6532 | 9136 | 
 | 2023-02-27 | 6531 | 9134 | 
-| 2023-02-26 | 6529 | 9131 | 
 

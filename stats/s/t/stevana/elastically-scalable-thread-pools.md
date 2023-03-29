@@ -1,10 +1,10 @@
 # stevana/elastically-scalable-thread-pools - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/stevana/elastically-scalable-thread-pools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 107 | - | 
 | 2023-03-27 | 106 | - | 
 | 2023-03-26 | 106 | - | 
 | 2023-03-24 | 106 | - | 

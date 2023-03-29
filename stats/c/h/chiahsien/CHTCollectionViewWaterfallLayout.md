@@ -1,6 +1,6 @@
 # chiahsien/CHTCollectionViewWaterfallLayout - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 706
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4425 | 706 | 
 | 2023-03-26 | 4425 | 706 | 
 | 2023-03-25 | 4425 | 706 | 
 | 2023-03-24 | 4425 | 706 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 4424 | 706 | 
 | 2023-02-28 | 4424 | 705 | 
 | 2023-02-27 | 4424 | 705 | 
-| 2023-02-26 | 4423 | 705 | 
 

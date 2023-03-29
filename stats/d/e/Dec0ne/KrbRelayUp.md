@@ -1,10 +1,10 @@
 # Dec0ne/KrbRelayUp - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 169
 
-★ Stars: 1263
+★ Stars: 1264
 
 [Open repository](https://github.com/Dec0ne/KrbRelayUp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1264 | 169 | 
 | 2023-03-26 | 1263 | 169 | 
 | 2023-03-25 | 1262 | 169 | 
 | 2023-03-23 | 1258 | 168 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 1245 | 168 | 
 | 2023-03-01 | 1244 | 167 | 
 | 2023-02-28 | 1242 | 167 | 
-| 2023-02-26 | 1242 | 167 | 
 

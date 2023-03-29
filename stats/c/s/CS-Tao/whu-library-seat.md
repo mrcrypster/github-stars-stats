@@ -1,10 +1,10 @@
 # CS-Tao/whu-library-seat - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 25
 
-★ Stars: 765
+★ Stars: 764
 
 [Open repository](https://github.com/CS-Tao/whu-library-seat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 764 | 25 | 
 | 2023-03-27 | 765 | 25 | 
 | 2023-03-26 | 765 | 25 | 
 | 2023-03-24 | 764 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 764 | 25 | 
 | 2023-02-28 | 764 | 25 | 
 | 2023-02-27 | 763 | 25 | 
-| 2023-02-26 | 761 | 25 | 
 

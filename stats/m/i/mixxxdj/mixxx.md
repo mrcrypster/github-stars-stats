@@ -1,10 +1,10 @@
 # mixxxdj/mixxx - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1110
+☋ Forks: 1111
 
-★ Stars: 3292
+★ Stars: 3294
 
 [Open repository](https://github.com/mixxxdj/mixxx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3294 | 1111 | 
 | 2023-03-26 | 3292 | 1110 | 
 | 2023-03-25 | 3287 | 1110 | 
 | 2023-03-24 | 3286 | 1109 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3233 | 1095 | 
 | 2023-02-28 | 3231 | 1093 | 
 | 2023-02-27 | 3229 | 1092 | 
-| 2023-02-26 | 3225 | 1092 | 
 

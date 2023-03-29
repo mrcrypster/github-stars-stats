@@ -1,6 +1,6 @@
 # DuskieWhy/Transparent-and-MultiWindow-FNF - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 28 | 15 | 
 | 2023-03-27 | 28 | 15 | 
 | 2023-03-25 | 28 | 15 | 
 | 2023-03-24 | 28 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 30 | 15 | 
 | 2023-03-01 | 31 | 15 | 
 | 2023-02-28 | 31 | 15 | 
-| 2023-02-26 | 31 | 15 | 
 

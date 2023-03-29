@@ -1,10 +1,10 @@
 # open-simh/simh - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/open-simh/simh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 231 | 48 | 
 | 2023-03-26 | 230 | 47 | 
 | 2023-03-25 | 228 | 47 | 
 | 2023-03-24 | 228 | 47 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 226 | 44 | 
 | 2023-03-01 | 226 | 43 | 
 | 2023-02-28 | 224 | 43 | 
-| 2023-02-26 | 223 | 43 | 
 

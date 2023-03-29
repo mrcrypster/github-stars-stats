@@ -1,6 +1,6 @@
 # XMLTV/xmltv - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 194 | 81 | 
 | 2023-03-27 | 194 | 81 | 
 | 2023-03-26 | 192 | 81 | 
 | 2023-03-24 | 192 | 81 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 190 | 81 | 
 | 2023-02-28 | 190 | 81 | 
 | 2023-02-27 | 190 | 81 | 
-| 2023-02-26 | 189 | 81 | 
 

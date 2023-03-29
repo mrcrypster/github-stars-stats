@@ -1,10 +1,10 @@
 # vwxyzjn/cleanrl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 305
+☋ Forks: 308
 
-★ Stars: 2336
+★ Stars: 2346
 
 [Open repository](https://github.com/vwxyzjn/cleanrl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2346 | 308 | 
 | 2023-03-26 | 2336 | 305 | 
 | 2023-03-25 | 2326 | 302 | 
 | 2023-03-23 | 2316 | 301 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2205 | 286 | 
 | 2023-02-28 | 2196 | 286 | 
 | 2023-02-27 | 2184 | 285 | 
-| 2023-02-26 | 2176 | 285 | 
 

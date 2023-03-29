@@ -1,6 +1,6 @@
 # learn-co-curriculum/react-hooks-dq-components - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 343
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4 | 343 | 
 | 2023-03-26 | 4 | 343 | 
 | 2023-03-25 | 4 | 342 | 
 | 2023-03-23 | 4 | 342 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 4 | 336 | 
 | 2023-03-01 | 4 | 336 | 
 | 2023-02-27 | 4 | 336 | 
-| 2023-02-26 | 4 | 336 | 
 

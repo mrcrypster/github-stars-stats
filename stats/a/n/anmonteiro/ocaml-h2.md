@@ -1,6 +1,6 @@
 # anmonteiro/ocaml-h2 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 262 | 27 | 
 | 2023-03-27 | 262 | 27 | 
 | 2023-03-25 | 262 | 27 | 
 | 2023-03-24 | 262 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 263 | 27 | 
 | 2023-03-01 | 263 | 26 | 
 | 2023-02-28 | 263 | 26 | 
-| 2023-02-26 | 263 | 26 | 
 

@@ -1,10 +1,10 @@
 # ggerganov/ggml - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 60
+☋ Forks: 64
 
-★ Stars: 956
+★ Stars: 994
 
 [Open repository](https://github.com/ggerganov/ggml)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 994 | 64 | 
 | 2023-03-26 | 956 | 60 | 
 | 2023-03-25 | 936 | 57 | 
 | 2023-03-24 | 914 | 55 | 

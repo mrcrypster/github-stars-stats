@@ -1,10 +1,10 @@
 # valheimPlus/ValheimPlus - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 221
+☋ Forks: 222
 
-★ Stars: 912
+★ Stars: 913
 
 [Open repository](https://github.com/valheimPlus/ValheimPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 913 | 222 | 
 | 2023-03-27 | 912 | 221 | 
 | 2023-03-26 | 912 | 221 | 
 | 2023-03-25 | 907 | 219 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 880 | 212 | 
 | 2023-03-01 | 878 | 212 | 
 | 2023-02-27 | 877 | 212 | 
-| 2023-02-26 | 877 | 212 | 
 

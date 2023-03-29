@@ -1,6 +1,6 @@
 # lambdalisue/suda.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 481 | 21 | 
 | 2023-03-27 | 481 | 21 | 
 | 2023-03-26 | 481 | 21 | 
 | 2023-03-24 | 481 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 477 | 20 | 
 | 2023-03-01 | 477 | 20 | 
 | 2023-02-28 | 477 | 20 | 
-| 2023-02-26 | 476 | 20 | 
 

@@ -1,10 +1,10 @@
 # zplug/zplug - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 226
 
-★ Stars: 5347
+★ Stars: 5349
 
 [Open repository](https://github.com/zplug/zplug)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5349 | 226 | 
 | 2023-03-26 | 5347 | 226 | 
 | 2023-03-25 | 5346 | 226 | 
 | 2023-03-23 | 5343 | 226 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 5336 | 224 | 
 | 2023-03-01 | 5335 | 224 | 
 | 2023-02-28 | 5336 | 224 | 
-| 2023-02-26 | 5336 | 225 | 
 

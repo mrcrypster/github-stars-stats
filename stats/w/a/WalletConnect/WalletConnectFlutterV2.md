@@ -1,6 +1,6 @@
 # WalletConnect/WalletConnectFlutterV2 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 29 | 8 | 
 | 2023-03-26 | 29 | 8 | 
 | 2023-03-25 | 28 | 8 | 
 | 2023-03-24 | 28 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 22 | 6 | 
 | 2023-03-01 | 22 | 6 | 
 | 2023-02-27 | 21 | 6 | 
-| 2023-02-26 | 20 | 6 | 
 

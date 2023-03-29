@@ -1,10 +1,10 @@
 # ipfs/ipfs-desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 836
+☋ Forks: 837
 
-★ Stars: 5042
+★ Stars: 5054
 
 [Open repository](https://github.com/ipfs/ipfs-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5054 | 837 | 
 | 2023-03-27 | 5042 | 836 | 
 | 2023-03-26 | 5037 | 836 | 
 

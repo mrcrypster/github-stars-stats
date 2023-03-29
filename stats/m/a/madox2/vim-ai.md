@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/madox2/vim-ai)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 60 | 6 | 
+| 2023-03-28 | 61 | 6 | 
 | 2023-03-27 | 58 | 5 | 
 | 2023-03-26 | 56 | 5 | 
 | 2023-03-25 | 53 | 4 | 

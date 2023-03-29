@@ -1,10 +1,10 @@
 # dtlnor/stable-diffusion-webui-localization-zh_CN - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 46
+☋ Forks: 48
 
-★ Stars: 439
+★ Stars: 455
 
 [Open repository](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 455 | 48 | 
 | 2023-03-27 | 439 | 46 | 
 | 2023-03-25 | 424 | 45 | 
 | 2023-03-24 | 420 | 43 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 255 | 22 | 
 | 2023-03-01 | 243 | 20 | 
 | 2023-02-27 | 234 | 19 | 
-| 2023-02-26 | 224 | 18 | 
 

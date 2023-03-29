@@ -1,10 +1,10 @@
 # indiff/qttabbar - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 226
+☋ Forks: 227
 
-★ Stars: 2816
+★ Stars: 2819
 
 [Open repository](https://github.com/indiff/qttabbar)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2819 | 227 | 
 | 2023-03-27 | 2816 | 226 | 
 

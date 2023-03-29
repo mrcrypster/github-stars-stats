@@ -1,8 +1,8 @@
 # codeedu/imersao9 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 144
+☋ Forks: 145
 
 ★ Stars: 199
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 199 | 145 | 
 | 2023-03-26 | 199 | 144 | 
 | 2023-03-25 | 199 | 144 | 
 | 2023-03-24 | 199 | 144 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 199 | 147 | 
 | 2023-02-28 | 199 | 147 | 
 | 2023-02-27 | 199 | 147 | 
-| 2023-02-26 | 199 | 147 | 
 

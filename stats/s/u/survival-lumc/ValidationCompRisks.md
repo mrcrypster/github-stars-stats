@@ -1,10 +1,10 @@
 # survival-lumc/ValidationCompRisks - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/survival-lumc/ValidationCompRisks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 15 | 11 | 
 | 2023-03-27 | 14 | 11 | 
 | 2023-03-25 | 14 | 11 | 
 | 2023-03-24 | 14 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 13 | 11 | 
 | 2023-03-01 | 13 | 11 | 
 | 2023-02-27 | 13 | 11 | 
-| 2023-02-26 | 13 | 11 | 
 

@@ -1,10 +1,10 @@
 # tiann/KernelSU - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 303
 
-★ Stars: 1872
+★ Stars: 1884
 
 [Open repository](https://github.com/tiann/KernelSU)
 
@@ -13,7 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 1872 | 303 | 
+| 2023-03-29 | 1884 | 303 | 
+| 2023-03-28 | 1880 | 303 | 
 | 2023-03-27 | 1869 | 303 | 
 | 2023-03-26 | 1864 | 299 | 
 | 2023-03-25 | 1847 | 295 | 

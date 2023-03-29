@@ -1,6 +1,6 @@
 # HalloAppInc/ecredis - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4 | 1 | 
 | 2023-03-26 | 4 | 1 | 
 | 2023-03-25 | 4 | 1 | 
 | 2023-03-23 | 4 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 3 | 1 | 
 | 2023-03-01 | 3 | 1 | 
 | 2023-02-27 | 3 | 1 | 
-| 2023-02-26 | 3 | 1 | 
 

@@ -1,8 +1,8 @@
 # FrankieIsLost/gradual-dutch-auction - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 31
+☋ Forks: 30
 
 ★ Stars: 179
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 179 | 30 | 
 | 2023-03-26 | 179 | 31 | 
 | 2023-03-25 | 179 | 30 | 
 | 2023-03-24 | 179 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 177 | 29 | 
 | 2023-03-01 | 177 | 29 | 
 | 2023-02-28 | 177 | 29 | 
-| 2023-02-26 | 177 | 29 | 
 

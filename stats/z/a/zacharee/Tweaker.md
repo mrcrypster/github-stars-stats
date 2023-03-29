@@ -1,10 +1,10 @@
 # zacharee/Tweaker - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 144
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/zacharee/Tweaker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 378 | 144 | 
 | 2023-03-27 | 377 | 144 | 
 | 2023-03-25 | 377 | 144 | 
 | 2023-03-24 | 376 | 144 | 

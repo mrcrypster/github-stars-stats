@@ -1,10 +1,10 @@
 # henryhu712/books2 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 40
 
-★ Stars: 242
+★ Stars: 244
 
 [Open repository](https://github.com/henryhu712/books2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 244 | 40 | 
 | 2023-03-27 | 242 | 40 | 
 | 2023-03-25 | 242 | 40 | 
 | 2023-03-24 | 242 | 40 | 

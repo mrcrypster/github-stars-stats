@@ -1,6 +1,6 @@
 # adeo/lmru--tech - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 24 | 14 | 
 | 2023-03-26 | 24 | 14 | 
 | 2023-03-25 | 24 | 14 | 
 | 2023-03-24 | 24 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 25 | 13 | 
 | 2023-03-01 | 25 | 13 | 
 | 2023-02-28 | 25 | 13 | 
-| 2023-02-26 | 25 | 13 | 
 

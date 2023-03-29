@@ -1,10 +1,10 @@
 # LunarVim/LunarVim - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1425
+☋ Forks: 1426
 
-★ Stars: 13709
+★ Stars: 13717
 
 [Open repository](https://github.com/LunarVim/LunarVim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 13717 | 1426 | 
 | 2023-03-27 | 13709 | 1425 | 
 | 2023-03-26 | 13693 | 1423 | 
 | 2023-03-25 | 13687 | 1422 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 13380 | 1407 | 
 | 2023-02-28 | 13369 | 1407 | 
 | 2023-02-27 | 13356 | 1408 | 
-| 2023-02-26 | 13342 | 1408 | 
 

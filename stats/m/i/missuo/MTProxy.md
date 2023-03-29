@@ -1,10 +1,10 @@
 # missuo/MTProxy - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 40
 
-★ Stars: 129
+★ Stars: 128
 
 [Open repository](https://github.com/missuo/MTProxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 128 | 40 | 
 | 2023-03-26 | 129 | 40 | 
 | 2023-03-25 | 129 | 39 | 
 | 2023-03-24 | 129 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 124 | 39 | 
 | 2023-03-01 | 124 | 39 | 
 | 2023-02-28 | 123 | 38 | 
-| 2023-02-26 | 123 | 38 | 
 

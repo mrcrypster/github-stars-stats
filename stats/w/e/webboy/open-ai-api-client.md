@@ -1,10 +1,10 @@
 # webboy/open-ai-api-client - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/webboy/open-ai-api-client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 46 | 2 | 
 | 2023-03-26 | 45 | 2 | 
 | 2023-03-25 | 43 | 2 | 
 | 2023-03-24 | 40 | 1 | 

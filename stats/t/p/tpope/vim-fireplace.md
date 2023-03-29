@@ -1,6 +1,6 @@
 # tpope/vim-fireplace - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1719 | 144 | 
 | 2023-03-27 | 1719 | 144 | 
 | 2023-03-25 | 1717 | 144 | 
 | 2023-03-24 | 1717 | 144 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1713 | 144 | 
 | 2023-03-01 | 1713 | 144 | 
 | 2023-02-28 | 1713 | 144 | 
-| 2023-02-26 | 1713 | 144 | 
 

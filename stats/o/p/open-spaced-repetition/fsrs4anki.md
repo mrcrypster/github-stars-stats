@@ -1,10 +1,10 @@
 # open-spaced-repetition/fsrs4anki - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 62
 
-★ Stars: 546
+★ Stars: 551
 
 [Open repository](https://github.com/open-spaced-repetition/fsrs4anki)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 551 | 62 | 
 | 2023-03-26 | 546 | 62 | 
 | 2023-03-25 | 544 | 61 | 
 | 2023-03-23 | 535 | 60 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 452 | 49 | 
 | 2023-02-28 | 438 | 47 | 
 | 2023-02-27 | 433 | 47 | 
-| 2023-02-26 | 431 | 47 | 
 

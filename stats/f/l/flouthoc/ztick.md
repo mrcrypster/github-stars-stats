@@ -1,10 +1,10 @@
 # flouthoc/ztick - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/flouthoc/ztick)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 23 | - | 
 | 2023-03-27 | 22 | - | 
 | 2023-03-25 | 22 | - | 
 | 2023-03-24 | 22 | - | 

@@ -1,10 +1,10 @@
 # unisonweb/unison - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 251
 
-★ Stars: 5128
+★ Stars: 5129
 
 [Open repository](https://github.com/unisonweb/unison)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5129 | 251 | 
 | 2023-03-27 | 5128 | 251 | 
 | 2023-03-26 | 5127 | 251 | 
 | 2023-03-25 | 5126 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 5086 | 247 | 
 | 2023-02-28 | 5086 | 247 | 
 | 2023-02-27 | 5086 | 247 | 
-| 2023-02-26 | 5084 | 247 | 
 

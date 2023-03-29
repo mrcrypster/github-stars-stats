@@ -1,8 +1,8 @@
 # stefbowerman/week-6-homework - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | - | 10 | 
 | 2023-03-26 | - | 9 | 
 | 2023-03-25 | - | 9 | 
 | 2023-03-23 | - | 9 | 

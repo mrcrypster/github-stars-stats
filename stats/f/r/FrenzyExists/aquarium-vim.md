@@ -1,10 +1,10 @@
 # FrenzyExists/aquarium-vim - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 13
 
-★ Stars: 234
+★ Stars: 236
 
 [Open repository](https://github.com/FrenzyExists/aquarium-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 236 | 13 | 
 | 2023-03-26 | 234 | 13 | 
 | 2023-03-25 | 234 | 13 | 
 | 2023-03-24 | 234 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 227 | 12 | 
 | 2023-03-01 | 225 | 12 | 
 | 2023-02-27 | 224 | 12 | 
-| 2023-02-26 | 224 | 12 | 
 

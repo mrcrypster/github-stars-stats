@@ -1,10 +1,10 @@
 # vhqyeo50893/remoteokteto - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 48
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/vhqyeo50893/remoteokteto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6 | 48 | 
 | 2023-03-26 | 5 | 48 | 
 | 2023-03-25 | 5 | 48 | 
 | 2023-03-23 | 5 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 5 | 47 | 
 | 2023-02-28 | 5 | 47 | 
 | 2023-02-27 | 5 | 46 | 
-| 2023-02-26 | 5 | 46 | 
 

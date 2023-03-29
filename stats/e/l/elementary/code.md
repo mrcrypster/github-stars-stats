@@ -1,8 +1,8 @@
 # elementary/code - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 435
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 435 | 111 | 
 | 2023-03-26 | 435 | 110 | 
 | 2023-03-25 | 435 | 110 | 
 | 2023-03-24 | 435 | 110 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 433 | 109 | 
 | 2023-02-28 | 433 | 110 | 
 | 2023-02-27 | 433 | 110 | 
-| 2023-02-26 | 433 | 110 | 
 

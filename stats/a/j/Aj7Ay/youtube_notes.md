@@ -1,6 +1,6 @@
 # Aj7Ay/youtube_notes - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4 | 50 | 
 | 2023-03-26 | 4 | 50 | 
 | 2023-03-25 | 4 | 50 | 
 | 2023-03-23 | 4 | 50 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 3 | 44 | 
 | 2023-03-01 | 3 | 43 | 
 | 2023-02-28 | 3 | 41 | 
-| 2023-02-26 | 3 | 40 | 
 

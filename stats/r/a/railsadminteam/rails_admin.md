@@ -1,10 +1,10 @@
 # railsadminteam/rails_admin - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 2247
+☋ Forks: 2246
 
-★ Stars: 7737
+★ Stars: 7738
 
 [Open repository](https://github.com/railsadminteam/rails_admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 7738 | 2246 | 
 | 2023-03-27 | 7737 | 2247 | 
 | 2023-03-25 | 7738 | 2247 | 
 | 2023-03-24 | 7737 | 2247 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 7731 | 2249 | 
 | 2023-03-01 | 7730 | 2249 | 
 | 2023-02-28 | 7733 | 2249 | 
-| 2023-02-27 | 7730 | 2249 | 
 

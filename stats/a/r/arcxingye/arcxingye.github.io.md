@@ -1,6 +1,6 @@
 # arcxingye/arcxingye.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 91 | 35 | 
 | 2023-03-26 | 91 | 35 | 
 | 2023-03-25 | 91 | 35 | 
 | 2023-03-24 | 90 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 88 | 35 | 
 | 2023-03-01 | 88 | 35 | 
 | 2023-02-28 | 88 | 35 | 
-| 2023-02-26 | 88 | 35 | 
 

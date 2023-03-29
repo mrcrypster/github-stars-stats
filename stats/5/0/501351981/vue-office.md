@@ -1,10 +1,10 @@
 # 501351981/vue-office - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 39
+☋ Forks: 42
 
-★ Stars: 233
+★ Stars: 240
 
 [Open repository](https://github.com/501351981/vue-office)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 240 | 42 | 
 | 2023-03-26 | 233 | 39 | 
 | 2023-03-25 | 233 | 39 | 
 | 2023-03-24 | 231 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 172 | 25 | 
 | 2023-02-28 | 169 | 24 | 
 | 2023-02-27 | 167 | 23 | 
-| 2023-02-26 | 163 | 22 | 
 

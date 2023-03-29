@@ -1,10 +1,10 @@
 # yogthos/compojure-template - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 12
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/yogthos/compojure-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 53 | 12 | 
 | 2023-03-27 | 52 | 12 | 
 | 2023-03-26 | 52 | 12 | 
 | 2023-03-24 | 52 | 12 | 

@@ -1,8 +1,8 @@
 # gookit/goutil - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 143
+☋ Forks: 144
 
 ★ Stars: 1267
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1267 | 144 | 
 | 2023-03-26 | 1267 | 143 | 
 | 2023-03-25 | 1264 | 142 | 
 | 2023-03-24 | 1263 | 142 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1242 | 135 | 
 | 2023-02-28 | 1241 | 135 | 
 | 2023-02-27 | 1240 | 135 | 
-| 2023-02-26 | 1241 | 135 | 
 

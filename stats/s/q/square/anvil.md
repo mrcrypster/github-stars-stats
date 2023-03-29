@@ -1,6 +1,6 @@
 # square/anvil - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1093 | 58 | 
 | 2023-03-27 | 1093 | 58 | 
 | 2023-03-25 | 1092 | 58 | 
 | 2023-03-24 | 1089 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1074 | 56 | 
 | 2023-02-28 | 1071 | 56 | 
 | 2023-02-27 | 1060 | 56 | 
-| 2023-02-26 | 1058 | 56 | 
 

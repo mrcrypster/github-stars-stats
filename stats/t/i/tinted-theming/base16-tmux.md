@@ -1,6 +1,6 @@
 # tinted-theming/base16-tmux - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 41 | 9 | 
 | 2023-03-27 | 41 | 9 | 
 | 2023-03-25 | 41 | 9 | 
 | 2023-03-24 | 41 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 41 | 9 | 
 | 2023-03-01 | 41 | 9 | 
 | 2023-02-28 | 41 | 9 | 
-| 2023-02-26 | 41 | 9 | 
 

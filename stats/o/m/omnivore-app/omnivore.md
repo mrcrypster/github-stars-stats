@@ -1,10 +1,10 @@
 # omnivore-app/omnivore - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 1311
+★ Stars: 1317
 
 [Open repository](https://github.com/omnivore-app/omnivore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1317 | 46 | 
 | 2023-03-27 | 1311 | 45 | 
 | 2023-03-25 | 1300 | 45 | 
 | 2023-03-24 | 1294 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1161 | 41 | 
 | 2023-03-01 | 1159 | 41 | 
 | 2023-02-28 | 1145 | 41 | 
-| 2023-02-26 | 1132 | 40 | 
 

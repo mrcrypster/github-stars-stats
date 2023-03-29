@@ -1,10 +1,10 @@
 # ocsf/ocsf-schema - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 51
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/ocsf/ocsf-schema)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 391 | 51 | 
 | 2023-03-27 | 390 | 51 | 
 | 2023-03-26 | 390 | 51 | 
 | 2023-03-24 | 390 | 51 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 388 | 47 | 
 | 2023-03-01 | 387 | 47 | 
 | 2023-02-27 | 386 | 47 | 
-| 2023-02-26 | 386 | 47 | 
 

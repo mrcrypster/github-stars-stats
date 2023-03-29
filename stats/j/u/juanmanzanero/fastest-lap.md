@@ -1,6 +1,6 @@
 # juanmanzanero/fastest-lap - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 473 | 35 | 
 | 2023-03-27 | 473 | 35 | 
 | 2023-03-25 | 471 | 35 | 
 | 2023-03-24 | 471 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 462 | 35 | 
 | 2023-03-01 | 459 | 35 | 
 | 2023-02-28 | 451 | 35 | 
-| 2023-02-26 | 447 | 35 | 
 

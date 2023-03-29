@@ -1,8 +1,8 @@
 # microservices-march/platform - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 34
+☋ Forks: 36
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | - | 36 | 
 | 2023-03-27 | - | 34 | 
 | 2023-03-26 | - | 31 | 
 | 2023-03-25 | - | 25 | 

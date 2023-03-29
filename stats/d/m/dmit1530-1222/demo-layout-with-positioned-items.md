@@ -1,6 +1,6 @@
 # dmit1530-1222/demo-layout-with-positioned-items - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | - | 31 | 
 | 2023-03-27 | - | 31 | 
 | 2023-03-26 | - | 31 | 
 | 2023-03-24 | - | 31 | 

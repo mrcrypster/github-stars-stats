@@ -1,10 +1,10 @@
 # sudoskys/StableDiffusionBook - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 66
 
-★ Stars: 896
+★ Stars: 907
 
 [Open repository](https://github.com/sudoskys/StableDiffusionBook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 907 | 66 | 
 | 2023-03-27 | 896 | 66 | 
 | 2023-03-26 | 888 | 65 | 
 | 2023-03-25 | 880 | 64 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 776 | 56 | 
 | 2023-02-28 | 774 | 56 | 
 | 2023-02-27 | 770 | 55 | 
-| 2023-02-26 | 763 | 55 | 
 

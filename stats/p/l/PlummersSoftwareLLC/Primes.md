@@ -1,10 +1,10 @@
 # PlummersSoftwareLLC/Primes - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 509
+☋ Forks: 510
 
-★ Stars: 1994
+★ Stars: 1995
 
 [Open repository](https://github.com/PlummersSoftwareLLC/Primes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1995 | 510 | 
 | 2023-03-27 | 1994 | 509 | 
 | 2023-03-25 | 1993 | 509 | 
 | 2023-03-24 | 1991 | 509 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1984 | 504 | 
 | 2023-03-01 | 1984 | 504 | 
 | 2023-02-27 | 1983 | 504 | 
-| 2023-02-26 | 1981 | 504 | 
 

@@ -1,10 +1,10 @@
 # wolfwood/navcaps - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/wolfwood/navcaps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 32 | - | 
 | 2023-03-26 | 31 | - | 
 | 2023-03-25 | 31 | - | 
 | 2023-03-24 | 31 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 31 | - | 
 | 2023-02-28 | 31 | - | 
 | 2023-02-27 | 31 | - | 
-| 2023-02-26 | 31 | - | 
 

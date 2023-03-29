@@ -1,10 +1,10 @@
 # neverlosecc/source2sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 10
+☋ Forks: 13
 
-★ Stars: 39
+★ Stars: 47
 
 [Open repository](https://github.com/neverlosecc/source2sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 47 | 13 | 
 | 2023-03-27 | 39 | 10 | 
 | 2023-03-26 | 37 | 8 | 
 

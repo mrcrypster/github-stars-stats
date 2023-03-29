@@ -1,6 +1,6 @@
 # hypebright/async_shiny - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 13 | 1 | 
 | 2023-03-26 | 13 | 1 | 
 | 2023-03-25 | 13 | 1 | 
 | 2023-03-24 | 13 | 1 | 

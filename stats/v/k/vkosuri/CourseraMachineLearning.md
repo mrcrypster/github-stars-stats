@@ -1,6 +1,6 @@
 # vkosuri/CourseraMachineLearning - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 353 | 199 | 
 | 2023-03-27 | 353 | 199 | 
 | 2023-03-25 | 352 | 199 | 
 | 2023-03-24 | 352 | 198 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 349 | 196 | 
 | 2023-03-01 | 348 | 196 | 
 | 2023-02-27 | 348 | 195 | 
-| 2023-02-26 | 346 | 195 | 
 

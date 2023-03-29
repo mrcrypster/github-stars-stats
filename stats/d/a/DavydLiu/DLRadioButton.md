@@ -1,6 +1,6 @@
 # DavydLiu/DLRadioButton - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 928 | 194 | 
 | 2023-03-27 | 928 | 194 | 
 | 2023-03-26 | 928 | 194 | 
 | 2023-03-24 | 928 | 194 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 926 | 194 | 
 | 2023-02-28 | 926 | 195 | 
 | 2023-02-27 | 926 | 195 | 
-| 2023-02-26 | 926 | 195 | 
 

@@ -1,10 +1,10 @@
 # ORCx41/EtwSessionHijacking - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 13
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/ORCx41/EtwSessionHijacking)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 94 | 13 | 
 | 2023-03-27 | 93 | 13 | 
 | 2023-03-26 | 93 | 13 | 
 | 2023-03-24 | 93 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 93 | 13 | 
 | 2023-02-28 | 93 | 13 | 
 | 2023-02-27 | 93 | 13 | 
-| 2023-02-26 | 93 | 13 | 
 

@@ -1,6 +1,6 @@
 # hundredblocks/large-model-parallelism - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 75 | 4 | 
 | 2023-03-27 | 75 | 4 | 
 | 2023-03-25 | 75 | 4 | 
 | 2023-03-24 | 74 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 72 | 4 | 
 | 2023-03-01 | 72 | 4 | 
 | 2023-02-27 | 69 | 4 | 
-| 2023-02-26 | 66 | 4 | 
 

@@ -1,8 +1,8 @@
 # rumeysakdogan/AWS_DevOps_Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 193
+☋ Forks: 194
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 77 | 194 | 
 | 2023-03-27 | 77 | 193 | 
 | 2023-03-25 | 77 | 192 | 
 | 2023-03-24 | 77 | 191 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 70 | 186 | 
 | 2023-02-28 | 70 | 186 | 
 | 2023-02-27 | 70 | 186 | 
-| 2023-02-26 | 70 | 185 | 
 

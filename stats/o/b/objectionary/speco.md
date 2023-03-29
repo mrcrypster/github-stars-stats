@@ -1,10 +1,10 @@
 # objectionary/speco - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/objectionary/speco)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4 | 4 | 
 | 2023-03-27 | 3 | 4 | 
 | 2023-03-26 | 3 | 4 | 
 | 2023-03-25 | 3 | 4 | 

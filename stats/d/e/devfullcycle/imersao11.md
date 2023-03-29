@@ -1,10 +1,10 @@
 # devfullcycle/imersao11 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/devfullcycle/imersao11)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 109 | 105 | 
 | 2023-03-26 | 108 | 104 | 
 | 2023-03-25 | 109 | 104 | 
 | 2023-03-24 | 109 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 109 | 104 | 
 | 2023-02-28 | 109 | 105 | 
 | 2023-02-27 | 109 | 105 | 
-| 2023-02-26 | 109 | 105 | 
 

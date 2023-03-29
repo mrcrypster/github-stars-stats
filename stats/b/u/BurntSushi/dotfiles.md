@@ -1,10 +1,10 @@
 # BurntSushi/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/BurntSushi/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 118 | 6 | 
 | 2023-03-27 | 117 | 6 | 
 | 2023-03-25 | 117 | 6 | 
 | 2023-03-24 | 117 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 116 | 6 | 
 | 2023-03-01 | 116 | 6 | 
 | 2023-02-28 | 116 | 6 | 
-| 2023-02-26 | 116 | 6 | 
 

@@ -1,10 +1,10 @@
 # lightning/bolts - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 463
 
-★ Stars: 1828
+★ Stars: 1829
 
 [Open repository](https://github.com/lightning/bolts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1829 | 463 | 
 | 2023-03-27 | 1828 | 463 | 
 | 2023-03-26 | 1828 | 464 | 
 | 2023-03-25 | 1827 | 464 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1813 | 460 | 
 | 2023-02-28 | 1812 | 460 | 
 | 2023-02-27 | 1810 | 460 | 
-| 2023-02-26 | 1810 | 460 | 
 

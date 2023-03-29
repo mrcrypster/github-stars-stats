@@ -1,10 +1,10 @@
 # urwithajit9/ClaMP - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 28
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/urwithajit9/ClaMP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 67 | 28 | 
 | 2023-03-27 | 66 | 28 | 
 | 2023-03-25 | 66 | 28 | 
 | 2023-03-24 | 66 | 28 | 

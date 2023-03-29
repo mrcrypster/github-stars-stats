@@ -1,6 +1,6 @@
 # LSH9832/edgeyolo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 217 | 28 | 
 | 2023-03-26 | 217 | 28 | 
 | 2023-03-25 | 217 | 28 | 
 | 2023-03-24 | 216 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 187 | 26 | 
 | 2023-03-01 | 173 | 25 | 
 | 2023-02-27 | 167 | 24 | 
-| 2023-02-26 | 161 | 24 | 
 

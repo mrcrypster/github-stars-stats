@@ -1,10 +1,10 @@
 # CedricGuillemet/ImGuizmo - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 631
+☋ Forks: 635
 
-★ Stars: 2406
+★ Stars: 2410
 
 [Open repository](https://github.com/CedricGuillemet/ImGuizmo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2410 | 635 | 
 | 2023-03-26 | 2406 | 631 | 
 | 2023-03-25 | 2404 | 630 | 
 | 2023-03-24 | 2400 | 631 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 2361 | 610 | 
 | 2023-03-01 | 2361 | 609 | 
 | 2023-02-27 | 2360 | 609 | 
-| 2023-02-26 | 2356 | 608 | 
 

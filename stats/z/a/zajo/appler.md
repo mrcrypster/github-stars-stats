@@ -1,10 +1,10 @@
 # zajo/appler - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 198
+★ Stars: 200
 
 [Open repository](https://github.com/zajo/appler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 200 | 2 | 
 | 2023-03-27 | 198 | 2 | 
 | 2023-03-25 | 197 | 2 | 
 | 2023-03-24 | 196 | 2 | 

@@ -1,10 +1,10 @@
 # IfcOpenShell/IfcOpenShell - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 554
+☋ Forks: 553
 
-★ Stars: 1207
+★ Stars: 1208
 
 [Open repository](https://github.com/IfcOpenShell/IfcOpenShell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1208 | 553 | 
 | 2023-03-26 | 1207 | 554 | 
 | 2023-03-25 | 1205 | 552 | 
 | 2023-03-24 | 1205 | 551 | 

@@ -1,6 +1,6 @@
 # loren/local_reth - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 49 | 3 | 
 | 2023-03-27 | 49 | 3 | 
 | 2023-03-25 | 48 | 3 | 
 | 2023-03-24 | 48 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 47 | 2 | 
 | 2023-02-28 | 47 | 2 | 
 | 2023-02-27 | 47 | 2 | 
-| 2023-02-26 | 47 | 2 | 
 

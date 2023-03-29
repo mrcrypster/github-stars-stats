@@ -1,6 +1,6 @@
 # hetu-script/hetu-script - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 180 | 18 | 
 | 2023-03-26 | 180 | 18 | 
 | 2023-03-25 | 180 | 18 | 
 | 2023-03-24 | 180 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 177 | 18 | 
 | 2023-02-28 | 177 | 18 | 
 | 2023-02-27 | 177 | 18 | 
-| 2023-02-26 | 177 | 18 | 
 

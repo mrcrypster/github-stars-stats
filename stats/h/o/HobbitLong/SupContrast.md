@@ -1,8 +1,8 @@
 # HobbitLong/SupContrast - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 439
+☋ Forks: 440
 
 ★ Stars: 2263
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2263 | 440 | 
 | 2023-03-26 | 2263 | 439 | 
 | 2023-03-25 | 2262 | 438 | 
 | 2023-03-24 | 2260 | 438 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 2220 | 432 | 
 | 2023-03-01 | 2218 | 432 | 
 | 2023-02-28 | 2217 | 432 | 
-| 2023-02-27 | 2213 | 431 | 
 

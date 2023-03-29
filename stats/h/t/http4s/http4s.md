@@ -1,8 +1,8 @@
 # http4s/http4s - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 759
+☋ Forks: 760
 
 ★ Stars: 2394
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2394 | 760 | 
 | 2023-03-27 | 2394 | 759 | 
 | 2023-03-25 | 2393 | 758 | 
 | 2023-03-24 | 2392 | 758 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2381 | 755 | 
 | 2023-02-28 | 2381 | 755 | 
 | 2023-02-27 | 2379 | 754 | 
-| 2023-02-26 | 2379 | 754 | 
 

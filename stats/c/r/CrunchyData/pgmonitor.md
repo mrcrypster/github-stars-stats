@@ -1,10 +1,10 @@
 # CrunchyData/pgmonitor - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 74
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/CrunchyData/pgmonitor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 405 | 74 | 
 | 2023-03-27 | 404 | 74 | 
 | 2023-03-26 | 404 | 74 | 
 | 2023-03-24 | 404 | 74 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 402 | 73 | 
 | 2023-02-28 | 402 | 73 | 
 | 2023-02-27 | 402 | 73 | 
-| 2023-02-26 | 402 | 73 | 
 

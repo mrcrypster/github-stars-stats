@@ -1,10 +1,10 @@
 # AleoHQ/snarkOS - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 654
 
-★ Stars: 2368
+★ Stars: 2370
 
 [Open repository](https://github.com/AleoHQ/snarkOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2370 | 654 | 
 | 2023-03-27 | 2368 | 654 | 
 | 2023-03-25 | 2368 | 654 | 
 | 2023-03-24 | 2368 | 654 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2350 | 649 | 
 | 2023-03-01 | 2351 | 649 | 
 | 2023-02-27 | 2351 | 649 | 
-| 2023-02-26 | 2348 | 646 | 
 

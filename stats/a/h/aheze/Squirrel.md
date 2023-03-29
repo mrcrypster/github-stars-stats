@@ -1,6 +1,6 @@
 # aheze/Squirrel - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 507 | 19 | 
 | 2023-03-26 | 507 | 19 | 
 | 2023-03-25 | 506 | 19 | 
 | 2023-03-23 | 505 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 496 | 18 | 
 | 2023-03-01 | 495 | 18 | 
 | 2023-02-28 | 495 | 17 | 
-| 2023-02-26 | 492 | 17 | 
 

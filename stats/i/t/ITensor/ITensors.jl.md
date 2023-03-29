@@ -1,6 +1,6 @@
 # ITensor/ITensors.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 353 | 101 | 
 | 2023-03-26 | 353 | 101 | 
 | 2023-03-25 | 352 | 101 | 
 | 2023-03-24 | 352 | 101 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 348 | 100 | 
 | 2023-02-28 | 348 | 100 | 
 | 2023-02-27 | 348 | 100 | 
-| 2023-02-26 | 349 | 100 | 
 

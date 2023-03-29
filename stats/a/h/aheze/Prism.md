@@ -1,6 +1,6 @@
 # aheze/Prism - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 743 | 25 | 
 | 2023-03-26 | 743 | 25 | 
 | 2023-03-25 | 743 | 25 | 
 | 2023-03-23 | 741 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 728 | 25 | 
 | 2023-02-28 | 727 | 25 | 
 | 2023-02-27 | 727 | 25 | 
-| 2023-02-26 | 727 | 25 | 
 

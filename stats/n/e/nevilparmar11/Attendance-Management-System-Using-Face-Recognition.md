@@ -1,10 +1,10 @@
 # nevilparmar11/Attendance-Management-System-Using-Face-Recognition - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 105
+☋ Forks: 106
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/nevilparmar11/Attendance-Management-System-Using-Face-Recognition)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 174 | 106 | 
 | 2023-03-27 | 173 | 105 | 
 | 2023-03-26 | 173 | 104 | 
 | 2023-03-24 | 173 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 163 | 98 | 
 | 2023-03-01 | 162 | 98 | 
 | 2023-02-27 | 162 | 98 | 
-| 2023-02-26 | 162 | 98 | 
 

@@ -1,6 +1,6 @@
 # kleok/FLOODPY - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 107 | 21 | 
 | 2023-03-26 | 107 | 21 | 
 | 2023-03-25 | 107 | 20 | 
 | 2023-03-23 | 107 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 107 | 20 | 
 | 2023-03-01 | 107 | 20 | 
 | 2023-02-28 | 105 | 20 | 
-| 2023-02-27 | 105 | 20 | 
 

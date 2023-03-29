@@ -1,6 +1,6 @@
 # abstractart/how-to-develop-perfect-crud - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 200 | 9 | 
 | 2023-03-26 | 200 | 9 | 
 | 2023-03-25 | 199 | 9 | 
 | 2023-03-24 | 199 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 194 | 8 | 
 | 2023-03-01 | 194 | 8 | 
 | 2023-02-28 | 193 | 8 | 
-| 2023-02-26 | 192 | 8 | 
 

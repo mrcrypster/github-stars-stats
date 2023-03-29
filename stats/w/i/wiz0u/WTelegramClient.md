@@ -1,10 +1,10 @@
 # wiz0u/WTelegramClient - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 101
 
-★ Stars: 509
+★ Stars: 510
 
 [Open repository](https://github.com/wiz0u/WTelegramClient)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 510 | 101 | 
 | 2023-03-27 | 509 | 101 | 
 | 2023-03-26 | 510 | 101 | 
 | 2023-03-24 | 511 | 101 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 489 | 98 | 
 | 2023-03-01 | 487 | 98 | 
 | 2023-02-27 | 487 | 98 | 
-| 2023-02-26 | 485 | 98 | 
 

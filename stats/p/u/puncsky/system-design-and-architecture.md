@@ -1,10 +1,10 @@
 # puncsky/system-design-and-architecture - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 477
 
-★ Stars: 1974
+★ Stars: 1977
 
 [Open repository](https://github.com/puncsky/system-design-and-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1977 | 477 | 
 | 2023-03-26 | 1974 | 477 | 
 | 2023-03-25 | 1974 | 477 | 
 | 2023-03-24 | 1974 | 476 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 1942 | 469 | 
 | 2023-03-01 | 1942 | 469 | 
 | 2023-02-28 | 1938 | 468 | 
-| 2023-02-26 | 1937 | 468 | 
 

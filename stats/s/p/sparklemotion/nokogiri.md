@@ -1,10 +1,10 @@
 # sparklemotion/nokogiri - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 905
 
-★ Stars: 5996
+★ Stars: 5997
 
 [Open repository](https://github.com/sparklemotion/nokogiri)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5997 | 905 | 
 | 2023-03-27 | 5996 | 905 | 
 | 2023-03-25 | 5994 | 905 | 
 | 2023-03-24 | 5992 | 906 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 5980 | 907 | 
 | 2023-03-01 | 5980 | 907 | 
 | 2023-02-27 | 5979 | 907 | 
-| 2023-02-26 | 5980 | 906 | 
 

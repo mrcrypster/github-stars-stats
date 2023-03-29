@@ -1,6 +1,6 @@
 # dhvitOP/AnimeEZ - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 82 | 40 | 
 | 2023-03-26 | 82 | 40 | 
 | 2023-03-25 | 82 | 40 | 
 | 2023-03-24 | 83 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 80 | 38 | 
 | 2023-02-28 | 80 | 38 | 
 | 2023-02-27 | 80 | 38 | 
-| 2023-02-26 | 79 | 38 | 
 

@@ -1,6 +1,6 @@
 # parksb/papers-i-love - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 250 | 1 | 
 | 2023-03-27 | 250 | 1 | 
 | 2023-03-25 | 250 | 1 | 
 | 2023-03-24 | 249 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 248 | 1 | 
 | 2023-03-01 | 248 | 1 | 
 | 2023-02-27 | 248 | 1 | 
-| 2023-02-26 | 247 | 1 | 
 

@@ -1,6 +1,6 @@
 # kampersanda/goodname - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 120 | 3 | 
 | 2023-03-27 | 120 | 3 | 
 | 2023-03-26 | 120 | 3 | 
 | 2023-03-25 | 120 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 118 | 3 | 
 | 2023-02-28 | 118 | 3 | 
 | 2023-02-27 | 118 | 3 | 
-| 2023-02-26 | 117 | 3 | 
 

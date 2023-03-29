@@ -1,10 +1,10 @@
 # dromara/ChatGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 98
+☋ Forks: 101
 
-★ Stars: 539
+★ Stars: 552
 
 [Open repository](https://github.com/dromara/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 552 | 101 | 
 | 2023-03-27 | 539 | 98 | 
 | 2023-03-25 | 532 | 97 | 
 | 2023-03-24 | 527 | 98 | 

@@ -1,6 +1,6 @@
 # TrevorFrench/R-for-Data-Analysis - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 44 | 10 | 
 | 2023-03-27 | 44 | 10 | 
 | 2023-03-25 | 44 | 10 | 
 | 2023-03-24 | 44 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 45 | 10 | 
 | 2023-03-01 | 45 | 10 | 
 | 2023-02-28 | 45 | 10 | 
-| 2023-02-27 | 45 | 10 | 
 

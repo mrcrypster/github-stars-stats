@@ -1,10 +1,10 @@
 # ThalesGroup/udp-offload-engine - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 3
 
 [Open repository](https://github.com/ThalesGroup/udp-offload-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3 | 1 | 
 | 2023-03-27 | 1 | 1 | 
 | 2023-03-26 | 1 | 1 | 
 | 2023-03-24 | 1 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1 | 1 | 
 | 2023-02-28 | 1 | 1 | 
 | 2023-02-27 | 1 | 1 | 
-| 2023-02-26 | 1 | 1 | 
 

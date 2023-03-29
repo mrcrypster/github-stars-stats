@@ -1,6 +1,6 @@
 # org-roam/org-roam - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 433
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4905 | 433 | 
 | 2023-03-27 | 4905 | 433 | 
 | 2023-03-26 | 4903 | 433 | 
 | 2023-03-25 | 4898 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 4856 | 431 | 
 | 2023-02-28 | 4855 | 431 | 
 | 2023-02-27 | 4854 | 430 | 
-| 2023-02-26 | 4849 | 429 | 
 

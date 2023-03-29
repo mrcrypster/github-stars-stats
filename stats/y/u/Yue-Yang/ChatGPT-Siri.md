@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 28
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 2066
+★ Stars: 2094
 
 [Open repository](https://github.com/Yue-Yang/ChatGPT-Siri)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 2066 | 68 | 
+| 2023-03-28 | 2094 | 69 | 
 | 2023-03-27 | 2056 | 68 | 
 | 2023-03-25 | 1916 | 63 | 
 | 2023-03-24 | 1865 | 61 | 

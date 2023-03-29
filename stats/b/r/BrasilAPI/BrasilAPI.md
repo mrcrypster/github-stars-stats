@@ -1,10 +1,10 @@
 # BrasilAPI/BrasilAPI - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 434
 
-★ Stars: 5730
+★ Stars: 5737
 
 [Open repository](https://github.com/BrasilAPI/BrasilAPI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5737 | 434 | 
 | 2023-03-26 | 5730 | 434 | 
 | 2023-03-25 | 5726 | 432 | 
 | 2023-03-23 | 5722 | 432 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 5636 | 431 | 
 | 2023-03-01 | 5633 | 431 | 
 | 2023-02-27 | 5622 | 430 | 
-| 2023-02-26 | 5616 | 429 | 
 

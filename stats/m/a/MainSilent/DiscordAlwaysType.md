@@ -1,6 +1,6 @@
 # MainSilent/DiscordAlwaysType - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 52 | 16 | 
 | 2023-03-26 | 52 | 16 | 
 | 2023-03-25 | 52 | 16 | 
 | 2023-03-24 | 52 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 52 | 18 | 
 | 2023-03-01 | 52 | 18 | 
 | 2023-02-28 | 52 | 18 | 
-| 2023-02-27 | 52 | 19 | 
 

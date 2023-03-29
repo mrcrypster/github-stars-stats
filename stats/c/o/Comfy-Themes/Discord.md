@@ -1,8 +1,8 @@
 # Comfy-Themes/Discord - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 110
+☋ Forks: 112
 
 ★ Stars: 359
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 359 | 112 | 
 | 2023-03-27 | 359 | 110 | 
 | 2023-03-26 | 359 | 110 | 
 | 2023-03-24 | 358 | 110 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 348 | 87 | 
 | 2023-03-01 | 348 | 86 | 
 | 2023-02-28 | 348 | 86 | 
-| 2023-02-27 | 347 | 86 | 
 

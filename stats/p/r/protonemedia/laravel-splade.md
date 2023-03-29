@@ -1,10 +1,10 @@
 # protonemedia/laravel-splade - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 75
 
-★ Stars: 899
+★ Stars: 901
 
 [Open repository](https://github.com/protonemedia/laravel-splade)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 901 | 75 | 
 | 2023-03-26 | 899 | 75 | 
 | 2023-03-25 | 898 | 75 | 
 | 2023-03-23 | 896 | 74 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 861 | 68 | 
 | 2023-03-01 | 858 | 68 | 
 | 2023-02-28 | 854 | 68 | 
-| 2023-02-26 | 850 | 68 | 
 

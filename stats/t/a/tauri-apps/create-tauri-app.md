@@ -1,10 +1,10 @@
 # tauri-apps/create-tauri-app - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 52
 
-★ Stars: 523
+★ Stars: 524
 
 [Open repository](https://github.com/tauri-apps/create-tauri-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 524 | 52 | 
 | 2023-03-26 | 523 | 52 | 
 | 2023-03-25 | 521 | 52 | 
 | 2023-03-24 | 519 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 484 | 47 | 
 | 2023-02-28 | 482 | 46 | 
 | 2023-02-27 | 479 | 46 | 
-| 2023-02-26 | 475 | 46 | 
 

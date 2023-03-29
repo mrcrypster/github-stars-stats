@@ -1,0 +1,18 @@
+# freefirefuck/ngrok-rdp - stars & forks statistics
+
+Stats updated on Mar 2023, 29
+
+☋ Forks: 11
+
+★ Stars: 0
+
+[Open repository](https://github.com/freefirefuck/ngrok-rdp)
+
+[Open detailed stats for freefirefuck/ngrok-rdp](https://reviewgithub.com/rep/freefirefuck/ngrok-rdp)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-29 | - | 11 | 
+| 2023-03-28 | - | 11 | 
+

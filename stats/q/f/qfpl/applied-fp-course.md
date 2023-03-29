@@ -1,6 +1,6 @@
 # qfpl/applied-fp-course - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 606 | 182 | 
 | 2023-03-27 | 606 | 182 | 
 | 2023-03-26 | 606 | 182 | 
 | 2023-03-25 | 606 | 182 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 605 | 182 | 
 | 2023-03-01 | 604 | 182 | 
 | 2023-02-27 | 604 | 182 | 
-| 2023-02-26 | 604 | 182 | 
 

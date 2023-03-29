@@ -1,10 +1,10 @@
 # Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 170
 
-★ Stars: 389
+★ Stars: 388
 
 [Open repository](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 388 | 170 | 
 | 2023-03-26 | 389 | 170 | 
 | 2023-03-25 | 387 | 170 | 
 | 2023-03-24 | 387 | 170 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 374 | 161 | 
 | 2023-03-01 | 373 | 161 | 
 | 2023-02-28 | 373 | 161 | 
-| 2023-02-26 | 372 | 161 | 
 

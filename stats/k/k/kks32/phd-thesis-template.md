@@ -1,10 +1,10 @@
 # kks32/phd-thesis-template - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 352
+☋ Forks: 353
 
-★ Stars: 726
+★ Stars: 727
 
 [Open repository](https://github.com/kks32/phd-thesis-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 727 | 353 | 
 | 2023-03-26 | 726 | 352 | 
 | 2023-03-25 | 726 | 352 | 
 | 2023-03-24 | 725 | 352 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 721 | 351 | 
 | 2023-03-01 | 720 | 352 | 
 | 2023-02-28 | 720 | 352 | 
-| 2023-02-27 | 720 | 352 | 
 

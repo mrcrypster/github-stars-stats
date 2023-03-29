@@ -1,10 +1,10 @@
 # lzzcd001/MeshDiffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 292
+★ Stars: 311
 
 [Open repository](https://github.com/lzzcd001/MeshDiffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 311 | 15 | 
 | 2023-03-27 | 292 | 14 | 
 | 2023-03-26 | 288 | 14 | 
 | 2023-03-24 | 285 | 12 | 

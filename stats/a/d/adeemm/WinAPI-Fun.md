@@ -1,10 +1,10 @@
 # adeemm/WinAPI-Fun - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
-★ Stars: 446
+★ Stars: 445
 
 [Open repository](https://github.com/adeemm/WinAPI-Fun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 445 | 8 | 
 | 2023-03-27 | 446 | 8 | 
 | 2023-03-26 | 446 | 8 | 
 | 2023-03-24 | 446 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 445 | 8 | 
 | 2023-02-28 | 445 | 8 | 
 | 2023-02-27 | 444 | 8 | 
-| 2023-02-26 | 444 | 8 | 
 

@@ -1,6 +1,6 @@
 # emacs-circe/circe - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 374 | 52 | 
 | 2023-03-26 | 374 | 52 | 
 | 2023-03-25 | 373 | 52 | 
 | 2023-03-23 | 372 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 371 | 52 | 
 | 2023-03-01 | 371 | 52 | 
 | 2023-02-28 | 371 | 52 | 
-| 2023-02-27 | 371 | 52 | 
 

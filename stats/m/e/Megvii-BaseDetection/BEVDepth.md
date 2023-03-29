@@ -1,10 +1,10 @@
 # Megvii-BaseDetection/BEVDepth - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 407
+★ Stars: 411
 
 [Open repository](https://github.com/Megvii-BaseDetection/BEVDepth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 411 | 56 | 
 | 2023-03-26 | 407 | 55 | 
 | 2023-03-25 | 407 | 55 | 
 | 2023-03-23 | 406 | 56 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 386 | 52 | 
 | 2023-03-01 | 385 | 52 | 
 | 2023-02-28 | 384 | 53 | 
-| 2023-02-26 | 384 | 53 | 
 

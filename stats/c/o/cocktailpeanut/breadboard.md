@@ -1,10 +1,10 @@
 # cocktailpeanut/breadboard - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 21
 
-★ Stars: 234
+★ Stars: 237
 
 [Open repository](https://github.com/cocktailpeanut/breadboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 237 | 21 | 
 | 2023-03-26 | 234 | 21 | 
 | 2023-03-25 | 231 | 21 | 
 | 2023-03-24 | 224 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 149 | 8 | 
 | 2023-03-01 | 146 | 8 | 
 | 2023-02-27 | 144 | 8 | 
-| 2023-02-26 | 135 | 8 | 
 

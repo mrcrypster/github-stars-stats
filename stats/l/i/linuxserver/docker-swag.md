@@ -1,6 +1,6 @@
 # linuxserver/docker-swag - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1884 | 203 | 
 | 2023-03-27 | 1884 | 203 | 
 | 2023-03-26 | 1878 | 203 | 
 | 2023-03-25 | 1875 | 202 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1825 | 203 | 
 | 2023-02-28 | 1819 | 201 | 
 | 2023-02-27 | 1818 | 201 | 
-| 2023-02-26 | 1814 | 201 | 
 

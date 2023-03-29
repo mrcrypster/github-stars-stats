@@ -1,10 +1,10 @@
 # remzi-arpacidusseau/ostep-translations - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 392
 
-★ Stars: 2119
+★ Stars: 2121
 
 [Open repository](https://github.com/remzi-arpacidusseau/ostep-translations)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2121 | 392 | 
 | 2023-03-26 | 2119 | 392 | 
 | 2023-03-25 | 2116 | 392 | 
 | 2023-03-24 | 2114 | 392 | 

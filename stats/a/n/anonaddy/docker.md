@@ -1,6 +1,6 @@
 # anonaddy/docker - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 311 | 38 | 
 | 2023-03-26 | 311 | 38 | 
 | 2023-03-25 | 311 | 38 | 
 | 2023-03-24 | 310 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 303 | 37 | 
 | 2023-02-28 | 302 | 37 | 
 | 2023-02-27 | 302 | 37 | 
-| 2023-02-26 | 301 | 37 | 
 

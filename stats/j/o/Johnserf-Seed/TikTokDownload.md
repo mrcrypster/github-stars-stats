@@ -1,10 +1,10 @@
 # Johnserf-Seed/TikTokDownload - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 629
+☋ Forks: 631
 
-★ Stars: 2522
+★ Stars: 2532
 
 [Open repository](https://github.com/Johnserf-Seed/TikTokDownload)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2532 | 631 | 
 | 2023-03-27 | 2522 | 629 | 
 | 2023-03-25 | 2515 | 627 | 
 | 2023-03-24 | 2507 | 627 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2334 | 593 | 
 | 2023-03-01 | 2327 | 592 | 
 | 2023-02-28 | 2313 | 589 | 
-| 2023-02-26 | 2308 | 588 | 
 

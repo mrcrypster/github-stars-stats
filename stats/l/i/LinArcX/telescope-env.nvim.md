@@ -1,6 +1,6 @@
 # LinArcX/telescope-env.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 67 | 2 | 
 | 2023-03-26 | 67 | 2 | 
 | 2023-03-25 | 67 | 2 | 
 | 2023-03-24 | 67 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 66 | 2 | 
 | 2023-03-01 | 66 | 2 | 
 | 2023-02-28 | 66 | 2 | 
-| 2023-02-26 | 66 | 2 | 
 

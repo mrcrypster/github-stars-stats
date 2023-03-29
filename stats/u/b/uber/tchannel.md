@@ -1,10 +1,10 @@
 # uber/tchannel - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 129
 
-★ Stars: 1156
+★ Stars: 1155
 
 [Open repository](https://github.com/uber/tchannel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1155 | 129 | 
 | 2023-03-27 | 1156 | 129 | 
 | 2023-03-25 | 1156 | 129 | 
 | 2023-03-24 | 1156 | 129 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1156 | 129 | 
 | 2023-02-28 | 1156 | 129 | 
 | 2023-02-27 | 1156 | 129 | 
-| 2023-02-26 | 1156 | 129 | 
 

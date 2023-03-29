@@ -1,10 +1,10 @@
 # lutris/lutris - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 601
+☋ Forks: 600
 
-★ Stars: 6317
+★ Stars: 6319
 
 [Open repository](https://github.com/lutris/lutris)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6319 | 600 | 
 | 2023-03-27 | 6317 | 601 | 
 | 2023-03-26 | 6315 | 598 | 
 | 2023-03-25 | 6308 | 599 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 6250 | 600 | 
 | 2023-02-28 | 6246 | 599 | 
 | 2023-02-27 | 6240 | 598 | 
-| 2023-02-26 | 6237 | 599 | 
 

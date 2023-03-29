@@ -1,10 +1,10 @@
 # WalletConnect/web3modal - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1099
+☋ Forks: 1104
 
-★ Stars: 4060
+★ Stars: 4064
 
 [Open repository](https://github.com/WalletConnect/web3modal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4064 | 1104 | 
 | 2023-03-27 | 4060 | 1099 | 
 | 2023-03-25 | 4056 | 1098 | 
 | 2023-03-24 | 4057 | 1099 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 3994 | 1061 | 
 | 2023-02-28 | 3992 | 1056 | 
 | 2023-02-27 | 3988 | 1054 | 
-| 2023-02-26 | 3986 | 1050 | 
 

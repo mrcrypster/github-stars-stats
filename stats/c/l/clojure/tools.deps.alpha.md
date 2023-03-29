@@ -1,8 +1,8 @@
 # clojure/tools.deps.alpha - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 434
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 434 | 74 | 
 | 2023-03-26 | 434 | 73 | 
 | 2023-03-25 | 434 | 73 | 
 | 2023-03-24 | 434 | 73 | 

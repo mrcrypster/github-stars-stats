@@ -1,8 +1,8 @@
 # Warcraft-GoA-Development-Team/Warcraft-Guardians-of-Azeroth-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 51 | 34 | 
 | 2023-03-27 | 51 | 33 | 
 | 2023-03-26 | 51 | 30 | 
 

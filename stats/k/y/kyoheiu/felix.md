@@ -1,10 +1,10 @@
 # kyoheiu/felix - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 17
 
-★ Stars: 397
+★ Stars: 399
 
 [Open repository](https://github.com/kyoheiu/felix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 399 | 17 | 
 | 2023-03-27 | 397 | 17 | 
 | 2023-03-26 | 397 | 17 | 
 | 2023-03-24 | 394 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 382 | 18 | 
 | 2023-02-28 | 380 | 18 | 
 | 2023-02-27 | 379 | 18 | 
-| 2023-02-26 | 376 | 18 | 
 

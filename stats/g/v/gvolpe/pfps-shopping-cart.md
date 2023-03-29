@@ -1,10 +1,10 @@
 # gvolpe/pfps-shopping-cart - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 147
 
-★ Stars: 450
+★ Stars: 452
 
 [Open repository](https://github.com/gvolpe/pfps-shopping-cart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 452 | 147 | 
 | 2023-03-27 | 450 | 147 | 
 | 2023-03-25 | 450 | 147 | 
 | 2023-03-24 | 450 | 147 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 446 | 145 | 
 | 2023-02-28 | 447 | 144 | 
 | 2023-02-27 | 447 | 144 | 
-| 2023-02-26 | 447 | 144 | 
 

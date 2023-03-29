@@ -1,10 +1,10 @@
 # ohmyform/ohmyform - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 312
+☋ Forks: 313
 
-★ Stars: 2243
+★ Stars: 2244
 
 [Open repository](https://github.com/ohmyform/ohmyform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2244 | 313 | 
 | 2023-03-27 | 2243 | 312 | 
 | 2023-03-26 | 2239 | 312 | 
 | 2023-03-24 | 2240 | 311 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2209 | 306 | 
 | 2023-03-01 | 2208 | 305 | 
 | 2023-02-28 | 2206 | 306 | 
-| 2023-02-26 | 2203 | 306 | 
 

@@ -1,10 +1,10 @@
 # AbdesamedBendjeddou/Rusty-CS - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 35
 
-★ Stars: 667
+★ Stars: 670
 
 [Open repository](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 670 | 35 | 
 | 2023-03-27 | 667 | 35 | 
 | 2023-03-26 | 667 | 35 | 
 | 2023-03-25 | 667 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 658 | 33 | 
 | 2023-03-01 | 658 | 33 | 
 | 2023-02-28 | 655 | 33 | 
-| 2023-02-26 | 655 | 33 | 
 

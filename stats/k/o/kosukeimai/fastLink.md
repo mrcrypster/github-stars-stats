@@ -1,6 +1,6 @@
 # kosukeimai/fastLink - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 224 | 41 | 
 | 2023-03-27 | 224 | 41 | 
 | 2023-03-25 | 224 | 41 | 
 | 2023-03-24 | 224 | 41 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 221 | 40 | 
 | 2023-02-28 | 221 | 40 | 
 | 2023-02-27 | 220 | 40 | 
-| 2023-02-26 | 220 | 40 | 
 

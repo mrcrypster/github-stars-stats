@@ -1,10 +1,10 @@
 # is-a-dev/register - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 3379
+☋ Forks: 3385
 
-★ Stars: 1940
+★ Stars: 1946
 
 [Open repository](https://github.com/is-a-dev/register)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1946 | 3385 | 
 | 2023-03-26 | 1940 | 3379 | 
 | 2023-03-25 | 1939 | 3368 | 
 | 2023-03-24 | 1936 | 3366 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 1894 | 3306 | 
 | 2023-03-01 | 1891 | 3299 | 
 | 2023-02-27 | 1886 | 3282 | 
-| 2023-02-26 | 1882 | 3267 | 
 

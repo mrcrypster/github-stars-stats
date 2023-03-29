@@ -1,10 +1,10 @@
 # rafaelbreno/zig-os - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/rafaelbreno/zig-os)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 18 | 2 | 
 | 2023-03-26 | 17 | 2 | 
 | 2023-03-25 | 17 | 2 | 
 | 2023-03-24 | 16 | 2 | 

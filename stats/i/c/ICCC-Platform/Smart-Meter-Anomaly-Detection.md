@@ -1,6 +1,6 @@
 # ICCC-Platform/Smart-Meter-Anomaly-Detection - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 18 | 18 | 
 | 2023-03-26 | 18 | 18 | 
 | 2023-03-25 | 18 | 18 | 
 | 2023-03-24 | 18 | 18 | 

@@ -1,10 +1,10 @@
 # damo-vilab/composer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 34
 
-★ Stars: 1206
+★ Stars: 1217
 
 [Open repository](https://github.com/damo-vilab/composer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1217 | 34 | 
 | 2023-03-27 | 1206 | 34 | 
 | 2023-03-26 | 1194 | 34 | 
 | 2023-03-25 | 1191 | 34 | 

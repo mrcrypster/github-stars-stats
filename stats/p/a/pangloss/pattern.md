@@ -1,6 +1,6 @@
 # pangloss/pattern - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 84 | 2 | 
 | 2023-03-26 | 84 | 2 | 
 | 2023-03-25 | 84 | 2 | 
 | 2023-03-24 | 83 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 83 | 2 | 
 | 2023-02-28 | 83 | 2 | 
 | 2023-02-27 | 83 | 2 | 
-| 2023-02-26 | 83 | 2 | 
 

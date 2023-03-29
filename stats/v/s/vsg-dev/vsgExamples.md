@@ -1,6 +1,6 @@
 # vsg-dev/vsgExamples - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 111 | 42 | 
 | 2023-03-27 | 111 | 42 | 
 | 2023-03-25 | 111 | 42 | 
 | 2023-03-24 | 111 | 42 | 

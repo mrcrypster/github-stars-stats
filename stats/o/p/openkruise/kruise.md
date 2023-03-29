@@ -1,10 +1,10 @@
 # openkruise/kruise - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 609
+☋ Forks: 611
 
-★ Stars: 3723
+★ Stars: 3724
 
 [Open repository](https://github.com/openkruise/kruise)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3724 | 611 | 
 | 2023-03-26 | 3723 | 609 | 
 | 2023-03-25 | 3722 | 614 | 
 | 2023-03-24 | 3719 | 614 | 

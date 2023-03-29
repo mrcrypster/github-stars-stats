@@ -1,6 +1,6 @@
 # SciML/SimpleNonlinearSolve.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 36 | 10 | 
 | 2023-03-26 | 36 | 10 | 
 | 2023-03-25 | 35 | 10 | 
 | 2023-03-24 | 35 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 33 | 7 | 
 | 2023-03-01 | 33 | 7 | 
 | 2023-02-28 | 33 | 7 | 
-| 2023-02-26 | 33 | 7 | 
 

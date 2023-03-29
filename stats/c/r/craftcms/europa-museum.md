@@ -1,10 +1,10 @@
 # craftcms/europa-museum - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/craftcms/europa-museum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 32 | 23 | 
 | 2023-03-26 | 31 | 22 | 
 | 2023-03-25 | 31 | 22 | 
 | 2023-03-23 | 31 | 22 | 

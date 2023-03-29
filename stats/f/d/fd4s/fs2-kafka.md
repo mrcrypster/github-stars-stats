@@ -1,6 +1,6 @@
 # fd4s/fs2-kafka - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 83
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 261 | 83 | 
 | 2023-03-27 | 261 | 83 | 
 

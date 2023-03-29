@@ -1,10 +1,10 @@
 # firezone/wireguardex - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 7
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/firezone/wireguardex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 47 | 7 | 
 | 2023-03-27 | 46 | 7 | 
 | 2023-03-25 | 46 | 7 | 
 | 2023-03-24 | 45 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 40 | 5 | 
 | 2023-03-01 | 40 | 5 | 
 | 2023-02-27 | 40 | 5 | 
-| 2023-02-26 | 40 | 5 | 
 

@@ -1,6 +1,6 @@
 # mayankrajendrat/Cloudinary-Media-Upload - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6 | 103 | 
 | 2023-03-27 | 6 | 103 | 
 | 2023-03-26 | 6 | 79 | 
 | 2023-03-24 | 6 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 5 | 75 | 
 | 2023-02-28 | 5 | 76 | 
 | 2023-02-27 | 5 | 76 | 
-| 2023-02-26 | 5 | 76 | 
 

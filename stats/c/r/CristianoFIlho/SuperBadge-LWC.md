@@ -1,10 +1,10 @@
 # CristianoFIlho/SuperBadge-LWC - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 14
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/CristianoFIlho/SuperBadge-LWC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2 | 14 | 
 | 2023-03-26 | 1 | 14 | 
 | 2023-03-25 | 1 | 14 | 
 | 2023-03-23 | 1 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1 | 9 | 
 | 2023-02-28 | 1 | 9 | 
 | 2023-02-27 | 1 | 9 | 
-| 2023-02-26 | 1 | 9 | 
 

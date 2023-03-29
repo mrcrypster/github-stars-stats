@@ -1,10 +1,10 @@
 # deforum-art/sd-webui-modelscope-text2video - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 288
+★ Stars: 300
 
 [Open repository](https://github.com/deforum-art/sd-webui-modelscope-text2video)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 300 | 18 | 
 | 2023-03-27 | 288 | 16 | 
 | 2023-03-25 | 277 | 15 | 
 | 2023-03-24 | 259 | 12 | 

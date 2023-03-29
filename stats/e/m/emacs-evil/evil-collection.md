@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 28
 
 ☋ Forks: 227
 
-★ Stars: 1033
+★ Stars: 1034
 
 [Open repository](https://github.com/emacs-evil/evil-collection)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 1033 | 227 | 
+| 2023-03-28 | 1034 | 227 | 
 | 2023-03-26 | 1033 | 226 | 
 | 2023-03-25 | 1032 | 226 | 
 | 2023-03-23 | 1032 | 226 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 1027 | 226 | 
 | 2023-03-01 | 1027 | 226 | 
 | 2023-02-27 | 1027 | 226 | 
-| 2023-02-26 | 1026 | 226 | 
 

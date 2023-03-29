@@ -1,10 +1,10 @@
 # nextjournal/clerk-slideshow - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/nextjournal/clerk-slideshow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 43 | - | 
 | 2023-03-26 | 42 | - | 
 | 2023-03-25 | 42 | - | 
 | 2023-03-23 | 42 | - | 

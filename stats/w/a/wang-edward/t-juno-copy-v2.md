@@ -1,10 +1,10 @@
 # wang-edward/t-juno-copy-v2 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/wang-edward/t-juno-copy-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 130 | 9 | 
 | 2023-03-27 | 129 | 9 | 
 | 2023-03-26 | 129 | 9 | 
 | 2023-03-24 | 129 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 125 | 8 | 
 | 2023-03-01 | 125 | 8 | 
 | 2023-02-28 | 125 | 8 | 
-| 2023-02-26 | 125 | 8 | 
 

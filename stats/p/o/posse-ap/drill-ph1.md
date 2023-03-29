@@ -1,6 +1,6 @@
 # posse-ap/drill-ph1 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2 | 17 | 
 | 2023-03-26 | 2 | 17 | 
 | 2023-03-25 | 2 | 17 | 
 | 2023-03-23 | 2 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 2 | 17 | 
 | 2023-02-28 | 2 | 17 | 
 | 2023-02-27 | 2 | 17 | 
-| 2023-02-26 | 2 | 17 | 
 

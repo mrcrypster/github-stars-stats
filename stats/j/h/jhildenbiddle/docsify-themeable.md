@@ -1,10 +1,10 @@
 # jhildenbiddle/docsify-themeable - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 439
+★ Stars: 442
 
 [Open repository](https://github.com/jhildenbiddle/docsify-themeable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 442 | 279 | 
 | 2023-03-27 | 439 | 278 | 
 | 2023-03-26 | 438 | 277 | 
 | 2023-03-25 | 438 | 277 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 436 | 274 | 
 | 2023-03-01 | 436 | 274 | 
 | 2023-02-28 | 435 | 274 | 
-| 2023-02-27 | 436 | 274 | 
 

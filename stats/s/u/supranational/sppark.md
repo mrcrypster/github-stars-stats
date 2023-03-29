@@ -1,10 +1,10 @@
 # supranational/sppark - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 26
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/supranational/sppark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 86 | 26 | 
 | 2023-03-26 | 85 | 26 | 
 | 2023-03-25 | 85 | 26 | 
 | 2023-03-24 | 84 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 80 | 23 | 
 | 2023-03-01 | 80 | 23 | 
 | 2023-02-28 | 80 | 23 | 
-| 2023-02-27 | 79 | 23 | 
 

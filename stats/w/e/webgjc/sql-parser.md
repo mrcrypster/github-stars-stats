@@ -1,6 +1,6 @@
 # webgjc/sql-parser - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 65 | 45 | 
 | 2023-03-27 | 65 | 45 | 
 | 2023-03-26 | 65 | 45 | 
 | 2023-03-25 | 65 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 61 | 41 | 
 | 2023-02-28 | 61 | 41 | 
 | 2023-02-27 | 61 | 41 | 
-| 2023-02-26 | 61 | 41 | 
 

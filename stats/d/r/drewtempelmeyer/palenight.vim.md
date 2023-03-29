@@ -1,6 +1,6 @@
 # drewtempelmeyer/palenight.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 641 | 88 | 
 | 2023-03-27 | 641 | 88 | 
 | 2023-03-25 | 641 | 88 | 
 | 2023-03-24 | 641 | 87 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 636 | 88 | 
 | 2023-02-28 | 636 | 88 | 
 | 2023-02-27 | 633 | 88 | 
-| 2023-02-26 | 633 | 88 | 
 

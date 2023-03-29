@@ -1,10 +1,10 @@
 # starkoracles/starknet-miden-verifier - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/starkoracles/starknet-miden-verifier)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 30 | 1 | 
 | 2023-03-27 | 29 | 1 | 
 | 2023-03-25 | 29 | 1 | 
 | 2023-03-24 | 27 | 1 | 

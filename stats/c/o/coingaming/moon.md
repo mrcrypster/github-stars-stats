@@ -1,10 +1,10 @@
 # coingaming/moon - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/coingaming/moon)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 72 | 2 | 
+| 2023-03-28 | 72 | 2 | 
 | 2023-03-26 | 71 | 2 | 
 | 2023-03-25 | 71 | 2 | 
 | 2023-03-23 | 70 | 2 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 70 | 2 | 
 | 2023-03-01 | 70 | 2 | 
 | 2023-02-27 | 70 | 2 | 
-| 2023-02-26 | 70 | 2 | 
 

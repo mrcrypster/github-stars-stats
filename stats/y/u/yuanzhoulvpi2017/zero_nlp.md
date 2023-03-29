@@ -1,10 +1,10 @@
 # yuanzhoulvpi2017/zero_nlp - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 67
+☋ Forks: 74
 
-★ Stars: 392
+★ Stars: 430
 
 [Open repository](https://github.com/yuanzhoulvpi2017/zero_nlp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 430 | 74 | 
 | 2023-03-27 | 392 | 67 | 
 | 2023-03-26 | 332 | 51 | 
 | 2023-03-25 | 332 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 80 | 14 | 
 | 2023-02-28 | 79 | 14 | 
 | 2023-02-27 | 71 | 13 | 
-| 2023-02-26 | 69 | 13 | 
 

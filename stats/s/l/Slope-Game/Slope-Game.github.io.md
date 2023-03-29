@@ -1,10 +1,10 @@
 # Slope-Game/Slope-Game.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Slope-Game/Slope-Game.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2 | 17 | 
 | 2023-03-27 | 1 | 16 | 
 | 2023-03-25 | 1 | 16 | 
 | 2023-03-24 | 1 | 16 | 

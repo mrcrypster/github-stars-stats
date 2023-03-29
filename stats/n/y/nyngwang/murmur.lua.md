@@ -1,6 +1,6 @@
 # nyngwang/murmur.lua - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 80 | 2 | 
 | 2023-03-27 | 80 | 2 | 
 | 2023-03-25 | 79 | 2 | 
 | 2023-03-24 | 79 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 77 | 2 | 
 | 2023-02-28 | 76 | 2 | 
 | 2023-02-27 | 73 | 2 | 
-| 2023-02-26 | 72 | 2 | 
 

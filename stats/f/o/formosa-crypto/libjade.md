@@ -1,0 +1,18 @@
+# formosa-crypto/libjade - stars & forks statistics
+
+Stats updated on Mar 2023, 29
+
+☋ Forks: 7
+
+★ Stars: 29
+
+[Open repository](https://github.com/formosa-crypto/libjade)
+
+[Open detailed stats for formosa-crypto/libjade](https://reviewgithub.com/rep/formosa-crypto/libjade)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-29 | 29 | 7 | 
+| 2023-03-28 | 29 | 7 | 
+

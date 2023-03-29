@@ -1,10 +1,10 @@
 # rainbow-me/rainbowkit - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 335
+☋ Forks: 337
 
-★ Stars: 1672
+★ Stars: 1676
 
 [Open repository](https://github.com/rainbow-me/rainbowkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1676 | 337 | 
 | 2023-03-26 | 1672 | 335 | 
 | 2023-03-25 | 1669 | 335 | 
 | 2023-03-23 | 1669 | 333 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1613 | 320 | 
 | 2023-02-28 | 1610 | 320 | 
 | 2023-02-27 | 1610 | 319 | 
-| 2023-02-26 | 1608 | 317 | 
 

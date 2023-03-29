@@ -1,6 +1,6 @@
 # manateelazycat/deno-bridge - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 53 | 2 | 
 | 2023-03-26 | 53 | 2 | 
 | 2023-03-25 | 53 | 2 | 
 | 2023-03-23 | 53 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 52 | 2 | 
 | 2023-02-28 | 52 | 2 | 
 | 2023-02-27 | 51 | 1 | 
-| 2023-02-26 | 50 | 1 | 
 

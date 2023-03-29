@@ -1,10 +1,10 @@
 # leanprover-community/tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 58
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/leanprover-community/tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 164 | 58 | 
 | 2023-03-27 | 163 | 58 | 
 | 2023-03-26 | 163 | 58 | 
 | 2023-03-24 | 163 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 162 | 57 | 
 | 2023-02-28 | 162 | 57 | 
 | 2023-02-27 | 162 | 57 | 
-| 2023-02-26 | 162 | 57 | 
 

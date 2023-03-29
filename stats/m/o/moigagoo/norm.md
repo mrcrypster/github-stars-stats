@@ -1,10 +1,10 @@
 # moigagoo/norm - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 31
 
-★ Stars: 335
+★ Stars: 333
 
 [Open repository](https://github.com/moigagoo/norm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 333 | 31 | 
 | 2023-03-26 | 335 | 31 | 
 | 2023-03-25 | 336 | 31 | 
 | 2023-03-23 | 335 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 325 | 30 | 
 | 2023-02-28 | 323 | 30 | 
 | 2023-02-27 | 320 | 30 | 
-| 2023-02-26 | 320 | 30 | 
 

@@ -1,10 +1,10 @@
 # numfocus/gsoc - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 271
 
-★ Stars: 382
+★ Stars: 383
 
 [Open repository](https://github.com/numfocus/gsoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 383 | 271 | 
 | 2023-03-26 | 382 | 271 | 
 | 2023-03-25 | 381 | 271 | 
 | 2023-03-24 | 381 | 271 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 375 | 262 | 
 | 2023-02-28 | 374 | 261 | 
 | 2023-02-27 | 374 | 261 | 
-| 2023-02-26 | 373 | 261 | 
 

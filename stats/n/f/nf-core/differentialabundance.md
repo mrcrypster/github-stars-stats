@@ -1,8 +1,8 @@
 # nf-core/differentialabundance - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 17 | 9 | 
 | 2023-03-26 | 17 | 8 | 
 | 2023-03-25 | 17 | 7 | 
 | 2023-03-23 | 16 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 16 | 6 | 
 | 2023-03-01 | 16 | 6 | 
 | 2023-02-28 | 16 | 6 | 
-| 2023-02-26 | 16 | 6 | 
 

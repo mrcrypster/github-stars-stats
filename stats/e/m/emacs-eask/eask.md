@@ -1,10 +1,10 @@
 # emacs-eask/eask - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/emacs-eask/eask)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6 | 3 | 
 | 2023-03-26 | 5 | 3 | 
 | 2023-03-25 | 5 | 1 | 
 | 2023-03-24 | 2 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 2 | 1 | 
 | 2023-02-28 | 2 | 1 | 
 | 2023-02-27 | 2 | 1 | 
-| 2023-02-26 | 2 | 1 | 
 

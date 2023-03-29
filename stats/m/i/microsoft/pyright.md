@@ -1,10 +1,10 @@
 # microsoft/pyright - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 911
+☋ Forks: 914
 
-★ Stars: 9946
+★ Stars: 9950
 
 [Open repository](https://github.com/microsoft/pyright)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 9950 | 914 | 
 | 2023-03-27 | 9946 | 911 | 
 | 2023-03-26 | 9937 | 907 | 
 | 2023-03-25 | 9934 | 906 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 9785 | 843 | 
 | 2023-03-01 | 9781 | 838 | 
 | 2023-02-27 | 9777 | 835 | 
-| 2023-02-26 | 9775 | 832 | 
 

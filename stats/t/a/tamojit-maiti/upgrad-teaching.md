@@ -1,10 +1,10 @@
 # tamojit-maiti/upgrad-teaching - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 35
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/tamojit-maiti/upgrad-teaching)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 140 | 35 | 
 | 2023-03-27 | 139 | 35 | 
 | 2023-03-26 | 139 | 35 | 
 | 2023-03-24 | 139 | 34 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 140 | 34 | 
 | 2023-02-28 | 140 | 34 | 
 | 2023-02-27 | 140 | 34 | 
-| 2023-02-26 | 139 | 34 | 
 

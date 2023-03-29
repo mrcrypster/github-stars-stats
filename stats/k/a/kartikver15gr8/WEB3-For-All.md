@@ -1,8 +1,8 @@
 # kartikver15gr8/WEB3-For-All - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 29 | 14 | 
 | 2023-03-26 | 29 | 13 | 
 | 2023-03-25 | 29 | 13 | 
 | 2023-03-24 | 29 | 13 | 

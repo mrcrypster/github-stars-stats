@@ -1,10 +1,10 @@
 # esl/gradient - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 347
+★ Stars: 348
 
 [Open repository](https://github.com/esl/gradient)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 348 | 11 | 
 | 2023-03-27 | 347 | 11 | 
 | 2023-03-26 | 347 | 11 | 
 | 2023-03-24 | 345 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 342 | 10 | 
 | 2023-02-28 | 342 | 10 | 
 | 2023-02-27 | 341 | 10 | 
-| 2023-02-26 | 341 | 10 | 
 

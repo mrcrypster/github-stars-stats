@@ -1,6 +1,6 @@
 # YouyouCong/ppl-summer-school-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 24 | - | 
 | 2023-03-27 | 24 | - | 
 | 2023-03-26 | 24 | - | 
 | 2023-03-25 | 24 | - | 

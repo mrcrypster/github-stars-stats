@@ -1,6 +1,6 @@
 # nate-sys/muc - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 177 | 9 | 
 | 2023-03-26 | 177 | 9 | 
 | 2023-03-25 | 177 | 9 | 
 | 2023-03-23 | 178 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 178 | 10 | 
 | 2023-02-28 | 178 | 10 | 
 | 2023-02-27 | 178 | 10 | 
-| 2023-02-26 | 178 | 10 | 
 

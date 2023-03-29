@@ -1,6 +1,6 @@
 # gdalle/ImplicitDifferentiation.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 79 | 1 | 
 | 2023-03-26 | 79 | 1 | 
 | 2023-03-25 | 79 | 1 | 
 | 2023-03-24 | 79 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 75 | 1 | 
 | 2023-03-01 | 75 | 1 | 
 | 2023-02-27 | 75 | 1 | 
-| 2023-02-26 | 74 | 1 | 
 

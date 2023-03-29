@@ -1,10 +1,10 @@
 # KKGo1999/Stable-diffusion-person - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 460
+★ Stars: 465
 
 [Open repository](https://github.com/KKGo1999/Stable-diffusion-person)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 465 | 71 | 
 | 2023-03-26 | 460 | 70 | 
 | 2023-03-25 | 456 | 69 | 
 | 2023-03-23 | 453 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 272 | 35 | 
 | 2023-02-28 | 261 | 33 | 
 | 2023-02-27 | 193 | 27 | 
-| 2023-02-26 | 109 | 20 | 
 

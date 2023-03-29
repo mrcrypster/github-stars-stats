@@ -1,10 +1,10 @@
 # burrowers/garble - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 178
 
-★ Stars: 2548
+★ Stars: 2552
 
 [Open repository](https://github.com/burrowers/garble)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2552 | 178 | 
 | 2023-03-26 | 2548 | 178 | 
 | 2023-03-25 | 2548 | 178 | 
 | 2023-03-23 | 2544 | 178 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 2505 | 171 | 
 | 2023-03-01 | 2503 | 171 | 
 | 2023-02-28 | 2500 | 170 | 
-| 2023-02-26 | 2497 | 169 | 
 

@@ -1,10 +1,10 @@
 # LSPosed/CorePatch - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 126
 
-★ Stars: 1101
+★ Stars: 1106
 
 [Open repository](https://github.com/LSPosed/CorePatch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1106 | 126 | 
 | 2023-03-27 | 1101 | 126 | 
 | 2023-03-25 | 1098 | 126 | 
 | 2023-03-24 | 1097 | 126 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1051 | 126 | 
 | 2023-02-28 | 1050 | 126 | 
 | 2023-02-27 | 1050 | 126 | 
-| 2023-02-26 | 1045 | 126 | 
 

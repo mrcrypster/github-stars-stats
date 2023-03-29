@@ -1,6 +1,6 @@
 # apple/swift-docc-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 251 | 36 | 
 | 2023-03-26 | 251 | 36 | 
 | 2023-03-25 | 251 | 36 | 
 | 2023-03-24 | 251 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 246 | 37 | 
 | 2023-03-01 | 246 | 37 | 
 | 2023-02-27 | 246 | 37 | 
-| 2023-02-26 | 246 | 37 | 
 

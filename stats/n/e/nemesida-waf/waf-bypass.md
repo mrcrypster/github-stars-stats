@@ -1,10 +1,10 @@
 # nemesida-waf/waf-bypass - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 85
+☋ Forks: 90
 
-★ Stars: 555
+★ Stars: 597
 
 [Open repository](https://github.com/nemesida-waf/waf-bypass)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 597 | 90 | 
 | 2023-03-27 | 555 | 85 | 
 | 2023-03-26 | 468 | 73 | 
 | 2023-03-25 | 464 | 73 | 

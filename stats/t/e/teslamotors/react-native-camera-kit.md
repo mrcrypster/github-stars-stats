@@ -1,10 +1,10 @@
 # teslamotors/react-native-camera-kit - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 452
+☋ Forks: 453
 
-★ Stars: 1929
+★ Stars: 1930
 
 [Open repository](https://github.com/teslamotors/react-native-camera-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1930 | 453 | 
 | 2023-03-27 | 1929 | 452 | 
 | 2023-03-25 | 1929 | 452 | 
 | 2023-03-24 | 1929 | 452 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1917 | 447 | 
 | 2023-03-01 | 1916 | 446 | 
 | 2023-02-28 | 1916 | 446 | 
-| 2023-02-26 | 1913 | 445 | 
 

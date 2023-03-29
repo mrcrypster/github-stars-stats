@@ -1,8 +1,8 @@
 # RenaLio/Mux2sub - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 75
+☋ Forks: 76
 
 ★ Stars: 137
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 137 | 76 | 
 | 2023-03-26 | 137 | 75 | 
 | 2023-03-25 | 134 | 75 | 
 | 2023-03-24 | 132 | 75 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 123 | 68 | 
 | 2023-02-28 | 122 | 67 | 
 | 2023-02-27 | 122 | 66 | 
-| 2023-02-26 | 121 | 65 | 
 

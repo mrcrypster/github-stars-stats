@@ -1,6 +1,6 @@
 # janestreet/learn-ocaml-workshop - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 402 | 110 | 
 | 2023-03-27 | 402 | 110 | 
 | 2023-03-26 | 402 | 110 | 
 | 2023-03-24 | 401 | 110 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 396 | 110 | 
 | 2023-02-28 | 395 | 110 | 
 | 2023-02-27 | 395 | 110 | 
-| 2023-02-26 | 395 | 109 | 
 

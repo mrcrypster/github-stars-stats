@@ -1,6 +1,6 @@
 # Anyolite/anyolite - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 136 | 4 | 
 | 2023-03-26 | 136 | 4 | 
 | 2023-03-25 | 136 | 4 | 
 | 2023-03-24 | 134 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 133 | 3 | 
 | 2023-02-28 | 130 | 3 | 
 | 2023-02-27 | 130 | 3 | 
-| 2023-02-26 | 130 | 3 | 
 

@@ -1,10 +1,10 @@
 # ahmedeltaher/MVVM-Kotlin-Android-Architecture - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 540
+☋ Forks: 541
 
-★ Stars: 2025
+★ Stars: 2027
 
 [Open repository](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2027 | 541 | 
 | 2023-03-27 | 2025 | 540 | 
 | 2023-03-26 | 2025 | 538 | 
 | 2023-03-24 | 2024 | 538 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1995 | 530 | 
 | 2023-02-28 | 1995 | 530 | 
 | 2023-02-27 | 1995 | 530 | 
-| 2023-02-26 | 1994 | 530 | 
 

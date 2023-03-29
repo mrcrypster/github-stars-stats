@@ -1,6 +1,6 @@
 # natedotv2/fantoken-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 8 | 12 | 
 | 2023-03-27 | 8 | 12 | 
 | 2023-03-26 | 8 | 12 | 
 | 2023-03-24 | 8 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 8 | 12 | 
 | 2023-02-28 | 8 | 12 | 
 | 2023-02-27 | 8 | 12 | 
-| 2023-02-26 | 8 | 12 | 
 

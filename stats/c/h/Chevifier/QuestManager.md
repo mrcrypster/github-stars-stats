@@ -1,6 +1,6 @@
 # Chevifier/QuestManager - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 32 | - | 
 | 2023-03-26 | 32 | - | 
 | 2023-03-25 | 32 | - | 
 | 2023-03-24 | 31 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 29 | - | 
 | 2023-02-28 | 29 | - | 
 | 2023-02-27 | 29 | - | 
-| 2023-02-26 | 29 | - | 
 

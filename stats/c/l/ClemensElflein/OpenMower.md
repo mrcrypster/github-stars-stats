@@ -1,10 +1,10 @@
 # ClemensElflein/OpenMower - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 133
 
-★ Stars: 3416
+★ Stars: 3417
 
 [Open repository](https://github.com/ClemensElflein/OpenMower)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3417 | 133 | 
 | 2023-03-26 | 3416 | 133 | 
 | 2023-03-25 | 3414 | 133 | 
 | 2023-03-23 | 3413 | 133 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 3393 | 129 | 
 | 2023-02-28 | 3393 | 129 | 
 | 2023-02-27 | 3391 | 130 | 
-| 2023-02-26 | 3387 | 129 | 
 

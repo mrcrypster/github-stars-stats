@@ -1,10 +1,10 @@
 # SteveMacenski/slam_toolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 378
 
-★ Stars: 996
+★ Stars: 997
 
 [Open repository](https://github.com/SteveMacenski/slam_toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 997 | 378 | 
 | 2023-03-26 | 996 | 378 | 
 | 2023-03-25 | 996 | 379 | 
 | 2023-03-23 | 995 | 378 | 

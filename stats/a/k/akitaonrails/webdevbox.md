@@ -1,10 +1,10 @@
 # akitaonrails/webdevbox - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/akitaonrails/webdevbox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 133 | 3 | 
 | 2023-03-26 | 132 | 3 | 
 | 2023-03-25 | 131 | 3 | 
 | 2023-03-23 | 131 | 3 | 

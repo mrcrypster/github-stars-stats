@@ -1,10 +1,10 @@
 # VerticalResearchGroup/miaow - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 217
 
-★ Stars: 802
+★ Stars: 804
 
 [Open repository](https://github.com/VerticalResearchGroup/miaow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 804 | 217 | 
 | 2023-03-26 | 802 | 217 | 
 | 2023-03-25 | 802 | 217 | 
 | 2023-03-24 | 802 | 217 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 795 | 216 | 
 | 2023-02-28 | 794 | 216 | 
 | 2023-02-27 | 794 | 216 | 
-| 2023-02-26 | 794 | 216 | 
 

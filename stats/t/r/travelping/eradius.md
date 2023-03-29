@@ -1,6 +1,6 @@
 # travelping/eradius - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 50 | 40 | 
 | 2023-03-26 | 50 | 40 | 
 | 2023-03-25 | 50 | 40 | 
 | 2023-03-24 | 50 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 51 | 40 | 
 | 2023-03-01 | 51 | 40 | 
 | 2023-02-27 | 51 | 40 | 
-| 2023-02-26 | 51 | 40 | 
 

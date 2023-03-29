@@ -1,8 +1,8 @@
 # vesperlol/TikShare - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 49 | 42 | 
 | 2023-03-27 | 49 | 41 | 
 | 2023-03-26 | 49 | 41 | 
 | 2023-03-25 | 48 | 41 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 48 | 41 | 
 | 2023-03-01 | 48 | 41 | 
 | 2023-02-28 | 48 | 41 | 
-| 2023-02-26 | 48 | 41 | 
 

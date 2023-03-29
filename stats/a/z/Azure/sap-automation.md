@@ -1,10 +1,10 @@
 # Azure/sap-automation - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 101
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/Azure/sap-automation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 74 | 101 | 
 | 2023-03-26 | 73 | 101 | 
 | 2023-03-25 | 73 | 101 | 
 | 2023-03-23 | 74 | 101 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 74 | 99 | 
 | 2023-03-01 | 73 | 98 | 
 | 2023-02-28 | 73 | 98 | 
-| 2023-02-26 | 73 | 98 | 
 

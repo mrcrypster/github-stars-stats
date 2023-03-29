@@ -1,6 +1,6 @@
 # smortexa/laravel-arkitect - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 67 | 2 | 
 | 2023-03-27 | 67 | 2 | 
 | 2023-03-26 | 66 | 2 | 
 | 2023-03-24 | 66 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 65 | 2 | 
 | 2023-02-28 | 64 | 2 | 
 | 2023-02-27 | 64 | 2 | 
-| 2023-02-26 | 63 | 2 | 
 

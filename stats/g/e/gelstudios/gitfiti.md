@@ -1,8 +1,8 @@
 # gelstudios/gitfiti - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1054
+☋ Forks: 1053
 
 ★ Stars: 7580
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 7580 | 1053 | 
 | 2023-03-27 | 7580 | 1054 | 
 | 2023-03-26 | 7575 | 1054 | 
 | 2023-03-24 | 7573 | 1052 | 

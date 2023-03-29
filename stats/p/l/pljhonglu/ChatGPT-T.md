@@ -1,10 +1,10 @@
 # pljhonglu/ChatGPT-T - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 48
+★ Stars: 52
 
 [Open repository](https://github.com/pljhonglu/ChatGPT-T)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 52 | 11 | 
 | 2023-03-26 | 48 | 10 | 
 | 2023-03-25 | 48 | 10 | 
 | 2023-03-24 | 45 | 10 | 

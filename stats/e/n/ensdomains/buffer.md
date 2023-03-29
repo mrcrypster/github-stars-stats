@@ -1,8 +1,8 @@
 # ensdomains/buffer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 21 | 18 | 
 | 2023-03-27 | 21 | 17 | 
 | 2023-03-25 | 21 | 17 | 
 | 2023-03-24 | 21 | 17 | 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 28
 
 ☋ Forks: 79
 
-★ Stars: 2108
+★ Stars: 2140
 
 [Open repository](https://github.com/windmill-labs/windmill)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 2108 | 79 | 
+| 2023-03-28 | 2140 | 79 | 
 | 2023-03-27 | 2080 | 79 | 
 | 2023-03-26 | 2057 | 78 | 
 | 2023-03-25 | 2057 | 78 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-01 | 1932 | 72 | 
 | 2023-02-28 | 1924 | 71 | 
 | 2023-02-27 | 1922 | 70 | 
-| 2023-02-26 | 1919 | 69 | 
 

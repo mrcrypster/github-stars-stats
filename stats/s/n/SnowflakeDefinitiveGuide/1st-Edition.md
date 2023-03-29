@@ -1,10 +1,10 @@
 # SnowflakeDefinitiveGuide/1st-Edition - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 21
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/SnowflakeDefinitiveGuide/1st-Edition)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 52 | 21 | 
 | 2023-03-26 | 51 | 21 | 
 | 2023-03-25 | 51 | 21 | 
 | 2023-03-24 | 51 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 48 | 18 | 
 | 2023-03-01 | 48 | 18 | 
 | 2023-02-27 | 48 | 18 | 
-| 2023-02-26 | 47 | 18 | 
 

@@ -1,10 +1,10 @@
 # kubernetes/git-sync - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 368
 
-★ Stars: 1723
+★ Stars: 1725
 
 [Open repository](https://github.com/kubernetes/git-sync)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1725 | 368 | 
 | 2023-03-27 | 1723 | 368 | 
 | 2023-03-26 | 1722 | 367 | 
 | 2023-03-25 | 1719 | 367 | 

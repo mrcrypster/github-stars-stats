@@ -1,8 +1,8 @@
 # fulpstation/fulpstation - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 117
+☋ Forks: 121
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 34 | 121 | 
 | 2023-03-27 | 34 | 117 | 
 | 2023-03-25 | 34 | 118 | 
 | 2023-03-24 | 34 | 118 | 

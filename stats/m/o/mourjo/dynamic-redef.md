@@ -1,6 +1,6 @@
 # mourjo/dynamic-redef - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 16 | - | 
 | 2023-03-27 | 16 | - | 
 | 2023-03-26 | 16 | - | 
 | 2023-03-25 | 16 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 15 | - | 
 | 2023-02-28 | 15 | - | 
 | 2023-02-27 | 15 | - | 
-| 2023-02-26 | 15 | - | 
 

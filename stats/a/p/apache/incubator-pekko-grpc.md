@@ -1,6 +1,6 @@
 # apache/incubator-pekko-grpc - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 17 | 7 | 
 | 2023-03-27 | 17 | 7 | 
 | 2023-03-26 | 17 | 7 | 
 | 2023-03-24 | 17 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 15 | 7 | 
 | 2023-02-28 | 15 | 7 | 
 | 2023-02-27 | 15 | 7 | 
-| 2023-02-26 | 15 | 7 | 
 

@@ -1,6 +1,6 @@
 # PuruVJ/macos-web - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1738 | 169 | 
 | 2023-03-26 | 1738 | 169 | 
 | 2023-03-25 | 1737 | 169 | 
 | 2023-03-24 | 1736 | 169 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1723 | 169 | 
 | 2023-02-28 | 1724 | 168 | 
 | 2023-02-27 | 1720 | 168 | 
-| 2023-02-26 | 1718 | 168 | 
 

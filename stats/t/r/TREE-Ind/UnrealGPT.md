@@ -1,10 +1,10 @@
 # TREE-Ind/UnrealGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 60
+★ Stars: 66
 
 [Open repository](https://github.com/TREE-Ind/UnrealGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 66 | 11 | 
 | 2023-03-26 | 60 | 10 | 
 | 2023-03-25 | 55 | 10 | 
 | 2023-03-24 | 51 | 9 | 

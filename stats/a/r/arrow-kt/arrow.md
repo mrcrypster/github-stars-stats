@@ -1,8 +1,8 @@
 # arrow-kt/arrow - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 403
+☋ Forks: 404
 
 ★ Stars: 5560
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5560 | 404 | 
 | 2023-03-27 | 5560 | 403 | 
 | 2023-03-25 | 5558 | 403 | 
 | 2023-03-24 | 5555 | 403 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 5512 | 399 | 
 | 2023-02-28 | 5511 | 399 | 
 | 2023-02-27 | 5505 | 398 | 
-| 2023-02-26 | 5501 | 397 | 
 

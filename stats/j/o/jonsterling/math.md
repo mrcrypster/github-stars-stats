@@ -1,6 +1,6 @@
 # jonsterling/math - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 49 | 6 | 
 | 2023-03-27 | 49 | 6 | 
 | 2023-03-26 | 49 | 6 | 
 | 2023-03-24 | 49 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 49 | 6 | 
 | 2023-02-28 | 49 | 6 | 
 | 2023-02-27 | 49 | 6 | 
-| 2023-02-26 | 49 | 6 | 
 

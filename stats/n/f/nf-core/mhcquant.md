@@ -1,0 +1,17 @@
+# nf-core/mhcquant - stars & forks statistics
+
+Stats updated on Mar 2023, 28
+
+☋ Forks: 22
+
+★ Stars: 21
+
+[Open repository](https://github.com/nf-core/mhcquant)
+
+[Open detailed stats for nf-core/mhcquant](https://reviewgithub.com/rep/nf-core/mhcquant)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-28 | 21 | 22 | 
+

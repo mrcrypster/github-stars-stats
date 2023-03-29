@@ -1,6 +1,6 @@
 # koko1912/CameraShop - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 6 | - | 
 | 2023-03-27 | 6 | - | 
 | 2023-03-26 | 6 | - | 
 | 2023-03-24 | 6 | - | 

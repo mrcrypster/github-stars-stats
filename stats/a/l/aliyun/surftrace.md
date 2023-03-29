@@ -1,10 +1,10 @@
 # aliyun/surftrace - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 59
 
-★ Stars: 329
+★ Stars: 330
 
 [Open repository](https://github.com/aliyun/surftrace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 330 | 59 | 
 | 2023-03-26 | 329 | 59 | 
 | 2023-03-25 | 327 | 59 | 
 | 2023-03-24 | 316 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 312 | 59 | 
 | 2023-03-01 | 312 | 59 | 
 | 2023-02-28 | 312 | 59 | 
-| 2023-02-26 | 312 | 59 | 
 

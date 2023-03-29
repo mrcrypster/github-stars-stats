@@ -1,8 +1,8 @@
 # compscrow/bloxflip-predictor - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 25 | 2 | 
 | 2023-03-27 | 25 | 1 | 
 | 2023-03-26 | 25 | 1 | 
 | 2023-03-25 | 24 | 1 | 

@@ -1,6 +1,6 @@
 # viperML/home-manager-wsl - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 30 | 1 | 
 | 2023-03-27 | 30 | 1 | 
 | 2023-03-26 | 31 | 1 | 
 | 2023-03-24 | 31 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 31 | - | 
 | 2023-03-01 | 31 | - | 
 | 2023-02-27 | 31 | - | 
-| 2023-02-26 | 31 | - | 
 

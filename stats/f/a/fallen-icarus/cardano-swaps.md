@@ -1,10 +1,10 @@
 # fallen-icarus/cardano-swaps - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/fallen-icarus/cardano-swaps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 27 | 4 | 
 | 2023-03-27 | 26 | 4 | 
 | 2023-03-25 | 26 | 4 | 
 | 2023-03-24 | 26 | 4 | 

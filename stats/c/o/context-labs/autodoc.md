@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 28
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 709
+★ Stars: 751
 
 [Open repository](https://github.com/context-labs/autodoc)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 709 | 20 | 
+| 2023-03-28 | 751 | 22 | 
 | 2023-03-27 | 695 | 20 | 
 

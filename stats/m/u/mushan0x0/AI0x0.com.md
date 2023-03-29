@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 28
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 611
+★ Stars: 635
 
 [Open repository](https://github.com/mushan0x0/AI0x0.com)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 611 | 88 | 
+| 2023-03-28 | 635 | 89 | 
 | 2023-03-27 | 606 | 87 | 
 | 2023-03-26 | 531 | 75 | 
 | 2023-03-25 | 495 | 73 | 

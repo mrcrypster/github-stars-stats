@@ -1,8 +1,8 @@
 # tiiuae/ghaf - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 7 | 19 | 
 | 2023-03-27 | 7 | 18 | 
 | 2023-03-26 | 7 | 18 | 
 | 2023-03-25 | 7 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 6 | 16 | 
 | 2023-02-28 | 6 | 16 | 
 | 2023-02-27 | 6 | 15 | 
-| 2023-02-26 | 6 | 15 | 
 

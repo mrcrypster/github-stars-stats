@@ -1,10 +1,10 @@
 # toolswatch/blackhat-arsenal-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1105
+☋ Forks: 1104
 
-★ Stars: 3309
+★ Stars: 3310
 
 [Open repository](https://github.com/toolswatch/blackhat-arsenal-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3310 | 1104 | 
 | 2023-03-27 | 3309 | 1105 | 
 | 2023-03-25 | 3308 | 1105 | 
 | 2023-03-24 | 3306 | 1105 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 3260 | 1098 | 
 | 2023-03-01 | 3258 | 1098 | 
 | 2023-02-28 | 3257 | 1098 | 
-| 2023-02-27 | 3257 | 1098 | 
 

@@ -1,8 +1,8 @@
 # Uniswap/governance - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 139
+☋ Forks: 140
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 79 | 140 | 
 | 2023-03-27 | 79 | 139 | 
 | 2023-03-25 | 79 | 138 | 
 | 2023-03-24 | 79 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 78 | 125 | 
 | 2023-02-28 | 78 | 123 | 
 | 2023-02-27 | 78 | 123 | 
-| 2023-02-26 | 78 | 122 | 
 

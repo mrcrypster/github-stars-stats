@@ -1,6 +1,6 @@
 # BillsTheGod/V3RMILLION_PROJECTS - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 4 | 23 | 
 | 2023-03-26 | 4 | 23 | 
 | 2023-03-25 | 4 | 22 | 
 | 2023-03-24 | 3 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 3 | 19 | 
 | 2023-03-01 | 3 | 18 | 
 | 2023-02-28 | 3 | 18 | 
-| 2023-02-26 | 3 | 18 | 
 

@@ -1,8 +1,8 @@
 # dhruv-2015/JIOTVServer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 43 | 37 | 
 | 2023-03-27 | 43 | 36 | 
 | 2023-03-26 | 42 | 36 | 
 | 2023-03-24 | 41 | 36 | 

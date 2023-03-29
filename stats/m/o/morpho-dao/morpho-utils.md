@@ -1,6 +1,6 @@
 # morpho-dao/morpho-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 62 | 1 | 
 | 2023-03-27 | 62 | 1 | 
 | 2023-03-25 | 62 | 1 | 
 | 2023-03-24 | 61 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 61 | 1 | 
 | 2023-02-28 | 61 | 1 | 
 | 2023-02-27 | 61 | 1 | 
-| 2023-02-26 | 61 | 1 | 
 

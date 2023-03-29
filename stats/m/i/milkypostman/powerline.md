@@ -1,10 +1,10 @@
 # milkypostman/powerline - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 117
 
-★ Stars: 774
+★ Stars: 775
 
 [Open repository](https://github.com/milkypostman/powerline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 775 | 117 | 
 | 2023-03-27 | 774 | 117 | 
 | 2023-03-26 | 774 | 117 | 
 | 2023-03-24 | 774 | 117 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 773 | 117 | 
 | 2023-03-01 | 773 | 117 | 
 | 2023-02-28 | 773 | 117 | 
-| 2023-02-26 | 773 | 117 | 
 

@@ -1,10 +1,10 @@
 # crisprss/PetitPotam - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 19
 
-★ Stars: 135
+★ Stars: 134
 
 [Open repository](https://github.com/crisprss/PetitPotam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 134 | 19 | 
 | 2023-03-27 | 135 | 19 | 
 | 2023-03-26 | 135 | 19 | 
 | 2023-03-25 | 135 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 133 | 19 | 
 | 2023-03-01 | 133 | 19 | 
 | 2023-02-27 | 133 | 19 | 
-| 2023-02-26 | 133 | 19 | 
 

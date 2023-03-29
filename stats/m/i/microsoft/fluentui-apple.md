@@ -1,10 +1,10 @@
 # microsoft/fluentui-apple - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 141
+☋ Forks: 142
 
-★ Stars: 755
+★ Stars: 756
 
 [Open repository](https://github.com/microsoft/fluentui-apple)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 756 | 142 | 
 | 2023-03-27 | 755 | 141 | 
 | 2023-03-26 | 755 | 141 | 
 | 2023-03-24 | 754 | 141 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 744 | 135 | 
 | 2023-03-01 | 744 | 135 | 
 | 2023-02-27 | 743 | 135 | 
-| 2023-02-26 | 743 | 135 | 
 

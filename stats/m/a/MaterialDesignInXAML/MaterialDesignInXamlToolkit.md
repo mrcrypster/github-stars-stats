@@ -1,8 +1,8 @@
 # MaterialDesignInXAML/MaterialDesignInXamlToolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3208
+☋ Forks: 3211
 
 ★ Stars: 13334
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 13334 | 3211 | 
+| 2023-03-28 | 13335 | 3211 | 
 | 2023-03-27 | 13334 | 3208 | 
 | 2023-03-25 | 13323 | 3206 | 
 | 2023-03-24 | 13318 | 3205 | 

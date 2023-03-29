@@ -1,10 +1,10 @@
 # pymc-devs/pymc-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 694
+☋ Forks: 697
 
-★ Stars: 1711
+★ Stars: 1713
 
 [Open repository](https://github.com/pymc-devs/pymc-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1713 | 697 | 
 | 2023-03-27 | 1711 | 694 | 
 | 2023-03-26 | 1709 | 692 | 
 | 2023-03-24 | 1710 | 692 | 

@@ -1,6 +1,6 @@
 # Jarred-Sumner/bun - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | - | 4 | 
 | 2023-03-26 | - | 4 | 
 | 2023-03-25 | - | 4 | 
 | 2023-03-24 | - | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | - | 4 | 
 | 2023-03-01 | 39516 | 991 | 
 | 2023-02-27 | 39403 | 987 | 
-| 2023-02-26 | 39246 | 983 | 
 

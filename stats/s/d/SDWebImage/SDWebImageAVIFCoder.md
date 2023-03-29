@@ -1,6 +1,6 @@
 # SDWebImage/SDWebImageAVIFCoder - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 43 | 16 | 
 | 2023-03-27 | 43 | 16 | 
 | 2023-03-26 | 43 | 16 | 
 | 2023-03-24 | 43 | 16 | 

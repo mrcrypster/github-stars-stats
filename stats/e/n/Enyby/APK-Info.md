@@ -1,10 +1,10 @@
 # Enyby/APK-Info - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/Enyby/APK-Info)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 316 | 49 | 
 | 2023-03-27 | 315 | 48 | 
 | 2023-03-26 | 314 | 47 | 
 | 2023-03-25 | 314 | 47 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 307 | 46 | 
 | 2023-02-28 | 307 | 46 | 
 | 2023-02-27 | 306 | 46 | 
-| 2023-02-26 | 306 | 46 | 
 

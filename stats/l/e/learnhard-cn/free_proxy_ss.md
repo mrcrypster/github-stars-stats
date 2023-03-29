@@ -1,10 +1,10 @@
 # learnhard-cn/free_proxy_ss - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 450
+☋ Forks: 454
 
-★ Stars: 1862
+★ Stars: 1871
 
 [Open repository](https://github.com/learnhard-cn/free_proxy_ss)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1871 | 454 | 
 | 2023-03-26 | 1862 | 450 | 
 | 2023-03-25 | 1856 | 448 | 
 | 2023-03-24 | 1852 | 446 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 1731 | 423 | 
 | 2023-02-28 | 1730 | 422 | 
 | 2023-02-27 | 1723 | 422 | 
-| 2023-02-26 | 1718 | 420 | 
 

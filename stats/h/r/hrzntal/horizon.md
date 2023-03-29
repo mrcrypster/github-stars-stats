@@ -1,8 +1,8 @@
 # hrzntal/horizon - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 17 | 58 | 
 | 2023-03-26 | 17 | 57 | 
 | 2023-03-25 | 17 | 57 | 
 | 2023-03-23 | 17 | 57 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 16 | 57 | 
 | 2023-03-01 | 16 | 57 | 
 | 2023-02-27 | 16 | 57 | 
-| 2023-02-26 | 16 | 58 | 
 

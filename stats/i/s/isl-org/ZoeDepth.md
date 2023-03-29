@@ -1,10 +1,10 @@
 # isl-org/ZoeDepth - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 23
+☋ Forks: 25
 
-★ Stars: 466
+★ Stars: 471
 
 [Open repository](https://github.com/isl-org/ZoeDepth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 471 | 25 | 
 | 2023-03-27 | 466 | 23 | 
 | 2023-03-25 | 464 | 23 | 
 | 2023-03-24 | 461 | 23 | 

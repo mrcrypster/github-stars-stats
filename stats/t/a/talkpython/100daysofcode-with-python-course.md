@@ -1,10 +1,10 @@
 # talkpython/100daysofcode-with-python-course - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1027
+☋ Forks: 1026
 
-★ Stars: 1893
+★ Stars: 1894
 
 [Open repository](https://github.com/talkpython/100daysofcode-with-python-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1894 | 1026 | 
 | 2023-03-27 | 1893 | 1027 | 
 | 2023-03-25 | 1893 | 1027 | 
 | 2023-03-24 | 1893 | 1027 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1885 | 1024 | 
 | 2023-02-28 | 1885 | 1024 | 
 | 2023-02-27 | 1886 | 1023 | 
-| 2023-02-26 | 1886 | 1023 | 
 

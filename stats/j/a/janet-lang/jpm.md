@@ -1,6 +1,6 @@
 # janet-lang/jpm - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 41 | 13 | 
 | 2023-03-26 | 41 | 13 | 
 | 2023-03-25 | 41 | 13 | 
 | 2023-03-23 | 41 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 40 | 13 | 
 | 2023-02-28 | 40 | 13 | 
 | 2023-02-27 | 40 | 13 | 
-| 2023-02-26 | 40 | 13 | 
 

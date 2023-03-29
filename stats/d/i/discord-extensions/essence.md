@@ -1,6 +1,6 @@
 # discord-extensions/essence - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 55 | 17 | 
 | 2023-03-26 | 55 | 17 | 
 | 2023-03-25 | 55 | 17 | 
 | 2023-03-24 | 55 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 55 | 15 | 
 | 2023-02-28 | 55 | 14 | 
 | 2023-02-27 | 55 | 14 | 
-| 2023-02-26 | 55 | 14 | 
 

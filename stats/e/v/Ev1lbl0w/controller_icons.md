@@ -1,6 +1,6 @@
 # Ev1lbl0w/controller_icons - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 70 | 7 | 
 | 2023-03-27 | 70 | 7 | 
 | 2023-03-26 | 68 | 7 | 
 | 2023-03-24 | 68 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 63 | 7 | 
 | 2023-03-01 | 63 | 7 | 
 | 2023-02-27 | 63 | 7 | 
-| 2023-02-26 | 63 | 7 | 
 

@@ -1,10 +1,10 @@
 # code-423n4/2022-06-illuminate - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/code-423n4/2022-06-illuminate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5 | 3 | 
 | 2023-03-27 | 4 | 3 | 
 | 2023-03-26 | 4 | 3 | 
 | 2023-03-24 | 4 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 4 | 3 | 
 | 2023-03-01 | 4 | 3 | 
 | 2023-02-28 | 4 | 3 | 
-| 2023-02-27 | 4 | 3 | 
 

@@ -1,6 +1,6 @@
 # bmurmann/Book-on-gm-ID-design - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 32 | 4 | 
 | 2023-03-27 | 32 | 4 | 
 | 2023-03-26 | 31 | 4 | 
 | 2023-03-24 | 31 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 26 | 2 | 
 | 2023-03-01 | 25 | 2 | 
 | 2023-02-28 | 24 | 2 | 
-| 2023-02-27 | 22 | 2 | 
 

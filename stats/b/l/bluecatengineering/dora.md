@@ -1,6 +1,6 @@
 # bluecatengineering/dora - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 358 | 5 | 
 | 2023-03-27 | 358 | 5 | 
 | 2023-03-25 | 359 | 5 | 
 | 2023-03-24 | 358 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 355 | 5 | 
 | 2023-02-28 | 355 | 5 | 
 | 2023-02-27 | 355 | 5 | 
-| 2023-02-26 | 356 | 5 | 
 

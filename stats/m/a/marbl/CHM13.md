@@ -1,10 +1,10 @@
 # marbl/CHM13 - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 79
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/marbl/CHM13)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 698 | 79 | 
 | 2023-03-26 | 697 | 79 | 
 | 2023-03-25 | 696 | 79 | 
 | 2023-03-23 | 696 | 79 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 686 | 79 | 
 | 2023-03-01 | 685 | 78 | 
 | 2023-02-27 | 684 | 78 | 
-| 2023-02-26 | 682 | 78 | 
 

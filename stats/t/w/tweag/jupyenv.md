@@ -1,10 +1,10 @@
 # tweag/jupyenv - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 96
 
-★ Stars: 440
+★ Stars: 441
 
 [Open repository](https://github.com/tweag/jupyenv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 441 | 96 | 
 | 2023-03-27 | 440 | 96 | 
 | 2023-03-25 | 439 | 96 | 
 | 2023-03-24 | 438 | 96 | 

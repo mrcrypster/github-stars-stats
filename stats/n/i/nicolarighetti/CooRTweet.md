@@ -1,10 +1,10 @@
 # nicolarighetti/CooRTweet - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/nicolarighetti/CooRTweet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 20 | 3 | 
 | 2023-03-27 | 21 | 3 | 
 | 2023-03-26 | 20 | 3 | 
 | 2023-03-24 | 20 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 18 | 2 | 
 | 2023-02-28 | 18 | 2 | 
 | 2023-02-27 | 18 | 2 | 
-| 2023-02-26 | 18 | 2 | 
 

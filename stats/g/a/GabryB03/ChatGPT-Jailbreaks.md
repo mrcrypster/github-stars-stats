@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 28
 
 ☋ Forks: 38
 
-★ Stars: 70
+★ Stars: 69
 
 [Open repository](https://github.com/GabryB03/ChatGPT-Jailbreaks)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 70 | 38 | 
+| 2023-03-28 | 69 | 38 | 
 | 2023-03-27 | 68 | 38 | 
 | 2023-03-25 | 52 | 29 | 
 | 2023-03-24 | 46 | 24 | 

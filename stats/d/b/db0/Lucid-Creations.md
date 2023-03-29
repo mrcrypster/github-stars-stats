@@ -1,10 +1,10 @@
 # db0/Lucid-Creations - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/db0/Lucid-Creations)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 71 | 11 | 
 | 2023-03-27 | 70 | 11 | 
 | 2023-03-26 | 70 | 11 | 
 | 2023-03-24 | 70 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 69 | 10 | 
 | 2023-02-28 | 69 | 10 | 
 | 2023-02-27 | 69 | 10 | 
-| 2023-02-26 | 69 | 10 | 
 

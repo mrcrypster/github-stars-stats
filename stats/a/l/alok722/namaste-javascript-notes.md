@@ -1,10 +1,10 @@
 # alok722/namaste-javascript-notes - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 345
+☋ Forks: 346
 
-★ Stars: 809
+★ Stars: 811
 
 [Open repository](https://github.com/alok722/namaste-javascript-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 811 | 346 | 
 | 2023-03-27 | 809 | 345 | 
 | 2023-03-26 | 806 | 344 | 
 | 2023-03-24 | 805 | 341 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 780 | 327 | 
 | 2023-03-01 | 776 | 325 | 
 | 2023-02-28 | 776 | 323 | 
-| 2023-02-27 | 771 | 322 | 
 

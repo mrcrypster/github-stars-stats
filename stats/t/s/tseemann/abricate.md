@@ -1,10 +1,10 @@
 # tseemann/abricate - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 67
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/tseemann/abricate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 256 | 67 | 
 | 2023-03-26 | 255 | 67 | 
 | 2023-03-25 | 255 | 67 | 
 | 2023-03-23 | 255 | 67 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 253 | 67 | 
 | 2023-03-01 | 253 | 67 | 
 | 2023-02-27 | 252 | 67 | 
-| 2023-02-26 | 252 | 67 | 
 

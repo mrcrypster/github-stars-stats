@@ -1,6 +1,6 @@
 # microsoft/msquic - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 419
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3272 | 419 | 
 | 2023-03-27 | 3272 | 419 | 
 | 2023-03-25 | 3271 | 418 | 
 | 2023-03-24 | 3271 | 417 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 3235 | 416 | 
 | 2023-02-28 | 3235 | 416 | 
 | 2023-02-27 | 3235 | 416 | 
-| 2023-02-26 | 3233 | 415 | 
 

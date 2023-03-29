@@ -1,6 +1,6 @@
 # MichalGeyer/plug-and-play - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 502 | 30 | 
 | 2023-03-26 | 502 | 30 | 
 | 2023-03-25 | 501 | 30 | 
 | 2023-03-23 | 500 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 475 | 27 | 
 | 2023-02-28 | 469 | 27 | 
 | 2023-02-27 | 466 | 27 | 
-| 2023-02-26 | 462 | 26 | 
 

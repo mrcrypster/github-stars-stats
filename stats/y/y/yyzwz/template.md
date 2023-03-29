@@ -1,6 +1,6 @@
 # yyzwz/template - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 10 | 4 | 
 | 2023-03-27 | 10 | 4 | 
 | 2023-03-26 | 10 | 4 | 
 | 2023-03-24 | 10 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 9 | 3 | 
 | 2023-03-01 | 9 | 3 | 
 | 2023-02-28 | 9 | 3 | 
-| 2023-02-26 | 9 | 3 | 
 

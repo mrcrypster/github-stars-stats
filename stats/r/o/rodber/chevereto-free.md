@@ -1,10 +1,10 @@
 # rodber/chevereto-free - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 491
 
-★ Stars: 2678
+★ Stars: 2680
 
 [Open repository](https://github.com/rodber/chevereto-free)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2680 | 491 | 
 | 2023-03-27 | 2678 | 491 | 
 | 2023-03-26 | 2678 | 490 | 
 | 2023-03-24 | 2677 | 490 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2669 | 492 | 
 | 2023-03-01 | 2667 | 492 | 
 | 2023-02-28 | 2666 | 492 | 
-| 2023-02-26 | 2665 | 492 | 
 

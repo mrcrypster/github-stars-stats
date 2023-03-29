@@ -1,6 +1,6 @@
 # creativetimofficial/now-ui-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 186 | 103 | 
 | 2023-03-27 | 186 | 103 | 
 | 2023-03-25 | 186 | 102 | 
 | 2023-03-24 | 186 | 102 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 186 | 97 | 
 | 2023-02-28 | 186 | 97 | 
 | 2023-02-27 | 185 | 98 | 
-| 2023-02-26 | 185 | 98 | 
 

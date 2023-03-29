@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 28
 
 ☋ Forks: 42
 
-★ Stars: 410
+★ Stars: 412
 
 [Open repository](https://github.com/jbara2002/windows-defender-remover)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 410 | 42 | 
+| 2023-03-28 | 412 | 42 | 
 | 2023-03-27 | 409 | 42 | 
 | 2023-03-26 | 407 | 41 | 
 | 2023-03-25 | 400 | 41 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-01 | 358 | 37 | 
 | 2023-02-28 | 356 | 37 | 
 | 2023-02-27 | 356 | 37 | 
-| 2023-02-26 | 354 | 37 | 
 

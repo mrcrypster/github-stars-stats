@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 28
 
-☋ Forks: 420
+☋ Forks: 433
 
-★ Stars: 1431
+★ Stars: 1458
 
 [Open repository](https://github.com/ztjhz/BetterChatGPT)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-28 | 1431 | 420 | 
+| 2023-03-28 | 1458 | 433 | 
 | 2023-03-27 | 1416 | 412 | 
 

@@ -1,10 +1,10 @@
 # Mic92/nixos-shell - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 30
 
-★ Stars: 391
+★ Stars: 392
 
 [Open repository](https://github.com/Mic92/nixos-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 392 | 30 | 
 | 2023-03-27 | 391 | 30 | 
 | 2023-03-25 | 390 | 30 | 
 | 2023-03-24 | 389 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 385 | 29 | 
 | 2023-02-28 | 385 | 29 | 
 | 2023-02-27 | 384 | 29 | 
-| 2023-02-26 | 384 | 29 | 
 

@@ -1,10 +1,10 @@
 # AvdLee/WhatTheErrorCode - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 125
+★ Stars: 127
 
 [Open repository](https://github.com/AvdLee/WhatTheErrorCode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 127 | 3 | 
 | 2023-03-27 | 125 | 3 | 
 | 2023-03-25 | 124 | 3 | 
 | 2023-03-24 | 122 | 3 | 

@@ -1,10 +1,10 @@
 # IvanGlinkin/Domain_checker - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 30
 
-★ Stars: 153
+★ Stars: 155
 
 [Open repository](https://github.com/IvanGlinkin/Domain_checker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 155 | 30 | 
 | 2023-03-27 | 153 | 30 | 
 | 2023-03-25 | 151 | 30 | 
 | 2023-03-24 | 150 | 30 | 

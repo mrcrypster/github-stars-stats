@@ -1,10 +1,10 @@
 # pkg/errors - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 662
+☋ Forks: 664
 
-★ Stars: 7999
+★ Stars: 8000
 
 [Open repository](https://github.com/pkg/errors)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 8000 | 664 | 
 | 2023-03-27 | 7999 | 662 | 
 | 2023-03-25 | 7997 | 662 | 
 | 2023-03-24 | 7996 | 662 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 7988 | 660 | 
 | 2023-03-01 | 7989 | 659 | 
 | 2023-02-28 | 7988 | 657 | 
-| 2023-02-27 | 7989 | 657 | 
 

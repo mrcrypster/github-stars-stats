@@ -1,6 +1,6 @@
 # ohmybahgosh/RockYou2021.txt - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 536 | 98 | 
 | 2023-03-27 | 536 | 98 | 
 | 2023-03-25 | 535 | 98 | 
 | 2023-03-24 | 532 | 98 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 525 | 97 | 
 | 2023-03-01 | 524 | 97 | 
 | 2023-02-27 | 524 | 97 | 
-| 2023-02-26 | 523 | 97 | 
 

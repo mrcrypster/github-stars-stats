@@ -1,10 +1,10 @@
 # zeek/cmake - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 57
 
-★ Stars: 40
+★ Stars: 39
 
 [Open repository](https://github.com/zeek/cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 39 | 57 | 
 | 2023-03-27 | 40 | 57 | 
 | 2023-03-26 | 40 | 57 | 
 | 2023-03-25 | 40 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 40 | 57 | 
 | 2023-02-28 | 40 | 57 | 
 | 2023-02-27 | 40 | 57 | 
-| 2023-02-26 | 40 | 57 | 
 

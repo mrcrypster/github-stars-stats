@@ -1,10 +1,10 @@
 # brianc/node-postgres - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1163
+☋ Forks: 1164
 
-★ Stars: 11048
+★ Stars: 11051
 
 [Open repository](https://github.com/brianc/node-postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 11051 | 1164 | 
 | 2023-03-27 | 11048 | 1163 | 
 | 2023-03-26 | 11045 | 1163 | 
 | 2023-03-24 | 11042 | 1164 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 11002 | 1154 | 
 | 2023-03-01 | 10997 | 1153 | 
 | 2023-02-27 | 10996 | 1153 | 
-| 2023-02-26 | 10996 | 1153 | 
 

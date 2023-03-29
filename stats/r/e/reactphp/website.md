@@ -1,6 +1,6 @@
 # reactphp/website - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 14 | 20 | 
 | 2023-03-26 | 14 | 20 | 
 | 2023-03-25 | 14 | 20 | 
 | 2023-03-24 | 14 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 14 | 20 | 
 | 2023-03-01 | 14 | 20 | 
 | 2023-02-28 | 14 | 20 | 
-| 2023-02-26 | 14 | 20 | 
 

@@ -1,6 +1,6 @@
 # hmcts/hmcts-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3 | 5 | 
 | 2023-03-27 | 3 | 5 | 
 | 2023-03-26 | 3 | 5 | 
 | 2023-03-24 | 3 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 2 | 5 | 
 | 2023-02-28 | 2 | 5 | 
 | 2023-02-27 | 2 | 5 | 
-| 2023-02-26 | 2 | 5 | 
 

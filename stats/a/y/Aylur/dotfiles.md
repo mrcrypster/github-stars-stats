@@ -1,6 +1,6 @@
 # Aylur/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 185 | 7 | 
 | 2023-03-27 | 185 | 7 | 
 | 2023-03-25 | 183 | 7 | 
 | 2023-03-24 | 183 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 164 | 6 | 
 | 2023-02-28 | 164 | 6 | 
 | 2023-02-27 | 164 | 6 | 
-| 2023-02-26 | 163 | 6 | 
 

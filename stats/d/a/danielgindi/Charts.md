@@ -1,10 +1,10 @@
 # danielgindi/Charts - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 5775
+☋ Forks: 5779
 
-★ Stars: 26569
+★ Stars: 26568
 
 [Open repository](https://github.com/danielgindi/Charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 26568 | 5779 | 
 | 2023-03-27 | 26569 | 5775 | 
 | 2023-03-26 | 26568 | 5774 | 
 | 2023-03-25 | 26566 | 5773 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 26500 | 5748 | 
 | 2023-02-28 | 26498 | 5746 | 
 | 2023-02-27 | 26493 | 5743 | 
-| 2023-02-26 | 26492 | 5743 | 
 

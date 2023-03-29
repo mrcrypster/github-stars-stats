@@ -1,10 +1,10 @@
 # mapbox/mapbox-maps-android - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 107
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/mapbox/mapbox-maps-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 287 | 107 | 
 | 2023-03-27 | 286 | 107 | 
 | 2023-03-25 | 285 | 107 | 
 | 2023-03-24 | 285 | 107 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 271 | 104 | 
 | 2023-03-01 | 270 | 104 | 
 | 2023-02-27 | 270 | 103 | 
-| 2023-02-26 | 269 | 103 | 
 

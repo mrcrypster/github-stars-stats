@@ -1,10 +1,10 @@
 # bitbrain/godot-gamejam - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/bitbrain/godot-gamejam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 183 | 5 | 
 | 2023-03-27 | 182 | 5 | 
 | 2023-03-26 | 182 | 5 | 
 | 2023-03-24 | 182 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 163 | 5 | 
 | 2023-03-01 | 162 | 5 | 
 | 2023-02-27 | 162 | 5 | 
-| 2023-02-26 | 163 | 5 | 
 

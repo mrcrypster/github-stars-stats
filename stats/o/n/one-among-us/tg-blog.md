@@ -1,10 +1,10 @@
 # one-among-us/tg-blog - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/one-among-us/tg-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 40 | 2 | 
 | 2023-03-26 | 39 | 2 | 
 | 2023-03-25 | 39 | 2 | 
 | 2023-03-23 | 39 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 37 | 1 | 
 | 2023-03-01 | 37 | 1 | 
 | 2023-02-28 | 37 | 1 | 
-| 2023-02-26 | 37 | 1 | 
 

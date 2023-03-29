@@ -1,6 +1,6 @@
 # mit-plv/rewriter - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 22 | 15 | 
 | 2023-03-26 | 22 | 15 | 
 | 2023-03-25 | 22 | 15 | 
 | 2023-03-23 | 22 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 21 | 15 | 
 | 2023-03-01 | 21 | 14 | 
 | 2023-02-27 | 21 | 14 | 
-| 2023-02-26 | 21 | 14 | 
 

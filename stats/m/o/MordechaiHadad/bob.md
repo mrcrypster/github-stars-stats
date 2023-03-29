@@ -1,10 +1,10 @@
 # MordechaiHadad/bob - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 18
 
-★ Stars: 560
+★ Stars: 569
 
 [Open repository](https://github.com/MordechaiHadad/bob)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 569 | 18 | 
 | 2023-03-27 | 560 | 18 | 
 | 2023-03-26 | 559 | 18 | 
 | 2023-03-25 | 556 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 503 | 17 | 
 | 2023-03-01 | 494 | 17 | 
 | 2023-02-28 | 492 | 17 | 
-| 2023-02-26 | 489 | 16 | 
 

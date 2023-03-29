@@ -1,8 +1,8 @@
 # horizontalsystems/unstoppable-wallet-android - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
-☋ Forks: 307
+☋ Forks: 306
 
 ★ Stars: 585
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 585 | 306 | 
 | 2023-03-26 | 585 | 307 | 
 | 2023-03-25 | 583 | 306 | 
 | 2023-03-24 | 582 | 306 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 572 | 303 | 
 | 2023-03-01 | 573 | 303 | 
 | 2023-02-28 | 573 | 303 | 
-| 2023-02-26 | 572 | 304 | 
 

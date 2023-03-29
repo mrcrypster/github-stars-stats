@@ -1,6 +1,6 @@
 # agg23/analogue-pocket-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 48 | 4 | 
 | 2023-03-27 | 48 | 4 | 
 | 2023-03-25 | 48 | 4 | 
 | 2023-03-24 | 48 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 47 | 4 | 
 | 2023-03-01 | 47 | 4 | 
 | 2023-02-28 | 46 | 4 | 
-| 2023-02-26 | 46 | 4 | 
 

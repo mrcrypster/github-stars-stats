@@ -1,6 +1,6 @@
 # ondrej-kvasnovsky/grails-vaadin-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 51 | 28 | 
 | 2023-03-26 | 51 | 28 | 
 | 2023-03-25 | 51 | 28 | 
 | 2023-03-23 | 51 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 51 | 28 | 
 | 2023-02-28 | 51 | 28 | 
 | 2023-02-27 | 51 | 28 | 
-| 2023-02-26 | 51 | 28 | 
 

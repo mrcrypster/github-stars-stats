@@ -1,10 +1,10 @@
 # aheze/Setting - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 22
+☋ Forks: 21
 
-★ Stars: 957
+★ Stars: 960
 
 [Open repository](https://github.com/aheze/Setting)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 960 | 21 | 
 | 2023-03-27 | 957 | 22 | 
 | 2023-03-25 | 956 | 22 | 
 | 2023-03-24 | 954 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 861 | 16 | 
 | 2023-02-28 | 824 | 15 | 
 | 2023-02-27 | 780 | 15 | 
-| 2023-02-26 | 755 | 14 | 
 

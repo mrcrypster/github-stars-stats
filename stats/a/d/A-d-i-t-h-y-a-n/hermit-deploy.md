@@ -1,6 +1,6 @@
 # A-d-i-t-h-y-a-n/hermit-deploy - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | - | 16 | 
 | 2023-03-26 | - | 16 | 
 | 2023-03-25 | - | 16 | 
 | 2023-03-23 | - | 16 | 

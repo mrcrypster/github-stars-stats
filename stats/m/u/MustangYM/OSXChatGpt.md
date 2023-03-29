@@ -1,10 +1,10 @@
 # MustangYM/OSXChatGpt - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 140
+★ Stars: 146
 
 [Open repository](https://github.com/MustangYM/OSXChatGpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 146 | 12 | 
 | 2023-03-27 | 140 | 10 | 
 | 2023-03-25 | 137 | 9 | 
 | 2023-03-24 | 132 | 8 | 

@@ -1,10 +1,10 @@
 # avrdudes/avr-libc - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 29
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/avrdudes/avr-libc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 110 | 29 | 
 | 2023-03-27 | 109 | 29 | 
 | 2023-03-25 | 107 | 28 | 
 | 2023-03-24 | 107 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 100 | 25 | 
 | 2023-02-28 | 100 | 25 | 
 | 2023-02-27 | 100 | 25 | 
-| 2023-02-26 | 100 | 25 | 
 

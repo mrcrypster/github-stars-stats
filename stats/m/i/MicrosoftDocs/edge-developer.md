@@ -1,8 +1,8 @@
 # MicrosoftDocs/edge-developer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 480
+☋ Forks: 481
 
 ★ Stars: 304
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 304 | 481 | 
 | 2023-03-27 | 304 | 480 | 
 | 2023-03-26 | 304 | 480 | 
 | 2023-03-24 | 304 | 479 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 304 | 474 | 
 | 2023-03-01 | 303 | 473 | 
 | 2023-02-27 | 303 | 473 | 
-| 2023-02-26 | 303 | 471 | 
 

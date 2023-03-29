@@ -1,10 +1,10 @@
 # Cyber-Buddy/APKHunt - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 38
 
-★ Stars: 385
+★ Stars: 391
 
 [Open repository](https://github.com/Cyber-Buddy/APKHunt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 391 | 38 | 
 | 2023-03-27 | 385 | 38 | 
 | 2023-03-26 | 376 | 37 | 
 | 2023-03-25 | 365 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 272 | 29 | 
 | 2023-02-28 | 255 | 28 | 
 | 2023-02-27 | 253 | 28 | 
-| 2023-02-26 | 252 | 28 | 
 

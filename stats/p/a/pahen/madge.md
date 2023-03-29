@@ -1,10 +1,10 @@
 # pahen/madge - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 307
 
-★ Stars: 7164
+★ Stars: 7167
 
 [Open repository](https://github.com/pahen/madge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 7167 | 307 | 
 | 2023-03-26 | 7164 | 307 | 
 | 2023-03-25 | 7162 | 307 | 
 | 2023-03-24 | 7159 | 307 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 7068 | 306 | 
 | 2023-03-01 | 7061 | 306 | 
 | 2023-02-28 | 7057 | 305 | 
-| 2023-02-26 | 7052 | 305 | 
 

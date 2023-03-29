@@ -1,8 +1,8 @@
 # uiaict/ikt218-osdev - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 62
+☋ Forks: 64
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | - | 64 | 
+| 2023-03-28 | - | 63 | 
 | 2023-03-27 | - | 62 | 
 | 2023-03-26 | - | 59 | 
 | 2023-03-25 | - | 59 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | - | 32 | 
 | 2023-02-28 | - | 32 | 
 | 2023-02-27 | - | 29 | 
-| 2023-02-26 | - | 29 | 
 

@@ -1,8 +1,8 @@
 # jvallbona/exercici2 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 37
+☋ Forks: 36
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1 | 36 | 
 | 2023-03-27 | 1 | 37 | 
 | 2023-03-26 | 1 | 37 | 
 | 2023-03-25 | 1 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1 | 38 | 
 | 2023-02-28 | 1 | 38 | 
 | 2023-02-27 | 1 | 38 | 
-| 2023-02-26 | 1 | 38 | 
 

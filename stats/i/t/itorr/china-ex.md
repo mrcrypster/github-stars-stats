@@ -1,10 +1,10 @@
 # itorr/china-ex - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 98
 
-★ Stars: 1349
+★ Stars: 1350
 
 [Open repository](https://github.com/itorr/china-ex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1350 | 98 | 
 | 2023-03-26 | 1349 | 98 | 
 | 2023-03-25 | 1348 | 99 | 
 | 2023-03-23 | 1348 | 98 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 1342 | 103 | 
 | 2023-03-01 | 1342 | 103 | 
 | 2023-02-27 | 1342 | 103 | 
-| 2023-02-26 | 1342 | 103 | 
 

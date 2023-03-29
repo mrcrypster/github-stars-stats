@@ -1,10 +1,10 @@
 # abuseofnotation/category-theory-illustrated - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/abuseofnotation/category-theory-illustrated)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 250 | 27 | 
 | 2023-03-27 | 249 | 26 | 
 | 2023-03-25 | 249 | 26 | 
 | 2023-03-24 | 245 | 26 | 

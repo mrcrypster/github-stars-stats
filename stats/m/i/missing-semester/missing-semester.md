@@ -1,10 +1,10 @@
 # missing-semester/missing-semester - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 874
+☋ Forks: 875
 
-★ Stars: 3823
+★ Stars: 3831
 
 [Open repository](https://github.com/missing-semester/missing-semester)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3831 | 875 | 
 | 2023-03-27 | 3823 | 874 | 
 | 2023-03-25 | 3819 | 873 | 
 | 2023-03-24 | 3816 | 872 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 3739 | 857 | 
 | 2023-02-28 | 3737 | 857 | 
 | 2023-02-27 | 3724 | 857 | 
-| 2023-02-26 | 3711 | 854 | 
 

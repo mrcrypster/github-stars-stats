@@ -1,6 +1,6 @@
 # teaxyz/white-paper - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 166 | 102 | 
 | 2023-03-26 | 166 | 102 | 
 | 2023-03-25 | 165 | 102 | 
 | 2023-03-24 | 165 | 102 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 162 | 101 | 
 | 2023-03-01 | 162 | 100 | 
 | 2023-02-27 | 162 | 100 | 
-| 2023-02-26 | 162 | 100 | 
 

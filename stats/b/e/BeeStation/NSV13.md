@@ -1,8 +1,8 @@
 # BeeStation/NSV13 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 205
+☋ Forks: 214
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 85 | 214 | 
 | 2023-03-27 | 85 | 205 | 
 | 2023-03-25 | 85 | 205 | 
 | 2023-03-24 | 85 | 205 | 

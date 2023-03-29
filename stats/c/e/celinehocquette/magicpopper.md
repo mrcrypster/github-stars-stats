@@ -1,6 +1,6 @@
 # celinehocquette/magicpopper - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 15 | 1 | 
 | 2023-03-26 | 15 | 1 | 
 | 2023-03-25 | 15 | 1 | 
 | 2023-03-24 | 13 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 13 | 1 | 
 | 2023-03-01 | 13 | 1 | 
 | 2023-02-27 | 13 | 1 | 
-| 2023-02-26 | 13 | 1 | 
 

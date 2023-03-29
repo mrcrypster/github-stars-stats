@@ -1,10 +1,10 @@
 # SteamDeckHomebrew/PluginLoader - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 85
 
-★ Stars: 2157
+★ Stars: 2164
 
 [Open repository](https://github.com/SteamDeckHomebrew/PluginLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2164 | 85 | 
 | 2023-03-26 | 2157 | 85 | 
 | 2023-03-25 | 2144 | 85 | 
 | 2023-03-24 | 2130 | 84 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 1970 | 80 | 
 | 2023-02-28 | 1960 | 80 | 
 | 2023-02-27 | 1948 | 80 | 
-| 2023-02-26 | 1934 | 79 | 
 

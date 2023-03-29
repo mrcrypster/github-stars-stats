@@ -1,10 +1,10 @@
 # bytemate/larkgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 47
 
-★ Stars: 296
+★ Stars: 298
 
 [Open repository](https://github.com/bytemate/larkgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 298 | 47 | 
 | 2023-03-26 | 296 | 47 | 
 | 2023-03-25 | 296 | 47 | 
 | 2023-03-24 | 296 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 284 | 44 | 
 | 2023-02-28 | 282 | 43 | 
 | 2023-02-27 | 282 | 43 | 
-| 2023-02-26 | 281 | 43 | 
 

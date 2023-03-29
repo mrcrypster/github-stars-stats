@@ -1,6 +1,6 @@
 # MasonSlover/MasonSlover - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 18 | 32 | 
 | 2023-03-26 | 18 | 32 | 
 | 2023-03-25 | 18 | 32 | 
 | 2023-03-23 | 18 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 18 | 31 | 
 | 2023-03-01 | 18 | 31 | 
 | 2023-02-28 | 18 | 31 | 
-| 2023-02-26 | 18 | 31 | 
 

@@ -1,10 +1,10 @@
 # apache/linkis - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 1024
+☋ Forks: 1027
 
-★ Stars: 2998
+★ Stars: 3001
 
 [Open repository](https://github.com/apache/linkis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 3001 | 1027 | 
 | 2023-03-27 | 2998 | 1024 | 
 | 2023-03-25 | 2999 | 1023 | 
 | 2023-03-24 | 3000 | 1022 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 2972 | 1011 | 
 | 2023-02-28 | 2971 | 1011 | 
 | 2023-02-27 | 2968 | 1009 | 
-| 2023-02-26 | 2965 | 1008 | 
 

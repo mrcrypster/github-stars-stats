@@ -1,10 +1,10 @@
 # Azure-Samples/iot-middleware-freertos-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 36
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/Azure-Samples/iot-middleware-freertos-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 56 | 36 | 
 | 2023-03-27 | 55 | 36 | 
 | 2023-03-26 | 55 | 36 | 
 | 2023-03-25 | 55 | 36 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 52 | 34 | 
 | 2023-02-28 | 51 | 34 | 
 | 2023-02-27 | 51 | 34 | 
-| 2023-02-26 | 51 | 34 | 
 

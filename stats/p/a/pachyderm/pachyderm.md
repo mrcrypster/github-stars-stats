@@ -1,10 +1,10 @@
 # pachyderm/pachyderm - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 548
 
-★ Stars: 5867
+★ Stars: 5870
 
 [Open repository](https://github.com/pachyderm/pachyderm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 5870 | 548 | 
 | 2023-03-27 | 5867 | 548 | 
 | 2023-03-26 | 5867 | 548 | 
 | 2023-03-24 | 5868 | 548 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 5855 | 548 | 
 | 2023-03-01 | 5854 | 548 | 
 | 2023-02-28 | 5853 | 548 | 
-| 2023-02-26 | 5850 | 548 | 
 

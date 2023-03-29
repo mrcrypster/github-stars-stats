@@ -1,10 +1,10 @@
 # karlseguin/log.zig - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 32
 
 [Open repository](https://github.com/karlseguin/log.zig)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 32 | - | 
+| 2023-03-28 | 32 | - | 
 | 2023-03-26 | 23 | - | 
 | 2023-03-25 | 23 | - | 
 | 2023-03-24 | 22 | - | 

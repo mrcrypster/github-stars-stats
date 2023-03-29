@@ -1,8 +1,8 @@
 # lost-ark-dev/loa-details - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 27 | 10 | 
 | 2023-03-27 | 27 | 9 | 
 | 2023-03-25 | 26 | 9 | 
 | 2023-03-24 | 26 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 21 | 5 | 
 | 2023-02-28 | 21 | 5 | 
 | 2023-02-27 | 21 | 5 | 
-| 2023-02-26 | 21 | 5 | 
 

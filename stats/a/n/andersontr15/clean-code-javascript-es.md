@@ -1,10 +1,10 @@
 # andersontr15/clean-code-javascript-es - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 399
+☋ Forks: 400
 
-★ Stars: 1626
+★ Stars: 1627
 
 [Open repository](https://github.com/andersontr15/clean-code-javascript-es)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 1627 | 400 | 
 | 2023-03-27 | 1626 | 399 | 
 | 2023-03-25 | 1626 | 399 | 
 | 2023-03-24 | 1622 | 395 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 1429 | 353 | 
 | 2023-02-28 | 1429 | 352 | 
 | 2023-02-27 | 1423 | 352 | 
-| 2023-02-26 | 1421 | 352 | 
 

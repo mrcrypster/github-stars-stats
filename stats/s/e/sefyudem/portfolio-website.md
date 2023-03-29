@@ -1,6 +1,6 @@
 # sefyudem/portfolio-website - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 126 | 123 | 
 | 2023-03-26 | 126 | 123 | 
 | 2023-03-25 | 126 | 123 | 
 | 2023-03-23 | 126 | 123 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-01 | 123 | 121 | 
 | 2023-02-28 | 123 | 121 | 
 | 2023-02-27 | 123 | 121 | 
-| 2023-02-26 | 123 | 121 | 
 

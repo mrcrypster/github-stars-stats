@@ -1,6 +1,6 @@
 # SummitRoute/aws_breaking_changes - stars & forks statistics
 
-Stats updated on Mar 2023, 26
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 663 | 22 | 
 | 2023-03-26 | 663 | 22 | 
 | 2023-03-25 | 663 | 22 | 
 | 2023-03-24 | 663 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 26
 | 2023-03-02 | 661 | 22 | 
 | 2023-03-01 | 661 | 22 | 
 | 2023-02-28 | 661 | 22 | 
-| 2023-02-26 | 661 | 22 | 
 

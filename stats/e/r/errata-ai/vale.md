@@ -1,6 +1,6 @@
 # errata-ai/vale - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 2985 | 116 | 
 | 2023-03-27 | 2985 | 116 | 
 | 2023-03-26 | 2985 | 116 | 
 | 2023-03-24 | 2983 | 116 | 

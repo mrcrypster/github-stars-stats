@@ -1,10 +1,10 @@
 # PanJiaChen/vue-admin-template - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 28
 
-☋ Forks: 6917
+☋ Forks: 6918
 
-★ Stars: 18048
+★ Stars: 18060
 
 [Open repository](https://github.com/PanJiaChen/vue-admin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-28 | 18060 | 6918 | 
 | 2023-03-27 | 18048 | 6917 | 
 | 2023-03-26 | 18034 | 6910 | 
 | 2023-03-24 | 18028 | 6911 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-01 | 17851 | 6850 | 
 | 2023-02-28 | 17840 | 6850 | 
 | 2023-02-27 | 17826 | 6846 | 
-| 2023-02-26 | 17820 | 6846 | 
 
