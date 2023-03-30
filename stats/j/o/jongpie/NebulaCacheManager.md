@@ -1,10 +1,10 @@
 # jongpie/NebulaCacheManager - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/jongpie/NebulaCacheManager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 20 | 2 | 
 | 2023-03-27 | 19 | 2 | 
 | 2023-03-26 | 19 | 2 | 
 | 2023-03-25 | 18 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 11 | 1 | 
 | 2023-03-02 | 11 | 1 | 
 | 2023-03-01 | 11 | 1 | 
-| 2023-02-27 | 11 | 1 | 
 

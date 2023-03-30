@@ -1,10 +1,10 @@
 # PDP-10/its - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 70
 
-★ Stars: 705
+★ Stars: 706
 
 [Open repository](https://github.com/PDP-10/its)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 706 | 70 | 
 | 2023-03-28 | 705 | 70 | 
 | 2023-03-26 | 705 | 69 | 
 | 2023-03-25 | 705 | 69 | 

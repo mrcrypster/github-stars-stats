@@ -1,10 +1,10 @@
 # aheze/Squirrel - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 19
 
-★ Stars: 507
+★ Stars: 508
 
 [Open repository](https://github.com/aheze/Squirrel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 508 | 19 | 
 | 2023-03-28 | 507 | 19 | 
 | 2023-03-26 | 507 | 19 | 
 | 2023-03-25 | 506 | 19 | 

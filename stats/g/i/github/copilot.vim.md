@@ -1,10 +1,10 @@
 # github/copilot.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 176
+☋ Forks: 177
 
-★ Stars: 4761
+★ Stars: 4782
 
 [Open repository](https://github.com/github/copilot.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4782 | 177 | 
 | 2023-03-28 | 4761 | 176 | 
 | 2023-03-27 | 4729 | 175 | 
 | 2023-03-26 | 4701 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 4330 | 164 | 
 | 2023-03-01 | 4323 | 164 | 
 | 2023-02-28 | 4319 | 164 | 
-| 2023-02-27 | 4312 | 164 | 
 

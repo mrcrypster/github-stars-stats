@@ -1,10 +1,10 @@
 # TakSec/chatgpt-prompts-bug-bounty - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 128
+★ Stars: 164
 
 [Open repository](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 164 | 17 | 
 | 2023-03-27 | 128 | 16 | 
 | 2023-03-26 | 120 | 16 | 
 | 2023-03-25 | 120 | 17 | 

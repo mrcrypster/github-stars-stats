@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-oo-basics-email-parser-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1306
+☋ Forks: 1307
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | - | 1307 | 
 | 2023-03-27 | - | 1306 | 
 | 2023-03-26 | - | 1305 | 
 | 2023-03-25 | - | 1304 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | - | 1284 | 
 | 2023-03-01 | - | 1283 | 
 | 2023-02-28 | - | 1283 | 
-| 2023-02-27 | - | 1282 | 
 

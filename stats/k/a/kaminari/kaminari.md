@@ -1,10 +1,10 @@
 # kaminari/kaminari - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1084
 
-★ Stars: 8353
+★ Stars: 8354
 
 [Open repository](https://github.com/kaminari/kaminari)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 8354 | 1084 | 
 | 2023-03-28 | 8353 | 1084 | 
 | 2023-03-27 | 8350 | 1084 | 
 | 2023-03-25 | 8350 | 1084 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 8344 | 1079 | 
 | 2023-03-02 | 8343 | 1078 | 
 | 2023-03-01 | 8343 | 1078 | 
-| 2023-02-27 | 8343 | 1078 | 
 

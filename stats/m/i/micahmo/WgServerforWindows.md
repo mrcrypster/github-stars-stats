@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 35
 
-★ Stars: 378
+★ Stars: 382
 
 [Open repository](https://github.com/micahmo/WgServerforWindows)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 378 | 35 | 
+| 2023-03-29 | 382 | 35 | 
 | 2023-03-28 | 372 | 35 | 
 

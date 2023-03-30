@@ -1,10 +1,10 @@
 # isl-org/MiDaS - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 416
 
-★ Stars: 2691
+★ Stars: 2699
 
 [Open repository](https://github.com/isl-org/MiDaS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2699 | 416 | 
 | 2023-03-27 | 2691 | 416 | 
 | 2023-03-26 | 2687 | 416 | 
 | 2023-03-25 | 2684 | 416 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2553 | 402 | 
 | 2023-03-01 | 2546 | 399 | 
 | 2023-02-28 | 2539 | 399 | 
-| 2023-02-27 | 2530 | 399 | 
 

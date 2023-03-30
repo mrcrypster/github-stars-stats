@@ -1,6 +1,6 @@
 # meta-qt5/meta-qt5 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 304
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 228 | 304 | 
+| 2023-03-29 | 228 | 304 | 
 | 2023-03-27 | 228 | 304 | 
 | 2023-03-26 | 228 | 304 | 
 | 2023-03-25 | 228 | 304 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 226 | 305 | 
 | 2023-03-01 | 226 | 305 | 
 | 2023-02-28 | 226 | 306 | 
-| 2023-02-27 | 226 | 306 | 
 

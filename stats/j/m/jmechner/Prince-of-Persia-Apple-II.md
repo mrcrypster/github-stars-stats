@@ -1,10 +1,10 @@
 # jmechner/Prince-of-Persia-Apple-II - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 661
 
-★ Stars: 6158
+★ Stars: 6159
 
 [Open repository](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6159 | 661 | 
 | 2023-03-28 | 6158 | 661 | 
 | 2023-03-26 | 6157 | 661 | 
 | 2023-03-25 | 6156 | 661 | 

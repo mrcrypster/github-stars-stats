@@ -1,8 +1,8 @@
 # biox/pa - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 454
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 454 | 15 | 
 | 2023-03-28 | 454 | 14 | 
 | 2023-03-26 | 454 | 14 | 
 | 2023-03-25 | 453 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 448 | 13 | 
 | 2023-03-01 | 448 | 13 | 
 | 2023-02-28 | 448 | 13 | 
-| 2023-02-27 | 448 | 13 | 
 

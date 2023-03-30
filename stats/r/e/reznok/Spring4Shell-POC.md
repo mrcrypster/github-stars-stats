@@ -1,10 +1,10 @@
 # reznok/Spring4Shell-POC - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 222
 
-★ Stars: 283
+★ Stars: 282
 
 [Open repository](https://github.com/reznok/Spring4Shell-POC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 282 | 222 | 
 | 2023-03-28 | 283 | 222 | 
 | 2023-03-26 | 283 | 222 | 
 | 2023-03-25 | 283 | 222 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 279 | 217 | 
 | 2023-03-01 | 279 | 218 | 
 | 2023-02-28 | 278 | 219 | 
-| 2023-02-27 | 278 | 219 | 
 

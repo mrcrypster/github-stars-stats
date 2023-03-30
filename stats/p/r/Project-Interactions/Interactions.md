@@ -1,6 +1,6 @@
 # Project-Interactions/Interactions - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 13 | 10 | 
 | 2023-03-28 | 13 | 10 | 
 | 2023-03-26 | 13 | 10 | 
 | 2023-03-25 | 13 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 13 | 9 | 
 | 2023-03-01 | 13 | 9 | 
 | 2023-02-28 | 13 | 9 | 
-| 2023-02-27 | 13 | 9 | 
 

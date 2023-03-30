@@ -1,10 +1,10 @@
 # realgud/realgud - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 81
 
-★ Stars: 827
+★ Stars: 828
 
 [Open repository](https://github.com/realgud/realgud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 828 | 81 | 
 | 2023-03-28 | 827 | 81 | 
 | 2023-03-26 | 827 | 81 | 
 | 2023-03-25 | 827 | 81 | 

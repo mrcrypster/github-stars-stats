@@ -1,10 +1,10 @@
 # saeyslab/nichenetr - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 108
 
-★ Stars: 332
+★ Stars: 333
 
 [Open repository](https://github.com/saeyslab/nichenetr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 333 | 108 | 
 | 2023-03-28 | 332 | 108 | 
 | 2023-03-26 | 332 | 108 | 
 | 2023-03-25 | 331 | 108 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 327 | 107 | 
 | 2023-03-02 | 326 | 107 | 
 | 2023-02-28 | 326 | 106 | 
-| 2023-02-27 | 326 | 106 | 
 

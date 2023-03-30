@@ -1,10 +1,10 @@
 # jorgenschaefer/pyvenv - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 54
 
-★ Stars: 314
+★ Stars: 315
 
 [Open repository](https://github.com/jorgenschaefer/pyvenv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 315 | 54 | 
 | 2023-03-27 | 314 | 54 | 
 | 2023-03-26 | 314 | 54 | 
 | 2023-03-24 | 314 | 54 | 

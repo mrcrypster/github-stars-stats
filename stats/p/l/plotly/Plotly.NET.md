@@ -1,10 +1,10 @@
 # plotly/Plotly.NET - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 60
 
-★ Stars: 415
+★ Stars: 420
 
 [Open repository](https://github.com/plotly/Plotly.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 420 | 60 | 
 | 2023-03-27 | 415 | 60 | 
 | 2023-03-26 | 414 | 59 | 
 | 2023-03-25 | 414 | 59 | 

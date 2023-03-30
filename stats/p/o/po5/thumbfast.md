@@ -1,6 +1,6 @@
 # po5/thumbfast - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 268 | 31 | 
 | 2023-03-28 | 268 | 31 | 
 | 2023-03-27 | 267 | 30 | 
 | 2023-03-26 | 264 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 244 | 25 | 
 | 2023-03-01 | 242 | 25 | 
 | 2023-02-28 | 239 | 25 | 
-| 2023-02-27 | 237 | 25 | 
 

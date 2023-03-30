@@ -1,10 +1,10 @@
 # leonoel/missionary - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 15
 
-★ Stars: 480
+★ Stars: 481
 
 [Open repository](https://github.com/leonoel/missionary)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 481 | 15 | 
 | 2023-03-27 | 480 | 15 | 
 | 2023-03-26 | 480 | 15 | 
 | 2023-03-25 | 480 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 468 | 14 | 
 | 2023-03-02 | 467 | 14 | 
 | 2023-02-28 | 467 | 14 | 
-| 2023-02-27 | 467 | 14 | 
 

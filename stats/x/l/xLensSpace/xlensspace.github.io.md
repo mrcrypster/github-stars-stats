@@ -1,10 +1,10 @@
 # xLensSpace/xlensspace.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 63
+★ Stars: 68
 
 [Open repository](https://github.com/xLensSpace/xlensspace.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 68 | 1 | 
 | 2023-03-28 | 63 | 1 | 
 | 2023-03-26 | 63 | 1 | 
 | 2023-03-25 | 59 | 1 | 

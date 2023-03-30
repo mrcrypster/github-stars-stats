@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-control-flow-loops - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 2645
+☋ Forks: 2646
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2 | 2646 | 
 | 2023-03-28 | 2 | 2645 | 
 | 2023-03-26 | 2 | 2645 | 
 | 2023-03-25 | 2 | 2643 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 2 | 2597 | 
 | 2023-03-01 | 1 | 2597 | 
 | 2023-02-28 | 1 | 2600 | 
-| 2023-02-27 | 1 | 2599 | 
 

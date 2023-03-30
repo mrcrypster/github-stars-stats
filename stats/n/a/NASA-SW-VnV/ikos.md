@@ -1,6 +1,6 @@
 # NASA-SW-VnV/ikos - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1793 | 133 | 
 | 2023-03-27 | 1793 | 133 | 
 | 2023-03-26 | 1792 | 133 | 
 | 2023-03-25 | 1792 | 133 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 1785 | 134 | 
 | 2023-03-02 | 1785 | 134 | 
 | 2023-03-01 | 1785 | 134 | 
-| 2023-02-27 | 1784 | 134 | 
 

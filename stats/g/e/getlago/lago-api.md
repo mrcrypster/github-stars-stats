@@ -1,10 +1,10 @@
 # getlago/lago-api - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 15
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/getlago/lago-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 128 | 15 | 
 | 2023-03-27 | 127 | 15 | 
 | 2023-03-26 | 127 | 15 | 
 | 2023-03-25 | 127 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 126 | 13 | 
 | 2023-03-01 | 125 | 13 | 
 | 2023-02-28 | 124 | 13 | 
-| 2023-02-27 | 124 | 13 | 
 

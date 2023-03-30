@@ -1,10 +1,10 @@
 # t3-oss/create-t3-turbo - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 155
+☋ Forks: 156
 
-★ Stars: 2278
+★ Stars: 2296
 
 [Open repository](https://github.com/t3-oss/create-t3-turbo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2296 | 156 | 
 | 2023-03-27 | 2278 | 155 | 
 | 2023-03-26 | 2268 | 154 | 
 | 2023-03-24 | 2249 | 153 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2069 | 140 | 
 | 2023-03-01 | 2066 | 141 | 
 | 2023-02-28 | 2062 | 140 | 
-| 2023-02-27 | 2052 | 140 | 
 

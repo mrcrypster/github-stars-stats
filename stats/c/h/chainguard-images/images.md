@@ -1,10 +1,10 @@
 # chainguard-images/images - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 43
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/chainguard-images/images)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 212 | 43 | 
 | 2023-03-28 | 211 | 43 | 
 | 2023-03-27 | 206 | 42 | 
 | 2023-03-25 | 204 | 42 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 146 | 35 | 
 | 2023-03-01 | 146 | 32 | 
 | 2023-02-28 | 146 | 31 | 
-| 2023-02-27 | 144 | 30 | 
 

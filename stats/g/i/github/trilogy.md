@@ -1,6 +1,6 @@
 # github/trilogy - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 496 | 34 | 
 | 2023-03-27 | 496 | 34 | 
 | 2023-03-26 | 497 | 34 | 
 | 2023-03-25 | 497 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 489 | 31 | 
 | 2023-03-02 | 488 | 31 | 
 | 2023-02-28 | 488 | 31 | 
-| 2023-02-27 | 489 | 31 | 
 

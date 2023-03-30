@@ -1,8 +1,8 @@
 # ekoerp1/eaglercraft-1.15-Final-Release - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 58
+☋ Forks: 62
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 8 | 62 | 
 | 2023-03-27 | 8 | 58 | 
 | 2023-03-26 | 8 | 58 | 
 | 2023-03-24 | 8 | 56 | 

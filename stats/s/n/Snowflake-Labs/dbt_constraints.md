@@ -1,6 +1,6 @@
 # Snowflake-Labs/dbt_constraints - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 79 | 16 | 
 | 2023-03-27 | 79 | 16 | 
 | 2023-03-26 | 79 | 16 | 
 | 2023-03-25 | 79 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 72 | 16 | 
 | 2023-03-01 | 71 | 16 | 
 | 2023-02-28 | 71 | 15 | 
-| 2023-02-27 | 71 | 15 | 
 

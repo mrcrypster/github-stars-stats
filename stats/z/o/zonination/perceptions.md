@@ -1,6 +1,6 @@
 # zonination/perceptions - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 790 | 94 | 
 | 2023-03-27 | 790 | 94 | 
 | 2023-03-26 | 790 | 94 | 
 | 2023-03-24 | 790 | 94 | 

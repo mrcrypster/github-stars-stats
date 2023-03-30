@@ -1,8 +1,8 @@
 # android-password-store/Android-Password-Store - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 233
+☋ Forks: 232
 
 ★ Stars: 2221
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2221 | 232 | 
 | 2023-03-27 | 2221 | 233 | 
 | 2023-03-26 | 2221 | 233 | 
 | 2023-03-24 | 2218 | 233 | 

@@ -1,10 +1,10 @@
 # Leizhenpeng/ChatGPT-PerfectUI - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 49
+★ Stars: 58
 
 [Open repository](https://github.com/Leizhenpeng/ChatGPT-PerfectUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 58 | 13 | 
 | 2023-03-27 | 49 | 12 | 
 | 2023-03-26 | 45 | 11 | 
 | 2023-03-25 | 40 | 11 | 

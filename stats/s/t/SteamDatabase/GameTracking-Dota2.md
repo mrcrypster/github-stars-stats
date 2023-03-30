@@ -1,10 +1,10 @@
 # SteamDatabase/GameTracking-Dota2 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 181
 
-★ Stars: 585
+★ Stars: 584
 
 [Open repository](https://github.com/SteamDatabase/GameTracking-Dota2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 584 | 181 | 
 | 2023-03-28 | 585 | 181 | 
 | 2023-03-26 | 586 | 181 | 
 | 2023-03-25 | 585 | 181 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 572 | 179 | 
 | 2023-03-01 | 571 | 178 | 
 | 2023-02-28 | 571 | 178 | 
-| 2023-02-27 | 570 | 178 | 
 

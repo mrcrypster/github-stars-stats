@@ -1,6 +1,6 @@
 # xerolinux/xero_iso - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 72 | 17 | 
 | 2023-03-27 | 72 | 17 | 
 | 2023-03-26 | 72 | 17 | 
 | 2023-03-25 | 72 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 68 | 16 | 
 | 2023-03-02 | 68 | 16 | 
 | 2023-03-01 | 68 | 16 | 
-| 2023-02-28 | 68 | 16 | 
 

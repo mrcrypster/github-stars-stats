@@ -1,6 +1,6 @@
 # Eugenio-Pozzobon/mdt-ufsm-2021-latex - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 27 | 6 | 
 | 2023-03-27 | 27 | 6 | 
 | 2023-03-25 | 27 | 6 | 
 | 2023-03-24 | 27 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 26 | 5 | 
 | 2023-03-01 | 26 | 5 | 
 | 2023-02-28 | 26 | 5 | 
-| 2023-02-27 | 26 | 5 | 
 

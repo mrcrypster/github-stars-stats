@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 175
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/NVIDIA/spark-rapids)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 524 | 175 | 
+| 2023-03-29 | 525 | 175 | 
 | 2023-03-27 | 524 | 174 | 
 | 2023-03-26 | 524 | 174 | 
 | 2023-03-25 | 524 | 174 | 
@@ -36,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-02 | 513 | 173 | 
 | 2023-03-01 | 513 | 173 | 
 | 2023-02-28 | 513 | 173 | 
-| 2023-02-27 | 513 | 173 | 
 

@@ -1,10 +1,10 @@
 # devongovett/glob-match - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/devongovett/glob-match)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 272 | 10 | 
 | 2023-03-27 | 271 | 10 | 
 | 2023-03-26 | 270 | 10 | 
 | 2023-03-25 | 259 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 257 | 9 | 
 | 2023-03-01 | 257 | 9 | 
 | 2023-02-28 | 257 | 9 | 
-| 2023-02-27 | 257 | 9 | 
 

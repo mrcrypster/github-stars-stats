@@ -1,6 +1,6 @@
 # nex3/haml-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 142 | 40 | 
 | 2023-03-27 | 142 | 40 | 
 | 2023-03-25 | 142 | 40 | 
 | 2023-03-24 | 142 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 142 | 40 | 
 | 2023-03-01 | 142 | 40 | 
 | 2023-02-28 | 142 | 40 | 
-| 2023-02-27 | 142 | 40 | 
 

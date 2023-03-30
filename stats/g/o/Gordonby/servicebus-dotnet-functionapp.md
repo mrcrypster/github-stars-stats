@@ -1,10 +1,10 @@
 # Gordonby/servicebus-dotnet-functionapp - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Gordonby/servicebus-dotnet-functionapp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 14 | 1 | 
 | 2023-03-27 | 13 | 1 | 
 | 2023-03-25 | 13 | 1 | 
 | 2023-03-24 | 13 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 13 | 1 | 
 | 2023-03-02 | 13 | 1 | 
 | 2023-03-01 | 13 | 1 | 
-| 2023-02-27 | 13 | 1 | 
 

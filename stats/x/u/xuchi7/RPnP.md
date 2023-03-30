@@ -1,6 +1,6 @@
 # xuchi7/RPnP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 19 | 4 | 
 | 2023-03-28 | 19 | 4 | 
 | 2023-03-26 | 19 | 4 | 
 | 2023-03-25 | 19 | 4 | 

@@ -1,6 +1,6 @@
 # trustdecision/trustdevice-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 193 | 7 | 
 | 2023-03-27 | 193 | 7 | 
 | 2023-03-26 | 192 | 7 | 
 | 2023-03-25 | 192 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 178 | 6 | 
 | 2023-03-01 | 175 | 6 | 
 | 2023-02-28 | 174 | 6 | 
-| 2023-02-27 | 173 | 6 | 
 

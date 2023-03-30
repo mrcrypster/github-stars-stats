@@ -1,10 +1,10 @@
 # k88hudson/git-flight-rules - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3184
 
-★ Stars: 40924
+★ Stars: 40925
 
 [Open repository](https://github.com/k88hudson/git-flight-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 40925 | 3184 | 
 | 2023-03-27 | 40924 | 3184 | 
 | 2023-03-26 | 40920 | 3183 | 
 | 2023-03-24 | 40915 | 3182 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 40868 | 3178 | 
 | 2023-03-01 | 40859 | 3177 | 
 | 2023-02-28 | 40854 | 3176 | 
-| 2023-02-27 | 40858 | 3175 | 
 

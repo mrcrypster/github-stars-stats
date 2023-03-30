@@ -1,10 +1,10 @@
 # lostisland/faraday - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 962
 
-★ Stars: 5457
+★ Stars: 5459
 
 [Open repository](https://github.com/lostisland/faraday)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5459 | 962 | 
 | 2023-03-28 | 5457 | 962 | 
 | 2023-03-26 | 5457 | 961 | 
 | 2023-03-25 | 5457 | 961 | 

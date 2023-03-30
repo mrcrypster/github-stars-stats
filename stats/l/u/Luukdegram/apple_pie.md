@@ -1,6 +1,6 @@
 # Luukdegram/apple_pie - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 142 | 21 | 
 | 2023-03-27 | 142 | 21 | 
 | 2023-03-26 | 142 | 21 | 
 | 2023-03-25 | 141 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 137 | 20 | 
 | 2023-03-01 | 137 | 20 | 
 | 2023-02-28 | 137 | 20 | 
-| 2023-02-27 | 137 | 20 | 
 

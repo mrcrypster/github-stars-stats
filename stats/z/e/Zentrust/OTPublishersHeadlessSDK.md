@@ -1,10 +1,10 @@
 # Zentrust/OTPublishersHeadlessSDK - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Zentrust/OTPublishersHeadlessSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3 | 3 | 
 | 2023-03-28 | 2 | 3 | 
 | 2023-03-26 | 2 | 3 | 
 | 2023-03-25 | 2 | 3 | 

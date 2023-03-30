@@ -1,10 +1,10 @@
 # Sicos1977/MsgKit - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 54
 
-★ Stars: 144
+★ Stars: 146
 
 [Open repository](https://github.com/Sicos1977/MsgKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 146 | 54 | 
 | 2023-03-28 | 144 | 54 | 
 | 2023-03-27 | 144 | 54 | 
 | 2023-03-25 | 144 | 54 | 

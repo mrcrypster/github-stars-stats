@@ -1,10 +1,10 @@
 # grafana/grafonnet-lib - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 217
 
-★ Stars: 1053
+★ Stars: 1054
 
 [Open repository](https://github.com/grafana/grafonnet-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1054 | 217 | 
 | 2023-03-28 | 1053 | 217 | 
 | 2023-03-27 | 1053 | 217 | 
 | 2023-03-26 | 1053 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 1047 | 216 | 
 | 2023-03-01 | 1044 | 216 | 
 | 2023-02-28 | 1044 | 216 | 
-| 2023-02-27 | 1043 | 216 | 
 

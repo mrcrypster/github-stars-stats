@@ -1,6 +1,6 @@
 # bgamari/b-tree - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 115 | 6 | 
 | 2023-03-27 | 115 | 6 | 
 | 2023-03-26 | 115 | 6 | 
 | 2023-03-25 | 115 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 115 | 6 | 
 | 2023-03-01 | 115 | 6 | 
 | 2023-02-28 | 115 | 6 | 
-| 2023-02-27 | 115 | 6 | 
 

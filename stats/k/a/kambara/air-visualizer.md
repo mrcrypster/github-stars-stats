@@ -1,10 +1,10 @@
 # kambara/air-visualizer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/kambara/air-visualizer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 121 | 8 | 
 | 2023-03-27 | 120 | 8 | 
 | 2023-03-25 | 120 | 8 | 
 | 2023-03-24 | 120 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 120 | 8 | 
 | 2023-03-02 | 120 | 8 | 
 | 2023-02-28 | 120 | 8 | 
-| 2023-02-27 | 120 | 8 | 
 

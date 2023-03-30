@@ -1,6 +1,6 @@
 # ueberauth/guardian - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3302 | 371 | 
 | 2023-03-27 | 3302 | 371 | 
 | 2023-03-26 | 3303 | 371 | 
 | 2023-03-25 | 3303 | 371 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 3292 | 371 | 
 | 2023-03-02 | 3292 | 372 | 
 | 2023-02-28 | 3291 | 372 | 
-| 2023-02-27 | 3290 | 372 | 
 

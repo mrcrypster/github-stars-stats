@@ -1,8 +1,8 @@
 # rrrene/credo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 387
+☋ Forks: 388
 
 ★ Stars: 4582
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4582 | 388 | 
 | 2023-03-28 | 4582 | 387 | 
 | 2023-03-26 | 4580 | 387 | 
 | 2023-03-25 | 4579 | 387 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 4560 | 385 | 
 | 2023-03-01 | 4558 | 385 | 
 | 2023-02-28 | 4557 | 385 | 
-| 2023-02-27 | 4558 | 385 | 
 

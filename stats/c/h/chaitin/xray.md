@@ -1,10 +1,10 @@
 # chaitin/xray - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1656
+☋ Forks: 1658
 
-★ Stars: 8099
+★ Stars: 8102
 
 [Open repository](https://github.com/chaitin/xray)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 8102 | 1658 | 
 | 2023-03-28 | 8099 | 1656 | 
 | 2023-03-27 | 8091 | 1654 | 
 | 2023-03-26 | 8080 | 1653 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 7975 | 1643 | 
 | 2023-03-01 | 7969 | 1641 | 
 | 2023-02-28 | 7965 | 1639 | 
-| 2023-02-27 | 7958 | 1639 | 
 

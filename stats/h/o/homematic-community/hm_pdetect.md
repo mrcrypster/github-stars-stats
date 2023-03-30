@@ -1,10 +1,10 @@
 # homematic-community/hm_pdetect - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/homematic-community/hm_pdetect)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 71 | 6 | 
 | 2023-03-28 | 70 | 6 | 
 | 2023-03-27 | 70 | 6 | 
 | 2023-03-26 | 70 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 69 | 6 | 
 | 2023-03-01 | 69 | 6 | 
 | 2023-02-28 | 68 | 6 | 
-| 2023-02-27 | 68 | 6 | 
 

@@ -1,10 +1,10 @@
 # owncloud/ocis - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 115
 
-★ Stars: 826
+★ Stars: 829
 
 [Open repository](https://github.com/owncloud/ocis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 829 | 115 | 
 | 2023-03-28 | 826 | 115 | 
 | 2023-03-26 | 823 | 115 | 
 | 2023-03-25 | 822 | 115 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 801 | 113 | 
 | 2023-03-02 | 800 | 113 | 
 | 2023-03-01 | 800 | 113 | 
-| 2023-02-27 | 798 | 113 | 
 

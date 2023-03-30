@@ -1,10 +1,10 @@
 # slim-template/slim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 505
+☋ Forks: 506
 
-★ Stars: 5198
+★ Stars: 5200
 
 [Open repository](https://github.com/slim-template/slim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5200 | 506 | 
 | 2023-03-28 | 5198 | 505 | 
 | 2023-03-26 | 5198 | 505 | 
 | 2023-03-25 | 5199 | 505 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 5193 | 505 | 
 | 2023-03-01 | 5193 | 505 | 
 | 2023-02-28 | 5189 | 505 | 
-| 2023-02-27 | 5189 | 506 | 
 

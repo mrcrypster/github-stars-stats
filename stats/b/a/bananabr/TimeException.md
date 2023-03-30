@@ -1,6 +1,6 @@
 # bananabr/TimeException - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 185 | 17 | 
 | 2023-03-28 | 185 | 17 | 
 | 2023-03-26 | 185 | 17 | 
 | 2023-03-25 | 185 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 161 | 15 | 
 | 2023-03-01 | 160 | 15 | 
 | 2023-02-28 | 160 | 15 | 
-| 2023-02-27 | 160 | 15 | 
 

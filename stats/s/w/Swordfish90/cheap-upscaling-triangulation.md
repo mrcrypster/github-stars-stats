@@ -1,10 +1,10 @@
 # Swordfish90/cheap-upscaling-triangulation - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 27
 
 [Open repository](https://github.com/Swordfish90/cheap-upscaling-triangulation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 27 | 1 | 
 | 2023-03-27 | 24 | 1 | 
 | 2023-03-26 | 25 | 1 | 
 | 2023-03-25 | 25 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 24 | 1 | 
 | 2023-03-02 | 24 | 1 | 
 | 2023-02-28 | 24 | 1 | 
-| 2023-02-27 | 24 | 1 | 
 

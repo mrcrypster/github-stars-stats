@@ -1,10 +1,10 @@
 # nivekuil/nexus - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/nivekuil/nexus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 56 | 1 | 
 | 2023-03-28 | 55 | 1 | 
 | 2023-03-26 | 55 | 1 | 
 | 2023-03-25 | 55 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 56 | 1 | 
 | 2023-03-01 | 56 | 1 | 
 | 2023-02-28 | 56 | 1 | 
-| 2023-02-27 | 56 | 1 | 
 

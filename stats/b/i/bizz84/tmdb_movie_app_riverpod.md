@@ -1,10 +1,10 @@
 # bizz84/tmdb_movie_app_riverpod - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 13
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/bizz84/tmdb_movie_app_riverpod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 74 | 13 | 
 | 2023-03-28 | 73 | 13 | 
 | 2023-03-26 | 73 | 13 | 
 | 2023-03-25 | 73 | 13 | 

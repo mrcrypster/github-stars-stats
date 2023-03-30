@@ -1,8 +1,8 @@
 # DevEvil99/DarkPlus-Discord-Theme - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 138
+☋ Forks: 144
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 11 | 144 | 
 | 2023-03-27 | 11 | 138 | 
 | 2023-03-26 | 11 | 138 | 
 | 2023-03-24 | 11 | 125 | 

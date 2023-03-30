@@ -1,10 +1,10 @@
 # laravel/ui - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 418
+☋ Forks: 419
 
-★ Stars: 2119
+★ Stars: 2120
 
 [Open repository](https://github.com/laravel/ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2120 | 419 | 
 | 2023-03-27 | 2119 | 418 | 
 | 2023-03-26 | 2118 | 418 | 
 | 2023-03-25 | 2118 | 418 | 

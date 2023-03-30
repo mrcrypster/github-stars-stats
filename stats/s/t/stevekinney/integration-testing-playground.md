@@ -1,10 +1,10 @@
 # stevekinney/integration-testing-playground - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 7
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/stevekinney/integration-testing-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6 | 7 | 
 | 2023-03-28 | 5 | 7 | 
 | 2023-03-27 | 5 | 7 | 
 | 2023-03-26 | 5 | 7 | 

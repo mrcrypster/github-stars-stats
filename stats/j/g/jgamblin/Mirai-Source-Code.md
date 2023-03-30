@@ -1,8 +1,8 @@
 # jgamblin/Mirai-Source-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3381
+☋ Forks: 3382
 
 ★ Stars: 7710
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 7710 | 3382 | 
 | 2023-03-27 | 7710 | 3381 | 
 | 2023-03-25 | 7709 | 3382 | 
 | 2023-03-24 | 7707 | 3383 | 

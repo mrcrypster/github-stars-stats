@@ -1,10 +1,10 @@
 # terrytangyuan/awesome-argo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 107
+☋ Forks: 109
 
-★ Stars: 1256
+★ Stars: 1262
 
 [Open repository](https://github.com/terrytangyuan/awesome-argo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1262 | 109 | 
 | 2023-03-28 | 1256 | 107 | 
 | 2023-03-26 | 1247 | 107 | 
 | 2023-03-25 | 1246 | 107 | 

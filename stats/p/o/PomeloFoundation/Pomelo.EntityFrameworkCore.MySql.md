@@ -1,10 +1,10 @@
 # PomeloFoundation/Pomelo.EntityFrameworkCore.MySql - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 370
+☋ Forks: 369
 
-★ Stars: 2429
+★ Stars: 2428
 
 [Open repository](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2428 | 369 | 
 | 2023-03-27 | 2429 | 370 | 
 | 2023-03-26 | 2428 | 371 | 
 | 2023-03-25 | 2427 | 371 | 

@@ -1,6 +1,6 @@
 # emacs-compat/compat - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 36 | 5 | 
 | 2023-03-27 | 36 | 5 | 
 | 2023-03-26 | 34 | 5 | 
 | 2023-03-25 | 34 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 30 | 4 | 
 | 2023-03-02 | 30 | 4 | 
 | 2023-02-28 | 30 | 4 | 
-| 2023-02-27 | 30 | 4 | 
 

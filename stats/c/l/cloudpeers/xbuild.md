@@ -1,6 +1,6 @@
 # cloudpeers/xbuild - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 188 | 8 | 
 | 2023-03-28 | 188 | 8 | 
 | 2023-03-26 | 188 | 8 | 
 | 2023-03-25 | 188 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 175 | 7 | 
 | 2023-03-01 | 175 | 7 | 
 | 2023-02-28 | 172 | 7 | 
-| 2023-02-27 | 172 | 7 | 
 

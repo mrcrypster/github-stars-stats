@@ -1,10 +1,10 @@
 # osresearch/pixel-wrangler - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 88
+★ Stars: 91
 
 [Open repository](https://github.com/osresearch/pixel-wrangler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 91 | 1 | 
 | 2023-03-27 | 88 | 1 | 
 | 2023-03-26 | 85 | 1 | 
 | 2023-03-24 | 82 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 74 | 1 | 
 | 2023-03-01 | 74 | 1 | 
 | 2023-02-28 | 71 | 1 | 
-| 2023-02-27 | 68 | 1 | 
 

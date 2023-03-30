@@ -1,10 +1,10 @@
 # tjdevries/config_manager - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 875
+★ Stars: 876
 
 [Open repository](https://github.com/tjdevries/config_manager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 876 | 118 | 
 | 2023-03-28 | 875 | 117 | 
 | 2023-03-26 | 874 | 117 | 
 | 2023-03-25 | 873 | 117 | 

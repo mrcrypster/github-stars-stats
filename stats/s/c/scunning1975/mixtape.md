@@ -1,10 +1,10 @@
 # scunning1975/mixtape - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 174
 
-★ Stars: 297
+★ Stars: 298
 
 [Open repository](https://github.com/scunning1975/mixtape)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 298 | 174 | 
 | 2023-03-27 | 297 | 174 | 
 | 2023-03-26 | 297 | 174 | 
 | 2023-03-25 | 297 | 173 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 293 | 173 | 
 | 2023-03-01 | 292 | 173 | 
 | 2023-02-28 | 292 | 173 | 
-| 2023-02-27 | 292 | 173 | 
 

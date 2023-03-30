@@ -1,6 +1,6 @@
 # sib-swiss/single-cell-training - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 46 | 19 | 
 | 2023-03-27 | 46 | 19 | 
 | 2023-03-26 | 46 | 19 | 
 | 2023-03-25 | 46 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 38 | 18 | 
 | 2023-03-02 | 38 | 18 | 
 | 2023-03-01 | 38 | 18 | 
-| 2023-02-27 | 38 | 18 | 
 

@@ -1,10 +1,10 @@
 # beyondcode/writeout.ai - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 83
 
-★ Stars: 1098
+★ Stars: 1107
 
 [Open repository](https://github.com/beyondcode/writeout.ai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1107 | 83 | 
 | 2023-03-27 | 1098 | 83 | 
 | 2023-03-25 | 1090 | 83 | 
 | 2023-03-24 | 1080 | 82 | 

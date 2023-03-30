@@ -1,10 +1,10 @@
 # superpung/TJU-CourseSharing - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 43
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/superpung/TJU-CourseSharing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 150 | 43 | 
 | 2023-03-27 | 149 | 43 | 
 | 2023-03-26 | 149 | 43 | 
 | 2023-03-25 | 149 | 43 | 

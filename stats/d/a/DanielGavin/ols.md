@@ -1,6 +1,6 @@
 # DanielGavin/ols - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 130 | 25 | 
 | 2023-03-28 | 130 | 25 | 
 | 2023-03-27 | 130 | 25 | 
 | 2023-03-26 | 129 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 122 | 27 | 
 | 2023-03-02 | 120 | 25 | 
 | 2023-03-01 | 120 | 25 | 
-| 2023-02-27 | 120 | 25 | 
 

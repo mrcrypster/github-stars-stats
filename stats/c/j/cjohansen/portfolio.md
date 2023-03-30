@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 7
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/cjohansen/portfolio)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 67 | 7 | 
+| 2023-03-29 | 68 | 7 | 
 | 2023-03-28 | 66 | 7 | 
 | 2023-03-27 | 64 | 7 | 
 | 2023-03-26 | 58 | 7 | 

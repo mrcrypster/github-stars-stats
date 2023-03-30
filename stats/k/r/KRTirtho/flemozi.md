@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/KRTirtho/flemozi)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 50 | 1 | 
+| 2023-03-29 | 52 | 1 | 
 | 2023-03-28 | 44 | 1 | 
 

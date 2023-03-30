@@ -1,10 +1,10 @@
 # dreamworksanimation/openmoonray - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 200
+☋ Forks: 202
 
-★ Stars: 3518
+★ Stars: 3543
 
 [Open repository](https://github.com/dreamworksanimation/openmoonray)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3543 | 202 | 
 | 2023-03-27 | 3518 | 200 | 
 | 2023-03-26 | 3462 | 196 | 
 | 2023-03-25 | 3433 | 194 | 

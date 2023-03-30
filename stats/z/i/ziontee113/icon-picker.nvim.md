@@ -1,6 +1,6 @@
 # ziontee113/icon-picker.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 153 | 4 | 
 | 2023-03-28 | 153 | 4 | 
 | 2023-03-26 | 152 | 4 | 
 | 2023-03-25 | 152 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 146 | 3 | 
 | 2023-03-01 | 146 | 3 | 
 | 2023-02-28 | 145 | 3 | 
-| 2023-02-27 | 144 | 3 | 
 

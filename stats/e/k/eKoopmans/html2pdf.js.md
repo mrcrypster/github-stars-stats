@@ -1,10 +1,10 @@
 # eKoopmans/html2pdf.js - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1226
 
-★ Stars: 3121
+★ Stars: 3125
 
 [Open repository](https://github.com/eKoopmans/html2pdf.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3125 | 1226 | 
 | 2023-03-27 | 3121 | 1226 | 
 | 2023-03-26 | 3118 | 1225 | 
 | 2023-03-25 | 3112 | 1226 | 

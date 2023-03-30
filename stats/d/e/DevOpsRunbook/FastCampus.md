@@ -1,8 +1,8 @@
 # DevOpsRunbook/FastCampus - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 200
+☋ Forks: 202
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 50 | 202 | 
 | 2023-03-28 | 50 | 200 | 
 | 2023-03-26 | 50 | 200 | 
 | 2023-03-25 | 49 | 198 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 48 | 185 | 
 | 2023-03-01 | 48 | 182 | 
 | 2023-02-28 | 48 | 183 | 
-| 2023-02-27 | 47 | 181 | 
 

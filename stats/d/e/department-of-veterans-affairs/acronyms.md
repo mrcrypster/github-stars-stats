@@ -1,8 +1,8 @@
 # department-of-veterans-affairs/acronyms - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 33 | 40 | 
 | 2023-03-27 | 33 | 39 | 
 | 2023-03-26 | 33 | 39 | 
 | 2023-03-24 | 33 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 32 | 39 | 
 | 2023-03-01 | 32 | 39 | 
 | 2023-02-28 | 32 | 39 | 
-| 2023-02-27 | 32 | 39 | 
 

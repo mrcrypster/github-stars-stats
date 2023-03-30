@@ -1,10 +1,10 @@
 # JoaquinAmatRodrigo/Estadistica-con-R - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 274
+☋ Forks: 275
 
-★ Stars: 299
+★ Stars: 298
 
 [Open repository](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 298 | 275 | 
 | 2023-03-27 | 299 | 274 | 
 | 2023-03-26 | 299 | 275 | 
 | 2023-03-24 | 299 | 275 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 294 | 271 | 
 | 2023-03-02 | 294 | 271 | 
 | 2023-02-28 | 294 | 271 | 
-| 2023-02-27 | 294 | 270 | 
 

@@ -1,10 +1,10 @@
 # nigelpoulton/TheK8sBook - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 397
 
-★ Stars: 492
+★ Stars: 495
 
 [Open repository](https://github.com/nigelpoulton/TheK8sBook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 495 | 397 | 
 | 2023-03-27 | 492 | 397 | 
 | 2023-03-26 | 491 | 397 | 
 | 2023-03-25 | 489 | 397 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 482 | 386 | 
 | 2023-03-01 | 480 | 385 | 
 | 2023-02-28 | 479 | 384 | 
-| 2023-02-27 | 477 | 384 | 
 

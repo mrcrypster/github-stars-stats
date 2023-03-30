@@ -1,10 +1,10 @@
 # dkorunic/betteralign - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 5
 
-★ Stars: 186
+★ Stars: 200
 
 [Open repository](https://github.com/dkorunic/betteralign)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 200 | 5 | 
 | 2023-03-28 | 186 | 5 | 
 | 2023-03-27 | 151 | 3 | 
 | 2023-03-26 | 132 | 3 | 

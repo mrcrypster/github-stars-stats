@@ -1,10 +1,10 @@
 # a1phaboy/FastjsonScan - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 76
 
-★ Stars: 650
+★ Stars: 651
 
 [Open repository](https://github.com/a1phaboy/FastjsonScan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 651 | 76 | 
 | 2023-03-28 | 650 | 76 | 
 | 2023-03-26 | 648 | 76 | 
 | 2023-03-25 | 646 | 75 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 628 | 72 | 
 | 2023-03-01 | 624 | 72 | 
 | 2023-02-28 | 610 | 71 | 
-| 2023-02-27 | 566 | 69 | 
 

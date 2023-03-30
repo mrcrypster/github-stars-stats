@@ -1,6 +1,6 @@
 # liquidz/dad - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 123 | 7 | 
 | 2023-03-28 | 123 | 7 | 
 | 2023-03-26 | 123 | 7 | 
 | 2023-03-25 | 123 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 124 | 7 | 
 | 2023-03-01 | 124 | 7 | 
 | 2023-02-28 | 124 | 7 | 
-| 2023-02-27 | 124 | 7 | 
 

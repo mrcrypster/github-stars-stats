@@ -1,8 +1,8 @@
 # G4lile0/Heimdall-WiFi-Radar - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 495
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 495 | 58 | 
 | 2023-03-28 | 495 | 57 | 
 | 2023-03-26 | 495 | 57 | 
 | 2023-03-25 | 495 | 57 | 

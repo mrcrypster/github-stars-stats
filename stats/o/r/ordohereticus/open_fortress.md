@@ -1,6 +1,6 @@
 # ordohereticus/open_fortress - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 17 | 10 | 
 | 2023-03-27 | 17 | 10 | 
 | 2023-03-26 | 17 | 10 | 
 | 2023-03-24 | 17 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 18 | 10 | 
 | 2023-03-01 | 18 | 10 | 
 | 2023-02-28 | 18 | 10 | 
-| 2023-02-27 | 18 | 10 | 
 

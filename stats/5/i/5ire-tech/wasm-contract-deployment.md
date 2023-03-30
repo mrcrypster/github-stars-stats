@@ -1,8 +1,8 @@
 # 5ire-tech/wasm-contract-deployment - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 151
+☋ Forks: 154
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 83 | 154 | 
 | 2023-03-28 | 83 | 151 | 
 | 2023-03-26 | 83 | 146 | 
 | 2023-03-25 | 81 | 141 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 54 | 81 | 
 | 2023-03-01 | 54 | 81 | 
 | 2023-02-28 | 51 | 78 | 
-| 2023-02-27 | 46 | 72 | 
 

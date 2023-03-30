@@ -1,6 +1,6 @@
 # thingsboard/thingsboard.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 99 | 254 | 
 | 2023-03-27 | 99 | 254 | 
 | 2023-03-26 | 99 | 255 | 
 | 2023-03-25 | 99 | 255 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 98 | 252 | 
 | 2023-03-01 | 97 | 252 | 
 | 2023-02-28 | 97 | 255 | 
-| 2023-02-27 | 97 | 254 | 
 

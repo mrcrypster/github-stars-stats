@@ -1,6 +1,6 @@
 # sreedevk/deduplicator - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 126 | 8 | 
 | 2023-03-27 | 126 | 8 | 
 | 2023-03-26 | 126 | 8 | 
 | 2023-03-25 | 123 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 118 | 7 | 
 | 2023-03-01 | 118 | 7 | 
 | 2023-02-28 | 117 | 7 | 
-| 2023-02-27 | 117 | 7 | 
 

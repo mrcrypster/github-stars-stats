@@ -1,8 +1,8 @@
 # IBM/z_ansible_collections_samples - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 66 | 54 | 
 | 2023-03-27 | 66 | 53 | 
 | 2023-03-26 | 66 | 53 | 
 | 2023-03-25 | 66 | 53 | 

@@ -1,8 +1,8 @@
 # karanpratapsingh/go-course - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 62
+☋ Forks: 61
 
 ★ Stars: 639
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 639 | 61 | 
 | 2023-03-28 | 639 | 62 | 
 | 2023-03-26 | 638 | 62 | 
 | 2023-03-25 | 636 | 62 | 

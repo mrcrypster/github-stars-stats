@@ -1,10 +1,10 @@
 # transloadit/uppy - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1817
+☋ Forks: 1818
 
-★ Stars: 26626
+★ Stars: 26630
 
 [Open repository](https://github.com/transloadit/uppy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 26630 | 1818 | 
 | 2023-03-28 | 26626 | 1817 | 
 | 2023-03-26 | 26621 | 1816 | 
 | 2023-03-25 | 26617 | 1817 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 26533 | 1807 | 
 | 2023-03-02 | 26527 | 1804 | 
 | 2023-03-01 | 26525 | 1805 | 
-| 2023-02-27 | 26517 | 1804 | 
 

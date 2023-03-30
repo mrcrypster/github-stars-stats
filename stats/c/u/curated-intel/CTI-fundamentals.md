@@ -1,10 +1,10 @@
 # curated-intel/CTI-fundamentals - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 38
 
-★ Stars: 398
+★ Stars: 399
 
 [Open repository](https://github.com/curated-intel/CTI-fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 399 | 38 | 
 | 2023-03-28 | 398 | 38 | 
 | 2023-03-26 | 398 | 38 | 
 | 2023-03-25 | 397 | 38 | 

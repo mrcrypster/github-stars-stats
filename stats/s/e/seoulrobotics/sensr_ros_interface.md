@@ -1,10 +1,10 @@
 # seoulrobotics/sensr_ros_interface - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/seoulrobotics/sensr_ros_interface)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2 | - | 
+| 2023-03-29 | 1 | - | 
 | 2023-03-28 | 1 | - | 
 | 2023-03-27 | 1 | - | 
 | 2023-03-25 | 1 | - | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1 | - | 
 | 2023-03-01 | 1 | - | 
 | 2023-02-28 | 1 | - | 
-| 2023-02-27 | 1 | - | 
 

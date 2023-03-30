@@ -1,6 +1,6 @@
 # miriyas/foundation - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 9 | 17 | 
 | 2023-03-28 | 9 | 17 | 
 | 2023-03-26 | 9 | 17 | 
 | 2023-03-25 | 9 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 9 | 17 | 
 | 2023-03-01 | 9 | 17 | 
 | 2023-02-28 | 9 | 17 | 
-| 2023-02-27 | 9 | 17 | 
 

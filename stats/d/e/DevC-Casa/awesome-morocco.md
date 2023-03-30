@@ -1,8 +1,8 @@
 # DevC-Casa/awesome-morocco - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 155
+☋ Forks: 156
 
 ★ Stars: 525
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 525 | 156 | 
 | 2023-03-27 | 525 | 155 | 
 | 2023-03-26 | 525 | 155 | 
 | 2023-03-25 | 525 | 155 | 

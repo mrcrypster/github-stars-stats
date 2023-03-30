@@ -1,8 +1,8 @@
 # servetgulnaroglu/pacman-js - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 63
+☋ Forks: 66
 
 ★ Stars: 153
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 153 | 66 | 
 | 2023-03-27 | 153 | 63 | 
 | 2023-03-26 | 152 | 63 | 
 | 2023-03-25 | 149 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 136 | 56 | 
 | 2023-03-02 | 136 | 56 | 
 | 2023-02-28 | 133 | 56 | 
-| 2023-02-27 | 133 | 55 | 
 

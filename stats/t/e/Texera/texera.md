@@ -1,6 +1,6 @@
 # Texera/texera - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 123 | 53 | 
 | 2023-03-27 | 123 | 53 | 
 | 2023-03-26 | 123 | 53 | 
 | 2023-03-24 | 122 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 121 | 53 | 
 | 2023-03-01 | 121 | 53 | 
 | 2023-02-28 | 121 | 53 | 
-| 2023-02-27 | 121 | 53 | 
 

@@ -1,6 +1,6 @@
 # AntonZamyatin/r-course - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | - | 12 | 
 | 2023-03-28 | - | 12 | 
 | 2023-03-26 | - | 12 | 
 | 2023-03-25 | - | 12 | 

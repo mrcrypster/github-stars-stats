@@ -1,6 +1,6 @@
 # humbertogontijo/homeassistant-roborock - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 312 | 31 | 
 | 2023-03-28 | 312 | 31 | 
 | 2023-03-26 | 310 | 31 | 
 | 2023-03-25 | 308 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 276 | 27 | 
 | 2023-03-01 | 275 | 27 | 
 | 2023-02-28 | 272 | 26 | 
-| 2023-02-27 | 270 | 26 | 
 

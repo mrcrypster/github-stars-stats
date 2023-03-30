@@ -1,10 +1,10 @@
 # dom96/choosenim - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 63
 
-★ Stars: 588
+★ Stars: 589
 
 [Open repository](https://github.com/dom96/choosenim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 589 | 63 | 
 | 2023-03-27 | 588 | 63 | 
 | 2023-03-26 | 590 | 63 | 
 | 2023-03-25 | 589 | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 582 | 62 | 
 | 2023-03-01 | 582 | 62 | 
 | 2023-02-28 | 582 | 62 | 
-| 2023-02-27 | 581 | 62 | 
 

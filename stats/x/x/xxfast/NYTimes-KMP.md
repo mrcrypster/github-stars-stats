@@ -1,10 +1,10 @@
 # xxfast/NYTimes-KMP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 125
+★ Stars: 129
 
 [Open repository](https://github.com/xxfast/NYTimes-KMP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 129 | 2 | 
 | 2023-03-28 | 125 | 2 | 
 | 2023-03-26 | 119 | 2 | 
 | 2023-03-25 | 117 | 2 | 

@@ -1,6 +1,6 @@
 # trilinos/Trilinos - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 482
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 857 | 482 | 
 | 2023-03-27 | 857 | 482 | 
 | 2023-03-26 | 857 | 481 | 
 | 2023-03-25 | 857 | 480 | 

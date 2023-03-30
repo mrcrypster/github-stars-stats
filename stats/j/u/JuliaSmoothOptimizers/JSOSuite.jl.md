@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/JSOSuite.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/JSOSuite.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 10 | 5 | 
 | 2023-03-28 | 11 | 5 | 
 | 2023-03-26 | 11 | 5 | 
 | 2023-03-25 | 11 | 5 | 

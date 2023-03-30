@@ -1,10 +1,10 @@
 # T-Brick/molasses - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/T-Brick/molasses)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 14 | 1 | 
 | 2023-03-28 | 13 | - | 
 | 2023-03-26 | 12 | - | 
 | 2023-03-25 | 12 | - | 

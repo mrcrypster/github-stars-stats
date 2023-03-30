@@ -1,6 +1,6 @@
 # Goddard-Fortran-Ecosystem/pFUnit - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 151 | 37 | 
 | 2023-03-28 | 151 | 37 | 
 | 2023-03-26 | 151 | 37 | 
 | 2023-03-25 | 151 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 150 | 36 | 
 | 2023-03-01 | 150 | 36 | 
 | 2023-02-28 | 150 | 36 | 
-| 2023-02-27 | 150 | 35 | 
 

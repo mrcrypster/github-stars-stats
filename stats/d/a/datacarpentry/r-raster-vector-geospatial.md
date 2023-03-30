@@ -1,6 +1,6 @@
 # datacarpentry/r-raster-vector-geospatial - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 105 | 100 | 
 | 2023-03-27 | 105 | 100 | 
 | 2023-03-26 | 105 | 99 | 
 | 2023-03-24 | 105 | 99 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 106 | 99 | 
 | 2023-03-01 | 106 | 99 | 
 | 2023-02-28 | 106 | 99 | 
-| 2023-02-27 | 106 | 99 | 
 

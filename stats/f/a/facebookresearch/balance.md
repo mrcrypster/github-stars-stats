@@ -1,10 +1,10 @@
 # facebookresearch/balance - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 28
 
-★ Stars: 596
+★ Stars: 599
 
 [Open repository](https://github.com/facebookresearch/balance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 599 | 28 | 
 | 2023-03-27 | 596 | 28 | 
 | 2023-03-26 | 595 | 28 | 
 | 2023-03-24 | 595 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 590 | 28 | 
 | 2023-03-01 | 591 | 28 | 
 | 2023-02-28 | 590 | 28 | 
-| 2023-02-27 | 590 | 28 | 
 

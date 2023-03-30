@@ -1,10 +1,10 @@
 # matteocrippa/awesome-swift - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3034
+☋ Forks: 3035
 
-★ Stars: 23100
+★ Stars: 23103
 
 [Open repository](https://github.com/matteocrippa/awesome-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 23103 | 3035 | 
 | 2023-03-28 | 23100 | 3034 | 
 | 2023-03-26 | 23097 | 3034 | 
 | 2023-03-25 | 23098 | 3036 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 23025 | 3037 | 
 | 2023-03-01 | 23019 | 3036 | 
 | 2023-02-28 | 23016 | 3036 | 
-| 2023-02-27 | 23008 | 3035 | 
 

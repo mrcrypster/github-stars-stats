@@ -1,10 +1,10 @@
 # GTNewHorizons/GT-New-Horizons-Modpack - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 213
 
-★ Stars: 555
+★ Stars: 556
 
 [Open repository](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 556 | 213 | 
 | 2023-03-28 | 555 | 213 | 
 | 2023-03-27 | 554 | 213 | 
 | 2023-03-26 | 554 | 213 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 533 | 210 | 
 | 2023-03-01 | 530 | 210 | 
 | 2023-02-28 | 530 | 210 | 
-| 2023-02-27 | 529 | 210 | 
 

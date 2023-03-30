@@ -1,10 +1,10 @@
 # structurizr/dsl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 239
 
-★ Stars: 1008
+★ Stars: 1009
 
 [Open repository](https://github.com/structurizr/dsl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1009 | 239 | 
 | 2023-03-28 | 1008 | 239 | 
 | 2023-03-27 | 1008 | 239 | 
 | 2023-03-25 | 1004 | 239 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 970 | 234 | 
 | 2023-03-01 | 969 | 234 | 
 | 2023-02-28 | 966 | 235 | 
-| 2023-02-27 | 964 | 234 | 
 

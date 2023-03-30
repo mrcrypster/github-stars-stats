@@ -1,10 +1,10 @@
 # google-ar/arcore-android-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1170
 
-★ Stars: 4677
+★ Stars: 4678
 
 [Open repository](https://github.com/google-ar/arcore-android-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4678 | 1170 | 
 | 2023-03-27 | 4677 | 1170 | 
 | 2023-03-26 | 4676 | 1170 | 
 | 2023-03-24 | 4678 | 1170 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 4658 | 1166 | 
 | 2023-03-01 | 4658 | 1165 | 
 | 2023-02-28 | 4658 | 1163 | 
-| 2023-02-27 | 4658 | 1163 | 
 

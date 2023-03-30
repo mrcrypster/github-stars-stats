@@ -1,10 +1,10 @@
 # madawei2699/myGPTReader - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 186
+☋ Forks: 227
 
-★ Stars: 2506
+★ Stars: 2817
 
 [Open repository](https://github.com/madawei2699/myGPTReader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2817 | 227 | 
 | 2023-03-27 | 2506 | 186 | 
 | 2023-03-26 | 2330 | 170 | 
 | 2023-03-25 | 2065 | 152 | 

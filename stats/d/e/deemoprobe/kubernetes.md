@@ -1,6 +1,6 @@
 # deemoprobe/kubernetes - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1 | 20 | 
 | 2023-03-27 | 1 | 20 | 
 | 2023-03-26 | 1 | 20 | 
 | 2023-03-24 | 1 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 1 | 18 | 
 | 2023-03-02 | 1 | 18 | 
 | 2023-03-01 | 1 | 18 | 
-| 2023-02-27 | 1 | 18 | 
 

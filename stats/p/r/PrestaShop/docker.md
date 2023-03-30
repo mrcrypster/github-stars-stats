@@ -1,6 +1,6 @@
 # PrestaShop/docker - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 221 | 166 | 
 | 2023-03-27 | 221 | 166 | 
 | 2023-03-26 | 221 | 166 | 
 | 2023-03-24 | 221 | 166 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 219 | 164 | 
 | 2023-03-02 | 219 | 164 | 
 | 2023-03-01 | 219 | 164 | 
-| 2023-02-27 | 219 | 164 | 
 

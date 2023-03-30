@@ -1,10 +1,10 @@
 # npgsql/npgsql - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 781
 
-★ Stars: 2856
+★ Stars: 2858
 
 [Open repository](https://github.com/npgsql/npgsql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2858 | 781 | 
 | 2023-03-28 | 2856 | 781 | 
 | 2023-03-26 | 2854 | 781 | 
 | 2023-03-25 | 2853 | 781 | 

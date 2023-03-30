@@ -1,10 +1,10 @@
 # go-redis/redis - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 2031
+☋ Forks: 2033
 
-★ Stars: 16882
+★ Stars: 16893
 
 [Open repository](https://github.com/go-redis/redis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 16893 | 2033 | 
 | 2023-03-27 | 16882 | 2031 | 
 | 2023-03-26 | 16873 | 2027 | 
 | 2023-03-24 | 16867 | 2025 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 16637 | 2006 | 
 | 2023-03-01 | 16624 | 2004 | 
 | 2023-02-28 | 16604 | 2001 | 
-| 2023-02-27 | 16589 | 1997 | 
 

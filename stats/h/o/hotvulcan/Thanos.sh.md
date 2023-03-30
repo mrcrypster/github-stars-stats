@@ -1,10 +1,10 @@
 # hotvulcan/Thanos.sh - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 292
 
-★ Stars: 2799
+★ Stars: 2800
 
 [Open repository](https://github.com/hotvulcan/Thanos.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2800 | 292 | 
 | 2023-03-28 | 2799 | 292 | 
 | 2023-03-26 | 2799 | 292 | 
 | 2023-03-25 | 2797 | 292 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2770 | 290 | 
 | 2023-03-02 | 2766 | 290 | 
 | 2023-02-28 | 2764 | 290 | 
-| 2023-02-27 | 2761 | 290 | 
 

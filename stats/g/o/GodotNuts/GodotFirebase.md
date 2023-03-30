@@ -1,8 +1,8 @@
 # GodotNuts/GodotFirebase - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 340
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 340 | 54 | 
 | 2023-03-27 | 340 | 53 | 
 | 2023-03-26 | 340 | 53 | 
 | 2023-03-24 | 339 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 337 | 53 | 
 | 2023-03-01 | 337 | 53 | 
 | 2023-02-28 | 336 | 53 | 
-| 2023-02-27 | 337 | 53 | 
 

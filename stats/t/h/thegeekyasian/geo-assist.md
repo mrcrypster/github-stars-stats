@@ -1,10 +1,10 @@
 # thegeekyasian/geo-assist - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/thegeekyasian/geo-assist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 164 | 8 | 
 | 2023-03-28 | 163 | 8 | 
 | 2023-03-26 | 163 | 8 | 
 | 2023-03-25 | 163 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 142 | 8 | 
 | 2023-03-01 | 141 | 8 | 
 | 2023-02-28 | 141 | 7 | 
-| 2023-02-27 | 138 | 7 | 
 

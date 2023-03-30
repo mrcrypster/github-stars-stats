@@ -1,10 +1,10 @@
 # yhuse/SunnyUI - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 335
 
-★ Stars: 1426
+★ Stars: 1432
 
 [Open repository](https://github.com/yhuse/SunnyUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1432 | 335 | 
 | 2023-03-28 | 1426 | 335 | 
 | 2023-03-26 | 1418 | 335 | 
 | 2023-03-25 | 1416 | 334 | 

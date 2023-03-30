@@ -1,10 +1,10 @@
 # NanYuJun/ChatGTP-uni - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/NanYuJun/ChatGTP-uni)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 64 | 16 | 
 | 2023-03-28 | 62 | 14 | 
 | 2023-03-27 | 58 | 13 | 
 | 2023-03-25 | 57 | 13 | 

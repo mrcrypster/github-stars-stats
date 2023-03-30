@@ -1,6 +1,6 @@
 # Wh04m1001/DiagTrackEoP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 78 | 14 | 
 | 2023-03-28 | 78 | 14 | 
 | 2023-03-26 | 78 | 14 | 
 | 2023-03-25 | 78 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 78 | 14 | 
 | 2023-03-01 | 78 | 14 | 
 | 2023-02-28 | 78 | 14 | 
-| 2023-02-27 | 79 | 14 | 
 

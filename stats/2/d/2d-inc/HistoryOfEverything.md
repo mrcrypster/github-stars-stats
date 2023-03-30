@@ -1,10 +1,10 @@
 # 2d-inc/HistoryOfEverything - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 975
 
-★ Stars: 6288
+★ Stars: 6285
 
 [Open repository](https://github.com/2d-inc/HistoryOfEverything)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6285 | 975 | 
 | 2023-03-27 | 6288 | 975 | 
 | 2023-03-26 | 6287 | 975 | 
 | 2023-03-25 | 6287 | 975 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 6270 | 971 | 
 | 2023-03-01 | 6270 | 971 | 
 | 2023-02-28 | 6271 | 971 | 
-| 2023-02-27 | 6269 | 971 | 
 

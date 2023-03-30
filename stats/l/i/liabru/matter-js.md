@@ -1,10 +1,10 @@
 # liabru/matter-js - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1927
+☋ Forks: 1930
 
-★ Stars: 14374
+★ Stars: 14381
 
 [Open repository](https://github.com/liabru/matter-js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 14381 | 1930 | 
 | 2023-03-28 | 14374 | 1927 | 
 | 2023-03-26 | 14367 | 1926 | 
 | 2023-03-25 | 14366 | 1925 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 14293 | 1911 | 
 | 2023-03-02 | 14285 | 1912 | 
 | 2023-03-01 | 14280 | 1912 | 
-| 2023-02-27 | 14273 | 1912 | 
 

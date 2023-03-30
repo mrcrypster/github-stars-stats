@@ -1,10 +1,10 @@
 # nordtheme/nord - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 170
 
-★ Stars: 5559
+★ Stars: 5564
 
 [Open repository](https://github.com/nordtheme/nord)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5564 | 170 | 
 | 2023-03-28 | 5559 | 170 | 
 | 2023-03-27 | 5552 | 170 | 
 | 2023-03-26 | 5551 | 170 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 5521 | 169 | 
 | 2023-03-01 | 5520 | 169 | 
 | 2023-02-28 | 5517 | 169 | 
-| 2023-02-27 | 5512 | 169 | 
 

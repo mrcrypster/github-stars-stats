@@ -1,6 +1,6 @@
 # OffchainLabs/arbitrum - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1001
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1561 | 1001 | 
 | 2023-03-27 | 1561 | 1001 | 
 | 2023-03-26 | 1556 | 998 | 
 | 2023-03-25 | 1553 | 995 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 1483 | 953 | 
 | 2023-03-02 | 1471 | 937 | 
 | 2023-03-01 | 1458 | 924 | 
-| 2023-02-27 | 1088 | 597 | 
 

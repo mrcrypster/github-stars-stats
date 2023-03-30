@@ -1,10 +1,10 @@
 # laravelio/laravel.io - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 603
 
-★ Stars: 2271
+★ Stars: 2270
 
 [Open repository](https://github.com/laravelio/laravel.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2270 | 603 | 
 | 2023-03-27 | 2271 | 603 | 
 | 2023-03-26 | 2270 | 603 | 
 | 2023-03-25 | 2271 | 603 | 

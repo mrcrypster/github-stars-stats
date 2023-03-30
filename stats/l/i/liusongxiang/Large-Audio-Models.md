@@ -1,10 +1,10 @@
 # liusongxiang/Large-Audio-Models - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 7
 
-★ Stars: 175
+★ Stars: 180
 
 [Open repository](https://github.com/liusongxiang/Large-Audio-Models)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 180 | 7 | 
 | 2023-03-28 | 175 | 7 | 
 | 2023-03-26 | 175 | 7 | 
 | 2023-03-25 | 172 | 7 | 

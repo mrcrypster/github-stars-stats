@@ -1,10 +1,10 @@
 # lukasHoel/text2room - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 23
+☋ Forks: 26
 
-★ Stars: 459
+★ Stars: 488
 
 [Open repository](https://github.com/lukasHoel/text2room)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 488 | 26 | 
 | 2023-03-27 | 459 | 23 | 
 | 2023-03-26 | 424 | 22 | 
 | 2023-03-25 | 419 | 20 | 

@@ -1,10 +1,10 @@
 # input-output-hk/marlowe-playground - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/input-output-hk/marlowe-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5 | 2 | 
 | 2023-03-27 | 4 | 2 | 
 | 2023-03-26 | 4 | 2 | 
 | 2023-03-25 | 4 | 2 | 

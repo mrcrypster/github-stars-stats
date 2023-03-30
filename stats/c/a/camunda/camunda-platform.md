@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 110
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/camunda/camunda-platform)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 134 | 110 | 
+| 2023-03-29 | 135 | 110 | 
 | 2023-03-28 | 134 | 110 | 
 | 2023-03-26 | 133 | 109 | 
 | 2023-03-25 | 133 | 109 | 
@@ -38,5 +38,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 126 | 103 | 
 | 2023-03-02 | 126 | 103 | 
 | 2023-03-01 | 126 | 102 | 
-| 2023-02-27 | 126 | 101 | 
 

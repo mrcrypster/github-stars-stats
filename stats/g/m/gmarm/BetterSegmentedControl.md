@@ -1,10 +1,10 @@
 # gmarm/BetterSegmentedControl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 272
 
-★ Stars: 2014
+★ Stars: 2015
 
 [Open repository](https://github.com/gmarm/BetterSegmentedControl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2015 | 272 | 
 | 2023-03-28 | 2014 | 272 | 
 | 2023-03-26 | 2015 | 272 | 
 | 2023-03-25 | 2015 | 272 | 

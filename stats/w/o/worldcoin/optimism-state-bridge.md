@@ -1,10 +1,10 @@
 # worldcoin/optimism-state-bridge - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/worldcoin/optimism-state-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 32 | 3 | 
 | 2023-03-27 | 31 | 3 | 
 | 2023-03-25 | 31 | 3 | 
 | 2023-03-24 | 31 | 2 | 

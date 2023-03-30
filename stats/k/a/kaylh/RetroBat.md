@@ -1,10 +1,10 @@
 # kaylh/RetroBat - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 41
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/kaylh/RetroBat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 275 | 41 | 
 | 2023-03-28 | 274 | 41 | 
 | 2023-03-27 | 274 | 41 | 
 | 2023-03-26 | 273 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 261 | 41 | 
 | 2023-03-01 | 259 | 41 | 
 | 2023-02-28 | 259 | 41 | 
-| 2023-02-27 | 259 | 41 | 
 

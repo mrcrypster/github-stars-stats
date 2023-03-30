@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 959
 
-★ Stars: 1154
+★ Stars: 1155
 
 [Open repository](https://github.com/SharePoint/sp-dev-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 1154 | 959 | 
+| 2023-03-29 | 1155 | 959 | 
 | 2023-03-27 | 1154 | 957 | 
 | 2023-03-25 | 1154 | 958 | 
 | 2023-03-24 | 1154 | 958 | 
@@ -37,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 1150 | 953 | 
 | 2023-03-02 | 1150 | 951 | 
 | 2023-03-01 | 1149 | 951 | 
-| 2023-02-28 | 1149 | 950 | 
 

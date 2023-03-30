@@ -1,6 +1,6 @@
 # lib/pq - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 884
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 7950 | 884 | 
 | 2023-03-28 | 7950 | 884 | 
 | 2023-03-26 | 7943 | 883 | 
 | 2023-03-25 | 7942 | 883 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 7905 | 883 | 
 | 2023-03-01 | 7904 | 882 | 
 | 2023-02-28 | 7903 | 881 | 
-| 2023-02-27 | 7901 | 881 | 
 

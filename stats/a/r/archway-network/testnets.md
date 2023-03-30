@@ -1,6 +1,6 @@
 # archway-network/testnets - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 13310
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 179 | 13310 | 
 | 2023-03-28 | 179 | 13310 | 
 | 2023-03-26 | 179 | 13310 | 
 | 2023-03-25 | 180 | 13311 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 180 | 13325 | 
 | 2023-03-01 | 180 | 13325 | 
 | 2023-02-28 | 180 | 13325 | 
-| 2023-02-27 | 180 | 13325 | 
 

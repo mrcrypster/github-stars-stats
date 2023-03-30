@@ -1,10 +1,10 @@
 # openhardwaremonitor/openhardwaremonitor - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1154
+☋ Forks: 1157
 
-★ Stars: 5075
+★ Stars: 5082
 
 [Open repository](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5082 | 1157 | 
 | 2023-03-28 | 5075 | 1154 | 
 | 2023-03-26 | 5075 | 1154 | 
 | 2023-03-25 | 5075 | 1154 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 5042 | 1153 | 
 | 2023-03-01 | 5040 | 1152 | 
 | 2023-02-28 | 5039 | 1152 | 
-| 2023-02-27 | 5032 | 1153 | 
 

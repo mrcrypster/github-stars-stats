@@ -1,10 +1,10 @@
 # xou816/spot - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 98
+☋ Forks: 99
 
-★ Stars: 1912
+★ Stars: 1915
 
 [Open repository](https://github.com/xou816/spot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1915 | 99 | 
 | 2023-03-27 | 1912 | 98 | 
 | 2023-03-26 | 1908 | 97 | 
 | 2023-03-25 | 1904 | 97 | 

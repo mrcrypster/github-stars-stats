@@ -1,6 +1,6 @@
 # Kashif-E/KMPTemplate - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 144 | 5 | 
 | 2023-03-27 | 144 | 5 | 
 | 2023-03-26 | 144 | 5 | 
 | 2023-03-25 | 144 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 136 | 4 | 
 | 2023-03-01 | 134 | 4 | 
 | 2023-02-28 | 132 | 4 | 
-| 2023-02-27 | 123 | 4 | 
 

@@ -1,6 +1,6 @@
 # THU-luvision/INS-Conv - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 50 | 8 | 
 | 2023-03-27 | 50 | 8 | 
 | 2023-03-26 | 50 | 8 | 
 | 2023-03-24 | 50 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 50 | 8 | 
 | 2023-03-02 | 50 | 8 | 
 | 2023-03-01 | 50 | 8 | 
-| 2023-02-27 | 50 | 8 | 
 

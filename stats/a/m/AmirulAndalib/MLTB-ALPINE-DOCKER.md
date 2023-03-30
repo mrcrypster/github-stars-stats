@@ -1,6 +1,6 @@
 # AmirulAndalib/MLTB-ALPINE-DOCKER - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 19 | 32 | 
 | 2023-03-27 | 19 | 32 | 
 | 2023-03-26 | 19 | 32 | 
 | 2023-03-25 | 19 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 19 | 32 | 
 | 2023-03-02 | 19 | 33 | 
 | 2023-03-01 | 19 | 33 | 
-| 2023-02-27 | 19 | 33 | 
 

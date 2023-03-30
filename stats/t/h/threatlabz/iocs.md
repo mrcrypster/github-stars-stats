@@ -1,6 +1,6 @@
 # threatlabz/iocs - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 30 | 3 | 
 | 2023-03-27 | 30 | 3 | 
 | 2023-03-26 | 30 | 3 | 
 | 2023-03-25 | 30 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 25 | 2 | 
 | 2023-03-02 | 23 | 2 | 
 | 2023-02-28 | 22 | 2 | 
-| 2023-02-27 | 22 | 2 | 
 

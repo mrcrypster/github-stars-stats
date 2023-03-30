@@ -1,10 +1,10 @@
 # v2018z/xueXiQiangguo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 132
 
-★ Stars: 394
+★ Stars: 399
 
 [Open repository](https://github.com/v2018z/xueXiQiangguo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 399 | 132 | 
 | 2023-03-28 | 394 | 132 | 
 | 2023-03-26 | 389 | 131 | 
 | 2023-03-25 | 388 | 132 | 

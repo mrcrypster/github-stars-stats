@@ -1,6 +1,6 @@
 # chaoss/grimoirelab - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 401 | 152 | 
 | 2023-03-27 | 401 | 152 | 
 | 2023-03-26 | 401 | 152 | 
 | 2023-03-24 | 401 | 152 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 397 | 151 | 
 | 2023-03-01 | 396 | 151 | 
 | 2023-02-28 | 394 | 151 | 
-| 2023-02-27 | 394 | 151 | 
 

@@ -1,6 +1,6 @@
 # example42/puppet-playground - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 73 | 29 | 
 | 2023-03-27 | 73 | 29 | 
 | 2023-03-26 | 73 | 29 | 
 | 2023-03-25 | 73 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 73 | 29 | 
 | 2023-03-01 | 73 | 29 | 
 | 2023-02-28 | 73 | 29 | 
-| 2023-02-27 | 73 | 29 | 
 

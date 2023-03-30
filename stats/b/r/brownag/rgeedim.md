@@ -1,10 +1,10 @@
 # brownag/rgeedim - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/brownag/rgeedim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 28 | 1 | 
 | 2023-03-27 | 27 | 1 | 
 | 2023-03-26 | 27 | 1 | 
 | 2023-03-25 | 27 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 26 | 1 | 
 | 2023-03-02 | 26 | 1 | 
 | 2023-03-01 | 26 | 1 | 
-| 2023-02-27 | 26 | 1 | 
 

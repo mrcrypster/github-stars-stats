@@ -1,0 +1,17 @@
+# MSCI-709/unit_5_spatial - stars & forks statistics
+
+Stats updated on Mar 2023, 29
+
+☋ Forks: 16
+
+★ Stars: 0
+
+[Open repository](https://github.com/MSCI-709/unit_5_spatial)
+
+[Open detailed stats for MSCI-709/unit_5_spatial](https://reviewgithub.com/rep/MSCI-709/unit_5_spatial)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-29 | - | 16 | 
+

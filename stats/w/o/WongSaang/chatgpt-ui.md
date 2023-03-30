@@ -1,10 +1,10 @@
 # WongSaang/chatgpt-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 256
+★ Stars: 259
 
 [Open repository](https://github.com/WongSaang/chatgpt-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 259 | 67 | 
 | 2023-03-28 | 256 | 66 | 
 | 2023-03-27 | 230 | 63 | 
 | 2023-03-26 | 219 | 59 | 

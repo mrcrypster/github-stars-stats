@@ -1,10 +1,10 @@
 # petercorke/robotics-toolbox-matlab - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 419
 
-★ Stars: 1008
+★ Stars: 1009
 
 [Open repository](https://github.com/petercorke/robotics-toolbox-matlab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1009 | 419 | 
 | 2023-03-27 | 1008 | 419 | 
 | 2023-03-26 | 1008 | 417 | 
 | 2023-03-25 | 1008 | 417 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 998 | 416 | 
 | 2023-03-01 | 997 | 416 | 
 | 2023-02-28 | 996 | 416 | 
-| 2023-02-27 | 996 | 416 | 
 

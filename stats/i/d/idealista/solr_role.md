@@ -1,10 +1,10 @@
 # idealista/solr_role - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/idealista/solr_role)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 23 | 8 | 
 | 2023-03-28 | 22 | 7 | 
 | 2023-03-26 | 22 | 7 | 
 | 2023-03-25 | 22 | 7 | 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 340
 
-★ Stars: 2027
+★ Stars: 2028
 
 [Open repository](https://github.com/bdlukaa/fluent_ui)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 2027 | 340 | 
+| 2023-03-29 | 2028 | 340 | 
 | 2023-03-28 | 2027 | 340 | 
 | 2023-03-27 | 2024 | 339 | 
 | 2023-03-26 | 2021 | 339 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-02 | 1978 | 322 | 
 | 2023-03-01 | 1974 | 323 | 
 | 2023-02-28 | 1971 | 324 | 
-| 2023-02-27 | 1971 | 324 | 
 

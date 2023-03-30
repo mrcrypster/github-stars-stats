@@ -1,10 +1,10 @@
 # shaked6540/YoutubePlaylistDownloader - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 438
+★ Stars: 440
 
 [Open repository](https://github.com/shaked6540/YoutubePlaylistDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 440 | 83 | 
 | 2023-03-27 | 438 | 82 | 
 | 2023-03-26 | 437 | 82 | 
 | 2023-03-25 | 437 | 82 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 415 | 80 | 
 | 2023-03-02 | 414 | 78 | 
 | 2023-03-01 | 414 | 78 | 
-| 2023-02-28 | 413 | 78 | 
 

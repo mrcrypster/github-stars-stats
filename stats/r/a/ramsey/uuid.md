@@ -1,10 +1,10 @@
 # ramsey/uuid - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 486
+☋ Forks: 487
 
-★ Stars: 12034
+★ Stars: 12036
 
 [Open repository](https://github.com/ramsey/uuid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 12036 | 487 | 
 | 2023-03-28 | 12034 | 486 | 
 | 2023-03-26 | 12034 | 486 | 
 | 2023-03-25 | 12033 | 486 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 12003 | 486 | 
 | 2023-03-02 | 12003 | 486 | 
 | 2023-03-01 | 12003 | 485 | 
-| 2023-02-27 | 12002 | 485 | 
 

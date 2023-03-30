@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 228
 
-★ Stars: 3140
+★ Stars: 3183
 
 [Open repository](https://github.com/Pawdroid/Free-servers)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 3140 | 228 | 
+| 2023-03-29 | 3183 | 228 | 
 | 2023-03-27 | 3110 | 226 | 
 | 2023-03-26 | 3086 | 224 | 
 | 2023-03-25 | 3075 | 224 | 
@@ -37,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 2822 | 207 | 
 | 2023-03-02 | 2805 | 206 | 
 | 2023-03-01 | 2797 | 205 | 
-| 2023-02-28 | 2786 | 205 | 
 

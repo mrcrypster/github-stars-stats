@@ -1,10 +1,10 @@
 # git-ecosystem/git-credential-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1344
+☋ Forks: 1348
 
-★ Stars: 4147
+★ Stars: 4163
 
 [Open repository](https://github.com/git-ecosystem/git-credential-manager)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4163 | 1348 | 
+| 2023-03-29 | 4157 | 1346 | 
 | 2023-03-28 | 4147 | 1344 | 
 | 2023-03-26 | 4144 | 1339 | 
 | 2023-03-25 | 4137 | 1335 | 

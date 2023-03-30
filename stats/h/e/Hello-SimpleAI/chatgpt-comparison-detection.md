@@ -1,10 +1,10 @@
 # Hello-SimpleAI/chatgpt-comparison-detection - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 662
+★ Stars: 666
 
 [Open repository](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 666 | 50 | 
 | 2023-03-28 | 662 | 49 | 
 | 2023-03-26 | 658 | 47 | 
 | 2023-03-25 | 655 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 549 | 41 | 
 | 2023-03-02 | 544 | 39 | 
 | 2023-03-01 | 535 | 39 | 
-| 2023-02-28 | 530 | 37 | 
 

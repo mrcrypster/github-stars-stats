@@ -1,10 +1,10 @@
 # joBr99/nspanel-lovelace-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 164
+☋ Forks: 165
 
-★ Stars: 612
+★ Stars: 614
 
 [Open repository](https://github.com/joBr99/nspanel-lovelace-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 614 | 165 | 
 | 2023-03-27 | 612 | 164 | 
 | 2023-03-26 | 611 | 164 | 
 | 2023-03-25 | 611 | 161 | 

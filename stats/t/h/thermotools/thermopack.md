@@ -1,10 +1,10 @@
 # thermotools/thermopack - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/thermotools/thermopack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 9 | 4 | 
 | 2023-03-28 | 8 | 4 | 
 | 2023-03-26 | 8 | 4 | 
 | 2023-03-25 | 8 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 6 | 4 | 
 | 2023-03-02 | 6 | 4 | 
 | 2023-03-01 | 6 | 4 | 
-| 2023-02-27 | 6 | 4 | 
 

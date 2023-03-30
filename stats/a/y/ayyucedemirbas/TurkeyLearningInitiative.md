@@ -1,10 +1,10 @@
 # ayyucedemirbas/TurkeyLearningInitiative - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 113
 
-★ Stars: 637
+★ Stars: 639
 
 [Open repository](https://github.com/ayyucedemirbas/TurkeyLearningInitiative)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 639 | 113 | 
 | 2023-03-27 | 637 | 113 | 
 | 2023-03-26 | 636 | 113 | 
 | 2023-03-24 | 635 | 112 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 618 | 112 | 
 | 2023-03-02 | 618 | 112 | 
 | 2023-03-01 | 618 | 110 | 
-| 2023-02-28 | 616 | 110 | 
 

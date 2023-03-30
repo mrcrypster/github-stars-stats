@@ -1,10 +1,10 @@
 # gfreezy/seeker - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 533
+★ Stars: 536
 
 [Open repository](https://github.com/gfreezy/seeker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 536 | 41 | 
 | 2023-03-27 | 533 | 40 | 
 | 2023-03-26 | 532 | 40 | 
 | 2023-03-25 | 531 | 40 | 

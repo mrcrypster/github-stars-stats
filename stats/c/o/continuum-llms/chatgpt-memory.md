@@ -1,10 +1,10 @@
 # continuum-llms/chatgpt-memory - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 9
 
-★ Stars: 156
+★ Stars: 161
 
 [Open repository](https://github.com/continuum-llms/chatgpt-memory)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 161 | 9 | 
 | 2023-03-28 | 156 | 9 | 
 

@@ -1,10 +1,10 @@
 # QSCTech/zju-icicles - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 8753
+☋ Forks: 8761
 
-★ Stars: 31800
+★ Stars: 31828
 
 [Open repository](https://github.com/QSCTech/zju-icicles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 31828 | 8761 | 
 | 2023-03-28 | 31800 | 8753 | 
 | 2023-03-26 | 31779 | 8750 | 
 | 2023-03-25 | 31751 | 8748 | 

@@ -1,6 +1,6 @@
 # devncore/leagueoflegends - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 274 | 56 | 
 | 2023-03-27 | 274 | 56 | 
 | 2023-03-26 | 274 | 56 | 
 | 2023-03-25 | 274 | 56 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 275 | 56 | 
 | 2023-03-02 | 275 | 56 | 
 | 2023-02-28 | 275 | 56 | 
-| 2023-02-27 | 275 | 56 | 
 

@@ -1,8 +1,8 @@
 # gd1214b/okteto-debain-desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 111
+☋ Forks: 110
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 29 | 110 | 
 | 2023-03-28 | 29 | 111 | 
 | 2023-03-27 | 26 | 107 | 
 | 2023-03-25 | 24 | 106 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 17 | 93 | 
 | 2023-03-01 | 17 | 93 | 
 | 2023-02-28 | 17 | 93 | 
-| 2023-02-27 | 17 | 93 | 
 

@@ -1,10 +1,10 @@
 # huggingface/peft - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 148
+☋ Forks: 150
 
-★ Stars: 2378
+★ Stars: 2457
 
 [Open repository](https://github.com/huggingface/peft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2457 | 150 | 
 | 2023-03-28 | 2378 | 148 | 
 | 2023-03-27 | 2175 | 139 | 
 | 2023-03-26 | 2043 | 126 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1103 | 62 | 
 | 2023-03-01 | 1066 | 62 | 
 | 2023-02-28 | 1038 | 61 | 
-| 2023-02-27 | 1013 | 61 | 
 

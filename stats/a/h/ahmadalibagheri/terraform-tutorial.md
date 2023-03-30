@@ -1,8 +1,8 @@
 # ahmadalibagheri/terraform-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 33
+☋ Forks: 32
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 98 | 32 | 
 | 2023-03-28 | 98 | 33 | 
 | 2023-03-26 | 97 | 33 | 
 | 2023-03-25 | 97 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 93 | 32 | 
 | 2023-03-02 | 93 | 32 | 
 | 2023-03-01 | 92 | 32 | 
-| 2023-02-27 | 92 | 32 | 
 

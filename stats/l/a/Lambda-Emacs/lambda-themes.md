@@ -1,10 +1,10 @@
 # Lambda-Emacs/lambda-themes - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/Lambda-Emacs/lambda-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 89 | 4 | 
 | 2023-03-27 | 88 | 4 | 
 | 2023-03-26 | 88 | 4 | 
 | 2023-03-25 | 88 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 87 | 4 | 
 | 2023-03-02 | 87 | 4 | 
 | 2023-03-01 | 87 | 4 | 
-| 2023-02-27 | 86 | 4 | 
 

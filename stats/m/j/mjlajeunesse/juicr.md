@@ -1,10 +1,10 @@
 # mjlajeunesse/juicr - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/mjlajeunesse/juicr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 52 | 3 | 
 | 2023-03-27 | 51 | 3 | 
 | 2023-03-26 | 51 | 3 | 
 | 2023-03-25 | 51 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 50 | 3 | 
 | 2023-03-01 | 50 | 3 | 
 | 2023-02-28 | 50 | 3 | 
-| 2023-02-27 | 50 | 3 | 
 

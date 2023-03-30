@@ -1,10 +1,10 @@
 # NearHuscarl/flutter_login - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 698
+☋ Forks: 700
 
-★ Stars: 1292
+★ Stars: 1295
 
 [Open repository](https://github.com/NearHuscarl/flutter_login)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1295 | 700 | 
 | 2023-03-27 | 1292 | 698 | 
 | 2023-03-26 | 1291 | 698 | 
 | 2023-03-25 | 1290 | 697 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1283 | 688 | 
 | 2023-03-01 | 1283 | 688 | 
 | 2023-02-28 | 1281 | 688 | 
-| 2023-02-27 | 1281 | 688 | 
 

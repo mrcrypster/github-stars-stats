@@ -1,10 +1,10 @@
 # argyleink/gui-challenges - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 310
+☋ Forks: 312
 
-★ Stars: 2241
+★ Stars: 2243
 
 [Open repository](https://github.com/argyleink/gui-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2243 | 312 | 
 | 2023-03-28 | 2241 | 310 | 
 | 2023-03-26 | 2241 | 310 | 
 | 2023-03-25 | 2240 | 308 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2205 | 301 | 
 | 2023-03-02 | 2205 | 299 | 
 | 2023-02-28 | 2203 | 299 | 
-| 2023-02-27 | 2201 | 299 | 
 

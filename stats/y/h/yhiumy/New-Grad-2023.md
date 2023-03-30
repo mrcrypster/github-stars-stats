@@ -1,6 +1,6 @@
 # yhiumy/New-Grad-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 102 | 5 | 
 | 2023-03-27 | 102 | 5 | 
 | 2023-03-26 | 102 | 5 | 
 | 2023-03-24 | 102 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 100 | 5 | 
 | 2023-03-02 | 100 | 5 | 
 | 2023-03-01 | 101 | 5 | 
-| 2023-02-27 | 101 | 5 | 
 

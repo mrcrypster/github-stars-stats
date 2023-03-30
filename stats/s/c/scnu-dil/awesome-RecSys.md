@@ -1,6 +1,6 @@
 # scnu-dil/awesome-RecSys - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 262 | 45 | 
 | 2023-03-28 | 262 | 45 | 
 | 2023-03-26 | 262 | 45 | 
 | 2023-03-25 | 262 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 261 | 45 | 
 | 2023-03-02 | 261 | 45 | 
 | 2023-03-01 | 261 | 45 | 
-| 2023-02-28 | 261 | 45 | 
 

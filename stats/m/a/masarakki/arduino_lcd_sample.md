@@ -1,10 +1,10 @@
 # masarakki/arduino_lcd_sample - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/masarakki/arduino_lcd_sample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1 | - | 
 | 2023-03-29 | - | - | 
 | 2023-03-28 | - | - | 
 

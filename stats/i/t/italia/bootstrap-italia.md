@@ -1,8 +1,8 @@
 # italia/bootstrap-italia - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 145
+☋ Forks: 146
 
 ★ Stars: 267
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 267 | 146 | 
 | 2023-03-27 | 267 | 145 | 
 | 2023-03-26 | 267 | 145 | 
 | 2023-03-25 | 267 | 145 | 

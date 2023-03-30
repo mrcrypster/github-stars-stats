@@ -1,10 +1,10 @@
 # LnL7/vim-nix - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 21
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/LnL7/vim-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 245 | 21 | 
 | 2023-03-27 | 244 | 21 | 
 | 2023-03-26 | 244 | 21 | 
 | 2023-03-24 | 244 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 243 | 21 | 
 | 2023-03-02 | 242 | 21 | 
 | 2023-03-01 | 241 | 20 | 
-| 2023-02-27 | 241 | 20 | 
 

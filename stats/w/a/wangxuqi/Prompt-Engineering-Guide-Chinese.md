@@ -1,10 +1,10 @@
 # wangxuqi/Prompt-Engineering-Guide-Chinese - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 208
+★ Stars: 227
 
 [Open repository](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 227 | 25 | 
 | 2023-03-27 | 208 | 21 | 
 | 2023-03-26 | 184 | 16 | 
 | 2023-03-25 | 181 | 16 | 

@@ -1,8 +1,8 @@
 # mabusaa/argocd-course-webapp-config - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3 | 44 | 
 | 2023-03-28 | 3 | 43 | 
 | 2023-03-26 | 2 | 42 | 
 | 2023-03-25 | 2 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 1 | 37 | 
 | 2023-03-01 | 1 | 37 | 
 | 2023-02-28 | 1 | 37 | 
-| 2023-02-27 | 1 | 35 | 
 

@@ -1,6 +1,6 @@
 # json-schema-org/json-schema-spec - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2837 | 255 | 
 | 2023-03-27 | 2837 | 255 | 
 | 2023-03-26 | 2835 | 255 | 
 | 2023-03-25 | 2834 | 255 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2821 | 254 | 
 | 2023-03-01 | 2819 | 254 | 
 | 2023-02-28 | 2817 | 254 | 
-| 2023-02-27 | 2817 | 254 | 
 

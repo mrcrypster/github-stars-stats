@@ -1,6 +1,6 @@
 # SAP-samples/cap-bookshop-wdi5 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3 | 8 | 
 | 2023-03-28 | 3 | 8 | 
 | 2023-03-26 | 3 | 8 | 
 | 2023-03-25 | 3 | 8 | 

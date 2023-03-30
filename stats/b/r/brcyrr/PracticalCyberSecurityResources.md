@@ -1,10 +1,10 @@
 # brcyrr/PracticalCyberSecurityResources - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 45
 
-★ Stars: 351
+★ Stars: 352
 
 [Open repository](https://github.com/brcyrr/PracticalCyberSecurityResources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 352 | 45 | 
 | 2023-03-27 | 351 | 45 | 
 | 2023-03-26 | 351 | 45 | 
 | 2023-03-25 | 351 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 345 | 44 | 
 | 2023-03-02 | 344 | 44 | 
 | 2023-03-01 | 343 | 44 | 
-| 2023-02-27 | 343 | 43 | 
 

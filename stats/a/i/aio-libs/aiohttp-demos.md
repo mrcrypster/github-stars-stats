@@ -1,6 +1,6 @@
 # aio-libs/aiohttp-demos - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 220
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 667 | 220 | 
 | 2023-03-28 | 667 | 220 | 
 | 2023-03-26 | 667 | 220 | 
 | 2023-03-25 | 667 | 220 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 665 | 219 | 
 | 2023-03-01 | 665 | 219 | 
 | 2023-02-28 | 665 | 219 | 
-| 2023-02-27 | 665 | 219 | 
 

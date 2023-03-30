@@ -1,8 +1,8 @@
 # render-examples/adminer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3 | 36 | 
 | 2023-03-27 | 3 | 35 | 
 | 2023-03-26 | 3 | 35 | 
 | 2023-03-25 | 3 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 3 | 34 | 
 | 2023-03-02 | 3 | 33 | 
 | 2023-03-01 | 3 | 33 | 
-| 2023-02-28 | 3 | 33 | 
 

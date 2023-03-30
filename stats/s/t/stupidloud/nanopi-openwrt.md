@@ -1,10 +1,10 @@
 # stupidloud/nanopi-openwrt - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 2382
+☋ Forks: 2384
 
-★ Stars: 4486
+★ Stars: 4489
 
 [Open repository](https://github.com/stupidloud/nanopi-openwrt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4489 | 2384 | 
 | 2023-03-28 | 4486 | 2382 | 
 | 2023-03-27 | 4483 | 2382 | 
 | 2023-03-26 | 4478 | 2379 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 4406 | 2354 | 
 | 2023-03-01 | 4401 | 2351 | 
 | 2023-02-28 | 4400 | 2352 | 
-| 2023-02-27 | 4397 | 2355 | 
 

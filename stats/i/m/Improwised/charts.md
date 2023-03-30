@@ -1,10 +1,10 @@
 # Improwised/charts - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 9
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Improwised/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2 | 9 | 
 | 2023-03-28 | 1 | 9 | 
 | 2023-03-27 | 1 | 9 | 
 | 2023-03-25 | 1 | 9 | 

@@ -1,8 +1,8 @@
 # fholzer/docker-nginx-brotli - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 100
+☋ Forks: 101
 
 ★ Stars: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 145 | 101 | 
 | 2023-03-28 | 145 | 100 | 
 | 2023-03-26 | 145 | 99 | 
 | 2023-03-25 | 145 | 99 | 

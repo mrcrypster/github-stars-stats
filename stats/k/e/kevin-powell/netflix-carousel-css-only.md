@@ -1,6 +1,6 @@
 # kevin-powell/netflix-carousel-css-only - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 52 | 19 | 
 | 2023-03-28 | 52 | 19 | 
 | 2023-03-26 | 52 | 19 | 
 | 2023-03-25 | 52 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 50 | 18 | 
 | 2023-03-02 | 49 | 18 | 
 | 2023-03-01 | 49 | 18 | 
-| 2023-02-27 | 49 | 18 | 
 

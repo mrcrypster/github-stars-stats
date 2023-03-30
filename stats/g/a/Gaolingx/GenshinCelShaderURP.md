@@ -1,10 +1,10 @@
 # Gaolingx/GenshinCelShaderURP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 12
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/Gaolingx/GenshinCelShaderURP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 58 | 12 | 
 | 2023-03-28 | 57 | 12 | 
 | 2023-03-26 | 57 | 12 | 
 | 2023-03-25 | 57 | 11 | 

@@ -1,10 +1,10 @@
 # nickytonline/connect-four - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 16
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/nickytonline/connect-four)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 8 | 16 | 
 | 2023-03-28 | 9 | 16 | 
 | 2023-03-26 | 9 | 16 | 
 | 2023-03-25 | 9 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 8 | 16 | 
 | 2023-03-01 | 8 | 16 | 
 | 2023-02-28 | 8 | 16 | 
-| 2023-02-27 | 8 | 16 | 
 

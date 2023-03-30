@@ -1,10 +1,10 @@
 # tholman/cursor-effects - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 211
 
-★ Stars: 2769
+★ Stars: 2772
 
 [Open repository](https://github.com/tholman/cursor-effects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2772 | 211 | 
 | 2023-03-28 | 2769 | 211 | 
 | 2023-03-26 | 2764 | 211 | 
 | 2023-03-25 | 2761 | 210 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 2728 | 200 | 
 | 2023-03-01 | 2725 | 200 | 
 | 2023-02-28 | 2725 | 198 | 
-| 2023-02-27 | 2721 | 196 | 
 

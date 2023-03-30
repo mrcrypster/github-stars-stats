@@ -1,6 +1,6 @@
 # Bogdanp/awesome-advent-of-code - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 816
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2280 | 816 | 
 | 2023-03-28 | 2280 | 816 | 
 | 2023-03-26 | 2280 | 816 | 
 | 2023-03-25 | 2279 | 816 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2268 | 819 | 
 | 2023-03-02 | 2269 | 819 | 
 | 2023-03-01 | 2266 | 819 | 
-| 2023-02-27 | 2265 | 819 | 
 

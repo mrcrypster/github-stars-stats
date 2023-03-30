@@ -1,10 +1,10 @@
 # teppicom/RealThinClient-SDK - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 58
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/teppicom/RealThinClient-SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 136 | 58 | 
 | 2023-03-27 | 135 | 58 | 
 | 2023-03-26 | 135 | 58 | 
 | 2023-03-25 | 135 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 133 | 57 | 
 | 2023-03-01 | 133 | 57 | 
 | 2023-02-28 | 133 | 57 | 
-| 2023-02-27 | 133 | 57 | 
 

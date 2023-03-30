@@ -1,10 +1,10 @@
 # gocrane/crane - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 305
+☋ Forks: 306
 
-★ Stars: 1269
+★ Stars: 1272
 
 [Open repository](https://github.com/gocrane/crane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1272 | 306 | 
 | 2023-03-28 | 1269 | 305 | 
 | 2023-03-26 | 1265 | 305 | 
 | 2023-03-25 | 1264 | 305 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 1226 | 300 | 
 | 2023-03-01 | 1218 | 300 | 
 | 2023-02-28 | 1213 | 300 | 
-| 2023-02-27 | 1206 | 297 | 
 

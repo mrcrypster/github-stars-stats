@@ -1,10 +1,10 @@
 # jacany/nblog - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 24
 
 [Open repository](https://github.com/jacany/nblog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 24 | 2 | 
 | 2023-03-28 | 20 | 1 | 
 | 2023-03-26 | 19 | 1 | 
 | 2023-03-25 | 18 | 1 | 

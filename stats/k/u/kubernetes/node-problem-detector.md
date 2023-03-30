@@ -1,10 +1,10 @@
 # kubernetes/node-problem-detector - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 532
+☋ Forks: 533
 
-★ Stars: 2274
+★ Stars: 2275
 
 [Open repository](https://github.com/kubernetes/node-problem-detector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2275 | 533 | 
 | 2023-03-27 | 2274 | 532 | 
 | 2023-03-26 | 2274 | 532 | 
 | 2023-03-24 | 2273 | 532 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 2249 | 530 | 
 | 2023-03-01 | 2247 | 529 | 
 | 2023-02-28 | 2246 | 529 | 
-| 2023-02-27 | 2246 | 528 | 
 

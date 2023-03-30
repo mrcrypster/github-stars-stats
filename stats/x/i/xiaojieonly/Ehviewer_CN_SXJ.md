@@ -1,10 +1,10 @@
 # xiaojieonly/Ehviewer_CN_SXJ - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 233
 
-★ Stars: 5833
+★ Stars: 5838
 
 [Open repository](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5838 | 233 | 
 | 2023-03-27 | 5833 | 233 | 
 | 2023-03-26 | 5828 | 233 | 
 | 2023-03-25 | 5821 | 233 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 5657 | 228 | 
 | 2023-03-01 | 5652 | 228 | 
 | 2023-02-28 | 5648 | 228 | 
-| 2023-02-27 | 5631 | 228 | 
 

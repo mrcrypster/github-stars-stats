@@ -1,6 +1,6 @@
 # Difegue/LANraragi - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1318 | 107 | 
 | 2023-03-28 | 1318 | 107 | 
 | 2023-03-27 | 1312 | 107 | 
 | 2023-03-26 | 1311 | 106 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1248 | 106 | 
 | 2023-03-01 | 1248 | 106 | 
 | 2023-02-28 | 1247 | 106 | 
-| 2023-02-27 | 1245 | 106 | 
 

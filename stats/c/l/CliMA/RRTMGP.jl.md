@@ -1,6 +1,6 @@
 # CliMA/RRTMGP.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 44 | 4 | 
 | 2023-03-28 | 44 | 4 | 
 | 2023-03-26 | 44 | 4 | 
 | 2023-03-25 | 44 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 45 | 4 | 
 | 2023-03-01 | 45 | 4 | 
 | 2023-02-28 | 45 | 4 | 
-| 2023-02-27 | 44 | 4 | 
 

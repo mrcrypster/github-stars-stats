@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 29
 
-☋ Forks: 70
+☋ Forks: 72
 
-★ Stars: 143
+★ Stars: 150
 
 [Open repository](https://github.com/momika233/AM0N-Eye)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 143 | 70 | 
+| 2023-03-29 | 150 | 72 | 
 | 2023-03-28 | 137 | 68 | 
 

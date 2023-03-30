@@ -1,10 +1,10 @@
 # tpope/vim-cucumber - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 64
 
-★ Stars: 321
+★ Stars: 320
 
 [Open repository](https://github.com/tpope/vim-cucumber)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 320 | 64 | 
 | 2023-03-28 | 321 | 64 | 
 | 2023-03-26 | 321 | 64 | 
 | 2023-03-25 | 321 | 64 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 321 | 63 | 
 | 2023-03-01 | 321 | 63 | 
 | 2023-02-28 | 321 | 63 | 
-| 2023-02-27 | 321 | 63 | 
 

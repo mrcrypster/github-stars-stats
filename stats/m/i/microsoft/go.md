@@ -1,8 +1,8 @@
 # microsoft/go - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 9
+☋ Forks: 8
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 47 | 8 | 
 | 2023-03-27 | 47 | 9 | 
 | 2023-03-26 | 47 | 9 | 
 | 2023-03-24 | 47 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 43 | 7 | 
 | 2023-03-01 | 43 | 7 | 
 | 2023-02-28 | 42 | 7 | 
-| 2023-02-27 | 42 | 7 | 
 

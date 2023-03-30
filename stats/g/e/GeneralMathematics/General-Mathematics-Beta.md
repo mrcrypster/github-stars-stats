@@ -1,8 +1,8 @@
 # GeneralMathematics/General-Mathematics-Beta - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 192
+☋ Forks: 194
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 30 | 194 | 
 | 2023-03-28 | 30 | 192 | 
 | 2023-03-26 | 30 | 191 | 
 | 2023-03-25 | 30 | 191 | 

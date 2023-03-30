@@ -1,10 +1,10 @@
 # openxpki/openxpki - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 96
 
-★ Stars: 444
+★ Stars: 443
 
 [Open repository](https://github.com/openxpki/openxpki)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 443 | 96 | 
 | 2023-03-28 | 444 | 96 | 
 | 2023-03-26 | 444 | 96 | 
 | 2023-03-25 | 443 | 96 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 439 | 96 | 
 | 2023-03-01 | 439 | 96 | 
 | 2023-02-28 | 439 | 95 | 
-| 2023-02-27 | 439 | 95 | 
 

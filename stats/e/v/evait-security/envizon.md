@@ -1,6 +1,6 @@
 # evait-security/envizon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 518 | 105 | 
 | 2023-03-28 | 518 | 105 | 
 | 2023-03-26 | 518 | 105 | 
 | 2023-03-25 | 518 | 105 | 

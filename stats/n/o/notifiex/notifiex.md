@@ -1,6 +1,6 @@
 # notifiex/notifiex - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 53 | 3 | 
 | 2023-03-27 | 53 | 3 | 
 | 2023-03-25 | 53 | 3 | 
 | 2023-03-24 | 53 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 52 | 3 | 
 | 2023-03-02 | 52 | 3 | 
 | 2023-03-01 | 52 | 3 | 
-| 2023-02-27 | 52 | 3 | 
 

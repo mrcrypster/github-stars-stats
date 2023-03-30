@@ -1,10 +1,10 @@
 # erlang-lager/lager - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 454
 
-★ Stars: 1097
+★ Stars: 1098
 
 [Open repository](https://github.com/erlang-lager/lager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1098 | 454 | 
 | 2023-03-27 | 1097 | 454 | 
 | 2023-03-26 | 1097 | 454 | 
 | 2023-03-25 | 1097 | 454 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1096 | 455 | 
 | 2023-03-01 | 1095 | 454 | 
 | 2023-02-28 | 1095 | 454 | 
-| 2023-02-27 | 1095 | 454 | 
 

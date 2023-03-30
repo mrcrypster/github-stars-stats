@@ -1,10 +1,10 @@
 # SHARKgamestudio/Windows-Free-Activator-WBFA - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 41
+★ Stars: 43
 
 [Open repository](https://github.com/SHARKgamestudio/Windows-Free-Activator-WBFA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 43 | 3 | 
 | 2023-03-27 | 41 | 3 | 
 | 2023-03-26 | 38 | 3 | 
 | 2023-03-25 | 36 | 3 | 

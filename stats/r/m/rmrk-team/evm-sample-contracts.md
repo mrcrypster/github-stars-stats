@@ -1,6 +1,6 @@
 # rmrk-team/evm-sample-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 13 | 3 | 
 | 2023-03-27 | 13 | 3 | 
 | 2023-03-26 | 13 | 3 | 
 | 2023-03-25 | 13 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 13 | 2 | 
 | 2023-03-02 | 13 | 2 | 
 | 2023-03-01 | 13 | 2 | 
-| 2023-02-27 | 13 | 2 | 
 

@@ -1,10 +1,10 @@
 # MemoryLeakHub/MovementUnity - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/MemoryLeakHub/MovementUnity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 41 | 4 | 
 | 2023-03-28 | 39 | 3 | 
 | 2023-03-26 | 39 | 3 | 
 | 2023-03-25 | 39 | 3 | 

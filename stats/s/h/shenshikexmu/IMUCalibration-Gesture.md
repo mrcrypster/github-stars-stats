@@ -1,10 +1,10 @@
 # shenshikexmu/IMUCalibration-Gesture - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 242
 
-★ Stars: 586
+★ Stars: 587
 
 [Open repository](https://github.com/shenshikexmu/IMUCalibration-Gesture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 587 | 242 | 
 | 2023-03-28 | 586 | 242 | 
 | 2023-03-26 | 585 | 241 | 
 | 2023-03-25 | 585 | 241 | 

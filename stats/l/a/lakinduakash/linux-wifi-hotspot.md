@@ -1,10 +1,10 @@
 # lakinduakash/linux-wifi-hotspot - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 201
 
-★ Stars: 1811
+★ Stars: 1816
 
 [Open repository](https://github.com/lakinduakash/linux-wifi-hotspot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1816 | 201 | 
 | 2023-03-27 | 1811 | 201 | 
 | 2023-03-26 | 1807 | 201 | 
 | 2023-03-25 | 1803 | 201 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 1738 | 202 | 
 | 2023-03-01 | 1736 | 201 | 
 | 2023-02-28 | 1735 | 201 | 
-| 2023-02-27 | 1733 | 200 | 
 

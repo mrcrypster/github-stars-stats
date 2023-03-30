@@ -1,10 +1,10 @@
 # gwuhaolin/livego - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 1852
+☋ Forks: 1856
 
-★ Stars: 8772
+★ Stars: 8775
 
 [Open repository](https://github.com/gwuhaolin/livego)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 8775 | 1856 | 
 | 2023-03-27 | 8772 | 1852 | 
 | 2023-03-25 | 8765 | 1852 | 
 | 2023-03-24 | 8761 | 1850 | 

@@ -1,10 +1,10 @@
 # robertluo/fun-map - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 68
+★ Stars: 71
 
 [Open repository](https://github.com/robertluo/fun-map)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 71 | 4 | 
 | 2023-03-27 | 68 | 4 | 
 | 2023-03-26 | 68 | 4 | 
 | 2023-03-25 | 68 | 4 | 

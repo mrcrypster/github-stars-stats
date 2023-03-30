@@ -1,10 +1,10 @@
 # xingfa-peng/UnityTextureLoader - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/xingfa-peng/UnityTextureLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 22 | 6 | 
 | 2023-03-28 | 21 | 6 | 
 | 2023-03-26 | 21 | 6 | 
 | 2023-03-25 | 21 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 21 | 6 | 
 | 2023-03-01 | 21 | 6 | 
 | 2023-02-28 | 21 | 6 | 
-| 2023-02-27 | 21 | 6 | 
 

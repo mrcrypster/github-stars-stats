@@ -1,8 +1,8 @@
 # mayer79/statistical_computing_material - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2 | 11 | 
 | 2023-03-28 | 2 | 10 | 
 | 2023-03-27 | 2 | 10 | 
 | 2023-03-25 | 2 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2 | 9 | 
 | 2023-03-01 | 2 | 9 | 
 | 2023-02-28 | 2 | 9 | 
-| 2023-02-27 | 2 | 9 | 
 

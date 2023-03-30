@@ -1,10 +1,10 @@
 # coteditor/CotEditor - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 393
 
-★ Stars: 5326
+★ Stars: 5332
 
 [Open repository](https://github.com/coteditor/CotEditor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5332 | 393 | 
 | 2023-03-27 | 5326 | 393 | 
 | 2023-03-26 | 5324 | 393 | 
 | 2023-03-25 | 5322 | 393 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 5280 | 391 | 
 | 2023-03-02 | 5280 | 391 | 
 | 2023-03-01 | 5277 | 391 | 
-| 2023-02-28 | 5271 | 391 | 
 

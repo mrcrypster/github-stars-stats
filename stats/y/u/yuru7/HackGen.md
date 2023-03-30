@@ -1,10 +1,10 @@
 # yuru7/HackGen - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 20
+☋ Forks: 19
 
-★ Stars: 1549
+★ Stars: 1553
 
 [Open repository](https://github.com/yuru7/HackGen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1553 | 19 | 
 | 2023-03-27 | 1549 | 20 | 
 | 2023-03-26 | 1549 | 20 | 
 | 2023-03-24 | 1548 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 1524 | 20 | 
 | 2023-03-01 | 1524 | 20 | 
 | 2023-02-28 | 1523 | 20 | 
-| 2023-02-27 | 1522 | 20 | 
 

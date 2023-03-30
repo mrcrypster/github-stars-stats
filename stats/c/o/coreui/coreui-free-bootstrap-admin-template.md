@@ -1,10 +1,10 @@
 # coreui/coreui-free-bootstrap-admin-template - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3047
+☋ Forks: 3048
 
-★ Stars: 11529
+★ Stars: 11528
 
 [Open repository](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 11528 | 3048 | 
 | 2023-03-27 | 11529 | 3047 | 
 | 2023-03-26 | 11529 | 3046 | 
 | 2023-03-25 | 11530 | 3046 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 11505 | 3042 | 
 | 2023-03-01 | 11503 | 3045 | 
 | 2023-02-28 | 11503 | 3045 | 
-| 2023-02-27 | 11502 | 3045 | 
 

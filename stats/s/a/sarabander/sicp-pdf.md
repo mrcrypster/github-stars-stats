@@ -1,6 +1,6 @@
 # sarabander/sicp-pdf - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 536
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4164 | 536 | 
 | 2023-03-28 | 4164 | 536 | 
 | 2023-03-26 | 4164 | 536 | 
 | 2023-03-25 | 4164 | 536 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 4152 | 535 | 
 | 2023-03-01 | 4152 | 535 | 
 | 2023-02-28 | 4151 | 535 | 
-| 2023-02-27 | 4149 | 536 | 
 

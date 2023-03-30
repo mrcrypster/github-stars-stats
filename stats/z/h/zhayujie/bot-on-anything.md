@@ -1,10 +1,10 @@
 # zhayujie/bot-on-anything - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 218
+☋ Forks: 236
 
-★ Stars: 1238
+★ Stars: 1299
 
 [Open repository](https://github.com/zhayujie/bot-on-anything)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1299 | 236 | 
 | 2023-03-27 | 1238 | 218 | 
 | 2023-03-26 | 1180 | 202 | 
 | 2023-03-25 | 1132 | 193 | 

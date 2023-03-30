@@ -1,6 +1,6 @@
 # wowchemy/hugo-minimal-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 23 | 21 | 
 | 2023-03-27 | 23 | 21 | 
 | 2023-03-26 | 22 | 21 | 
 | 2023-03-25 | 22 | 21 | 

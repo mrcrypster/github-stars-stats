@@ -1,10 +1,10 @@
 # typst/comemo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 159
+★ Stars: 167
 
 [Open repository](https://github.com/typst/comemo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 167 | 4 | 
 | 2023-03-28 | 159 | 4 | 
 | 2023-03-26 | 154 | 4 | 
 | 2023-03-25 | 143 | 4 | 

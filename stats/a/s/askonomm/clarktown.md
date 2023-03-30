@@ -1,10 +1,10 @@
 # askonomm/clarktown - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 0
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/askonomm/clarktown)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 74 | - | 
 | 2023-03-27 | 73 | - | 
 | 2023-03-26 | 71 | - | 
 | 2023-03-25 | 71 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 70 | - | 
 | 2023-03-01 | 70 | - | 
 | 2023-02-28 | 70 | - | 
-| 2023-02-27 | 70 | - | 
 

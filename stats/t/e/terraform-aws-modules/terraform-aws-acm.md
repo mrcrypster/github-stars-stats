@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-acm - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 209
+☋ Forks: 210
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-acm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 138 | 210 | 
 | 2023-03-27 | 137 | 209 | 
 | 2023-03-26 | 137 | 209 | 
 | 2023-03-25 | 137 | 209 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 133 | 210 | 
 | 2023-03-01 | 133 | 209 | 
 | 2023-02-28 | 133 | 209 | 
-| 2023-02-27 | 133 | 208 | 
 

@@ -1,10 +1,10 @@
 # Leantime/leantime - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 380
 
-★ Stars: 2112
+★ Stars: 2116
 
 [Open repository](https://github.com/Leantime/leantime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2116 | 380 | 
 | 2023-03-28 | 2112 | 380 | 
 | 2023-03-27 | 2104 | 379 | 
 | 2023-03-26 | 2098 | 379 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 2066 | 370 | 
 | 2023-03-01 | 2064 | 370 | 
 | 2023-02-28 | 2060 | 370 | 
-| 2023-02-27 | 2052 | 371 | 
 

@@ -1,10 +1,10 @@
 # jatrost/awesome-kubernetes-threat-detection - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/jatrost/awesome-kubernetes-threat-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 111 | 10 | 
 | 2023-03-27 | 110 | 10 | 
 | 2023-03-26 | 110 | 10 | 
 | 2023-03-25 | 109 | 10 | 

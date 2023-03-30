@@ -1,10 +1,10 @@
 # blockworks-foundation/liquidator-v3 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 109
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/blockworks-foundation/liquidator-v3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 313 | 109 | 
 | 2023-03-27 | 312 | 109 | 
 | 2023-03-26 | 312 | 109 | 
 | 2023-03-25 | 312 | 109 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 311 | 109 | 
 | 2023-03-01 | 311 | 109 | 
 | 2023-02-28 | 311 | 109 | 
-| 2023-02-27 | 311 | 109 | 
 

@@ -1,6 +1,6 @@
 # dbt-labs/dbt-external-tables - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 203 | 83 | 
 | 2023-03-28 | 203 | 83 | 
 | 2023-03-27 | 202 | 83 | 
 | 2023-03-26 | 202 | 83 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 193 | 83 | 
 | 2023-03-01 | 191 | 83 | 
 | 2023-02-28 | 191 | 83 | 
-| 2023-02-27 | 192 | 83 | 
 

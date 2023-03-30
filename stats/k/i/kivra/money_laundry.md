@@ -1,6 +1,6 @@
 # kivra/money_laundry - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 6 | 3 | 
+| 2023-03-29 | 6 | 3 | 
 | 2023-03-27 | 6 | 3 | 
 | 2023-03-26 | 6 | 3 | 
 | 2023-03-25 | 6 | 3 | 

@@ -1,6 +1,6 @@
 # lambdaisland/witchcraft - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 124 | 7 | 
 | 2023-03-27 | 124 | 7 | 
 | 2023-03-26 | 124 | 7 | 
 | 2023-03-25 | 124 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 122 | 7 | 
 | 2023-03-02 | 122 | 7 | 
 | 2023-03-01 | 122 | 7 | 
-| 2023-02-27 | 122 | 7 | 
 

@@ -1,10 +1,10 @@
 # cognitect/transit-cljs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 21
 
-★ Stars: 321
+★ Stars: 322
 
 [Open repository](https://github.com/cognitect/transit-cljs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 322 | 21 | 
 | 2023-03-28 | 321 | 21 | 
 | 2023-03-26 | 321 | 21 | 
 | 2023-03-25 | 321 | 21 | 

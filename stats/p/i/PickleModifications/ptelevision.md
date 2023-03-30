@@ -1,6 +1,6 @@
 # PickleModifications/ptelevision - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 56 | 30 | 
 | 2023-03-28 | 56 | 30 | 
 | 2023-03-26 | 56 | 29 | 
 | 2023-03-25 | 56 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 57 | 27 | 
 | 2023-03-02 | 56 | 27 | 
 | 2023-03-01 | 55 | 27 | 
-| 2023-02-27 | 55 | 27 | 
 

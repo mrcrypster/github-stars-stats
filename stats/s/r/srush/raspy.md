@@ -1,6 +1,6 @@
 # srush/raspy - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 145 | 15 | 
 | 2023-03-27 | 145 | 15 | 
 | 2023-03-26 | 145 | 15 | 
 | 2023-03-24 | 145 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 135 | 12 | 
 | 2023-03-02 | 135 | 12 | 
 | 2023-03-01 | 134 | 12 | 
-| 2023-02-27 | 134 | 12 | 
 

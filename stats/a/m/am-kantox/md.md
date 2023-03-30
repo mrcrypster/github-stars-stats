@@ -1,8 +1,8 @@
 # am-kantox/md - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 48 | 4 | 
 | 2023-03-27 | 48 | 3 | 
 | 2023-03-26 | 48 | 3 | 
 | 2023-03-24 | 48 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 48 | 3 | 
 | 2023-03-02 | 48 | 3 | 
 | 2023-03-01 | 48 | 3 | 
-| 2023-02-27 | 48 | 3 | 
 

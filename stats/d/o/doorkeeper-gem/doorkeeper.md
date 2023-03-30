@@ -1,10 +1,10 @@
 # doorkeeper-gem/doorkeeper - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1057
 
-★ Stars: 5116
+★ Stars: 5118
 
 [Open repository](https://github.com/doorkeeper-gem/doorkeeper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5118 | 1057 | 
 | 2023-03-27 | 5116 | 1057 | 
 | 2023-03-26 | 5115 | 1057 | 
 | 2023-03-24 | 5115 | 1057 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 5106 | 1051 | 
 | 2023-03-01 | 5104 | 1051 | 
 | 2023-02-28 | 5103 | 1050 | 
-| 2023-02-27 | 5103 | 1049 | 
 

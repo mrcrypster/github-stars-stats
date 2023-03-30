@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-media-types - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 7 | 10 | 
 | 2023-03-27 | 7 | 10 | 
 | 2023-03-26 | 7 | 10 | 
 | 2023-03-25 | 7 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 6 | 10 | 
 | 2023-03-01 | 6 | 10 | 
 | 2023-02-28 | 6 | 10 | 
-| 2023-02-27 | 6 | 10 | 
 

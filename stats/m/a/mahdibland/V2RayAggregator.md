@@ -1,10 +1,10 @@
 # mahdibland/V2RayAggregator - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 111
+☋ Forks: 115
 
-★ Stars: 595
+★ Stars: 599
 
 [Open repository](https://github.com/mahdibland/V2RayAggregator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 599 | 115 | 
 | 2023-03-28 | 595 | 111 | 
 | 2023-03-26 | 588 | 109 | 
 | 2023-03-25 | 581 | 105 | 

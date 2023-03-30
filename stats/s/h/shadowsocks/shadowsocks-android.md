@@ -1,10 +1,10 @@
 # shadowsocks/shadowsocks-android - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 11633
+☋ Forks: 11632
 
-★ Stars: 33520
+★ Stars: 33526
 
 [Open repository](https://github.com/shadowsocks/shadowsocks-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 33526 | 11632 | 
 | 2023-03-28 | 33520 | 11633 | 
 | 2023-03-26 | 33520 | 11633 | 
 | 2023-03-25 | 33513 | 11634 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 33415 | 11624 | 
 | 2023-03-01 | 33411 | 11623 | 
 | 2023-02-28 | 33407 | 11623 | 
-| 2023-02-27 | 33404 | 11623 | 
 

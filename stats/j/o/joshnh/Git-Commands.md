@@ -1,10 +1,10 @@
 # joshnh/Git-Commands - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3336
 
-★ Stars: 4201
+★ Stars: 4203
 
 [Open repository](https://github.com/joshnh/Git-Commands)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4203 | 3336 | 
 | 2023-03-27 | 4201 | 3336 | 
 | 2023-03-26 | 4195 | 3331 | 
 | 2023-03-24 | 4194 | 3329 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 4159 | 3312 | 
 | 2023-03-02 | 4158 | 3313 | 
 | 2023-03-01 | 4157 | 3309 | 
-| 2023-02-27 | 4156 | 3305 | 
 

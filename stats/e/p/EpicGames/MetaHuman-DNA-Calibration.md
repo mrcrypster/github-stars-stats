@@ -1,8 +1,8 @@
 # EpicGames/MetaHuman-DNA-Calibration - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 171 | 48 | 
 | 2023-03-27 | 171 | 47 | 
 | 2023-03-26 | 171 | 46 | 
 | 2023-03-25 | 171 | 46 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 161 | 44 | 
 | 2023-03-01 | 161 | 44 | 
 | 2023-02-28 | 160 | 44 | 
-| 2023-02-27 | 160 | 44 | 
 

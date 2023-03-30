@@ -1,8 +1,8 @@
 # turkyden/lizhi - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 503
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 503 | 45 | 
 | 2023-03-28 | 503 | 44 | 
 | 2023-03-26 | 501 | 44 | 
 | 2023-03-25 | 501 | 44 | 

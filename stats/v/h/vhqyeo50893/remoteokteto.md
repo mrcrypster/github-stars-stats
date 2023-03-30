@@ -1,6 +1,6 @@
 # vhqyeo50893/remoteokteto - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6 | 48 | 
 | 2023-03-28 | 6 | 48 | 
 | 2023-03-26 | 5 | 48 | 
 | 2023-03-25 | 5 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 5 | 47 | 
 | 2023-03-01 | 5 | 47 | 
 | 2023-02-28 | 5 | 47 | 
-| 2023-02-27 | 5 | 46 | 
 

@@ -1,10 +1,10 @@
 # FranxYao/chain-of-thought-hub - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 8
 
-★ Stars: 166
+★ Stars: 170
 
 [Open repository](https://github.com/FranxYao/chain-of-thought-hub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 170 | 8 | 
 | 2023-03-27 | 166 | 8 | 
 | 2023-03-26 | 164 | 8 | 
 | 2023-03-24 | 163 | 8 | 

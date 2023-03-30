@@ -1,10 +1,10 @@
 # Beomi/KoAlpaca - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 80
+☋ Forks: 82
 
-★ Stars: 577
+★ Stars: 610
 
 [Open repository](https://github.com/Beomi/KoAlpaca)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 610 | 82 | 
 | 2023-03-27 | 577 | 80 | 
 | 2023-03-26 | 543 | 76 | 
 | 2023-03-25 | 534 | 72 | 

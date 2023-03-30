@@ -1,10 +1,10 @@
 # Meetytoes/ARBITRUM-Token-Trading-Bot-ZEUS - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 50
 
-★ Stars: 67
+★ Stars: 76
 
 [Open repository](https://github.com/Meetytoes/ARBITRUM-Token-Trading-Bot-ZEUS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 76 | 50 | 
 | 2023-03-28 | 67 | 50 | 
 | 2023-03-27 | 43 | 40 | 
 | 2023-03-26 | 24 | 22 | 

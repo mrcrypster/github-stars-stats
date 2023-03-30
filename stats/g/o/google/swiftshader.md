@@ -1,10 +1,10 @@
 # google/swiftshader - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 266
+☋ Forks: 267
 
-★ Stars: 1788
+★ Stars: 1791
 
 [Open repository](https://github.com/google/swiftshader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1791 | 267 | 
 | 2023-03-27 | 1788 | 266 | 
 | 2023-03-26 | 1787 | 266 | 
 | 2023-03-24 | 1786 | 265 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 1763 | 262 | 
 | 2023-03-01 | 1761 | 262 | 
 | 2023-02-28 | 1761 | 261 | 
-| 2023-02-27 | 1761 | 261 | 
 

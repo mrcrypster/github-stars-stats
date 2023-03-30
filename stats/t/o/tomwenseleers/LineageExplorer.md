@@ -1,10 +1,10 @@
 # tomwenseleers/LineageExplorer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/tomwenseleers/LineageExplorer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 24 | 4 | 
 | 2023-03-27 | 23 | 4 | 
 | 2023-03-25 | 23 | 4 | 
 | 2023-03-24 | 23 | 4 | 

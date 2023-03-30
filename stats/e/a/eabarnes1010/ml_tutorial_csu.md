@@ -1,6 +1,6 @@
 # eabarnes1010/ml_tutorial_csu - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 71 | 15 | 
 | 2023-03-27 | 71 | 15 | 
 | 2023-03-25 | 71 | 15 | 
 | 2023-03-24 | 71 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 70 | 14 | 
 | 2023-03-01 | 70 | 14 | 
 | 2023-02-28 | 70 | 14 | 
-| 2023-02-27 | 70 | 14 | 
 

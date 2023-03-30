@@ -1,8 +1,8 @@
 # logstash-plugins/logstash-patterns-core - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 977
+☋ Forks: 978
 
 ★ Stars: 2109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2109 | 978 | 
 | 2023-03-27 | 2109 | 977 | 
 | 2023-03-26 | 2110 | 977 | 
 | 2023-03-25 | 2110 | 977 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 2102 | 978 | 
 | 2023-03-01 | 2101 | 978 | 
 | 2023-02-28 | 2102 | 978 | 
-| 2023-02-27 | 2101 | 977 | 
 

@@ -1,6 +1,6 @@
 # HSG-WAS-SS23/exercise-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | - | 10 | 
 | 2023-03-28 | - | 10 | 
 | 2023-03-26 | - | 10 | 
 | 2023-03-25 | - | 10 | 

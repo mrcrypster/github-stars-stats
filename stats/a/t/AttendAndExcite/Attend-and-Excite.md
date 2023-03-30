@@ -1,6 +1,6 @@
 # AttendAndExcite/Attend-and-Excite - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 347 | 32 | 
 | 2023-03-28 | 347 | 32 | 
 | 2023-03-26 | 345 | 32 | 
 | 2023-03-25 | 344 | 32 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 317 | 28 | 
 | 2023-03-01 | 315 | 28 | 
 | 2023-02-28 | 314 | 28 | 
-| 2023-02-27 | 308 | 28 | 
 

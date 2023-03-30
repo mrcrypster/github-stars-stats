@@ -1,10 +1,10 @@
 # ros-controls/control_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 59
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/ros-controls/control_msgs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 31 | 59 | 
 | 2023-03-29 | 30 | 59 | 
 | 2023-03-27 | 30 | 59 | 
 | 2023-03-26 | 30 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 31 | 59 | 
 | 2023-03-01 | 31 | 58 | 
 | 2023-02-28 | 31 | 57 | 
-| 2023-02-27 | 31 | 57 | 
 

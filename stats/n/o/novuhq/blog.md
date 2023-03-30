@@ -1,10 +1,10 @@
 # novuhq/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 358
+☋ Forks: 363
 
-★ Stars: 476
+★ Stars: 478
 
 [Open repository](https://github.com/novuhq/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 478 | 363 | 
 | 2023-03-28 | 476 | 358 | 
 | 2023-03-26 | 473 | 355 | 
 | 2023-03-25 | 472 | 354 | 

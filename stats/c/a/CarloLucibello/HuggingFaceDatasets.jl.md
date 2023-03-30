@@ -1,10 +1,10 @@
 # CarloLucibello/HuggingFaceDatasets.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/CarloLucibello/HuggingFaceDatasets.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 16 | - | 
 | 2023-03-27 | 15 | - | 
 | 2023-03-26 | 15 | - | 
 | 2023-03-24 | 15 | - | 

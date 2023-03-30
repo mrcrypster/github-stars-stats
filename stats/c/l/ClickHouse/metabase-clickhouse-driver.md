@@ -1,10 +1,10 @@
 # ClickHouse/metabase-clickhouse-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 64
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/ClickHouse/metabase-clickhouse-driver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 376 | 64 | 
 | 2023-03-28 | 375 | 64 | 
 | 2023-03-26 | 375 | 64 | 
 | 2023-03-25 | 375 | 64 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 372 | 61 | 
 | 2023-03-01 | 372 | 61 | 
 | 2023-02-28 | 371 | 61 | 
-| 2023-02-27 | 371 | 60 | 
 

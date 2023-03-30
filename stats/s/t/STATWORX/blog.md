@@ -1,10 +1,10 @@
 # STATWORX/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 490
+☋ Forks: 489
 
-★ Stars: 106
+★ Stars: 105
 
 [Open repository](https://github.com/STATWORX/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 105 | 489 | 
 | 2023-03-27 | 106 | 490 | 
 | 2023-03-26 | 106 | 490 | 
 | 2023-03-24 | 106 | 490 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 106 | 490 | 
 | 2023-03-02 | 106 | 490 | 
 | 2023-03-01 | 106 | 490 | 
-| 2023-02-27 | 106 | 490 | 
 

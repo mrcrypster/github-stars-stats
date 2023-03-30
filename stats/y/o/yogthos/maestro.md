@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 29
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 26
 
 [Open repository](https://github.com/yogthos/maestro)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 19 | - | 
+| 2023-03-29 | 26 | - | 
 | 2023-03-28 | 6 | - | 
 

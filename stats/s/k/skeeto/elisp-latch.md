@@ -1,0 +1,18 @@
+# skeeto/elisp-latch - stars & forks statistics
+
+Stats updated on Mar 2023, 30
+
+☋ Forks: 3
+
+★ Stars: 13
+
+[Open repository](https://github.com/skeeto/elisp-latch)
+
+[Open detailed stats for skeeto/elisp-latch](https://reviewgithub.com/rep/skeeto/elisp-latch)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-30 | 13 | 3 | 
+| 2023-03-29 | 13 | 3 | 
+

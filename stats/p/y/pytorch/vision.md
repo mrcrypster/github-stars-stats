@@ -1,10 +1,10 @@
 # pytorch/vision - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 6592
+☋ Forks: 6598
 
-★ Stars: 13585
+★ Stars: 13594
 
 [Open repository](https://github.com/pytorch/vision)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 13594 | 6598 | 
 | 2023-03-27 | 13585 | 6592 | 
 | 2023-03-26 | 13575 | 6589 | 
 | 2023-03-25 | 13569 | 6593 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 13390 | 6541 | 
 | 2023-03-01 | 13382 | 6539 | 
 | 2023-02-28 | 13372 | 6536 | 
-| 2023-02-27 | 13360 | 6530 | 
 

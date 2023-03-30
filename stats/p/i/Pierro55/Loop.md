@@ -1,6 +1,6 @@
 # Pierro55/Loop - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 50 | 3 | 
 | 2023-03-27 | 50 | 3 | 
 | 2023-03-25 | 50 | 3 | 
 | 2023-03-24 | 50 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 49 | 3 | 
 | 2023-03-01 | 49 | 3 | 
 | 2023-02-28 | 48 | 3 | 
-| 2023-02-27 | 48 | 3 | 
 

@@ -1,10 +1,10 @@
 # KoboldAI/KoboldAI-Client - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 223
+☋ Forks: 226
 
-★ Stars: 1587
+★ Stars: 1597
 
 [Open repository](https://github.com/KoboldAI/KoboldAI-Client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 1597 | 226 | 
 | 2023-03-28 | 1587 | 223 | 
 | 2023-03-26 | 1575 | 218 | 
 | 2023-03-25 | 1563 | 217 | 

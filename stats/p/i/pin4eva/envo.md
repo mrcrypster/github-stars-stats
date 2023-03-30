@@ -1,6 +1,6 @@
 # pin4eva/envo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | - | 38 | 
 | 2023-03-28 | - | 38 | 
 | 2023-03-26 | - | 38 | 
 | 2023-03-25 | - | 38 | 

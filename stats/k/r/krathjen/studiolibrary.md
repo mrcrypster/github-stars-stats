@@ -1,6 +1,6 @@
 # krathjen/studiolibrary - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 266 | 116 | 
 | 2023-03-28 | 266 | 116 | 
 | 2023-03-27 | 265 | 116 | 
 | 2023-03-26 | 264 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 261 | 115 | 
 | 2023-03-02 | 260 | 115 | 
 | 2023-02-28 | 260 | 115 | 
-| 2023-02-27 | 260 | 115 | 
 

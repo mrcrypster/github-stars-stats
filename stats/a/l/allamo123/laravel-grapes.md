@@ -1,8 +1,8 @@
 # allamo123/laravel-grapes - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 121 | 17 | 
 | 2023-03-27 | 121 | 16 | 
 | 2023-03-26 | 121 | 16 | 
 | 2023-03-25 | 121 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 120 | 15 | 
 | 2023-03-02 | 120 | 15 | 
 | 2023-03-01 | 120 | 15 | 
-| 2023-02-28 | 120 | 15 | 
 

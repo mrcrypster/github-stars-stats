@@ -1,6 +1,6 @@
 # TryGhost/Headline - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 33 | 46 | 
 | 2023-03-28 | 33 | 46 | 
 | 2023-03-26 | 32 | 46 | 
 | 2023-03-25 | 32 | 45 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 28 | 43 | 
 | 2023-03-02 | 28 | 43 | 
 | 2023-02-28 | 28 | 43 | 
-| 2023-02-27 | 28 | 43 | 
 

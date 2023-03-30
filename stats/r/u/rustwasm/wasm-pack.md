@@ -1,10 +1,10 @@
 # rustwasm/wasm-pack - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 349
 
-★ Stars: 5040
+★ Stars: 5043
 
 [Open repository](https://github.com/rustwasm/wasm-pack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5043 | 349 | 
 | 2023-03-28 | 5040 | 349 | 
 | 2023-03-26 | 5036 | 348 | 
 | 2023-03-25 | 5032 | 348 | 

@@ -1,8 +1,8 @@
 # Clooos/Home-Assistant-Mobile-First - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 384
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 384 | 36 | 
 | 2023-03-28 | 384 | 35 | 
 | 2023-03-26 | 384 | 35 | 
 | 2023-03-25 | 382 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 367 | 32 | 
 | 2023-03-02 | 366 | 32 | 
 | 2023-02-28 | 362 | 32 | 
-| 2023-02-27 | 359 | 31 | 
 

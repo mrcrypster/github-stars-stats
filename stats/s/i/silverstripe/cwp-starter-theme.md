@@ -1,6 +1,6 @@
 # silverstripe/cwp-starter-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4 | 29 | 
 | 2023-03-27 | 4 | 29 | 
 | 2023-03-26 | 4 | 28 | 
 | 2023-03-24 | 4 | 28 | 

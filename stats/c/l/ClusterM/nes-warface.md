@@ -1,6 +1,6 @@
 # ClusterM/nes-warface - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 21 | 2 | 
 | 2023-03-28 | 21 | 2 | 
 | 2023-03-26 | 21 | 2 | 
 | 2023-03-25 | 21 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 21 | 2 | 
 | 2023-03-02 | 21 | 2 | 
 | 2023-02-28 | 21 | 2 | 
-| 2023-02-27 | 21 | 2 | 
 

@@ -1,10 +1,10 @@
 # mnt-ltd/moredoc - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 45
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/mnt-ltd/moredoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 149 | 45 | 
 | 2023-03-28 | 148 | 45 | 
 | 2023-03-26 | 146 | 44 | 
 | 2023-03-25 | 143 | 44 | 

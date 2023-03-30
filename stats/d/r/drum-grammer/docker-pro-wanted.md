@@ -1,10 +1,10 @@
 # drum-grammer/docker-pro-wanted - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 83
+☋ Forks: 109
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/drum-grammer/docker-pro-wanted)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 21 | 109 | 
+| 2023-03-29 | 20 | 96 | 
 | 2023-03-28 | 19 | 83 | 
 | 2023-03-27 | 19 | 63 | 
 | 2023-03-26 | 16 | 51 | 

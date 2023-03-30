@@ -1,10 +1,10 @@
 # base-org/node - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 583
+☋ Forks: 602
 
-★ Stars: 21979
+★ Stars: 22272
 
 [Open repository](https://github.com/base-org/node)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 22272 | 602 | 
 | 2023-03-28 | 21979 | 583 | 
 | 2023-03-26 | 21638 | 580 | 
 | 2023-03-25 | 21250 | 577 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 109 | 33 | 
 | 2023-03-01 | 104 | 31 | 
 | 2023-02-28 | 95 | 31 | 
-| 2023-02-27 | 94 | 30 | 
 

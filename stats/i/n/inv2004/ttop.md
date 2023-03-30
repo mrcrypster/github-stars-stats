@@ -1,10 +1,10 @@
 # inv2004/ttop - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
-★ Stars: 150
+★ Stars: 149
 
 [Open repository](https://github.com/inv2004/ttop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 149 | 1 | 
 | 2023-03-28 | 150 | 1 | 
 | 2023-03-26 | 148 | 1 | 
 | 2023-03-25 | 147 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 131 | 1 | 
 | 2023-03-01 | 128 | 1 | 
 | 2023-02-28 | 128 | 1 | 
-| 2023-02-27 | 128 | 1 | 
 

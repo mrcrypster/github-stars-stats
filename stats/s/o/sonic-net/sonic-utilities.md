@@ -1,6 +1,6 @@
 # sonic-net/sonic-utilities - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 530
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 117 | 530 | 
 | 2023-03-28 | 117 | 530 | 
 | 2023-03-26 | 117 | 530 | 
 | 2023-03-25 | 117 | 530 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 117 | 526 | 
 | 2023-03-01 | 117 | 526 | 
 | 2023-02-28 | 117 | 524 | 
-| 2023-02-27 | 117 | 524 | 
 

@@ -1,8 +1,8 @@
 # helium/denylist - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 209
+☋ Forks: 211
 
 ★ Stars: 196
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 196 | 211 | 
 | 2023-03-28 | 196 | 209 | 
 | 2023-03-26 | 196 | 207 | 
 | 2023-03-25 | 196 | 206 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 192 | 200 | 
 | 2023-03-01 | 192 | 200 | 
 | 2023-02-28 | 192 | 199 | 
-| 2023-02-27 | 191 | 198 | 
 

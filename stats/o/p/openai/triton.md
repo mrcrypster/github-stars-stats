@@ -1,10 +1,10 @@
 # openai/triton - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 564
+☋ Forks: 569
 
-★ Stars: 5985
+★ Stars: 6016
 
 [Open repository](https://github.com/openai/triton)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6016 | 569 | 
 | 2023-03-27 | 5985 | 564 | 
 | 2023-03-26 | 5964 | 562 | 
 | 2023-03-25 | 5957 | 561 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 5557 | 508 | 
 | 2023-03-02 | 5517 | 497 | 
 | 2023-03-01 | 5499 | 493 | 
-| 2023-02-27 | 5483 | 493 | 
 

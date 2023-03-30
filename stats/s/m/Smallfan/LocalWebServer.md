@@ -1,10 +1,10 @@
 # Smallfan/LocalWebServer - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
-★ Stars: 143
+★ Stars: 145
 
 [Open repository](https://github.com/Smallfan/LocalWebServer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 145 | 6 | 
 | 2023-03-27 | 143 | 6 | 
 | 2023-03-26 | 141 | 6 | 
 | 2023-03-25 | 140 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 133 | 6 | 
 | 2023-03-02 | 133 | 6 | 
 | 2023-03-01 | 133 | 6 | 
-| 2023-02-28 | 132 | 6 | 
 

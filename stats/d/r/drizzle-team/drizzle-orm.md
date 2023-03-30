@@ -1,10 +1,10 @@
 # drizzle-team/drizzle-orm - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 46
+☋ Forks: 53
 
-★ Stars: 2675
+★ Stars: 3195
 
 [Open repository](https://github.com/drizzle-team/drizzle-orm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3195 | 53 | 
 | 2023-03-27 | 2675 | 46 | 
 | 2023-03-26 | 2644 | 44 | 
 | 2023-03-25 | 2621 | 44 | 

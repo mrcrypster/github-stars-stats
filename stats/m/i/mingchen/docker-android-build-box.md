@@ -1,10 +1,10 @@
 # mingchen/docker-android-build-box - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 197
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/mingchen/docker-android-build-box)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 412 | 197 | 
 | 2023-03-28 | 411 | 197 | 
 | 2023-03-26 | 409 | 197 | 
 | 2023-03-25 | 409 | 197 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 403 | 192 | 
 | 2023-03-01 | 403 | 191 | 
 | 2023-02-28 | 403 | 191 | 
-| 2023-02-27 | 403 | 190 | 
 

@@ -1,8 +1,8 @@
 # pamelafox/python-project-template - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 38 | 6 | 
 | 2023-03-27 | 38 | 5 | 
 | 2023-03-26 | 37 | 5 | 
 | 2023-03-25 | 37 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 37 | 5 | 
 | 2023-03-02 | 35 | 5 | 
 | 2023-03-01 | 35 | 5 | 
-| 2023-02-28 | 36 | 5 | 
 

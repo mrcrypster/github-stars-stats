@@ -1,10 +1,10 @@
 # PBI-David/Deneb-Showcase - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 15
 
-★ Stars: 102
+★ Stars: 108
 
 [Open repository](https://github.com/PBI-David/Deneb-Showcase)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 108 | 15 | 
 | 2023-03-28 | 102 | 15 | 
 

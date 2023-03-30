@@ -1,8 +1,8 @@
 # json-api/json-api - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 845
+☋ Forks: 844
 
 ★ Stars: 7115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 7115 | 844 | 
 | 2023-03-27 | 7115 | 845 | 
 | 2023-03-26 | 7114 | 845 | 
 | 2023-03-25 | 7114 | 845 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 7100 | 845 | 
 | 2023-03-01 | 7099 | 845 | 
 | 2023-02-28 | 7099 | 845 | 
-| 2023-02-27 | 7100 | 845 | 
 

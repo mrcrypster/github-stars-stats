@@ -1,10 +1,10 @@
 # slint-ui/slint - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 192
+☋ Forks: 191
 
-★ Stars: 6043
+★ Stars: 6054
 
 [Open repository](https://github.com/slint-ui/slint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 6054 | 191 | 
 | 2023-03-27 | 6043 | 192 | 
 | 2023-03-26 | 6035 | 192 | 
 | 2023-03-25 | 6022 | 192 | 

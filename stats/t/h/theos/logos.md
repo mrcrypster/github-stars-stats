@@ -1,10 +1,10 @@
 # theos/logos - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/theos/logos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 163 | 30 | 
 | 2023-03-28 | 162 | 29 | 
 | 2023-03-26 | 162 | 29 | 
 | 2023-03-25 | 162 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 159 | 29 | 
 | 2023-03-02 | 159 | 29 | 
 | 2023-03-01 | 159 | 29 | 
-| 2023-02-28 | 159 | 29 | 
 

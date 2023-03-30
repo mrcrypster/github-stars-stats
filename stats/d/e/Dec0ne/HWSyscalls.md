@@ -1,10 +1,10 @@
 # Dec0ne/HWSyscalls - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 336
+★ Stars: 335
 
 [Open repository](https://github.com/Dec0ne/HWSyscalls)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 335 | 58 | 
 | 2023-03-27 | 336 | 57 | 
 | 2023-03-26 | 335 | 57 | 
 | 2023-03-24 | 334 | 57 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 311 | 54 | 
 | 2023-03-01 | 311 | 53 | 
 | 2023-02-28 | 309 | 52 | 
-| 2023-02-27 | 302 | 51 | 
 

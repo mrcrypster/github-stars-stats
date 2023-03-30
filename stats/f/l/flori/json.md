@@ -1,10 +1,10 @@
 # flori/json - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 320
 
-★ Stars: 640
+★ Stars: 641
 
 [Open repository](https://github.com/flori/json)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 641 | 320 | 
 | 2023-03-28 | 640 | 320 | 
 | 2023-03-26 | 640 | 320 | 
 | 2023-03-25 | 640 | 320 | 

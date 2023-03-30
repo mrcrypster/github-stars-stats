@@ -1,10 +1,10 @@
 # CrunchyData/postgres-operator - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 501
+☋ Forks: 502
 
-★ Stars: 3213
+★ Stars: 3216
 
 [Open repository](https://github.com/CrunchyData/postgres-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3216 | 502 | 
 | 2023-03-27 | 3213 | 501 | 
 | 2023-03-26 | 3212 | 500 | 
 | 2023-03-25 | 3213 | 500 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 3181 | 501 | 
 | 2023-03-01 | 3181 | 500 | 
 | 2023-02-28 | 3178 | 500 | 
-| 2023-02-27 | 3174 | 500 | 
 

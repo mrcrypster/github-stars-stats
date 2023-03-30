@@ -1,10 +1,10 @@
 # JuliaSymbolics/SymbolicUtils.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 438 | 78 | 
 | 2023-03-28 | 437 | 77 | 
 | 2023-03-26 | 437 | 77 | 
 | 2023-03-25 | 437 | 77 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 437 | 75 | 
 | 2023-03-01 | 437 | 75 | 
 | 2023-02-28 | 437 | 76 | 
-| 2023-02-27 | 435 | 76 | 
 

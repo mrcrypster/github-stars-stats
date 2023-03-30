@@ -1,10 +1,10 @@
 # huginn/huginn - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 3401
+☋ Forks: 3402
 
-★ Stars: 37918
+★ Stars: 37929
 
 [Open repository](https://github.com/huginn/huginn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 37929 | 3402 | 
 | 2023-03-27 | 37918 | 3401 | 
 | 2023-03-26 | 37914 | 3400 | 
 | 2023-03-25 | 37905 | 3399 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 37755 | 3377 | 
 | 2023-03-01 | 37744 | 3376 | 
 | 2023-02-28 | 37739 | 3376 | 
-| 2023-02-27 | 37726 | 3377 | 
 

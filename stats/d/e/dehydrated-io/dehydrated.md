@@ -1,10 +1,10 @@
 # dehydrated-io/dehydrated - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 705
 
-★ Stars: 5553
+★ Stars: 5554
 
 [Open repository](https://github.com/dehydrated-io/dehydrated)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5554 | 705 | 
 | 2023-03-27 | 5553 | 705 | 
 | 2023-03-26 | 5552 | 705 | 
 | 2023-03-24 | 5552 | 705 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 5538 | 707 | 
 | 2023-03-02 | 5538 | 707 | 
 | 2023-03-01 | 5537 | 707 | 
-| 2023-02-27 | 5536 | 707 | 
 

@@ -1,10 +1,10 @@
 # FunnyWolf/Viper - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 474
 
-★ Stars: 2901
+★ Stars: 2902
 
 [Open repository](https://github.com/FunnyWolf/Viper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 2902 | 474 | 
 | 2023-03-28 | 2901 | 474 | 
 | 2023-03-26 | 2901 | 474 | 
 | 2023-03-25 | 2898 | 474 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 2861 | 465 | 
 | 2023-03-01 | 2859 | 464 | 
 | 2023-02-28 | 2854 | 465 | 
-| 2023-02-27 | 2851 | 465 | 
 

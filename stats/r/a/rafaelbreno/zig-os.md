@@ -1,6 +1,6 @@
 # rafaelbreno/zig-os - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 18 | 2 | 
 | 2023-03-28 | 18 | 2 | 
 | 2023-03-26 | 17 | 2 | 
 | 2023-03-25 | 17 | 2 | 

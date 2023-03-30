@@ -1,10 +1,10 @@
 # nicejade/chatgpt.nicelinks.site - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/nicejade/chatgpt.nicelinks.site)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 14 | 2 | 
 | 2023-03-28 | 13 | 2 | 
 

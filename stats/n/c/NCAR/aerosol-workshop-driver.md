@@ -1,6 +1,6 @@
 # NCAR/aerosol-workshop-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4 | 6 | 
 | 2023-03-27 | 4 | 6 | 
 | 2023-03-26 | 4 | 6 | 
 | 2023-03-25 | 4 | 6 | 

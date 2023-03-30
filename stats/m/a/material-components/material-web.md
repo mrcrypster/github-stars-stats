@@ -1,10 +1,10 @@
 # material-components/material-web - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 598
 
-★ Stars: 5388
+★ Stars: 5390
 
 [Open repository](https://github.com/material-components/material-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5390 | 598 | 
 | 2023-03-28 | 5388 | 598 | 
 | 2023-03-27 | 5379 | 597 | 
 | 2023-03-26 | 5367 | 597 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 5143 | 583 | 
 | 2023-03-01 | 5136 | 583 | 
 | 2023-02-28 | 5121 | 582 | 
-| 2023-02-27 | 5107 | 581 | 
 

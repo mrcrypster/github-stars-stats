@@ -1,10 +1,10 @@
 # marcobreveglieri/prometheus-client-delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 16
+★ Stars: 21
 
 [Open repository](https://github.com/marcobreveglieri/prometheus-client-delphi)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 21 | 3 | 
 | 2023-03-28 | 16 | 2 | 
 

@@ -1,6 +1,6 @@
 # voidcrew/Voidcrew-LRP - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 11 | 70 | 
 | 2023-03-27 | 11 | 70 | 
 | 2023-03-26 | 11 | 70 | 
 | 2023-03-24 | 11 | 70 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 11 | 71 | 
 | 2023-03-01 | 11 | 71 | 
 | 2023-02-28 | 11 | 71 | 
-| 2023-02-27 | 11 | 71 | 
 

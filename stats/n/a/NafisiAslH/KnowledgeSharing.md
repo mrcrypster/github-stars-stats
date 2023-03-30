@@ -1,10 +1,10 @@
 # NafisiAslH/KnowledgeSharing - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 139
+☋ Forks: 161
 
-★ Stars: 514
+★ Stars: 612
 
 [Open repository](https://github.com/NafisiAslH/KnowledgeSharing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 612 | 161 | 
 | 2023-03-27 | 514 | 139 | 
 | 2023-03-26 | 502 | 139 | 
 | 2023-03-25 | 498 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 441 | 124 | 
 | 2023-03-02 | 441 | 124 | 
 | 2023-03-01 | 441 | 124 | 
-| 2023-02-28 | 440 | 124 | 
 

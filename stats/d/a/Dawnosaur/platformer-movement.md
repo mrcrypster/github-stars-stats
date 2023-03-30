@@ -1,10 +1,10 @@
 # Dawnosaur/platformer-movement - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 63
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/Dawnosaur/platformer-movement)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 157 | 63 | 
 | 2023-03-27 | 156 | 63 | 
 | 2023-03-26 | 155 | 63 | 
 | 2023-03-25 | 155 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 139 | 51 | 
 | 2023-03-01 | 139 | 51 | 
 | 2023-02-28 | 139 | 51 | 
-| 2023-02-27 | 139 | 49 | 
 

@@ -1,10 +1,10 @@
 # pixelfed/pixelfed - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 553
+☋ Forks: 554
 
-★ Stars: 4597
+★ Stars: 4602
 
 [Open repository](https://github.com/pixelfed/pixelfed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4602 | 554 | 
 | 2023-03-27 | 4597 | 553 | 
 | 2023-03-26 | 4594 | 552 | 
 | 2023-03-24 | 4595 | 551 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 4566 | 547 | 
 | 2023-03-02 | 4563 | 546 | 
 | 2023-03-01 | 4558 | 546 | 
-| 2023-02-27 | 4554 | 547 | 
 

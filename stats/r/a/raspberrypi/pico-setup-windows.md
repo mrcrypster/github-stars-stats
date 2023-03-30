@@ -1,10 +1,10 @@
 # raspberrypi/pico-setup-windows - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/raspberrypi/pico-setup-windows)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 49 | 6 | 
 | 2023-03-28 | 48 | 5 | 
 | 2023-03-26 | 48 | 5 | 
 | 2023-03-25 | 47 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 26 | 3 | 
 | 2023-03-01 | 25 | 3 | 
 | 2023-02-28 | 24 | 3 | 
-| 2023-02-27 | 22 | 3 | 
 

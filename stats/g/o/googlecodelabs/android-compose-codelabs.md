@@ -1,10 +1,10 @@
 # googlecodelabs/android-compose-codelabs - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 405
+☋ Forks: 407
 
-★ Stars: 888
+★ Stars: 890
 
 [Open repository](https://github.com/googlecodelabs/android-compose-codelabs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 890 | 407 | 
 | 2023-03-27 | 888 | 405 | 
 | 2023-03-26 | 887 | 404 | 
 | 2023-03-25 | 887 | 403 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 861 | 375 | 
 | 2023-03-01 | 858 | 375 | 
 | 2023-02-28 | 858 | 374 | 
-| 2023-02-27 | 854 | 374 | 
 

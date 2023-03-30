@@ -1,6 +1,6 @@
 # estimated1337/lenovo_mapper - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 68 | 22 | 
 | 2023-03-28 | 68 | 22 | 
 | 2023-03-27 | 69 | 22 | 
 | 2023-03-25 | 69 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 64 | 21 | 
 | 2023-03-02 | 63 | 21 | 
 | 2023-03-01 | 63 | 21 | 
-| 2023-02-28 | 62 | 21 | 
 

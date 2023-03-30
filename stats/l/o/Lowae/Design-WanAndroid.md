@@ -1,10 +1,10 @@
 # Lowae/Design-WanAndroid - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 401
+★ Stars: 402
 
 [Open repository](https://github.com/Lowae/Design-WanAndroid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 402 | 55 | 
 | 2023-03-28 | 401 | 54 | 
 | 2023-03-26 | 402 | 54 | 
 | 2023-03-25 | 402 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 395 | 53 | 
 | 2023-03-01 | 395 | 53 | 
 | 2023-02-28 | 392 | 53 | 
-| 2023-02-27 | 392 | 53 | 
 

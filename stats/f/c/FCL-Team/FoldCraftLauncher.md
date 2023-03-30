@@ -1,10 +1,10 @@
 # FCL-Team/FoldCraftLauncher - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/FCL-Team/FoldCraftLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 102 | 45 | 
 | 2023-03-27 | 101 | 44 | 
 | 2023-03-26 | 101 | 44 | 
 | 2023-03-25 | 101 | 43 | 

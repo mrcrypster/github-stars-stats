@@ -1,6 +1,6 @@
 # GEOS-ESM/GEOSldas - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 10 | 9 | 
 | 2023-03-28 | 10 | 9 | 
 | 2023-03-27 | 10 | 9 | 
 | 2023-03-26 | 10 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-02 | 10 | 8 | 
 | 2023-03-01 | 10 | 8 | 
 | 2023-02-28 | 10 | 8 | 
-| 2023-02-27 | 10 | 8 | 
 

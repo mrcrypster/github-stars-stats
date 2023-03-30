@@ -1,10 +1,10 @@
 # Ikaroon/TMP3D - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/Ikaroon/TMP3D)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 61 | 3 | 
 | 2023-03-27 | 60 | 3 | 
 | 2023-03-26 | 60 | 3 | 
 | 2023-03-25 | 59 | 3 | 

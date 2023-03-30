@@ -1,6 +1,6 @@
 # TurtlePU/haskell-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | - | 5 | 
 | 2023-03-27 | - | 5 | 
 | 2023-03-26 | - | 5 | 
 | 2023-03-25 | - | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | - | 3 | 
 | 2023-03-02 | - | 3 | 
 | 2023-03-01 | - | 3 | 
-| 2023-02-27 | - | 3 | 
 

@@ -1,10 +1,10 @@
 # MARD1NO/FxxkCUDA - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/MARD1NO/FxxkCUDA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 49 | 2 | 
 | 2023-03-27 | 47 | 2 | 
 | 2023-03-26 | 47 | 2 | 
 | 2023-03-25 | 47 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 42 | 2 | 
 | 2023-03-01 | 42 | 2 | 
 | 2023-02-28 | 42 | 2 | 
-| 2023-02-27 | 42 | 2 | 
 

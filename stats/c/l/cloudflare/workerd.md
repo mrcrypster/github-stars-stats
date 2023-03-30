@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 29
 
-☋ Forks: 150
+☋ Forks: 151
 
-★ Stars: 4519
+★ Stars: 4523
 
 [Open repository](https://github.com/cloudflare/workerd)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-29 | 4519 | 150 | 
+| 2023-03-29 | 4523 | 151 | 
 | 2023-03-28 | 4519 | 150 | 
 | 2023-03-27 | 4518 | 150 | 
 | 2023-03-26 | 4513 | 150 | 

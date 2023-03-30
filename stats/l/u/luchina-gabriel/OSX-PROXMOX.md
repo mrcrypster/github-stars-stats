@@ -1,10 +1,10 @@
 # luchina-gabriel/OSX-PROXMOX - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 119
+☋ Forks: 118
 
-★ Stars: 846
+★ Stars: 866
 
 [Open repository](https://github.com/luchina-gabriel/OSX-PROXMOX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 866 | 118 | 
 | 2023-03-27 | 846 | 119 | 
 | 2023-03-26 | 843 | 119 | 
 | 2023-03-24 | 841 | 119 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-03 | 771 | 112 | 
 | 2023-03-02 | 771 | 112 | 
 | 2023-03-01 | 763 | 111 | 
-| 2023-02-28 | 763 | 111 | 
 

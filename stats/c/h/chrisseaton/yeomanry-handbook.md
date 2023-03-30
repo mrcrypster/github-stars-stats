@@ -1,6 +1,6 @@
 # chrisseaton/yeomanry-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 5 | 1 | 
 | 2023-03-28 | 5 | 1 | 
 | 2023-03-26 | 5 | 1 | 
 | 2023-03-25 | 5 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 5 | 1 | 
 | 2023-03-02 | 5 | 1 | 
 | 2023-03-01 | 5 | 1 | 
-| 2023-02-27 | 5 | 1 | 
 

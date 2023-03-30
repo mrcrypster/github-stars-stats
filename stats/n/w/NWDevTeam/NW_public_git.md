@@ -1,6 +1,6 @@
 # NWDevTeam/NW_public_git - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 27 | 58 | 
 | 2023-03-27 | 27 | 58 | 
 | 2023-03-26 | 27 | 58 | 
 | 2023-03-25 | 27 | 58 | 

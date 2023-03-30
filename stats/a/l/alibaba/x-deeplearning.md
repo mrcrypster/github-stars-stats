@@ -1,10 +1,10 @@
 # alibaba/x-deeplearning - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 1031
 
-★ Stars: 4151
+★ Stars: 4150
 
 [Open repository](https://github.com/alibaba/x-deeplearning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 4150 | 1031 | 
 | 2023-03-28 | 4151 | 1031 | 
 | 2023-03-26 | 4152 | 1031 | 
 | 2023-03-25 | 4153 | 1031 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 4149 | 1029 | 
 | 2023-03-01 | 4149 | 1029 | 
 | 2023-02-28 | 4150 | 1029 | 
-| 2023-02-27 | 4149 | 1029 | 
 

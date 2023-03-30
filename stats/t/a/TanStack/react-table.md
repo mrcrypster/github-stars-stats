@@ -1,10 +1,10 @@
 # TanStack/react-table - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 29
 
-☋ Forks: 2755
+☋ Forks: 2757
 
-★ Stars: 20999
+★ Stars: 21027
 
 [Open repository](https://github.com/TanStack/react-table)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 21027 | 2757 | 
 | 2023-03-27 | 20999 | 2755 | 
 | 2023-03-26 | 20989 | 2755 | 
 | 2023-03-25 | 20984 | 2754 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-02 | 20813 | 2734 | 
 | 2023-03-01 | 20808 | 2735 | 
 | 2023-02-28 | 20797 | 2733 | 
-| 2023-02-27 | 20789 | 2730 | 
 

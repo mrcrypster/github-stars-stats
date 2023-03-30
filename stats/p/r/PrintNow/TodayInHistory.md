@@ -1,6 +1,6 @@
 # PrintNow/TodayInHistory - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 68 | 22 | 
 | 2023-03-28 | 68 | 22 | 
 | 2023-03-26 | 67 | 22 | 
 | 2023-03-25 | 67 | 22 | 

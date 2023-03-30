@@ -1,10 +1,10 @@
 # ucla-rlcourse/CS269-projects-2022fall - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 29
 
 ☋ Forks: 45
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/ucla-rlcourse/CS269-projects-2022fall)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-29 | 3 | 45 | 
 | 2023-03-28 | 2 | 45 | 
 | 2023-03-26 | 2 | 45 | 
 | 2023-03-25 | 2 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2 | 45 | 
 | 2023-03-01 | 2 | 45 | 
 | 2023-02-28 | 2 | 45 | 
-| 2023-02-27 | 2 | 45 | 
 
