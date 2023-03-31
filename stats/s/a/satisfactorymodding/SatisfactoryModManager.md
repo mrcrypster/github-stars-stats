@@ -1,8 +1,8 @@
 # satisfactorymodding/SatisfactoryModManager - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 71
+☋ Forks: 70
 
 ★ Stars: 271
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 271 | 70 | 
 | 2023-03-28 | 271 | 71 | 
 | 2023-03-26 | 270 | 71 | 
 | 2023-03-25 | 270 | 71 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 266 | 71 | 
 | 2023-03-03 | 265 | 71 | 
 | 2023-03-02 | 265 | 71 | 
-| 2023-02-28 | 265 | 71 | 
 

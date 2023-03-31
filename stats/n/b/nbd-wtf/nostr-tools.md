@@ -1,10 +1,10 @@
 # nbd-wtf/nostr-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 86
 
-★ Stars: 345
+★ Stars: 348
 
 [Open repository](https://github.com/nbd-wtf/nostr-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 348 | 86 | 
 | 2023-03-28 | 345 | 86 | 
 | 2023-03-27 | 344 | 85 | 
 | 2023-03-25 | 340 | 85 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 303 | 72 | 
 | 2023-03-03 | 298 | 69 | 
 | 2023-03-01 | 297 | 68 | 
-| 2023-02-28 | 295 | 67 | 
 

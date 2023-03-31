@@ -1,8 +1,8 @@
 # web-infra-dev/modern.js - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 219
+☋ Forks: 222
 
 ★ Stars: 3132
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3132 | 222 | 
 | 2023-03-28 | 3132 | 219 | 
 | 2023-03-27 | 3130 | 218 | 
 | 2023-03-26 | 3128 | 218 | 

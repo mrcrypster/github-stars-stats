@@ -1,6 +1,6 @@
 # jakubroztocil/cloudtunes - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2477 | 246 | 
 | 2023-03-28 | 2477 | 246 | 
 | 2023-03-27 | 2477 | 246 | 
 | 2023-03-26 | 2477 | 246 | 

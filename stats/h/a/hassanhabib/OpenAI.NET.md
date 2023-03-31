@@ -1,10 +1,10 @@
 # hassanhabib/OpenAI.NET - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 48
+☋ Forks: 47
 
-★ Stars: 131
+★ Stars: 135
 
 [Open repository](https://github.com/hassanhabib/OpenAI.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 135 | 47 | 
 | 2023-03-28 | 131 | 48 | 
 | 2023-03-27 | 120 | 45 | 
 | 2023-03-25 | 109 | 43 | 

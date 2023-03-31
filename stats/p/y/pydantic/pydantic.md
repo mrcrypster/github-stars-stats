@@ -1,10 +1,10 @@
 # pydantic/pydantic - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1183
+☋ Forks: 1189
 
-★ Stars: 13038
+★ Stars: 13066
 
 [Open repository](https://github.com/pydantic/pydantic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 13066 | 1189 | 
 | 2023-03-28 | 13038 | 1183 | 
 | 2023-03-26 | 13008 | 1184 | 
 | 2023-03-25 | 12991 | 1184 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 12669 | 1176 | 
 | 2023-03-02 | 12653 | 1174 | 
 | 2023-03-01 | 12644 | 1171 | 
-| 2023-02-28 | 12637 | 1169 | 
 

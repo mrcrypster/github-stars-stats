@@ -1,10 +1,10 @@
 # HotCakeX/Harden-Windows-Security - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/HotCakeX/Harden-Windows-Security)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 74 | 5 | 
 | 2023-03-29 | 73 | 5 | 
 | 2023-03-27 | 72 | 5 | 
 | 2023-03-26 | 72 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 57 | 4 | 
 | 2023-03-03 | 55 | 3 | 
 | 2023-03-02 | 54 | 3 | 
-| 2023-02-28 | 54 | 3 | 
 

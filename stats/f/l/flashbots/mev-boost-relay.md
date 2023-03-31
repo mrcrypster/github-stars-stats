@@ -1,10 +1,10 @@
 # flashbots/mev-boost-relay - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 290
+★ Stars: 291
 
 [Open repository](https://github.com/flashbots/mev-boost-relay)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 291 | 64 | 
 | 2023-03-28 | 290 | 63 | 
 | 2023-03-27 | 290 | 64 | 
 | 2023-03-25 | 288 | 63 | 

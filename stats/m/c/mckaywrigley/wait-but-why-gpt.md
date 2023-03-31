@@ -1,10 +1,10 @@
 # mckaywrigley/wait-but-why-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 251
+★ Stars: 263
 
 [Open repository](https://github.com/mckaywrigley/wait-but-why-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 263 | 32 | 
 | 2023-03-29 | 251 | 31 | 
 | 2023-03-28 | 249 | 31 | 
 | 2023-03-26 | 236 | 29 | 

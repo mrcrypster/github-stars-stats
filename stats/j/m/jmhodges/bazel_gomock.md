@@ -1,10 +1,10 @@
 # jmhodges/bazel_gomock - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 29
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/jmhodges/bazel_gomock)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 53 | 29 | 
+| 2023-03-30 | 53 | 29 | 
 | 2023-03-28 | 52 | 29 | 
 | 2023-03-26 | 52 | 29 | 
 | 2023-03-25 | 52 | 29 | 

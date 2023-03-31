@@ -1,10 +1,10 @@
 # invenia/Mocking.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 11
 
-★ Stars: 52
+★ Stars: 54
 
 [Open repository](https://github.com/invenia/Mocking.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 54 | 11 | 
 | 2023-03-28 | 52 | 11 | 
 | 2023-03-26 | 52 | 11 | 
 | 2023-03-25 | 52 | 11 | 

@@ -1,6 +1,6 @@
 # hwittenborn/celeste - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 383 | 12 | 
 | 2023-03-28 | 383 | 12 | 
 | 2023-03-27 | 381 | 12 | 
 | 2023-03-26 | 380 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 351 | 13 | 
 | 2023-03-03 | 350 | 13 | 
 | 2023-03-02 | 348 | 13 | 
-| 2023-03-01 | 347 | 13 | 
 

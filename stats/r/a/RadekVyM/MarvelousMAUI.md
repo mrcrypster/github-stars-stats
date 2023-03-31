@@ -1,10 +1,10 @@
 # RadekVyM/MarvelousMAUI - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 31
 
-★ Stars: 310
+★ Stars: 313
 
 [Open repository](https://github.com/RadekVyM/MarvelousMAUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 313 | 31 | 
 | 2023-03-28 | 310 | 31 | 
 | 2023-03-27 | 308 | 30 | 
 | 2023-03-25 | 308 | 29 | 

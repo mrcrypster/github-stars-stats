@@ -1,6 +1,6 @@
 # purescript/purescript-contravariant - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 11 | 11 | 
 | 2023-03-29 | 11 | 11 | 
 | 2023-03-27 | 11 | 11 | 
 | 2023-03-26 | 11 | 11 | 

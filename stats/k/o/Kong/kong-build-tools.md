@@ -1,6 +1,6 @@
 # Kong/kong-build-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 75 | 71 | 
 | 2023-03-28 | 75 | 71 | 
 | 2023-03-27 | 75 | 71 | 
 | 2023-03-26 | 75 | 71 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 76 | 70 | 
 | 2023-03-03 | 76 | 70 | 
 | 2023-03-02 | 76 | 70 | 
-| 2023-03-01 | 76 | 70 | 
 

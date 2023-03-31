@@ -1,8 +1,8 @@
 # appdev-projects/rps-rcav - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1073
+☋ Forks: 1074
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | - | 1074 | 
 | 2023-03-28 | - | 1073 | 
 | 2023-03-27 | - | 1067 | 
 | 2023-03-26 | - | 1067 | 

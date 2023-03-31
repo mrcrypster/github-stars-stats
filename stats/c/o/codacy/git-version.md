@@ -1,6 +1,6 @@
 # codacy/git-version - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 108 | 44 | 
 | 2023-03-29 | 108 | 44 | 
 | 2023-03-28 | 108 | 44 | 
 | 2023-03-26 | 108 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 106 | 43 | 
 | 2023-03-02 | 106 | 43 | 
 | 2023-03-01 | 106 | 43 | 
-| 2023-02-28 | 106 | 43 | 
 

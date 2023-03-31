@@ -1,8 +1,8 @@
 # zfl9/ss-tproxy - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 405
+☋ Forks: 404
 
 ★ Stars: 1900
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1900 | 404 | 
 | 2023-03-28 | 1900 | 405 | 
 | 2023-03-26 | 1898 | 405 | 
 | 2023-03-25 | 1897 | 405 | 

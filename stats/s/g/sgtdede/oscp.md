@@ -1,10 +1,10 @@
 # sgtdede/oscp - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 9
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/sgtdede/oscp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 45 | 9 | 
 | 2023-03-28 | 44 | 9 | 
 | 2023-03-27 | 44 | 9 | 
 | 2023-03-25 | 44 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 43 | 9 | 
 | 2023-03-02 | 43 | 9 | 
 | 2023-03-01 | 43 | 9 | 
-| 2023-02-28 | 43 | 9 | 
 

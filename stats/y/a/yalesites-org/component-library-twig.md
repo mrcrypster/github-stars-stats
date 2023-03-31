@@ -1,6 +1,6 @@
 # yalesites-org/component-library-twig - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3 | - | 
 | 2023-03-29 | 3 | - | 
 | 2023-03-28 | 3 | - | 
 | 2023-03-27 | 3 | - | 

@@ -1,6 +1,6 @@
 # circleci/enterprise-setup - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 112 | 171 | 
 | 2023-03-28 | 112 | 171 | 
 | 2023-03-27 | 112 | 171 | 
 | 2023-03-25 | 112 | 171 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 113 | 173 | 
 | 2023-03-02 | 113 | 173 | 
 | 2023-03-01 | 113 | 174 | 
-| 2023-02-28 | 113 | 174 | 
 

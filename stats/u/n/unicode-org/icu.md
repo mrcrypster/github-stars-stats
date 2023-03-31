@@ -1,10 +1,10 @@
 # unicode-org/icu - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
-☋ Forks: 637
+☋ Forks: 636
 
-★ Stars: 1886
+★ Stars: 1890
 
 [Open repository](https://github.com/unicode-org/icu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1890 | 636 | 
 | 2023-03-29 | 1886 | 637 | 
 | 2023-03-27 | 1883 | 634 | 
 | 2023-03-26 | 1882 | 634 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1866 | 629 | 
 | 2023-03-03 | 1865 | 629 | 
 | 2023-03-01 | 1865 | 629 | 
-| 2023-02-28 | 1865 | 629 | 
 

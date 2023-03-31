@@ -1,6 +1,6 @@
 # BioTurboNick/AbbreviatedStackTraces.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 118 | 8 | 
 | 2023-03-28 | 118 | 8 | 
 | 2023-03-27 | 117 | 8 | 
 | 2023-03-25 | 117 | 8 | 

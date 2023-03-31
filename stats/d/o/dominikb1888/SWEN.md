@@ -1,8 +1,8 @@
 # dominikb1888/SWEN - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 19
+☋ Forks: 21
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 13 | 21 | 
 | 2023-03-28 | 13 | 19 | 
 | 2023-03-27 | 13 | 19 | 
 | 2023-03-25 | 13 | 19 | 

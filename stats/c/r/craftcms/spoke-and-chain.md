@@ -1,6 +1,6 @@
 # craftcms/spoke-and-chain - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 38 | 20 | 
 | 2023-03-28 | 38 | 20 | 
 | 2023-03-27 | 38 | 20 | 
 | 2023-03-26 | 38 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 39 | 21 | 
 | 2023-03-03 | 39 | 21 | 
 | 2023-03-01 | 39 | 21 | 
-| 2023-02-28 | 39 | 21 | 
 

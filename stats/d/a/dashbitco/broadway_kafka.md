@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/dashbitco/broadway_kafka)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-30 | 190 | 45 | 
+| 2023-03-30 | 191 | 45 | 
 | 2023-03-29 | 190 | 45 | 
 | 2023-03-27 | 190 | 45 | 
 | 2023-03-26 | 190 | 45 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-03 | 190 | 45 | 
 | 2023-03-02 | 190 | 45 | 
 | 2023-03-01 | 190 | 45 | 
-| 2023-02-28 | 190 | 45 | 
 

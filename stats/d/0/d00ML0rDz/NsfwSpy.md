@@ -1,8 +1,8 @@
 # d00ML0rDz/NsfwSpy - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 190
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 190 | 13 | 
 | 2023-03-28 | 190 | 12 | 
 | 2023-03-26 | 190 | 12 | 
 | 2023-03-25 | 189 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 186 | 11 | 
 | 2023-03-02 | 184 | 11 | 
 | 2023-03-01 | 184 | 11 | 
-| 2023-02-28 | 183 | 11 | 
 

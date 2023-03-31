@@ -1,6 +1,6 @@
 # binary-com/perl-Data-Hash-DotNotation - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | - | 4 | 
 | 2023-03-29 | - | 4 | 
 | 2023-03-28 | - | 4 | 
 | 2023-03-26 | - | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | - | 4 | 
 | 2023-03-03 | - | 4 | 
 | 2023-03-02 | - | 4 | 
-| 2023-03-01 | - | 4 | 
 

@@ -1,10 +1,10 @@
 # instrumentisto/roundcube-docker-image - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 6
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/instrumentisto/roundcube-docker-image)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 18 | 6 | 
 | 2023-03-28 | 17 | 6 | 
 | 2023-03-27 | 17 | 6 | 
 | 2023-03-26 | 17 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 18 | 6 | 
 | 2023-03-03 | 18 | 6 | 
 | 2023-03-01 | 18 | 6 | 
-| 2023-02-28 | 18 | 6 | 
 

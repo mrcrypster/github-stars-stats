@@ -1,10 +1,10 @@
 # fuzhengwei/chatbot-api - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
-☋ Forks: 100
+☋ Forks: 107
 
-★ Stars: 239
+★ Stars: 252
 
 [Open repository](https://github.com/fuzhengwei/chatbot-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 252 | 107 | 
 | 2023-03-29 | 239 | 100 | 
 | 2023-03-28 | 233 | 98 | 
 | 2023-03-26 | 222 | 94 | 

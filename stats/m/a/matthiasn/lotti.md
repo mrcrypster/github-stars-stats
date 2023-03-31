@@ -1,8 +1,8 @@
 # matthiasn/lotti - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 398
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 398 | 46 | 
 | 2023-03-28 | 398 | 45 | 
 | 2023-03-27 | 398 | 45 | 
 | 2023-03-26 | 397 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 392 | 45 | 
 | 2023-03-02 | 392 | 45 | 
 | 2023-03-01 | 392 | 45 | 
-| 2023-02-28 | 392 | 45 | 
 

@@ -1,6 +1,6 @@
 # glennsl/rescript-json-combinators - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 35 | 3 | 
 | 2023-03-28 | 35 | 3 | 
 | 2023-03-27 | 35 | 3 | 
 | 2023-03-25 | 35 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 30 | 2 | 
 | 2023-03-03 | 30 | 2 | 
 | 2023-03-02 | 30 | 2 | 
-| 2023-03-01 | 30 | 2 | 
 

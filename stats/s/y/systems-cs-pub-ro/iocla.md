@@ -1,10 +1,10 @@
 # systems-cs-pub-ro/iocla - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 123
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/systems-cs-pub-ro/iocla)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 14 | 123 | 
 | 2023-03-28 | 13 | 123 | 
 | 2023-03-27 | 13 | 123 | 
 | 2023-03-26 | 13 | 123 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 11 | 107 | 
 | 2023-03-02 | 10 | 106 | 
 | 2023-03-01 | 10 | 106 | 
-| 2023-02-28 | 10 | 106 | 
 

@@ -1,0 +1,17 @@
+# Macaulay2/Workshop-2023-Warwick - stars & forks statistics
+
+Stats updated on Mar 2023, 30
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/Macaulay2/Workshop-2023-Warwick)
+
+[Open detailed stats for Macaulay2/Workshop-2023-Warwick](https://reviewgithub.com/rep/Macaulay2/Workshop-2023-Warwick)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-30 | 1 | - | 
+

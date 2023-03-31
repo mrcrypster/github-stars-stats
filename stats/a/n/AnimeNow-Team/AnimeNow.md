@@ -1,10 +1,10 @@
 # AnimeNow-Team/AnimeNow - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 18
 
-★ Stars: 381
+★ Stars: 387
 
 [Open repository](https://github.com/AnimeNow-Team/AnimeNow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 387 | 18 | 
 | 2023-03-28 | 381 | 18 | 
 | 2023-03-27 | 379 | 18 | 
 | 2023-03-26 | 379 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 352 | 17 | 
 | 2023-03-03 | 351 | 17 | 
 | 2023-03-02 | 347 | 17 | 
-| 2023-03-01 | 342 | 17 | 
 

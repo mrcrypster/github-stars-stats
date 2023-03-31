@@ -1,8 +1,8 @@
 # dreamworksanimation/cmake_modules - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3 | 5 | 
 | 2023-03-28 | 3 | 4 | 
 | 2023-03-27 | 3 | 4 | 
 | 2023-03-25 | 3 | 4 | 

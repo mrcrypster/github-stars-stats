@@ -1,6 +1,6 @@
 # ruby/debug - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 888 | 96 | 
 | 2023-03-29 | 888 | 96 | 
 | 2023-03-27 | 883 | 95 | 
 | 2023-03-26 | 882 | 95 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 874 | 92 | 
 | 2023-03-03 | 875 | 92 | 
 | 2023-03-01 | 873 | 91 | 
-| 2023-02-28 | 869 | 91 | 
 

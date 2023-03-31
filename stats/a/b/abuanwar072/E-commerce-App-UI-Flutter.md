@@ -1,6 +1,6 @@
 # abuanwar072/E-commerce-App-UI-Flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 933
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1736 | 933 | 
 | 2023-03-28 | 1736 | 933 | 
 | 2023-03-27 | 1736 | 933 | 
 | 2023-03-26 | 1736 | 933 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1711 | 932 | 
 | 2023-03-03 | 1711 | 932 | 
 | 2023-03-01 | 1709 | 932 | 
-| 2023-02-28 | 1708 | 932 | 
 

@@ -1,6 +1,6 @@
 # wangshusen/DeepLearning - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 675
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2784 | 675 | 
 | 2023-03-29 | 2784 | 675 | 
 | 2023-03-28 | 2785 | 675 | 
 | 2023-03-27 | 2781 | 675 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 2702 | 662 | 
 | 2023-03-02 | 2696 | 659 | 
 | 2023-03-01 | 2693 | 659 | 
-| 2023-02-28 | 2692 | 659 | 
 

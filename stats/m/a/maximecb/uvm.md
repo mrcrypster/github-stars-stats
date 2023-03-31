@@ -1,6 +1,6 @@
 # maximecb/uvm - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 269 | 8 | 
 | 2023-03-29 | 269 | 8 | 
 | 2023-03-27 | 265 | 9 | 
 | 2023-03-26 | 262 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 206 | 6 | 
 | 2023-03-02 | 201 | 6 | 
 | 2023-03-01 | 192 | 6 | 
-| 2023-02-28 | 182 | 4 | 
 

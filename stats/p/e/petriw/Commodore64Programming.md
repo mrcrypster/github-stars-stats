@@ -1,6 +1,6 @@
 # petriw/Commodore64Programming - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 262 | 41 | 
 | 2023-03-28 | 262 | 41 | 
 | 2023-03-27 | 261 | 41 | 
 | 2023-03-26 | 261 | 41 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 261 | 41 | 
 | 2023-03-02 | 261 | 41 | 
 | 2023-03-01 | 261 | 41 | 
-| 2023-02-28 | 261 | 41 | 
 

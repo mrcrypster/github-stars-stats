@@ -1,10 +1,10 @@
 # nexusNw/Gojo-Satoru - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 3086
+☋ Forks: 3087
 
-★ Stars: 219
+★ Stars: 218
 
 [Open repository](https://github.com/nexusNw/Gojo-Satoru)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 218 | 3087 | 
 | 2023-03-28 | 219 | 3086 | 
 | 2023-03-27 | 219 | 3083 | 
 | 2023-03-25 | 219 | 3081 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 219 | 3047 | 
 | 2023-03-02 | 219 | 3046 | 
 | 2023-03-01 | 219 | 3044 | 
-| 2023-02-28 | 219 | 3040 | 
 

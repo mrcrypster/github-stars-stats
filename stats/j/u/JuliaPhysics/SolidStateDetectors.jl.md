@@ -1,6 +1,6 @@
 # JuliaPhysics/SolidStateDetectors.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 57 | 24 | 
 | 2023-03-28 | 57 | 24 | 
 | 2023-03-27 | 57 | 24 | 
 | 2023-03-25 | 57 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 57 | 24 | 
 | 2023-03-02 | 57 | 24 | 
 | 2023-03-01 | 57 | 24 | 
-| 2023-02-28 | 57 | 24 | 
 

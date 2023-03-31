@@ -1,10 +1,10 @@
 # petripaavola/Get-IntuneManagementExtensionDiagnostics - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 51 | 2 | 
 | 2023-03-28 | 49 | 2 | 
 | 2023-03-27 | 49 | 2 | 
 | 2023-03-25 | 49 | 2 | 

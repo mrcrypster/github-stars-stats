@@ -1,6 +1,6 @@
 # gleam-lang/example-lisp-interpreter - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 19 | - | 
 | 2023-03-28 | 19 | - | 
 | 2023-03-27 | 19 | - | 
 | 2023-03-25 | 19 | - | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 18 | - | 
 | 2023-03-02 | 18 | - | 
 | 2023-03-01 | 18 | - | 
-| 2023-02-28 | 18 | - | 
 

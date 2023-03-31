@@ -1,10 +1,10 @@
 # djs55/message-switch - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/djs55/message-switch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 8 | 2 | 
 | 2023-03-29 | 7 | 2 | 
 | 2023-03-28 | 7 | 2 | 
 | 2023-03-26 | 7 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 7 | 2 | 
 | 2023-03-03 | 7 | 2 | 
 | 2023-03-01 | 7 | 2 | 
-| 2023-02-28 | 7 | 2 | 
 

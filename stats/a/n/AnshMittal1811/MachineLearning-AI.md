@@ -1,10 +1,10 @@
 # AnshMittal1811/MachineLearning-AI - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 144
+★ Stars: 147
 
 [Open repository](https://github.com/AnshMittal1811/MachineLearning-AI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 147 | 45 | 
 | 2023-03-28 | 144 | 45 | 
 | 2023-03-27 | 144 | 45 | 
 | 2023-03-26 | 144 | 45 | 

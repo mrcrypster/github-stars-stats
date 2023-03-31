@@ -1,8 +1,8 @@
 # starknet-edu/deploy-cairo1-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 23 | 8 | 
 | 2023-03-29 | 23 | 7 | 
 | 2023-03-28 | 22 | 7 | 
 | 2023-03-27 | 20 | 6 | 

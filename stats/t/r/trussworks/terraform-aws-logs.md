@@ -1,6 +1,6 @@
 # trussworks/terraform-aws-logs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 71 | 39 | 
 | 2023-03-29 | 71 | 39 | 
 | 2023-03-27 | 71 | 39 | 
 | 2023-03-26 | 71 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 72 | 38 | 
 | 2023-03-02 | 72 | 38 | 
 | 2023-03-01 | 72 | 38 | 
-| 2023-02-28 | 72 | 38 | 
 

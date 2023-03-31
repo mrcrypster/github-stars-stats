@@ -1,10 +1,10 @@
 # crisanlucid/vite-react-tailwind-bionic-reading - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 18
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 340 | 18 | 
 | 2023-03-28 | 339 | 18 | 
 | 2023-03-27 | 339 | 18 | 
 | 2023-03-26 | 339 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 338 | 18 | 
 | 2023-03-02 | 337 | 18 | 
 | 2023-03-01 | 336 | 18 | 
-| 2023-02-28 | 336 | 18 | 
 

@@ -1,6 +1,6 @@
 # daveverwer/iOSDevDirectory - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 518
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 624 | 518 | 
 | 2023-03-29 | 624 | 518 | 
 | 2023-03-28 | 624 | 518 | 
 | 2023-03-26 | 623 | 518 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 623 | 515 | 
 | 2023-03-02 | 623 | 515 | 
 | 2023-03-01 | 623 | 515 | 
-| 2023-02-28 | 623 | 515 | 
 

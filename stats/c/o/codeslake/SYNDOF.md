@@ -1,10 +1,10 @@
 # codeslake/SYNDOF - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/codeslake/SYNDOF)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 48 | 8 | 
 | 2023-03-29 | 47 | 8 | 
 | 2023-03-27 | 47 | 8 | 
 | 2023-03-26 | 47 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 50 | 8 | 
 | 2023-03-02 | 50 | 8 | 
 | 2023-03-01 | 50 | 8 | 
-| 2023-02-28 | 50 | 8 | 
 

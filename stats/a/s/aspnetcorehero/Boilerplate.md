@@ -1,8 +1,8 @@
 # aspnetcorehero/Boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 144
+☋ Forks: 143
 
 ★ Stars: 545
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 545 | 143 | 
 | 2023-03-28 | 545 | 144 | 
 | 2023-03-27 | 545 | 144 | 
 | 2023-03-25 | 545 | 144 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 540 | 143 | 
 | 2023-03-03 | 540 | 143 | 
 | 2023-03-02 | 541 | 143 | 
-| 2023-03-01 | 541 | 143 | 
 

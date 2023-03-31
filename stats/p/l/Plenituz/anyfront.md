@@ -1,10 +1,10 @@
 # Plenituz/anyfront - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/Plenituz/anyfront)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 69 | 1 | 
 | 2023-03-28 | 68 | 1 | 
 | 2023-03-27 | 68 | 1 | 
 | 2023-03-25 | 68 | 1 | 

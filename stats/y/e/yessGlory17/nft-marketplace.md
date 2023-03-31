@@ -1,6 +1,6 @@
 # yessGlory17/nft-marketplace - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 309 | 157 | 
 | 2023-03-28 | 309 | 157 | 
 | 2023-03-27 | 310 | 156 | 
 | 2023-03-26 | 310 | 156 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 302 | 152 | 
 | 2023-03-02 | 300 | 152 | 
 | 2023-03-01 | 300 | 152 | 
-| 2023-02-28 | 300 | 151 | 
 

@@ -1,6 +1,6 @@
 # fujia-cli/stage - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 110 | 12 | 
 | 2023-03-28 | 110 | 12 | 
 | 2023-03-27 | 110 | 12 | 
 | 2023-03-25 | 110 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 110 | 12 | 
 | 2023-03-02 | 110 | 12 | 
 | 2023-03-01 | 110 | 12 | 
-| 2023-02-28 | 110 | 12 | 
 

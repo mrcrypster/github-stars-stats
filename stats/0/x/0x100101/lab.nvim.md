@@ -1,6 +1,6 @@
 # 0x100101/lab.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 129 | 2 | 
 | 2023-03-28 | 129 | 2 | 
 | 2023-03-27 | 129 | 2 | 
 | 2023-03-25 | 129 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 125 | 2 | 
 | 2023-03-02 | 125 | 2 | 
 | 2023-03-01 | 125 | 2 | 
-| 2023-02-28 | 125 | 2 | 
 

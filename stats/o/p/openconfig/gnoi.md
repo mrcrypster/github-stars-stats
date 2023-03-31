@@ -1,10 +1,10 @@
 # openconfig/gnoi - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 52
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/openconfig/gnoi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 135 | 52 | 
 | 2023-03-28 | 134 | 52 | 
 | 2023-03-27 | 134 | 52 | 
 | 2023-03-26 | 134 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 134 | 52 | 
 | 2023-03-02 | 134 | 52 | 
 | 2023-03-01 | 134 | 52 | 
-| 2023-02-28 | 134 | 52 | 
 

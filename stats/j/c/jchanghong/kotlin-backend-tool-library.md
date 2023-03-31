@@ -1,6 +1,6 @@
 # jchanghong/kotlin-backend-tool-library - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 44 | 9 | 
 | 2023-03-28 | 44 | 9 | 
 | 2023-03-27 | 44 | 9 | 
 | 2023-03-26 | 44 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 44 | 9 | 
 | 2023-03-02 | 44 | 9 | 
 | 2023-03-01 | 44 | 9 | 
-| 2023-02-28 | 44 | 9 | 
 

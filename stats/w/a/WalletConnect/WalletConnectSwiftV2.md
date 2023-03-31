@@ -1,6 +1,6 @@
 # WalletConnect/WalletConnectSwiftV2 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 175 | 82 | 
 | 2023-03-29 | 175 | 82 | 
 | 2023-03-27 | 175 | 81 | 
 | 2023-03-26 | 174 | 81 | 

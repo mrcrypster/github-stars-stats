@@ -1,10 +1,10 @@
 # mgeeky/CustomXMLPart - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/mgeeky/CustomXMLPart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 29 | 5 | 
 | 2023-03-28 | 28 | 5 | 
 | 2023-03-26 | 28 | 5 | 
 | 2023-03-25 | 28 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 28 | 5 | 
 | 2023-03-03 | 28 | 5 | 
 | 2023-03-02 | 28 | 5 | 
-| 2023-03-01 | 28 | 5 | 
 

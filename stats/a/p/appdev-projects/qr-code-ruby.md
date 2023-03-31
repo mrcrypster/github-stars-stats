@@ -1,8 +1,8 @@
 # appdev-projects/qr-code-ruby - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 63
+☋ Forks: 71
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1 | 71 | 
 | 2023-03-28 | 1 | 63 | 
 | 2023-03-27 | 1 | 63 | 
 | 2023-03-26 | 1 | 60 | 

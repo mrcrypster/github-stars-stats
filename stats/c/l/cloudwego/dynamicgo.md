@@ -1,10 +1,10 @@
 # cloudwego/dynamicgo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 55
+★ Stars: 61
 
 [Open repository](https://github.com/cloudwego/dynamicgo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 61 | 8 | 
 | 2023-03-28 | 55 | 8 | 
 | 2023-03-27 | 55 | 8 | 
 | 2023-03-26 | 50 | 6 | 

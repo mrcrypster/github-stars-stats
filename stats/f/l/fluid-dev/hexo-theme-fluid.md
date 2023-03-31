@@ -1,10 +1,10 @@
 # fluid-dev/hexo-theme-fluid - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1051
+☋ Forks: 1052
 
-★ Stars: 5671
+★ Stars: 5683
 
 [Open repository](https://github.com/fluid-dev/hexo-theme-fluid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5683 | 1052 | 
 | 2023-03-28 | 5671 | 1051 | 
 | 2023-03-27 | 5657 | 1051 | 
 | 2023-03-26 | 5655 | 1052 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 5559 | 1038 | 
 | 2023-03-02 | 5554 | 1039 | 
 | 2023-03-01 | 5550 | 1039 | 
-| 2023-02-28 | 5544 | 1037 | 
 

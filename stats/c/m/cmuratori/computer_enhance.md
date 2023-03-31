@@ -1,10 +1,10 @@
 # cmuratori/computer_enhance - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 45
+☋ Forks: 51
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/cmuratori/computer_enhance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 133 | 51 | 
 | 2023-03-28 | 132 | 45 | 
 | 2023-03-27 | 132 | 45 | 
 | 2023-03-25 | 132 | 40 | 

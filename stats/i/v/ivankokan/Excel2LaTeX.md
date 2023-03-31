@@ -1,10 +1,10 @@
 # ivankokan/Excel2LaTeX - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 1005
+★ Stars: 1006
 
 [Open repository](https://github.com/ivankokan/Excel2LaTeX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1006 | 138 | 
 | 2023-03-28 | 1005 | 137 | 
 | 2023-03-27 | 1003 | 137 | 
 | 2023-03-26 | 1003 | 137 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 993 | 136 | 
 | 2023-03-02 | 993 | 136 | 
 | 2023-03-01 | 991 | 136 | 
-| 2023-02-28 | 989 | 136 | 
 

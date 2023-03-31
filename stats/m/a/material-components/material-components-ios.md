@@ -1,6 +1,6 @@
 # material-components/material-components-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 932
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4624 | 932 | 
 | 2023-03-29 | 4624 | 932 | 
 | 2023-03-27 | 4623 | 932 | 
 | 2023-03-26 | 4623 | 931 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 4613 | 929 | 
 | 2023-03-02 | 4613 | 929 | 
 | 2023-03-01 | 4613 | 928 | 
-| 2023-02-28 | 4613 | 928 | 
 

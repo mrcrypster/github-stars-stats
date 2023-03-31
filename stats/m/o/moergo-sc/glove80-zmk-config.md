@@ -1,6 +1,6 @@
 # moergo-sc/glove80-zmk-config - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 9 | 20 | 
 | 2023-03-29 | 9 | 20 | 
 | 2023-03-28 | 9 | 18 | 
 | 2023-03-27 | 9 | 18 | 

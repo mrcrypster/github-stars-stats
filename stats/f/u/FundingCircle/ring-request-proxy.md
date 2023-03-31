@@ -1,6 +1,6 @@
 # FundingCircle/ring-request-proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 14 | 7 | 
 | 2023-03-28 | 14 | 7 | 
 | 2023-03-27 | 14 | 7 | 
 | 2023-03-25 | 14 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 14 | 7 | 
 | 2023-03-02 | 14 | 7 | 
 | 2023-03-01 | 14 | 7 | 
-| 2023-02-28 | 14 | 7 | 
 

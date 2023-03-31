@@ -1,10 +1,10 @@
 # nichtdax/awesome-totally-open-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 70
+☋ Forks: 74
 
-★ Stars: 2608
+★ Stars: 2707
 
 [Open repository](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2707 | 74 | 
 | 2023-03-28 | 2608 | 70 | 
 | 2023-03-27 | 2506 | 63 | 
 | 2023-03-25 | 2417 | 59 | 

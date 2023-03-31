@@ -1,10 +1,10 @@
 # hishizuka/pizero_bikecomputer - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 519
+★ Stars: 520
 
 [Open repository](https://github.com/hishizuka/pizero_bikecomputer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 520 | 45 | 
 | 2023-03-28 | 519 | 45 | 
 | 2023-03-27 | 518 | 44 | 
 | 2023-03-26 | 517 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 508 | 43 | 
 | 2023-03-02 | 508 | 43 | 
 | 2023-03-01 | 508 | 43 | 
-| 2023-02-28 | 508 | 43 | 
 

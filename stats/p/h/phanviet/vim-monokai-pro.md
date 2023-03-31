@@ -1,6 +1,6 @@
 # phanviet/vim-monokai-pro - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 213 | 45 | 
 | 2023-03-28 | 213 | 45 | 
 | 2023-03-27 | 213 | 45 | 
 | 2023-03-25 | 213 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 214 | 46 | 
 | 2023-03-02 | 214 | 46 | 
 | 2023-03-01 | 214 | 46 | 
-| 2023-02-28 | 214 | 46 | 
 

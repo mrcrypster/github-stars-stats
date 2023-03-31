@@ -1,6 +1,6 @@
 # alphapapa/burly.el - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 239 | 12 | 
 | 2023-03-28 | 239 | 12 | 
 | 2023-03-27 | 239 | 12 | 
 | 2023-03-26 | 239 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 236 | 12 | 
 | 2023-03-02 | 236 | 12 | 
 | 2023-03-01 | 236 | 12 | 
-| 2023-02-28 | 235 | 12 | 
 

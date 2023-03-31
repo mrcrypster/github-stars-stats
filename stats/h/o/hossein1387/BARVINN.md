@@ -1,6 +1,6 @@
 # hossein1387/BARVINN - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 43 | 9 | 
 | 2023-03-28 | 43 | 9 | 
 | 2023-03-26 | 42 | 9 | 
 | 2023-03-25 | 42 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 41 | 8 | 
 | 2023-03-02 | 41 | 7 | 
 | 2023-03-01 | 41 | 7 | 
-| 2023-02-28 | 41 | 7 | 
 

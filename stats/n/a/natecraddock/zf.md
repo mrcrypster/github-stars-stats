@@ -1,10 +1,10 @@
 # natecraddock/zf - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 6
 
-★ Stars: 300
+★ Stars: 302
 
 [Open repository](https://github.com/natecraddock/zf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 302 | 6 | 
 | 2023-03-28 | 300 | 6 | 
 | 2023-03-27 | 300 | 6 | 
 | 2023-03-26 | 299 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 228 | 4 | 
 | 2023-03-02 | 228 | 4 | 
 | 2023-03-01 | 226 | 4 | 
-| 2023-02-28 | 206 | 4 | 
 

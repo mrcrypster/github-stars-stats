@@ -1,6 +1,6 @@
 # yujinrobot/kobuki_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 10 | 22 | 
 | 2023-03-28 | 10 | 22 | 
 | 2023-03-27 | 10 | 22 | 
 | 2023-03-26 | 10 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 10 | 22 | 
 | 2023-03-03 | 10 | 22 | 
 | 2023-03-02 | 10 | 22 | 
-| 2023-03-01 | 10 | 22 | 
 

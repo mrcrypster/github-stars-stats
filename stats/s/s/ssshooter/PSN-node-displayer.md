@@ -1,10 +1,10 @@
 # ssshooter/PSN-node-displayer - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/ssshooter/PSN-node-displayer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 18 | 1 | 
 | 2023-03-28 | 17 | 1 | 
 | 2023-03-27 | 17 | 1 | 
 | 2023-03-25 | 17 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 17 | 1 | 
 | 2023-03-02 | 17 | 1 | 
 | 2023-03-01 | 17 | 1 | 
-| 2023-02-28 | 17 | 1 | 
 

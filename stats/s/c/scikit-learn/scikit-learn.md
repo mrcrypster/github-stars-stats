@@ -1,10 +1,10 @@
 # scikit-learn/scikit-learn - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 24113
+☋ Forks: 24121
 
-★ Stars: 53546
+★ Stars: 53564
 
 [Open repository](https://github.com/scikit-learn/scikit-learn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 53564 | 24121 | 
 | 2023-03-28 | 53546 | 24113 | 
 | 2023-03-27 | 53522 | 24092 | 
 | 2023-03-25 | 53505 | 24093 | 

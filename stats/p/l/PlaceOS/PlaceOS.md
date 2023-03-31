@@ -1,6 +1,6 @@
 # PlaceOS/PlaceOS - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 22 | 5 | 
 | 2023-03-29 | 22 | 5 | 
 | 2023-03-28 | 22 | 5 | 
 | 2023-03-26 | 22 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 23 | 5 | 
 | 2023-03-02 | 23 | 5 | 
 | 2023-03-01 | 23 | 5 | 
-| 2023-02-28 | 23 | 5 | 
 

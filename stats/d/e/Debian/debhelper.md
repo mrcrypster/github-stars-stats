@@ -1,6 +1,6 @@
 # Debian/debhelper - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 36 | 16 | 
 | 2023-03-28 | 36 | 16 | 
 | 2023-03-27 | 35 | 16 | 
 | 2023-03-26 | 35 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 35 | 15 | 
 | 2023-03-03 | 35 | 15 | 
 | 2023-03-02 | 35 | 15 | 
-| 2023-02-28 | 35 | 15 | 
 

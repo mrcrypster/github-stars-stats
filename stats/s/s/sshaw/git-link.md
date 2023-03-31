@@ -1,10 +1,10 @@
 # sshaw/git-link - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 64
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/sshaw/git-link)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 347 | 64 | 
 | 2023-03-29 | 346 | 64 | 
 | 2023-03-27 | 346 | 63 | 
 | 2023-03-25 | 346 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 342 | 63 | 
 | 2023-03-02 | 341 | 63 | 
 | 2023-03-01 | 341 | 63 | 
-| 2023-02-28 | 341 | 63 | 
 

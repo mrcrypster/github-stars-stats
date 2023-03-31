@@ -1,10 +1,10 @@
 # yuezk/chatgpt-mirror - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 216
+☋ Forks: 229
 
-★ Stars: 976
+★ Stars: 1009
 
 [Open repository](https://github.com/yuezk/chatgpt-mirror)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1009 | 229 | 
 | 2023-03-28 | 976 | 216 | 
 | 2023-03-27 | 949 | 206 | 
 | 2023-03-25 | 932 | 200 | 

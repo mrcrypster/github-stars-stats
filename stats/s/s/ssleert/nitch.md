@@ -1,10 +1,10 @@
 # ssleert/nitch - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 365
+★ Stars: 367
 
 [Open repository](https://github.com/ssleert/nitch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 367 | 31 | 
 | 2023-03-28 | 365 | 30 | 
 | 2023-03-27 | 365 | 30 | 
 | 2023-03-26 | 365 | 30 | 

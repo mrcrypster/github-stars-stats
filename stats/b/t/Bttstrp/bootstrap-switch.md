@@ -1,8 +1,8 @@
 # Bttstrp/bootstrap-switch - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1480
+☋ Forks: 1481
 
 ★ Stars: 5117
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5117 | 1481 | 
 | 2023-03-28 | 5117 | 1480 | 
 | 2023-03-27 | 5118 | 1480 | 
 | 2023-03-26 | 5118 | 1480 | 

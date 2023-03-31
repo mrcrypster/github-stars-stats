@@ -1,6 +1,6 @@
 # wighawag/clones-with-immutable-args - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 148 | 27 | 
 | 2023-03-28 | 148 | 27 | 
 | 2023-03-27 | 148 | 27 | 
 | 2023-03-25 | 148 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 146 | 27 | 
 | 2023-03-02 | 146 | 27 | 
 | 2023-03-01 | 145 | 27 | 
-| 2023-02-28 | 145 | 27 | 
 

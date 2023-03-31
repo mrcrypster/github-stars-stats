@@ -1,6 +1,6 @@
 # hsiangfeng/README-Example-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 63 | 15 | 
 | 2023-03-28 | 63 | 15 | 
 | 2023-03-27 | 63 | 15 | 
 | 2023-03-26 | 63 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 62 | 13 | 
 | 2023-03-03 | 62 | 13 | 
 | 2023-03-02 | 61 | 13 | 
-| 2023-03-01 | 61 | 13 | 
 

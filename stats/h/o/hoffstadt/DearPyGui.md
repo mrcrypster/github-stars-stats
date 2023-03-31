@@ -1,10 +1,10 @@
 # hoffstadt/DearPyGui - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 526
 
-★ Stars: 9911
+★ Stars: 9923
 
 [Open repository](https://github.com/hoffstadt/DearPyGui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 9923 | 526 | 
 | 2023-03-28 | 9911 | 526 | 
 | 2023-03-27 | 9902 | 526 | 
 | 2023-03-25 | 9894 | 526 | 

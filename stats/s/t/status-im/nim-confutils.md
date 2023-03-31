@@ -1,6 +1,6 @@
 # status-im/nim-confutils - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 54 | 12 | 
 | 2023-03-28 | 54 | 12 | 
 | 2023-03-27 | 54 | 12 | 
 | 2023-03-26 | 54 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 52 | 11 | 
 | 2023-03-03 | 52 | 11 | 
 | 2023-03-02 | 52 | 11 | 
-| 2023-03-01 | 52 | 11 | 
 

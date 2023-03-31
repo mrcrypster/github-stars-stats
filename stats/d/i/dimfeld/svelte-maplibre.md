@@ -1,10 +1,10 @@
 # dimfeld/svelte-maplibre - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/dimfeld/svelte-maplibre)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 45 | 4 | 
 | 2023-03-28 | 44 | 3 | 
 | 2023-03-27 | 43 | 3 | 
 | 2023-03-25 | 43 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 33 | 2 | 
 | 2023-03-02 | 32 | 1 | 
 | 2023-03-01 | 31 | 1 | 
-| 2023-02-28 | 31 | 1 | 
 

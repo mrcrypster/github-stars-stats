@@ -1,6 +1,6 @@
 # randyzwitch/Twitter.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 83 | 30 | 
 | 2023-03-29 | 83 | 30 | 
 | 2023-03-27 | 83 | 30 | 
 | 2023-03-26 | 83 | 30 | 

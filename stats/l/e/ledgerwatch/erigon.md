@@ -1,10 +1,10 @@
 # ledgerwatch/erigon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 676
 
-★ Stars: 2274
+★ Stars: 2278
 
 [Open repository](https://github.com/ledgerwatch/erigon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2278 | 676 | 
 | 2023-03-28 | 2274 | 676 | 
 | 2023-03-27 | 2272 | 674 | 
 | 2023-03-26 | 2271 | 672 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2221 | 649 | 
 | 2023-03-02 | 2218 | 649 | 
 | 2023-03-01 | 2217 | 648 | 
-| 2023-02-28 | 2214 | 647 | 
 

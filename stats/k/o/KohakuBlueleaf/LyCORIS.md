@@ -1,10 +1,10 @@
 # KohakuBlueleaf/LyCORIS - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 39
+☋ Forks: 41
 
-★ Stars: 545
+★ Stars: 564
 
 [Open repository](https://github.com/KohakuBlueleaf/LyCORIS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 564 | 41 | 
 | 2023-03-29 | 545 | 39 | 
 | 2023-03-27 | 536 | 38 | 
 | 2023-03-26 | 512 | 35 | 

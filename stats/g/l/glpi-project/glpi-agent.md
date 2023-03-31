@@ -1,6 +1,6 @@
 # glpi-project/glpi-agent - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 118 | 34 | 
 | 2023-03-29 | 118 | 34 | 
 | 2023-03-28 | 118 | 34 | 
 | 2023-03-27 | 118 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 114 | 34 | 
 | 2023-03-02 | 114 | 34 | 
 | 2023-03-01 | 114 | 34 | 
-| 2023-02-28 | 113 | 34 | 
 

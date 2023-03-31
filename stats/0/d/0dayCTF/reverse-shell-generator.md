@@ -1,10 +1,10 @@
 # 0dayCTF/reverse-shell-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 433
 
-★ Stars: 1852
+★ Stars: 1859
 
 [Open repository](https://github.com/0dayCTF/reverse-shell-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1859 | 433 | 
 | 2023-03-28 | 1852 | 433 | 
 | 2023-03-27 | 1848 | 432 | 
 | 2023-03-25 | 1844 | 433 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1797 | 422 | 
 | 2023-03-02 | 1793 | 421 | 
 | 2023-03-01 | 1790 | 422 | 
-| 2023-02-28 | 1789 | 421 | 
 

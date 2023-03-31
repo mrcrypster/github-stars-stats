@@ -1,6 +1,6 @@
 # ostera/serde.ml - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 36 | - | 
 | 2023-03-28 | 36 | - | 
 | 2023-03-27 | 36 | - | 
 | 2023-03-25 | 36 | - | 

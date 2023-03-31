@@ -1,10 +1,10 @@
 # ErLinErYi/PlantsVsZombies - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 223
 
-★ Stars: 1320
+★ Stars: 1323
 
 [Open repository](https://github.com/ErLinErYi/PlantsVsZombies)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1323 | 223 | 
 | 2023-03-28 | 1320 | 223 | 
 | 2023-03-27 | 1317 | 223 | 
 | 2023-03-25 | 1316 | 222 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1299 | 216 | 
 | 2023-03-03 | 1299 | 216 | 
 | 2023-03-01 | 1299 | 216 | 
-| 2023-02-28 | 1298 | 217 | 
 

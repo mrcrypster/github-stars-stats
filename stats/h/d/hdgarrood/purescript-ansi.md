@@ -1,6 +1,6 @@
 # hdgarrood/purescript-ansi - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 11 | 5 | 
 | 2023-03-29 | 11 | 5 | 
 | 2023-03-27 | 11 | 5 | 
 | 2023-03-26 | 11 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 10 | 5 | 
 | 2023-03-03 | 10 | 5 | 
 | 2023-03-02 | 10 | 5 | 
-| 2023-03-01 | 10 | 5 | 
 

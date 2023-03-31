@@ -1,6 +1,6 @@
 # nzbget/nzbget - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1139 | 179 | 
 | 2023-03-28 | 1139 | 179 | 
 | 2023-03-27 | 1139 | 179 | 
 | 2023-03-26 | 1138 | 179 | 

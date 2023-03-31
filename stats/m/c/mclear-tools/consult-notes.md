@@ -1,10 +1,10 @@
 # mclear-tools/consult-notes - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 9
 
-★ Stars: 91
+★ Stars: 90
 
 [Open repository](https://github.com/mclear-tools/consult-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 90 | 9 | 
 | 2023-03-28 | 91 | 9 | 
 | 2023-03-27 | 91 | 9 | 
 | 2023-03-26 | 91 | 8 | 

@@ -1,6 +1,6 @@
 # vmware-tanzu/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 195 | 318 | 
 | 2023-03-29 | 195 | 318 | 
 | 2023-03-28 | 195 | 316 | 
 | 2023-03-27 | 194 | 316 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 193 | 311 | 
 | 2023-03-02 | 193 | 311 | 
 | 2023-03-01 | 193 | 311 | 
-| 2023-02-28 | 193 | 311 | 
 

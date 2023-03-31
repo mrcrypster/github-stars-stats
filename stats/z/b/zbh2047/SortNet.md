@@ -1,10 +1,10 @@
 # zbh2047/SortNet - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/zbh2047/SortNet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 18 | 3 | 
 | 2023-03-29 | 19 | 3 | 
 | 2023-03-27 | 19 | 3 | 
 | 2023-03-26 | 19 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 18 | 3 | 
 | 2023-03-02 | 18 | 3 | 
 | 2023-03-01 | 18 | 3 | 
-| 2023-02-28 | 18 | 2 | 
 

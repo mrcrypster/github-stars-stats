@@ -1,6 +1,6 @@
 # christianrauch/apriltag_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 9 | 16 | 
 | 2023-03-29 | 9 | 16 | 
 | 2023-03-27 | 9 | 16 | 
 | 2023-03-26 | 9 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 9 | 16 | 
 | 2023-03-02 | 9 | 16 | 
 | 2023-03-01 | 9 | 16 | 
-| 2023-02-28 | 9 | 16 | 
 

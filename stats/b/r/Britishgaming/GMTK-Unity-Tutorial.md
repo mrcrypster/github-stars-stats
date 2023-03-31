@@ -1,10 +1,10 @@
 # Britishgaming/GMTK-Unity-Tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 17
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Britishgaming/GMTK-Unity-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 22 | 17 | 
 | 2023-03-29 | 21 | 17 | 
 | 2023-03-27 | 21 | 17 | 
 | 2023-03-26 | 20 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 19 | 15 | 
 | 2023-03-02 | 19 | 15 | 
 | 2023-03-01 | 19 | 13 | 
-| 2023-02-28 | 19 | 13 | 
 

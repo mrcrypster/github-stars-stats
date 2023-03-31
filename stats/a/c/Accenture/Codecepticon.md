@@ -1,6 +1,6 @@
 # Accenture/Codecepticon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 345 | 64 | 
 | 2023-03-28 | 345 | 64 | 
 | 2023-03-27 | 345 | 64 | 
 | 2023-03-25 | 345 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 300 | 57 | 
 | 2023-03-02 | 300 | 57 | 
 | 2023-03-01 | 300 | 57 | 
-| 2023-02-28 | 300 | 57 | 
 

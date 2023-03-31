@@ -1,10 +1,10 @@
 # tanujnotes/Olauncher - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 89
 
-★ Stars: 1036
+★ Stars: 1040
 
 [Open repository](https://github.com/tanujnotes/Olauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1040 | 89 | 
 | 2023-03-28 | 1036 | 89 | 
 | 2023-03-27 | 1034 | 89 | 
 | 2023-03-26 | 1033 | 88 | 

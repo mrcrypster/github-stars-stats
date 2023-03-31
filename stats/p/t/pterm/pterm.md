@@ -1,10 +1,10 @@
 # pterm/pterm - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 131
 
-★ Stars: 3474
+★ Stars: 3482
 
 [Open repository](https://github.com/pterm/pterm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3482 | 131 | 
 | 2023-03-28 | 3474 | 131 | 
 | 2023-03-27 | 3454 | 131 | 
 | 2023-03-26 | 3446 | 131 | 

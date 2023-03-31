@@ -1,10 +1,10 @@
 # gaodayu168/datasophon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 103
 
-★ Stars: 266
+★ Stars: 268
 
 [Open repository](https://github.com/gaodayu168/datasophon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 268 | 103 | 
 | 2023-03-28 | 266 | 103 | 
 | 2023-03-27 | 262 | 103 | 
 | 2023-03-25 | 260 | 102 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 234 | 87 | 
 | 2023-03-02 | 233 | 86 | 
 | 2023-03-01 | 232 | 86 | 
-| 2023-02-28 | 231 | 86 | 
 

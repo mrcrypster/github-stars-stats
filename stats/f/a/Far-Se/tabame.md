@@ -1,6 +1,6 @@
 # Far-Se/tabame - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 154 | 3 | 
 | 2023-03-28 | 154 | 3 | 
 | 2023-03-27 | 154 | 3 | 
 | 2023-03-26 | 154 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 149 | 3 | 
 | 2023-03-03 | 149 | 3 | 
 | 2023-03-02 | 149 | 3 | 
-| 2023-03-01 | 149 | 3 | 
 

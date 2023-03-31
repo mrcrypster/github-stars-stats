@@ -1,10 +1,10 @@
 # Dauphine-MIDO/M1-alternance - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Dauphine-MIDO/M1-alternance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5 | 1 | 
 | 2023-03-29 | 4 | 1 | 
 | 2023-03-27 | 4 | 1 | 
 | 2023-03-26 | 4 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 4 | 1 | 
 | 2023-03-03 | 4 | 1 | 
 | 2023-03-01 | 4 | 1 | 
-| 2023-02-28 | 4 | 1 | 
 

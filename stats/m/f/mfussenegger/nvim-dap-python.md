@@ -1,10 +1,10 @@
 # mfussenegger/nvim-dap-python - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 29
 
-★ Stars: 235
+★ Stars: 237
 
 [Open repository](https://github.com/mfussenegger/nvim-dap-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 237 | 29 | 
 | 2023-03-28 | 235 | 29 | 
 | 2023-03-27 | 235 | 29 | 
 | 2023-03-26 | 235 | 29 | 

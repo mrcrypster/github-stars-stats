@@ -1,6 +1,6 @@
 # interact-rs/interact - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 411 | 6 | 
 | 2023-03-28 | 411 | 6 | 
 | 2023-03-26 | 411 | 6 | 
 | 2023-03-25 | 412 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 411 | 6 | 
 | 2023-03-02 | 411 | 6 | 
 | 2023-03-01 | 411 | 6 | 
-| 2023-02-28 | 411 | 6 | 
 

@@ -1,8 +1,8 @@
 # spring-petclinic/spring-petclinic-reactjs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 240
+☋ Forks: 239
 
 ★ Stars: 246
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 246 | 239 | 
 | 2023-03-28 | 246 | 240 | 
 | 2023-03-27 | 245 | 240 | 
 | 2023-03-25 | 245 | 240 | 

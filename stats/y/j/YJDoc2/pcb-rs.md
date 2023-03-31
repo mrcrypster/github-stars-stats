@@ -1,6 +1,6 @@
 # YJDoc2/pcb-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 105 | 3 | 
 | 2023-03-28 | 105 | 3 | 
 | 2023-03-27 | 105 | 3 | 
 | 2023-03-26 | 104 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 104 | 3 | 
 | 2023-03-02 | 104 | 3 | 
 | 2023-03-01 | 104 | 3 | 
-| 2023-02-28 | 104 | 3 | 
 

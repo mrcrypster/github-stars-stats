@@ -1,6 +1,6 @@
 # chainsawriot/rang - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 41 | 1 | 
 | 2023-03-29 | 41 | 1 | 
 | 2023-03-27 | 42 | 1 | 
 | 2023-03-26 | 42 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 32 | 1 | 
 | 2023-03-02 | 31 | 1 | 
 | 2023-03-01 | 31 | 1 | 
-| 2023-02-28 | 31 | 1 | 
 

@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/training-data-analyst - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 5287
+☋ Forks: 5291
 
-★ Stars: 6661
+★ Stars: 6665
 
 [Open repository](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 6665 | 5291 | 
 | 2023-03-28 | 6661 | 5287 | 
 | 2023-03-26 | 6662 | 5284 | 
 | 2023-03-25 | 6663 | 5282 | 

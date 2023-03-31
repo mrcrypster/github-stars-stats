@@ -1,6 +1,6 @@
 # HoTT/book - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1854 | 358 | 
 | 2023-03-28 | 1854 | 358 | 
 | 2023-03-26 | 1854 | 358 | 
 | 2023-03-25 | 1853 | 358 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1844 | 356 | 
 | 2023-03-02 | 1843 | 356 | 
 | 2023-03-01 | 1842 | 356 | 
-| 2023-02-28 | 1842 | 356 | 
 

@@ -1,6 +1,6 @@
 # athillion/ProceduralPlanetGodot - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 75 | 4 | 
 | 2023-03-28 | 75 | 4 | 
 | 2023-03-27 | 75 | 4 | 
 | 2023-03-26 | 75 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 72 | 4 | 
 | 2023-03-02 | 72 | 4 | 
 | 2023-03-01 | 72 | 4 | 
-| 2023-02-28 | 72 | 4 | 
 

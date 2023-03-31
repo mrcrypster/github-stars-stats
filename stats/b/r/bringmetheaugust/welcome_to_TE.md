@@ -1,6 +1,6 @@
 # bringmetheaugust/welcome_to_TE - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 20 | 87 | 
 | 2023-03-28 | 20 | 87 | 
 | 2023-03-27 | 20 | 87 | 
 | 2023-03-25 | 20 | 87 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 20 | 85 | 
 | 2023-03-02 | 20 | 86 | 
 | 2023-03-01 | 20 | 85 | 
-| 2023-02-28 | 20 | 85 | 
 

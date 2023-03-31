@@ -1,6 +1,6 @@
 # akoutmos/nerves_weather_station - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 35 | 5 | 
 | 2023-03-28 | 35 | 5 | 
 | 2023-03-27 | 35 | 5 | 
 | 2023-03-26 | 35 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 34 | 4 | 
 | 2023-03-02 | 34 | 4 | 
 | 2023-03-01 | 34 | 4 | 
-| 2023-02-28 | 34 | 4 | 
 

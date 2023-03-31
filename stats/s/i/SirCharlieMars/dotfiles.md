@@ -1,10 +1,10 @@
 # SirCharlieMars/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 492
+★ Stars: 496
 
 [Open repository](https://github.com/SirCharlieMars/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 496 | 89 | 
 | 2023-03-28 | 492 | 88 | 
 | 2023-03-27 | 492 | 87 | 
 | 2023-03-25 | 489 | 87 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 455 | 85 | 
 | 2023-03-02 | 454 | 85 | 
 | 2023-03-01 | 453 | 83 | 
-| 2023-02-28 | 454 | 83 | 
 

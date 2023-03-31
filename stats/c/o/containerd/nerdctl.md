@@ -1,10 +1,10 @@
 # containerd/nerdctl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 434
+☋ Forks: 436
 
-★ Stars: 5813
+★ Stars: 5826
 
 [Open repository](https://github.com/containerd/nerdctl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5826 | 436 | 
 | 2023-03-28 | 5813 | 434 | 
 | 2023-03-27 | 5812 | 435 | 
 | 2023-03-25 | 5803 | 433 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 5657 | 419 | 
 | 2023-03-03 | 5651 | 418 | 
 | 2023-03-02 | 5650 | 417 | 
-| 2023-02-28 | 5631 | 414 | 
 

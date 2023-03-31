@@ -1,6 +1,6 @@
 # waterfall-mkt/curta - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 55 | 4 | 
 | 2023-03-28 | 55 | 4 | 
 | 2023-03-26 | 55 | 4 | 
 | 2023-03-25 | 55 | 4 | 

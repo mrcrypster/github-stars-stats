@@ -1,6 +1,6 @@
 # unidal/maven-plugins - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 43 | 46 | 
 | 2023-03-29 | 43 | 46 | 
 | 2023-03-28 | 43 | 46 | 
 | 2023-03-26 | 43 | 46 | 

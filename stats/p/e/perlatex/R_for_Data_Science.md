@@ -1,10 +1,10 @@
 # perlatex/R_for_Data_Science - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 153
 
-★ Stars: 226
+★ Stars: 228
 
 [Open repository](https://github.com/perlatex/R_for_Data_Science)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 228 | 153 | 
 | 2023-03-28 | 226 | 153 | 
 | 2023-03-27 | 226 | 153 | 
 | 2023-03-26 | 226 | 152 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 221 | 151 | 
 | 2023-03-02 | 221 | 151 | 
 | 2023-03-01 | 220 | 150 | 
-| 2023-02-28 | 219 | 150 | 
 

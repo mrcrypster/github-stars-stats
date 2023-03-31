@@ -1,6 +1,6 @@
 # nikuscs/vanilla-components - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 105 | 10 | 
 | 2023-03-28 | 105 | 10 | 
 | 2023-03-27 | 105 | 10 | 
 | 2023-03-25 | 104 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 100 | 10 | 
 | 2023-03-03 | 98 | 10 | 
 | 2023-03-02 | 98 | 10 | 
-| 2023-03-01 | 96 | 10 | 
 

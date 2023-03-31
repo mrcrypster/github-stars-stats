@@ -1,6 +1,6 @@
 # syngenta-digital/challenge-java-hotel-reservation-test - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2 | 15 | 
 | 2023-03-28 | 2 | 15 | 
 | 2023-03-27 | 2 | 15 | 
 | 2023-03-25 | 2 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 2 | 15 | 
 | 2023-03-03 | 2 | 15 | 
 | 2023-03-02 | 2 | 15 | 
-| 2023-03-01 | 2 | 15 | 
 

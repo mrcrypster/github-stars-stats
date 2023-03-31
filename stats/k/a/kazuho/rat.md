@@ -1,6 +1,6 @@
 # kazuho/rat - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 139 | 5 | 
 | 2023-03-28 | 139 | 5 | 
 | 2023-03-27 | 139 | 5 | 
 | 2023-03-26 | 139 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 137 | 5 | 
 | 2023-03-02 | 135 | 5 | 
 | 2023-03-01 | 134 | 5 | 
-| 2023-02-28 | 132 | 5 | 
 

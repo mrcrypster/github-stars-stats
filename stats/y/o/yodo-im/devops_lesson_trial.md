@@ -1,6 +1,6 @@
 # yodo-im/devops_lesson_trial - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 470
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 8 | 470 | 
 | 2023-03-28 | 8 | 470 | 
 | 2023-03-27 | 8 | 471 | 
 | 2023-03-25 | 8 | 472 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 8 | 468 | 
 | 2023-03-03 | 7 | 466 | 
 | 2023-03-01 | 7 | 466 | 
-| 2023-02-28 | 7 | 466 | 
 

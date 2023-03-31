@@ -1,8 +1,8 @@
 # CodeYourFuture/JavaScript-Core-2-Coursework-Week3 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 213
+☋ Forks: 220
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3 | 220 | 
 | 2023-03-28 | 3 | 213 | 
 | 2023-03-27 | 3 | 212 | 
 | 2023-03-25 | 3 | 212 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 3 | 209 | 
 | 2023-03-03 | 3 | 209 | 
 | 2023-03-02 | 3 | 209 | 
-| 2023-02-28 | 3 | 209 | 
 

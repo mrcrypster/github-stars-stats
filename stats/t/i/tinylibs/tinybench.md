@@ -1,6 +1,6 @@
 # tinylibs/tinybench - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 595 | 14 | 
 | 2023-03-28 | 595 | 14 | 
 | 2023-03-27 | 593 | 14 | 
 | 2023-03-25 | 591 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 570 | 14 | 
 | 2023-03-02 | 569 | 14 | 
 | 2023-03-01 | 569 | 14 | 
-| 2023-02-28 | 567 | 14 | 
 

@@ -1,6 +1,6 @@
 # champ-oss/terraform-mongo-atlas - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1 | 1 | 
 | 2023-03-28 | 1 | 1 | 
 | 2023-03-27 | - | 1 | 
 | 2023-03-26 | - | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | - | 1 | 
 | 2023-03-02 | - | 1 | 
 | 2023-03-01 | - | 1 | 
-| 2023-02-28 | - | 1 | 
 

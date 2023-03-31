@@ -1,6 +1,6 @@
 # exercism/ceylon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3 | 11 | 
 | 2023-03-28 | 3 | 11 | 
 | 2023-03-27 | 3 | 11 | 
 | 2023-03-25 | 3 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 3 | 11 | 
 | 2023-03-02 | 3 | 11 | 
 | 2023-03-01 | 3 | 11 | 
-| 2023-02-28 | 3 | 11 | 
 

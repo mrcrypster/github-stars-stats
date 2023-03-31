@@ -1,6 +1,6 @@
 # season-max/asm_hook - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 55 | 10 | 
 | 2023-03-28 | 55 | 10 | 
 | 2023-03-27 | 55 | 10 | 
 | 2023-03-26 | 55 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 51 | 9 | 
 | 2023-03-02 | 51 | 9 | 
 | 2023-03-01 | 51 | 9 | 
-| 2023-02-28 | 51 | 9 | 
 

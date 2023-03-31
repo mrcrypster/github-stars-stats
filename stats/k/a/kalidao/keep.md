@@ -1,6 +1,6 @@
 # kalidao/keep - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 163 | 17 | 
 | 2023-03-29 | 163 | 17 | 
 | 2023-03-28 | 162 | 16 | 
 | 2023-03-26 | 161 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 156 | 16 | 
 | 2023-03-02 | 156 | 16 | 
 | 2023-03-01 | 156 | 16 | 
-| 2023-02-28 | 156 | 16 | 
 

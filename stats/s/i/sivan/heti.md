@@ -1,10 +1,10 @@
 # sivan/heti - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 234
 
-★ Stars: 5445
+★ Stars: 5444
 
 [Open repository](https://github.com/sivan/heti)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 5444 | 234 | 
 | 2023-03-29 | 5445 | 234 | 
 | 2023-03-28 | 5440 | 233 | 
 | 2023-03-26 | 5437 | 233 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 5414 | 232 | 
 | 2023-03-02 | 5414 | 232 | 
 | 2023-03-01 | 5410 | 233 | 
-| 2023-02-28 | 5406 | 233 | 
 

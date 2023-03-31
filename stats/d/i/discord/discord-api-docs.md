@@ -1,10 +1,10 @@
 # discord/discord-api-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1238
+☋ Forks: 1239
 
-★ Stars: 5243
+★ Stars: 5250
 
 [Open repository](https://github.com/discord/discord-api-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5250 | 1239 | 
 | 2023-03-29 | 5243 | 1238 | 
 | 2023-03-28 | 5241 | 1237 | 
 | 2023-03-27 | 5239 | 1237 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 5183 | 1228 | 
 | 2023-03-02 | 5180 | 1228 | 
 | 2023-03-01 | 5175 | 1229 | 
-| 2023-02-28 | 5174 | 1229 | 
 

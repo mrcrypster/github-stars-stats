@@ -1,10 +1,10 @@
 # ChrisTitusTech/Fedora-Titus - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 26
 
-★ Stars: 75
+★ Stars: 74
 
 [Open repository](https://github.com/ChrisTitusTech/Fedora-Titus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 74 | 26 | 
 | 2023-03-28 | 75 | 26 | 
 | 2023-03-26 | 75 | 26 | 
 | 2023-03-25 | 75 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 74 | 26 | 
 | 2023-03-02 | 74 | 26 | 
 | 2023-03-01 | 74 | 26 | 
-| 2023-02-28 | 74 | 26 | 
 

@@ -1,10 +1,10 @@
 # christhekeele/matcha - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
-★ Stars: 63
+★ Stars: 67
 
 [Open repository](https://github.com/christhekeele/matcha)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 67 | 4 | 
 | 2023-03-28 | 63 | 4 | 
 | 2023-03-27 | 63 | 4 | 
 | 2023-03-25 | 63 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 62 | 3 | 
 | 2023-03-02 | 62 | 3 | 
 | 2023-03-01 | 61 | 3 | 
-| 2023-02-28 | 61 | 3 | 
 

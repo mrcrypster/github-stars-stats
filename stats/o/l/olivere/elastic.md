@@ -1,10 +1,10 @@
 # olivere/elastic - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1150
 
-★ Stars: 7131
+★ Stars: 7132
 
 [Open repository](https://github.com/olivere/elastic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 7132 | 1150 | 
 | 2023-03-28 | 7131 | 1150 | 
 | 2023-03-27 | 7131 | 1150 | 
 | 2023-03-26 | 7131 | 1150 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 7121 | 1148 | 
 | 2023-03-02 | 7119 | 1148 | 
 | 2023-03-01 | 7117 | 1148 | 
-| 2023-02-28 | 7116 | 1148 | 
 

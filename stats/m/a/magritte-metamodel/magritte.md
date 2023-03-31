@@ -1,6 +1,6 @@
 # magritte-metamodel/magritte - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 64 | 30 | 
 | 2023-03-28 | 64 | 30 | 
 | 2023-03-27 | 64 | 30 | 
 | 2023-03-26 | 64 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 62 | 30 | 
 | 2023-03-03 | 62 | 30 | 
 | 2023-03-01 | 62 | 30 | 
-| 2023-02-28 | 62 | 30 | 
 

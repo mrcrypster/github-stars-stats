@@ -1,10 +1,10 @@
 # ggandor/flit.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/ggandor/flit.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 201 | 4 | 
 | 2023-03-29 | 200 | 4 | 
 | 2023-03-27 | 199 | 4 | 
 | 2023-03-26 | 199 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 181 | 4 | 
 | 2023-03-03 | 179 | 3 | 
 | 2023-03-01 | 178 | 3 | 
-| 2023-02-28 | 176 | 3 | 
 

@@ -1,6 +1,6 @@
 # juliooa/thechatbot - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5 | 9 | 
 | 2023-03-28 | 5 | 9 | 
 | 2023-03-27 | 5 | 9 | 
 | 2023-03-25 | 5 | 8 | 

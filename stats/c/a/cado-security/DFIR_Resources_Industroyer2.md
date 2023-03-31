@@ -1,6 +1,6 @@
 # cado-security/DFIR_Resources_Industroyer2 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 7 | 1 | 
 | 2023-03-28 | 7 | 1 | 
 | 2023-03-26 | 7 | 1 | 
 | 2023-03-25 | 7 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 7 | 1 | 
 | 2023-03-02 | 7 | 1 | 
 | 2023-03-01 | 7 | 1 | 
-| 2023-02-28 | 7 | 1 | 
 

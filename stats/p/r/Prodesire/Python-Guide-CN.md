@@ -1,10 +1,10 @@
 # Prodesire/Python-Guide-CN - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 723
 
-★ Stars: 3808
+★ Stars: 3809
 
 [Open repository](https://github.com/Prodesire/Python-Guide-CN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3809 | 723 | 
 | 2023-03-28 | 3808 | 723 | 
 | 2023-03-27 | 3808 | 723 | 
 | 2023-03-25 | 3808 | 722 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 3791 | 717 | 
 | 2023-03-03 | 3791 | 717 | 
 | 2023-03-02 | 3790 | 717 | 
-| 2023-02-28 | 3790 | 717 | 
 

@@ -1,10 +1,10 @@
 # albemala/dart-lens-app - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/albemala/dart-lens-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 93 | 3 | 
 | 2023-03-28 | 92 | 3 | 
 | 2023-03-27 | 92 | 3 | 
 | 2023-03-26 | 92 | 3 | 

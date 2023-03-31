@@ -1,6 +1,6 @@
 # jwiegley/emacs-async - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 735 | 66 | 
 | 2023-03-28 | 735 | 66 | 
 | 2023-03-27 | 735 | 66 | 
 | 2023-03-26 | 735 | 66 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 726 | 65 | 
 | 2023-03-02 | 726 | 65 | 
 | 2023-03-01 | 726 | 65 | 
-| 2023-02-28 | 726 | 65 | 
 

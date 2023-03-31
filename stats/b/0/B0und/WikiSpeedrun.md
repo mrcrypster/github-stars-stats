@@ -1,8 +1,8 @@
 # B0und/WikiSpeedrun - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 37 | 5 | 
 | 2023-03-28 | 37 | 4 | 
 | 2023-03-27 | 37 | 4 | 
 | 2023-03-26 | 37 | 4 | 

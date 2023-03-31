@@ -1,10 +1,10 @@
 # pixie-io/pixie - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 333
+☋ Forks: 335
 
-★ Stars: 4440
+★ Stars: 4449
 
 [Open repository](https://github.com/pixie-io/pixie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4449 | 335 | 
 | 2023-03-28 | 4440 | 333 | 
 | 2023-03-27 | 4439 | 331 | 
 | 2023-03-26 | 4439 | 331 | 

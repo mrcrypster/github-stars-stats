@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 30
 
 ☋ Forks: 11
 
-★ Stars: 203
+★ Stars: 206
 
 [Open repository](https://github.com/xenodium/chatgpt-shell)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-30 | 203 | 11 | 
+| 2023-03-30 | 206 | 11 | 
 | 2023-03-29 | 201 | 11 | 
 | 2023-03-28 | 192 | 11 | 
 | 2023-03-27 | 178 | 9 | 

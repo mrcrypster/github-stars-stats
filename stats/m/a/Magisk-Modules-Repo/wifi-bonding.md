@@ -1,10 +1,10 @@
 # Magisk-Modules-Repo/wifi-bonding - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 131
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/Magisk-Modules-Repo/wifi-bonding)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 389 | 131 | 
 | 2023-03-28 | 388 | 131 | 
 | 2023-03-27 | 388 | 131 | 
 | 2023-03-26 | 387 | 131 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 378 | 129 | 
 | 2023-03-03 | 378 | 129 | 
 | 2023-03-02 | 378 | 129 | 
-| 2023-02-28 | 378 | 129 | 
 

@@ -1,6 +1,6 @@
 # quanteda/Text-Analysis-Using-R - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 20 | 1 | 
 | 2023-03-28 | 20 | 1 | 
 | 2023-03-27 | 19 | - | 
 | 2023-03-25 | 19 | - | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 19 | - | 
 | 2023-03-02 | 19 | - | 
 | 2023-03-01 | 19 | - | 
-| 2023-02-28 | 18 | - | 
 

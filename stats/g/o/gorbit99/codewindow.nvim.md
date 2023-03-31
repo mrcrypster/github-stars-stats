@@ -1,6 +1,6 @@
 # gorbit99/codewindow.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 242 | 5 | 
 | 2023-03-28 | 242 | 5 | 
 | 2023-03-27 | 242 | 5 | 
 | 2023-03-25 | 242 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 230 | 5 | 
 | 2023-03-03 | 230 | 5 | 
 | 2023-03-02 | 230 | 5 | 
-| 2023-02-28 | 230 | 5 | 
 

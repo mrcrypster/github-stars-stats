@@ -1,10 +1,10 @@
 # jjh42/mock - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 76
 
-★ Stars: 592
+★ Stars: 593
 
 [Open repository](https://github.com/jjh42/mock)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 593 | 76 | 
 | 2023-03-28 | 592 | 76 | 
 | 2023-03-27 | 592 | 76 | 
 | 2023-03-25 | 592 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 589 | 76 | 
 | 2023-03-03 | 589 | 76 | 
 | 2023-03-02 | 589 | 76 | 
-| 2023-02-28 | 589 | 76 | 
 

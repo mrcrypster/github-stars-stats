@@ -1,10 +1,10 @@
 # facebookincubator/SocketRocket - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1986
 
-★ Stars: 9418
+★ Stars: 9419
 
 [Open repository](https://github.com/facebookincubator/SocketRocket)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 9419 | 1986 | 
 | 2023-03-28 | 9418 | 1986 | 
 | 2023-03-27 | 9418 | 1986 | 
 | 2023-03-26 | 9418 | 1986 | 

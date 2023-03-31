@@ -1,6 +1,6 @@
 # hasherezade/tiny_tracer - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 793 | 115 | 
 | 2023-03-28 | 793 | 115 | 
 | 2023-03-27 | 792 | 115 | 
 | 2023-03-25 | 791 | 115 | 

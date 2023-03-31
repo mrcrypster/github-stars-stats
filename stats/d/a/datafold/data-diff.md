@@ -1,10 +1,10 @@
 # datafold/data-diff - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 113
 
-★ Stars: 2241
+★ Stars: 2244
 
 [Open repository](https://github.com/datafold/data-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2244 | 113 | 
 | 2023-03-28 | 2241 | 113 | 
 | 2023-03-27 | 2237 | 112 | 
 | 2023-03-26 | 2232 | 111 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 2155 | 102 | 
 | 2023-03-03 | 2153 | 102 | 
 | 2023-03-02 | 2148 | 102 | 
-| 2023-03-01 | 2147 | 102 | 
 

@@ -1,6 +1,6 @@
 # levkov/sensor.im - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 6 | 3 | 
 | 2023-03-29 | 6 | 3 | 
 | 2023-03-27 | 6 | 3 | 
 | 2023-03-26 | 6 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 6 | 3 | 
 | 2023-03-02 | 6 | 3 | 
 | 2023-03-01 | 6 | 3 | 
-| 2023-02-28 | 6 | 3 | 
 

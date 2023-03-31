@@ -1,10 +1,10 @@
 # aleju/mario-ai - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 137
 
-★ Stars: 644
+★ Stars: 643
 
 [Open repository](https://github.com/aleju/mario-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 643 | 137 | 
 | 2023-03-29 | 644 | 137 | 
 | 2023-03-27 | 644 | 137 | 
 | 2023-03-26 | 644 | 137 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 640 | 137 | 
 | 2023-03-02 | 640 | 137 | 
 | 2023-03-01 | 640 | 137 | 
-| 2023-02-28 | 640 | 137 | 
 

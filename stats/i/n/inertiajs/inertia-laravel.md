@@ -1,6 +1,6 @@
 # inertiajs/inertia-laravel - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1683 | 189 | 
 | 2023-03-28 | 1683 | 189 | 
 | 2023-03-27 | 1682 | 189 | 
 | 2023-03-25 | 1681 | 189 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1672 | 187 | 
 | 2023-03-02 | 1673 | 187 | 
 | 2023-03-01 | 1673 | 186 | 
-| 2023-02-28 | 1670 | 186 | 
 

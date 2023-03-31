@@ -1,10 +1,10 @@
 # kaindev8/starMQ - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/kaindev8/starMQ)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 186 | 45 | 
 | 2023-03-28 | 185 | 44 | 
 | 2023-03-27 | 184 | 44 | 
 | 2023-03-25 | 180 | 44 | 

@@ -1,6 +1,6 @@
 # MinCiencia/Datos-COVID19 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 997
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 502 | 997 | 
 | 2023-03-28 | 502 | 997 | 
 | 2023-03-26 | 502 | 997 | 
 | 2023-03-25 | 502 | 997 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 504 | 994 | 
 | 2023-03-03 | 504 | 994 | 
 | 2023-03-01 | 504 | 994 | 
-| 2023-02-28 | 504 | 994 | 
 

@@ -1,10 +1,10 @@
 # Zuntek/WeekToDoWeb - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 46
 
-★ Stars: 441
+★ Stars: 443
 
 [Open repository](https://github.com/Zuntek/WeekToDoWeb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 443 | 46 | 
 | 2023-03-28 | 441 | 46 | 
 | 2023-03-27 | 440 | 46 | 
 | 2023-03-26 | 441 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 418 | 41 | 
 | 2023-03-02 | 417 | 40 | 
 | 2023-03-01 | 416 | 40 | 
-| 2023-02-28 | 416 | 40 | 
 

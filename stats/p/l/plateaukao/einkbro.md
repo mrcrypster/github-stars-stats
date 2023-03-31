@@ -1,10 +1,10 @@
 # plateaukao/einkbro - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 547
+★ Stars: 550
 
 [Open repository](https://github.com/plateaukao/einkbro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 550 | 45 | 
 | 2023-03-28 | 547 | 45 | 
 | 2023-03-27 | 546 | 45 | 
 | 2023-03-26 | 544 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 527 | 43 | 
 | 2023-03-02 | 528 | 43 | 
 | 2023-03-01 | 525 | 43 | 
-| 2023-02-28 | 522 | 43 | 
 

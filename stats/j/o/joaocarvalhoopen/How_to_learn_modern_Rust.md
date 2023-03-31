@@ -1,6 +1,6 @@
 # joaocarvalhoopen/How_to_learn_modern_Rust - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2583 | 69 | 
 | 2023-03-28 | 2583 | 69 | 
 | 2023-03-27 | 2582 | 69 | 
 | 2023-03-26 | 2582 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2570 | 67 | 
 | 2023-03-02 | 2569 | 67 | 
 | 2023-03-01 | 2568 | 66 | 
-| 2023-02-28 | 2567 | 66 | 
 

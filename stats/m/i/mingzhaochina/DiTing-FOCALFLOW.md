@@ -1,10 +1,10 @@
 # mingzhaochina/DiTing-FOCALFLOW - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/mingzhaochina/DiTing-FOCALFLOW)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 9 | - | 
 | 2023-03-28 | 8 | - | 
 | 2023-03-27 | 6 | - | 
 | 2023-03-25 | 6 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 6 | - | 
 | 2023-03-02 | 6 | - | 
 | 2023-03-01 | 6 | - | 
-| 2023-02-28 | 6 | - | 
 

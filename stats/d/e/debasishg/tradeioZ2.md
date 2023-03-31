@@ -1,8 +1,8 @@
 # debasishg/tradeioZ2 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 49 | 15 | 
 | 2023-03-28 | 49 | 14 | 
 | 2023-03-27 | 49 | 14 | 
 | 2023-03-25 | 48 | 14 | 

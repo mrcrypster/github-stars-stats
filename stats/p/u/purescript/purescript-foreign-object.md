@@ -1,6 +1,6 @@
 # purescript/purescript-foreign-object - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 28 | 17 | 
 | 2023-03-28 | 28 | 17 | 
 | 2023-03-27 | 28 | 17 | 
 | 2023-03-26 | 28 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 27 | 17 | 
 | 2023-03-03 | 27 | 17 | 
 | 2023-03-02 | 27 | 17 | 
-| 2023-03-01 | 27 | 17 | 
 

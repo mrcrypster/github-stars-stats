@@ -1,6 +1,6 @@
 # HerringtonDarkholme/yats.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 634 | 63 | 
 | 2023-03-28 | 634 | 63 | 
 | 2023-03-27 | 634 | 63 | 
 | 2023-03-25 | 634 | 63 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 633 | 63 | 
 | 2023-03-02 | 633 | 63 | 
 | 2023-03-01 | 633 | 63 | 
-| 2023-02-28 | 633 | 63 | 
 

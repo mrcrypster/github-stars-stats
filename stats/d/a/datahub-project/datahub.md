@@ -1,10 +1,10 @@
 # datahub-project/datahub - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2142
 
-★ Stars: 7475
+★ Stars: 7477
 
 [Open repository](https://github.com/datahub-project/datahub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 7477 | 2142 | 
 | 2023-03-29 | 7475 | 2142 | 
 | 2023-03-27 | 7462 | 2130 | 
 | 2023-03-26 | 7455 | 2127 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 7313 | 2075 | 
 | 2023-03-03 | 7309 | 2071 | 
 | 2023-03-01 | 7305 | 2067 | 
-| 2023-02-28 | 7298 | 2064 | 
 

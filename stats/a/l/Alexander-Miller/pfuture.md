@@ -1,6 +1,6 @@
 # Alexander-Miller/pfuture - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 51 | 8 | 
 | 2023-03-28 | 51 | 8 | 
 | 2023-03-27 | 51 | 8 | 
 | 2023-03-26 | 51 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 50 | 8 | 
 | 2023-03-02 | 50 | 8 | 
 | 2023-03-01 | 50 | 8 | 
-| 2023-02-28 | 50 | 8 | 
 

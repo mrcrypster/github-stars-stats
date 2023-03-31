@@ -1,6 +1,6 @@
 # kelyvin/jsonresume-theme-caffeine - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 86 | 77 | 
 | 2023-03-29 | 86 | 77 | 
 | 2023-03-27 | 86 | 77 | 
 | 2023-03-26 | 85 | 77 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 84 | 74 | 
 | 2023-03-02 | 84 | 74 | 
 | 2023-03-01 | 84 | 74 | 
-| 2023-02-28 | 84 | 74 | 
 

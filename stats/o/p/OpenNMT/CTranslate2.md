@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 30
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 618
+★ Stars: 629
 
 [Open repository](https://github.com/OpenNMT/CTranslate2)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-30 | 618 | 91 | 
+| 2023-03-30 | 629 | 92 | 
 | 2023-03-29 | 617 | 91 | 
 

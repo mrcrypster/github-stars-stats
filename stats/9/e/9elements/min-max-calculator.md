@@ -1,6 +1,6 @@
 # 9elements/min-max-calculator - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 156 | 3 | 
 | 2023-03-29 | 156 | 3 | 
 | 2023-03-28 | 156 | 3 | 
 | 2023-03-26 | 156 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 154 | 3 | 
 | 2023-03-03 | 154 | 3 | 
 | 2023-03-02 | 154 | 3 | 
-| 2023-03-01 | 154 | 3 | 
 

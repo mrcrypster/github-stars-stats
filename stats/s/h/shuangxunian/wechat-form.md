@@ -1,6 +1,6 @@
 # shuangxunian/wechat-form - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 48 | 58 | 
 | 2023-03-29 | 48 | 58 | 
 | 2023-03-28 | 48 | 57 | 
 | 2023-03-26 | 48 | 56 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 46 | 53 | 
 | 2023-03-02 | 46 | 53 | 
 | 2023-03-01 | 46 | 53 | 
-| 2023-02-28 | 46 | 53 | 
 

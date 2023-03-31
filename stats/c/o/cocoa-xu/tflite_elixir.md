@@ -1,10 +1,10 @@
 # cocoa-xu/tflite_elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/cocoa-xu/tflite_elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 31 | 3 | 
 | 2023-03-28 | 30 | 3 | 
 | 2023-03-27 | 30 | 3 | 
 | 2023-03-25 | 30 | 3 | 

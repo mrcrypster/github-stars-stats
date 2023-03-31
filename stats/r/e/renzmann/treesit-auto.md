@@ -1,10 +1,10 @@
 # renzmann/treesit-auto - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 95
+★ Stars: 98
 
 [Open repository](https://github.com/renzmann/treesit-auto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 98 | 8 | 
 | 2023-03-29 | 95 | 8 | 
 | 2023-03-28 | 96 | 7 | 
 | 2023-03-26 | 95 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 78 | 7 | 
 | 2023-03-02 | 77 | 8 | 
 | 2023-03-01 | 76 | 8 | 
-| 2023-02-28 | 76 | 8 | 
 

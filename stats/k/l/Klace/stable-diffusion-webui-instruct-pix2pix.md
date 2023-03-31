@@ -1,10 +1,10 @@
 # Klace/stable-diffusion-webui-instruct-pix2pix - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 18
 
-★ Stars: 224
+★ Stars: 226
 
 [Open repository](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 226 | 18 | 
 | 2023-03-28 | 224 | 18 | 
 | 2023-03-27 | 224 | 18 | 
 | 2023-03-26 | 222 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 197 | 16 | 
 | 2023-03-02 | 194 | 16 | 
 | 2023-03-01 | 191 | 16 | 
-| 2023-02-28 | 190 | 16 | 
 

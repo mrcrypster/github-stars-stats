@@ -1,6 +1,6 @@
 # the-teacher/rails7-startkit - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 410 | 57 | 
 | 2023-03-28 | 410 | 57 | 
 | 2023-03-27 | 409 | 57 | 
 | 2023-03-26 | 409 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 403 | 54 | 
 | 2023-03-02 | 403 | 54 | 
 | 2023-03-01 | 403 | 54 | 
-| 2023-02-28 | 399 | 52 | 
 

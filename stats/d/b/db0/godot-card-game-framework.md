@@ -1,10 +1,10 @@
 # db0/godot-card-game-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 63
 
-★ Stars: 585
+★ Stars: 586
 
 [Open repository](https://github.com/db0/godot-card-game-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 586 | 63 | 
 | 2023-03-28 | 585 | 63 | 
 | 2023-03-27 | 583 | 63 | 
 | 2023-03-25 | 582 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 572 | 64 | 
 | 2023-03-03 | 571 | 64 | 
 | 2023-03-02 | 570 | 63 | 
-| 2023-03-01 | 570 | 63 | 
 

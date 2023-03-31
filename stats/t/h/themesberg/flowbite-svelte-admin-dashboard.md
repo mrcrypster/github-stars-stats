@@ -1,10 +1,10 @@
 # themesberg/flowbite-svelte-admin-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/themesberg/flowbite-svelte-admin-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 20 | 3 | 
 | 2023-03-28 | 19 | 3 | 
 | 2023-03-27 | 19 | 3 | 
 | 2023-03-25 | 17 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 15 | 3 | 
 | 2023-03-02 | 15 | 3 | 
 | 2023-03-01 | 14 | 3 | 
-| 2023-02-28 | 14 | 3 | 
 

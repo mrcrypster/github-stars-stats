@@ -1,10 +1,10 @@
 # nermeenwageh10/Leetcode-Solutions - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/nermeenwageh10/Leetcode-Solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 180 | 52 | 
 | 2023-03-28 | 179 | 51 | 
 | 2023-03-27 | 177 | 51 | 
 | 2023-03-26 | 174 | 50 | 

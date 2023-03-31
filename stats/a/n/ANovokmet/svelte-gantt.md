@@ -1,6 +1,6 @@
 # ANovokmet/svelte-gantt - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 323 | 76 | 
 | 2023-03-28 | 323 | 76 | 
 | 2023-03-26 | 323 | 76 | 
 | 2023-03-25 | 323 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 316 | 75 | 
 | 2023-03-02 | 316 | 75 | 
 | 2023-03-01 | 315 | 75 | 
-| 2023-02-28 | 315 | 75 | 
 

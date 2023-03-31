@@ -1,10 +1,10 @@
 # 0xk1h0/ChatGPT_DAN - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 79
+☋ Forks: 82
 
-★ Stars: 803
+★ Stars: 895
 
 [Open repository](https://github.com/0xk1h0/ChatGPT_DAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 895 | 82 | 
 | 2023-03-28 | 803 | 79 | 
 | 2023-03-27 | 780 | 76 | 
 | 2023-03-26 | 737 | 70 | 

@@ -1,10 +1,10 @@
 # microsoftgraph/msgraph-sdk-dotnet - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 208
+☋ Forks: 209
 
-★ Stars: 560
+★ Stars: 561
 
 [Open repository](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 561 | 209 | 
 | 2023-03-28 | 560 | 208 | 
 | 2023-03-26 | 557 | 208 | 
 | 2023-03-25 | 558 | 208 | 

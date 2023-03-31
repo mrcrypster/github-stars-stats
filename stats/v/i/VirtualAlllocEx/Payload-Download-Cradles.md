@@ -1,10 +1,10 @@
 # VirtualAlllocEx/Payload-Download-Cradles - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/VirtualAlllocEx/Payload-Download-Cradles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 217 | 45 | 
 | 2023-03-28 | 216 | 45 | 
 | 2023-03-27 | 216 | 45 | 
 | 2023-03-26 | 216 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 214 | 45 | 
 | 2023-03-02 | 214 | 45 | 
 | 2023-03-01 | 214 | 45 | 
-| 2023-02-28 | 214 | 45 | 
 

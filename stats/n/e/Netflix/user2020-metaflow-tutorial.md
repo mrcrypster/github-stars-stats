@@ -1,10 +1,10 @@
 # Netflix/user2020-metaflow-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/Netflix/user2020-metaflow-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 21 | 6 | 
 | 2023-03-28 | 20 | 6 | 
 | 2023-03-27 | 20 | 6 | 
 | 2023-03-25 | 20 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 19 | 6 | 
 | 2023-03-02 | 19 | 6 | 
 | 2023-03-01 | 19 | 6 | 
-| 2023-02-28 | 19 | 6 | 
 

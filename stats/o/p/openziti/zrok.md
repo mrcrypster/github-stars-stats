@@ -1,10 +1,10 @@
 # openziti/zrok - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 13
 
-★ Stars: 733
+★ Stars: 738
 
 [Open repository](https://github.com/openziti/zrok)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 738 | 13 | 
 | 2023-03-28 | 733 | 13 | 
 | 2023-03-27 | 733 | 13 | 
 | 2023-03-26 | 732 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 623 | 13 | 
 | 2023-03-02 | 622 | 13 | 
 | 2023-03-01 | 620 | 13 | 
-| 2023-02-28 | 620 | 13 | 
 

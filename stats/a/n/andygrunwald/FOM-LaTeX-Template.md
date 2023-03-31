@@ -1,6 +1,6 @@
 # andygrunwald/FOM-LaTeX-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 146 | 153 | 
 | 2023-03-28 | 146 | 153 | 
 | 2023-03-27 | 146 | 152 | 
 | 2023-03-26 | 146 | 152 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 144 | 151 | 
 | 2023-03-02 | 144 | 151 | 
 | 2023-03-01 | 144 | 151 | 
-| 2023-02-28 | 143 | 151 | 
 

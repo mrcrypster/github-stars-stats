@@ -1,10 +1,10 @@
 # d1onys1us/dapp-slaps - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 14
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/d1onys1us/dapp-slaps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 46 | 14 | 
 | 2023-03-28 | 44 | 14 | 
 | 2023-03-27 | 42 | 13 | 
 | 2023-03-26 | 42 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 17 | 3 | 
 | 2023-03-02 | 17 | 3 | 
 | 2023-03-01 | 14 | 2 | 
-| 2023-02-28 | 11 | 1 | 
 

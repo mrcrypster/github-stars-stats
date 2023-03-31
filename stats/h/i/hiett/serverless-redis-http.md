@@ -1,10 +1,10 @@
 # hiett/serverless-redis-http - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/hiett/serverless-redis-http)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 30 | 1 | 
 | 2023-03-28 | 29 | 1 | 
 | 2023-03-27 | 29 | 1 | 
 | 2023-03-25 | 29 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 29 | 1 | 
 | 2023-03-02 | 29 | 1 | 
 | 2023-03-01 | 29 | 1 | 
-| 2023-02-28 | 29 | 1 | 
 

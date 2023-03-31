@@ -1,6 +1,6 @@
 # ijrussell/AdventOfCode2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 12 | 1 | 
 | 2023-03-28 | 12 | 1 | 
 | 2023-03-27 | 12 | 1 | 
 | 2023-03-25 | 12 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 12 | 1 | 
 | 2023-03-03 | 12 | 1 | 
 | 2023-03-01 | 12 | 1 | 
-| 2023-02-28 | 12 | 1 | 
 

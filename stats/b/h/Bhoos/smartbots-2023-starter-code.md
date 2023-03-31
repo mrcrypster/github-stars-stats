@@ -1,6 +1,6 @@
 # Bhoos/smartbots-2023-starter-code - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 15 | 33 | 
 | 2023-03-29 | 15 | 33 | 
 | 2023-03-27 | 15 | 33 | 
 | 2023-03-26 | 15 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 15 | 33 | 
 | 2023-03-02 | 15 | 33 | 
 | 2023-03-01 | 15 | 33 | 
-| 2023-02-28 | 15 | 33 | 
 

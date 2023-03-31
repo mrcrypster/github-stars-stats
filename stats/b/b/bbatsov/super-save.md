@@ -1,10 +1,10 @@
 # bbatsov/super-save - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 23
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/bbatsov/super-save)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 261 | 23 | 
 | 2023-03-28 | 260 | 23 | 
 | 2023-03-27 | 260 | 23 | 
 | 2023-03-25 | 258 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 254 | 23 | 
 | 2023-03-02 | 254 | 23 | 
 | 2023-03-01 | 254 | 23 | 
-| 2023-02-28 | 254 | 23 | 
 

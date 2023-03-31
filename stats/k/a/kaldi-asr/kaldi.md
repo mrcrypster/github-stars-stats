@@ -1,10 +1,10 @@
 # kaldi-asr/kaldi - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 5143
+☋ Forks: 5144
 
-★ Stars: 12545
+★ Stars: 12550
 
 [Open repository](https://github.com/kaldi-asr/kaldi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 12550 | 5144 | 
 | 2023-03-28 | 12545 | 5143 | 
 | 2023-03-27 | 12541 | 5142 | 
 | 2023-03-26 | 12536 | 5141 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 12457 | 5130 | 
 | 2023-03-02 | 12454 | 5128 | 
 | 2023-03-01 | 12448 | 5127 | 
-| 2023-02-28 | 12444 | 5127 | 
 

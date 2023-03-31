@@ -1,10 +1,10 @@
 # NUL0x4C/AtomLdr - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 401
+★ Stars: 403
 
 [Open repository](https://github.com/NUL0x4C/AtomLdr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 403 | 57 | 
 | 2023-03-28 | 401 | 56 | 
 | 2023-03-27 | 399 | 56 | 
 | 2023-03-25 | 397 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 305 | 42 | 
 | 2023-03-02 | 289 | 37 | 
 | 2023-03-01 | 282 | 37 | 
-| 2023-02-28 | 241 | 33 | 
 

@@ -1,6 +1,6 @@
 # zyedidia/multiplix - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 23 | 1 | 
 | 2023-03-28 | 23 | 1 | 
 | 2023-03-27 | 22 | 1 | 
 | 2023-03-26 | 22 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 13 | - | 
 | 2023-03-02 | 12 | - | 
 | 2023-03-01 | 12 | - | 
-| 2023-02-28 | 12 | - | 
 

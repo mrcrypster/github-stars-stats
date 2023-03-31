@@ -1,6 +1,6 @@
 # feenkcom/gt4jenkins - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4 | 1 | 
 | 2023-03-29 | 4 | 1 | 
 | 2023-03-28 | 4 | 1 | 
 | 2023-03-27 | 4 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 4 | 1 | 
 | 2023-03-02 | 4 | 1 | 
 | 2023-03-01 | 4 | 1 | 
-| 2023-02-28 | 4 | 1 | 
 

@@ -1,6 +1,6 @@
 # openresty/test-nginx - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 408 | 105 | 
 | 2023-03-28 | 408 | 105 | 
 | 2023-03-27 | 408 | 105 | 
 | 2023-03-26 | 408 | 105 | 

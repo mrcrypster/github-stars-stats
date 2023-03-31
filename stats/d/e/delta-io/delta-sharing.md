@@ -1,6 +1,6 @@
 # delta-io/delta-sharing - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 545 | 108 | 
 | 2023-03-28 | 545 | 108 | 
 | 2023-03-27 | 544 | 108 | 
 | 2023-03-25 | 544 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 530 | 106 | 
 | 2023-03-02 | 528 | 106 | 
 | 2023-03-01 | 527 | 105 | 
-| 2023-02-28 | 526 | 105 | 
 

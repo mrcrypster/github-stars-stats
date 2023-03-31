@@ -1,10 +1,10 @@
 # manateelazycat/python-bridge - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/manateelazycat/python-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 25 | 1 | 
 | 2023-03-28 | 23 | 1 | 
 | 2023-03-27 | 22 | 1 | 
 | 2023-03-25 | 22 | 1 | 

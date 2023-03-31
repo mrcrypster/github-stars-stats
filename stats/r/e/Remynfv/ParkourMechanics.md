@@ -1,10 +1,10 @@
 # Remynfv/ParkourMechanics - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Remynfv/ParkourMechanics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 19 | 3 | 
 | 2023-03-28 | 18 | 3 | 
 | 2023-03-27 | 18 | 3 | 
 | 2023-03-26 | 18 | 3 | 

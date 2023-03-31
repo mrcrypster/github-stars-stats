@@ -1,10 +1,10 @@
 # CliMA/CloudMicrophysics.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/CliMA/CloudMicrophysics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 17 | 2 | 
 | 2023-03-28 | 16 | 2 | 
 | 2023-03-27 | 16 | 2 | 
 | 2023-03-26 | 16 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 16 | 2 | 
 | 2023-03-02 | 16 | 2 | 
 | 2023-03-01 | 16 | 2 | 
-| 2023-02-28 | 15 | 2 | 
 

@@ -1,10 +1,10 @@
 # astrada/google-drive-ocamlfuse - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 349
 
-★ Stars: 4967
+★ Stars: 4968
 
 [Open repository](https://github.com/astrada/google-drive-ocamlfuse)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4968 | 349 | 
 | 2023-03-29 | 4967 | 349 | 
 | 2023-03-28 | 4967 | 349 | 
 | 2023-03-27 | 4966 | 349 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 4920 | 351 | 
 | 2023-03-02 | 4916 | 351 | 
 | 2023-03-01 | 4913 | 351 | 
-| 2023-02-28 | 4913 | 351 | 
 

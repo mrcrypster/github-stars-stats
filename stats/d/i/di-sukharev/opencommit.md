@@ -1,10 +1,10 @@
 # di-sukharev/opencommit - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 78
+☋ Forks: 90
 
-★ Stars: 1715
+★ Stars: 2031
 
 [Open repository](https://github.com/di-sukharev/opencommit)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2031 | 90 | 
+| 2023-03-30 | 1869 | 85 | 
 | 2023-03-29 | 1715 | 78 | 
 | 2023-03-28 | 1307 | 57 | 
 | 2023-03-27 | 787 | 34 | 

@@ -1,10 +1,10 @@
 # hmobius/hmobius.github.com - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/hmobius/hmobius.github.com)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1 | - | 
 | 2023-03-28 | - | - | 
 | 2023-03-27 | - | - | 
 | 2023-03-25 | - | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | - | - | 
 | 2023-03-03 | - | - | 
 | 2023-03-01 | - | - | 
-| 2023-02-28 | - | - | 
 

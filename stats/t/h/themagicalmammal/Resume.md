@@ -1,10 +1,10 @@
 # themagicalmammal/Resume - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 16
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/themagicalmammal/Resume)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 58 | 16 | 
 | 2023-03-28 | 57 | 16 | 
 | 2023-03-27 | 56 | 16 | 
 | 2023-03-25 | 55 | 16 | 

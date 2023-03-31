@@ -1,6 +1,6 @@
 # roomsense/homeassistant-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 68 | 3 | 
 | 2023-03-28 | 68 | 3 | 
 | 2023-03-27 | 63 | 3 | 
 | 2023-03-26 | 61 | 3 | 

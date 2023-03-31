@@ -1,10 +1,10 @@
 # haskell/play-haskell - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/haskell/play-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 74 | 5 | 
 | 2023-03-28 | 73 | 5 | 
 | 2023-03-27 | 72 | 5 | 
 | 2023-03-25 | 72 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 65 | 4 | 
 | 2023-03-02 | 60 | 4 | 
 | 2023-03-01 | 58 | 4 | 
-| 2023-02-28 | 57 | 3 | 
 

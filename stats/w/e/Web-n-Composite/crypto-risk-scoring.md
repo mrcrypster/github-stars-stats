@@ -1,6 +1,6 @@
 # Web-n-Composite/crypto-risk-scoring - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 473 | 105 | 
 | 2023-03-28 | 473 | 105 | 
 | 2023-03-27 | 473 | 105 | 
 | 2023-03-26 | 474 | 105 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 517 | 105 | 
 | 2023-03-03 | 517 | 105 | 
 | 2023-03-02 | 517 | 105 | 
-| 2023-03-01 | 517 | 105 | 
 

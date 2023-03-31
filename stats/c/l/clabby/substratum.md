@@ -1,10 +1,10 @@
 # clabby/substratum - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 26
+★ Stars: 29
 
 [Open repository](https://github.com/clabby/substratum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 29 | 2 | 
 | 2023-03-28 | 26 | 1 | 
 | 2023-03-26 | 26 | 1 | 
 | 2023-03-25 | 26 | 1 | 

@@ -1,10 +1,10 @@
 # abo-abo/org-download - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 73
 
-★ Stars: 923
+★ Stars: 926
 
 [Open repository](https://github.com/abo-abo/org-download)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 926 | 73 | 
 | 2023-03-28 | 923 | 73 | 
 | 2023-03-27 | 923 | 73 | 
 | 2023-03-26 | 923 | 73 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 919 | 73 | 
 | 2023-03-03 | 919 | 73 | 
 | 2023-03-02 | 919 | 73 | 
-| 2023-03-01 | 919 | 73 | 
 

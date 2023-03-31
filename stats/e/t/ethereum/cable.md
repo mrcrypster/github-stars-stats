@@ -1,6 +1,6 @@
 # ethereum/cable - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 31 | 16 | 
 | 2023-03-28 | 31 | 16 | 
 | 2023-03-27 | 31 | 16 | 
 | 2023-03-26 | 31 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 31 | 16 | 
 | 2023-03-02 | 31 | 16 | 
 | 2023-03-01 | 31 | 16 | 
-| 2023-02-28 | 31 | 16 | 
 

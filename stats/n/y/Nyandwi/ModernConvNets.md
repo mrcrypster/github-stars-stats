@@ -1,6 +1,6 @@
 # Nyandwi/ModernConvNets - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 306 | 33 | 
 | 2023-03-28 | 306 | 33 | 
 | 2023-03-26 | 306 | 33 | 
 | 2023-03-25 | 306 | 33 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 306 | 32 | 
 | 2023-03-03 | 306 | 32 | 
 | 2023-03-01 | 306 | 32 | 
-| 2023-02-28 | 306 | 32 | 
 

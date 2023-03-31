@@ -1,10 +1,10 @@
 # Syndrizzle/hotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 50
 
-★ Stars: 1075
+★ Stars: 1078
 
 [Open repository](https://github.com/Syndrizzle/hotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1078 | 50 | 
 | 2023-03-28 | 1075 | 50 | 
 | 2023-03-27 | 1073 | 50 | 
 | 2023-03-25 | 1069 | 50 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1048 | 49 | 
 | 2023-03-02 | 1046 | 49 | 
 | 2023-03-01 | 1046 | 49 | 
-| 2023-02-28 | 1048 | 49 | 
 

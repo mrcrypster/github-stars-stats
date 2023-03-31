@@ -1,6 +1,6 @@
 # fotherja/EV_Charger - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 107 | 21 | 
 | 2023-03-28 | 107 | 21 | 
 | 2023-03-27 | 107 | 21 | 
 | 2023-03-26 | 107 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 102 | 19 | 
 | 2023-03-02 | 102 | 19 | 
 | 2023-03-01 | 102 | 19 | 
-| 2023-02-28 | 102 | 19 | 
 

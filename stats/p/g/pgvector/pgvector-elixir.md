@@ -1,10 +1,10 @@
 # pgvector/pgvector-elixir - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/pgvector/pgvector-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 36 | 3 | 
 | 2023-03-28 | 35 | 3 | 
 | 2023-03-27 | 35 | 3 | 
 | 2023-03-26 | 34 | 3 | 

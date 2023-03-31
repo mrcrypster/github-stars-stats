@@ -1,8 +1,8 @@
 # Thomas-George-T/HackerRank-SQL-Challenges-Solutions - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 160
+☋ Forks: 162
 
 ★ Stars: 462
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 462 | 162 | 
+| 2023-03-30 | 462 | 161 | 
 | 2023-03-29 | 462 | 160 | 
 | 2023-03-28 | 462 | 160 | 
 | 2023-03-27 | 462 | 160 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 438 | 152 | 
 | 2023-03-02 | 436 | 152 | 
 | 2023-03-01 | 434 | 152 | 
-| 2023-02-28 | 434 | 152 | 
 

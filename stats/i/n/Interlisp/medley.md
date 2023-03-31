@@ -1,6 +1,6 @@
 # Interlisp/medley - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 232 | 18 | 
 | 2023-03-28 | 232 | 18 | 
 | 2023-03-26 | 232 | 18 | 
 | 2023-03-25 | 232 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 230 | 17 | 
 | 2023-03-03 | 230 | 17 | 
 | 2023-03-01 | 230 | 17 | 
-| 2023-02-28 | 230 | 17 | 
 

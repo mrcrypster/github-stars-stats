@@ -1,8 +1,8 @@
 # ansible-lockdown/RHEL8-CIS - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 119
+☋ Forks: 120
 
 ★ Stars: 181
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 181 | 120 | 
 | 2023-03-29 | 181 | 119 | 
 | 2023-03-28 | 181 | 119 | 
 | 2023-03-27 | 181 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 175 | 116 | 
 | 2023-03-02 | 175 | 114 | 
 | 2023-03-01 | 175 | 114 | 
-| 2023-02-28 | 175 | 114 | 
 

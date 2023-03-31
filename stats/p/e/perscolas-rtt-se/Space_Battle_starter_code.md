@@ -1,6 +1,6 @@
 # perscolas-rtt-se/Space_Battle_starter_code - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2 | 131 | 
 | 2023-03-28 | 2 | 131 | 
 | 2023-03-27 | 2 | 131 | 
 | 2023-03-26 | 2 | 131 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1 | 125 | 
 | 2023-03-02 | 1 | 125 | 
 | 2023-03-01 | 1 | 125 | 
-| 2023-02-28 | 1 | 125 | 
 

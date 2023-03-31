@@ -1,10 +1,10 @@
 # nalinbhardwaj/zordle - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 10
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/nalinbhardwaj/zordle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 167 | 10 | 
 | 2023-03-28 | 166 | 10 | 
 | 2023-03-27 | 166 | 10 | 
 | 2023-03-25 | 166 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 164 | 10 | 
 | 2023-03-03 | 164 | 10 | 
 | 2023-03-02 | 163 | 10 | 
-| 2023-02-28 | 163 | 10 | 
 

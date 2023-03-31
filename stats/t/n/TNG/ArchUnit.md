@@ -1,10 +1,10 @@
 # TNG/ArchUnit - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 261
 
-★ Stars: 2621
+★ Stars: 2623
 
 [Open repository](https://github.com/TNG/ArchUnit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2623 | 261 | 
 | 2023-03-28 | 2621 | 261 | 
 | 2023-03-27 | 2619 | 259 | 
 | 2023-03-25 | 2618 | 258 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 2583 | 255 | 
 | 2023-03-02 | 2581 | 254 | 
 | 2023-03-01 | 2577 | 253 | 
-| 2023-02-28 | 2577 | 253 | 
 

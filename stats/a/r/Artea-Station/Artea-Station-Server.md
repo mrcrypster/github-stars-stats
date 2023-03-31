@@ -1,6 +1,6 @@
 # Artea-Station/Artea-Station-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4 | 8 | 
 | 2023-03-28 | 4 | 8 | 
 | 2023-03-27 | 4 | 8 | 
 | 2023-03-26 | 4 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 3 | 8 | 
 | 2023-03-03 | 3 | 8 | 
 | 2023-03-01 | 3 | 7 | 
-| 2023-02-28 | 3 | 7 | 
 

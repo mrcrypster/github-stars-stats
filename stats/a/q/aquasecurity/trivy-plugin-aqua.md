@@ -1,6 +1,6 @@
 # aquasecurity/trivy-plugin-aqua - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 9 | 13 | 
 | 2023-03-28 | 9 | 13 | 
 | 2023-03-27 | 9 | 13 | 
 | 2023-03-25 | 10 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 10 | 12 | 
 | 2023-03-02 | 10 | 12 | 
 | 2023-03-01 | 10 | 12 | 
-| 2023-02-28 | 10 | 12 | 
 

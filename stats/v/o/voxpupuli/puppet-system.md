@@ -1,6 +1,6 @@
 # voxpupuli/puppet-system - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 65 | 48 | 
 | 2023-03-29 | 65 | 48 | 
 | 2023-03-27 | 64 | 48 | 
 | 2023-03-26 | 64 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 64 | 49 | 
 | 2023-03-03 | 64 | 49 | 
 | 2023-03-01 | 64 | 49 | 
-| 2023-02-28 | 64 | 49 | 
 

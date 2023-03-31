@@ -1,6 +1,6 @@
 # GEOS-ESM/GOCART - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 10 | 12 | 
 | 2023-03-29 | 10 | 12 | 
 | 2023-03-28 | 10 | 12 | 
 | 2023-03-26 | 10 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 10 | 12 | 
 | 2023-03-02 | 10 | 11 | 
 | 2023-03-01 | 9 | 11 | 
-| 2023-02-28 | 9 | 11 | 
 

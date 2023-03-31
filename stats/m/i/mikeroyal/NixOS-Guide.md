@@ -1,6 +1,6 @@
 # mikeroyal/NixOS-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 216 | 9 | 
 | 2023-03-28 | 216 | 9 | 
 | 2023-03-26 | 216 | 9 | 
 | 2023-03-25 | 216 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 203 | 9 | 
 | 2023-03-03 | 203 | 9 | 
 | 2023-03-02 | 199 | 9 | 
-| 2023-03-01 | 199 | 9 | 
 

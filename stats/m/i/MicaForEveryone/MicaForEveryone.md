@@ -1,10 +1,10 @@
 # MicaForEveryone/MicaForEveryone - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 80
 
-★ Stars: 1977
+★ Stars: 1985
 
 [Open repository](https://github.com/MicaForEveryone/MicaForEveryone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1985 | 80 | 
 | 2023-03-28 | 1977 | 80 | 
 | 2023-03-27 | 1973 | 80 | 
 | 2023-03-26 | 1970 | 79 | 

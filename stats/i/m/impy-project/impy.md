@@ -1,10 +1,10 @@
 # impy-project/impy - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/impy-project/impy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 21 | 4 | 
 | 2023-03-28 | 20 | 4 | 
 | 2023-03-27 | 19 | 4 | 
 | 2023-03-25 | 19 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 18 | 3 | 
 | 2023-03-03 | 17 | 3 | 
 | 2023-03-02 | 16 | 3 | 
-| 2023-03-01 | 16 | 3 | 
 

@@ -1,10 +1,10 @@
 # pwned4ever/Th0r_Freya - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 17
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/pwned4ever/Th0r_Freya)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 84 | 17 | 
 | 2023-03-28 | 83 | 17 | 
 | 2023-03-27 | 83 | 17 | 
 | 2023-03-26 | 83 | 17 | 

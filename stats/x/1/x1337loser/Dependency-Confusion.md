@@ -1,6 +1,6 @@
 # x1337loser/Dependency-Confusion - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 162 | 26 | 
 | 2023-03-28 | 162 | 26 | 
 | 2023-03-27 | 162 | 26 | 
 | 2023-03-26 | 162 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 159 | 23 | 
 | 2023-03-02 | 159 | 23 | 
 | 2023-03-01 | 159 | 22 | 
-| 2023-02-28 | 159 | 22 | 
 

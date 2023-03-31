@@ -1,10 +1,10 @@
 # chaosprint/glicol - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 53
 
-★ Stars: 1421
+★ Stars: 1426
 
 [Open repository](https://github.com/chaosprint/glicol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1426 | 53 | 
 | 2023-03-28 | 1421 | 53 | 
 | 2023-03-27 | 1421 | 53 | 
 | 2023-03-26 | 1414 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 1245 | 49 | 
 | 2023-03-02 | 1239 | 49 | 
 | 2023-03-01 | 1239 | 49 | 
-| 2023-02-28 | 1239 | 49 | 
 

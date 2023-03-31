@@ -1,10 +1,10 @@
 # borisdayma/dalle-mini - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1083
 
-★ Stars: 13864
+★ Stars: 13871
 
 [Open repository](https://github.com/borisdayma/dalle-mini)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 13871 | 1083 | 
 | 2023-03-28 | 13864 | 1083 | 
 | 2023-03-27 | 13855 | 1082 | 
 | 2023-03-25 | 13843 | 1079 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 13729 | 1062 | 
 | 2023-03-02 | 13718 | 1061 | 
 | 2023-03-01 | 13709 | 1061 | 
-| 2023-02-28 | 13704 | 1059 | 
 

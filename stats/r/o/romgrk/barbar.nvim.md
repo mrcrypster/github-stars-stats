@@ -1,10 +1,10 @@
 # romgrk/barbar.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 71
 
-★ Stars: 1571
+★ Stars: 1572
 
 [Open repository](https://github.com/romgrk/barbar.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1572 | 71 | 
 | 2023-03-28 | 1571 | 71 | 
 | 2023-03-27 | 1568 | 71 | 
 | 2023-03-26 | 1567 | 71 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1528 | 70 | 
 | 2023-03-03 | 1525 | 70 | 
 | 2023-03-01 | 1524 | 69 | 
-| 2023-02-28 | 1522 | 69 | 
 

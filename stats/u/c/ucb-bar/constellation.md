@@ -1,8 +1,8 @@
 # ucb-bar/constellation - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 96 | 12 | 
 | 2023-03-29 | 96 | 11 | 
 | 2023-03-27 | 96 | 11 | 
 | 2023-03-26 | 96 | 11 | 

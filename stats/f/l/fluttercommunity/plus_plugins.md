@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 30
 
 ☋ Forks: 608
 
-★ Stars: 1139
+★ Stars: 1141
 
 [Open repository](https://github.com/fluttercommunity/plus_plugins)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-30 | 1139 | 608 | 
+| 2023-03-30 | 1141 | 608 | 
 | 2023-03-29 | 1139 | 609 | 
 | 2023-03-28 | 1138 | 607 | 
 | 2023-03-26 | 1138 | 606 | 

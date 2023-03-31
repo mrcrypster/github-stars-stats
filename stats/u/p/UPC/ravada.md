@@ -1,6 +1,6 @@
 # UPC/ravada - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 451 | 173 | 
 | 2023-03-28 | 451 | 173 | 
 | 2023-03-26 | 451 | 174 | 
 | 2023-03-25 | 451 | 174 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 447 | 174 | 
 | 2023-03-02 | 446 | 174 | 
 | 2023-03-01 | 444 | 174 | 
-| 2023-02-28 | 443 | 174 | 
 

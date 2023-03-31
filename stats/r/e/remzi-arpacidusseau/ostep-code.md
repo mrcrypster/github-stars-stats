@@ -1,10 +1,10 @@
 # remzi-arpacidusseau/ostep-code - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1111
+☋ Forks: 1112
 
-★ Stars: 2520
+★ Stars: 2521
 
 [Open repository](https://github.com/remzi-arpacidusseau/ostep-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2521 | 1112 | 
 | 2023-03-28 | 2520 | 1111 | 
 | 2023-03-27 | 2516 | 1108 | 
 | 2023-03-25 | 2514 | 1108 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 2481 | 1098 | 
 | 2023-03-03 | 2477 | 1095 | 
 | 2023-03-01 | 2476 | 1094 | 
-| 2023-02-28 | 2474 | 1092 | 
 

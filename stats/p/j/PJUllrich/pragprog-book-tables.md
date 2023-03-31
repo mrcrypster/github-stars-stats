@@ -1,10 +1,10 @@
 # PJUllrich/pragprog-book-tables - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/PJUllrich/pragprog-book-tables)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 18 | 3 | 
 | 2023-03-28 | 17 | 3 | 
 | 2023-03-27 | 17 | 3 | 
 | 2023-03-26 | 17 | 3 | 

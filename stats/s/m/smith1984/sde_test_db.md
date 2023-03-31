@@ -1,8 +1,8 @@
 # smith1984/sde_test_db - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
-☋ Forks: 62
+☋ Forks: 61
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | - | 61 | 
 | 2023-03-28 | - | 62 | 
 | 2023-03-27 | - | 62 | 
 | 2023-03-25 | - | 62 | 

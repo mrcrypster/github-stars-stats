@@ -1,10 +1,10 @@
 # voidenterpriseid/kejutan-bunga - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/voidenterpriseid/kejutan-bunga)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 18 | 16 | 
 | 2023-03-28 | 17 | 14 | 
 | 2023-03-27 | 17 | 14 | 
 | 2023-03-25 | 17 | 14 | 

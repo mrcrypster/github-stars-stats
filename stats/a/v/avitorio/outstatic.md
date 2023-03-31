@@ -1,10 +1,10 @@
 # avitorio/outstatic - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 60
 
-★ Stars: 1546
+★ Stars: 1548
 
 [Open repository](https://github.com/avitorio/outstatic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1548 | 60 | 
 | 2023-03-28 | 1546 | 60 | 
 | 2023-03-27 | 1545 | 60 | 
 | 2023-03-26 | 1543 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1531 | 59 | 
 | 2023-03-02 | 1526 | 59 | 
 | 2023-03-01 | 1525 | 59 | 
-| 2023-02-28 | 1523 | 59 | 
 

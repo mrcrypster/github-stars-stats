@@ -1,8 +1,8 @@
 # Aditya110092/WindowsRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 46
+☋ Forks: 47
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | - | 47 | 
 | 2023-03-28 | - | 46 | 
 | 2023-03-27 | - | 45 | 
 | 2023-03-26 | - | 41 | 

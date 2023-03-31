@@ -1,6 +1,6 @@
 # balena-os/balena-nanopc-t4 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4 | 1 | 
 | 2023-03-29 | 4 | 1 | 
 | 2023-03-28 | 4 | 1 | 
 | 2023-03-26 | 4 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 4 | 1 | 
 | 2023-03-03 | 4 | 1 | 
 | 2023-03-02 | 4 | 1 | 
-| 2023-02-28 | 4 | 1 | 
 

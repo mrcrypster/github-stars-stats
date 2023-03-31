@@ -1,6 +1,6 @@
 # clojure-emacs/parseedn - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 53 | 14 | 
 | 2023-03-28 | 53 | 14 | 
 | 2023-03-27 | 52 | 14 | 
 | 2023-03-25 | 52 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 52 | 14 | 
 | 2023-03-03 | 52 | 14 | 
 | 2023-03-02 | 52 | 14 | 
-| 2023-03-01 | 52 | 14 | 
 

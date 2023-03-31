@@ -1,6 +1,6 @@
 # dwyl/mvp - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 64 | 2 | 
 | 2023-03-28 | 64 | 2 | 
 | 2023-03-27 | 64 | 2 | 
 | 2023-03-25 | 63 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 59 | 2 | 
 | 2023-03-03 | 60 | 2 | 
 | 2023-03-02 | 60 | 2 | 
-| 2023-03-01 | 59 | 2 | 
 

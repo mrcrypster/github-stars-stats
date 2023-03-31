@@ -1,6 +1,6 @@
 # VirtusLab/typed-frames - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 106 | 7 | 
 | 2023-03-28 | 106 | 7 | 
 | 2023-03-27 | 106 | 7 | 
 | 2023-03-25 | 106 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 106 | 7 | 
 | 2023-03-02 | 106 | 7 | 
 | 2023-03-01 | 106 | 7 | 
-| 2023-02-28 | 106 | 7 | 
 

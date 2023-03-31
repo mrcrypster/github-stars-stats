@@ -1,10 +1,10 @@
 # abstracthat/dactyl-manuform - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 142
+☋ Forks: 144
 
-★ Stars: 1096
+★ Stars: 1097
 
 [Open repository](https://github.com/abstracthat/dactyl-manuform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1097 | 144 | 
 | 2023-03-28 | 1096 | 142 | 
 | 2023-03-26 | 1093 | 142 | 
 | 2023-03-25 | 1092 | 142 | 

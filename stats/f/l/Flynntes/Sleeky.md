@@ -1,8 +1,8 @@
 # Flynntes/Sleeky - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 424
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 424 | 89 | 
 | 2023-03-28 | 424 | 88 | 
 | 2023-03-27 | 423 | 88 | 
 | 2023-03-25 | 423 | 88 | 

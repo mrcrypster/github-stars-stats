@@ -1,6 +1,6 @@
 # mihaimaruseac/hindent - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 538 | 114 | 
 | 2023-03-28 | 538 | 114 | 
 | 2023-03-27 | 538 | 114 | 
 | 2023-03-26 | 538 | 114 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 539 | 114 | 
 | 2023-03-03 | 539 | 114 | 
 | 2023-03-01 | 539 | 114 | 
-| 2023-02-28 | 539 | 114 | 
 

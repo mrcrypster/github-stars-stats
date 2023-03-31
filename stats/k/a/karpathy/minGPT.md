@@ -1,10 +1,10 @@
 # karpathy/minGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1595
+☋ Forks: 1613
 
-★ Stars: 13679
+★ Stars: 13876
 
 [Open repository](https://github.com/karpathy/minGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 13876 | 1613 | 
 | 2023-03-28 | 13679 | 1595 | 
 | 2023-03-27 | 13654 | 1584 | 
 | 2023-03-25 | 13644 | 1583 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 13290 | 1514 | 
 | 2023-03-03 | 13274 | 1510 | 
 | 2023-03-01 | 13260 | 1506 | 
-| 2023-02-28 | 13240 | 1504 | 
 

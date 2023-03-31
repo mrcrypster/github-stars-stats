@@ -1,10 +1,10 @@
 # Chooloo/koler - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 117
 
-★ Stars: 704
+★ Stars: 709
 
 [Open repository](https://github.com/Chooloo/koler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 709 | 117 | 
 | 2023-03-29 | 704 | 117 | 
 | 2023-03-27 | 704 | 117 | 
 | 2023-03-26 | 703 | 117 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 677 | 118 | 
 | 2023-03-02 | 675 | 118 | 
 | 2023-03-01 | 675 | 118 | 
-| 2023-02-28 | 676 | 118 | 
 

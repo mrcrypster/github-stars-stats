@@ -1,10 +1,10 @@
 # firehol/blocklist-ipsets - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 338
 
-★ Stars: 2573
+★ Stars: 2576
 
 [Open repository](https://github.com/firehol/blocklist-ipsets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2576 | 338 | 
 | 2023-03-29 | 2573 | 338 | 
 | 2023-03-27 | 2572 | 338 | 
 | 2023-03-26 | 2572 | 338 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2541 | 334 | 
 | 2023-03-03 | 2541 | 333 | 
 | 2023-03-02 | 2540 | 333 | 
-| 2023-02-28 | 2541 | 333 | 
 

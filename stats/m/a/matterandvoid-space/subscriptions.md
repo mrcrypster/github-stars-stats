@@ -1,10 +1,10 @@
 # matterandvoid-space/subscriptions - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/matterandvoid-space/subscriptions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 47 | - | 
 | 2023-03-28 | 45 | - | 
 | 2023-03-27 | 45 | - | 
 | 2023-03-25 | 45 | - | 

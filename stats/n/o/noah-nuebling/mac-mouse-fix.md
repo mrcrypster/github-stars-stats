@@ -1,6 +1,6 @@
 # noah-nuebling/mac-mouse-fix - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2913 | 83 | 
 | 2023-03-29 | 2913 | 83 | 
 | 2023-03-28 | 2908 | 83 | 
 | 2023-03-26 | 2900 | 83 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 2825 | 82 | 
 | 2023-03-02 | 2824 | 82 | 
 | 2023-03-01 | 2823 | 82 | 
-| 2023-02-28 | 2818 | 82 | 
 

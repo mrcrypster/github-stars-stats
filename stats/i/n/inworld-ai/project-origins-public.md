@@ -1,10 +1,10 @@
 # inworld-ai/project-origins-public - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/inworld-ai/project-origins-public)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 15 | 3 | 
 | 2023-03-28 | 13 | 2 | 
 | 2023-03-27 | 13 | 2 | 
 | 2023-03-26 | 13 | 1 | 

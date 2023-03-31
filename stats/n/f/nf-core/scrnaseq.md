@@ -1,10 +1,10 @@
 # nf-core/scrnaseq - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 82
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/nf-core/scrnaseq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 78 | 82 | 
 | 2023-03-29 | 77 | 82 | 
 | 2023-03-28 | 77 | 82 | 
 | 2023-03-27 | 77 | 82 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 73 | 78 | 
 | 2023-03-02 | 72 | 78 | 
 | 2023-03-01 | 72 | 77 | 
-| 2023-02-28 | 72 | 77 | 
 

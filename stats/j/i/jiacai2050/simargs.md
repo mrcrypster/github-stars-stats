@@ -1,6 +1,6 @@
 # jiacai2050/simargs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 46 | 3 | 
 | 2023-03-28 | 46 | 3 | 
 | 2023-03-27 | 46 | 3 | 
 | 2023-03-25 | 46 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 39 | 3 | 
 | 2023-03-02 | 40 | 3 | 
 | 2023-03-01 | 40 | 3 | 
-| 2023-02-28 | 40 | 3 | 
 

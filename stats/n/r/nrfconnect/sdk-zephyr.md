@@ -1,6 +1,6 @@
 # nrfconnect/sdk-zephyr - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 450
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 153 | 450 | 
 | 2023-03-28 | 153 | 450 | 
 | 2023-03-27 | 153 | 450 | 
 | 2023-03-25 | 153 | 450 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 153 | 438 | 
 | 2023-03-03 | 153 | 439 | 
 | 2023-03-02 | 153 | 439 | 
-| 2023-02-28 | 153 | 439 | 
 

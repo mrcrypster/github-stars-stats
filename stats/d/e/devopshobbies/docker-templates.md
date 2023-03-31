@@ -1,10 +1,10 @@
 # devopshobbies/docker-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 19
+☋ Forks: 23
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/devopshobbies/docker-templates)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 47 | 23 | 
 | 2023-03-28 | 45 | 19 | 
 

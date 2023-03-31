@@ -1,10 +1,10 @@
 # danqing/Pinch - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 283
+★ Stars: 287
 
 [Open repository](https://github.com/danqing/Pinch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 287 | 8 | 
 | 2023-03-28 | 283 | 8 | 
 | 2023-03-27 | 278 | 8 | 
 | 2023-03-26 | 275 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 252 | 7 | 
 | 2023-03-02 | 250 | 7 | 
 | 2023-03-01 | 248 | 7 | 
-| 2023-02-28 | 246 | 7 | 
 

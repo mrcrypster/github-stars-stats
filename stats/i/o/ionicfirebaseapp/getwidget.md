@@ -1,8 +1,8 @@
 # ionicfirebaseapp/getwidget - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 545
+☋ Forks: 546
 
 ★ Stars: 3816
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3816 | 546 | 
 | 2023-03-28 | 3816 | 545 | 
 | 2023-03-27 | 3815 | 545 | 
 | 2023-03-26 | 3814 | 545 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 3778 | 537 | 
 | 2023-03-02 | 3775 | 537 | 
 | 2023-03-01 | 3768 | 538 | 
-| 2023-02-28 | 3765 | 538 | 
 

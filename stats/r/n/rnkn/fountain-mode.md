@@ -1,6 +1,6 @@
 # rnkn/fountain-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 355 | 14 | 
 | 2023-03-28 | 355 | 14 | 
 | 2023-03-27 | 355 | 14 | 
 | 2023-03-25 | 355 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 354 | 14 | 
 | 2023-03-02 | 354 | 14 | 
 | 2023-03-01 | 354 | 14 | 
-| 2023-02-28 | 354 | 14 | 
 

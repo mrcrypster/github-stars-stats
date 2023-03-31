@@ -1,10 +1,10 @@
 # iamverysimp1e/dots - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 28
+☋ Forks: 31
 
-★ Stars: 492
+★ Stars: 495
 
 [Open repository](https://github.com/iamverysimp1e/dots)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 495 | 31 | 
 | 2023-03-28 | 492 | 28 | 
 | 2023-03-27 | 491 | 28 | 
 | 2023-03-26 | 489 | 28 | 

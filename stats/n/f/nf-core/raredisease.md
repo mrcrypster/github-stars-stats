@@ -1,6 +1,6 @@
 # nf-core/raredisease - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 35 | 16 | 
 | 2023-03-29 | 35 | 16 | 
 | 2023-03-27 | 35 | 16 | 
 | 2023-03-26 | 35 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 34 | 15 | 
 | 2023-03-03 | 34 | 15 | 
 | 2023-03-01 | 34 | 15 | 
-| 2023-02-28 | 33 | 15 | 
 

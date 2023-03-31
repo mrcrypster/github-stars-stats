@@ -1,10 +1,10 @@
 # Malabarba/beacon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 27
 
-★ Stars: 590
+★ Stars: 591
 
 [Open repository](https://github.com/Malabarba/beacon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 591 | 27 | 
 | 2023-03-28 | 590 | 27 | 
 | 2023-03-27 | 589 | 27 | 
 | 2023-03-26 | 589 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 586 | 27 | 
 | 2023-03-02 | 586 | 27 | 
 | 2023-03-01 | 586 | 27 | 
-| 2023-02-28 | 585 | 27 | 
 

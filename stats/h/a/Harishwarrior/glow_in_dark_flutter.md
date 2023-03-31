@@ -1,10 +1,10 @@
 # Harishwarrior/glow_in_dark_flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
-★ Stars: 34
+★ Stars: 37
 
 [Open repository](https://github.com/Harishwarrior/glow_in_dark_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 37 | 4 | 
 | 2023-03-28 | 34 | 4 | 
 | 2023-03-27 | 32 | 4 | 
 | 2023-03-26 | 32 | 4 | 

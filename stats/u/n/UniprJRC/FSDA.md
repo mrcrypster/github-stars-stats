@@ -1,6 +1,6 @@
 # UniprJRC/FSDA - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 59 | 22 | 
 | 2023-03-28 | 59 | 22 | 
 | 2023-03-27 | 59 | 22 | 
 | 2023-03-26 | 59 | 22 | 

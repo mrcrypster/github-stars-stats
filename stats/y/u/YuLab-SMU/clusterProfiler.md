@@ -1,10 +1,10 @@
 # YuLab-SMU/clusterProfiler - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 230
+☋ Forks: 231
 
-★ Stars: 756
+★ Stars: 760
 
 [Open repository](https://github.com/YuLab-SMU/clusterProfiler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 760 | 231 | 
 | 2023-03-28 | 756 | 230 | 
 | 2023-03-27 | 756 | 230 | 
 | 2023-03-25 | 755 | 230 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 738 | 222 | 
 | 2023-03-02 | 738 | 222 | 
 | 2023-03-01 | 737 | 222 | 
-| 2023-02-28 | 737 | 222 | 
 

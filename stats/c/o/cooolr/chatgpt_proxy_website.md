@@ -1,10 +1,10 @@
 # cooolr/chatgpt_proxy_website - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 131
+★ Stars: 137
 
 [Open repository](https://github.com/cooolr/chatgpt_proxy_website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 137 | 24 | 
 | 2023-03-28 | 131 | 23 | 
 | 2023-03-27 | 126 | 22 | 
 | 2023-03-25 | 124 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 47 | 7 | 
 | 2023-03-03 | 44 | 7 | 
 | 2023-03-02 | 43 | 8 | 
-| 2023-02-28 | 40 | 8 | 
 

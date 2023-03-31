@@ -1,6 +1,6 @@
 # microsoft/restler-fuzzer - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2098 | 232 | 
 | 2023-03-29 | 2098 | 232 | 
 | 2023-03-27 | 2097 | 231 | 
 | 2023-03-26 | 2097 | 230 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2077 | 226 | 
 | 2023-03-03 | 2077 | 226 | 
 | 2023-03-02 | 2077 | 226 | 
-| 2023-03-01 | 2077 | 226 | 
 

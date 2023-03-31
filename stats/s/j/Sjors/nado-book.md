@@ -1,6 +1,6 @@
 # Sjors/nado-book - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 49 | 8 | 
 | 2023-03-28 | 49 | 8 | 
 | 2023-03-27 | 49 | 8 | 
 | 2023-03-26 | 49 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 48 | 7 | 
 | 2023-03-02 | 48 | 7 | 
 | 2023-03-01 | 48 | 7 | 
-| 2023-02-28 | 48 | 7 | 
 

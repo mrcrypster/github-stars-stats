@@ -1,10 +1,10 @@
 # inaka/elvis_core - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 53
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/inaka/elvis_core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 46 | 53 | 
 | 2023-03-28 | 45 | 53 | 
 | 2023-03-27 | 45 | 53 | 
 | 2023-03-26 | 45 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 45 | 53 | 
 | 2023-03-02 | 45 | 53 | 
 | 2023-03-01 | 45 | 53 | 
-| 2023-02-28 | 45 | 52 | 
 

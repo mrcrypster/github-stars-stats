@@ -1,10 +1,10 @@
 # 59079096/HCView-Pascal - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 48
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/59079096/HCView-Pascal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 98 | 48 | 
 | 2023-03-28 | 97 | 48 | 
 | 2023-03-27 | 97 | 48 | 
 | 2023-03-26 | 97 | 48 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 95 | 48 | 
 | 2023-03-02 | 95 | 48 | 
 | 2023-03-01 | 95 | 48 | 
-| 2023-02-28 | 95 | 48 | 
 

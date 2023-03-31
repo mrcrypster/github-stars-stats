@@ -1,6 +1,6 @@
 # velas/JsWallet - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 20 | 17 | 
 | 2023-03-28 | 20 | 17 | 
 | 2023-03-27 | 20 | 17 | 
 | 2023-03-25 | 20 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 19 | 16 | 
 | 2023-03-02 | 19 | 16 | 
 | 2023-03-01 | 19 | 16 | 
-| 2023-02-28 | 19 | 16 | 
 

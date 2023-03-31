@@ -1,6 +1,6 @@
 # fabricate-site/fabricate - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 50 | 2 | 
 | 2023-03-28 | 50 | 2 | 
 | 2023-03-27 | 50 | 2 | 
 | 2023-03-25 | 50 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 50 | 2 | 
 | 2023-03-02 | 50 | 2 | 
 | 2023-03-01 | 50 | 2 | 
-| 2023-02-28 | 50 | 2 | 
 

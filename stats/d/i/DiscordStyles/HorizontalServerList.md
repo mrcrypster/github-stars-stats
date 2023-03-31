@@ -1,6 +1,6 @@
 # DiscordStyles/HorizontalServerList - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 52 | 42 | 
 | 2023-03-29 | 52 | 42 | 
 | 2023-03-27 | 52 | 40 | 
 | 2023-03-26 | 52 | 39 | 

@@ -1,10 +1,10 @@
 # MFlowCode/MFC - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 42
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/MFlowCode/MFC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 72 | 42 | 
 | 2023-03-28 | 71 | 42 | 
 | 2023-03-27 | 71 | 42 | 
 | 2023-03-25 | 72 | 43 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 68 | 42 | 
 | 2023-03-02 | 67 | 42 | 
 | 2023-03-01 | 67 | 42 | 
-| 2023-02-28 | 67 | 42 | 
 

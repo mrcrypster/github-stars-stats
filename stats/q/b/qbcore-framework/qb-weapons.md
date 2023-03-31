@@ -1,8 +1,8 @@
 # qbcore-framework/qb-weapons - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 182
+☋ Forks: 181
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 25 | 181 | 
 | 2023-03-28 | 25 | 182 | 
 | 2023-03-27 | 25 | 183 | 
 | 2023-03-25 | 25 | 184 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 25 | 183 | 
 | 2023-03-02 | 25 | 182 | 
 | 2023-03-01 | 25 | 182 | 
-| 2023-02-28 | 25 | 182 | 
 

@@ -1,6 +1,6 @@
 # geoschem/HEMCO - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 13 | 23 | 
 | 2023-03-28 | 13 | 23 | 
 | 2023-03-26 | 13 | 23 | 
 | 2023-03-25 | 13 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 14 | 21 | 
 | 2023-03-02 | 14 | 21 | 
 | 2023-03-01 | 14 | 21 | 
-| 2023-02-28 | 14 | 21 | 
 

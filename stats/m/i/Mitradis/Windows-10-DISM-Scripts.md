@@ -1,10 +1,10 @@
 # Mitradis/Windows-10-DISM-Scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 7
 
-★ Stars: 48
+★ Stars: 47
 
 [Open repository](https://github.com/Mitradis/Windows-10-DISM-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 47 | 7 | 
 | 2023-03-28 | 48 | 7 | 
 | 2023-03-27 | 48 | 7 | 
 | 2023-03-25 | 46 | 7 | 

@@ -1,10 +1,10 @@
 # TestPlanB/Signal - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 240
+★ Stars: 242
 
 [Open repository](https://github.com/TestPlanB/Signal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 242 | 45 | 
 | 2023-03-28 | 240 | 45 | 
 | 2023-03-27 | 239 | 45 | 
 | 2023-03-25 | 239 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 238 | 45 | 
 | 2023-03-02 | 237 | 45 | 
 | 2023-03-01 | 237 | 45 | 
-| 2023-02-28 | 234 | 44 | 
 

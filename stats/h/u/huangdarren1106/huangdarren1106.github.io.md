@@ -1,6 +1,6 @@
 # huangdarren1106/huangdarren1106.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 109 | 16 | 
 | 2023-03-28 | 109 | 16 | 
 | 2023-03-26 | 109 | 16 | 
 | 2023-03-25 | 109 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 109 | 16 | 
 | 2023-03-03 | 109 | 16 | 
 | 2023-03-02 | 109 | 16 | 
-| 2023-03-01 | 109 | 16 | 
 

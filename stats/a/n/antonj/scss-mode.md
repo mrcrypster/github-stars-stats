@@ -1,6 +1,6 @@
 # antonj/scss-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 201 | 40 | 
 | 2023-03-28 | 201 | 40 | 
 | 2023-03-27 | 201 | 40 | 
 | 2023-03-26 | 201 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 201 | 40 | 
 | 2023-03-02 | 201 | 40 | 
 | 2023-03-01 | 201 | 40 | 
-| 2023-02-28 | 201 | 40 | 
 

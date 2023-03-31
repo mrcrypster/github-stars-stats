@@ -1,10 +1,10 @@
 # Bowen7/regex-vis - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 167
 
-★ Stars: 2435
+★ Stars: 2437
 
 [Open repository](https://github.com/Bowen7/regex-vis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2437 | 167 | 
 | 2023-03-28 | 2435 | 167 | 
 | 2023-03-26 | 2431 | 167 | 
 | 2023-03-25 | 2431 | 167 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 2406 | 165 | 
 | 2023-03-02 | 2403 | 165 | 
 | 2023-03-01 | 2402 | 165 | 
-| 2023-02-28 | 2399 | 165 | 
 

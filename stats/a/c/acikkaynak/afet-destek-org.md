@@ -1,6 +1,6 @@
 # acikkaynak/afet-destek-org - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 180 | 67 | 
 | 2023-03-28 | 180 | 67 | 
 | 2023-03-27 | 180 | 67 | 
 | 2023-03-26 | 180 | 67 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 179 | 66 | 
 | 2023-03-03 | 180 | 66 | 
 | 2023-03-02 | 180 | 66 | 
-| 2023-03-01 | 180 | 66 | 
 

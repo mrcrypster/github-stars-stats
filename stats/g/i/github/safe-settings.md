@@ -1,10 +1,10 @@
 # github/safe-settings - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 312
+★ Stars: 317
 
 [Open repository](https://github.com/github/safe-settings)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 317 | 89 | 
 | 2023-03-28 | 312 | 88 | 
 | 2023-03-27 | 310 | 88 | 
 | 2023-03-26 | 308 | 88 | 

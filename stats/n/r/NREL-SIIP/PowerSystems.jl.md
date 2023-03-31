@@ -1,6 +1,6 @@
 # NREL-SIIP/PowerSystems.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 235 | 61 | 
 | 2023-03-28 | 235 | 61 | 
 | 2023-03-27 | 235 | 61 | 
 | 2023-03-26 | 235 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 234 | 60 | 
 | 2023-03-03 | 235 | 60 | 
 | 2023-03-02 | 235 | 60 | 
-| 2023-02-28 | 235 | 60 | 
 

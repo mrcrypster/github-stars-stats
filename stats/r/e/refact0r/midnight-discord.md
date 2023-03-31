@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 30
 
-☋ Forks: 51
+☋ Forks: 50
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/refact0r/midnight-discord)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-30 | 32 | 51 | 
+| 2023-03-30 | 33 | 50 | 
 | 2023-03-29 | 32 | 49 | 
 

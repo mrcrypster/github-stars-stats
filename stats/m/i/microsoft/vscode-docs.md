@@ -1,8 +1,8 @@
 # microsoft/vscode-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 4019
+☋ Forks: 4023
 
 ★ Stars: 4945
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4945 | 4023 | 
 | 2023-03-28 | 4945 | 4019 | 
 | 2023-03-27 | 4944 | 4019 | 
 | 2023-03-26 | 4942 | 4017 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 4912 | 3977 | 
 | 2023-03-02 | 4912 | 3976 | 
 | 2023-03-01 | 4909 | 3968 | 
-| 2023-02-28 | 4906 | 3972 | 
 

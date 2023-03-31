@@ -1,6 +1,6 @@
 # NobuoTsukamoto/meta-tensorflow-lite - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 22 | 13 | 
 | 2023-03-28 | 22 | 13 | 
 | 2023-03-27 | 21 | 13 | 
 | 2023-03-26 | 21 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 19 | 13 | 
 | 2023-03-02 | 19 | 13 | 
 | 2023-03-01 | 19 | 13 | 
-| 2023-02-28 | 19 | 13 | 
 

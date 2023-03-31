@@ -1,10 +1,10 @@
 # scrapy/scrapy - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 9902
+☋ Forks: 9908
 
-★ Stars: 46611
+★ Stars: 46626
 
 [Open repository](https://github.com/scrapy/scrapy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 46626 | 9908 | 
 | 2023-03-28 | 46611 | 9902 | 
 | 2023-03-27 | 46595 | 9903 | 
 | 2023-03-26 | 46580 | 9904 | 

@@ -1,6 +1,6 @@
 # OverflowCat/zhihu-watermark-remover - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 238 | 12 | 
 | 2023-03-28 | 238 | 12 | 
 | 2023-03-27 | 238 | 12 | 
 | 2023-03-26 | 238 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 239 | 12 | 
 | 2023-03-02 | 239 | 12 | 
 | 2023-03-01 | 239 | 12 | 
-| 2023-02-28 | 239 | 12 | 
 

@@ -1,10 +1,10 @@
 # SophonPlus/ChineseNlpCorpus - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1288
+☋ Forks: 1289
 
-★ Stars: 4672
+★ Stars: 4681
 
 [Open repository](https://github.com/SophonPlus/ChineseNlpCorpus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4681 | 1289 | 
 | 2023-03-28 | 4672 | 1288 | 
 | 2023-03-27 | 4665 | 1288 | 
 | 2023-03-25 | 4663 | 1286 | 

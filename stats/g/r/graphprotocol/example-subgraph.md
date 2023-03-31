@@ -1,10 +1,10 @@
 # graphprotocol/example-subgraph - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 118
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/graphprotocol/example-subgraph)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 151 | 118 | 
 | 2023-03-28 | 150 | 118 | 
 | 2023-03-27 | 150 | 118 | 
 | 2023-03-26 | 150 | 118 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 149 | 118 | 
 | 2023-03-02 | 149 | 118 | 
 | 2023-03-01 | 149 | 118 | 
-| 2023-02-28 | 149 | 118 | 
 

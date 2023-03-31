@@ -1,6 +1,6 @@
 # ruby/net-imap - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 26 | 20 | 
 | 2023-03-28 | 26 | 20 | 
 | 2023-03-26 | 26 | 20 | 
 | 2023-03-25 | 26 | 20 | 

@@ -1,6 +1,6 @@
 # wvlet/airframe - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 593 | 59 | 
 | 2023-03-28 | 593 | 59 | 
 | 2023-03-27 | 593 | 59 | 
 | 2023-03-26 | 593 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 591 | 58 | 
 | 2023-03-02 | 591 | 58 | 
 | 2023-03-01 | 591 | 58 | 
-| 2023-02-28 | 591 | 58 | 
 

@@ -1,10 +1,10 @@
 # krol3/container-security-checklist - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 1250
+★ Stars: 1261
 
 [Open repository](https://github.com/krol3/container-security-checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1261 | 187 | 
 | 2023-03-28 | 1250 | 186 | 
 | 2023-03-26 | 1248 | 186 | 
 | 2023-03-25 | 1247 | 186 | 

@@ -1,10 +1,10 @@
 # josephrocca/OpenCharacters - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 11
+☋ Forks: 15
 
-★ Stars: 104
+★ Stars: 115
 
 [Open repository](https://github.com/josephrocca/OpenCharacters)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 115 | 15 | 
 | 2023-03-28 | 104 | 11 | 
 | 2023-03-27 | 103 | 11 | 
 

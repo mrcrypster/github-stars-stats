@@ -1,10 +1,10 @@
 # scalacenter/bloop - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 186
 
-★ Stars: 831
+★ Stars: 832
 
 [Open repository](https://github.com/scalacenter/bloop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 832 | 186 | 
 | 2023-03-29 | 831 | 186 | 
 | 2023-03-28 | 830 | 186 | 
 | 2023-03-26 | 830 | 186 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 831 | 183 | 
 | 2023-03-02 | 831 | 183 | 
 | 2023-03-01 | 831 | 183 | 
-| 2023-02-28 | 831 | 183 | 
 

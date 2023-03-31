@@ -1,6 +1,6 @@
 # open-goal/jak-project - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2308 | 120 | 
 | 2023-03-29 | 2308 | 120 | 
 | 2023-03-28 | 2307 | 120 | 
 | 2023-03-27 | 2306 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 2288 | 117 | 
 | 2023-03-02 | 2288 | 117 | 
 | 2023-03-01 | 2286 | 117 | 
-| 2023-02-28 | 2286 | 117 | 
 

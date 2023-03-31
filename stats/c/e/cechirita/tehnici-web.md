@@ -1,8 +1,8 @@
 # cechirita/tehnici-web - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 13
+☋ Forks: 15
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 7 | 15 | 
 | 2023-03-28 | 7 | 13 | 
 | 2023-03-27 | 7 | 10 | 
 | 2023-03-25 | 7 | 11 | 

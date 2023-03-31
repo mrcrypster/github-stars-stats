@@ -1,10 +1,10 @@
 # arogozhnikov/einops - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 290
 
-★ Stars: 6559
+★ Stars: 6566
 
 [Open repository](https://github.com/arogozhnikov/einops)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6566 | 290 | 
 | 2023-03-29 | 6559 | 290 | 
 | 2023-03-28 | 6553 | 289 | 
 | 2023-03-26 | 6547 | 290 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 6449 | 290 | 
 | 2023-03-03 | 6443 | 290 | 
 | 2023-03-02 | 6441 | 289 | 
-| 2023-03-01 | 6437 | 289 | 
 

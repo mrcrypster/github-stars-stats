@@ -1,10 +1,10 @@
 # h5bp/html5-boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 12178
+☋ Forks: 12177
 
-★ Stars: 54166
+★ Stars: 54171
 
 [Open repository](https://github.com/h5bp/html5-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 54171 | 12177 | 
 | 2023-03-28 | 54166 | 12178 | 
 | 2023-03-27 | 54165 | 12176 | 
 | 2023-03-25 | 54163 | 12174 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 54072 | 12145 | 
 | 2023-03-02 | 54064 | 12146 | 
 | 2023-03-01 | 54059 | 12146 | 
-| 2023-02-28 | 54056 | 12145 | 
 

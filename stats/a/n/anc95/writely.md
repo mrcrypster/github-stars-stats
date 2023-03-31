@@ -1,10 +1,10 @@
 # anc95/writely - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 814
+★ Stars: 822
 
 [Open repository](https://github.com/anc95/writely)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 822 | 58 | 
 | 2023-03-28 | 814 | 57 | 
 | 2023-03-26 | 806 | 56 | 
 | 2023-03-25 | 802 | 56 | 

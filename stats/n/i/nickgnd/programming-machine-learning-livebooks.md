@@ -1,10 +1,10 @@
 # nickgnd/programming-machine-learning-livebooks - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
-★ Stars: 65
+★ Stars: 71
 
 [Open repository](https://github.com/nickgnd/programming-machine-learning-livebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 71 | 4 | 
 | 2023-03-29 | 65 | 4 | 
 | 2023-03-28 | 47 | 2 | 
 | 2023-03-26 | 47 | 2 | 

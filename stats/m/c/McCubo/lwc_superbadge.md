@@ -1,8 +1,8 @@
 # McCubo/lwc_superbadge - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 36 | 127 | 
 | 2023-03-28 | 36 | 126 | 
 | 2023-03-27 | 36 | 126 | 
 | 2023-03-26 | 36 | 126 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 36 | 125 | 
 | 2023-03-02 | 36 | 124 | 
 | 2023-03-01 | 36 | 124 | 
-| 2023-02-28 | 36 | 124 | 
 

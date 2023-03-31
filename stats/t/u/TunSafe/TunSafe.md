@@ -1,10 +1,10 @@
 # TunSafe/TunSafe - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 234
 
-★ Stars: 874
+★ Stars: 876
 
 [Open repository](https://github.com/TunSafe/TunSafe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 876 | 234 | 
 | 2023-03-28 | 874 | 234 | 
 | 2023-03-27 | 874 | 234 | 
 | 2023-03-25 | 874 | 234 | 

@@ -1,6 +1,6 @@
 # skeeto/skewer-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1059 | 54 | 
 | 2023-03-28 | 1059 | 54 | 
 | 2023-03-27 | 1059 | 54 | 
 | 2023-03-25 | 1059 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1057 | 54 | 
 | 2023-03-02 | 1057 | 54 | 
 | 2023-03-01 | 1056 | 54 | 
-| 2023-02-28 | 1056 | 54 | 
 

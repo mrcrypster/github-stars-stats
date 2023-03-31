@@ -1,10 +1,10 @@
 # mushan0x0/AI0x0.com - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 89
+☋ Forks: 106
 
-★ Stars: 635
+★ Stars: 708
 
 [Open repository](https://github.com/mushan0x0/AI0x0.com)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 708 | 106 | 
 | 2023-03-28 | 635 | 89 | 
 | 2023-03-27 | 606 | 87 | 
 | 2023-03-26 | 531 | 75 | 

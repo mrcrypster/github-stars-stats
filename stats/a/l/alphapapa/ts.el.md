@@ -1,6 +1,6 @@
 # alphapapa/ts.el - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 158 | 12 | 
 | 2023-03-29 | 158 | 12 | 
 | 2023-03-27 | 158 | 12 | 
 | 2023-03-26 | 158 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 153 | 12 | 
 | 2023-03-02 | 153 | 12 | 
 | 2023-03-01 | 153 | 12 | 
-| 2023-02-28 | 153 | 12 | 
 

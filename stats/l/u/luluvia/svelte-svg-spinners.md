@@ -1,6 +1,6 @@
 # luluvia/svelte-svg-spinners - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 39 | 1 | 
 | 2023-03-28 | 39 | 1 | 
 | 2023-03-27 | 39 | 1 | 
 | 2023-03-25 | 39 | 1 | 

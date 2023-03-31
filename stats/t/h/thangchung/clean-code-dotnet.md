@@ -1,10 +1,10 @@
 # thangchung/clean-code-dotnet - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 925
+☋ Forks: 927
 
-★ Stars: 5926
+★ Stars: 5929
 
 [Open repository](https://github.com/thangchung/clean-code-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5929 | 927 | 
 | 2023-03-28 | 5926 | 925 | 
 | 2023-03-27 | 5924 | 924 | 
 | 2023-03-25 | 5925 | 924 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 5868 | 918 | 
 | 2023-03-02 | 5867 | 918 | 
 | 2023-03-01 | 5858 | 919 | 
-| 2023-02-28 | 5852 | 917 | 
 

@@ -1,6 +1,6 @@
 # pulp-platform/axi_mem_if - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 19
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 20 | 19 | 
+| 2023-03-30 | 20 | 19 | 
 | 2023-03-28 | 20 | 19 | 
 | 2023-03-27 | 20 | 19 | 
 | 2023-03-26 | 20 | 19 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 19 | 19 | 
 | 2023-03-02 | 19 | 19 | 
 | 2023-03-01 | 19 | 19 | 
-| 2023-02-28 | 19 | 19 | 
 

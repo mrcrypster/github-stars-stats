@@ -1,10 +1,10 @@
 # wolandark/wim - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/wolandark/wim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 261 | 16 | 
 | 2023-03-28 | 260 | 14 | 
 | 2023-03-27 | 260 | 14 | 
 | 2023-03-26 | 260 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 261 | 14 | 
 | 2023-03-02 | 261 | 14 | 
 | 2023-03-01 | 261 | 14 | 
-| 2023-02-28 | 261 | 14 | 
 

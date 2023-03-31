@@ -1,10 +1,10 @@
 # input-output-hk/cardano-engineering-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/input-output-hk/cardano-engineering-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 14 | - | 
 | 2023-03-28 | 13 | - | 
 | 2023-03-27 | 13 | - | 
 | 2023-03-26 | 13 | - | 

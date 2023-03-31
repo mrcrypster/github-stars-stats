@@ -1,6 +1,6 @@
 # openai/signup-forms - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 22 | 28 | 
 | 2023-03-29 | 22 | 28 | 
 | 2023-03-27 | 22 | 28 | 
 | 2023-03-26 | 22 | 28 | 

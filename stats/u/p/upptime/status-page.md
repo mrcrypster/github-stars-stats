@@ -1,6 +1,6 @@
 # upptime/status-page - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 113 | 65 | 
 | 2023-03-28 | 113 | 65 | 
 | 2023-03-27 | 113 | 65 | 
 | 2023-03-26 | 112 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 110 | 63 | 
 | 2023-03-03 | 111 | 63 | 
 | 2023-03-01 | 111 | 63 | 
-| 2023-02-28 | 110 | 63 | 
 

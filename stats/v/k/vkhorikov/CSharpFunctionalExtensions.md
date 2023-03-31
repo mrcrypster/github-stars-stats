@@ -1,10 +1,10 @@
 # vkhorikov/CSharpFunctionalExtensions - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 258
+☋ Forks: 259
 
-★ Stars: 1851
+★ Stars: 1852
 
 [Open repository](https://github.com/vkhorikov/CSharpFunctionalExtensions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1852 | 259 | 
 | 2023-03-28 | 1851 | 258 | 
 | 2023-03-27 | 1850 | 258 | 
 | 2023-03-26 | 1850 | 258 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1831 | 253 | 
 | 2023-03-02 | 1830 | 251 | 
 | 2023-03-01 | 1831 | 251 | 
-| 2023-02-28 | 1830 | 251 | 
 

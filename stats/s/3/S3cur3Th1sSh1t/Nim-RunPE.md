@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/Nim-RunPE - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 216 | 32 | 
 | 2023-03-28 | 216 | 32 | 
 | 2023-03-27 | 216 | 32 | 
 | 2023-03-25 | 216 | 32 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 212 | 32 | 
 | 2023-03-03 | 212 | 32 | 
 | 2023-03-01 | 212 | 32 | 
-| 2023-02-28 | 210 | 32 | 
 

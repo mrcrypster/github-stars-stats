@@ -1,6 +1,6 @@
 # rackspace-infrastructure-automation/aws-terraform-dynamo - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1 | 3 | 
 | 2023-03-28 | 1 | 3 | 
 | 2023-03-26 | 1 | 3 | 
 | 2023-03-25 | 1 | 3 | 

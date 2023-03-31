@@ -1,6 +1,6 @@
 # quchen/articles - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1193 | 93 | 
 | 2023-03-28 | 1193 | 93 | 
 | 2023-03-26 | 1193 | 93 | 
 | 2023-03-25 | 1193 | 93 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1194 | 93 | 
 | 2023-03-03 | 1194 | 93 | 
 | 2023-03-01 | 1194 | 93 | 
-| 2023-02-28 | 1194 | 93 | 
 

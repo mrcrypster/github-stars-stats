@@ -1,10 +1,10 @@
 # WerWolv/Tesla-Menu - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 28
 
-★ Stars: 604
+★ Stars: 609
 
 [Open repository](https://github.com/WerWolv/Tesla-Menu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 609 | 28 | 
 | 2023-03-28 | 604 | 28 | 
 | 2023-03-27 | 603 | 28 | 
 | 2023-03-26 | 603 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 582 | 28 | 
 | 2023-03-02 | 580 | 28 | 
 | 2023-03-01 | 578 | 28 | 
-| 2023-02-28 | 578 | 28 | 
 

@@ -1,6 +1,6 @@
 # lindsayrutter/VisualizationMethods - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 5 | 18 | 
 | 2023-03-29 | 5 | 18 | 
 | 2023-03-28 | 5 | 18 | 
 | 2023-03-26 | 5 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 5 | 18 | 
 | 2023-03-03 | 5 | 18 | 
 | 2023-03-01 | 5 | 18 | 
-| 2023-02-28 | 5 | 18 | 
 

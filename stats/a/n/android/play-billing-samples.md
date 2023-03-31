@@ -1,10 +1,10 @@
 # android/play-billing-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1334
 
-★ Stars: 2180
+★ Stars: 2181
 
 [Open repository](https://github.com/android/play-billing-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2181 | 1334 | 
 | 2023-03-28 | 2180 | 1334 | 
 | 2023-03-27 | 2179 | 1332 | 
 | 2023-03-26 | 2178 | 1334 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2166 | 1332 | 
 | 2023-03-02 | 2165 | 1331 | 
 | 2023-03-01 | 2163 | 1331 | 
-| 2023-02-28 | 2161 | 1331 | 
 

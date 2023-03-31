@@ -1,10 +1,10 @@
 # AcademySoftwareFoundation/EncodingGuidelines - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/AcademySoftwareFoundation/EncodingGuidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 20 | 4 | 
 | 2023-03-28 | 19 | 4 | 
 | 2023-03-27 | 19 | 4 | 
 | 2023-03-26 | 19 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 18 | 4 | 
 | 2023-03-02 | 18 | 4 | 
 | 2023-03-01 | 18 | 4 | 
-| 2023-02-28 | 18 | 4 | 
 

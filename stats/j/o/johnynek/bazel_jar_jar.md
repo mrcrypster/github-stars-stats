@@ -1,6 +1,6 @@
 # johnynek/bazel_jar_jar - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 14 | 24 | 
 | 2023-03-28 | 14 | 24 | 
 | 2023-03-26 | 14 | 24 | 
 | 2023-03-25 | 14 | 24 | 

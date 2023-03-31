@@ -1,8 +1,8 @@
 # netology-code/git-homeworks-neuro-merge - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 214
+☋ Forks: 219
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1 | 219 | 
 | 2023-03-28 | 1 | 214 | 
 | 2023-03-27 | 1 | 215 | 
 | 2023-03-26 | 1 | 216 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1 | 190 | 
 | 2023-03-03 | 1 | 189 | 
 | 2023-03-01 | 1 | 189 | 
-| 2023-02-28 | 1 | 189 | 
 

@@ -1,6 +1,6 @@
 # jOOQ/sakila - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 192 | 81 | 
 | 2023-03-29 | 192 | 81 | 
 | 2023-03-28 | 191 | 80 | 
 | 2023-03-27 | 191 | 80 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 183 | 72 | 
 | 2023-03-03 | 183 | 72 | 
 | 2023-03-01 | 183 | 72 | 
-| 2023-02-28 | 182 | 72 | 
 

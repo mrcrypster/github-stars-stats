@@ -1,6 +1,6 @@
 # aneagoie/keiko-corp - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 1782
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 52 | 1782 | 
 | 2023-03-28 | 52 | 1782 | 
 | 2023-03-27 | 52 | 1782 | 
 | 2023-03-26 | 52 | 1780 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 52 | 1770 | 
 | 2023-03-03 | 52 | 1768 | 
 | 2023-03-02 | 52 | 1766 | 
-| 2023-02-28 | 52 | 1765 | 
 

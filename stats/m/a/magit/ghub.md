@@ -1,6 +1,6 @@
 # magit/ghub - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 146 | 62 | 
 | 2023-03-28 | 146 | 62 | 
 | 2023-03-27 | 146 | 62 | 
 | 2023-03-25 | 146 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 146 | 62 | 
 | 2023-03-02 | 146 | 62 | 
 | 2023-03-01 | 145 | 62 | 
-| 2023-02-28 | 145 | 62 | 
 

@@ -1,8 +1,8 @@
 # evitwilly/Kotlin-Algorithms-and-Design-Patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 70
+☋ Forks: 71
 
 ★ Stars: 571
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 571 | 71 | 
 | 2023-03-28 | 571 | 70 | 
 | 2023-03-27 | 572 | 70 | 
 | 2023-03-25 | 571 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 560 | 68 | 
 | 2023-03-02 | 559 | 68 | 
 | 2023-03-01 | 559 | 68 | 
-| 2023-02-28 | 558 | 68 | 
 

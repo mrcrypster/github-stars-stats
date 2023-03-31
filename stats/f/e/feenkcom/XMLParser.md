@@ -1,6 +1,6 @@
 # feenkcom/XMLParser - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | - | 
+| 2023-03-30 | 1 | - | 
 | 2023-03-29 | 1 | - | 
 | 2023-03-27 | 1 | - | 
 | 2023-03-26 | 1 | - | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | - | - | 
 | 2023-03-03 | - | - | 
 | 2023-03-02 | - | - | 
-| 2023-02-28 | - | - | 
 

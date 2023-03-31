@@ -1,10 +1,10 @@
 # Hesse/gitgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
-★ Stars: 179
+★ Stars: 181
 
 [Open repository](https://github.com/Hesse/gitgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 181 | 11 | 
 | 2023-03-29 | 179 | 11 | 
 | 2023-03-28 | 178 | 11 | 
 | 2023-03-26 | 178 | 11 | 

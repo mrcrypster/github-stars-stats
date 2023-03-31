@@ -1,6 +1,6 @@
 # SRKabir/Rapid_FloodModelling_CNN - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 16 | 13 | 
 | 2023-03-28 | 16 | 13 | 
 | 2023-03-27 | 16 | 13 | 
 | 2023-03-26 | 16 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 16 | 13 | 
 | 2023-03-02 | 16 | 13 | 
 | 2023-03-01 | 16 | 13 | 
-| 2023-02-28 | 16 | 13 | 
 

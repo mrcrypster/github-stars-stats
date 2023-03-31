@@ -1,10 +1,10 @@
 # TigerVNC/tigervnc - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 821
+☋ Forks: 822
 
-★ Stars: 3912
+★ Stars: 3920
 
 [Open repository](https://github.com/TigerVNC/tigervnc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 3920 | 822 | 
 | 2023-03-28 | 3912 | 821 | 
 | 2023-03-27 | 3907 | 821 | 
 | 2023-03-26 | 3905 | 821 | 

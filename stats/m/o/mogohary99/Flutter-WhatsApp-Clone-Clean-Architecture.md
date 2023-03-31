@@ -1,6 +1,6 @@
 # mogohary99/Flutter-WhatsApp-Clone-Clean-Architecture - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 136 | 36 | 
 | 2023-03-28 | 136 | 36 | 
 | 2023-03-27 | 136 | 36 | 
 | 2023-03-25 | 136 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 126 | 35 | 
 | 2023-03-02 | 126 | 35 | 
 | 2023-03-01 | 125 | 35 | 
-| 2023-02-28 | 125 | 35 | 
 

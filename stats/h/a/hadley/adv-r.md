@@ -1,10 +1,10 @@
 # hadley/adv-r - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 1689
+☋ Forks: 1690
 
-★ Stars: 2181
+★ Stars: 2182
 
 [Open repository](https://github.com/hadley/adv-r)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2182 | 1690 | 
 | 2023-03-28 | 2181 | 1689 | 
 | 2023-03-27 | 2181 | 1689 | 
 | 2023-03-25 | 2180 | 1689 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 2174 | 1691 | 
 | 2023-03-02 | 2174 | 1691 | 
 | 2023-03-01 | 2174 | 1691 | 
-| 2023-02-28 | 2173 | 1691 | 
 

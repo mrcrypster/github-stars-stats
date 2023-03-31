@@ -1,6 +1,6 @@
 # pwlive/fullstackwebdevelopment - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 109 | 281 | 
 | 2023-03-28 | 109 | 281 | 
 | 2023-03-27 | 108 | 281 | 
 | 2023-03-26 | 108 | 281 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 90 | 229 | 
 | 2023-03-02 | 88 | 226 | 
 | 2023-03-01 | 87 | 220 | 
-| 2023-02-28 | 85 | 217 | 
 

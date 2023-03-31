@@ -1,10 +1,10 @@
 # janhohenheim/foxtrot - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 14
 
-★ Stars: 161
+★ Stars: 165
 
 [Open repository](https://github.com/janhohenheim/foxtrot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 165 | 14 | 
 | 2023-03-28 | 161 | 14 | 
 | 2023-03-27 | 158 | 13 | 
 | 2023-03-26 | 157 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | 111 | 10 | 
 | 2023-03-02 | 109 | 10 | 
 | 2023-03-01 | 103 | 10 | 
-| 2023-02-28 | 100 | 8 | 
 

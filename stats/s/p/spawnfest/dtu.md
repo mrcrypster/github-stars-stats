@@ -1,6 +1,6 @@
 # spawnfest/dtu - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 5 | - | 
 | 2023-03-29 | 5 | - | 
 | 2023-03-27 | 5 | - | 
 | 2023-03-26 | 5 | - | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 5 | - | 
 | 2023-03-02 | 5 | - | 
 | 2023-03-01 | 5 | - | 
-| 2023-02-28 | 5 | - | 
 

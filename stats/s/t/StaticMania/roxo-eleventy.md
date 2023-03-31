@@ -1,10 +1,10 @@
 # StaticMania/roxo-eleventy - stars & forks statistics
 
-Stats updated on Mar 2023, 27
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 25
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/StaticMania/roxo-eleventy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 29 | 25 | 
 | 2023-03-27 | 28 | 25 | 
 | 2023-03-26 | 28 | 25 | 
 | 2023-03-24 | 28 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 27
 | 2023-03-04 | 27 | 23 | 
 | 2023-03-02 | 27 | 23 | 
 | 2023-03-01 | 27 | 23 | 
-| 2023-02-28 | 26 | 23 | 
 

@@ -1,6 +1,6 @@
 # pulp-platform/fpu_div_sqrt_mvp - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 13 | 12 | 
+| 2023-03-30 | 13 | 12 | 
 | 2023-03-29 | 13 | 12 | 
 | 2023-03-27 | 13 | 12 | 
 | 2023-03-26 | 13 | 12 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 12 | 12 | 
 | 2023-03-02 | 12 | 12 | 
 | 2023-03-01 | 12 | 12 | 
-| 2023-02-28 | 12 | 12 | 
 

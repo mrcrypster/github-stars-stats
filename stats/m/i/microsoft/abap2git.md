@@ -1,6 +1,6 @@
 # microsoft/abap2git - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 6 | 5 | 
 | 2023-03-28 | 6 | 5 | 
 | 2023-03-27 | 6 | 5 | 
 | 2023-03-26 | 6 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 5 | 5 | 
 | 2023-03-02 | 5 | 5 | 
 | 2023-03-01 | 5 | 5 | 
-| 2023-02-28 | 5 | 5 | 
 

@@ -1,6 +1,6 @@
 # nf-core/rnavar - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 15 | 15 | 
 | 2023-03-29 | 15 | 15 | 
 | 2023-03-28 | 15 | 14 | 
 | 2023-03-27 | 15 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 15 | 14 | 
 | 2023-03-02 | 15 | 14 | 
 | 2023-03-01 | 15 | 14 | 
-| 2023-02-28 | 15 | 14 | 
 

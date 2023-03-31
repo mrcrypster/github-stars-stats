@@ -1,6 +1,6 @@
 # witalihirsch/Mono-gtk-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 315 | 18 | 
 | 2023-03-28 | 315 | 18 | 
 | 2023-03-27 | 316 | 18 | 
 | 2023-03-25 | 315 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 308 | 18 | 
 | 2023-03-02 | 307 | 17 | 
 | 2023-03-01 | 308 | 17 | 
-| 2023-02-28 | 308 | 17 | 
 

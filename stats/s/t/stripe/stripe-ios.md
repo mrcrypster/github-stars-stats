@@ -1,10 +1,10 @@
 # stripe/stripe-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 890
+☋ Forks: 892
 
-★ Stars: 1816
+★ Stars: 1818
 
 [Open repository](https://github.com/stripe/stripe-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1818 | 892 | 
 | 2023-03-29 | 1816 | 890 | 
 | 2023-03-27 | 1814 | 889 | 
 | 2023-03-26 | 1813 | 889 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 1801 | 880 | 
 | 2023-03-02 | 1801 | 881 | 
 | 2023-03-01 | 1802 | 881 | 
-| 2023-02-28 | 1802 | 881 | 
 

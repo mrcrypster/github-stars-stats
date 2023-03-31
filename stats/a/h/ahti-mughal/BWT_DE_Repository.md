@@ -1,8 +1,8 @@
 # ahti-mughal/BWT_DE_Repository - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 52
+☋ Forks: 57
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 4 | 57 | 
 | 2023-03-28 | 4 | 52 | 
 | 2023-03-27 | 3 | 51 | 
 | 2023-03-26 | 3 | 50 | 

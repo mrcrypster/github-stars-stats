@@ -1,10 +1,10 @@
 # ethereum/yellowpaper - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 490
 
-★ Stars: 1515
+★ Stars: 1516
 
 [Open repository](https://github.com/ethereum/yellowpaper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 1516 | 490 | 
 | 2023-03-28 | 1515 | 490 | 
 | 2023-03-27 | 1513 | 489 | 
 | 2023-03-25 | 1513 | 489 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 1507 | 489 | 
 | 2023-03-03 | 1506 | 489 | 
 | 2023-03-02 | 1506 | 489 | 
-| 2023-02-28 | 1506 | 489 | 
 

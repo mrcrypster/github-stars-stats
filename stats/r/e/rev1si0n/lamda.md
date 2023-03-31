@@ -1,10 +1,10 @@
 # rev1si0n/lamda - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 404
 
-★ Stars: 2527
+★ Stars: 2534
 
 [Open repository](https://github.com/rev1si0n/lamda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 2534 | 404 | 
 | 2023-03-29 | 2527 | 404 | 
 | 2023-03-27 | 2519 | 403 | 
 | 2023-03-26 | 2508 | 402 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-03 | 2337 | 365 | 
 | 2023-03-02 | 2321 | 362 | 
 | 2023-03-01 | 2311 | 361 | 
-| 2023-02-28 | 2304 | 360 | 
 

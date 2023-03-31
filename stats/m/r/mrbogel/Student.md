@@ -1,8 +1,8 @@
 # mrbogel/Student - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | - | 154 | 
 | 2023-03-28 | - | 153 | 
 | 2023-03-27 | - | 153 | 
 | 2023-03-25 | - | 153 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-03 | - | 153 | 
 | 2023-03-02 | - | 153 | 
 | 2023-03-01 | - | 153 | 
-| 2023-02-28 | - | 153 | 
 

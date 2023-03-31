@@ -1,10 +1,10 @@
 # endeve/thornado - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/endeve/thornado)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-30 | 11 | 8 | 
 | 2023-03-28 | 10 | 8 | 
 | 2023-03-27 | 10 | 8 | 
 | 2023-03-25 | 10 | 8 | 
