@@ -1,6 +1,6 @@
 # abrochard/kubel - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 233 | 36 | 
 | 2023-03-29 | 233 | 36 | 
 | 2023-03-27 | 233 | 36 | 
 | 2023-03-26 | 233 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 231 | 36 | 
 | 2023-03-04 | 231 | 36 | 
 | 2023-03-03 | 231 | 36 | 
-| 2023-03-01 | 231 | 36 | 
 

@@ -1,6 +1,6 @@
 # SpinalHDL/NaxRiscv - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 144 | 21 | 
 | 2023-03-29 | 144 | 21 | 
 | 2023-03-27 | 144 | 21 | 
 | 2023-03-26 | 144 | 21 | 

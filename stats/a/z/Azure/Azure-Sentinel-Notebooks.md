@@ -1,10 +1,10 @@
 # Azure/Azure-Sentinel-Notebooks - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 138
 
-★ Stars: 409
+★ Stars: 413
 
 [Open repository](https://github.com/Azure/Azure-Sentinel-Notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 413 | 138 | 
 | 2023-03-29 | 409 | 138 | 
 | 2023-03-27 | 406 | 138 | 
 | 2023-03-26 | 405 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 393 | 137 | 
 | 2023-03-03 | 393 | 137 | 
 | 2023-03-02 | 393 | 137 | 
-| 2023-03-01 | 393 | 136 | 
 

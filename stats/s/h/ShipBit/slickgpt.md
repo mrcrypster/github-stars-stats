@@ -1,10 +1,10 @@
 # ShipBit/slickgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 16
 
-★ Stars: 153
+★ Stars: 165
 
 [Open repository](https://github.com/ShipBit/slickgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 165 | 16 | 
 | 2023-03-30 | 153 | 16 | 
 | 2023-03-29 | 141 | 16 | 
 | 2023-03-28 | 129 | 15 | 

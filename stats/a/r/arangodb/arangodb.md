@@ -1,10 +1,10 @@
 # arangodb/arangodb - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 808
 
-★ Stars: 12871
+★ Stars: 12876
 
 [Open repository](https://github.com/arangodb/arangodb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 12876 | 808 | 
 | 2023-03-29 | 12871 | 808 | 
 | 2023-03-27 | 12869 | 808 | 
 | 2023-03-26 | 12862 | 808 | 

@@ -1,6 +1,6 @@
 # adjust/pg-telemetry - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 18 | 6 | 
 | 2023-03-29 | 18 | 6 | 
 | 2023-03-27 | 18 | 6 | 
 | 2023-03-26 | 18 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 18 | 6 | 
 | 2023-03-04 | 18 | 6 | 
 | 2023-03-03 | 17 | 6 | 
-| 2023-03-01 | 17 | 6 | 
 

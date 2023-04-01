@@ -1,6 +1,6 @@
 # cube0x0/KrbRelay - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 713 | 100 | 
 | 2023-03-29 | 713 | 100 | 
 | 2023-03-27 | 711 | 100 | 
 | 2023-03-26 | 711 | 101 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 704 | 101 | 
 | 2023-03-03 | 704 | 101 | 
 | 2023-03-02 | 704 | 101 | 
-| 2023-03-01 | 704 | 101 | 
 

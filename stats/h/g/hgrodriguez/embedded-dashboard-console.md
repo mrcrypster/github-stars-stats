@@ -1,6 +1,6 @@
 # hgrodriguez/embedded-dashboard-console - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 15 | 1 | 
 | 2023-03-30 | 15 | 1 | 
 | 2023-03-29 | 15 | 1 | 
 | 2023-03-27 | 15 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 15 | 1 | 
 | 2023-03-03 | 15 | 1 | 
 | 2023-03-02 | 15 | 1 | 
-| 2023-03-01 | 15 | 1 | 
 

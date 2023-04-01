@@ -1,6 +1,6 @@
 # JamesHWade/gpttools - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 197 | 11 | 
 | 2023-03-30 | 197 | 11 | 
 | 2023-03-29 | 189 | 11 | 
 | 2023-03-28 | 189 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 157 | 5 | 
 | 2023-03-03 | 157 | 5 | 
 | 2023-03-02 | 157 | 5 | 
-| 2023-03-01 | 156 | 5 | 
 

@@ -1,10 +1,10 @@
 # rasbt/deeplearning-models - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 3870
+☋ Forks: 3872
 
-★ Stars: 15667
+★ Stars: 15674
 
 [Open repository](https://github.com/rasbt/deeplearning-models)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 15674 | 3872 | 
 | 2023-03-29 | 15667 | 3870 | 
 | 2023-03-27 | 15663 | 3865 | 
 | 2023-03-26 | 15662 | 3865 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 15637 | 3854 | 
 | 2023-03-04 | 15638 | 3853 | 
 | 2023-03-02 | 15631 | 3851 | 
-| 2023-03-01 | 15630 | 3851 | 
 

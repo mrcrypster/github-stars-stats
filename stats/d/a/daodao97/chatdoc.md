@@ -1,10 +1,10 @@
 # daodao97/chatdoc - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 17
 
-★ Stars: 67
+★ Stars: 85
 
 [Open repository](https://github.com/daodao97/chatdoc)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 85 | 17 | 
 | 2023-03-30 | 67 | 17 | 
 

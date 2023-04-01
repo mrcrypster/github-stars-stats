@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 31
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 2031
+★ Stars: 2064
 
 [Open repository](https://github.com/di-sukharev/opencommit)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 2031 | 90 | 
+| 2023-03-31 | 2064 | 91 | 
 | 2023-03-30 | 1869 | 85 | 
 | 2023-03-29 | 1715 | 78 | 
 | 2023-03-28 | 1307 | 57 | 

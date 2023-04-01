@@ -1,8 +1,8 @@
 # odriverobotics/ODriveHardware - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 393
+☋ Forks: 394
 
 ★ Stars: 774
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 774 | 394 | 
 | 2023-03-29 | 774 | 393 | 
 | 2023-03-27 | 774 | 393 | 
 | 2023-03-26 | 774 | 393 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 768 | 391 | 
 | 2023-03-03 | 768 | 391 | 
 | 2023-03-02 | 769 | 391 | 
-| 2023-03-01 | 769 | 391 | 
 

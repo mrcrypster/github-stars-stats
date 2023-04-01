@@ -1,10 +1,10 @@
 # CliMA/ClimaAtmos.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/CliMA/ClimaAtmos.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 40 | 5 | 
 | 2023-03-30 | 38 | 5 | 
 | 2023-03-29 | 38 | 5 | 
 | 2023-03-28 | 38 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 36 | 4 | 
 | 2023-03-03 | 36 | 4 | 
 | 2023-03-02 | 36 | 4 | 
-| 2023-03-01 | 36 | 4 | 
 

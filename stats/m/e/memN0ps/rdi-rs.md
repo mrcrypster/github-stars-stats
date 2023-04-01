@@ -1,10 +1,10 @@
 # memN0ps/rdi-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/memN0ps/rdi-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 96 | 11 | 
 | 2023-03-28 | 94 | 11 | 
 | 2023-03-27 | 93 | 11 | 
 | 2023-03-25 | 92 | 11 | 

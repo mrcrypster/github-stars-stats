@@ -1,8 +1,8 @@
 # ganleiboy/CMakeTutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 12 | 11 | 
 | 2023-03-28 | 12 | 10 | 
 | 2023-03-27 | 12 | 10 | 
 | 2023-03-26 | 10 | 10 | 

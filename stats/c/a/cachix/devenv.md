@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 31
 
 ☋ Forks: 96
 
-★ Stars: 1826
+★ Stars: 1836
 
 [Open repository](https://github.com/cachix/devenv)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 1826 | 96 | 
+| 2023-03-31 | 1836 | 96 | 
 | 2023-03-29 | 1822 | 96 | 
 | 2023-03-27 | 1820 | 96 | 
 | 2023-03-26 | 1818 | 96 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-04 | 1690 | 82 | 
 | 2023-03-03 | 1678 | 82 | 
 | 2023-03-02 | 1671 | 80 | 
-| 2023-03-01 | 1668 | 80 | 
 

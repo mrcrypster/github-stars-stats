@@ -1,10 +1,10 @@
 # freescout-helpdesk/freescout - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 353
+☋ Forks: 352
 
-★ Stars: 1933
+★ Stars: 1941
 
 [Open repository](https://github.com/freescout-helpdesk/freescout)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1941 | 352 | 
 | 2023-03-30 | 1933 | 353 | 
 | 2023-03-28 | 1929 | 353 | 
 | 2023-03-27 | 1928 | 353 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 1897 | 348 | 
 | 2023-03-03 | 1896 | 348 | 
 | 2023-03-02 | 1895 | 348 | 
-| 2023-03-01 | 1892 | 347 | 
 

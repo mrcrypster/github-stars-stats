@@ -1,10 +1,10 @@
 # iilegacyyii/ThreadlessInject-BOF - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 22
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/iilegacyyii/ThreadlessInject-BOF)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 180 | 22 | 
 | 2023-03-29 | 179 | 22 | 
 | 2023-03-27 | 179 | 22 | 
 | 2023-03-26 | 178 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 171 | 20 | 
 | 2023-03-03 | 170 | 20 | 
 | 2023-03-02 | 170 | 20 | 
-| 2023-03-01 | 167 | 20 | 
 

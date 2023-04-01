@@ -1,10 +1,10 @@
 # cerbero90/enum - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/cerbero90/enum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 176 | 1 | 
 | 2023-03-29 | 175 | 1 | 
 | 2023-03-27 | 175 | 1 | 
 | 2023-03-26 | 175 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 172 | 1 | 
 | 2023-03-04 | 172 | 1 | 
 | 2023-03-03 | 172 | 1 | 
-| 2023-03-02 | 172 | 1 | 
 

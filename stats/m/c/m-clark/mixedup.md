@@ -1,6 +1,6 @@
 # m-clark/mixedup - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 52 | 2 | 
 | 2023-03-29 | 52 | 2 | 
 | 2023-03-28 | 52 | 2 | 
 | 2023-03-26 | 52 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 52 | 2 | 
 | 2023-03-04 | 52 | 2 | 
 | 2023-03-03 | 52 | 2 | 
-| 2023-03-01 | 52 | 2 | 
 

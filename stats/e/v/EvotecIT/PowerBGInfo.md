@@ -1,10 +1,10 @@
 # EvotecIT/PowerBGInfo - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/EvotecIT/PowerBGInfo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 49 | 4 | 
 | 2023-03-29 | 48 | 4 | 
 | 2023-03-27 | 48 | 4 | 
 | 2023-03-26 | 48 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 44 | 3 | 
 | 2023-03-03 | 44 | 3 | 
 | 2023-03-02 | 43 | 3 | 
-| 2023-03-01 | 43 | 3 | 
 

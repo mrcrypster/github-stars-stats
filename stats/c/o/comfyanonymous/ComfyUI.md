@@ -1,10 +1,10 @@
 # comfyanonymous/ComfyUI - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 323
+☋ Forks: 334
 
-★ Stars: 3838
+★ Stars: 4002
 
 [Open repository](https://github.com/comfyanonymous/ComfyUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4002 | 334 | 
 | 2023-03-29 | 3838 | 323 | 
 | 2023-03-27 | 3716 | 315 | 
 | 2023-03-26 | 3586 | 305 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 599 | 43 | 
 | 2023-03-04 | 555 | 38 | 
 | 2023-03-03 | 521 | 35 | 
-| 2023-03-02 | 511 | 35 | 
 

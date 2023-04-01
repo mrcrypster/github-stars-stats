@@ -1,10 +1,10 @@
 # pop-os/gtk-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 81
 
-★ Stars: 739
+★ Stars: 741
 
 [Open repository](https://github.com/pop-os/gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 741 | 81 | 
 | 2023-03-29 | 739 | 81 | 
 | 2023-03-27 | 739 | 81 | 
 | 2023-03-26 | 739 | 81 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 734 | 81 | 
 | 2023-03-04 | 735 | 81 | 
 | 2023-03-02 | 733 | 81 | 
-| 2023-03-01 | 733 | 81 | 
 

@@ -1,10 +1,10 @@
 # pedrib/PoC - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 164
 
-★ Stars: 698
+★ Stars: 699
 
 [Open repository](https://github.com/pedrib/PoC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 699 | 164 | 
 | 2023-03-29 | 698 | 164 | 
 | 2023-03-27 | 698 | 164 | 
 | 2023-03-26 | 698 | 164 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 690 | 163 | 
 | 2023-03-03 | 690 | 163 | 
 | 2023-03-02 | 690 | 163 | 
-| 2023-03-01 | 690 | 163 | 
 

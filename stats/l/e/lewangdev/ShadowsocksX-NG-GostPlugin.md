@@ -1,10 +1,10 @@
 # lewangdev/ShadowsocksX-NG-GostPlugin - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 14
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/lewangdev/ShadowsocksX-NG-GostPlugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 78 | 14 | 
 | 2023-03-29 | 76 | 14 | 
 | 2023-03-27 | 76 | 14 | 
 | 2023-03-26 | 74 | 13 | 

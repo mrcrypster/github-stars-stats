@@ -1,10 +1,10 @@
 # ChilliCream/graphql-platform - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 633
 
-★ Stars: 4313
+★ Stars: 4318
 
 [Open repository](https://github.com/ChilliCream/graphql-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4318 | 633 | 
 | 2023-03-29 | 4313 | 633 | 
 | 2023-03-28 | 4312 | 633 | 
 | 2023-03-27 | 4311 | 631 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 4253 | 620 | 
 | 2023-03-03 | 4253 | 620 | 
 | 2023-03-02 | 4252 | 617 | 
-| 2023-03-01 | 4252 | 618 | 
 

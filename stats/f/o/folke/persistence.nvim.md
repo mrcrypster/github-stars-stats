@@ -1,6 +1,6 @@
 # folke/persistence.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 294 | 16 | 
 | 2023-03-30 | 294 | 16 | 
 | 2023-03-29 | 294 | 16 | 
 | 2023-03-27 | 294 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 266 | 14 | 
 | 2023-03-03 | 262 | 14 | 
 | 2023-03-02 | 261 | 14 | 
-| 2023-03-01 | 260 | 14 | 
 

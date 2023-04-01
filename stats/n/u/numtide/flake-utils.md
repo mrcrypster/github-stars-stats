@@ -1,10 +1,10 @@
 # numtide/flake-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 61
 
-★ Stars: 611
+★ Stars: 613
 
 [Open repository](https://github.com/numtide/flake-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 613 | 61 | 
 | 2023-03-29 | 611 | 61 | 
 | 2023-03-28 | 611 | 61 | 
 | 2023-03-26 | 612 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 590 | 59 | 
 | 2023-03-04 | 590 | 59 | 
 | 2023-03-03 | 589 | 58 | 
-| 2023-03-01 | 589 | 58 | 
 

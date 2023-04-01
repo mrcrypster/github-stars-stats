@@ -1,10 +1,10 @@
 # pubnub/objective-c - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 196
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/pubnub/objective-c)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 178 | 196 | 
 | 2023-03-29 | 177 | 196 | 
 | 2023-03-28 | 177 | 196 | 
 | 2023-03-26 | 177 | 196 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 177 | 195 | 
 | 2023-03-04 | 177 | 195 | 
 | 2023-03-03 | 177 | 195 | 
-| 2023-03-01 | 177 | 195 | 
 

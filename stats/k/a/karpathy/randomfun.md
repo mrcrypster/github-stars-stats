@@ -1,10 +1,10 @@
 # karpathy/randomfun - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 91
 
-★ Stars: 461
+★ Stars: 463
 
 [Open repository](https://github.com/karpathy/randomfun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 463 | 91 | 
 | 2023-03-29 | 461 | 91 | 
 | 2023-03-27 | 460 | 91 | 
 | 2023-03-26 | 457 | 91 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 453 | 90 | 
 | 2023-03-04 | 452 | 90 | 
 | 2023-03-02 | 452 | 90 | 
-| 2023-03-01 | 452 | 90 | 
 

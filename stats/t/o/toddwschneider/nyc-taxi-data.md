@@ -1,6 +1,6 @@
 # toddwschneider/nyc-taxi-data - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 567
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1906 | 567 | 
 | 2023-03-29 | 1906 | 567 | 
 | 2023-03-27 | 1906 | 566 | 
 | 2023-03-26 | 1906 | 566 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1899 | 566 | 
 | 2023-03-04 | 1898 | 566 | 
 | 2023-03-03 | 1898 | 566 | 
-| 2023-03-02 | 1898 | 566 | 
 

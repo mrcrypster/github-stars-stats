@@ -1,10 +1,10 @@
 # face-hh/discordmium - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 16
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/face-hh/discordmium)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 64 | 16 | 
 | 2023-03-29 | 65 | 16 | 
 | 2023-03-27 | 65 | 16 | 
 | 2023-03-26 | 65 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 64 | 17 | 
 | 2023-03-03 | 64 | 17 | 
 | 2023-03-02 | 64 | 17 | 
-| 2023-03-01 | 64 | 17 | 
 

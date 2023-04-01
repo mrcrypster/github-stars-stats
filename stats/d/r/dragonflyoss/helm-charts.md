@@ -1,10 +1,10 @@
 # dragonflyoss/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 16
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/dragonflyoss/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 12 | 16 | 
 | 2023-03-29 | 11 | 16 | 
 | 2023-03-28 | 11 | 16 | 
 | 2023-03-26 | 11 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 11 | 16 | 
 | 2023-03-04 | 11 | 15 | 
 | 2023-03-02 | 11 | 15 | 
-| 2023-03-01 | 11 | 15 | 
 

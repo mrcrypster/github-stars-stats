@@ -1,10 +1,10 @@
 # oziavci/cat-dog-feeder-wifi - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/oziavci/cat-dog-feeder-wifi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 29 | 2 | 
 | 2023-03-29 | 28 | 2 | 
 | 2023-03-27 | 28 | 2 | 
 | 2023-03-26 | 28 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 27 | 2 | 
 | 2023-03-04 | 27 | 2 | 
 | 2023-03-03 | 26 | 2 | 
-| 2023-03-02 | 26 | 2 | 
 

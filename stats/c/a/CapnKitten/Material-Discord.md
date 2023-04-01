@@ -1,6 +1,6 @@
 # CapnKitten/Material-Discord - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 213 | 85 | 
 | 2023-03-29 | 213 | 85 | 
 | 2023-03-27 | 213 | 83 | 
 | 2023-03-26 | 213 | 81 | 

@@ -1,10 +1,10 @@
 # sewenew/redis-plus-plus - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 277
 
-★ Stars: 1097
+★ Stars: 1099
 
 [Open repository](https://github.com/sewenew/redis-plus-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1099 | 277 | 
 | 2023-03-29 | 1097 | 277 | 
 | 2023-03-27 | 1097 | 275 | 
 | 2023-03-26 | 1095 | 275 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1074 | 275 | 
 | 2023-03-03 | 1072 | 274 | 
 | 2023-03-02 | 1071 | 274 | 
-| 2023-03-01 | 1067 | 274 | 
 

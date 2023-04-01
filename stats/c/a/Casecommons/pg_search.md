@@ -1,10 +1,10 @@
 # Casecommons/pg_search - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 351
 
-★ Stars: 1053
+★ Stars: 1055
 
 [Open repository](https://github.com/Casecommons/pg_search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1055 | 351 | 
 | 2023-03-29 | 1053 | 351 | 
 | 2023-03-27 | 1051 | 351 | 
 | 2023-03-26 | 1051 | 351 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1036 | 348 | 
 | 2023-03-03 | 1036 | 348 | 
 | 2023-03-02 | 1036 | 348 | 
-| 2023-03-01 | 1036 | 348 | 
 

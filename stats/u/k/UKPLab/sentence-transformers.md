@@ -1,10 +1,10 @@
 # UKPLab/sentence-transformers - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1904
+☋ Forks: 1907
 
-★ Stars: 9833
+★ Stars: 9851
 
 [Open repository](https://github.com/UKPLab/sentence-transformers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 9851 | 1907 | 
 | 2023-03-29 | 9833 | 1904 | 
 | 2023-03-27 | 9814 | 1903 | 
 | 2023-03-26 | 9796 | 1901 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 9572 | 1870 | 
 | 2023-03-04 | 9570 | 1869 | 
 | 2023-03-03 | 9557 | 1869 | 
-| 2023-03-01 | 9543 | 1868 | 
 

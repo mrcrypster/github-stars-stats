@@ -1,10 +1,10 @@
 # charmbracelet/log - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 24
+☋ Forks: 27
 
-★ Stars: 1116
+★ Stars: 1139
 
 [Open repository](https://github.com/charmbracelet/log)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1139 | 27 | 
 | 2023-03-29 | 1116 | 24 | 
 | 2023-03-27 | 1099 | 22 | 
 | 2023-03-26 | 1091 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 956 | 18 | 
 | 2023-03-04 | 946 | 18 | 
 | 2023-03-03 | 938 | 18 | 
-| 2023-03-01 | 924 | 18 | 
 

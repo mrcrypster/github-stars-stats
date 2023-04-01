@@ -1,6 +1,6 @@
 # scribe-public/gitgat - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 225 | 12 | 
 | 2023-03-29 | 225 | 12 | 
 | 2023-03-27 | 225 | 12 | 
 | 2023-03-26 | 225 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 217 | 11 | 
 | 2023-03-03 | 217 | 11 | 
 | 2023-03-02 | 217 | 11 | 
-| 2023-03-01 | 217 | 11 | 
 

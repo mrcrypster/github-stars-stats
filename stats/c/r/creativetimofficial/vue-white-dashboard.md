@@ -1,0 +1,17 @@
+# creativetimofficial/vue-white-dashboard - stars & forks statistics
+
+Stats updated on Mar 2023, 31
+
+☋ Forks: 68
+
+★ Stars: 45
+
+[Open repository](https://github.com/creativetimofficial/vue-white-dashboard)
+
+[Open detailed stats for creativetimofficial/vue-white-dashboard](https://reviewgithub.com/rep/creativetimofficial/vue-white-dashboard)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-31 | 45 | 68 | 
+

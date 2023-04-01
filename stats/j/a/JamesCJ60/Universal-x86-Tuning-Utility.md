@@ -1,10 +1,10 @@
 # JamesCJ60/Universal-x86-Tuning-Utility - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 8
 
-★ Stars: 329
+★ Stars: 333
 
 [Open repository](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 333 | 8 | 
 | 2023-03-29 | 329 | 8 | 
 | 2023-03-28 | 325 | 8 | 
 | 2023-03-26 | 321 | 8 | 

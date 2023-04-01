@@ -1,10 +1,10 @@
 # tbanel/orgaggregate - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/tbanel/orgaggregate)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 140 | 6 | 
 | 2023-03-30 | 139 | 6 | 
 

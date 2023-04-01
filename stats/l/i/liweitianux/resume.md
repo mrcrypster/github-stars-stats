@@ -1,10 +1,10 @@
 # liweitianux/resume - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 97
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/liweitianux/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 332 | 97 | 
 | 2023-03-29 | 331 | 97 | 
 | 2023-03-27 | 331 | 97 | 
 | 2023-03-26 | 330 | 97 | 

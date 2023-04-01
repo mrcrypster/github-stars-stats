@@ -1,10 +1,10 @@
 # rust-lang/nomicon - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 221
 
-★ Stars: 1324
+★ Stars: 1325
 
 [Open repository](https://github.com/rust-lang/nomicon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1325 | 221 | 
 | 2023-03-29 | 1324 | 221 | 
 | 2023-03-28 | 1324 | 221 | 
 | 2023-03-26 | 1323 | 221 | 

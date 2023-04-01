@@ -1,10 +1,10 @@
 # ComplianceAsCode/content - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 604
 
-★ Stars: 1781
+★ Stars: 1782
 
 [Open repository](https://github.com/ComplianceAsCode/content)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1782 | 604 | 
 | 2023-03-29 | 1781 | 604 | 
 | 2023-03-27 | 1780 | 603 | 
 | 2023-03-25 | 1779 | 603 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1762 | 601 | 
 | 2023-03-04 | 1762 | 601 | 
 | 2023-03-03 | 1763 | 601 | 
-| 2023-03-01 | 1762 | 601 | 
 

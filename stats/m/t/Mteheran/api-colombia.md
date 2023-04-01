@@ -1,10 +1,10 @@
 # Mteheran/api-colombia - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 13
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/Mteheran/api-colombia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 110 | 13 | 
 | 2023-03-29 | 109 | 13 | 
 | 2023-03-27 | 109 | 13 | 
 | 2023-03-26 | 109 | 13 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 31
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/kaarmu/typst.vim)
 
@@ -13,5 +13,5 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 16 | 5 | 
+| 2023-03-31 | 18 | 6 | 
 

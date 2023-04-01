@@ -1,10 +1,10 @@
 # ProgrammingHero1/donate-today - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 18
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/ProgrammingHero1/donate-today)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 49 | 18 | 
 | 2023-03-29 | 50 | 18 | 
 | 2023-03-27 | 50 | 18 | 
 | 2023-03-26 | 50 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 49 | 18 | 
 | 2023-03-04 | 49 | 18 | 
 | 2023-03-02 | 49 | 18 | 
-| 2023-03-01 | 49 | 18 | 
 

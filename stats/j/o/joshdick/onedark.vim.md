@@ -1,10 +1,10 @@
 # joshdick/onedark.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 538
 
-★ Stars: 3688
+★ Stars: 3692
 
 [Open repository](https://github.com/joshdick/onedark.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3692 | 538 | 
 | 2023-03-29 | 3688 | 538 | 
 | 2023-03-27 | 3688 | 538 | 
 | 2023-03-26 | 3688 | 538 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3674 | 537 | 
 | 2023-03-04 | 3674 | 537 | 
 | 2023-03-03 | 3672 | 537 | 
-| 2023-03-02 | 3672 | 539 | 
 

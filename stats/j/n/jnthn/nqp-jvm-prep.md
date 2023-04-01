@@ -1,6 +1,6 @@
 # jnthn/nqp-jvm-prep - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 16 | 4 | 
 | 2023-03-28 | 16 | 4 | 
 | 2023-03-27 | 16 | 4 | 
 | 2023-03-25 | 16 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 16 | 4 | 
 | 2023-03-04 | 16 | 4 | 
 | 2023-03-02 | 16 | 4 | 
-| 2023-03-01 | 16 | 4 | 
 

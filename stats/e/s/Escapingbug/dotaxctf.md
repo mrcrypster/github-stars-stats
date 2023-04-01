@@ -1,10 +1,10 @@
 # Escapingbug/dotaxctf - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 4
+☋ Forks: 6
 
-★ Stars: 23
+★ Stars: 26
 
 [Open repository](https://github.com/Escapingbug/dotaxctf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 26 | 6 | 
 | 2023-03-29 | 23 | 4 | 
 | 2023-03-28 | 21 | 3 | 
 | 2023-03-26 | 20 | 3 | 

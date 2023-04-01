@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 31
 
 ☋ Forks: 624
 
-★ Stars: 2829
+★ Stars: 2828
 
 [Open repository](https://github.com/phhusson/treble_experimentations)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 2829 | 624 | 
+| 2023-03-31 | 2828 | 624 | 
 | 2023-03-29 | 2825 | 623 | 
 | 2023-03-28 | 2822 | 623 | 
 | 2023-03-27 | 2821 | 623 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-04 | 2793 | 621 | 
 | 2023-03-03 | 2791 | 621 | 
 | 2023-03-02 | 2790 | 621 | 
-| 2023-03-01 | 2788 | 620 | 
 

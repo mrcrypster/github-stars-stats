@@ -1,10 +1,10 @@
 # xenodium/chatgpt-shell - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 11
+☋ Forks: 13
 
-★ Stars: 206
+★ Stars: 217
 
 [Open repository](https://github.com/xenodium/chatgpt-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 217 | 13 | 
 | 2023-03-30 | 206 | 11 | 
 | 2023-03-29 | 201 | 11 | 
 | 2023-03-28 | 192 | 11 | 

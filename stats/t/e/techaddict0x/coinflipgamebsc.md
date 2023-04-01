@@ -1,6 +1,6 @@
 # techaddict0x/coinflipgamebsc - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 5 | 13 | 
 | 2023-03-29 | 5 | 13 | 
 | 2023-03-28 | 5 | 12 | 
 | 2023-03-26 | 4 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3 | 10 | 
 | 2023-03-04 | 3 | 10 | 
 | 2023-03-02 | 2 | 10 | 
-| 2023-03-01 | 2 | 10 | 
 

@@ -1,10 +1,10 @@
 # XiaoMiku01/fansMedalHelper - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 546
+☋ Forks: 547
 
-★ Stars: 798
+★ Stars: 800
 
 [Open repository](https://github.com/XiaoMiku01/fansMedalHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 800 | 547 | 
 | 2023-03-29 | 798 | 546 | 
 | 2023-03-28 | 798 | 545 | 
 | 2023-03-26 | 796 | 543 | 

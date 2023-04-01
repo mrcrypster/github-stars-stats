@@ -1,8 +1,8 @@
 # osammy820/Software_Engineering_Level_300 - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1101
+☋ Forks: 1099
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 29 | 1099 | 
 | 2023-03-28 | 29 | 1101 | 
 | 2023-03-27 | 29 | 1102 | 
 | 2023-03-26 | 29 | 1102 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 28 | 1100 | 
 | 2023-03-03 | 28 | 1100 | 
 | 2023-03-02 | 28 | 1100 | 
-| 2023-03-01 | 28 | 1099 | 
 

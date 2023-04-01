@@ -1,10 +1,10 @@
 # Xilinx/nanotube - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 78
+★ Stars: 80
 
 [Open repository](https://github.com/Xilinx/nanotube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 80 | 5 | 
 | 2023-03-30 | 78 | 5 | 
 | 2023-03-28 | 61 | 5 | 
 | 2023-03-27 | 56 | 5 | 

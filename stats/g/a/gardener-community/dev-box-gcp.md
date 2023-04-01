@@ -1,10 +1,10 @@
 # gardener-community/dev-box-gcp - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/gardener-community/dev-box-gcp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | 1 | 
 | 2023-03-29 | - | 1 | 
 | 2023-03-28 | - | 1 | 
 | 2023-03-26 | - | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | - | 1 | 
 | 2023-03-04 | - | 1 | 
 | 2023-03-02 | - | 1 | 
-| 2023-03-01 | - | 1 | 
 

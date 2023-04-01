@@ -1,6 +1,6 @@
 # occidere/TIL - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 56 | 1 | 
+| 2023-03-31 | 56 | 1 | 
 | 2023-03-30 | 56 | 1 | 
 | 2023-03-29 | 55 | 1 | 
 | 2023-03-27 | 55 | 1 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 53 | 1 | 
 | 2023-03-03 | 53 | 1 | 
 | 2023-03-02 | 53 | 1 | 
-| 2023-03-01 | 53 | 1 | 
 

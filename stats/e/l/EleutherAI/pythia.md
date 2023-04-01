@@ -1,10 +1,10 @@
 # EleutherAI/pythia - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 22
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/EleutherAI/pythia)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 279 | 22 | 
 | 2023-03-30 | 278 | 22 | 
 

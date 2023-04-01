@@ -1,6 +1,6 @@
 # getty-zig/json - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 39 | 5 | 
 | 2023-03-29 | 39 | 5 | 
 | 2023-03-27 | 39 | 5 | 
 | 2023-03-26 | 39 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 39 | 4 | 
 | 2023-03-03 | 39 | 4 | 
 | 2023-03-02 | 39 | 4 | 
-| 2023-03-01 | 39 | 4 | 
 

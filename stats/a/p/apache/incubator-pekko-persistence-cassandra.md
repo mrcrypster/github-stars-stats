@@ -1,6 +1,6 @@
 # apache/incubator-pekko-persistence-cassandra - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 7 | 3 | 
 | 2023-03-29 | 7 | 3 | 
 | 2023-03-27 | 7 | 4 | 
 | 2023-03-26 | 7 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 6 | 4 | 
 | 2023-03-03 | 6 | 4 | 
 | 2023-03-02 | 5 | 4 | 
-| 2023-03-01 | 5 | 4 | 
 

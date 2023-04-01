@@ -1,6 +1,6 @@
 # JoelGMSec/PSAsyncShell - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 131 | 20 | 
 | 2023-03-29 | 131 | 20 | 
 | 2023-03-27 | 130 | 20 | 
 | 2023-03-26 | 130 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 130 | 19 | 
 | 2023-03-03 | 130 | 19 | 
 | 2023-03-02 | 130 | 19 | 
-| 2023-03-01 | 130 | 19 | 
 

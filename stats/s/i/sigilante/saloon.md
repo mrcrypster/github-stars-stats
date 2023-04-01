@@ -1,10 +1,10 @@
 # sigilante/saloon - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/sigilante/saloon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 13 | 1 | 
 | 2023-03-28 | 14 | 1 | 
 | 2023-03-27 | 14 | 1 | 
 | 2023-03-26 | 14 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 14 | 1 | 
 | 2023-03-03 | 14 | 1 | 
 | 2023-03-02 | 14 | 1 | 
-| 2023-03-01 | 14 | 1 | 
 

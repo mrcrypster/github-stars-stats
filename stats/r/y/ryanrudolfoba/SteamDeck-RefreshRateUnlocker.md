@@ -1,10 +1,10 @@
 # ryanrudolfoba/SteamDeck-RefreshRateUnlocker - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 43
+★ Stars: 47
 
 [Open repository](https://github.com/ryanrudolfoba/SteamDeck-RefreshRateUnlocker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 47 | 1 | 
 | 2023-03-29 | 43 | 1 | 
 | 2023-03-28 | 43 | 1 | 
 | 2023-03-26 | 43 | 1 | 

@@ -1,10 +1,10 @@
 # cisagov/decider - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 78
+☋ Forks: 80
 
-★ Stars: 749
+★ Stars: 759
 
 [Open repository](https://github.com/cisagov/decider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 759 | 80 | 
 | 2023-03-29 | 749 | 78 | 
 | 2023-03-27 | 738 | 76 | 
 | 2023-03-26 | 729 | 74 | 

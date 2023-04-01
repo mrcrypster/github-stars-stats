@@ -1,6 +1,6 @@
 # elastic/integrations - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 119 | 265 | 
 | 2023-03-30 | 119 | 265 | 
 | 2023-03-29 | 119 | 264 | 
 | 2023-03-28 | 119 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 119 | 255 | 
 | 2023-03-03 | 119 | 255 | 
 | 2023-03-02 | 119 | 255 | 
-| 2023-03-01 | 119 | 252 | 
 

@@ -1,6 +1,6 @@
 # acmpesuecc/pong-with-godot - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | - | 9 | 
 | 2023-03-28 | - | 9 | 
 | 2023-03-27 | - | 9 | 
 | 2023-03-26 | - | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | - | 9 | 
 | 2023-03-04 | - | 9 | 
 | 2023-03-03 | - | 9 | 
-| 2023-03-01 | - | 9 | 
 

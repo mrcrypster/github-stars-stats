@@ -1,6 +1,6 @@
 # clojure-goes-fast/clj-async-profiler - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 327 | 12 | 
 | 2023-03-30 | 327 | 12 | 
 | 2023-03-29 | 327 | 12 | 
 | 2023-03-27 | 326 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 325 | 12 | 
 | 2023-03-03 | 325 | 12 | 
 | 2023-03-02 | 324 | 12 | 
-| 2023-03-01 | 324 | 12 | 
 

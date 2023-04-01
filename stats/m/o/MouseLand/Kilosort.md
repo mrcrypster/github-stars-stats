@@ -1,10 +1,10 @@
 # MouseLand/Kilosort - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 176
 
-★ Stars: 290
+★ Stars: 292
 
 [Open repository](https://github.com/MouseLand/Kilosort)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 292 | 176 | 
 | 2023-03-29 | 290 | 176 | 
 | 2023-03-27 | 290 | 176 | 
 | 2023-03-26 | 290 | 176 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 287 | 175 | 
 | 2023-03-04 | 287 | 174 | 
 | 2023-03-02 | 287 | 172 | 
-| 2023-03-01 | 286 | 171 | 
 

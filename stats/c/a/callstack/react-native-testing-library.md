@@ -1,10 +1,10 @@
 # callstack/react-native-testing-library - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 235
+☋ Forks: 236
 
-★ Stars: 2722
+★ Stars: 2723
 
 [Open repository](https://github.com/callstack/react-native-testing-library)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2723 | 236 | 
 | 2023-03-29 | 2722 | 235 | 
 | 2023-03-28 | 2721 | 235 | 
 | 2023-03-26 | 2718 | 235 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2700 | 230 | 
 | 2023-03-04 | 2699 | 230 | 
 | 2023-03-03 | 2699 | 230 | 
-| 2023-03-01 | 2696 | 230 | 
 

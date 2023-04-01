@@ -1,10 +1,10 @@
 # chemars/EEW_Extension - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/chemars/EEW_Extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 13 | 2 | 
 | 2023-03-29 | 12 | 2 | 
 | 2023-03-27 | 12 | 2 | 
 | 2023-03-26 | 12 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 12 | 2 | 
 | 2023-03-04 | 12 | 2 | 
 | 2023-03-02 | 12 | 2 | 
-| 2023-03-01 | 12 | 2 | 
 

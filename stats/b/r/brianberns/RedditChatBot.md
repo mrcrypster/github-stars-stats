@@ -1,10 +1,10 @@
 # brianberns/RedditChatBot - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 10
 
-★ Stars: 69
+★ Stars: 71
 
 [Open repository](https://github.com/brianberns/RedditChatBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 71 | 10 | 
 | 2023-03-29 | 69 | 10 | 
 | 2023-03-28 | 68 | 10 | 
 | 2023-03-26 | 68 | 10 | 

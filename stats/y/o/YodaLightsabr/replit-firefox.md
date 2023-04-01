@@ -1,10 +1,10 @@
 # YodaLightsabr/replit-firefox - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/YodaLightsabr/replit-firefox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 5 | 11 | 
 | 2023-03-30 | 4 | 11 | 
 | 2023-03-28 | 4 | 10 | 
 | 2023-03-27 | 4 | 10 | 

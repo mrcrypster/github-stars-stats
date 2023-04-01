@@ -1,6 +1,6 @@
 # ropensci/dynamite - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 17 | 1 | 
 | 2023-03-28 | 17 | 1 | 
 | 2023-03-26 | 17 | 1 | 
 | 2023-03-25 | 17 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 17 | 1 | 
 | 2023-03-04 | 17 | 1 | 
 | 2023-03-03 | 17 | 1 | 
-| 2023-03-02 | 17 | 1 | 
 

@@ -1,10 +1,10 @@
 # shopware/platform - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 835
+☋ Forks: 834
 
-★ Stars: 2184
+★ Stars: 2185
 
 [Open repository](https://github.com/shopware/platform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2185 | 834 | 
 | 2023-03-29 | 2184 | 835 | 
 | 2023-03-27 | 2183 | 835 | 
 | 2023-03-26 | 2182 | 835 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2159 | 825 | 
 | 2023-03-03 | 2160 | 825 | 
 | 2023-03-02 | 2160 | 827 | 
-| 2023-03-01 | 2158 | 826 | 
 

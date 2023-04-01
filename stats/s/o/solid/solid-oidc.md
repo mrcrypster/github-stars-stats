@@ -1,10 +1,10 @@
 # solid/solid-oidc - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 10
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/solid/solid-oidc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 16 | 10 | 
 | 2023-03-29 | 15 | 10 | 
 | 2023-03-27 | 15 | 10 | 
 | 2023-03-26 | 15 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 13 | 10 | 
 | 2023-03-03 | 13 | 10 | 
 | 2023-03-02 | 13 | 10 | 
-| 2023-03-01 | 13 | 10 | 
 

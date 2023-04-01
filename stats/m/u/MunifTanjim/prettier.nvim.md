@@ -1,6 +1,6 @@
 # MunifTanjim/prettier.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 7
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 154 | 7 | 
 | 2023-03-30 | 154 | 7 | 
 

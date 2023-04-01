@@ -1,10 +1,10 @@
 # vanhoefm/macstealer - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 168
+★ Stars: 198
 
 [Open repository](https://github.com/vanhoefm/macstealer)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 198 | 21 | 
 | 2023-03-30 | 168 | 20 | 
 

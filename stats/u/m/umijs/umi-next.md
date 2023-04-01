@@ -1,6 +1,6 @@
 # umijs/umi-next - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 622 | 106 | 
 | 2023-03-31 | 622 | 106 | 
 | 2023-03-29 | 622 | 106 | 
 | 2023-03-28 | 623 | 106 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 626 | 106 | 
 | 2023-03-04 | 626 | 106 | 
 | 2023-03-02 | 626 | 106 | 
-| 2023-03-01 | 625 | 106 | 
 

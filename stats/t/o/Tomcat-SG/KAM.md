@@ -1,6 +1,6 @@
 # Tomcat-SG/KAM - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 40 | 42 | 
 | 2023-03-29 | 40 | 42 | 
 | 2023-03-27 | 40 | 42 | 
 | 2023-03-26 | 40 | 42 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 39 | 43 | 
 | 2023-03-03 | 39 | 43 | 
 | 2023-03-02 | 39 | 42 | 
-| 2023-03-01 | 39 | 42 | 
 

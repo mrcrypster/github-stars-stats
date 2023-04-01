@@ -1,10 +1,10 @@
 # huggingface/huggingface.js - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 29
 
-★ Stars: 749
+★ Stars: 752
 
 [Open repository](https://github.com/huggingface/huggingface.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 752 | 29 | 
 | 2023-03-29 | 749 | 29 | 
 | 2023-03-27 | 746 | 29 | 
 | 2023-03-26 | 743 | 29 | 

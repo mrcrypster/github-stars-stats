@@ -1,6 +1,6 @@
 # Leticia-maria/QuantumFoca.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 39 | 2 | 
 | 2023-03-28 | 39 | 2 | 
 | 2023-03-27 | 39 | 2 | 
 | 2023-03-26 | 39 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 39 | 2 | 
 | 2023-03-04 | 39 | 2 | 
 | 2023-03-02 | 39 | 2 | 
-| 2023-03-01 | 39 | 2 | 
 

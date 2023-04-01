@@ -1,6 +1,6 @@
 # martinoyovo/movie-ticket-booking - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 38 | 11 | 
 | 2023-03-29 | 38 | 11 | 
 | 2023-03-27 | 38 | 11 | 
 | 2023-03-26 | 38 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 38 | 11 | 
 | 2023-03-04 | 38 | 11 | 
 | 2023-03-03 | 38 | 11 | 
-| 2023-03-01 | 38 | 11 | 
 

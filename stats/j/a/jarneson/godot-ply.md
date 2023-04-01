@@ -1,10 +1,10 @@
 # jarneson/godot-ply - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 14
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/jarneson/godot-ply)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 199 | 14 | 
 | 2023-03-29 | 198 | 14 | 
 | 2023-03-27 | 197 | 14 | 
 | 2023-03-26 | 197 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 191 | 14 | 
 | 2023-03-03 | 191 | 14 | 
 | 2023-03-02 | 191 | 14 | 
-| 2023-03-01 | 191 | 14 | 
 

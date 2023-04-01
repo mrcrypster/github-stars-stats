@@ -1,10 +1,10 @@
 # TheExplainthis/AI-Products-All-In-One - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 81
+☋ Forks: 87
 
-★ Stars: 1002
+★ Stars: 1089
 
 [Open repository](https://github.com/TheExplainthis/AI-Products-All-In-One)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1089 | 87 | 
 | 2023-03-29 | 1002 | 81 | 
 | 2023-03-27 | 957 | 77 | 
 | 2023-03-26 | 885 | 67 | 

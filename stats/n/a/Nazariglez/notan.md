@@ -1,10 +1,10 @@
 # Nazariglez/notan - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 34
 
-★ Stars: 525
+★ Stars: 526
 
 [Open repository](https://github.com/Nazariglez/notan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 526 | 34 | 
 | 2023-03-29 | 525 | 34 | 
 | 2023-03-27 | 523 | 33 | 
 | 2023-03-26 | 524 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 513 | 31 | 
 | 2023-03-04 | 512 | 31 | 
 | 2023-03-02 | 512 | 31 | 
-| 2023-03-01 | 511 | 31 | 
 

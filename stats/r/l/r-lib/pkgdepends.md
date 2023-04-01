@@ -1,10 +1,10 @@
 # r-lib/pkgdepends - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 21
 
-★ Stars: 68
+★ Stars: 70
 
 [Open repository](https://github.com/r-lib/pkgdepends)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 70 | 21 | 
 | 2023-03-29 | 68 | 21 | 
 | 2023-03-27 | 68 | 21 | 
 | 2023-03-26 | 68 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 69 | 20 | 
 | 2023-03-03 | 69 | 20 | 
 | 2023-03-02 | 69 | 20 | 
-| 2023-03-01 | 69 | 20 | 
 

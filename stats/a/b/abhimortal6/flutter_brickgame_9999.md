@@ -1,6 +1,6 @@
 # abhimortal6/flutter_brickgame_9999 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 28 | 10 | 
 | 2023-03-29 | 28 | 10 | 
 | 2023-03-27 | 28 | 10 | 
 | 2023-03-26 | 28 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 28 | 10 | 
 | 2023-03-04 | 28 | 10 | 
 | 2023-03-03 | 28 | 10 | 
-| 2023-03-01 | 28 | 10 | 
 

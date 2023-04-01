@@ -1,10 +1,10 @@
 # hijiangtao/resume - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 407
+☋ Forks: 408
 
-★ Stars: 1177
+★ Stars: 1178
 
 [Open repository](https://github.com/hijiangtao/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1178 | 408 | 
 | 2023-03-29 | 1177 | 407 | 
 | 2023-03-27 | 1175 | 405 | 
 | 2023-03-26 | 1173 | 405 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1119 | 395 | 
 | 2023-03-03 | 1117 | 395 | 
 | 2023-03-02 | 1115 | 394 | 
-| 2023-03-01 | 1113 | 392 | 
 

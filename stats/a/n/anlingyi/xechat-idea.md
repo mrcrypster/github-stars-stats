@@ -1,6 +1,6 @@
 # anlingyi/xechat-idea - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 417 | 99 | 
 | 2023-03-29 | 417 | 99 | 
 | 2023-03-27 | 416 | 97 | 
 | 2023-03-26 | 415 | 97 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 410 | 97 | 
 | 2023-03-04 | 410 | 97 | 
 | 2023-03-02 | 410 | 97 | 
-| 2023-03-01 | 410 | 96 | 
 

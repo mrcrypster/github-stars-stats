@@ -1,6 +1,6 @@
 # davidfowl/TriviaR - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 165 | 8 | 
 | 2023-03-29 | 165 | 8 | 
 | 2023-03-27 | 164 | 8 | 
 | 2023-03-26 | 163 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 161 | 8 | 
 | 2023-03-04 | 161 | 8 | 
 | 2023-03-03 | 161 | 8 | 
-| 2023-03-02 | 160 | 8 | 
 

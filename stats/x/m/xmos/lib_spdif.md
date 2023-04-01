@@ -1,6 +1,6 @@
 # xmos/lib_spdif - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 9 | 11 | 
 | 2023-03-29 | 9 | 11 | 
 | 2023-03-28 | 9 | 11 | 
 | 2023-03-26 | 9 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 9 | 9 | 
 | 2023-03-04 | 9 | 9 | 
 | 2023-03-02 | 9 | 9 | 
-| 2023-03-01 | 9 | 9 | 
 

@@ -1,10 +1,10 @@
 # hkirat/gsoc-good-first-issues - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 341
+★ Stars: 356
 
 [Open repository](https://github.com/hkirat/gsoc-good-first-issues)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 356 | 138 | 
 | 2023-03-29 | 341 | 137 | 
 | 2023-03-27 | 335 | 135 | 
 | 2023-03-26 | 332 | 134 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 297 | 122 | 
 | 2023-03-04 | 293 | 121 | 
 | 2023-03-02 | 293 | 118 | 
-| 2023-03-01 | 289 | 117 | 
 

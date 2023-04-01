@@ -1,10 +1,10 @@
 # AppLovin/AppLovin-MAX-SDK-iOS - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 56
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/AppLovin/AppLovin-MAX-SDK-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 59 | 56 | 
 | 2023-03-29 | 58 | 56 | 
 | 2023-03-27 | 58 | 56 | 
 | 2023-03-26 | 58 | 56 | 

@@ -1,6 +1,6 @@
 # mozilla/fxa-content-server-l10n - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 19 | 54 | 
 | 2023-03-30 | 19 | 54 | 
 | 2023-03-29 | 19 | 54 | 
 | 2023-03-28 | 19 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 18 | 53 | 
 | 2023-03-03 | 19 | 53 | 
 | 2023-03-02 | 19 | 53 | 
-| 2023-03-01 | 19 | 53 | 
 

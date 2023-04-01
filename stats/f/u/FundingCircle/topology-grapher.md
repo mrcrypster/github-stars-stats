@@ -1,6 +1,6 @@
 # FundingCircle/topology-grapher - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 15 | 2 | 
 | 2023-03-28 | 15 | 2 | 
 | 2023-03-27 | 15 | 2 | 
 | 2023-03-26 | 15 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 14 | 2 | 
 | 2023-03-03 | 14 | 2 | 
 | 2023-03-02 | 14 | 2 | 
-| 2023-03-01 | 14 | 2 | 
 

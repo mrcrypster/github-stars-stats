@@ -1,6 +1,6 @@
 # mawoka-myblock/ClassQuiz - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 179 | 35 | 
 | 2023-03-29 | 179 | 35 | 
 | 2023-03-27 | 178 | 35 | 
 | 2023-03-26 | 177 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 165 | 33 | 
 | 2023-03-03 | 164 | 33 | 
 | 2023-03-02 | 163 | 33 | 
-| 2023-03-01 | 162 | 33 | 
 

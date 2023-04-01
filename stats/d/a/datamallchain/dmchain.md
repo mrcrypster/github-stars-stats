@@ -1,10 +1,10 @@
 # datamallchain/dmchain - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 38
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/datamallchain/dmchain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 105 | 38 | 
 | 2023-03-29 | 104 | 38 | 
 | 2023-03-27 | 103 | 38 | 
 | 2023-03-26 | 103 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 103 | 38 | 
 | 2023-03-04 | 103 | 38 | 
 | 2023-03-03 | 103 | 38 | 
-| 2023-03-01 | 103 | 38 | 
 

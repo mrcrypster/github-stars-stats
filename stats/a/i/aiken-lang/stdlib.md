@@ -1,6 +1,6 @@
 # aiken-lang/stdlib - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 20 | 6 | 
 | 2023-03-29 | 20 | 6 | 
 | 2023-03-28 | 20 | 6 | 
 | 2023-03-26 | 20 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 18 | 6 | 
 | 2023-03-03 | 18 | 6 | 
 | 2023-03-02 | 18 | 5 | 
-| 2023-03-01 | 18 | 5 | 
 

@@ -1,10 +1,10 @@
 # Uahh/Reborn - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 21
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/Uahh/Reborn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 272 | 21 | 
 | 2023-03-29 | 271 | 21 | 
 | 2023-03-27 | 271 | 21 | 
 | 2023-03-26 | 270 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 264 | 21 | 
 | 2023-03-04 | 264 | 21 | 
 | 2023-03-02 | 265 | 21 | 
-| 2023-03-01 | 265 | 21 | 
 

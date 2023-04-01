@@ -1,10 +1,10 @@
 # sebanc/brunch - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 351
 
-★ Stars: 2968
+★ Stars: 2969
 
 [Open repository](https://github.com/sebanc/brunch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2969 | 351 | 
 | 2023-03-29 | 2968 | 351 | 
 | 2023-03-28 | 2969 | 351 | 
 | 2023-03-26 | 2968 | 351 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2941 | 350 | 
 | 2023-03-04 | 2939 | 350 | 
 | 2023-03-02 | 2939 | 351 | 
-| 2023-03-01 | 2937 | 351 | 
 

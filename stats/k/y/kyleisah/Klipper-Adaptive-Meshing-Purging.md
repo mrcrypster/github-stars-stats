@@ -1,6 +1,6 @@
 # kyleisah/Klipper-Adaptive-Meshing-Purging - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 295 | 29 | 
 | 2023-03-29 | 295 | 29 | 
 | 2023-03-27 | 294 | 28 | 
 | 2023-03-26 | 291 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 251 | 22 | 
 | 2023-03-03 | 247 | 22 | 
 | 2023-03-02 | 241 | 22 | 
-| 2023-03-01 | 239 | 22 | 
 

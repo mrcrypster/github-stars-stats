@@ -1,10 +1,10 @@
 # JoshuaLim007/Unity-ScreenSpaceReflections-URP - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 39
 
 [Open repository](https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 39 | 2 | 
 | 2023-03-29 | 32 | 1 | 
 | 2023-03-28 | 31 | 1 | 
 | 2023-03-26 | 31 | 1 | 

@@ -1,6 +1,6 @@
 # fastify/fastify-dx - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 884 | 49 | 
 | 2023-03-29 | 884 | 49 | 
 | 2023-03-27 | 884 | 49 | 
 | 2023-03-25 | 881 | 49 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 878 | 49 | 
 | 2023-03-03 | 877 | 49 | 
 | 2023-03-02 | 876 | 49 | 
-| 2023-03-01 | 876 | 50 | 
 

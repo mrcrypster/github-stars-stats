@@ -1,10 +1,10 @@
 # openemr/openemr - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1654
+☋ Forks: 1658
 
-★ Stars: 2185
+★ Stars: 2186
 
 [Open repository](https://github.com/openemr/openemr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2186 | 1658 | 
 | 2023-03-29 | 2185 | 1654 | 
 | 2023-03-27 | 2181 | 1653 | 
 | 2023-03-26 | 2177 | 1651 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2146 | 1631 | 
 | 2023-03-04 | 2147 | 1629 | 
 | 2023-03-02 | 2144 | 1628 | 
-| 2023-03-01 | 2142 | 1628 | 
 

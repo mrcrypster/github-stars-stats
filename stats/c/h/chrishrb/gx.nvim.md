@@ -1,10 +1,10 @@
 # chrishrb/gx.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/chrishrb/gx.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 45 | - | 
 | 2023-03-29 | 44 | - | 
 | 2023-03-27 | 42 | - | 
 | 2023-03-26 | 40 | - | 

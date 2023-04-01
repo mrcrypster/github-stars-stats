@@ -1,6 +1,6 @@
 # aappleby/Metron - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 129 | 10 | 
 | 2023-03-29 | 129 | 10 | 
 | 2023-03-27 | 129 | 10 | 
 | 2023-03-26 | 129 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 127 | 10 | 
 | 2023-03-04 | 127 | 10 | 
 | 2023-03-03 | 127 | 10 | 
-| 2023-03-01 | 126 | 10 | 
 

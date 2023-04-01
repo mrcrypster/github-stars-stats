@@ -1,10 +1,10 @@
 # tailwindlabs/heroicons - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1208
 
-★ Stars: 18184
+★ Stars: 18196
 
 [Open repository](https://github.com/tailwindlabs/heroicons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 18196 | 1208 | 
 | 2023-03-29 | 18184 | 1208 | 
 | 2023-03-27 | 18171 | 1206 | 
 | 2023-03-26 | 18159 | 1206 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 17998 | 1200 | 
 | 2023-03-04 | 17992 | 1200 | 
 | 2023-03-02 | 17988 | 1199 | 
-| 2023-03-01 | 17982 | 1198 | 
 

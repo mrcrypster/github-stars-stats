@@ -1,10 +1,10 @@
 # jbryer/ShinyPoster - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 7
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/jbryer/ShinyPoster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 22 | 7 | 
 | 2023-03-31 | 21 | 7 | 
 | 2023-03-29 | 21 | 7 | 
 | 2023-03-27 | 21 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 20 | 7 | 
 | 2023-03-04 | 20 | 7 | 
 | 2023-03-02 | 20 | 7 | 
-| 2023-03-01 | 20 | 7 | 
 

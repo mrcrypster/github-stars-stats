@@ -1,10 +1,10 @@
 # Facepunch/garrysmod - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 769
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/Facepunch/garrysmod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 906 | 769 | 
 | 2023-03-29 | 905 | 769 | 
 | 2023-03-27 | 906 | 769 | 
 | 2023-03-26 | 906 | 767 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 902 | 765 | 
 | 2023-03-03 | 903 | 765 | 
 | 2023-03-02 | 903 | 766 | 
-| 2023-03-01 | 901 | 766 | 
 

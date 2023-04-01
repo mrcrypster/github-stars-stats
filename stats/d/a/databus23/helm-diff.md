@@ -1,10 +1,10 @@
 # databus23/helm-diff - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 230
+☋ Forks: 231
 
-★ Stars: 2043
+★ Stars: 2045
 
 [Open repository](https://github.com/databus23/helm-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2045 | 231 | 
 | 2023-03-30 | 2043 | 230 | 
 | 2023-03-29 | 2039 | 230 | 
 | 2023-03-28 | 2035 | 230 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 2007 | 228 | 
 | 2023-03-04 | 2005 | 228 | 
 | 2023-03-03 | 2003 | 228 | 
-| 2023-03-01 | 2001 | 228 | 
 

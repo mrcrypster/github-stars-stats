@@ -1,10 +1,10 @@
 # microsoft/sql-server-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 8229
+☋ Forks: 8236
 
-★ Stars: 8453
+★ Stars: 8458
 
 [Open repository](https://github.com/microsoft/sql-server-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 8458 | 8236 | 
 | 2023-03-29 | 8453 | 8229 | 
 | 2023-03-27 | 8450 | 8217 | 
 | 2023-03-26 | 8443 | 8214 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 8360 | 8169 | 
 | 2023-03-03 | 8352 | 8167 | 
 | 2023-03-02 | 8340 | 8160 | 
-| 2023-03-01 | 8339 | 8157 | 
 

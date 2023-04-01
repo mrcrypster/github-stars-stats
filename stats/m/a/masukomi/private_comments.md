@@ -1,6 +1,6 @@
 # masukomi/private_comments - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 35 | 1 | 
 | 2023-03-29 | 35 | 1 | 
 | 2023-03-28 | 35 | 1 | 
 | 2023-03-26 | 35 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 35 | 1 | 
 | 2023-03-04 | 35 | 1 | 
 | 2023-03-03 | 35 | 1 | 
-| 2023-03-02 | 35 | 1 | 
 

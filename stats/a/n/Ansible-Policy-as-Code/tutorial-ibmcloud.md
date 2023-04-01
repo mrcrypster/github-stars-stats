@@ -1,6 +1,6 @@
 # Ansible-Policy-as-Code/tutorial-ibmcloud - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2 | 13 | 
 | 2023-03-29 | 2 | 13 | 
 | 2023-03-28 | 2 | 13 | 
 | 2023-03-26 | 2 | 13 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2 | 6 | 
 | 2023-03-03 | 2 | 6 | 
 | 2023-03-02 | 2 | 5 | 
-| 2023-03-01 | 2 | 5 | 
 

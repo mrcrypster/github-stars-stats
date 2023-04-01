@@ -1,10 +1,10 @@
 # szimek/signature_pad - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1939
+☋ Forks: 1940
 
-★ Stars: 8983
+★ Stars: 8989
 
 [Open repository](https://github.com/szimek/signature_pad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 8989 | 1940 | 
 | 2023-03-29 | 8983 | 1939 | 
 | 2023-03-28 | 8976 | 1939 | 
 | 2023-03-26 | 8973 | 1939 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 8908 | 1928 | 
 | 2023-03-03 | 8906 | 1928 | 
 | 2023-03-02 | 8901 | 1927 | 
-| 2023-03-01 | 8895 | 1928 | 
 

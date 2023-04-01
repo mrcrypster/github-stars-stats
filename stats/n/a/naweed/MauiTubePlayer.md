@@ -1,10 +1,10 @@
 # naweed/MauiTubePlayer - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 51
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/naweed/MauiTubePlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 171 | 51 | 
 | 2023-03-29 | 170 | 51 | 
 | 2023-03-28 | 170 | 51 | 
 | 2023-03-26 | 169 | 51 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 157 | 46 | 
 | 2023-03-03 | 157 | 46 | 
 | 2023-03-02 | 157 | 46 | 
-| 2023-03-01 | 156 | 46 | 
 

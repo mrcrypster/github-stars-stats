@@ -1,6 +1,6 @@
 # beancount/beancount-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 78 | 20 | 
 | 2023-03-28 | 78 | 20 | 
 | 2023-03-27 | 78 | 20 | 
 | 2023-03-26 | 78 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 76 | 19 | 
 | 2023-03-03 | 75 | 19 | 
 | 2023-03-02 | 75 | 19 | 
-| 2023-03-01 | 75 | 19 | 
 

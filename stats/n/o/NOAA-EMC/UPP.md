@@ -1,6 +1,6 @@
 # NOAA-EMC/UPP - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 24 | 76 | 
 | 2023-03-30 | 24 | 76 | 
 | 2023-03-28 | 23 | 75 | 
 | 2023-03-27 | 23 | 75 | 

@@ -1,10 +1,10 @@
 # promptslab/Promptify - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 93
+☋ Forks: 96
 
-★ Stars: 1473
+★ Stars: 1490
 
 [Open repository](https://github.com/promptslab/Promptify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1490 | 96 | 
 | 2023-03-29 | 1473 | 93 | 
 | 2023-03-28 | 1456 | 91 | 
 | 2023-03-26 | 1434 | 90 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1049 | 68 | 
 | 2023-03-04 | 1037 | 68 | 
 | 2023-03-02 | 1015 | 64 | 
-| 2023-03-01 | 1000 | 63 | 
 

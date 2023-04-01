@@ -1,6 +1,6 @@
 # electricalice/Ao3-pride-skin - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4 | 4 | 
 | 2023-03-28 | 4 | 4 | 
 | 2023-03-27 | 4 | 4 | 
 | 2023-03-26 | 4 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 4 | 4 | 
 | 2023-03-03 | 4 | 4 | 
 | 2023-03-02 | 4 | 4 | 
-| 2023-03-01 | 4 | 4 | 
 

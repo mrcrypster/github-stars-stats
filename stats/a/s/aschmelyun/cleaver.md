@@ -1,10 +1,10 @@
 # aschmelyun/cleaver - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 20
 
-★ Stars: 261
+★ Stars: 262
 
 [Open repository](https://github.com/aschmelyun/cleaver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 262 | 20 | 
 | 2023-03-28 | 261 | 20 | 
 | 2023-03-27 | 261 | 20 | 
 | 2023-03-26 | 260 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 260 | 20 | 
 | 2023-03-03 | 260 | 20 | 
 | 2023-03-02 | 260 | 20 | 
-| 2023-03-01 | 261 | 20 | 
 

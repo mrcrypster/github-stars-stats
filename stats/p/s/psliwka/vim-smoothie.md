@@ -1,10 +1,10 @@
 # psliwka/vim-smoothie - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 23
 
-★ Stars: 907
+★ Stars: 908
 
 [Open repository](https://github.com/psliwka/vim-smoothie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 908 | 23 | 
 | 2023-03-29 | 907 | 23 | 
 | 2023-03-28 | 907 | 23 | 
 | 2023-03-26 | 907 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 901 | 23 | 
 | 2023-03-04 | 901 | 23 | 
 | 2023-03-02 | 901 | 23 | 
-| 2023-03-01 | 901 | 23 | 
 

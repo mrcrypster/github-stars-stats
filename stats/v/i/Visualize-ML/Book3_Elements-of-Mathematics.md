@@ -1,10 +1,10 @@
 # Visualize-ML/Book3_Elements-of-Mathematics - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 299
+☋ Forks: 301
 
-★ Stars: 2397
+★ Stars: 2412
 
 [Open repository](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2412 | 301 | 
 | 2023-03-29 | 2397 | 299 | 
 | 2023-03-28 | 2389 | 298 | 
 | 2023-03-26 | 2387 | 297 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2227 | 276 | 
 | 2023-03-04 | 2202 | 273 | 
 | 2023-03-02 | 2179 | 273 | 
-| 2023-03-01 | 2173 | 269 | 
 

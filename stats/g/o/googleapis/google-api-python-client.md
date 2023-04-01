@@ -1,10 +1,10 @@
 # googleapis/google-api-python-client - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 2316
+☋ Forks: 2321
 
-★ Stars: 6448
+★ Stars: 6458
 
 [Open repository](https://github.com/googleapis/google-api-python-client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6458 | 2321 | 
 | 2023-03-29 | 6448 | 2316 | 
 | 2023-03-28 | 6441 | 2313 | 
 | 2023-03-26 | 6438 | 2313 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 6369 | 2302 | 
 | 2023-03-04 | 6365 | 2301 | 
 | 2023-03-03 | 6363 | 2301 | 
-| 2023-03-01 | 6359 | 2299 | 
 

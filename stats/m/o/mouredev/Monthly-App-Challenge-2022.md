@@ -1,10 +1,10 @@
 # mouredev/Monthly-App-Challenge-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 170
 
-★ Stars: 651
+★ Stars: 652
 
 [Open repository](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 652 | 170 | 
 | 2023-03-29 | 651 | 170 | 
 | 2023-03-27 | 651 | 170 | 
 | 2023-03-26 | 648 | 169 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 638 | 166 | 
 | 2023-03-04 | 639 | 166 | 
 | 2023-03-03 | 638 | 166 | 
-| 2023-03-01 | 637 | 166 | 
 

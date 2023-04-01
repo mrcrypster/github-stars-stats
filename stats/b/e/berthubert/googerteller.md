@@ -1,6 +1,6 @@
 # berthubert/googerteller - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2025 | 103 | 
 | 2023-03-29 | 2025 | 103 | 
 | 2023-03-28 | 2025 | 103 | 
 | 2023-03-26 | 2025 | 103 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2023 | 102 | 
 | 2023-03-04 | 2022 | 102 | 
 | 2023-03-02 | 2022 | 102 | 
-| 2023-03-01 | 2024 | 102 | 
 

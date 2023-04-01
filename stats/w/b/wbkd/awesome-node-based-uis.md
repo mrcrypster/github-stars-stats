@@ -1,10 +1,10 @@
 # wbkd/awesome-node-based-uis - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 57
 
-★ Stars: 1261
+★ Stars: 1265
 
 [Open repository](https://github.com/wbkd/awesome-node-based-uis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1265 | 57 | 
 | 2023-03-29 | 1261 | 57 | 
 | 2023-03-28 | 1259 | 57 | 
 | 2023-03-26 | 1259 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1174 | 53 | 
 | 2023-03-03 | 1172 | 52 | 
 | 2023-03-02 | 1170 | 52 | 
-| 2023-03-01 | 1168 | 52 | 
 

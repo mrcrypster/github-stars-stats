@@ -1,8 +1,8 @@
 # appdev-projects/if-statements-chapter - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 797
+☋ Forks: 801
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | - | 801 | 
 | 2023-03-29 | - | 797 | 
 | 2023-03-28 | - | 797 | 
 | 2023-03-26 | - | 794 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | - | 774 | 
 | 2023-03-03 | - | 774 | 
 | 2023-03-02 | - | 774 | 
-| 2023-03-01 | - | 774 | 
 

@@ -1,8 +1,8 @@
 # Shopify/Timber - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 439
+☋ Forks: 437
 
 ★ Stars: 968
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 968 | 437 | 
 | 2023-03-29 | 968 | 439 | 
 | 2023-03-27 | 968 | 439 | 
 | 2023-03-26 | 968 | 439 | 

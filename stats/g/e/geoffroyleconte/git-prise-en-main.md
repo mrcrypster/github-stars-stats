@@ -1,6 +1,6 @@
 # geoffroyleconte/git-prise-en-main - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | 16 | 
 | 2023-03-30 | 1 | 16 | 
 | 2023-03-28 | 1 | 16 | 
 | 2023-03-26 | 1 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 1 | 17 | 
 | 2023-03-03 | 1 | 17 | 
 | 2023-03-02 | 1 | 17 | 
-| 2023-03-01 | 1 | 17 | 
 

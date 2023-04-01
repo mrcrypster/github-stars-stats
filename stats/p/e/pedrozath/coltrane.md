@@ -1,10 +1,10 @@
 # pedrozath/coltrane - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 57
+☋ Forks: 56
 
-★ Stars: 2156
+★ Stars: 2161
 
 [Open repository](https://github.com/pedrozath/coltrane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2161 | 56 | 
 | 2023-03-29 | 2156 | 57 | 
 | 2023-03-27 | 2145 | 58 | 
 | 2023-03-26 | 2141 | 57 | 

@@ -1,6 +1,6 @@
 # jeremyevans/by - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 88 | 1 | 
 | 2023-03-29 | 88 | 1 | 
 | 2023-03-28 | 88 | 1 | 
 | 2023-03-26 | 88 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 83 | 1 | 
 | 2023-03-03 | 82 | 1 | 
 | 2023-03-02 | 79 | 1 | 
-| 2023-03-01 | 79 | 1 | 
 

@@ -1,10 +1,10 @@
 # Azure-Samples/PetSpotR - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/Azure-Samples/PetSpotR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 32 | 15 | 
 | 2023-03-29 | 31 | 14 | 
 | 2023-03-28 | 29 | 14 | 
 | 2023-03-26 | 28 | 13 | 

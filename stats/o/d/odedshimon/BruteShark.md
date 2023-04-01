@@ -1,10 +1,10 @@
 # odedshimon/BruteShark - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 306
 
-★ Stars: 2675
+★ Stars: 2673
 
 [Open repository](https://github.com/odedshimon/BruteShark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2673 | 306 | 
 | 2023-03-29 | 2675 | 306 | 
 | 2023-03-27 | 2674 | 306 | 
 | 2023-03-26 | 2673 | 306 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2656 | 307 | 
 | 2023-03-03 | 2656 | 307 | 
 | 2023-03-02 | 2654 | 307 | 
-| 2023-03-01 | 2654 | 308 | 
 

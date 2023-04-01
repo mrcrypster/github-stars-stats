@@ -1,0 +1,17 @@
+# okita/tes1 - stars & forks statistics
+
+Stats updated on Mar 2023, 31
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/okita/tes1)
+
+[Open detailed stats for okita/tes1](https://reviewgithub.com/rep/okita/tes1)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-31 | - | - | 
+

@@ -1,8 +1,8 @@
 # vaimpierritik/windows-RDP - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | 81 | 
 | 2023-03-29 | 1 | 80 | 
 | 2023-03-28 | 1 | 80 | 
 | 2023-03-26 | 1 | 80 | 

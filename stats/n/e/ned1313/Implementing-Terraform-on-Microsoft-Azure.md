@@ -1,6 +1,6 @@
 # ned1313/Implementing-Terraform-on-Microsoft-Azure - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 112 | 328 | 
 | 2023-03-29 | 112 | 328 | 
 | 2023-03-28 | 112 | 328 | 
 | 2023-03-26 | 112 | 328 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 112 | 327 | 
 | 2023-03-03 | 112 | 327 | 
 | 2023-03-02 | 112 | 327 | 
-| 2023-03-01 | 112 | 327 | 
 

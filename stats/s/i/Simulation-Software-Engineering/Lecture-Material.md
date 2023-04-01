@@ -1,6 +1,6 @@
 # Simulation-Software-Engineering/Lecture-Material - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 30 | 44 | 
 | 2023-03-29 | 30 | 44 | 
 | 2023-03-28 | 30 | 44 | 
 | 2023-03-26 | 30 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 29 | 44 | 
 | 2023-03-03 | 29 | 44 | 
 | 2023-03-02 | 29 | 44 | 
-| 2023-03-01 | 29 | 44 | 
 

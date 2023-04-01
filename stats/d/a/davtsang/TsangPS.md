@@ -1,6 +1,6 @@
 # davtsang/TsangPS - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 14 | 4 | 
 | 2023-03-30 | 14 | 4 | 
 | 2023-03-29 | 14 | 4 | 
 | 2023-03-27 | 14 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 14 | 4 | 
 | 2023-03-03 | 14 | 4 | 
 | 2023-03-02 | 14 | 4 | 
-| 2023-03-01 | 14 | 4 | 
 

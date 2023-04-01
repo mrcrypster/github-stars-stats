@@ -1,10 +1,10 @@
 # smart-methods/arduino_robot_arm - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 37
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/smart-methods/arduino_robot_arm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 28 | 37 | 
 | 2023-03-29 | 27 | 37 | 
 | 2023-03-28 | 26 | 37 | 
 | 2023-03-26 | 26 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 26 | 37 | 
 | 2023-03-03 | 26 | 37 | 
 | 2023-03-02 | 26 | 37 | 
-| 2023-03-01 | 26 | 37 | 
 

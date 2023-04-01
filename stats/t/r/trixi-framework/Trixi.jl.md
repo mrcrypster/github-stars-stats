@@ -1,10 +1,10 @@
 # trixi-framework/Trixi.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 63
 
-★ Stars: 334
+★ Stars: 337
 
 [Open repository](https://github.com/trixi-framework/Trixi.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 337 | 63 | 
 | 2023-03-29 | 334 | 63 | 
 | 2023-03-27 | 334 | 63 | 
 | 2023-03-26 | 334 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 326 | 60 | 
 | 2023-03-03 | 326 | 60 | 
 | 2023-03-02 | 325 | 60 | 
-| 2023-03-01 | 325 | 60 | 
 

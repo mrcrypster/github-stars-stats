@@ -1,10 +1,10 @@
 # svc-develop-team/so-vits-svc - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 428
+☋ Forks: 456
 
-★ Stars: 2369
+★ Stars: 2556
 
 [Open repository](https://github.com/svc-develop-team/so-vits-svc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2556 | 456 | 
 | 2023-03-29 | 2369 | 428 | 
 | 2023-03-28 | 2163 | 396 | 
 | 2023-03-27 | 2119 | 390 | 

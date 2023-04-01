@@ -1,6 +1,6 @@
 # Azure-Samples/nodejs-microservices-template - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3 | 24 | 
 | 2023-03-29 | 3 | 24 | 
 | 2023-03-27 | 3 | 24 | 
 | 2023-03-26 | 3 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2 | 23 | 
 | 2023-03-03 | 2 | 23 | 
 | 2023-03-02 | 2 | 23 | 
-| 2023-03-01 | 2 | 23 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 31
 
 ☋ Forks: 164
 
-★ Stars: 935
+★ Stars: 938
 
 [Open repository](https://github.com/hiddify/hiddify-config)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 935 | 164 | 
+| 2023-03-31 | 938 | 164 | 
 | 2023-03-30 | 919 | 160 | 
 | 2023-03-29 | 886 | 157 | 
 | 2023-03-28 | 852 | 156 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-04 | 570 | 112 | 
 | 2023-03-03 | 565 | 111 | 
 | 2023-03-02 | 548 | 104 | 
-| 2023-03-01 | 534 | 100 | 
 

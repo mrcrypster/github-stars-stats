@@ -1,8 +1,8 @@
 # Bloom-host/Petal - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 25
+☋ Forks: 24
 
 ★ Stars: 237
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 237 | 24 | 
 | 2023-03-29 | 237 | 25 | 
 | 2023-03-27 | 237 | 25 | 
 | 2023-03-25 | 235 | 25 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 237 | 26 | 
 | 2023-03-04 | 237 | 25 | 
 | 2023-03-03 | 236 | 25 | 
-| 2023-03-02 | 235 | 25 | 
 

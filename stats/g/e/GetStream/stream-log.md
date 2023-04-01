@@ -1,10 +1,10 @@
 # GetStream/stream-log - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/GetStream/stream-log)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 107 | 2 | 
 | 2023-03-29 | 106 | 2 | 
 | 2023-03-27 | 99 | 2 | 
 | 2023-03-26 | 99 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 96 | 2 | 
 | 2023-03-03 | 96 | 2 | 
 | 2023-03-02 | 95 | 2 | 
-| 2023-03-01 | 94 | 2 | 
 

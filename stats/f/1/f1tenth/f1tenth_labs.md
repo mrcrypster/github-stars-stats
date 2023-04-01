@@ -1,6 +1,6 @@
 # f1tenth/f1tenth_labs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 43 | 70 | 
 | 2023-03-29 | 43 | 70 | 
 | 2023-03-28 | 43 | 71 | 
 | 2023-03-26 | 43 | 71 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 42 | 71 | 
 | 2023-03-04 | 42 | 71 | 
 | 2023-03-02 | 42 | 71 | 
-| 2023-03-01 | 42 | 71 | 
 

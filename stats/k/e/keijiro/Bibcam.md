@@ -1,10 +1,10 @@
 # keijiro/Bibcam - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 39
 
-★ Stars: 415
+★ Stars: 416
 
 [Open repository](https://github.com/keijiro/Bibcam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 416 | 39 | 
 | 2023-03-29 | 415 | 39 | 
 | 2023-03-27 | 414 | 39 | 
 | 2023-03-26 | 414 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 412 | 35 | 
 | 2023-03-04 | 412 | 35 | 
 | 2023-03-02 | 412 | 35 | 
-| 2023-03-01 | 411 | 35 | 
 

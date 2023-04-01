@@ -1,10 +1,10 @@
 # squint-cljs/squint - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 13
 
-★ Stars: 303
+★ Stars: 308
 
 [Open repository](https://github.com/squint-cljs/squint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 308 | 13 | 
 | 2023-03-29 | 303 | 13 | 
 | 2023-03-28 | 302 | 13 | 
 | 2023-03-26 | 301 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 297 | 13 | 
 | 2023-03-04 | 297 | 13 | 
 | 2023-03-03 | 297 | 13 | 
-| 2023-03-01 | 296 | 13 | 
 

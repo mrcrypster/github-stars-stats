@@ -1,8 +1,8 @@
 # scala-steward-org/scala-steward - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 456
+☋ Forks: 455
 
 ★ Stars: 1071
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1071 | 455 | 
 | 2023-03-29 | 1071 | 456 | 
 | 2023-03-27 | 1070 | 456 | 
 | 2023-03-26 | 1070 | 455 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1067 | 452 | 
 | 2023-03-04 | 1067 | 452 | 
 | 2023-03-03 | 1067 | 452 | 
-| 2023-03-01 | 1067 | 452 | 
 

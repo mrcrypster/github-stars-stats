@@ -1,10 +1,10 @@
 # lucidrains/gigagan-pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 26
 
-★ Stars: 664
+★ Stars: 684
 
 [Open repository](https://github.com/lucidrains/gigagan-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 684 | 26 | 
 | 2023-03-30 | 664 | 26 | 
 | 2023-03-29 | 617 | 22 | 
 | 2023-03-28 | 605 | 22 | 

@@ -1,10 +1,10 @@
 # checkpoint-restore/criu - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 455
 
-★ Stars: 2101
+★ Stars: 2103
 
 [Open repository](https://github.com/checkpoint-restore/criu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2103 | 455 | 
 | 2023-03-29 | 2101 | 455 | 
 | 2023-03-28 | 2099 | 455 | 
 | 2023-03-26 | 2099 | 454 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2070 | 447 | 
 | 2023-03-03 | 2069 | 446 | 
 | 2023-03-02 | 2069 | 446 | 
-| 2023-03-01 | 2068 | 446 | 
 

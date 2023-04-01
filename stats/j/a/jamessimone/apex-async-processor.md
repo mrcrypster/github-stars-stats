@@ -1,10 +1,10 @@
 # jamessimone/apex-async-processor - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/jamessimone/apex-async-processor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 23 | 1 | 
 | 2023-03-29 | 22 | 1 | 
 | 2023-03-28 | 22 | 1 | 
 | 2023-03-26 | 22 | 1 | 

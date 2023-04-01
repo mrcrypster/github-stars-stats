@@ -1,6 +1,6 @@
 # liyuxuan3003/SemiconductorPhysics - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 7 | - | 
 | 2023-03-29 | 7 | - | 
 | 2023-03-27 | 6 | - | 
 | 2023-03-26 | 6 | - | 

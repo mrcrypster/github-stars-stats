@@ -1,6 +1,6 @@
 # iamlooper/MemeUI-Enhancer - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 78 | 1 | 
 | 2023-03-29 | 78 | 1 | 
 | 2023-03-27 | 78 | 1 | 
 | 2023-03-26 | 78 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 77 | 1 | 
 | 2023-03-03 | 77 | 1 | 
 | 2023-03-02 | 77 | 1 | 
-| 2023-03-01 | 77 | 1 | 
 

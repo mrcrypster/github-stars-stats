@@ -1,10 +1,10 @@
 # ChenyangQiQi/FateZero - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 30
+☋ Forks: 38
 
-★ Stars: 418
+★ Stars: 478
 
 [Open repository](https://github.com/ChenyangQiQi/FateZero)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 478 | 38 | 
 | 2023-03-29 | 418 | 30 | 
 | 2023-03-27 | 413 | 28 | 
 | 2023-03-26 | 391 | 27 | 

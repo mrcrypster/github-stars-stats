@@ -1,10 +1,10 @@
 # ChirikjianLab/Marching-Primitives - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 25
 
 [Open repository](https://github.com/ChirikjianLab/Marching-Primitives)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 25 | - | 
 | 2023-03-30 | 22 | - | 
 

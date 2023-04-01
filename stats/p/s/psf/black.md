@@ -1,10 +1,10 @@
 # psf/black - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 2040
+☋ Forks: 2042
 
-★ Stars: 31845
+★ Stars: 31850
 
 [Open repository](https://github.com/psf/black)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 31850 | 2042 | 
 | 2023-03-30 | 31845 | 2040 | 
 | 2023-03-29 | 31816 | 2038 | 
 | 2023-03-27 | 31788 | 2033 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 31527 | 2034 | 
 | 2023-03-04 | 31522 | 2033 | 
 | 2023-03-02 | 31507 | 2032 | 
-| 2023-03-01 | 31493 | 2033 | 
 

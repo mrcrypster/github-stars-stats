@@ -1,10 +1,10 @@
 # 0x192/universal-android-debloater - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 529
+☋ Forks: 531
 
-★ Stars: 9156
+★ Stars: 9180
 
 [Open repository](https://github.com/0x192/universal-android-debloater)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 9180 | 531 | 
 | 2023-03-29 | 9156 | 529 | 
 | 2023-03-28 | 9120 | 529 | 
 | 2023-03-27 | 9109 | 529 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 8499 | 487 | 
 | 2023-03-03 | 8407 | 481 | 
 | 2023-03-02 | 8340 | 480 | 
-| 2023-03-01 | 8194 | 473 | 
 

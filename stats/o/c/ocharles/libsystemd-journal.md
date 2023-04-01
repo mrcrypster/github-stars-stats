@@ -1,6 +1,6 @@
 # ocharles/libsystemd-journal - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 20 | 14 | 
 | 2023-03-30 | 20 | 14 | 
 | 2023-03-29 | 20 | 14 | 
 | 2023-03-28 | 20 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 20 | 14 | 
 | 2023-03-03 | 20 | 14 | 
 | 2023-03-02 | 20 | 14 | 
-| 2023-03-01 | 20 | 14 | 
 

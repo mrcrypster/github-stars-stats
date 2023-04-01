@@ -1,10 +1,10 @@
 # jiep/offensive-ai-compilation - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 36
+☋ Forks: 39
 
-★ Stars: 644
+★ Stars: 647
 
 [Open repository](https://github.com/jiep/offensive-ai-compilation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 647 | 39 | 
 | 2023-03-30 | 644 | 36 | 
 | 2023-03-29 | 628 | 33 | 
 | 2023-03-28 | 495 | 25 | 

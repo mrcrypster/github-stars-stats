@@ -1,10 +1,10 @@
 # Francis-Komizu/Sovits - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 38
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/Francis-Komizu/Sovits)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 258 | 38 | 
 | 2023-03-29 | 257 | 38 | 
 | 2023-03-27 | 253 | 38 | 
 | 2023-03-26 | 250 | 38 | 

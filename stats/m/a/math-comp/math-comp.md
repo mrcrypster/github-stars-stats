@@ -1,8 +1,8 @@
 # math-comp/math-comp - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 100
+☋ Forks: 101
 
 ★ Stars: 472
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 472 | 101 | 
+| 2023-03-31 | 472 | 100 | 
 | 2023-03-30 | 472 | 100 | 
 | 2023-03-29 | 471 | 100 | 
 | 2023-03-27 | 471 | 99 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 463 | 97 | 
 | 2023-03-03 | 462 | 97 | 
 | 2023-03-02 | 462 | 98 | 
-| 2023-03-01 | 461 | 97 | 
 

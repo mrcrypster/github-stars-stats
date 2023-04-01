@@ -1,6 +1,6 @@
 # palantir/gradle-launch-config-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | 2 | 
 | 2023-03-30 | 1 | 2 | 
 

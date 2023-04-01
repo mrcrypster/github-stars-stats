@@ -1,10 +1,10 @@
 # dataease/dataease - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1868
+☋ Forks: 1873
 
-★ Stars: 9343
+★ Stars: 9373
 
 [Open repository](https://github.com/dataease/dataease)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 9373 | 1873 | 
 | 2023-03-29 | 9343 | 1868 | 
 | 2023-03-28 | 9334 | 1866 | 
 | 2023-03-26 | 9297 | 1861 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 9070 | 1813 | 
 | 2023-03-04 | 9066 | 1813 | 
 | 2023-03-03 | 9054 | 1809 | 
-| 2023-03-02 | 9031 | 1807 | 
 

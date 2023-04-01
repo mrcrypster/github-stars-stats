@@ -1,10 +1,10 @@
 # KellanM/OpenAI-Api-Unreal - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 298
+★ Stars: 306
 
 [Open repository](https://github.com/KellanM/OpenAI-Api-Unreal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 306 | 83 | 
 | 2023-03-29 | 298 | 82 | 
 | 2023-03-28 | 292 | 80 | 
 | 2023-03-26 | 287 | 78 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 233 | 69 | 
 | 2023-03-03 | 229 | 69 | 
 | 2023-03-02 | 224 | 69 | 
-| 2023-03-01 | 218 | 67 | 
 

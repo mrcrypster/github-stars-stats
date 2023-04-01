@@ -1,10 +1,10 @@
 # max-ri/Guidelime - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 35
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/max-ri/Guidelime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 147 | 35 | 
 | 2023-03-29 | 146 | 35 | 
 | 2023-03-28 | 146 | 35 | 
 | 2023-03-26 | 146 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 146 | 35 | 
 | 2023-03-03 | 146 | 35 | 
 | 2023-03-02 | 146 | 35 | 
-| 2023-03-01 | 146 | 35 | 
 

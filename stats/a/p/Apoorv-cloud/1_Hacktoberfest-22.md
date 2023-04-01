@@ -1,6 +1,6 @@
 # Apoorv-cloud/1_Hacktoberfest-22 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 13 | 98 | 
 | 2023-03-29 | 13 | 98 | 
 | 2023-03-27 | 13 | 98 | 
 | 2023-03-26 | 13 | 98 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 14 | 98 | 
 | 2023-03-03 | 14 | 98 | 
 | 2023-03-02 | 14 | 98 | 
-| 2023-03-01 | 14 | 98 | 
 

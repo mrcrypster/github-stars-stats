@@ -1,10 +1,10 @@
 # AutoHotkey/AutoHotkey - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 793
 
-★ Stars: 6629
+★ Stars: 6634
 
 [Open repository](https://github.com/AutoHotkey/AutoHotkey)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6634 | 793 | 
 | 2023-03-29 | 6629 | 793 | 
 | 2023-03-28 | 6629 | 793 | 
 | 2023-03-26 | 6613 | 792 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 6518 | 782 | 
 | 2023-03-03 | 6511 | 782 | 
 | 2023-03-02 | 6501 | 780 | 
-| 2023-03-01 | 6499 | 780 | 
 

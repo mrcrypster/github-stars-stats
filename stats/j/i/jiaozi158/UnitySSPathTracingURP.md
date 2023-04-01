@@ -1,10 +1,10 @@
 # jiaozi158/UnitySSPathTracingURP - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/jiaozi158/UnitySSPathTracingURP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 33 | 5 | 
 | 2023-03-28 | 32 | 5 | 
 | 2023-03-27 | 32 | 5 | 
 | 2023-03-26 | 32 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 31 | 5 | 
 | 2023-03-04 | 31 | 5 | 
 | 2023-03-02 | 31 | 5 | 
-| 2023-03-01 | 30 | 5 | 
 

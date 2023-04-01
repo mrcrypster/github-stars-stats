@@ -1,10 +1,10 @@
 # piitaya/lovelace-mushroom - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 229
+☋ Forks: 231
 
-★ Stars: 2165
+★ Stars: 2179
 
 [Open repository](https://github.com/piitaya/lovelace-mushroom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2179 | 231 | 
 | 2023-03-29 | 2165 | 229 | 
 | 2023-03-27 | 2159 | 229 | 
 | 2023-03-26 | 2157 | 226 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2104 | 215 | 
 | 2023-03-03 | 2098 | 214 | 
 | 2023-03-02 | 2095 | 214 | 
-| 2023-03-01 | 2089 | 213 | 
 

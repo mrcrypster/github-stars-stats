@@ -1,6 +1,6 @@
 # curtinlv/gd - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 289 | 186 | 
 | 2023-03-29 | 289 | 186 | 
 | 2023-03-28 | 289 | 186 | 
 | 2023-03-26 | 289 | 186 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 288 | 185 | 
 | 2023-03-03 | 288 | 185 | 
 | 2023-03-02 | 288 | 184 | 
-| 2023-03-01 | 288 | 184 | 
 

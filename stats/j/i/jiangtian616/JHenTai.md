@@ -1,10 +1,10 @@
 # jiangtian616/JHenTai - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 22
 
-★ Stars: 727
+★ Stars: 731
 
 [Open repository](https://github.com/jiangtian616/JHenTai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 731 | 22 | 
 | 2023-03-30 | 727 | 22 | 
 | 2023-03-28 | 721 | 22 | 
 | 2023-03-27 | 721 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 652 | 21 | 
 | 2023-03-03 | 652 | 20 | 
 | 2023-03-02 | 649 | 20 | 
-| 2023-03-01 | 647 | 20 | 
 

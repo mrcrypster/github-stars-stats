@@ -1,10 +1,10 @@
 # unikraft/unikraft - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1068
+☋ Forks: 1071
 
-★ Stars: 1293
+★ Stars: 1306
 
 [Open repository](https://github.com/unikraft/unikraft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1306 | 1071 | 
 | 2023-03-29 | 1293 | 1068 | 
 | 2023-03-27 | 1279 | 1063 | 
 | 2023-03-26 | 1274 | 1062 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1242 | 1066 | 
 | 2023-03-04 | 1243 | 1067 | 
 | 2023-03-02 | 1242 | 1066 | 
-| 2023-03-01 | 1239 | 1069 | 
 

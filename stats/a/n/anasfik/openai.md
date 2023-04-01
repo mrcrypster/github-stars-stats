@@ -1,10 +1,10 @@
 # anasfik/openai - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 25
+☋ Forks: 27
 
-★ Stars: 80
+★ Stars: 85
 
 [Open repository](https://github.com/anasfik/openai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 85 | 27 | 
 | 2023-03-30 | 80 | 25 | 
 | 2023-03-28 | 72 | 24 | 
 | 2023-03-27 | 70 | 23 | 

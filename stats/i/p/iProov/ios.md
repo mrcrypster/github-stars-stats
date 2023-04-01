@@ -1,6 +1,6 @@
 # iProov/ios - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 22 | 8 | 
 | 2023-03-29 | 22 | 8 | 
 | 2023-03-27 | 22 | 8 | 
 | 2023-03-26 | 22 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 22 | 8 | 
 | 2023-03-03 | 22 | 8 | 
 | 2023-03-02 | 22 | 8 | 
-| 2023-03-01 | 22 | 9 | 
 

@@ -1,6 +1,6 @@
 # zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 267 | 24 | 
 | 2023-03-29 | 267 | 24 | 
 | 2023-03-27 | 267 | 24 | 
 | 2023-03-25 | 267 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 262 | 23 | 
 | 2023-03-03 | 261 | 22 | 
 | 2023-03-02 | 261 | 22 | 
-| 2023-03-01 | 259 | 22 | 
 

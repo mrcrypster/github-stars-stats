@@ -1,10 +1,10 @@
 # app-generator/django-soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 63
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/app-generator/django-soft-ui-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 157 | 63 | 
 | 2023-03-29 | 156 | 63 | 
 | 2023-03-27 | 156 | 63 | 
 | 2023-03-26 | 156 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 155 | 63 | 
 | 2023-03-03 | 155 | 63 | 
 | 2023-03-02 | 155 | 63 | 
-| 2023-03-01 | 155 | 63 | 
 

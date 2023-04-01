@@ -1,6 +1,6 @@
 # AllisonOge/electromagnetism-and-antenna-theory-v2-1 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | 3 | 
 | 2023-03-29 | 1 | 3 | 
 | 2023-03-28 | 1 | 3 | 
 | 2023-03-26 | 1 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1 | 3 | 
 | 2023-03-04 | 1 | 3 | 
 | 2023-03-02 | 1 | 3 | 
-| 2023-03-01 | 1 | 3 | 
 

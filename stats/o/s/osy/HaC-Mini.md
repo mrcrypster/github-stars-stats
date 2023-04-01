@@ -1,10 +1,10 @@
 # osy/HaC-Mini - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 150
 
-★ Stars: 1135
+★ Stars: 1136
 
 [Open repository](https://github.com/osy/HaC-Mini)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1136 | 150 | 
 | 2023-03-29 | 1135 | 150 | 
 | 2023-03-27 | 1135 | 150 | 
 | 2023-03-26 | 1135 | 150 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1130 | 150 | 
 | 2023-03-04 | 1129 | 150 | 
 | 2023-03-03 | 1129 | 150 | 
-| 2023-03-01 | 1129 | 150 | 
 

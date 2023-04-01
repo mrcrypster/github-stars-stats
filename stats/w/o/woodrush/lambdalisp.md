@@ -1,6 +1,6 @@
 # woodrush/lambdalisp - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 191 | 6 | 
 | 2023-03-29 | 191 | 6 | 
 | 2023-03-27 | 190 | 6 | 
 | 2023-03-26 | 190 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 187 | 6 | 
 | 2023-03-04 | 187 | 6 | 
 | 2023-03-03 | 187 | 6 | 
-| 2023-03-01 | 185 | 6 | 
 

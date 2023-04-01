@@ -1,6 +1,6 @@
 # microsoft/dotnet-framework-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 618 | 324 | 
 | 2023-03-30 | 618 | 324 | 
 | 2023-03-28 | 617 | 322 | 
 | 2023-03-27 | 616 | 321 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 611 | 319 | 
 | 2023-03-03 | 610 | 319 | 
 | 2023-03-02 | 610 | 319 | 
-| 2023-03-01 | 610 | 318 | 
 

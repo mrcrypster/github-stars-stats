@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 31
 
 ☋ Forks: 37
 
-★ Stars: 61
+★ Stars: 63
 
 [Open repository](https://github.com/alura-cursos/imersao-java-2)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 61 | 37 | 
+| 2023-03-31 | 63 | 37 | 
 | 2023-03-29 | 52 | 34 | 
 

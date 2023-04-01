@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 31
 
 ☋ Forks: 81
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/openhwgroup/cvfpu)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 257 | 81 | 
+| 2023-03-31 | 258 | 81 | 
 | 2023-03-30 | 257 | 81 | 
 | 2023-03-29 | 256 | 81 | 
 | 2023-03-27 | 256 | 80 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-04 | 246 | 79 | 
 | 2023-03-03 | 246 | 79 | 
 | 2023-03-02 | 246 | 79 | 
-| 2023-03-01 | 246 | 79 | 
 

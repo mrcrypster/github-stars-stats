@@ -1,10 +1,10 @@
 # FairCrypto/XEN-crypto - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 56
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/FairCrypto/XEN-crypto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 182 | 56 | 
 | 2023-03-29 | 181 | 56 | 
 | 2023-03-27 | 181 | 56 | 
 | 2023-03-25 | 181 | 56 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 180 | 57 | 
 | 2023-03-03 | 180 | 57 | 
 | 2023-03-02 | 181 | 57 | 
-| 2023-03-01 | 181 | 57 | 
 

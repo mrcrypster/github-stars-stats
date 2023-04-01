@@ -1,6 +1,6 @@
 # iiijam/ice_live_viewer - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 250 | 48 | 
 | 2023-03-29 | 250 | 48 | 
 | 2023-03-28 | 250 | 47 | 
 | 2023-03-26 | 250 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 245 | 39 | 
 | 2023-03-04 | 245 | 39 | 
 | 2023-03-02 | 246 | 39 | 
-| 2023-03-01 | 246 | 37 | 
 

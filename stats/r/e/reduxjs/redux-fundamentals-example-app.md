@@ -1,8 +1,8 @@
 # reduxjs/redux-fundamentals-example-app - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 282
+☋ Forks: 281
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 67 | 281 | 
 | 2023-03-29 | 67 | 282 | 
 | 2023-03-27 | 67 | 282 | 
 | 2023-03-26 | 67 | 282 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 66 | 280 | 
 | 2023-03-03 | 66 | 280 | 
 | 2023-03-02 | 66 | 280 | 
-| 2023-03-01 | 66 | 280 | 
 

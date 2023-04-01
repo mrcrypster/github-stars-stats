@@ -1,10 +1,10 @@
 # elbuo8/platzi-scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 284
+☋ Forks: 285
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/elbuo8/platzi-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 60 | 285 | 
 | 2023-03-30 | 59 | 284 | 
 | 2023-03-29 | 59 | 283 | 
 | 2023-03-28 | 59 | 282 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 58 | 279 | 
 | 2023-03-04 | 58 | 279 | 
 | 2023-03-03 | 58 | 278 | 
-| 2023-03-01 | 58 | 278 | 
 

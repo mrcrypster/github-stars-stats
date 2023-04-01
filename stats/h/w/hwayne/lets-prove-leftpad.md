@@ -1,10 +1,10 @@
 # hwayne/lets-prove-leftpad - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 54
 
-★ Stars: 544
+★ Stars: 545
 
 [Open repository](https://github.com/hwayne/lets-prove-leftpad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 545 | 54 | 
 | 2023-03-29 | 544 | 54 | 
 | 2023-03-28 | 544 | 54 | 
 | 2023-03-26 | 544 | 54 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 544 | 54 | 
 | 2023-03-03 | 544 | 54 | 
 | 2023-03-02 | 544 | 54 | 
-| 2023-03-01 | 544 | 54 | 
 

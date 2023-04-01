@@ -1,10 +1,10 @@
 # jvirtanen/vim-hcl - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/jvirtanen/vim-hcl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 106 | 11 | 
 | 2023-03-29 | 105 | 11 | 
 | 2023-03-28 | 105 | 11 | 
 | 2023-03-26 | 105 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 105 | 11 | 
 | 2023-03-03 | 105 | 11 | 
 | 2023-03-02 | 105 | 11 | 
-| 2023-03-01 | 105 | 11 | 
 

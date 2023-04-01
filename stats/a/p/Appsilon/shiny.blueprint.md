@@ -1,10 +1,10 @@
 # Appsilon/shiny.blueprint - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/Appsilon/shiny.blueprint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 21 | 3 | 
 | 2023-03-29 | 19 | 3 | 
 | 2023-03-28 | 19 | 3 | 
 | 2023-03-26 | 19 | 3 | 

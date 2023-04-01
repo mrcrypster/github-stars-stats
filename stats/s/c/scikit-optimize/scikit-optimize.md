@@ -1,6 +1,6 @@
 # scikit-optimize/scikit-optimize - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 484
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2558 | 484 | 
 | 2023-03-29 | 2558 | 484 | 
 | 2023-03-28 | 2557 | 484 | 
 | 2023-03-26 | 2556 | 484 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2542 | 482 | 
 | 2023-03-03 | 2542 | 482 | 
 | 2023-03-02 | 2542 | 483 | 
-| 2023-03-01 | 2541 | 483 | 
 

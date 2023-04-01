@@ -1,6 +1,6 @@
 # voxpupuli/puppet-poudriere - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 14 | 14 | 
 | 2023-03-29 | 14 | 14 | 
 | 2023-03-27 | 13 | 14 | 
 | 2023-03-26 | 13 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 13 | 14 | 
 | 2023-03-03 | 13 | 14 | 
 | 2023-03-02 | 13 | 14 | 
-| 2023-03-01 | 13 | 14 | 
 

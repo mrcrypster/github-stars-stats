@@ -1,6 +1,6 @@
 # rigelminer/rigel - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 66 | 5 | 
 | 2023-03-29 | 66 | 5 | 
 | 2023-03-27 | 65 | 5 | 
 | 2023-03-26 | 65 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 58 | 5 | 
 | 2023-03-04 | 57 | 5 | 
 | 2023-03-03 | 56 | 5 | 
-| 2023-03-01 | 56 | 5 | 
 

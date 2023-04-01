@@ -1,10 +1,10 @@
 # v1s1t0r1sh3r3/airgeddon - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1039
+☋ Forks: 1040
 
-★ Stars: 4876
+★ Stars: 4885
 
 [Open repository](https://github.com/v1s1t0r1sh3r3/airgeddon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4885 | 1040 | 
 | 2023-03-29 | 4876 | 1039 | 
 | 2023-03-28 | 4871 | 1038 | 
 | 2023-03-27 | 4871 | 1038 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 4813 | 1031 | 
 | 2023-03-04 | 4810 | 1033 | 
 | 2023-03-02 | 4807 | 1031 | 
-| 2023-03-01 | 4803 | 1031 | 
 

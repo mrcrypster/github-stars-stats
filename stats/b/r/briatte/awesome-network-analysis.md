@@ -1,10 +1,10 @@
 # briatte/awesome-network-analysis - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 575
 
-★ Stars: 3011
+★ Stars: 3014
 
 [Open repository](https://github.com/briatte/awesome-network-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3014 | 575 | 
 | 2023-03-29 | 3011 | 575 | 
 | 2023-03-28 | 3009 | 575 | 
 | 2023-03-27 | 3009 | 575 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2972 | 576 | 
 | 2023-03-03 | 2969 | 576 | 
 | 2023-03-02 | 2968 | 576 | 
-| 2023-03-01 | 2967 | 576 | 
 

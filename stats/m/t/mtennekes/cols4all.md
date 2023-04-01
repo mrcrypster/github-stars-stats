@@ -1,6 +1,6 @@
 # mtennekes/cols4all - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 241 | 11 | 
 | 2023-03-28 | 241 | 11 | 
 | 2023-03-27 | 241 | 11 | 
 | 2023-03-26 | 241 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 240 | 11 | 
 | 2023-03-03 | 240 | 11 | 
 | 2023-03-02 | 240 | 11 | 
-| 2023-03-01 | 239 | 11 | 
 

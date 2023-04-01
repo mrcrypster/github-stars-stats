@@ -1,10 +1,10 @@
 # aws-amplify/amplify-swift - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 153
+☋ Forks: 154
 
-★ Stars: 330
+★ Stars: 331
 
 [Open repository](https://github.com/aws-amplify/amplify-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 331 | 154 | 
 | 2023-03-29 | 330 | 153 | 
 | 2023-03-27 | 330 | 152 | 
 | 2023-03-26 | 330 | 152 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 326 | 149 | 
 | 2023-03-03 | 326 | 149 | 
 | 2023-03-02 | 326 | 149 | 
-| 2023-03-01 | 326 | 149 | 
 

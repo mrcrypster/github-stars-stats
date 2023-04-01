@@ -1,10 +1,10 @@
 # NilFoundation/zkllvm - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/NilFoundation/zkllvm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 93 | 6 | 
 | 2023-03-29 | 91 | 5 | 
 | 2023-03-28 | 91 | 5 | 
 

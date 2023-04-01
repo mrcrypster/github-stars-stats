@@ -1,10 +1,10 @@
 # AngusJohnson/Clipper2 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 122
+☋ Forks: 124
 
-★ Stars: 559
+★ Stars: 560
 
 [Open repository](https://github.com/AngusJohnson/Clipper2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 560 | 124 | 
 | 2023-03-30 | 559 | 122 | 
 | 2023-03-29 | 556 | 122 | 
 | 2023-03-28 | 554 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 518 | 109 | 
 | 2023-03-03 | 518 | 108 | 
 | 2023-03-02 | 517 | 107 | 
-| 2023-03-01 | 515 | 105 | 
 

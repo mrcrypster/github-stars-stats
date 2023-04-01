@@ -1,10 +1,10 @@
 # shankarpandala/lazypredict - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 222
+☋ Forks: 223
 
-★ Stars: 1942
+★ Stars: 1954
 
 [Open repository](https://github.com/shankarpandala/lazypredict)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1954 | 223 | 
 | 2023-03-29 | 1942 | 222 | 
 | 2023-03-28 | 1937 | 221 | 
 | 2023-03-26 | 1932 | 221 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1877 | 212 | 
 | 2023-03-03 | 1868 | 212 | 
 | 2023-03-02 | 1863 | 212 | 
-| 2023-03-01 | 1857 | 212 | 
 

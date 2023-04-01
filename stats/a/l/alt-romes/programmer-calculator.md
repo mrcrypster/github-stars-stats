@@ -1,6 +1,6 @@
 # alt-romes/programmer-calculator - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 479 | 18 | 
 | 2023-03-30 | 479 | 18 | 
 | 2023-03-29 | 478 | 18 | 
 | 2023-03-27 | 478 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 475 | 17 | 
 | 2023-03-04 | 475 | 17 | 
 | 2023-03-03 | 475 | 17 | 
-| 2023-03-02 | 473 | 17 | 
 

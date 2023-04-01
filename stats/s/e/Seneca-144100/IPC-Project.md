@@ -1,10 +1,10 @@
 # Seneca-144100/IPC-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 105
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Seneca-144100/IPC-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 24 | 105 | 
 | 2023-03-29 | 23 | 105 | 
 | 2023-03-27 | 22 | 105 | 
 | 2023-03-26 | 21 | 105 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 20 | 101 | 
 | 2023-03-03 | 20 | 102 | 
 | 2023-03-02 | 20 | 102 | 
-| 2023-03-01 | 20 | 102 | 
 

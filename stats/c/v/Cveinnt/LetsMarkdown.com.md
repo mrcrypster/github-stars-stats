@@ -1,10 +1,10 @@
 # Cveinnt/LetsMarkdown.com - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 29
 
-★ Stars: 714
+★ Stars: 715
 
 [Open repository](https://github.com/Cveinnt/LetsMarkdown.com)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 715 | 29 | 
 | 2023-03-29 | 714 | 29 | 
 | 2023-03-27 | 714 | 29 | 
 | 2023-03-26 | 714 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 706 | 28 | 
 | 2023-03-03 | 706 | 28 | 
 | 2023-03-02 | 705 | 28 | 
-| 2023-03-01 | 703 | 27 | 
 

@@ -1,10 +1,10 @@
 # lkwq007/stablediffusion-infinity - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 243
+☋ Forks: 244
 
-★ Stars: 3158
+★ Stars: 3169
 
 [Open repository](https://github.com/lkwq007/stablediffusion-infinity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3169 | 244 | 
 | 2023-03-29 | 3158 | 243 | 
 | 2023-03-27 | 3148 | 242 | 
 | 2023-03-26 | 3145 | 241 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3060 | 240 | 
 | 2023-03-04 | 3056 | 240 | 
 | 2023-03-03 | 3054 | 237 | 
-| 2023-03-01 | 3048 | 238 | 
 

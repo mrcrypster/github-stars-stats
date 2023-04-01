@@ -1,10 +1,10 @@
 # Lakr233/Kimis - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 13
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/Lakr233/Kimis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 183 | 13 | 
 | 2023-03-29 | 182 | 13 | 
 | 2023-03-28 | 182 | 13 | 
 | 2023-03-26 | 181 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 179 | 13 | 
 | 2023-03-04 | 180 | 11 | 
 | 2023-03-03 | 180 | 11 | 
-| 2023-03-01 | 179 | 11 | 
 

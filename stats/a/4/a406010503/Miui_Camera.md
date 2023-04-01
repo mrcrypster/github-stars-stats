@@ -1,10 +1,10 @@
 # a406010503/Miui_Camera - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 18
 
-★ Stars: 462
+★ Stars: 467
 
 [Open repository](https://github.com/a406010503/Miui_Camera)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 467 | 18 | 
 | 2023-03-29 | 462 | 18 | 
 | 2023-03-27 | 460 | 18 | 
 | 2023-03-26 | 457 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 426 | 15 | 
 | 2023-03-04 | 423 | 15 | 
 | 2023-03-02 | 423 | 15 | 
-| 2023-03-01 | 422 | 15 | 
 

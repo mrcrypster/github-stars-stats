@@ -1,10 +1,10 @@
 # vyuldashev/laravel-queue-rabbitmq - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 354
 
-★ Stars: 1634
+★ Stars: 1636
 
 [Open repository](https://github.com/vyuldashev/laravel-queue-rabbitmq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1636 | 354 | 
 | 2023-03-29 | 1634 | 354 | 
 | 2023-03-28 | 1632 | 353 | 
 | 2023-03-26 | 1631 | 353 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1620 | 351 | 
 | 2023-03-04 | 1620 | 351 | 
 | 2023-03-03 | 1618 | 351 | 
-| 2023-03-01 | 1617 | 351 | 
 

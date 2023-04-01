@@ -1,6 +1,6 @@
 # BtwefKang/Shubham-Nimase - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 54 | 23 | 
 | 2023-03-28 | 54 | 23 | 
 | 2023-03-26 | 54 | 23 | 
 | 2023-03-25 | 54 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 54 | 23 | 
 | 2023-03-04 | 54 | 23 | 
 | 2023-03-02 | 54 | 23 | 
-| 2023-03-01 | 54 | 23 | 
 

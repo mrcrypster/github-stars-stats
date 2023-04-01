@@ -1,10 +1,10 @@
 # clear-code-projects/PyDew-Valley - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 80
+☋ Forks: 82
 
-★ Stars: 249
+★ Stars: 252
 
 [Open repository](https://github.com/clear-code-projects/PyDew-Valley)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 252 | 82 | 
 | 2023-03-29 | 249 | 80 | 
 | 2023-03-27 | 246 | 80 | 
 | 2023-03-26 | 244 | 80 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 226 | 75 | 
 | 2023-03-03 | 226 | 75 | 
 | 2023-03-02 | 226 | 75 | 
-| 2023-03-01 | 225 | 75 | 
 

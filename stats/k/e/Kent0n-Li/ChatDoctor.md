@@ -1,10 +1,10 @@
 # Kent0n-Li/ChatDoctor - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 118
+☋ Forks: 141
 
-★ Stars: 1256
+★ Stars: 1422
 
 [Open repository](https://github.com/Kent0n-Li/ChatDoctor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1422 | 141 | 
 | 2023-03-30 | 1256 | 118 | 
 | 2023-03-29 | 813 | 79 | 
 | 2023-03-28 | 450 | 54 | 

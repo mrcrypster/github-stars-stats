@@ -1,6 +1,6 @@
 # YassinNouh21/Flutter_workshop_GDSC_2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6 | 22 | 
 | 2023-03-29 | 6 | 22 | 
 | 2023-03-28 | 6 | 22 | 
 | 2023-03-26 | 6 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 7 | 22 | 
 | 2023-03-03 | 7 | 22 | 
 | 2023-03-02 | 7 | 22 | 
-| 2023-03-01 | 7 | 22 | 
 

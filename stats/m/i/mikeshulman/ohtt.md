@@ -1,10 +1,10 @@
 # mikeshulman/ohtt - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/mikeshulman/ohtt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 32 | 1 | 
 | 2023-03-29 | 31 | 1 | 
 | 2023-03-28 | 31 | 1 | 
 | 2023-03-26 | 31 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 30 | 1 | 
 | 2023-03-03 | 30 | 1 | 
 | 2023-03-02 | 30 | 1 | 
-| 2023-03-01 | 30 | 1 | 
 

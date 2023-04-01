@@ -1,10 +1,10 @@
 # 01101010110/MODWIN - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
-★ Stars: 52
+★ Stars: 51
 
 [Open repository](https://github.com/01101010110/MODWIN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 51 | - | 
 | 2023-03-29 | 52 | - | 
 | 2023-03-28 | 50 | - | 
 | 2023-03-27 | 48 | - | 

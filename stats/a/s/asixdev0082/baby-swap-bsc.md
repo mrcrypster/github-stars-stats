@@ -1,6 +1,6 @@
 # asixdev0082/baby-swap-bsc - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 19 | - | 
 | 2023-03-29 | 19 | - | 
 | 2023-03-27 | 19 | - | 
 | 2023-03-26 | 19 | - | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 18 | - | 
 | 2023-03-03 | 18 | - | 
 | 2023-03-02 | 18 | - | 
-| 2023-03-01 | 18 | - | 
 

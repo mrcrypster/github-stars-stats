@@ -1,10 +1,10 @@
 # heavenshell/vim-jsdoc - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 42
 
-★ Stars: 431
+★ Stars: 432
 
 [Open repository](https://github.com/heavenshell/vim-jsdoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 432 | 42 | 
 | 2023-03-29 | 431 | 42 | 
 | 2023-03-27 | 431 | 42 | 
 | 2023-03-26 | 431 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 430 | 42 | 
 | 2023-03-04 | 430 | 42 | 
 | 2023-03-02 | 430 | 42 | 
-| 2023-03-01 | 430 | 42 | 
 

@@ -1,10 +1,10 @@
 # capistrano/capistrano - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1823
+☋ Forks: 1822
 
-★ Stars: 12429
+★ Stars: 12435
 
 [Open repository](https://github.com/capistrano/capistrano)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 12435 | 1822 | 
 | 2023-03-29 | 12429 | 1823 | 
 | 2023-03-27 | 12426 | 1823 | 
 | 2023-03-26 | 12423 | 1823 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 12394 | 1818 | 
 | 2023-03-03 | 12393 | 1818 | 
 | 2023-03-02 | 12393 | 1818 | 
-| 2023-03-01 | 12390 | 1819 | 
 

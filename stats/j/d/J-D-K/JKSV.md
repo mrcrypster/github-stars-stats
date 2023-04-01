@@ -1,10 +1,10 @@
 # J-D-K/JKSV - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 66
 
-★ Stars: 894
+★ Stars: 895
 
 [Open repository](https://github.com/J-D-K/JKSV)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 895 | 66 | 
 | 2023-03-29 | 894 | 66 | 
 | 2023-03-28 | 893 | 66 | 
 | 2023-03-26 | 892 | 66 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 871 | 63 | 
 | 2023-03-04 | 871 | 63 | 
 | 2023-03-03 | 868 | 62 | 
-| 2023-03-01 | 866 | 62 | 
 

@@ -1,10 +1,10 @@
 # github/india - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 418
 
-★ Stars: 1688
+★ Stars: 1690
 
 [Open repository](https://github.com/github/india)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1690 | 418 | 
 | 2023-03-29 | 1688 | 418 | 
 | 2023-03-27 | 1689 | 417 | 
 | 2023-03-26 | 1688 | 418 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1688 | 417 | 
 | 2023-03-04 | 1686 | 417 | 
 | 2023-03-03 | 1686 | 417 | 
-| 2023-03-02 | 1686 | 417 | 
 

@@ -1,10 +1,10 @@
 # ffxiv-teamcraft/ffxiv-teamcraft - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 195
 
-★ Stars: 932
+★ Stars: 934
 
 [Open repository](https://github.com/ffxiv-teamcraft/ffxiv-teamcraft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 934 | 195 | 
 | 2023-03-29 | 932 | 195 | 
 | 2023-03-28 | 931 | 195 | 
 | 2023-03-26 | 929 | 195 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 896 | 193 | 
 | 2023-03-03 | 895 | 192 | 
 | 2023-03-02 | 895 | 193 | 
-| 2023-03-01 | 896 | 193 | 
 

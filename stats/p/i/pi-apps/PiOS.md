@@ -1,6 +1,6 @@
 # pi-apps/PiOS - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 228 | 66 | 
 | 2023-03-28 | 228 | 66 | 
 | 2023-03-27 | 228 | 66 | 
 | 2023-03-25 | 228 | 66 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 219 | 63 | 
 | 2023-03-04 | 217 | 63 | 
 | 2023-03-02 | 217 | 62 | 
-| 2023-03-01 | 216 | 61 | 
 

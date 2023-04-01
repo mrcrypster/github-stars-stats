@@ -1,10 +1,10 @@
 # PIPILAN/Parasites-Blood-Dawn - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 7
 
 [Open repository](https://github.com/PIPILAN/Parasites-Blood-Dawn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 7 | 2 | 
 | 2023-03-29 | 8 | 2 | 
 | 2023-03-27 | 8 | 2 | 
 | 2023-03-26 | 8 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 8 | 2 | 
 | 2023-03-03 | 8 | 2 | 
 | 2023-03-02 | 8 | 2 | 
-| 2023-03-01 | 8 | 2 | 
 

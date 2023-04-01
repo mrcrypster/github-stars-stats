@@ -1,10 +1,10 @@
 # CrowdStrike/psfalcon - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 47
 
-★ Stars: 240
+★ Stars: 243
 
 [Open repository](https://github.com/CrowdStrike/psfalcon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 243 | 47 | 
 | 2023-03-29 | 240 | 47 | 
 | 2023-03-27 | 239 | 47 | 
 | 2023-03-26 | 239 | 47 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 236 | 45 | 
 | 2023-03-04 | 236 | 45 | 
 | 2023-03-03 | 235 | 45 | 
-| 2023-03-01 | 234 | 44 | 
 

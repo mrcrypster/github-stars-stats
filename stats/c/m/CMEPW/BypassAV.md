@@ -1,10 +1,10 @@
 # CMEPW/BypassAV - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 132
 
-★ Stars: 1141
+★ Stars: 1143
 
 [Open repository](https://github.com/CMEPW/BypassAV)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1143 | 132 | 
 | 2023-03-29 | 1141 | 132 | 
 | 2023-03-27 | 1131 | 131 | 
 | 2023-03-26 | 1131 | 131 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 992 | 121 | 
 | 2023-03-03 | 988 | 121 | 
 | 2023-03-02 | 982 | 118 | 
-| 2023-03-01 | 981 | 118 | 
 

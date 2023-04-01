@@ -1,10 +1,10 @@
 # jkeys089/lua-resty-hmac - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 96
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/jkeys089/lua-resty-hmac)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 144 | 96 | 
 | 2023-03-29 | 143 | 96 | 
 | 2023-03-28 | 143 | 96 | 
 | 2023-03-26 | 143 | 96 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 143 | 95 | 
 | 2023-03-04 | 143 | 95 | 
 | 2023-03-03 | 143 | 95 | 
-| 2023-03-02 | 143 | 95 | 
 

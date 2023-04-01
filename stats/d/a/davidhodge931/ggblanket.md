@@ -1,10 +1,10 @@
 # davidhodge931/ggblanket - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/davidhodge931/ggblanket)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 87 | 5 | 
 | 2023-03-28 | 86 | 4 | 
 | 2023-03-27 | 84 | 4 | 
 | 2023-03-26 | 84 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 83 | 4 | 
 | 2023-03-04 | 83 | 4 | 
 | 2023-03-03 | 83 | 4 | 
-| 2023-03-02 | 83 | 4 | 
 

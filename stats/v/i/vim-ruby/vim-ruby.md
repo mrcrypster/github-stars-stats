@@ -1,8 +1,8 @@
 # vim-ruby/vim-ruby - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 299
+☋ Forks: 300
 
 ★ Stars: 1950
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1950 | 300 | 
 | 2023-03-29 | 1950 | 299 | 
 | 2023-03-27 | 1950 | 299 | 
 | 2023-03-26 | 1951 | 299 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1947 | 297 | 
 | 2023-03-04 | 1948 | 297 | 
 | 2023-03-03 | 1948 | 297 | 
-| 2023-03-01 | 1948 | 297 | 
 

@@ -1,10 +1,10 @@
 # thu-ml/unidiffuser - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 48
 
-★ Stars: 773
+★ Stars: 785
 
 [Open repository](https://github.com/thu-ml/unidiffuser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 785 | 48 | 
 | 2023-03-29 | 773 | 48 | 
 | 2023-03-27 | 767 | 47 | 
 | 2023-03-26 | 762 | 45 | 

@@ -1,6 +1,6 @@
 # unknownannoynmus3/FreeRDPServerRelease - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 55
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2 | 55 | 
 | 2023-03-30 | 2 | 55 | 
 

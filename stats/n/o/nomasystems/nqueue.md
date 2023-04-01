@@ -1,6 +1,6 @@
 # nomasystems/nqueue - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 11 | - | 
+| 2023-03-31 | 11 | - | 
 | 2023-03-28 | 11 | - | 
 | 2023-03-27 | 11 | - | 
 | 2023-03-25 | 11 | - | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 11 | - | 
 | 2023-03-03 | 11 | - | 
 | 2023-03-02 | 11 | - | 
-| 2023-03-01 | 11 | - | 
 

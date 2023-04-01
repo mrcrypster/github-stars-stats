@@ -1,10 +1,10 @@
 # libsdl-org/SDL - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1015
+☋ Forks: 1020
 
-★ Stars: 5280
+★ Stars: 5291
 
 [Open repository](https://github.com/libsdl-org/SDL)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 5291 | 1020 | 
 | 2023-03-29 | 5280 | 1015 | 
 | 2023-03-27 | 5263 | 1012 | 
 | 2023-03-26 | 5255 | 1012 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 5083 | 983 | 
 | 2023-03-03 | 5081 | 981 | 
 | 2023-03-02 | 5075 | 979 | 
-| 2023-03-01 | 5063 | 977 | 
 

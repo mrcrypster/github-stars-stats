@@ -1,10 +1,10 @@
 # skydoves/Balloon - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 248
+☋ Forks: 249
 
-★ Stars: 3035
+★ Stars: 3040
 
 [Open repository](https://github.com/skydoves/Balloon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3040 | 249 | 
 | 2023-03-29 | 3035 | 248 | 
 | 2023-03-28 | 3032 | 248 | 
 | 2023-03-26 | 3031 | 248 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3008 | 247 | 
 | 2023-03-03 | 3007 | 247 | 
 | 2023-03-02 | 3007 | 247 | 
-| 2023-03-01 | 3006 | 247 | 
 

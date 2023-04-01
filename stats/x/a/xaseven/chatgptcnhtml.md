@@ -1,10 +1,10 @@
 # xaseven/chatgptcnhtml - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 34
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/xaseven/chatgptcnhtml)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 37 | 34 | 
 | 2023-03-29 | 36 | 34 | 
 | 2023-03-28 | 35 | 34 | 
 | 2023-03-26 | 35 | 34 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 31 | 34 | 
 | 2023-03-04 | 31 | 33 | 
 | 2023-03-03 | 30 | 31 | 
-| 2023-03-02 | 30 | 31 | 
 

@@ -1,10 +1,10 @@
 # microsoft/PowerBI-Icons - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 233
+★ Stars: 235
 
 [Open repository](https://github.com/microsoft/PowerBI-Icons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 235 | 113 | 
 | 2023-03-29 | 233 | 112 | 
 | 2023-03-27 | 231 | 112 | 
 | 2023-03-26 | 231 | 112 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 227 | 107 | 
 | 2023-03-03 | 226 | 108 | 
 | 2023-03-02 | 226 | 108 | 
-| 2023-03-01 | 226 | 108 | 
 

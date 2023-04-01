@@ -1,10 +1,10 @@
 # haskell-beginners-2022/course-plan - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 26
 
-★ Stars: 677
+★ Stars: 683
 
 [Open repository](https://github.com/haskell-beginners-2022/course-plan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 683 | 26 | 
 | 2023-03-30 | 677 | 26 | 
 | 2023-03-28 | 667 | 26 | 
 | 2023-03-27 | 667 | 26 | 

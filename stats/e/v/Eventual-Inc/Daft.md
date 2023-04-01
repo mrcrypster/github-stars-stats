@@ -1,10 +1,10 @@
 # Eventual-Inc/Daft - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 19
 
-★ Stars: 513
+★ Stars: 515
 
 [Open repository](https://github.com/Eventual-Inc/Daft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 515 | 19 | 
 | 2023-03-29 | 513 | 19 | 
 | 2023-03-27 | 514 | 19 | 
 | 2023-03-25 | 513 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 470 | 18 | 
 | 2023-03-03 | 470 | 18 | 
 | 2023-03-02 | 470 | 18 | 
-| 2023-03-01 | 470 | 18 | 
 

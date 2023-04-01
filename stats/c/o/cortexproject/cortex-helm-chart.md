@@ -1,6 +1,6 @@
 # cortexproject/cortex-helm-chart - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 135 | 162 | 
 | 2023-03-29 | 135 | 162 | 
 | 2023-03-27 | 135 | 162 | 
 | 2023-03-26 | 135 | 162 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 134 | 161 | 
 | 2023-03-04 | 135 | 161 | 
 | 2023-03-02 | 135 | 161 | 
-| 2023-03-01 | 135 | 161 | 
 

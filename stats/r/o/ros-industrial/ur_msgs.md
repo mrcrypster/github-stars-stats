@@ -1,6 +1,6 @@
 # ros-industrial/ur_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 7 | 21 | 
 | 2023-03-30 | 7 | 21 | 
 | 2023-03-29 | 6 | 21 | 
 | 2023-03-28 | 6 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 6 | 21 | 
 | 2023-03-03 | 6 | 21 | 
 | 2023-03-02 | 6 | 21 | 
-| 2023-03-01 | 6 | 21 | 
 

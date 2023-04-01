@@ -1,6 +1,6 @@
 # obsidiansystems/obelisk - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 828 | 101 | 
 | 2023-03-29 | 828 | 101 | 
 | 2023-03-27 | 827 | 101 | 
 | 2023-03-26 | 827 | 101 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 822 | 98 | 
 | 2023-03-03 | 822 | 98 | 
 | 2023-03-02 | 821 | 98 | 
-| 2023-03-01 | 820 | 98 | 
 

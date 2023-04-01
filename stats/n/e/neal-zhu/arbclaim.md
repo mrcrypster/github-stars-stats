@@ -1,6 +1,6 @@
 # neal-zhu/arbclaim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 67 | 25 | 
 | 2023-03-29 | 67 | 25 | 
 | 2023-03-28 | 67 | 25 | 
 | 2023-03-26 | 66 | 25 | 

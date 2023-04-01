@@ -1,6 +1,6 @@
 # markpash/debrepo - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 53 | 1 | 
 | 2023-03-29 | 53 | 1 | 
 | 2023-03-27 | 53 | 1 | 
 | 2023-03-26 | 53 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 53 | 1 | 
 | 2023-03-04 | 53 | 1 | 
 | 2023-03-03 | 53 | 1 | 
-| 2023-03-01 | 53 | 1 | 
 

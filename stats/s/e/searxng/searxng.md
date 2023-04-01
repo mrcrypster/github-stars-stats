@@ -1,10 +1,10 @@
 # searxng/searxng - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 663
+☋ Forks: 664
 
-★ Stars: 4343
+★ Stars: 4355
 
 [Open repository](https://github.com/searxng/searxng)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4355 | 664 | 
 | 2023-03-29 | 4343 | 663 | 
 | 2023-03-27 | 4336 | 665 | 
 | 2023-03-26 | 4329 | 664 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 4211 | 648 | 
 | 2023-03-04 | 4205 | 647 | 
 | 2023-03-02 | 4197 | 647 | 
-| 2023-03-01 | 4189 | 648 | 
 

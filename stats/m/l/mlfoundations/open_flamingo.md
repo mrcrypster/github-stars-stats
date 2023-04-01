@@ -1,10 +1,10 @@
 # mlfoundations/open_flamingo - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 45
+☋ Forks: 50
 
-★ Stars: 1020
+★ Stars: 1115
 
 [Open repository](https://github.com/mlfoundations/open_flamingo)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1115 | 50 | 
 | 2023-03-30 | 1020 | 45 | 
 

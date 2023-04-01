@@ -1,10 +1,10 @@
 # mholt/PapaParse - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1126
+☋ Forks: 1127
 
-★ Stars: 11237
+★ Stars: 11244
 
 [Open repository](https://github.com/mholt/PapaParse)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 11244 | 1127 | 
 | 2023-03-29 | 11237 | 1126 | 
 | 2023-03-27 | 11231 | 1126 | 
 | 2023-03-26 | 11227 | 1126 | 

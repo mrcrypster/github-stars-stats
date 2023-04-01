@@ -1,10 +1,10 @@
 # tomasonjo/blogs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 130
+☋ Forks: 131
 
-★ Stars: 306
+★ Stars: 307
 
 [Open repository](https://github.com/tomasonjo/blogs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 307 | 131 | 
 | 2023-03-29 | 306 | 130 | 
 | 2023-03-27 | 299 | 129 | 
 | 2023-03-26 | 299 | 127 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 293 | 126 | 
 | 2023-03-03 | 293 | 126 | 
 | 2023-03-02 | 292 | 126 | 
-| 2023-03-01 | 291 | 126 | 
 

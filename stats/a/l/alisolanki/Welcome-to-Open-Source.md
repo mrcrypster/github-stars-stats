@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 31
 
-☋ Forks: 538
+☋ Forks: 542
 
-★ Stars: 353
+★ Stars: 358
 
 [Open repository](https://github.com/alisolanki/Welcome-to-Open-Source)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 353 | 538 | 
+| 2023-03-31 | 358 | 542 | 
 | 2023-03-30 | 352 | 535 | 
 | 2023-03-28 | 274 | 420 | 
 | 2023-03-27 | 260 | 397 | 

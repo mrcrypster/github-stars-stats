@@ -1,10 +1,10 @@
 # rust-windowing/winit - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 698
 
-★ Stars: 3288
+★ Stars: 3299
 
 [Open repository](https://github.com/rust-windowing/winit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3299 | 698 | 
 | 2023-03-29 | 3288 | 698 | 
 | 2023-03-27 | 3285 | 697 | 
 | 2023-03-26 | 3283 | 696 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3232 | 681 | 
 | 2023-03-03 | 3228 | 680 | 
 | 2023-03-02 | 3224 | 679 | 
-| 2023-03-01 | 3224 | 680 | 
 

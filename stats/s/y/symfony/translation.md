@@ -1,6 +1,6 @@
 # symfony/translation - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6442 | 86 | 
 | 2023-03-29 | 6442 | 86 | 
 | 2023-03-27 | 6443 | 86 | 
 | 2023-03-26 | 6444 | 86 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 6437 | 85 | 
 | 2023-03-03 | 6438 | 85 | 
 | 2023-03-02 | 6438 | 85 | 
-| 2023-03-01 | 6438 | 85 | 
 

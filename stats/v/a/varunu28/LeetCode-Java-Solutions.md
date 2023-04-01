@@ -1,8 +1,8 @@
 # varunu28/LeetCode-Java-Solutions - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 315
+☋ Forks: 316
 
 ★ Stars: 572
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 572 | 316 | 
 | 2023-03-29 | 572 | 315 | 
 | 2023-03-28 | 572 | 315 | 
 | 2023-03-26 | 572 | 314 | 

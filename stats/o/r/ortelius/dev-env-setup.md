@@ -1,6 +1,6 @@
 # ortelius/dev-env-setup - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 7 | 3 | 
 | 2023-03-28 | 7 | 3 | 
 | 2023-03-27 | 7 | 3 | 
 | 2023-03-26 | 7 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-04 | 5 | 2 | 
 | 2023-03-03 | 5 | 2 | 
 | 2023-03-02 | 5 | 2 | 
-| 2023-03-01 | 4 | 2 | 
 

@@ -1,8 +1,8 @@
 # sjtug/SJTUThesis - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 733
+☋ Forks: 734
 
 ★ Stars: 2781
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2781 | 734 | 
 | 2023-03-29 | 2781 | 733 | 
 | 2023-03-27 | 2779 | 733 | 
 | 2023-03-26 | 2778 | 733 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2753 | 729 | 
 | 2023-03-04 | 2750 | 729 | 
 | 2023-03-02 | 2748 | 729 | 
-| 2023-03-01 | 2748 | 729 | 
 

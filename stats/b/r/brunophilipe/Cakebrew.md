@@ -1,10 +1,10 @@
 # brunophilipe/Cakebrew - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 251
 
-★ Stars: 4478
+★ Stars: 4479
 
 [Open repository](https://github.com/brunophilipe/Cakebrew)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4479 | 251 | 
 | 2023-03-29 | 4478 | 251 | 
 | 2023-03-28 | 4477 | 251 | 
 | 2023-03-26 | 4475 | 251 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 4448 | 251 | 
 | 2023-03-04 | 4446 | 252 | 
 | 2023-03-02 | 4443 | 252 | 
-| 2023-03-01 | 4442 | 250 | 
 

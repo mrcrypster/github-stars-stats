@@ -1,6 +1,6 @@
 # achrafelkhnissi/alx-checker - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 18 | 2 | 
 | 2023-03-28 | 18 | 2 | 
 | 2023-03-26 | 18 | 2 | 
 | 2023-03-25 | 18 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 17 | 1 | 
 | 2023-03-04 | 17 | 1 | 
 | 2023-03-03 | 17 | 1 | 
-| 2023-03-01 | 17 | 1 | 
 

@@ -1,10 +1,10 @@
 # vvyoko/EditRename - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
-★ Stars: 168
+★ Stars: 170
 
 [Open repository](https://github.com/vvyoko/EditRename)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 170 | 4 | 
 | 2023-03-29 | 168 | 4 | 
 | 2023-03-27 | 165 | 4 | 
 | 2023-03-26 | 165 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 117 | 3 | 
 | 2023-03-04 | 117 | 3 | 
 | 2023-03-02 | 113 | 3 | 
-| 2023-03-01 | 111 | 3 | 
 

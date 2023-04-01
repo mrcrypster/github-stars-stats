@@ -1,10 +1,10 @@
 # pgrok/pgrok - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 54
+☋ Forks: 56
 
-★ Stars: 2238
+★ Stars: 2274
 
 [Open repository](https://github.com/pgrok/pgrok)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2274 | 56 | 
 | 2023-03-30 | 2238 | 54 | 
 | 2023-03-28 | 2168 | 52 | 
 | 2023-03-27 | 2144 | 51 | 

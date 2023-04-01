@@ -1,10 +1,10 @@
 # l3aro/pipeline-query-collection - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 9
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/l3aro/pipeline-query-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 193 | 9 | 
 | 2023-03-29 | 192 | 9 | 
 | 2023-03-28 | 191 | 9 | 
 | 2023-03-26 | 191 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 191 | 9 | 
 | 2023-03-04 | 191 | 9 | 
 | 2023-03-03 | 191 | 9 | 
-| 2023-03-01 | 191 | 9 | 
 

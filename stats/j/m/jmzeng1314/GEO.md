@@ -1,10 +1,10 @@
 # jmzeng1314/GEO - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 503
+☋ Forks: 502
 
-★ Stars: 625
+★ Stars: 627
 
 [Open repository](https://github.com/jmzeng1314/GEO)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 627 | 502 | 
 | 2023-03-29 | 625 | 503 | 
 | 2023-03-27 | 625 | 503 | 
 | 2023-03-26 | 624 | 503 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 618 | 500 | 
 | 2023-03-03 | 618 | 499 | 
 | 2023-03-02 | 618 | 499 | 
-| 2023-03-01 | 617 | 499 | 
 

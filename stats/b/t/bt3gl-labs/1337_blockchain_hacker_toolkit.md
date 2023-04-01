@@ -1,10 +1,10 @@
 # bt3gl-labs/1337_blockchain_hacker_toolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 189
+★ Stars: 191
 
 [Open repository](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 191 | 39 | 
 | 2023-03-29 | 189 | 38 | 
 | 2023-03-27 | 187 | 38 | 
 | 2023-03-26 | 186 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 172 | 36 | 
 | 2023-03-03 | 172 | 36 | 
 | 2023-03-02 | 172 | 36 | 
-| 2023-03-01 | 173 | 35 | 
 

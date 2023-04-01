@@ -1,6 +1,6 @@
 # antek-drzewiecki/wine_bouncer - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 112 | 52 | 
 | 2023-03-29 | 112 | 52 | 
 | 2023-03-27 | 112 | 51 | 
 | 2023-03-26 | 112 | 51 | 

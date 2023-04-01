@@ -1,6 +1,6 @@
 # DataDog/rules_oci - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 11 | 1 | 
 | 2023-03-30 | 11 | 1 | 
 | 2023-03-29 | 11 | 1 | 
 | 2023-03-28 | 11 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 11 | - | 
 | 2023-03-03 | 11 | - | 
 | 2023-03-02 | 11 | - | 
-| 2023-03-01 | 11 | - | 
 

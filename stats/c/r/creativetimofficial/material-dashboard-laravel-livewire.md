@@ -1,8 +1,8 @@
 # creativetimofficial/material-dashboard-laravel-livewire - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 58
+☋ Forks: 59
 
 ★ Stars: 8
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 8 | 59 | 
+| 2023-03-31 | 8 | 58 | 
 | 2023-03-30 | 8 | 58 | 
 | 2023-03-29 | 8 | 57 | 
 | 2023-03-28 | 8 | 57 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 7 | 51 | 
 | 2023-03-03 | 7 | 51 | 
 | 2023-03-02 | 7 | 51 | 
-| 2023-03-01 | 7 | 51 | 
 

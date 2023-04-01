@@ -1,10 +1,10 @@
 # actix/actix-web - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 1482
+☋ Forks: 1485
 
-★ Stars: 17058
+★ Stars: 17085
 
 [Open repository](https://github.com/actix/actix-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 17085 | 1485 | 
 | 2023-03-29 | 17058 | 1482 | 
 | 2023-03-28 | 17044 | 1482 | 
 | 2023-03-26 | 17017 | 1482 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 16799 | 1476 | 
 | 2023-03-04 | 16786 | 1475 | 
 | 2023-03-03 | 16773 | 1475 | 
-| 2023-03-02 | 16767 | 1476 | 
 

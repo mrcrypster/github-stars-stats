@@ -1,10 +1,10 @@
 # tokio-rs/axum - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 651
+☋ Forks: 654
 
-★ Stars: 9389
+★ Stars: 9442
 
 [Open repository](https://github.com/tokio-rs/axum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 9442 | 654 | 
 | 2023-03-29 | 9389 | 651 | 
 | 2023-03-27 | 9352 | 651 | 
 | 2023-03-26 | 9339 | 651 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 8886 | 617 | 
 | 2023-03-03 | 8866 | 615 | 
 | 2023-03-02 | 8815 | 608 | 
-| 2023-03-01 | 8802 | 607 | 
 

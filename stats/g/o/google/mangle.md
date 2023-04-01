@@ -1,10 +1,10 @@
 # google/mangle - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 34
 
-★ Stars: 991
+★ Stars: 994
 
 [Open repository](https://github.com/google/mangle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 994 | 34 | 
 | 2023-03-29 | 991 | 34 | 
 | 2023-03-27 | 991 | 34 | 
 | 2023-03-26 | 991 | 34 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 989 | 34 | 
 | 2023-03-03 | 989 | 34 | 
 | 2023-03-02 | 989 | 33 | 
-| 2023-03-01 | 989 | 33 | 
 

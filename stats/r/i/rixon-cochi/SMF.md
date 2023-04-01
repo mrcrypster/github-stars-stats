@@ -1,10 +1,10 @@
 # rixon-cochi/SMF - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 180
+☋ Forks: 181
 
-★ Stars: 1301
+★ Stars: 1303
 
 [Open repository](https://github.com/rixon-cochi/SMF)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1303 | 181 | 
 | 2023-03-29 | 1301 | 180 | 
 | 2023-03-28 | 1294 | 178 | 
 | 2023-03-26 | 1293 | 177 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1257 | 172 | 
 | 2023-03-04 | 1252 | 172 | 
 | 2023-03-03 | 1250 | 172 | 
-| 2023-03-01 | 1247 | 172 | 
 

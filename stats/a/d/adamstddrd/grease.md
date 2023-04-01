@@ -1,6 +1,6 @@
 # adamstddrd/grease - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 68 | 3 | 
 | 2023-03-28 | 68 | 3 | 
 | 2023-03-27 | 68 | 3 | 
 | 2023-03-26 | 68 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 67 | 3 | 
 | 2023-03-04 | 67 | 3 | 
 | 2023-03-03 | 67 | 3 | 
-| 2023-03-01 | 67 | 3 | 
 

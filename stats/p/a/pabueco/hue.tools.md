@@ -1,10 +1,10 @@
 # pabueco/hue.tools - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 24
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/pabueco/hue.tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 371 | 24 | 
 | 2023-03-29 | 370 | 24 | 
 | 2023-03-27 | 370 | 24 | 
 | 2023-03-26 | 369 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 367 | 23 | 
 | 2023-03-04 | 366 | 23 | 
 | 2023-03-03 | 366 | 23 | 
-| 2023-03-02 | 366 | 23 | 
 

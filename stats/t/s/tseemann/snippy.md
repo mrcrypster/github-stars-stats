@@ -1,6 +1,6 @@
 # tseemann/snippy - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 374 | 107 | 
 | 2023-03-30 | 374 | 107 | 
 | 2023-03-29 | 373 | 107 | 
 | 2023-03-28 | 373 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 360 | 105 | 
 | 2023-03-03 | 360 | 105 | 
 | 2023-03-02 | 360 | 105 | 
-| 2023-03-01 | 359 | 105 | 
 

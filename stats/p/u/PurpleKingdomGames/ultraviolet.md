@@ -1,6 +1,6 @@
 # PurpleKingdomGames/ultraviolet - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 45 | 1 | 
 | 2023-03-29 | 45 | 1 | 
 | 2023-03-28 | 45 | 1 | 
 | 2023-03-26 | 45 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 44 | 1 | 
 | 2023-03-03 | 43 | 1 | 
 | 2023-03-02 | 43 | 1 | 
-| 2023-03-01 | 43 | 1 | 
 

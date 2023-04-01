@@ -1,6 +1,6 @@
 # linuxhw/hw-probe - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 574 | 61 | 
 | 2023-03-29 | 574 | 61 | 
 | 2023-03-28 | 574 | 61 | 
 | 2023-03-26 | 573 | 61 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 565 | 60 | 
 | 2023-03-04 | 563 | 59 | 
 | 2023-03-03 | 564 | 59 | 
-| 2023-03-02 | 564 | 59 | 
 

@@ -1,10 +1,10 @@
 # realpython/python-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 5851
+☋ Forks: 5850
 
-★ Stars: 26084
+★ Stars: 26086
 
 [Open repository](https://github.com/realpython/python-guide)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 26086 | 5850 | 
+| 2023-03-31 | 26086 | 5851 | 
 | 2023-03-30 | 26084 | 5851 | 
 | 2023-03-28 | 26073 | 5852 | 
 | 2023-03-27 | 26069 | 5852 | 

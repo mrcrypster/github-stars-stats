@@ -1,10 +1,10 @@
 # sfx101/deck - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 64
 
-★ Stars: 1411
+★ Stars: 1412
 
 [Open repository](https://github.com/sfx101/deck)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1412 | 64 | 
 | 2023-03-29 | 1411 | 64 | 
 | 2023-03-28 | 1411 | 64 | 
 | 2023-03-26 | 1410 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1406 | 62 | 
 | 2023-03-04 | 1408 | 62 | 
 | 2023-03-03 | 1407 | 61 | 
-| 2023-03-02 | 1406 | 61 | 
 

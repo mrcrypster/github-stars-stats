@@ -1,10 +1,10 @@
 # webdriverio/webdriverio - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 2280
+☋ Forks: 2284
 
-★ Stars: 8044
+★ Stars: 8046
 
 [Open repository](https://github.com/webdriverio/webdriverio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 8046 | 2284 | 
 | 2023-03-29 | 8044 | 2280 | 
 | 2023-03-28 | 8039 | 2279 | 
 | 2023-03-26 | 8037 | 2280 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 7997 | 2272 | 
 | 2023-03-03 | 7999 | 2271 | 
 | 2023-03-02 | 7993 | 2269 | 
-| 2023-03-01 | 7991 | 2268 | 
 

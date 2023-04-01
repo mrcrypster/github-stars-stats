@@ -1,10 +1,10 @@
 # Gopiandcode/petrol - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 41
+★ Stars: 40
 
 [Open repository](https://github.com/Gopiandcode/petrol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 40 | 1 | 
 | 2023-03-29 | 41 | 1 | 
 | 2023-03-27 | 40 | 1 | 
 | 2023-03-26 | 40 | 1 | 

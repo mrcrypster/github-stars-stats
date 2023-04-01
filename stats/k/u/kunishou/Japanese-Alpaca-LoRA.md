@@ -1,10 +1,10 @@
 # kunishou/Japanese-Alpaca-LoRA - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 9
 
-★ Stars: 43
+★ Stars: 53
 
 [Open repository](https://github.com/kunishou/Japanese-Alpaca-LoRA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 53 | 9 | 
 | 2023-03-29 | 43 | 9 | 
 | 2023-03-28 | 43 | 9 | 
 

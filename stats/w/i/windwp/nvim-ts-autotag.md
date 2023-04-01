@@ -1,10 +1,10 @@
 # windwp/nvim-ts-autotag - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 843
+★ Stars: 845
 
 [Open repository](https://github.com/windwp/nvim-ts-autotag)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 845 | 40 | 
 | 2023-03-29 | 843 | 39 | 
 | 2023-03-28 | 842 | 38 | 
 | 2023-03-26 | 841 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 817 | 36 | 
 | 2023-03-04 | 814 | 35 | 
 | 2023-03-03 | 812 | 35 | 
-| 2023-03-01 | 808 | 35 | 
 

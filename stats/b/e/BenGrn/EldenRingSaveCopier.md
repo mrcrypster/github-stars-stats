@@ -1,10 +1,10 @@
 # BenGrn/EldenRingSaveCopier - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 30
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/BenGrn/EldenRingSaveCopier)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 241 | 30 | 
 | 2023-03-29 | 240 | 30 | 
 | 2023-03-27 | 239 | 30 | 
 | 2023-03-26 | 238 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 229 | 29 | 
 | 2023-03-03 | 229 | 29 | 
 | 2023-03-02 | 229 | 29 | 
-| 2023-03-01 | 229 | 29 | 
 

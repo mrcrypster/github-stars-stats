@@ -1,10 +1,10 @@
 # NidukaAkalanka/x-ui-english - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 186
+☋ Forks: 188
 
-★ Stars: 442
+★ Stars: 448
 
 [Open repository](https://github.com/NidukaAkalanka/x-ui-english)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 448 | 188 | 
 | 2023-03-29 | 442 | 186 | 
 | 2023-03-27 | 433 | 185 | 
 | 2023-03-25 | 429 | 183 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 381 | 165 | 
 | 2023-03-03 | 378 | 164 | 
 | 2023-03-02 | 377 | 161 | 
-| 2023-03-01 | 375 | 161 | 
 

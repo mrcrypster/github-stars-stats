@@ -1,10 +1,10 @@
 # tossp/redpill-tool-chain - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1880
+☋ Forks: 1881
 
-★ Stars: 776
+★ Stars: 778
 
 [Open repository](https://github.com/tossp/redpill-tool-chain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 778 | 1881 | 
 | 2023-03-29 | 776 | 1880 | 
 | 2023-03-28 | 776 | 1878 | 
 | 2023-03-26 | 775 | 1881 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 763 | 1865 | 
 | 2023-03-03 | 763 | 1862 | 
 | 2023-03-02 | 763 | 1861 | 
-| 2023-03-01 | 763 | 1859 | 
 

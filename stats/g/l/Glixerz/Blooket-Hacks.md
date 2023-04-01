@@ -1,10 +1,10 @@
 # Glixerz/Blooket-Hacks - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 977
+☋ Forks: 994
 
-★ Stars: 310
+★ Stars: 315
 
 [Open repository](https://github.com/Glixerz/Blooket-Hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 315 | 994 | 
 | 2023-03-29 | 310 | 977 | 
 | 2023-03-27 | 306 | 966 | 
 | 2023-03-26 | 303 | 960 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 277 | 884 | 
 | 2023-03-04 | 275 | 883 | 
 | 2023-03-02 | 273 | 880 | 
-| 2023-03-01 | 270 | 874 | 
 

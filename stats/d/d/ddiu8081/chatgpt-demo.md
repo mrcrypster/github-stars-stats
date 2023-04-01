@@ -1,10 +1,10 @@
 # ddiu8081/chatgpt-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 2512
+☋ Forks: 2675
 
-★ Stars: 5545
+★ Stars: 5752
 
 [Open repository](https://github.com/ddiu8081/chatgpt-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 5752 | 2675 | 
 | 2023-03-29 | 5545 | 2512 | 
 | 2023-03-27 | 5422 | 2458 | 
 | 2023-03-26 | 5318 | 2406 | 

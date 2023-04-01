@@ -1,8 +1,8 @@
 # bradtraversy/proshop_mern - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1151
+☋ Forks: 1152
 
 ★ Stars: 1895
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1895 | 1152 | 
 | 2023-03-29 | 1895 | 1151 | 
 | 2023-03-28 | 1894 | 1148 | 
 | 2023-03-26 | 1894 | 1147 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 1886 | 1139 | 
 | 2023-03-03 | 1886 | 1139 | 
 | 2023-03-02 | 1885 | 1139 | 
-| 2023-03-01 | 1884 | 1141 | 
 

@@ -1,10 +1,10 @@
 # buggins/dlangui - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 115
+☋ Forks: 114
 
-★ Stars: 739
+★ Stars: 740
 
 [Open repository](https://github.com/buggins/dlangui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 740 | 114 | 
 | 2023-03-29 | 739 | 115 | 
 | 2023-03-28 | 738 | 114 | 
 | 2023-03-26 | 738 | 114 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 733 | 114 | 
 | 2023-03-03 | 733 | 114 | 
 | 2023-03-02 | 732 | 114 | 
-| 2023-03-01 | 732 | 114 | 
 

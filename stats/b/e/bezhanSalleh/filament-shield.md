@@ -1,6 +1,6 @@
 # bezhanSalleh/filament-shield - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 432 | 76 | 
 | 2023-03-29 | 432 | 76 | 
 | 2023-03-28 | 429 | 77 | 
 | 2023-03-26 | 428 | 77 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 404 | 76 | 
 | 2023-03-04 | 404 | 76 | 
 | 2023-03-02 | 404 | 76 | 
-| 2023-03-01 | 402 | 76 | 
 

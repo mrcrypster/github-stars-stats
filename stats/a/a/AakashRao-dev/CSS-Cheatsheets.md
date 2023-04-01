@@ -1,6 +1,6 @@
 # AakashRao-dev/CSS-Cheatsheets - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 717 | 68 | 
 | 2023-03-29 | 717 | 68 | 
 | 2023-03-28 | 716 | 68 | 
 | 2023-03-26 | 714 | 67 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 680 | 65 | 
 | 2023-03-04 | 679 | 65 | 
 | 2023-03-02 | 679 | 65 | 
-| 2023-03-01 | 679 | 65 | 
 

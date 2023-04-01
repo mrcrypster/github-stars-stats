@@ -1,6 +1,6 @@
 # pananton/cpp-lib-template - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 81 | 9 | 
 | 2023-03-29 | 81 | 9 | 
 | 2023-03-27 | 80 | 9 | 
 | 2023-03-26 | 80 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 77 | 9 | 
 | 2023-03-04 | 77 | 9 | 
 | 2023-03-02 | 77 | 9 | 
-| 2023-03-01 | 76 | 9 | 
 

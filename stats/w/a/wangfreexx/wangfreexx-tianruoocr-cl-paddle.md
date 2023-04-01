@@ -1,10 +1,10 @@
 # wangfreexx/wangfreexx-tianruoocr-cl-paddle - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 91
 
-★ Stars: 808
+★ Stars: 810
 
 [Open repository](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 810 | 91 | 
 | 2023-03-29 | 808 | 91 | 
 | 2023-03-28 | 807 | 91 | 
 | 2023-03-26 | 802 | 90 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 776 | 89 | 
 | 2023-03-04 | 771 | 89 | 
 | 2023-03-02 | 767 | 89 | 
-| 2023-03-01 | 766 | 89 | 
 

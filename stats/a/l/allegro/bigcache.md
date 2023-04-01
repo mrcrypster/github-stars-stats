@@ -1,10 +1,10 @@
 # allegro/bigcache - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 536
+☋ Forks: 538
 
-★ Stars: 6421
+★ Stars: 6424
 
 [Open repository](https://github.com/allegro/bigcache)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6424 | 538 | 
 | 2023-03-29 | 6421 | 536 | 
 | 2023-03-27 | 6420 | 537 | 
 | 2023-03-26 | 6415 | 537 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 6365 | 532 | 
 | 2023-03-03 | 6364 | 531 | 
 | 2023-03-02 | 6357 | 530 | 
-| 2023-03-01 | 6354 | 531 | 
 

@@ -1,10 +1,10 @@
 # feedbin/feedbin - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 264
+☋ Forks: 263
 
-★ Stars: 3141
+★ Stars: 3144
 
 [Open repository](https://github.com/feedbin/feedbin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3144 | 263 | 
 | 2023-03-29 | 3141 | 264 | 
 | 2023-03-27 | 3141 | 264 | 
 | 2023-03-26 | 3142 | 264 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3133 | 263 | 
 | 2023-03-03 | 3134 | 263 | 
 | 2023-03-02 | 3134 | 263 | 
-| 2023-03-01 | 3132 | 263 | 
 

@@ -1,10 +1,10 @@
 # zq2599/blog_demos - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 1579
+☋ Forks: 1585
 
-★ Stars: 3513
+★ Stars: 3527
 
 [Open repository](https://github.com/zq2599/blog_demos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3527 | 1585 | 
 | 2023-03-29 | 3513 | 1579 | 
 | 2023-03-27 | 3505 | 1576 | 
 | 2023-03-26 | 3495 | 1575 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3415 | 1542 | 
 | 2023-03-04 | 3411 | 1543 | 
 | 2023-03-02 | 3406 | 1541 | 
-| 2023-03-01 | 3399 | 1539 | 
 

@@ -1,10 +1,10 @@
 # chrisbobbe/jekyll-theme-prologue - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 921
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/chrisbobbe/jekyll-theme-prologue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 408 | 921 | 
 | 2023-03-29 | 407 | 921 | 
 | 2023-03-28 | 407 | 921 | 
 | 2023-03-26 | 407 | 921 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 404 | 923 | 
 | 2023-03-04 | 404 | 923 | 
 | 2023-03-02 | 404 | 923 | 
-| 2023-03-01 | 404 | 923 | 
 

@@ -1,10 +1,10 @@
 # RacyMind/kalkulator-dla-przedsiebiorcy-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/RacyMind/kalkulator-dla-przedsiebiorcy-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 52 | 5 | 
 | 2023-03-29 | 51 | 5 | 
 | 2023-03-27 | 51 | 5 | 
 | 2023-03-26 | 51 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 51 | 5 | 
 | 2023-03-04 | 51 | 5 | 
 | 2023-03-02 | 51 | 5 | 
-| 2023-03-01 | 51 | 5 | 
 

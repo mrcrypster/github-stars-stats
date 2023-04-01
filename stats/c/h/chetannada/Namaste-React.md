@@ -1,10 +1,10 @@
 # chetannada/Namaste-React - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 275
+☋ Forks: 281
 
-★ Stars: 628
+★ Stars: 631
 
 [Open repository](https://github.com/chetannada/Namaste-React)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 631 | 281 | 
 | 2023-03-29 | 628 | 275 | 
 | 2023-03-27 | 623 | 271 | 
 | 2023-03-26 | 614 | 269 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 473 | 190 | 
 | 2023-03-03 | 472 | 186 | 
 | 2023-03-02 | 466 | 184 | 
-| 2023-03-01 | 461 | 182 | 
 

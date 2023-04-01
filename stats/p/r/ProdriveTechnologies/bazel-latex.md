@@ -1,6 +1,6 @@
 # ProdriveTechnologies/bazel-latex - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 67 | 38 | 
 | 2023-03-29 | 67 | 38 | 
 | 2023-03-27 | 67 | 38 | 
 | 2023-03-26 | 67 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 67 | 39 | 
 | 2023-03-03 | 67 | 39 | 
 | 2023-03-02 | 67 | 39 | 
-| 2023-03-01 | 67 | 38 | 
 

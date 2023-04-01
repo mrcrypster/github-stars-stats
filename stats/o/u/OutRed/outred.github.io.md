@@ -1,10 +1,10 @@
 # OutRed/outred.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 74
 
-★ Stars: 49
+★ Stars: 52
 
 [Open repository](https://github.com/OutRed/outred.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 52 | 74 | 
 | 2023-03-29 | 49 | 74 | 
 | 2023-03-28 | 49 | 73 | 
 | 2023-03-26 | 49 | 71 | 

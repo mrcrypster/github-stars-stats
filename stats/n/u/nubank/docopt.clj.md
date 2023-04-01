@@ -1,6 +1,6 @@
 # nubank/docopt.clj - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 75 | 3 | 
 | 2023-03-28 | 75 | 3 | 
 | 2023-03-27 | 75 | 3 | 
 | 2023-03-26 | 75 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 28
 | 2023-03-05 | 74 | 3 | 
 | 2023-03-04 | 74 | 3 | 
 | 2023-03-03 | 74 | 3 | 
-| 2023-03-02 | 74 | 3 | 
 

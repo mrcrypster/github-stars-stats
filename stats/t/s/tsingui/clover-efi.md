@@ -1,10 +1,10 @@
 # tsingui/clover-efi - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 1835
 
-★ Stars: 893
+★ Stars: 892
 
 [Open repository](https://github.com/tsingui/clover-efi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 892 | 1835 | 
 | 2023-03-29 | 893 | 1835 | 
 | 2023-03-28 | 893 | 1834 | 
 | 2023-03-26 | 893 | 1835 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 888 | 1836 | 
 | 2023-03-03 | 888 | 1836 | 
 | 2023-03-02 | 887 | 1836 | 
-| 2023-03-01 | 887 | 1836 | 
 

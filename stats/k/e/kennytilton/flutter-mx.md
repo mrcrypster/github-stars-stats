@@ -1,6 +1,6 @@
 # kennytilton/flutter-mx - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 85 | 3 | 
 | 2023-03-29 | 85 | 3 | 
 | 2023-03-27 | 86 | 3 | 
 | 2023-03-26 | 86 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 83 | 4 | 
 | 2023-03-04 | 83 | 4 | 
 | 2023-03-03 | 83 | 4 | 
-| 2023-03-01 | 83 | 4 | 
 

@@ -1,6 +1,6 @@
 # stepchowfun/proofs - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 240 | 9 | 
 | 2023-03-29 | 240 | 9 | 
 | 2023-03-28 | 240 | 9 | 
 | 2023-03-26 | 240 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 241 | 9 | 
 | 2023-03-03 | 240 | 9 | 
 | 2023-03-02 | 239 | 9 | 
-| 2023-03-01 | 239 | 9 | 
 

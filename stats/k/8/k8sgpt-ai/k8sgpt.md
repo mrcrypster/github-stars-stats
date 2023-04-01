@@ -1,10 +1,10 @@
 # k8sgpt-ai/k8sgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 73
+☋ Forks: 82
 
-★ Stars: 657
+★ Stars: 805
 
 [Open repository](https://github.com/k8sgpt-ai/k8sgpt)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 805 | 82 | 
 | 2023-03-30 | 657 | 73 | 
 

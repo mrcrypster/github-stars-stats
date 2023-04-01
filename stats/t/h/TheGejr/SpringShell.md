@@ -1,6 +1,6 @@
 # TheGejr/SpringShell - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 121 | 85 | 
 | 2023-03-29 | 121 | 85 | 
 | 2023-03-28 | 121 | 85 | 
 | 2023-03-26 | 121 | 85 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 121 | 85 | 
 | 2023-03-03 | 121 | 85 | 
 | 2023-03-02 | 121 | 85 | 
-| 2023-03-01 | 121 | 85 | 
 

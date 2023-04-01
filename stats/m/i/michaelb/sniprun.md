@@ -1,6 +1,6 @@
 # michaelb/sniprun - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1024 | 34 | 
 | 2023-03-29 | 1024 | 34 | 
 | 2023-03-28 | 1023 | 34 | 
 | 2023-03-26 | 1020 | 33 | 

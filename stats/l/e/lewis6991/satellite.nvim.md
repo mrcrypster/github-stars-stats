@@ -1,6 +1,6 @@
 # lewis6991/satellite.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 250 | 11 | 
 | 2023-03-29 | 250 | 11 | 
 | 2023-03-28 | 250 | 11 | 
 | 2023-03-26 | 250 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 238 | 10 | 
 | 2023-03-03 | 237 | 10 | 
 | 2023-03-02 | 237 | 10 | 
-| 2023-03-01 | 236 | 10 | 
 

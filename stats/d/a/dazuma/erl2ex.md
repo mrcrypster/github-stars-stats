@@ -1,10 +1,10 @@
 # dazuma/erl2ex - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 10
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/dazuma/erl2ex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 80 | 10 | 
 | 2023-03-30 | 79 | 10 | 
 | 2023-03-28 | 79 | 10 | 
 | 2023-03-26 | 79 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 78 | 10 | 
 | 2023-03-04 | 78 | 10 | 
 | 2023-03-03 | 78 | 10 | 
-| 2023-03-02 | 77 | 10 | 
 

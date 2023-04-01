@@ -1,10 +1,10 @@
 # antonmedv/finder - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 83
 
-★ Stars: 950
+★ Stars: 959
 
 [Open repository](https://github.com/antonmedv/finder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 959 | 83 | 
 | 2023-03-29 | 950 | 83 | 
 | 2023-03-27 | 948 | 83 | 
 | 2023-03-26 | 945 | 83 | 

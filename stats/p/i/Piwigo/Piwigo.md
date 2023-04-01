@@ -1,10 +1,10 @@
 # Piwigo/Piwigo - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 361
+☋ Forks: 360
 
-★ Stars: 2462
+★ Stars: 2466
 
 [Open repository](https://github.com/Piwigo/Piwigo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2466 | 360 | 
 | 2023-03-29 | 2462 | 361 | 
 | 2023-03-28 | 2460 | 361 | 
 | 2023-03-26 | 2458 | 360 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 2434 | 358 | 
 | 2023-03-03 | 2433 | 358 | 
 | 2023-03-02 | 2430 | 358 | 
-| 2023-03-01 | 2425 | 358 | 
 

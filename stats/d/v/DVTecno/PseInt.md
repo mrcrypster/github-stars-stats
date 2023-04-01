@@ -1,8 +1,8 @@
 # DVTecno/PseInt - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1 | 9 | 
 | 2023-03-30 | 1 | 8 | 
 | 2023-03-29 | 1 | 7 | 
 

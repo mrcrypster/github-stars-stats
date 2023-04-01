@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 31
 
 ☋ Forks: 21
 
-★ Stars: 481
+★ Stars: 482
 
 [Open repository](https://github.com/lambdalisue/suda.vim)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 481 | 21 | 
+| 2023-03-31 | 482 | 21 | 
 | 2023-03-30 | 481 | 21 | 
 | 2023-03-28 | 481 | 21 | 
 | 2023-03-27 | 481 | 21 | 
@@ -37,5 +37,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-04 | 477 | 20 | 
 | 2023-03-03 | 477 | 20 | 
 | 2023-03-02 | 477 | 20 | 
-| 2023-03-01 | 477 | 20 | 
 

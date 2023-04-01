@@ -1,6 +1,6 @@
 # dpt/The-Great-Escape - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 74 | 10 | 
 | 2023-03-29 | 74 | 10 | 
 | 2023-03-28 | 74 | 10 | 
 

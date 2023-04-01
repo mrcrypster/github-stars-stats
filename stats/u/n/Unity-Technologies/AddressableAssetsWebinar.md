@@ -1,6 +1,6 @@
 # Unity-Technologies/AddressableAssetsWebinar - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 191 | 82 | 
 | 2023-03-30 | 191 | 82 | 
 | 2023-03-29 | 191 | 82 | 
 | 2023-03-28 | 191 | 82 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 191 | 82 | 
 | 2023-03-03 | 191 | 82 | 
 | 2023-03-02 | 191 | 82 | 
-| 2023-03-01 | 191 | 82 | 
 

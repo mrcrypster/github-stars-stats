@@ -1,10 +1,10 @@
 # EtheaDev/SKIAShellExtensions - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 11
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/EtheaDev/SKIAShellExtensions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 33 | 11 | 
 | 2023-03-29 | 31 | 11 | 
 | 2023-03-28 | 30 | 11 | 
 | 2023-03-26 | 30 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 29 | 10 | 
 | 2023-03-03 | 29 | 10 | 
 | 2023-03-02 | 29 | 11 | 
-| 2023-03-01 | 29 | 11 | 
 

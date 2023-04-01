@@ -1,10 +1,10 @@
 # programthink/sites - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Mar 2023, 31
 
-☋ Forks: 533
+☋ Forks: 542
 
-★ Stars: 1982
+★ Stars: 2011
 
 [Open repository](https://github.com/programthink/sites)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2011 | 542 | 
 | 2023-03-28 | 1982 | 533 | 
 | 2023-03-27 | 1980 | 532 | 
 | 2023-03-26 | 1979 | 532 | 

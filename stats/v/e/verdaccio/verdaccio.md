@@ -1,10 +1,10 @@
 # verdaccio/verdaccio - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1298
 
-★ Stars: 14578
+★ Stars: 14590
 
 [Open repository](https://github.com/verdaccio/verdaccio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 14590 | 1298 | 
 | 2023-03-29 | 14578 | 1298 | 
 | 2023-03-27 | 14576 | 1298 | 
 | 2023-03-26 | 14575 | 1298 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 14476 | 1287 | 
 | 2023-03-04 | 14475 | 1286 | 
 | 2023-03-02 | 14472 | 1286 | 
-| 2023-03-01 | 14468 | 1286 | 
 

@@ -1,6 +1,6 @@
 # aws/amazon-vpc-cni-k8s - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 663
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 2021 | 663 | 
 | 2023-03-29 | 2021 | 663 | 
 | 2023-03-27 | 2019 | 662 | 
 | 2023-03-26 | 2018 | 661 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 2012 | 654 | 
 | 2023-03-04 | 2013 | 654 | 
 | 2023-03-02 | 2013 | 654 | 
-| 2023-03-01 | 2012 | 655 | 
 

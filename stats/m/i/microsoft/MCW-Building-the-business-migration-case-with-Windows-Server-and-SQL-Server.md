@@ -1,8 +1,8 @@
 # microsoft/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 12 | 17 | 
 | 2023-03-29 | 12 | 16 | 
 | 2023-03-28 | 12 | 16 | 
 | 2023-03-26 | 12 | 16 | 

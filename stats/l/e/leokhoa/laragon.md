@@ -1,10 +1,10 @@
 # leokhoa/laragon - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 302
 
-★ Stars: 3202
+★ Stars: 3206
 
 [Open repository](https://github.com/leokhoa/laragon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 3206 | 302 | 
 | 2023-03-29 | 3202 | 302 | 
 | 2023-03-27 | 3197 | 301 | 
 | 2023-03-26 | 3193 | 299 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 3142 | 295 | 
 | 2023-03-03 | 3137 | 295 | 
 | 2023-03-02 | 3132 | 295 | 
-| 2023-03-01 | 3128 | 295 | 
 

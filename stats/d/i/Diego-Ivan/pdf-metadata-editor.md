@@ -1,10 +1,10 @@
 # Diego-Ivan/pdf-metadata-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Diego-Ivan/pdf-metadata-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 22 | 6 | 
 | 2023-03-29 | 21 | 6 | 
 | 2023-03-27 | 21 | 6 | 
 | 2023-03-26 | 21 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 14 | 5 | 
 | 2023-03-04 | 14 | 5 | 
 | 2023-03-02 | 14 | 5 | 
-| 2023-03-01 | 14 | 5 | 
 

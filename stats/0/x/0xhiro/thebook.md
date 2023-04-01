@@ -1,10 +1,10 @@
 # 0xhiro/thebook - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/0xhiro/thebook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 237 | 6 | 
 | 2023-03-29 | 236 | 6 | 
 | 2023-03-27 | 236 | 6 | 
 | 2023-03-26 | 236 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 236 | 6 | 
 | 2023-03-04 | 236 | 6 | 
 | 2023-03-03 | 236 | 6 | 
-| 2023-03-01 | 237 | 6 | 
 

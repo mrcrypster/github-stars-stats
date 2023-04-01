@@ -1,10 +1,10 @@
 # hashicorp/go-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 358
 
-★ Stars: 4251
+★ Stars: 4261
 
 [Open repository](https://github.com/hashicorp/go-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 4261 | 358 | 
 | 2023-03-29 | 4251 | 358 | 
 | 2023-03-27 | 4248 | 357 | 
 | 2023-03-25 | 4247 | 356 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 4211 | 351 | 
 | 2023-03-03 | 4211 | 350 | 
 | 2023-03-02 | 4210 | 350 | 
-| 2023-03-01 | 4207 | 350 | 
 

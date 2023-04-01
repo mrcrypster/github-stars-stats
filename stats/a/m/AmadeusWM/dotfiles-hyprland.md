@@ -1,10 +1,10 @@
 # AmadeusWM/dotfiles-hyprland - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 22
 
-★ Stars: 230
+★ Stars: 234
 
 [Open repository](https://github.com/AmadeusWM/dotfiles-hyprland)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 234 | 22 | 
 | 2023-03-29 | 230 | 22 | 
 | 2023-03-27 | 226 | 22 | 
 | 2023-03-26 | 223 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 198 | 17 | 
 | 2023-03-03 | 195 | 17 | 
 | 2023-03-02 | 193 | 17 | 
-| 2023-03-01 | 192 | 17 | 
 

@@ -1,10 +1,10 @@
 # input-output-hk/cardano-db-sync - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 147
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/input-output-hk/cardano-db-sync)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 245 | 147 | 
 | 2023-03-29 | 244 | 147 | 
 | 2023-03-28 | 244 | 147 | 
 | 2023-03-26 | 245 | 146 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 244 | 146 | 
 | 2023-03-03 | 244 | 146 | 
 | 2023-03-02 | 244 | 146 | 
-| 2023-03-01 | 244 | 146 | 
 

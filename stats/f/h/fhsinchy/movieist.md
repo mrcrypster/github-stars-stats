@@ -1,8 +1,8 @@
 # fhsinchy/movieist - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 65 | 80 | 
 | 2023-03-29 | 65 | 79 | 
 | 2023-03-27 | 65 | 78 | 
 | 2023-03-26 | 65 | 76 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 53 | 62 | 
 | 2023-03-04 | 53 | 61 | 
 | 2023-03-02 | 51 | 58 | 
-| 2023-03-01 | 52 | 58 | 
 

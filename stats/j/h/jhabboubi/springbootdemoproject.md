@@ -1,6 +1,6 @@
 # jhabboubi/springbootdemoproject - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | - | 23 | 
 | 2023-03-29 | - | 23 | 
 | 2023-03-28 | - | 23 | 
 | 2023-03-26 | - | 23 | 

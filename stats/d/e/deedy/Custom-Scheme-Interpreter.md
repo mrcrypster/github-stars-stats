@@ -1,10 +1,10 @@
 # deedy/Custom-Scheme-Interpreter - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/deedy/Custom-Scheme-Interpreter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 6 | 4 | 
 | 2023-03-29 | 5 | 4 | 
 | 2023-03-27 | 5 | 4 | 
 | 2023-03-26 | 5 | 4 | 

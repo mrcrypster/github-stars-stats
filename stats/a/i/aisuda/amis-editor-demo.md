@@ -1,10 +1,10 @@
 # aisuda/amis-editor-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 469
 
-★ Stars: 1781
+★ Stars: 1783
 
 [Open repository](https://github.com/aisuda/amis-editor-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1783 | 469 | 
 | 2023-03-29 | 1781 | 469 | 
 | 2023-03-27 | 1780 | 467 | 
 | 2023-03-26 | 1780 | 466 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1743 | 460 | 
 | 2023-03-03 | 1744 | 460 | 
 | 2023-03-02 | 1741 | 459 | 
-| 2023-03-01 | 1739 | 460 | 
 

@@ -1,10 +1,10 @@
 # apalha/project-logbook - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 4
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/apalha/project-logbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 19 | 4 | 
 | 2023-03-29 | 18 | 4 | 
 | 2023-03-28 | 18 | 4 | 
 | 2023-03-26 | 18 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 19 | 3 | 
 | 2023-03-04 | 19 | 3 | 
 | 2023-03-03 | 19 | 3 | 
-| 2023-03-02 | 19 | 3 | 
 

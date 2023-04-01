@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 31
 
-☋ Forks: 1506
+☋ Forks: 1508
 
-★ Stars: 6001
+★ Stars: 6002
 
 [Open repository](https://github.com/getsentry/self-hosted)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-31 | 6001 | 1506 | 
+| 2023-03-31 | 6002 | 1508 | 
 | 2023-03-30 | 5993 | 1506 | 
 | 2023-03-29 | 5989 | 1506 | 
 | 2023-03-27 | 5978 | 1501 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-04 | 5907 | 1494 | 
 | 2023-03-03 | 5901 | 1494 | 
 | 2023-03-02 | 5901 | 1493 | 
-| 2023-03-01 | 5900 | 1492 | 
 

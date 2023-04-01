@@ -1,6 +1,6 @@
 # massive-oss/minject - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 54 | 22 | 
 | 2023-03-30 | 54 | 22 | 
 | 2023-03-29 | 54 | 22 | 
 | 2023-03-28 | 54 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-04 | 54 | 22 | 
 | 2023-03-03 | 54 | 22 | 
 | 2023-03-02 | 54 | 22 | 
-| 2023-03-01 | 54 | 22 | 
 

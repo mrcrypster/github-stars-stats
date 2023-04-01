@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/JSOSuite.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 10 | 5 | 
 | 2023-03-29 | 10 | 5 | 
 | 2023-03-28 | 11 | 5 | 
 | 2023-03-26 | 11 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 11 | 5 | 
 | 2023-03-03 | 11 | 5 | 
 | 2023-03-02 | 11 | 5 | 
-| 2023-03-01 | 11 | 5 | 
 

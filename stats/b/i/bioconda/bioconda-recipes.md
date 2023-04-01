@@ -1,10 +1,10 @@
 # bioconda/bioconda-recipes - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 2545
+☋ Forks: 2553
 
-★ Stars: 1461
+★ Stars: 1462
 
 [Open repository](https://github.com/bioconda/bioconda-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1462 | 2553 | 
 | 2023-03-29 | 1461 | 2545 | 
 | 2023-03-28 | 1461 | 2545 | 
 | 2023-03-26 | 1461 | 2543 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1459 | 2520 | 
 | 2023-03-03 | 1460 | 2521 | 
 | 2023-03-02 | 1460 | 2518 | 
-| 2023-03-01 | 1460 | 2518 | 
 

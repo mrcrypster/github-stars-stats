@@ -1,10 +1,10 @@
 # kitao/pyxel - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 733
+☋ Forks: 736
 
-★ Stars: 11618
+★ Stars: 11627
 
 [Open repository](https://github.com/kitao/pyxel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 11627 | 736 | 
 | 2023-03-29 | 11618 | 733 | 
 | 2023-03-27 | 11608 | 734 | 
 | 2023-03-26 | 11602 | 734 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 11499 | 728 | 
 | 2023-03-04 | 11494 | 726 | 
 | 2023-03-02 | 11488 | 725 | 
-| 2023-03-01 | 11487 | 724 | 
 

@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-security-hub - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 14 | 16 | 
 | 2023-03-29 | 14 | 16 | 
 | 2023-03-27 | 14 | 16 | 
 | 2023-03-25 | 14 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 12 | 16 | 
 | 2023-03-04 | 12 | 16 | 
 | 2023-03-03 | 12 | 16 | 
-| 2023-03-01 | 12 | 16 | 
 

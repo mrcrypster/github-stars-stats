@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-0-css-graffiti-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 5442
+☋ Forks: 5455
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 8 | 5455 | 
 | 2023-03-29 | 8 | 5442 | 
 | 2023-03-28 | 8 | 5426 | 
 | 2023-03-26 | 8 | 5410 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 8 | 4860 | 
 | 2023-03-03 | 8 | 4850 | 
 | 2023-03-02 | 8 | 4842 | 
-| 2023-03-01 | 8 | 4836 | 
 

@@ -1,6 +1,6 @@
 # FedeClaudi/Term.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 383 | 29 | 
 | 2023-03-29 | 383 | 29 | 
 | 2023-03-27 | 382 | 29 | 
 | 2023-03-26 | 382 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 367 | 27 | 
 | 2023-03-04 | 367 | 27 | 
 | 2023-03-02 | 367 | 27 | 
-| 2023-03-01 | 367 | 27 | 
 

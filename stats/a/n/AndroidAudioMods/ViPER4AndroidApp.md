@@ -1,10 +1,10 @@
 # AndroidAudioMods/ViPER4AndroidApp - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 208
+★ Stars: 213
 
 [Open repository](https://github.com/AndroidAudioMods/ViPER4AndroidApp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 213 | 6 | 
 | 2023-03-29 | 208 | 6 | 
 | 2023-03-27 | 205 | 6 | 
 | 2023-03-26 | 203 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 169 | 3 | 
 | 2023-03-04 | 169 | 3 | 
 | 2023-03-03 | 168 | 3 | 
-| 2023-03-01 | 167 | 2 | 
 

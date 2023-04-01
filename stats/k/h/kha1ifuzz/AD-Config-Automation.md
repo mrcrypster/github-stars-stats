@@ -1,6 +1,6 @@
 # kha1ifuzz/AD-Config-Automation - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 65 | 14 | 
 | 2023-03-29 | 65 | 14 | 
 | 2023-03-27 | 65 | 14 | 
 | 2023-03-26 | 65 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 62 | 14 | 
 | 2023-03-04 | 59 | 14 | 
 | 2023-03-02 | 44 | 11 | 
-| 2023-03-01 | 36 | 11 | 
 

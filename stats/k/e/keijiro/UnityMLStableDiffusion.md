@@ -1,10 +1,10 @@
 # keijiro/UnityMLStableDiffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Mar 2023, 31
 
-☋ Forks: 26
+☋ Forks: 29
 
-★ Stars: 333
+★ Stars: 353
 
 [Open repository](https://github.com/keijiro/UnityMLStableDiffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 353 | 29 | 
 | 2023-03-30 | 333 | 26 | 
 | 2023-03-29 | 314 | 23 | 
 | 2023-03-28 | 241 | 17 | 

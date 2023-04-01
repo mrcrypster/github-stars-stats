@@ -1,10 +1,10 @@
 # stellarkey/912_project - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
-☋ Forks: 450
+☋ Forks: 452
 
-★ Stars: 1615
+★ Stars: 1621
 
 [Open repository](https://github.com/stellarkey/912_project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 1621 | 452 | 
 | 2023-03-29 | 1615 | 450 | 
 | 2023-03-28 | 1612 | 449 | 
 | 2023-03-26 | 1610 | 450 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-04 | 1574 | 451 | 
 | 2023-03-03 | 1574 | 451 | 
 | 2023-03-02 | 1571 | 451 | 
-| 2023-03-01 | 1571 | 451 | 
 

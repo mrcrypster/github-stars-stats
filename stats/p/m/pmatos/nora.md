@@ -1,6 +1,6 @@
 # pmatos/nora - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 18 | 1 | 
 | 2023-03-29 | 18 | 1 | 
 | 2023-03-27 | 18 | 1 | 
 | 2023-03-26 | 18 | 1 | 

@@ -1,6 +1,6 @@
 # LetusDevops/LearnPython - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Mar 2023, 31
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-31 | 74 | 43 | 
 | 2023-03-29 | 74 | 43 | 
 | 2023-03-27 | 74 | 43 | 
 | 2023-03-26 | 74 | 43 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 74 | 43 | 
 | 2023-03-04 | 74 | 43 | 
 | 2023-03-02 | 74 | 43 | 
-| 2023-03-01 | 74 | 43 | 
 
