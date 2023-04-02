@@ -1,6 +1,6 @@
 # haritkapadia/ts-movement - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 32 | 1 | 
 | 2023-03-30 | 32 | 1 | 
 | 2023-03-28 | 32 | 1 | 
 | 2023-03-27 | 32 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 31 | 1 | 
 | 2023-03-05 | 31 | 1 | 
 | 2023-03-03 | 31 | 1 | 
-| 2023-03-02 | 30 | 1 | 
 

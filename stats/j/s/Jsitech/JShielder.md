@@ -1,6 +1,6 @@
 # Jsitech/JShielder - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 650 | 232 | 
 | 2023-03-31 | 650 | 232 | 
 | 2023-03-29 | 649 | 232 | 
 | 2023-03-27 | 649 | 232 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 647 | 231 | 
 | 2023-03-05 | 647 | 231 | 
 | 2023-03-04 | 647 | 231 | 
-| 2023-03-03 | 647 | 231 | 
 

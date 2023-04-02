@@ -1,6 +1,6 @@
 # Jeiwan/uniswapv3-code - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 96 | 49 | 
 | 2023-03-30 | 96 | 49 | 
 | 2023-03-28 | 95 | 48 | 
 | 2023-03-27 | 94 | 47 | 

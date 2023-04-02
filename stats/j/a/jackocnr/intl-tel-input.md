@@ -1,10 +1,10 @@
 # jackocnr/intl-tel-input - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1859
 
-★ Stars: 6722
+★ Stars: 6723
 
 [Open repository](https://github.com/jackocnr/intl-tel-input)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 6723 | 1859 | 
 | 2023-03-30 | 6722 | 1859 | 
 | 2023-03-29 | 6720 | 1858 | 
 | 2023-03-27 | 6716 | 1856 | 

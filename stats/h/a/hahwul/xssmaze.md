@@ -1,10 +1,10 @@
 # hahwul/xssmaze - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 13
 
 [Open repository](https://github.com/hahwul/xssmaze)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 13 | 1 | 
 | 2023-03-30 | 11 | 1 | 
 | 2023-03-29 | 11 | - | 
 

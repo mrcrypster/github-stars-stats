@@ -1,10 +1,10 @@
 # weiyithu/SurroundOcc - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 229
+★ Stars: 241
 
 [Open repository](https://github.com/weiyithu/SurroundOcc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 241 | 20 | 
 | 2023-03-30 | 229 | 19 | 
 | 2023-03-29 | 223 | 17 | 
 

@@ -1,10 +1,10 @@
 # signalwire/freeswitch - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 1079
+☋ Forks: 1080
 
-★ Stars: 2254
+★ Stars: 2255
 
 [Open repository](https://github.com/signalwire/freeswitch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2255 | 1080 | 
 | 2023-03-31 | 2254 | 1079 | 
 | 2023-03-29 | 2251 | 1078 | 
 | 2023-03-28 | 2246 | 1076 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 2210 | 1052 | 
 | 2023-03-04 | 2208 | 1052 | 
 | 2023-03-03 | 2208 | 1052 | 
-| 2023-03-02 | 2205 | 1050 | 
 

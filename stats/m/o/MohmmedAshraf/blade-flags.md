@@ -1,10 +1,10 @@
 # MohmmedAshraf/blade-flags - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 17
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/MohmmedAshraf/blade-flags)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 166 | 17 | 
 | 2023-03-29 | 165 | 17 | 
 | 2023-03-27 | 163 | 17 | 
 | 2023-03-26 | 162 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 160 | 16 | 
 | 2023-03-05 | 160 | 16 | 
 | 2023-03-03 | 160 | 16 | 
-| 2023-03-02 | 160 | 16 | 
 

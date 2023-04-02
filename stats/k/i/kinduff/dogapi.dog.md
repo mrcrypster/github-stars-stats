@@ -1,6 +1,6 @@
 # kinduff/dogapi.dog - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 105 | 7 | 
 | 2023-03-30 | 105 | 7 | 
 | 2023-03-28 | 105 | 7 | 
 | 2023-03-27 | 105 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 105 | 7 | 
 | 2023-03-04 | 106 | 7 | 
 | 2023-03-03 | 106 | 7 | 
-| 2023-03-02 | 106 | 6 | 
 

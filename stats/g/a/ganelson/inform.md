@@ -1,10 +1,10 @@
 # ganelson/inform - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 1058
+★ Stars: 1059
 
 [Open repository](https://github.com/ganelson/inform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1059 | 58 | 
 | 2023-03-29 | 1058 | 57 | 
 | 2023-03-27 | 1057 | 57 | 
 | 2023-03-26 | 1054 | 57 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 1049 | 57 | 
 | 2023-03-05 | 1049 | 57 | 
 | 2023-03-04 | 1050 | 57 | 
-| 2023-03-02 | 1051 | 57 | 
 

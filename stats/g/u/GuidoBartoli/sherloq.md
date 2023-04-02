@@ -1,10 +1,10 @@
 # GuidoBartoli/sherloq - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 195
 
-★ Stars: 2213
+★ Stars: 2218
 
 [Open repository](https://github.com/GuidoBartoli/sherloq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2218 | 195 | 
 | 2023-03-30 | 2213 | 195 | 
 | 2023-03-29 | 2207 | 195 | 
 | 2023-03-28 | 2205 | 195 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 2164 | 194 | 
 | 2023-03-04 | 2162 | 194 | 
 | 2023-03-03 | 2162 | 194 | 
-| 2023-03-02 | 2161 | 194 | 
 

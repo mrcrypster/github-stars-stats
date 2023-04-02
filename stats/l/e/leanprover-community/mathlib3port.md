@@ -1,6 +1,6 @@
 # leanprover-community/mathlib3port - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 10 | 3 | 
 | 2023-03-29 | 10 | 3 | 
 | 2023-03-27 | 10 | 3 | 
 | 2023-03-26 | 10 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 10 | 3 | 
 | 2023-03-04 | 10 | 3 | 
 | 2023-03-03 | 10 | 3 | 
-| 2023-03-02 | 10 | 3 | 
 

@@ -1,6 +1,6 @@
 # bnsid/bns-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 95 | 20 | 
 | 2023-03-29 | 95 | 20 | 
 | 2023-03-27 | 94 | 20 | 
 | 2023-03-26 | 93 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 93 | 20 | 
 | 2023-03-05 | 93 | 20 | 
 | 2023-03-04 | 93 | 20 | 
-| 2023-03-02 | 93 | 20 | 
 

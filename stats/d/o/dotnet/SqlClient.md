@@ -1,10 +1,10 @@
 # dotnet/SqlClient - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 209
 
-★ Stars: 694
+★ Stars: 697
 
 [Open repository](https://github.com/dotnet/SqlClient)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 697 | 209 | 
 | 2023-03-31 | 694 | 209 | 
 | 2023-03-29 | 693 | 209 | 
 | 2023-03-27 | 693 | 209 | 

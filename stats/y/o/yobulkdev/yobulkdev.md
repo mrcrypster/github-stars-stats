@@ -1,10 +1,10 @@
 # yobulkdev/yobulkdev - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 746
+★ Stars: 747
 
 [Open repository](https://github.com/yobulkdev/yobulkdev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 747 | 29 | 
 | 2023-03-31 | 746 | 28 | 
 | 2023-03-29 | 746 | 28 | 
 | 2023-03-27 | 742 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 672 | 24 | 
 | 2023-03-04 | 669 | 24 | 
 | 2023-03-03 | 665 | 23 | 
-| 2023-03-02 | 663 | 23 | 
 

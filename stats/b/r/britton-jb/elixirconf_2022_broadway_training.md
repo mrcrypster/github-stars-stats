@@ -1,6 +1,6 @@
 # britton-jb/elixirconf_2022_broadway_training - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 4 | 2 | 
 | 2023-03-30 | 4 | 2 | 
 | 2023-03-28 | 4 | 2 | 
 | 2023-03-27 | 4 | 2 | 

@@ -1,10 +1,10 @@
 # coolzilj/Blender-ControlNet - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 47
+☋ Forks: 49
 
-★ Stars: 511
+★ Stars: 522
 
 [Open repository](https://github.com/coolzilj/Blender-ControlNet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 522 | 49 | 
 | 2023-03-30 | 511 | 47 | 
 | 2023-03-28 | 497 | 45 | 
 | 2023-03-27 | 467 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 130 | 7 | 
 | 2023-03-05 | 122 | 6 | 
 | 2023-03-04 | 117 | 6 | 
-| 2023-03-03 | 108 | 6 | 
 

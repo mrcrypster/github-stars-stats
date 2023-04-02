@@ -1,10 +1,10 @@
 # cvlab-columbia/zero123 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 831
+★ Stars: 837
 
 [Open repository](https://github.com/cvlab-columbia/zero123)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 837 | 40 | 
 | 2023-03-31 | 831 | 39 | 
 | 2023-03-29 | 790 | 36 | 
 | 2023-03-27 | 749 | 35 | 

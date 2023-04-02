@@ -1,6 +1,6 @@
 # commercialhaskell/stack - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 849
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 3840 | 849 | 
 | 2023-03-30 | 3840 | 849 | 
 | 2023-03-28 | 3840 | 849 | 
 | 2023-03-26 | 3838 | 849 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 3829 | 848 | 
 | 2023-03-04 | 3829 | 848 | 
 | 2023-03-03 | 3828 | 848 | 
-| 2023-03-02 | 3828 | 847 | 
 

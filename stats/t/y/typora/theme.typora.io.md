@@ -1,10 +1,10 @@
 # typora/theme.typora.io - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 427
+☋ Forks: 425
 
-★ Stars: 736
+★ Stars: 737
 
 [Open repository](https://github.com/typora/theme.typora.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 737 | 425 | 
 | 2023-03-30 | 736 | 427 | 
 | 2023-03-28 | 736 | 426 | 
 | 2023-03-27 | 736 | 425 | 

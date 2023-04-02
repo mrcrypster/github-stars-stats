@@ -1,10 +1,10 @@
 # chartjs/Chart.js - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 11813
+☋ Forks: 11818
 
-★ Stars: 60177
+★ Stars: 60207
 
 [Open repository](https://github.com/chartjs/Chart.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 60207 | 11818 | 
 | 2023-03-29 | 60177 | 11813 | 
 | 2023-03-27 | 60167 | 11809 | 
 | 2023-03-26 | 60155 | 11807 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 59980 | 11783 | 
 | 2023-03-04 | 59970 | 11785 | 
 | 2023-03-03 | 59963 | 11785 | 
-| 2023-03-02 | 59953 | 11784 | 
 

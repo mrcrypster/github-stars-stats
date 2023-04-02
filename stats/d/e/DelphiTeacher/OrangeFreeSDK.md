@@ -1,6 +1,6 @@
 # DelphiTeacher/OrangeFreeSDK - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 41 | 20 | 
 | 2023-03-30 | 41 | 20 | 
 | 2023-03-28 | 41 | 20 | 
 | 2023-03-27 | 41 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 41 | 20 | 
 | 2023-03-05 | 41 | 20 | 
 | 2023-03-03 | 40 | 20 | 
-| 2023-03-02 | 40 | 20 | 
 

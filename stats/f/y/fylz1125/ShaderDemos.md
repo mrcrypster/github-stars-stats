@@ -1,10 +1,10 @@
 # fylz1125/ShaderDemos - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 357
 
-★ Stars: 955
+★ Stars: 957
 
 [Open repository](https://github.com/fylz1125/ShaderDemos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 957 | 357 | 
 | 2023-03-31 | 955 | 357 | 
 | 2023-03-29 | 954 | 357 | 
 | 2023-03-27 | 954 | 357 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 948 | 357 | 
 | 2023-03-05 | 948 | 357 | 
 | 2023-03-03 | 948 | 357 | 
-| 2023-03-02 | 948 | 357 | 
 

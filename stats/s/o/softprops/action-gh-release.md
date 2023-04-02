@@ -1,10 +1,10 @@
 # softprops/action-gh-release - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 306
+☋ Forks: 308
 
-★ Stars: 2528
+★ Stars: 2538
 
 [Open repository](https://github.com/softprops/action-gh-release)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2538 | 308 | 
 | 2023-03-30 | 2528 | 306 | 
 | 2023-03-28 | 2523 | 306 | 
 | 2023-03-27 | 2516 | 306 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 2438 | 303 | 
 | 2023-03-04 | 2438 | 303 | 
 | 2023-03-03 | 2434 | 303 | 
-| 2023-03-02 | 2429 | 302 | 
 

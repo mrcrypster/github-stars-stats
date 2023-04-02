@@ -1,8 +1,8 @@
 # woowacourse-precourse/java-bridge - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 1211
+☋ Forks: 1210
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 18 | 1210 | 
 | 2023-03-29 | 18 | 1211 | 
 | 2023-03-27 | 18 | 1212 | 
 | 2023-03-26 | 18 | 1212 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 17 | 1225 | 
 | 2023-03-05 | 17 | 1225 | 
 | 2023-03-03 | 17 | 1226 | 
-| 2023-03-02 | 17 | 1226 | 
 

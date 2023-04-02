@@ -1,10 +1,10 @@
 # aspect-build/gcc-toolchain - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 7
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/aspect-build/gcc-toolchain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 49 | 7 | 
 | 2023-03-30 | 48 | 7 | 
 | 2023-03-28 | 48 | 7 | 
 | 2023-03-27 | 48 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 47 | 6 | 
 | 2023-03-04 | 47 | 6 | 
 | 2023-03-03 | 47 | 6 | 
-| 2023-03-02 | 46 | 6 | 
 

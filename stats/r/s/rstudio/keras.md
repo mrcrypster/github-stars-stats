@@ -1,6 +1,6 @@
 # rstudio/keras - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 278
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 778 | 278 | 
 | 2023-03-30 | 778 | 278 | 
 | 2023-03-28 | 779 | 278 | 
 | 2023-03-27 | 778 | 278 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 779 | 277 | 
 | 2023-03-04 | 779 | 277 | 
 | 2023-03-03 | 779 | 277 | 
-| 2023-03-02 | 779 | 277 | 
 

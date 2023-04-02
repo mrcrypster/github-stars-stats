@@ -1,6 +1,6 @@
 # RajSolai/TextSnatcher - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 434 | 24 | 
 | 2023-03-29 | 434 | 24 | 
 | 2023-03-28 | 433 | 24 | 
 | 2023-03-26 | 433 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 414 | 24 | 
 | 2023-03-04 | 413 | 24 | 
 | 2023-03-03 | 413 | 24 | 
-| 2023-03-02 | 410 | 24 | 
 

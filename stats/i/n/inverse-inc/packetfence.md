@@ -1,6 +1,6 @@
 # inverse-inc/packetfence - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1096 | 261 | 
 | 2023-03-31 | 1096 | 261 | 
 | 2023-03-30 | 1095 | 261 | 
 | 2023-03-29 | 1095 | 261 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 1083 | 260 | 
 | 2023-03-04 | 1082 | 260 | 
 | 2023-03-03 | 1081 | 260 | 
-| 2023-03-02 | 1081 | 259 | 
 

@@ -1,10 +1,10 @@
 # awspring/spring-cloud-aws - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 186
 
-★ Stars: 516
+★ Stars: 517
 
 [Open repository](https://github.com/awspring/spring-cloud-aws)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 517 | 186 | 
 | 2023-03-31 | 516 | 186 | 
 

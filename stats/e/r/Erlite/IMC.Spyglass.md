@@ -1,6 +1,6 @@
 # Erlite/IMC.Spyglass - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 11 | 2 | 
 | 2023-03-30 | 11 | 2 | 
 | 2023-03-28 | 11 | 2 | 
 | 2023-03-26 | 11 | 2 | 

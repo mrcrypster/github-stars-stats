@@ -1,10 +1,10 @@
 # JuliaMLTools/EuclidGraphs.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/JuliaMLTools/EuclidGraphs.jl)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 12 | 1 | 
 | 2023-03-30 | 11 | - | 
 

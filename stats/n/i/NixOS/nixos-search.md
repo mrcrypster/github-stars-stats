@@ -1,10 +1,10 @@
 # NixOS/nixos-search - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 73
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/NixOS/nixos-search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 220 | 73 | 
 | 2023-03-30 | 219 | 73 | 
 | 2023-03-28 | 219 | 71 | 
 | 2023-03-27 | 219 | 71 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 211 | 69 | 
 | 2023-03-05 | 211 | 69 | 
 | 2023-03-04 | 208 | 69 | 
-| 2023-03-03 | 209 | 69 | 
 

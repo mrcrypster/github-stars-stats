@@ -1,10 +1,10 @@
 # web-infra-dev/rspack - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 162
+☋ Forks: 163
 
-★ Stars: 3764
+★ Stars: 3779
 
 [Open repository](https://github.com/web-infra-dev/rspack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 3779 | 163 | 
 | 2023-03-31 | 3764 | 162 | 
 | 2023-03-30 | 3742 | 162 | 
 | 2023-03-28 | 3714 | 161 | 

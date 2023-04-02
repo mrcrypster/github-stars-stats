@@ -1,10 +1,10 @@
 # jcdickinson/codeium.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 8
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/jcdickinson/codeium.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 89 | 8 | 
 | 2023-03-31 | 88 | 8 | 
 | 2023-03-30 | 87 | 8 | 
 | 2023-03-28 | 83 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 64 | 7 | 
 | 2023-03-05 | 63 | 7 | 
 | 2023-03-04 | 63 | 7 | 
-| 2023-03-02 | 63 | 7 | 
 

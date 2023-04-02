@@ -1,6 +1,6 @@
 # tangxiaofeng7/Landray-OA-Treexml-Rce - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 108 | 39 | 
 | 2023-03-30 | 108 | 39 | 
 | 2023-03-28 | 109 | 39 | 
 | 2023-03-26 | 109 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 109 | 38 | 
 | 2023-03-05 | 109 | 38 | 
 | 2023-03-04 | 109 | 38 | 
-| 2023-03-02 | 109 | 38 | 
 

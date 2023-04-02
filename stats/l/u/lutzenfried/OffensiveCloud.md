@@ -1,10 +1,10 @@
 # lutzenfried/OffensiveCloud - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 23
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/lutzenfried/OffensiveCloud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 165 | 23 | 
 | 2023-03-30 | 164 | 23 | 
 | 2023-03-29 | 164 | 23 | 
 | 2023-03-27 | 164 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 165 | 23 | 
 | 2023-03-05 | 164 | 23 | 
 | 2023-03-03 | 164 | 23 | 
-| 2023-03-02 | 160 | 23 | 
 

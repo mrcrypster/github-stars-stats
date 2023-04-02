@@ -1,10 +1,10 @@
 # JamesPerlman/blender-ngp - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/JamesPerlman/blender-ngp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 48 | 2 | 
 | 2023-03-30 | 47 | 2 | 
 | 2023-03-28 | 47 | 2 | 
 | 2023-03-27 | 47 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 46 | 2 | 
 | 2023-03-05 | 46 | 2 | 
 | 2023-03-04 | 46 | 2 | 
-| 2023-03-02 | 46 | 2 | 
 

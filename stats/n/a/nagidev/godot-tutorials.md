@@ -1,6 +1,6 @@
 # nagidev/godot-tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 48 | 12 | 
 | 2023-03-29 | 48 | 12 | 
 | 2023-03-27 | 48 | 12 | 
 | 2023-03-26 | 48 | 11 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 45 | 10 | 
 | 2023-03-05 | 45 | 10 | 
 | 2023-03-04 | 45 | 10 | 
-| 2023-03-02 | 45 | 10 | 
 

@@ -1,10 +1,10 @@
 # ronggang/transmission-web-control - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 755
+☋ Forks: 757
 
-★ Stars: 4108
+★ Stars: 4112
 
 [Open repository](https://github.com/ronggang/transmission-web-control)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 4112 | 757 | 
 | 2023-03-30 | 4108 | 755 | 
 | 2023-03-28 | 4106 | 754 | 
 | 2023-03-27 | 4105 | 754 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 4082 | 753 | 
 | 2023-03-05 | 4082 | 753 | 
 | 2023-03-03 | 4081 | 752 | 
-| 2023-03-02 | 4079 | 752 | 
 

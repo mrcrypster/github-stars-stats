@@ -1,10 +1,10 @@
 # raywenderlich/swift-algorithm-club - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 4912
 
-★ Stars: 27565
+★ Stars: 27574
 
 [Open repository](https://github.com/raywenderlich/swift-algorithm-club)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 27574 | 4912 | 
 | 2023-03-30 | 27565 | 4912 | 
 | 2023-03-28 | 27556 | 4915 | 
 | 2023-03-27 | 27547 | 4912 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 27473 | 4897 | 
 | 2023-03-04 | 27467 | 4897 | 
 | 2023-03-03 | 27462 | 4898 | 
-| 2023-03-02 | 27456 | 4899 | 
 

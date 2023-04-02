@@ -1,10 +1,10 @@
 # BinBashBanana/webretro - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 197
+☋ Forks: 196
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/BinBashBanana/webretro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 147 | 196 | 
 | 2023-03-31 | 146 | 197 | 
 | 2023-03-29 | 146 | 194 | 
 | 2023-03-28 | 146 | 194 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 133 | 181 | 
 | 2023-03-05 | 133 | 182 | 
 | 2023-03-03 | 133 | 182 | 
-| 2023-03-02 | 133 | 181 | 
 

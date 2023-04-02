@@ -1,6 +1,6 @@
 # zadewg/RIUS - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 86 | 10 | 
 | 2023-03-31 | 86 | 10 | 
 | 2023-03-29 | 86 | 10 | 
 | 2023-03-27 | 86 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 86 | 10 | 
 | 2023-03-04 | 86 | 10 | 
 | 2023-03-03 | 86 | 10 | 
-| 2023-03-02 | 86 | 10 | 
 

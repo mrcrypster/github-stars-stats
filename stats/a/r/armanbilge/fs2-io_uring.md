@@ -1,6 +1,6 @@
 # armanbilge/fs2-io_uring - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 25 | 4 | 
 | 2023-03-30 | 25 | 4 | 
 | 2023-03-28 | 24 | 3 | 
 | 2023-03-27 | 24 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 23 | 1 | 
 | 2023-03-05 | 23 | 1 | 
 | 2023-03-04 | 23 | 1 | 
-| 2023-03-03 | 23 | 1 | 
 

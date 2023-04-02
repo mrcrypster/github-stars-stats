@@ -1,10 +1,10 @@
 # bats-core/bats-core - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 358
 
-★ Stars: 3871
+★ Stars: 3879
 
 [Open repository](https://github.com/bats-core/bats-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 3879 | 358 | 
 | 2023-03-30 | 3871 | 358 | 
 | 2023-03-29 | 3870 | 358 | 
 | 2023-03-27 | 3864 | 358 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 3830 | 356 | 
 | 2023-03-04 | 3828 | 356 | 
 | 2023-03-03 | 3819 | 355 | 
-| 2023-03-02 | 3819 | 355 | 
 

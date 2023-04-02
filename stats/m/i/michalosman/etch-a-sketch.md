@@ -1,8 +1,8 @@
 # michalosman/etch-a-sketch - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 54
+☋ Forks: 55
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 48 | 55 | 
 | 2023-03-29 | 48 | 54 | 
 | 2023-03-28 | 48 | 54 | 
 | 2023-03-26 | 48 | 54 | 

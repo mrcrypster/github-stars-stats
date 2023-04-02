@@ -1,8 +1,8 @@
 # codepath/android_guides - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 6467
+☋ Forks: 6466
 
 ★ Stars: 28068
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 28068 | 6466 | 
 | 2023-03-31 | 28068 | 6467 | 
 | 2023-03-29 | 28066 | 6466 | 
 | 2023-03-27 | 28063 | 6465 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 28054 | 6469 | 
 | 2023-03-05 | 28052 | 6469 | 
 | 2023-03-04 | 28049 | 6469 | 
-| 2023-03-02 | 28050 | 6469 | 
 

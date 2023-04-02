@@ -1,10 +1,10 @@
 # VITA-Group/NeuralLift-360 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 10
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/VITA-Group/NeuralLift-360)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 204 | 10 | 
 | 2023-03-31 | 203 | 10 | 
 | 2023-03-29 | 201 | 10 | 
 | 2023-03-27 | 199 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 97 | 5 | 
 | 2023-03-05 | 97 | 5 | 
 | 2023-03-03 | 97 | 5 | 
-| 2023-03-02 | 97 | 5 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 01
 
 ☋ Forks: 36
 
-★ Stars: 299
+★ Stars: 301
 
 [Open repository](https://github.com/webraybtl/CodeQLpy)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-01 | 299 | 36 | 
+| 2023-04-01 | 301 | 36 | 
 | 2023-03-31 | 299 | 36 | 
 | 2023-03-30 | 289 | 35 | 
 | 2023-03-28 | 276 | 34 | 

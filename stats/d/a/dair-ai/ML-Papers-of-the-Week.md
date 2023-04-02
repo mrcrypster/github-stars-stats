@@ -1,10 +1,10 @@
 # dair-ai/ML-Papers-of-the-Week - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 13
 
-★ Stars: 376
+★ Stars: 377
 
 [Open repository](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 377 | 13 | 
 | 2023-03-31 | 376 | 13 | 
 | 2023-03-29 | 376 | 13 | 
 | 2023-03-28 | 375 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 304 | 11 | 
 | 2023-03-05 | 303 | 11 | 
 | 2023-03-04 | 303 | 11 | 
-| 2023-03-02 | 299 | 11 | 
 

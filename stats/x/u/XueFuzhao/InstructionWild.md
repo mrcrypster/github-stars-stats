@@ -1,10 +1,10 @@
 # XueFuzhao/InstructionWild - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 149
+★ Stars: 153
 
 [Open repository](https://github.com/XueFuzhao/InstructionWild)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 153 | 22 | 
 | 2023-03-31 | 149 | 21 | 
 

@@ -1,10 +1,10 @@
 # parse-community/Parse-Swift - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 63
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/parse-community/Parse-Swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 273 | 63 | 
 | 2023-03-30 | 272 | 63 | 
 | 2023-03-29 | 272 | 63 | 
 | 2023-03-27 | 272 | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 264 | 61 | 
 | 2023-03-04 | 262 | 61 | 
 | 2023-03-03 | 262 | 61 | 
-| 2023-03-02 | 262 | 61 | 
 

@@ -1,6 +1,6 @@
 # robbiehanson/CocoaAsyncSocket - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 2961
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 12316 | 2961 | 
+| 2023-04-01 | 12316 | 2961 | 
 | 2023-03-31 | 12316 | 2961 | 
 | 2023-03-30 | 12316 | 2961 | 
 | 2023-03-28 | 12314 | 2958 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 12308 | 2950 | 
 | 2023-03-04 | 12308 | 2950 | 
 | 2023-03-03 | 12308 | 2950 | 
-| 2023-03-02 | 12308 | 2950 | 
 

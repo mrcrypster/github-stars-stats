@@ -1,10 +1,10 @@
 # gitbrent/PptxGenJS - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 504
+☋ Forks: 507
 
-★ Stars: 1920
+★ Stars: 1924
 
 [Open repository](https://github.com/gitbrent/PptxGenJS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1924 | 507 | 
 | 2023-03-30 | 1920 | 504 | 
 | 2023-03-28 | 1913 | 503 | 
 | 2023-03-27 | 1912 | 501 | 

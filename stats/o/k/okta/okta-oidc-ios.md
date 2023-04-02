@@ -1,6 +1,6 @@
 # okta/okta-oidc-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 75 | 83 | 
 | 2023-03-31 | 75 | 83 | 
 | 2023-03-29 | 75 | 83 | 
 | 2023-03-28 | 75 | 83 | 

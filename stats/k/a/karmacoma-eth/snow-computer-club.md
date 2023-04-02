@@ -1,6 +1,6 @@
 # karmacoma-eth/snow-computer-club - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 17 | - | 
 | 2023-03-29 | 17 | - | 
 | 2023-03-28 | 17 | - | 
 | 2023-03-26 | 17 | - | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 17 | - | 
 | 2023-03-05 | 17 | - | 
 | 2023-03-04 | 17 | - | 
-| 2023-03-02 | 17 | - | 
 

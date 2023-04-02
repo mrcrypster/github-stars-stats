@@ -1,6 +1,6 @@
 # chachi/cuda-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 20 | 13 | 
 | 2023-03-30 | 20 | 13 | 
 | 2023-03-28 | 20 | 13 | 
 | 2023-03-27 | 20 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 20 | 13 | 
 | 2023-03-04 | 20 | 13 | 
 | 2023-03-03 | 20 | 14 | 
-| 2023-03-02 | 20 | 14 | 
 

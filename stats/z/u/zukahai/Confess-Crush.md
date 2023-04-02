@@ -1,10 +1,10 @@
 # zukahai/Confess-Crush - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 2218
+☋ Forks: 2217
 
-★ Stars: 1220
+★ Stars: 1221
 
 [Open repository](https://github.com/zukahai/Confess-Crush)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1221 | 2217 | 
 | 2023-03-31 | 1220 | 2218 | 
 | 2023-03-29 | 1220 | 2217 | 
 | 2023-03-28 | 1211 | 2216 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 1207 | 2209 | 
 | 2023-03-04 | 1207 | 2208 | 
 | 2023-03-03 | 1204 | 2207 | 
-| 2023-03-02 | 1204 | 2207 | 
 

@@ -1,6 +1,6 @@
 # frntc/RAD - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 108 | 7 | 
 | 2023-03-31 | 108 | 7 | 
 | 2023-03-29 | 90 | 5 | 
 | 2023-03-27 | 86 | 5 | 

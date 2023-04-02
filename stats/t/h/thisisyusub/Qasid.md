@@ -1,6 +1,6 @@
 # thisisyusub/Qasid - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 28 | 8 | 
 | 2023-03-31 | 28 | 8 | 
 | 2023-03-28 | 28 | 8 | 
 | 2023-03-26 | 28 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 28 | 8 | 
 | 2023-03-05 | 28 | 8 | 
 | 2023-03-04 | 28 | 8 | 
-| 2023-03-02 | 28 | 8 | 
 

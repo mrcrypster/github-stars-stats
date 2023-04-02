@@ -1,10 +1,10 @@
 # ganlanyuan/tiny-slider - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 765
 
-★ Stars: 4891
+★ Stars: 4892
 
 [Open repository](https://github.com/ganlanyuan/tiny-slider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 4892 | 765 | 
 | 2023-03-31 | 4891 | 765 | 
 | 2023-03-29 | 4890 | 763 | 
 | 2023-03-28 | 4891 | 763 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 4874 | 763 | 
 | 2023-03-05 | 4871 | 764 | 
 | 2023-03-03 | 4871 | 764 | 
-| 2023-03-02 | 4871 | 765 | 
 

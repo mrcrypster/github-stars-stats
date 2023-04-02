@@ -1,6 +1,6 @@
 # code-423n4/2023-03-neotokyo - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 7 | 12 | 
 | 2023-03-30 | 7 | 12 | 
 | 2023-03-28 | 7 | 12 | 
 | 2023-03-27 | 7 | 12 | 

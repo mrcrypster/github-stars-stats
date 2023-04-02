@@ -1,10 +1,10 @@
 # hariroshan/elm-native-library - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 42
+★ Stars: 45
 
 [Open repository](https://github.com/hariroshan/elm-native-library)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 45 | - | 
 | 2023-03-29 | 42 | - | 
 | 2023-03-27 | 42 | - | 
 | 2023-03-26 | 42 | - | 

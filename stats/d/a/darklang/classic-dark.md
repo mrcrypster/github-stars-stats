@@ -1,8 +1,8 @@
 # darklang/classic-dark - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 21 | 2 | 
 | 2023-03-31 | 21 | 1 | 
 | 2023-03-30 | 19 | 1 | 
 

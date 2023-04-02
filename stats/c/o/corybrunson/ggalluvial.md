@@ -1,10 +1,10 @@
 # corybrunson/ggalluvial - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 29
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/corybrunson/ggalluvial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 439 | 29 | 
 | 2023-03-31 | 438 | 29 | 
 | 2023-03-29 | 438 | 29 | 
 | 2023-03-28 | 438 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 437 | 29 | 
 | 2023-03-04 | 437 | 29 | 
 | 2023-03-03 | 437 | 29 | 
-| 2023-03-02 | 436 | 29 | 
 

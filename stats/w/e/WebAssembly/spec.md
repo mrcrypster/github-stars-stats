@@ -1,10 +1,10 @@
 # WebAssembly/spec - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 439
+☋ Forks: 440
 
-★ Stars: 2868
+★ Stars: 2869
 
 [Open repository](https://github.com/WebAssembly/spec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2869 | 440 | 
 | 2023-03-31 | 2868 | 439 | 
 | 2023-03-30 | 2868 | 439 | 
 | 2023-03-29 | 2868 | 439 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 2839 | 435 | 
 | 2023-03-04 | 2839 | 435 | 
 | 2023-03-03 | 2839 | 435 | 
-| 2023-03-02 | 2840 | 435 | 
 

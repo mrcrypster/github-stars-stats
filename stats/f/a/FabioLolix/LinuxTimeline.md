@@ -1,10 +1,10 @@
 # FabioLolix/LinuxTimeline - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 133
 
-★ Stars: 1336
+★ Stars: 1337
 
 [Open repository](https://github.com/FabioLolix/LinuxTimeline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1337 | 133 | 
 | 2023-03-29 | 1336 | 133 | 
 | 2023-03-28 | 1334 | 132 | 
 | 2023-03-26 | 1334 | 132 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 1328 | 132 | 
 | 2023-03-04 | 1327 | 132 | 
 | 2023-03-03 | 1327 | 132 | 
-| 2023-03-02 | 1327 | 132 | 
 

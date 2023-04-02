@@ -1,6 +1,6 @@
 # TrellisCommerce/shopify-dawn-tailwind-starter-base - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 72 | 57 | 
 | 2023-03-30 | 72 | 57 | 
 | 2023-03-28 | 71 | 57 | 
 | 2023-03-27 | 71 | 56 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 65 | 46 | 
 | 2023-03-04 | 65 | 46 | 
 | 2023-03-03 | 64 | 46 | 
-| 2023-03-02 | 64 | 46 | 
 

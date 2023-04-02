@@ -1,10 +1,10 @@
 # WhatsApp/waraft - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 23
 
-★ Stars: 480
+★ Stars: 483
 
 [Open repository](https://github.com/WhatsApp/waraft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 483 | 23 | 
 | 2023-03-30 | 480 | 23 | 
 | 2023-03-28 | 480 | 23 | 
 | 2023-03-27 | 480 | 23 | 

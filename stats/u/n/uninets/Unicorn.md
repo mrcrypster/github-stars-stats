@@ -1,6 +1,6 @@
 # uninets/Unicorn - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1 | 2 | 
 | 2023-03-29 | 1 | 2 | 
 | 2023-03-27 | 1 | 2 | 
 | 2023-03-26 | 1 | 2 | 

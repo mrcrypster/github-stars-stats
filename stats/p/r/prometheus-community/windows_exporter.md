@@ -1,10 +1,10 @@
 # prometheus-community/windows_exporter - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 582
+☋ Forks: 583
 
-★ Stars: 2125
+★ Stars: 2126
 
 [Open repository](https://github.com/prometheus-community/windows_exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2126 | 583 | 
 | 2023-03-30 | 2125 | 582 | 
 | 2023-03-28 | 2123 | 579 | 
 | 2023-03-26 | 2117 | 578 | 

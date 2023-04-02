@@ -1,10 +1,10 @@
 # pandasec888/taowu-cobalt-strike - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 330
 
-★ Stars: 1624
+★ Stars: 1626
 
 [Open repository](https://github.com/pandasec888/taowu-cobalt-strike)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1626 | 330 | 
 | 2023-03-30 | 1624 | 330 | 
 | 2023-03-28 | 1620 | 329 | 
 | 2023-03-27 | 1618 | 328 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 1594 | 326 | 
 | 2023-03-04 | 1587 | 324 | 
 | 2023-03-03 | 1587 | 324 | 
-| 2023-03-02 | 1586 | 324 | 
 

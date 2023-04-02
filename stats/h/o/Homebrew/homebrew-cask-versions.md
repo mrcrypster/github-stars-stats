@@ -1,10 +1,10 @@
 # Homebrew/homebrew-cask-versions - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 1064
+☋ Forks: 1066
 
-★ Stars: 1075
+★ Stars: 1076
 
 [Open repository](https://github.com/Homebrew/homebrew-cask-versions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1076 | 1066 | 
 | 2023-03-31 | 1075 | 1064 | 
 | 2023-03-29 | 1075 | 1064 | 
 | 2023-03-28 | 1075 | 1065 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 1064 | 1062 | 
 | 2023-03-05 | 1064 | 1062 | 
 | 2023-03-04 | 1064 | 1062 | 
-| 2023-03-02 | 1065 | 1062 | 
 

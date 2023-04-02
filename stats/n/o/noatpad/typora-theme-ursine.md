@@ -1,6 +1,6 @@
 # noatpad/typora-theme-ursine - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 705 | 86 | 
 | 2023-03-31 | 705 | 86 | 
 | 2023-03-29 | 704 | 86 | 
 | 2023-03-27 | 704 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 704 | 86 | 
 | 2023-03-04 | 703 | 86 | 
 | 2023-03-03 | 703 | 86 | 
-| 2023-03-02 | 704 | 86 | 
 

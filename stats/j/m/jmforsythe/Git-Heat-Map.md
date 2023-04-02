@@ -1,10 +1,10 @@
 # jmforsythe/Git-Heat-Map - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 40
 
-★ Stars: 935
+★ Stars: 938
 
 [Open repository](https://github.com/jmforsythe/Git-Heat-Map)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 938 | 40 | 
 | 2023-03-31 | 935 | 40 | 
 | 2023-03-29 | 934 | 40 | 
 | 2023-03-27 | 934 | 40 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 917 | 38 | 
 | 2023-03-05 | 915 | 38 | 
 | 2023-03-04 | 915 | 38 | 
-| 2023-03-02 | 913 | 38 | 
 

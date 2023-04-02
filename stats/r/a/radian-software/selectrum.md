@@ -1,10 +1,10 @@
 # radian-software/selectrum - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 33
 
-★ Stars: 735
+★ Stars: 736
 
 [Open repository](https://github.com/radian-software/selectrum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 736 | 33 | 
 | 2023-03-30 | 735 | 33 | 
 | 2023-03-28 | 735 | 33 | 
 | 2023-03-27 | 735 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 734 | 33 | 
 | 2023-03-05 | 733 | 33 | 
 | 2023-03-03 | 733 | 33 | 
-| 2023-03-02 | 733 | 33 | 
 

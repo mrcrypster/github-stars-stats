@@ -1,10 +1,10 @@
 # willothy/veil.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 45
+★ Stars: 48
 
 [Open repository](https://github.com/willothy/veil.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 48 | 3 | 
 | 2023-03-29 | 45 | 2 | 
 | 2023-03-27 | 45 | 1 | 
 | 2023-03-26 | 44 | 1 | 

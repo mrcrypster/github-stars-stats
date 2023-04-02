@@ -1,6 +1,6 @@
 # byrd-polar/fluid-earth - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 81 | 11 | 
 | 2023-03-30 | 81 | 11 | 
 | 2023-03-28 | 81 | 11 | 
 | 2023-03-27 | 81 | 11 | 

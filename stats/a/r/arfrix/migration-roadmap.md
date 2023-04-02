@@ -1,6 +1,6 @@
 # arfrix/migration-roadmap - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 81 | 1 | 
 | 2023-03-29 | 81 | 1 | 
 | 2023-03-27 | 81 | 1 | 
 | 2023-03-26 | 81 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 80 | 1 | 
 | 2023-03-05 | 80 | 1 | 
 | 2023-03-03 | 80 | 1 | 
-| 2023-03-02 | 80 | 1 | 
 

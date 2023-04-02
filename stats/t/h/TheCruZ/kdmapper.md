@@ -1,10 +1,10 @@
 # TheCruZ/kdmapper - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 353
 
-★ Stars: 999
+★ Stars: 1000
 
 [Open repository](https://github.com/TheCruZ/kdmapper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1000 | 353 | 
 | 2023-03-30 | 999 | 353 | 
 | 2023-03-28 | 995 | 352 | 
 | 2023-03-26 | 992 | 349 | 

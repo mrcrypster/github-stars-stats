@@ -1,8 +1,8 @@
 # Azure/azure-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 263
+☋ Forks: 264
 
 ★ Stars: 373
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 373 | 264 | 
 | 2023-03-30 | 373 | 263 | 
 | 2023-03-28 | 373 | 263 | 
 | 2023-03-27 | 371 | 263 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 363 | 260 | 
 | 2023-03-04 | 363 | 260 | 
 | 2023-03-03 | 364 | 258 | 
-| 2023-03-02 | 365 | 258 | 
 

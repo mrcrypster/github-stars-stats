@@ -1,10 +1,10 @@
 # phil294/vimium-everywhere - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/phil294/vimium-everywhere)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 35 | 2 | 
 | 2023-03-29 | 34 | 2 | 
 | 2023-03-28 | 33 | 2 | 
 | 2023-03-26 | 32 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-05 | 27 | 2 | 
 | 2023-03-04 | 27 | 2 | 
 | 2023-03-03 | 27 | 2 | 
-| 2023-03-02 | 27 | 2 | 
 

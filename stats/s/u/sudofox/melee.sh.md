@@ -1,10 +1,10 @@
 # sudofox/melee.sh - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 221
+★ Stars: 220
 
 [Open repository](https://github.com/sudofox/melee.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 220 | 3 | 
 | 2023-03-29 | 221 | 3 | 
 | 2023-03-27 | 221 | 3 | 
 | 2023-03-26 | 221 | 3 | 

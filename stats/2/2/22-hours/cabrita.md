@@ -1,10 +1,10 @@
 # 22-hours/cabrita - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 29
+☋ Forks: 33
 
-★ Stars: 269
+★ Stars: 281
 
 [Open repository](https://github.com/22-hours/cabrita)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 281 | 33 | 
 | 2023-03-30 | 269 | 29 | 
 | 2023-03-28 | 258 | 25 | 
 | 2023-03-27 | 242 | 24 | 

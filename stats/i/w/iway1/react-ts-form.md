@@ -1,6 +1,6 @@
 # iway1/react-ts-form - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1809 | 29 | 
 | 2023-03-31 | 1809 | 29 | 
 | 2023-03-29 | 1809 | 28 | 
 | 2023-03-27 | 1810 | 28 | 

@@ -1,6 +1,6 @@
 # Rangi42/polishedcrystal - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 718 | 152 | 
 | 2023-03-31 | 718 | 152 | 
 | 2023-03-30 | 717 | 152 | 
 | 2023-03-28 | 716 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 696 | 146 | 
 | 2023-03-04 | 696 | 146 | 
 | 2023-03-03 | 696 | 146 | 
-| 2023-03-02 | 696 | 146 | 
 

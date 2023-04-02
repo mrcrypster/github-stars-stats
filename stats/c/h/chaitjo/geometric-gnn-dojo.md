@@ -1,6 +1,6 @@
 # chaitjo/geometric-gnn-dojo - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 274 | 23 | 
 | 2023-03-31 | 274 | 23 | 
 | 2023-03-29 | 274 | 23 | 
 | 2023-03-27 | 273 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 266 | 21 | 
 | 2023-03-05 | 265 | 21 | 
 | 2023-03-03 | 265 | 21 | 
-| 2023-03-02 | 265 | 21 | 
 

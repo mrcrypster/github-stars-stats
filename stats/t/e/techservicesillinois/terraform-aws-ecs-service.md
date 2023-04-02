@@ -1,10 +1,10 @@
 # techservicesillinois/terraform-aws-ecs-service - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 28
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/techservicesillinois/terraform-aws-ecs-service)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 26 | 28 | 
 | 2023-03-30 | 25 | 28 | 
 | 2023-03-28 | 25 | 28 | 
 | 2023-03-27 | 25 | 28 | 

@@ -1,10 +1,10 @@
 # anc95/ChatGPT-CodeReview - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 88
+☋ Forks: 90
 
-★ Stars: 1077
+★ Stars: 1099
 
 [Open repository](https://github.com/anc95/ChatGPT-CodeReview)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1099 | 90 | 
 | 2023-03-31 | 1077 | 88 | 
 | 2023-03-29 | 1034 | 81 | 
 | 2023-03-28 | 984 | 78 | 

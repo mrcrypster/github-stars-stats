@@ -1,10 +1,10 @@
 # epilys/gerb - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 270
+★ Stars: 272
 
 [Open repository](https://github.com/epilys/gerb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 272 | 5 | 
 | 2023-03-29 | 270 | 4 | 
 | 2023-03-28 | 269 | 4 | 
 | 2023-03-26 | 269 | 4 | 

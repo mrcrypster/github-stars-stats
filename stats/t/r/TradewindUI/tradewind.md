@@ -1,10 +1,10 @@
 # TradewindUI/tradewind - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/TradewindUI/tradewind)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 22 | 1 | 
 | 2023-03-31 | 21 | 1 | 
 | 2023-03-29 | 21 | 1 | 
 | 2023-03-27 | 21 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 17 | 1 | 
 | 2023-03-05 | 16 | 1 | 
 | 2023-03-04 | 16 | 1 | 
-| 2023-03-03 | 16 | 1 | 
 

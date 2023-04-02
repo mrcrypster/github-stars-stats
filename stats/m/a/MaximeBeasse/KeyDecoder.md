@@ -1,6 +1,6 @@
 # MaximeBeasse/KeyDecoder - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2658 | 167 | 
 | 2023-03-31 | 2658 | 167 | 
 | 2023-03-29 | 2657 | 167 | 
 | 2023-03-28 | 2653 | 167 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 2609 | 167 | 
 | 2023-03-05 | 2609 | 167 | 
 | 2023-03-04 | 2606 | 167 | 
-| 2023-03-02 | 2606 | 167 | 
 

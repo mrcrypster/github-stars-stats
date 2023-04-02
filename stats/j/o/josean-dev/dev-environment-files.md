@@ -1,10 +1,10 @@
 # josean-dev/dev-environment-files - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 441
+☋ Forks: 445
 
-★ Stars: 878
+★ Stars: 887
 
 [Open repository](https://github.com/josean-dev/dev-environment-files)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 887 | 445 | 
 | 2023-03-30 | 878 | 441 | 
 | 2023-03-28 | 873 | 438 | 
 | 2023-03-27 | 866 | 439 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 786 | 378 | 
 | 2023-03-05 | 775 | 377 | 
 | 2023-03-04 | 757 | 373 | 
-| 2023-03-02 | 753 | 370 | 
 

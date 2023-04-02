@@ -1,10 +1,10 @@
 # czy36mengfei/tensorflow2_tutorials_chinese - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 2050
 
-★ Stars: 7604
+★ Stars: 7603
 
 [Open repository](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 7603 | 2050 | 
 | 2023-03-31 | 7604 | 2050 | 
 | 2023-03-29 | 7602 | 2050 | 
 | 2023-03-27 | 7598 | 2049 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 7597 | 2049 | 
 | 2023-03-04 | 7596 | 2049 | 
 | 2023-03-03 | 7595 | 2049 | 
-| 2023-03-02 | 7593 | 2050 | 
 

@@ -1,10 +1,10 @@
 # gannonh/gpt3.5-turbo-pgvector - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 70
+☋ Forks: 75
 
-★ Stars: 570
+★ Stars: 600
 
 [Open repository](https://github.com/gannonh/gpt3.5-turbo-pgvector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 600 | 75 | 
 | 2023-03-30 | 570 | 70 | 
 | 2023-03-28 | 548 | 64 | 
 | 2023-03-27 | 534 | 61 | 

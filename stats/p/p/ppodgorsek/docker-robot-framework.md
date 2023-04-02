@@ -1,6 +1,6 @@
 # ppodgorsek/docker-robot-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 290 | 214 | 
 | 2023-03-31 | 290 | 214 | 
 | 2023-03-29 | 290 | 214 | 
 | 2023-03-27 | 290 | 213 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 290 | 213 | 
 | 2023-03-04 | 290 | 213 | 
 | 2023-03-03 | 290 | 213 | 
-| 2023-03-02 | 290 | 213 | 
 

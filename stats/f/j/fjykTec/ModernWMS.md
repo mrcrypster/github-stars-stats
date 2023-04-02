@@ -1,10 +1,10 @@
 # fjykTec/ModernWMS - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 88
 
-★ Stars: 277
+★ Stars: 279
 
 [Open repository](https://github.com/fjykTec/ModernWMS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 279 | 88 | 
 | 2023-03-31 | 277 | 88 | 
 | 2023-03-29 | 274 | 88 | 
 | 2023-03-28 | 272 | 88 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 243 | 79 | 
 | 2023-03-05 | 240 | 78 | 
 | 2023-03-04 | 238 | 78 | 
-| 2023-03-02 | 236 | 78 | 
 

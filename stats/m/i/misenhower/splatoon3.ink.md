@@ -1,10 +1,10 @@
 # misenhower/splatoon3.ink - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/misenhower/splatoon3.ink)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 146 | 12 | 
 | 2023-03-29 | 145 | 12 | 
 | 2023-03-27 | 144 | 12 | 
 | 2023-03-26 | 143 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 140 | 12 | 
 | 2023-03-05 | 141 | 12 | 
 | 2023-03-03 | 141 | 12 | 
-| 2023-03-02 | 141 | 12 | 
 

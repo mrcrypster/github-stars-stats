@@ -1,10 +1,10 @@
 # laravel/cashier-stripe - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 616
 
-★ Stars: 2209
+★ Stars: 2210
 
 [Open repository](https://github.com/laravel/cashier-stripe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2210 | 616 | 
 | 2023-03-31 | 2209 | 616 | 
 | 2023-03-29 | 2209 | 616 | 
 | 2023-03-28 | 2209 | 616 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 2202 | 614 | 
 | 2023-03-04 | 2202 | 614 | 
 | 2023-03-03 | 2201 | 612 | 
-| 2023-03-02 | 2200 | 611 | 
 

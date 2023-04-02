@@ -1,8 +1,8 @@
 # PlaceNL/Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 222
+☋ Forks: 221
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 174 | 221 | 
 | 2023-03-31 | 174 | 222 | 
 | 2023-03-29 | 174 | 222 | 
 | 2023-03-28 | 174 | 222 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 176 | 222 | 
 | 2023-03-04 | 176 | 222 | 
 | 2023-03-03 | 176 | 222 | 
-| 2023-03-02 | 176 | 222 | 
 

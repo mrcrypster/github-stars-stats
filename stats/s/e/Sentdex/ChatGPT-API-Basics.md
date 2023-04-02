@@ -1,10 +1,10 @@
 # Sentdex/ChatGPT-API-Basics - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 84
+★ Stars: 87
 
 [Open repository](https://github.com/Sentdex/ChatGPT-API-Basics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 87 | 29 | 
 | 2023-03-30 | 84 | 28 | 
 | 2023-03-28 | 78 | 26 | 
 | 2023-03-27 | 72 | 25 | 

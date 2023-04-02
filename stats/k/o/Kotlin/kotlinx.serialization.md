@@ -1,6 +1,6 @@
 # Kotlin/kotlinx.serialization - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 589
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 4422 | 589 | 
 | 2023-03-31 | 4422 | 589 | 
 | 2023-03-30 | 4420 | 588 | 
 | 2023-03-29 | 4419 | 589 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 4379 | 579 | 
 | 2023-03-04 | 4378 | 577 | 
 | 2023-03-03 | 4378 | 576 | 
-| 2023-03-02 | 4374 | 576 | 
 

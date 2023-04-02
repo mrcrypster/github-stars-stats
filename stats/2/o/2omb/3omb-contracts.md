@@ -1,10 +1,10 @@
 # 2omb/3omb-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 45
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/2omb/3omb-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 5 | 45 | 
 | 2023-03-30 | 4 | 45 | 
 | 2023-03-29 | 4 | 45 | 
 | 2023-03-27 | 4 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 4 | 45 | 
 | 2023-03-05 | 4 | 45 | 
 | 2023-03-04 | 4 | 45 | 
-| 2023-03-02 | 4 | 45 | 
 

@@ -1,6 +1,6 @@
 # Giphy/giphy-ios-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 84 | 42 | 
 | 2023-03-31 | 84 | 42 | 
 | 2023-03-30 | 83 | 42 | 
 | 2023-03-28 | 82 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 77 | 42 | 
 | 2023-03-05 | 77 | 42 | 
 | 2023-03-04 | 77 | 42 | 
-| 2023-03-02 | 77 | 42 | 
 

@@ -1,10 +1,10 @@
 # lucasgiovannibr/canaryaac - stars & forks statistics
 
-Stats updated on Mar 2023, 28
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 20
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/lucasgiovannibr/canaryaac)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 10 | 20 | 
 | 2023-03-28 | 11 | 20 | 
 | 2023-03-27 | 11 | 20 | 
 | 2023-03-26 | 11 | 20 | 

@@ -1,10 +1,10 @@
 # MAJigsaws-Ports/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 123
+☋ Forks: 122
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/MAJigsaws-Ports/FNF-PsychEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 25 | 122 | 
 | 2023-03-29 | 24 | 123 | 
 | 2023-03-27 | 24 | 123 | 
 | 2023-03-26 | 24 | 123 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 23 | 120 | 
 | 2023-03-05 | 24 | 120 | 
 | 2023-03-03 | 24 | 120 | 
-| 2023-03-02 | 24 | 120 | 
 

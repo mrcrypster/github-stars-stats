@@ -1,10 +1,10 @@
 # pstanoev/simple-svelte-autocomplete - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 76
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/pstanoev/simple-svelte-autocomplete)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 376 | 76 | 
 | 2023-03-30 | 375 | 76 | 
 | 2023-03-28 | 375 | 76 | 
 | 2023-03-27 | 375 | 76 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 371 | 75 | 
 | 2023-03-04 | 371 | 75 | 
 | 2023-03-03 | 371 | 75 | 
-| 2023-03-02 | 372 | 75 | 
 

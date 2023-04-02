@@ -1,10 +1,10 @@
 # starknet-edu/deploy-cairo1-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 23
+★ Stars: 27
 
 [Open repository](https://github.com/starknet-edu/deploy-cairo1-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 27 | 8 | 
 | 2023-03-30 | 23 | 8 | 
 | 2023-03-29 | 23 | 7 | 
 | 2023-03-28 | 22 | 7 | 

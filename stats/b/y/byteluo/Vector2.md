@@ -1,10 +1,10 @@
 # byteluo/Vector2 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 9
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/byteluo/Vector2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 43 | 9 | 
 | 2023-03-31 | 42 | 9 | 
 | 2023-03-29 | 42 | 9 | 
 | 2023-03-27 | 42 | 9 | 

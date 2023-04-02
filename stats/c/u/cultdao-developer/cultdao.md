@@ -1,6 +1,6 @@
 # cultdao-developer/cultdao - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 44 | 28 | 
 | 2023-03-30 | 44 | 28 | 
 | 2023-03-28 | 44 | 28 | 
 | 2023-03-27 | 44 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 44 | 27 | 
 | 2023-03-04 | 44 | 27 | 
 | 2023-03-03 | 44 | 27 | 
-| 2023-03-02 | 44 | 27 | 
 

@@ -1,10 +1,10 @@
 # zyrouge/symphony - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 269
+★ Stars: 275
 
 [Open repository](https://github.com/zyrouge/symphony)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 275 | 17 | 
 | 2023-03-31 | 269 | 16 | 
 | 2023-03-29 | 263 | 14 | 
 | 2023-03-27 | 258 | 14 | 

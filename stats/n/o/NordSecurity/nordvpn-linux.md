@@ -1,10 +1,10 @@
 # NordSecurity/nordvpn-linux - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 204
+★ Stars: 206
 
 [Open repository](https://github.com/NordSecurity/nordvpn-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 206 | 15 | 
 | 2023-03-30 | 204 | 13 | 
 | 2023-03-28 | 201 | 13 | 
 | 2023-03-27 | 201 | 13 | 

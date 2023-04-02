@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/wesen/schnitt)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-01 | 2 | - | 
+| 2023-04-01 | 1 | - | 
 | 2023-03-31 | 2 | - | 
 | 2023-03-29 | 2 | - | 
 | 2023-03-28 | 2 | - | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-05 | 2 | - | 
 | 2023-03-04 | 2 | - | 
 | 2023-03-03 | 2 | - | 
-| 2023-03-02 | 2 | - | 
 

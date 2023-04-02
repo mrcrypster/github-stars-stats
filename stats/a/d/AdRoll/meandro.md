@@ -1,6 +1,6 @@
 # AdRoll/meandro - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 34 | 1 | 
 | 2023-03-30 | 34 | 1 | 
 | 2023-03-28 | 34 | 1 | 
 | 2023-03-27 | 34 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 34 | 1 | 
 | 2023-03-05 | 34 | 1 | 
 | 2023-03-03 | 34 | 1 | 
-| 2023-03-02 | 34 | 1 | 
 

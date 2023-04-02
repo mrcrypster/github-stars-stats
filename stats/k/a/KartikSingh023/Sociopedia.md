@@ -1,10 +1,10 @@
 # KartikSingh023/Sociopedia - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 9
+☋ Forks: 12
 
-★ Stars: 62
+★ Stars: 71
 
 [Open repository](https://github.com/KartikSingh023/Sociopedia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 71 | 12 | 
 | 2023-03-30 | 62 | 9 | 
 | 2023-03-29 | 62 | 9 | 
 

@@ -1,8 +1,8 @@
 # AlexisJonsson/AlexisJonsson.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 159
+☋ Forks: 163
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 26 | 163 | 
 | 2023-03-31 | 26 | 159 | 
 | 2023-03-29 | 26 | 154 | 
 | 2023-03-27 | 26 | 150 | 

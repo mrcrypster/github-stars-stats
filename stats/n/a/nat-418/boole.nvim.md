@@ -1,10 +1,10 @@
 # nat-418/boole.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 77
+★ Stars: 76
 
 [Open repository](https://github.com/nat-418/boole.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 76 | 4 | 
 | 2023-03-30 | 77 | 4 | 
 | 2023-03-29 | 77 | 4 | 
 | 2023-03-28 | 77 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 75 | 4 | 
 | 2023-03-05 | 75 | 4 | 
 | 2023-03-03 | 75 | 4 | 
-| 2023-03-02 | 75 | 4 | 
 

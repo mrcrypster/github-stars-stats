@@ -1,10 +1,10 @@
 # hhru/android-style-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/hhru/android-style-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 34 | 3 | 
 | 2023-03-30 | 33 | 3 | 
 | 2023-03-28 | 33 | 3 | 
 | 2023-03-27 | 33 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 32 | 3 | 
 | 2023-03-05 | 32 | 3 | 
 | 2023-03-04 | 32 | 3 | 
-| 2023-03-02 | 32 | 3 | 
 

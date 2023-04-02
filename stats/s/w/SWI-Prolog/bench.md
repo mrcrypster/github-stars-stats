@@ -1,6 +1,6 @@
 # SWI-Prolog/bench - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 12 | 7 | 
 | 2023-03-29 | 12 | 7 | 
 | 2023-03-27 | 12 | 7 | 
 | 2023-03-26 | 12 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 12 | 7 | 
 | 2023-03-04 | 12 | 7 | 
 | 2023-03-03 | 12 | 7 | 
-| 2023-03-02 | 12 | 7 | 
 

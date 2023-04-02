@@ -1,10 +1,10 @@
 # vnotex/vnote - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1063
+☋ Forks: 1066
 
-★ Stars: 10158
+★ Stars: 10168
 
 [Open repository](https://github.com/vnotex/vnote)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 10168 | 1066 | 
 | 2023-03-30 | 10158 | 1063 | 
 | 2023-03-28 | 10153 | 1063 | 
 | 2023-03-27 | 10155 | 1062 | 

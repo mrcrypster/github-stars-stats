@@ -1,10 +1,10 @@
 # threatgrid/ctia - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 28
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/threatgrid/ctia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 58 | 28 | 
 | 2023-03-30 | 57 | 28 | 
 | 2023-03-28 | 57 | 28 | 
 | 2023-03-27 | 57 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 56 | 28 | 
 | 2023-03-04 | 57 | 28 | 
 | 2023-03-03 | 57 | 28 | 
-| 2023-03-02 | 57 | 28 | 
 

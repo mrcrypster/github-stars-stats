@@ -1,6 +1,6 @@
 # mathworks/ci-configuration-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 54 | 165 | 
 | 2023-03-31 | 54 | 165 | 
 | 2023-03-30 | 54 | 163 | 
 | 2023-03-29 | 54 | 163 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 53 | 162 | 
 | 2023-03-04 | 54 | 162 | 
 | 2023-03-03 | 54 | 162 | 
-| 2023-03-02 | 54 | 162 | 
 

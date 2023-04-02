@@ -1,10 +1,10 @@
 # kisvegabor/abbreviations-in-code - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 38
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/kisvegabor/abbreviations-in-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 199 | 38 | 
 | 2023-03-31 | 198 | 38 | 
 | 2023-03-29 | 198 | 38 | 
 | 2023-03-27 | 198 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 190 | 36 | 
 | 2023-03-05 | 189 | 36 | 
 | 2023-03-04 | 189 | 36 | 
-| 2023-03-02 | 188 | 35 | 
 

@@ -1,6 +1,6 @@
 # mtrudel/machete - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 34 | 1 | 
 | 2023-03-29 | 34 | 1 | 
 | 2023-03-27 | 33 | 1 | 
 | 2023-03-26 | 33 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 32 | 1 | 
 | 2023-03-05 | 32 | 1 | 
 | 2023-03-03 | 32 | 1 | 
-| 2023-03-02 | 32 | 1 | 
 

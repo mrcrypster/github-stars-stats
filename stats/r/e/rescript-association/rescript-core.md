@@ -1,10 +1,10 @@
 # rescript-association/rescript-core - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 7
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/rescript-association/rescript-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 58 | 7 | 
 | 2023-03-29 | 57 | 7 | 
 | 2023-03-27 | 57 | 7 | 
 | 2023-03-25 | 56 | 7 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 50 | 6 | 
 | 2023-03-05 | 50 | 6 | 
 | 2023-03-03 | 49 | 6 | 
-| 2023-03-02 | 48 | 6 | 
 

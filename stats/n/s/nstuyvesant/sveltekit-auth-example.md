@@ -1,6 +1,6 @@
 # nstuyvesant/sveltekit-auth-example - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 164 | 19 | 
 | 2023-03-30 | 164 | 19 | 
 | 2023-03-28 | 163 | 18 | 
 | 2023-03-27 | 163 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 153 | 17 | 
 | 2023-03-04 | 153 | 17 | 
 | 2023-03-03 | 151 | 17 | 
-| 2023-03-02 | 151 | 17 | 
 

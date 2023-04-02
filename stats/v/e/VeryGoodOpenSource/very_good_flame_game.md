@@ -1,6 +1,6 @@
 # VeryGoodOpenSource/very_good_flame_game - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 45 | 5 | 
 | 2023-03-30 | 45 | 5 | 
 | 2023-03-28 | 45 | 5 | 
 | 2023-03-26 | 45 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 44 | 5 | 
 | 2023-03-05 | 45 | 5 | 
 | 2023-03-03 | 45 | 5 | 
-| 2023-03-02 | 45 | 5 | 
 

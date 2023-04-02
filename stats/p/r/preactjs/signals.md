@@ -1,10 +1,10 @@
 # preactjs/signals - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 2016
+★ Stars: 2024
 
 [Open repository](https://github.com/preactjs/signals)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2024 | 55 | 
 | 2023-03-30 | 2016 | 54 | 
 | 2023-03-28 | 2008 | 55 | 
 | 2023-03-27 | 2001 | 55 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 1880 | 54 | 
 | 2023-03-04 | 1870 | 54 | 
 | 2023-03-03 | 1861 | 54 | 
-| 2023-03-02 | 1841 | 54 | 
 

@@ -1,10 +1,10 @@
 # ElianCodes/brutal - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/ElianCodes/brutal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 34 | 3 | 
 | 2023-03-31 | 33 | 3 | 
 | 2023-03-29 | 29 | 3 | 
 | 2023-03-28 | 29 | 3 | 

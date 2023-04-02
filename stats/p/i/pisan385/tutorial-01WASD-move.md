@@ -1,8 +1,8 @@
 # pisan385/tutorial-01WASD-move - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 24
+☋ Forks: 23
 
 ★ Stars: 0
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | - | 23 | 
 | 2023-03-30 | - | 24 | 
 

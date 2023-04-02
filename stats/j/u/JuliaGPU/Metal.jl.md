@@ -1,6 +1,6 @@
 # JuliaGPU/Metal.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 248 | 15 | 
 | 2023-03-31 | 248 | 15 | 
 | 2023-03-29 | 246 | 15 | 
 | 2023-03-28 | 246 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 243 | 14 | 
 | 2023-03-04 | 242 | 13 | 
 | 2023-03-03 | 238 | 13 | 
-| 2023-03-02 | 236 | 13 | 
 

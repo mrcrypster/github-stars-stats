@@ -1,6 +1,6 @@
 # edolstra/flake-compat - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 153 | 48 | 
 | 2023-03-30 | 153 | 48 | 
 | 2023-03-28 | 152 | 48 | 
 | 2023-03-27 | 152 | 48 | 

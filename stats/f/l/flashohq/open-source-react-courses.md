@@ -1,6 +1,6 @@
 # flashohq/open-source-react-courses - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 285 | 36 | 
 | 2023-03-31 | 285 | 36 | 
 | 2023-03-29 | 284 | 36 | 
 | 2023-03-27 | 284 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 282 | 36 | 
 | 2023-03-05 | 282 | 36 | 
 | 2023-03-03 | 281 | 36 | 
-| 2023-03-02 | 282 | 36 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 01
 
 ☋ Forks: 1436
 
-★ Stars: 9806
+★ Stars: 9807
 
 [Open repository](https://github.com/teamcapybara/capybara)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-01 | 9806 | 1436 | 
+| 2023-04-01 | 9807 | 1436 | 
 | 2023-03-29 | 9803 | 1436 | 
 | 2023-03-27 | 9801 | 1436 | 
 | 2023-03-26 | 9800 | 1436 | 

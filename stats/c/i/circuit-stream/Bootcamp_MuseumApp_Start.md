@@ -1,6 +1,6 @@
 # circuit-stream/Bootcamp_MuseumApp_Start - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1 | 17 | 
 | 2023-03-30 | 1 | 17 | 
 | 2023-03-28 | 1 | 17 | 
 | 2023-03-27 | 1 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 1 | 17 | 
 | 2023-03-04 | 1 | 17 | 
 | 2023-03-03 | 1 | 17 | 
-| 2023-03-02 | 1 | 17 | 
 

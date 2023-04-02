@@ -1,6 +1,6 @@
 # Wilfred/flymake-jshint.el - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 12 | 3 | 
 | 2023-03-30 | 12 | 3 | 
 | 2023-03-29 | 12 | 3 | 
 | 2023-03-27 | 12 | 3 | 

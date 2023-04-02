@@ -1,8 +1,8 @@
 # MUYIio/hexo-themes-matery - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 82 | 48 | 
 | 2023-03-29 | 82 | 47 | 
 | 2023-03-27 | 82 | 48 | 
 | 2023-03-26 | 82 | 48 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 80 | 47 | 
 | 2023-03-05 | 80 | 47 | 
 | 2023-03-04 | 80 | 47 | 
-| 2023-03-02 | 80 | 47 | 
 

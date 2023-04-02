@@ -1,6 +1,6 @@
 # doehm/eyedroppeR - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 55 | 1 | 
 | 2023-03-29 | 55 | 1 | 
 | 2023-03-27 | 55 | 1 | 
 | 2023-03-26 | 55 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 53 | 1 | 
 | 2023-03-05 | 53 | 1 | 
 | 2023-03-03 | 53 | 1 | 
-| 2023-03-02 | 53 | 1 | 
 

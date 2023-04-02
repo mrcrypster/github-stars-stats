@@ -1,10 +1,10 @@
 # hiifeng/V2ray-for-Codesandbox - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 75
+☋ Forks: 92
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/hiifeng/V2ray-for-Codesandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 27 | 92 | 
 | 2023-03-30 | 26 | 75 | 
 | 2023-03-29 | 23 | 70 | 
 

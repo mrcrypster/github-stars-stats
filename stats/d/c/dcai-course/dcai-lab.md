@@ -1,10 +1,10 @@
 # dcai-course/dcai-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/dcai-course/dcai-lab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 157 | 64 | 
 | 2023-03-29 | 156 | 63 | 
 | 2023-03-28 | 154 | 63 | 
 | 2023-03-26 | 152 | 62 | 

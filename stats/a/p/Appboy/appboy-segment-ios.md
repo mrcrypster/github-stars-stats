@@ -1,10 +1,10 @@
 # Appboy/appboy-segment-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 42
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Appboy/appboy-segment-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 14 | 42 | 
 | 2023-03-30 | 13 | 42 | 
 | 2023-03-28 | 13 | 41 | 
 | 2023-03-27 | 13 | 41 | 

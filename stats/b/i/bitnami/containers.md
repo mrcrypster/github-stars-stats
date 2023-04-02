@@ -1,10 +1,10 @@
 # bitnami/containers - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 598
 
-★ Stars: 1215
+★ Stars: 1217
 
 [Open repository](https://github.com/bitnami/containers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1217 | 598 | 
 | 2023-03-31 | 1215 | 598 | 
 | 2023-03-29 | 1205 | 589 | 
 | 2023-03-28 | 1203 | 588 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 1095 | 526 | 
 | 2023-03-04 | 1094 | 525 | 
 | 2023-03-03 | 1087 | 525 | 
-| 2023-03-02 | 1075 | 519 | 
 

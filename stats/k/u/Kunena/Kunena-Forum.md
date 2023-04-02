@@ -1,10 +1,10 @@
 # Kunena/Kunena-Forum - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 842
+☋ Forks: 841
 
-★ Stars: 1755
+★ Stars: 1754
 
 [Open repository](https://github.com/Kunena/Kunena-Forum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 1754 | 841 | 
 | 2023-03-29 | 1755 | 842 | 
 | 2023-03-27 | 1754 | 842 | 
 | 2023-03-26 | 1753 | 842 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 1751 | 843 | 
 | 2023-03-04 | 1752 | 843 | 
 | 2023-03-03 | 1752 | 843 | 
-| 2023-03-02 | 1752 | 842 | 
 

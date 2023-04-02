@@ -1,10 +1,10 @@
 # tiangolo/sqlmodel - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 413
 
-★ Stars: 9647
+★ Stars: 9648
 
 [Open repository](https://github.com/tiangolo/sqlmodel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 9648 | 413 | 
 | 2023-03-31 | 9647 | 413 | 
 | 2023-03-29 | 9638 | 412 | 
 | 2023-03-27 | 9628 | 412 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 9496 | 409 | 
 | 2023-03-04 | 9494 | 409 | 
 | 2023-03-03 | 9493 | 409 | 
-| 2023-03-02 | 9482 | 409 | 
 

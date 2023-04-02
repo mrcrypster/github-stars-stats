@@ -1,6 +1,6 @@
 # muchobien/pocketbase-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 137 | 31 | 
 | 2023-03-30 | 137 | 31 | 
 | 2023-03-29 | 136 | 31 | 
 | 2023-03-28 | 135 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 126 | 27 | 
 | 2023-03-04 | 126 | 27 | 
 | 2023-03-03 | 125 | 27 | 
-| 2023-03-02 | 124 | 27 | 
 

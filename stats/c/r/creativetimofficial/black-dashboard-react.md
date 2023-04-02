@@ -1,10 +1,10 @@
 # creativetimofficial/black-dashboard-react - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 403
+☋ Forks: 404
 
-★ Stars: 414
+★ Stars: 415
 
 [Open repository](https://github.com/creativetimofficial/black-dashboard-react)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 415 | 404 | 
 | 2023-03-30 | 414 | 403 | 
 | 2023-03-28 | 414 | 399 | 
 | 2023-03-27 | 413 | 397 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 410 | 372 | 
 | 2023-03-04 | 410 | 370 | 
 | 2023-03-03 | 410 | 370 | 
-| 2023-03-02 | 410 | 370 | 
 

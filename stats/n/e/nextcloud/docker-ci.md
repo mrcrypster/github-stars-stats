@@ -1,6 +1,6 @@
 # nextcloud/docker-ci - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 38 | 34 | 
 | 2023-03-31 | 38 | 34 | 
 | 2023-03-29 | 38 | 34 | 
 | 2023-03-27 | 38 | 34 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 39 | 34 | 
 | 2023-03-05 | 39 | 34 | 
 | 2023-03-04 | 39 | 34 | 
-| 2023-03-02 | 39 | 34 | 
 

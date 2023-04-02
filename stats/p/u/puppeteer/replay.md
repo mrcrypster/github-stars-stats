@@ -1,10 +1,10 @@
 # puppeteer/replay - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 102
 
-★ Stars: 514
+★ Stars: 516
 
 [Open repository](https://github.com/puppeteer/replay)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 516 | 102 | 
 | 2023-03-30 | 514 | 102 | 
 | 2023-03-28 | 513 | 102 | 
 | 2023-03-27 | 512 | 100 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 487 | 96 | 
 | 2023-03-04 | 484 | 96 | 
 | 2023-03-03 | 484 | 96 | 
-| 2023-03-02 | 482 | 95 | 
 

@@ -1,0 +1,17 @@
+# UniCourt/Search-Workshop1 - stars & forks statistics
+
+Stats updated on Apr 2023, 01
+
+☋ Forks: 166
+
+★ Stars: 4
+
+[Open repository](https://github.com/UniCourt/Search-Workshop1)
+
+[Open detailed stats for UniCourt/Search-Workshop1](https://reviewgithub.com/rep/UniCourt/Search-Workshop1)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-01 | 4 | 166 | 
+

@@ -1,8 +1,8 @@
 # bartlomieju/vite-deno-example - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 146
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 146 | 8 | 
 | 2023-03-30 | 146 | 7 | 
 | 2023-03-28 | 146 | 7 | 
 | 2023-03-27 | 146 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 146 | 7 | 
 | 2023-03-04 | 146 | 7 | 
 | 2023-03-03 | 146 | 7 | 
-| 2023-03-02 | 146 | 7 | 
 

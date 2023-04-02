@@ -1,6 +1,6 @@
 # google/globalfoundries-pdk-libs-gf180mcu_fd_sc_mcu9t5v0 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 15 | 9 | 
 | 2023-03-30 | 15 | 9 | 
 | 2023-03-28 | 14 | 9 | 
 | 2023-03-27 | 14 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 14 | 9 | 
 | 2023-03-05 | 14 | 9 | 
 | 2023-03-04 | 14 | 9 | 
-| 2023-03-02 | 14 | 9 | 
 

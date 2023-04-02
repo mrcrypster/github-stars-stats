@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 01
 
 ☋ Forks: 9
 
-★ Stars: 43
+★ Stars: 47
 
 [Open repository](https://github.com/emacs-openai/chatgpt)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-01 | 43 | 9 | 
+| 2023-04-01 | 47 | 9 | 
 | 2023-03-31 | 43 | 8 | 
 | 2023-03-30 | 36 | 7 | 
 | 2023-03-29 | 35 | 7 | 

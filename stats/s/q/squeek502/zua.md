@@ -1,10 +1,10 @@
 # squeek502/zua - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 114
+★ Stars: 116
 
 [Open repository](https://github.com/squeek502/zua)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 116 | 3 | 
 | 2023-03-29 | 114 | 3 | 
 | 2023-03-28 | 114 | 3 | 
 | 2023-03-26 | 113 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 111 | 4 | 
 | 2023-03-05 | 111 | 4 | 
 | 2023-03-04 | 111 | 4 | 
-| 2023-03-02 | 111 | 4 | 
 

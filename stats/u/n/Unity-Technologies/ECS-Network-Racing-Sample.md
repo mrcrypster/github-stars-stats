@@ -1,10 +1,10 @@
 # Unity-Technologies/ECS-Network-Racing-Sample - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 39
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 211 | 39 | 
 | 2023-03-31 | 210 | 39 | 
 | 2023-03-29 | 207 | 39 | 
 | 2023-03-27 | 206 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 187 | 30 | 
 | 2023-03-04 | 186 | 30 | 
 | 2023-03-03 | 184 | 30 | 
-| 2023-03-02 | 184 | 30 | 
 

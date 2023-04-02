@@ -1,10 +1,10 @@
 # cumany/Blue-topaz-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 152
+☋ Forks: 153
 
-★ Stars: 1141
+★ Stars: 1147
 
 [Open repository](https://github.com/cumany/Blue-topaz-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1147 | 153 | 
 | 2023-03-31 | 1141 | 152 | 
 | 2023-03-29 | 1134 | 151 | 
 | 2023-03-27 | 1131 | 151 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 1076 | 149 | 
 | 2023-03-05 | 1075 | 148 | 
 | 2023-03-04 | 1071 | 149 | 
-| 2023-03-02 | 1066 | 148 | 
 

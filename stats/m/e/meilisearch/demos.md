@@ -1,10 +1,10 @@
 # meilisearch/demos - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 15
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/meilisearch/demos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 38 | 15 | 
 | 2023-03-30 | 37 | 15 | 
 | 2023-03-28 | 35 | 14 | 
 | 2023-03-26 | 35 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 32 | 15 | 
 | 2023-03-05 | 32 | 15 | 
 | 2023-03-04 | 32 | 15 | 
-| 2023-03-03 | 32 | 15 | 
 

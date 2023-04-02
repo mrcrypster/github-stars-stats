@@ -1,10 +1,10 @@
 # EastWorld/wechat-app-mall - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
-☋ Forks: 5996
+☋ Forks: 5997
 
-★ Stars: 17178
+★ Stars: 17185
 
 [Open repository](https://github.com/EastWorld/wechat-app-mall)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 17185 | 5997 | 
 | 2023-03-31 | 17178 | 5996 | 
 | 2023-03-29 | 17161 | 5988 | 
 | 2023-03-27 | 17155 | 5986 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 17022 | 5947 | 
 | 2023-03-04 | 17016 | 5947 | 
 | 2023-03-03 | 17012 | 5947 | 
-| 2023-03-02 | 16999 | 5944 | 
 

@@ -1,10 +1,10 @@
 # ddddddeon/a - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 10
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/ddddddeon/a)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 238 | 10 | 
 | 2023-03-31 | 237 | 10 | 
 | 2023-03-29 | 237 | 10 | 
 | 2023-03-28 | 237 | 10 | 

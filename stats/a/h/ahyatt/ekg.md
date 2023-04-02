@@ -1,10 +1,10 @@
 # ahyatt/ekg - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 110
+★ Stars: 112
 
 [Open repository](https://github.com/ahyatt/ekg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 112 | 8 | 
 | 2023-03-30 | 110 | 8 | 
 | 2023-03-28 | 110 | 8 | 
 | 2023-03-27 | 110 | 8 | 

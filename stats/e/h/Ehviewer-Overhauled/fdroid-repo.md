@@ -1,10 +1,10 @@
 # Ehviewer-Overhauled/fdroid-repo - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/Ehviewer-Overhauled/fdroid-repo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 40 | 4 | 
 | 2023-03-31 | 39 | 4 | 
 | 2023-03-29 | 38 | 4 | 
 | 2023-03-27 | 38 | 4 | 

@@ -1,6 +1,6 @@
 # nfloery/crowd-flow-optimization - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 3 | - | 
 | 2023-03-30 | 3 | - | 
 | 2023-03-28 | 3 | - | 
 | 2023-03-27 | 3 | - | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 3 | - | 
 | 2023-03-05 | 3 | - | 
 | 2023-03-03 | 3 | - | 
-| 2023-03-02 | 3 | - | 
 

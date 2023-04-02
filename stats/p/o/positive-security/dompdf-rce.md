@@ -1,10 +1,10 @@
 # positive-security/dompdf-rce - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 59
 
-★ Stars: 148
+★ Stars: 150
 
 [Open repository](https://github.com/positive-security/dompdf-rce)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 150 | 59 | 
 | 2023-03-31 | 148 | 59 | 
 | 2023-03-29 | 142 | 59 | 
 | 2023-03-28 | 142 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-05 | 137 | 57 | 
 | 2023-03-04 | 137 | 58 | 
 | 2023-03-03 | 137 | 58 | 
-| 2023-03-02 | 137 | 58 | 
 

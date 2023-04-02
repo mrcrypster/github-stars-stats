@@ -1,10 +1,10 @@
 # joe-conigliaro/tinyv - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/joe-conigliaro/tinyv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 26 | 1 | 
 | 2023-03-30 | 25 | 1 | 
 | 2023-03-28 | 25 | 1 | 
 | 2023-03-27 | 24 | 1 | 

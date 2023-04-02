@@ -1,10 +1,10 @@
 # laravel/vite-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 111
 
-★ Stars: 624
+★ Stars: 625
 
 [Open repository](https://github.com/laravel/vite-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 625 | 111 | 
 | 2023-03-30 | 624 | 111 | 
 | 2023-03-28 | 622 | 112 | 
 | 2023-03-27 | 621 | 112 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 607 | 111 | 
 | 2023-03-05 | 607 | 110 | 
 | 2023-03-04 | 605 | 110 | 
-| 2023-03-02 | 605 | 110 | 
 

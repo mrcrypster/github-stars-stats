@@ -1,10 +1,10 @@
 # abpframework/abpio-status - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/abpframework/abpio-status)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 4 | - | 
 | 2023-03-30 | 5 | - | 
 | 2023-03-28 | 5 | - | 
 | 2023-03-27 | 5 | - | 

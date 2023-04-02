@@ -1,10 +1,10 @@
 # lucidrains/x-transformers - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
-☋ Forks: 234
+☋ Forks: 235
 
-★ Stars: 2651
+★ Stars: 2676
 
 [Open repository](https://github.com/lucidrains/x-transformers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 2676 | 235 | 
 | 2023-03-29 | 2651 | 234 | 
 | 2023-03-28 | 2627 | 233 | 
 | 2023-03-26 | 2624 | 233 | 

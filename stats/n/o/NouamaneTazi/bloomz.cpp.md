@@ -1,10 +1,10 @@
 # NouamaneTazi/bloomz.cpp - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 29
 
-★ Stars: 580
+★ Stars: 605
 
 [Open repository](https://github.com/NouamaneTazi/bloomz.cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 605 | 29 | 
 | 2023-03-31 | 580 | 29 | 
 | 2023-03-29 | 561 | 28 | 
 | 2023-03-28 | 551 | 28 | 

@@ -1,10 +1,10 @@
 # pointfeev/CreamInstaller - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 767
+★ Stars: 776
 
 [Open repository](https://github.com/pointfeev/CreamInstaller)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 776 | 32 | 
 | 2023-03-30 | 767 | 31 | 
 | 2023-03-28 | 762 | 31 | 
 | 2023-03-26 | 758 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-05 | 675 | 28 | 
 | 2023-03-04 | 670 | 28 | 
 | 2023-03-03 | 669 | 28 | 
-| 2023-03-02 | 667 | 28 | 
 

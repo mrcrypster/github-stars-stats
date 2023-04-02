@@ -1,10 +1,10 @@
 # aurimas13/Machine-Learning-Goodness - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 49
 
-★ Stars: 176
+★ Stars: 178
 
 [Open repository](https://github.com/aurimas13/Machine-Learning-Goodness)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 178 | 49 | 
 | 2023-03-29 | 176 | 49 | 
 | 2023-03-28 | 166 | 49 | 
 | 2023-03-26 | 164 | 48 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 123 | 35 | 
 | 2023-03-05 | 105 | 17 | 
 | 2023-03-03 | 104 | 17 | 
-| 2023-03-02 | 103 | 17 | 
 

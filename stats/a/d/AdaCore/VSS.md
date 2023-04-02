@@ -1,6 +1,6 @@
 # AdaCore/VSS - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 45 | 6 | 
 | 2023-03-29 | 45 | 6 | 
 | 2023-03-28 | 45 | 6 | 
 | 2023-03-26 | 45 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 43 | 6 | 
 | 2023-03-04 | 44 | 6 | 
 | 2023-03-03 | 44 | 6 | 
-| 2023-03-02 | 44 | 6 | 
 

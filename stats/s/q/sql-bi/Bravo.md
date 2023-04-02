@@ -1,10 +1,10 @@
 # sql-bi/Bravo - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 70
 
-★ Stars: 259
+★ Stars: 262
 
 [Open repository](https://github.com/sql-bi/Bravo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 262 | 70 | 
 | 2023-03-30 | 259 | 70 | 
 | 2023-03-28 | 258 | 70 | 
 | 2023-03-27 | 259 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 253 | 69 | 
 | 2023-03-04 | 253 | 69 | 
 | 2023-03-03 | 253 | 69 | 
-| 2023-03-02 | 252 | 69 | 
 

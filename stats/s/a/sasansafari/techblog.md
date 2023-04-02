@@ -1,10 +1,10 @@
 # sasansafari/techblog - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 101
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/sasansafari/techblog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 96 | 101 | 
 | 2023-03-29 | 95 | 101 | 
 | 2023-03-28 | 95 | 101 | 
 | 2023-03-26 | 95 | 101 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 92 | 98 | 
 | 2023-03-05 | 91 | 98 | 
 | 2023-03-03 | 91 | 98 | 
-| 2023-03-02 | 91 | 98 | 
 

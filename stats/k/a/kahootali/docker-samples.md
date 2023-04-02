@@ -1,10 +1,10 @@
 # kahootali/docker-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 73
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/kahootali/docker-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 28 | 73 | 
 | 2023-03-29 | 27 | 73 | 
 | 2023-03-28 | 27 | 73 | 
 | 2023-03-26 | 27 | 73 | 

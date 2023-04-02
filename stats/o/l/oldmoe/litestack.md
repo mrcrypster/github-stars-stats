@@ -1,10 +1,10 @@
 # oldmoe/litestack - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 5
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/oldmoe/litestack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 218 | 5 | 
 | 2023-03-29 | 217 | 5 | 
 | 2023-03-27 | 217 | 5 | 
 | 2023-03-26 | 217 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 194 | 4 | 
 | 2023-03-04 | 184 | 3 | 
 | 2023-03-03 | 171 | 3 | 
-| 2023-03-02 | 140 | 1 | 
 

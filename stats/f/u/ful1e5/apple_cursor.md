@@ -1,10 +1,10 @@
 # ful1e5/apple_cursor - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 45
 
-★ Stars: 766
+★ Stars: 768
 
 [Open repository](https://github.com/ful1e5/apple_cursor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 768 | 45 | 
 | 2023-03-30 | 766 | 45 | 
 | 2023-03-28 | 765 | 45 | 
 | 2023-03-27 | 764 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 747 | 44 | 
 | 2023-03-05 | 745 | 44 | 
 | 2023-03-04 | 746 | 44 | 
-| 2023-03-02 | 746 | 44 | 
 

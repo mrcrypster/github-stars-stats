@@ -1,10 +1,10 @@
 # UmbratheUmbreon/PublicDenpaEngine - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 01
 
 ☋ Forks: 10
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/UmbratheUmbreon/PublicDenpaEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 22 | 10 | 
 | 2023-03-31 | 21 | 10 | 
 | 2023-03-29 | 20 | 10 | 
 | 2023-03-27 | 20 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 14 | 10 | 
 | 2023-03-05 | 16 | 10 | 
 | 2023-03-04 | 16 | 10 | 
-| 2023-03-02 | 16 | 10 | 
 

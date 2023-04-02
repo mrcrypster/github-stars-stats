@@ -1,8 +1,8 @@
 # NilPointer-Software/bdfd-wiki - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 01
 
-☋ Forks: 82
+☋ Forks: 87
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-01 | 49 | 87 | 
 | 2023-03-30 | 49 | 82 | 
 | 2023-03-28 | 48 | 82 | 
 | 2023-03-27 | 48 | 82 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 47 | 77 | 
 | 2023-03-05 | 47 | 77 | 
 | 2023-03-03 | 46 | 75 | 
-| 2023-03-02 | 46 | 75 | 
 
