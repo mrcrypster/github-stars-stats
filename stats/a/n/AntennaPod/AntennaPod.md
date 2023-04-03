@@ -1,10 +1,10 @@
 # AntennaPod/AntennaPod - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1225
+☋ Forks: 1224
 
-★ Stars: 4781
+★ Stars: 4790
 
 [Open repository](https://github.com/AntennaPod/AntennaPod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4790 | 1224 | 
 | 2023-03-30 | 4781 | 1225 | 
 | 2023-03-28 | 4779 | 1223 | 
 | 2023-03-27 | 4780 | 1223 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 4737 | 1220 | 
 | 2023-03-06 | 4737 | 1219 | 
 | 2023-03-05 | 4734 | 1218 | 
-| 2023-03-03 | 4735 | 1218 | 
 

@@ -1,6 +1,6 @@
 # landgraf-dev/openai-delphi - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 69 | 15 | 
 | 2023-04-01 | 69 | 15 | 
 | 2023-03-30 | 68 | 15 | 
 | 2023-03-28 | 68 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 64 | 13 | 
 | 2023-03-05 | 62 | 13 | 
 | 2023-03-04 | 60 | 13 | 
-| 2023-03-03 | 59 | 13 | 
 

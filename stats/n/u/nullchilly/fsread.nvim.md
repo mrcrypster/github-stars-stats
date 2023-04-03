@@ -1,10 +1,10 @@
 # nullchilly/fsread.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 122
+★ Stars: 124
 
 [Open repository](https://github.com/nullchilly/fsread.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 124 | 1 | 
 | 2023-03-30 | 122 | 1 | 
 | 2023-03-28 | 123 | 1 | 
 | 2023-03-27 | 123 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 104 | 1 | 
 | 2023-03-06 | 104 | 1 | 
 | 2023-03-05 | 104 | 1 | 
-| 2023-03-04 | 104 | 1 | 
 

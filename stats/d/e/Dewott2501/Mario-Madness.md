@@ -1,6 +1,6 @@
 # Dewott2501/Mario-Madness - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 14 | 38 | 
 | 2023-03-30 | 14 | 38 | 
 | 2023-03-28 | 14 | 38 | 
 | 2023-03-27 | 14 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 14 | 37 | 
 | 2023-03-05 | 13 | 37 | 
 | 2023-03-04 | 13 | 37 | 
-| 2023-03-03 | 13 | 37 | 
 

@@ -1,6 +1,6 @@
 # symfony/filesystem - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4402 | 52 | 
 | 2023-03-30 | 4402 | 52 | 
 | 2023-03-28 | 4401 | 52 | 
 | 2023-03-27 | 4401 | 52 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 4387 | 52 | 
 | 2023-03-06 | 4387 | 52 | 
 | 2023-03-04 | 4387 | 52 | 
-| 2023-03-03 | 4387 | 52 | 
 

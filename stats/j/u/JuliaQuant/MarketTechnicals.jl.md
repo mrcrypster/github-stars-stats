@@ -1,10 +1,10 @@
 # JuliaQuant/MarketTechnicals.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 27
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/JuliaQuant/MarketTechnicals.jl)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 116 | 27 | 
 | 2023-04-01 | 115 | 27 | 
 

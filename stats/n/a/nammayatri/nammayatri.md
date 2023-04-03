@@ -1,10 +1,10 @@
 # nammayatri/nammayatri - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 11
 
-★ Stars: 472
+★ Stars: 473
 
 [Open repository](https://github.com/nammayatri/nammayatri)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 473 | 11 | 
 | 2023-04-01 | 472 | 11 | 
 | 2023-03-30 | 461 | 9 | 
 | 2023-03-28 | 461 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 13 | - | 
 | 2023-03-06 | 12 | - | 
 | 2023-03-05 | 12 | - | 
-| 2023-03-03 | 12 | - | 
 

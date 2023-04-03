@@ -1,10 +1,10 @@
 # aaaguirrep/offensive-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 146
+☋ Forks: 147
 
-★ Stars: 659
+★ Stars: 660
 
 [Open repository](https://github.com/aaaguirrep/offensive-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 660 | 147 | 
 | 2023-03-30 | 659 | 146 | 
 | 2023-03-28 | 659 | 146 | 
 | 2023-03-26 | 659 | 146 | 

@@ -1,0 +1,17 @@
+# danielfullmer/robotnix - stars & forks statistics
+
+Stats updated on Apr 2023, 02
+
+☋ Forks: 46
+
+★ Stars: 422
+
+[Open repository](https://github.com/danielfullmer/robotnix)
+
+[Open detailed stats for danielfullmer/robotnix](https://reviewgithub.com/rep/danielfullmer/robotnix)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-02 | 422 | 46 | 
+

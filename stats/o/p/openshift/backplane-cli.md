@@ -1,10 +1,10 @@
 # openshift/backplane-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 16
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/openshift/backplane-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4 | 16 | 
 | 2023-03-30 | 3 | 16 | 
 | 2023-03-28 | 3 | 15 | 
 | 2023-03-27 | 3 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | - | 8 | 
 | 2023-03-05 | - | 8 | 
 | 2023-03-04 | - | 8 | 
-| 2023-03-03 | - | 8 | 
 

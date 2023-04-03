@@ -1,10 +1,10 @@
 # NianBroken/Personal_Sakura_Guide_Page - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 33
 
-★ Stars: 106
+★ Stars: 108
 
 [Open repository](https://github.com/NianBroken/Personal_Sakura_Guide_Page)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 108 | 33 | 
 | 2023-03-30 | 106 | 33 | 
 | 2023-03-28 | 104 | 34 | 
 | 2023-03-27 | 103 | 34 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 100 | 32 | 
 | 2023-03-06 | 99 | 32 | 
 | 2023-03-05 | 98 | 32 | 
-| 2023-03-04 | 98 | 32 | 
 

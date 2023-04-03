@@ -1,10 +1,10 @@
 # mksshare/mksshare.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 202
+★ Stars: 220
 
 [Open repository](https://github.com/mksshare/mksshare.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 220 | 8 | 
 | 2023-03-30 | 202 | 7 | 
 | 2023-03-28 | 201 | 7 | 
 | 2023-03-27 | 199 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 114 | 3 | 
 | 2023-03-06 | 113 | 3 | 
 | 2023-03-05 | 110 | 3 | 
-| 2023-03-03 | 109 | 3 | 
 

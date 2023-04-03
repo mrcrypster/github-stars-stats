@@ -1,10 +1,10 @@
 # daafu/sokoban - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 150
+★ Stars: 153
 
 [Open repository](https://github.com/daafu/sokoban)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 153 | 3 | 
 | 2023-03-30 | 150 | 3 | 
 | 2023-03-28 | 148 | 3 | 
 | 2023-03-27 | 145 | 3 | 

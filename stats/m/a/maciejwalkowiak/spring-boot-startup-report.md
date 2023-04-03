@@ -1,10 +1,10 @@
 # maciejwalkowiak/spring-boot-startup-report - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 191
+★ Stars: 199
 
 [Open repository](https://github.com/maciejwalkowiak/spring-boot-startup-report)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 199 | 12 | 
 | 2023-03-30 | 191 | 10 | 
 | 2023-03-28 | 184 | 10 | 
 | 2023-03-27 | 183 | 10 | 

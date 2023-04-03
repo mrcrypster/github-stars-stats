@@ -1,10 +1,10 @@
 # shouxieai/infer - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
-★ Stars: 106
+★ Stars: 109
 
 [Open repository](https://github.com/shouxieai/infer)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 109 | 14 | 
+| 2023-04-02 | 109 | 14 | 
 | 2023-04-01 | 106 | 14 | 
 | 2023-03-31 | 100 | 12 | 
 | 2023-03-29 | 97 | 12 | 

@@ -1,10 +1,10 @@
 # minad/jinx - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 5
+☋ Forks: 4
 
-★ Stars: 89
+★ Stars: 98
 
 [Open repository](https://github.com/minad/jinx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 98 | 4 | 
 | 2023-03-30 | 89 | 5 | 
 | 2023-03-29 | 85 | 5 | 
 | 2023-03-28 | 83 | 1 | 

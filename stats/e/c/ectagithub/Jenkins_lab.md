@@ -1,6 +1,6 @@
 # ectagithub/Jenkins_lab - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1 | 15 | 
 | 2023-03-29 | 1 | 15 | 
 | 2023-03-27 | 1 | 15 | 
 | 2023-03-26 | 1 | 15 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-08 | 1 | 16 | 
 | 2023-03-06 | 1 | 16 | 
 | 2023-03-05 | 1 | 16 | 
-| 2023-03-04 | 1 | 16 | 
 

@@ -1,6 +1,6 @@
 # keymanapp/keyman - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 272 | 77 | 
 | 2023-03-31 | 272 | 77 | 
 | 2023-03-29 | 272 | 76 | 
 | 2023-03-27 | 272 | 76 | 

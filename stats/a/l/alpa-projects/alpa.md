@@ -1,10 +1,10 @@
 # alpa-projects/alpa - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 266
+☋ Forks: 270
 
-★ Stars: 2160
+★ Stars: 2182
 
 [Open repository](https://github.com/alpa-projects/alpa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2182 | 270 | 
 | 2023-03-30 | 2160 | 266 | 
 | 2023-03-28 | 2141 | 264 | 
 | 2023-03-27 | 2114 | 260 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1972 | 241 | 
 | 2023-03-05 | 1966 | 241 | 
 | 2023-03-04 | 1958 | 241 | 
-| 2023-03-03 | 1953 | 241 | 
 

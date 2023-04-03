@@ -1,10 +1,10 @@
 # elementary/code - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 111
+☋ Forks: 110
 
-★ Stars: 435
+★ Stars: 436
 
 [Open repository](https://github.com/elementary/code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 436 | 110 | 
 | 2023-03-30 | 435 | 111 | 
 | 2023-03-28 | 435 | 111 | 
 | 2023-03-26 | 435 | 110 | 

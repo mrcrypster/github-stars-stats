@@ -1,8 +1,8 @@
 # amirdew/CollectionViewPagingLayout - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 248
+☋ Forks: 249
 
 ★ Stars: 2293
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2293 | 249 | 
 | 2023-04-01 | 2293 | 248 | 
 | 2023-03-31 | 2293 | 248 | 
 | 2023-03-29 | 2294 | 248 | 

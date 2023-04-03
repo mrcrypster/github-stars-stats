@@ -1,8 +1,8 @@
 # snyk/custom-rules-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | - | 9 | 
 | 2023-03-30 | - | 8 | 
 | 2023-03-28 | - | 8 | 
 | 2023-03-27 | - | 8 | 

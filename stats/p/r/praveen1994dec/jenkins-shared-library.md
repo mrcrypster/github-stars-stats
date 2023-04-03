@@ -1,6 +1,6 @@
 # praveen1994dec/jenkins-shared-library - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2 | 22 | 
 | 2023-04-01 | 2 | 22 | 
 | 2023-03-30 | 2 | 20 | 
 | 2023-03-28 | 2 | 20 | 

@@ -1,6 +1,6 @@
 # igroff/caching-proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1 | 2 | 
 | 2023-03-29 | 1 | 2 | 
 | 2023-03-28 | 1 | 2 | 
 | 2023-03-26 | 1 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 1 | 2 | 
 | 2023-03-06 | 1 | 2 | 
 | 2023-03-05 | 1 | 2 | 
-| 2023-03-03 | 1 | 2 | 
 

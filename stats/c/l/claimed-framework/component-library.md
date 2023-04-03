@@ -1,10 +1,10 @@
 # claimed-framework/component-library - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 3656
+☋ Forks: 3664
 
-★ Stars: 2047
+★ Stars: 2049
 
 [Open repository](https://github.com/claimed-framework/component-library)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2049 | 3664 | 
 | 2023-03-30 | 2047 | 3656 | 
 | 2023-03-28 | 2043 | 3656 | 
 | 2023-03-27 | 2041 | 3654 | 

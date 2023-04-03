@@ -1,10 +1,10 @@
 # ruanyf/es6tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 8945
+☋ Forks: 8947
 
-★ Stars: 20579
+★ Stars: 20580
 
 [Open repository](https://github.com/ruanyf/es6tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 20580 | 8947 | 
 | 2023-03-30 | 20579 | 8945 | 
 | 2023-03-28 | 20575 | 8945 | 
 | 2023-03-27 | 20571 | 8946 | 

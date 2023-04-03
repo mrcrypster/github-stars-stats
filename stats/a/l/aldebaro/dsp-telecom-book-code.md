@@ -1,10 +1,10 @@
 # aldebaro/dsp-telecom-book-code - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 34
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/aldebaro/dsp-telecom-book-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 15 | 34 | 
 | 2023-03-30 | 14 | 34 | 
 | 2023-03-28 | 14 | 34 | 
 | 2023-03-27 | 14 | 34 | 

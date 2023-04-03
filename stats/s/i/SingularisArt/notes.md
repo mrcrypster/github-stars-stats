@@ -1,6 +1,6 @@
 # SingularisArt/notes - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 33 | 5 | 
 | 2023-04-01 | 33 | 5 | 
 | 2023-03-30 | 33 | 5 | 
 | 2023-03-28 | 33 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 33 | 5 | 
 | 2023-03-06 | 33 | 5 | 
 | 2023-03-04 | 33 | 5 | 
-| 2023-03-03 | 33 | 5 | 
 

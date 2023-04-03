@@ -1,10 +1,10 @@
 # AngleSharp/AngleSharp - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 535
 
-★ Stars: 4570
+★ Stars: 4573
 
 [Open repository](https://github.com/AngleSharp/AngleSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4573 | 535 | 
 | 2023-04-01 | 4570 | 535 | 
 | 2023-03-31 | 4570 | 534 | 
 | 2023-03-29 | 4569 | 532 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 4537 | 527 | 
 | 2023-03-06 | 4534 | 528 | 
 | 2023-03-04 | 4532 | 528 | 
-| 2023-03-03 | 4531 | 528 | 
 

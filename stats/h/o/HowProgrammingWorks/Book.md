@@ -1,6 +1,6 @@
 # HowProgrammingWorks/Book - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 402 | 76 | 
 | 2023-03-30 | 402 | 76 | 
 | 2023-03-28 | 402 | 76 | 
 | 2023-03-27 | 402 | 76 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 398 | 75 | 
 | 2023-03-05 | 397 | 75 | 
 | 2023-03-04 | 395 | 75 | 
-| 2023-03-03 | 395 | 75 | 
 

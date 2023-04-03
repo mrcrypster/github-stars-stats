@@ -1,10 +1,10 @@
 # nyxgeek/imgdevil - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/nyxgeek/imgdevil)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 35 | 6 | 
 | 2023-03-30 | 33 | 5 | 
 | 2023-03-28 | 33 | 5 | 
 | 2023-03-27 | 31 | 5 | 

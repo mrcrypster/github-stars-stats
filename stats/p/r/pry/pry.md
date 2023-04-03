@@ -1,6 +1,6 @@
 # pry/pry - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 606
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 6601 | 606 | 
 | 2023-03-31 | 6601 | 606 | 
 | 2023-03-29 | 6600 | 606 | 
 | 2023-03-28 | 6600 | 606 | 

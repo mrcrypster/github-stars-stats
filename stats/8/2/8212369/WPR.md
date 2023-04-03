@@ -1,10 +1,10 @@
 # 8212369/WPR - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 10
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/8212369/WPR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 186 | 10 | 
 | 2023-03-30 | 185 | 10 | 
 | 2023-03-28 | 184 | 10 | 
 | 2023-03-27 | 184 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 181 | 10 | 
 | 2023-03-05 | 181 | 10 | 
 | 2023-03-04 | 181 | 10 | 
-| 2023-03-03 | 181 | 10 | 
 

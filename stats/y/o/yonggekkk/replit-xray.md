@@ -1,10 +1,10 @@
 # yonggekkk/replit-xray - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 810
+☋ Forks: 822
 
-★ Stars: 452
+★ Stars: 459
 
 [Open repository](https://github.com/yonggekkk/replit-xray)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 459 | 822 | 
 | 2023-03-30 | 452 | 810 | 
 | 2023-03-28 | 446 | 800 | 
 | 2023-03-27 | 441 | 794 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 356 | 646 | 
 | 2023-03-06 | 346 | 635 | 
 | 2023-03-04 | 337 | 614 | 
-| 2023-03-03 | 332 | 606 | 
 

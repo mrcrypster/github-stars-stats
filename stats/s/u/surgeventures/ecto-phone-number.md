@@ -1,6 +1,6 @@
 # surgeventures/ecto-phone-number - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10 | 5 | 
 | 2023-04-01 | 10 | 5 | 
 | 2023-03-30 | 10 | 5 | 
 | 2023-03-28 | 10 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 10 | 5 | 
 | 2023-03-06 | 10 | 5 | 
 | 2023-03-05 | 10 | 5 | 
-| 2023-03-03 | 10 | 5 | 
 

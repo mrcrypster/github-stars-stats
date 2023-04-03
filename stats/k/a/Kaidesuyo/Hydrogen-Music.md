@@ -1,10 +1,10 @@
 # Kaidesuyo/Hydrogen-Music - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 27
 
-★ Stars: 511
+★ Stars: 514
 
 [Open repository](https://github.com/Kaidesuyo/Hydrogen-Music)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 514 | 27 | 
 | 2023-03-31 | 511 | 27 | 
 | 2023-03-29 | 507 | 27 | 
 | 2023-03-28 | 504 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 477 | 24 | 
 | 2023-03-05 | 472 | 24 | 
 | 2023-03-04 | 469 | 24 | 
-| 2023-03-03 | 464 | 24 | 
 

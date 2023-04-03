@@ -1,10 +1,10 @@
 # subhra74/xdm - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 976
+☋ Forks: 978
 
-★ Stars: 5051
+★ Stars: 5065
 
 [Open repository](https://github.com/subhra74/xdm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5065 | 978 | 
 | 2023-03-30 | 5051 | 976 | 
 | 2023-03-28 | 5040 | 976 | 
 | 2023-03-27 | 5036 | 976 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 4960 | 970 | 
 | 2023-03-06 | 4959 | 969 | 
 | 2023-03-04 | 4945 | 969 | 
-| 2023-03-03 | 4942 | 968 | 
 

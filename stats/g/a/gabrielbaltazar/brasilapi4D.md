@@ -1,6 +1,6 @@
 # gabrielbaltazar/brasilapi4D - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 20 | 4 | 
 | 2023-03-30 | 20 | 4 | 
 | 2023-03-28 | 20 | 4 | 
 | 2023-03-27 | 20 | 4 | 

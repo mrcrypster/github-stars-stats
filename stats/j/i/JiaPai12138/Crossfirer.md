@@ -1,6 +1,6 @@
 # JiaPai12138/Crossfirer - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 125 | 38 | 
 | 2023-03-31 | 125 | 38 | 
 | 2023-03-29 | 124 | 38 | 
 | 2023-03-27 | 124 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 123 | 37 | 
 | 2023-03-05 | 123 | 37 | 
 | 2023-03-04 | 123 | 37 | 
-| 2023-03-03 | 123 | 37 | 
 

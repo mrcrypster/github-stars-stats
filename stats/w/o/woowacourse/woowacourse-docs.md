@@ -1,8 +1,8 @@
 # woowacourse/woowacourse-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 307
+☋ Forks: 308
 
 ★ Stars: 242
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 242 | 308 | 
 | 2023-03-30 | 242 | 307 | 
 | 2023-03-28 | 242 | 307 | 
 | 2023-03-27 | 241 | 307 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 237 | 309 | 
 | 2023-03-06 | 237 | 309 | 
 | 2023-03-04 | 237 | 309 | 
-| 2023-03-03 | 235 | 309 | 
 

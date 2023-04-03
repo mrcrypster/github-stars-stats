@@ -1,10 +1,10 @@
 # gocolly/colly - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1574
+☋ Forks: 1577
 
-★ Stars: 19224
+★ Stars: 19231
 
 [Open repository](https://github.com/gocolly/colly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 19231 | 1577 | 
 | 2023-04-01 | 19224 | 1574 | 
 | 2023-03-31 | 19217 | 1573 | 
 | 2023-03-29 | 19210 | 1573 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 19051 | 1557 | 
 | 2023-03-05 | 19042 | 1557 | 
 | 2023-03-04 | 19029 | 1557 | 
-| 2023-03-03 | 19019 | 1557 | 
 

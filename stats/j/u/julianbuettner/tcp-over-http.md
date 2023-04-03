@@ -1,6 +1,6 @@
 # julianbuettner/tcp-over-http - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 188 | 6 | 
 | 2023-04-01 | 188 | 6 | 
 | 2023-03-30 | 188 | 6 | 
 | 2023-03-28 | 188 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 189 | 6 | 
 | 2023-03-05 | 189 | 6 | 
 | 2023-03-04 | 189 | 6 | 
-| 2023-03-03 | 189 | 6 | 
 

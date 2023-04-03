@@ -1,10 +1,10 @@
 # pwndoc/pwndoc - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 352
 
-★ Stars: 1520
+★ Stars: 1522
 
 [Open repository](https://github.com/pwndoc/pwndoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1522 | 352 | 
 | 2023-03-30 | 1520 | 352 | 
 | 2023-03-28 | 1518 | 351 | 
 | 2023-03-27 | 1516 | 350 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1489 | 340 | 
 | 2023-03-06 | 1486 | 340 | 
 | 2023-03-05 | 1486 | 340 | 
-| 2023-03-03 | 1487 | 341 | 
 

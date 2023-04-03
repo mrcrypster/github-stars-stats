@@ -1,10 +1,10 @@
 # ansiwave/nimwave - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 439
+★ Stars: 440
 
 [Open repository](https://github.com/ansiwave/nimwave)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 440 | 3 | 
 | 2023-03-30 | 439 | 3 | 
 | 2023-03-28 | 439 | 3 | 
 | 2023-03-26 | 439 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 434 | 3 | 
 | 2023-03-06 | 434 | 3 | 
 | 2023-03-04 | 434 | 3 | 
-| 2023-03-03 | 434 | 3 | 
 

@@ -1,10 +1,10 @@
 # ankurrsinghal/svelte-autoresize-textarea - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/ankurrsinghal/svelte-autoresize-textarea)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 19 | - | 
 | 2023-03-30 | 18 | - | 
 | 2023-03-28 | 18 | - | 
 | 2023-03-27 | 18 | - | 

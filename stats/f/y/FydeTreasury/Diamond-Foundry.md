@@ -1,6 +1,6 @@
 # FydeTreasury/Diamond-Foundry - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 26 | 3 | 
 | 2023-03-31 | 26 | 3 | 
 | 2023-03-29 | 26 | 3 | 
 | 2023-03-28 | 26 | 3 | 

@@ -1,8 +1,8 @@
 # purescript/purescript-arrays - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 70
+☋ Forks: 71
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 56 | 71 | 
 | 2023-04-01 | 56 | 70 | 
 | 2023-03-29 | 56 | 70 | 
 | 2023-03-27 | 56 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 56 | 70 | 
 | 2023-03-05 | 55 | 70 | 
 | 2023-03-04 | 55 | 70 | 
-| 2023-03-03 | 55 | 70 | 
 

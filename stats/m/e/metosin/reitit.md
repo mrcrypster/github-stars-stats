@@ -1,10 +1,10 @@
 # metosin/reitit - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 239
 
-★ Stars: 1279
+★ Stars: 1280
 
 [Open repository](https://github.com/metosin/reitit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1280 | 239 | 
 | 2023-03-30 | 1279 | 239 | 
 | 2023-03-29 | 1277 | 239 | 
 | 2023-03-28 | 1274 | 239 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1256 | 237 | 
 | 2023-03-05 | 1253 | 234 | 
 | 2023-03-04 | 1252 | 234 | 
-| 2023-03-03 | 1251 | 234 | 
 

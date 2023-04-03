@@ -1,6 +1,6 @@
 # samih93/e_commerce_app - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 64 | 27 | 
 | 2023-03-31 | 64 | 27 | 
 | 2023-03-29 | 64 | 27 | 
 | 2023-03-27 | 64 | 27 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 64 | 27 | 
 | 2023-03-05 | 64 | 27 | 
 | 2023-03-04 | 64 | 27 | 
-| 2023-03-03 | 64 | 27 | 
 

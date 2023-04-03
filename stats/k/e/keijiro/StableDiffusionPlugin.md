@@ -1,10 +1,10 @@
 # keijiro/StableDiffusionPlugin - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 25
+☋ Forks: 31
 
-★ Stars: 319
+★ Stars: 374
 
 [Open repository](https://github.com/keijiro/StableDiffusionPlugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 374 | 31 | 
 | 2023-03-30 | 319 | 25 | 
 | 2023-03-28 | 208 | 16 | 
 | 2023-03-27 | 192 | 14 | 

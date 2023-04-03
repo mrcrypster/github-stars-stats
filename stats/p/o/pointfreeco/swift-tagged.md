@@ -1,8 +1,8 @@
 # pointfreeco/swift-tagged - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 1137
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1137 | 57 | 
 | 2023-03-31 | 1137 | 56 | 
 | 2023-03-29 | 1137 | 56 | 
 | 2023-03-27 | 1135 | 56 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1130 | 56 | 
 | 2023-03-06 | 1130 | 55 | 
 | 2023-03-05 | 1128 | 55 | 
-| 2023-03-04 | 1128 | 55 | 
 

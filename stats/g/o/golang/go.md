@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 02
 
-☋ Forks: 16114
+☋ Forks: 16115
 
-★ Stars: 109820
+★ Stars: 109821
 
 [Open repository](https://github.com/golang/go)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-02 | 109820 | 16114 | 
+| 2023-04-02 | 109821 | 16115 | 
 | 2023-04-01 | 109815 | 16115 | 
 | 2023-03-29 | 109723 | 16093 | 
 | 2023-03-27 | 109678 | 16088 | 

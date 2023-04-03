@@ -1,10 +1,10 @@
 # percona/percona-toolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 277
 
-★ Stars: 756
+★ Stars: 757
 
 [Open repository](https://github.com/percona/percona-toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 757 | 277 | 
 | 2023-03-30 | 756 | 277 | 
 | 2023-03-28 | 756 | 277 | 
 | 2023-03-27 | 754 | 277 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 736 | 272 | 
 | 2023-03-06 | 735 | 270 | 
 | 2023-03-05 | 734 | 270 | 
-| 2023-03-04 | 735 | 270 | 
 

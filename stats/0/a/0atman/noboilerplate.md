@@ -1,10 +1,10 @@
 # 0atman/noboilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 592
+★ Stars: 604
 
 [Open repository](https://github.com/0atman/noboilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 604 | 25 | 
 | 2023-03-30 | 592 | 24 | 
 | 2023-03-28 | 577 | 22 | 
 | 2023-03-27 | 565 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 445 | 21 | 
 | 2023-03-05 | 440 | 21 | 
 | 2023-03-04 | 440 | 21 | 
-| 2023-03-03 | 437 | 21 | 
 

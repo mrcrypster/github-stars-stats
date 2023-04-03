@@ -1,6 +1,6 @@
 # Spring23-CS5008-BOS-Lionelle/lab-analyzing-assembly - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 3 | 
 | 2023-04-01 | - | 3 | 
 | 2023-03-30 | - | 3 | 
 | 2023-03-28 | - | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | - | 3 | 
 | 2023-03-06 | - | 3 | 
 | 2023-03-05 | - | 3 | 
-| 2023-03-03 | - | 3 | 
 

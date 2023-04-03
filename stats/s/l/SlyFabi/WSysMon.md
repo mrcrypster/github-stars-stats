@@ -1,10 +1,10 @@
 # SlyFabi/WSysMon - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/SlyFabi/WSysMon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 245 | 6 | 
 | 2023-03-30 | 244 | 6 | 
 | 2023-03-28 | 244 | 6 | 
 | 2023-03-27 | 244 | 6 | 

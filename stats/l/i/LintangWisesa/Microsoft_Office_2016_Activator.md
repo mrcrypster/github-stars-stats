@@ -1,6 +1,6 @@
 # LintangWisesa/Microsoft_Office_2016_Activator - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 58 | 53 | 
 | 2023-03-31 | 58 | 53 | 
 | 2023-03-29 | 57 | 53 | 
 | 2023-03-27 | 57 | 53 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 53 | 52 | 
 | 2023-03-05 | 53 | 52 | 
 | 2023-03-04 | 53 | 52 | 
-| 2023-03-03 | 53 | 52 | 
 

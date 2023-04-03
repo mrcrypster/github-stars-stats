@@ -1,8 +1,8 @@
 # OpenFAST/openfast - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 390
+☋ Forks: 391
 
 ★ Stars: 469
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 469 | 391 | 
 | 2023-04-01 | 469 | 390 | 
 | 2023-03-31 | 468 | 390 | 
 | 2023-03-30 | 466 | 390 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 461 | 386 | 
 | 2023-03-05 | 459 | 386 | 
 | 2023-03-04 | 459 | 386 | 
-| 2023-03-03 | 459 | 386 | 
 

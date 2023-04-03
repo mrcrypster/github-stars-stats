@@ -1,0 +1,17 @@
+# twitter/ios-twitter-logging-service - stars & forks statistics
+
+Stats updated on Apr 2023, 02
+
+☋ Forks: 42
+
+★ Stars: 291
+
+[Open repository](https://github.com/twitter/ios-twitter-logging-service)
+
+[Open detailed stats for twitter/ios-twitter-logging-service](https://reviewgithub.com/rep/twitter/ios-twitter-logging-service)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-02 | 291 | 42 | 
+

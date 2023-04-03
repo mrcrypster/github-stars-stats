@@ -1,10 +1,10 @@
 # johnthagen/min-sized-rust - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 151
 
-★ Stars: 5316
+★ Stars: 5318
 
 [Open repository](https://github.com/johnthagen/min-sized-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 5318 | 151 | 
 | 2023-04-01 | 5316 | 151 | 
 | 2023-03-31 | 5304 | 151 | 
 | 2023-03-29 | 5292 | 150 | 

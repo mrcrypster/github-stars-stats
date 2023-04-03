@@ -1,6 +1,6 @@
 # Hoangdus/Speedster - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 10 | 3 | 
 | 2023-03-30 | 10 | 3 | 
 | 2023-03-28 | 10 | 3 | 
 | 2023-03-27 | 10 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 10 | 3 | 
 | 2023-03-06 | 10 | 3 | 
 | 2023-03-04 | 10 | 3 | 
-| 2023-03-03 | 10 | 3 | 
 

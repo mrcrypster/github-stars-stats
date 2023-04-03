@@ -1,10 +1,10 @@
 # primefaces/primeng-sass-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/primefaces/primeng-sass-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 14 | 3 | 
 | 2023-03-30 | 12 | 3 | 
 | 2023-03-28 | 12 | 3 | 
 | 2023-03-26 | 12 | 3 | 

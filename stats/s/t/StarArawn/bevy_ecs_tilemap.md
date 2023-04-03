@@ -1,10 +1,10 @@
 # StarArawn/bevy_ecs_tilemap - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 135
+☋ Forks: 136
 
-★ Stars: 491
+★ Stars: 497
 
 [Open repository](https://github.com/StarArawn/bevy_ecs_tilemap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 497 | 136 | 
 | 2023-03-30 | 491 | 135 | 
 | 2023-03-28 | 492 | 135 | 
 | 2023-03-27 | 490 | 135 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 469 | 129 | 
 | 2023-03-06 | 466 | 129 | 
 | 2023-03-04 | 466 | 129 | 
-| 2023-03-03 | 467 | 129 | 
 

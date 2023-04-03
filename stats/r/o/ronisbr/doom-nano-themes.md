@@ -1,8 +1,8 @@
 # ronisbr/doom-nano-themes - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 3
+☋ Forks: 2
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 60 | 2 | 
 | 2023-03-30 | 60 | 3 | 
 | 2023-03-28 | 56 | 3 | 
 | 2023-03-27 | 56 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 48 | 2 | 
 | 2023-03-05 | 48 | 2 | 
 | 2023-03-04 | 48 | 1 | 
-| 2023-03-03 | 48 | 1 | 
 

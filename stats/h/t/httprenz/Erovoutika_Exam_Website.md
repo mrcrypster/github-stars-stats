@@ -1,8 +1,8 @@
 # httprenz/Erovoutika_Exam_Website - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 6
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | 9 | 
 | 2023-03-30 | 1 | 6 | 
 | 2023-03-28 | 1 | 6 | 
 | 2023-03-27 | 1 | 6 | 

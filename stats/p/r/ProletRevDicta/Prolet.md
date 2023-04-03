@@ -1,10 +1,10 @@
 # ProletRevDicta/Prolet - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 107
 
-★ Stars: 252
+★ Stars: 254
 
 [Open repository](https://github.com/ProletRevDicta/Prolet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 254 | 107 | 
 | 2023-03-31 | 252 | 107 | 
 | 2023-03-29 | 253 | 107 | 
 | 2023-03-28 | 252 | 107 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 249 | 106 | 
 | 2023-03-05 | 249 | 106 | 
 | 2023-03-04 | 250 | 106 | 
-| 2023-03-03 | 249 | 105 | 
 

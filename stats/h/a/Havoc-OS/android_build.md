@@ -1,8 +1,8 @@
 # Havoc-OS/android_build - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 21 | 41 | 
 | 2023-04-01 | 21 | 40 | 
 | 2023-03-30 | 21 | 40 | 
 | 2023-03-28 | 21 | 40 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 21 | 39 | 
 | 2023-03-05 | 21 | 39 | 
 | 2023-03-04 | 21 | 39 | 
-| 2023-03-03 | 21 | 39 | 
 

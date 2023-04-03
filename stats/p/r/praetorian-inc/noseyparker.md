@@ -1,10 +1,10 @@
 # praetorian-inc/noseyparker - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 36
 
-★ Stars: 852
+★ Stars: 857
 
 [Open repository](https://github.com/praetorian-inc/noseyparker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 857 | 36 | 
 | 2023-04-01 | 852 | 36 | 
 | 2023-03-30 | 851 | 36 | 
 | 2023-03-28 | 848 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 687 | 30 | 
 | 2023-03-06 | 653 | 30 | 
 | 2023-03-05 | 627 | 28 | 
-| 2023-03-03 | 609 | 28 | 
 

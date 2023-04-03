@@ -1,10 +1,10 @@
 # Azure/AnalyticsinaBox - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/Azure/AnalyticsinaBox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 43 | 25 | 
 | 2023-04-01 | 42 | 25 | 
 | 2023-03-31 | 42 | 25 | 
 | 2023-03-29 | 42 | 24 | 

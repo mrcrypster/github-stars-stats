@@ -1,10 +1,10 @@
 # protobuf-net/protobuf-net - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1014
 
-★ Stars: 4177
+★ Stars: 4185
 
 [Open repository](https://github.com/protobuf-net/protobuf-net)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4185 | 1014 | 
 | 2023-03-30 | 4177 | 1014 | 
 | 2023-03-28 | 4174 | 1012 | 
 | 2023-03-27 | 4172 | 1011 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 4148 | 1007 | 
 | 2023-03-05 | 4149 | 1006 | 
 | 2023-03-04 | 4148 | 1006 | 
-| 2023-03-03 | 4149 | 1005 | 
 

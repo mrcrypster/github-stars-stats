@@ -1,10 +1,10 @@
 # efxtv/L3MON - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/efxtv/L3MON)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 78 | 75 | 
 | 2023-04-01 | 76 | 74 | 
 | 2023-03-31 | 73 | 73 | 
 | 2023-03-29 | 72 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 53 | 53 | 
 | 2023-03-05 | 53 | 53 | 
 | 2023-03-04 | 52 | 52 | 
-| 2023-03-03 | 52 | 50 | 
 

@@ -1,10 +1,10 @@
 # jlalmes/trpc-openapi - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 1173
+★ Stars: 1178
 
 [Open repository](https://github.com/jlalmes/trpc-openapi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1178 | 46 | 
 | 2023-04-01 | 1173 | 45 | 
 | 2023-03-31 | 1172 | 45 | 
 | 2023-03-29 | 1167 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 1098 | 41 | 
 | 2023-03-05 | 1094 | 41 | 
 | 2023-03-04 | 1088 | 41 | 
-| 2023-03-03 | 1082 | 42 | 
 

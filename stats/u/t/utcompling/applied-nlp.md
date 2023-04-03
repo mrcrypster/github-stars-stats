@@ -1,6 +1,6 @@
 # utcompling/applied-nlp - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 125 | 54 | 
 | 2023-04-01 | 125 | 54 | 
 | 2023-03-31 | 125 | 54 | 
 | 2023-03-29 | 125 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 125 | 54 | 
 | 2023-03-05 | 125 | 54 | 
 | 2023-03-04 | 125 | 54 | 
-| 2023-03-03 | 125 | 54 | 
 

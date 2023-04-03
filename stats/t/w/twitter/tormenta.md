@@ -1,0 +1,17 @@
+# twitter/tormenta - stars & forks statistics
+
+Stats updated on Apr 2023, 02
+
+☋ Forks: 38
+
+★ Stars: 132
+
+[Open repository](https://github.com/twitter/tormenta)
+
+[Open detailed stats for twitter/tormenta](https://reviewgithub.com/rep/twitter/tormenta)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-02 | 132 | 38 | 
+

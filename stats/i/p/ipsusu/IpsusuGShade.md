@@ -1,6 +1,6 @@
 # ipsusu/IpsusuGShade - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 8 | 2 | 
 | 2023-03-29 | 8 | 2 | 
 | 2023-03-28 | 8 | 2 | 
 | 2023-03-26 | 8 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 8 | 2 | 
 | 2023-03-06 | 8 | 2 | 
 | 2023-03-05 | 8 | 2 | 
-| 2023-03-03 | 8 | 2 | 
 

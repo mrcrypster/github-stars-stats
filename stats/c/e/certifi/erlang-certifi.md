@@ -1,10 +1,10 @@
 # certifi/erlang-certifi - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 38
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/certifi/erlang-certifi)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 122 | 38 | 
+| 2023-04-02 | 122 | 38 | 
 | 2023-03-30 | 121 | 38 | 
 | 2023-03-28 | 121 | 38 | 
 | 2023-03-27 | 121 | 38 | 
@@ -34,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 120 | 38 | 
 | 2023-03-05 | 120 | 38 | 
 | 2023-03-04 | 120 | 38 | 
-| 2023-03-03 | 120 | 38 | 
 

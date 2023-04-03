@@ -1,10 +1,10 @@
 # prometheus/pushgateway - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 415
+☋ Forks: 416
 
-★ Stars: 2535
+★ Stars: 2537
 
 [Open repository](https://github.com/prometheus/pushgateway)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2537 | 416 | 
 | 2023-03-30 | 2535 | 415 | 
 | 2023-03-28 | 2532 | 414 | 
 | 2023-03-27 | 2530 | 414 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 2509 | 411 | 
 | 2023-03-05 | 2507 | 410 | 
 | 2023-03-04 | 2506 | 410 | 
-| 2023-03-03 | 2504 | 410 | 
 

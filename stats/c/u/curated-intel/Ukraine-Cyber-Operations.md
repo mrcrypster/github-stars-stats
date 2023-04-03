@@ -1,6 +1,6 @@
 # curated-intel/Ukraine-Cyber-Operations - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 887 | 100 | 
 | 2023-04-01 | 887 | 100 | 
 | 2023-03-30 | 886 | 100 | 
 | 2023-03-28 | 885 | 100 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 872 | 95 | 
 | 2023-03-06 | 871 | 95 | 
 | 2023-03-05 | 870 | 95 | 
-| 2023-03-04 | 870 | 95 | 
 

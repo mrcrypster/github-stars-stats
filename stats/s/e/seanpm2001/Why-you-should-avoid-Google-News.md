@@ -1,6 +1,6 @@
 # seanpm2001/Why-you-should-avoid-Google-News - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4 | 1 | 
 | 2023-03-30 | 4 | 1 | 
 | 2023-03-28 | 4 | 1 | 
 | 2023-03-27 | 4 | 1 | 

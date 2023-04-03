@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/java-docs-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 2730
+☋ Forks: 2732
 
-★ Stars: 1541
+★ Stars: 1546
 
 [Open repository](https://github.com/GoogleCloudPlatform/java-docs-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1546 | 2732 | 
 | 2023-03-30 | 1541 | 2730 | 
 | 2023-03-28 | 1540 | 2729 | 
 | 2023-03-27 | 1540 | 2728 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1532 | 2719 | 
 | 2023-03-06 | 1532 | 2718 | 
 | 2023-03-04 | 1531 | 2718 | 
-| 2023-03-03 | 1530 | 2716 | 
 

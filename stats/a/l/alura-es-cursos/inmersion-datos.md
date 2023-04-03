@@ -1,6 +1,6 @@
 # alura-es-cursos/inmersion-datos - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 28 | 19 | 
 | 2023-04-01 | 28 | 19 | 
 | 2023-03-30 | 27 | 16 | 
 | 2023-03-29 | 27 | 16 | 

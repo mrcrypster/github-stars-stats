@@ -1,10 +1,10 @@
 # Jax-Core/JaxCore - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 396
+★ Stars: 398
 
 [Open repository](https://github.com/Jax-Core/JaxCore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 398 | 25 | 
 | 2023-03-30 | 396 | 24 | 
 | 2023-03-28 | 392 | 24 | 
 | 2023-03-27 | 391 | 24 | 

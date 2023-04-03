@@ -1,10 +1,10 @@
 # apple/VideoFlashingReduction - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 129
+★ Stars: 133
 
 [Open repository](https://github.com/apple/VideoFlashingReduction)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 133 | 6 | 
 | 2023-03-30 | 129 | 6 | 
 

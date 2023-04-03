@@ -1,10 +1,10 @@
 # karthink/gptel - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
-★ Stars: 203
+★ Stars: 208
 
 [Open repository](https://github.com/karthink/gptel)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 208 | 16 | 
+| 2023-04-02 | 206 | 16 | 
 | 2023-04-01 | 203 | 16 | 
 | 2023-03-31 | 181 | 15 | 
 | 2023-03-30 | 168 | 14 | 

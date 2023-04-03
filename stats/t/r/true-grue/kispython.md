@@ -1,8 +1,8 @@
 # true-grue/kispython - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 128
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 128 | 114 | 
 | 2023-03-31 | 128 | 113 | 
 | 2023-03-29 | 126 | 112 | 
 | 2023-03-27 | 125 | 111 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 122 | 96 | 
 | 2023-03-06 | 122 | 96 | 
 | 2023-03-04 | 122 | 96 | 
-| 2023-03-03 | 122 | 93 | 
 

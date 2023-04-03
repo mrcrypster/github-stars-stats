@@ -1,8 +1,8 @@
 # Freescale/meta-freescale-3rdparty - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 416
+☋ Forks: 417
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 79 | 417 | 
 | 2023-04-01 | 79 | 416 | 
 | 2023-03-31 | 79 | 416 | 
 | 2023-03-30 | 79 | 416 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 79 | 401 | 
 | 2023-03-05 | 79 | 400 | 
 | 2023-03-04 | 79 | 398 | 
-| 2023-03-03 | 79 | 397 | 
 

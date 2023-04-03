@@ -1,10 +1,10 @@
 # craftlinks/zig_learn_opengl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/craftlinks/zig_learn_opengl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 49 | 3 | 
 | 2023-04-01 | 48 | 3 | 
 | 2023-03-30 | 46 | 3 | 
 | 2023-03-28 | 44 | 3 | 

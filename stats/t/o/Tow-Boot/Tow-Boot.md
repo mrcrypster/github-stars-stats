@@ -1,10 +1,10 @@
 # Tow-Boot/Tow-Boot - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 80
 
-★ Stars: 352
+★ Stars: 354
 
 [Open repository](https://github.com/Tow-Boot/Tow-Boot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 354 | 80 | 
 | 2023-04-01 | 352 | 80 | 
 | 2023-03-31 | 352 | 80 | 
 | 2023-03-29 | 351 | 79 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 342 | 74 | 
 | 2023-03-06 | 342 | 74 | 
 | 2023-03-05 | 341 | 74 | 
-| 2023-03-04 | 339 | 72 | 
 

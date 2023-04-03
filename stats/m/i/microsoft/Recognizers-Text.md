@@ -1,10 +1,10 @@
 # microsoft/Recognizers-Text - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 413
 
-★ Stars: 1537
+★ Stars: 1538
 
 [Open repository](https://github.com/microsoft/Recognizers-Text)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1538 | 413 | 
 | 2023-03-30 | 1537 | 413 | 
 | 2023-03-28 | 1537 | 413 | 
 | 2023-03-27 | 1536 | 413 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1532 | 414 | 
 | 2023-03-06 | 1530 | 414 | 
 | 2023-03-04 | 1530 | 414 | 
-| 2023-03-03 | 1531 | 414 | 
 

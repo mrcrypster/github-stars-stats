@@ -1,10 +1,10 @@
 # liukuo362573/YiShaAdmin - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 760
 
-★ Stars: 2037
+★ Stars: 2040
 
 [Open repository](https://github.com/liukuo362573/YiShaAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2040 | 760 | 
 | 2023-03-31 | 2037 | 760 | 
 | 2023-03-29 | 2037 | 760 | 
 | 2023-03-28 | 2035 | 760 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 2014 | 756 | 
 | 2023-03-05 | 2012 | 756 | 
 | 2023-03-04 | 2012 | 756 | 
-| 2023-03-03 | 2012 | 757 | 
 

@@ -1,10 +1,10 @@
 # pranjay-poddar/Dev-Geeks - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 231
 
-★ Stars: 153
+★ Stars: 152
 
 [Open repository](https://github.com/pranjay-poddar/Dev-Geeks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 152 | 231 | 
 | 2023-03-30 | 153 | 231 | 
 | 2023-03-28 | 153 | 231 | 
 | 2023-03-27 | 154 | 232 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 156 | 233 | 
 | 2023-03-05 | 156 | 233 | 
 | 2023-03-04 | 156 | 235 | 
-| 2023-03-03 | 156 | 235 | 
 

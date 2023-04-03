@@ -1,10 +1,10 @@
 # rmagatti/auto-session - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 31
 
-★ Stars: 708
+★ Stars: 712
 
 [Open repository](https://github.com/rmagatti/auto-session)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 712 | 31 | 
 | 2023-03-30 | 708 | 31 | 
 | 2023-03-28 | 709 | 31 | 
 | 2023-03-27 | 708 | 31 | 

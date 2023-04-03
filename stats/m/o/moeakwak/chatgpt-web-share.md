@@ -1,10 +1,10 @@
 # moeakwak/chatgpt-web-share - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 59
+☋ Forks: 66
 
-★ Stars: 336
+★ Stars: 406
 
 [Open repository](https://github.com/moeakwak/chatgpt-web-share)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 406 | 66 | 
 | 2023-04-01 | 336 | 59 | 
 | 2023-03-31 | 281 | 48 | 
 | 2023-03-30 | 268 | 47 | 

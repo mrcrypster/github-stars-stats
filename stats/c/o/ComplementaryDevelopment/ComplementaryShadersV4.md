@@ -1,10 +1,10 @@
 # ComplementaryDevelopment/ComplementaryShadersV4 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/ComplementaryDevelopment/ComplementaryShadersV4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 36 | 5 | 
 | 2023-03-30 | 35 | 5 | 
 | 2023-03-28 | 35 | 5 | 
 | 2023-03-27 | 35 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 34 | 5 | 
 | 2023-03-06 | 33 | 5 | 
 | 2023-03-04 | 32 | 5 | 
-| 2023-03-03 | 32 | 5 | 
 

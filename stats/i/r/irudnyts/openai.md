@@ -1,10 +1,10 @@
 # irudnyts/openai - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 87
+★ Stars: 89
 
 [Open repository](https://github.com/irudnyts/openai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 89 | 9 | 
 | 2023-04-01 | 87 | 9 | 
 | 2023-03-29 | 86 | 9 | 
 | 2023-03-28 | 86 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 56 | 7 | 
 | 2023-03-05 | 53 | 7 | 
 | 2023-03-04 | 52 | 6 | 
-| 2023-03-03 | 52 | 6 | 
 

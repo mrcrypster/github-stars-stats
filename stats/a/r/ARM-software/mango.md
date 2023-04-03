@@ -1,10 +1,10 @@
 # ARM-software/mango - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 36
 
-★ Stars: 271
+★ Stars: 270
 
 [Open repository](https://github.com/ARM-software/mango)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 270 | 36 | 
 | 2023-03-30 | 271 | 36 | 
 | 2023-03-28 | 270 | 36 | 
 | 2023-03-27 | 270 | 36 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 268 | 36 | 
 | 2023-03-06 | 268 | 36 | 
 | 2023-03-04 | 268 | 36 | 
-| 2023-03-03 | 268 | 36 | 
 

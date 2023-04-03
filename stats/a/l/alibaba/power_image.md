@@ -1,6 +1,6 @@
 # alibaba/power_image - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 456 | 44 | 
 | 2023-03-31 | 456 | 44 | 
 | 2023-03-29 | 455 | 43 | 
 | 2023-03-27 | 454 | 43 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 445 | 41 | 
 | 2023-03-06 | 445 | 41 | 
 | 2023-03-05 | 445 | 40 | 
-| 2023-03-04 | 445 | 40 | 
 

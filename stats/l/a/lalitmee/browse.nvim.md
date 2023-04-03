@@ -1,10 +1,10 @@
 # lalitmee/browse.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/lalitmee/browse.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 149 | 6 | 
 | 2023-03-31 | 148 | 6 | 
 | 2023-03-29 | 147 | 6 | 
 | 2023-03-28 | 147 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 146 | 6 | 
 | 2023-03-05 | 146 | 6 | 
 | 2023-03-04 | 146 | 6 | 
-| 2023-03-03 | 146 | 6 | 
 

@@ -1,6 +1,6 @@
 # yoshuawuyts/futures-concurrency - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 178 | 18 | 
 | 2023-03-31 | 178 | 18 | 
 | 2023-03-29 | 178 | 18 | 
 | 2023-03-27 | 178 | 18 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 178 | 18 | 
 | 2023-03-06 | 178 | 18 | 
 | 2023-03-05 | 178 | 18 | 
-| 2023-03-03 | 178 | 18 | 
 

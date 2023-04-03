@@ -1,6 +1,6 @@
 # gardener/vpn2 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2 | 8 | 
 | 2023-03-30 | 2 | 8 | 
 | 2023-03-28 | 2 | 8 | 
 | 2023-03-27 | 2 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 1 | 8 | 
 | 2023-03-05 | 1 | 8 | 
 | 2023-03-04 | 1 | 8 | 
-| 2023-03-03 | 1 | 8 | 
 

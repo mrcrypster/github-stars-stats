@@ -1,6 +1,6 @@
 # elastic/stream2es - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 359 | 61 | 
 | 2023-03-30 | 359 | 61 | 
 | 2023-03-28 | 359 | 61 | 
 | 2023-03-27 | 359 | 61 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 359 | 61 | 
 | 2023-03-05 | 359 | 61 | 
 | 2023-03-04 | 359 | 61 | 
-| 2023-03-03 | 359 | 61 | 
 

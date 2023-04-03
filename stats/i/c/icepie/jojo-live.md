@@ -1,6 +1,6 @@
 # icepie/jojo-live - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 160 | 13 | 
 | 2023-03-31 | 160 | 13 | 
 | 2023-03-29 | 160 | 13 | 
 | 2023-03-27 | 160 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 159 | 13 | 
 | 2023-03-06 | 159 | 13 | 
 | 2023-03-05 | 159 | 13 | 
-| 2023-03-03 | 159 | 13 | 
 

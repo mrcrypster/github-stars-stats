@@ -1,6 +1,6 @@
 # BenjaminMahmic/collapsible_drawer - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 173 | 54 | 
 | 2023-03-31 | 173 | 54 | 
 | 2023-03-29 | 173 | 54 | 
 | 2023-03-27 | 173 | 54 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 173 | 52 | 
 | 2023-03-06 | 173 | 52 | 
 | 2023-03-05 | 173 | 52 | 
-| 2023-03-03 | 173 | 52 | 
 

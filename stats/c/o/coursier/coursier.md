@@ -1,10 +1,10 @@
 # coursier/coursier - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 290
 
-★ Stars: 1943
+★ Stars: 1944
 
 [Open repository](https://github.com/coursier/coursier)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1944 | 290 | 
 | 2023-04-01 | 1943 | 290 | 
 | 2023-03-31 | 1943 | 289 | 
 | 2023-03-29 | 1943 | 289 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 1938 | 284 | 
 | 2023-03-05 | 1938 | 284 | 
 | 2023-03-04 | 1938 | 284 | 
-| 2023-03-03 | 1937 | 283 | 
 

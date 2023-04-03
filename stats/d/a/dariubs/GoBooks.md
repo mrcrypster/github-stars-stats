@@ -1,10 +1,10 @@
 # dariubs/GoBooks - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1847
+☋ Forks: 1849
 
-★ Stars: 13999
+★ Stars: 14012
 
 [Open repository](https://github.com/dariubs/GoBooks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 14012 | 1849 | 
 | 2023-03-30 | 13999 | 1847 | 
 | 2023-03-28 | 13999 | 1847 | 
 | 2023-03-27 | 13996 | 1846 | 

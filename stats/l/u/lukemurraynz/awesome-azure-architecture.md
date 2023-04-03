@@ -1,6 +1,6 @@
 # lukemurraynz/awesome-azure-architecture - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1012 | 203 | 
 | 2023-04-01 | 1012 | 203 | 
 | 2023-03-31 | 1010 | 203 | 
 | 2023-03-29 | 1008 | 203 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 975 | 196 | 
 | 2023-03-06 | 972 | 195 | 
 | 2023-03-04 | 972 | 194 | 
-| 2023-03-03 | 973 | 194 | 
 

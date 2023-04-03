@@ -1,10 +1,10 @@
 # e2eSolutionArchitect/terraform - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/e2eSolutionArchitect/terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 19 | 86 | 
 | 2023-03-30 | 18 | 85 | 
 | 2023-03-28 | 17 | 85 | 
 | 2023-03-26 | 17 | 81 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 13 | 70 | 
 | 2023-03-05 | 13 | 69 | 
 | 2023-03-04 | 13 | 69 | 
-| 2023-03-03 | 13 | 69 | 
 

@@ -1,6 +1,6 @@
 # hktalent/spring-spel-0day-poc - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 348 | 85 | 
 | 2023-04-02 | 348 | 85 | 
 | 2023-03-30 | 348 | 85 | 
 | 2023-03-28 | 347 | 85 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 345 | 85 | 
 | 2023-03-06 | 345 | 85 | 
 | 2023-03-04 | 344 | 85 | 
-| 2023-03-03 | 344 | 85 | 
 

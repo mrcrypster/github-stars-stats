@@ -1,6 +1,6 @@
 # amkessler/smpa_assignment_filteringsorting - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | - | 16 | 
 | 2023-03-30 | - | 16 | 
 | 2023-03-28 | - | 16 | 
 | 2023-03-27 | - | 16 | 

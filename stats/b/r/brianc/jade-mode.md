@@ -1,6 +1,6 @@
 # brianc/jade-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 158 | 44 | 
 | 2023-03-30 | 158 | 44 | 
 | 2023-03-28 | 158 | 44 | 
 | 2023-03-26 | 158 | 44 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 158 | 44 | 
 | 2023-03-06 | 158 | 44 | 
 | 2023-03-05 | 158 | 44 | 
-| 2023-03-03 | 158 | 44 | 
 

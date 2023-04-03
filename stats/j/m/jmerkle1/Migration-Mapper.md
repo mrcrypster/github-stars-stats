@@ -1,6 +1,6 @@
 # jmerkle1/Migration-Mapper - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5 | - | 
 | 2023-04-01 | 5 | - | 
 | 2023-03-30 | 5 | - | 
 | 2023-03-28 | 5 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 4 | - | 
 | 2023-03-06 | 4 | - | 
 | 2023-03-04 | 4 | - | 
-| 2023-03-03 | 4 | - | 
 

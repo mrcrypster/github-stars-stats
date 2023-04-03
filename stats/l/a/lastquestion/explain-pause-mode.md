@@ -1,6 +1,6 @@
 # lastquestion/explain-pause-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 215 | 4 | 
 | 2023-03-30 | 215 | 4 | 
 | 2023-03-28 | 215 | 4 | 
 | 2023-03-27 | 215 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 213 | 4 | 
 | 2023-03-05 | 213 | 4 | 
 | 2023-03-04 | 213 | 4 | 
-| 2023-03-03 | 213 | 4 | 
 

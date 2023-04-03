@@ -1,6 +1,6 @@
 # movabletype/movabletype - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 392 | 114 | 
 | 2023-04-01 | 392 | 114 | 
 | 2023-03-30 | 392 | 114 | 
 | 2023-03-28 | 392 | 114 | 

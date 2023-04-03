@@ -1,10 +1,10 @@
 # GodotModding/godot-mod-loader - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/GodotModding/godot-mod-loader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 45 | 9 | 
 | 2023-03-31 | 44 | 9 | 
 | 2023-03-29 | 44 | 9 | 
 | 2023-03-28 | 42 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 31 | 9 | 
 | 2023-03-05 | 30 | 9 | 
 | 2023-03-04 | 29 | 9 | 
-| 2023-03-03 | 29 | 9 | 
 

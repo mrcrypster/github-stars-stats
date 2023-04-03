@@ -1,6 +1,6 @@
 # dr007bot/GdriveX.Stable - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2 | 16 | 
 | 2023-04-01 | 2 | 16 | 
 | 2023-03-30 | 2 | 14 | 
 | 2023-03-28 | 2 | 14 | 

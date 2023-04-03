@@ -1,10 +1,10 @@
 # Goldorion/Fabric-Generator-MCreator - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 21
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/Goldorion/Fabric-Generator-MCreator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 77 | 21 | 
 | 2023-03-31 | 76 | 21 | 
 | 2023-03-29 | 76 | 21 | 
 | 2023-03-27 | 76 | 21 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 75 | 21 | 
 | 2023-03-05 | 75 | 21 | 
 | 2023-03-04 | 75 | 21 | 
-| 2023-03-03 | 75 | 20 | 
 

@@ -1,10 +1,10 @@
 # nbd-wtf/obw - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 14
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/nbd-wtf/obw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 92 | 14 | 
 | 2023-03-30 | 91 | 14 | 
 | 2023-03-28 | 91 | 14 | 
 | 2023-03-27 | 90 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 89 | 14 | 
 | 2023-03-06 | 89 | 14 | 
 | 2023-03-05 | 88 | 14 | 
-| 2023-03-04 | 88 | 15 | 
 

@@ -1,10 +1,10 @@
 # hughperkins/VeriGPU - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 336
+★ Stars: 339
 
 [Open repository](https://github.com/hughperkins/VeriGPU)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 339 | 32 | 
 | 2023-03-30 | 336 | 31 | 
 | 2023-03-28 | 336 | 31 | 
 | 2023-03-27 | 335 | 31 | 

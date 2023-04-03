@@ -1,10 +1,10 @@
 # numencyber/SmartContractHack_PoC - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/numencyber/SmartContractHack_PoC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 76 | 22 | 
 | 2023-03-30 | 75 | 21 | 
 | 2023-03-28 | 74 | 21 | 
 | 2023-03-26 | 72 | 21 | 

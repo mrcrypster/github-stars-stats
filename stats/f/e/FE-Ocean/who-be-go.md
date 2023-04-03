@@ -1,6 +1,6 @@
 # FE-Ocean/who-be-go - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 5 | 6 | 
 | 2023-04-01 | 5 | 6 | 
 | 2023-03-30 | 5 | 6 | 
 | 2023-03-28 | 5 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 5 | 6 | 
 | 2023-03-05 | 5 | 6 | 
 | 2023-03-04 | 5 | 6 | 
-| 2023-03-03 | 5 | 6 | 
 

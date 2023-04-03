@@ -1,10 +1,10 @@
 # kana/vim-textobj-user - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 51
 
-★ Stars: 1389
+★ Stars: 1391
 
 [Open repository](https://github.com/kana/vim-textobj-user)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1391 | 51 | 
 | 2023-03-31 | 1389 | 51 | 
 | 2023-03-29 | 1389 | 51 | 
 | 2023-03-27 | 1389 | 51 | 

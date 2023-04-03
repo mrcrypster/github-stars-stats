@@ -1,6 +1,6 @@
 # marksteele/mysql-dba-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1 | 4 | 
 | 2023-03-31 | 1 | 4 | 
 | 2023-03-30 | 1 | 4 | 
 

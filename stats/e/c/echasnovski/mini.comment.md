@@ -1,6 +1,6 @@
 # echasnovski/mini.comment - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 28 | 1 | 
 | 2023-03-31 | 28 | 1 | 
 | 2023-03-29 | 28 | 1 | 
 | 2023-03-28 | 27 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 12 | 2 | 
 | 2023-03-06 | 12 | 2 | 
 | 2023-03-04 | 12 | 2 | 
-| 2023-03-03 | 12 | 2 | 
 

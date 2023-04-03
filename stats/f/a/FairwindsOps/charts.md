@@ -1,6 +1,6 @@
 # FairwindsOps/charts - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 108 | 120 | 
 | 2023-04-01 | 108 | 120 | 
 | 2023-03-30 | 108 | 120 | 
 | 2023-03-29 | 108 | 120 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 104 | 116 | 
 | 2023-03-05 | 104 | 116 | 
 | 2023-03-04 | 103 | 116 | 
-| 2023-03-03 | 103 | 116 | 
 

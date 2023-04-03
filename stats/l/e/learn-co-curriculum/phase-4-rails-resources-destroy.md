@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-resources-destroy - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1941
+☋ Forks: 1943
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4 | 1943 | 
 | 2023-03-30 | 4 | 1941 | 
 | 2023-03-28 | 4 | 1939 | 
 | 2023-03-27 | 4 | 1935 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 3 | 1677 | 
 | 2023-03-06 | 3 | 1676 | 
 | 2023-03-05 | 3 | 1674 | 
-| 2023-03-03 | 3 | 1672 | 
 

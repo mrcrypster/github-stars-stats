@@ -1,10 +1,10 @@
 # TheYahya/enola - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/TheYahya/enola)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 259 | 11 | 
 | 2023-04-01 | 258 | 10 | 
 | 2023-03-30 | 258 | 10 | 
 | 2023-03-29 | 256 | 10 | 

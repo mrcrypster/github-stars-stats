@@ -1,6 +1,6 @@
 # BretFisher/nodejs-rocks-in-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 409 | 80 | 
 | 2023-03-30 | 409 | 80 | 
 | 2023-03-28 | 406 | 79 | 
 | 2023-03-27 | 406 | 79 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 395 | 77 | 
 | 2023-03-06 | 396 | 77 | 
 | 2023-03-04 | 396 | 77 | 
-| 2023-03-03 | 396 | 77 | 
 

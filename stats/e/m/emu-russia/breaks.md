@@ -1,6 +1,6 @@
 # emu-russia/breaks - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 121 | 12 | 
 | 2023-03-30 | 121 | 12 | 
 | 2023-03-28 | 121 | 12 | 
 | 2023-03-27 | 121 | 12 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 119 | 12 | 
 | 2023-03-06 | 119 | 12 | 
 | 2023-03-05 | 119 | 12 | 
-| 2023-03-03 | 120 | 12 | 
 

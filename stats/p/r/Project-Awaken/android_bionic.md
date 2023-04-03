@@ -1,6 +1,6 @@
 # Project-Awaken/android_bionic - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1 | 7 | 
 | 2023-03-30 | 1 | 7 | 
 | 2023-03-28 | 1 | 7 | 
 | 2023-03-27 | 1 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 1 | 7 | 
 | 2023-03-06 | 1 | 7 | 
 | 2023-03-05 | 1 | 7 | 
-| 2023-03-04 | 1 | 7 | 
 

@@ -1,6 +1,6 @@
 # restspace/svelte-schema-form - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 27 | 7 | 
 | 2023-03-30 | 27 | 7 | 
 | 2023-03-28 | 27 | 7 | 
 | 2023-03-27 | 27 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 27 | 7 | 
 | 2023-03-06 | 26 | 7 | 
 | 2023-03-05 | 26 | 7 | 
-| 2023-03-03 | 25 | 7 | 
 

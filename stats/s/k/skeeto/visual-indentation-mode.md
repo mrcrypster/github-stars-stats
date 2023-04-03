@@ -1,6 +1,6 @@
 # skeeto/visual-indentation-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 14 | 1 | 
 | 2023-03-30 | 14 | 1 | 
 | 2023-03-28 | 14 | 1 | 
 | 2023-03-27 | 14 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 14 | 1 | 
 | 2023-03-05 | 14 | 1 | 
 | 2023-03-04 | 14 | 1 | 
-| 2023-03-03 | 14 | 1 | 
 

@@ -1,10 +1,10 @@
 # WordAsImage/Word-As-Image - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 705
+★ Stars: 737
 
 [Open repository](https://github.com/WordAsImage/Word-As-Image)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 737 | 26 | 
 | 2023-03-30 | 705 | 25 | 
 | 2023-03-28 | 698 | 25 | 
 | 2023-03-27 | 694 | 24 | 

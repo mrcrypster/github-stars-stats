@@ -1,6 +1,6 @@
 # dotnet/arcade - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 603 | 328 | 
 | 2023-03-30 | 603 | 328 | 
 | 2023-03-28 | 602 | 328 | 
 | 2023-03-27 | 602 | 327 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 595 | 321 | 
 | 2023-03-06 | 595 | 321 | 
 | 2023-03-04 | 596 | 321 | 
-| 2023-03-03 | 596 | 321 | 
 

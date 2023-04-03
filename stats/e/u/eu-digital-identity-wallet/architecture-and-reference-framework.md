@@ -1,10 +1,10 @@
 # eu-digital-identity-wallet/architecture-and-reference-framework - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 10
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/eu-digital-identity-wallet/architecture-and-reference-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 80 | 10 | 
 | 2023-04-01 | 79 | 10 | 
 | 2023-03-30 | 79 | 10 | 
 | 2023-03-28 | 77 | 9 | 

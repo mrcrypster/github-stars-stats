@@ -1,0 +1,17 @@
+# TaddyLab/MBAcourse - stars & forks statistics
+
+Stats updated on Apr 2023, 02
+
+☋ Forks: 82
+
+★ Stars: 80
+
+[Open repository](https://github.com/TaddyLab/MBAcourse)
+
+[Open detailed stats for TaddyLab/MBAcourse](https://reviewgithub.com/rep/TaddyLab/MBAcourse)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-02 | 80 | 82 | 
+

@@ -1,10 +1,10 @@
 # jump-dev/JuMP.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 372
 
-★ Stars: 1932
+★ Stars: 1934
 
 [Open repository](https://github.com/jump-dev/JuMP.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1934 | 372 | 
 | 2023-04-01 | 1932 | 372 | 
 | 2023-03-30 | 1932 | 372 | 
 | 2023-03-29 | 1929 | 372 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 1915 | 372 | 
 | 2023-03-05 | 1914 | 372 | 
 | 2023-03-04 | 1912 | 372 | 
-| 2023-03-03 | 1911 | 372 | 
 

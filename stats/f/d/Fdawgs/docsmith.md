@@ -1,8 +1,8 @@
 # Fdawgs/docsmith - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 16 | 2 | 
 | 2023-03-31 | 16 | 1 | 
 | 2023-03-30 | 16 | 1 | 
 

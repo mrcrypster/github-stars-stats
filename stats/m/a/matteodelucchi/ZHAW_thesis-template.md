@@ -1,6 +1,6 @@
 # matteodelucchi/ZHAW_thesis-template - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 46 | 
 | 2023-04-01 | 13 | 46 | 
 | 2023-03-30 | 13 | 46 | 
 | 2023-03-28 | 13 | 46 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 12 | 44 | 
 | 2023-03-06 | 12 | 43 | 
 | 2023-03-04 | 12 | 43 | 
-| 2023-03-03 | 12 | 43 | 
 

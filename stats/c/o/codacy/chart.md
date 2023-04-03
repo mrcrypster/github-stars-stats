@@ -1,8 +1,8 @@
 # codacy/chart - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 11 | 9 | 
 | 2023-03-30 | 11 | 8 | 
 | 2023-03-28 | 11 | 8 | 
 | 2023-03-27 | 11 | 8 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 11 | 8 | 
 | 2023-03-06 | 11 | 8 | 
 | 2023-03-05 | 11 | 8 | 
-| 2023-03-04 | 11 | 8 | 
 

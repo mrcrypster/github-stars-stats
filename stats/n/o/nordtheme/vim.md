@@ -1,10 +1,10 @@
 # nordtheme/vim - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 277
 
-★ Stars: 2364
+★ Stars: 2367
 
 [Open repository](https://github.com/nordtheme/vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2367 | 277 | 
 | 2023-03-30 | 2364 | 277 | 
 | 2023-03-28 | 2364 | 277 | 
 | 2023-03-27 | 2363 | 276 | 

@@ -1,8 +1,8 @@
 # userdocs/qbittorrent-nox-static - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 667
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 667 | 80 | 
 | 2023-03-30 | 667 | 79 | 
 | 2023-03-28 | 665 | 79 | 
 | 2023-03-27 | 664 | 79 | 

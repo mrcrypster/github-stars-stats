@@ -1,10 +1,10 @@
 # MLNLP-World/MIT-Linear-Algebra-Notes - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 480
+☋ Forks: 481
 
-★ Stars: 1998
+★ Stars: 2007
 
 [Open repository](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2007 | 481 | 
 | 2023-03-31 | 1998 | 480 | 
 | 2023-03-29 | 1993 | 479 | 
 | 2023-03-28 | 1990 | 478 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 1956 | 473 | 
 | 2023-03-05 | 1955 | 471 | 
 | 2023-03-04 | 1956 | 470 | 
-| 2023-03-03 | 1954 | 470 | 
 

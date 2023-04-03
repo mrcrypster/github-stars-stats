@@ -1,10 +1,10 @@
 # wordpress-mobile/WordPress-iOS - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1099
+☋ Forks: 1098
 
-★ Stars: 3475
+★ Stars: 3476
 
 [Open repository](https://github.com/wordpress-mobile/WordPress-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3476 | 1098 | 
 | 2023-03-30 | 3475 | 1099 | 
 | 2023-03-28 | 3475 | 1098 | 
 | 2023-03-26 | 3473 | 1098 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 3463 | 1096 | 
 | 2023-03-05 | 3461 | 1096 | 
 | 2023-03-04 | 3461 | 1096 | 
-| 2023-03-03 | 3463 | 1096 | 
 

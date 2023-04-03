@@ -1,6 +1,6 @@
 # pyscripter/python4delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 293
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 765 | 293 | 
 | 2023-03-30 | 765 | 293 | 
 | 2023-03-28 | 765 | 292 | 
 | 2023-03-27 | 765 | 292 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 761 | 289 | 
 | 2023-03-06 | 760 | 289 | 
 | 2023-03-04 | 760 | 289 | 
-| 2023-03-03 | 760 | 289 | 
 

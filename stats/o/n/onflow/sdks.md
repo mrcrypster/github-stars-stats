@@ -1,10 +1,10 @@
 # onflow/sdks - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/onflow/sdks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 4 | 
 | 2023-04-01 | 5 | 4 | 
 | 2023-03-30 | 5 | 4 | 
 | 2023-03-28 | 5 | 4 | 

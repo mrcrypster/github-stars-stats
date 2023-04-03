@@ -1,8 +1,8 @@
 # jenius-apps/ambie - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 1386
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1386 | 118 | 
 | 2023-03-30 | 1386 | 117 | 
 | 2023-03-28 | 1381 | 116 | 
 | 2023-03-26 | 1378 | 116 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1315 | 113 | 
 | 2023-03-06 | 1305 | 111 | 
 | 2023-03-04 | 1297 | 111 | 
-| 2023-03-03 | 1291 | 111 | 
 

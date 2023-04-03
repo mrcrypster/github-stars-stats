@@ -1,10 +1,10 @@
 # 0xMrNiko/Awesome-Red-Teaming - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/0xMrNiko/Awesome-Red-Teaming)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 286 | 47 | 
 | 2023-03-30 | 285 | 46 | 
 | 2023-03-28 | 284 | 46 | 
 | 2023-03-27 | 282 | 46 | 

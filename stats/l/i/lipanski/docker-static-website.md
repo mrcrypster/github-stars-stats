@@ -1,10 +1,10 @@
 # lipanski/docker-static-website - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 03
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 503
+★ Stars: 506
 
 [Open repository](https://github.com/lipanski/docker-static-website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 506 | 38 | 
 | 2023-03-29 | 503 | 37 | 
 | 2023-03-27 | 503 | 37 | 
 | 2023-03-26 | 503 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-06 | 498 | 33 | 
 | 2023-03-05 | 498 | 33 | 
 | 2023-03-04 | 498 | 33 | 
-| 2023-03-03 | 498 | 33 | 
 

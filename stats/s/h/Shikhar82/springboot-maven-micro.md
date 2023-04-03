@@ -1,8 +1,8 @@
 # Shikhar82/springboot-maven-micro - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 72 | 
 | 2023-03-30 | - | 71 | 
 | 2023-03-28 | - | 70 | 
 | 2023-03-27 | - | 70 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | - | 68 | 
 | 2023-03-06 | - | 68 | 
 | 2023-03-04 | - | 67 | 
-| 2023-03-03 | - | 66 | 
 

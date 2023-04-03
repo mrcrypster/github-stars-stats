@@ -1,10 +1,10 @@
 # malakhov-dmitrii/noizer-one_v2 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 51
 
-★ Stars: 85
+★ Stars: 120
 
 [Open repository](https://github.com/malakhov-dmitrii/noizer-one_v2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 120 | 51 | 
 | 2023-03-30 | 85 | 51 | 
 | 2023-03-29 | 84 | 51 | 
 | 2023-03-28 | 74 | 51 | 

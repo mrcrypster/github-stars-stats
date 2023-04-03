@@ -1,6 +1,6 @@
 # kiirsti/ggplot_adventcalendaR - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 50 | 15 | 
 | 2023-03-31 | 50 | 15 | 
 | 2023-03-29 | 50 | 15 | 
 | 2023-03-27 | 50 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 46 | 15 | 
 | 2023-03-06 | 46 | 15 | 
 | 2023-03-04 | 46 | 17 | 
-| 2023-03-03 | 46 | 17 | 
 

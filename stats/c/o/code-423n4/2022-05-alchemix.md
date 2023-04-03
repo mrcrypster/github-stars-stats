@@ -1,6 +1,6 @@
 # code-423n4/2022-05-alchemix - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 9 | 1 | 
 | 2023-03-31 | 9 | 1 | 
 | 2023-03-29 | 9 | 1 | 
 | 2023-03-27 | 9 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 9 | 1 | 
 | 2023-03-06 | 9 | 1 | 
 | 2023-03-04 | 9 | 1 | 
-| 2023-03-03 | 9 | 1 | 
 

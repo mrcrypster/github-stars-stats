@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-4-deploying-demo-app - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | - | 218 | 
 | 2023-03-29 | - | 218 | 
 | 2023-03-28 | - | 217 | 
 | 2023-03-26 | - | 214 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | - | 210 | 
 | 2023-03-06 | - | 211 | 
 | 2023-03-05 | - | 210 | 
-| 2023-03-03 | - | 210 | 
 

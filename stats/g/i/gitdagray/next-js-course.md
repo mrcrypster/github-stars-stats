@@ -1,10 +1,10 @@
 # gitdagray/next-js-course - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 39
+★ Stars: 42
 
 [Open repository](https://github.com/gitdagray/next-js-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 42 | 15 | 
 | 2023-03-30 | 39 | 13 | 
 | 2023-03-28 | 37 | 13 | 
 | 2023-03-27 | 37 | 12 | 

@@ -1,10 +1,10 @@
 # lowbyteproductions/bare-metal-series - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/lowbyteproductions/bare-metal-series)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 14 | 2 | 
 | 2023-03-31 | 13 | 1 | 
 | 2023-03-29 | 13 | 1 | 
 | 2023-03-27 | 13 | 1 | 

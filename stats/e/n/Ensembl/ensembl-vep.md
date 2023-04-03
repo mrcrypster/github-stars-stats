@@ -1,6 +1,6 @@
 # Ensembl/ensembl-vep - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 366 | 135 | 
 | 2023-04-01 | 366 | 135 | 
 | 2023-03-31 | 365 | 135 | 
 | 2023-03-30 | 365 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 364 | 134 | 
 | 2023-03-05 | 364 | 134 | 
 | 2023-03-04 | 363 | 134 | 
-| 2023-03-03 | 363 | 134 | 
 

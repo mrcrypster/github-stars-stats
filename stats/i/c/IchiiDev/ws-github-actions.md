@@ -1,8 +1,8 @@
 # IchiiDev/ws-github-actions - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
-☋ Forks: 25
+☋ Forks: 23
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | - | 23 | 
 | 2023-03-29 | - | 25 | 
 | 2023-03-27 | - | 25 | 
 | 2023-03-26 | - | 25 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | - | 25 | 
 | 2023-03-06 | - | 25 | 
 | 2023-03-05 | - | 25 | 
-| 2023-03-03 | - | 25 | 
 

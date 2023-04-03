@@ -1,10 +1,10 @@
 # invictus-ir/Microsoft-365-Extractor-Suite - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 17
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/invictus-ir/Microsoft-365-Extractor-Suite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 100 | 17 | 
 | 2023-03-30 | 99 | 17 | 
 | 2023-03-28 | 100 | 17 | 
 | 2023-03-27 | 100 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 98 | 18 | 
 | 2023-03-05 | 98 | 18 | 
 | 2023-03-04 | 98 | 18 | 
-| 2023-03-03 | 98 | 18 | 
 

@@ -1,10 +1,10 @@
 # octeep/wireproxy - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 1992
+★ Stars: 1999
 
 [Open repository](https://github.com/octeep/wireproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1999 | 108 | 
 | 2023-03-31 | 1992 | 107 | 
 | 2023-03-29 | 1984 | 106 | 
 | 2023-03-28 | 1980 | 107 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 1946 | 105 | 
 | 2023-03-05 | 1946 | 105 | 
 | 2023-03-04 | 1943 | 105 | 
-| 2023-03-03 | 1940 | 104 | 
 

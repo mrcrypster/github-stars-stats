@@ -1,10 +1,10 @@
 # PiotrNawrot/nanoT5 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 11
+☋ Forks: 13
 
-★ Stars: 392
+★ Stars: 403
 
 [Open repository](https://github.com/PiotrNawrot/nanoT5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 403 | 13 | 
 | 2023-03-31 | 392 | 11 | 
 | 2023-03-29 | 381 | 11 | 
 | 2023-03-27 | 371 | 11 | 

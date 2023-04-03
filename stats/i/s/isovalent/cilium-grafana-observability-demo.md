@@ -1,6 +1,6 @@
 # isovalent/cilium-grafana-observability-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 77 | 16 | 
 | 2023-04-01 | 77 | 16 | 
 | 2023-03-30 | 77 | 16 | 
 | 2023-03-28 | 77 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 75 | 16 | 
 | 2023-03-05 | 75 | 16 | 
 | 2023-03-04 | 75 | 16 | 
-| 2023-03-03 | 75 | 16 | 
 

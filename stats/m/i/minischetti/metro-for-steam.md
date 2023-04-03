@@ -1,10 +1,10 @@
 # minischetti/metro-for-steam - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 22
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/minischetti/metro-for-steam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 185 | 22 | 
 | 2023-03-31 | 184 | 22 | 
 | 2023-03-29 | 184 | 22 | 
 | 2023-03-27 | 184 | 22 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 182 | 21 | 
 | 2023-03-06 | 182 | 21 | 
 | 2023-03-05 | 182 | 20 | 
-| 2023-03-03 | 182 | 20 | 
 

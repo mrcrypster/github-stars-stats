@@ -1,10 +1,10 @@
 # halo-dev/halo - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 8451
 
-★ Stars: 26571
+★ Stars: 26580
 
 [Open repository](https://github.com/halo-dev/halo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 26580 | 8451 | 
 | 2023-04-01 | 26571 | 8451 | 
 | 2023-03-31 | 26567 | 8448 | 
 | 2023-03-29 | 26509 | 8429 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 26205 | 8363 | 
 | 2023-03-06 | 26189 | 8359 | 
 | 2023-03-05 | 26179 | 8358 | 
-| 2023-03-04 | 26156 | 8352 | 
 

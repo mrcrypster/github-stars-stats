@@ -1,6 +1,6 @@
 # pharmaverse/admiralophtha - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 9 | 3 | 
 | 2023-03-29 | 9 | 3 | 
 | 2023-03-27 | 9 | 3 | 
 | 2023-03-26 | 9 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 9 | 2 | 
 | 2023-03-06 | 9 | 2 | 
 | 2023-03-05 | 9 | 2 | 
-| 2023-03-04 | 9 | 2 | 
 

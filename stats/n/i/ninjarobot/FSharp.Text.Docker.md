@@ -1,6 +1,6 @@
 # ninjarobot/FSharp.Text.Docker - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 55 | 4 | 
 | 2023-04-01 | 55 | 4 | 
 | 2023-03-30 | 54 | 4 | 
 | 2023-03-28 | 54 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 54 | 4 | 
 | 2023-03-05 | 54 | 4 | 
 | 2023-03-04 | 54 | 4 | 
-| 2023-03-03 | 54 | 4 | 
 

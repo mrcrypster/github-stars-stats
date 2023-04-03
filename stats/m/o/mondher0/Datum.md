@@ -1,10 +1,10 @@
 # mondher0/Datum - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/mondher0/Datum)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 13 | - | 
 | 2023-04-01 | 12 | - | 
 | 2023-03-31 | 12 | - | 
 | 2023-03-29 | 12 | - | 

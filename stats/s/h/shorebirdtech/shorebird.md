@@ -1,10 +1,10 @@
 # shorebirdtech/shorebird - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 328
+★ Stars: 351
 
 [Open repository](https://github.com/shorebirdtech/shorebird)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 351 | 18 | 
 | 2023-03-30 | 328 | 16 | 
 | 2023-03-28 | 316 | 16 | 
 | 2023-03-27 | 310 | 15 | 

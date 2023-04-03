@@ -1,6 +1,6 @@
 # aschmelyun/docker-compose-wordpress - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 195 | 119 | 
 | 2023-04-01 | 195 | 119 | 
 | 2023-03-30 | 195 | 119 | 
 | 2023-03-28 | 195 | 118 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 193 | 117 | 
 | 2023-03-06 | 193 | 117 | 
 | 2023-03-05 | 193 | 117 | 
-| 2023-03-03 | 193 | 117 | 
 

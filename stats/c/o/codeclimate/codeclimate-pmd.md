@@ -1,6 +1,6 @@
 # codeclimate/codeclimate-pmd - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 12 | 7 | 
 | 2023-04-01 | 12 | 7 | 
 | 2023-03-30 | 12 | 7 | 
 | 2023-03-28 | 12 | 7 | 

@@ -1,10 +1,10 @@
 # whyoleg/cryptography-kotlin - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/whyoleg/cryptography-kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 105 | 4 | 
 | 2023-03-31 | 104 | 4 | 
 | 2023-03-29 | 104 | 4 | 
 | 2023-03-27 | 103 | 4 | 

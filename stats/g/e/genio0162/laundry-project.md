@@ -1,10 +1,10 @@
 # genio0162/laundry-project - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/genio0162/laundry-project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 14 | 1 | 
 | 2023-03-30 | 13 | 1 | 
 | 2023-03-28 | 13 | 1 | 
 | 2023-03-27 | 13 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 13 | 1 | 
 | 2023-03-06 | 13 | 1 | 
 | 2023-03-05 | 13 | 1 | 
-| 2023-03-03 | 13 | 1 | 
 

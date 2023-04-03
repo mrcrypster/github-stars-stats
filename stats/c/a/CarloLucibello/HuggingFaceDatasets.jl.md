@@ -1,6 +1,6 @@
 # CarloLucibello/HuggingFaceDatasets.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16 | - | 
 | 2023-03-31 | 16 | - | 
 | 2023-03-29 | 16 | - | 
 | 2023-03-27 | 15 | - | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 15 | - | 
 | 2023-03-06 | 15 | - | 
 | 2023-03-04 | 15 | - | 
-| 2023-03-03 | 15 | - | 
 

@@ -1,10 +1,10 @@
 # RoganDawes/P4wnP1_aloa - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 426
+☋ Forks: 430
 
-★ Stars: 2852
+★ Stars: 2862
 
 [Open repository](https://github.com/RoganDawes/P4wnP1_aloa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2862 | 430 | 
 | 2023-03-30 | 2852 | 426 | 
 | 2023-03-28 | 2842 | 424 | 
 | 2023-03-27 | 2832 | 423 | 

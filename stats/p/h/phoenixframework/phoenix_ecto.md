@@ -1,10 +1,10 @@
 # phoenixframework/phoenix_ecto - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 108
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/phoenixframework/phoenix_ecto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 393 | 108 | 
 | 2023-03-31 | 392 | 108 | 
 | 2023-03-29 | 392 | 108 | 
 | 2023-03-28 | 391 | 108 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 390 | 108 | 
 | 2023-03-05 | 389 | 108 | 
 | 2023-03-04 | 389 | 108 | 
-| 2023-03-03 | 389 | 108 | 
 

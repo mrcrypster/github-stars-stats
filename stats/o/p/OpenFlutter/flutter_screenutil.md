@@ -1,10 +1,10 @@
 # OpenFlutter/flutter_screenutil - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 431
 
-★ Stars: 3437
+★ Stars: 3439
 
 [Open repository](https://github.com/OpenFlutter/flutter_screenutil)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 3439 | 431 | 
 | 2023-03-30 | 3437 | 431 | 
 | 2023-03-29 | 3435 | 431 | 
 | 2023-03-28 | 3433 | 431 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 3410 | 430 | 
 | 2023-03-05 | 3410 | 430 | 
 | 2023-03-04 | 3409 | 430 | 
-| 2023-03-03 | 3409 | 429 | 
 

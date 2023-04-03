@@ -1,10 +1,10 @@
 # xkcoding/spring-boot-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 10045
+☋ Forks: 10050
 
-★ Stars: 29096
+★ Stars: 29111
 
 [Open repository](https://github.com/xkcoding/spring-boot-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 29111 | 10050 | 
 | 2023-03-30 | 29096 | 10045 | 
 | 2023-03-28 | 29072 | 10039 | 
 | 2023-03-27 | 29057 | 10037 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 28879 | 9999 | 
 | 2023-03-06 | 28859 | 9993 | 
 | 2023-03-04 | 28842 | 9989 | 
-| 2023-03-03 | 28821 | 9985 | 
 

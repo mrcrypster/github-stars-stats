@@ -1,6 +1,6 @@
 # xcfcode/Summarization-Papers - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 879 | 139 | 
 | 2023-03-30 | 879 | 139 | 
 | 2023-03-28 | 879 | 139 | 
 | 2023-03-26 | 878 | 139 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 871 | 139 | 
 | 2023-03-06 | 870 | 139 | 
 | 2023-03-05 | 870 | 139 | 
-| 2023-03-04 | 869 | 139 | 
 

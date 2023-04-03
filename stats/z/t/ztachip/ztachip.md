@@ -1,10 +1,10 @@
 # ztachip/ztachip - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 19
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/ztachip/ztachip)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 133 | 19 | 
 | 2023-04-01 | 132 | 19 | 
 | 2023-03-31 | 129 | 19 | 
 | 2023-03-29 | 129 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 127 | 19 | 
 | 2023-03-05 | 125 | 19 | 
 | 2023-03-04 | 125 | 19 | 
-| 2023-03-03 | 123 | 19 | 
 

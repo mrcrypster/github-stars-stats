@@ -1,10 +1,10 @@
 # oliyh/martian - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 33
 
-★ Stars: 425
+★ Stars: 428
 
 [Open repository](https://github.com/oliyh/martian)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 428 | 33 | 
 | 2023-03-31 | 425 | 33 | 
 | 2023-03-29 | 424 | 33 | 
 | 2023-03-28 | 423 | 33 | 

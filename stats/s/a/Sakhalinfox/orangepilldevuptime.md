@@ -1,10 +1,10 @@
 # Sakhalinfox/orangepilldevuptime - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Sakhalinfox/orangepilldevuptime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 5 | 3 | 
 | 2023-03-30 | 6 | 3 | 
 | 2023-03-28 | 6 | 3 | 
 | 2023-03-26 | 6 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 6 | 3 | 
 | 2023-03-05 | 6 | 3 | 
 | 2023-03-04 | 6 | 3 | 
-| 2023-03-03 | 6 | 3 | 
 

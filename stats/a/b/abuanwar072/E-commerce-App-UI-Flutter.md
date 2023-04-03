@@ -1,10 +1,10 @@
 # abuanwar072/E-commerce-App-UI-Flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 933
+☋ Forks: 935
 
-★ Stars: 1736
+★ Stars: 1739
 
 [Open repository](https://github.com/abuanwar072/E-commerce-App-UI-Flutter)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1739 | 935 | 
+| 2023-04-02 | 1738 | 934 | 
 | 2023-03-30 | 1736 | 933 | 
 | 2023-03-28 | 1736 | 933 | 
 | 2023-03-27 | 1736 | 933 | 

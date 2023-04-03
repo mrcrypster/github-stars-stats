@@ -1,10 +1,10 @@
 # yetone/bob-plugin-openai-polisher - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 27
 
-★ Stars: 513
+★ Stars: 517
 
 [Open repository](https://github.com/yetone/bob-plugin-openai-polisher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 517 | 27 | 
 | 2023-03-31 | 513 | 27 | 
 | 2023-03-29 | 506 | 26 | 
 | 2023-03-27 | 500 | 26 | 

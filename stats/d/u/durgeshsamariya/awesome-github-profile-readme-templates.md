@@ -1,10 +1,10 @@
 # durgeshsamariya/awesome-github-profile-readme-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 6130
+☋ Forks: 6140
 
-★ Stars: 2738
+★ Stars: 2752
 
 [Open repository](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2752 | 6140 | 
 | 2023-03-30 | 2738 | 6130 | 
 | 2023-03-28 | 2731 | 6118 | 
 | 2023-03-27 | 2727 | 6109 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 2650 | 5956 | 
 | 2023-03-06 | 2645 | 5954 | 
 | 2023-03-04 | 2640 | 5942 | 
-| 2023-03-03 | 2639 | 5926 | 
 

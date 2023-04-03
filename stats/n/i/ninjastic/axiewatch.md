@@ -1,6 +1,6 @@
 # ninjastic/axiewatch - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 29 | 58 | 
 | 2023-04-01 | 29 | 58 | 
 | 2023-03-30 | 29 | 58 | 
 | 2023-03-28 | 29 | 58 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 29 | 58 | 
 | 2023-03-06 | 29 | 58 | 
 | 2023-03-04 | 29 | 58 | 
-| 2023-03-03 | 29 | 58 | 
 

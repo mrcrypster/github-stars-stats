@@ -1,6 +1,6 @@
 # willemdj/erlsom - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 261 | 102 | 
 | 2023-03-30 | 261 | 102 | 
 | 2023-03-28 | 261 | 102 | 
 | 2023-03-27 | 261 | 102 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 261 | 101 | 
 | 2023-03-05 | 261 | 101 | 
 | 2023-03-04 | 261 | 101 | 
-| 2023-03-03 | 261 | 101 | 
 

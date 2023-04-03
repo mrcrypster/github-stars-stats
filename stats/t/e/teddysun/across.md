@@ -1,10 +1,10 @@
 # teddysun/across - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2201
+☋ Forks: 2204
 
-★ Stars: 4428
+★ Stars: 4433
 
 [Open repository](https://github.com/teddysun/across)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4433 | 2204 | 
 | 2023-03-30 | 4428 | 2201 | 
 | 2023-03-28 | 4425 | 2200 | 
 | 2023-03-27 | 4420 | 2202 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 4390 | 2197 | 
 | 2023-03-06 | 4388 | 2197 | 
 | 2023-03-05 | 4384 | 2195 | 
-| 2023-03-04 | 4384 | 2195 | 
 

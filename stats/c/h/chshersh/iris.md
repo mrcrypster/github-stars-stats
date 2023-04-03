@@ -1,8 +1,8 @@
 # chshersh/iris - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 141
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 141 | 19 | 
 | 2023-03-30 | 141 | 18 | 
 | 2023-03-28 | 142 | 18 | 
 | 2023-03-27 | 141 | 18 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 129 | 17 | 
 | 2023-03-05 | 126 | 17 | 
 | 2023-03-04 | 123 | 17 | 
-| 2023-03-03 | 121 | 17 | 
 

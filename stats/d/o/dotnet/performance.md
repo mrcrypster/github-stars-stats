@@ -1,10 +1,10 @@
 # dotnet/performance - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 227
 
-★ Stars: 605
+★ Stars: 607
 
 [Open repository](https://github.com/dotnet/performance)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 607 | 227 | 
+| 2023-04-02 | 607 | 227 | 
 | 2023-04-01 | 605 | 227 | 
 | 2023-03-31 | 605 | 226 | 
 | 2023-03-30 | 605 | 225 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 599 | 223 | 
 | 2023-03-05 | 599 | 223 | 
 | 2023-03-04 | 600 | 222 | 
-| 2023-03-03 | 600 | 222 | 
 

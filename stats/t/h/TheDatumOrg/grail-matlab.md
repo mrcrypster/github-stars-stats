@@ -1,10 +1,10 @@
 # TheDatumOrg/grail-matlab - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 43
+☋ Forks: 42
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/TheDatumOrg/grail-matlab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 41 | 42 | 
 | 2023-03-30 | 42 | 43 | 
 | 2023-03-28 | 42 | 43 | 
 | 2023-03-27 | 42 | 43 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 43 | 43 | 
 | 2023-03-06 | 43 | 43 | 
 | 2023-03-04 | 43 | 43 | 
-| 2023-03-03 | 43 | 43 | 
 

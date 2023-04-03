@@ -1,6 +1,6 @@
 # ModelOriented/forester - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 93 | 15 | 
 | 2023-04-01 | 93 | 15 | 
 | 2023-03-31 | 93 | 15 | 
 | 2023-03-29 | 92 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 86 | 14 | 
 | 2023-03-05 | 85 | 14 | 
 | 2023-03-04 | 86 | 14 | 
-| 2023-03-03 | 85 | 14 | 
 

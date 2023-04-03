@@ -1,8 +1,8 @@
 # kubernetes-sigs/aws-efs-csi-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 443
+☋ Forks: 444
 
 ★ Stars: 572
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 572 | 444 | 
 | 2023-03-31 | 572 | 443 | 
 | 2023-03-29 | 572 | 445 | 
 | 2023-03-28 | 572 | 444 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 568 | 438 | 
 | 2023-03-05 | 567 | 438 | 
 | 2023-03-04 | 567 | 438 | 
-| 2023-03-03 | 567 | 438 | 
 

@@ -1,10 +1,10 @@
 # aallam/openai-kotlin - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 52
 
-★ Stars: 471
+★ Stars: 478
 
 [Open repository](https://github.com/aallam/openai-kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 478 | 52 | 
 | 2023-04-01 | 471 | 52 | 
 | 2023-03-31 | 468 | 52 | 
 | 2023-03-29 | 443 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 297 | 32 | 
 | 2023-03-05 | 294 | 32 | 
 | 2023-03-04 | 289 | 31 | 
-| 2023-03-03 | 280 | 30 | 
 

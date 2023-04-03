@@ -1,10 +1,10 @@
 # imapsync/imapsync - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
-☋ Forks: 409
+☋ Forks: 410
 
-★ Stars: 2763
+★ Stars: 2766
 
 [Open repository](https://github.com/imapsync/imapsync)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2766 | 410 | 
 | 2023-03-29 | 2763 | 409 | 
 | 2023-03-28 | 2762 | 409 | 
 | 2023-03-27 | 2762 | 409 | 
@@ -36,5 +37,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-08 | 2743 | 407 | 
 | 2023-03-06 | 2742 | 406 | 
 | 2023-03-05 | 2742 | 405 | 
-| 2023-03-03 | 2741 | 405 | 
 

@@ -1,6 +1,6 @@
 # TheD1rkMtr/D1rkLrd - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 211 | 43 | 
 | 2023-03-30 | 211 | 43 | 
 | 2023-03-28 | 210 | 43 | 
 | 2023-03-27 | 210 | 43 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 197 | 40 | 
 | 2023-03-06 | 196 | 39 | 
 | 2023-03-05 | 194 | 38 | 
-| 2023-03-04 | 193 | 36 | 
 

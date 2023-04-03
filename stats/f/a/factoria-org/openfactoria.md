@@ -1,6 +1,6 @@
 # factoria-org/openfactoria - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 16 | 9 | 
 | 2023-03-29 | 16 | 9 | 
 | 2023-03-28 | 16 | 9 | 
 | 2023-03-26 | 16 | 9 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-08 | 15 | 9 | 
 | 2023-03-06 | 15 | 9 | 
 | 2023-03-05 | 15 | 9 | 
-| 2023-03-03 | 15 | 9 | 
 

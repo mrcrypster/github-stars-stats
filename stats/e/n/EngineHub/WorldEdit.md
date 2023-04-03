@@ -1,10 +1,10 @@
 # EngineHub/WorldEdit - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 777
 
-★ Stars: 2725
+★ Stars: 2728
 
 [Open repository](https://github.com/EngineHub/WorldEdit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2728 | 777 | 
 | 2023-03-30 | 2725 | 777 | 
 | 2023-03-28 | 2725 | 776 | 
 | 2023-03-27 | 2724 | 775 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 2707 | 774 | 
 | 2023-03-06 | 2709 | 773 | 
 | 2023-03-05 | 2707 | 773 | 
-| 2023-03-03 | 2705 | 772 | 
 

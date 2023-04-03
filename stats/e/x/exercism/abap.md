@@ -1,6 +1,6 @@
 # exercism/abap - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 55 | 32 | 
 | 2023-04-01 | 55 | 32 | 
 | 2023-03-30 | 55 | 32 | 
 | 2023-03-28 | 55 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 55 | 33 | 
 | 2023-03-05 | 55 | 33 | 
 | 2023-03-04 | 55 | 33 | 
-| 2023-03-03 | 55 | 33 | 
 

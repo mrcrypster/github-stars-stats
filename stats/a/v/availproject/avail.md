@@ -1,10 +1,10 @@
 # availproject/avail - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 19
 
-★ Stars: 58
+★ Stars: 60
 
 [Open repository](https://github.com/availproject/avail)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 60 | 19 | 
 | 2023-03-31 | 58 | 19 | 
 | 2023-03-29 | 58 | 19 | 
 | 2023-03-27 | 58 | 18 | 

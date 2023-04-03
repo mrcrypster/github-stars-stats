@@ -1,10 +1,10 @@
 # node-cache/node-cache - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 133
 
-★ Stars: 1963
+★ Stars: 1967
 
 [Open repository](https://github.com/node-cache/node-cache)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1967 | 133 | 
 | 2023-03-30 | 1963 | 133 | 
 | 2023-03-28 | 1962 | 133 | 
 | 2023-03-27 | 1962 | 133 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1954 | 132 | 
 | 2023-03-06 | 1954 | 132 | 
 | 2023-03-04 | 1954 | 132 | 
-| 2023-03-03 | 1955 | 132 | 
 

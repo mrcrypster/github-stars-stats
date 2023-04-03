@@ -1,6 +1,6 @@
 # lk-geimfari/secrets.clj - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 83 | 1 | 
 | 2023-03-30 | 83 | 1 | 
 | 2023-03-28 | 83 | 1 | 
 | 2023-03-27 | 83 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 82 | 1 | 
 | 2023-03-06 | 82 | 1 | 
 | 2023-03-04 | 82 | 1 | 
-| 2023-03-03 | 82 | 1 | 
 

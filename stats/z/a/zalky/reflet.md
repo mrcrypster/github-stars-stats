@@ -1,10 +1,10 @@
 # zalky/reflet - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 53
+★ Stars: 52
 
 [Open repository](https://github.com/zalky/reflet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 52 | 1 | 
 | 2023-03-30 | 53 | 1 | 
 | 2023-03-28 | 53 | 1 | 
 | 2023-03-27 | 53 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 51 | 1 | 
 | 2023-03-05 | 51 | 1 | 
 | 2023-03-04 | 51 | 1 | 
-| 2023-03-03 | 51 | 1 | 
 

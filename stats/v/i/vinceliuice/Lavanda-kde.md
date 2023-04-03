@@ -1,10 +1,10 @@
 # vinceliuice/Lavanda-kde - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 24
 
 [Open repository](https://github.com/vinceliuice/Lavanda-kde)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 24 | - | 
 | 2023-03-30 | 20 | - | 
 | 2023-03-29 | 20 | - | 
 

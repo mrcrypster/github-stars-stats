@@ -1,10 +1,10 @@
 # FrankFang/oh-my-env-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/FrankFang/oh-my-env-1)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 38 | 27 | 
+| 2023-04-02 | 38 | 27 | 
 | 2023-04-01 | 37 | 26 | 
 | 2023-03-31 | 37 | 26 | 
 | 2023-03-29 | 38 | 26 | 
@@ -34,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 37 | 23 | 
 | 2023-03-05 | 37 | 23 | 
 | 2023-03-04 | 37 | 22 | 
-| 2023-03-03 | 36 | 22 | 
 

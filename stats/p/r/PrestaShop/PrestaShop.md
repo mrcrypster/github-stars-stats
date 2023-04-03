@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 02
 
 ☋ Forks: 4579
 
-★ Stars: 7097
+★ Stars: 7099
 
 [Open repository](https://github.com/PrestaShop/PrestaShop)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-02 | 7097 | 4579 | 
+| 2023-04-02 | 7099 | 4579 | 
 | 2023-03-30 | 7095 | 4579 | 
 | 2023-03-28 | 7092 | 4580 | 
 | 2023-03-27 | 7089 | 4581 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 7047 | 4567 | 
 | 2023-03-06 | 7043 | 4566 | 
 | 2023-03-05 | 7038 | 4564 | 
-| 2023-03-03 | 7038 | 4563 | 
 

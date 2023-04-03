@@ -1,0 +1,17 @@
+# forrestlaine/VehicleSim - stars & forks statistics
+
+Stats updated on Apr 2023, 02
+
+☋ Forks: 4
+
+★ Stars: 2
+
+[Open repository](https://github.com/forrestlaine/VehicleSim)
+
+[Open detailed stats for forrestlaine/VehicleSim](https://reviewgithub.com/rep/forrestlaine/VehicleSim)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-02 | 2 | 4 | 
+

@@ -1,6 +1,6 @@
 # SAA-SDT/eac-cpf-schema - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 9 | 4 | 
 | 2023-03-31 | 9 | 4 | 
 | 2023-03-29 | 9 | 4 | 
 | 2023-03-27 | 9 | 4 | 

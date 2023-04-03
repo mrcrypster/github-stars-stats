@@ -1,8 +1,8 @@
 # Bodigrim/linear-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 73 | 2 | 
 | 2023-03-31 | 73 | 1 | 
 | 2023-03-30 | 72 | 1 | 
 | 2023-03-29 | 71 | 1 | 

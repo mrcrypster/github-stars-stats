@@ -1,10 +1,10 @@
 # just-containers/s6-overlay - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 196
 
-★ Stars: 2972
+★ Stars: 2980
 
 [Open repository](https://github.com/just-containers/s6-overlay)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2980 | 196 | 
 | 2023-03-30 | 2972 | 196 | 
 | 2023-03-28 | 2970 | 195 | 
 | 2023-03-27 | 2969 | 195 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 2938 | 193 | 
 | 2023-03-05 | 2934 | 193 | 
 | 2023-03-04 | 2930 | 193 | 
-| 2023-03-03 | 2929 | 193 | 
 

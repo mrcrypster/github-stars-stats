@@ -1,10 +1,10 @@
 # SolDoesTech/hyprland - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 9
+☋ Forks: 18
 
-★ Stars: 39
+★ Stars: 61
 
 [Open repository](https://github.com/SolDoesTech/hyprland)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 61 | 18 | 
 | 2023-03-31 | 39 | 9 | 
 | 2023-03-29 | 29 | 7 | 
 | 2023-03-28 | 29 | 6 | 

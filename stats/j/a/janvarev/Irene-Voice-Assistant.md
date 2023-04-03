@@ -1,10 +1,10 @@
 # janvarev/Irene-Voice-Assistant - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 84
+☋ Forks: 87
 
-★ Stars: 465
+★ Stars: 480
 
 [Open repository](https://github.com/janvarev/Irene-Voice-Assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 480 | 87 | 
 | 2023-03-31 | 465 | 84 | 
 | 2023-03-29 | 453 | 81 | 
 | 2023-03-28 | 432 | 81 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 391 | 73 | 
 | 2023-03-06 | 389 | 74 | 
 | 2023-03-04 | 388 | 74 | 
-| 2023-03-03 | 388 | 74 | 
 

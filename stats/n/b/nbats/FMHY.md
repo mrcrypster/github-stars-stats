@@ -1,10 +1,10 @@
 # nbats/FMHY - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 128
 
-★ Stars: 1198
+★ Stars: 1211
 
 [Open repository](https://github.com/nbats/FMHY)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1211 | 128 | 
 | 2023-03-30 | 1198 | 128 | 
 | 2023-03-28 | 1193 | 128 | 
 | 2023-03-27 | 1183 | 127 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 1109 | 123 | 
 | 2023-03-05 | 1099 | 123 | 
 | 2023-03-04 | 1097 | 123 | 
-| 2023-03-03 | 1082 | 122 | 
 

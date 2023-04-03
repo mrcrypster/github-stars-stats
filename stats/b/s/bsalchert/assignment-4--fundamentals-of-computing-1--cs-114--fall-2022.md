@@ -1,6 +1,6 @@
 # bsalchert/assignment-4--fundamentals-of-computing-1--cs-114--fall-2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | - | 13 | 
 | 2023-04-01 | - | 13 | 
 | 2023-03-30 | - | 13 | 
 | 2023-03-28 | - | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | - | 13 | 
 | 2023-03-06 | - | 13 | 
 | 2023-03-05 | - | 13 | 
-| 2023-03-04 | - | 13 | 
 

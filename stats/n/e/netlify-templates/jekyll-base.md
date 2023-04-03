@@ -1,10 +1,10 @@
 # netlify-templates/jekyll-base - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/netlify-templates/jekyll-base)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4 | 5 | 
 | 2023-03-29 | 3 | 5 | 
 | 2023-03-27 | 3 | 5 | 
 | 2023-03-26 | 3 | 5 | 

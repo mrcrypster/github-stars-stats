@@ -1,10 +1,10 @@
 # LinkedInLearning/javascript-essential-training-2832077 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 2434
+☋ Forks: 2438
 
-★ Stars: 1296
+★ Stars: 1298
 
 [Open repository](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1298 | 2438 | 
 | 2023-03-31 | 1296 | 2434 | 
 | 2023-03-29 | 1293 | 2426 | 
 | 2023-03-27 | 1289 | 2424 | 

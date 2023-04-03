@@ -1,6 +1,6 @@
 # Advanced-Programming-1401/Fourth-Assignment-Netflix - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2 | 39 | 
 | 2023-03-31 | 2 | 39 | 
 | 2023-03-29 | 2 | 39 | 
 | 2023-03-27 | 2 | 39 | 

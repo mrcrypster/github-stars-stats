@@ -1,6 +1,6 @@
 # tayloj/cl-rdfxml - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 12 | - | 
 | 2023-03-30 | 12 | - | 
 | 2023-03-28 | 12 | - | 
 | 2023-03-27 | 12 | - | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 12 | - | 
 | 2023-03-05 | 12 | - | 
 | 2023-03-04 | 12 | - | 
-| 2023-03-03 | 12 | - | 
 

@@ -1,10 +1,10 @@
 # zimfw/zimfw - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 172
 
-★ Stars: 3040
+★ Stars: 3041
 
 [Open repository](https://github.com/zimfw/zimfw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 3041 | 172 | 
 | 2023-03-31 | 3040 | 172 | 
 | 2023-03-29 | 3039 | 172 | 
 | 2023-03-28 | 3038 | 172 | 

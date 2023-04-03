@@ -1,6 +1,6 @@
 # googleapis/google-cloud-php - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 422
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 969 | 422 | 
 | 2023-04-01 | 969 | 422 | 
 | 2023-03-31 | 969 | 422 | 
 | 2023-03-29 | 968 | 422 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 964 | 420 | 
 | 2023-03-05 | 964 | 420 | 
 | 2023-03-04 | 965 | 420 | 
-| 2023-03-03 | 965 | 420 | 
 

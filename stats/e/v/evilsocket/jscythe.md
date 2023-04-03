@@ -1,6 +1,6 @@
 # evilsocket/jscythe - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 306 | 24 | 
 | 2023-04-01 | 306 | 24 | 
 | 2023-03-29 | 306 | 24 | 
 | 2023-03-28 | 306 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 306 | 24 | 
 | 2023-03-05 | 306 | 24 | 
 | 2023-03-04 | 306 | 24 | 
-| 2023-03-03 | 306 | 24 | 
 

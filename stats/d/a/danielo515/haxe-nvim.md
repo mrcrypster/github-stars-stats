@@ -1,10 +1,10 @@
 # danielo515/haxe-nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/danielo515/haxe-nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 24 | 1 | 
 | 2023-03-29 | 23 | 1 | 
 | 2023-03-27 | 23 | 1 | 
 | 2023-03-26 | 23 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 23 | - | 
 | 2023-03-05 | 23 | - | 
 | 2023-03-04 | 23 | - | 
-| 2023-03-03 | 23 | - | 
 

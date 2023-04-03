@@ -1,10 +1,10 @@
 # dart-lang/samples - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 226
 
-★ Stars: 488
+★ Stars: 490
 
 [Open repository](https://github.com/dart-lang/samples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 490 | 226 | 
 | 2023-03-29 | 488 | 226 | 
 | 2023-03-27 | 488 | 227 | 
 | 2023-03-26 | 488 | 227 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 482 | 224 | 
 | 2023-03-05 | 482 | 223 | 
 | 2023-03-04 | 481 | 223 | 
-| 2023-03-03 | 480 | 223 | 
 

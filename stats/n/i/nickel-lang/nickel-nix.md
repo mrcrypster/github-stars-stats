@@ -1,6 +1,6 @@
 # nickel-lang/nickel-nix - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 100 | 9 | 
 | 2023-03-29 | 100 | 9 | 
 | 2023-03-28 | 97 | 9 | 
 | 2023-03-26 | 97 | 9 | 

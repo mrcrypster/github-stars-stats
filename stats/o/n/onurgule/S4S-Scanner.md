@@ -1,6 +1,6 @@
 # onurgule/S4S-Scanner - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 67 | 31 | 
 | 2023-03-31 | 67 | 31 | 
 | 2023-03-29 | 67 | 31 | 
 | 2023-03-27 | 67 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 67 | 31 | 
 | 2023-03-06 | 67 | 31 | 
 | 2023-03-05 | 67 | 31 | 
-| 2023-03-03 | 67 | 31 | 
 

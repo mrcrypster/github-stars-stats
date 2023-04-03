@@ -1,6 +1,6 @@
 # aquasecurity/trivy-action - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 439 | 124 | 
 | 2023-03-30 | 439 | 124 | 
 | 2023-03-28 | 437 | 124 | 
 | 2023-03-27 | 436 | 123 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 429 | 119 | 
 | 2023-03-05 | 428 | 118 | 
 | 2023-03-04 | 428 | 118 | 
-| 2023-03-03 | 427 | 118 | 
 

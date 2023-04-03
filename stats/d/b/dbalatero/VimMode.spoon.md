@@ -1,10 +1,10 @@
 # dbalatero/VimMode.spoon - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 26
 
-★ Stars: 570
+★ Stars: 571
 
 [Open repository](https://github.com/dbalatero/VimMode.spoon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 571 | 26 | 
 | 2023-03-30 | 570 | 26 | 
 | 2023-03-28 | 569 | 25 | 
 | 2023-03-27 | 567 | 25 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 556 | 24 | 
 | 2023-03-06 | 556 | 24 | 
 | 2023-03-05 | 555 | 24 | 
-| 2023-03-03 | 555 | 24 | 
 

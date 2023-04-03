@@ -1,10 +1,10 @@
 # lamdu/lamdu - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 68
 
-★ Stars: 1819
+★ Stars: 1820
 
 [Open repository](https://github.com/lamdu/lamdu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1820 | 68 | 
 | 2023-03-30 | 1819 | 68 | 
 | 2023-03-28 | 1819 | 68 | 
 | 2023-03-27 | 1819 | 68 | 

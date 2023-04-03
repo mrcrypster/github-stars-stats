@@ -1,10 +1,10 @@
 # LeCoupa/awesome-cheatsheets - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 5435
+☋ Forks: 5442
 
-★ Stars: 32958
+★ Stars: 32982
 
 [Open repository](https://github.com/LeCoupa/awesome-cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 32982 | 5442 | 
 | 2023-03-30 | 32958 | 5435 | 
 | 2023-03-28 | 32935 | 5435 | 
 | 2023-03-27 | 32922 | 5436 | 

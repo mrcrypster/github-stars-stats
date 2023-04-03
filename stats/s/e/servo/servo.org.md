@@ -1,6 +1,6 @@
 # servo/servo.org - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 8 | 
 | 2023-03-30 | 6 | 8 | 
 | 2023-03-28 | 6 | 8 | 
 | 2023-03-27 | 6 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 6 | 8 | 
 | 2023-03-06 | 6 | 8 | 
 | 2023-03-05 | 6 | 8 | 
-| 2023-03-03 | 6 | 8 | 
 

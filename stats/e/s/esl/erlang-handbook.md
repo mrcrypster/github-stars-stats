@@ -1,10 +1,10 @@
 # esl/erlang-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 49
 
-★ Stars: 291
+★ Stars: 292
 
 [Open repository](https://github.com/esl/erlang-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 292 | 49 | 
 | 2023-03-31 | 291 | 49 | 
 | 2023-03-29 | 291 | 49 | 
 | 2023-03-27 | 291 | 49 | 

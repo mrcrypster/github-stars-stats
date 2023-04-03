@@ -1,10 +1,10 @@
 # videojs/video.js - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 7335
+☋ Forks: 7337
 
-★ Stars: 35275
+★ Stars: 35286
 
 [Open repository](https://github.com/videojs/video.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 35286 | 7337 | 
 | 2023-03-31 | 35275 | 7335 | 
 | 2023-03-29 | 35268 | 7331 | 
 | 2023-03-28 | 35257 | 7328 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 35135 | 7323 | 
 | 2023-03-06 | 35125 | 7321 | 
 | 2023-03-05 | 35117 | 7323 | 
-| 2023-03-03 | 35111 | 7322 | 
 

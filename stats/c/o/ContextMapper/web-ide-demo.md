@@ -1,8 +1,8 @@
 # ContextMapper/web-ide-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 3 | 30 | 
 | 2023-03-30 | 3 | 29 | 
 | 2023-03-28 | 3 | 29 | 
 | 2023-03-27 | 3 | 29 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 3 | 28 | 
 | 2023-03-06 | 3 | 28 | 
 | 2023-03-05 | 3 | 28 | 
-| 2023-03-03 | 3 | 28 | 
 

@@ -1,6 +1,6 @@
 # staltz/ttosa - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 72 | 12 | 
 | 2023-03-30 | 72 | 12 | 
 | 2023-03-28 | 72 | 12 | 
 | 2023-03-27 | 72 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 72 | 12 | 
 | 2023-03-06 | 72 | 12 | 
 | 2023-03-05 | 72 | 12 | 
-| 2023-03-03 | 72 | 12 | 
 

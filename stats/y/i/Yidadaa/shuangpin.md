@@ -1,10 +1,10 @@
 # Yidadaa/shuangpin - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 125
+★ Stars: 130
 
 [Open repository](https://github.com/Yidadaa/shuangpin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 130 | 4 | 
 | 2023-04-01 | 125 | 3 | 
 | 2023-03-30 | 119 | 3 | 
 | 2023-03-28 | 107 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 99 | 2 | 
 | 2023-03-06 | 99 | 2 | 
 | 2023-03-04 | 99 | 2 | 
-| 2023-03-03 | 99 | 2 | 
 

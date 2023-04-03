@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 02
 
 ☋ Forks: 13
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects)
 
@@ -13,5 +13,5 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-02 | 47 | 13 | 
+| 2023-04-02 | 48 | 13 | 
 

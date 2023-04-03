@@ -1,10 +1,10 @@
 # sonnylazuardi/colorGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 537
+★ Stars: 557
 
 [Open repository](https://github.com/sonnylazuardi/colorGPT)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 557 | 53 | 
 | 2023-03-31 | 537 | 52 | 
 

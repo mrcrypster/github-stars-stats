@@ -1,8 +1,8 @@
 # harshitethic/chatgpt-bot-telegram - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 123
+☋ Forks: 124
 
 ★ Stars: 119
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 119 | 124 | 
 | 2023-03-31 | 119 | 123 | 
 | 2023-03-29 | 117 | 121 | 
 | 2023-03-27 | 116 | 118 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 90 | 103 | 
 | 2023-03-06 | 87 | 101 | 
 | 2023-03-04 | 84 | 99 | 
-| 2023-03-03 | 81 | 97 | 
 

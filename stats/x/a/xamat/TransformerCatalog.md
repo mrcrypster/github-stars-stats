@@ -1,10 +1,10 @@
 # xamat/TransformerCatalog - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/xamat/TransformerCatalog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 83 | 6 | 
 | 2023-03-31 | 82 | 6 | 
 | 2023-03-29 | 82 | 6 | 
 | 2023-03-27 | 82 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 78 | 6 | 
 | 2023-03-06 | 76 | 6 | 
 | 2023-03-04 | 76 | 6 | 
-| 2023-03-03 | 76 | 5 | 
 

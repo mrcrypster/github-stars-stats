@@ -1,6 +1,6 @@
 # unkn0w/disposable-email-domain-list - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 85 | 4 | 
 | 2023-04-01 | 85 | 4 | 
 | 2023-03-30 | 85 | 4 | 
 | 2023-03-28 | 84 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 82 | 4 | 
 | 2023-03-05 | 82 | 4 | 
 | 2023-03-04 | 82 | 4 | 
-| 2023-03-03 | 82 | 4 | 
 

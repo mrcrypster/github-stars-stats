@@ -1,8 +1,8 @@
 # pharo-contributions/Cryptography - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 10 | 9 | 
 | 2023-03-31 | 10 | 8 | 
 | 2023-03-29 | 10 | 8 | 
 | 2023-03-28 | 10 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 11 | 8 | 
 | 2023-03-06 | 11 | 8 | 
 | 2023-03-04 | 11 | 8 | 
-| 2023-03-03 | 11 | 8 | 
 

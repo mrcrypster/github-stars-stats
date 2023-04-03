@@ -1,6 +1,6 @@
 # JuliaDynamics/DynamicalSystems.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 704 | 87 | 
 | 2023-04-01 | 704 | 87 | 
 | 2023-03-30 | 704 | 87 | 
 | 2023-03-28 | 703 | 87 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 697 | 86 | 
 | 2023-03-05 | 695 | 86 | 
 | 2023-03-04 | 694 | 86 | 
-| 2023-03-03 | 694 | 85 | 
 

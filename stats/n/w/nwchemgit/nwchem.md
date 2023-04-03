@@ -1,10 +1,10 @@
 # nwchemgit/nwchem - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 146
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/nwchemgit/nwchem)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 376 | 146 | 
 | 2023-03-30 | 375 | 146 | 
 | 2023-03-28 | 375 | 146 | 
 | 2023-03-26 | 375 | 146 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 374 | 143 | 
 | 2023-03-05 | 374 | 143 | 
 | 2023-03-04 | 374 | 143 | 
-| 2023-03-03 | 373 | 143 | 
 

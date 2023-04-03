@@ -1,10 +1,10 @@
 # qbcore-framework/qb-radialmenu - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 255
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/qbcore-framework/qb-radialmenu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 29 | 255 | 
 | 2023-03-31 | 28 | 255 | 
 | 2023-03-29 | 28 | 256 | 
 | 2023-03-27 | 28 | 256 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 28 | 256 | 
 | 2023-03-05 | 28 | 255 | 
 | 2023-03-04 | 28 | 255 | 
-| 2023-03-03 | 28 | 256 | 
 

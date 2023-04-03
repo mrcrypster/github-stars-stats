@@ -1,10 +1,10 @@
 # yousefkotp/Movies-and-Series-Scraper - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 17
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/yousefkotp/Movies-and-Series-Scraper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 94 | 17 | 
 | 2023-03-30 | 93 | 17 | 
 | 2023-03-28 | 94 | 17 | 
 | 2023-03-26 | 94 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 90 | 16 | 
 | 2023-03-05 | 89 | 16 | 
 | 2023-03-04 | 89 | 16 | 
-| 2023-03-03 | 89 | 16 | 
 

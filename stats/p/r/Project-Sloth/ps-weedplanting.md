@@ -1,10 +1,10 @@
 # Project-Sloth/ps-weedplanting - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 30
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/Project-Sloth/ps-weedplanting)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 20 | 30 | 
 | 2023-03-31 | 19 | 30 | 
 | 2023-03-29 | 19 | 29 | 
 | 2023-03-28 | 19 | 29 | 

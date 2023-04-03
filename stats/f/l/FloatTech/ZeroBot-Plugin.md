@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 02
 
-☋ Forks: 1071
+☋ Forks: 1072
 
-★ Stars: 1822
+★ Stars: 1824
 
 [Open repository](https://github.com/FloatTech/ZeroBot-Plugin)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-02 | 1822 | 1071 | 
+| 2023-04-02 | 1824 | 1072 | 
 | 2023-03-30 | 1809 | 1063 | 
 | 2023-03-28 | 1805 | 1060 | 
 | 2023-03-27 | 1801 | 1062 | 

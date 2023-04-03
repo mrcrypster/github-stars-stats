@@ -1,10 +1,10 @@
 # tanprathan/OWASP-Testing-Checklist - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 390
 
-★ Stars: 1184
+★ Stars: 1185
 
 [Open repository](https://github.com/tanprathan/OWASP-Testing-Checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1185 | 390 | 
 | 2023-03-30 | 1184 | 390 | 
 | 2023-03-28 | 1180 | 389 | 
 | 2023-03-27 | 1179 | 388 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1162 | 388 | 
 | 2023-03-06 | 1162 | 388 | 
 | 2023-03-05 | 1159 | 387 | 
-| 2023-03-03 | 1158 | 387 | 
 

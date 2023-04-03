@@ -1,10 +1,10 @@
 # remoblaser/cs2-beta-enroll-status - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/remoblaser/cs2-beta-enroll-status)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 18 | 6 | 
 | 2023-03-30 | 16 | 6 | 
 | 2023-03-28 | 16 | 6 | 
 | 2023-03-27 | 15 | 6 | 

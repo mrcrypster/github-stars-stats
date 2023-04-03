@@ -1,10 +1,10 @@
 # ARM-software/CMSIS_5 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1037
 
-★ Stars: 861
+★ Stars: 866
 
 [Open repository](https://github.com/ARM-software/CMSIS_5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 866 | 1037 | 
 | 2023-03-30 | 861 | 1037 | 
 | 2023-03-28 | 859 | 1038 | 
 | 2023-03-27 | 856 | 1038 | 

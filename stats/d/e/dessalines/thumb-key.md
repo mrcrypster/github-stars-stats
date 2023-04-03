@@ -1,10 +1,10 @@
 # dessalines/thumb-key - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 142
+★ Stars: 150
 
 [Open repository](https://github.com/dessalines/thumb-key)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 150 | 15 | 
 | 2023-03-30 | 142 | 14 | 
 | 2023-03-28 | 137 | 13 | 
 | 2023-03-27 | 136 | 10 | 

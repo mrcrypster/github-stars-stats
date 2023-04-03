@@ -1,10 +1,10 @@
 # naps62/pair-gpt.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/naps62/pair-gpt.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 35 | 4 | 
 | 2023-03-31 | 34 | 4 | 
 | 2023-03-29 | 34 | 4 | 
 | 2023-03-27 | 34 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 32 | 4 | 
 | 2023-03-06 | 32 | 4 | 
 | 2023-03-04 | 32 | 4 | 
-| 2023-03-03 | 32 | 4 | 
 

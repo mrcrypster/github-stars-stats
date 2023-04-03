@@ -1,10 +1,10 @@
 # bufbuild/rules_buf - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/bufbuild/rules_buf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 28 | 6 | 
 | 2023-03-31 | 27 | 6 | 
 | 2023-03-30 | 27 | 5 | 
 | 2023-03-29 | 27 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 27 | 5 | 
 | 2023-03-05 | 27 | 5 | 
 | 2023-03-04 | 26 | 5 | 
-| 2023-03-03 | 26 | 5 | 
 

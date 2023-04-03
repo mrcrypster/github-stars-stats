@@ -1,10 +1,10 @@
 # ophub/kernel - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 61
+★ Stars: 64
 
 [Open repository](https://github.com/ophub/kernel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 64 | 83 | 
 | 2023-03-30 | 61 | 82 | 
 | 2023-03-29 | 60 | 82 | 
 | 2023-03-28 | 60 | 81 | 

@@ -1,6 +1,6 @@
 # beam-telemetry/telemetry - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 808 | 62 | 
 | 2023-04-01 | 808 | 62 | 
 | 2023-03-30 | 805 | 61 | 
 | 2023-03-28 | 805 | 61 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 803 | 61 | 
 | 2023-03-06 | 804 | 61 | 
 | 2023-03-04 | 804 | 61 | 
-| 2023-03-03 | 804 | 61 | 
 

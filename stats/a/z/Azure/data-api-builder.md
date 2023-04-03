@@ -1,10 +1,10 @@
 # Azure/data-api-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 13
+☋ Forks: 18
 
-★ Stars: 228
+★ Stars: 247
 
 [Open repository](https://github.com/Azure/data-api-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 247 | 18 | 
 | 2023-03-30 | 228 | 13 | 
 | 2023-03-28 | 219 | 13 | 
 | 2023-03-27 | 210 | 13 | 

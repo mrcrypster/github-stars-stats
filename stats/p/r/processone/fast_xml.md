@@ -1,6 +1,6 @@
 # processone/fast_xml - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 123 | 45 | 
 | 2023-04-01 | 123 | 45 | 
 | 2023-03-30 | 123 | 45 | 
 | 2023-03-28 | 123 | 45 | 

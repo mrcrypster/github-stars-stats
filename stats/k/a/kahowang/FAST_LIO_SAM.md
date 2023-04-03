@@ -1,10 +1,10 @@
 # kahowang/FAST_LIO_SAM - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 178
+★ Stars: 181
 
 [Open repository](https://github.com/kahowang/FAST_LIO_SAM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 181 | 41 | 
 | 2023-03-30 | 178 | 40 | 
 | 2023-03-28 | 176 | 40 | 
 | 2023-03-26 | 173 | 39 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 159 | 33 | 
 | 2023-03-05 | 159 | 33 | 
 | 2023-03-04 | 158 | 33 | 
-| 2023-03-03 | 158 | 33 | 
 

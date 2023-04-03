@@ -1,8 +1,8 @@
 # vda-lab/datavis-technologies-handson - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | - | 87 | 
 | 2023-03-30 | - | 86 | 
 | 2023-03-29 | - | 86 | 
 | 2023-03-28 | - | 85 | 

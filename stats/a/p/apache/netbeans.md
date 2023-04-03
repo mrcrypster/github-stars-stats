@@ -1,8 +1,8 @@
 # apache/netbeans - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 759
+☋ Forks: 760
 
 ★ Stars: 2233
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2233 | 760 | 
 | 2023-03-31 | 2233 | 759 | 
 | 2023-03-29 | 2232 | 757 | 
 | 2023-03-27 | 2231 | 758 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 2213 | 752 | 
 | 2023-03-06 | 2212 | 752 | 
 | 2023-03-05 | 2211 | 752 | 
-| 2023-03-03 | 2212 | 752 | 
 

@@ -1,10 +1,10 @@
 # openshift/console - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 533
 
-★ Stars: 326
+★ Stars: 328
 
 [Open repository](https://github.com/openshift/console)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 328 | 533 | 
 | 2023-03-30 | 326 | 533 | 
 | 2023-03-28 | 326 | 534 | 
 | 2023-03-26 | 325 | 533 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 323 | 530 | 
 | 2023-03-05 | 323 | 530 | 
 | 2023-03-04 | 323 | 530 | 
-| 2023-03-03 | 323 | 530 | 
 

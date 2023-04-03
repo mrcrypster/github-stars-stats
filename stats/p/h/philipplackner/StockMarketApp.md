@@ -1,10 +1,10 @@
 # philipplackner/StockMarketApp - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 80
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/philipplackner/StockMarketApp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 120 | 80 | 
 | 2023-03-30 | 119 | 80 | 
 | 2023-03-28 | 119 | 80 | 
 | 2023-03-27 | 119 | 80 | 

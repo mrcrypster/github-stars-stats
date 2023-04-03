@@ -1,10 +1,10 @@
 # MinBZK/woo-besluit-broncode-digid-app - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 108
 
-★ Stars: 649
+★ Stars: 650
 
 [Open repository](https://github.com/MinBZK/woo-besluit-broncode-digid-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 650 | 108 | 
 | 2023-03-30 | 649 | 108 | 
 | 2023-03-28 | 649 | 108 | 
 | 2023-03-27 | 649 | 108 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 643 | 106 | 
 | 2023-03-06 | 643 | 106 | 
 | 2023-03-05 | 643 | 106 | 
-| 2023-03-03 | 643 | 106 | 
 

@@ -1,10 +1,10 @@
 # aws/aws-codebuild-docker-images - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 913
 
-★ Stars: 987
+★ Stars: 989
 
 [Open repository](https://github.com/aws/aws-codebuild-docker-images)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 989 | 913 | 
 | 2023-03-30 | 987 | 913 | 
 | 2023-03-29 | 987 | 913 | 
 | 2023-03-28 | 987 | 913 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 978 | 903 | 
 | 2023-03-05 | 978 | 903 | 
 | 2023-03-04 | 978 | 904 | 
-| 2023-03-03 | 978 | 904 | 
 

@@ -1,6 +1,6 @@
 # EmersonHisa/components - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 22 | 2 | 
 | 2023-03-29 | 22 | 2 | 
 | 2023-03-28 | 22 | 2 | 
 | 2023-03-26 | 22 | 2 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 22 | 1 | 
 | 2023-03-06 | 22 | 1 | 
 | 2023-03-04 | 22 | 1 | 
-| 2023-03-03 | 22 | 1 | 
 

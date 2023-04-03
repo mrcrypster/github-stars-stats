@@ -1,6 +1,6 @@
 # ayush714/data-science-roadmap - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 438 | 73 | 
 | 2023-04-01 | 438 | 73 | 
 | 2023-03-30 | 436 | 73 | 
 | 2023-03-28 | 436 | 73 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 428 | 70 | 
 | 2023-03-06 | 428 | 70 | 
 | 2023-03-05 | 426 | 70 | 
-| 2023-03-03 | 423 | 70 | 
 

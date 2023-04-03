@@ -1,10 +1,10 @@
 # rockbenben/ChatGPT-Shortcut - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 185
+☋ Forks: 199
 
-★ Stars: 2712
+★ Stars: 2842
 
 [Open repository](https://github.com/rockbenben/ChatGPT-Shortcut)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2842 | 199 | 
 | 2023-03-30 | 2712 | 185 | 
 | 2023-03-28 | 2594 | 171 | 
 | 2023-03-27 | 2476 | 159 | 

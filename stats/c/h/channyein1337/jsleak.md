@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 02
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 203
+★ Stars: 207
 
 [Open repository](https://github.com/channyein1337/jsleak)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-02 | 203 | 13 | 
+| 2023-04-02 | 207 | 14 | 
 | 2023-04-01 | 190 | 13 | 
 

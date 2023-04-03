@@ -1,10 +1,10 @@
 # zhuzichu520/FluentUI - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 16
+☋ Forks: 29
 
-★ Stars: 68
+★ Stars: 173
 
 [Open repository](https://github.com/zhuzichu520/FluentUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 173 | 29 | 
 | 2023-03-31 | 68 | 16 | 
 | 2023-03-30 | 66 | 15 | 
 | 2023-03-29 | 66 | 15 | 

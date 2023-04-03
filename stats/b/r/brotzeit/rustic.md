@@ -1,10 +1,10 @@
 # brotzeit/rustic - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 87
 
-★ Stars: 635
+★ Stars: 636
 
 [Open repository](https://github.com/brotzeit/rustic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 636 | 87 | 
 | 2023-03-30 | 635 | 87 | 
 | 2023-03-28 | 634 | 86 | 
 | 2023-03-27 | 634 | 86 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 627 | 84 | 
 | 2023-03-06 | 626 | 84 | 
 | 2023-03-05 | 627 | 84 | 
-| 2023-03-03 | 627 | 84 | 
 

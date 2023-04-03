@@ -1,10 +1,10 @@
 # SRombauts/SQLiteCpp - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 452
+☋ Forks: 453
 
-★ Stars: 1663
+★ Stars: 1666
 
 [Open repository](https://github.com/SRombauts/SQLiteCpp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1666 | 453 | 
 | 2023-04-01 | 1663 | 452 | 
 | 2023-03-30 | 1655 | 451 | 
 | 2023-03-28 | 1651 | 451 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 1638 | 448 | 
 | 2023-03-06 | 1638 | 448 | 
 | 2023-03-05 | 1638 | 448 | 
-| 2023-03-03 | 1638 | 448 | 
 

@@ -1,6 +1,6 @@
 # jcsec-security/solidity-security-teaching-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 92 | 6 | 
 | 2023-03-30 | 92 | 6 | 
 | 2023-03-29 | 92 | 6 | 
 

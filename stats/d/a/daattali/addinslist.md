@@ -1,6 +1,6 @@
 # daattali/addinslist - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 768 | 136 | 
 | 2023-04-01 | 768 | 136 | 
 | 2023-03-30 | 768 | 136 | 
 | 2023-03-28 | 768 | 136 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 764 | 135 | 
 | 2023-03-05 | 764 | 135 | 
 | 2023-03-04 | 764 | 135 | 
-| 2023-03-03 | 763 | 135 | 
 

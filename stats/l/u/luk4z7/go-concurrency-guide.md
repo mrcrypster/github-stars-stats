@@ -1,10 +1,10 @@
 # luk4z7/go-concurrency-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 120
 
-★ Stars: 2091
+★ Stars: 2093
 
 [Open repository](https://github.com/luk4z7/go-concurrency-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2093 | 120 | 
 | 2023-03-29 | 2091 | 120 | 
 | 2023-03-27 | 2088 | 119 | 
 | 2023-03-26 | 2083 | 119 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 2016 | 114 | 
 | 2023-03-06 | 2015 | 114 | 
 | 2023-03-05 | 2014 | 114 | 
-| 2023-03-03 | 2014 | 114 | 
 

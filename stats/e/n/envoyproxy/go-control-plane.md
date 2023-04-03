@@ -1,10 +1,10 @@
 # envoyproxy/go-control-plane - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 465
 
-★ Stars: 1295
+★ Stars: 1297
 
 [Open repository](https://github.com/envoyproxy/go-control-plane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1297 | 465 | 
 | 2023-03-30 | 1295 | 465 | 
 | 2023-03-28 | 1294 | 464 | 
 | 2023-03-27 | 1294 | 463 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1288 | 455 | 
 | 2023-03-05 | 1288 | 455 | 
 | 2023-03-04 | 1288 | 454 | 
-| 2023-03-03 | 1287 | 454 | 
 

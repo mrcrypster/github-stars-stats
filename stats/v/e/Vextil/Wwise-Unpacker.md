@@ -1,10 +1,10 @@
 # Vextil/Wwise-Unpacker - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 81
+☋ Forks: 83
 
-★ Stars: 432
+★ Stars: 434
 
 [Open repository](https://github.com/Vextil/Wwise-Unpacker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 434 | 83 | 
 | 2023-03-30 | 432 | 81 | 
 | 2023-03-28 | 431 | 81 | 
 | 2023-03-27 | 431 | 81 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 420 | 81 | 
 | 2023-03-06 | 420 | 81 | 
 | 2023-03-04 | 420 | 81 | 
-| 2023-03-03 | 420 | 81 | 
 

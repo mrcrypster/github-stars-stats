@@ -1,10 +1,10 @@
 # hepengwei/visualization-collection - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 85
+☋ Forks: 94
 
-★ Stars: 563
+★ Stars: 671
 
 [Open repository](https://github.com/hepengwei/visualization-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 671 | 94 | 
 | 2023-03-31 | 563 | 85 | 
 | 2023-03-30 | 419 | 74 | 
 | 2023-03-29 | 378 | 67 | 

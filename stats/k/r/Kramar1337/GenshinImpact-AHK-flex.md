@@ -1,10 +1,10 @@
 # Kramar1337/GenshinImpact-AHK-flex - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/Kramar1337/GenshinImpact-AHK-flex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 110 | 19 | 
 | 2023-03-31 | 109 | 18 | 
 | 2023-03-29 | 109 | 18 | 
 | 2023-03-27 | 109 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-06 | 109 | 17 | 
 | 2023-03-05 | 108 | 17 | 
 | 2023-03-04 | 108 | 17 | 
-| 2023-03-03 | 108 | 18 | 
 

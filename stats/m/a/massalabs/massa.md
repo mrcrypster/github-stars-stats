@@ -1,10 +1,10 @@
 # massalabs/massa - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 361
+☋ Forks: 362
 
-★ Stars: 2876
+★ Stars: 2888
 
 [Open repository](https://github.com/massalabs/massa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2888 | 362 | 
 | 2023-03-30 | 2876 | 361 | 
 | 2023-03-28 | 2874 | 360 | 
 | 2023-03-27 | 2871 | 360 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 2803 | 351 | 
 | 2023-03-06 | 2791 | 349 | 
 | 2023-03-05 | 2789 | 349 | 
-| 2023-03-04 | 2789 | 349 | 
 

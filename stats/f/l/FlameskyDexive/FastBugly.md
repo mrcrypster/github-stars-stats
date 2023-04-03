@@ -1,10 +1,10 @@
 # FlameskyDexive/FastBugly - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 20
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/FlameskyDexive/FastBugly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 63 | 20 | 
 | 2023-03-30 | 62 | 20 | 
 | 2023-03-28 | 62 | 20 | 
 | 2023-03-26 | 62 | 20 | 

@@ -1,6 +1,6 @@
 # apontious/One-Ring-to-Cocoa-Bind-Them-All - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1 | 1 | 
 | 2023-03-29 | 1 | 1 | 
 | 2023-03-28 | 1 | 1 | 
 | 2023-03-26 | 1 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 1 | 1 | 
 | 2023-03-06 | 1 | 1 | 
 | 2023-03-04 | 1 | 1 | 
-| 2023-03-03 | 1 | 1 | 
 

@@ -1,10 +1,10 @@
 # Source2ZE/ZombieReborn - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 5
+☋ Forks: 12
 
-★ Stars: 35
+★ Stars: 39
 
 [Open repository](https://github.com/Source2ZE/ZombieReborn)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 39 | 12 | 
 | 2023-03-30 | 35 | 5 | 
 

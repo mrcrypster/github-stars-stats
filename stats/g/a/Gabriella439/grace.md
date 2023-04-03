@@ -1,10 +1,10 @@
 # Gabriella439/grace - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 26
 
-★ Stars: 336
+★ Stars: 338
 
 [Open repository](https://github.com/Gabriella439/grace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 338 | 26 | 
 | 2023-03-31 | 336 | 26 | 
 | 2023-03-29 | 336 | 26 | 
 | 2023-03-27 | 336 | 26 | 

@@ -1,10 +1,10 @@
 # system-f/fp-course - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1176
 
-★ Stars: 3965
+★ Stars: 3966
 
 [Open repository](https://github.com/system-f/fp-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 3966 | 1176 | 
 | 2023-03-30 | 3965 | 1176 | 
 | 2023-03-28 | 3965 | 1176 | 
 | 2023-03-27 | 3965 | 1176 | 

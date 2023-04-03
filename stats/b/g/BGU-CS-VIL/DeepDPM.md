@@ -1,10 +1,10 @@
 # BGU-CS-VIL/DeepDPM - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 65
 
-★ Stars: 674
+★ Stars: 675
 
 [Open repository](https://github.com/BGU-CS-VIL/DeepDPM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 675 | 65 | 
 | 2023-03-30 | 674 | 65 | 
 | 2023-03-28 | 673 | 65 | 
 | 2023-03-26 | 673 | 65 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 665 | 65 | 
 | 2023-03-05 | 664 | 65 | 
 | 2023-03-04 | 664 | 65 | 
-| 2023-03-03 | 662 | 65 | 
 

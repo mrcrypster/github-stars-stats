@@ -1,10 +1,10 @@
 # picocss/examples - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 47
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/picocss/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 141 | 47 | 
 | 2023-03-30 | 140 | 47 | 
 | 2023-03-28 | 139 | 46 | 
 | 2023-03-27 | 138 | 46 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 131 | 43 | 
 | 2023-03-06 | 130 | 43 | 
 | 2023-03-04 | 129 | 43 | 
-| 2023-03-03 | 128 | 43 | 
 

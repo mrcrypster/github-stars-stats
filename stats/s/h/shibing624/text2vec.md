@@ -1,0 +1,17 @@
+# shibing624/text2vec - stars & forks statistics
+
+Stats updated on Apr 2023, 02
+
+☋ Forks: 141
+
+★ Stars: 1144
+
+[Open repository](https://github.com/shibing624/text2vec)
+
+[Open detailed stats for shibing624/text2vec](https://reviewgithub.com/rep/shibing624/text2vec)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-02 | 1144 | 141 | 
+

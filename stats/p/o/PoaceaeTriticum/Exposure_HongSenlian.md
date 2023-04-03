@@ -1,6 +1,6 @@
 # PoaceaeTriticum/Exposure_HongSenlian - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 104 | 21 | 
 | 2023-03-30 | 104 | 21 | 
 | 2023-03-28 | 104 | 21 | 
 | 2023-03-27 | 104 | 21 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 105 | 21 | 
 | 2023-03-06 | 105 | 21 | 
 | 2023-03-05 | 105 | 21 | 
-| 2023-03-03 | 105 | 21 | 
 

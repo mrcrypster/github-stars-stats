@@ -1,10 +1,10 @@
 # LEGO/AsyncAPI.NET - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/LEGO/AsyncAPI.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 261 | 8 | 
 | 2023-03-30 | 260 | 7 | 
 | 2023-03-28 | 260 | 7 | 
 | 2023-03-27 | 260 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 249 | 7 | 
 | 2023-03-05 | 249 | 7 | 
 | 2023-03-04 | 249 | 7 | 
-| 2023-03-03 | 249 | 7 | 
 

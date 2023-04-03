@@ -1,10 +1,10 @@
 # PCRE2Project/pcre2 - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 111
 
-★ Stars: 473
+★ Stars: 477
 
 [Open repository](https://github.com/PCRE2Project/pcre2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 477 | 111 | 
 | 2023-03-30 | 473 | 111 | 
 | 2023-03-28 | 472 | 111 | 
 | 2023-03-27 | 471 | 111 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 459 | 106 | 
 | 2023-03-06 | 458 | 106 | 
 | 2023-03-05 | 457 | 106 | 
-| 2023-03-03 | 457 | 106 | 
 

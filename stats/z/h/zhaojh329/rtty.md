@@ -1,10 +1,10 @@
 # zhaojh329/rtty - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
-☋ Forks: 425
+☋ Forks: 424
 
-★ Stars: 3152
+★ Stars: 3153
 
 [Open repository](https://github.com/zhaojh329/rtty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 3153 | 424 | 
 | 2023-03-29 | 3152 | 425 | 
 | 2023-03-27 | 3152 | 425 | 
 | 2023-03-26 | 3151 | 424 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 3118 | 421 | 
 | 2023-03-06 | 3113 | 421 | 
 | 2023-03-05 | 3110 | 418 | 
-| 2023-03-03 | 3109 | 418 | 
 

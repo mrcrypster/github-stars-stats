@@ -1,10 +1,10 @@
 # writefreely/writefreely - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 230
 
-★ Stars: 3469
+★ Stars: 3475
 
 [Open repository](https://github.com/writefreely/writefreely)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 3475 | 230 | 
 | 2023-03-31 | 3469 | 230 | 
 | 2023-03-29 | 3464 | 228 | 
 | 2023-03-27 | 3463 | 228 | 

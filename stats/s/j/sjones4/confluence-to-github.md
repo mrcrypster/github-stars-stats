@@ -1,6 +1,6 @@
 # sjones4/confluence-to-github - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 52 | 9 | 
 | 2023-03-30 | 52 | 9 | 
 | 2023-03-28 | 52 | 9 | 
 | 2023-03-26 | 52 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 50 | 8 | 
 | 2023-03-06 | 49 | 8 | 
 | 2023-03-04 | 49 | 8 | 
-| 2023-03-03 | 49 | 8 | 
 

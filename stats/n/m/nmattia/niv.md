@@ -1,10 +1,10 @@
 # nmattia/niv - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 60
 
-★ Stars: 1155
+★ Stars: 1157
 
 [Open repository](https://github.com/nmattia/niv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1157 | 60 | 
 | 2023-03-30 | 1155 | 60 | 
 | 2023-03-28 | 1155 | 60 | 
 | 2023-03-27 | 1154 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 1142 | 60 | 
 | 2023-03-05 | 1139 | 60 | 
 | 2023-03-04 | 1139 | 60 | 
-| 2023-03-03 | 1136 | 59 | 
 

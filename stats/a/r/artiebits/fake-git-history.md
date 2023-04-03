@@ -1,10 +1,10 @@
 # artiebits/fake-git-history - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 42
 
-★ Stars: 442
+★ Stars: 441
 
 [Open repository](https://github.com/artiebits/fake-git-history)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 441 | 42 | 
 | 2023-03-30 | 442 | 42 | 
 | 2023-03-28 | 440 | 42 | 
 | 2023-03-27 | 440 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 423 | 42 | 
 | 2023-03-05 | 422 | 42 | 
 | 2023-03-04 | 422 | 42 | 
-| 2023-03-03 | 421 | 42 | 
 

@@ -1,6 +1,6 @@
 # arduino/arduino-ide - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1419 | 245 | 
 | 2023-04-01 | 1419 | 245 | 
 | 2023-03-30 | 1413 | 244 | 
 | 2023-03-28 | 1412 | 242 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 1373 | 230 | 
 | 2023-03-06 | 1369 | 229 | 
 | 2023-03-04 | 1365 | 229 | 
-| 2023-03-03 | 1366 | 227 | 
 

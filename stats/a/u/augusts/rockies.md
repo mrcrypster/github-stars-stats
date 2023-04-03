@@ -1,6 +1,6 @@
 # augusts/rockies - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | - | 
 | 2023-03-30 | - | - | 
 | 2023-03-28 | - | - | 
 | 2023-03-27 | - | - | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | - | - | 
 | 2023-03-06 | - | - | 
 | 2023-03-05 | - | - | 
-| 2023-03-04 | - | - | 
 

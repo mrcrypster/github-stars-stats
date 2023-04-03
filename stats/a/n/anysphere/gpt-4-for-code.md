@@ -1,8 +1,8 @@
 # anysphere/gpt-4-for-code - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 21
+☋ Forks: 24
 
 ★ Stars: 408
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 408 | 24 | 
 | 2023-03-30 | 408 | 21 | 
 | 2023-03-28 | 403 | 21 | 
 | 2023-03-27 | 399 | 21 | 

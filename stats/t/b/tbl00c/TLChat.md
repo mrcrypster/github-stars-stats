@@ -1,6 +1,6 @@
 # tbl00c/TLChat - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 506
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1298 | 506 | 
 | 2023-04-01 | 1298 | 506 | 
 | 2023-03-31 | 1298 | 506 | 
 | 2023-03-29 | 1298 | 506 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 1290 | 501 | 
 | 2023-03-06 | 1290 | 501 | 
 | 2023-03-05 | 1290 | 501 | 
-| 2023-03-03 | 1289 | 501 | 
 

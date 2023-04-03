@@ -1,10 +1,10 @@
 # alisolanki/Welcome-to-Open-Source - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 542
+☋ Forks: 590
 
-★ Stars: 358
+★ Stars: 395
 
 [Open repository](https://github.com/alisolanki/Welcome-to-Open-Source)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 395 | 590 | 
 | 2023-03-31 | 358 | 542 | 
 | 2023-03-30 | 352 | 535 | 
 | 2023-03-28 | 274 | 420 | 

@@ -1,10 +1,10 @@
 # sidestream-tech/sidebase - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 18
 
-★ Stars: 517
+★ Stars: 521
 
 [Open repository](https://github.com/sidestream-tech/sidebase)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 521 | 18 | 
 | 2023-03-29 | 517 | 18 | 
 | 2023-03-27 | 516 | 18 | 
 | 2023-03-26 | 514 | 18 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 487 | 16 | 
 | 2023-03-06 | 484 | 16 | 
 | 2023-03-05 | 476 | 16 | 
-| 2023-03-03 | 477 | 16 | 
 

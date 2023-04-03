@@ -1,10 +1,10 @@
 # datguypiko/Firefox-Mod-Blur - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 37
 
-★ Stars: 484
+★ Stars: 487
 
 [Open repository](https://github.com/datguypiko/Firefox-Mod-Blur)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 487 | 37 | 
 | 2023-03-31 | 484 | 37 | 
 | 2023-03-29 | 484 | 37 | 
 | 2023-03-27 | 479 | 37 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 449 | 37 | 
 | 2023-03-05 | 447 | 37 | 
 | 2023-03-04 | 444 | 35 | 
-| 2023-03-03 | 442 | 36 | 
 

@@ -1,10 +1,10 @@
 # DoTheEvo/selfhosted-apps-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 846
+★ Stars: 853
 
 [Open repository](https://github.com/DoTheEvo/selfhosted-apps-docker)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 853 | 58 | 
 | 2023-03-31 | 846 | 57 | 
 

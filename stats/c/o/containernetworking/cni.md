@@ -1,10 +1,10 @@
 # containernetworking/cni - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1007
+☋ Forks: 1008
 
-★ Stars: 4776
+★ Stars: 4781
 
 [Open repository](https://github.com/containernetworking/cni)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4781 | 1008 | 
 | 2023-03-30 | 4776 | 1007 | 
 | 2023-03-28 | 4772 | 1005 | 
 | 2023-03-27 | 4772 | 1005 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 4729 | 1002 | 
 | 2023-03-06 | 4729 | 1002 | 
 | 2023-03-04 | 4727 | 1002 | 
-| 2023-03-03 | 4725 | 1002 | 
 

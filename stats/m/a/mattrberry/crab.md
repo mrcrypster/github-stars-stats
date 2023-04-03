@@ -1,6 +1,6 @@
 # mattrberry/crab - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 63 | 5 | 
 | 2023-03-30 | 63 | 5 | 
 | 2023-03-28 | 63 | 5 | 
 | 2023-03-27 | 63 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 64 | 5 | 
 | 2023-03-06 | 64 | 5 | 
 | 2023-03-05 | 64 | 5 | 
-| 2023-03-03 | 64 | 5 | 
 

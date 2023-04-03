@@ -1,10 +1,10 @@
 # cisagov/untitledgoosetool - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 608
+★ Stars: 624
 
 [Open repository](https://github.com/cisagov/untitledgoosetool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 624 | 47 | 
 | 2023-03-31 | 608 | 46 | 
 | 2023-03-29 | 560 | 42 | 
 | 2023-03-27 | 447 | 32 | 

@@ -1,8 +1,8 @@
 # bayzid23564/RDPByBayzidGaming - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 86
+☋ Forks: 85
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2 | 85 | 
 | 2023-03-30 | 2 | 86 | 
 | 2023-03-29 | 2 | 86 | 
 

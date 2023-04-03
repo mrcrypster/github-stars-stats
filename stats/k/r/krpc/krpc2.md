@@ -1,10 +1,10 @@
 # krpc/krpc2 - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/krpc/krpc2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 2 | 
 | 2023-04-01 | 12 | 2 | 
 | 2023-03-30 | 12 | 2 | 
 | 2023-03-28 | 10 | 2 | 

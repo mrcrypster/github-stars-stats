@@ -1,6 +1,6 @@
 # KevinCalderon/DistribuidosPrueba - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1 | 11 | 
 | 2023-03-31 | 1 | 11 | 
 | 2023-03-29 | 1 | 11 | 
 | 2023-03-28 | 1 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 1 | 11 | 
 | 2023-03-05 | 1 | 10 | 
 | 2023-03-04 | 1 | 10 | 
-| 2023-03-03 | 1 | 9 | 
 

@@ -1,10 +1,10 @@
 # matejak/argbash - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 63
 
-★ Stars: 1260
+★ Stars: 1261
 
 [Open repository](https://github.com/matejak/argbash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1261 | 63 | 
 | 2023-03-30 | 1260 | 63 | 
 | 2023-03-28 | 1260 | 63 | 
 | 2023-03-27 | 1259 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 1209 | 61 | 
 | 2023-03-06 | 1209 | 61 | 
 | 2023-03-04 | 1208 | 61 | 
-| 2023-03-03 | 1208 | 61 | 
 

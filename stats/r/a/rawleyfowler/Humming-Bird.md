@@ -1,6 +1,6 @@
 # rawleyfowler/Humming-Bird - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 25 | 4 | 
 | 2023-03-30 | 25 | 4 | 
 | 2023-03-28 | 25 | 4 | 
 | 2023-03-27 | 25 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 23 | 4 | 
 | 2023-03-06 | 23 | 4 | 
 | 2023-03-05 | 20 | 4 | 
-| 2023-03-03 | 18 | 4 | 
 

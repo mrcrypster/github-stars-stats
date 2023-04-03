@@ -1,10 +1,10 @@
 # microsoft/IoT-For-Beginners - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1706
+☋ Forks: 1707
 
-★ Stars: 12121
+★ Stars: 12131
 
 [Open repository](https://github.com/microsoft/IoT-For-Beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 12131 | 1707 | 
 | 2023-04-01 | 12121 | 1706 | 
 | 2023-03-30 | 12115 | 1703 | 
 | 2023-03-28 | 12109 | 1700 | 

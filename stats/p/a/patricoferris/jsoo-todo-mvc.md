@@ -1,6 +1,6 @@
 # patricoferris/jsoo-todo-mvc - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 10 | - | 
 | 2023-03-31 | 10 | - | 
 | 2023-03-29 | 10 | - | 
 | 2023-03-28 | 10 | - | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 9 | - | 
 | 2023-03-06 | 9 | - | 
 | 2023-03-05 | 9 | - | 
-| 2023-03-03 | 9 | - | 
 

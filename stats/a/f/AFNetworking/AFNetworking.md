@@ -1,6 +1,6 @@
 # AFNetworking/AFNetworking - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 10333
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 33348 | 10333 | 
 | 2023-04-01 | 33348 | 10333 | 
 | 2023-03-31 | 33346 | 10332 | 
 | 2023-03-30 | 33345 | 10332 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 33346 | 10324 | 
 | 2023-03-05 | 33347 | 10324 | 
 | 2023-03-04 | 33347 | 10323 | 
-| 2023-03-03 | 33348 | 10323 | 
 

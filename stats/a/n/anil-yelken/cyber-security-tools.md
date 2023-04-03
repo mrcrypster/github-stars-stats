@@ -1,8 +1,8 @@
 # anil-yelken/cyber-security-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 114
+☋ Forks: 115
 
 ★ Stars: 496
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 496 | 115 | 
 | 2023-03-30 | 496 | 114 | 
 | 2023-03-28 | 497 | 114 | 
 | 2023-03-27 | 496 | 114 | 

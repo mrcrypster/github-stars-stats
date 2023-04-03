@@ -1,10 +1,10 @@
 # bapaws/answer - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 177
+★ Stars: 179
 
 [Open repository](https://github.com/bapaws/answer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 179 | 30 | 
 | 2023-03-30 | 177 | 28 | 
 | 2023-03-28 | 163 | 25 | 
 | 2023-03-27 | 154 | 25 | 

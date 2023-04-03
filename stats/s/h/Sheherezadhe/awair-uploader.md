@@ -1,6 +1,6 @@
 # Sheherezadhe/awair-uploader - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 125 | 62 | 
 | 2023-04-01 | 125 | 62 | 
 | 2023-03-30 | 126 | 62 | 
 | 2023-03-28 | 126 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-06 | 126 | 62 | 
 | 2023-03-05 | 126 | 62 | 
 | 2023-03-04 | 126 | 62 | 
-| 2023-03-03 | 126 | 62 | 
 

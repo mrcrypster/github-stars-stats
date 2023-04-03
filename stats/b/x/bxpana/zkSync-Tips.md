@@ -1,10 +1,10 @@
 # bxpana/zkSync-Tips - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 8
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/bxpana/zkSync-Tips)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 71 | 8 | 
 | 2023-04-01 | 70 | 8 | 
 | 2023-03-31 | 66 | 8 | 
 | 2023-03-29 | 62 | 6 | 

@@ -1,10 +1,10 @@
 # deep-diver/Alpaca-LoRA-Serve - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 150
+☋ Forks: 160
 
-★ Stars: 1218
+★ Stars: 1275
 
 [Open repository](https://github.com/deep-diver/Alpaca-LoRA-Serve)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1275 | 160 | 
 | 2023-03-31 | 1218 | 150 | 
 | 2023-03-29 | 1150 | 135 | 
 | 2023-03-28 | 1080 | 123 | 

@@ -1,10 +1,10 @@
 # m-ou-se/rust-atomics-and-locks - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 811
+★ Stars: 813
 
 [Open repository](https://github.com/m-ou-se/rust-atomics-and-locks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 813 | 52 | 
 | 2023-03-30 | 811 | 51 | 
 | 2023-03-28 | 809 | 51 | 
 | 2023-03-27 | 806 | 51 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 785 | 52 | 
 | 2023-03-06 | 781 | 52 | 
 | 2023-03-04 | 779 | 51 | 
-| 2023-03-03 | 776 | 51 | 
 

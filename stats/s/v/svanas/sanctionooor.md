@@ -1,6 +1,6 @@
 # svanas/sanctionooor - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10 | 1 | 
 | 2023-03-30 | 10 | 1 | 
 | 2023-03-28 | 10 | 1 | 
 | 2023-03-27 | 10 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 11 | 1 | 
 | 2023-03-05 | 11 | 1 | 
 | 2023-03-04 | 11 | 1 | 
-| 2023-03-03 | 11 | 1 | 
 

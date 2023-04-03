@@ -1,6 +1,6 @@
 # lducas/SchnorrGate - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 299 | 16 | 
 | 2023-04-01 | 299 | 16 | 
 | 2023-03-30 | 299 | 16 | 
 | 2023-03-28 | 299 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 298 | 16 | 
 | 2023-03-06 | 298 | 16 | 
 | 2023-03-05 | 298 | 16 | 
-| 2023-03-03 | 298 | 16 | 
 

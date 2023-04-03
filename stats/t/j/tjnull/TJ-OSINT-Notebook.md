@@ -1,6 +1,6 @@
 # tjnull/TJ-OSINT-Notebook - stars & forks statistics
 
-Stats updated on Mar 2023, 29
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 255 | 23 | 
 | 2023-03-29 | 255 | 23 | 
 | 2023-03-28 | 255 | 23 | 
 | 2023-03-26 | 254 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 29
 | 2023-03-07 | 252 | 23 | 
 | 2023-03-05 | 252 | 23 | 
 | 2023-03-04 | 252 | 23 | 
-| 2023-03-03 | 252 | 23 | 
 

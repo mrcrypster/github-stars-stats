@@ -1,10 +1,10 @@
 # unjs/unplugin - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 2091
+★ Stars: 2094
 
 [Open repository](https://github.com/unjs/unplugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2094 | 71 | 
 | 2023-03-31 | 2091 | 70 | 
 | 2023-03-29 | 2087 | 69 | 
 | 2023-03-27 | 2080 | 68 | 

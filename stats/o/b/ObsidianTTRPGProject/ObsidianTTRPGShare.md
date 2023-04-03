@@ -1,10 +1,10 @@
 # ObsidianTTRPGProject/ObsidianTTRPGShare - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 21
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 97 | 21 | 
 | 2023-04-01 | 96 | 21 | 
 | 2023-03-30 | 95 | 21 | 
 | 2023-03-28 | 95 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 85 | 19 | 
 | 2023-03-06 | 85 | 19 | 
 | 2023-03-05 | 85 | 19 | 
-| 2023-03-04 | 85 | 19 | 
 

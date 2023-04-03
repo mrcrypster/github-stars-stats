@@ -1,10 +1,10 @@
 # BlazorComponent/MASA.Blazor - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 93
+☋ Forks: 95
 
-★ Stars: 611
+★ Stars: 2
 
 [Open repository](https://github.com/BlazorComponent/MASA.Blazor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 2 | 95 | 
 | 2023-03-30 | 611 | 93 | 
 | 2023-03-28 | 595 | 91 | 
 | 2023-03-27 | 595 | 92 | 

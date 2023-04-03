@@ -1,6 +1,6 @@
 # pusher/pusher-http-php - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 289
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1323 | 289 | 
 | 2023-03-30 | 1323 | 289 | 
 | 2023-03-28 | 1322 | 289 | 
 | 2023-03-27 | 1322 | 289 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 1318 | 286 | 
 | 2023-03-05 | 1317 | 286 | 
 | 2023-03-04 | 1317 | 286 | 
-| 2023-03-03 | 1317 | 286 | 
 

@@ -1,10 +1,10 @@
 # ucarno/ow-league-tokens - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 19
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/ucarno/ow-league-tokens)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 126 | 19 | 
 | 2023-03-31 | 125 | 19 | 
 | 2023-03-29 | 125 | 19 | 
 | 2023-03-27 | 125 | 19 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 123 | 18 | 
 | 2023-03-06 | 121 | 18 | 
 | 2023-03-04 | 121 | 18 | 
-| 2023-03-03 | 121 | 18 | 
 

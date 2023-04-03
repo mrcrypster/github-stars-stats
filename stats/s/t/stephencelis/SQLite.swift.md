@@ -1,10 +1,10 @@
 # stephencelis/SQLite.swift - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 1461
+☋ Forks: 1462
 
-★ Stars: 8825
+★ Stars: 8835
 
 [Open repository](https://github.com/stephencelis/SQLite.swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 8835 | 1462 | 
 | 2023-03-30 | 8825 | 1461 | 
 | 2023-03-29 | 8825 | 1461 | 
 | 2023-03-28 | 8825 | 1461 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 8790 | 1448 | 
 | 2023-03-05 | 8786 | 1448 | 
 | 2023-03-04 | 8785 | 1448 | 
-| 2023-03-03 | 8784 | 1448 | 
 

@@ -1,10 +1,10 @@
 # naksyn/PythonMemoryModule - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 143
+★ Stars: 151
 
 [Open repository](https://github.com/naksyn/PythonMemoryModule)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 151 | 19 | 
 | 2023-03-30 | 143 | 18 | 
 | 2023-03-28 | 140 | 17 | 
 | 2023-03-27 | 140 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 137 | 17 | 
 | 2023-03-06 | 136 | 17 | 
 | 2023-03-04 | 136 | 17 | 
-| 2023-03-03 | 136 | 17 | 
 

@@ -1,6 +1,6 @@
 # th2-net/th2-infra - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 4 | 9 | 
 | 2023-03-30 | 4 | 9 | 
 | 2023-03-28 | 4 | 9 | 
 | 2023-03-27 | 4 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-07 | 4 | 9 | 
 | 2023-03-05 | 4 | 9 | 
 | 2023-03-04 | 4 | 9 | 
-| 2023-03-03 | 4 | 9 | 
 

@@ -1,10 +1,10 @@
 # Rawnly/gist.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 123
+★ Stars: 126
 
 [Open repository](https://github.com/Rawnly/gist.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 126 | 1 | 
 | 2023-03-31 | 123 | 1 | 
 | 2023-03-29 | 123 | 1 | 
 | 2023-03-28 | 123 | 1 | 

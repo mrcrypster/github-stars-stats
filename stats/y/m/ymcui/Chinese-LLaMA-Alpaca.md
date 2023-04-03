@@ -1,10 +1,10 @@
 # ymcui/Chinese-LLaMA-Alpaca - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 02
 
-☋ Forks: 85
+☋ Forks: 136
 
-★ Stars: 1098
+★ Stars: 1675
 
 [Open repository](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 1675 | 136 | 
 | 2023-03-31 | 1098 | 85 | 
 | 2023-03-30 | 813 | 59 | 
 

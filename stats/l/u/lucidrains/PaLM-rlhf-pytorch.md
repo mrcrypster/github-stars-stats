@@ -1,10 +1,10 @@
 # lucidrains/PaLM-rlhf-pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 02
 
-☋ Forks: 495
+☋ Forks: 499
 
-★ Stars: 6136
+★ Stars: 6174
 
 [Open repository](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-02 | 6174 | 499 | 
 | 2023-03-30 | 6136 | 495 | 
 | 2023-03-28 | 6093 | 483 | 
 | 2023-03-27 | 6043 | 481 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-06 | 5566 | 435 | 
 | 2023-03-05 | 5542 | 434 | 
 | 2023-03-04 | 5533 | 430 | 
-| 2023-03-03 | 5516 | 430 | 
 
