@@ -1,10 +1,10 @@
 # SophieDeBenedetto/stream_chat - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 18
 
 [Open repository](https://github.com/SophieDeBenedetto/stream_chat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 18 | 1 | 
 | 2023-03-31 | 13 | 1 | 
 | 2023-03-30 | 13 | 1 | 
 | 2023-03-29 | 13 | - | 

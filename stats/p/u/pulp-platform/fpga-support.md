@@ -1,6 +1,6 @@
 # pulp-platform/fpga-support - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5 | 9 | 
 | 2023-04-02 | 5 | 9 | 
 | 2023-03-31 | 5 | 9 | 
 | 2023-03-29 | 5 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 5 | 9 | 
 | 2023-03-06 | 4 | 9 | 
 | 2023-03-05 | 4 | 9 | 
-| 2023-03-04 | 4 | 9 | 
 

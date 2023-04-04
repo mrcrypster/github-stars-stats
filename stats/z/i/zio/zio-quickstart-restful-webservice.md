@@ -1,10 +1,10 @@
 # zio/zio-quickstart-restful-webservice - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 23
+☋ Forks: 25
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/zio/zio-quickstart-restful-webservice)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 32 | 25 | 
 | 2023-03-31 | 31 | 23 | 
 | 2023-03-29 | 31 | 23 | 
 | 2023-03-27 | 31 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 28 | 20 | 
 | 2023-03-06 | 28 | 20 | 
 | 2023-03-05 | 28 | 20 | 
-| 2023-03-04 | 28 | 20 | 
 

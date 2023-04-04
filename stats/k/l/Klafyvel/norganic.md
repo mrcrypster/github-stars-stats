@@ -1,10 +1,10 @@
 # Klafyvel/norganic - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Klafyvel/norganic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14 | - | 
 | 2023-03-31 | 13 | - | 
 | 2023-03-29 | 13 | - | 
 

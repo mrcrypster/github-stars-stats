@@ -1,6 +1,6 @@
 # BttrDrgn/GCN-Translations - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 21 | 3 | 
 | 2023-04-02 | 21 | 3 | 
 | 2023-03-30 | 21 | 3 | 
 | 2023-03-28 | 21 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 20 | 3 | 
 | 2023-03-07 | 20 | 3 | 
 | 2023-03-05 | 20 | 3 | 
-| 2023-03-04 | 20 | 3 | 
 

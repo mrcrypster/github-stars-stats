@@ -1,10 +1,10 @@
 # CliMA/ClimaOcean.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/CliMA/ClimaOcean.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 18 | 4 | 
 | 2023-04-02 | 19 | 4 | 
 | 2023-03-31 | 19 | 4 | 
 | 2023-03-29 | 19 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 18 | 2 | 
 | 2023-03-06 | 18 | 2 | 
 | 2023-03-05 | 18 | 2 | 
-| 2023-03-04 | 18 | 2 | 
 

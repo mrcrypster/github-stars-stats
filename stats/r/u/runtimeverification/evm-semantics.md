@@ -1,10 +1,10 @@
 # runtimeverification/evm-semantics - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 127
 
-★ Stars: 441
+★ Stars: 442
 
 [Open repository](https://github.com/runtimeverification/evm-semantics)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 442 | 127 | 
 | 2023-04-02 | 441 | 127 | 
 | 2023-03-30 | 441 | 126 | 
 | 2023-03-28 | 441 | 126 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 434 | 125 | 
 | 2023-03-06 | 432 | 125 | 
 | 2023-03-05 | 432 | 125 | 
-| 2023-03-04 | 432 | 125 | 
 

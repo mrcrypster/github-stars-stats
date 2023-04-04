@@ -1,10 +1,10 @@
 # Gorilla-Lab-SCUT/Fantasia3D - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 179
+★ Stars: 196
 
 [Open repository](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 196 | 3 | 
 | 2023-04-02 | 179 | 3 | 
 

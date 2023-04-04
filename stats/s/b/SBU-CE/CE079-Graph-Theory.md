@@ -1,6 +1,6 @@
 # SBU-CE/CE079-Graph-Theory - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 27 | 
 | 2023-03-31 | - | 27 | 
 | 2023-03-29 | - | 27 | 
 | 2023-03-27 | - | 27 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | - | 27 | 
 | 2023-03-07 | - | 27 | 
 | 2023-03-06 | - | 27 | 
-| 2023-03-05 | - | 27 | 
 

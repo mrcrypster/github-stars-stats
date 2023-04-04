@@ -1,10 +1,10 @@
 # liuhuanyong/QASystemOnMedicalKG - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1850
+☋ Forks: 1857
 
-★ Stars: 4839
+★ Stars: 4848
 
 [Open repository](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4848 | 1857 | 
 | 2023-03-31 | 4839 | 1850 | 
 | 2023-03-29 | 4831 | 1848 | 
 | 2023-03-28 | 4824 | 1844 | 

@@ -1,6 +1,6 @@
 # hayatok/devcontainer_stable_diffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 3 | 
 | 2023-04-01 | 6 | 3 | 
 | 2023-03-30 | 6 | 3 | 
 | 2023-03-28 | 6 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 6 | 3 | 
 | 2023-03-07 | 6 | 3 | 
 | 2023-03-06 | 6 | 3 | 
-| 2023-03-04 | 6 | 3 | 
 

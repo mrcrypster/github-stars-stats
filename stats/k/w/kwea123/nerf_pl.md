@@ -1,10 +1,10 @@
 # kwea123/nerf_pl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 389
+☋ Forks: 391
 
-★ Stars: 1976
+★ Stars: 1983
 
 [Open repository](https://github.com/kwea123/nerf_pl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1983 | 391 | 
 | 2023-03-31 | 1976 | 389 | 
 | 2023-03-29 | 1973 | 386 | 
 | 2023-03-28 | 1969 | 386 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1915 | 374 | 
 | 2023-03-07 | 1905 | 373 | 
 | 2023-03-05 | 1902 | 371 | 
-| 2023-03-04 | 1902 | 371 | 
 

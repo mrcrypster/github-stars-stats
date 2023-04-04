@@ -1,6 +1,6 @@
 # manticoresoftware/manticoresearch - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3059 | 177 | 
 | 2023-03-31 | 3059 | 177 | 
 | 2023-03-29 | 3045 | 176 | 
 | 2023-03-27 | 3033 | 176 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 2941 | 172 | 
 | 2023-03-07 | 2936 | 172 | 
 | 2023-03-06 | 2906 | 170 | 
-| 2023-03-04 | 2889 | 168 | 
 

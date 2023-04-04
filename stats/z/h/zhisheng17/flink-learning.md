@@ -1,10 +1,10 @@
 # zhisheng17/flink-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 3690
+☋ Forks: 3692
 
-★ Stars: 13318
+★ Stars: 13324
 
 [Open repository](https://github.com/zhisheng17/flink-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13324 | 3692 | 
 | 2023-04-01 | 13318 | 3690 | 
 | 2023-03-29 | 13305 | 3685 | 
 | 2023-03-28 | 13297 | 3684 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 13233 | 3669 | 
 | 2023-03-07 | 13228 | 3670 | 
 | 2023-03-06 | 13218 | 3667 | 
-| 2023-03-04 | 13212 | 3666 | 
 

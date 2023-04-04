@@ -1,8 +1,8 @@
 # wowchemy/starter-hugo-academic - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 6046
+☋ Forks: 6048
 
 ★ Stars: 2746
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2746 | 6048 | 
 | 2023-04-01 | 2746 | 6046 | 
 | 2023-03-30 | 2742 | 6043 | 
 | 2023-03-28 | 2742 | 6045 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 2686 | 6018 | 
 | 2023-03-06 | 2684 | 6019 | 
 | 2023-03-05 | 2682 | 6016 | 
-| 2023-03-04 | 2675 | 6016 | 
 

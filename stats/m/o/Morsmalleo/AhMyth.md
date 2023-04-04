@@ -1,6 +1,6 @@
 # Morsmalleo/AhMyth - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 87
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 279 | 87 | 
+| 2023-04-03 | 279 | 87 | 
 | 2023-04-02 | 279 | 87 | 
 | 2023-04-01 | 275 | 85 | 
 | 2023-03-31 | 275 | 85 | 
@@ -39,5 +41,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 254 | 81 | 
 | 2023-03-06 | 254 | 81 | 
 | 2023-03-05 | 253 | 81 | 
-| 2023-03-04 | 252 | 81 | 
 

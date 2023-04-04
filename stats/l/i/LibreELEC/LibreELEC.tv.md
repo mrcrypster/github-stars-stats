@@ -1,10 +1,10 @@
 # LibreELEC/LibreELEC.tv - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1092
 
-★ Stars: 1890
+★ Stars: 1891
 
 [Open repository](https://github.com/LibreELEC/LibreELEC.tv)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1891 | 1092 | 
+| 2023-04-03 | 1891 | 1092 | 
 | 2023-04-02 | 1890 | 1092 | 
 | 2023-03-30 | 1888 | 1091 | 
 | 2023-03-28 | 1887 | 1092 | 

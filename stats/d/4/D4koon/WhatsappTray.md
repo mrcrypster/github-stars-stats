@@ -1,10 +1,10 @@
 # D4koon/WhatsappTray - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 26
 
-★ Stars: 389
+★ Stars: 388
 
 [Open repository](https://github.com/D4koon/WhatsappTray)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 388 | 26 | 
 | 2023-04-02 | 389 | 26 | 
 | 2023-04-01 | 389 | 26 | 
 

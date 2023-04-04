@@ -1,6 +1,6 @@
 # polterguy/magic - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 803 | 101 | 
 | 2023-04-02 | 803 | 101 | 
 | 2023-03-30 | 801 | 101 | 
 | 2023-03-28 | 800 | 101 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 781 | 97 | 
 | 2023-03-06 | 781 | 96 | 
 | 2023-03-05 | 781 | 96 | 
-| 2023-03-04 | 779 | 96 | 
 

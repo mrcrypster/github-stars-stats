@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 20
+★ Stars: 30
 
 [Open repository](https://github.com/halohyx/MatMec)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 20 | 7 | 
+| 2023-04-03 | 30 | 7 | 
 | 2023-04-02 | 18 | 7 | 
 

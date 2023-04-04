@@ -1,6 +1,6 @@
 # mehdiirh/LazyHelper - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 117 | 8 | 
 | 2023-04-02 | 117 | 8 | 
 | 2023-04-01 | 117 | 8 | 
 | 2023-03-30 | 117 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 117 | 8 | 
 | 2023-03-07 | 117 | 8 | 
 | 2023-03-06 | 117 | 8 | 
-| 2023-03-04 | 117 | 8 | 
 

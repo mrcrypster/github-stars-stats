@@ -1,8 +1,8 @@
 # bryanbraun/after-dark-css - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 130
+☋ Forks: 129
 
 ★ Stars: 1066
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1066 | 129 | 
 | 2023-04-01 | 1066 | 130 | 
 | 2023-03-30 | 1064 | 130 | 
 | 2023-03-29 | 1061 | 130 | 

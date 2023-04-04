@@ -1,10 +1,10 @@
 # ChawlaAvi/Daily-Dose-of-Data-Science - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 80
+☋ Forks: 81
 
-★ Stars: 391
+★ Stars: 400
 
 [Open repository](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 400 | 81 | 
 | 2023-04-02 | 391 | 80 | 
 | 2023-04-01 | 388 | 80 | 
 | 2023-03-30 | 380 | 80 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 294 | 59 | 
 | 2023-03-06 | 288 | 59 | 
 | 2023-03-05 | 283 | 58 | 
-| 2023-03-04 | 280 | 58 | 
 

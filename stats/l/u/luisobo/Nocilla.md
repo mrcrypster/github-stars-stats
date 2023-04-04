@@ -1,6 +1,6 @@
 # luisobo/Nocilla - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1845 | 178 | 
 | 2023-04-02 | 1845 | 178 | 
 | 2023-03-30 | 1844 | 178 | 
 | 2023-03-28 | 1844 | 178 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1845 | 178 | 
 | 2023-03-06 | 1845 | 178 | 
 | 2023-03-05 | 1845 | 178 | 
-| 2023-03-04 | 1845 | 178 | 
 

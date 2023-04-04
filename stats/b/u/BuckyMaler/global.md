@@ -1,10 +1,10 @@
 # BuckyMaler/global - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 721
+☋ Forks: 720
 
-★ Stars: 1052
+★ Stars: 1053
 
 [Open repository](https://github.com/BuckyMaler/global)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1053 | 720 | 
 | 2023-04-01 | 1052 | 721 | 
 | 2023-03-29 | 1053 | 721 | 
 | 2023-03-27 | 1053 | 723 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 1047 | 717 | 
 | 2023-03-07 | 1045 | 715 | 
 | 2023-03-06 | 1045 | 715 | 
-| 2023-03-04 | 1045 | 715 | 
 

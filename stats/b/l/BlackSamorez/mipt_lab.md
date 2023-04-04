@@ -1,10 +1,10 @@
 # BlackSamorez/mipt_lab - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 167
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/BlackSamorez/mipt_lab)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 132 | 167 | 
+| 2023-04-03 | 132 | 167 | 
 | 2023-04-02 | 130 | 167 | 
 | 2023-03-31 | 128 | 166 | 
 | 2023-03-30 | 128 | 166 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 123 | 160 | 
 | 2023-03-06 | 123 | 158 | 
 | 2023-03-05 | 123 | 156 | 
-| 2023-03-04 | 123 | 156 | 
 

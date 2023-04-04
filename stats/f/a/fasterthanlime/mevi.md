@@ -1,10 +1,10 @@
 # fasterthanlime/mevi - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 465
+★ Stars: 472
 
 [Open repository](https://github.com/fasterthanlime/mevi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 472 | 8 | 
 | 2023-03-31 | 465 | 8 | 
 | 2023-03-29 | 438 | 8 | 
 | 2023-03-27 | 419 | 8 | 

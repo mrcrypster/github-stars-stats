@@ -1,10 +1,10 @@
 # Paulescu/hands-on-rl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 61
 
-★ Stars: 360
+★ Stars: 369
 
 [Open repository](https://github.com/Paulescu/hands-on-rl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 369 | 61 | 
 | 2023-04-02 | 360 | 61 | 
 | 2023-03-30 | 358 | 62 | 
 | 2023-03-28 | 357 | 62 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 341 | 60 | 
 | 2023-03-06 | 340 | 60 | 
 | 2023-03-05 | 333 | 59 | 
-| 2023-03-04 | 331 | 59 | 
 

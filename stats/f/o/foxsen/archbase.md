@@ -1,6 +1,6 @@
 # foxsen/archbase - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 243
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2534 | 243 | 
 | 2023-04-02 | 2534 | 243 | 
 | 2023-03-31 | 2532 | 243 | 
 | 2023-03-29 | 2529 | 243 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2516 | 239 | 
 | 2023-03-07 | 2516 | 239 | 
 | 2023-03-06 | 2517 | 239 | 
-| 2023-03-04 | 2517 | 239 | 
 

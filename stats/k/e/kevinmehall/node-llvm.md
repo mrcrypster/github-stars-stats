@@ -1,6 +1,6 @@
 # kevinmehall/node-llvm - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 95 | 7 | 
 | 2023-04-02 | 95 | 7 | 
 | 2023-03-31 | 95 | 7 | 
 | 2023-03-29 | 95 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 95 | 7 | 
 | 2023-03-06 | 95 | 7 | 
 | 2023-03-05 | 95 | 7 | 
-| 2023-03-04 | 95 | 7 | 
 

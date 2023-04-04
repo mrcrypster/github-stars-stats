@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 834
 
-★ Stars: 2707
+★ Stars: 2709
 
 [Open repository](https://github.com/Y1ran/Free-VPN-for-Coursera)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 2707 | 834 | 
+| 2023-04-03 | 2709 | 834 | 
 | 2023-04-02 | 2707 | 834 | 
 | 2023-03-31 | 2702 | 835 | 
 | 2023-03-29 | 2701 | 836 | 

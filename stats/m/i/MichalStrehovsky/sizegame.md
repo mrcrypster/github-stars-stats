@@ -1,10 +1,10 @@
 # MichalStrehovsky/sizegame - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/MichalStrehovsky/sizegame)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 82 | 5 | 
 | 2023-03-31 | 81 | 5 | 
 | 2023-03-29 | 81 | 5 | 
 | 2023-03-27 | 81 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 78 | 5 | 
 | 2023-03-07 | 78 | 5 | 
 | 2023-03-05 | 78 | 5 | 
-| 2023-03-04 | 78 | 5 | 
 

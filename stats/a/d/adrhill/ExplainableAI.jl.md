@@ -1,10 +1,10 @@
 # adrhill/ExplainableAI.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 78
+★ Stars: 77
 
 [Open repository](https://github.com/adrhill/ExplainableAI.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 77 | 1 | 
 | 2023-04-01 | 78 | 1 | 
 | 2023-03-30 | 78 | 1 | 
 | 2023-03-28 | 78 | - | 

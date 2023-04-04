@@ -1,10 +1,10 @@
 # lyr408/AppNetworkMonitor - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 110
+★ Stars: 113
 
 [Open repository](https://github.com/lyr408/AppNetworkMonitor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 113 | 33 | 
 | 2023-04-02 | 110 | 32 | 
 | 2023-03-31 | 108 | 29 | 
 | 2023-03-29 | 106 | 27 | 

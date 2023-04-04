@@ -1,6 +1,6 @@
 # borkdude/deflet - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 52 | - | 
 | 2023-04-02 | 52 | - | 
 | 2023-03-30 | 52 | - | 
 | 2023-03-28 | 50 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 43 | - | 
 | 2023-03-06 | 38 | - | 
 | 2023-03-05 | 36 | - | 
-| 2023-03-04 | 35 | - | 
 

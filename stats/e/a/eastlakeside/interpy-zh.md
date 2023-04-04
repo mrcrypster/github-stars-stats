@@ -1,10 +1,10 @@
 # eastlakeside/interpy-zh - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1353
 
-★ Stars: 6288
+★ Stars: 6289
 
 [Open repository](https://github.com/eastlakeside/interpy-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6289 | 1353 | 
 | 2023-03-31 | 6288 | 1353 | 
 | 2023-03-29 | 6291 | 1353 | 
 | 2023-03-27 | 6292 | 1353 | 

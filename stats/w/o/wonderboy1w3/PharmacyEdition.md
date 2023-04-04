@@ -1,10 +1,10 @@
 # wonderboy1w3/PharmacyEdition - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/wonderboy1w3/PharmacyEdition)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4 | 2 | 
 | 2023-03-31 | 3 | 2 | 
 | 2023-03-29 | 3 | 2 | 
 | 2023-03-27 | 20 | 10 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 19 | 10 | 
 | 2023-03-07 | 19 | 10 | 
 | 2023-03-05 | 19 | 10 | 
-| 2023-03-04 | 19 | 10 | 
 

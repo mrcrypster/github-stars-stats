@@ -1,10 +1,10 @@
 # eclipse-iceoryx/iceoryx - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 270
+☋ Forks: 271
 
-★ Stars: 1115
+★ Stars: 1117
 
 [Open repository](https://github.com/eclipse-iceoryx/iceoryx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1117 | 271 | 
 | 2023-04-01 | 1115 | 270 | 
 | 2023-03-29 | 1114 | 269 | 
 | 2023-03-27 | 1111 | 268 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 1096 | 264 | 
 | 2023-03-06 | 1092 | 262 | 
 | 2023-03-05 | 1092 | 262 | 
-| 2023-03-04 | 1091 | 262 | 
 

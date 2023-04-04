@@ -1,6 +1,6 @@
 # thomashoneyman/purescript-halogen-realworld - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 742 | 84 | 
 | 2023-03-30 | 742 | 84 | 
 | 2023-03-28 | 742 | 84 | 
 | 2023-03-27 | 741 | 84 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 738 | 83 | 
 | 2023-03-07 | 738 | 83 | 
 | 2023-03-06 | 738 | 83 | 
-| 2023-03-04 | 738 | 83 | 
 

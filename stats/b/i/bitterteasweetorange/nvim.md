@@ -1,10 +1,10 @@
 # bitterteasweetorange/nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/bitterteasweetorange/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 92 | 25 | 
 | 2023-04-02 | 91 | 24 | 
 | 2023-03-30 | 90 | 24 | 
 | 2023-03-28 | 90 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 83 | 23 | 
 | 2023-03-07 | 83 | 22 | 
 | 2023-03-06 | 83 | 22 | 
-| 2023-03-04 | 82 | 22 | 
 

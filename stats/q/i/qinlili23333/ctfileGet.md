@@ -1,10 +1,10 @@
 # qinlili23333/ctfileGet - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 120
+☋ Forks: 119
 
-★ Stars: 840
+★ Stars: 847
 
 [Open repository](https://github.com/qinlili23333/ctfileGet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 847 | 119 | 
 | 2023-04-01 | 840 | 120 | 
 | 2023-03-30 | 826 | 120 | 
 | 2023-03-29 | 826 | 120 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 772 | 114 | 
 | 2023-03-07 | 770 | 114 | 
 | 2023-03-06 | 768 | 113 | 
-| 2023-03-04 | 766 | 113 | 
 

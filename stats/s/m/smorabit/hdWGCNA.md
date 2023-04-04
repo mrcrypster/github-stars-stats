@@ -1,6 +1,6 @@
 # smorabit/hdWGCNA - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 170 | 17 | 
 | 2023-04-02 | 170 | 17 | 
 | 2023-03-30 | 168 | 17 | 
 | 2023-03-28 | 167 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 160 | 15 | 
 | 2023-03-07 | 160 | 15 | 
 | 2023-03-06 | 159 | 15 | 
-| 2023-03-04 | 159 | 15 | 
 

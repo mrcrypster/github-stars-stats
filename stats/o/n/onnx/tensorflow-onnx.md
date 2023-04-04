@@ -1,10 +1,10 @@
 # onnx/tensorflow-onnx - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 389
 
-★ Stars: 1865
+★ Stars: 1866
 
 [Open repository](https://github.com/onnx/tensorflow-onnx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1866 | 389 | 
 | 2023-04-02 | 1865 | 389 | 
 | 2023-03-30 | 1857 | 388 | 
 | 2023-03-28 | 1855 | 388 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1830 | 383 | 
 | 2023-03-07 | 1829 | 382 | 
 | 2023-03-06 | 1828 | 382 | 
-| 2023-03-04 | 1825 | 382 | 
 

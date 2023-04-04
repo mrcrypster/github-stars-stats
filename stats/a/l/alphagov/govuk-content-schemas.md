@@ -1,6 +1,6 @@
 # alphagov/govuk-content-schemas - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 26 | 11 | 
 | 2023-04-02 | 26 | 11 | 
 | 2023-03-30 | 26 | 11 | 
 | 2023-03-28 | 26 | 11 | 

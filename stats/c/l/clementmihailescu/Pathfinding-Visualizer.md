@@ -1,6 +1,6 @@
 # clementmihailescu/Pathfinding-Visualizer - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 460
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1507 | 460 | 
 | 2023-04-02 | 1507 | 460 | 
 | 2023-04-01 | 1507 | 460 | 
 | 2023-03-31 | 1508 | 460 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1500 | 457 | 
 | 2023-03-07 | 1498 | 457 | 
 | 2023-03-06 | 1497 | 457 | 
-| 2023-03-04 | 1498 | 457 | 
 

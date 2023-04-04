@@ -1,10 +1,10 @@
 # lxfater/Portal - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 101
+☋ Forks: 100
 
-★ Stars: 1595
+★ Stars: 1619
 
 [Open repository](https://github.com/lxfater/Portal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1619 | 100 | 
 | 2023-04-02 | 1595 | 101 | 
 | 2023-03-30 | 1421 | 88 | 
 | 2023-03-29 | 1381 | 85 | 

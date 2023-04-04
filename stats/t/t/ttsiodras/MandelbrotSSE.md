@@ -1,10 +1,10 @@
 # ttsiodras/MandelbrotSSE - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/ttsiodras/MandelbrotSSE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 79 | 3 | 
 | 2023-04-01 | 78 | 3 | 
 | 2023-03-29 | 78 | 3 | 
 | 2023-03-27 | 78 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 78 | 3 | 
 | 2023-03-07 | 78 | 3 | 
 | 2023-03-05 | 78 | 3 | 
-| 2023-03-04 | 78 | 3 | 
 

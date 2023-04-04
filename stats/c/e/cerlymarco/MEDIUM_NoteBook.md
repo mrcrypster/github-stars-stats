@@ -1,10 +1,10 @@
 # cerlymarco/MEDIUM_NoteBook - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 922
+☋ Forks: 921
 
-★ Stars: 1771
+★ Stars: 1773
 
 [Open repository](https://github.com/cerlymarco/MEDIUM_NoteBook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1773 | 921 | 
 | 2023-03-31 | 1771 | 922 | 
 | 2023-03-29 | 1769 | 920 | 
 | 2023-03-27 | 1767 | 916 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1745 | 911 | 
 | 2023-03-07 | 1742 | 911 | 
 | 2023-03-05 | 1740 | 910 | 
-| 2023-03-04 | 1738 | 910 | 
 

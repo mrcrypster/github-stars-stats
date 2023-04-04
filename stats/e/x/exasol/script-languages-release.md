@@ -1,8 +1,8 @@
 # exasol/script-languages-release - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10 | 4 | 
 | 2023-03-31 | 10 | 3 | 
 | 2023-03-29 | 10 | 3 | 
 | 2023-03-27 | 10 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 11 | 3 | 
 | 2023-03-06 | 11 | 3 | 
 | 2023-03-05 | 11 | 3 | 
-| 2023-03-04 | 11 | 3 | 
 

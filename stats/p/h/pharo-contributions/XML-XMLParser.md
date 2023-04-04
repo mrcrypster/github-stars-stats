@@ -1,6 +1,6 @@
 # pharo-contributions/XML-XMLParser - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 8 | 9 | 
+| 2023-04-03 | 8 | 9 | 
 | 2023-04-02 | 8 | 9 | 
 | 2023-03-30 | 8 | 9 | 
 | 2023-03-28 | 8 | 9 | 
@@ -35,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 7 | 8 | 
 | 2023-03-06 | 7 | 8 | 
 | 2023-03-05 | 7 | 8 | 
-| 2023-03-04 | 7 | 8 | 
 

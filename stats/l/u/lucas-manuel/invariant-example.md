@@ -1,6 +1,6 @@
 # lucas-manuel/invariant-example - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 105 | 6 | 
 | 2023-03-31 | 105 | 6 | 
 | 2023-03-29 | 104 | 6 | 
 | 2023-03-28 | 104 | 6 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 100 | 6 | 
 | 2023-03-07 | 100 | 6 | 
 | 2023-03-06 | 100 | 6 | 
-| 2023-03-04 | 100 | 6 | 
 

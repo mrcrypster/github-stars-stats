@@ -1,6 +1,6 @@
 # apple/swift-certificates - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 110 | 11 | 
 | 2023-04-02 | 110 | 11 | 
 | 2023-03-31 | 110 | 10 | 
 | 2023-03-29 | 109 | 10 | 

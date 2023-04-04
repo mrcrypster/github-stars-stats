@@ -1,10 +1,10 @@
 # shivaya-dav/DogeRat - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 220
+☋ Forks: 223
 
-★ Stars: 359
+★ Stars: 363
 
 [Open repository](https://github.com/shivaya-dav/DogeRat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 363 | 223 | 
 | 2023-04-01 | 359 | 220 | 
 | 2023-03-31 | 359 | 219 | 
 | 2023-03-29 | 354 | 216 | 

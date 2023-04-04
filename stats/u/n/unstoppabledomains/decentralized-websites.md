@@ -1,6 +1,6 @@
 # unstoppabledomains/decentralized-websites - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 379
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 203 | 379 | 
 | 2023-04-01 | 203 | 379 | 
 | 2023-03-29 | 203 | 379 | 
 | 2023-03-27 | 203 | 379 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 201 | 373 | 
 | 2023-03-06 | 201 | 373 | 
 | 2023-03-05 | 200 | 371 | 
-| 2023-03-04 | 200 | 371 | 
 

@@ -1,10 +1,10 @@
 # bridgecrewio/checkov - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 887
+☋ Forks: 883
 
-★ Stars: 5435
+★ Stars: 5441
 
 [Open repository](https://github.com/bridgecrewio/checkov)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5441 | 883 | 
 | 2023-04-01 | 5435 | 887 | 
 | 2023-03-31 | 5429 | 886 | 
 | 2023-03-29 | 5419 | 851 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 5340 | 830 | 
 | 2023-03-06 | 5339 | 828 | 
 | 2023-03-05 | 5336 | 828 | 
-| 2023-03-04 | 5335 | 828 | 
 

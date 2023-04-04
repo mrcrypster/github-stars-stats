@@ -1,6 +1,6 @@
 # flipperdevices/Flipper-iOS-App - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 385 | 57 | 
 | 2023-04-02 | 385 | 57 | 
 | 2023-03-30 | 383 | 56 | 
 | 2023-03-28 | 381 | 56 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 375 | 54 | 
 | 2023-03-07 | 375 | 54 | 
 | 2023-03-05 | 375 | 54 | 
-| 2023-03-04 | 374 | 53 | 
 

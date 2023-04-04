@@ -1,10 +1,10 @@
 # MartinThoma/LaTeX-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 412
 
-★ Stars: 1422
+★ Stars: 1424
 
 [Open repository](https://github.com/MartinThoma/LaTeX-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1424 | 412 | 
 | 2023-04-02 | 1422 | 412 | 
 | 2023-04-01 | 1422 | 412 | 
 | 2023-03-30 | 1422 | 412 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1409 | 412 | 
 | 2023-03-06 | 1409 | 412 | 
 | 2023-03-05 | 1409 | 412 | 
-| 2023-03-04 | 1409 | 412 | 
 

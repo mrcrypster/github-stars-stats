@@ -1,8 +1,8 @@
 # model-checking/cbmc-starter-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 22
+☋ Forks: 21
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 25 | 21 | 
 | 2023-04-02 | 25 | 22 | 
 | 2023-03-30 | 25 | 22 | 
 | 2023-03-28 | 25 | 22 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 26 | 22 | 
 | 2023-03-07 | 26 | 22 | 
 | 2023-03-05 | 26 | 22 | 
-| 2023-03-04 | 26 | 22 | 
 

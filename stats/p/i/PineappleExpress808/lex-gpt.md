@@ -1,10 +1,10 @@
 # PineappleExpress808/lex-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
-☋ Forks: 34
+☋ Forks: 39
 
-★ Stars: 200
+★ Stars: 218
 
 [Open repository](https://github.com/PineappleExpress808/lex-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 218 | 39 | 
 | 2023-03-30 | 200 | 34 | 
 | 2023-03-28 | 189 | 33 | 
 | 2023-03-26 | 179 | 33 | 

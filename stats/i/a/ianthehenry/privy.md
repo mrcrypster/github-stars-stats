@@ -1,0 +1,17 @@
+# ianthehenry/privy - stars & forks statistics
+
+Stats updated on Apr 2023, 03
+
+☋ Forks: 0
+
+★ Stars: 8
+
+[Open repository](https://github.com/ianthehenry/privy)
+
+[Open detailed stats for ianthehenry/privy](https://reviewgithub.com/rep/ianthehenry/privy)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-03 | 8 | - | 
+

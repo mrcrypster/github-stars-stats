@@ -1,10 +1,10 @@
 # kataras/iris - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2476
 
-★ Stars: 23801
+★ Stars: 23803
 
 [Open repository](https://github.com/kataras/iris)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 23803 | 2476 | 
 | 2023-04-02 | 23801 | 2476 | 
 | 2023-03-30 | 23794 | 2475 | 
 | 2023-03-28 | 23789 | 2475 | 

@@ -1,10 +1,10 @@
 # brianpetro/obsidian-smart-connections - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 22
+☋ Forks: 27
 
-★ Stars: 284
+★ Stars: 325
 
 [Open repository](https://github.com/brianpetro/obsidian-smart-connections)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 325 | 27 | 
 | 2023-03-31 | 284 | 22 | 
 | 2023-03-29 | 258 | 21 | 
 | 2023-03-28 | 248 | 21 | 

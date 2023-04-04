@@ -1,10 +1,10 @@
 # emacs-openai/codegpt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 47
+★ Stars: 50
 
 [Open repository](https://github.com/emacs-openai/codegpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 50 | 8 | 
 | 2023-04-02 | 47 | 8 | 
 | 2023-03-30 | 41 | 8 | 
 | 2023-03-28 | 41 | 8 | 

@@ -1,10 +1,10 @@
 # notplu/Nullify - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 140
+☋ Forks: 146
 
-★ Stars: 110
+★ Stars: 113
 
 [Open repository](https://github.com/notplu/Nullify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 113 | 146 | 
 | 2023-04-02 | 110 | 140 | 
 | 2023-04-01 | 107 | 134 | 
 | 2023-03-30 | 103 | 128 | 

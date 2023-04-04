@@ -1,10 +1,10 @@
 # oybab/TradingSystem - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 89
+☋ Forks: 92
 
-★ Stars: 430
+★ Stars: 433
 
 [Open repository](https://github.com/oybab/TradingSystem)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 433 | 92 | 
 | 2023-03-31 | 430 | 89 | 
 | 2023-03-29 | 428 | 88 | 
 | 2023-03-28 | 427 | 88 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 419 | 85 | 
 | 2023-03-07 | 418 | 85 | 
 | 2023-03-05 | 418 | 85 | 
-| 2023-03-04 | 418 | 85 | 
 

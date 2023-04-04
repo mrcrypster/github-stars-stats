@@ -1,6 +1,6 @@
 # microsoft/CDM - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 459
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1430 | 459 | 
 | 2023-03-31 | 1430 | 459 | 
 | 2023-03-29 | 1428 | 459 | 
 | 2023-03-28 | 1426 | 459 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 1410 | 455 | 
 | 2023-03-07 | 1409 | 455 | 
 | 2023-03-06 | 1410 | 455 | 
-| 2023-03-05 | 1407 | 455 | 
 

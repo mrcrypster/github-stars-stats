@@ -1,6 +1,6 @@
 # OpenFAST/r-test - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 34 | 71 | 
 | 2023-04-02 | 34 | 71 | 
 | 2023-03-30 | 34 | 70 | 
 | 2023-03-28 | 34 | 70 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 34 | 70 | 
 | 2023-03-06 | 33 | 70 | 
 | 2023-03-05 | 33 | 70 | 
-| 2023-03-04 | 33 | 70 | 
 

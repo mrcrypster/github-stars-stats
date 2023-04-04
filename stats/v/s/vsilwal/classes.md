@@ -1,6 +1,6 @@
 # vsilwal/classes - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 27 | 
 | 2023-04-02 | 6 | 27 | 
 | 2023-03-30 | 6 | 27 | 
 | 2023-03-28 | 6 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 6 | 27 | 
 | 2023-03-06 | 6 | 27 | 
 | 2023-03-05 | 6 | 27 | 
-| 2023-03-04 | 6 | 27 | 
 

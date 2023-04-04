@@ -1,6 +1,6 @@
 # pinilpypinilpy/sd-webui-colab-simplified - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 164 | 23 | 
 | 2023-04-02 | 164 | 23 | 
 | 2023-03-30 | 164 | 23 | 
 | 2023-03-28 | 164 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 162 | 24 | 
 | 2023-03-07 | 162 | 24 | 
 | 2023-03-05 | 162 | 24 | 
-| 2023-03-04 | 162 | 24 | 
 

@@ -1,10 +1,10 @@
 # junegunn/fzf.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 04
 
-☋ Forks: 548
+☋ Forks: 549
 
-★ Stars: 8769
+★ Stars: 8783
 
 [Open repository](https://github.com/junegunn/fzf.vim)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 8783 | 549 | 
+| 2023-04-03 | 8782 | 549 | 
 | 2023-03-31 | 8769 | 548 | 
 | 2023-03-30 | 8767 | 548 | 
 | 2023-03-29 | 8765 | 548 | 
@@ -36,5 +38,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 8708 | 541 | 
 | 2023-03-07 | 8706 | 541 | 
 | 2023-03-05 | 8702 | 541 | 
-| 2023-03-04 | 8696 | 541 | 
 

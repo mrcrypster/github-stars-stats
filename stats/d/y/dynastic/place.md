@@ -1,6 +1,6 @@
 # dynastic/place - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 271 | 84 | 
 | 2023-04-02 | 271 | 84 | 
 | 2023-03-30 | 268 | 83 | 
 | 2023-03-28 | 268 | 83 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 268 | 81 | 
 | 2023-03-08 | 268 | 81 | 
 | 2023-03-06 | 268 | 81 | 
-| 2023-03-04 | 268 | 81 | 
 

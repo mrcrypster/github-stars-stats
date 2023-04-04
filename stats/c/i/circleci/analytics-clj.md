@@ -1,6 +1,6 @@
 # circleci/analytics-clj - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 17 | 13 | 
 | 2023-04-02 | 17 | 13 | 
 | 2023-03-31 | 17 | 13 | 
 | 2023-03-29 | 17 | 13 | 

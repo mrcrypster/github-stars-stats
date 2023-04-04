@@ -1,10 +1,10 @@
 # SmiteshP/nvim-navbuddy - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 207
+★ Stars: 224
 
 [Open repository](https://github.com/SmiteshP/nvim-navbuddy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 224 | 8 | 
 | 2023-04-01 | 207 | 8 | 
 | 2023-03-31 | 202 | 8 | 
 | 2023-03-30 | 184 | 4 | 

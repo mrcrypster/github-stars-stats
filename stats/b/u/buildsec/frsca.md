@@ -1,10 +1,10 @@
 # buildsec/frsca - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/buildsec/frsca)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 151 | 27 | 
 | 2023-03-31 | 150 | 27 | 
 | 2023-03-29 | 150 | 27 | 
 | 2023-03-27 | 150 | 27 | 
@@ -31,5 +32,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 148 | 27 | 
 | 2023-03-07 | 148 | 27 | 
 | 2023-03-06 | 147 | 27 | 
-| 2023-03-04 | 147 | 27 | 
 

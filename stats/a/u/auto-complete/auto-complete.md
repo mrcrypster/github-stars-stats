@@ -1,6 +1,6 @@
 # auto-complete/auto-complete - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 295
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1681 | 295 | 
 | 2023-04-02 | 1681 | 295 | 
 | 2023-04-01 | 1680 | 295 | 
 | 2023-03-30 | 1680 | 295 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1678 | 296 | 
 | 2023-03-07 | 1678 | 296 | 
 | 2023-03-05 | 1679 | 296 | 
-| 2023-03-04 | 1679 | 296 | 
 

@@ -1,6 +1,6 @@
 # orzechowskid/tsi.el - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 44 | 5 | 
 | 2023-04-02 | 44 | 5 | 
 | 2023-03-30 | 44 | 5 | 
 | 2023-03-28 | 44 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 42 | 5 | 
 | 2023-03-07 | 42 | 5 | 
 | 2023-03-06 | 42 | 5 | 
-| 2023-03-04 | 42 | 5 | 
 

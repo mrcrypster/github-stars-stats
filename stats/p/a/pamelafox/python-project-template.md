@@ -1,10 +1,10 @@
 # pamelafox/python-project-template - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/pamelafox/python-project-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 41 | 8 | 
 | 2023-03-31 | 40 | 7 | 
 | 2023-03-29 | 38 | 6 | 
 | 2023-03-27 | 38 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 37 | 5 | 
 | 2023-03-07 | 37 | 5 | 
 | 2023-03-05 | 37 | 5 | 
-| 2023-03-04 | 37 | 5 | 
 

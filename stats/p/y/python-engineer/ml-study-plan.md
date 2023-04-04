@@ -1,10 +1,10 @@
 # python-engineer/ml-study-plan - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 346
+☋ Forks: 347
 
-★ Stars: 2557
+★ Stars: 2558
 
 [Open repository](https://github.com/python-engineer/ml-study-plan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2558 | 347 | 
 | 2023-04-02 | 2557 | 346 | 
 | 2023-03-31 | 2555 | 346 | 
 | 2023-03-29 | 2555 | 346 | 

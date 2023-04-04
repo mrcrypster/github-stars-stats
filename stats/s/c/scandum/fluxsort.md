@@ -1,10 +1,10 @@
 # scandum/fluxsort - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 609
+★ Stars: 610
 
 [Open repository](https://github.com/scandum/fluxsort)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 610 | 18 | 
 | 2023-04-02 | 609 | 18 | 
 | 2023-03-30 | 608 | 18 | 
 | 2023-03-28 | 608 | 18 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 603 | 17 | 
 | 2023-03-07 | 603 | 17 | 
 | 2023-03-06 | 603 | 17 | 
-| 2023-03-04 | 603 | 17 | 
 

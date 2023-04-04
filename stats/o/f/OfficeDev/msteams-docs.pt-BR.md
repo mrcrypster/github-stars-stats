@@ -1,6 +1,6 @@
 # OfficeDev/msteams-docs.pt-BR - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 9 | 2 | 
 | 2023-04-02 | 9 | 2 | 
 | 2023-03-31 | 9 | 2 | 
 | 2023-03-29 | 9 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 9 | 2 | 
 | 2023-03-07 | 9 | 2 | 
 | 2023-03-06 | 9 | 2 | 
-| 2023-03-05 | 9 | 2 | 
 

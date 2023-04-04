@@ -1,8 +1,8 @@
 # tomstillcoding/search - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 17 | 7 | 
 | 2023-03-31 | 17 | 8 | 
 | 2023-03-29 | 17 | 8 | 
 | 2023-03-28 | 17 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 16 | 7 | 
 | 2023-03-07 | 16 | 7 | 
 | 2023-03-05 | 16 | 7 | 
-| 2023-03-04 | 16 | 7 | 
 

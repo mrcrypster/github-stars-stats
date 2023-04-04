@@ -1,10 +1,10 @@
 # sakofchit/system.css - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 62
 
-★ Stars: 2056
+★ Stars: 2057
 
 [Open repository](https://github.com/sakofchit/system.css)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2057 | 62 | 
 | 2023-04-02 | 2056 | 62 | 
 | 2023-03-29 | 2054 | 62 | 
 | 2023-03-27 | 2052 | 62 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2034 | 61 | 
 | 2023-03-06 | 2034 | 60 | 
 | 2023-03-05 | 2033 | 60 | 
-| 2023-03-04 | 2030 | 59 | 
 

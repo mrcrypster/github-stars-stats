@@ -1,6 +1,6 @@
 # mytechnotalent/Hacking-Windows - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1102 | 92 | 
 | 2023-04-02 | 1102 | 92 | 
 | 2023-03-30 | 1101 | 92 | 
 | 2023-03-28 | 1101 | 92 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 1096 | 91 | 
 | 2023-03-06 | 1096 | 91 | 
 | 2023-03-05 | 1095 | 91 | 
-| 2023-03-04 | 1094 | 91 | 
 

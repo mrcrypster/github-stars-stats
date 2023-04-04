@@ -1,10 +1,10 @@
 # rammcodes/WowFolio - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 26
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/rammcodes/WowFolio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 172 | 26 | 
 | 2023-04-02 | 170 | 26 | 
 | 2023-03-30 | 166 | 20 | 
 | 2023-03-28 | 151 | 16 | 

@@ -1,6 +1,6 @@
 # ryanheise/audio_service - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 389
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 714 | 389 | 
 | 2023-03-31 | 714 | 389 | 
 | 2023-03-29 | 713 | 390 | 
 | 2023-03-27 | 713 | 390 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 707 | 386 | 
 | 2023-03-06 | 706 | 386 | 
 | 2023-03-05 | 706 | 386 | 
-| 2023-03-04 | 704 | 386 | 
 

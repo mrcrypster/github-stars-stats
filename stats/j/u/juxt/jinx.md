@@ -1,10 +1,10 @@
 # juxt/jinx - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 89
+★ Stars: 88
 
 [Open repository](https://github.com/juxt/jinx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 88 | 10 | 
 | 2023-04-02 | 89 | 10 | 
 | 2023-03-30 | 89 | 10 | 
 | 2023-03-28 | 89 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 89 | 10 | 
 | 2023-03-06 | 89 | 10 | 
 | 2023-03-05 | 89 | 10 | 
-| 2023-03-04 | 89 | 10 | 
 

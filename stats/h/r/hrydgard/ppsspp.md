@@ -1,10 +1,10 @@
 # hrydgard/ppsspp - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1930
+☋ Forks: 1929
 
-★ Stars: 8515
+★ Stars: 8520
 
 [Open repository](https://github.com/hrydgard/ppsspp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8520 | 1929 | 
 | 2023-03-31 | 8515 | 1930 | 
 | 2023-03-29 | 8505 | 1930 | 
 | 2023-03-28 | 8498 | 1928 | 

@@ -1,10 +1,10 @@
 # atteneder/glTFast - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 159
+☋ Forks: 160
 
-★ Stars: 867
+★ Stars: 868
 
 [Open repository](https://github.com/atteneder/glTFast)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 868 | 160 | 
 | 2023-04-02 | 867 | 159 | 
 | 2023-03-30 | 865 | 158 | 
 | 2023-03-28 | 864 | 158 | 

@@ -1,8 +1,8 @@
 # vim-scripts/DoxygenToolkit.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 78
+☋ Forks: 80
 
 ★ Stars: 156
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 156 | 80 | 
 | 2023-04-02 | 156 | 78 | 
 | 2023-03-30 | 156 | 78 | 
 | 2023-03-29 | 156 | 78 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 155 | 78 | 
 | 2023-03-06 | 155 | 78 | 
 | 2023-03-05 | 155 | 78 | 
-| 2023-03-04 | 155 | 78 | 
 

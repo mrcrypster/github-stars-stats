@@ -1,10 +1,10 @@
 # top-think/framework - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1034
 
-★ Stars: 2562
+★ Stars: 2565
 
 [Open repository](https://github.com/top-think/framework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2565 | 1034 | 
 | 2023-04-01 | 2562 | 1034 | 
 | 2023-03-31 | 2562 | 1034 | 
 | 2023-03-29 | 2563 | 1032 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 2557 | 1026 | 
 | 2023-03-07 | 2556 | 1026 | 
 | 2023-03-06 | 2557 | 1028 | 
-| 2023-03-04 | 2555 | 1028 | 
 

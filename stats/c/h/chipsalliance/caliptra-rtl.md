@@ -1,10 +1,10 @@
 # chipsalliance/caliptra-rtl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/chipsalliance/caliptra-rtl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16 | 4 | 
 | 2023-03-31 | 15 | 4 | 
 | 2023-03-29 | 15 | 4 | 
 | 2023-03-28 | 15 | 4 | 

@@ -1,10 +1,10 @@
 # EdwinYoungSteve/GreedyCraft2-Reborn - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/EdwinYoungSteve/GreedyCraft2-Reborn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 17 | 5 | 
 | 2023-04-02 | 16 | 5 | 
 | 2023-03-31 | 16 | 5 | 
 

@@ -1,6 +1,6 @@
 # wildart/Evolutionary.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 274 | 58 | 
 | 2023-04-01 | 274 | 58 | 
 | 2023-03-31 | 273 | 58 | 
 | 2023-03-29 | 272 | 58 | 

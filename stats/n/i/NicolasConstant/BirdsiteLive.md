@@ -1,6 +1,6 @@
 # NicolasConstant/BirdsiteLive - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 436 | 38 | 
 | 2023-03-31 | 436 | 38 | 
 | 2023-03-29 | 436 | 38 | 
 | 2023-03-27 | 435 | 38 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 431 | 38 | 
 | 2023-03-06 | 431 | 38 | 
 | 2023-03-05 | 431 | 38 | 
-| 2023-03-04 | 431 | 38 | 
 

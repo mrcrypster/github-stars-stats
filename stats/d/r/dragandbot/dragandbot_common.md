@@ -1,10 +1,10 @@
 # dragandbot/dragandbot_common - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/dragandbot/dragandbot_common)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1 | 6 | 
 | 2023-04-02 | - | 6 | 
 | 2023-03-29 | - | 6 | 
 | 2023-03-27 | - | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | - | 6 | 
 | 2023-03-06 | - | 6 | 
 | 2023-03-05 | - | 6 | 
-| 2023-03-04 | - | 6 | 
 

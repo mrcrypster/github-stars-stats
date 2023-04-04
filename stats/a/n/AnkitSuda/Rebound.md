@@ -1,6 +1,6 @@
 # AnkitSuda/Rebound - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 131 | 23 | 
 | 2023-04-02 | 131 | 23 | 
 | 2023-03-30 | 129 | 20 | 
 | 2023-03-28 | 128 | 20 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 121 | 17 | 
 | 2023-03-06 | 121 | 17 | 
 | 2023-03-05 | 121 | 17 | 
-| 2023-03-04 | 122 | 17 | 
 

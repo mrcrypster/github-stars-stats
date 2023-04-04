@@ -1,10 +1,10 @@
 # HarderThenHarder/transformers_tasks - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 133
+☋ Forks: 139
 
-★ Stars: 568
+★ Stars: 588
 
 [Open repository](https://github.com/HarderThenHarder/transformers_tasks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 588 | 139 | 
 | 2023-04-02 | 568 | 133 | 
 | 2023-04-01 | 564 | 133 | 
 | 2023-03-31 | 557 | 131 | 

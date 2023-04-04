@@ -1,10 +1,10 @@
 # DotNetNext/SqlSugar - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1236
 
-★ Stars: 4355
+★ Stars: 4356
 
 [Open repository](https://github.com/DotNetNext/SqlSugar)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4356 | 1236 | 
 | 2023-04-01 | 4355 | 1236 | 
 

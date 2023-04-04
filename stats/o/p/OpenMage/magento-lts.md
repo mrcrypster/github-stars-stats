@@ -1,10 +1,10 @@
 # OpenMage/magento-lts - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 417
 
-★ Stars: 787
+★ Stars: 788
 
 [Open repository](https://github.com/OpenMage/magento-lts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 788 | 417 | 
 | 2023-03-31 | 787 | 417 | 
 | 2023-03-29 | 787 | 417 | 
 | 2023-03-27 | 787 | 418 | 

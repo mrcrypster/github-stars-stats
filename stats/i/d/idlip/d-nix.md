@@ -1,10 +1,10 @@
 # idlip/d-nix - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/idlip/d-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 26 | 4 | 
 | 2023-03-31 | 24 | 4 | 
 | 2023-03-29 | 20 | 4 | 
 | 2023-03-27 | 17 | 3 | 

@@ -1,10 +1,10 @@
 # p-v-z/DialogueDreamland - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/p-v-z/DialogueDreamland)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 21 | 3 | 
 | 2023-04-01 | 20 | 3 | 
 | 2023-03-30 | 19 | 2 | 
 | 2023-03-28 | 17 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 15 | 1 | 
 | 2023-03-06 | 15 | 1 | 
 | 2023-03-05 | 15 | - | 
-| 2023-03-04 | 15 | - | 
 

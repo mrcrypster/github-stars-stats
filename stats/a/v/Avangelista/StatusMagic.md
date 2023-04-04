@@ -1,10 +1,10 @@
 # Avangelista/StatusMagic - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/Avangelista/StatusMagic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 177 | 5 | 
 | 2023-04-01 | 176 | 5 | 
 | 2023-03-31 | 175 | 5 | 
 | 2023-03-29 | 175 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 160 | 3 | 
 | 2023-03-06 | 159 | 2 | 
 | 2023-03-05 | 159 | 2 | 
-| 2023-03-04 | 159 | 2 | 
 

@@ -1,10 +1,10 @@
 # zalando/restful-api-guidelines - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 345
 
-★ Stars: 1880
+★ Stars: 1881
 
 [Open repository](https://github.com/zalando/restful-api-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1881 | 345 | 
 | 2023-04-02 | 1880 | 345 | 
 | 2023-03-30 | 1877 | 345 | 
 | 2023-03-28 | 1876 | 345 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1861 | 340 | 
 | 2023-03-07 | 1860 | 340 | 
 | 2023-03-06 | 1860 | 340 | 
-| 2023-03-04 | 1861 | 340 | 
 

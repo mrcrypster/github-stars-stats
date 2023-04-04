@@ -1,6 +1,6 @@
 # not-an-aardvark/lucky-commit - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1130 | 21 | 
 | 2023-04-02 | 1130 | 21 | 
 | 2023-03-30 | 1130 | 21 | 
 | 2023-03-28 | 1130 | 21 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1130 | 22 | 
 | 2023-03-07 | 1130 | 22 | 
 | 2023-03-06 | 1130 | 22 | 
-| 2023-03-05 | 1130 | 22 | 
 

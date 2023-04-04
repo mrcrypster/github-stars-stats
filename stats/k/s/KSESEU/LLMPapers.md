@@ -1,10 +1,10 @@
 # KSESEU/LLMPapers - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/KSESEU/LLMPapers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 133 | 12 | 
 | 2023-04-01 | 132 | 11 | 
 | 2023-03-31 | 132 | 11 | 
 | 2023-03-30 | 129 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 55 | 7 | 
 | 2023-03-06 | 54 | 6 | 
 | 2023-03-05 | 54 | 6 | 
-| 2023-03-04 | 54 | 6 | 
 

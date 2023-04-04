@@ -1,10 +1,10 @@
 # tweag/crem - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 37
+★ Stars: 40
 
 [Open repository](https://github.com/tweag/crem)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 40 | 3 | 
 | 2023-04-02 | 37 | 3 | 
 | 2023-03-31 | 37 | 3 | 
 | 2023-03-29 | 37 | 3 | 

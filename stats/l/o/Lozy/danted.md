@@ -1,10 +1,10 @@
 # Lozy/danted - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 366
+☋ Forks: 368
 
-★ Stars: 1000
+★ Stars: 1002
 
 [Open repository](https://github.com/Lozy/danted)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1002 | 368 | 
 | 2023-04-02 | 1000 | 366 | 
 | 2023-04-01 | 1000 | 366 | 
 | 2023-03-31 | 999 | 366 | 

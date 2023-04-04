@@ -1,0 +1,18 @@
+# Made-For-Gamers/game-jam-webgl-template - stars & forks statistics
+
+Stats updated on Apr 2023, 04
+
+☋ Forks: 4
+
+★ Stars: 1
+
+[Open repository](https://github.com/Made-For-Gamers/game-jam-webgl-template)
+
+[Open detailed stats for Made-For-Gamers/game-jam-webgl-template](https://reviewgithub.com/rep/Made-For-Gamers/game-jam-webgl-template)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-04 | 1 | 4 | 
+| 2023-04-03 | 1 | 4 | 
+

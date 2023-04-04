@@ -1,8 +1,8 @@
 # eggtoopain/Neovim-Configuration-Tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 90
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 90 | 51 | 
 | 2023-04-01 | 90 | 50 | 
 | 2023-03-30 | 88 | 50 | 
 

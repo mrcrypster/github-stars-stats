@@ -1,10 +1,10 @@
 # LaurieWired/JADXecute - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 228
+★ Stars: 237
 
 [Open repository](https://github.com/LaurieWired/JADXecute)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 237 | 18 | 
 | 2023-03-31 | 228 | 16 | 
 | 2023-03-29 | 193 | 15 | 
 

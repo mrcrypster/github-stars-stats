@@ -1,6 +1,6 @@
 # Azure/terraform-azurerm-network-security-group - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 61 | 86 | 
 | 2023-04-02 | 61 | 86 | 
 | 2023-03-30 | 61 | 86 | 
 | 2023-03-28 | 61 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 57 | 89 | 
 | 2023-03-07 | 57 | 89 | 
 | 2023-03-05 | 57 | 89 | 
-| 2023-03-04 | 57 | 89 | 
 

@@ -1,10 +1,10 @@
 # ai/easings.net - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 640
 
-★ Stars: 6906
+★ Stars: 6911
 
 [Open repository](https://github.com/ai/easings.net)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6911 | 640 | 
 | 2023-04-02 | 6906 | 640 | 
 | 2023-03-29 | 6901 | 640 | 
 | 2023-03-28 | 6899 | 640 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 6865 | 636 | 
 | 2023-03-07 | 6862 | 636 | 
 | 2023-03-05 | 6851 | 632 | 
-| 2023-03-04 | 6839 | 632 | 
 

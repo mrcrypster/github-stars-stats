@@ -1,6 +1,6 @@
 # apoorvkh/cvpr-latex-template - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 201 | 129 | 
 | 2023-03-31 | 201 | 129 | 
 | 2023-03-29 | 200 | 129 | 
 | 2023-03-28 | 200 | 129 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 193 | 120 | 
 | 2023-03-07 | 191 | 119 | 
 | 2023-03-05 | 190 | 117 | 
-| 2023-03-04 | 190 | 117 | 
 

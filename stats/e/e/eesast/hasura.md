@@ -1,6 +1,6 @@
 # eesast/hasura - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 15 | 
 | 2023-03-31 | - | 15 | 
 | 2023-03-29 | - | 15 | 
 | 2023-03-27 | - | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1 | 15 | 
 | 2023-03-06 | 1 | 15 | 
 | 2023-03-05 | 1 | 15 | 
-| 2023-03-04 | 1 | 15 | 
 

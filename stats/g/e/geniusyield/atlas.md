@@ -1,10 +1,10 @@
 # geniusyield/atlas - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2
+☋ Forks: 4
 
-★ Stars: 31
+★ Stars: 34
 
 [Open repository](https://github.com/geniusyield/atlas)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 34 | 4 | 
 | 2023-04-01 | 31 | 2 | 
 | 2023-03-31 | 30 | 1 | 
 

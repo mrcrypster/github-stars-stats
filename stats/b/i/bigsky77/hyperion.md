@@ -1,6 +1,6 @@
 # bigsky77/hyperion - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 14 | - | 
 | 2023-04-02 | 14 | - | 
 | 2023-04-01 | 14 | - | 
 | 2023-03-31 | 14 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 14 | - | 
 | 2023-03-06 | 14 | - | 
 | 2023-03-05 | 14 | - | 
-| 2023-03-04 | 14 | - | 
 

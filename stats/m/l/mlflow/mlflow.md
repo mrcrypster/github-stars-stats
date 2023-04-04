@@ -1,10 +1,10 @@
 # mlflow/mlflow - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 3280
+☋ Forks: 3282
 
-★ Stars: 13973
+★ Stars: 13986
 
 [Open repository](https://github.com/mlflow/mlflow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13986 | 3282 | 
 | 2023-04-02 | 13973 | 3280 | 
 | 2023-03-31 | 13958 | 3278 | 
 | 2023-03-29 | 13948 | 3275 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 13794 | 3227 | 
 | 2023-03-06 | 13783 | 3223 | 
 | 2023-03-05 | 13773 | 3218 | 
-| 2023-03-04 | 13770 | 3217 | 
 

@@ -1,10 +1,10 @@
 # UI-Lovelace-Minimalist/UI - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 365
+☋ Forks: 366
 
-★ Stars: 1114
+★ Stars: 1115
 
 [Open repository](https://github.com/UI-Lovelace-Minimalist/UI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1115 | 366 | 
 | 2023-04-02 | 1114 | 365 | 
 | 2023-03-30 | 1110 | 366 | 
 | 2023-03-28 | 1109 | 368 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1098 | 363 | 
 | 2023-03-07 | 1098 | 362 | 
 | 2023-03-05 | 1097 | 362 | 
-| 2023-03-04 | 1096 | 362 | 
 

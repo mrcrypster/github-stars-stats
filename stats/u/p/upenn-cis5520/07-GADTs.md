@@ -1,6 +1,6 @@
 # upenn-cis5520/07-GADTs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 15 | 
 | 2023-04-02 | - | 15 | 
 | 2023-03-30 | - | 15 | 
 | 2023-03-28 | - | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | - | 15 | 
 | 2023-03-07 | - | 15 | 
 | 2023-03-06 | - | 15 | 
-| 2023-03-05 | - | 15 | 
 

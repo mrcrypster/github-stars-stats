@@ -1,10 +1,10 @@
 # n0-computer/iroh - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 615
+★ Stars: 618
 
 [Open repository](https://github.com/n0-computer/iroh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 618 | 63 | 
 | 2023-03-31 | 615 | 62 | 
 | 2023-03-29 | 607 | 62 | 
 | 2023-03-27 | 605 | 62 | 

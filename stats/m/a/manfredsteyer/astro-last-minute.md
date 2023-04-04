@@ -1,6 +1,6 @@
 # manfredsteyer/astro-last-minute - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 7 | 
 | 2023-04-02 | 20 | 7 | 
 | 2023-03-30 | 20 | 7 | 
 | 2023-03-28 | 20 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 19 | 7 | 
 | 2023-03-06 | 19 | 7 | 
 | 2023-03-05 | 19 | 7 | 
-| 2023-03-04 | 19 | 7 | 
 

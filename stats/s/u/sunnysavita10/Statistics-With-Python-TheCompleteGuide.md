@@ -1,10 +1,10 @@
 # sunnysavita10/Statistics-With-Python-TheCompleteGuide - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 74
+☋ Forks: 76
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/sunnysavita10/Statistics-With-Python-TheCompleteGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 31 | 76 | 
 | 2023-03-31 | 30 | 74 | 
 | 2023-03-29 | 27 | 72 | 
 | 2023-03-27 | 26 | 73 | 

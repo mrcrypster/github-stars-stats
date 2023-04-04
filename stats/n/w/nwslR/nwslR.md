@@ -1,6 +1,6 @@
 # nwslR/nwslR - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 24 | - | 
 | 2023-03-31 | 24 | - | 
 | 2023-03-28 | 23 | - | 
 | 2023-03-27 | 23 | - | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 16 | - | 
 | 2023-03-06 | 16 | - | 
 | 2023-03-05 | 15 | - | 
-| 2023-03-04 | 15 | - | 
 

@@ -1,6 +1,6 @@
 # dotlin-org/dotlin - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 212 | 3 | 
 | 2023-04-01 | 212 | 3 | 
 | 2023-03-29 | 212 | 3 | 
 | 2023-03-28 | 212 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 210 | 3 | 
 | 2023-03-06 | 210 | 3 | 
 | 2023-03-05 | 211 | 3 | 
-| 2023-03-04 | 211 | 3 | 
 

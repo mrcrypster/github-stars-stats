@@ -1,10 +1,10 @@
 # microsoft/vscode-remote-try-java - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 326
+☋ Forks: 328
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/microsoft/vscode-remote-try-java)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 209 | 328 | 
 | 2023-03-31 | 208 | 326 | 
 | 2023-03-29 | 205 | 325 | 
 | 2023-03-27 | 205 | 325 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 201 | 321 | 
 | 2023-03-06 | 200 | 321 | 
 | 2023-03-05 | 200 | 321 | 
-| 2023-03-04 | 200 | 321 | 
 

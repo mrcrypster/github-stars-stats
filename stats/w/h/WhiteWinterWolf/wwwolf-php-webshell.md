@@ -1,8 +1,8 @@
 # WhiteWinterWolf/wwwolf-php-webshell - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 134
+☋ Forks: 136
 
 ★ Stars: 397
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 397 | 136 | 
 | 2023-04-01 | 397 | 134 | 
 | 2023-03-31 | 397 | 134 | 
 | 2023-03-29 | 392 | 134 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 380 | 131 | 
 | 2023-03-07 | 380 | 131 | 
 | 2023-03-05 | 378 | 129 | 
-| 2023-03-04 | 377 | 129 | 
 

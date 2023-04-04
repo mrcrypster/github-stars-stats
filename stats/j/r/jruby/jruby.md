@@ -1,10 +1,10 @@
 # jruby/jruby - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 924
 
-★ Stars: 3679
+★ Stars: 3678
 
 [Open repository](https://github.com/jruby/jruby)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3678 | 924 | 
 | 2023-04-02 | 3679 | 924 | 
 | 2023-03-31 | 3679 | 925 | 
 | 2023-03-29 | 3679 | 925 | 

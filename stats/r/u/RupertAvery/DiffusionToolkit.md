@@ -1,10 +1,10 @@
 # RupertAvery/DiffusionToolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 281
+★ Stars: 280
 
 [Open repository](https://github.com/RupertAvery/DiffusionToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 280 | 17 | 
 | 2023-03-31 | 281 | 15 | 
 | 2023-03-29 | 276 | 15 | 
 | 2023-03-27 | 273 | 15 | 

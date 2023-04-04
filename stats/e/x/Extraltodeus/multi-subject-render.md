@@ -1,6 +1,6 @@
 # Extraltodeus/multi-subject-render - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 283 | 24 | 
 | 2023-04-02 | 283 | 24 | 
 | 2023-03-30 | 280 | 24 | 
 | 2023-03-28 | 279 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 265 | 24 | 
 | 2023-03-06 | 265 | 23 | 
 | 2023-03-05 | 265 | 23 | 
-| 2023-03-04 | 264 | 23 | 
 

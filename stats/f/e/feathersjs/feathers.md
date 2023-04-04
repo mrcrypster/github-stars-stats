@@ -1,10 +1,10 @@
 # feathersjs/feathers - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 729
 
-★ Stars: 14529
+★ Stars: 14533
 
 [Open repository](https://github.com/feathersjs/feathers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14533 | 729 | 
 | 2023-04-02 | 14529 | 729 | 
 | 2023-03-30 | 14525 | 730 | 
 | 2023-03-28 | 14521 | 730 | 

@@ -1,8 +1,8 @@
 # dyweb/Deedy-Resume-for-Chinese - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 105
+☋ Forks: 104
 
 ★ Stars: 355
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 355 | 104 | 
 | 2023-04-02 | 355 | 105 | 
 | 2023-03-31 | 354 | 105 | 
 | 2023-03-29 | 351 | 105 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 350 | 105 | 
 | 2023-03-07 | 350 | 106 | 
 | 2023-03-05 | 350 | 106 | 
-| 2023-03-04 | 350 | 106 | 
 

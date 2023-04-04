@@ -1,10 +1,10 @@
 # foxfriday/evil-ts - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/foxfriday/evil-ts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14 | 1 | 
 | 2023-04-02 | 13 | 1 | 
 | 2023-03-30 | 13 | 1 | 
 

@@ -1,10 +1,10 @@
 # indeedeng/iwf - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 26
 
-★ Stars: 297
+★ Stars: 298
 
 [Open repository](https://github.com/indeedeng/iwf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 298 | 26 | 
 | 2023-04-02 | 297 | 26 | 
 | 2023-03-30 | 294 | 26 | 
 | 2023-03-28 | 288 | 24 | 

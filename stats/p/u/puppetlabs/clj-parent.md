@@ -1,6 +1,6 @@
 # puppetlabs/clj-parent - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 46 | 
 | 2023-04-02 | 2 | 46 | 
 | 2023-03-30 | 2 | 46 | 
 | 2023-03-28 | 2 | 46 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 2 | 46 | 
 | 2023-03-07 | 2 | 46 | 
 | 2023-03-05 | 2 | 46 | 
-| 2023-03-04 | 2 | 46 | 
 

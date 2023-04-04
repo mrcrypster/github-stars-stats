@@ -1,10 +1,10 @@
 # bortexz/resocket - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 25
 
 [Open repository](https://github.com/bortexz/resocket)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 25 | - | 
 | 2023-04-01 | 26 | - | 
 | 2023-03-30 | 26 | - | 
 | 2023-03-28 | 26 | - | 

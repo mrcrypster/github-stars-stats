@@ -1,10 +1,10 @@
 # evgenyneu/keychain-swift - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 309
+☋ Forks: 307
 
-★ Stars: 2387
+★ Stars: 2388
 
 [Open repository](https://github.com/evgenyneu/keychain-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2388 | 307 | 
 | 2023-04-02 | 2387 | 309 | 
 | 2023-03-31 | 2385 | 309 | 
 | 2023-03-29 | 2384 | 307 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 2372 | 305 | 
 | 2023-03-07 | 2370 | 305 | 
 | 2023-03-06 | 2369 | 305 | 
-| 2023-03-04 | 2368 | 305 | 
 

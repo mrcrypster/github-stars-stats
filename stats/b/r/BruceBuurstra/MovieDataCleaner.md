@@ -1,6 +1,6 @@
 # BruceBuurstra/MovieDataCleaner - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 3 | 
 | 2023-04-02 | 2 | 3 | 
 | 2023-03-31 | 2 | 3 | 
 | 2023-03-29 | 2 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 2 | 3 | 
 | 2023-03-07 | 2 | 3 | 
 | 2023-03-06 | 2 | 3 | 
-| 2023-03-05 | 2 | 3 | 
 

@@ -1,10 +1,10 @@
 # farizdotid/DAFTAR-API-LOKAL-INDONESIA - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1224
+☋ Forks: 1226
 
-★ Stars: 3114
+★ Stars: 3119
 
 [Open repository](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3119 | 1226 | 
 | 2023-03-31 | 3114 | 1224 | 
 | 2023-03-29 | 3108 | 1223 | 
 | 2023-03-27 | 3105 | 1221 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 3053 | 1208 | 
 | 2023-03-07 | 3048 | 1208 | 
 | 2023-03-05 | 3046 | 1207 | 
-| 2023-03-04 | 3044 | 1207 | 
 

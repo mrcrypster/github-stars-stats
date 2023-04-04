@@ -1,10 +1,10 @@
 # stripe/stripe-react-native - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 216
 
-★ Stars: 1013
+★ Stars: 1014
 
 [Open repository](https://github.com/stripe/stripe-react-native)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1014 | 216 | 
 | 2023-03-31 | 1013 | 216 | 
 | 2023-03-29 | 1010 | 218 | 
 | 2023-03-27 | 1008 | 218 | 
@@ -31,5 +32,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 1000 | 211 | 
 | 2023-03-07 | 998 | 210 | 
 | 2023-03-06 | 998 | 210 | 
-| 2023-03-05 | 997 | 210 | 
 

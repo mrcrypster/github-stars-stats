@@ -1,8 +1,8 @@
 # PretendoNetwork/website - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 30 | 44 | 
 | 2023-04-02 | 30 | 43 | 
 | 2023-03-30 | 30 | 42 | 
 | 2023-03-28 | 29 | 43 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 27 | 42 | 
 | 2023-03-07 | 27 | 42 | 
 | 2023-03-05 | 26 | 42 | 
-| 2023-03-04 | 26 | 42 | 
 

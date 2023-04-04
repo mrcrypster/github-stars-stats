@@ -1,6 +1,6 @@
 # NorskRegnesentral/shapr - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 106 | 26 | 
 | 2023-04-02 | 106 | 26 | 
 | 2023-03-30 | 106 | 26 | 
 | 2023-03-28 | 106 | 26 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 106 | 26 | 
 | 2023-03-07 | 106 | 26 | 
 | 2023-03-05 | 106 | 26 | 
-| 2023-03-04 | 106 | 26 | 
 

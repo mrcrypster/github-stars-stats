@@ -1,6 +1,6 @@
 # anthonyalfimov/JUCE-CMake-Plugin-Template - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 31 | 2 | 
 | 2023-04-02 | 31 | 2 | 
 | 2023-04-01 | 31 | 2 | 
 | 2023-03-30 | 31 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 30 | 2 | 
 | 2023-03-07 | 30 | 2 | 
 | 2023-03-06 | 30 | 2 | 
-| 2023-03-04 | 30 | 2 | 
 

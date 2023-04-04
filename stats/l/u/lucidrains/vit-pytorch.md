@@ -1,10 +1,10 @@
 # lucidrains/vit-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2243
+☋ Forks: 2245
 
-★ Stars: 13502
+★ Stars: 13523
 
 [Open repository](https://github.com/lucidrains/vit-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13523 | 2245 | 
 | 2023-04-02 | 13502 | 2243 | 
 | 2023-03-31 | 13480 | 2237 | 
 | 2023-03-29 | 13440 | 2234 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 13153 | 2187 | 
 | 2023-03-06 | 13130 | 2185 | 
 | 2023-03-05 | 13107 | 2181 | 
-| 2023-03-04 | 13091 | 2177 | 
 

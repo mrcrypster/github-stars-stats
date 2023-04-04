@@ -1,6 +1,6 @@
 # roc-lang/roc - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1901 | 108 | 
 | 2023-04-02 | 1901 | 108 | 
 | 2023-04-01 | 1900 | 108 | 
 | 2023-03-30 | 1890 | 108 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1731 | 99 | 
 | 2023-03-06 | 1698 | 99 | 
 | 2023-03-05 | 1694 | 98 | 
-| 2023-03-04 | 1694 | 97 | 
 

@@ -1,10 +1,10 @@
 # agrafix/openai-hs - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/agrafix/openai-hs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 25 | 10 | 
 | 2023-04-01 | 23 | 10 | 
 | 2023-03-31 | 22 | 10 | 
 

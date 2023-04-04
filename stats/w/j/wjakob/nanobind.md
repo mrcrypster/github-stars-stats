@@ -1,10 +1,10 @@
 # wjakob/nanobind - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 70
 
-★ Stars: 1269
+★ Stars: 1282
 
 [Open repository](https://github.com/wjakob/nanobind)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1282 | 70 | 
 | 2023-04-01 | 1269 | 70 | 
 

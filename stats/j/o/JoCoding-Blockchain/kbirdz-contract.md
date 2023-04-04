@@ -1,6 +1,6 @@
 # JoCoding-Blockchain/kbirdz-contract - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 24 | 32 | 
 | 2023-04-02 | 24 | 32 | 
 | 2023-03-30 | 24 | 32 | 
 | 2023-03-28 | 24 | 32 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 24 | 32 | 
 | 2023-03-07 | 24 | 32 | 
 | 2023-03-05 | 24 | 32 | 
-| 2023-03-04 | 24 | 32 | 
 

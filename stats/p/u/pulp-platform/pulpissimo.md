@@ -1,6 +1,6 @@
 # pulp-platform/pulpissimo - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 287 | 138 | 
 | 2023-03-31 | 287 | 138 | 
 | 2023-03-29 | 287 | 138 | 
 | 2023-03-27 | 285 | 138 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 276 | 137 | 
 | 2023-03-07 | 276 | 137 | 
 | 2023-03-06 | 275 | 137 | 
-| 2023-03-04 | 275 | 137 | 
 

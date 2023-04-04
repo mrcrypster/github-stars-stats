@@ -1,10 +1,10 @@
 # protesilaos/modus-themes - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/protesilaos/modus-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 312 | 16 | 
 | 2023-04-02 | 311 | 16 | 
 | 2023-03-30 | 310 | 16 | 
 | 2023-03-28 | 309 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 299 | 15 | 
 | 2023-03-07 | 299 | 15 | 
 | 2023-03-06 | 299 | 15 | 
-| 2023-03-04 | 299 | 15 | 
 

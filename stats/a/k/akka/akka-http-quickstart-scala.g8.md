@@ -1,6 +1,6 @@
 # akka/akka-http-quickstart-scala.g8 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 127 | 54 | 
 | 2023-04-02 | 127 | 54 | 
 | 2023-03-30 | 127 | 54 | 
 | 2023-03-28 | 127 | 54 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 127 | 54 | 
 | 2023-03-07 | 127 | 54 | 
 | 2023-03-05 | 127 | 54 | 
-| 2023-03-04 | 126 | 54 | 
 

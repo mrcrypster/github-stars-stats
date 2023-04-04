@@ -1,10 +1,10 @@
 # ai-genie/chatgpt-vscode - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 271
+★ Stars: 309
 
 [Open repository](https://github.com/ai-genie/chatgpt-vscode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 309 | 15 | 
 | 2023-03-31 | 271 | 14 | 
 | 2023-03-29 | 219 | 11 | 
 | 2023-03-27 | 187 | 9 | 

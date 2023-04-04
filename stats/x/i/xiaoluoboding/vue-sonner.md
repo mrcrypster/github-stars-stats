@@ -1,10 +1,10 @@
 # xiaoluoboding/vue-sonner - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 92
+★ Stars: 112
 
 [Open repository](https://github.com/xiaoluoboding/vue-sonner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 112 | 2 | 
 | 2023-04-02 | 92 | 2 | 
 | 2023-03-30 | 68 | 2 | 
 

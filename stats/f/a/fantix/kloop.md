@@ -1,6 +1,6 @@
 # fantix/kloop - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 179 | 9 | 
 | 2023-04-02 | 179 | 9 | 
 | 2023-04-01 | 179 | 9 | 
 | 2023-03-30 | 179 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 176 | 9 | 
 | 2023-03-07 | 175 | 9 | 
 | 2023-03-05 | 173 | 9 | 
-| 2023-03-04 | 173 | 9 | 
 

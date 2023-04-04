@@ -1,8 +1,8 @@
 # purescript/purescript-control - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 04
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 57
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 57 | 30 | 
+| 2023-04-03 | 57 | 30 | 
 | 2023-03-31 | 57 | 29 | 
 | 2023-03-29 | 57 | 29 | 
 | 2023-03-28 | 57 | 29 | 
@@ -37,5 +39,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 57 | 29 | 
 | 2023-03-07 | 57 | 29 | 
 | 2023-03-06 | 56 | 29 | 
-| 2023-03-04 | 56 | 29 | 
 

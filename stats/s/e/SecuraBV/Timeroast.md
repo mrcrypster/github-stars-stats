@@ -1,10 +1,10 @@
 # SecuraBV/Timeroast - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/SecuraBV/Timeroast)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 116 | 10 | 
 | 2023-04-02 | 115 | 10 | 
 | 2023-03-31 | 114 | 10 | 
 | 2023-03-29 | 106 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 87 | 7 | 
 | 2023-03-06 | 85 | 7 | 
 | 2023-03-05 | 79 | 6 | 
-| 2023-03-04 | 75 | 6 | 
 

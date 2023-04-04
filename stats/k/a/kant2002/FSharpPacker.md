@@ -1,6 +1,6 @@
 # kant2002/FSharpPacker - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 40 | 2 | 
 | 2023-04-02 | 40 | 2 | 
 | 2023-03-30 | 40 | 2 | 
 | 2023-03-28 | 40 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 41 | 2 | 
 | 2023-03-07 | 41 | 2 | 
 | 2023-03-06 | 41 | 2 | 
-| 2023-03-05 | 41 | 2 | 
 

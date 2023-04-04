@@ -1,10 +1,10 @@
 # akto-api-security/community-edition - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 240
+★ Stars: 244
 
 [Open repository](https://github.com/akto-api-security/community-edition)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 244 | 46 | 
 | 2023-04-01 | 240 | 45 | 
 | 2023-03-29 | 235 | 43 | 
 | 2023-03-27 | 231 | 43 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 148 | 22 | 
 | 2023-03-07 | 142 | 21 | 
 | 2023-03-06 | 138 | 21 | 
-| 2023-03-04 | 134 | 21 | 
 

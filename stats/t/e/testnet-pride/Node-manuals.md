@@ -1,10 +1,10 @@
 # testnet-pride/Node-manuals - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/testnet-pride/Node-manuals)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 10 | 
 | 2023-04-02 | 12 | 10 | 
 

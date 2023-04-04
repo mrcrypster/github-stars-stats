@@ -1,6 +1,6 @@
 # Iteo/hooked_bloc - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 48 | 1 | 
 | 2023-04-02 | 48 | 1 | 
 | 2023-03-30 | 48 | 1 | 
 | 2023-03-28 | 48 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 48 | 1 | 
 | 2023-03-07 | 48 | 1 | 
 | 2023-03-05 | 48 | 1 | 
-| 2023-03-04 | 48 | 1 | 
 

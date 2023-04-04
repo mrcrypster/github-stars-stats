@@ -1,6 +1,6 @@
 # TheParmak/conti-leaks-englished - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 522 | 135 | 
 | 2023-04-01 | 522 | 135 | 
 | 2023-03-30 | 521 | 135 | 
 | 2023-03-28 | 520 | 135 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 518 | 136 | 
 | 2023-03-06 | 518 | 136 | 
 | 2023-03-05 | 518 | 136 | 
-| 2023-03-04 | 518 | 136 | 
 

@@ -1,10 +1,10 @@
 # GodotVR/godot-xr-template - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/GodotVR/godot-xr-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 7 | 
 | 2023-03-31 | 12 | 6 | 
 | 2023-03-29 | 12 | 6 | 
 | 2023-03-27 | 12 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 11 | 6 | 
 | 2023-03-07 | 11 | 6 | 
 | 2023-03-06 | 11 | 6 | 
-| 2023-03-05 | 10 | 6 | 
 

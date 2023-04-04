@@ -1,10 +1,10 @@
 # StunlockStudios/vrising-dedicated-server-instructions - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
-★ Stars: 349
+★ Stars: 350
 
 [Open repository](https://github.com/StunlockStudios/vrising-dedicated-server-instructions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 350 | 33 | 
 | 2023-03-31 | 349 | 33 | 
 | 2023-03-29 | 348 | 33 | 
 | 2023-03-27 | 348 | 33 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 343 | 32 | 
 | 2023-03-07 | 343 | 32 | 
 | 2023-03-05 | 343 | 32 | 
-| 2023-03-04 | 343 | 32 | 
 

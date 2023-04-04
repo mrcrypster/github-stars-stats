@@ -1,10 +1,10 @@
 # TBXark/ChatGPT-Telegram-Workers - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 561
+☋ Forks: 567
 
-★ Stars: 2355
+★ Stars: 2382
 
 [Open repository](https://github.com/TBXark/ChatGPT-Telegram-Workers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2382 | 567 | 
 | 2023-04-02 | 2355 | 561 | 
 | 2023-03-31 | 2320 | 554 | 
 | 2023-03-29 | 2293 | 546 | 

@@ -1,10 +1,10 @@
 # nomeata/haskell-on-fastly - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/nomeata/haskell-on-fastly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 31 | - | 
 | 2023-04-02 | 29 | - | 
 | 2023-03-31 | 30 | - | 
 | 2023-03-29 | 30 | - | 

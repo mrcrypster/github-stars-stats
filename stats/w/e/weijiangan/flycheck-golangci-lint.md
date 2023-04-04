@@ -1,6 +1,6 @@
 # weijiangan/flycheck-golangci-lint - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 40 | 16 | 
 | 2023-04-01 | 40 | 16 | 
 | 2023-03-29 | 40 | 16 | 
 | 2023-03-28 | 40 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 40 | 15 | 
 | 2023-03-06 | 40 | 15 | 
 | 2023-03-05 | 40 | 15 | 
-| 2023-03-04 | 40 | 15 | 
 

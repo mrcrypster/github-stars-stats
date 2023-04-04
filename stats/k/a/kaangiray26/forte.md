@@ -1,6 +1,6 @@
 # kaangiray26/forte - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 191 | 6 | 
 | 2023-04-02 | 191 | 6 | 
 | 2023-03-31 | 190 | 6 | 
 | 2023-03-29 | 190 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 169 | 7 | 
 | 2023-03-06 | 163 | 7 | 
 | 2023-03-05 | 161 | 7 | 
-| 2023-03-04 | 152 | 6 | 
 

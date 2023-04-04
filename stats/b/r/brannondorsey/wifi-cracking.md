@@ -1,10 +1,10 @@
 # brannondorsey/wifi-cracking - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1032
 
-★ Stars: 10396
+★ Stars: 10400
 
 [Open repository](https://github.com/brannondorsey/wifi-cracking)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10400 | 1032 | 
 | 2023-04-02 | 10396 | 1032 | 
 | 2023-03-30 | 10392 | 1031 | 
 | 2023-03-28 | 10390 | 1031 | 

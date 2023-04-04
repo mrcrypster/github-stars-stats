@@ -1,6 +1,6 @@
 # noib3/crop - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 124 | - | 
 | 2023-04-01 | 124 | - | 
 | 2023-03-29 | 123 | - | 
 | 2023-03-27 | 123 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 115 | 1 | 
 | 2023-03-07 | 114 | 1 | 
 | 2023-03-05 | 115 | 1 | 
-| 2023-03-04 | 111 | 1 | 
 

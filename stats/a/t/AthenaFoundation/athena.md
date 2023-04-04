@@ -1,10 +1,10 @@
 # AthenaFoundation/athena - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/AthenaFoundation/athena)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 50 | 3 | 
 | 2023-03-30 | 49 | 3 | 
 | 2023-03-28 | 49 | 3 | 
 | 2023-03-27 | 49 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 47 | 3 | 
 | 2023-03-07 | 46 | 2 | 
 | 2023-03-06 | 46 | 2 | 
-| 2023-03-04 | 46 | 2 | 
 

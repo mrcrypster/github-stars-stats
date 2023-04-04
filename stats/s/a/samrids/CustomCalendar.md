@@ -1,6 +1,6 @@
 # samrids/CustomCalendar - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4 | 5 | 
 | 2023-04-01 | 4 | 5 | 
 | 2023-03-29 | 4 | 5 | 
 | 2023-03-28 | 4 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 4 | 5 | 
 | 2023-03-07 | 4 | 5 | 
 | 2023-03-05 | 4 | 5 | 
-| 2023-03-04 | 4 | 5 | 
 

@@ -1,10 +1,10 @@
 # makslevental/bragghls - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/makslevental/bragghls)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 54 | 6 | 
 | 2023-03-31 | 53 | 6 | 
 | 2023-03-28 | 52 | 6 | 
 | 2023-03-27 | 52 | 6 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 44 | 5 | 
 | 2023-03-07 | 44 | 5 | 
 | 2023-03-06 | 44 | 5 | 
-| 2023-03-04 | 44 | 5 | 
 

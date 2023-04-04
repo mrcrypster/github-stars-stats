@@ -1,10 +1,10 @@
 # tukasa0001/TownOfHost - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/tukasa0001/TownOfHost)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 206 | 148 | 
 | 2023-04-01 | 205 | 147 | 
 | 2023-03-31 | 205 | 147 | 
 | 2023-03-29 | 205 | 146 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 195 | 139 | 
 | 2023-03-06 | 195 | 139 | 
 | 2023-03-05 | 195 | 138 | 
-| 2023-03-04 | 194 | 139 | 
 

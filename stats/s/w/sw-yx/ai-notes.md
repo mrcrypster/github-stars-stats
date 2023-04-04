@@ -1,10 +1,10 @@
 # sw-yx/ai-notes - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 177
+☋ Forks: 180
 
-★ Stars: 2358
+★ Stars: 2437
 
 [Open repository](https://github.com/sw-yx/ai-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2437 | 180 | 
 | 2023-04-02 | 2358 | 177 | 
 | 2023-04-01 | 2319 | 174 | 
 | 2023-03-31 | 2229 | 171 | 

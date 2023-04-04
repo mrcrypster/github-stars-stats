@@ -1,6 +1,6 @@
 # DeNA/IsarTutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4 | - | 
 | 2023-04-01 | 4 | - | 
 | 2023-03-31 | 4 | - | 
 | 2023-03-29 | 4 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 4 | - | 
 | 2023-03-07 | 4 | - | 
 | 2023-03-05 | 4 | - | 
-| 2023-03-04 | 4 | - | 
 

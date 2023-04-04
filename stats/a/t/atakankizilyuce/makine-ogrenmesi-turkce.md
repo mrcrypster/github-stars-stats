@@ -1,8 +1,8 @@
 # atakankizilyuce/makine-ogrenmesi-turkce - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 16
+☋ Forks: 15
 
 ★ Stars: 132
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 132 | 15 | 
 | 2023-04-02 | 132 | 16 | 
 | 2023-03-30 | 132 | 17 | 
 | 2023-03-28 | 132 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 130 | 17 | 
 | 2023-03-07 | 130 | 17 | 
 | 2023-03-06 | 130 | 17 | 
-| 2023-03-04 | 130 | 17 | 
 

@@ -1,10 +1,10 @@
 # xuchunyang/elisp-demos - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 180
+★ Stars: 179
 
 [Open repository](https://github.com/xuchunyang/elisp-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 179 | 18 | 
 | 2023-03-31 | 180 | 18 | 
 | 2023-03-29 | 179 | 18 | 
 | 2023-03-27 | 179 | 18 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 170 | 18 | 
 | 2023-03-06 | 170 | 18 | 
 | 2023-03-05 | 170 | 18 | 
-| 2023-03-04 | 170 | 18 | 
 

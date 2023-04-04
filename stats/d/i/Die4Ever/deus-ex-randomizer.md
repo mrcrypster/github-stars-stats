@@ -1,6 +1,6 @@
 # Die4Ever/deus-ex-randomizer - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 76 | 6 | 
 | 2023-04-02 | 76 | 6 | 
 | 2023-03-30 | 76 | 6 | 
 | 2023-03-28 | 76 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 76 | 5 | 
 | 2023-03-06 | 76 | 5 | 
 | 2023-03-05 | 76 | 5 | 
-| 2023-03-04 | 76 | 5 | 
 

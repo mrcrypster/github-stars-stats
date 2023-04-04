@@ -1,6 +1,6 @@
 # Netflix/awsobjectmapper - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 42 | 37 | 
 | 2023-03-31 | 42 | 37 | 
 | 2023-03-30 | 42 | 37 | 
 | 2023-03-29 | 42 | 37 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 43 | 36 | 
 | 2023-03-07 | 43 | 36 | 
 | 2023-03-06 | 43 | 36 | 
-| 2023-03-04 | 42 | 36 | 
 

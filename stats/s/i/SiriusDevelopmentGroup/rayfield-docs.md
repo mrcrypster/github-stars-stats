@@ -1,10 +1,10 @@
 # SiriusDevelopmentGroup/rayfield-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/SiriusDevelopmentGroup/rayfield-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 27 | 
 | 2023-04-02 | 5 | 27 | 
 | 2023-03-31 | 5 | 24 | 
 | 2023-03-29 | 5 | 24 | 

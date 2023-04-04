@@ -1,6 +1,6 @@
 # cncf/apisnoop - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 80 | 39 | 
 | 2023-04-01 | 80 | 39 | 
 | 2023-03-29 | 80 | 39 | 
 | 2023-03-28 | 80 | 39 | 

@@ -1,6 +1,6 @@
 # quickemu-project/quickgui - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 568 | 45 | 
 | 2023-04-02 | 568 | 45 | 
 | 2023-04-01 | 566 | 45 | 
 | 2023-03-31 | 565 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 557 | 46 | 
 | 2023-03-07 | 554 | 45 | 
 | 2023-03-06 | 553 | 45 | 
-| 2023-03-04 | 553 | 45 | 
 

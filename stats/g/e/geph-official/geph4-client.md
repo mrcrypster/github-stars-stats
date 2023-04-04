@@ -1,10 +1,10 @@
 # geph-official/geph4-client - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 227
+☋ Forks: 228
 
-★ Stars: 1831
+★ Stars: 1841
 
 [Open repository](https://github.com/geph-official/geph4-client)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1841 | 228 | 
+| 2023-04-03 | 1841 | 228 | 
 | 2023-04-02 | 1831 | 227 | 
 | 2023-03-30 | 1807 | 224 | 
 | 2023-03-28 | 1800 | 223 | 
@@ -34,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1674 | 213 | 
 | 2023-03-06 | 1664 | 212 | 
 | 2023-03-05 | 1658 | 212 | 
-| 2023-03-04 | 1649 | 211 | 
 

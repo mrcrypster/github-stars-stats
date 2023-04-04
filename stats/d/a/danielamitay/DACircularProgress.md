@@ -1,6 +1,6 @@
 # danielamitay/DACircularProgress - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 350
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2391 | 350 | 
 | 2023-04-01 | 2391 | 350 | 
 | 2023-03-31 | 2391 | 350 | 
 | 2023-03-29 | 2391 | 350 | 

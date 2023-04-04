@@ -1,6 +1,6 @@
 # Mitcheljager/svelte-confetti - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 137 | 5 | 
 | 2023-04-02 | 137 | 5 | 
 | 2023-03-30 | 136 | 5 | 
 | 2023-03-28 | 136 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 134 | 5 | 
 | 2023-03-07 | 132 | 4 | 
 | 2023-03-05 | 132 | 4 | 
-| 2023-03-04 | 132 | 4 | 
 

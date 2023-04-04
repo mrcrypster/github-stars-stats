@@ -1,10 +1,10 @@
 # searx/searx - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1698
+☋ Forks: 1699
 
-★ Stars: 12704
+★ Stars: 12712
 
 [Open repository](https://github.com/searx/searx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 12712 | 1699 | 
 | 2023-03-31 | 12704 | 1698 | 
 | 2023-03-29 | 12692 | 1698 | 
 | 2023-03-28 | 12686 | 1697 | 

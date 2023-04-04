@@ -1,10 +1,10 @@
 # getcursor/cursor - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 781
+☋ Forks: 823
 
-★ Stars: 11629
+★ Stars: 12037
 
 [Open repository](https://github.com/getcursor/cursor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 12037 | 823 | 
 | 2023-04-02 | 11629 | 781 | 
 | 2023-03-31 | 10848 | 719 | 
 | 2023-03-30 | 10042 | 643 | 

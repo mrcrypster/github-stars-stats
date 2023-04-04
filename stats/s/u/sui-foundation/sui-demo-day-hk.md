@@ -1,8 +1,8 @@
 # sui-foundation/sui-demo-day-hk - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 35
+☋ Forks: 38
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 62 | 38 | 
 | 2023-04-01 | 62 | 35 | 
 | 2023-03-31 | 62 | 33 | 
 | 2023-03-29 | 60 | 30 | 

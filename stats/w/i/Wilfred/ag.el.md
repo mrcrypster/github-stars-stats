@@ -1,6 +1,6 @@
 # Wilfred/ag.el - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 520 | 63 | 
 | 2023-04-02 | 520 | 63 | 
 | 2023-03-31 | 520 | 63 | 
 | 2023-03-30 | 520 | 63 | 

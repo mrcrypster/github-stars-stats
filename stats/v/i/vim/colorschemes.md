@@ -1,8 +1,8 @@
 # vim/colorschemes - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 199
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 199 | 15 | 
 | 2023-04-01 | 199 | 14 | 
 | 2023-03-30 | 197 | 14 | 
 | 2023-03-29 | 196 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 192 | 13 | 
 | 2023-03-06 | 191 | 13 | 
 | 2023-03-05 | 191 | 13 | 
-| 2023-03-04 | 191 | 13 | 
 

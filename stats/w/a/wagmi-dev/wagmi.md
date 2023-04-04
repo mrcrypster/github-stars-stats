@@ -1,10 +1,10 @@
 # wagmi-dev/wagmi - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 528
+☋ Forks: 532
 
-★ Stars: 4213
+★ Stars: 4225
 
 [Open repository](https://github.com/wagmi-dev/wagmi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4225 | 532 | 
 | 2023-04-01 | 4213 | 528 | 
 | 2023-03-29 | 4199 | 525 | 
 | 2023-03-27 | 4188 | 521 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 4091 | 507 | 
 | 2023-03-07 | 4071 | 505 | 
 | 2023-03-05 | 4051 | 503 | 
-| 2023-03-04 | 4045 | 502 | 
 

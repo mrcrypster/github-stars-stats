@@ -1,10 +1,10 @@
 # matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | - | 
 | 2023-04-02 | - | - | 
 | 2023-03-30 | - | - | 
 | 2023-03-28 | - | - | 

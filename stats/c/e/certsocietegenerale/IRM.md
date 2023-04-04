@@ -1,6 +1,6 @@
 # certsocietegenerale/IRM - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 586 | 68 | 
 | 2023-04-02 | 586 | 68 | 
 | 2023-04-01 | 585 | 67 | 
 | 2023-03-30 | 585 | 67 | 

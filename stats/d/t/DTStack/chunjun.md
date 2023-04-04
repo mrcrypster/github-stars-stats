@@ -1,10 +1,10 @@
 # DTStack/chunjun - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1594
+☋ Forks: 1596
 
-★ Stars: 3535
+★ Stars: 3542
 
 [Open repository](https://github.com/DTStack/chunjun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3542 | 1596 | 
 | 2023-03-31 | 3535 | 1594 | 
 | 2023-03-29 | 3530 | 1591 | 
 | 2023-03-28 | 3527 | 1587 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 3488 | 1571 | 
 | 2023-03-06 | 3486 | 1570 | 
 | 2023-03-05 | 3482 | 1569 | 
-| 2023-03-04 | 3479 | 1569 | 
 

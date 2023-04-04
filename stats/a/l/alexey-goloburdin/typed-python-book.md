@@ -1,6 +1,6 @@
 # alexey-goloburdin/typed-python-book - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 96 | 11 | 
 | 2023-03-30 | 96 | 11 | 
 | 2023-03-28 | 96 | 11 | 
 | 2023-03-27 | 96 | 11 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 95 | 11 | 
 | 2023-03-07 | 95 | 11 | 
 | 2023-03-06 | 95 | 11 | 
-| 2023-03-04 | 95 | 11 | 
 

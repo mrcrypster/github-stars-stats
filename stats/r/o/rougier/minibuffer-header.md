@@ -1,6 +1,6 @@
 # rougier/minibuffer-header - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 38 | 3 | 
 | 2023-03-31 | 38 | 3 | 
 | 2023-03-29 | 38 | 3 | 
 | 2023-03-27 | 38 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 38 | 3 | 
 | 2023-03-07 | 38 | 3 | 
 | 2023-03-06 | 38 | 3 | 
-| 2023-03-04 | 38 | 3 | 
 

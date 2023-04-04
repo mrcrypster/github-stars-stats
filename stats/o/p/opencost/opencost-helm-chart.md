@@ -1,10 +1,10 @@
 # opencost/opencost-helm-chart - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
-★ Stars: 28
+★ Stars: 31
 
 [Open repository](https://github.com/opencost/opencost-helm-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 31 | 27 | 
 | 2023-04-02 | 28 | 27 | 
 | 2023-03-31 | 28 | 26 | 
 | 2023-03-29 | 27 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 24 | 17 | 
 | 2023-03-06 | 24 | 16 | 
 | 2023-03-05 | 24 | 16 | 
-| 2023-03-04 | 24 | 16 | 
 

@@ -1,8 +1,8 @@
 # Sophiestication/Articles - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 30 | 3 | 
 | 2023-03-31 | 30 | 2 | 
 | 2023-03-29 | 30 | 2 | 
 | 2023-03-28 | 30 | 2 | 

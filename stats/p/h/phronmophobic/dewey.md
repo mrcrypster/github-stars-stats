@@ -1,10 +1,10 @@
 # phronmophobic/dewey - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 59
+★ Stars: 58
 
 [Open repository](https://github.com/phronmophobic/dewey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | - | 
 | 2023-04-02 | 59 | - | 
 | 2023-03-30 | 59 | - | 
 | 2023-03-28 | 59 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 53 | - | 
 | 2023-03-07 | 53 | - | 
 | 2023-03-05 | 53 | - | 
-| 2023-03-04 | 52 | - | 
 

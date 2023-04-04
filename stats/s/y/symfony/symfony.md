@@ -1,10 +1,10 @@
 # symfony/symfony - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 9035
+☋ Forks: 9040
 
-★ Stars: 28149
+★ Stars: 28154
 
 [Open repository](https://github.com/symfony/symfony)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 28154 | 9040 | 
 | 2023-04-01 | 28149 | 9035 | 
 | 2023-03-31 | 28150 | 9037 | 
 | 2023-03-29 | 28144 | 9038 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 28086 | 9018 | 
 | 2023-03-06 | 28081 | 9013 | 
 | 2023-03-05 | 28073 | 9009 | 
-| 2023-03-04 | 28072 | 9009 | 
 

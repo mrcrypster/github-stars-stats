@@ -1,10 +1,10 @@
 # btholt/citr-v8-project - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 230
+☋ Forks: 234
 
-★ Stars: 373
+★ Stars: 375
 
 [Open repository](https://github.com/btholt/citr-v8-project)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 375 | 234 | 
 | 2023-04-02 | 373 | 230 | 
 | 2023-03-30 | 364 | 230 | 
 | 2023-03-28 | 359 | 227 | 

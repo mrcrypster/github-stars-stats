@@ -1,6 +1,6 @@
 # binary-com/perl-Format-Util - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 25 | 
 | 2023-04-02 | - | 25 | 
 | 2023-03-31 | - | 25 | 
 | 2023-03-29 | - | 25 | 

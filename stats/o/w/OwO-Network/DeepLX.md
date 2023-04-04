@@ -1,10 +1,10 @@
 # OwO-Network/DeepLX - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 95
+☋ Forks: 97
 
-★ Stars: 1032
+★ Stars: 1046
 
 [Open repository](https://github.com/OwO-Network/DeepLX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1046 | 97 | 
 | 2023-03-31 | 1032 | 95 | 
 | 2023-03-29 | 1026 | 93 | 
 | 2023-03-28 | 1022 | 91 | 

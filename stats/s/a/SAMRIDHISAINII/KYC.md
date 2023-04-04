@@ -1,6 +1,6 @@
 # SAMRIDHISAINII/KYC - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 12 | 2 | 
 | 2023-04-01 | 12 | 2 | 
 | 2023-03-31 | 12 | 2 | 
 | 2023-03-29 | 12 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 14 | 2 | 
 | 2023-03-07 | 14 | 2 | 
 | 2023-03-05 | 14 | 2 | 
-| 2023-03-04 | 14 | 2 | 
 

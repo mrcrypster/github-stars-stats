@@ -1,6 +1,6 @@
 # intartnft/scripty.sol - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 64 | 4 | 
 | 2023-04-02 | 64 | 4 | 
 | 2023-03-30 | 64 | 4 | 
 | 2023-03-28 | 64 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 51 | 1 | 
 | 2023-03-07 | 50 | 1 | 
 | 2023-03-06 | 50 | 1 | 
-| 2023-03-04 | 50 | 1 | 
 

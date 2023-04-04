@@ -1,10 +1,10 @@
 # tsoding/olive.c - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 74
 
-★ Stars: 1415
+★ Stars: 1420
 
 [Open repository](https://github.com/tsoding/olive.c)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1420 | 74 | 
 | 2023-03-31 | 1415 | 74 | 
 | 2023-03-29 | 1403 | 74 | 
 | 2023-03-27 | 1397 | 73 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1281 | 69 | 
 | 2023-03-06 | 1277 | 69 | 
 | 2023-03-05 | 1270 | 68 | 
-| 2023-03-04 | 1264 | 68 | 
 

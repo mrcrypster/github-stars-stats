@@ -1,10 +1,10 @@
 # azac/cobol-on-wheelchair - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 38
 
-★ Stars: 788
+★ Stars: 793
 
 [Open repository](https://github.com/azac/cobol-on-wheelchair)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 793 | 38 | 
 | 2023-04-01 | 788 | 38 | 
 | 2023-03-29 | 787 | 38 | 
 | 2023-03-27 | 786 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 765 | 36 | 
 | 2023-03-06 | 763 | 36 | 
 | 2023-03-05 | 761 | 36 | 
-| 2023-03-04 | 759 | 36 | 
 

@@ -1,6 +1,6 @@
 # oslabs-beta/Jesteer - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | 1 | 
 | 2023-04-01 | 58 | 1 | 
 | 2023-03-29 | 58 | 1 | 
 | 2023-03-27 | 58 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 58 | 1 | 
 | 2023-03-06 | 58 | 1 | 
 | 2023-03-05 | 58 | 1 | 
-| 2023-03-04 | 58 | 1 | 
 

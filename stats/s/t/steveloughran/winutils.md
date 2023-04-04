@@ -1,8 +1,8 @@
 # steveloughran/winutils - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2917
+☋ Forks: 2918
 
 ★ Stars: 2314
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2314 | 2918 | 
 | 2023-04-02 | 2314 | 2917 | 
 | 2023-03-31 | 2312 | 2914 | 
 | 2023-03-29 | 2310 | 2913 | 

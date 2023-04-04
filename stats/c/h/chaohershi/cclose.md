@@ -1,10 +1,10 @@
 # chaohershi/cclose - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 313
+★ Stars: 314
 
 [Open repository](https://github.com/chaohershi/cclose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 314 | 15 | 
 | 2023-03-31 | 313 | 15 | 
 | 2023-03-29 | 313 | 15 | 
 | 2023-03-28 | 313 | 15 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 311 | 15 | 
 | 2023-03-07 | 310 | 15 | 
 | 2023-03-06 | 310 | 15 | 
-| 2023-03-05 | 310 | 15 | 
 

@@ -1,6 +1,6 @@
 # ros2/rosidl_typesupport_fastrtps - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4 | 20 | 
 | 2023-03-31 | 4 | 20 | 
 | 2023-03-30 | 4 | 20 | 
 | 2023-03-28 | 4 | 20 | 

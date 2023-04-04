@@ -1,10 +1,10 @@
 # morethanmin/morethan-log - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 246
+☋ Forks: 254
 
-★ Stars: 541
+★ Stars: 547
 
 [Open repository](https://github.com/morethanmin/morethan-log)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 547 | 254 | 
 | 2023-03-31 | 541 | 246 | 
 | 2023-03-29 | 534 | 232 | 
 | 2023-03-28 | 532 | 230 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 475 | 189 | 
 | 2023-03-06 | 468 | 182 | 
 | 2023-03-05 | 465 | 179 | 
-| 2023-03-04 | 459 | 176 | 
 

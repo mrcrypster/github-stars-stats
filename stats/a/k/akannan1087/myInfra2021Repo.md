@@ -1,8 +1,8 @@
 # akannan1087/myInfra2021Repo - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 301
+☋ Forks: 302
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 302 | 
 | 2023-03-31 | 6 | 301 | 
 | 2023-03-29 | 6 | 296 | 
 | 2023-03-27 | 6 | 296 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 5 | 272 | 
 | 2023-03-06 | 5 | 272 | 
 | 2023-03-05 | 5 | 271 | 
-| 2023-03-04 | 5 | 270 | 
 

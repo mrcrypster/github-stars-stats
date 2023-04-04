@@ -1,6 +1,6 @@
 # sonatype/helm3-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 87 | 119 | 
 | 2023-04-01 | 87 | 119 | 
 | 2023-03-31 | 87 | 119 | 
 | 2023-03-29 | 87 | 119 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 86 | 119 | 
 | 2023-03-07 | 86 | 119 | 
 | 2023-03-06 | 86 | 119 | 
-| 2023-03-04 | 86 | 119 | 
 

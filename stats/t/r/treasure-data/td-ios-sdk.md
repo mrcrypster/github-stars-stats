@@ -1,6 +1,6 @@
 # treasure-data/td-ios-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 21 | 25 | 
 | 2023-04-01 | 21 | 25 | 
 | 2023-03-29 | 21 | 25 | 
 | 2023-03-27 | 21 | 25 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 22 | 25 | 
 | 2023-03-07 | 22 | 25 | 
 | 2023-03-06 | 22 | 25 | 
-| 2023-03-05 | 22 | 25 | 
 

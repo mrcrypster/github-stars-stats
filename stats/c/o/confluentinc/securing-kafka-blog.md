@@ -1,10 +1,10 @@
 # confluentinc/securing-kafka-blog - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
-★ Stars: 39
+★ Stars: 38
 
 [Open repository](https://github.com/confluentinc/securing-kafka-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 38 | 14 | 
 | 2023-04-02 | 39 | 14 | 
 | 2023-03-30 | 39 | 14 | 
 | 2023-03-28 | 39 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 39 | 14 | 
 | 2023-03-06 | 39 | 14 | 
 | 2023-03-05 | 39 | 14 | 
-| 2023-03-04 | 39 | 14 | 
 

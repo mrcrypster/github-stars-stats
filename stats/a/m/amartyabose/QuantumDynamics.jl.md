@@ -1,10 +1,10 @@
 # amartyabose/QuantumDynamics.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/amartyabose/QuantumDynamics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 2 | 
 | 2023-04-02 | 19 | 2 | 
 | 2023-03-31 | 19 | 2 | 
 | 2023-03-29 | 19 | 2 | 

@@ -1,6 +1,6 @@
 # kowainik/stan - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 514 | 37 | 
 | 2023-04-02 | 514 | 37 | 
 | 2023-03-30 | 515 | 37 | 
 | 2023-03-28 | 514 | 37 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 514 | 37 | 
 | 2023-03-07 | 512 | 37 | 
 | 2023-03-05 | 512 | 37 | 
-| 2023-03-04 | 511 | 37 | 
 

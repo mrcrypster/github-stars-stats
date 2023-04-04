@@ -1,10 +1,10 @@
 # tobealive/bartender - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/tobealive/bartender)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 33 | 1 | 
 | 2023-03-31 | 31 | - | 
 | 2023-03-29 | 30 | - | 
 | 2023-03-27 | 30 | - | 

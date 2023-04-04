@@ -1,10 +1,10 @@
 # BuddiesOfBudgie/budgie-desktop - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 27
 
-★ Stars: 580
+★ Stars: 581
 
 [Open repository](https://github.com/BuddiesOfBudgie/budgie-desktop)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 581 | 27 | 
+| 2023-04-03 | 581 | 27 | 
 | 2023-04-02 | 580 | 27 | 
 | 2023-03-31 | 579 | 28 | 
 | 2023-03-30 | 574 | 28 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 554 | 27 | 
 | 2023-03-06 | 554 | 27 | 
 | 2023-03-05 | 553 | 27 | 
-| 2023-03-04 | 553 | 27 | 
 

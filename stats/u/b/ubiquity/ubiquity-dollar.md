@@ -1,6 +1,6 @@
 # ubiquity/ubiquity-dollar - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 49 | 
 | 2023-03-31 | 20 | 49 | 
 | 2023-03-29 | 20 | 48 | 
 | 2023-03-27 | 20 | 48 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 20 | 47 | 
 | 2023-03-07 | 20 | 46 | 
 | 2023-03-06 | 20 | 46 | 
-| 2023-03-05 | 20 | 46 | 
 

@@ -1,6 +1,6 @@
 # NVISOsecurity/nviso-cti - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 37 | 5 | 
 | 2023-04-01 | 37 | 5 | 
 | 2023-03-30 | 37 | 5 | 
 | 2023-03-28 | 37 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 35 | 5 | 
 | 2023-03-07 | 35 | 5 | 
 | 2023-03-06 | 35 | 5 | 
-| 2023-03-04 | 36 | 5 | 
 

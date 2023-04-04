@@ -1,8 +1,8 @@
 # UmbratheUmbreon/PublicDenpaEngine - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 10
+☋ Forks: 9
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 22 | 9 | 
 | 2023-04-01 | 22 | 10 | 
 | 2023-03-31 | 21 | 10 | 
 | 2023-03-29 | 20 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 14 | 10 | 
 | 2023-03-07 | 14 | 10 | 
 | 2023-03-05 | 16 | 10 | 
-| 2023-03-04 | 16 | 10 | 
 

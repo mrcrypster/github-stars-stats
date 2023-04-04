@@ -1,6 +1,6 @@
 # abysshint/tor-control-panel - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 32 | 3 | 
 | 2023-04-02 | 32 | 3 | 
 | 2023-03-29 | 31 | 3 | 
 | 2023-03-27 | 31 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 30 | 3 | 
 | 2023-03-07 | 30 | 3 | 
 | 2023-03-06 | 30 | 3 | 
-| 2023-03-04 | 30 | 3 | 
 

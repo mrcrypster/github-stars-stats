@@ -1,8 +1,8 @@
 # esx-framework/esx_ambulancejob - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 17
+☋ Forks: 22
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 22 | 
 | 2023-04-01 | - | 17 | 
 | 2023-03-30 | - | 17 | 
 

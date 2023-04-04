@@ -1,10 +1,10 @@
 # michalbednarski/LeakValue - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 34
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/michalbednarski/LeakValue)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 186 | 34 | 
 | 2023-04-01 | 185 | 34 | 
 | 2023-03-30 | 185 | 34 | 
 | 2023-03-29 | 185 | 34 | 

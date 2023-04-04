@@ -1,6 +1,6 @@
 # robbertkrebbers/compcert - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 22 | 3 | 
 | 2023-04-02 | 22 | 3 | 
 | 2023-03-31 | 22 | 3 | 
 | 2023-03-30 | 22 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 21 | 3 | 
 | 2023-03-06 | 21 | 3 | 
 | 2023-03-05 | 21 | 3 | 
-| 2023-03-04 | 21 | 3 | 
 

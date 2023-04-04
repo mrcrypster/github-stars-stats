@@ -1,10 +1,10 @@
 # hpjansson/chafa - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 41
 
-★ Stars: 1973
+★ Stars: 1976
 
 [Open repository](https://github.com/hpjansson/chafa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1976 | 41 | 
 | 2023-03-31 | 1973 | 41 | 
 | 2023-03-29 | 1969 | 41 | 
 | 2023-03-27 | 1967 | 41 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 1950 | 42 | 
 | 2023-03-07 | 1949 | 42 | 
 | 2023-03-06 | 1946 | 42 | 
-| 2023-03-05 | 1943 | 42 | 
 

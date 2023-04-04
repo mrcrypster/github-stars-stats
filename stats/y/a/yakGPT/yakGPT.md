@@ -1,10 +1,10 @@
 # yakGPT/yakGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 91
+☋ Forks: 101
 
-★ Stars: 756
+★ Stars: 798
 
 [Open repository](https://github.com/yakGPT/yakGPT)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 798 | 101 | 
+| 2023-04-03 | 791 | 100 | 
 | 2023-04-02 | 756 | 91 | 
 

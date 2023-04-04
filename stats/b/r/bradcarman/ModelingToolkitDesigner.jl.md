@@ -1,10 +1,10 @@
 # bradcarman/ModelingToolkitDesigner.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/bradcarman/ModelingToolkitDesigner.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 26 | - | 
 | 2023-04-02 | 24 | - | 
 | 2023-04-01 | 23 | - | 
 

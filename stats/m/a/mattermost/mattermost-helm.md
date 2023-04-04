@@ -1,10 +1,10 @@
 # mattermost/mattermost-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 135
 
-★ Stars: 152
+★ Stars: 151
 
 [Open repository](https://github.com/mattermost/mattermost-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 151 | 135 | 
 | 2023-03-31 | 152 | 135 | 
 | 2023-03-29 | 152 | 135 | 
 | 2023-03-27 | 152 | 135 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 151 | 134 | 
 | 2023-03-07 | 151 | 134 | 
 | 2023-03-06 | 152 | 134 | 
-| 2023-03-05 | 152 | 134 | 
 

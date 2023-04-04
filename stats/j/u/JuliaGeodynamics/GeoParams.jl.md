@@ -1,6 +1,6 @@
 # JuliaGeodynamics/GeoParams.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 25 | 13 | 
 | 2023-03-31 | 25 | 13 | 
 | 2023-03-29 | 25 | 12 | 
 | 2023-03-27 | 25 | 12 | 

@@ -1,6 +1,6 @@
 # Lorys89/Lenovo_ThinkPad_E570 - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | - | 
 | 2023-04-01 | 6 | - | 
 | 2023-03-29 | 6 | 1 | 
 | 2023-03-27 | 6 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 6 | 1 | 
 | 2023-03-07 | 6 | 1 | 
 | 2023-03-06 | 6 | 1 | 
-| 2023-03-04 | 6 | 1 | 
 

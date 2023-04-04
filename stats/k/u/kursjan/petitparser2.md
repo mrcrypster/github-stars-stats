@@ -1,6 +1,6 @@
 # kursjan/petitparser2 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 39 | 15 | 
+| 2023-04-03 | 39 | 15 | 
 | 2023-04-02 | 39 | 15 | 
 | 2023-04-01 | 39 | 15 | 
 | 2023-03-31 | 39 | 15 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 37 | 15 | 
 | 2023-03-06 | 37 | 15 | 
 | 2023-03-05 | 37 | 15 | 
-| 2023-03-04 | 37 | 15 | 
 

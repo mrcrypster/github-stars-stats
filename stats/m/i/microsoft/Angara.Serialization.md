@@ -1,6 +1,6 @@
 # microsoft/Angara.Serialization - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14 | 12 | 
 | 2023-04-02 | 14 | 12 | 
 | 2023-03-30 | 14 | 13 | 
 | 2023-03-28 | 14 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 14 | 13 | 
 | 2023-03-07 | 14 | 13 | 
 | 2023-03-06 | 14 | 13 | 
-| 2023-03-04 | 14 | 13 | 
 

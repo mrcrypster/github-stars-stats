@@ -1,6 +1,6 @@
 # nehalineogi/azure-cross-solution-network-architectures - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 139 | 45 | 
 | 2023-04-01 | 139 | 45 | 
 | 2023-03-29 | 139 | 44 | 
 | 2023-03-28 | 139 | 44 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 136 | 44 | 
 | 2023-03-08 | 136 | 44 | 
 | 2023-03-06 | 136 | 44 | 
-| 2023-03-05 | 136 | 44 | 
 

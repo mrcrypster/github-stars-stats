@@ -1,10 +1,10 @@
 # unclestrong/DeepLearning_LHY21_Notes - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 411
+☋ Forks: 412
 
-★ Stars: 1360
+★ Stars: 1361
 
 [Open repository](https://github.com/unclestrong/DeepLearning_LHY21_Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1361 | 412 | 
 | 2023-04-01 | 1360 | 411 | 
 | 2023-03-31 | 1360 | 411 | 
 | 2023-03-29 | 1359 | 411 | 

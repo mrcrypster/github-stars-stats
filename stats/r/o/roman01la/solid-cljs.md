@@ -1,10 +1,10 @@
 # roman01la/solid-cljs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/roman01la/solid-cljs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 37 | 1 | 
 | 2023-04-02 | 36 | 1 | 
 | 2023-03-30 | 36 | 1 | 
 | 2023-03-28 | 36 | 1 | 

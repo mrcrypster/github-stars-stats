@@ -1,10 +1,10 @@
 # dbolya/tomesd - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 8
+☋ Forks: 12
 
-★ Stars: 345
+★ Stars: 406
 
 [Open repository](https://github.com/dbolya/tomesd)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 406 | 12 | 
+| 2023-04-03 | 402 | 11 | 
 | 2023-04-02 | 345 | 8 | 
 

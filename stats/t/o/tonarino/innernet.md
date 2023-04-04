@@ -1,10 +1,10 @@
 # tonarino/innernet - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 154
 
-★ Stars: 4239
+★ Stars: 4241
 
 [Open repository](https://github.com/tonarino/innernet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4241 | 154 | 
 | 2023-04-02 | 4239 | 154 | 
 | 2023-03-31 | 4236 | 154 | 
 | 2023-03-29 | 4233 | 154 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 4212 | 152 | 
 | 2023-03-07 | 4209 | 152 | 
 | 2023-03-05 | 4206 | 153 | 
-| 2023-03-04 | 4204 | 153 | 
 

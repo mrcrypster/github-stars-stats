@@ -1,6 +1,6 @@
 # karthink/org-preview - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 46 | 2 | 
 | 2023-03-31 | 46 | 2 | 
 | 2023-03-29 | 46 | 2 | 
 | 2023-03-28 | 46 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 42 | 2 | 
 | 2023-03-07 | 42 | 2 | 
 | 2023-03-05 | 42 | 2 | 
-| 2023-03-04 | 42 | 2 | 
 

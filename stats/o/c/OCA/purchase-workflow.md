@@ -1,6 +1,6 @@
 # OCA/purchase-workflow - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 647
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 137 | 647 | 
 | 2023-03-31 | 137 | 647 | 
 | 2023-03-29 | 137 | 645 | 
 | 2023-03-28 | 137 | 645 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 138 | 640 | 
 | 2023-03-07 | 138 | 639 | 
 | 2023-03-05 | 138 | 639 | 
-| 2023-03-04 | 138 | 639 | 
 

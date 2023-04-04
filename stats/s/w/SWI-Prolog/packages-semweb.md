@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-semweb - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 25 | 13 | 
 | 2023-04-02 | 25 | 13 | 
 | 2023-03-31 | 25 | 13 | 
 | 2023-03-29 | 25 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 26 | 13 | 
 | 2023-03-06 | 26 | 12 | 
 | 2023-03-05 | 26 | 12 | 
-| 2023-03-04 | 26 | 12 | 
 

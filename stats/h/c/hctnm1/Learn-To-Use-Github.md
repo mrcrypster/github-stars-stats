@@ -1,6 +1,6 @@
 # hctnm1/Learn-To-Use-Github - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 213
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 75 | 213 | 
 | 2023-04-02 | 75 | 213 | 
 | 2023-04-01 | 75 | 213 | 
 | 2023-03-30 | 75 | 213 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 76 | 216 | 
 | 2023-03-07 | 76 | 216 | 
 | 2023-03-06 | 76 | 216 | 
-| 2023-03-04 | 76 | 216 | 
 

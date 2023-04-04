@@ -1,6 +1,6 @@
 # byu-is-555/is-555-w2023-00-in-class-activities - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3 | 15 | 
 | 2023-04-01 | 3 | 15 | 
 | 2023-03-31 | 3 | 15 | 
 | 2023-03-29 | 3 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 2 | 13 | 
 | 2023-03-07 | 2 | 13 | 
 | 2023-03-05 | 2 | 13 | 
-| 2023-03-04 | 2 | 13 | 
 

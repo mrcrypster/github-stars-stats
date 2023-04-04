@@ -1,8 +1,8 @@
 # kirasinigami/MyRDP - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | 18 | 
 | 2023-04-01 | 1 | 17 | 
 | 2023-03-30 | 1 | 17 | 
 | 2023-03-28 | 1 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 1 | 16 | 
 | 2023-03-07 | 1 | 16 | 
 | 2023-03-06 | 1 | 16 | 
-| 2023-03-04 | 1 | 16 | 
 

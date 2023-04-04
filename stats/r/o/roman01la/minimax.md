@@ -1,6 +1,6 @@
 # roman01la/minimax - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 53 | 1 | 
 | 2023-04-02 | 53 | 1 | 
 | 2023-03-30 | 53 | 1 | 
 | 2023-03-28 | 53 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 42 | 1 | 
 | 2023-03-07 | 42 | 1 | 
 | 2023-03-05 | 42 | 1 | 
-| 2023-03-04 | 42 | 1 | 
 

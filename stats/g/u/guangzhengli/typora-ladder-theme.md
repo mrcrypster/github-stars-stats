@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 176
+★ Stars: 180
 
 [Open repository](https://github.com/guangzhengli/typora-ladder-theme)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 176 | 8 | 
+| 2023-04-03 | 180 | 8 | 
 | 2023-04-02 | 175 | 8 | 
 

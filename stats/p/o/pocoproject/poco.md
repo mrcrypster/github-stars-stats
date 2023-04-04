@@ -1,10 +1,10 @@
 # pocoproject/poco - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1941
+☋ Forks: 1944
 
-★ Stars: 6896
+★ Stars: 6903
 
 [Open repository](https://github.com/pocoproject/poco)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6903 | 1944 | 
 | 2023-03-31 | 6896 | 1941 | 
 | 2023-03-29 | 6885 | 1940 | 
 | 2023-03-27 | 6878 | 1940 | 

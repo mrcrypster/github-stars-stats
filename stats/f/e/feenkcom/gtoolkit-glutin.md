@@ -1,6 +1,6 @@
 # feenkcom/gtoolkit-glutin - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 8 | 1 | 
 | 2023-04-02 | 8 | 1 | 
 | 2023-04-01 | 8 | 1 | 
 | 2023-03-29 | 8 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 8 | 1 | 
 | 2023-03-07 | 8 | 1 | 
 | 2023-03-06 | 8 | 1 | 
-| 2023-03-04 | 8 | 1 | 
 

@@ -1,10 +1,10 @@
 # chen310/BilibiliPotPlayer - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 141
+★ Stars: 143
 
 [Open repository](https://github.com/chen310/BilibiliPotPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 143 | 7 | 
 | 2023-04-02 | 141 | 7 | 
 | 2023-04-01 | 136 | 7 | 
 | 2023-03-31 | 135 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 69 | 4 | 
 | 2023-03-06 | 63 | 4 | 
 | 2023-03-05 | 58 | 4 | 
-| 2023-03-04 | 57 | 4 | 
 

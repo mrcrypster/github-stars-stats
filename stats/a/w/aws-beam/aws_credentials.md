@@ -1,6 +1,6 @@
 # aws-beam/aws_credentials - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 19 | 
 | 2023-04-01 | 20 | 19 | 
 | 2023-03-31 | 20 | 19 | 
 | 2023-03-29 | 20 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 19 | 18 | 
 | 2023-03-06 | 19 | 18 | 
 | 2023-03-05 | 19 | 18 | 
-| 2023-03-04 | 19 | 18 | 
 

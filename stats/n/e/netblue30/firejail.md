@@ -1,10 +1,10 @@
 # netblue30/firejail - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 515
 
-★ Stars: 4811
+★ Stars: 4815
 
 [Open repository](https://github.com/netblue30/firejail)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4815 | 515 | 
 | 2023-03-31 | 4811 | 515 | 
 | 2023-03-29 | 4804 | 513 | 
 | 2023-03-27 | 4796 | 513 | 

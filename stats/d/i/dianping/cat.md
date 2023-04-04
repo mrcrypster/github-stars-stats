@@ -1,10 +1,10 @@
 # dianping/cat - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 5318
+☋ Forks: 5317
 
-★ Stars: 17641
+★ Stars: 17646
 
 [Open repository](https://github.com/dianping/cat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 17646 | 5317 | 
 | 2023-04-02 | 17641 | 5318 | 
 | 2023-03-30 | 17631 | 5318 | 
 | 2023-03-28 | 17630 | 5317 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 17581 | 5309 | 
 | 2023-03-07 | 17570 | 5308 | 
 | 2023-03-06 | 17567 | 5306 | 
-| 2023-03-04 | 17567 | 5306 | 
 

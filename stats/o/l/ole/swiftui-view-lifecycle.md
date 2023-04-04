@@ -1,10 +1,10 @@
 # ole/swiftui-view-lifecycle - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 13
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/ole/swiftui-view-lifecycle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 311 | 13 | 
 | 2023-04-02 | 310 | 13 | 
 | 2023-03-30 | 310 | 13 | 
 | 2023-03-28 | 309 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 292 | 12 | 
 | 2023-03-07 | 291 | 12 | 
 | 2023-03-06 | 288 | 12 | 
-| 2023-03-04 | 284 | 12 | 
 

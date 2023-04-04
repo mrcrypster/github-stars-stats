@@ -1,10 +1,10 @@
 # Schweinepriester/github-profile-achievements - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 340
 
-★ Stars: 3416
+★ Stars: 3421
 
 [Open repository](https://github.com/Schweinepriester/github-profile-achievements)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3421 | 340 | 
+| 2023-04-03 | 3421 | 340 | 
 | 2023-04-02 | 3416 | 340 | 
 | 2023-03-31 | 3412 | 339 | 
 | 2023-03-30 | 3406 | 339 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 3311 | 325 | 
 | 2023-03-06 | 3304 | 325 | 
 | 2023-03-05 | 3295 | 325 | 
-| 2023-03-04 | 3288 | 324 | 
 

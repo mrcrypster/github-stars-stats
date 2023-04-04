@@ -1,10 +1,10 @@
 # MRCIEU/TwoSampleMR - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 131
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/MRCIEU/TwoSampleMR)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 191 | 131 | 
+| 2023-04-03 | 191 | 131 | 
 | 2023-04-02 | 190 | 131 | 
 | 2023-04-01 | 190 | 130 | 
 | 2023-03-30 | 190 | 131 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 185 | 128 | 
 | 2023-03-06 | 184 | 128 | 
 | 2023-03-05 | 184 | 128 | 
-| 2023-03-04 | 184 | 128 | 
 

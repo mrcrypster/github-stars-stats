@@ -1,6 +1,6 @@
 # RWTH-HPC/CMake-codecov - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 84 | 36 | 
 | 2023-04-02 | 84 | 36 | 
 | 2023-03-31 | 84 | 36 | 
 | 2023-03-29 | 84 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 82 | 36 | 
 | 2023-03-06 | 82 | 36 | 
 | 2023-03-05 | 82 | 36 | 
-| 2023-03-04 | 82 | 36 | 
 

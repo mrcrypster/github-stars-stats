@@ -1,10 +1,10 @@
 # FirefoxBar/HeaderEditor - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 268
+☋ Forks: 274
 
-★ Stars: 757
+★ Stars: 759
 
 [Open repository](https://github.com/FirefoxBar/HeaderEditor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 759 | 274 | 
 | 2023-04-01 | 757 | 268 | 
 | 2023-03-31 | 753 | 267 | 
 | 2023-03-29 | 751 | 262 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 707 | 173 | 
 | 2023-03-07 | 699 | 172 | 
 | 2023-03-06 | 700 | 169 | 
-| 2023-03-05 | 699 | 166 | 
 

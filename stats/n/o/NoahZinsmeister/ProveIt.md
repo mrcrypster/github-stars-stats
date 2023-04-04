@@ -1,6 +1,6 @@
 # NoahZinsmeister/ProveIt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | 12 | 
 | 2023-04-02 | 58 | 12 | 
 | 2023-03-31 | 58 | 12 | 
 | 2023-03-29 | 58 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 58 | 12 | 
 | 2023-03-06 | 58 | 12 | 
 | 2023-03-05 | 58 | 12 | 
-| 2023-03-04 | 58 | 12 | 
 

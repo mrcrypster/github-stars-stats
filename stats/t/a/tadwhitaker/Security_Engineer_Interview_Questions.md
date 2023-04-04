@@ -1,6 +1,6 @@
 # tadwhitaker/Security_Engineer_Interview_Questions - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 924 | 189 | 
 | 2023-04-02 | 924 | 189 | 
 | 2023-03-30 | 924 | 188 | 
 | 2023-03-28 | 924 | 188 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 921 | 188 | 
 | 2023-03-07 | 922 | 188 | 
 | 2023-03-05 | 922 | 188 | 
-| 2023-03-04 | 922 | 188 | 
 

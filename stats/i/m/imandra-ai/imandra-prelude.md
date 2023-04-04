@@ -1,6 +1,6 @@
 # imandra-ai/imandra-prelude - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 9 | 1 | 
 | 2023-04-02 | 9 | 1 | 
 | 2023-03-30 | 9 | 1 | 
 | 2023-03-28 | 9 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 9 | 1 | 
 | 2023-03-06 | 9 | 1 | 
 | 2023-03-05 | 9 | 1 | 
-| 2023-03-04 | 9 | 1 | 
 

@@ -1,6 +1,6 @@
 # racketscript/racketscript - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 653 | 31 | 
 | 2023-04-02 | 653 | 31 | 
 | 2023-03-31 | 653 | 31 | 
 | 2023-03-29 | 653 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 648 | 31 | 
 | 2023-03-07 | 648 | 31 | 
 | 2023-03-06 | 648 | 31 | 
-| 2023-03-04 | 647 | 31 | 
 

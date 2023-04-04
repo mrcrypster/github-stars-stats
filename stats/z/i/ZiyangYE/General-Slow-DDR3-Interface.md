@@ -1,6 +1,6 @@
 # ZiyangYE/General-Slow-DDR3-Interface - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 24 | 8 | 
 | 2023-04-01 | 24 | 8 | 
 | 2023-03-30 | 24 | 8 | 
 | 2023-03-28 | 24 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 24 | 8 | 
 | 2023-03-07 | 24 | 8 | 
 | 2023-03-06 | 24 | 8 | 
-| 2023-03-04 | 24 | 8 | 
 

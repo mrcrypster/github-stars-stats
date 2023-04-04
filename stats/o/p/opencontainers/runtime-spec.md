@@ -1,10 +1,10 @@
 # opencontainers/runtime-spec - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 526
 
-★ Stars: 2766
+★ Stars: 2768
 
 [Open repository](https://github.com/opencontainers/runtime-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2768 | 526 | 
 | 2023-04-02 | 2766 | 526 | 
 | 2023-03-30 | 2764 | 524 | 
 | 2023-03-28 | 2764 | 523 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2741 | 520 | 
 | 2023-03-06 | 2740 | 520 | 
 | 2023-03-05 | 2739 | 521 | 
-| 2023-03-04 | 2736 | 521 | 
 

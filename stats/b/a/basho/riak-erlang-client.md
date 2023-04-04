@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 187
 
-★ Stars: 314
+★ Stars: 313
 
 [Open repository](https://github.com/basho/riak-erlang-client)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 314 | 187 | 
+| 2023-04-03 | 313 | 187 | 
 | 2023-04-02 | 314 | 187 | 
 | 2023-03-30 | 314 | 187 | 
 | 2023-03-28 | 314 | 187 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 313 | 187 | 
 | 2023-03-06 | 313 | 187 | 
 | 2023-03-05 | 313 | 187 | 
-| 2023-03-04 | 313 | 187 | 
 

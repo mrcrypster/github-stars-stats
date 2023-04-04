@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/WhatsApp/eqwalizer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 437 | 18 | 
+| 2023-04-03 | 438 | 18 | 
 | 2023-04-02 | 436 | 18 | 
 | 2023-03-30 | 432 | 18 | 
 | 2023-03-28 | 432 | 17 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 431 | 16 | 
 | 2023-03-06 | 431 | 16 | 
 | 2023-03-05 | 431 | 16 | 
-| 2023-03-04 | 431 | 15 | 
 

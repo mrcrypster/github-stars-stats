@@ -1,6 +1,6 @@
 # efabless/caravel-gf180mcu - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8 | 7 | 
 | 2023-04-01 | 8 | 7 | 
 | 2023-03-29 | 8 | 7 | 
 | 2023-03-27 | 8 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 7 | 7 | 
 | 2023-03-06 | 7 | 7 | 
 | 2023-03-05 | 7 | 7 | 
-| 2023-03-04 | 7 | 7 | 
 

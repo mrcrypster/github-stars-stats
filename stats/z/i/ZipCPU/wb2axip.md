@@ -1,8 +1,8 @@
 # ZipCPU/wb2axip - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 341
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 341 | 79 | 
 | 2023-03-31 | 341 | 78 | 
 | 2023-03-29 | 341 | 77 | 
 | 2023-03-27 | 340 | 77 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 337 | 77 | 
 | 2023-03-06 | 335 | 77 | 
 | 2023-03-05 | 335 | 77 | 
-| 2023-03-04 | 335 | 77 | 
 

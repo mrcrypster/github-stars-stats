@@ -1,10 +1,10 @@
 # marcinhuu/m-HotWheels - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 14
+★ Stars: 17
 
 [Open repository](https://github.com/marcinhuu/m-HotWheels)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 17 | 9 | 
 | 2023-03-31 | 14 | 9 | 
 | 2023-03-29 | 14 | 9 | 
 | 2023-03-28 | 14 | 9 | 

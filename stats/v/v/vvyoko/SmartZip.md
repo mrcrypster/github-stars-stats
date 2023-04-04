@@ -1,10 +1,10 @@
 # vvyoko/SmartZip - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/vvyoko/SmartZip)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 148 | 2 | 
 | 2023-04-01 | 147 | 2 | 
 | 2023-03-29 | 147 | 2 | 
 | 2023-03-28 | 147 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 146 | 2 | 
 | 2023-03-06 | 146 | 2 | 
 | 2023-03-05 | 146 | 2 | 
-| 2023-03-04 | 146 | 2 | 
 

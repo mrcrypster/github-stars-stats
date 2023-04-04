@@ -1,6 +1,6 @@
 # quasarlabsXYZ/dvdsn - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 9 | 
 | 2023-04-01 | 6 | 9 | 
 | 2023-03-30 | 6 | 9 | 
 | 2023-03-28 | 6 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 6 | 9 | 
 | 2023-03-07 | 6 | 9 | 
 | 2023-03-06 | 6 | 9 | 
-| 2023-03-04 | 6 | 9 | 
 

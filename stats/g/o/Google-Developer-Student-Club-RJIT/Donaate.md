@@ -1,8 +1,8 @@
 # Google-Developer-Student-Club-RJIT/Donaate - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2 | 34 | 
 | 2023-03-31 | 2 | 33 | 
 | 2023-03-29 | 2 | 33 | 
 | 2023-03-27 | 2 | 33 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 2 | 33 | 
 | 2023-03-07 | 2 | 33 | 
 | 2023-03-06 | 2 | 33 | 
-| 2023-03-04 | 2 | 33 | 
 

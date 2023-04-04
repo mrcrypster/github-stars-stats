@@ -1,6 +1,6 @@
 # Cysharp/SimdLinq - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 303 | 7 | 
 | 2023-04-02 | 303 | 7 | 
 | 2023-03-30 | 302 | 7 | 
 | 2023-03-28 | 300 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 288 | 7 | 
 | 2023-03-07 | 287 | 7 | 
 | 2023-03-06 | 288 | 7 | 
-| 2023-03-05 | 287 | 7 | 
 

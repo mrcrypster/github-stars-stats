@@ -1,10 +1,10 @@
 # williamboman/warden.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/williamboman/warden.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 18 | - | 
 | 2023-03-31 | 19 | - | 
 | 2023-03-29 | 19 | - | 
 | 2023-03-27 | 19 | - | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 19 | - | 
 | 2023-03-06 | 19 | - | 
 | 2023-03-05 | 19 | - | 
-| 2023-03-04 | 19 | - | 
 

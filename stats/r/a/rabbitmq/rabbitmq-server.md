@@ -1,10 +1,10 @@
 # rabbitmq/rabbitmq-server - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3854
 
-★ Stars: 10535
+★ Stars: 10538
 
 [Open repository](https://github.com/rabbitmq/rabbitmq-server)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10538 | 3854 | 
 | 2023-04-02 | 10535 | 3854 | 
 | 2023-04-01 | 10530 | 3854 | 
 | 2023-03-31 | 10529 | 3854 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 10449 | 3835 | 
 | 2023-03-06 | 10448 | 3833 | 
 | 2023-03-05 | 10448 | 3830 | 
-| 2023-03-04 | 10446 | 3829 | 
 

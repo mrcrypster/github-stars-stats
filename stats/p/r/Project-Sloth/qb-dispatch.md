@@ -1,10 +1,10 @@
 # Project-Sloth/qb-dispatch - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/Project-Sloth/qb-dispatch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 95 | 117 | 
 | 2023-03-31 | 94 | 116 | 
 | 2023-03-29 | 95 | 113 | 
 | 2023-03-27 | 93 | 113 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 88 | 108 | 
 | 2023-03-07 | 87 | 107 | 
 | 2023-03-06 | 87 | 107 | 
-| 2023-03-04 | 87 | 106 | 
 

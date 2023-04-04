@@ -1,10 +1,10 @@
 # kuutamolabs/near-staking-knd - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/kuutamolabs/near-staking-knd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14 | 6 | 
 | 2023-04-01 | 13 | 6 | 
 | 2023-03-31 | 13 | 6 | 
 | 2023-03-29 | 13 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 13 | 6 | 
 | 2023-03-06 | 13 | 6 | 
 | 2023-03-05 | 13 | 6 | 
-| 2023-03-04 | 13 | 6 | 
 

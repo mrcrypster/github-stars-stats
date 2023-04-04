@@ -1,10 +1,10 @@
 # mouredev/Hello-Python - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 746
+☋ Forks: 747
 
-★ Stars: 10691
+★ Stars: 10728
 
 [Open repository](https://github.com/mouredev/Hello-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10728 | 747 | 
 | 2023-04-02 | 10691 | 746 | 
 | 2023-04-01 | 10515 | 734 | 
 | 2023-03-31 | 10394 | 726 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 9094 | 616 | 
 | 2023-03-07 | 9036 | 613 | 
 | 2023-03-06 | 8993 | 607 | 
-| 2023-03-04 | 8953 | 604 | 
 

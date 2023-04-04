@@ -1,10 +1,10 @@
 # woocommerce/woocommerce - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 10726
+☋ Forks: 10732
 
-★ Stars: 8450
+★ Stars: 8451
 
 [Open repository](https://github.com/woocommerce/woocommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8451 | 10732 | 
 | 2023-04-02 | 8450 | 10726 | 
 | 2023-04-01 | 8450 | 10728 | 
 | 2023-03-31 | 8449 | 10727 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 8413 | 10673 | 
 | 2023-03-06 | 8410 | 10669 | 
 | 2023-03-05 | 8410 | 10669 | 
-| 2023-03-04 | 8401 | 10667 | 
 

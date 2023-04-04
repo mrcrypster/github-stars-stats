@@ -1,6 +1,6 @@
 # signalapp/Signal-iOS - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2700
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 9780 | 2700 | 
 | 2023-04-02 | 9780 | 2700 | 
 | 2023-04-01 | 9776 | 2696 | 
 | 2023-03-31 | 9775 | 2696 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 9730 | 2670 | 
 | 2023-03-06 | 9728 | 2670 | 
 | 2023-03-05 | 9725 | 2668 | 
-| 2023-03-04 | 9720 | 2667 | 
 

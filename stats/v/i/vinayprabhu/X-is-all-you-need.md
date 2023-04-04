@@ -1,6 +1,6 @@
 # vinayprabhu/X-is-all-you-need - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 55 | 3 | 
 | 2023-03-31 | 55 | 3 | 
 | 2023-03-29 | 55 | 3 | 
 | 2023-03-27 | 55 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 54 | 3 | 
 | 2023-03-06 | 54 | 3 | 
 | 2023-03-05 | 55 | 3 | 
-| 2023-03-04 | 55 | 3 | 
 

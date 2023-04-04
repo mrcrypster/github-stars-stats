@@ -1,6 +1,6 @@
 # sebastianbergmann/diff - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 7308 | 78 | 
 | 2023-04-02 | 7308 | 78 | 
 | 2023-03-30 | 7303 | 78 | 
 | 2023-03-28 | 7302 | 78 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 7281 | 76 | 
 | 2023-03-07 | 7278 | 76 | 
 | 2023-03-05 | 7277 | 76 | 
-| 2023-03-04 | 7279 | 76 | 
 

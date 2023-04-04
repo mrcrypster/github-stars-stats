@@ -1,6 +1,6 @@
 # saucepoint/0xMonaco - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 54 | 1 | 
 | 2023-04-02 | 54 | 1 | 
 | 2023-03-31 | 54 | 1 | 
 | 2023-03-29 | 54 | 1 | 

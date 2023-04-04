@@ -1,6 +1,6 @@
 # TetrisSQC/Galcon4Skia - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 15 | 2 | 
 | 2023-04-01 | 15 | 2 | 
 | 2023-03-29 | 15 | 2 | 
 | 2023-03-28 | 15 | 2 | 

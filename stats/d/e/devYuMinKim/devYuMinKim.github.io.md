@@ -1,10 +1,10 @@
 # devYuMinKim/devYuMinKim.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 10
 
 [Open repository](https://github.com/devYuMinKim/devYuMinKim.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10 | - | 
 | 2023-04-01 | 16 | - | 
 | 2023-03-31 | 16 | - | 
 

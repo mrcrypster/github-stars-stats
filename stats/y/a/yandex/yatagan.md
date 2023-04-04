@@ -1,6 +1,6 @@
 # yandex/yatagan - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 171 | 6 | 
 | 2023-04-01 | 171 | 6 | 
 | 2023-03-31 | 170 | 6 | 
 | 2023-03-29 | 170 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 157 | 6 | 
 | 2023-03-07 | 157 | 6 | 
 | 2023-03-06 | 157 | 6 | 
-| 2023-03-05 | 158 | 6 | 
 

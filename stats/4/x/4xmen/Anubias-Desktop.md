@@ -1,6 +1,6 @@
 # 4xmen/Anubias-Desktop - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1539 | 13 | 
 | 2023-04-02 | 1539 | 13 | 
 | 2023-03-31 | 1540 | 13 | 
 | 2023-03-29 | 1540 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1362 | 12 | 
 | 2023-03-07 | 1316 | 12 | 
 | 2023-03-06 | 1315 | 12 | 
-| 2023-03-04 | 1235 | 12 | 
 

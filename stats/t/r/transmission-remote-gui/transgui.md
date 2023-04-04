@@ -1,10 +1,10 @@
 # transmission-remote-gui/transgui - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 266
 
-★ Stars: 2900
+★ Stars: 2903
 
 [Open repository](https://github.com/transmission-remote-gui/transgui)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2903 | 266 | 
+| 2023-04-03 | 2903 | 266 | 
 | 2023-04-02 | 2900 | 266 | 
 | 2023-03-31 | 2893 | 267 | 
 | 2023-03-29 | 2889 | 267 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 2879 | 265 | 
 | 2023-03-06 | 2879 | 265 | 
 | 2023-03-05 | 2879 | 265 | 
-| 2023-03-04 | 2877 | 265 | 
 

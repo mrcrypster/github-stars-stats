@@ -1,10 +1,10 @@
 # craftzdog/chat-bubbles-for-yt - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 152
 
-★ Stars: 608
+★ Stars: 609
 
 [Open repository](https://github.com/craftzdog/chat-bubbles-for-yt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 609 | 152 | 
 | 2023-04-01 | 608 | 152 | 
 | 2023-03-31 | 607 | 152 | 
 | 2023-03-29 | 606 | 152 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 596 | 148 | 
 | 2023-03-07 | 594 | 147 | 
 | 2023-03-05 | 592 | 148 | 
-| 2023-03-04 | 591 | 148 | 
 

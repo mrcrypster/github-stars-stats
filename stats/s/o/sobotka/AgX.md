@@ -1,10 +1,10 @@
 # sobotka/AgX - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 166
+★ Stars: 168
 
 [Open repository](https://github.com/sobotka/AgX)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 168 | 18 | 
 | 2023-04-01 | 166 | 17 | 
 | 2023-03-31 | 166 | 17 | 
 | 2023-03-29 | 165 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 157 | 15 | 
 | 2023-03-07 | 157 | 14 | 
 | 2023-03-06 | 157 | 14 | 
-| 2023-03-04 | 157 | 14 | 
 

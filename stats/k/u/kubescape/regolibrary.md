@@ -1,10 +1,10 @@
 # kubescape/regolibrary - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 34
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/kubescape/regolibrary)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 76 | 34 | 
+| 2023-04-03 | 75 | 34 | 
 | 2023-04-01 | 75 | 34 | 
 | 2023-03-31 | 75 | 34 | 
 | 2023-03-30 | 74 | 34 | 

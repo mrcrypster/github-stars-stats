@@ -1,10 +1,10 @@
 # google-research/jax3d - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 64
 
-★ Stars: 522
+★ Stars: 523
 
 [Open repository](https://github.com/google-research/jax3d)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 523 | 64 | 
 | 2023-04-02 | 522 | 64 | 
 | 2023-03-31 | 520 | 64 | 
 | 2023-03-29 | 517 | 64 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 510 | 60 | 
 | 2023-03-07 | 507 | 60 | 
 | 2023-03-06 | 505 | 59 | 
-| 2023-03-04 | 504 | 59 | 
 

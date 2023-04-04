@@ -1,6 +1,6 @@
 # Experica/NeuroAnalysis.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | 6 | 
 | 2023-04-02 | 11 | 6 | 
 | 2023-03-30 | 11 | 6 | 
 | 2023-03-28 | 11 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 11 | 6 | 
 | 2023-03-07 | 11 | 6 | 
 | 2023-03-05 | 11 | 6 | 
-| 2023-03-04 | 11 | 6 | 
 

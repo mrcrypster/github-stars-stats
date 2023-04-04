@@ -1,10 +1,10 @@
 # SKTBrain/KoBERT - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 320
 
-★ Stars: 1068
+★ Stars: 1070
 
 [Open repository](https://github.com/SKTBrain/KoBERT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1070 | 320 | 
 | 2023-04-02 | 1068 | 320 | 
 | 2023-03-30 | 1066 | 318 | 
 | 2023-03-28 | 1064 | 318 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1049 | 314 | 
 | 2023-03-06 | 1049 | 314 | 
 | 2023-03-05 | 1047 | 313 | 
-| 2023-03-04 | 1047 | 313 | 
 

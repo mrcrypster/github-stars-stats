@@ -1,6 +1,6 @@
 # pulp-platform/register_interface - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 46 | 17 | 
 | 2023-04-02 | 46 | 17 | 
 | 2023-03-31 | 46 | 17 | 
 | 2023-03-30 | 46 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 46 | 17 | 
 | 2023-03-06 | 45 | 17 | 
 | 2023-03-05 | 45 | 17 | 
-| 2023-03-04 | 45 | 17 | 
 

@@ -1,10 +1,10 @@
 # nrlquaker/winbox-mac - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 118
 
-★ Stars: 1116
+★ Stars: 1115
 
 [Open repository](https://github.com/nrlquaker/winbox-mac)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1115 | 118 | 
 | 2023-04-02 | 1116 | 118 | 
 | 2023-03-30 | 1114 | 117 | 
 | 2023-03-28 | 1112 | 117 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 1104 | 116 | 
 | 2023-03-07 | 1104 | 116 | 
 | 2023-03-06 | 1104 | 116 | 
-| 2023-03-05 | 1104 | 116 | 
 

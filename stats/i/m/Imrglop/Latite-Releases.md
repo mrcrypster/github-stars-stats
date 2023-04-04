@@ -1,10 +1,10 @@
 # Imrglop/Latite-Releases - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/Imrglop/Latite-Releases)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8 | 2 | 
 | 2023-03-31 | 7 | 2 | 
 | 2023-03-29 | 7 | 2 | 
 | 2023-03-28 | 7 | 2 | 

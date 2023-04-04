@@ -1,6 +1,6 @@
 # USSBA/terraform-aws-easy-fargate-service - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 7 | 4 | 
 | 2023-04-02 | 7 | 4 | 
 | 2023-04-01 | 7 | 4 | 
 | 2023-03-31 | 7 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 6 | 3 | 
 | 2023-03-07 | 6 | 3 | 
 | 2023-03-05 | 6 | 3 | 
-| 2023-03-04 | 6 | 3 | 
 

@@ -1,6 +1,6 @@
 # exercism/fsharp - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 101 | 90 | 
 | 2023-03-31 | 101 | 90 | 
 | 2023-03-29 | 101 | 90 | 
 | 2023-03-27 | 101 | 90 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 99 | 90 | 
 | 2023-03-07 | 99 | 91 | 
 | 2023-03-06 | 99 | 91 | 
-| 2023-03-04 | 99 | 91 | 
 

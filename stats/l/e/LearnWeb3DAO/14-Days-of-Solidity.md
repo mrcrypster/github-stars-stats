@@ -1,6 +1,6 @@
 # LearnWeb3DAO/14-Days-of-Solidity - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 44 | 15 | 
 | 2023-04-02 | 44 | 15 | 
 | 2023-03-30 | 44 | 15 | 
 | 2023-03-28 | 44 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 44 | 15 | 
 | 2023-03-06 | 44 | 15 | 
 | 2023-03-05 | 44 | 15 | 
-| 2023-03-04 | 44 | 15 | 
 

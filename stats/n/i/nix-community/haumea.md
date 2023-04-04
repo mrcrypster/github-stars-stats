@@ -1,0 +1,18 @@
+# nix-community/haumea - stars & forks statistics
+
+Stats updated on Apr 2023, 04
+
+☋ Forks: 0
+
+★ Stars: 52
+
+[Open repository](https://github.com/nix-community/haumea)
+
+[Open detailed stats for nix-community/haumea](https://reviewgithub.com/rep/nix-community/haumea)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-04 | 52 | - | 
+| 2023-04-03 | 49 | - | 
+

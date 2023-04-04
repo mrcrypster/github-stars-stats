@@ -1,10 +1,10 @@
 # CapnKitten/Material-Discord - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 85
+☋ Forks: 93
 
-★ Stars: 213
+★ Stars: 212
 
 [Open repository](https://github.com/CapnKitten/Material-Discord)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 212 | 93 | 
 | 2023-03-31 | 213 | 85 | 
 | 2023-03-29 | 213 | 85 | 
 | 2023-03-27 | 213 | 83 | 

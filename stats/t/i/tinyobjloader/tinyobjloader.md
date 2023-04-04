@@ -1,6 +1,6 @@
 # tinyobjloader/tinyobjloader - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 559
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2836 | 559 | 
 | 2023-04-02 | 2836 | 559 | 
 | 2023-03-30 | 2833 | 559 | 
 | 2023-03-28 | 2830 | 558 | 

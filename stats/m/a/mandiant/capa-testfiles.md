@@ -1,8 +1,8 @@
 # mandiant/capa-testfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 48
+☋ Forks: 50
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 29 | 50 | 
 | 2023-04-01 | 29 | 48 | 
 | 2023-03-31 | 29 | 48 | 
 | 2023-03-29 | 29 | 48 | 

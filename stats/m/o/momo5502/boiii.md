@@ -1,10 +1,10 @@
 # momo5502/boiii - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 713
+★ Stars: 716
 
 [Open repository](https://github.com/momo5502/boiii)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 716 | 79 | 
 | 2023-04-02 | 713 | 78 | 
 | 2023-04-01 | 703 | 76 | 
 | 2023-03-28 | 672 | 75 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 602 | 57 | 
 | 2023-03-07 | 591 | 56 | 
 | 2023-03-05 | 581 | 57 | 
-| 2023-03-04 | 569 | 56 | 
 

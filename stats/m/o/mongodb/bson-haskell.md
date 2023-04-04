@@ -1,6 +1,6 @@
 # mongodb/bson-haskell - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 11 | 45 | 
 | 2023-03-31 | 11 | 45 | 
 | 2023-03-29 | 11 | 45 | 
 | 2023-03-28 | 11 | 45 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 11 | 45 | 
 | 2023-03-08 | 11 | 45 | 
 | 2023-03-06 | 11 | 45 | 
-| 2023-03-05 | 11 | 45 | 
 

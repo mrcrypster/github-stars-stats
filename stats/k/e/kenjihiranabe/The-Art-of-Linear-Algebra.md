@@ -1,10 +1,10 @@
 # kenjihiranabe/The-Art-of-Linear-Algebra - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 236
 
-★ Stars: 3383
+★ Stars: 3387
 
 [Open repository](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3387 | 236 | 
+| 2023-04-03 | 3387 | 236 | 
 | 2023-04-02 | 3383 | 236 | 
 | 2023-04-01 | 3381 | 236 | 
 | 2023-03-31 | 3381 | 236 | 

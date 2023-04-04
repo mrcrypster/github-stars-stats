@@ -1,10 +1,10 @@
 # TaxyAI/browser-extension - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 126
+☋ Forks: 136
 
-★ Stars: 2949
+★ Stars: 3074
 
 [Open repository](https://github.com/TaxyAI/browser-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3074 | 136 | 
 | 2023-04-01 | 2949 | 126 | 
 | 2023-03-31 | 2229 | 89 | 
 

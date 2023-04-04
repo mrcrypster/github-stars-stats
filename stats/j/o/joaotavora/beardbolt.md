@@ -1,6 +1,6 @@
 # joaotavora/beardbolt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 50 | 3 | 
 | 2023-04-02 | 50 | 3 | 
 | 2023-03-29 | 50 | 3 | 
 | 2023-03-28 | 50 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 50 | 2 | 
 | 2023-03-07 | 50 | 2 | 
 | 2023-03-05 | 50 | 2 | 
-| 2023-03-04 | 50 | 2 | 
 

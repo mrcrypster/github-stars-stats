@@ -1,6 +1,6 @@
 # jamigibbs/phantom - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 283 | 324 | 
 | 2023-04-02 | 283 | 324 | 
 | 2023-03-30 | 282 | 322 | 
 | 2023-03-28 | 282 | 322 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 280 | 318 | 
 | 2023-03-07 | 279 | 318 | 
 | 2023-03-05 | 279 | 316 | 
-| 2023-03-04 | 279 | 315 | 
 

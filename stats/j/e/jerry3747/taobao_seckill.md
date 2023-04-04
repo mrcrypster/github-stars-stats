@@ -1,10 +1,10 @@
 # jerry3747/taobao_seckill - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1013
+☋ Forks: 1012
 
-★ Stars: 2054
+★ Stars: 2055
 
 [Open repository](https://github.com/jerry3747/taobao_seckill)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2055 | 1012 | 
 | 2023-04-01 | 2054 | 1013 | 
 | 2023-03-29 | 2055 | 1012 | 
 | 2023-03-28 | 2056 | 1012 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 2050 | 1007 | 
 | 2023-03-07 | 2045 | 1005 | 
 | 2023-03-06 | 2045 | 1003 | 
-| 2023-03-05 | 2045 | 1005 | 
 

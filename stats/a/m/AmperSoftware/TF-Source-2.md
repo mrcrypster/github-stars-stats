@@ -1,10 +1,10 @@
 # AmperSoftware/TF-Source-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 23
+☋ Forks: 22
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/AmperSoftware/TF-Source-2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 193 | 22 | 
 | 2023-03-31 | 192 | 23 | 
 | 2023-03-29 | 192 | 23 | 
 | 2023-03-27 | 192 | 23 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 177 | 20 | 
 | 2023-03-07 | 176 | 19 | 
 | 2023-03-06 | 175 | 19 | 
-| 2023-03-05 | 175 | 19 | 
 

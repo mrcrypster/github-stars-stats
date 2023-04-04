@@ -1,10 +1,10 @@
 # gabiduarte/awesome-techleads - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 1532
+★ Stars: 1534
 
 [Open repository](https://github.com/gabiduarte/awesome-techleads)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1534 | 103 | 
 | 2023-04-02 | 1532 | 102 | 
 | 2023-03-30 | 1532 | 102 | 
 | 2023-03-28 | 1532 | 102 | 

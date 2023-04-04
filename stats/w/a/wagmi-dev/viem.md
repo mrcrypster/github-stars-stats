@@ -1,10 +1,10 @@
 # wagmi-dev/viem - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 651
+★ Stars: 655
 
 [Open repository](https://github.com/wagmi-dev/viem)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 655 | 42 | 
 | 2023-04-01 | 651 | 41 | 
 | 2023-03-30 | 643 | 39 | 
 | 2023-03-28 | 634 | 36 | 

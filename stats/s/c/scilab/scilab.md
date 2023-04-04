@@ -1,10 +1,10 @@
 # scilab/scilab - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 72
 
-★ Stars: 251
+★ Stars: 253
 
 [Open repository](https://github.com/scilab/scilab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 253 | 72 | 
 | 2023-04-01 | 251 | 72 | 
 | 2023-03-31 | 251 | 72 | 
 | 2023-03-29 | 250 | 72 | 

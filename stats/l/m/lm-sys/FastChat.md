@@ -1,10 +1,10 @@
 # lm-sys/FastChat - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 278
+☋ Forks: 422
 
-★ Stars: 3124
+★ Stars: 4561
 
 [Open repository](https://github.com/lm-sys/FastChat)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4561 | 422 | 
+| 2023-04-03 | 4298 | 399 | 
 | 2023-04-02 | 3124 | 278 | 
 

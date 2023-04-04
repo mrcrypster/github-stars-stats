@@ -1,10 +1,10 @@
 # sureJiang/MSCrashProtector - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 04
 
-☋ Forks: 123
+☋ Forks: 165
 
-★ Stars: 1628
+★ Stars: 1699
 
 [Open repository](https://github.com/sureJiang/MSCrashProtector)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1699 | 165 | 
+| 2023-04-03 | 1696 | 162 | 
 | 2023-03-31 | 1628 | 123 | 
 | 2023-03-29 | 1628 | 123 | 
 | 2023-03-27 | 1628 | 123 | 
@@ -32,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1630 | 123 | 
 | 2023-03-07 | 1631 | 123 | 
 | 2023-03-05 | 1631 | 123 | 
-| 2023-03-04 | 1631 | 123 | 
 

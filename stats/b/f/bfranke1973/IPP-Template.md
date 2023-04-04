@@ -1,6 +1,6 @@
 # bfranke1973/IPP-Template - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 11 | 98 | 
 | 2023-04-02 | 11 | 98 | 
 | 2023-03-30 | 11 | 98 | 
 | 2023-03-28 | 11 | 97 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 11 | 96 | 
 | 2023-03-07 | 11 | 96 | 
 | 2023-03-05 | 11 | 96 | 
-| 2023-03-04 | 11 | 96 | 
 

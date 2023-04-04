@@ -1,6 +1,6 @@
 # jhickner/minions - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 22 | 3 | 
 | 2023-04-02 | 22 | 3 | 
 | 2023-03-30 | 22 | 3 | 
 | 2023-03-28 | 22 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 22 | 3 | 
 | 2023-03-07 | 22 | 3 | 
 | 2023-03-05 | 22 | 3 | 
-| 2023-03-04 | 22 | 3 | 
 

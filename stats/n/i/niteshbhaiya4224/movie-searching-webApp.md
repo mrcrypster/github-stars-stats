@@ -1,10 +1,10 @@
 # niteshbhaiya4224/movie-searching-webApp - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/niteshbhaiya4224/movie-searching-webApp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 18 | 4 | 
 | 2023-04-01 | 17 | 4 | 
 | 2023-03-30 | 17 | 4 | 
 | 2023-03-28 | 17 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 17 | 4 | 
 | 2023-03-06 | 17 | 4 | 
 | 2023-03-05 | 17 | 4 | 
-| 2023-03-04 | 17 | 4 | 
 

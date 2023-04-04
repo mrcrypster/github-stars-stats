@@ -1,10 +1,10 @@
 # NG-ZORRO/ng-zorro-antd - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 3415
+☋ Forks: 3417
 
-★ Stars: 8422
+★ Stars: 8424
 
 [Open repository](https://github.com/NG-ZORRO/ng-zorro-antd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8424 | 3417 | 
 | 2023-04-01 | 8422 | 3415 | 
 | 2023-03-30 | 8419 | 3412 | 
 | 2023-03-28 | 8418 | 3413 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 8408 | 3399 | 
 | 2023-03-07 | 8408 | 3397 | 
 | 2023-03-06 | 8408 | 3399 | 
-| 2023-03-04 | 8407 | 3398 | 
 

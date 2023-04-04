@@ -1,10 +1,10 @@
 # Mr-Un1k0d3r/EDRs - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 309
+☋ Forks: 311
 
-★ Stars: 1711
+★ Stars: 1714
 
 [Open repository](https://github.com/Mr-Un1k0d3r/EDRs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1714 | 311 | 
 | 2023-03-31 | 1711 | 309 | 
 | 2023-03-29 | 1708 | 309 | 
 | 2023-03-28 | 1707 | 308 | 

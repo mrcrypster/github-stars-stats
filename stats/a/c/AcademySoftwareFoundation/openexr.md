@@ -1,10 +1,10 @@
 # AcademySoftwareFoundation/openexr - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 534
 
-★ Stars: 1408
+★ Stars: 1410
 
 [Open repository](https://github.com/AcademySoftwareFoundation/openexr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1410 | 534 | 
 | 2023-04-02 | 1408 | 534 | 
 | 2023-03-31 | 1405 | 535 | 
 | 2023-03-29 | 1402 | 535 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 1389 | 531 | 
 | 2023-03-06 | 1388 | 531 | 
 | 2023-03-05 | 1388 | 531 | 
-| 2023-03-04 | 1387 | 531 | 
 

@@ -1,6 +1,6 @@
 # namazso/linux_injector - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 176 | 16 | 
 | 2023-04-02 | 176 | 16 | 
 | 2023-03-30 | 176 | 16 | 
 | 2023-03-28 | 176 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 173 | 16 | 
 | 2023-03-07 | 173 | 15 | 
 | 2023-03-06 | 172 | 15 | 
-| 2023-03-04 | 172 | 15 | 
 

@@ -1,10 +1,10 @@
 # liangfei44/VmWareThrough - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 101
+★ Stars: 103
 
 [Open repository](https://github.com/liangfei44/VmWareThrough)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 103 | 66 | 
 | 2023-04-02 | 101 | 65 | 
 | 2023-04-01 | 101 | 65 | 
 | 2023-03-30 | 101 | 65 | 

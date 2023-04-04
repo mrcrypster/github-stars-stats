@@ -1,10 +1,10 @@
 # ObjectProfile/NumericScales - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/ObjectProfile/NumericScales)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 1 | 
+| 2023-04-03 | 3 | 1 | 
 | 2023-04-02 | 2 | 1 | 
 | 2023-03-30 | 2 | 1 | 
 | 2023-03-28 | 2 | 1 | 
@@ -34,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2 | 1 | 
 | 2023-03-06 | 2 | 1 | 
 | 2023-03-05 | 2 | 1 | 
-| 2023-03-04 | 2 | 1 | 
 

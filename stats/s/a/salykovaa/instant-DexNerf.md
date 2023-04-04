@@ -1,6 +1,6 @@
 # salykovaa/instant-DexNerf - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 52 | 3 | 
 | 2023-03-30 | 52 | 3 | 
 | 2023-03-28 | 52 | 3 | 
 | 2023-03-27 | 52 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 51 | 3 | 
 | 2023-03-07 | 51 | 3 | 
 | 2023-03-05 | 50 | 3 | 
-| 2023-03-04 | 50 | 3 | 
 

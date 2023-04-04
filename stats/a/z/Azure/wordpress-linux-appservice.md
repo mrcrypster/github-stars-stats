@@ -1,8 +1,8 @@
 # Azure/wordpress-linux-appservice - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 35 | 32 | 
 | 2023-04-02 | 35 | 31 | 
 | 2023-03-30 | 35 | 31 | 
 | 2023-03-28 | 32 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 28 | 29 | 
 | 2023-03-06 | 27 | 29 | 
 | 2023-03-05 | 27 | 29 | 
-| 2023-03-04 | 27 | 29 | 
 

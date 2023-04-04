@@ -1,6 +1,6 @@
 # algolia/instantsearch-specs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 4 | 
 | 2023-04-02 | 6 | 4 | 
 | 2023-03-30 | 6 | 4 | 
 | 2023-03-28 | 6 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 6 | 4 | 
 | 2023-03-06 | 6 | 4 | 
 | 2023-03-05 | 6 | 4 | 
-| 2023-03-04 | 6 | 4 | 
 

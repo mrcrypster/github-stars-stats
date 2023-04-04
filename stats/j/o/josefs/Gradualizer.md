@@ -1,10 +1,10 @@
 # josefs/Gradualizer - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 30
 
-★ Stars: 556
+★ Stars: 557
 
 [Open repository](https://github.com/josefs/Gradualizer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 557 | 30 | 
 | 2023-04-02 | 556 | 30 | 
 | 2023-03-30 | 556 | 29 | 
 | 2023-03-28 | 555 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 548 | 28 | 
 | 2023-03-07 | 548 | 28 | 
 | 2023-03-05 | 549 | 28 | 
-| 2023-03-04 | 549 | 28 | 
 

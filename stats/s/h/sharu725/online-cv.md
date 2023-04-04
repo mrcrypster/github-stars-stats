@@ -1,10 +1,10 @@
 # sharu725/online-cv - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4884
 
-★ Stars: 2433
+★ Stars: 2434
 
 [Open repository](https://github.com/sharu725/online-cv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2434 | 4884 | 
 | 2023-04-02 | 2433 | 4884 | 
 | 2023-03-30 | 2427 | 4876 | 
 | 2023-03-28 | 2423 | 4873 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2393 | 4822 | 
 | 2023-03-07 | 2392 | 4809 | 
 | 2023-03-05 | 2390 | 4804 | 
-| 2023-03-04 | 2387 | 4801 | 
 

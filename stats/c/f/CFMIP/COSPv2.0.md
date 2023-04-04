@@ -1,6 +1,6 @@
 # CFMIP/COSPv2.0 - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 31 | 33 | 
 | 2023-04-01 | 31 | 33 | 
 | 2023-03-30 | 31 | 33 | 
 | 2023-03-28 | 31 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 32 | 33 | 
 | 2023-03-06 | 32 | 33 | 
 | 2023-03-05 | 31 | 33 | 
-| 2023-03-04 | 31 | 33 | 
 

@@ -1,8 +1,8 @@
 # xcwill/CMeKG_labelingPlatform - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 143
+☋ Forks: 144
 
 ★ Stars: 115
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 115 | 144 | 
 | 2023-03-31 | 115 | 143 | 
 | 2023-03-29 | 114 | 141 | 
 | 2023-03-28 | 113 | 141 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 109 | 140 | 
 | 2023-03-06 | 109 | 140 | 
 | 2023-03-05 | 109 | 140 | 
-| 2023-03-04 | 108 | 140 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 03
 
-☋ Forks: 1192
+☋ Forks: 1193
 
-★ Stars: 3110
+★ Stars: 3115
 
 [Open repository](https://github.com/godotengine/godot-demo-projects)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 3110 | 1192 | 
+| 2023-04-03 | 3115 | 1193 | 
 | 2023-04-02 | 3110 | 1193 | 
 | 2023-03-31 | 3106 | 1190 | 
 | 2023-03-30 | 3105 | 1188 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-07 | 3018 | 1164 | 
 | 2023-03-06 | 3012 | 1163 | 
 | 2023-03-05 | 3007 | 1162 | 
-| 2023-03-04 | 3005 | 1162 | 
 

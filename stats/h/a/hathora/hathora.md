@@ -1,6 +1,6 @@
 # hathora/hathora - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 513 | 33 | 
 | 2023-04-02 | 513 | 33 | 
 | 2023-03-31 | 511 | 33 | 
 | 2023-03-29 | 508 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 503 | 33 | 
 | 2023-03-07 | 502 | 33 | 
 | 2023-03-06 | 502 | 33 | 
-| 2023-03-04 | 502 | 33 | 
 

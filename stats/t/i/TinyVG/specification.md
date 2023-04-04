@@ -1,10 +1,10 @@
 # TinyVG/specification - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/TinyVG/specification)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 212 | 5 | 
 | 2023-04-02 | 211 | 5 | 
 | 2023-03-30 | 211 | 5 | 
 | 2023-03-29 | 211 | 5 | 

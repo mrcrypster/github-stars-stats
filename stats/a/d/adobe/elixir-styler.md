@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/adobe/elixir-styler)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 30 | - | 
+| 2023-04-03 | 31 | - | 
 | 2023-04-02 | 30 | - | 
 | 2023-04-01 | 27 | - | 
 

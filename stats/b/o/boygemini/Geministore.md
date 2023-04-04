@@ -1,10 +1,10 @@
 # boygemini/Geministore - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/boygemini/Geministore)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 12 | 4 | 
 | 2023-04-02 | 11 | 4 | 
 | 2023-03-31 | 11 | 4 | 
 | 2023-03-29 | 11 | 4 | 

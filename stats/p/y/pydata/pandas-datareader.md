@@ -1,10 +1,10 @@
 # pydata/pandas-datareader - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 641
+☋ Forks: 642
 
-★ Stars: 2612
+★ Stars: 2615
 
 [Open repository](https://github.com/pydata/pandas-datareader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2615 | 642 | 
 | 2023-04-01 | 2612 | 641 | 
 | 2023-03-31 | 2611 | 641 | 
 | 2023-03-29 | 2611 | 641 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 2595 | 637 | 
 | 2023-03-07 | 2594 | 637 | 
 | 2023-03-05 | 2593 | 637 | 
-| 2023-03-04 | 2590 | 637 | 
 

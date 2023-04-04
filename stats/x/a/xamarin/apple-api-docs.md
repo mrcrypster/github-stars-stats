@@ -1,6 +1,6 @@
 # xamarin/apple-api-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 25 | 41 | 
 | 2023-03-30 | 25 | 41 | 
 | 2023-03-28 | 25 | 41 | 
 | 2023-03-27 | 25 | 41 | 

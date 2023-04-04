@@ -1,10 +1,10 @@
 # LongerHV/nixos-configuration - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/LongerHV/nixos-configuration)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 1 | 
+| 2023-04-03 | 17 | 1 | 
 | 2023-04-02 | 18 | 1 | 
 

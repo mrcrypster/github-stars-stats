@@ -1,6 +1,6 @@
 # Seytonic/Duckduino-microSD - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 269 | 100 | 
 | 2023-04-02 | 269 | 100 | 
 | 2023-03-29 | 269 | 100 | 
 | 2023-03-28 | 268 | 100 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 266 | 99 | 
 | 2023-03-07 | 266 | 99 | 
 | 2023-03-05 | 267 | 99 | 
-| 2023-03-04 | 267 | 99 | 
 

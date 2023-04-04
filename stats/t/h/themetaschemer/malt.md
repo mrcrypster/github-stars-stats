@@ -1,6 +1,6 @@
 # themetaschemer/malt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 66 | 5 | 
 | 2023-04-02 | 66 | 5 | 
 | 2023-03-31 | 66 | 5 | 
 | 2023-03-29 | 63 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 44 | 3 | 
 | 2023-03-06 | 42 | 2 | 
 | 2023-03-05 | 42 | 2 | 
-| 2023-03-04 | 42 | 2 | 
 

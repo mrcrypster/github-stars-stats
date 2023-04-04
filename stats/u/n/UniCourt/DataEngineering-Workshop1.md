@@ -1,8 +1,8 @@
 # UniCourt/DataEngineering-Workshop1 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 328
+☋ Forks: 329
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 21 | 329 | 
 | 2023-03-31 | 21 | 328 | 
 | 2023-03-29 | 21 | 328 | 
 | 2023-03-28 | 21 | 288 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 17 | 203 | 
 | 2023-03-07 | 17 | 203 | 
 | 2023-03-06 | 17 | 203 | 
-| 2023-03-04 | 17 | 203 | 
 

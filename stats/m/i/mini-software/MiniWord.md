@@ -1,6 +1,6 @@
 # mini-software/MiniWord - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 297 | 33 | 
 | 2023-04-02 | 297 | 33 | 
 | 2023-03-29 | 295 | 33 | 
 | 2023-03-28 | 293 | 33 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 287 | 33 | 
 | 2023-03-07 | 286 | 33 | 
 | 2023-03-06 | 286 | 33 | 
-| 2023-03-04 | 286 | 33 | 
 

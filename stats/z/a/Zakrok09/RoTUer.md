@@ -1,6 +1,6 @@
 # Zakrok09/RoTUer - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8 | 1 | 
 | 2023-04-01 | 8 | 1 | 
 | 2023-03-31 | 8 | 1 | 
 | 2023-03-29 | 8 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 9 | 1 | 
 | 2023-03-06 | 9 | 1 | 
 | 2023-03-05 | 9 | 1 | 
-| 2023-03-04 | 9 | 1 | 
 

@@ -1,10 +1,10 @@
 # ShoufaChen/DiffusionDet - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 122
+☋ Forks: 123
 
-★ Stars: 1676
+★ Stars: 1677
 
 [Open repository](https://github.com/ShoufaChen/DiffusionDet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1677 | 123 | 
 | 2023-04-02 | 1676 | 122 | 
 | 2023-03-30 | 1670 | 122 | 
 | 2023-03-28 | 1665 | 122 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1629 | 119 | 
 | 2023-03-07 | 1623 | 118 | 
 | 2023-03-06 | 1618 | 117 | 
-| 2023-03-04 | 1617 | 118 | 
 

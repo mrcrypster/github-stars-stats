@@ -1,6 +1,6 @@
 # tintinweb/smart-contract-sanctuary-arbitrum - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 22 | 6 | 
 | 2023-04-02 | 22 | 6 | 
 | 2023-03-31 | 22 | 6 | 
 | 2023-03-29 | 22 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 23 | 6 | 
 | 2023-03-06 | 23 | 6 | 
 | 2023-03-05 | 23 | 6 | 
-| 2023-03-04 | 23 | 6 | 
 

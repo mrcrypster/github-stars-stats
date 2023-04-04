@@ -1,10 +1,10 @@
 # drshahizan/learn-php - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 74
+☋ Forks: 80
 
-★ Stars: 64
+★ Stars: 67
 
 [Open repository](https://github.com/drshahizan/learn-php)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 67 | 80 | 
 | 2023-04-02 | 64 | 74 | 
 | 2023-03-30 | 55 | 62 | 
 | 2023-03-29 | 45 | 57 | 

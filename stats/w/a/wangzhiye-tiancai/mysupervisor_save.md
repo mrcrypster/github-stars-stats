@@ -1,10 +1,10 @@
 # wangzhiye-tiancai/mysupervisor_save - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 83
 
-★ Stars: 705
+★ Stars: 710
 
 [Open repository](https://github.com/wangzhiye-tiancai/mysupervisor_save)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 710 | 83 | 
 | 2023-04-02 | 705 | 83 | 
 | 2023-03-30 | 699 | 81 | 
 | 2023-03-28 | 697 | 80 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 677 | 80 | 
 | 2023-03-07 | 675 | 80 | 
 | 2023-03-06 | 671 | 80 | 
-| 2023-03-05 | 665 | 79 | 
 

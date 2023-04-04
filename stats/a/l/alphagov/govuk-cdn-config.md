@@ -1,6 +1,6 @@
 # alphagov/govuk-cdn-config - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 16 | 7 | 
 | 2023-04-02 | 16 | 7 | 
 | 2023-03-30 | 16 | 7 | 
 | 2023-03-28 | 16 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 17 | 7 | 
 | 2023-03-07 | 17 | 7 | 
 | 2023-03-05 | 17 | 7 | 
-| 2023-03-04 | 17 | 7 | 
 

@@ -1,10 +1,10 @@
 # returntocorp/ocaml-tree-sitter-core - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/returntocorp/ocaml-tree-sitter-core)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 41 | 6 | 
+| 2023-04-03 | 41 | 6 | 
 | 2023-04-02 | 40 | 6 | 
 | 2023-04-01 | 40 | 6 | 
 | 2023-03-31 | 40 | 6 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 40 | 6 | 
 | 2023-03-06 | 40 | 6 | 
 | 2023-03-05 | 40 | 6 | 
-| 2023-03-04 | 40 | 6 | 
 

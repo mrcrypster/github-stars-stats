@@ -1,10 +1,10 @@
 # brenhinkeller/StaticTools.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/brenhinkeller/StaticTools.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 132 | 8 | 
 | 2023-04-01 | 131 | 8 | 
 | 2023-03-31 | 131 | 8 | 
 | 2023-03-29 | 130 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 122 | 6 | 
 | 2023-03-06 | 121 | 6 | 
 | 2023-03-05 | 121 | 6 | 
-| 2023-03-04 | 121 | 6 | 
 

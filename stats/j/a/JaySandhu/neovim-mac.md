@@ -1,10 +1,10 @@
 # JaySandhu/neovim-mac - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 142
+★ Stars: 141
 
 [Open repository](https://github.com/JaySandhu/neovim-mac)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 141 | 3 | 
 | 2023-03-31 | 142 | 3 | 
 | 2023-03-28 | 141 | 3 | 
 | 2023-03-27 | 140 | 3 | 
@@ -31,5 +32,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 136 | 3 | 
 | 2023-03-07 | 136 | 3 | 
 | 2023-03-06 | 136 | 4 | 
-| 2023-03-05 | 136 | 4 | 
 

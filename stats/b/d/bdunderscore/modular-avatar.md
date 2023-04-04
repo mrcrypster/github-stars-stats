@@ -1,10 +1,10 @@
 # bdunderscore/modular-avatar - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/bdunderscore/modular-avatar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 215 | 14 | 
 | 2023-04-02 | 214 | 14 | 
 | 2023-03-30 | 208 | 13 | 
 | 2023-03-28 | 208 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 192 | 13 | 
 | 2023-03-07 | 193 | 13 | 
 | 2023-03-05 | 193 | 13 | 
-| 2023-03-04 | 192 | 13 | 
 

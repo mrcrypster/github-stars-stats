@@ -1,10 +1,10 @@
 # music-assistant/hass-music-assistant - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 24
 
-★ Stars: 550
+★ Stars: 553
 
 [Open repository](https://github.com/music-assistant/hass-music-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 553 | 24 | 
 | 2023-03-31 | 550 | 24 | 
 | 2023-03-29 | 546 | 23 | 
 | 2023-03-27 | 545 | 23 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 519 | 24 | 
 | 2023-03-07 | 519 | 24 | 
 | 2023-03-06 | 515 | 24 | 
-| 2023-03-04 | 515 | 24 | 
 

@@ -1,10 +1,10 @@
 # prometheus-operator/prometheus-operator - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 3508
+☋ Forks: 3511
 
-★ Stars: 7907
+★ Stars: 7910
 
 [Open repository](https://github.com/prometheus-operator/prometheus-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 7910 | 3511 | 
 | 2023-04-02 | 7907 | 3508 | 
 | 2023-04-01 | 7906 | 3507 | 
 | 2023-03-30 | 7901 | 3505 | 

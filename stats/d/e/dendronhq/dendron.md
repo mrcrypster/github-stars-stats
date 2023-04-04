@@ -1,6 +1,6 @@
 # dendronhq/dendron - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5397 | 203 | 
 | 2023-04-02 | 5397 | 203 | 
 | 2023-03-30 | 5388 | 203 | 
 | 2023-03-28 | 5379 | 204 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 5325 | 204 | 
 | 2023-03-07 | 5318 | 204 | 
 | 2023-03-06 | 5312 | 203 | 
-| 2023-03-05 | 5305 | 202 | 
 

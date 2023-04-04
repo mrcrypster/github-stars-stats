@@ -1,6 +1,6 @@
 # Anebelengyb/Nx2 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 54 | 23 | 
 | 2023-03-31 | 54 | 23 | 
 | 2023-03-29 | 54 | 23 | 
 | 2023-03-27 | 54 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 54 | 23 | 
 | 2023-03-07 | 54 | 23 | 
 | 2023-03-05 | 54 | 23 | 
-| 2023-03-04 | 54 | 23 | 
 

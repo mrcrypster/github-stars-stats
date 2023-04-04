@@ -1,6 +1,6 @@
 # SilenceLove/HXPhotoPicker - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 544
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2598 | 544 | 
 | 2023-04-02 | 2598 | 544 | 
 | 2023-03-30 | 2598 | 544 | 
 | 2023-03-28 | 2597 | 544 | 

@@ -1,10 +1,10 @@
 # jump-dev/MathOptInterface.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 85
 
-★ Stars: 298
+★ Stars: 299
 
 [Open repository](https://github.com/jump-dev/MathOptInterface.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 299 | 85 | 
 | 2023-04-02 | 298 | 85 | 
 | 2023-03-30 | 297 | 85 | 
 | 2023-03-29 | 297 | 85 | 

@@ -1,10 +1,10 @@
 # alexgo-io/alex-dao-proposals - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/alexgo-io/alex-dao-proposals)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3 | 1 | 
 | 2023-04-02 | 2 | - | 
 | 2023-03-31 | 2 | - | 
 | 2023-03-29 | 2 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2 | - | 
 | 2023-03-07 | 2 | - | 
 | 2023-03-06 | 2 | - | 
-| 2023-03-05 | 2 | - | 
 

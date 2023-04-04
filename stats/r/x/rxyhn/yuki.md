@@ -1,10 +1,10 @@
 # rxyhn/yuki - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 221
+★ Stars: 224
 
 [Open repository](https://github.com/rxyhn/yuki)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 224 | 15 | 
+| 2023-04-03 | 224 | 15 | 
 | 2023-04-02 | 221 | 15 | 
 | 2023-03-31 | 219 | 15 | 
 | 2023-03-30 | 218 | 15 | 

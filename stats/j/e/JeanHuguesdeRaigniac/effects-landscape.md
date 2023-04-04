@@ -1,6 +1,6 @@
 # JeanHuguesdeRaigniac/effects-landscape - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 56 | 3 | 
 | 2023-04-02 | 56 | 3 | 
 | 2023-03-30 | 56 | 3 | 
 | 2023-03-28 | 56 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 52 | 3 | 
 | 2023-03-07 | 52 | 3 | 
 | 2023-03-05 | 52 | 3 | 
-| 2023-03-04 | 52 | 3 | 
 

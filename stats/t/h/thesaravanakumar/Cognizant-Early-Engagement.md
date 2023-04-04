@@ -1,10 +1,10 @@
 # thesaravanakumar/Cognizant-Early-Engagement - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 305
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/thesaravanakumar/Cognizant-Early-Engagement)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 187 | 305 | 
 | 2023-04-02 | 186 | 305 | 
 | 2023-03-30 | 186 | 306 | 
 | 2023-03-28 | 186 | 306 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 185 | 302 | 
 | 2023-03-06 | 185 | 303 | 
 | 2023-03-05 | 185 | 302 | 
-| 2023-03-04 | 185 | 302 | 
 

@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-memorystore - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 27 | 83 | 
 | 2023-03-31 | 27 | 83 | 
 | 2023-03-29 | 27 | 83 | 
 | 2023-03-27 | 27 | 83 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 27 | 80 | 
 | 2023-03-06 | 27 | 80 | 
 | 2023-03-05 | 27 | 80 | 
-| 2023-03-04 | 27 | 80 | 
 

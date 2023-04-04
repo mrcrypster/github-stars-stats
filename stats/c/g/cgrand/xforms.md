@@ -1,6 +1,6 @@
 # cgrand/xforms - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 522 | 30 | 
 | 2023-04-01 | 522 | 30 | 
 | 2023-03-29 | 522 | 30 | 
 | 2023-03-27 | 522 | 30 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 518 | 30 | 
 | 2023-03-06 | 518 | 30 | 
 | 2023-03-05 | 517 | 30 | 
-| 2023-03-04 | 517 | 30 | 
 

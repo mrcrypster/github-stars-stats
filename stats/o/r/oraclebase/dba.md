@@ -1,6 +1,6 @@
 # oraclebase/dba - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 201 | 117 | 
 | 2023-04-01 | 201 | 117 | 
 | 2023-03-30 | 201 | 117 | 
 | 2023-03-28 | 200 | 117 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 200 | 117 | 
 | 2023-03-07 | 199 | 117 | 
 | 2023-03-06 | 199 | 117 | 
-| 2023-03-04 | 199 | 117 | 
 

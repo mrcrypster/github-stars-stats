@@ -1,10 +1,10 @@
 # lando/drupal - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/lando/drupal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8 | 11 | 
 | 2023-03-31 | 7 | 11 | 
 | 2023-03-29 | 7 | 11 | 
 | 2023-03-28 | 7 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 7 | 10 | 
 | 2023-03-06 | 7 | 10 | 
 | 2023-03-05 | 7 | 10 | 
-| 2023-03-04 | 7 | 10 | 
 

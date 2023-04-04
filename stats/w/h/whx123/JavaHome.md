@@ -1,10 +1,10 @@
 # whx123/JavaHome - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 913
+☋ Forks: 914
 
-★ Stars: 3074
+★ Stars: 3080
 
 [Open repository](https://github.com/whx123/JavaHome)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3080 | 914 | 
 | 2023-04-02 | 3074 | 913 | 
 | 2023-03-30 | 3066 | 911 | 
 | 2023-03-28 | 3057 | 910 | 

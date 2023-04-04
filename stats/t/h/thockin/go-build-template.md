@@ -1,10 +1,10 @@
 # thockin/go-build-template - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 412
 
-★ Stars: 2972
+★ Stars: 2973
 
 [Open repository](https://github.com/thockin/go-build-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2973 | 412 | 
 | 2023-04-02 | 2972 | 412 | 
 | 2023-03-30 | 2971 | 411 | 
 | 2023-03-28 | 2968 | 411 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2960 | 410 | 
 | 2023-03-07 | 2957 | 410 | 
 | 2023-03-05 | 2957 | 410 | 
-| 2023-03-04 | 2955 | 410 | 
 

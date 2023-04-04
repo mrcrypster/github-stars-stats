@@ -1,6 +1,6 @@
 # google/rune - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1903 | 46 | 
 | 2023-04-02 | 1903 | 46 | 
 | 2023-03-30 | 1903 | 46 | 
 | 2023-03-28 | 1902 | 46 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1899 | 45 | 
 | 2023-03-07 | 1898 | 45 | 
 | 2023-03-06 | 1897 | 45 | 
-| 2023-03-04 | 1897 | 45 | 
 

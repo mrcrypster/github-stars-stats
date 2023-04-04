@@ -1,6 +1,6 @@
 # nalundgaard/jsn - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 32 | 10 | 
 | 2023-04-02 | 32 | 10 | 
 | 2023-03-30 | 32 | 10 | 
 | 2023-03-28 | 32 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 32 | 10 | 
 | 2023-03-07 | 32 | 10 | 
 | 2023-03-05 | 32 | 10 | 
-| 2023-03-04 | 32 | 10 | 
 

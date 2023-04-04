@@ -1,6 +1,6 @@
 # davidbrewer/tmux-conf - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 9 | 
 | 2023-04-02 | 20 | 9 | 
 | 2023-03-30 | 20 | 9 | 
 | 2023-03-28 | 20 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 20 | 9 | 
 | 2023-03-06 | 20 | 9 | 
 | 2023-03-05 | 20 | 9 | 
-| 2023-03-04 | 20 | 9 | 
 

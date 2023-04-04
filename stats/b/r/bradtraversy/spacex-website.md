@@ -1,6 +1,6 @@
 # bradtraversy/spacex-website - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 113 | 56 | 
 | 2023-03-31 | 113 | 56 | 
 | 2023-03-29 | 114 | 56 | 
 | 2023-03-27 | 114 | 55 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 114 | 53 | 
 | 2023-03-06 | 114 | 53 | 
 | 2023-03-05 | 114 | 53 | 
-| 2023-03-04 | 114 | 53 | 
 

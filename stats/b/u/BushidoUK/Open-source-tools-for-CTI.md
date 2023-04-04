@@ -1,10 +1,10 @@
 # BushidoUK/Open-source-tools-for-CTI - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 343
+★ Stars: 344
 
 [Open repository](https://github.com/BushidoUK/Open-source-tools-for-CTI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 344 | 69 | 
 | 2023-04-02 | 343 | 68 | 
 | 2023-03-30 | 342 | 68 | 
 | 2023-03-28 | 338 | 67 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 331 | 63 | 
 | 2023-03-06 | 330 | 63 | 
 | 2023-03-05 | 330 | 63 | 
-| 2023-03-04 | 330 | 63 | 
 

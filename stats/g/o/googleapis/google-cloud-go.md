@@ -1,10 +1,10 @@
 # googleapis/google-cloud-go - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1151
+☋ Forks: 1152
 
-★ Stars: 3235
+★ Stars: 3238
 
 [Open repository](https://github.com/googleapis/google-cloud-go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3238 | 1152 | 
 | 2023-04-02 | 3235 | 1151 | 
 | 2023-04-01 | 3234 | 1151 | 
 | 2023-03-31 | 3234 | 1151 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 3206 | 1138 | 
 | 2023-03-06 | 3206 | 1137 | 
 | 2023-03-05 | 3203 | 1136 | 
-| 2023-03-04 | 3204 | 1136 | 
 

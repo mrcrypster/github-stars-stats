@@ -1,6 +1,6 @@
 # zobront/paradigm-ctf - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 128 | 27 | 
 | 2023-04-02 | 128 | 27 | 
 | 2023-03-30 | 128 | 27 | 
 | 2023-03-28 | 128 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 127 | 26 | 
 | 2023-03-07 | 127 | 26 | 
 | 2023-03-06 | 127 | 26 | 
-| 2023-03-04 | 127 | 26 | 
 

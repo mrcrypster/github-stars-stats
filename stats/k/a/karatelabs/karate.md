@@ -1,10 +1,10 @@
 # karatelabs/karate - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1751
+☋ Forks: 1756
 
-★ Stars: 6925
+★ Stars: 6930
 
 [Open repository](https://github.com/karatelabs/karate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6930 | 1756 | 
 | 2023-04-02 | 6925 | 1751 | 
 | 2023-04-01 | 6923 | 1751 | 
 | 2023-03-30 | 6918 | 1753 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 6861 | 1736 | 
 | 2023-03-06 | 6858 | 1737 | 
 | 2023-03-05 | 6856 | 1736 | 
-| 2023-03-04 | 6851 | 1736 | 
 

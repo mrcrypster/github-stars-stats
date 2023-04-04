@@ -1,10 +1,10 @@
 # meain/scopeline.el - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/meain/scopeline.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 26 | 4 | 
 | 2023-04-02 | 25 | 4 | 
 | 2023-03-31 | 25 | 4 | 
 | 2023-03-29 | 25 | 4 | 

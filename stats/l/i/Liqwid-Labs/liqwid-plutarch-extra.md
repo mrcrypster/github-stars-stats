@@ -1,6 +1,6 @@
 # Liqwid-Labs/liqwid-plutarch-extra - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 2 | 
 | 2023-03-31 | 6 | 2 | 
 | 2023-03-29 | 6 | 2 | 
 | 2023-03-27 | 6 | 2 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 7 | 2 | 
 | 2023-03-07 | 7 | 2 | 
 | 2023-03-05 | 7 | 2 | 
-| 2023-03-04 | 7 | 2 | 
 

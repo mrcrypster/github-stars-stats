@@ -1,10 +1,10 @@
 # angristan/openvpn-install - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2457
+☋ Forks: 2455
 
-★ Stars: 9720
+★ Stars: 9730
 
 [Open repository](https://github.com/angristan/openvpn-install)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 9730 | 2455 | 
 | 2023-04-01 | 9720 | 2457 | 
 | 2023-03-30 | 9713 | 2455 | 
 | 2023-03-28 | 9698 | 2453 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 9584 | 2425 | 
 | 2023-03-07 | 9575 | 2422 | 
 | 2023-03-06 | 9567 | 2420 | 
-| 2023-03-04 | 9561 | 2419 | 
 

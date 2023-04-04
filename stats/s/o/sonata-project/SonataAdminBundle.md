@@ -1,6 +1,6 @@
 # sonata-project/SonataAdminBundle - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1280
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2087 | 1280 | 
 | 2023-04-02 | 2087 | 1280 | 
 | 2023-03-30 | 2087 | 1280 | 
 | 2023-03-28 | 2088 | 1280 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 2084 | 1281 | 
 | 2023-03-07 | 2083 | 1281 | 
 | 2023-03-06 | 2083 | 1280 | 
-| 2023-03-05 | 2084 | 1280 | 
 

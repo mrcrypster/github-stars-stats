@@ -1,10 +1,10 @@
 # WebAssembly/wasi-threads - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/WebAssembly/wasi-threads)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | 5 | 
 | 2023-03-31 | 57 | 5 | 
 | 2023-03-30 | 57 | 5 | 
 | 2023-03-29 | 57 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 54 | 5 | 
 | 2023-03-07 | 54 | 5 | 
 | 2023-03-05 | 54 | 5 | 
-| 2023-03-04 | 53 | 5 | 
 

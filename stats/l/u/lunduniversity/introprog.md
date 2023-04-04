@@ -1,10 +1,10 @@
 # lunduniversity/introprog - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 163
 
-★ Stars: 125
+★ Stars: 124
 
 [Open repository](https://github.com/lunduniversity/introprog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 124 | 163 | 
 | 2023-04-02 | 125 | 163 | 
 | 2023-03-30 | 125 | 163 | 
 | 2023-03-28 | 125 | 163 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 125 | 163 | 
 | 2023-03-07 | 125 | 163 | 
 | 2023-03-05 | 125 | 163 | 
-| 2023-03-04 | 125 | 163 | 
 

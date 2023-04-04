@@ -1,10 +1,10 @@
 # itsobvioustech/aa-passkeys-wallet - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 20
 
 [Open repository](https://github.com/itsobvioustech/aa-passkeys-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 1 | 
 | 2023-03-31 | 18 | 1 | 
 | 2023-03-29 | 17 | - | 
 | 2023-03-27 | 17 | - | 

@@ -1,6 +1,6 @@
 # froala/wysiwyg-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 662
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5064 | 662 | 
 | 2023-03-31 | 5064 | 662 | 
 | 2023-03-29 | 5061 | 662 | 
 | 2023-03-28 | 5061 | 662 | 
@@ -34,5 +35,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 5052 | 659 | 
 | 2023-03-07 | 5050 | 658 | 
 | 2023-03-06 | 5049 | 657 | 
-| 2023-03-04 | 5048 | 657 | 
 

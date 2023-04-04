@@ -1,6 +1,6 @@
 # polytypic/f-omega-mu - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 46 | 1 | 
 | 2023-04-01 | 46 | 1 | 
 | 2023-03-29 | 46 | 1 | 
 | 2023-03-27 | 46 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 45 | 1 | 
 | 2023-03-06 | 45 | 1 | 
 | 2023-03-05 | 45 | 1 | 
-| 2023-03-04 | 45 | 1 | 
 

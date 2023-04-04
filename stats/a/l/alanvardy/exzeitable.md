@@ -1,6 +1,6 @@
 # alanvardy/exzeitable - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 196 | 22 | 
 | 2023-04-02 | 196 | 22 | 
 | 2023-03-30 | 197 | 22 | 
 | 2023-03-28 | 197 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 196 | 21 | 
 | 2023-03-07 | 196 | 21 | 
 | 2023-03-05 | 196 | 21 | 
-| 2023-03-04 | 194 | 21 | 
 

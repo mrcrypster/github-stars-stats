@@ -1,6 +1,6 @@
 # smartcontractkit/functions-hardhat-starter-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 62 | 42 | 
 | 2023-04-01 | 62 | 42 | 
 | 2023-03-30 | 62 | 42 | 
 | 2023-03-28 | 62 | 41 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 55 | 30 | 
 | 2023-03-06 | 51 | 30 | 
 | 2023-03-05 | 49 | 29 | 
-| 2023-03-04 | 47 | 29 | 
 

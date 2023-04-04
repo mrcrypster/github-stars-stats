@@ -1,6 +1,6 @@
 # reveng007/SharpGmailC2 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 225 | 38 | 
 | 2023-04-02 | 225 | 38 | 
 | 2023-03-31 | 226 | 38 | 
 | 2023-03-29 | 226 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 225 | 38 | 
 | 2023-03-06 | 224 | 38 | 
 | 2023-03-05 | 224 | 38 | 
-| 2023-03-04 | 225 | 38 | 
 

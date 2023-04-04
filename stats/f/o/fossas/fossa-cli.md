@@ -1,10 +1,10 @@
 # fossas/fossa-cli - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 173
 
-★ Stars: 1090
+★ Stars: 1091
 
 [Open repository](https://github.com/fossas/fossa-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1091 | 173 | 
 | 2023-04-02 | 1090 | 173 | 
 | 2023-03-30 | 1089 | 172 | 
 | 2023-03-28 | 1088 | 171 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1082 | 168 | 
 | 2023-03-06 | 1081 | 168 | 
 | 2023-03-05 | 1080 | 168 | 
-| 2023-03-04 | 1080 | 169 | 
 

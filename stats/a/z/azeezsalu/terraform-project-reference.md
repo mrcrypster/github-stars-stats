@@ -1,8 +1,8 @@
 # azeezsalu/terraform-project-reference - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2 | 37 | 
 | 2023-04-02 | 2 | 36 | 
 | 2023-03-30 | 2 | 36 | 
 | 2023-03-28 | 2 | 36 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1 | 34 | 
 | 2023-03-06 | 1 | 34 | 
 | 2023-03-05 | 1 | 32 | 
-| 2023-03-04 | 1 | 32 | 
 

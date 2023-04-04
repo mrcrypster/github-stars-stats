@@ -1,10 +1,10 @@
 # BaRRaKudaRain/PCem-ROMs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 91
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/BaRRaKudaRain/PCem-ROMs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 632 | 91 | 
 | 2023-04-02 | 631 | 91 | 
 | 2023-03-29 | 629 | 92 | 
 | 2023-03-27 | 629 | 92 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 616 | 90 | 
 | 2023-03-07 | 613 | 90 | 
 | 2023-03-05 | 613 | 90 | 
-| 2023-03-04 | 609 | 90 | 
 

@@ -1,6 +1,6 @@
 # xm1k3/cent - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 520 | 101 | 
 | 2023-03-31 | 520 | 101 | 
 | 2023-03-29 | 520 | 101 | 
 | 2023-03-27 | 517 | 101 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 503 | 100 | 
 | 2023-03-07 | 503 | 100 | 
 | 2023-03-06 | 502 | 100 | 
-| 2023-03-04 | 500 | 100 | 
 

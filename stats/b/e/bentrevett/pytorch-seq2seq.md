@@ -1,10 +1,10 @@
 # bentrevett/pytorch-seq2seq - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1183
 
-★ Stars: 4393
+★ Stars: 4399
 
 [Open repository](https://github.com/bentrevett/pytorch-seq2seq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4399 | 1183 | 
 | 2023-04-02 | 4393 | 1183 | 
 | 2023-03-31 | 4389 | 1179 | 
 | 2023-03-29 | 4384 | 1177 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 4318 | 1168 | 
 | 2023-03-06 | 4313 | 1167 | 
 | 2023-03-05 | 4310 | 1166 | 
-| 2023-03-04 | 4309 | 1166 | 
 

@@ -1,6 +1,6 @@
 # GuerillaHQ/vanillalist - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 99 | 7 | 
 | 2023-04-02 | 99 | 7 | 
 | 2023-03-29 | 99 | 6 | 
 | 2023-03-27 | 99 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 96 | 6 | 
 | 2023-03-06 | 96 | 6 | 
 | 2023-03-05 | 96 | 6 | 
-| 2023-03-04 | 96 | 6 | 
 

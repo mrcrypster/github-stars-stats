@@ -1,10 +1,10 @@
 # Tencent/OOMDetector - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 346
 
-★ Stars: 2214
+★ Stars: 2215
 
 [Open repository](https://github.com/Tencent/OOMDetector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2215 | 346 | 
 | 2023-03-31 | 2214 | 346 | 
 | 2023-03-29 | 2212 | 346 | 
 | 2023-03-27 | 2211 | 346 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 2201 | 345 | 
 | 2023-03-07 | 2201 | 345 | 
 | 2023-03-05 | 2201 | 345 | 
-| 2023-03-04 | 2201 | 345 | 
 

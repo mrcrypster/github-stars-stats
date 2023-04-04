@@ -1,6 +1,6 @@
 # creativetimofficial/paper-kit-2-angular - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 153 | 233 | 
 | 2023-04-02 | 153 | 233 | 
 | 2023-03-31 | 153 | 231 | 
 | 2023-03-29 | 153 | 229 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 152 | 218 | 
 | 2023-03-06 | 152 | 215 | 
 | 2023-03-05 | 152 | 215 | 
-| 2023-03-04 | 152 | 214 | 
 

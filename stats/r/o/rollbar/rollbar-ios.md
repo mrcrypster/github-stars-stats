@@ -1,6 +1,6 @@
 # rollbar/rollbar-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 66 | 60 | 
 | 2023-04-01 | 66 | 60 | 
 | 2023-03-29 | 66 | 60 | 
 | 2023-03-27 | 66 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 66 | 60 | 
 | 2023-03-06 | 66 | 60 | 
 | 2023-03-05 | 66 | 60 | 
-| 2023-03-04 | 66 | 60 | 
 

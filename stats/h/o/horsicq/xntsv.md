@@ -1,10 +1,10 @@
 # horsicq/xntsv - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 70
 
-★ Stars: 394
+★ Stars: 393
 
 [Open repository](https://github.com/horsicq/xntsv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 393 | 70 | 
 | 2023-04-02 | 394 | 70 | 
 | 2023-03-31 | 394 | 70 | 
 | 2023-03-29 | 393 | 70 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 392 | 70 | 
 | 2023-03-07 | 392 | 70 | 
 | 2023-03-06 | 391 | 69 | 
-| 2023-03-05 | 391 | 69 | 
 

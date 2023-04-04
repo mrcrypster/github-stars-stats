@@ -1,6 +1,6 @@
 # codemistic/General-Projects - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 42 | 208 | 
 | 2023-04-01 | 42 | 208 | 
 | 2023-03-30 | 42 | 208 | 
 | 2023-03-28 | 42 | 208 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 43 | 208 | 
 | 2023-03-06 | 43 | 208 | 
 | 2023-03-05 | 43 | 208 | 
-| 2023-03-04 | 43 | 208 | 
 

@@ -1,6 +1,6 @@
 # prysmaticlabs/prysm-web-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 36 | 25 | 
 | 2023-04-02 | 36 | 25 | 
 | 2023-03-31 | 36 | 25 | 
 | 2023-03-29 | 36 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 36 | 25 | 
 | 2023-03-07 | 36 | 25 | 
 | 2023-03-06 | 36 | 24 | 
-| 2023-03-04 | 36 | 24 | 
 

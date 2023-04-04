@@ -1,6 +1,6 @@
 # urbit/garden - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 9 | 3 | 
 | 2023-04-02 | 9 | 3 | 
 | 2023-03-30 | 9 | 4 | 
 | 2023-03-28 | 9 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 8 | 3 | 
 | 2023-03-07 | 8 | 3 | 
 | 2023-03-06 | 8 | 3 | 
-| 2023-03-04 | 8 | 3 | 
 

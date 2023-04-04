@@ -1,10 +1,10 @@
 # xx025/carrot - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 514
+☋ Forks: 527
 
-★ Stars: 6530
+★ Stars: 6714
 
 [Open repository](https://github.com/xx025/carrot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6714 | 527 | 
 | 2023-04-02 | 6530 | 514 | 
 | 2023-03-31 | 6161 | 493 | 
 | 2023-03-29 | 5808 | 462 | 

@@ -1,6 +1,6 @@
 # InsightRX/clinPK - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 6 | 
 | 2023-04-02 | 20 | 6 | 
 | 2023-03-29 | 20 | 6 | 
 | 2023-03-28 | 20 | 6 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 20 | 6 | 
 | 2023-03-07 | 20 | 6 | 
 | 2023-03-05 | 20 | 6 | 
-| 2023-03-04 | 20 | 6 | 
 

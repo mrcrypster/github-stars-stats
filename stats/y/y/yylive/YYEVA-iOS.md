@@ -1,6 +1,6 @@
 # yylive/YYEVA-iOS - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 44 | 14 | 
 | 2023-04-02 | 44 | 14 | 
 | 2023-03-31 | 44 | 14 | 
 | 2023-03-29 | 44 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 41 | 13 | 
 | 2023-03-07 | 41 | 13 | 
 | 2023-03-05 | 41 | 13 | 
-| 2023-03-04 | 41 | 13 | 
 

@@ -1,6 +1,6 @@
 # Yapote/ARBITRUM-Grid-Trading-Bot-GMX - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 104 | 50 | 
 | 2023-04-01 | 104 | 50 | 
 | 2023-03-30 | 83 | 50 | 
 | 2023-03-29 | 82 | 50 | 

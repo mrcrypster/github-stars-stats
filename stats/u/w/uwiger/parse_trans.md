@@ -1,6 +1,6 @@
 # uwiger/parse_trans - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 218 | 117 | 
 | 2023-04-01 | 218 | 117 | 
 | 2023-03-31 | 218 | 117 | 
 | 2023-03-30 | 218 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 218 | 116 | 
 | 2023-03-06 | 218 | 116 | 
 | 2023-03-05 | 218 | 116 | 
-| 2023-03-04 | 218 | 116 | 
 

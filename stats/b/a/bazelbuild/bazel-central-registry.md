@@ -1,10 +1,10 @@
 # bazelbuild/bazel-central-registry - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 87
+☋ Forks: 89
 
-★ Stars: 128
+★ Stars: 131
 
 [Open repository](https://github.com/bazelbuild/bazel-central-registry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 131 | 89 | 
 | 2023-03-31 | 128 | 87 | 
 | 2023-03-29 | 128 | 87 | 
 | 2023-03-28 | 128 | 87 | 

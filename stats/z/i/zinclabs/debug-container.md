@@ -1,10 +1,10 @@
 # zinclabs/debug-container - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 31
 
 [Open repository](https://github.com/zinclabs/debug-container)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 31 | 4 | 
 | 2023-03-31 | 24 | 4 | 
 | 2023-03-29 | 24 | 4 | 
 | 2023-03-28 | 24 | 4 | 

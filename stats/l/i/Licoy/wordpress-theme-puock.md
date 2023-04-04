@@ -1,10 +1,10 @@
 # Licoy/wordpress-theme-puock - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 294
 
-★ Stars: 1486
+★ Stars: 1488
 
 [Open repository](https://github.com/Licoy/wordpress-theme-puock)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1488 | 294 | 
 | 2023-04-02 | 1486 | 294 | 
 | 2023-03-30 | 1478 | 293 | 
 | 2023-03-28 | 1476 | 293 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1417 | 284 | 
 | 2023-03-06 | 1415 | 282 | 
 | 2023-03-05 | 1414 | 282 | 
-| 2023-03-04 | 1410 | 281 | 
 

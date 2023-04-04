@@ -1,10 +1,10 @@
 # MIT-LCP/mimic-code - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1371
+☋ Forks: 1373
 
-★ Stars: 1898
+★ Stars: 1904
 
 [Open repository](https://github.com/MIT-LCP/mimic-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1904 | 1373 | 
 | 2023-03-31 | 1898 | 1371 | 
 | 2023-03-28 | 1892 | 1372 | 
 | 2023-03-27 | 1891 | 1371 | 

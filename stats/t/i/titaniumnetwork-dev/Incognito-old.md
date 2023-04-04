@@ -1,10 +1,10 @@
 # titaniumnetwork-dev/Incognito-old - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1495
+☋ Forks: 1500
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/titaniumnetwork-dev/Incognito-old)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 68 | 1500 | 
 | 2023-03-31 | 67 | 1495 | 
 | 2023-03-29 | 67 | 1489 | 
 | 2023-03-28 | 68 | 1483 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 67 | 1439 | 
 | 2023-03-07 | 67 | 1428 | 
 | 2023-03-06 | 67 | 1425 | 
-| 2023-03-05 | 67 | 1424 | 
 

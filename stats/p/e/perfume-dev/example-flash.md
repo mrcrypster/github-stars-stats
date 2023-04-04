@@ -1,6 +1,6 @@
 # perfume-dev/example-flash - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 46 | 10 | 
 | 2023-04-02 | 46 | 10 | 
 | 2023-03-30 | 46 | 10 | 
 | 2023-03-28 | 46 | 10 | 

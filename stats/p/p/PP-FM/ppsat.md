@@ -1,6 +1,6 @@
 # PP-FM/ppsat - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 5 | 
 | 2023-03-31 | 13 | 5 | 
 | 2023-03-29 | 13 | 5 | 
 | 2023-03-27 | 13 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 13 | 5 | 
 | 2023-03-07 | 13 | 5 | 
 | 2023-03-05 | 13 | 5 | 
-| 2023-03-04 | 13 | 5 | 
 

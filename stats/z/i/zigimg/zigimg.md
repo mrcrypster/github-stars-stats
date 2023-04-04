@@ -1,6 +1,6 @@
 # zigimg/zigimg - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 215 | 40 | 
 | 2023-04-02 | 215 | 40 | 
 | 2023-03-30 | 215 | 39 | 
 | 2023-03-28 | 215 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 213 | 38 | 
 | 2023-03-06 | 213 | 38 | 
 | 2023-03-05 | 214 | 38 | 
-| 2023-03-04 | 214 | 38 | 
 

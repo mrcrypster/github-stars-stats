@@ -1,10 +1,10 @@
 # nubenetes/awesome-kubernetes - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 420
+★ Stars: 422
 
 [Open repository](https://github.com/nubenetes/awesome-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 422 | 89 | 
 | 2023-04-02 | 420 | 88 | 
 | 2023-03-31 | 419 | 88 | 
 | 2023-03-29 | 419 | 87 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 411 | 84 | 
 | 2023-03-07 | 411 | 84 | 
 | 2023-03-05 | 410 | 84 | 
-| 2023-03-04 | 410 | 84 | 
 

@@ -1,10 +1,10 @@
 # Alamofire/Alamofire - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 7421
+☋ Forks: 7424
 
-★ Stars: 39140
+★ Stars: 39145
 
 [Open repository](https://github.com/Alamofire/Alamofire)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 39145 | 7424 | 
 | 2023-03-31 | 39140 | 7421 | 
 | 2023-03-30 | 39135 | 7419 | 
 | 2023-03-29 | 39135 | 7417 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 39034 | 7378 | 
 | 2023-03-06 | 39028 | 7374 | 
 | 2023-03-05 | 39024 | 7373 | 
-| 2023-03-04 | 39024 | 7373 | 
 

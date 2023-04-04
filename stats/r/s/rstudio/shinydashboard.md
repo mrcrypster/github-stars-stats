@@ -1,6 +1,6 @@
 # rstudio/shinydashboard - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 821 | 300 | 
 | 2023-04-02 | 821 | 300 | 
 | 2023-03-30 | 821 | 300 | 
 | 2023-03-28 | 821 | 300 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 820 | 300 | 
 | 2023-03-07 | 820 | 300 | 
 | 2023-03-06 | 820 | 299 | 
-| 2023-03-04 | 820 | 298 | 
 

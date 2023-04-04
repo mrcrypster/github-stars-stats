@@ -1,10 +1,10 @@
 # mpdf/mpdf - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 994
 
-★ Stars: 3910
+★ Stars: 3915
 
 [Open repository](https://github.com/mpdf/mpdf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3915 | 994 | 
 | 2023-03-31 | 3910 | 994 | 
 | 2023-03-29 | 3907 | 994 | 
 | 2023-03-28 | 3906 | 993 | 

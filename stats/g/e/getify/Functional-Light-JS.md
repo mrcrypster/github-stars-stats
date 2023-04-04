@@ -1,10 +1,10 @@
 # getify/Functional-Light-JS - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1952
+☋ Forks: 1953
 
-★ Stars: 16087
+★ Stars: 16093
 
 [Open repository](https://github.com/getify/Functional-Light-JS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16093 | 1953 | 
 | 2023-04-01 | 16087 | 1952 | 
 | 2023-03-31 | 16086 | 1952 | 
 | 2023-03-29 | 16085 | 1952 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 16076 | 1950 | 
 | 2023-03-07 | 16074 | 1950 | 
 | 2023-03-06 | 16071 | 1950 | 
-| 2023-03-04 | 16070 | 1950 | 
 

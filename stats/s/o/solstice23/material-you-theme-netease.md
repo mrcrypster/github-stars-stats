@@ -1,10 +1,10 @@
 # solstice23/material-you-theme-netease - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/solstice23/material-you-theme-netease)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 92 | 1 | 
 | 2023-03-30 | 90 | 1 | 
 | 2023-03-28 | 89 | 1 | 
 | 2023-03-27 | 89 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 86 | 1 | 
 | 2023-03-06 | 86 | 1 | 
 | 2023-03-05 | 86 | 1 | 
-| 2023-03-04 | 86 | 1 | 
 

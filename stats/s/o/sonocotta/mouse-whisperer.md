@@ -1,8 +1,8 @@
 # sonocotta/mouse-whisperer - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | 9 | 
 | 2023-03-31 | 58 | 8 | 
 | 2023-03-29 | 58 | 8 | 
 | 2023-03-27 | 56 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 54 | 8 | 
 | 2023-03-06 | 54 | 8 | 
 | 2023-03-05 | 54 | 8 | 
-| 2023-03-04 | 55 | 7 | 
 

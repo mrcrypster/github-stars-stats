@@ -1,6 +1,6 @@
 # hashgraph/hedera-smart-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 22 | 33 | 
 | 2023-03-31 | 22 | 33 | 
 | 2023-03-29 | 22 | 33 | 
 | 2023-03-27 | 22 | 32 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 18 | 31 | 
 | 2023-03-07 | 18 | 30 | 
 | 2023-03-06 | 19 | 30 | 
-| 2023-03-04 | 19 | 30 | 
 

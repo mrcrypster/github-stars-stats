@@ -1,6 +1,6 @@
 # erwbgy/puppet-limits - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | 15 | 
 | 2023-04-01 | 1 | 15 | 
 | 2023-03-31 | 1 | 15 | 
 | 2023-03-29 | 1 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 1 | 15 | 
 | 2023-03-06 | 1 | 15 | 
 | 2023-03-05 | 1 | 15 | 
-| 2023-03-04 | 1 | 15 | 
 

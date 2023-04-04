@@ -1,10 +1,10 @@
 # creatorsgarten/creatorsgarten.org - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/creatorsgarten/creatorsgarten.org)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16 | 14 | 
 | 2023-04-01 | 17 | 14 | 
 | 2023-03-31 | 17 | 14 | 
 | 2023-03-29 | 17 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 16 | 14 | 
 | 2023-03-06 | 16 | 13 | 
 | 2023-03-05 | 16 | 13 | 
-| 2023-03-04 | 16 | 13 | 
 

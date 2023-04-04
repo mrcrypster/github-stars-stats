@@ -1,10 +1,10 @@
 # tabler/tabler-icons - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 729
 
-★ Stars: 14750
+★ Stars: 14770
 
 [Open repository](https://github.com/tabler/tabler-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14770 | 729 | 
 | 2023-04-01 | 14750 | 729 | 
 | 2023-03-31 | 14740 | 729 | 
 | 2023-03-29 | 14730 | 729 | 

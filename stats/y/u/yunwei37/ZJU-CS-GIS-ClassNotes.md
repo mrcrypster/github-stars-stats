@@ -1,10 +1,10 @@
 # yunwei37/ZJU-CS-GIS-ClassNotes - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 144
 
-★ Stars: 627
+★ Stars: 630
 
 [Open repository](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 630 | 144 | 
 | 2023-04-02 | 627 | 144 | 
 | 2023-03-31 | 627 | 143 | 
 | 2023-03-29 | 624 | 143 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 613 | 141 | 
 | 2023-03-06 | 611 | 141 | 
 | 2023-03-05 | 611 | 142 | 
-| 2023-03-04 | 611 | 142 | 
 

@@ -1,6 +1,6 @@
 # makcedward/nlpaug - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 433
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3865 | 433 | 
 | 2023-04-02 | 3865 | 433 | 
 | 2023-04-01 | 3864 | 433 | 
 | 2023-03-31 | 3861 | 433 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 3828 | 429 | 
 | 2023-03-07 | 3826 | 429 | 
 | 2023-03-05 | 3825 | 429 | 
-| 2023-03-04 | 3823 | 429 | 
 

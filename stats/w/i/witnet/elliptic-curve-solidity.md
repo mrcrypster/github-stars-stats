@@ -1,6 +1,6 @@
 # witnet/elliptic-curve-solidity - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 113 | 33 | 
 | 2023-04-01 | 113 | 33 | 
 | 2023-03-29 | 113 | 33 | 
 | 2023-03-28 | 113 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 112 | 32 | 
 | 2023-03-07 | 111 | 32 | 
 | 2023-03-06 | 111 | 32 | 
-| 2023-03-04 | 111 | 32 | 
 

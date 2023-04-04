@@ -1,8 +1,8 @@
 # RafaelBarbosatec/bonfire - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 141
+☋ Forks: 143
 
 ★ Stars: 891
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 891 | 143 | 
 | 2023-03-31 | 891 | 141 | 
 | 2023-03-29 | 890 | 140 | 
 | 2023-03-28 | 891 | 140 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 866 | 137 | 
 | 2023-03-06 | 864 | 137 | 
 | 2023-03-05 | 863 | 137 | 
-| 2023-03-04 | 863 | 137 | 
 

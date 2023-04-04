@@ -1,10 +1,10 @@
 # Rapter001/Phoenix-Hack-Fortnite-Free-Download-Aimbot-ESP - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 115
+★ Stars: 114
 
 [Open repository](https://github.com/Rapter001/Phoenix-Hack-Fortnite-Free-Download-Aimbot-ESP)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 114 | - | 
 | 2023-04-02 | 115 | - | 
 

@@ -1,10 +1,10 @@
 # junyuan-chen/ReadStatTables.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 25
 
 [Open repository](https://github.com/junyuan-chen/ReadStatTables.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 25 | 3 | 
 | 2023-03-31 | 26 | 3 | 
 | 2023-03-29 | 26 | 3 | 
 | 2023-03-27 | 26 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 25 | 3 | 
 | 2023-03-07 | 25 | 3 | 
 | 2023-03-06 | 25 | 3 | 
-| 2023-03-04 | 25 | 3 | 
 

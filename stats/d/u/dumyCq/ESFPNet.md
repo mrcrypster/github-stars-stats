@@ -1,6 +1,6 @@
 # dumyCq/ESFPNet - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 213 | 59 | 
 | 2023-03-31 | 213 | 59 | 
 | 2023-03-29 | 213 | 59 | 
 | 2023-03-27 | 213 | 59 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 212 | 59 | 
 | 2023-03-07 | 211 | 59 | 
 | 2023-03-06 | 211 | 59 | 
-| 2023-03-04 | 211 | 59 | 
 

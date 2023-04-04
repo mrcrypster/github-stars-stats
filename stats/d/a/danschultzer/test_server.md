@@ -1,6 +1,6 @@
 # danschultzer/test_server - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 37 | 1 | 
 | 2023-04-01 | 37 | 1 | 
 | 2023-03-30 | 37 | 1 | 
 | 2023-03-28 | 37 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 34 | 1 | 
 | 2023-03-07 | 34 | 1 | 
 | 2023-03-06 | 33 | 1 | 
-| 2023-03-04 | 33 | 1 | 
 

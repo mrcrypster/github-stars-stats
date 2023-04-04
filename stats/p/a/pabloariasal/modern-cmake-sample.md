@@ -1,10 +1,10 @@
 # pabloariasal/modern-cmake-sample - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 72
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/pabloariasal/modern-cmake-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 614 | 72 | 
 | 2023-03-31 | 613 | 72 | 
 | 2023-03-29 | 613 | 72 | 
 | 2023-03-27 | 613 | 72 | 

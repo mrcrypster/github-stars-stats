@@ -1,10 +1,10 @@
 # ManuelStapper/RandomVariables.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/ManuelStapper/RandomVariables.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 15 | - | 
 | 2023-04-01 | 16 | - | 
 | 2023-03-30 | 16 | - | 
 | 2023-03-28 | 16 | - | 

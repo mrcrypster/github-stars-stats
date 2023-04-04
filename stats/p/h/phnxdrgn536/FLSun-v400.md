@@ -1,6 +1,6 @@
 # phnxdrgn536/FLSun-v400 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 40 | 9 | 
 | 2023-04-02 | 40 | 9 | 
 | 2023-03-29 | 39 | 8 | 
 | 2023-03-28 | 38 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 30 | 7 | 
 | 2023-03-06 | 30 | 7 | 
 | 2023-03-05 | 30 | 7 | 
-| 2023-03-04 | 30 | 7 | 
 

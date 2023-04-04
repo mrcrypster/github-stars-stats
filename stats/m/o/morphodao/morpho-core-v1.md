@@ -1,6 +1,6 @@
 # morphodao/morpho-core-v1 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 49 | 2 | 
 | 2023-04-02 | 49 | 2 | 
 | 2023-03-29 | 49 | 2 | 
 | 2023-03-27 | 49 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 49 | 2 | 
 | 2023-03-07 | 49 | 2 | 
 | 2023-03-05 | 49 | 2 | 
-| 2023-03-04 | 49 | 2 | 
 

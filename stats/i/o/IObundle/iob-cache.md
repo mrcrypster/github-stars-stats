@@ -1,10 +1,10 @@
 # IObundle/iob-cache - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/IObundle/iob-cache)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 104 | 27 | 
 | 2023-04-02 | 103 | 27 | 
 | 2023-03-31 | 103 | 26 | 
 | 2023-03-30 | 103 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 99 | 26 | 
 | 2023-03-07 | 98 | 26 | 
 | 2023-03-06 | 98 | 26 | 
-| 2023-03-04 | 98 | 26 | 
 

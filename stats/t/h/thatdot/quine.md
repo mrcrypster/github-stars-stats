@@ -1,10 +1,10 @@
 # thatdot/quine - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 27
 
-★ Stars: 192
+★ Stars: 200
 
 [Open repository](https://github.com/thatdot/quine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 200 | 27 | 
 | 2023-04-01 | 192 | 27 | 
 | 2023-03-29 | 188 | 27 | 
 | 2023-03-27 | 188 | 27 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 183 | 25 | 
 | 2023-03-07 | 182 | 25 | 
 | 2023-03-05 | 182 | 25 | 
-| 2023-03-04 | 182 | 25 | 
 

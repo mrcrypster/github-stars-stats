@@ -1,6 +1,6 @@
 # Ethiel97/mac_os_ui_task - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 30 | 1 | 
 | 2023-03-31 | 30 | 1 | 
 | 2023-03-29 | 30 | 1 | 
 | 2023-03-27 | 30 | 1 | 

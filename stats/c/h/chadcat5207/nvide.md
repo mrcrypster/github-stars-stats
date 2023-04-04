@@ -1,6 +1,6 @@
 # chadcat5207/nvide - stars & forks statistics
 
-Stats updated on Mar 2023, 30
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 133 | 5 | 
 | 2023-03-30 | 133 | 5 | 
 | 2023-03-28 | 133 | 5 | 
 | 2023-03-27 | 133 | 5 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 30
 | 2023-03-08 | 128 | 5 | 
 | 2023-03-06 | 127 | 5 | 
 | 2023-03-05 | 127 | 5 | 
-| 2023-03-04 | 127 | 5 | 
 

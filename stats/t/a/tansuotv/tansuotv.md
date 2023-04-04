@@ -1,6 +1,6 @@
 # tansuotv/tansuotv - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 96 | 33 | 
 | 2023-03-31 | 96 | 33 | 
 | 2023-03-29 | 96 | 33 | 
 | 2023-03-27 | 96 | 33 | 
@@ -31,5 +32,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 96 | 33 | 
 | 2023-03-08 | 96 | 33 | 
 | 2023-03-06 | 96 | 33 | 
-| 2023-03-05 | 96 | 33 | 
 

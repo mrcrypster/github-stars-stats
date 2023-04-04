@@ -1,10 +1,10 @@
 # microsoft/c9-python-getting-started - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 2206
+☋ Forks: 2208
 
-★ Stars: 7588
+★ Stars: 7590
 
 [Open repository](https://github.com/microsoft/c9-python-getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 7590 | 2208 | 
 | 2023-04-02 | 7588 | 2206 | 
 | 2023-03-31 | 7585 | 2208 | 
 | 2023-03-29 | 7583 | 2208 | 

@@ -1,10 +1,10 @@
 # 7eu7d7/pixiv_AI_crawler - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 35
 
-★ Stars: 439
+★ Stars: 440
 
 [Open repository](https://github.com/7eu7d7/pixiv_AI_crawler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 440 | 35 | 
 | 2023-04-02 | 439 | 35 | 
 | 2023-03-30 | 438 | 35 | 
 | 2023-03-28 | 438 | 35 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 428 | 32 | 
 | 2023-03-07 | 428 | 32 | 
 | 2023-03-05 | 427 | 32 | 
-| 2023-03-04 | 427 | 32 | 
 

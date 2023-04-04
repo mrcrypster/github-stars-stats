@@ -1,10 +1,10 @@
 # twitter/TwitterTextEditor - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 139
+☋ Forks: 142
 
-★ Stars: 2828
+★ Stars: 2838
 
 [Open repository](https://github.com/twitter/TwitterTextEditor)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2838 | 142 | 
+| 2023-04-03 | 2837 | 142 | 
 | 2023-04-02 | 2828 | 139 | 
 | 2023-03-31 | 2801 | 130 | 
 | 2023-03-29 | 2801 | 130 | 
@@ -33,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2796 | 128 | 
 | 2023-03-07 | 2797 | 128 | 
 | 2023-03-05 | 2797 | 128 | 
-| 2023-03-04 | 2797 | 128 | 
 

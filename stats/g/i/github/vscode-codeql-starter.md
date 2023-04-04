@@ -1,10 +1,10 @@
 # github/vscode-codeql-starter - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 350
+★ Stars: 352
 
 [Open repository](https://github.com/github/vscode-codeql-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 352 | 199 | 
 | 2023-04-02 | 350 | 198 | 
 | 2023-04-01 | 350 | 198 | 
 | 2023-03-30 | 349 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 341 | 188 | 
 | 2023-03-06 | 340 | 188 | 
 | 2023-03-05 | 341 | 188 | 
-| 2023-03-04 | 341 | 188 | 
 

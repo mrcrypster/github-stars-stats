@@ -1,6 +1,6 @@
 # ddotta/parquetize - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 1 | 
 | 2023-04-02 | 36 | 1 | 
 | 2023-03-29 | 36 | 1 | 
 | 2023-03-28 | 34 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 32 | - | 
 | 2023-03-07 | 32 | - | 
 | 2023-03-06 | 32 | - | 
-| 2023-03-04 | 32 | - | 
 

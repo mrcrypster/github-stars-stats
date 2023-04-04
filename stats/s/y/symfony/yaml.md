@@ -1,10 +1,10 @@
 # symfony/yaml - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 127
 
-★ Stars: 3605
+★ Stars: 3607
 
 [Open repository](https://github.com/symfony/yaml)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3607 | 127 | 
 | 2023-04-02 | 3605 | 127 | 
 | 2023-03-30 | 3604 | 127 | 
 | 2023-03-28 | 3602 | 127 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 3591 | 128 | 
 | 2023-03-07 | 3590 | 128 | 
 | 2023-03-05 | 3590 | 128 | 
-| 2023-03-04 | 3592 | 127 | 
 

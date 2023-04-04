@@ -1,10 +1,10 @@
 # manualdodev/pokedex - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 45
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/manualdodev/pokedex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 111 | 45 | 
 | 2023-04-02 | 110 | 45 | 
 | 2023-03-30 | 109 | 43 | 
 | 2023-03-28 | 109 | 43 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 106 | 36 | 
 | 2023-03-07 | 106 | 36 | 
 | 2023-03-06 | 106 | 37 | 
-| 2023-03-04 | 106 | 37 | 
 

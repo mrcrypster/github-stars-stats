@@ -1,6 +1,6 @@
 # chenzhuoyu/base64x - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16 | 5 | 
 | 2023-04-01 | 16 | 5 | 
 | 2023-03-31 | 16 | 5 | 
 | 2023-03-30 | 16 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 16 | 5 | 
 | 2023-03-07 | 16 | 5 | 
 | 2023-03-06 | 16 | 5 | 
-| 2023-03-04 | 16 | 5 | 
 

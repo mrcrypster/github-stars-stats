@@ -1,10 +1,10 @@
 # nslogx/flutter_easyloading - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 169
 
-★ Stars: 1049
+★ Stars: 1050
 
 [Open repository](https://github.com/nslogx/flutter_easyloading)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1050 | 169 | 
 | 2023-03-31 | 1049 | 169 | 
 | 2023-03-29 | 1048 | 169 | 
 | 2023-03-27 | 1048 | 169 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 1037 | 166 | 
 | 2023-03-07 | 1036 | 166 | 
 | 2023-03-06 | 1035 | 166 | 
-| 2023-03-05 | 1035 | 166 | 
 

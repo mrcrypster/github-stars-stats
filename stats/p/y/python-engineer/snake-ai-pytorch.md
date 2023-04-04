@@ -1,10 +1,10 @@
 # python-engineer/snake-ai-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 234
+☋ Forks: 235
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/python-engineer/snake-ai-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 334 | 235 | 
 | 2023-04-02 | 333 | 234 | 
 | 2023-03-31 | 330 | 232 | 
 | 2023-03-29 | 331 | 230 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 326 | 219 | 
 | 2023-03-07 | 326 | 218 | 
 | 2023-03-05 | 325 | 218 | 
-| 2023-03-04 | 324 | 218 | 
 

@@ -1,6 +1,6 @@
 # wacedungeoner/wace - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 15 | 8 | 
+| 2023-04-03 | 15 | 8 | 
 | 2023-04-02 | 15 | 8 | 
 | 2023-03-31 | 15 | 8 | 
 | 2023-03-29 | 15 | 8 | 

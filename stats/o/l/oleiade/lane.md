@@ -1,8 +1,8 @@
 # oleiade/lane - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 836
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 836 | 74 | 
 | 2023-03-31 | 836 | 73 | 
 | 2023-03-29 | 836 | 73 | 
 | 2023-03-27 | 836 | 73 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 837 | 72 | 
 | 2023-03-06 | 837 | 72 | 
 | 2023-03-05 | 837 | 72 | 
-| 2023-03-04 | 837 | 72 | 
 

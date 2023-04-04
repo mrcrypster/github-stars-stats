@@ -1,10 +1,10 @@
 # alexgo-io/alex-v1 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/alexgo-io/alex-v1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 27 | 22 | 
 | 2023-04-02 | 26 | 21 | 
 | 2023-03-29 | 26 | 21 | 
 | 2023-03-28 | 26 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 26 | 21 | 
 | 2023-03-06 | 26 | 21 | 
 | 2023-03-05 | 26 | 21 | 
-| 2023-03-04 | 26 | 21 | 
 

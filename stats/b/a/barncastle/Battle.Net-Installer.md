@@ -1,10 +1,10 @@
 # barncastle/Battle.Net-Installer - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 36
 
-★ Stars: 186
+★ Stars: 189
 
 [Open repository](https://github.com/barncastle/Battle.Net-Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 189 | 36 | 
 | 2023-03-31 | 186 | 36 | 
 | 2023-03-28 | 186 | 36 | 
 | 2023-03-27 | 183 | 36 | 

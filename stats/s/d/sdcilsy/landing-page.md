@@ -1,6 +1,6 @@
 # sdcilsy/landing-page - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | 71 | 
 | 2023-04-01 | 1 | 71 | 
 | 2023-03-31 | 1 | 71 | 
 | 2023-03-29 | 1 | 71 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 1 | 71 | 
 | 2023-03-07 | 1 | 71 | 
 | 2023-03-06 | 1 | 71 | 
-| 2023-03-04 | 1 | 71 | 
 

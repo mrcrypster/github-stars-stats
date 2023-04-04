@@ -1,10 +1,10 @@
 # calcom/font - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 13
 
-★ Stars: 619
+★ Stars: 623
 
 [Open repository](https://github.com/calcom/font)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 623 | 13 | 
 | 2023-04-02 | 619 | 13 | 
 | 2023-03-31 | 614 | 13 | 
 

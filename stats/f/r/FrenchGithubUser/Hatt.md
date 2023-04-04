@@ -1,10 +1,10 @@
 # FrenchGithubUser/Hatt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 139
+★ Stars: 141
 
 [Open repository](https://github.com/FrenchGithubUser/Hatt)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 141 | 4 | 
+| 2023-04-03 | 141 | 4 | 
 | 2023-04-02 | 139 | 4 | 
 | 2023-03-31 | 128 | 4 | 
 | 2023-03-29 | 125 | 4 | 

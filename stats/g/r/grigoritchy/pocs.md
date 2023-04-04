@@ -1,6 +1,6 @@
 # grigoritchy/pocs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 64 | 11 | 
 | 2023-04-02 | 64 | 11 | 
 | 2023-03-30 | 63 | 11 | 
 | 2023-03-28 | 63 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 63 | 11 | 
 | 2023-03-06 | 63 | 11 | 
 | 2023-03-05 | 63 | 11 | 
-| 2023-03-04 | 63 | 11 | 
 

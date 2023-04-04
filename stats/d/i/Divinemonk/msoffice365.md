@@ -1,8 +1,8 @@
 # Divinemonk/msoffice365 - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 46 | 9 | 
 | 2023-04-01 | 46 | 8 | 
 | 2023-03-31 | 46 | 8 | 
 

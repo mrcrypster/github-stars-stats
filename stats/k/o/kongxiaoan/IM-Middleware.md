@@ -1,10 +1,10 @@
 # kongxiaoan/IM-Middleware - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/kongxiaoan/IM-Middleware)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 46 | 11 | 
 | 2023-04-01 | 45 | 10 | 
 | 2023-03-30 | 43 | 10 | 
 | 2023-03-28 | 43 | 10 | 

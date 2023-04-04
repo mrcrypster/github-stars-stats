@@ -1,6 +1,6 @@
 # tatsuz0u/EhPanda - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2232 | 178 | 
 | 2023-04-02 | 2232 | 178 | 
 | 2023-04-01 | 2227 | 177 | 
 | 2023-03-31 | 2224 | 177 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 2179 | 178 | 
 | 2023-03-07 | 2178 | 177 | 
 | 2023-03-06 | 2175 | 177 | 
-| 2023-03-04 | 2170 | 177 | 
 

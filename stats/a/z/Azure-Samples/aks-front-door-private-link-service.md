@@ -1,8 +1,8 @@
 # Azure-Samples/aks-front-door-private-link-service - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5 | 4 | 
 | 2023-04-02 | 5 | 3 | 
 | 2023-03-31 | 5 | 3 | 
 | 2023-03-29 | 5 | 2 | 

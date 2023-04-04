@@ -1,6 +1,6 @@
 # alan-turing-institute/datadiff - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 24 | 2 | 
 | 2023-04-01 | 24 | 2 | 
 | 2023-03-29 | 24 | 2 | 
 | 2023-03-27 | 24 | 2 | 

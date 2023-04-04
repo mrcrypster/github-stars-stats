@@ -1,6 +1,6 @@
 # sequencer/vector - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 24 | 5 | 
 | 2023-04-01 | 24 | 5 | 
 | 2023-03-30 | 24 | 5 | 
 | 2023-03-28 | 23 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 21 | 2 | 
 | 2023-03-06 | 21 | 2 | 
 | 2023-03-05 | 21 | 2 | 
-| 2023-03-04 | 21 | 2 | 
 

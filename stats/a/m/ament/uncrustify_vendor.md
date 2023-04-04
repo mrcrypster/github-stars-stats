@@ -1,6 +1,6 @@
 # ament/uncrustify_vendor - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 9 | 
 | 2023-04-02 | - | 9 | 
 | 2023-03-31 | - | 9 | 
 | 2023-03-28 | - | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | - | 9 | 
 | 2023-03-07 | - | 9 | 
 | 2023-03-05 | - | 9 | 
-| 2023-03-04 | - | 9 | 
 

@@ -1,10 +1,10 @@
 # frank890417/image-optimizer - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/frank890417/image-optimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 93 | 4 | 
 | 2023-04-01 | 92 | 4 | 
 | 2023-03-30 | 92 | 4 | 
 | 2023-03-29 | 92 | 4 | 

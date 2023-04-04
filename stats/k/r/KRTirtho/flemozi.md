@@ -1,8 +1,8 @@
 # KRTirtho/flemozi - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 70
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 70 | 3 | 
 | 2023-04-02 | 70 | 2 | 
 | 2023-03-30 | 66 | 2 | 
 | 2023-03-29 | 52 | 1 | 

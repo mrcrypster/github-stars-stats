@@ -1,10 +1,10 @@
 # k0kubun/pp - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 89
+☋ Forks: 90
 
-★ Stars: 1590
+★ Stars: 1593
 
 [Open repository](https://github.com/k0kubun/pp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1593 | 90 | 
 | 2023-03-31 | 1590 | 89 | 
 | 2023-03-29 | 1587 | 89 | 
 | 2023-03-27 | 1587 | 89 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1578 | 89 | 
 | 2023-03-06 | 1577 | 89 | 
 | 2023-03-05 | 1575 | 89 | 
-| 2023-03-04 | 1575 | 89 | 
 

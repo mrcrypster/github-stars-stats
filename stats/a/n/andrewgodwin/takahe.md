@@ -1,6 +1,6 @@
 # andrewgodwin/takahe - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 828 | 62 | 
 | 2023-04-02 | 828 | 62 | 
 | 2023-03-30 | 825 | 61 | 
 | 2023-03-28 | 825 | 61 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 807 | 60 | 
 | 2023-03-06 | 807 | 58 | 
 | 2023-03-05 | 806 | 58 | 
-| 2023-03-04 | 807 | 58 | 
 

@@ -1,10 +1,10 @@
 # whonion/EtherSmartWallet - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 7
+☋ Forks: 9
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/whonion/EtherSmartWallet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 9 | 
 | 2023-04-02 | 12 | 7 | 
 | 2023-03-30 | 12 | 7 | 
 | 2023-03-29 | 12 | 7 | 

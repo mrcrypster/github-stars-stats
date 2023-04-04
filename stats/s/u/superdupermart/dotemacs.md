@@ -1,6 +1,6 @@
 # superdupermart/dotemacs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2 | - | 
 | 2023-04-02 | 2 | - | 
 | 2023-03-31 | 2 | - | 
 | 2023-03-29 | 2 | - | 

@@ -1,10 +1,10 @@
 # rfyiamcool/notes - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 72
+☋ Forks: 75
 
-★ Stars: 663
+★ Stars: 666
 
 [Open repository](https://github.com/rfyiamcool/notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 666 | 75 | 
 | 2023-03-31 | 663 | 72 | 
 | 2023-03-29 | 635 | 69 | 
 | 2023-03-27 | 588 | 66 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 546 | 62 | 
 | 2023-03-07 | 545 | 61 | 
 | 2023-03-06 | 543 | 61 | 
-| 2023-03-04 | 540 | 61 | 
 

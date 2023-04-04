@@ -1,10 +1,10 @@
 # alex/what-happens-when - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2996
 
-★ Stars: 36317
+★ Stars: 36321
 
 [Open repository](https://github.com/alex/what-happens-when)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36321 | 2996 | 
 | 2023-04-02 | 36317 | 2996 | 
 | 2023-04-01 | 36313 | 2995 | 
 | 2023-03-30 | 36309 | 2995 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 36210 | 2986 | 
 | 2023-03-07 | 36205 | 2985 | 
 | 2023-03-05 | 36205 | 2981 | 
-| 2023-03-04 | 36204 | 2981 | 
 

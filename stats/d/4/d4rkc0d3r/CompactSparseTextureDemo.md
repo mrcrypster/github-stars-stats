@@ -1,6 +1,6 @@
 # d4rkc0d3r/CompactSparseTextureDemo - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16 | - | 
 | 2023-04-01 | 16 | - | 
 | 2023-03-30 | 16 | - | 
 | 2023-03-28 | 16 | - | 

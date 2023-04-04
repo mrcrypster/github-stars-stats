@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 29
 
 [Open repository](https://github.com/aws/aws-application-networking-k8s)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 26 | 3 | 
+| 2023-04-03 | 29 | 3 | 
 | 2023-04-02 | 25 | 3 | 
 

@@ -1,6 +1,6 @@
 # docker/volumes-backup-extension - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 49 | 17 | 
 | 2023-04-02 | 49 | 17 | 
 | 2023-03-31 | 49 | 17 | 
 | 2023-03-29 | 49 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 47 | 17 | 
 | 2023-03-07 | 46 | 17 | 
 | 2023-03-06 | 46 | 17 | 
-| 2023-03-04 | 46 | 16 | 
 

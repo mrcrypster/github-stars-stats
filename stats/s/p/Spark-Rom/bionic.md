@@ -1,6 +1,6 @@
 # Spark-Rom/bionic - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 7 | 
 | 2023-04-02 | - | 7 | 
 | 2023-03-31 | - | 7 | 
 | 2023-03-29 | - | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | - | 6 | 
 | 2023-03-06 | - | 6 | 
 | 2023-03-05 | - | 6 | 
-| 2023-03-04 | - | 6 | 
 

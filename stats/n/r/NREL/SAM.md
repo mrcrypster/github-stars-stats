@@ -1,8 +1,8 @@
 # NREL/SAM - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 261
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 261 | 127 | 
 | 2023-03-31 | 261 | 126 | 
 | 2023-03-29 | 261 | 126 | 
 | 2023-03-28 | 259 | 128 | 

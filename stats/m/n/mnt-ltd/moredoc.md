@@ -1,6 +1,6 @@
 # mnt-ltd/moredoc - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 149 | 45 | 
 | 2023-03-31 | 149 | 45 | 
 | 2023-03-29 | 149 | 45 | 
 | 2023-03-28 | 148 | 45 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 123 | 39 | 
 | 2023-03-07 | 121 | 39 | 
 | 2023-03-06 | 119 | 38 | 
-| 2023-03-04 | 117 | 38 | 
 

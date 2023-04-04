@@ -1,6 +1,6 @@
 # relativitydev/relativity-trace-documentation - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 26 | 
 | 2023-04-02 | 6 | 26 | 
 | 2023-03-30 | 6 | 26 | 
 | 2023-03-28 | 6 | 26 | 

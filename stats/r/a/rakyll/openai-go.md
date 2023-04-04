@@ -1,10 +1,10 @@
 # rakyll/openai-go - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 30
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/rakyll/openai-go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 395 | 30 | 
 | 2023-04-01 | 394 | 30 | 
 | 2023-03-31 | 388 | 27 | 
 | 2023-03-29 | 388 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-07 | 269 | 15 | 
 | 2023-03-06 | 264 | 14 | 
 | 2023-03-05 | 242 | 12 | 
-| 2023-03-04 | 223 | 10 | 
 

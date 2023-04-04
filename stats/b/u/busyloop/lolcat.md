@@ -1,10 +1,10 @@
 # busyloop/lolcat - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 201
 
-★ Stars: 5445
+★ Stars: 5448
 
 [Open repository](https://github.com/busyloop/lolcat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5448 | 201 | 
 | 2023-04-02 | 5445 | 201 | 
 | 2023-03-30 | 5445 | 201 | 
 | 2023-03-28 | 5444 | 201 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 5408 | 202 | 
 | 2023-03-06 | 5406 | 202 | 
 | 2023-03-05 | 5408 | 201 | 
-| 2023-03-04 | 5406 | 201 | 
 

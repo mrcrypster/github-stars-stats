@@ -1,10 +1,10 @@
 # insightsengineering/rbmi - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/insightsengineering/rbmi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 11 | 3 | 
 | 2023-04-02 | 10 | 3 | 
 | 2023-03-30 | 10 | 3 | 
 | 2023-03-28 | 10 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 8 | 3 | 
 | 2023-03-07 | 8 | 3 | 
 | 2023-03-06 | 8 | 3 | 
-| 2023-03-04 | 8 | 3 | 
 

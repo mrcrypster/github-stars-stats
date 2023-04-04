@@ -1,10 +1,10 @@
 # nix-community/NixNG - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/nix-community/NixNG)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 116 | 8 | 
 | 2023-03-31 | 115 | 8 | 
 | 2023-03-29 | 115 | 8 | 
 | 2023-03-28 | 112 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 110 | 8 | 
 | 2023-03-07 | 110 | 8 | 
 | 2023-03-05 | 110 | 8 | 
-| 2023-03-04 | 110 | 8 | 
 

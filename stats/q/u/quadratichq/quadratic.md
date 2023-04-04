@@ -1,6 +1,6 @@
 # quadratichq/quadratic - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 819 | 36 | 
 | 2023-04-02 | 819 | 36 | 
 | 2023-04-01 | 818 | 36 | 
 | 2023-03-31 | 816 | 34 | 

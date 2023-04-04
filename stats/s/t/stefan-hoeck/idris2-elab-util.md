@@ -1,6 +1,6 @@
 # stefan-hoeck/idris2-elab-util - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 73 | 15 | 
 | 2023-04-02 | 73 | 15 | 
 | 2023-04-01 | 73 | 15 | 
 | 2023-03-31 | 73 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 73 | 15 | 
 | 2023-03-06 | 73 | 15 | 
 | 2023-03-05 | 73 | 15 | 
-| 2023-03-04 | 73 | 15 | 
 

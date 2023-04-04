@@ -1,6 +1,6 @@
 # bendgk/effekt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 95 | 3 | 
 | 2023-04-02 | 95 | 3 | 
 | 2023-03-31 | 95 | 3 | 
 | 2023-03-29 | 95 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 88 | 2 | 
 | 2023-03-07 | 86 | 2 | 
 | 2023-03-06 | 80 | 2 | 
-| 2023-03-04 | 80 | 2 | 
 

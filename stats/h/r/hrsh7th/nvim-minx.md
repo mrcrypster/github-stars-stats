@@ -1,6 +1,6 @@
 # hrsh7th/nvim-minx - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 115 | 2 | 
 | 2023-04-01 | 115 | 2 | 
 | 2023-03-30 | 113 | 2 | 
 | 2023-03-28 | 113 | 2 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 93 | 2 | 
 | 2023-03-07 | 92 | 1 | 
 | 2023-03-06 | 92 | 1 | 
-| 2023-03-04 | 92 | 1 | 
 

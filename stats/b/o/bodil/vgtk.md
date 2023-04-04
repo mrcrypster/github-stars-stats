@@ -1,10 +1,10 @@
 # bodil/vgtk - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 35
 
-★ Stars: 1014
+★ Stars: 1015
 
 [Open repository](https://github.com/bodil/vgtk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1015 | 35 | 
 | 2023-03-31 | 1014 | 35 | 
 | 2023-03-29 | 1012 | 35 | 
 | 2023-03-27 | 1011 | 35 | 
@@ -31,5 +32,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1011 | 35 | 
 | 2023-03-07 | 1011 | 35 | 
 | 2023-03-06 | 1011 | 35 | 
-| 2023-03-05 | 1010 | 35 | 
 

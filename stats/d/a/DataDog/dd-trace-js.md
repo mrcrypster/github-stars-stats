@@ -1,10 +1,10 @@
 # DataDog/dd-trace-js - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 241
 
-★ Stars: 448
+★ Stars: 450
 
 [Open repository](https://github.com/DataDog/dd-trace-js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 450 | 241 | 
 | 2023-04-02 | 448 | 241 | 
 | 2023-03-31 | 447 | 241 | 
 | 2023-03-29 | 444 | 241 | 

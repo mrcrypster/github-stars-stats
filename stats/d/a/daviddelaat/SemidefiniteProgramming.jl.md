@@ -1,6 +1,6 @@
 # daviddelaat/SemidefiniteProgramming.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 16 | 5 | 
 | 2023-04-02 | 16 | 5 | 
 | 2023-03-30 | 16 | 5 | 
 | 2023-03-28 | 16 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 15 | 5 | 
 | 2023-03-06 | 15 | 5 | 
 | 2023-03-05 | 15 | 5 | 
-| 2023-03-04 | 15 | 5 | 
 

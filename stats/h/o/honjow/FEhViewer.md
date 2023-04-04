@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 78
 
-★ Stars: 1575
+★ Stars: 1576
 
 [Open repository](https://github.com/honjow/FEhViewer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 1575 | 78 | 
+| 2023-04-03 | 1576 | 78 | 
 | 2023-04-02 | 1574 | 78 | 
 | 2023-04-01 | 1571 | 78 | 
 | 2023-03-31 | 1567 | 78 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1507 | 78 | 
 | 2023-03-07 | 1504 | 77 | 
 | 2023-03-06 | 1505 | 77 | 
-| 2023-03-04 | 1506 | 77 | 
 

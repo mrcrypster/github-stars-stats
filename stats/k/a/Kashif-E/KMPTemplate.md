@@ -1,10 +1,10 @@
 # Kashif-E/KMPTemplate - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 146
+★ Stars: 151
 
 [Open repository](https://github.com/Kashif-E/KMPTemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 151 | 6 | 
 | 2023-04-01 | 146 | 6 | 
 | 2023-03-31 | 144 | 5 | 
 | 2023-03-29 | 144 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 140 | 5 | 
 | 2023-03-06 | 140 | 5 | 
 | 2023-03-05 | 138 | 5 | 
-| 2023-03-04 | 137 | 5 | 
 

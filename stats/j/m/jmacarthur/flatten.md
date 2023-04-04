@@ -1,6 +1,6 @@
 # jmacarthur/flatten - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | - | 
 | 2023-04-02 | 3 | - | 
 | 2023-04-01 | 3 | - | 
 | 2023-03-30 | 3 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 3 | - | 
 | 2023-03-06 | 3 | - | 
 | 2023-03-05 | 3 | - | 
-| 2023-03-04 | 3 | - | 
 

@@ -1,10 +1,10 @@
 # redplanetlabs/specter - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 97
 
-★ Stars: 2410
+★ Stars: 2411
 
 [Open repository](https://github.com/redplanetlabs/specter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2411 | 97 | 
 | 2023-04-02 | 2410 | 97 | 
 | 2023-03-30 | 2411 | 97 | 
 | 2023-03-28 | 2411 | 97 | 

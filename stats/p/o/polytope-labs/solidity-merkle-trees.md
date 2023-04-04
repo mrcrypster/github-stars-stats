@@ -1,10 +1,10 @@
 # polytope-labs/solidity-merkle-trees - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
-★ Stars: 121
+★ Stars: 120
 
 [Open repository](https://github.com/polytope-labs/solidity-merkle-trees)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 120 | 11 | 
 | 2023-04-02 | 121 | 11 | 
 | 2023-03-30 | 120 | 11 | 
 | 2023-03-28 | 120 | 11 | 

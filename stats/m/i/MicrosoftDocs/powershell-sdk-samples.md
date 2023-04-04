@@ -1,6 +1,6 @@
 # MicrosoftDocs/powershell-sdk-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14 | 12 | 
 | 2023-04-02 | 14 | 12 | 
 | 2023-03-30 | 14 | 12 | 
 | 2023-03-28 | 14 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 13 | 11 | 
 | 2023-03-07 | 13 | 11 | 
 | 2023-03-05 | 13 | 11 | 
-| 2023-03-04 | 13 | 11 | 
 

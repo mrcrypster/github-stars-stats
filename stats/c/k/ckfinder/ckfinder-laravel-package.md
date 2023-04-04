@@ -1,6 +1,6 @@
 # ckfinder/ckfinder-laravel-package - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 137 | 83 | 
 | 2023-03-31 | 137 | 83 | 
 | 2023-03-29 | 137 | 83 | 
 | 2023-03-27 | 137 | 83 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-07 | 137 | 83 | 
 | 2023-03-06 | 137 | 83 | 
 | 2023-03-05 | 137 | 83 | 
-| 2023-03-04 | 137 | 83 | 
 

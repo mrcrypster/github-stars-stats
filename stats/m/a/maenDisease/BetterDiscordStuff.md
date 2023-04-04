@@ -1,8 +1,8 @@
 # maenDisease/BetterDiscordStuff - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 37
+☋ Forks: 40
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 31 | 40 | 
 | 2023-04-02 | 31 | 37 | 
 | 2023-03-31 | 31 | 34 | 
 | 2023-03-29 | 31 | 33 | 

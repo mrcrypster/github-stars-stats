@@ -1,6 +1,6 @@
 # umotif-public/terraform-aws-backup - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2 | 9 | 
 | 2023-04-02 | 2 | 9 | 
 | 2023-03-30 | 2 | 9 | 
 | 2023-03-28 | 2 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 2 | 9 | 
 | 2023-03-07 | 2 | 9 | 
 | 2023-03-06 | 2 | 9 | 
-| 2023-03-05 | 2 | 9 | 
 

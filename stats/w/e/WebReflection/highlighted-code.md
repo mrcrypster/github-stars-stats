@@ -1,6 +1,6 @@
 # WebReflection/highlighted-code - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 172 | 3 | 
 | 2023-04-02 | 172 | 3 | 
 | 2023-03-30 | 172 | 3 | 
 | 2023-03-28 | 172 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 172 | 3 | 
 | 2023-03-07 | 172 | 3 | 
 | 2023-03-06 | 172 | 3 | 
-| 2023-03-05 | 172 | 3 | 
 

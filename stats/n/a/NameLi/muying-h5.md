@@ -1,6 +1,6 @@
 # NameLi/muying-h5 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 68 | 16 | 
 | 2023-04-02 | 68 | 16 | 
 | 2023-03-31 | 68 | 16 | 
 | 2023-03-29 | 68 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 66 | 16 | 
 | 2023-03-07 | 66 | 16 | 
 | 2023-03-06 | 66 | 16 | 
-| 2023-03-04 | 66 | 16 | 
 

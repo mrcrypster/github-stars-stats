@@ -1,6 +1,6 @@
 # haskell/mtl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 347 | 61 | 
 | 2023-03-31 | 347 | 61 | 
 | 2023-03-29 | 347 | 61 | 
 | 2023-03-28 | 347 | 61 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 346 | 61 | 
 | 2023-03-07 | 346 | 61 | 
 | 2023-03-06 | 344 | 61 | 
-| 2023-03-04 | 344 | 61 | 
 

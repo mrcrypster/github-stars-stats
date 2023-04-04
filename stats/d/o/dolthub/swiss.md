@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 03
 
-☋ Forks: 4
+☋ Forks: 7
 
-★ Stars: 215
+★ Stars: 283
 
 [Open repository](https://github.com/dolthub/swiss)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 215 | 4 | 
+| 2023-04-03 | 283 | 7 | 
 | 2023-04-02 | 190 | 4 | 
 

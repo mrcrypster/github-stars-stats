@@ -1,10 +1,10 @@
 # BetterDiscord/BetterDiscord - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 935
+☋ Forks: 936
 
-★ Stars: 6422
+★ Stars: 6429
 
 [Open repository](https://github.com/BetterDiscord/BetterDiscord)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6429 | 936 | 
 | 2023-04-02 | 6422 | 935 | 
 | 2023-03-30 | 6405 | 936 | 
 | 2023-03-28 | 6388 | 934 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 6206 | 919 | 
 | 2023-03-07 | 6199 | 918 | 
 | 2023-03-06 | 6191 | 919 | 
-| 2023-03-05 | 6191 | 918 | 
 

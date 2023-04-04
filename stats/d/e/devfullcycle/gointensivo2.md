@@ -1,8 +1,8 @@
 # devfullcycle/gointensivo2 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 23 | 17 | 
 | 2023-03-31 | 23 | 16 | 
 | 2023-03-29 | 23 | 16 | 
 | 2023-03-27 | 23 | 16 | 

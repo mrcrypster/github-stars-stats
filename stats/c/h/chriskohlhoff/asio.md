@@ -1,10 +1,10 @@
 # chriskohlhoff/asio - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1070
+☋ Forks: 1071
 
-★ Stars: 3957
+★ Stars: 3963
 
 [Open repository](https://github.com/chriskohlhoff/asio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3963 | 1071 | 
 | 2023-03-31 | 3957 | 1070 | 
 | 2023-03-29 | 3952 | 1069 | 
 | 2023-03-28 | 3949 | 1068 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 3901 | 1060 | 
 | 2023-03-07 | 3900 | 1059 | 
 | 2023-03-06 | 3894 | 1057 | 
-| 2023-03-04 | 3894 | 1057 | 
 

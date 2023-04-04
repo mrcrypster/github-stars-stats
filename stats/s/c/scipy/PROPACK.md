@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/scipy/PROPACK)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 7 | 2 | 
+| 2023-04-03 | 8 | 2 | 
 | 2023-04-02 | 7 | 2 | 
 | 2023-04-01 | 7 | 2 | 
 | 2023-03-31 | 7 | 2 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 7 | 2 | 
 | 2023-03-07 | 7 | 2 | 
 | 2023-03-05 | 7 | 2 | 
-| 2023-03-04 | 7 | 2 | 
 

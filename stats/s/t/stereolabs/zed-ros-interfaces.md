@@ -1,6 +1,6 @@
 # stereolabs/zed-ros-interfaces - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 14 | 
 | 2023-04-02 | 3 | 14 | 
 | 2023-04-01 | 3 | 14 | 
 | 2023-03-30 | 3 | 14 | 

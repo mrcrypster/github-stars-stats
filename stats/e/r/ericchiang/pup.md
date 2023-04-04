@@ -1,6 +1,6 @@
 # ericchiang/pup - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 7704 | 251 | 
 | 2023-04-02 | 7704 | 251 | 
 | 2023-03-30 | 7703 | 250 | 
 | 2023-03-28 | 7702 | 250 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 7684 | 249 | 
 | 2023-03-06 | 7681 | 249 | 
 | 2023-03-05 | 7680 | 249 | 
-| 2023-03-04 | 7680 | 249 | 
 

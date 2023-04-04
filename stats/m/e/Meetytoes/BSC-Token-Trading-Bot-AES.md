@@ -1,10 +1,10 @@
 # Meetytoes/BSC-Token-Trading-Bot-AES - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 48
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/Meetytoes/BSC-Token-Trading-Bot-AES)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 52 | 48 | 
 | 2023-03-31 | 50 | 48 | 
 | 2023-03-29 | 50 | 48 | 
 | 2023-03-28 | 50 | 48 | 

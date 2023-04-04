@@ -1,10 +1,10 @@
 # GDX-X/PFS-BatchKit-Manager - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/GDX-X/PFS-BatchKit-Manager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 90 | 7 | 
 | 2023-04-02 | 89 | 7 | 
 | 2023-03-30 | 90 | 7 | 
 | 2023-03-28 | 89 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 87 | 7 | 
 | 2023-03-07 | 86 | 7 | 
 | 2023-03-06 | 86 | 7 | 
-| 2023-03-04 | 86 | 7 | 
 

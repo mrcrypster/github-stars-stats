@@ -1,10 +1,10 @@
 # ryh04x/CEH-Exam-Questions - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 63
+☋ Forks: 69
 
-★ Stars: 495
+★ Stars: 507
 
 [Open repository](https://github.com/ryh04x/CEH-Exam-Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 507 | 69 | 
 | 2023-03-31 | 495 | 63 | 
 | 2023-03-29 | 489 | 59 | 
 | 2023-03-28 | 468 | 57 | 

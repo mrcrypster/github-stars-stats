@@ -1,6 +1,6 @@
 # alfianlosari/ChatGPTSwiftUI - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 168 | 28 | 
 | 2023-04-02 | 168 | 28 | 
 | 2023-03-31 | 152 | 28 | 
 | 2023-03-29 | 148 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 75 | 14 | 
 | 2023-03-06 | 74 | 13 | 
 | 2023-03-05 | 72 | 13 | 
-| 2023-03-04 | 71 | 13 | 
 

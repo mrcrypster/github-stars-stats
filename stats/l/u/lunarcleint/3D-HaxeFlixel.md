@@ -1,6 +1,6 @@
 # lunarcleint/3D-HaxeFlixel - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 29 | 7 | 
 | 2023-04-02 | 29 | 7 | 
 | 2023-03-30 | 29 | 7 | 
 | 2023-03-28 | 29 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 28 | 7 | 
 | 2023-03-07 | 28 | 7 | 
 | 2023-03-06 | 28 | 7 | 
-| 2023-03-04 | 28 | 7 | 
 

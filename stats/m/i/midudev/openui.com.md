@@ -1,10 +1,10 @@
 # midudev/openui.com - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 38
 
-★ Stars: 266
+★ Stars: 269
 
 [Open repository](https://github.com/midudev/openui.com)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 269 | 38 | 
 | 2023-04-01 | 266 | 38 | 
 | 2023-03-31 | 265 | 38 | 
 | 2023-03-29 | 265 | 38 | 

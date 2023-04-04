@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 32
 
 [Open repository](https://github.com/lexical-lsp/lexical)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-03 | 28 | 2 | 
+| 2023-04-03 | 32 | 2 | 
 | 2023-04-02 | 26 | 2 | 
 

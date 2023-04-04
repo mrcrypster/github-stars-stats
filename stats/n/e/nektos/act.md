@@ -1,10 +1,10 @@
 # nektos/act - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 924
+☋ Forks: 925
 
-★ Stars: 36847
+★ Stars: 36898
 
 [Open repository](https://github.com/nektos/act)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 36898 | 925 | 
 | 2023-04-02 | 36847 | 924 | 
 | 2023-04-01 | 36817 | 923 | 
 | 2023-03-30 | 36591 | 920 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 35710 | 894 | 
 | 2023-03-06 | 35657 | 892 | 
 | 2023-03-05 | 35617 | 892 | 
-| 2023-03-04 | 35591 | 892 | 
 

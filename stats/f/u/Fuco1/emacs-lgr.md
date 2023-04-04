@@ -1,6 +1,6 @@
 # Fuco1/emacs-lgr - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 18 | 2 | 
 | 2023-04-02 | 18 | 2 | 
 | 2023-03-30 | 18 | 2 | 
 | 2023-03-28 | 18 | 2 | 

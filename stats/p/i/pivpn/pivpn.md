@@ -1,10 +1,10 @@
 # pivpn/pivpn - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 544
 
-★ Stars: 5947
+★ Stars: 5955
 
 [Open repository](https://github.com/pivpn/pivpn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5955 | 544 | 
 | 2023-03-31 | 5947 | 544 | 
 | 2023-03-29 | 5942 | 544 | 
 | 2023-03-27 | 5939 | 544 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 5881 | 543 | 
 | 2023-03-06 | 5879 | 543 | 
 | 2023-03-05 | 5871 | 543 | 
-| 2023-03-04 | 5868 | 544 | 
 

@@ -1,10 +1,10 @@
 # codemistic/Web-Development - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 314
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/codemistic/Web-Development)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 198 | 314 | 
 | 2023-04-02 | 197 | 314 | 
 | 2023-03-30 | 196 | 314 | 
 | 2023-03-28 | 195 | 312 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 181 | 302 | 
 | 2023-03-07 | 181 | 301 | 
 | 2023-03-05 | 180 | 301 | 
-| 2023-03-04 | 180 | 300 | 
 

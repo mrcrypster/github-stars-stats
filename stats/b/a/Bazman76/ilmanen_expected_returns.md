@@ -1,6 +1,6 @@
 # Bazman76/ilmanen_expected_returns - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 10 | 5 | 
 | 2023-03-31 | 10 | 5 | 
 | 2023-03-29 | 10 | 5 | 
 | 2023-03-28 | 10 | 5 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 8 | 5 | 
 | 2023-03-07 | 8 | 5 | 
 | 2023-03-06 | 8 | 5 | 
-| 2023-03-04 | 8 | 5 | 
 

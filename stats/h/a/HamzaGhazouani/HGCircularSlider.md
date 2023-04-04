@@ -1,10 +1,10 @@
 # HamzaGhazouani/HGCircularSlider - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 259
 
-★ Stars: 2438
+★ Stars: 2439
 
 [Open repository](https://github.com/HamzaGhazouani/HGCircularSlider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2439 | 259 | 
 | 2023-03-31 | 2438 | 259 | 
 | 2023-03-29 | 2436 | 259 | 
 | 2023-03-27 | 2435 | 258 | 

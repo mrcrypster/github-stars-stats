@@ -1,10 +1,10 @@
 # mike42/escpos-php - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 807
+☋ Forks: 808
 
-★ Stars: 2188
+★ Stars: 2189
 
 [Open repository](https://github.com/mike42/escpos-php)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2189 | 808 | 
 | 2023-03-31 | 2188 | 807 | 
 | 2023-03-29 | 2187 | 806 | 
 | 2023-03-28 | 2187 | 806 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 2174 | 804 | 
 | 2023-03-07 | 2174 | 804 | 
 | 2023-03-05 | 2173 | 804 | 
-| 2023-03-04 | 2173 | 804 | 
 

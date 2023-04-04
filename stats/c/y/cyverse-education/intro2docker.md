@@ -1,6 +1,6 @@
 # cyverse-education/intro2docker - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 14 | 
 | 2023-04-02 | 2 | 14 | 
 | 2023-03-31 | 2 | 14 | 
 | 2023-03-29 | 2 | 14 | 

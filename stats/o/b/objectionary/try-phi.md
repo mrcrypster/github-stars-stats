@@ -1,6 +1,6 @@
 # objectionary/try-phi - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 13 | 3 | 
 | 2023-04-01 | 13 | 3 | 
 | 2023-03-30 | 13 | 3 | 
 | 2023-03-28 | 13 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 13 | 3 | 
 | 2023-03-07 | 13 | 3 | 
 | 2023-03-06 | 13 | 3 | 
-| 2023-03-04 | 13 | 3 | 
 

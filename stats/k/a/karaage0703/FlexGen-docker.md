@@ -1,6 +1,6 @@
 # karaage0703/FlexGen-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 26 | 7 | 
 | 2023-04-02 | 26 | 7 | 
 | 2023-04-01 | 26 | 6 | 
 | 2023-03-30 | 26 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 25 | 5 | 
 | 2023-03-07 | 25 | 5 | 
 | 2023-03-05 | 24 | 5 | 
-| 2023-03-04 | 24 | 5 | 
 

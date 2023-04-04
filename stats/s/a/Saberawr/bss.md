@@ -1,6 +1,6 @@
 # Saberawr/bss - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 11 | 4 | 
 | 2023-04-02 | 11 | 4 | 
 | 2023-04-01 | 11 | 4 | 
 | 2023-03-30 | 11 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 11 | 3 | 
 | 2023-03-07 | 11 | 3 | 
 | 2023-03-06 | 11 | 3 | 
-| 2023-03-04 | 11 | 3 | 
 

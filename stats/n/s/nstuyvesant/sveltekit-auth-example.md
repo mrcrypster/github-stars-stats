@@ -1,10 +1,10 @@
 # nstuyvesant/sveltekit-auth-example - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 19
 
-★ Stars: 165
+★ Stars: 164
 
 [Open repository](https://github.com/nstuyvesant/sveltekit-auth-example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 164 | 19 | 
 | 2023-04-02 | 165 | 19 | 
 | 2023-04-01 | 164 | 19 | 
 | 2023-03-30 | 164 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 155 | 17 | 
 | 2023-03-06 | 153 | 17 | 
 | 2023-03-05 | 153 | 17 | 
-| 2023-03-04 | 153 | 17 | 
 

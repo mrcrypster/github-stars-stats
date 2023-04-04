@@ -1,10 +1,10 @@
 # chrisconlan/algorithmic-trading-with-python - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 303
 
-★ Stars: 1631
+★ Stars: 1634
 
 [Open repository](https://github.com/chrisconlan/algorithmic-trading-with-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1634 | 303 | 
 | 2023-03-31 | 1631 | 303 | 
 | 2023-03-29 | 1629 | 303 | 
 | 2023-03-27 | 1629 | 303 | 

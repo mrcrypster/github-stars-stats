@@ -1,10 +1,10 @@
 # mentat-collective/emmy - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 56
+★ Stars: 58
 
 [Open repository](https://github.com/mentat-collective/emmy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 58 | - | 
 | 2023-04-02 | 56 | - | 
 | 2023-03-30 | 56 | - | 
 | 2023-03-28 | 52 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 48 | - | 
 | 2023-03-07 | 48 | - | 
 | 2023-03-05 | 48 | - | 
-| 2023-03-04 | 48 | - | 
 

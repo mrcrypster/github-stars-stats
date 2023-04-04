@@ -1,10 +1,10 @@
 # 0xPolygonID/tutorial-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 31
 
-★ Stars: 18
+★ Stars: 20
 
 [Open repository](https://github.com/0xPolygonID/tutorial-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 20 | 31 | 
 | 2023-04-01 | 18 | 31 | 
 | 2023-03-31 | 18 | 31 | 
 

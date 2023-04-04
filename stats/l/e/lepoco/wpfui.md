@@ -1,10 +1,10 @@
 # lepoco/wpfui - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 436
 
-★ Stars: 3901
+★ Stars: 3906
 
 [Open repository](https://github.com/lepoco/wpfui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3906 | 436 | 
 | 2023-04-02 | 3901 | 436 | 
 | 2023-03-31 | 3888 | 436 | 
 | 2023-03-29 | 3882 | 436 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 3775 | 423 | 
 | 2023-03-07 | 3770 | 423 | 
 | 2023-03-05 | 3759 | 423 | 
-| 2023-03-04 | 3755 | 423 | 
 

@@ -1,10 +1,10 @@
 # flynnsbit/Top300_updates - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/flynnsbit/Top300_updates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 94 | 8 | 
 | 2023-03-31 | 93 | 8 | 
 | 2023-03-29 | 93 | 8 | 
 | 2023-03-27 | 93 | 8 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 92 | 8 | 
 | 2023-03-07 | 92 | 8 | 
 | 2023-03-05 | 92 | 7 | 
-| 2023-03-04 | 92 | 7 | 
 

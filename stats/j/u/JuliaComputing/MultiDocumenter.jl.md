@@ -1,6 +1,6 @@
 # JuliaComputing/MultiDocumenter.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 49 | 5 | 
 | 2023-04-02 | 49 | 5 | 
 | 2023-03-30 | 49 | 5 | 
 | 2023-03-28 | 49 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 48 | 5 | 
 | 2023-03-07 | 48 | 5 | 
 | 2023-03-06 | 48 | 5 | 
-| 2023-03-04 | 47 | 4 | 
 

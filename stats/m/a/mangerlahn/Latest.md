@@ -1,10 +1,10 @@
 # mangerlahn/Latest - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 48
 
-★ Stars: 1456
+★ Stars: 1458
 
 [Open repository](https://github.com/mangerlahn/Latest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1458 | 48 | 
 | 2023-03-31 | 1456 | 48 | 
 | 2023-03-29 | 1452 | 48 | 
 | 2023-03-27 | 1448 | 48 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1426 | 48 | 
 | 2023-03-07 | 1424 | 48 | 
 | 2023-03-05 | 1420 | 47 | 
-| 2023-03-04 | 1418 | 47 | 
 

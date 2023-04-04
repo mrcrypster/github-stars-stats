@@ -1,10 +1,10 @@
 # massalabs/massa-sc-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/massalabs/massa-sc-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6 | 11 | 
 | 2023-04-01 | 5 | 11 | 
 | 2023-03-30 | 5 | 11 | 
 | 2023-03-28 | 5 | 11 | 

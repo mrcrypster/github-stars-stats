@@ -1,6 +1,6 @@
 # goj/base16 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 19 | 9 | 
 | 2023-04-02 | 19 | 9 | 
 | 2023-03-29 | 19 | 9 | 
 | 2023-03-28 | 19 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 19 | 8 | 
 | 2023-03-06 | 19 | 8 | 
 | 2023-03-05 | 19 | 8 | 
-| 2023-03-04 | 19 | 8 | 
 

@@ -1,6 +1,6 @@
 # microsoft/cheriot-ibex - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 29 | 4 | 
 | 2023-04-02 | 29 | 4 | 
 | 2023-03-30 | 29 | 4 | 
 | 2023-03-28 | 29 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 25 | 4 | 
 | 2023-03-06 | 25 | 4 | 
 | 2023-03-05 | 25 | 4 | 
-| 2023-03-04 | 25 | 4 | 
 

@@ -1,10 +1,10 @@
 # Synaptrix/ChatGPT-Desktop-Proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 38
+★ Stars: 55
 
 [Open repository](https://github.com/Synaptrix/ChatGPT-Desktop-Proxy)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 55 | 12 | 
 | 2023-04-01 | 38 | 11 | 
 

@@ -1,6 +1,6 @@
 # ebelinski/apilevels - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 116 | 14 | 
 | 2023-04-01 | 116 | 14 | 
 | 2023-03-30 | 116 | 14 | 
 | 2023-03-28 | 116 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 110 | 15 | 
 | 2023-03-06 | 109 | 15 | 
 | 2023-03-05 | 109 | 15 | 
-| 2023-03-04 | 110 | 15 | 
 

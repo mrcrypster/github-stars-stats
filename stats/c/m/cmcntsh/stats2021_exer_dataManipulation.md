@@ -1,6 +1,6 @@
 # cmcntsh/stats2021_exer_dataManipulation - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 37 | 
 | 2023-04-02 | - | 37 | 
 | 2023-03-30 | - | 37 | 
 | 2023-03-28 | - | 37 | 

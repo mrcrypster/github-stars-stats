@@ -1,6 +1,6 @@
 # JohnEarnest/StoneSoup - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 61 | 4 | 
 | 2023-04-02 | 61 | 4 | 
 | 2023-03-30 | 61 | 4 | 
 | 2023-03-28 | 61 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 61 | 4 | 
 | 2023-03-07 | 61 | 4 | 
 | 2023-03-05 | 61 | 4 | 
-| 2023-03-04 | 61 | 4 | 
 

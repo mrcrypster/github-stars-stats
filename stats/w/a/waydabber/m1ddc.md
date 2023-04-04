@@ -1,6 +1,6 @@
 # waydabber/m1ddc - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 253 | 24 | 
 | 2023-04-02 | 253 | 24 | 
 | 2023-03-30 | 250 | 23 | 
 | 2023-03-28 | 250 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 248 | 23 | 
 | 2023-03-06 | 245 | 23 | 
 | 2023-03-05 | 245 | 23 | 
-| 2023-03-04 | 245 | 23 | 
 

@@ -1,6 +1,6 @@
 # nf-core/isoseq - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 11 | 3 | 
 | 2023-04-02 | 11 | 3 | 
 | 2023-03-31 | 11 | 3 | 
 | 2023-03-29 | 10 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 8 | 3 | 
 | 2023-03-07 | 7 | 3 | 
 | 2023-03-06 | 7 | 3 | 
-| 2023-03-04 | 7 | 3 | 
 

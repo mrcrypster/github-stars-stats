@@ -1,6 +1,6 @@
 # returntocorp/semgrep-interfaces - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 8 | 1 | 
+| 2023-04-03 | 8 | 1 | 
 | 2023-04-02 | 8 | 1 | 
 | 2023-04-01 | 8 | 1 | 
 | 2023-03-31 | 8 | 1 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 7 | 1 | 
 | 2023-03-06 | 7 | 1 | 
 | 2023-03-05 | 7 | 1 | 
-| 2023-03-04 | 7 | 1 | 
 

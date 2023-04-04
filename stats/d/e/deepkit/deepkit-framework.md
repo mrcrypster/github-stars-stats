@@ -1,6 +1,6 @@
 # deepkit/deepkit-framework - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2615 | 96 | 
 | 2023-04-02 | 2615 | 96 | 
 | 2023-03-30 | 2609 | 96 | 
 | 2023-03-28 | 2605 | 96 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 2573 | 96 | 
 | 2023-03-07 | 2568 | 95 | 
 | 2023-03-05 | 2566 | 95 | 
-| 2023-03-04 | 2563 | 95 | 
 

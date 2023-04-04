@@ -1,10 +1,10 @@
 # XYZenix/XYZenixThemes - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/XYZenix/XYZenixThemes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 38 | 
 | 2023-04-02 | 35 | 37 | 
 | 2023-03-30 | 35 | 38 | 
 | 2023-03-28 | 35 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 34 | 37 | 
 | 2023-03-06 | 34 | 37 | 
 | 2023-03-05 | 34 | 37 | 
-| 2023-03-04 | 34 | 38 | 
 

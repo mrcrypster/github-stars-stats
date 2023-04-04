@@ -1,6 +1,6 @@
 # tailscale/golink - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 860 | 39 | 
 | 2023-04-02 | 860 | 39 | 
 | 2023-03-31 | 858 | 38 | 
 | 2023-03-29 | 854 | 37 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 845 | 36 | 
 | 2023-03-07 | 841 | 36 | 
 | 2023-03-06 | 838 | 37 | 
-| 2023-03-04 | 837 | 37 | 
 

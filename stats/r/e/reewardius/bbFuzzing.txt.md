@@ -1,10 +1,10 @@
 # reewardius/bbFuzzing.txt - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 116
+★ Stars: 122
 
 [Open repository](https://github.com/reewardius/bbFuzzing.txt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 122 | 26 | 
 | 2023-04-02 | 116 | 24 | 
 | 2023-03-29 | 96 | 17 | 
 | 2023-03-28 | 96 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 93 | 17 | 
 | 2023-03-06 | 92 | 17 | 
 | 2023-03-05 | 92 | 17 | 
-| 2023-03-04 | 93 | 17 | 
 

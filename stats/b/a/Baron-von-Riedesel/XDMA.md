@@ -1,6 +1,6 @@
 # Baron-von-Riedesel/XDMA - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 11 | 1 | 
 | 2023-03-31 | 11 | 1 | 
 | 2023-03-29 | 11 | 1 | 
 | 2023-03-28 | 11 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 11 | 1 | 
 | 2023-03-07 | 11 | 1 | 
 | 2023-03-06 | 11 | 1 | 
-| 2023-03-04 | 11 | 1 | 
 

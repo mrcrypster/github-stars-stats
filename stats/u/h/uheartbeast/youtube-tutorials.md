@@ -1,10 +1,10 @@
 # uheartbeast/youtube-tutorials - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 274
 
-★ Stars: 540
+★ Stars: 541
 
 [Open repository](https://github.com/uheartbeast/youtube-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 541 | 274 | 
 | 2023-04-02 | 540 | 274 | 
 | 2023-03-30 | 539 | 274 | 
 | 2023-03-28 | 538 | 274 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 534 | 271 | 
 | 2023-03-06 | 533 | 271 | 
 | 2023-03-05 | 533 | 271 | 
-| 2023-03-04 | 532 | 270 | 
 

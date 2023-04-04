@@ -1,6 +1,6 @@
 # capt-meelo/MassMap - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 138 | 33 | 
 | 2023-03-31 | 138 | 33 | 
 | 2023-03-29 | 137 | 33 | 
 | 2023-03-27 | 137 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 137 | 33 | 
 | 2023-03-07 | 137 | 33 | 
 | 2023-03-06 | 137 | 33 | 
-| 2023-03-04 | 137 | 33 | 
 

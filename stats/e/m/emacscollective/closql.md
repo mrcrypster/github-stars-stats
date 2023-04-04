@@ -1,6 +1,6 @@
 # emacscollective/closql - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 28 | 3 | 
 | 2023-04-01 | 28 | 3 | 
 | 2023-03-29 | 28 | 3 | 
 | 2023-03-28 | 28 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 27 | 3 | 
 | 2023-03-07 | 27 | 3 | 
 | 2023-03-05 | 27 | 3 | 
-| 2023-03-04 | 27 | 3 | 
 

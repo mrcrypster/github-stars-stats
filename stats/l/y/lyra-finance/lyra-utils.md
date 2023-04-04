@@ -1,8 +1,8 @@
 # lyra-finance/lyra-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 2 | 
 | 2023-03-31 | - | 1 | 
 | 2023-03-29 | - | 1 | 
 | 2023-03-27 | - | 1 | 

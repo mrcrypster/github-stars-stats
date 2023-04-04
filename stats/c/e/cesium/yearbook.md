@@ -1,6 +1,6 @@
 # cesium/yearbook - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5 | 3 | 
 | 2023-04-02 | 5 | 3 | 
 | 2023-03-30 | 5 | 3 | 
 | 2023-03-28 | 5 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 5 | 3 | 
 | 2023-03-07 | 5 | 3 | 
 | 2023-03-06 | 5 | 3 | 
-| 2023-03-04 | 5 | 3 | 
 

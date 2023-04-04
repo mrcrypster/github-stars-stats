@@ -1,10 +1,10 @@
 # lucidrains/musiclm-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 134
 
-★ Stars: 1990
+★ Stars: 2001
 
 [Open repository](https://github.com/lucidrains/musiclm-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2001 | 134 | 
 | 2023-04-02 | 1990 | 134 | 
 | 2023-03-31 | 1971 | 134 | 
 | 2023-03-29 | 1940 | 134 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1653 | 107 | 
 | 2023-03-06 | 1644 | 105 | 
 | 2023-03-05 | 1631 | 104 | 
-| 2023-03-04 | 1617 | 101 | 
 

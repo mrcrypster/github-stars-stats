@@ -1,8 +1,8 @@
 # mitchellh/zig-overlay - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 60 | 11 | 
 | 2023-04-02 | 60 | 10 | 
 | 2023-03-31 | 60 | 10 | 
 | 2023-03-29 | 60 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 55 | 9 | 
 | 2023-03-06 | 55 | 9 | 
 | 2023-03-05 | 52 | 8 | 
-| 2023-03-04 | 51 | 8 | 
 

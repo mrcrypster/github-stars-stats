@@ -1,6 +1,6 @@
 # milaan9/91_Python_Mini_Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 223 | 198 | 
 | 2023-03-31 | 223 | 198 | 
 | 2023-03-29 | 223 | 198 | 
 | 2023-03-28 | 223 | 198 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 222 | 197 | 
 | 2023-03-08 | 222 | 197 | 
 | 2023-03-06 | 222 | 197 | 
-| 2023-03-05 | 222 | 197 | 
 

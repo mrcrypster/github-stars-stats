@@ -1,6 +1,6 @@
 # Herbiie/ArmAReforgerMissionMakingGuide - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 39 | 1 | 
 | 2023-04-02 | 39 | 1 | 
 | 2023-03-30 | 39 | 1 | 
 | 2023-03-28 | 39 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 39 | 1 | 
 | 2023-03-08 | 39 | 1 | 
 | 2023-03-06 | 39 | 1 | 
-| 2023-03-05 | 39 | 1 | 
 

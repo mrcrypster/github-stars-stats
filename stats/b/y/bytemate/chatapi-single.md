@@ -1,10 +1,10 @@
 # bytemate/chatapi-single - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 73
 
-★ Stars: 528
+★ Stars: 531
 
 [Open repository](https://github.com/bytemate/chatapi-single)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 531 | 73 | 
 | 2023-03-31 | 528 | 73 | 
 | 2023-03-29 | 526 | 73 | 
 | 2023-03-27 | 524 | 73 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-09 | 496 | 69 | 
 | 2023-03-07 | 495 | 69 | 
 | 2023-03-06 | 496 | 69 | 
-| 2023-03-04 | 496 | 69 | 
 

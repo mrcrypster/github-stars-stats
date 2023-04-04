@@ -1,10 +1,10 @@
 # fabricate-site/fabricate - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 48
 
 [Open repository](https://github.com/fabricate-site/fabricate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 48 | 2 | 
 | 2023-04-02 | 50 | 2 | 
 | 2023-03-30 | 50 | 2 | 
 | 2023-03-28 | 50 | 2 | 

@@ -1,6 +1,6 @@
 # emacsorphanage/terraform-mode - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 190 | 30 | 
 | 2023-04-02 | 190 | 30 | 
 | 2023-03-31 | 189 | 30 | 
 | 2023-03-29 | 189 | 30 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 190 | 30 | 
 | 2023-03-06 | 190 | 30 | 
 | 2023-03-05 | 190 | 30 | 
-| 2023-03-04 | 189 | 31 | 
 

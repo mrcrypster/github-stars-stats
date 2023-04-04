@@ -1,6 +1,6 @@
 # forestryio/hugo-theme-novela - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 351 | 194 | 
 | 2023-03-31 | 351 | 194 | 
 | 2023-03-29 | 351 | 194 | 
 | 2023-03-28 | 350 | 194 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 345 | 193 | 
 | 2023-03-06 | 345 | 193 | 
 | 2023-03-05 | 345 | 193 | 
-| 2023-03-04 | 345 | 193 | 
 

@@ -1,8 +1,8 @@
 # codingo/BibWord - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 195
+☋ Forks: 196
 
 ★ Stars: 218
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 218 | 196 | 
 | 2023-04-02 | 218 | 195 | 
 | 2023-03-30 | 218 | 194 | 
 | 2023-03-28 | 218 | 194 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 214 | 190 | 
 | 2023-03-06 | 214 | 190 | 
 | 2023-03-05 | 214 | 191 | 
-| 2023-03-04 | 214 | 191 | 
 

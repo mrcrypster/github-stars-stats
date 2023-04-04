@@ -1,10 +1,10 @@
 # alura-es-cursos/inmersion-en-datos - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 33
+☋ Forks: 40
 
-★ Stars: 16
+★ Stars: 21
 
 [Open repository](https://github.com/alura-es-cursos/inmersion-en-datos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 21 | 40 | 
 | 2023-04-01 | 16 | 33 | 
 | 2023-03-31 | 15 | 33 | 
 | 2023-03-30 | 11 | 19 | 

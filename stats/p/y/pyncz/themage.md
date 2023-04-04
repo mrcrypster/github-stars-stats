@@ -1,10 +1,10 @@
 # pyncz/themage - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/pyncz/themage)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 46 | 2 | 
 | 2023-04-02 | 44 | 2 | 
 

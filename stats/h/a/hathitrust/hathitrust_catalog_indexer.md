@@ -1,6 +1,6 @@
 # hathitrust/hathitrust_catalog_indexer - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | 2 | 
 | 2023-04-01 | 1 | 2 | 
 

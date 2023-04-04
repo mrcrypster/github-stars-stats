@@ -1,10 +1,10 @@
 # ahmetb/kubectl-aliases - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 737
+☋ Forks: 736
 
-★ Stars: 2878
+★ Stars: 2881
 
 [Open repository](https://github.com/ahmetb/kubectl-aliases)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 2881 | 736 | 
 | 2023-03-31 | 2878 | 737 | 
 | 2023-03-29 | 2874 | 737 | 
 | 2023-03-27 | 2869 | 736 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 2848 | 729 | 
 | 2023-03-07 | 2846 | 728 | 
 | 2023-03-05 | 2846 | 728 | 
-| 2023-03-04 | 2846 | 728 | 
 

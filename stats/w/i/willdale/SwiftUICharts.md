@@ -1,10 +1,10 @@
 # willdale/SwiftUICharts - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 79
 
-★ Stars: 662
+★ Stars: 663
 
 [Open repository](https://github.com/willdale/SwiftUICharts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 663 | 79 | 
 | 2023-04-02 | 662 | 79 | 
 | 2023-03-30 | 662 | 79 | 
 | 2023-03-28 | 662 | 79 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 657 | 78 | 
 | 2023-03-06 | 657 | 76 | 
 | 2023-03-05 | 656 | 76 | 
-| 2023-03-04 | 655 | 76 | 
 

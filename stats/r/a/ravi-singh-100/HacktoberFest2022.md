@@ -1,6 +1,6 @@
 # ravi-singh-100/HacktoberFest2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3 | 19 | 
 | 2023-03-31 | 3 | 19 | 
 | 2023-03-29 | 3 | 20 | 
 | 2023-03-27 | 3 | 20 | 

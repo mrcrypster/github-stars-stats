@@ -1,10 +1,10 @@
 # gitdagray/css_course - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 367
+☋ Forks: 371
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/gitdagray/css_course)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 346 | 371 | 
 | 2023-04-02 | 345 | 367 | 
 | 2023-03-30 | 343 | 367 | 
 | 2023-03-28 | 339 | 361 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 305 | 337 | 
 | 2023-03-06 | 303 | 336 | 
 | 2023-03-05 | 302 | 335 | 
-| 2023-03-04 | 301 | 334 | 
 

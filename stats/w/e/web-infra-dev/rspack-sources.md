@@ -1,6 +1,6 @@
 # web-infra-dev/rspack-sources - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 108 | 4 | 
 | 2023-04-01 | 108 | 4 | 
 | 2023-03-30 | 109 | 4 | 
 | 2023-03-28 | 109 | 4 | 

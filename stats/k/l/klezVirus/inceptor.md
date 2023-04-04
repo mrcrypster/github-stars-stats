@@ -1,10 +1,10 @@
 # klezVirus/inceptor - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 216
 
-★ Stars: 1188
+★ Stars: 1191
 
 [Open repository](https://github.com/klezVirus/inceptor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1191 | 216 | 
 | 2023-03-31 | 1188 | 216 | 
 | 2023-03-29 | 1187 | 216 | 
 | 2023-03-27 | 1186 | 215 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 1170 | 212 | 
 | 2023-03-07 | 1170 | 212 | 
 | 2023-03-06 | 1168 | 212 | 
-| 2023-03-04 | 1167 | 212 | 
 

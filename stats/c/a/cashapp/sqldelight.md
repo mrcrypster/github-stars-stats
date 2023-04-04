@@ -1,10 +1,10 @@
 # cashapp/sqldelight - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 447
 
-★ Stars: 5111
+★ Stars: 5115
 
 [Open repository](https://github.com/cashapp/sqldelight)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5115 | 447 | 
 | 2023-03-31 | 5111 | 447 | 
 | 2023-03-29 | 5107 | 446 | 
 | 2023-03-27 | 5104 | 446 | 
@@ -35,5 +36,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 5056 | 441 | 
 | 2023-03-06 | 5053 | 441 | 
 | 2023-03-05 | 5053 | 441 | 
-| 2023-03-04 | 5055 | 441 | 
 

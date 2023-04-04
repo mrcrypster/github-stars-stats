@@ -1,10 +1,10 @@
 # crystal-lang/crystal-molinillo - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/crystal-lang/crystal-molinillo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 27 | 1 | 
 | 2023-04-01 | 26 | 1 | 
 | 2023-03-31 | 26 | 1 | 
 | 2023-03-29 | 26 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 25 | 1 | 
 | 2023-03-07 | 25 | 1 | 
 | 2023-03-05 | 25 | 1 | 
-| 2023-03-04 | 25 | 1 | 
 

@@ -1,6 +1,6 @@
 # MCSclimate/MCT - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 35 | 18 | 
 | 2023-04-02 | 35 | 18 | 
 | 2023-04-01 | 35 | 18 | 
 | 2023-03-31 | 35 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 33 | 18 | 
 | 2023-03-06 | 33 | 18 | 
 | 2023-03-05 | 33 | 18 | 
-| 2023-03-04 | 33 | 18 | 
 

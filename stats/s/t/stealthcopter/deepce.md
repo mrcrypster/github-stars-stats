@@ -1,10 +1,10 @@
 # stealthcopter/deepce - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 80
+☋ Forks: 79
 
-★ Stars: 832
+★ Stars: 834
 
 [Open repository](https://github.com/stealthcopter/deepce)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 834 | 79 | 
 | 2023-04-01 | 832 | 80 | 
 | 2023-03-30 | 832 | 80 | 
 | 2023-03-28 | 832 | 80 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 805 | 75 | 
 | 2023-03-07 | 804 | 75 | 
 | 2023-03-05 | 800 | 75 | 
-| 2023-03-04 | 799 | 75 | 
 

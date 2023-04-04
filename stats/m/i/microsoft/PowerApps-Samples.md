@@ -1,10 +1,10 @@
 # microsoft/PowerApps-Samples - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1424
+☋ Forks: 1425
 
-★ Stars: 1053
+★ Stars: 1055
 
 [Open repository](https://github.com/microsoft/PowerApps-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1055 | 1425 | 
 | 2023-04-01 | 1053 | 1424 | 
 | 2023-03-31 | 1052 | 1423 | 
 | 2023-03-29 | 1047 | 1424 | 

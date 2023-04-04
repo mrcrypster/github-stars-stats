@@ -1,6 +1,6 @@
 # jonoabroad/liftmodules-aws-sns - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1 | 3 | 
 | 2023-04-02 | 1 | 3 | 
 | 2023-04-01 | 1 | 3 | 
 | 2023-03-30 | 1 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 1 | 3 | 
 | 2023-03-07 | 1 | 3 | 
 | 2023-03-05 | 1 | 3 | 
-| 2023-03-04 | 1 | 3 | 
 

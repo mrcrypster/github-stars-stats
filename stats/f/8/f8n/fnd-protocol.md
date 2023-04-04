@@ -1,6 +1,6 @@
 # f8n/fnd-protocol - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 105 | 15 | 
 | 2023-04-01 | 105 | 15 | 
 | 2023-03-31 | 105 | 15 | 
 | 2023-03-29 | 105 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 104 | 15 | 
 | 2023-03-07 | 104 | 15 | 
 | 2023-03-06 | 104 | 15 | 
-| 2023-03-04 | 104 | 15 | 
 

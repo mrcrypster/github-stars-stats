@@ -1,10 +1,10 @@
 # peripheryapp/periphery - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 133
 
-★ Stars: 4046
+★ Stars: 4052
 
 [Open repository](https://github.com/peripheryapp/periphery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4052 | 133 | 
 | 2023-04-02 | 4046 | 133 | 
 | 2023-03-31 | 4044 | 134 | 
 | 2023-03-29 | 4040 | 134 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-07 | 4003 | 134 | 
 | 2023-03-06 | 3999 | 134 | 
 | 2023-03-05 | 3998 | 134 | 
-| 2023-03-04 | 3996 | 134 | 
 

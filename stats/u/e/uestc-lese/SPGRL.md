@@ -1,6 +1,6 @@
 # uestc-lese/SPGRL - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 14 | 1 | 
 | 2023-04-02 | 14 | 1 | 
 | 2023-03-30 | 14 | 1 | 
 | 2023-03-28 | 14 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 14 | 1 | 
 | 2023-03-07 | 13 | 1 | 
 | 2023-03-06 | 13 | 1 | 
-| 2023-03-04 | 13 | 1 | 
 

@@ -1,6 +1,6 @@
 # sebastianbergmann/type - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1131 | 12 | 
 | 2023-04-01 | 1131 | 12 | 
 | 2023-03-31 | 1129 | 12 | 
 | 2023-03-29 | 1129 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 1113 | 11 | 
 | 2023-03-06 | 1112 | 11 | 
 | 2023-03-05 | 1112 | 11 | 
-| 2023-03-04 | 1113 | 11 | 
 

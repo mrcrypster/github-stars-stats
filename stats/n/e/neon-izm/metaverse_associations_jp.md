@@ -1,6 +1,6 @@
 # neon-izm/metaverse_associations_jp - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 45 | 3 | 
 | 2023-04-02 | 45 | 3 | 
 | 2023-03-31 | 45 | 3 | 
 | 2023-03-29 | 45 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 45 | 3 | 
 | 2023-03-07 | 45 | 3 | 
 | 2023-03-06 | 45 | 3 | 
-| 2023-03-04 | 45 | 3 | 
 

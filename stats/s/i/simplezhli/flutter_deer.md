@@ -1,10 +1,10 @@
 # simplezhli/flutter_deer - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1464
+☋ Forks: 1465
 
-★ Stars: 6857
+★ Stars: 6863
 
 [Open repository](https://github.com/simplezhli/flutter_deer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 6863 | 1465 | 
 | 2023-04-02 | 6857 | 1464 | 
 | 2023-03-31 | 6855 | 1463 | 
 | 2023-03-29 | 6849 | 1463 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 6809 | 1450 | 
 | 2023-03-06 | 6805 | 1447 | 
 | 2023-03-05 | 6800 | 1447 | 
-| 2023-03-04 | 6799 | 1446 | 
 

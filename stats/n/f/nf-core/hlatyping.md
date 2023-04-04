@@ -1,6 +1,6 @@
 # nf-core/hlatyping - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 38 | 26 | 
 | 2023-04-02 | 38 | 26 | 
 | 2023-04-01 | 38 | 26 | 
 | 2023-03-31 | 38 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 38 | 25 | 
 | 2023-03-06 | 38 | 25 | 
 | 2023-03-05 | 38 | 25 | 
-| 2023-03-04 | 38 | 25 | 
 

@@ -1,10 +1,10 @@
 # mertdas/PrivKit - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 117
+★ Stars: 119
 
 [Open repository](https://github.com/mertdas/PrivKit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 119 | 18 | 
 | 2023-04-02 | 117 | 17 | 
 | 2023-03-30 | 112 | 16 | 
 | 2023-03-28 | 106 | 15 | 

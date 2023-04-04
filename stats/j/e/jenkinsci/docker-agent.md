@@ -1,10 +1,10 @@
 # jenkinsci/docker-agent - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 211
+☋ Forks: 212
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/jenkinsci/docker-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 219 | 212 | 
 | 2023-04-02 | 218 | 211 | 
 | 2023-03-31 | 218 | 211 | 
 | 2023-03-29 | 218 | 211 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 217 | 208 | 
 | 2023-03-07 | 217 | 208 | 
 | 2023-03-06 | 217 | 207 | 
-| 2023-03-04 | 217 | 207 | 
 

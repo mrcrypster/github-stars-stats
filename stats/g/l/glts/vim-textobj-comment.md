@@ -1,6 +1,6 @@
 # glts/vim-textobj-comment - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 122 | 9 | 
 | 2023-04-02 | 122 | 9 | 
 | 2023-04-01 | 122 | 9 | 
 | 2023-03-30 | 121 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 120 | 9 | 
 | 2023-03-06 | 120 | 9 | 
 | 2023-03-05 | 120 | 9 | 
-| 2023-03-04 | 120 | 9 | 
 

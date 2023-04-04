@@ -1,10 +1,10 @@
 # Snapchat/snap-kit-spm - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/Snapchat/snap-kit-spm)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6 | 5 | 
+| 2023-04-03 | 6 | 5 | 
 | 2023-04-02 | 5 | 5 | 
 

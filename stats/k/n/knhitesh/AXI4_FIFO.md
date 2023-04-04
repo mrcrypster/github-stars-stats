@@ -1,6 +1,6 @@
 # knhitesh/AXI4_FIFO - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | - | 4 | 
 | 2023-04-01 | - | 4 | 
 | 2023-03-31 | - | 4 | 
 | 2023-03-29 | - | 4 | 

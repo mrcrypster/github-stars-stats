@@ -1,6 +1,6 @@
 # Xilinx/open-nic-shell - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 55 | 42 | 
 | 2023-04-02 | 55 | 42 | 
 | 2023-03-31 | 54 | 42 | 
 | 2023-03-29 | 53 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 52 | 41 | 
 | 2023-03-07 | 52 | 40 | 
 | 2023-03-06 | 52 | 40 | 
-| 2023-03-04 | 52 | 40 | 
 

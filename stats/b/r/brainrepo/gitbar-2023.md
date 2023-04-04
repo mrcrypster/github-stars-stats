@@ -1,6 +1,6 @@
 # brainrepo/gitbar-2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 19 | 7 | 
 | 2023-04-02 | 19 | 7 | 
 | 2023-03-30 | 19 | 7 | 
 | 2023-03-29 | 19 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 19 | 6 | 
 | 2023-03-07 | 19 | 6 | 
 | 2023-03-05 | 19 | 6 | 
-| 2023-03-04 | 18 | 6 | 
 

@@ -1,6 +1,6 @@
 # vinceHuyghe/turtlesim - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 13 | 
 | 2023-04-02 | - | 13 | 
 | 2023-03-30 | - | 13 | 
 | 2023-03-28 | - | 13 | 

@@ -1,10 +1,10 @@
 # Bintang73/AutoSpotify - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 14
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/Bintang73/AutoSpotify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 19 | 14 | 
 | 2023-03-31 | 20 | 14 | 
 | 2023-03-29 | 20 | 14 | 
 | 2023-03-27 | 20 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 20 | 14 | 
 | 2023-03-07 | 20 | 14 | 
 | 2023-03-05 | 20 | 14 | 
-| 2023-03-04 | 20 | 14 | 
 

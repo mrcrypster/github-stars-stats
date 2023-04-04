@@ -1,10 +1,10 @@
 # nirmata/kyverno-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/nirmata/kyverno-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 3 | 9 | 
 | 2023-04-01 | 2 | 9 | 
 | 2023-03-29 | 2 | 9 | 
 | 2023-03-27 | 1 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-09 | 1 | 8 | 
 | 2023-03-07 | 1 | 8 | 
 | 2023-03-06 | 1 | 8 | 
-| 2023-03-04 | 1 | 8 | 
 

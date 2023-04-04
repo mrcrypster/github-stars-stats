@@ -1,10 +1,10 @@
 # StreamlineDataScience/str.rdev - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/StreamlineDataScience/str.rdev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1 | 7 | 
 | 2023-03-31 | - | 7 | 
 | 2023-03-29 | - | 7 | 
 | 2023-03-27 | - | 7 | 

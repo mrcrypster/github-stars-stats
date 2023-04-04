@@ -1,6 +1,6 @@
 # Azure-Samples/github-runner-on-aks - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 8 | 21 | 
 | 2023-04-02 | 8 | 21 | 
 | 2023-04-01 | 8 | 21 | 
 | 2023-03-30 | 8 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 6 | 14 | 
 | 2023-03-06 | 6 | 14 | 
 | 2023-03-05 | 6 | 14 | 
-| 2023-03-04 | 6 | 13 | 
 

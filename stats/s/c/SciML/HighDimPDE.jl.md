@@ -1,6 +1,6 @@
 # SciML/HighDimPDE.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | 6 | 
 | 2023-04-02 | 58 | 6 | 
 | 2023-03-30 | 58 | 6 | 
 | 2023-03-28 | 58 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 58 | 5 | 
 | 2023-03-07 | 58 | 5 | 
 | 2023-03-05 | 58 | 5 | 
-| 2023-03-04 | 58 | 5 | 
 

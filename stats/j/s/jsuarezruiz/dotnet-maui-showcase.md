@@ -1,6 +1,6 @@
 # jsuarezruiz/dotnet-maui-showcase - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 557 | 92 | 
 | 2023-04-02 | 557 | 92 | 
 | 2023-03-30 | 551 | 94 | 
 | 2023-03-28 | 547 | 95 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 516 | 93 | 
 | 2023-03-07 | 511 | 93 | 
 | 2023-03-06 | 507 | 92 | 
-| 2023-03-04 | 505 | 90 | 
 

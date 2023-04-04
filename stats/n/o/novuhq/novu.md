@@ -1,10 +1,10 @@
 # novuhq/novu - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
-☋ Forks: 1293
+☋ Forks: 1298
 
-★ Stars: 19813
+★ Stars: 19850
 
 [Open repository](https://github.com/novuhq/novu)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 19850 | 1298 | 
 | 2023-04-01 | 19813 | 1293 | 
 | 2023-03-31 | 19790 | 1292 | 
 | 2023-03-29 | 19768 | 1290 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 01
 | 2023-03-08 | 19389 | 1243 | 
 | 2023-03-06 | 19345 | 1234 | 
 | 2023-03-05 | 19322 | 1229 | 
-| 2023-03-04 | 19302 | 1227 | 
 

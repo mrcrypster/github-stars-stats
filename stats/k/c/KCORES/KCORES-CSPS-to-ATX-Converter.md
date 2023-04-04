@@ -1,10 +1,10 @@
 # KCORES/KCORES-CSPS-to-ATX-Converter - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 432
+★ Stars: 434
 
 [Open repository](https://github.com/KCORES/KCORES-CSPS-to-ATX-Converter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 434 | 71 | 
 | 2023-04-02 | 432 | 70 | 
 | 2023-03-30 | 430 | 70 | 
 | 2023-03-28 | 430 | 69 | 

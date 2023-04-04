@@ -1,10 +1,10 @@
 # StefanSchroeder/Golang-Regex-Tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 01
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 141
 
-★ Stars: 1138
+★ Stars: 1137
 
 [Open repository](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 1137 | 141 | 
 | 2023-04-01 | 1138 | 141 | 
 | 2023-03-30 | 1138 | 142 | 
 | 2023-03-28 | 1138 | 142 | 

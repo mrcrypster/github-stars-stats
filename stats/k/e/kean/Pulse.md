@@ -1,10 +1,10 @@
 # kean/Pulse - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 206
+☋ Forks: 209
 
-★ Stars: 5225
+★ Stars: 5230
 
 [Open repository](https://github.com/kean/Pulse)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5230 | 209 | 
+| 2023-04-03 | 5228 | 209 | 
 | 2023-04-02 | 5225 | 206 | 
 | 2023-04-01 | 5221 | 206 | 
 | 2023-03-30 | 5220 | 207 | 

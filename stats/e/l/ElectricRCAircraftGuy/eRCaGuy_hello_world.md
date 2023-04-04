@@ -1,8 +1,8 @@
 # ElectricRCAircraftGuy/eRCaGuy_hello_world - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
-☋ Forks: 118
+☋ Forks: 119
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 64 | 119 | 
 | 2023-03-31 | 64 | 118 | 
 | 2023-03-29 | 64 | 118 | 
 | 2023-03-27 | 64 | 118 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 63 | 114 | 
 | 2023-03-07 | 63 | 114 | 
 | 2023-03-05 | 64 | 112 | 
-| 2023-03-04 | 64 | 112 | 
 

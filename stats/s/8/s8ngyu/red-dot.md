@@ -1,6 +1,6 @@
 # s8ngyu/red-dot - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 38 | 2 | 
 | 2023-04-02 | 38 | 2 | 
 | 2023-03-30 | 38 | 2 | 
 | 2023-03-28 | 38 | 2 | 

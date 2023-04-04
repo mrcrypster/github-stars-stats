@@ -1,10 +1,10 @@
 # jkrumbiegel/HotTest.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 21
 
 [Open repository](https://github.com/jkrumbiegel/HotTest.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 21 | 1 | 
 | 2023-03-31 | 22 | 1 | 
 | 2023-03-29 | 22 | 1 | 
 | 2023-03-27 | 22 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 21 | 1 | 
 | 2023-03-06 | 21 | 1 | 
 | 2023-03-05 | 21 | 1 | 
-| 2023-03-04 | 21 | 1 | 
 

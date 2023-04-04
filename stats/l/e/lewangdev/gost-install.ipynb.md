@@ -1,10 +1,10 @@
 # lewangdev/gost-install.ipynb - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
-☋ Forks: 42
+☋ Forks: 48
 
-★ Stars: 346
+★ Stars: 364
 
 [Open repository](https://github.com/lewangdev/gost-install.ipynb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 364 | 48 | 
 | 2023-04-02 | 346 | 42 | 
 | 2023-04-01 | 339 | 40 | 
 | 2023-03-31 | 328 | 39 | 

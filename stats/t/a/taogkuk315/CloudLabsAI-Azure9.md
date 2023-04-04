@@ -1,6 +1,6 @@
 # taogkuk315/CloudLabsAI-Azure9 - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 55 | 23 | 
 | 2023-04-02 | 55 | 23 | 
 | 2023-03-30 | 55 | 23 | 
 | 2023-03-28 | 55 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 55 | 23 | 
 | 2023-03-07 | 55 | 23 | 
 | 2023-03-06 | 55 | 23 | 
-| 2023-03-04 | 55 | 23 | 
 

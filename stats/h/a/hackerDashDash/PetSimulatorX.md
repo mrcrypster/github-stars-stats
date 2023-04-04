@@ -1,10 +1,10 @@
 # hackerDashDash/PetSimulatorX - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 98
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/hackerDashDash/PetSimulatorX)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 58 | 98 | 
 | 2023-04-02 | 57 | 98 | 
 | 2023-03-29 | 57 | 96 | 
 | 2023-03-28 | 56 | 96 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 52 | 90 | 
 | 2023-03-07 | 52 | 89 | 
 | 2023-03-06 | 52 | 89 | 
-| 2023-03-04 | 52 | 89 | 
 

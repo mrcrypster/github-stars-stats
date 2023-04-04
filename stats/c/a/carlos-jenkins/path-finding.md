@@ -1,6 +1,6 @@
 # carlos-jenkins/path-finding - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 5 | 4 | 
 | 2023-03-31 | 5 | 4 | 
 | 2023-03-28 | 5 | 4 | 
 | 2023-03-26 | 5 | 4 | 
@@ -32,5 +33,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 5 | 4 | 
 | 2023-03-06 | 5 | 4 | 
 | 2023-03-05 | 5 | 4 | 
-| 2023-03-04 | 5 | 4 | 
 

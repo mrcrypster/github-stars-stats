@@ -1,6 +1,6 @@
 # YuLab-SMU/ggtree - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 705 | 162 | 
 | 2023-04-02 | 705 | 162 | 
 | 2023-03-30 | 703 | 162 | 
 | 2023-03-28 | 703 | 162 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 698 | 162 | 
 | 2023-03-07 | 698 | 162 | 
 | 2023-03-06 | 698 | 162 | 
-| 2023-03-04 | 697 | 162 | 
 

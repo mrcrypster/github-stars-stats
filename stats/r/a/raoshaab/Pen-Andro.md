@@ -1,6 +1,6 @@
 # raoshaab/Pen-Andro - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 176 | 28 | 
 | 2023-04-02 | 176 | 28 | 
 | 2023-03-30 | 175 | 28 | 
 | 2023-03-28 | 175 | 28 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 171 | 27 | 
 | 2023-03-06 | 171 | 27 | 
 | 2023-03-05 | 171 | 27 | 
-| 2023-03-04 | 171 | 27 | 
 

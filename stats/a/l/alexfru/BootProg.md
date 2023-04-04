@@ -1,10 +1,10 @@
 # alexfru/BootProg - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 11
 
-★ Stars: 77
+★ Stars: 76
 
 [Open repository](https://github.com/alexfru/BootProg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 76 | 11 | 
 | 2023-04-02 | 77 | 11 | 
 | 2023-03-31 | 77 | 11 | 
 | 2023-03-29 | 77 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 77 | 11 | 
 | 2023-03-07 | 77 | 11 | 
 | 2023-03-06 | 77 | 11 | 
-| 2023-03-04 | 77 | 11 | 
 

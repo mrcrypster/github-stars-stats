@@ -1,6 +1,6 @@
 # Faraz1243/OpenSourse-Static-Web-Templates - stars & forks statistics
 
-Stats updated on Mar 2023, 31
+Stats updated on Apr 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-03 | 4 | 18 | 
 | 2023-03-31 | 4 | 18 | 
 | 2023-03-29 | 4 | 18 | 
 | 2023-03-28 | 4 | 18 | 
@@ -33,5 +34,4 @@ Stats updated on Mar 2023, 31
 | 2023-03-08 | 4 | 19 | 
 | 2023-03-07 | 4 | 19 | 
 | 2023-03-05 | 4 | 19 | 
-| 2023-03-04 | 4 | 19 | 
 
