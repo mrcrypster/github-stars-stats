@@ -1,6 +1,6 @@
 # seanbaxter/circle - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1757 | 56 | 
 | 2023-04-03 | 1757 | 56 | 
 | 2023-04-02 | 1756 | 56 | 
 | 2023-03-31 | 1755 | 56 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1739 | 58 | 
 | 2023-03-08 | 1735 | 58 | 
 | 2023-03-06 | 1734 | 58 | 
-| 2023-03-05 | 1734 | 58 | 
 

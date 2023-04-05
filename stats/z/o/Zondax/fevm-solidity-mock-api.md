@@ -1,6 +1,6 @@
 # Zondax/fevm-solidity-mock-api - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5 | 7 | 
 | 2023-04-03 | 5 | 7 | 
 | 2023-03-31 | 5 | 7 | 
 | 2023-03-29 | 5 | 7 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 6 | 7 | 
 | 2023-03-09 | 6 | 7 | 
 | 2023-03-07 | 6 | 7 | 
-| 2023-03-06 | 6 | 7 | 
 

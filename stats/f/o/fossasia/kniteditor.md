@@ -1,6 +1,6 @@
 # fossasia/kniteditor - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1506 | 29 | 
 | 2023-04-03 | 1506 | 29 | 
 | 2023-03-31 | 1507 | 29 | 
 | 2023-03-29 | 1508 | 29 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1511 | 29 | 
 | 2023-03-08 | 1511 | 29 | 
 | 2023-03-07 | 1512 | 29 | 
-| 2023-03-05 | 1512 | 29 | 
 

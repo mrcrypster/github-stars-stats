@@ -1,8 +1,8 @@
 # WarpCloud/walm - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 41
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 41 | 7 | 
+| 2023-04-04 | 41 | 7 | 
 | 2023-04-03 | 41 | 6 | 
 | 2023-04-01 | 41 | 6 | 
 | 2023-03-31 | 41 | 6 | 

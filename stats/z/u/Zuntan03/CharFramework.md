@@ -1,10 +1,10 @@
 # Zuntan03/CharFramework - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 91
+★ Stars: 95
 
 [Open repository](https://github.com/Zuntan03/CharFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 95 | 5 | 
 | 2023-04-03 | 91 | 3 | 
 | 2023-04-02 | 90 | 3 | 
 | 2023-03-31 | 88 | 3 | 

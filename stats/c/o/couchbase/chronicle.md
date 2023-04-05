@@ -1,10 +1,10 @@
 # couchbase/chronicle - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/couchbase/chronicle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | 6 | 
 | 2023-04-03 | 10 | 6 | 
 | 2023-04-01 | 10 | 6 | 
 | 2023-03-29 | 10 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 10 | 6 | 
 | 2023-03-07 | 10 | 6 | 
 | 2023-03-06 | 10 | 6 | 
-| 2023-03-05 | 10 | 6 | 
 

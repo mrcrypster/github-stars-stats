@@ -1,6 +1,6 @@
 # 0x7ff/gaster - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 151 | 58 | 
 | 2023-04-03 | 151 | 58 | 
 | 2023-03-31 | 151 | 57 | 
 | 2023-03-29 | 149 | 57 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 144 | 55 | 
 | 2023-03-07 | 144 | 55 | 
 | 2023-03-06 | 144 | 54 | 
-| 2023-03-05 | 144 | 54 | 
 

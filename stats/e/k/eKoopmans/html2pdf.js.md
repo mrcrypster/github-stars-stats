@@ -1,8 +1,8 @@
 # eKoopmans/html2pdf.js - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1227
+☋ Forks: 1228
 
 ★ Stars: 3128
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3128 | 1228 | 
 | 2023-04-03 | 3128 | 1227 | 
 | 2023-04-01 | 3129 | 1227 | 
 | 2023-03-29 | 3125 | 1226 | 

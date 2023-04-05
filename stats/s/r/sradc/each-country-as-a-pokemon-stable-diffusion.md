@@ -1,10 +1,10 @@
 # sradc/each-country-as-a-pokemon-stable-diffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/sradc/each-country-as-a-pokemon-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 110 | 4 | 
 | 2023-04-03 | 109 | 4 | 
 | 2023-03-31 | 109 | 4 | 
 | 2023-03-29 | 109 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 109 | 4 | 
 | 2023-03-08 | 109 | 4 | 
 | 2023-03-07 | 109 | 4 | 
-| 2023-03-05 | 109 | 4 | 
 

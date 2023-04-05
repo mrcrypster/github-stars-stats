@@ -1,10 +1,10 @@
 # wstaeblein/texthighlighter - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/wstaeblein/texthighlighter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 132 | 3 | 
 | 2023-04-03 | 130 | 3 | 
 | 2023-04-01 | 125 | 3 | 
 | 2023-03-31 | 120 | 3 | 

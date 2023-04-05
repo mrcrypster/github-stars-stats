@@ -1,10 +1,10 @@
 # svenvc/NeoCSV - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 11
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/svenvc/NeoCSV)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 22 | 11 | 
 | 2023-04-03 | 21 | 11 | 
 | 2023-04-02 | 21 | 11 | 
 | 2023-03-30 | 21 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 21 | 11 | 
 | 2023-03-08 | 22 | 11 | 
 | 2023-03-06 | 22 | 11 | 
-| 2023-03-05 | 22 | 11 | 
 

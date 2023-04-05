@@ -1,10 +1,10 @@
 # Shopify/shopify-app-template-php - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 55
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/Shopify/shopify-app-template-php)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 148 | 55 | 
 | 2023-04-03 | 147 | 55 | 
 | 2023-04-02 | 147 | 55 | 
 | 2023-03-31 | 147 | 55 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 142 | 49 | 
 | 2023-03-07 | 142 | 49 | 
 | 2023-03-06 | 142 | 49 | 
-| 2023-03-05 | 141 | 49 | 
 

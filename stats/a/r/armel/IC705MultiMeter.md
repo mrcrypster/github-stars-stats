@@ -1,6 +1,6 @@
 # armel/IC705MultiMeter - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 41 | 2 | 
 | 2023-04-03 | 41 | 2 | 
 | 2023-04-02 | 41 | 2 | 
 | 2023-03-31 | 41 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 41 | 2 | 
 | 2023-03-08 | 41 | 2 | 
 | 2023-03-07 | 41 | 2 | 
-| 2023-03-06 | 41 | 2 | 
 

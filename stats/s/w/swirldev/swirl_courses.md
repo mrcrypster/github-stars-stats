@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 7213
 
-★ Stars: 4043
+★ Stars: 4044
 
 [Open repository](https://github.com/swirldev/swirl_courses)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 4043 | 7213 | 
+| 2023-04-04 | 4044 | 7213 | 
 | 2023-04-03 | 4043 | 7213 | 
 | 2023-03-31 | 4043 | 7213 | 
 | 2023-03-29 | 4043 | 7211 | 

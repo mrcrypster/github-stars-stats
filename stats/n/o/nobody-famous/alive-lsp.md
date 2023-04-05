@@ -1,10 +1,10 @@
 # nobody-famous/alive-lsp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 32
+★ Stars: 31
 
 [Open repository](https://github.com/nobody-famous/alive-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 31 | 3 | 
 | 2023-04-03 | 32 | 3 | 
 | 2023-03-31 | 30 | 3 | 
 | 2023-03-29 | 30 | 3 | 

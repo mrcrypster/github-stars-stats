@@ -1,6 +1,6 @@
 # gokadzev/Musify - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 613 | 49 | 
 | 2023-04-03 | 613 | 49 | 
 | 2023-04-02 | 606 | 49 | 
 | 2023-04-01 | 603 | 49 | 

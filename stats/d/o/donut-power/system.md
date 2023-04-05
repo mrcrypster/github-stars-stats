@@ -1,6 +1,6 @@
 # donut-power/system - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 125 | 6 | 
 | 2023-04-03 | 125 | 6 | 
 | 2023-04-02 | 126 | 6 | 
 | 2023-03-30 | 124 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 122 | 5 | 
 | 2023-03-08 | 122 | 5 | 
 | 2023-03-07 | 122 | 5 | 
-| 2023-03-05 | 122 | 5 | 
 

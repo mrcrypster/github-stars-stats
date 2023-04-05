@@ -1,10 +1,10 @@
 # all-contributors/all-contributors - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1759
 
-★ Stars: 6929
+★ Stars: 6930
 
 [Open repository](https://github.com/all-contributors/all-contributors)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6930 | 1759 | 
 | 2023-04-03 | 6929 | 1759 | 
 | 2023-04-02 | 6927 | 1759 | 
 | 2023-04-01 | 6925 | 1758 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 6890 | 1749 | 
 | 2023-03-08 | 6887 | 1748 | 
 | 2023-03-07 | 6882 | 1747 | 
-| 2023-03-05 | 6880 | 1748 | 
 

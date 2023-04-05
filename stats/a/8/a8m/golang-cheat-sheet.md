@@ -1,6 +1,6 @@
 # a8m/golang-cheat-sheet - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1015
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7500 | 1015 | 
 | 2023-04-02 | 7500 | 1015 | 
 | 2023-03-30 | 7492 | 1014 | 
 | 2023-03-28 | 7485 | 1012 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-10 | 7439 | 1004 | 
 | 2023-03-08 | 7437 | 1004 | 
 | 2023-03-07 | 7432 | 1004 | 
-| 2023-03-05 | 7424 | 1003 | 
 

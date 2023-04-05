@@ -1,8 +1,8 @@
 # ErickWendel/semana-javascript-expert07 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 575
+☋ Forks: 574
 
 ★ Stars: 2418
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2418 | 574 | 
 | 2023-04-03 | 2418 | 575 | 
 | 2023-04-02 | 2419 | 575 | 
 | 2023-04-01 | 2419 | 575 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2411 | 594 | 
 | 2023-03-08 | 2404 | 597 | 
 | 2023-03-07 | 2403 | 600 | 
-| 2023-03-05 | 2334 | 554 | 
 

@@ -1,10 +1,10 @@
 # drshahizan/special-topic-data-engineering - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 56
 
-★ Stars: 51
+★ Stars: 53
 
 [Open repository](https://github.com/drshahizan/special-topic-data-engineering)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 53 | 56 | 
 | 2023-04-03 | 51 | 56 | 
 | 2023-04-01 | 48 | 56 | 
 | 2023-03-31 | 48 | 56 | 

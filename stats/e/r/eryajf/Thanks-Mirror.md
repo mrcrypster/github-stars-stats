@@ -1,10 +1,10 @@
 # eryajf/Thanks-Mirror - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 150
 
-★ Stars: 2048
+★ Stars: 2047
 
 [Open repository](https://github.com/eryajf/Thanks-Mirror)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2047 | 150 | 
 | 2023-04-03 | 2048 | 150 | 
 | 2023-04-01 | 2047 | 151 | 
 | 2023-03-30 | 2043 | 151 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2020 | 150 | 
 | 2023-03-08 | 2020 | 150 | 
 | 2023-03-06 | 2018 | 150 | 
-| 2023-03-05 | 2017 | 151 | 
 

@@ -1,10 +1,10 @@
 # NEZNAMY/TAB - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 195
 
-★ Stars: 644
+★ Stars: 643
 
 [Open repository](https://github.com/NEZNAMY/TAB)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 643 | 195 | 
 | 2023-04-03 | 644 | 195 | 
 | 2023-04-01 | 642 | 196 | 
 | 2023-03-31 | 641 | 196 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 627 | 192 | 
 | 2023-03-08 | 626 | 191 | 
 | 2023-03-06 | 627 | 191 | 
-| 2023-03-05 | 628 | 190 | 
 

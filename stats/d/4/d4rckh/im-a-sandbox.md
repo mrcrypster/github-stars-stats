@@ -1,10 +1,10 @@
 # d4rckh/im-a-sandbox - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/d4rckh/im-a-sandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 29 | 1 | 
 | 2023-04-03 | 28 | 1 | 
 | 2023-04-01 | 28 | 1 | 
 | 2023-03-31 | 28 | 1 | 

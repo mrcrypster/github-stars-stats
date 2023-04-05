@@ -1,10 +1,10 @@
 # riimuru/gogoanime-api - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 110
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/riimuru/gogoanime-api)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 412 | 110 | 
 | 2023-04-03 | 411 | 110 | 
 | 2023-04-02 | 408 | 110 | 
 | 2023-03-31 | 405 | 108 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 384 | 101 | 
 | 2023-03-08 | 380 | 101 | 
 | 2023-03-06 | 378 | 100 | 
-| 2023-03-05 | 377 | 100 | 
 

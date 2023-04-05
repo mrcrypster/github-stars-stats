@@ -1,10 +1,10 @@
 # SilentNightSound/GI-Model-Importer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 224
 
-★ Stars: 868
+★ Stars: 870
 
 [Open repository](https://github.com/SilentNightSound/GI-Model-Importer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 870 | 224 | 
 | 2023-04-03 | 868 | 224 | 
 | 2023-04-02 | 864 | 223 | 
 | 2023-03-30 | 861 | 222 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 812 | 206 | 
 | 2023-03-07 | 804 | 204 | 
 | 2023-03-06 | 794 | 204 | 
-| 2023-03-05 | 791 | 203 | 
 

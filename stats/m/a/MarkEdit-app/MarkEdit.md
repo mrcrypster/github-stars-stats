@@ -1,10 +1,10 @@
 # MarkEdit-app/MarkEdit - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 20
 
-★ Stars: 481
+★ Stars: 483
 
 [Open repository](https://github.com/MarkEdit-app/MarkEdit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 483 | 20 | 
 | 2023-04-03 | 481 | 20 | 
 | 2023-04-02 | 479 | 20 | 
 | 2023-03-31 | 477 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 409 | 17 | 
 | 2023-03-07 | 405 | 15 | 
 | 2023-03-06 | 403 | 15 | 
-| 2023-03-05 | 401 | 15 | 
 

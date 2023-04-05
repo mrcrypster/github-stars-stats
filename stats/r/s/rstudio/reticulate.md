@@ -1,10 +1,10 @@
 # rstudio/reticulate - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 316
+☋ Forks: 317
 
-★ Stars: 1512
+★ Stars: 1513
 
 [Open repository](https://github.com/rstudio/reticulate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1513 | 317 | 
 | 2023-04-03 | 1512 | 316 | 
 | 2023-04-01 | 1512 | 316 | 
 | 2023-03-31 | 1512 | 316 | 

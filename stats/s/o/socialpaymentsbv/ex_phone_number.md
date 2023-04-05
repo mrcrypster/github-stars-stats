@@ -1,6 +1,6 @@
 # socialpaymentsbv/ex_phone_number - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 215 | 50 | 
 | 2023-04-03 | 215 | 50 | 
 | 2023-04-02 | 214 | 49 | 
 | 2023-04-01 | 214 | 49 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 205 | 47 | 
 | 2023-03-08 | 204 | 47 | 
 | 2023-03-06 | 204 | 47 | 
-| 2023-03-05 | 204 | 47 | 
 

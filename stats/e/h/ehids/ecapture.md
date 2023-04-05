@@ -1,10 +1,10 @@
 # ehids/ecapture - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 663
+☋ Forks: 664
 
-★ Stars: 6405
+★ Stars: 6411
 
 [Open repository](https://github.com/ehids/ecapture)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 6411 | 664 | 
 | 2023-04-03 | 6405 | 663 | 
 | 2023-04-02 | 6397 | 663 | 
 | 2023-03-31 | 6387 | 662 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 6213 | 637 | 
 | 2023-03-08 | 6197 | 637 | 
 | 2023-03-06 | 6179 | 636 | 
-| 2023-03-05 | 6158 | 636 | 
 

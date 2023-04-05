@@ -1,6 +1,6 @@
 # PoisonAlien/maftools - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 363 | 207 | 
 | 2023-04-03 | 363 | 207 | 
 | 2023-04-01 | 363 | 206 | 
 | 2023-03-30 | 363 | 206 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 362 | 205 | 
 | 2023-03-08 | 362 | 205 | 
 | 2023-03-07 | 361 | 205 | 
-| 2023-03-05 | 361 | 205 | 
 

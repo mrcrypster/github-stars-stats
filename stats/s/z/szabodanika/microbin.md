@@ -1,10 +1,10 @@
 # szabodanika/microbin - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 82
 
-★ Stars: 1148
+★ Stars: 1150
 
 [Open repository](https://github.com/szabodanika/microbin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1150 | 82 | 
 | 2023-04-03 | 1148 | 82 | 
 | 2023-04-02 | 1149 | 81 | 
 | 2023-03-31 | 1144 | 80 | 

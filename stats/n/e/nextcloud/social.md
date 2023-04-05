@@ -1,10 +1,10 @@
 # nextcloud/social - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 55
 
-★ Stars: 443
+★ Stars: 444
 
 [Open repository](https://github.com/nextcloud/social)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 444 | 55 | 
 | 2023-04-03 | 443 | 55 | 
 | 2023-04-01 | 442 | 55 | 
 | 2023-03-31 | 442 | 55 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 439 | 54 | 
 | 2023-03-08 | 439 | 54 | 
 | 2023-03-07 | 439 | 54 | 
-| 2023-03-05 | 439 | 54 | 
 

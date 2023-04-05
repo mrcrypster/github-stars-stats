@@ -1,6 +1,6 @@
 # dathinaios/Cactus - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 1 | 
 | 2023-04-03 | 17 | 1 | 
 | 2023-04-02 | 17 | 1 | 
 | 2023-03-31 | 17 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 17 | 1 | 
 | 2023-03-08 | 17 | 1 | 
 | 2023-03-06 | 17 | 1 | 
-| 2023-03-05 | 17 | 1 | 
 

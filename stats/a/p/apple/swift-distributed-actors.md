@@ -1,6 +1,6 @@
 # apple/swift-distributed-actors - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 488 | 44 | 
 | 2023-04-02 | 488 | 44 | 
 | 2023-04-01 | 488 | 44 | 
 | 2023-03-30 | 487 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 482 | 43 | 
 | 2023-03-08 | 482 | 43 | 
 | 2023-03-06 | 479 | 43 | 
-| 2023-03-05 | 479 | 43 | 
 

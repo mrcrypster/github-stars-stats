@@ -1,10 +1,10 @@
 # mztacat/Deploy-a-Simple-Contract-on-EVM - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/mztacat/Deploy-a-Simple-Contract-on-EVM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 14 | 3 | 
 | 2023-04-03 | 12 | 1 | 
 | 2023-04-02 | 12 | 1 | 
 | 2023-03-31 | 11 | 1 | 

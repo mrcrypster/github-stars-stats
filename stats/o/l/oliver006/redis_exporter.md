@@ -1,8 +1,8 @@
 # oliver006/redis_exporter - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 806
+☋ Forks: 807
 
 ★ Stars: 2590
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2590 | 807 | 
 | 2023-04-03 | 2590 | 806 | 
 | 2023-03-31 | 2584 | 806 | 
 | 2023-03-29 | 2582 | 805 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 2560 | 796 | 
 | 2023-03-08 | 2558 | 795 | 
 | 2023-03-07 | 2555 | 795 | 
-| 2023-03-05 | 2554 | 795 | 
 

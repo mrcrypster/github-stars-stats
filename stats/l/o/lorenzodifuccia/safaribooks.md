@@ -1,10 +1,10 @@
 # lorenzodifuccia/safaribooks - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 629
 
-★ Stars: 4108
+★ Stars: 4109
 
 [Open repository](https://github.com/lorenzodifuccia/safaribooks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4109 | 629 | 
 | 2023-04-03 | 4108 | 629 | 
 | 2023-03-30 | 4108 | 630 | 
 | 2023-03-28 | 4106 | 630 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 4083 | 627 | 
 | 2023-03-07 | 4078 | 627 | 
 | 2023-03-06 | 4077 | 627 | 
-| 2023-03-05 | 4076 | 627 | 
 

@@ -1,10 +1,10 @@
 # snowie2000/mactype - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 421
 
-★ Stars: 8405
+★ Stars: 8411
 
 [Open repository](https://github.com/snowie2000/mactype)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 8411 | 421 | 
 | 2023-04-03 | 8405 | 421 | 
 | 2023-04-02 | 8402 | 421 | 
 | 2023-03-31 | 8395 | 420 | 

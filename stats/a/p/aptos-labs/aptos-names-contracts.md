@@ -1,6 +1,6 @@
 # aptos-labs/aptos-names-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 41 | 14 | 
 | 2023-04-03 | 41 | 14 | 
 | 2023-03-31 | 40 | 13 | 
 | 2023-03-29 | 40 | 13 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 39 | 12 | 
 | 2023-03-08 | 39 | 12 | 
 | 2023-03-07 | 39 | 12 | 
-| 2023-03-05 | 39 | 12 | 
 

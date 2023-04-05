@@ -1,10 +1,10 @@
 # newaetech/chipwhisperer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 253
 
-★ Stars: 850
+★ Stars: 851
 
 [Open repository](https://github.com/newaetech/chipwhisperer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 851 | 253 | 
 | 2023-04-03 | 850 | 253 | 
 | 2023-04-02 | 850 | 253 | 
 | 2023-03-30 | 850 | 253 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 836 | 251 | 
 | 2023-03-08 | 836 | 251 | 
 | 2023-03-07 | 835 | 251 | 
-| 2023-03-05 | 834 | 251 | 
 

@@ -1,10 +1,10 @@
 # patrickjquinn/project-warpcode - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/patrickjquinn/project-warpcode)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 35 | 3 | 
 | 2023-04-03 | 34 | 3 | 
 | 2023-03-31 | 34 | 3 | 
 | 2023-03-29 | 34 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 33 | 3 | 
 | 2023-03-07 | 33 | 3 | 
 | 2023-03-06 | 33 | 3 | 
-| 2023-03-05 | 34 | 3 | 
 

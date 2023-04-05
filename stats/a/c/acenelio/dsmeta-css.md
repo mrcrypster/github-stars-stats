@@ -1,6 +1,6 @@
 # acenelio/dsmeta-css - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 29 | 44 | 
 | 2023-04-03 | 29 | 44 | 
 | 2023-04-01 | 29 | 44 | 
 | 2023-03-29 | 29 | 44 | 

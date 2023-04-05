@@ -1,6 +1,6 @@
 # eczarny/spectacle - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 825
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 13527 | 825 | 
 | 2023-04-03 | 13527 | 825 | 
 | 2023-04-02 | 13525 | 825 | 
 | 2023-03-30 | 13526 | 827 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 13513 | 826 | 
 | 2023-03-09 | 13512 | 826 | 
 | 2023-03-07 | 13514 | 826 | 
-| 2023-03-05 | 13514 | 826 | 
 

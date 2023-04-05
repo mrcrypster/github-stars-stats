@@ -1,10 +1,10 @@
 # kubeedge/kubeedge - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1504
 
-★ Stars: 5743
+★ Stars: 5747
 
 [Open repository](https://github.com/kubeedge/kubeedge)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5747 | 1504 | 
 | 2023-04-03 | 5743 | 1504 | 
 | 2023-04-01 | 5739 | 1503 | 
 | 2023-03-30 | 5732 | 1499 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 5688 | 1489 | 
 | 2023-03-08 | 5683 | 1487 | 
 | 2023-03-07 | 5680 | 1486 | 
-| 2023-03-06 | 5677 | 1485 | 
 

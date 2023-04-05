@@ -1,6 +1,6 @@
 # maple-labs/proxy-factory - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 22 | 6 | 
 | 2023-04-03 | 22 | 6 | 
 | 2023-04-02 | 22 | 6 | 
 | 2023-03-31 | 22 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 21 | 6 | 
 | 2023-03-08 | 21 | 6 | 
 | 2023-03-07 | 20 | 6 | 
-| 2023-03-05 | 20 | 6 | 
 

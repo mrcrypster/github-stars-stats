@@ -1,10 +1,10 @@
 # yeszao/dnmp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1311
 
-★ Stars: 3467
+★ Stars: 3470
 
 [Open repository](https://github.com/yeszao/dnmp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3470 | 1311 | 
 | 2023-04-03 | 3467 | 1311 | 
 | 2023-04-02 | 3464 | 1311 | 
 | 2023-03-31 | 3464 | 1311 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 3446 | 1303 | 
 | 2023-03-08 | 3443 | 1303 | 
 | 2023-03-07 | 3440 | 1302 | 
-| 2023-03-05 | 3438 | 1302 | 
 

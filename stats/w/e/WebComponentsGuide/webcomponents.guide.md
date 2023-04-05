@@ -1,6 +1,6 @@
 # WebComponentsGuide/webcomponents.guide - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 61 | 5 | 
 | 2023-04-03 | 61 | 5 | 
 | 2023-04-02 | 61 | 5 | 
 | 2023-03-30 | 61 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 59 | 5 | 
 | 2023-03-08 | 58 | 5 | 
 | 2023-03-06 | 58 | 5 | 
-| 2023-03-05 | 58 | 5 | 
 

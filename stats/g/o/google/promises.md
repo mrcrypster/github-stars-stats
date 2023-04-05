@@ -1,6 +1,6 @@
 # google/promises - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3724 | 285 | 
 | 2023-04-03 | 3724 | 285 | 
 | 2023-04-02 | 3722 | 284 | 
 | 2023-04-01 | 3721 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 3719 | 283 | 
 | 2023-03-07 | 3719 | 283 | 
 | 2023-03-06 | 3719 | 283 | 
-| 2023-03-05 | 3718 | 282 | 
 

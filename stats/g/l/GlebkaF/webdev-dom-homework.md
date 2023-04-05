@@ -1,8 +1,8 @@
 # GlebkaF/webdev-dom-homework - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 56
+☋ Forks: 59
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | - | 59 | 
+| 2023-04-04 | - | 59 | 
 | 2023-04-03 | - | 56 | 
 | 2023-04-02 | - | 52 | 
 | 2023-03-30 | - | 51 | 

@@ -1,10 +1,10 @@
 # cmdparkour/vue-admin-box - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 216
 
-★ Stars: 1307
+★ Stars: 1311
 
 [Open repository](https://github.com/cmdparkour/vue-admin-box)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1311 | 216 | 
 | 2023-04-03 | 1307 | 216 | 
 | 2023-04-02 | 1305 | 216 | 
 | 2023-04-01 | 1304 | 216 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 1193 | 208 | 
 | 2023-03-08 | 1193 | 208 | 
 | 2023-03-07 | 1192 | 208 | 
-| 2023-03-06 | 1188 | 208 | 
 

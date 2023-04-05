@@ -1,10 +1,10 @@
 # sirupsen/napkin-math - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 97
 
-★ Stars: 2226
+★ Stars: 2229
 
 [Open repository](https://github.com/sirupsen/napkin-math)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2229 | 97 | 
 | 2023-04-03 | 2226 | 97 | 
 | 2023-03-31 | 2222 | 96 | 
 | 2023-03-29 | 2221 | 95 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2205 | 95 | 
 | 2023-03-08 | 2205 | 95 | 
 | 2023-03-06 | 2205 | 95 | 
-| 2023-03-05 | 2204 | 95 | 
 

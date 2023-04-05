@@ -1,6 +1,6 @@
 # DrB0rk/Flipper-Zero-Boards - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 226 | 13 | 
 | 2023-04-03 | 226 | 13 | 
 | 2023-04-01 | 225 | 13 | 
 | 2023-03-30 | 224 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 206 | 13 | 
 | 2023-03-08 | 206 | 13 | 
 | 2023-03-06 | 205 | 13 | 
-| 2023-03-05 | 205 | 13 | 
 

@@ -1,6 +1,6 @@
 # ccurtsinger/stabilizer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 516 | 43 | 
 | 2023-04-03 | 516 | 43 | 
 | 2023-04-02 | 516 | 43 | 
 | 2023-03-30 | 516 | 43 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 515 | 43 | 
 | 2023-03-08 | 515 | 43 | 
 | 2023-03-07 | 515 | 43 | 
-| 2023-03-05 | 515 | 43 | 
 

@@ -1,10 +1,10 @@
 # threatexpress/red-team-scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 190
 
-★ Stars: 1059
+★ Stars: 1060
 
 [Open repository](https://github.com/threatexpress/red-team-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1060 | 190 | 
 | 2023-04-03 | 1059 | 190 | 
 | 2023-03-31 | 1059 | 190 | 
 | 2023-03-29 | 1058 | 190 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1055 | 190 | 
 | 2023-03-07 | 1055 | 190 | 
 | 2023-03-06 | 1054 | 190 | 
-| 2023-03-05 | 1055 | 190 | 
 

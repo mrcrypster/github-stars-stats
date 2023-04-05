@@ -1,10 +1,10 @@
 # Azure/azure-sdk-for-net - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 4022
+☋ Forks: 4027
 
-★ Stars: 4502
+★ Stars: 4506
 
 [Open repository](https://github.com/Azure/azure-sdk-for-net)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4506 | 4027 | 
 | 2023-04-03 | 4502 | 4022 | 
 | 2023-03-31 | 4502 | 4021 | 
 | 2023-03-29 | 4500 | 4016 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 4461 | 3973 | 
 | 2023-03-07 | 4462 | 3971 | 
 | 2023-03-06 | 4458 | 3968 | 
-| 2023-03-05 | 4457 | 3968 | 
 

@@ -1,10 +1,10 @@
 # chrisamaphone/interactive-lp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 20
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/chrisamaphone/interactive-lp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 255 | 20 | 
 | 2023-04-03 | 254 | 20 | 
 | 2023-04-02 | 254 | 20 | 
 | 2023-03-30 | 254 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 254 | 20 | 
 | 2023-03-07 | 253 | 20 | 
 | 2023-03-06 | 253 | 20 | 
-| 2023-03-05 | 253 | 20 | 
 

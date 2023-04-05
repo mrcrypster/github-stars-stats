@@ -1,6 +1,6 @@
 # hackergrrl/art-of-readme - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 431
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 6900 | 431 | 
 | 2023-04-03 | 6900 | 431 | 
 | 2023-04-02 | 6900 | 431 | 
 | 2023-03-29 | 6899 | 431 | 

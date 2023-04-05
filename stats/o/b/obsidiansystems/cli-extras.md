@@ -1,6 +1,6 @@
 # obsidiansystems/cli-extras - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4 | 1 | 
 | 2023-04-02 | 4 | 1 | 
 | 2023-03-30 | 4 | 1 | 
 | 2023-03-28 | 4 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 4 | 1 | 
 | 2023-03-07 | 4 | 1 | 
 | 2023-03-06 | 4 | 1 | 
-| 2023-03-05 | 4 | 1 | 
 

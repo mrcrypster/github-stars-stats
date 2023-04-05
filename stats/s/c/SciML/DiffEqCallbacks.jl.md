@@ -1,10 +1,10 @@
 # SciML/DiffEqCallbacks.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 29
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/SciML/DiffEqCallbacks.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 50 | 29 | 
 | 2023-04-03 | 48 | 29 | 
 | 2023-04-02 | 48 | 29 | 
 | 2023-03-30 | 47 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 46 | 28 | 
 | 2023-03-08 | 46 | 28 | 
 | 2023-03-06 | 46 | 28 | 
-| 2023-03-05 | 46 | 28 | 
 

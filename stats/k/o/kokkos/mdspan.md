@@ -1,6 +1,6 @@
 # kokkos/mdspan - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 265 | 47 | 
 | 2023-04-03 | 265 | 47 | 
 | 2023-04-01 | 264 | 47 | 
 | 2023-03-31 | 264 | 47 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 256 | 47 | 
 | 2023-03-08 | 255 | 47 | 
 | 2023-03-06 | 254 | 47 | 
-| 2023-03-05 | 254 | 47 | 
 

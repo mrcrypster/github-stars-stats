@@ -1,6 +1,6 @@
 # hcengineering/anticrm - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 23 | 1 | 
 | 2023-04-03 | 23 | 1 | 
 | 2023-03-31 | 23 | 1 | 
 | 2023-03-29 | 23 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 23 | 1 | 
 | 2023-03-08 | 23 | 1 | 
 | 2023-03-06 | 23 | 1 | 
-| 2023-03-05 | 23 | 1 | 
 

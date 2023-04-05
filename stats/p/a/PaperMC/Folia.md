@@ -1,10 +1,10 @@
 # PaperMC/Folia - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 1115
+★ Stars: 1142
 
 [Open repository](https://github.com/PaperMC/Folia)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1142 | 57 | 
 | 2023-04-03 | 1115 | 56 | 
 | 2023-04-02 | 997 | 51 | 
 | 2023-04-01 | 850 | 40 | 

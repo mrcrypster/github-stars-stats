@@ -1,6 +1,6 @@
 # Netflix/Hystrix - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4692
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 23293 | 4692 | 
 | 2023-04-03 | 23293 | 4692 | 
 | 2023-04-01 | 23289 | 4691 | 
 | 2023-03-30 | 23283 | 4689 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 23235 | 4680 | 
 | 2023-03-08 | 23231 | 4680 | 
 | 2023-03-06 | 23226 | 4680 | 
-| 2023-03-05 | 23221 | 4679 | 
 

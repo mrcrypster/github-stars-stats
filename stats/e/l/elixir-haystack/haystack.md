@@ -1,10 +1,10 @@
 # elixir-haystack/haystack - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 100
+★ Stars: 102
 
 [Open repository](https://github.com/elixir-haystack/haystack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 102 | - | 
 | 2023-04-03 | 100 | - | 
 | 2023-04-01 | 97 | - | 
 | 2023-03-31 | 97 | - | 

@@ -1,10 +1,10 @@
 # microsoft/DirectStorage - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 62
 
-★ Stars: 468
+★ Stars: 469
 
 [Open repository](https://github.com/microsoft/DirectStorage)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 469 | 62 | 
 | 2023-04-03 | 468 | 62 | 
 | 2023-04-02 | 467 | 62 | 
 | 2023-03-31 | 465 | 62 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 450 | 59 | 
 | 2023-03-08 | 450 | 59 | 
 | 2023-03-06 | 450 | 59 | 
-| 2023-03-05 | 448 | 59 | 
 

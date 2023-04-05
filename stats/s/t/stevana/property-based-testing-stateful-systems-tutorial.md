@@ -1,6 +1,6 @@
 # stevana/property-based-testing-stateful-systems-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 52 | - | 
 | 2023-04-03 | 52 | - | 
 | 2023-03-30 | 52 | - | 
 | 2023-03-28 | 53 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 53 | - | 
 | 2023-03-08 | 53 | - | 
 | 2023-03-07 | 53 | - | 
-| 2023-03-05 | 53 | - | 
 

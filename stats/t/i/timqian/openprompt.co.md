@@ -1,10 +1,10 @@
 # timqian/openprompt.co - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 602
+★ Stars: 622
 
 [Open repository](https://github.com/timqian/openprompt.co)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 622 | 20 | 
 | 2023-04-03 | 602 | 19 | 
 | 2023-04-02 | 569 | 14 | 
 | 2023-04-01 | 502 | 13 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 391
+☋ Forks: 392
 
-★ Stars: 1008
+★ Stars: 1009
 
 [Open repository](https://github.com/BIMK/PlatEMO)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1008 | 391 | 
+| 2023-04-04 | 1009 | 392 | 
 | 2023-04-03 | 1007 | 391 | 
 | 2023-04-02 | 1004 | 391 | 
 | 2023-03-30 | 1003 | 390 | 

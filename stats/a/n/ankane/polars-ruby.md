@@ -1,10 +1,10 @@
 # ankane/polars-ruby - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 531
+★ Stars: 532
 
 [Open repository](https://github.com/ankane/polars-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 532 | 8 | 
 | 2023-04-03 | 531 | 8 | 
 | 2023-04-01 | 530 | 8 | 
 | 2023-03-31 | 530 | 8 | 

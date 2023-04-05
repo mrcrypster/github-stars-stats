@@ -1,6 +1,6 @@
 # madgen/exalog - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 2 | 
 | 2023-04-03 | 17 | 2 | 
 | 2023-04-01 | 17 | 2 | 
 | 2023-03-31 | 17 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 17 | 2 | 
 | 2023-03-08 | 17 | 2 | 
 | 2023-03-06 | 17 | 2 | 
-| 2023-03-05 | 17 | 2 | 
 

@@ -1,10 +1,10 @@
 # elixir-nx/scholar - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 17
 
-★ Stars: 193
+★ Stars: 196
 
 [Open repository](https://github.com/elixir-nx/scholar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 196 | 17 | 
 | 2023-04-03 | 193 | 17 | 
 | 2023-04-02 | 188 | 16 | 
 | 2023-04-01 | 188 | 16 | 

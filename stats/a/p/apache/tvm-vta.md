@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 65
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/apache/tvm-vta)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 184 | 65 | 
+| 2023-04-04 | 185 | 65 | 
 | 2023-04-03 | 184 | 65 | 
 | 2023-04-02 | 184 | 65 | 
 | 2023-03-30 | 183 | 65 | 

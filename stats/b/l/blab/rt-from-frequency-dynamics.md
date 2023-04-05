@@ -1,6 +1,6 @@
 # blab/rt-from-frequency-dynamics - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 47 | 4 | 
 | 2023-04-03 | 47 | 4 | 
 | 2023-04-01 | 47 | 4 | 
 | 2023-03-29 | 47 | 4 | 

@@ -1,6 +1,6 @@
 # scpd-proed/General_Handouts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 24 | 79 | 
 | 2023-04-03 | 24 | 79 | 
 | 2023-04-01 | 24 | 79 | 
 | 2023-03-30 | 24 | 79 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 23 | 79 | 
 | 2023-03-08 | 23 | 79 | 
 | 2023-03-07 | 23 | 79 | 
-| 2023-03-05 | 23 | 79 | 
 

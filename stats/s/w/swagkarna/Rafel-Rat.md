@@ -1,10 +1,10 @@
 # swagkarna/Rafel-Rat - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 324
+☋ Forks: 325
 
-★ Stars: 798
+★ Stars: 800
 
 [Open repository](https://github.com/swagkarna/Rafel-Rat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 800 | 325 | 
 | 2023-04-03 | 798 | 324 | 
 | 2023-04-02 | 797 | 324 | 
 | 2023-03-31 | 792 | 319 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 763 | 308 | 
 | 2023-03-08 | 762 | 308 | 
 | 2023-03-06 | 760 | 308 | 
-| 2023-03-05 | 759 | 308 | 
 

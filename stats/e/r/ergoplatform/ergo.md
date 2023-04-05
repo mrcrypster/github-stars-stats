@@ -1,6 +1,6 @@
 # ergoplatform/ergo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 470 | 151 | 
 | 2023-04-03 | 470 | 151 | 
 | 2023-04-02 | 470 | 151 | 
 | 2023-03-31 | 468 | 150 | 

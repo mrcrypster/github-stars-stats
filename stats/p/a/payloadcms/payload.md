@@ -1,10 +1,10 @@
 # payloadcms/payload - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 489
+☋ Forks: 491
 
-★ Stars: 9833
+★ Stars: 9846
 
 [Open repository](https://github.com/payloadcms/payload)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 9846 | 491 | 
 | 2023-04-03 | 9833 | 489 | 
 | 2023-04-02 | 9819 | 488 | 
 | 2023-03-30 | 9791 | 485 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 9599 | 463 | 
 | 2023-03-08 | 9571 | 460 | 
 | 2023-03-06 | 9555 | 458 | 
-| 2023-03-05 | 9543 | 458 | 
 

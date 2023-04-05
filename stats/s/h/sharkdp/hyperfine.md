@@ -1,10 +1,10 @@
 # sharkdp/hyperfine - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 269
 
-★ Stars: 15378
+★ Stars: 15386
 
 [Open repository](https://github.com/sharkdp/hyperfine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 15386 | 269 | 
 | 2023-04-02 | 15378 | 269 | 
 | 2023-03-30 | 15341 | 269 | 
 | 2023-03-28 | 15323 | 268 | 

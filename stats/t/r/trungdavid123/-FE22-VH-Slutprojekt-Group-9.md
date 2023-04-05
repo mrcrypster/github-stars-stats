@@ -1,6 +1,6 @@
 # trungdavid123/-FE22-VH-Slutprojekt-Group-9 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 11 | 
 | 2023-04-03 | - | 11 | 
 | 2023-04-02 | - | 11 | 
 | 2023-03-30 | - | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | - | 11 | 
 | 2023-03-08 | - | 11 | 
 | 2023-03-06 | - | 11 | 
-| 2023-03-05 | - | 11 | 
 

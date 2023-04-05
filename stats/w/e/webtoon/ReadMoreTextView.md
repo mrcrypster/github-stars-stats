@@ -1,6 +1,6 @@
 # webtoon/ReadMoreTextView - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 131 | 6 | 
 | 2023-04-03 | 131 | 6 | 
 | 2023-03-31 | 129 | 6 | 
 | 2023-03-29 | 129 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 127 | 6 | 
 | 2023-03-08 | 127 | 6 | 
 | 2023-03-07 | 127 | 6 | 
-| 2023-03-05 | 127 | 6 | 
 

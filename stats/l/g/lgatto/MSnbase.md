@@ -1,6 +1,6 @@
 # lgatto/MSnbase - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 104 | 48 | 
 | 2023-04-03 | 104 | 48 | 
 | 2023-03-31 | 104 | 48 | 
 | 2023-03-29 | 104 | 48 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 104 | 48 | 
 | 2023-03-08 | 104 | 48 | 
 | 2023-03-07 | 104 | 48 | 
-| 2023-03-05 | 104 | 49 | 
 

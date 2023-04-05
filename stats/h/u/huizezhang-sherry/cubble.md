@@ -1,10 +1,10 @@
 # huizezhang-sherry/cubble - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/huizezhang-sherry/cubble)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 35 | 2 | 
 | 2023-04-03 | 34 | 2 | 
 | 2023-04-02 | 34 | 2 | 
 | 2023-04-01 | 34 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 33 | 2 | 
 | 2023-03-08 | 33 | 2 | 
 | 2023-03-07 | 33 | 2 | 
-| 2023-03-05 | 33 | 2 | 
 

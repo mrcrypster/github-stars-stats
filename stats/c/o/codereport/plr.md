@@ -1,6 +1,6 @@
 # codereport/plr - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 3 | 
 | 2023-04-03 | 17 | 3 | 
 | 2023-04-02 | 17 | 3 | 
 | 2023-03-30 | 17 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 18 | 3 | 
 | 2023-03-08 | 18 | 3 | 
 | 2023-03-06 | 18 | 3 | 
-| 2023-03-05 | 18 | 3 | 
 

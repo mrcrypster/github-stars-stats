@@ -1,10 +1,10 @@
 # geph-official/gephgui - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 21
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/geph-official/gephgui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 49 | 21 | 
 | 2023-04-03 | 48 | 21 | 
 | 2023-04-02 | 48 | 21 | 
 | 2023-03-31 | 48 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 46 | 19 | 
 | 2023-03-08 | 45 | 19 | 
 | 2023-03-06 | 44 | 19 | 
-| 2023-03-05 | 44 | 19 | 
 

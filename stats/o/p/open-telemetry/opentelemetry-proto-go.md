@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-proto-go - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 18 | 21 | 
 | 2023-04-03 | 18 | 21 | 
 | 2023-04-02 | 18 | 21 | 
 | 2023-04-01 | 18 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 18 | 20 | 
 | 2023-03-07 | 18 | 20 | 
 | 2023-03-06 | 18 | 20 | 
-| 2023-03-05 | 18 | 20 | 
 

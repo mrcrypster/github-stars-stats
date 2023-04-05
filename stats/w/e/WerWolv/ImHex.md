@@ -1,10 +1,10 @@
 # WerWolv/ImHex - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1199
+☋ Forks: 1198
 
-★ Stars: 26560
+★ Stars: 26567
 
 [Open repository](https://github.com/WerWolv/ImHex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 26567 | 1198 | 
 | 2023-04-03 | 26560 | 1199 | 
 | 2023-04-01 | 26532 | 1197 | 
 | 2023-03-31 | 26524 | 1195 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 26192 | 1172 | 
 | 2023-03-07 | 26182 | 1172 | 
 | 2023-03-06 | 26162 | 1169 | 
-| 2023-03-05 | 26146 | 1169 | 
 

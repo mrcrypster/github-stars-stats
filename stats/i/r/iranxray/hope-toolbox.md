@@ -1,10 +1,10 @@
 # iranxray/hope-toolbox - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 84
+★ Stars: 83
 
 [Open repository](https://github.com/iranxray/hope-toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 83 | 5 | 
 | 2023-04-03 | 84 | 5 | 
 | 2023-04-02 | 84 | 5 | 
 | 2023-03-29 | 83 | 5 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 79 | 5 | 
 | 2023-03-09 | 78 | 5 | 
 | 2023-03-07 | 77 | 5 | 
-| 2023-03-06 | 76 | 4 | 
 

@@ -1,10 +1,10 @@
 # chrisgrieser/nvim-various-textobjs - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 201
+★ Stars: 203
 
 [Open repository](https://github.com/chrisgrieser/nvim-various-textobjs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 203 | 8 | 
 | 2023-04-02 | 201 | 8 | 
 | 2023-03-30 | 198 | 8 | 
 | 2023-03-29 | 196 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 172 | 7 | 
 | 2023-03-07 | 172 | 6 | 
 | 2023-03-06 | 164 | 6 | 
-| 2023-03-05 | 151 | 6 | 
 

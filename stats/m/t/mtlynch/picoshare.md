@@ -1,8 +1,8 @@
 # mtlynch/picoshare - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 98
+☋ Forks: 99
 
 ★ Stars: 1583
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1583 | 99 | 
 | 2023-04-03 | 1583 | 98 | 
 | 2023-03-31 | 1580 | 97 | 
 | 2023-03-29 | 1580 | 97 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 1524 | 92 | 
 | 2023-03-08 | 1520 | 92 | 
 | 2023-03-07 | 1517 | 92 | 
-| 2023-03-06 | 1515 | 92 | 
 

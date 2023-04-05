@@ -1,6 +1,6 @@
 # JDA-DM/mojxml2geojson - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 188 | 61 | 
 | 2023-04-03 | 188 | 61 | 
 | 2023-03-31 | 188 | 61 | 
 | 2023-03-29 | 187 | 61 | 

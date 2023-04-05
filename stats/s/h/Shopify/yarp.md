@@ -1,10 +1,10 @@
 # Shopify/yarp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 26
 
-★ Stars: 250
+★ Stars: 252
 
 [Open repository](https://github.com/Shopify/yarp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 252 | 26 | 
 | 2023-04-03 | 250 | 26 | 
 | 2023-04-02 | 250 | 26 | 
 | 2023-03-30 | 240 | 26 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 183 | 20 | 
 | 2023-03-08 | 183 | 19 | 
 | 2023-03-07 | 178 | 19 | 
-| 2023-03-05 | 178 | 19 | 
 

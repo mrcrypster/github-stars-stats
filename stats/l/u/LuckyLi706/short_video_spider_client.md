@@ -1,6 +1,6 @@
 # LuckyLi706/short_video_spider_client - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 179 | 38 | 
 | 2023-04-03 | 179 | 38 | 
 | 2023-04-01 | 179 | 38 | 
 | 2023-03-31 | 178 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 174 | 37 | 
 | 2023-03-08 | 174 | 37 | 
 | 2023-03-07 | 174 | 37 | 
-| 2023-03-06 | 174 | 37 | 
 

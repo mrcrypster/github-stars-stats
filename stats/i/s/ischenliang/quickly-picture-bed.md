@@ -1,6 +1,6 @@
 # ischenliang/quickly-picture-bed - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 206 | 21 | 
 | 2023-04-03 | 206 | 21 | 
 | 2023-03-31 | 205 | 21 | 
 | 2023-03-29 | 201 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 146 | 13 | 
 | 2023-03-07 | 143 | 11 | 
 | 2023-03-06 | 125 | 10 | 
-| 2023-03-05 | 118 | 9 | 
 

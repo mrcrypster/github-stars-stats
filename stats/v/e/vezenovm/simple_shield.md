@@ -1,10 +1,10 @@
 # vezenovm/simple_shield - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/vezenovm/simple_shield)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 70 | 4 | 
 | 2023-04-03 | 69 | 4 | 
 | 2023-04-01 | 69 | 4 | 
 | 2023-03-30 | 68 | 5 | 

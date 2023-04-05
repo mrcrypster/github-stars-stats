@@ -1,10 +1,10 @@
 # teamssix/TWiki - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 48
 
-★ Stars: 416
+★ Stars: 417
 
 [Open repository](https://github.com/teamssix/TWiki)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 417 | 48 | 
 | 2023-04-03 | 416 | 48 | 
 | 2023-03-31 | 416 | 48 | 
 | 2023-03-29 | 415 | 48 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 398 | 45 | 
 | 2023-03-08 | 398 | 45 | 
 | 2023-03-07 | 398 | 45 | 
-| 2023-03-05 | 398 | 45 | 
 

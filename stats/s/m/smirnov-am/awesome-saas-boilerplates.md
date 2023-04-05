@@ -1,10 +1,10 @@
 # smirnov-am/awesome-saas-boilerplates - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 72
 
-★ Stars: 768
+★ Stars: 769
 
 [Open repository](https://github.com/smirnov-am/awesome-saas-boilerplates)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 769 | 72 | 
 | 2023-04-03 | 768 | 72 | 
 | 2023-04-02 | 768 | 72 | 
 | 2023-03-30 | 765 | 72 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 745 | 70 | 
 | 2023-03-08 | 740 | 69 | 
 | 2023-03-06 | 739 | 69 | 
-| 2023-03-05 | 740 | 69 | 
 

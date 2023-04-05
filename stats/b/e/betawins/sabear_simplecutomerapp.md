@@ -1,8 +1,8 @@
 # betawins/sabear_simplecutomerapp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | - | 37 | 
+| 2023-04-04 | - | 37 | 
 | 2023-04-03 | - | 36 | 
 | 2023-04-01 | - | 28 | 
 | 2023-03-31 | - | 28 | 
@@ -33,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | - | 26 | 
 | 2023-03-08 | - | 26 | 
 | 2023-03-07 | - | 26 | 
-| 2023-03-05 | - | 26 | 
 

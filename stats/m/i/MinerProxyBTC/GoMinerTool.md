@@ -1,6 +1,6 @@
 # MinerProxyBTC/GoMinerTool - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 474 | 86 | 
 | 2023-04-03 | 474 | 86 | 
 | 2023-04-02 | 474 | 86 | 
 | 2023-03-31 | 474 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 474 | 86 | 
 | 2023-03-08 | 474 | 86 | 
 | 2023-03-06 | 474 | 86 | 
-| 2023-03-05 | 474 | 86 | 
 

@@ -1,6 +1,6 @@
 # maliciousgroup/C2_Automation - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 42 | 7 | 
 | 2023-04-03 | 42 | 7 | 
 | 2023-03-31 | 42 | 7 | 
 | 2023-03-29 | 41 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 33 | 7 | 
 | 2023-03-08 | 33 | 7 | 
 | 2023-03-06 | 33 | 7 | 
-| 2023-03-05 | 33 | 7 | 
 

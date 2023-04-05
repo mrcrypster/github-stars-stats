@@ -1,10 +1,10 @@
 # TheRealOrange/icer_compression - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 541
+★ Stars: 550
 
 [Open repository](https://github.com/TheRealOrange/icer_compression)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 550 | 15 | 
 | 2023-04-03 | 541 | 15 | 
 | 2023-04-01 | 487 | 15 | 
 | 2023-03-31 | 482 | 15 | 

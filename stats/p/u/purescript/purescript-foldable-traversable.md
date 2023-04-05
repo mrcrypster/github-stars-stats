@@ -1,6 +1,6 @@
 # purescript/purescript-foldable-traversable - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 50 | 56 | 
 | 2023-04-03 | 50 | 56 | 
 | 2023-04-02 | 50 | 56 | 
 | 2023-03-30 | 50 | 55 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 50 | 55 | 
 | 2023-03-09 | 50 | 55 | 
 | 2023-03-07 | 50 | 55 | 
-| 2023-03-06 | 49 | 55 | 
 

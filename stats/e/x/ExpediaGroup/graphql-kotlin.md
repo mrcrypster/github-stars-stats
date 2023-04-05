@@ -1,8 +1,8 @@
 # ExpediaGroup/graphql-kotlin - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 317
+☋ Forks: 318
 
 ★ Stars: 1587
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1587 | 318 | 
 | 2023-04-03 | 1587 | 317 | 
 | 2023-04-02 | 1586 | 317 | 
 | 2023-03-30 | 1582 | 317 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1572 | 317 | 
 | 2023-03-08 | 1572 | 317 | 
 | 2023-03-07 | 1571 | 316 | 
-| 2023-03-05 | 1571 | 315 | 
 

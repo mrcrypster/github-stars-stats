@@ -1,10 +1,10 @@
 # nasa/AmesGCM - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/nasa/AmesGCM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | - | 
 | 2023-04-02 | 1 | - | 
 | 2023-03-30 | 1 | - | 
 | 2023-03-28 | 1 | - | 

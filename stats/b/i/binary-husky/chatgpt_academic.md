@@ -1,10 +1,10 @@
 # binary-husky/chatgpt_academic - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 2133
+☋ Forks: 2289
 
-★ Stars: 19832
+★ Stars: 21090
 
 [Open repository](https://github.com/binary-husky/chatgpt_academic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 21090 | 2289 | 
 | 2023-04-03 | 19832 | 2133 | 
 | 2023-04-02 | 18189 | 1887 | 
 | 2023-04-01 | 16544 | 1671 | 

@@ -1,6 +1,6 @@
 # vfarcic/gitpod-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 134 | 
 | 2023-04-03 | 2 | 134 | 
 | 2023-03-31 | 2 | 133 | 
 | 2023-03-29 | 2 | 133 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 2 | 133 | 
 | 2023-03-08 | 2 | 133 | 
 | 2023-03-07 | 2 | 133 | 
-| 2023-03-05 | 2 | 133 | 
 

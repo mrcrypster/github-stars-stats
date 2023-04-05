@@ -1,8 +1,8 @@
 # raiden-network/raiden-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 48
+☋ Forks: 49
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 48 | 49 | 
 | 2023-04-03 | 48 | 48 | 
 | 2023-04-02 | 48 | 48 | 
 | 2023-03-30 | 48 | 48 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 48 | 48 | 
 | 2023-03-08 | 48 | 48 | 
 | 2023-03-07 | 48 | 48 | 
-| 2023-03-05 | 48 | 48 | 
 

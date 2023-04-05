@@ -1,6 +1,6 @@
 # csmith1188/newsiteproposal - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 8 | 
 | 2023-04-03 | - | 8 | 
 | 2023-04-01 | - | 8 | 
 | 2023-03-30 | - | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | - | 8 | 
 | 2023-03-08 | - | 8 | 
 | 2023-03-07 | - | 8 | 
-| 2023-03-05 | - | 8 | 
 

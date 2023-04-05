@@ -1,10 +1,10 @@
 # ulid/spec - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 143
 
-★ Stars: 6586
+★ Stars: 6591
 
 [Open repository](https://github.com/ulid/spec)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6591 | 143 | 
 | 2023-04-03 | 6586 | 143 | 
 | 2023-03-31 | 6578 | 144 | 
 | 2023-03-29 | 6563 | 144 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 6446 | 143 | 
 | 2023-03-08 | 6441 | 143 | 
 | 2023-03-06 | 6429 | 143 | 
-| 2023-03-05 | 6411 | 143 | 
 

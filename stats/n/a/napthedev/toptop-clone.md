@@ -1,10 +1,10 @@
 # napthedev/toptop-clone - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 32
 
-★ Stars: 129
+★ Stars: 128
 
 [Open repository](https://github.com/napthedev/toptop-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 128 | 32 | 
 | 2023-04-03 | 129 | 32 | 
 | 2023-04-02 | 129 | 32 | 
 | 2023-03-30 | 128 | 32 | 

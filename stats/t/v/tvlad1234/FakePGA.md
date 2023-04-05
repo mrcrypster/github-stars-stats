@@ -1,10 +1,10 @@
 # tvlad1234/FakePGA - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 125
+★ Stars: 127
 
 [Open repository](https://github.com/tvlad1234/FakePGA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 127 | 4 | 
 | 2023-04-03 | 125 | 4 | 
 | 2023-03-31 | 125 | 4 | 
 | 2023-03-29 | 125 | 4 | 

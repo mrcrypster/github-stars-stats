@@ -1,10 +1,10 @@
 # sxzxs/explore_select_items - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/sxzxs/explore_select_items)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 37 | 2 | 
 | 2023-04-03 | 36 | 2 | 
 | 2023-04-02 | 36 | 2 | 
 | 2023-03-31 | 36 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 35 | 2 | 
 | 2023-03-08 | 35 | 2 | 
 | 2023-03-07 | 35 | 2 | 
-| 2023-03-05 | 34 | 2 | 
 

@@ -1,6 +1,6 @@
 # recmo/experiment-solexp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 74 | 7 | 
 | 2023-04-03 | 74 | 7 | 
 | 2023-03-31 | 74 | 7 | 
 | 2023-03-29 | 74 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 73 | 7 | 
 | 2023-03-08 | 73 | 7 | 
 | 2023-03-06 | 73 | 7 | 
-| 2023-03-05 | 73 | 7 | 
 

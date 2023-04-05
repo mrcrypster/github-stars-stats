@@ -1,10 +1,10 @@
 # alura-cursos/imersao-java-2 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 63
+☋ Forks: 75
 
-★ Stars: 95
+★ Stars: 104
 
 [Open repository](https://github.com/alura-cursos/imersao-java-2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 104 | 75 | 
 | 2023-04-03 | 95 | 63 | 
 | 2023-04-02 | 85 | 52 | 
 | 2023-04-01 | 85 | 53 | 

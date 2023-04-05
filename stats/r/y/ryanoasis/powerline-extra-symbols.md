@@ -1,6 +1,6 @@
 # ryanoasis/powerline-extra-symbols - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1086 | 62 | 
 | 2023-04-03 | 1086 | 62 | 
 | 2023-04-01 | 1084 | 62 | 
 | 2023-03-30 | 1083 | 62 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1079 | 62 | 
 | 2023-03-08 | 1078 | 62 | 
 | 2023-03-07 | 1077 | 62 | 
-| 2023-03-05 | 1075 | 62 | 
 

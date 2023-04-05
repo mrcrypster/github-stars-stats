@@ -1,6 +1,6 @@
 # Technigo/project-chatbot - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6 | 304 | 
 | 2023-04-03 | 6 | 304 | 
 | 2023-04-02 | 6 | 304 | 
 | 2023-03-30 | 6 | 304 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 6 | 303 | 
 | 2023-03-08 | 6 | 303 | 
 | 2023-03-07 | 6 | 302 | 
-| 2023-03-05 | 6 | 302 | 
 

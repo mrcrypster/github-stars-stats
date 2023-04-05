@@ -1,10 +1,10 @@
 # jhipster/generator-jhipster-quarkus - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 51
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/jhipster/generator-jhipster-quarkus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 124 | 51 | 
 | 2023-04-03 | 123 | 51 | 
 | 2023-04-02 | 121 | 51 | 
 | 2023-03-31 | 120 | 51 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 118 | 51 | 
 | 2023-03-07 | 118 | 51 | 
 | 2023-03-06 | 118 | 51 | 
-| 2023-03-05 | 118 | 51 | 
 

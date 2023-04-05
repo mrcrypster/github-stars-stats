@@ -1,6 +1,6 @@
 # Stride-Labs/testnet - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 59 | 118 | 
 | 2023-04-03 | 59 | 118 | 
 | 2023-04-01 | 59 | 118 | 
 | 2023-03-29 | 59 | 118 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 56 | 115 | 
 | 2023-03-08 | 57 | 115 | 
 | 2023-03-06 | 57 | 115 | 
-| 2023-03-05 | 57 | 115 | 
 

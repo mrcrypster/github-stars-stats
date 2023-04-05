@@ -1,10 +1,10 @@
 # gurusabarish/hugo-profile - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 211
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/gurusabarish/hugo-profile)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 347 | 211 | 
 | 2023-04-03 | 346 | 211 | 
 | 2023-04-02 | 345 | 212 | 
 | 2023-03-30 | 344 | 212 | 

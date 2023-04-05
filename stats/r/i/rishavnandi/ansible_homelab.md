@@ -1,10 +1,10 @@
 # rishavnandi/ansible_homelab - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/rishavnandi/ansible_homelab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 111 | 6 | 
 | 2023-04-03 | 110 | 5 | 
 | 2023-04-02 | 108 | 5 | 
 | 2023-03-31 | 103 | 5 | 

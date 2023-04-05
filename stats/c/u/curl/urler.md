@@ -1,10 +1,10 @@
 # curl/urler - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 8
+☋ Forks: 18
 
-★ Stars: 240
+★ Stars: 546
 
 [Open repository](https://github.com/curl/urler)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 546 | 18 | 
 | 2023-04-02 | 240 | 8 | 
 

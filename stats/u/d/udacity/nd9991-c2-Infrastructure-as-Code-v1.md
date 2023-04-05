@@ -1,6 +1,6 @@
 # udacity/nd9991-c2-Infrastructure-as-Code-v1 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 614
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 192 | 614 | 
 | 2023-04-03 | 192 | 614 | 
 | 2023-04-02 | 192 | 614 | 
 | 2023-03-30 | 192 | 614 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 191 | 606 | 
 | 2023-03-08 | 191 | 607 | 
 | 2023-03-07 | 191 | 602 | 
-| 2023-03-06 | 191 | 601 | 
 

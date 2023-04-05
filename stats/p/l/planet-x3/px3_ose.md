@@ -1,6 +1,6 @@
 # planet-x3/px3_ose - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 31 | 5 | 
 | 2023-04-03 | 31 | 5 | 
 | 2023-03-30 | 31 | 5 | 
 | 2023-03-28 | 31 | 5 | 

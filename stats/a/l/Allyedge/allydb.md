@@ -1,6 +1,6 @@
 # Allyedge/allydb - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 29 | 1 | 
 | 2023-04-03 | 29 | 1 | 
 | 2023-04-02 | 29 | 1 | 
 | 2023-03-31 | 29 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 29 | 1 | 
 | 2023-03-08 | 29 | 1 | 
 | 2023-03-06 | 28 | 1 | 
-| 2023-03-05 | 28 | 1 | 
 

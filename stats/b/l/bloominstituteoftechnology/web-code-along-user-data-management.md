@@ -1,6 +1,6 @@
 # bloominstituteoftechnology/web-code-along-user-data-management - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 79 | 
 | 2023-04-03 | - | 79 | 
 | 2023-03-31 | - | 79 | 
 | 2023-03-29 | - | 79 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | - | 79 | 
 | 2023-03-09 | - | 79 | 
 | 2023-03-07 | - | 79 | 
-| 2023-03-05 | - | 79 | 
 

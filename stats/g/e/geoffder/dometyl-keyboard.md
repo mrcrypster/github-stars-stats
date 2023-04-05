@@ -1,6 +1,6 @@
 # geoffder/dometyl-keyboard - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 151 | 18 | 
 | 2023-04-03 | 151 | 18 | 
 | 2023-03-31 | 151 | 18 | 
 | 2023-03-29 | 151 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 145 | 16 | 
 | 2023-03-08 | 145 | 16 | 
 | 2023-03-06 | 145 | 16 | 
-| 2023-03-05 | 145 | 16 | 
 

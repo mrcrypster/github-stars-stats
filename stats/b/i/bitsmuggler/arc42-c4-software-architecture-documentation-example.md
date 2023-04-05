@@ -1,10 +1,10 @@
 # bitsmuggler/arc42-c4-software-architecture-documentation-example - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 6 | 
 | 2023-04-03 | 35 | 6 | 
 | 2023-04-02 | 35 | 6 | 
 | 2023-03-30 | 34 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 31 | 3 | 
 | 2023-03-08 | 31 | 3 | 
 | 2023-03-06 | 30 | 3 | 
-| 2023-03-05 | 30 | 3 | 
 

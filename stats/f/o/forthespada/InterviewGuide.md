@@ -1,10 +1,10 @@
 # forthespada/InterviewGuide - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 949
+☋ Forks: 953
 
-★ Stars: 3983
+★ Stars: 3982
 
 [Open repository](https://github.com/forthespada/InterviewGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3982 | 953 | 
 | 2023-04-03 | 3983 | 949 | 
 | 2023-03-31 | 3971 | 946 | 
 | 2023-03-29 | 3968 | 947 | 

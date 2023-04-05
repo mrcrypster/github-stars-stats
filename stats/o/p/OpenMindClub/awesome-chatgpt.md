@@ -1,10 +1,10 @@
 # OpenMindClub/awesome-chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 968
+★ Stars: 985
 
 [Open repository](https://github.com/OpenMindClub/awesome-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 985 | 117 | 
 | 2023-04-03 | 968 | 116 | 
 | 2023-03-31 | 897 | 109 | 
 | 2023-03-29 | 863 | 108 | 

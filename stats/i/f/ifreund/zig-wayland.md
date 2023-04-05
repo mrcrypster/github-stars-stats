@@ -1,10 +1,10 @@
 # ifreund/zig-wayland - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 22
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/ifreund/zig-wayland)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 62 | 22 | 
 | 2023-04-03 | 61 | 22 | 
 | 2023-03-31 | 61 | 22 | 
 | 2023-03-29 | 61 | 22 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 61 | 19 | 
 | 2023-03-08 | 60 | 19 | 
 | 2023-03-07 | 59 | 19 | 
-| 2023-03-05 | 59 | 19 | 
 

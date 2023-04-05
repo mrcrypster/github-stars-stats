@@ -1,6 +1,6 @@
 # VictorNorman/cs112-lab1-assignment - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 6 | 
 | 2023-04-03 | - | 6 | 
 | 2023-03-31 | - | 6 | 
 | 2023-03-29 | - | 6 | 

@@ -1,8 +1,8 @@
 # darkparky/Windows-CRD - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 163
+☋ Forks: 164
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1 | 164 | 
 | 2023-04-03 | 1 | 163 | 
 | 2023-04-02 | 1 | 162 | 
 | 2023-03-31 | 1 | 157 | 

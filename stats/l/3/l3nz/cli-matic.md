@@ -1,10 +1,10 @@
 # l3nz/cli-matic - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 25
 
-★ Stars: 336
+★ Stars: 337
 
 [Open repository](https://github.com/l3nz/cli-matic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 337 | 25 | 
 | 2023-04-02 | 336 | 25 | 
 | 2023-03-30 | 335 | 25 | 
 | 2023-03-28 | 334 | 25 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 332 | 26 | 
 | 2023-03-08 | 332 | 26 | 
 | 2023-03-06 | 332 | 26 | 
-| 2023-03-05 | 332 | 26 | 
 

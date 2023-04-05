@@ -1,10 +1,10 @@
 # leoloso/PoP - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 36
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/leoloso/PoP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 321 | 36 | 
 | 2023-04-03 | 320 | 36 | 
 | 2023-04-02 | 319 | 36 | 
 | 2023-03-30 | 319 | 36 | 

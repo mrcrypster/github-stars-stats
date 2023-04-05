@@ -1,6 +1,6 @@
 # ULAFF/ALAFF - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 63 | 42 | 
 | 2023-04-03 | 63 | 42 | 
 | 2023-03-31 | 63 | 42 | 
 | 2023-03-29 | 63 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 63 | 41 | 
 | 2023-03-08 | 63 | 41 | 
 | 2023-03-06 | 63 | 41 | 
-| 2023-03-05 | 62 | 41 | 
 

@@ -1,6 +1,6 @@
 # uds-psl/coq-library-undecidability - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 93 | 22 | 
 | 2023-04-03 | 93 | 22 | 
 | 2023-04-01 | 93 | 22 | 
 | 2023-03-30 | 93 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 90 | 21 | 
 | 2023-03-08 | 90 | 21 | 
 | 2023-03-06 | 90 | 21 | 
-| 2023-03-05 | 91 | 21 | 
 

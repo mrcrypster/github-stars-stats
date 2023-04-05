@@ -1,6 +1,6 @@
 # nubank/state-flow - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 269 | 13 | 
 | 2023-04-03 | 269 | 13 | 
 | 2023-04-02 | 269 | 13 | 
 | 2023-03-31 | 269 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 269 | 13 | 
 | 2023-03-07 | 269 | 13 | 
 | 2023-03-06 | 268 | 13 | 
-| 2023-03-05 | 268 | 13 | 
 

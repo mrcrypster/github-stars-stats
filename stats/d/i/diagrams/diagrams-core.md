@@ -1,6 +1,6 @@
 # diagrams/diagrams-core - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 42
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 88 | 42 | 
+| 2023-04-04 | 88 | 42 | 
 | 2023-04-03 | 88 | 42 | 
 | 2023-04-02 | 88 | 42 | 
 | 2023-04-01 | 88 | 42 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 85 | 42 | 
 | 2023-03-07 | 85 | 42 | 
 | 2023-03-06 | 85 | 42 | 
-| 2023-03-05 | 85 | 42 | 
 

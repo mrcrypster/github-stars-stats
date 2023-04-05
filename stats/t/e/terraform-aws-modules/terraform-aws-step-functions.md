@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-step-functions - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 50 | 66 | 
 | 2023-04-03 | 50 | 66 | 
 | 2023-03-31 | 50 | 66 | 
 | 2023-03-29 | 50 | 66 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 48 | 66 | 
 | 2023-03-08 | 48 | 66 | 
 | 2023-03-07 | 48 | 67 | 
-| 2023-03-06 | 48 | 67 | 
 

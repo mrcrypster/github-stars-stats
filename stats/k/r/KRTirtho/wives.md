@@ -1,6 +1,6 @@
 # KRTirtho/wives - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 85 | 5 | 
 | 2023-04-03 | 85 | 5 | 
 | 2023-03-31 | 85 | 5 | 
 | 2023-03-29 | 85 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 85 | 5 | 
 | 2023-03-08 | 85 | 5 | 
 | 2023-03-06 | 84 | 5 | 
-| 2023-03-05 | 84 | 5 | 
 

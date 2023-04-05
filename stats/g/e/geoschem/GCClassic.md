@@ -1,8 +1,8 @@
 # geoschem/GCClassic - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 9 | 21 | 
 | 2023-04-03 | 9 | 20 | 
 | 2023-04-02 | 9 | 20 | 
 | 2023-03-30 | 9 | 20 | 

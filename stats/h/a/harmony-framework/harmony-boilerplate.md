@@ -1,6 +1,6 @@
 # harmony-framework/harmony-boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 178 | 8 | 
 | 2023-04-03 | 178 | 8 | 
 | 2023-04-01 | 178 | 8 | 
 | 2023-03-30 | 178 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 177 | 8 | 
 | 2023-03-08 | 177 | 8 | 
 | 2023-03-06 | 177 | 8 | 
-| 2023-03-05 | 177 | 8 | 
 

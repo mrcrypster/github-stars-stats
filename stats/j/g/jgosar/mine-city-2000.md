@@ -1,6 +1,6 @@
 # jgosar/mine-city-2000 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 714 | 12 | 
 | 2023-04-03 | 714 | 12 | 
 | 2023-03-31 | 714 | 12 | 
 | 2023-03-29 | 714 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 712 | 12 | 
 | 2023-03-08 | 712 | 12 | 
 | 2023-03-07 | 712 | 12 | 
-| 2023-03-05 | 712 | 12 | 
 

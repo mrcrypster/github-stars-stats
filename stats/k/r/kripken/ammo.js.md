@@ -1,10 +1,10 @@
 # kripken/ammo.js - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 501
+☋ Forks: 502
 
-★ Stars: 3560
+★ Stars: 3562
 
 [Open repository](https://github.com/kripken/ammo.js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3562 | 502 | 
 | 2023-04-03 | 3560 | 501 | 
 | 2023-04-01 | 3559 | 500 | 
 | 2023-03-29 | 3555 | 501 | 

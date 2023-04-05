@@ -1,10 +1,10 @@
 # emacs-openai/openai - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/emacs-openai/openai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 38 | 8 | 
 | 2023-04-03 | 37 | 7 | 
 | 2023-04-02 | 37 | 7 | 
 

@@ -1,10 +1,10 @@
 # outr/scribe - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 36
 
-★ Stars: 446
+★ Stars: 448
 
 [Open repository](https://github.com/outr/scribe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 448 | 36 | 
 | 2023-04-03 | 446 | 36 | 
 | 2023-03-31 | 446 | 36 | 
 | 2023-03-29 | 446 | 36 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 441 | 35 | 
 | 2023-03-08 | 441 | 35 | 
 | 2023-03-06 | 441 | 35 | 
-| 2023-03-05 | 442 | 35 | 
 

@@ -1,10 +1,10 @@
 # desphixs/Node.Js-Authentication-System - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 18
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/desphixs/Node.Js-Authentication-System)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 12 | 18 | 
 | 2023-04-03 | 11 | 18 | 
 | 2023-04-02 | 11 | 18 | 
 

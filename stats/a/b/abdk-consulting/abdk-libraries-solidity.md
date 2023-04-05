@@ -1,6 +1,6 @@
 # abdk-consulting/abdk-libraries-solidity - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 329 | 106 | 
 | 2023-04-03 | 329 | 106 | 
 | 2023-04-01 | 329 | 106 | 
 | 2023-03-29 | 327 | 106 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 321 | 104 | 
 | 2023-03-08 | 321 | 104 | 
 | 2023-03-06 | 319 | 104 | 
-| 2023-03-05 | 317 | 104 | 
 

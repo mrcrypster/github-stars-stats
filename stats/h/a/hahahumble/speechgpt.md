@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 175
+☋ Forks: 190
 
-★ Stars: 1407
+★ Stars: 1572
 
 [Open repository](https://github.com/hahahumble/speechgpt)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1407 | 175 | 
+| 2023-04-04 | 1572 | 190 | 
 | 2023-04-03 | 1384 | 174 | 
 | 2023-04-02 | 1143 | 149 | 
 | 2023-04-01 | 845 | 120 | 

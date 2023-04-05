@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-4-adding-react-to-rails - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1730
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 1730 | 
 | 2023-04-03 | 3 | 1730 | 
 | 2023-04-02 | 3 | 1729 | 
 | 2023-03-30 | 3 | 1725 | 

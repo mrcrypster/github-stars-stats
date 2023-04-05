@@ -1,10 +1,10 @@
 # Chlumsky/msdfgen - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 317
 
-★ Stars: 3242
+★ Stars: 3244
 
 [Open repository](https://github.com/Chlumsky/msdfgen)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3244 | 317 | 
 | 2023-04-03 | 3242 | 317 | 
 | 2023-03-31 | 3241 | 317 | 
 | 2023-03-29 | 3238 | 316 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3193 | 310 | 
 | 2023-03-08 | 3184 | 311 | 
 | 2023-03-06 | 3184 | 313 | 
-| 2023-03-05 | 3183 | 313 | 
 

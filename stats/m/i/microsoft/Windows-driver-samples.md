@@ -1,10 +1,10 @@
 # microsoft/Windows-driver-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 4702
+☋ Forks: 4705
 
-★ Stars: 5910
+★ Stars: 5911
 
 [Open repository](https://github.com/microsoft/Windows-driver-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5911 | 4705 | 
 | 2023-04-03 | 5910 | 4702 | 
 | 2023-03-31 | 5905 | 4699 | 
 | 2023-03-29 | 5905 | 4700 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 5869 | 4677 | 
 | 2023-03-08 | 5868 | 4673 | 
 | 2023-03-06 | 5865 | 4673 | 
-| 2023-03-05 | 5864 | 4669 | 
 

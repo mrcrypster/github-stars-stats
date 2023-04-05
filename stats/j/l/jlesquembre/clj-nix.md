@@ -1,6 +1,6 @@
 # jlesquembre/clj-nix - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 94 | 12 | 
 | 2023-04-04 | 94 | 12 | 
 | 2023-04-02 | 94 | 12 | 
 | 2023-04-01 | 94 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 91 | 11 | 
 | 2023-03-07 | 91 | 11 | 
 | 2023-03-06 | 91 | 11 | 
-| 2023-03-05 | 91 | 11 | 
 

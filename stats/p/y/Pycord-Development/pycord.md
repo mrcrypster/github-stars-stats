@@ -1,10 +1,10 @@
 # Pycord-Development/pycord - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 420
+☋ Forks: 421
 
-★ Stars: 2400
+★ Stars: 2402
 
 [Open repository](https://github.com/Pycord-Development/pycord)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2402 | 421 | 
 | 2023-04-03 | 2400 | 420 | 
 | 2023-03-31 | 2398 | 421 | 
 | 2023-03-29 | 2394 | 420 | 

@@ -1,6 +1,6 @@
 # ribelo/praxis - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 29 | 1 | 
 | 2023-04-03 | 29 | 1 | 
 | 2023-04-01 | 29 | 1 | 
 | 2023-03-31 | 29 | 1 | 

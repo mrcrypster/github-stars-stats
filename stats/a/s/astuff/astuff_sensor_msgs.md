@@ -1,6 +1,6 @@
 # astuff/astuff_sensor_msgs - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 37
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 46 | 37 | 
+| 2023-04-04 | 46 | 37 | 
 | 2023-04-03 | 46 | 37 | 
 | 2023-04-01 | 46 | 37 | 
 | 2023-03-30 | 46 | 37 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 46 | 36 | 
 | 2023-03-08 | 46 | 36 | 
 | 2023-03-07 | 46 | 36 | 
-| 2023-03-05 | 46 | 36 | 
 

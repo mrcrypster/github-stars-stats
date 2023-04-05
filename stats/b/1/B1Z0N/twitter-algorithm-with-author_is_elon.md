@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/B1Z0N/twitter-algorithm-with-author_is_elon)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 10 | 5 | 
+| 2023-04-04 | 11 | 5 | 
 | 2023-04-03 | 10 | 5 | 
 

@@ -1,6 +1,6 @@
 # romarpla/cursoFrontEnd - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1067
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 75 | 1067 | 
 | 2023-04-02 | 75 | 1067 | 
 | 2023-04-01 | 75 | 1067 | 
 | 2023-03-30 | 75 | 1068 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 76 | 1074 | 
 | 2023-03-08 | 76 | 1074 | 
 | 2023-03-07 | 76 | 1075 | 
-| 2023-03-06 | 76 | 1075 | 
 

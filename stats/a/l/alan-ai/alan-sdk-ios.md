@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 1629
+★ Stars: 1630
 
 [Open repository](https://github.com/alan-ai/alan-sdk-ios)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1629 | 10 | 
+| 2023-04-04 | 1630 | 10 | 
 | 2023-04-03 | 1628 | 10 | 
 | 2023-04-02 | 1621 | 9 | 
 | 2023-03-30 | 1616 | 9 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 1566 | 8 | 
 | 2023-03-07 | 1562 | 8 | 
 | 2023-03-06 | 1558 | 8 | 
-| 2023-03-05 | 1554 | 8 | 
 

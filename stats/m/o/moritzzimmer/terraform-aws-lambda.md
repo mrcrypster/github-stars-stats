@@ -1,8 +1,8 @@
 # moritzzimmer/terraform-aws-lambda - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 48 | 31 | 
 | 2023-04-03 | 48 | 30 | 
 | 2023-03-31 | 48 | 30 | 
 | 2023-03-29 | 48 | 30 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 47 | 30 | 
 | 2023-03-08 | 46 | 30 | 
 | 2023-03-07 | 46 | 30 | 
-| 2023-03-05 | 46 | 30 | 
 

@@ -1,10 +1,10 @@
 # mrfearless/RadASM2 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 61
 
-★ Stars: 284
+★ Stars: 286
 
 [Open repository](https://github.com/mrfearless/RadASM2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 286 | 61 | 
 | 2023-04-03 | 284 | 61 | 
 | 2023-04-01 | 284 | 61 | 
 | 2023-03-31 | 284 | 61 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 279 | 62 | 
 | 2023-03-08 | 278 | 62 | 
 | 2023-03-06 | 277 | 62 | 
-| 2023-03-05 | 276 | 62 | 
 

@@ -1,6 +1,6 @@
 # coolwanglu/pdf2htmlEX - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1768
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 9784 | 1768 | 
 | 2023-04-03 | 9784 | 1768 | 
 | 2023-04-02 | 9779 | 1768 | 
 | 2023-03-30 | 9777 | 1767 | 

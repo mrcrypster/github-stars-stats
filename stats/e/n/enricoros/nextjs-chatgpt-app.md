@@ -1,10 +1,10 @@
 # enricoros/nextjs-chatgpt-app - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 101
+☋ Forks: 103
 
-★ Stars: 689
+★ Stars: 696
 
 [Open repository](https://github.com/enricoros/nextjs-chatgpt-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 696 | 103 | 
 | 2023-04-03 | 689 | 101 | 
 | 2023-04-01 | 668 | 96 | 
 | 2023-03-29 | 638 | 90 | 

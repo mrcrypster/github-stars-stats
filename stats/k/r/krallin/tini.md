@@ -1,10 +1,10 @@
 # krallin/tini - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 427
 
-★ Stars: 8416
+★ Stars: 8423
 
 [Open repository](https://github.com/krallin/tini)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 8423 | 427 | 
 | 2023-04-03 | 8416 | 427 | 
 | 2023-04-02 | 8413 | 426 | 
 | 2023-03-30 | 8408 | 425 | 

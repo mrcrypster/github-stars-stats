@@ -1,10 +1,10 @@
 # saveweb/review-2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 23
 
-★ Stars: 166
+★ Stars: 168
 
 [Open repository](https://github.com/saveweb/review-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 168 | 23 | 
 | 2023-04-03 | 166 | 23 | 
 | 2023-03-31 | 166 | 23 | 
 | 2023-03-29 | 166 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 163 | 25 | 
 | 2023-03-08 | 163 | 25 | 
 | 2023-03-07 | 163 | 25 | 
-| 2023-03-05 | 162 | 25 | 
 

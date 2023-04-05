@@ -1,10 +1,10 @@
 # microsoft/vscode-remote-try-sqlserver - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/microsoft/vscode-remote-try-sqlserver)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 18 | 7 | 
 | 2023-04-03 | 17 | 7 | 
 | 2023-04-02 | 17 | 7 | 
 | 2023-03-31 | 17 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 16 | 6 | 
 | 2023-03-08 | 16 | 6 | 
 | 2023-03-07 | 16 | 6 | 
-| 2023-03-05 | 16 | 6 | 
 

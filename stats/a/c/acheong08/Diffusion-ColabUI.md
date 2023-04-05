@@ -1,10 +1,10 @@
 # acheong08/Diffusion-ColabUI - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 51
 
-★ Stars: 349
+★ Stars: 348
 
 [Open repository](https://github.com/acheong08/Diffusion-ColabUI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 348 | 51 | 
 | 2023-04-03 | 349 | 51 | 
 | 2023-04-02 | 349 | 51 | 
 | 2023-03-30 | 347 | 50 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 327 | 44 | 
 | 2023-03-07 | 327 | 43 | 
 | 2023-03-06 | 326 | 43 | 
-| 2023-03-05 | 325 | 42 | 
 

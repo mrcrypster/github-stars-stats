@@ -1,10 +1,10 @@
 # JayTheYggdrasil/ApexParkour - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/JayTheYggdrasil/ApexParkour)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 18 | 2 | 
 | 2023-04-03 | 17 | 2 | 
 | 2023-04-01 | 17 | 2 | 
 | 2023-03-29 | 17 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 16 | 2 | 
 | 2023-03-08 | 15 | 2 | 
 | 2023-03-06 | 15 | 2 | 
-| 2023-03-05 | 15 | 2 | 
 

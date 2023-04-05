@@ -1,10 +1,10 @@
 # airobotlab/KoChatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 50
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/airobotlab/KoChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 147 | 50 | 
 | 2023-04-03 | 146 | 50 | 
 | 2023-04-01 | 143 | 50 | 
 | 2023-03-31 | 142 | 50 | 

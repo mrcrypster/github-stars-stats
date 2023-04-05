@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 1132
+★ Stars: 1150
 
 [Open repository](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1132 | 55 | 
+| 2023-04-04 | 1150 | 56 | 
 | 2023-04-03 | 1130 | 55 | 
 | 2023-04-02 | 1107 | 52 | 
 | 2023-03-31 | 1074 | 51 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 902 | 41 | 
 | 2023-03-07 | 890 | 40 | 
 | 2023-03-06 | 889 | 40 | 
-| 2023-03-05 | 880 | 39 | 
 

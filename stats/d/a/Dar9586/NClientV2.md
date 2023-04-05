@@ -1,10 +1,10 @@
 # Dar9586/NClientV2 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 91
 
-★ Stars: 1317
+★ Stars: 1319
 
 [Open repository](https://github.com/Dar9586/NClientV2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1319 | 91 | 
 | 2023-04-03 | 1317 | 91 | 
 | 2023-04-02 | 1318 | 91 | 
 | 2023-03-30 | 1315 | 91 | 

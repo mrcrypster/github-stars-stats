@@ -1,10 +1,10 @@
 # JPHaus/data-engineering-wiki - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 47
 
-★ Stars: 546
+★ Stars: 547
 
 [Open repository](https://github.com/JPHaus/data-engineering-wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 547 | 47 | 
 | 2023-04-02 | 546 | 47 | 
 | 2023-04-01 | 544 | 47 | 
 | 2023-03-30 | 536 | 47 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-10 | 493 | 40 | 
 | 2023-03-08 | 491 | 40 | 
 | 2023-03-06 | 487 | 39 | 
-| 2023-03-05 | 486 | 39 | 
 

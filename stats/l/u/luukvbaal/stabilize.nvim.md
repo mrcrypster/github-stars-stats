@@ -1,10 +1,10 @@
 # luukvbaal/stabilize.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 331
+★ Stars: 330
 
 [Open repository](https://github.com/luukvbaal/stabilize.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 330 | 3 | 
 | 2023-04-02 | 331 | 3 | 
 | 2023-03-30 | 331 | 3 | 
 | 2023-03-28 | 331 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 331 | 3 | 
 | 2023-03-08 | 331 | 3 | 
 | 2023-03-07 | 331 | 3 | 
-| 2023-03-05 | 331 | 3 | 
 

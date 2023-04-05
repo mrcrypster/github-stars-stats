@@ -1,10 +1,10 @@
 # twitter/go-bindata - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 35
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/twitter/go-bindata)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 55 | 35 | 
 | 2023-04-03 | 54 | 35 | 
 

@@ -1,8 +1,8 @@
 # ramdevops03/DevOps-Team-Repo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 19
+☋ Forks: 18
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 18 | 
 | 2023-04-03 | 2 | 19 | 
 | 2023-03-31 | 1 | 19 | 
 | 2023-03-29 | 1 | 19 | 

@@ -1,6 +1,6 @@
 # reagent-project/reagent - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 411
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4622 | 411 | 
 | 2023-04-03 | 4622 | 411 | 
 | 2023-04-01 | 4620 | 411 | 
 | 2023-03-29 | 4620 | 411 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 4610 | 412 | 
 | 2023-03-08 | 4610 | 411 | 
 | 2023-03-07 | 4601 | 411 | 
-| 2023-03-05 | 4602 | 411 | 
 

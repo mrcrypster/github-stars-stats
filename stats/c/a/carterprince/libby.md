@@ -1,6 +1,6 @@
 # carterprince/libby - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 132 | 1 | 
 | 2023-04-03 | 132 | 1 | 
 | 2023-03-31 | 131 | 1 | 
 | 2023-03-29 | 130 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 128 | 1 | 
 | 2023-03-08 | 128 | 1 | 
 | 2023-03-07 | 128 | 1 | 
-| 2023-03-05 | 128 | 1 | 
 

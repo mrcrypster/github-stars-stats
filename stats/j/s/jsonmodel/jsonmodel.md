@@ -1,10 +1,10 @@
 # jsonmodel/jsonmodel - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1069
 
-★ Stars: 6849
+★ Stars: 6850
 
 [Open repository](https://github.com/jsonmodel/jsonmodel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6850 | 1069 | 
 | 2023-04-03 | 6849 | 1069 | 
 | 2023-04-01 | 6849 | 1069 | 
 | 2023-03-31 | 6849 | 1069 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 6856 | 1069 | 
 | 2023-03-08 | 6853 | 1069 | 
 | 2023-03-07 | 6854 | 1069 | 
-| 2023-03-05 | 6854 | 1069 | 
 

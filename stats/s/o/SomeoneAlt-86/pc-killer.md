@@ -1,6 +1,6 @@
 # SomeoneAlt-86/pc-killer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 14 | 5 | 
 | 2023-04-03 | 14 | 5 | 
 | 2023-03-31 | 14 | 5 | 
 | 2023-03-29 | 14 | 5 | 

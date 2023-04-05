@@ -1,6 +1,6 @@
 # GaryOderNichts/udpih - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 197 | 13 | 
 | 2023-04-03 | 197 | 13 | 
 | 2023-04-02 | 194 | 13 | 
 | 2023-03-31 | 193 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 104 | 3 | 
 | 2023-03-07 | 102 | 3 | 
 | 2023-03-06 | 93 | 3 | 
-| 2023-03-05 | 93 | 3 | 
 

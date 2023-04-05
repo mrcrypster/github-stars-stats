@@ -1,6 +1,6 @@
 # lyr408/CryptocurrencyWallet - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 55 | 40 | 
 | 2023-04-03 | 55 | 40 | 
 | 2023-04-02 | 55 | 40 | 
 | 2023-03-31 | 54 | 40 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 53 | 37 | 
 | 2023-03-09 | 53 | 37 | 
 | 2023-03-07 | 53 | 37 | 
-| 2023-03-05 | 53 | 37 | 
 

@@ -1,8 +1,8 @@
 # doka-guide/content - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 463
+☋ Forks: 464
 
 ★ Stars: 855
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 855 | 464 | 
 | 2023-04-03 | 855 | 463 | 
 | 2023-03-31 | 854 | 463 | 
 | 2023-03-29 | 854 | 462 | 

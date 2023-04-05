@@ -1,10 +1,10 @@
 # hellzerg/optimizer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 428
 
-★ Stars: 4703
+★ Stars: 4712
 
 [Open repository](https://github.com/hellzerg/optimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4712 | 428 | 
 | 2023-04-03 | 4703 | 428 | 
 | 2023-04-02 | 4697 | 426 | 
 | 2023-03-31 | 4686 | 426 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 4504 | 415 | 
 | 2023-03-08 | 4489 | 415 | 
 | 2023-03-07 | 4463 | 412 | 
-| 2023-03-06 | 4443 | 411 | 
 

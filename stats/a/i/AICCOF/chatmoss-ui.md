@@ -1,10 +1,10 @@
 # AICCOF/chatmoss-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/AICCOF/chatmoss-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 30 | 14 | 
 | 2023-04-03 | 28 | 12 | 
 | 2023-04-02 | 27 | 12 | 
 | 2023-03-29 | 18 | 10 | 

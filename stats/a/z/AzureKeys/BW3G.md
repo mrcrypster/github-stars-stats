@@ -1,8 +1,8 @@
 # AzureKeys/BW3G - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 57 | 4 | 
 | 2023-04-03 | 57 | 3 | 
 | 2023-04-01 | 57 | 3 | 
 | 2023-03-30 | 57 | 3 | 

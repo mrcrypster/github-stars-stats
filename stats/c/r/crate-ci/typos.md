@@ -1,10 +1,10 @@
 # crate-ci/typos - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 57
 
-★ Stars: 1111
+★ Stars: 1112
 
 [Open repository](https://github.com/crate-ci/typos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1112 | 57 | 
 | 2023-04-03 | 1111 | 57 | 
 | 2023-04-01 | 1102 | 57 | 
 | 2023-03-30 | 1099 | 57 | 

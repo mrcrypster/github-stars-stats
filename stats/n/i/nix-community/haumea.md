@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 52
+★ Stars: 54
 
 [Open repository](https://github.com/nix-community/haumea)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 52 | - | 
+| 2023-04-04 | 54 | - | 
 | 2023-04-03 | 49 | - | 
 

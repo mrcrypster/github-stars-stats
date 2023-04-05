@@ -1,6 +1,6 @@
 # amices/ggmice - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 23 | 7 | 
 | 2023-04-03 | 23 | 7 | 
 | 2023-04-01 | 23 | 7 | 
 | 2023-03-30 | 23 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 23 | 6 | 
 | 2023-03-08 | 23 | 6 | 
 | 2023-03-07 | 23 | 6 | 
-| 2023-03-05 | 23 | 6 | 
 

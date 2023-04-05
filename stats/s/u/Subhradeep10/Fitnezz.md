@@ -1,6 +1,6 @@
 # Subhradeep10/Fitnezz - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 41 | 56 | 
 | 2023-04-03 | 41 | 56 | 
 | 2023-04-02 | 41 | 56 | 
 | 2023-03-30 | 41 | 56 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 40 | 57 | 
 | 2023-03-08 | 40 | 57 | 
 | 2023-03-07 | 40 | 57 | 
-| 2023-03-05 | 40 | 57 | 
 

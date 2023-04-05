@@ -1,6 +1,6 @@
 # litex-hub/pythondata-cpu-ibex - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 2 | 
 | 2023-04-03 | 3 | 2 | 
 | 2023-04-02 | 3 | 2 | 
 | 2023-03-30 | 3 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3 | 2 | 
 | 2023-03-07 | 3 | 2 | 
 | 2023-03-06 | 3 | 2 | 
-| 2023-03-05 | 3 | 2 | 
 

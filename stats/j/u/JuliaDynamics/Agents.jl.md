@@ -1,6 +1,6 @@
 # JuliaDynamics/Agents.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 541 | 98 | 
 | 2023-04-03 | 541 | 98 | 
 | 2023-04-02 | 541 | 98 | 
 | 2023-03-30 | 539 | 98 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 535 | 96 | 
 | 2023-03-08 | 536 | 96 | 
 | 2023-03-07 | 534 | 96 | 
-| 2023-03-06 | 534 | 96 | 
 

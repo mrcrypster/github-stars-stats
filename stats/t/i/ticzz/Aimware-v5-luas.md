@@ -1,6 +1,6 @@
 # ticzz/Aimware-v5-luas - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 42 | 72 | 
 | 2023-04-03 | 42 | 72 | 
 | 2023-03-31 | 42 | 70 | 
 | 2023-03-29 | 42 | 69 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 43 | 64 | 
 | 2023-03-08 | 42 | 63 | 
 | 2023-03-06 | 42 | 62 | 
-| 2023-03-05 | 42 | 62 | 
 

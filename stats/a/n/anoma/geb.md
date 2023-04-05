@@ -1,8 +1,8 @@
 # anoma/geb - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 10 | 6 | 
 | 2023-04-03 | 10 | 5 | 
 | 2023-04-02 | 10 | 5 | 
 | 2023-03-30 | 10 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 10 | 4 | 
 | 2023-03-08 | 9 | 4 | 
 | 2023-03-06 | 9 | 4 | 
-| 2023-03-05 | 9 | 4 | 
 

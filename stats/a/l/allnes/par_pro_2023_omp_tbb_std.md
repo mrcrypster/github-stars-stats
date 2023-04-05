@@ -1,8 +1,8 @@
 # allnes/par_pro_2023_omp_tbb_std - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1 | 82 | 
 | 2023-04-03 | 1 | 81 | 
 | 2023-04-02 | 1 | 81 | 
 | 2023-04-01 | 1 | 72 | 

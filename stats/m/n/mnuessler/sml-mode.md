@@ -1,0 +1,18 @@
+# mnuessler/sml-mode - stars & forks statistics
+
+Stats updated on Apr 2023, 05
+
+☋ Forks: 6
+
+★ Stars: 0
+
+[Open repository](https://github.com/mnuessler/sml-mode)
+
+[Open detailed stats for mnuessler/sml-mode](https://reviewgithub.com/rep/mnuessler/sml-mode)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-05 | - | 6 | 
+| 2023-04-04 | - | 6 | 
+

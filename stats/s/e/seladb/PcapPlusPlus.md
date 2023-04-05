@@ -1,10 +1,10 @@
 # seladb/PcapPlusPlus - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 561
 
-★ Stars: 2196
+★ Stars: 2198
 
 [Open repository](https://github.com/seladb/PcapPlusPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2198 | 561 | 
 | 2023-04-03 | 2196 | 561 | 
 | 2023-03-31 | 2196 | 561 | 
 | 2023-03-29 | 2195 | 560 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2162 | 549 | 
 | 2023-03-08 | 2161 | 549 | 
 | 2023-03-06 | 2159 | 549 | 
-| 2023-03-05 | 2157 | 549 | 
 

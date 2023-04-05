@@ -1,10 +1,10 @@
 # kathrinse/TabSurvey - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 38
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/kathrinse/TabSurvey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 175 | 38 | 
 | 2023-04-03 | 174 | 38 | 
 | 2023-04-02 | 174 | 38 | 
 | 2023-03-30 | 174 | 38 | 

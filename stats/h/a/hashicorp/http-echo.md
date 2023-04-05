@@ -1,10 +1,10 @@
 # hashicorp/http-echo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 117
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/hashicorp/http-echo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 253 | 117 | 
 | 2023-04-03 | 252 | 117 | 
 | 2023-04-01 | 252 | 117 | 
 | 2023-03-29 | 252 | 117 | 

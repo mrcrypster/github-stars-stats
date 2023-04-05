@@ -1,10 +1,10 @@
 # m1k1o/neko - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 254
 
-★ Stars: 3261
+★ Stars: 3276
 
 [Open repository](https://github.com/m1k1o/neko)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3276 | 254 | 
 | 2023-04-03 | 3261 | 254 | 
 | 2023-04-01 | 3153 | 252 | 
 | 2023-03-29 | 3145 | 249 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3065 | 241 | 
 | 2023-03-08 | 3059 | 241 | 
 | 2023-03-07 | 3057 | 240 | 
-| 2023-03-05 | 3056 | 240 | 
 

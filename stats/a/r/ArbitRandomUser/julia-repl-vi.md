@@ -1,6 +1,6 @@
 # ArbitRandomUser/julia-repl-vi - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 14 | - | 
 | 2023-04-03 | 14 | - | 
 | 2023-04-02 | 14 | - | 
 | 2023-03-30 | 14 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 14 | - | 
 | 2023-03-08 | 14 | - | 
 | 2023-03-07 | 14 | - | 
-| 2023-03-06 | 14 | - | 
 

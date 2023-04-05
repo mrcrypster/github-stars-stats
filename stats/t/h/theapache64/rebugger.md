@@ -1,10 +1,10 @@
 # theapache64/rebugger - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 264
+★ Stars: 267
 
 [Open repository](https://github.com/theapache64/rebugger)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 267 | 3 | 
 | 2023-04-03 | 264 | 3 | 
 | 2023-04-02 | 205 | 3 | 
 

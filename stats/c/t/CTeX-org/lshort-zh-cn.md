@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 321
 
-★ Stars: 1974
+★ Stars: 1975
 
 [Open repository](https://github.com/CTeX-org/lshort-zh-cn)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1974 | 321 | 
+| 2023-04-04 | 1975 | 321 | 
 | 2023-04-03 | 1974 | 321 | 
 | 2023-04-02 | 1972 | 321 | 
 | 2023-04-01 | 1970 | 320 | 

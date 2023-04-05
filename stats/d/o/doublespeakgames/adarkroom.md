@@ -1,10 +1,10 @@
 # doublespeakgames/adarkroom - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1491
 
-★ Stars: 6321
+★ Stars: 6326
 
 [Open repository](https://github.com/doublespeakgames/adarkroom)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6326 | 1491 | 
 | 2023-04-03 | 6321 | 1491 | 
 | 2023-03-31 | 6319 | 1492 | 
 | 2023-03-29 | 6319 | 1491 | 

@@ -1,6 +1,6 @@
 # tpope/vim-speeddating - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 835 | 42 | 
 | 2023-04-03 | 835 | 42 | 
 | 2023-03-31 | 827 | 42 | 
 | 2023-03-30 | 827 | 42 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 829 | 42 | 
 | 2023-03-08 | 829 | 42 | 
 | 2023-03-07 | 829 | 42 | 
-| 2023-03-05 | 829 | 42 | 
 

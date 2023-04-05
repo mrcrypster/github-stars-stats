@@ -1,6 +1,6 @@
 # EliverLara/Sweet - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1211 | 82 | 
 | 2023-04-03 | 1211 | 82 | 
 | 2023-04-01 | 1211 | 82 | 
 | 2023-03-30 | 1211 | 81 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1197 | 82 | 
 | 2023-03-08 | 1197 | 82 | 
 | 2023-03-06 | 1198 | 82 | 
-| 2023-03-05 | 1198 | 82 | 
 

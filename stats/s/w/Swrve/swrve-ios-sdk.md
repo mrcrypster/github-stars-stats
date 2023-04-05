@@ -1,6 +1,6 @@
 # Swrve/swrve-ios-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 16 | 34 | 
 | 2023-04-03 | 16 | 34 | 
 | 2023-03-31 | 16 | 34 | 
 | 2023-03-29 | 16 | 34 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 16 | 34 | 
 | 2023-03-08 | 16 | 34 | 
 | 2023-03-06 | 16 | 34 | 
-| 2023-03-05 | 16 | 34 | 
 

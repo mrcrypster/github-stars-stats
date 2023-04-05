@@ -1,10 +1,10 @@
 # jOOQ/jOOQ - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1135
+☋ Forks: 1134
 
-★ Stars: 5367
+★ Stars: 5368
 
 [Open repository](https://github.com/jOOQ/jOOQ)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5368 | 1134 | 
 | 2023-04-03 | 5367 | 1135 | 
 | 2023-04-02 | 5365 | 1133 | 
 | 2023-03-30 | 5361 | 1133 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 5341 | 1127 | 
 | 2023-03-08 | 5334 | 1127 | 
 | 2023-03-07 | 5331 | 1128 | 
-| 2023-03-06 | 5331 | 1128 | 
 

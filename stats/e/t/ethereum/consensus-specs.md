@@ -1,10 +1,10 @@
 # ethereum/consensus-specs - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 809
+☋ Forks: 810
 
-★ Stars: 3107
+★ Stars: 3110
 
 [Open repository](https://github.com/ethereum/consensus-specs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3110 | 810 | 
 | 2023-04-03 | 3107 | 809 | 
 | 2023-03-31 | 3102 | 807 | 
 | 2023-03-29 | 3092 | 805 | 

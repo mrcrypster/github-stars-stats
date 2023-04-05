@@ -1,10 +1,10 @@
 # xxxyanchenxxx/SigKill - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 79
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/xxxyanchenxxx/SigKill)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 212 | 79 | 
 | 2023-04-03 | 211 | 79 | 
 | 2023-04-02 | 211 | 79 | 
 | 2023-03-31 | 211 | 79 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 211 | 79 | 
 | 2023-03-08 | 211 | 79 | 
 | 2023-03-06 | 211 | 79 | 
-| 2023-03-05 | 211 | 79 | 
 

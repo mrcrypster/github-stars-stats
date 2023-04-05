@@ -1,10 +1,10 @@
 # I-Am-Jakoby/PowerShell-for-Hackers - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 51
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 460 | 51 | 
 | 2023-04-03 | 459 | 51 | 
 | 2023-04-02 | 457 | 51 | 
 | 2023-03-31 | 454 | 50 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 442 | 49 | 
 | 2023-03-08 | 440 | 49 | 
 | 2023-03-07 | 439 | 49 | 
-| 2023-03-05 | 436 | 49 | 
 

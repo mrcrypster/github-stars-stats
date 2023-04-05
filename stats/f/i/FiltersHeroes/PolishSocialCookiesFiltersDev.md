@@ -1,10 +1,10 @@
 # FiltersHeroes/PolishSocialCookiesFiltersDev - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/FiltersHeroes/PolishSocialCookiesFiltersDev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 2 | 
 | 2023-04-03 | 4 | 2 | 
 | 2023-04-01 | 4 | 2 | 
 | 2023-03-29 | 4 | 2 | 

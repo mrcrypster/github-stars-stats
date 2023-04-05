@@ -1,10 +1,10 @@
 # jozhn/ddmc.monitor - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 28
 
-★ Stars: 83
+★ Stars: 82
 
 [Open repository](https://github.com/jozhn/ddmc.monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 82 | 28 | 
 | 2023-04-03 | 83 | 28 | 
 | 2023-04-02 | 83 | 28 | 
 | 2023-03-30 | 83 | 28 | 

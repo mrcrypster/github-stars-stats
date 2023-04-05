@@ -1,0 +1,17 @@
+# BitcoinDesign/Guide - stars & forks statistics
+
+Stats updated on Apr 2023, 04
+
+☋ Forks: 94
+
+★ Stars: 368
+
+[Open repository](https://github.com/BitcoinDesign/Guide)
+
+[Open detailed stats for BitcoinDesign/Guide](https://reviewgithub.com/rep/BitcoinDesign/Guide)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-04 | 368 | 94 | 
+

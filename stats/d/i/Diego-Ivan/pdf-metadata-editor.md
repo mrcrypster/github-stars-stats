@@ -1,6 +1,6 @@
 # Diego-Ivan/pdf-metadata-editor - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 22 | 6 | 
 | 2023-04-03 | 22 | 6 | 
 | 2023-03-31 | 22 | 6 | 
 | 2023-03-29 | 21 | 6 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 19 | 5 | 
 | 2023-03-08 | 17 | 5 | 
 | 2023-03-06 | 14 | 5 | 
-| 2023-03-05 | 14 | 5 | 
 

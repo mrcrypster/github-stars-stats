@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 30
 
-★ Stars: 425
+★ Stars: 427
 
 [Open repository](https://github.com/astro/microvm.nix)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 425 | 30 | 
+| 2023-04-04 | 427 | 30 | 
 | 2023-04-03 | 425 | 30 | 
 | 2023-04-02 | 425 | 30 | 
 | 2023-03-31 | 423 | 30 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 391 | 29 | 
 | 2023-03-08 | 389 | 29 | 
 | 2023-03-07 | 387 | 29 | 
-| 2023-03-05 | 386 | 28 | 
 

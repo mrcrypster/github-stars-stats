@@ -1,8 +1,8 @@
 # trananhtuat/react-movie - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 131
+☋ Forks: 132
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 171 | 132 | 
 | 2023-04-03 | 171 | 131 | 
 | 2023-03-31 | 171 | 129 | 
 | 2023-03-29 | 171 | 128 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 166 | 124 | 
 | 2023-03-08 | 165 | 124 | 
 | 2023-03-07 | 165 | 124 | 
-| 2023-03-05 | 165 | 123 | 
 

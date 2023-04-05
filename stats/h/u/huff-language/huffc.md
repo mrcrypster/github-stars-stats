@@ -1,6 +1,6 @@
 # huff-language/huffc - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 260 | 30 | 
 | 2023-04-02 | 260 | 30 | 
 | 2023-03-31 | 260 | 30 | 
 | 2023-03-29 | 259 | 30 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 256 | 29 | 
 | 2023-03-08 | 256 | 29 | 
 | 2023-03-07 | 256 | 29 | 
-| 2023-03-05 | 256 | 28 | 
 

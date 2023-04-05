@@ -1,6 +1,6 @@
 # linkedin/feathr - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1721 | 226 | 
 | 2023-04-03 | 1721 | 226 | 
 | 2023-03-31 | 1718 | 227 | 
 | 2023-03-29 | 1708 | 224 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 1564 | 194 | 
 | 2023-03-08 | 1551 | 190 | 
 | 2023-03-07 | 1541 | 190 | 
-| 2023-03-05 | 1531 | 187 | 
 

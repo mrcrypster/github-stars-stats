@@ -1,6 +1,6 @@
 # edx/ux-pattern-library - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 279 | 43 | 
 | 2023-04-03 | 279 | 43 | 
 | 2023-03-31 | 279 | 43 | 
 | 2023-03-29 | 279 | 43 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 279 | 43 | 
 | 2023-03-08 | 279 | 43 | 
 | 2023-03-07 | 279 | 43 | 
-| 2023-03-05 | 278 | 43 | 
 

@@ -1,10 +1,10 @@
 # 7eu7d7/DreamArtist-stable-diffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 51
 
-★ Stars: 767
+★ Stars: 768
 
 [Open repository](https://github.com/7eu7d7/DreamArtist-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 768 | 51 | 
 | 2023-04-03 | 767 | 51 | 
 | 2023-03-31 | 767 | 51 | 
 | 2023-03-29 | 768 | 51 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 753 | 49 | 
 | 2023-03-08 | 751 | 49 | 
 | 2023-03-06 | 751 | 49 | 
-| 2023-03-05 | 748 | 48 | 
 

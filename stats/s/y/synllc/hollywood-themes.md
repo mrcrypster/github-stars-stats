@@ -1,6 +1,6 @@
 # synllc/hollywood-themes - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4 | 8 | 
 | 2023-04-03 | 4 | 8 | 
 | 2023-04-02 | 4 | 8 | 
 | 2023-03-30 | 4 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 4 | 8 | 
 | 2023-03-07 | 4 | 8 | 
 | 2023-03-06 | 4 | 8 | 
-| 2023-03-05 | 4 | 8 | 
 

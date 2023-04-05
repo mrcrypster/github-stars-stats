@@ -1,10 +1,10 @@
 # AlexandreRouma/SDRPlusPlus - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 348
 
-★ Stars: 2448
+★ Stars: 2450
 
 [Open repository](https://github.com/AlexandreRouma/SDRPlusPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2450 | 348 | 
 | 2023-04-03 | 2448 | 348 | 
 | 2023-03-31 | 2443 | 348 | 
 | 2023-03-29 | 2437 | 347 | 

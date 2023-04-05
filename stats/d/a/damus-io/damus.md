@@ -1,10 +1,10 @@
 # damus-io/damus - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 235
+☋ Forks: 237
 
-★ Stars: 1700
+★ Stars: 1701
 
 [Open repository](https://github.com/damus-io/damus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1701 | 237 | 
 | 2023-04-03 | 1700 | 235 | 
 | 2023-03-31 | 1697 | 232 | 
 | 2023-03-29 | 1691 | 230 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1661 | 226 | 
 | 2023-03-07 | 1657 | 225 | 
 | 2023-03-06 | 1656 | 224 | 
-| 2023-03-05 | 1653 | 222 | 
 

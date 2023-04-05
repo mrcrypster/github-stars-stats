@@ -1,6 +1,6 @@
 # webmproject/libwebp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 434
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1657 | 434 | 
 | 2023-04-03 | 1657 | 434 | 
 | 2023-04-02 | 1657 | 433 | 
 | 2023-03-31 | 1656 | 433 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1643 | 429 | 
 | 2023-03-08 | 1641 | 429 | 
 | 2023-03-06 | 1640 | 429 | 
-| 2023-03-05 | 1639 | 429 | 
 

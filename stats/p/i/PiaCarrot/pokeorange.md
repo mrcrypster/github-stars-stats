@@ -1,8 +1,8 @@
 # PiaCarrot/pokeorange - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 131
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 131 | 21 | 
 | 2023-04-03 | 131 | 20 | 
 | 2023-03-31 | 129 | 20 | 
 | 2023-03-29 | 129 | 20 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 129 | 20 | 
 | 2023-03-07 | 128 | 20 | 
 | 2023-03-06 | 128 | 20 | 
-| 2023-03-05 | 127 | 20 | 
 

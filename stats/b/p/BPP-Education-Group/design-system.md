@@ -1,0 +1,17 @@
+# BPP-Education-Group/design-system - stars & forks statistics
+
+Stats updated on Apr 2023, 04
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/BPP-Education-Group/design-system)
+
+[Open detailed stats for BPP-Education-Group/design-system](https://reviewgithub.com/rep/BPP-Education-Group/design-system)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-04 | - | - | 
+

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/nsbno/terraform-grafana-service-dashboard)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | - | - | 
+| 2023-04-04 | 1 | - | 
 | 2023-04-03 | - | - | 
 | 2023-04-02 | - | - | 
 | 2023-03-31 | - | - | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | - | - | 
 | 2023-03-07 | - | - | 
 | 2023-03-06 | - | - | 
-| 2023-03-05 | - | - | 
 

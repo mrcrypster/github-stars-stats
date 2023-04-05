@@ -1,8 +1,8 @@
 # Leapsight/bondy - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 9
+☋ Forks: 8
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 77 | 8 | 
 | 2023-04-03 | 77 | 9 | 
 | 2023-03-31 | 76 | 9 | 
 | 2023-03-29 | 76 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 75 | 9 | 
 | 2023-03-08 | 75 | 9 | 
 | 2023-03-06 | 73 | 9 | 
-| 2023-03-05 | 74 | 9 | 
 

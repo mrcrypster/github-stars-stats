@@ -1,6 +1,6 @@
 # ITZ-ZAID/Railway - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 8 | 82 | 
 | 2023-04-03 | 8 | 82 | 
 | 2023-04-01 | 8 | 82 | 
 | 2023-03-30 | 8 | 82 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 7 | 69 | 
 | 2023-03-07 | 6 | 65 | 
 | 2023-03-06 | 6 | 65 | 
-| 2023-03-05 | 6 | 64 | 
 

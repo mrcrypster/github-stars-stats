@@ -1,6 +1,6 @@
 # trussworks/terraform-aws-cloudtrail - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 44 | 27 | 
 | 2023-04-03 | 44 | 27 | 
 | 2023-04-02 | 44 | 27 | 
 | 2023-04-01 | 44 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 44 | 28 | 
 | 2023-03-08 | 44 | 28 | 
 | 2023-03-07 | 44 | 28 | 
-| 2023-03-05 | 44 | 28 | 
 

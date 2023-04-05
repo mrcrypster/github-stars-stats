@@ -1,8 +1,8 @@
 # RoganDawes/P4wnP1_aloa - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 432
+☋ Forks: 433
 
 ★ Stars: 2866
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2866 | 433 | 
 | 2023-04-03 | 2866 | 432 | 
 | 2023-04-02 | 2862 | 430 | 
 | 2023-03-30 | 2852 | 426 | 

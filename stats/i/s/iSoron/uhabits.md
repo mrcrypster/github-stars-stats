@@ -1,6 +1,6 @@
 # iSoron/uhabits - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 824
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6066 | 824 | 
 | 2023-04-03 | 6066 | 824 | 
 | 2023-04-01 | 6060 | 823 | 
 | 2023-03-31 | 6058 | 823 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 5973 | 824 | 
 | 2023-03-07 | 5969 | 824 | 
 | 2023-03-06 | 5964 | 824 | 
-| 2023-03-05 | 5960 | 824 | 
 

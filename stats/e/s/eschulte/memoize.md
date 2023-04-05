@@ -1,0 +1,18 @@
+# eschulte/memoize - stars & forks statistics
+
+Stats updated on Apr 2023, 05
+
+☋ Forks: 0
+
+★ Stars: 4
+
+[Open repository](https://github.com/eschulte/memoize)
+
+[Open detailed stats for eschulte/memoize](https://reviewgithub.com/rep/eschulte/memoize)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-05 | 4 | - | 
+| 2023-04-04 | 4 | - | 
+

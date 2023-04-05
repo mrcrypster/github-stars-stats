@@ -1,10 +1,10 @@
 # johnpatrickmorgan/NavigationBackport - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 28
 
-★ Stars: 605
+★ Stars: 606
 
 [Open repository](https://github.com/johnpatrickmorgan/NavigationBackport)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 606 | 28 | 
 | 2023-04-03 | 605 | 28 | 
 | 2023-04-02 | 603 | 28 | 
 | 2023-03-30 | 602 | 28 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 585 | 26 | 
 | 2023-03-07 | 585 | 26 | 
 | 2023-03-06 | 585 | 26 | 
-| 2023-03-05 | 584 | 26 | 
 

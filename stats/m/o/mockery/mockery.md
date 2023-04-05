@@ -1,10 +1,10 @@
 # mockery/mockery - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 461
 
-★ Stars: 10384
+★ Stars: 10385
 
 [Open repository](https://github.com/mockery/mockery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 10385 | 461 | 
 | 2023-04-03 | 10384 | 461 | 
 | 2023-03-31 | 10385 | 461 | 
 | 2023-03-29 | 10380 | 461 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 10369 | 461 | 
 | 2023-03-08 | 10368 | 461 | 
 | 2023-03-06 | 10366 | 461 | 
-| 2023-03-05 | 10366 | 460 | 
 

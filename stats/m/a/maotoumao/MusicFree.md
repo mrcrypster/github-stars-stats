@@ -1,10 +1,10 @@
 # maotoumao/MusicFree - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 177
 
-★ Stars: 1542
+★ Stars: 1546
 
 [Open repository](https://github.com/maotoumao/MusicFree)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1546 | 177 | 
 | 2023-04-03 | 1542 | 177 | 
 | 2023-04-01 | 1537 | 178 | 
 | 2023-03-31 | 1535 | 177 | 

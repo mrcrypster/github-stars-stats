@@ -1,6 +1,6 @@
 # seanpm2001/DeGoogle-your-life-Graveyard-catalogue - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4 | 1 | 
 | 2023-04-03 | 4 | 1 | 
 | 2023-04-02 | 4 | 1 | 
 | 2023-03-30 | 4 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3 | 1 | 
 | 2023-03-07 | 3 | 1 | 
 | 2023-03-06 | 3 | 1 | 
-| 2023-03-05 | 3 | 1 | 
 

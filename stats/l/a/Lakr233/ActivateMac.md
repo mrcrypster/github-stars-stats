@@ -1,6 +1,6 @@
 # Lakr233/ActivateMac - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 218 | 13 | 
 | 2023-04-03 | 218 | 13 | 
 | 2023-03-31 | 218 | 13 | 
 | 2023-03-29 | 217 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 206 | 12 | 
 | 2023-03-07 | 206 | 12 | 
 | 2023-03-06 | 205 | 12 | 
-| 2023-03-05 | 204 | 11 | 
 

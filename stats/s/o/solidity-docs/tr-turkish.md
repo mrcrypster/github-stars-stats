@@ -1,6 +1,6 @@
 # solidity-docs/tr-turkish - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 24 | 17 | 
 | 2023-04-03 | 24 | 17 | 
 | 2023-04-02 | 24 | 17 | 
 | 2023-03-29 | 24 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 24 | 17 | 
 | 2023-03-08 | 24 | 17 | 
 | 2023-03-07 | 24 | 17 | 
-| 2023-03-06 | 24 | 17 | 
 

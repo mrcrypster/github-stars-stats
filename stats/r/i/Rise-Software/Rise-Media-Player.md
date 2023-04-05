@@ -1,6 +1,6 @@
 # Rise-Software/Rise-Media-Player - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 793 | 62 | 
 | 2023-04-03 | 793 | 62 | 
 | 2023-03-31 | 791 | 60 | 
 | 2023-03-29 | 790 | 59 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 769 | 58 | 
 | 2023-03-08 | 768 | 58 | 
 | 2023-03-06 | 766 | 58 | 
-| 2023-03-05 | 765 | 58 | 
 

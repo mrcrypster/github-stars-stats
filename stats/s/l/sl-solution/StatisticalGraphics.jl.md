@@ -1,6 +1,6 @@
 # sl-solution/StatisticalGraphics.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 32 | - | 
 | 2023-04-02 | 32 | - | 
 | 2023-03-30 | 31 | - | 
 | 2023-03-28 | 31 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 31 | - | 
 | 2023-03-08 | 31 | - | 
 | 2023-03-06 | 30 | - | 
-| 2023-03-05 | 30 | - | 
 

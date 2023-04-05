@@ -1,8 +1,8 @@
 # OHDSI/CohortDiagnostics - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 33 | 36 | 
 | 2023-04-03 | 33 | 35 | 
 | 2023-04-02 | 33 | 35 | 
 | 2023-03-31 | 33 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 33 | 35 | 
 | 2023-03-08 | 33 | 35 | 
 | 2023-03-06 | 32 | 35 | 
-| 2023-03-05 | 32 | 35 | 
 

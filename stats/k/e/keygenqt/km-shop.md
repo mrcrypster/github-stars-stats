@@ -1,6 +1,6 @@
 # keygenqt/km-shop - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 134 | 13 | 
 | 2023-04-03 | 134 | 13 | 
 | 2023-03-31 | 134 | 13 | 
 | 2023-03-29 | 134 | 13 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 132 | 13 | 
 | 2023-03-08 | 132 | 13 | 
 | 2023-03-07 | 132 | 13 | 
-| 2023-03-05 | 132 | 13 | 
 

@@ -1,6 +1,6 @@
 # letmaik/rawpy - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 434 | 51 | 
 | 2023-04-03 | 434 | 51 | 
 | 2023-04-01 | 434 | 51 | 
 | 2023-03-30 | 434 | 51 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 418 | 48 | 
 | 2023-03-07 | 418 | 48 | 
 | 2023-03-06 | 418 | 48 | 
-| 2023-03-05 | 418 | 48 | 
 

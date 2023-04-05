@@ -1,10 +1,10 @@
 # influxdata/flux - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 140
 
-★ Stars: 701
+★ Stars: 702
 
 [Open repository](https://github.com/influxdata/flux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 702 | 140 | 
 | 2023-04-03 | 701 | 140 | 
 | 2023-04-02 | 702 | 139 | 
 | 2023-04-01 | 702 | 139 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 698 | 137 | 
 | 2023-03-07 | 698 | 137 | 
 | 2023-03-06 | 698 | 137 | 
-| 2023-03-05 | 698 | 137 | 
 

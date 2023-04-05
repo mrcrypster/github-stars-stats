@@ -1,6 +1,6 @@
 # probcomp/adev - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 52 | - | 
 | 2023-04-03 | 52 | - | 
 | 2023-03-31 | 52 | - | 
 | 2023-03-29 | 52 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 50 | - | 
 | 2023-03-08 | 50 | - | 
 | 2023-03-06 | 50 | - | 
-| 2023-03-05 | 50 | - | 
 

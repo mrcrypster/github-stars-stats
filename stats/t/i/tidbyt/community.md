@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 306
 
-★ Stars: 216
+★ Stars: 220
 
 [Open repository](https://github.com/tidbyt/community)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 216 | 306 | 
+| 2023-04-04 | 220 | 306 | 
 | 2023-04-03 | 216 | 305 | 
 | 2023-04-02 | 215 | 304 | 
 | 2023-04-01 | 215 | 303 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 199 | 275 | 
 | 2023-03-07 | 198 | 274 | 
 | 2023-03-06 | 198 | 274 | 
-| 2023-03-05 | 198 | 271 | 
 

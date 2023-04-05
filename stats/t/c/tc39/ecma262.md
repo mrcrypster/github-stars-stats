@@ -1,8 +1,8 @@
 # tc39/ecma262 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1309
+☋ Forks: 1310
 
 ★ Stars: 14019
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 14019 | 1310 | 
 | 2023-04-03 | 14019 | 1309 | 
 | 2023-04-01 | 14016 | 1308 | 
 | 2023-03-31 | 14015 | 1307 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 13960 | 1300 | 
 | 2023-03-08 | 13955 | 1300 | 
 | 2023-03-06 | 13954 | 1300 | 
-| 2023-03-05 | 13950 | 1300 | 
 

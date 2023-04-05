@@ -1,6 +1,6 @@
 # forumone/gesso - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 60 | 12 | 
 | 2023-04-03 | 60 | 12 | 
 | 2023-03-31 | 60 | 12 | 
 | 2023-03-29 | 60 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 60 | 12 | 
 | 2023-03-08 | 60 | 12 | 
 | 2023-03-07 | 60 | 12 | 
-| 2023-03-06 | 60 | 12 | 
 

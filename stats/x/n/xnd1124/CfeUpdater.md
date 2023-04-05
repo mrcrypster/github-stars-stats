@@ -1,6 +1,6 @@
 # xnd1124/CfeUpdater - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 6 | 
 | 2023-04-03 | 36 | 6 | 
 | 2023-03-30 | 36 | 6 | 
 | 2023-03-28 | 36 | 6 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 36 | 6 | 
 | 2023-03-08 | 36 | 6 | 
 | 2023-03-06 | 36 | 6 | 
-| 2023-03-05 | 36 | 6 | 
 

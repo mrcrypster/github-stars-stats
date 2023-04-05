@@ -1,10 +1,10 @@
 # qiyuangong/leetcode - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1422
+☋ Forks: 1423
 
-★ Stars: 4732
+★ Stars: 4735
 
 [Open repository](https://github.com/qiyuangong/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4735 | 1423 | 
 | 2023-04-03 | 4732 | 1422 | 
 | 2023-04-02 | 4731 | 1423 | 
 | 2023-03-30 | 4730 | 1423 | 

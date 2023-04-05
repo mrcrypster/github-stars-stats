@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 8536
+☋ Forks: 9372
 
-★ Stars: 44620
+★ Stars: 47553
 
 [Open repository](https://github.com/twitter/the-algorithm)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 44620 | 8536 | 
+| 2023-04-04 | 47553 | 9372 | 
 | 2023-04-03 | 43945 | 8377 | 
 | 2023-04-02 | 37442 | 6862 | 
 

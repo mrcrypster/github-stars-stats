@@ -1,10 +1,10 @@
 # tmux-plugins/tpm - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 345
 
-★ Stars: 9098
+★ Stars: 9104
 
 [Open repository](https://github.com/tmux-plugins/tpm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 9104 | 345 | 
 | 2023-04-03 | 9098 | 345 | 
 | 2023-04-02 | 9094 | 345 | 
 | 2023-03-31 | 9086 | 345 | 

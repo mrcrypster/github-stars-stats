@@ -1,10 +1,10 @@
 # MoNaiZi/Note - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 9
 
-★ Stars: 164
+★ Stars: 167
 
 [Open repository](https://github.com/MoNaiZi/Note)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 167 | 9 | 
 | 2023-04-03 | 164 | 9 | 
 | 2023-04-02 | 164 | 9 | 
 | 2023-03-30 | 162 | 9 | 

@@ -1,10 +1,10 @@
 # jaywalnut310/vits - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 733
+☋ Forks: 738
 
-★ Stars: 3068
+★ Stars: 3086
 
 [Open repository](https://github.com/jaywalnut310/vits)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3086 | 738 | 
 | 2023-04-03 | 3068 | 733 | 
 | 2023-03-31 | 2977 | 719 | 
 | 2023-03-29 | 2941 | 716 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2528 | 641 | 
 | 2023-03-08 | 2470 | 630 | 
 | 2023-03-06 | 2434 | 622 | 
-| 2023-03-05 | 2393 | 619 | 
 

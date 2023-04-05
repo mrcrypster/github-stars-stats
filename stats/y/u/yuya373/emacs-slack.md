@@ -1,6 +1,6 @@
 # yuya373/emacs-slack - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1073 | 112 | 
 | 2023-04-03 | 1073 | 112 | 
 | 2023-04-02 | 1073 | 112 | 
 | 2023-03-31 | 1073 | 112 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1074 | 112 | 
 | 2023-03-08 | 1074 | 112 | 
 | 2023-03-07 | 1074 | 112 | 
-| 2023-03-06 | 1074 | 112 | 
 

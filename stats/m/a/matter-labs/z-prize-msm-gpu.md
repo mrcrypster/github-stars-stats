@@ -1,10 +1,10 @@
 # matter-labs/z-prize-msm-gpu - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/matter-labs/z-prize-msm-gpu)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | 3 | 
 | 2023-04-03 | 10 | 3 | 
 | 2023-04-02 | 10 | 3 | 
 | 2023-03-30 | 10 | 3 | 

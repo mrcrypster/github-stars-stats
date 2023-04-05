@@ -1,10 +1,10 @@
 # arttoolkit/arttoolkit.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/arttoolkit/arttoolkit.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 146 | 10 | 
 | 2023-04-03 | 145 | 10 | 
 | 2023-04-02 | 144 | 9 | 
 | 2023-03-30 | 138 | 9 | 

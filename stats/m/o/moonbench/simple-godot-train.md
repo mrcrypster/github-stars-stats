@@ -1,10 +1,10 @@
 # moonbench/simple-godot-train - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/moonbench/simple-godot-train)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 60 | 4 | 
 | 2023-04-03 | 59 | 4 | 
 | 2023-03-31 | 59 | 4 | 
 | 2023-03-29 | 58 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 55 | 3 | 
 | 2023-03-07 | 48 | 3 | 
 | 2023-03-06 | 40 | 3 | 
-| 2023-03-05 | 39 | 3 | 
 

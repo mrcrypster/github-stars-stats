@@ -1,10 +1,10 @@
 # Mixtape-Sessions/Machine-Learning - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 52
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/Mixtape-Sessions/Machine-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 121 | 52 | 
 | 2023-04-03 | 120 | 52 | 
 | 2023-03-31 | 120 | 52 | 
 | 2023-03-29 | 120 | 52 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 116 | 47 | 
 | 2023-03-08 | 116 | 47 | 
 | 2023-03-07 | 115 | 47 | 
-| 2023-03-05 | 114 | 46 | 
 

@@ -1,6 +1,6 @@
 # adafruit/Adafruit_Windows_Drivers - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 80 | 23 | 
 | 2023-04-03 | 80 | 23 | 
 | 2023-03-31 | 80 | 23 | 
 | 2023-03-29 | 80 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 80 | 23 | 
 | 2023-03-07 | 80 | 23 | 
 | 2023-03-06 | 80 | 23 | 
-| 2023-03-05 | 80 | 23 | 
 

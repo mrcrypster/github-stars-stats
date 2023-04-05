@@ -1,10 +1,10 @@
 # tommcdo/vim-exchange - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 24
 
-★ Stars: 698
+★ Stars: 700
 
 [Open repository](https://github.com/tommcdo/vim-exchange)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 700 | 24 | 
 | 2023-04-03 | 698 | 24 | 
 | 2023-04-01 | 698 | 24 | 
 | 2023-03-29 | 698 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 697 | 25 | 
 | 2023-03-07 | 697 | 25 | 
 | 2023-03-06 | 696 | 25 | 
-| 2023-03-05 | 696 | 25 | 
 

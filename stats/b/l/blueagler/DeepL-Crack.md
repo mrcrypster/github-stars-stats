@@ -1,10 +1,10 @@
 # blueagler/DeepL-Crack - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 798
+★ Stars: 805
 
 [Open repository](https://github.com/blueagler/DeepL-Crack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 805 | 62 | 
 | 2023-04-03 | 798 | 61 | 
 | 2023-04-02 | 789 | 60 | 
 | 2023-03-30 | 769 | 61 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 671 | 51 | 
 | 2023-03-08 | 660 | 49 | 
 | 2023-03-06 | 655 | 48 | 
-| 2023-03-05 | 653 | 48 | 
 

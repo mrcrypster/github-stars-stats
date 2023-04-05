@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 1111
 
-★ Stars: 4109
+★ Stars: 4112
 
 [Open repository](https://github.com/yuantuo666/baiduwp-php)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 4109 | 1111 | 
+| 2023-04-04 | 4112 | 1111 | 
 | 2023-04-03 | 4109 | 1111 | 
 | 2023-04-02 | 4104 | 1108 | 
 | 2023-03-30 | 4086 | 1107 | 

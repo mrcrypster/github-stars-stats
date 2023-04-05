@@ -1,6 +1,6 @@
 # cryptochou/blur-analysis - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 77 | 25 | 
 | 2023-04-03 | 77 | 25 | 
 | 2023-04-02 | 77 | 24 | 
 | 2023-03-30 | 75 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 66 | 17 | 
 | 2023-03-08 | 66 | 15 | 
 | 2023-03-06 | 64 | 15 | 
-| 2023-03-05 | 63 | 14 | 
 

@@ -1,6 +1,6 @@
 # unchain-dev/nft-collection-starter-project - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1 | 161 | 
 | 2023-04-03 | 1 | 161 | 
 | 2023-04-01 | 1 | 160 | 
 | 2023-03-31 | 1 | 160 | 

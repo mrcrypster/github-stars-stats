@@ -1,10 +1,10 @@
 # Tlaster/YourAV - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 106
 
-★ Stars: 1283
+★ Stars: 1284
 
 [Open repository](https://github.com/Tlaster/YourAV)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1284 | 106 | 
 | 2023-04-03 | 1283 | 106 | 
 | 2023-04-02 | 1281 | 106 | 
 | 2023-03-30 | 1277 | 107 | 

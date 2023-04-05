@@ -1,10 +1,10 @@
 # librenms/librenms - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2043
 
-★ Stars: 3131
+★ Stars: 3133
 
 [Open repository](https://github.com/librenms/librenms)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3133 | 2043 | 
 | 2023-04-03 | 3131 | 2043 | 
 | 2023-04-02 | 3130 | 2041 | 
 | 2023-03-31 | 3129 | 2040 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3089 | 2030 | 
 | 2023-03-08 | 3086 | 2029 | 
 | 2023-03-06 | 3084 | 2029 | 
-| 2023-03-05 | 3084 | 2029 | 
 

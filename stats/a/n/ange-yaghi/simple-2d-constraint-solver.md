@@ -1,6 +1,6 @@
 # ange-yaghi/simple-2d-constraint-solver - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 371 | 42 | 
 | 2023-04-03 | 371 | 42 | 
 | 2023-03-31 | 370 | 42 | 
 | 2023-03-29 | 368 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 356 | 41 | 
 | 2023-03-08 | 356 | 41 | 
 | 2023-03-06 | 357 | 41 | 
-| 2023-03-05 | 357 | 41 | 
 

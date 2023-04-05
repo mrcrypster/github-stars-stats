@@ -1,6 +1,6 @@
 # PintaProject/Pinta - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1427 | 240 | 
 | 2023-04-03 | 1427 | 240 | 
 | 2023-04-02 | 1427 | 240 | 
 | 2023-03-31 | 1425 | 240 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1407 | 237 | 
 | 2023-03-08 | 1406 | 238 | 
 | 2023-03-07 | 1405 | 239 | 
-| 2023-03-05 | 1403 | 238 | 
 

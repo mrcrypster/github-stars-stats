@@ -1,6 +1,6 @@
 # thuongtruong1009/bee-music - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 158 | 24 | 
 | 2023-04-03 | 158 | 24 | 
 | 2023-03-31 | 158 | 24 | 
 | 2023-03-29 | 158 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 153 | 24 | 
 | 2023-03-07 | 153 | 23 | 
 | 2023-03-06 | 153 | 23 | 
-| 2023-03-05 | 153 | 23 | 
 

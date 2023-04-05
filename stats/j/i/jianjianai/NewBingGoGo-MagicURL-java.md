@@ -1,10 +1,10 @@
 # jianjianai/NewBingGoGo-MagicURL-java - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 777
+☋ Forks: 958
 
-★ Stars: 29
+★ Stars: 33
 
 [Open repository](https://github.com/jianjianai/NewBingGoGo-MagicURL-java)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 33 | 958 | 
+| 2023-04-04 | 32 | 953 | 
 | 2023-04-03 | 29 | 777 | 
 | 2023-04-02 | 18 | 530 | 
 | 2023-04-01 | 18 | 493 | 

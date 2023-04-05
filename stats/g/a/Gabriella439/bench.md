@@ -1,6 +1,6 @@
 # Gabriella439/bench - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 826 | 20 | 
 | 2023-04-03 | 826 | 20 | 
 | 2023-03-31 | 826 | 20 | 
 | 2023-03-29 | 826 | 20 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 825 | 19 | 
 | 2023-03-08 | 825 | 19 | 
 | 2023-03-06 | 825 | 19 | 
-| 2023-03-05 | 824 | 19 | 
 

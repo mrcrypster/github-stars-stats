@@ -1,6 +1,6 @@
 # tweag/rules_haskell - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 249 | 77 | 
 | 2023-04-03 | 249 | 77 | 
 | 2023-03-31 | 248 | 77 | 
 | 2023-03-29 | 248 | 77 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 246 | 77 | 
 | 2023-03-08 | 246 | 77 | 
 | 2023-03-06 | 246 | 77 | 
-| 2023-03-05 | 246 | 77 | 
 

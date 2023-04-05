@@ -1,10 +1,10 @@
 # LivewareProblems/Orion - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/LivewareProblems/Orion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 132 | 2 | 
 | 2023-04-03 | 130 | 2 | 
 | 2023-04-01 | 129 | 2 | 
 | 2023-03-31 | 128 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 99 | 2 | 
 | 2023-03-09 | 99 | 2 | 
 | 2023-03-07 | 98 | 2 | 
-| 2023-03-05 | 95 | 2 | 
 

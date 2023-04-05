@@ -1,6 +1,6 @@
 # rmaia/pavo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 55 | 14 | 
 | 2023-04-03 | 55 | 14 | 
 | 2023-04-02 | 55 | 14 | 
 | 2023-04-01 | 55 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 54 | 14 | 
 | 2023-03-08 | 54 | 14 | 
 | 2023-03-06 | 54 | 14 | 
-| 2023-03-05 | 54 | 14 | 
 

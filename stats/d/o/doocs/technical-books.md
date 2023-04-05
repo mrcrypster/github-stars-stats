@@ -1,10 +1,10 @@
 # doocs/technical-books - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 914
 
-★ Stars: 5034
+★ Stars: 5050
 
 [Open repository](https://github.com/doocs/technical-books)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5050 | 914 | 
 | 2023-04-02 | 5034 | 914 | 
 | 2023-03-30 | 5018 | 914 | 
 | 2023-03-28 | 5010 | 913 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 4977 | 909 | 
 | 2023-03-08 | 4972 | 908 | 
 | 2023-03-06 | 4968 | 907 | 
-| 2023-03-05 | 4966 | 907 | 
 

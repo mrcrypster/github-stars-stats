@@ -1,6 +1,6 @@
 # maind-supsi/1024pixels - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 3 | 
 | 2023-04-02 | 3 | 3 | 
 | 2023-04-01 | 3 | 3 | 
 | 2023-03-31 | 3 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 3 | 3 | 
 | 2023-03-07 | 3 | 3 | 
 | 2023-03-06 | 3 | 3 | 
-| 2023-03-05 | 3 | 3 | 
 

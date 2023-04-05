@@ -1,6 +1,6 @@
 # OpsConfig/OpenAI_Lab - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 48 | 36 | 
 | 2023-04-03 | 48 | 36 | 
 | 2023-04-02 | 47 | 36 | 
 | 2023-03-30 | 46 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 35 | 22 | 
 | 2023-03-07 | 31 | 22 | 
 | 2023-03-06 | 29 | 21 | 
-| 2023-03-05 | 28 | 20 | 
 

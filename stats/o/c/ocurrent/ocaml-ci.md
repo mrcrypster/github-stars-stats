@@ -1,6 +1,6 @@
 # ocurrent/ocaml-ci - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 94 | 60 | 
 | 2023-04-03 | 94 | 60 | 
 | 2023-04-01 | 94 | 60 | 
 | 2023-03-29 | 94 | 59 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 94 | 59 | 
 | 2023-03-08 | 94 | 59 | 
 | 2023-03-06 | 94 | 59 | 
-| 2023-03-05 | 94 | 59 | 
 

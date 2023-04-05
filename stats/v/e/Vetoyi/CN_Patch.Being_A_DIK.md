@@ -1,10 +1,10 @@
 # Vetoyi/CN_Patch.Being_A_DIK - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 24
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 123 | 24 | 
 | 2023-04-03 | 122 | 24 | 
 | 2023-04-02 | 120 | 23 | 
 | 2023-03-30 | 118 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 114 | 22 | 
 | 2023-03-08 | 114 | 22 | 
 | 2023-03-06 | 114 | 22 | 
-| 2023-03-05 | 113 | 22 | 
 

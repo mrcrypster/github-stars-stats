@@ -1,6 +1,6 @@
 # Klaykap/BleskOS - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 54 | 4 | 
 | 2023-04-03 | 54 | 4 | 
 | 2023-04-02 | 53 | 4 | 
 | 2023-03-31 | 52 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 50 | 4 | 
 | 2023-03-08 | 50 | 4 | 
 | 2023-03-07 | 50 | 4 | 
-| 2023-03-05 | 50 | 4 | 
 

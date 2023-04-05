@@ -1,10 +1,10 @@
 # noobnooc/ohmygpt - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 95
+☋ Forks: 97
 
-★ Stars: 155
+★ Stars: 161
 
 [Open repository](https://github.com/noobnooc/ohmygpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 161 | 97 | 
 | 2023-04-03 | 155 | 95 | 
 | 2023-03-31 | 147 | 85 | 
 | 2023-03-29 | 145 | 81 | 

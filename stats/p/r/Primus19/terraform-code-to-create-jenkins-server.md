@@ -1,10 +1,10 @@
 # Primus19/terraform-code-to-create-jenkins-server - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 25
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Primus19/terraform-code-to-create-jenkins-server)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | 25 | 
 | 2023-04-03 | 2 | 25 | 
 | 2023-03-31 | 2 | 22 | 
 | 2023-03-29 | 1 | 21 | 

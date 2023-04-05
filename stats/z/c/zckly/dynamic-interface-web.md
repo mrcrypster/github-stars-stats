@@ -1,10 +1,10 @@
 # zckly/dynamic-interface-web - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 16
 
-★ Stars: 222
+★ Stars: 246
 
 [Open repository](https://github.com/zckly/dynamic-interface-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 246 | 16 | 
 | 2023-04-03 | 222 | 16 | 
 | 2023-04-02 | 198 | 15 | 
 

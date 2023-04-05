@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 1429
+☋ Forks: 1432
 
-★ Stars: 20702
+★ Stars: 20791
 
 [Open repository](https://github.com/helix-editor/helix)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 20702 | 1429 | 
+| 2023-04-04 | 20791 | 1432 | 
 | 2023-04-03 | 20677 | 1429 | 
 | 2023-04-02 | 20504 | 1422 | 
 | 2023-04-01 | 20315 | 1409 | 

@@ -1,6 +1,6 @@
 # timcharper/git_osx_installer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 247 | 189 | 
 | 2023-04-03 | 247 | 189 | 
 | 2023-03-31 | 247 | 189 | 
 | 2023-03-29 | 246 | 189 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 244 | 189 | 
 | 2023-03-08 | 243 | 189 | 
 | 2023-03-07 | 243 | 189 | 
-| 2023-03-05 | 243 | 188 | 
 

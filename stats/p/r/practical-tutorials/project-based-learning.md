@@ -1,10 +1,10 @@
 # practical-tutorials/project-based-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 13520
+☋ Forks: 13532
 
-★ Stars: 96382
+★ Stars: 96529
 
 [Open repository](https://github.com/practical-tutorials/project-based-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 96529 | 13532 | 
 | 2023-04-03 | 96382 | 13520 | 
 | 2023-04-02 | 96163 | 13504 | 
 | 2023-03-31 | 95881 | 13471 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 93796 | 13175 | 
 | 2023-03-09 | 93696 | 13158 | 
 | 2023-03-07 | 93550 | 13136 | 
-| 2023-03-05 | 93417 | 13120 | 
 

@@ -1,6 +1,6 @@
 # HyperDbg/HyperDbg - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2087 | 300 | 
 | 2023-04-03 | 2087 | 300 | 
 | 2023-04-02 | 2087 | 300 | 
 | 2023-03-30 | 2086 | 299 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2063 | 297 | 
 | 2023-03-08 | 2062 | 297 | 
 | 2023-03-07 | 2060 | 297 | 
-| 2023-03-05 | 2059 | 297 | 
 

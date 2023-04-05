@@ -1,6 +1,6 @@
 # agg23/analogue-arduboy - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 47 | 2 | 
 | 2023-04-02 | 47 | 2 | 
 | 2023-03-31 | 47 | 2 | 
 | 2023-03-29 | 47 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-08 | 47 | 2 | 
 | 2023-03-07 | 47 | 2 | 
 | 2023-03-06 | 47 | 2 | 
-| 2023-03-05 | 47 | 2 | 
 

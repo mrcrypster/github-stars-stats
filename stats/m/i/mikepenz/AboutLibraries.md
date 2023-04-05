@@ -1,10 +1,10 @@
 # mikepenz/AboutLibraries - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 412
 
-★ Stars: 3201
+★ Stars: 3203
 
 [Open repository](https://github.com/mikepenz/AboutLibraries)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3203 | 412 | 
 | 2023-04-03 | 3201 | 412 | 
 | 2023-03-31 | 3200 | 412 | 
 | 2023-03-29 | 3197 | 412 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3178 | 412 | 
 | 2023-03-08 | 3176 | 412 | 
 | 2023-03-06 | 3174 | 412 | 
-| 2023-03-05 | 3172 | 412 | 
 

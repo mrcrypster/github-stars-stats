@@ -1,6 +1,6 @@
 # ros2/console_bridge_vendor - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 6 | 
 | 2023-04-02 | - | 6 | 
 | 2023-03-30 | - | 6 | 
 | 2023-03-28 | - | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-10 | - | 6 | 
 | 2023-03-08 | - | 6 | 
 | 2023-03-07 | - | 6 | 
-| 2023-03-05 | - | 6 | 
 

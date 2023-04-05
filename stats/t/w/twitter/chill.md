@@ -1,10 +1,10 @@
 # twitter/chill - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 593
+★ Stars: 594
 
 [Open repository](https://github.com/twitter/chill)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 594 | 148 | 
 | 2023-04-03 | 593 | 147 | 
 | 2023-04-02 | 593 | 146 | 
 

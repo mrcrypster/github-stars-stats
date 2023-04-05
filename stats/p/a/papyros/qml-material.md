@@ -1,6 +1,6 @@
 # papyros/qml-material - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 479
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2503 | 479 | 
 | 2023-04-03 | 2503 | 479 | 
 | 2023-04-01 | 2501 | 479 | 
 | 2023-03-29 | 2500 | 479 | 
@@ -31,5 +32,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 2496 | 478 | 
 | 2023-03-08 | 2496 | 477 | 
 | 2023-03-07 | 2496 | 477 | 
-| 2023-03-05 | 2495 | 477 | 
 

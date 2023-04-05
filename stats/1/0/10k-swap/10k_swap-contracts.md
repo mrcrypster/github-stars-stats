@@ -1,10 +1,10 @@
 # 10k-swap/10k_swap-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/10k-swap/10k_swap-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 10 | 
 | 2023-04-03 | 35 | 10 | 
 | 2023-04-02 | 35 | 10 | 
 

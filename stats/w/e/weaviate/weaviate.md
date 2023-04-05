@@ -1,10 +1,10 @@
 # weaviate/weaviate - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 233
+☋ Forks: 235
 
-★ Stars: 4009
+★ Stars: 4048
 
 [Open repository](https://github.com/weaviate/weaviate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4048 | 235 | 
 | 2023-04-03 | 4009 | 233 | 
 | 2023-04-01 | 3971 | 230 | 
 | 2023-03-31 | 3964 | 230 | 

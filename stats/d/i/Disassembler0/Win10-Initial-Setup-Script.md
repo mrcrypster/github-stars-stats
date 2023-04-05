@@ -1,6 +1,6 @@
 # Disassembler0/Win10-Initial-Setup-Script - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4627 | 1104 | 
 | 2023-04-03 | 4627 | 1104 | 
 | 2023-03-31 | 4628 | 1103 | 
 | 2023-03-29 | 4627 | 1102 | 

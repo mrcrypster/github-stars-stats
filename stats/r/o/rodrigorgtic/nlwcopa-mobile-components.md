@@ -1,6 +1,6 @@
 # rodrigorgtic/nlwcopa-mobile-components - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 129 | 56 | 
 | 2023-04-03 | 129 | 56 | 
 | 2023-04-02 | 130 | 56 | 
 | 2023-03-30 | 130 | 56 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 130 | 58 | 
 | 2023-03-07 | 130 | 58 | 
 | 2023-03-06 | 130 | 58 | 
-| 2023-03-05 | 130 | 58 | 
 

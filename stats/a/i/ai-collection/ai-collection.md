@@ -1,10 +1,10 @@
 # ai-collection/ai-collection - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 204
+☋ Forks: 207
 
-★ Stars: 2561
+★ Stars: 2568
 
 [Open repository](https://github.com/ai-collection/ai-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2568 | 207 | 
 | 2023-04-03 | 2561 | 204 | 
 | 2023-04-01 | 2549 | 201 | 
 | 2023-03-30 | 2535 | 201 | 

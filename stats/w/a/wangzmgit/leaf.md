@@ -1,10 +1,10 @@
 # wangzmgit/leaf - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 13
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/wangzmgit/leaf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 103 | 13 | 
 | 2023-04-03 | 102 | 13 | 
 | 2023-04-02 | 102 | 13 | 
 | 2023-03-30 | 100 | 13 | 

@@ -1,10 +1,10 @@
 # selectize/selectize.js - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3692
 
-★ Stars: 12920
+★ Stars: 12919
 
 [Open repository](https://github.com/selectize/selectize.js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 12919 | 3692 | 
 | 2023-04-03 | 12920 | 3692 | 
 | 2023-03-31 | 12920 | 3693 | 
 | 2023-03-29 | 12919 | 3694 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 12915 | 3697 | 
 | 2023-03-07 | 12915 | 3697 | 
 | 2023-03-06 | 12914 | 3697 | 
-| 2023-03-05 | 12914 | 3697 | 
 

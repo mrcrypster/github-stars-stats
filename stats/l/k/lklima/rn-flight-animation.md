@@ -1,6 +1,6 @@
 # lklima/rn-flight-animation - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 250 | 34 | 
 | 2023-04-03 | 250 | 34 | 
 | 2023-03-31 | 249 | 34 | 
 | 2023-03-29 | 249 | 34 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 247 | 33 | 
 | 2023-03-08 | 247 | 33 | 
 | 2023-03-06 | 247 | 33 | 
-| 2023-03-05 | 247 | 33 | 
 

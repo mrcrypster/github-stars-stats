@@ -1,10 +1,10 @@
 # junegunn/goyo.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 116
 
-★ Stars: 4308
+★ Stars: 4310
 
 [Open repository](https://github.com/junegunn/goyo.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4310 | 116 | 
 | 2023-04-03 | 4308 | 116 | 
 | 2023-04-02 | 4309 | 116 | 
 | 2023-03-30 | 4307 | 116 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 4290 | 117 | 
 | 2023-03-08 | 4290 | 117 | 
 | 2023-03-06 | 4289 | 117 | 
-| 2023-03-05 | 4288 | 117 | 
 

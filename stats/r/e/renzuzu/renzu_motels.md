@@ -1,10 +1,10 @@
 # renzuzu/renzu_motels - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/renzuzu/renzu_motels)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 27 | 13 | 
 | 2023-04-03 | 25 | 12 | 
 | 2023-04-02 | 25 | 10 | 
 | 2023-03-31 | 25 | 10 | 

@@ -1,10 +1,10 @@
 # SagerNet/SagerNet - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 809
+☋ Forks: 811
 
-★ Stars: 4901
+★ Stars: 4907
 
 [Open repository](https://github.com/SagerNet/SagerNet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4907 | 811 | 
 | 2023-04-03 | 4901 | 809 | 
 | 2023-04-02 | 4899 | 807 | 
 | 2023-03-30 | 4892 | 803 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 4811 | 795 | 
 | 2023-03-07 | 4810 | 794 | 
 | 2023-03-06 | 4810 | 793 | 
-| 2023-03-05 | 4810 | 793 | 
 

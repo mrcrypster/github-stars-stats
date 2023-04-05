@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 335
 
-★ Stars: 1673
+★ Stars: 1674
 
 [Open repository](https://github.com/ElegantLaTeX/ElegantBook)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1673 | 335 | 
+| 2023-04-04 | 1674 | 335 | 
 | 2023-04-03 | 1673 | 335 | 
 | 2023-04-01 | 1669 | 332 | 
 | 2023-03-31 | 1669 | 332 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 1649 | 324 | 
 | 2023-03-08 | 1647 | 324 | 
 | 2023-03-07 | 1646 | 324 | 
-| 2023-03-06 | 1644 | 323 | 
 

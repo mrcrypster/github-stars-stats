@@ -1,6 +1,6 @@
 # laravel/tinker - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 7169 | 123 | 
 | 2023-04-03 | 7169 | 123 | 
 | 2023-04-02 | 7168 | 123 | 
 | 2023-03-31 | 7165 | 122 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 7154 | 120 | 
 | 2023-03-07 | 7154 | 120 | 
 | 2023-03-06 | 7152 | 120 | 
-| 2023-03-05 | 7152 | 119 | 
 

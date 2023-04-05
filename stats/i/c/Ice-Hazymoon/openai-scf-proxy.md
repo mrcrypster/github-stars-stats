@@ -1,10 +1,10 @@
 # Ice-Hazymoon/openai-scf-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 165
+☋ Forks: 167
 
-★ Stars: 1501
+★ Stars: 1514
 
 [Open repository](https://github.com/Ice-Hazymoon/openai-scf-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1514 | 167 | 
 | 2023-04-03 | 1501 | 165 | 
 | 2023-03-31 | 1441 | 165 | 
 | 2023-03-29 | 1386 | 159 | 

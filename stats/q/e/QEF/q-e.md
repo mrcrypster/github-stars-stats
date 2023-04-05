@@ -1,6 +1,6 @@
 # QEF/q-e - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 492 | 256 | 
 | 2023-04-03 | 492 | 256 | 
 | 2023-03-31 | 492 | 257 | 
 | 2023-03-29 | 492 | 257 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 492 | 255 | 
 | 2023-03-08 | 492 | 255 | 
 | 2023-03-07 | 492 | 255 | 
-| 2023-03-05 | 492 | 255 | 
 

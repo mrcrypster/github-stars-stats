@@ -1,8 +1,8 @@
 # PortSwigger/dastardly-github-action - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 116 | 34 | 
 | 2023-04-03 | 116 | 33 | 
 | 2023-04-02 | 115 | 32 | 
 | 2023-03-31 | 115 | 32 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 108 | 30 | 
 | 2023-03-07 | 107 | 30 | 
 | 2023-03-06 | 104 | 30 | 
-| 2023-03-05 | 104 | 29 | 
 

@@ -1,10 +1,10 @@
 # Ewenwan/Ros - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 343
 
-★ Stars: 808
+★ Stars: 810
 
 [Open repository](https://github.com/Ewenwan/Ros)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 810 | 343 | 
 | 2023-04-03 | 808 | 343 | 
 | 2023-04-01 | 807 | 343 | 
 | 2023-03-29 | 806 | 343 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 787 | 340 | 
 | 2023-03-08 | 787 | 340 | 
 | 2023-03-07 | 787 | 340 | 
-| 2023-03-05 | 786 | 340 | 
 

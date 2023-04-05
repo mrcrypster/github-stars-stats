@@ -1,8 +1,8 @@
 # AbdulRahmanAlHamali/flutter_typeahead - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 276
+☋ Forks: 277
 
 ★ Stars: 683
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 683 | 277 | 
 | 2023-04-03 | 683 | 276 | 
 | 2023-03-31 | 682 | 276 | 
 | 2023-03-29 | 683 | 274 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 681 | 274 | 
 | 2023-03-08 | 681 | 273 | 
 | 2023-03-06 | 681 | 273 | 
-| 2023-03-05 | 681 | 271 | 
 

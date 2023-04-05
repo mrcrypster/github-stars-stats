@@ -1,6 +1,6 @@
 # Planimeter/game-engine-2d - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 700 | 75 | 
 | 2023-04-03 | 700 | 75 | 
 | 2023-04-02 | 700 | 75 | 
 | 2023-03-31 | 700 | 74 | 

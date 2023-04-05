@@ -1,10 +1,10 @@
 # swagkarna/Defeat-Defender-V1.2 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 273
 
-★ Stars: 1062
+★ Stars: 1065
 
 [Open repository](https://github.com/swagkarna/Defeat-Defender-V1.2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1065 | 273 | 
 | 2023-04-03 | 1062 | 273 | 
 | 2023-04-02 | 1063 | 273 | 
 | 2023-03-31 | 1059 | 273 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1033 | 273 | 
 | 2023-03-08 | 1031 | 273 | 
 | 2023-03-06 | 1030 | 273 | 
-| 2023-03-05 | 1029 | 273 | 
 

@@ -1,6 +1,6 @@
 # TootSDK/TootSDK - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 250 | 12 | 
 | 2023-04-03 | 250 | 12 | 
 | 2023-04-02 | 249 | 12 | 
 | 2023-03-31 | 249 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 232 | 11 | 
 | 2023-03-08 | 232 | 11 | 
 | 2023-03-06 | 230 | 11 | 
-| 2023-03-05 | 229 | 11 | 
 

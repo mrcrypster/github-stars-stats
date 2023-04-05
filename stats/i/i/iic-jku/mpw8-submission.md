@@ -1,6 +1,6 @@
 # iic-jku/mpw8-submission - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3 | - | 
 | 2023-04-03 | 3 | - | 
 | 2023-03-30 | 3 | - | 
 | 2023-03-28 | 3 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2 | - | 
 | 2023-03-08 | 2 | - | 
 | 2023-03-06 | 2 | - | 
-| 2023-03-05 | 2 | - | 
 

@@ -1,10 +1,10 @@
 # laravel-workflow/laravel-workflow - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 11
 
-★ Stars: 380
+★ Stars: 383
 
 [Open repository](https://github.com/laravel-workflow/laravel-workflow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 383 | 11 | 
 | 2023-04-03 | 380 | 11 | 
 | 2023-04-02 | 378 | 11 | 
 | 2023-03-30 | 377 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 365 | 10 | 
 | 2023-03-08 | 363 | 10 | 
 | 2023-03-07 | 362 | 10 | 
-| 2023-03-05 | 361 | 10 | 
 

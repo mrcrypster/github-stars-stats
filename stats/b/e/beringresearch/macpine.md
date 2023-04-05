@@ -1,10 +1,10 @@
 # beringresearch/macpine - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
-★ Stars: 702
+★ Stars: 704
 
 [Open repository](https://github.com/beringresearch/macpine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 704 | 14 | 
 | 2023-04-03 | 702 | 14 | 
 | 2023-04-02 | 701 | 14 | 
 | 2023-03-30 | 699 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 695 | 13 | 
 | 2023-03-07 | 693 | 13 | 
 | 2023-03-06 | 693 | 13 | 
-| 2023-03-05 | 693 | 13 | 
 

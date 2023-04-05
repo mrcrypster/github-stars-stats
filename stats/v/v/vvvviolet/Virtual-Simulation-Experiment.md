@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/vvvviolet/Virtual-Simulation-Experiment)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 20 | 9 | 
+| 2023-04-04 | 22 | 10 | 
 | 2023-04-03 | 19 | 9 | 
 

@@ -1,10 +1,10 @@
 # matsadler/magnus - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 20
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/matsadler/magnus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 412 | 20 | 
 | 2023-04-03 | 411 | 20 | 
 | 2023-03-31 | 410 | 20 | 
 | 2023-03-29 | 407 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 394 | 19 | 
 | 2023-03-07 | 394 | 19 | 
 | 2023-03-06 | 394 | 19 | 
-| 2023-03-05 | 393 | 19 | 
 

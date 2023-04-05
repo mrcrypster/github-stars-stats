@@ -1,6 +1,6 @@
 # saboyle/latex-template-whitepaper-basic - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 20 | 4 | 
 | 2023-04-03 | 20 | 4 | 
 | 2023-04-02 | 20 | 4 | 
 | 2023-04-01 | 20 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 20 | 4 | 
 | 2023-03-08 | 20 | 4 | 
 | 2023-03-06 | 20 | 4 | 
-| 2023-03-05 | 20 | 4 | 
 

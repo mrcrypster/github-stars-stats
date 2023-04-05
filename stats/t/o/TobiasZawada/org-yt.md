@@ -1,10 +1,10 @@
 # TobiasZawada/org-yt - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 9
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/TobiasZawada/org-yt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 32 | 9 | 
 | 2023-04-03 | 31 | 9 | 
 | 2023-04-02 | 31 | 9 | 
 | 2023-03-31 | 31 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 31 | 9 | 
 | 2023-03-07 | 31 | 9 | 
 | 2023-03-06 | 31 | 9 | 
-| 2023-03-05 | 31 | 9 | 
 

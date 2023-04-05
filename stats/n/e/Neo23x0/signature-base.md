@@ -1,10 +1,10 @@
 # Neo23x0/signature-base - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 525
 
-★ Stars: 1948
+★ Stars: 1950
 
 [Open repository](https://github.com/Neo23x0/signature-base)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1950 | 525 | 
 | 2023-04-03 | 1948 | 525 | 
 | 2023-04-01 | 1945 | 524 | 
 | 2023-03-31 | 1945 | 524 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 1905 | 513 | 
 | 2023-03-07 | 1904 | 512 | 
 | 2023-03-06 | 1901 | 512 | 
-| 2023-03-05 | 1901 | 512 | 
 

@@ -1,10 +1,10 @@
 # AI-hubs/ChatGPT_Prompt - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 56
 
-★ Stars: 158
+★ Stars: 161
 
 [Open repository](https://github.com/AI-hubs/ChatGPT_Prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 161 | 56 | 
 | 2023-04-03 | 158 | 56 | 
 | 2023-03-31 | 152 | 55 | 
 | 2023-03-29 | 142 | 52 | 

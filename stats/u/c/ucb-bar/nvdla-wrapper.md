@@ -1,6 +1,6 @@
 # ucb-bar/nvdla-wrapper - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 13 | 7 | 
 | 2023-04-03 | 13 | 7 | 
 | 2023-04-02 | 13 | 7 | 
 | 2023-03-31 | 13 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 13 | 7 | 
 | 2023-03-07 | 12 | 7 | 
 | 2023-03-06 | 12 | 7 | 
-| 2023-03-05 | 12 | 7 | 
 

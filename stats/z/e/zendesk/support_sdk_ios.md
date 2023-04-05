@@ -1,6 +1,6 @@
 # zendesk/support_sdk_ios - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 30 | 
 | 2023-04-03 | 36 | 30 | 
 | 2023-04-01 | 35 | 30 | 
 | 2023-03-29 | 35 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 34 | 29 | 
 | 2023-03-08 | 34 | 29 | 
 | 2023-03-06 | 34 | 28 | 
-| 2023-03-05 | 34 | 28 | 
 

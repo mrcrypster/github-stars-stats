@@ -1,10 +1,10 @@
 # rizsotto/Bear - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 265
+☋ Forks: 266
 
-★ Stars: 3412
+★ Stars: 3417
 
 [Open repository](https://github.com/rizsotto/Bear)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3417 | 266 | 
 | 2023-04-03 | 3412 | 265 | 
 | 2023-04-01 | 3406 | 265 | 
 | 2023-03-31 | 3403 | 265 | 

@@ -1,6 +1,6 @@
 # TehCheat/PoEHelper - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 91 | 36 | 
 | 2023-04-03 | 91 | 36 | 
 | 2023-04-01 | 90 | 35 | 
 | 2023-03-31 | 90 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 88 | 35 | 
 | 2023-03-08 | 88 | 35 | 
 | 2023-03-06 | 88 | 35 | 
-| 2023-03-05 | 88 | 35 | 
 

@@ -1,6 +1,6 @@
 # tinted-theming/base16-jetbrains - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 215 | 34 | 
 | 2023-04-03 | 215 | 34 | 
 | 2023-03-31 | 215 | 34 | 
 | 2023-03-29 | 215 | 34 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 216 | 34 | 
 | 2023-03-08 | 216 | 34 | 
 | 2023-03-07 | 216 | 34 | 
-| 2023-03-05 | 216 | 34 | 
 

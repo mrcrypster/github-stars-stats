@@ -1,6 +1,6 @@
 # drenther/use-clamp-text - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 173 | 1 | 
 | 2023-04-03 | 173 | 1 | 
 | 2023-04-01 | 173 | 1 | 
 | 2023-03-30 | 173 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 174 | 1 | 
 | 2023-03-09 | 174 | 1 | 
 | 2023-03-07 | 174 | 1 | 
-| 2023-03-06 | 174 | 1 | 
 

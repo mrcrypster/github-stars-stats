@@ -1,10 +1,10 @@
 # securego/gosec - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 540
+☋ Forks: 542
 
-★ Stars: 6719
+★ Stars: 6726
 
 [Open repository](https://github.com/securego/gosec)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6726 | 542 | 
 | 2023-04-03 | 6719 | 540 | 
 | 2023-04-02 | 6707 | 538 | 
 | 2023-03-30 | 6680 | 531 | 

@@ -1,10 +1,10 @@
 # runningcheese/Awesome-ChatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 812
+★ Stars: 838
 
 [Open repository](https://github.com/runningcheese/Awesome-ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 838 | 60 | 
 | 2023-04-03 | 812 | 59 | 
 | 2023-04-02 | 799 | 60 | 
 | 2023-03-31 | 764 | 57 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 300 | 23 | 
 | 2023-03-07 | 287 | 22 | 
 | 2023-03-06 | 280 | 22 | 
-| 2023-03-05 | 271 | 22 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 63
+☋ Forks: 66
 
-★ Stars: 63
+★ Stars: 65
 
 [Open repository](https://github.com/wombyz/custom-knowledge-chatbot)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 63 | 63 | 
+| 2023-04-04 | 65 | 66 | 
 | 2023-04-03 | 61 | 59 | 
 | 2023-04-02 | 55 | 53 | 
 | 2023-03-31 | 47 | 41 | 

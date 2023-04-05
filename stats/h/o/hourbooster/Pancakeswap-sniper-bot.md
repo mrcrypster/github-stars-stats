@@ -1,10 +1,10 @@
 # hourbooster/Pancakeswap-sniper-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 110
+☋ Forks: 119
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/hourbooster/Pancakeswap-sniper-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 91 | 119 | 
 | 2023-04-03 | 89 | 110 | 
 | 2023-04-02 | 63 | 86 | 
 

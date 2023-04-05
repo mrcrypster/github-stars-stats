@@ -1,6 +1,6 @@
 # teal-language/tl - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1573 | 81 | 
 | 2023-04-03 | 1573 | 81 | 
 | 2023-04-02 | 1572 | 81 | 
 | 2023-03-30 | 1568 | 81 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1541 | 78 | 
 | 2023-03-08 | 1539 | 77 | 
 | 2023-03-06 | 1539 | 77 | 
-| 2023-03-05 | 1534 | 77 | 
 

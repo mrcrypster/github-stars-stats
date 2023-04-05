@@ -1,8 +1,8 @@
 # SleepTheGod/SSH-Remote-Code-Execution - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 117 | 26 | 
 | 2023-04-02 | 117 | 25 | 
 | 2023-04-01 | 117 | 25 | 
 | 2023-03-30 | 118 | 25 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-10 | 113 | 26 | 
 | 2023-03-08 | 113 | 25 | 
 | 2023-03-07 | 110 | 25 | 
-| 2023-03-05 | 110 | 25 | 
 

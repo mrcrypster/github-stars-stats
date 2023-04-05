@@ -1,6 +1,6 @@
 # ghdl/ghdl-yosys-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 264 | 30 | 
 | 2023-04-03 | 264 | 30 | 
 | 2023-04-01 | 264 | 30 | 
 | 2023-03-30 | 264 | 30 | 

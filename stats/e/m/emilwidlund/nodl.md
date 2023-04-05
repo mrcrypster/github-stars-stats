@@ -1,10 +1,10 @@
 # emilwidlund/nodl - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 24
 
-★ Stars: 1207
+★ Stars: 1209
 
 [Open repository](https://github.com/emilwidlund/nodl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1209 | 24 | 
 | 2023-04-03 | 1207 | 24 | 
 | 2023-04-01 | 1206 | 24 | 
 | 2023-03-30 | 1201 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 995 | 18 | 
 | 2023-03-08 | 953 | 18 | 
 | 2023-03-07 | 924 | 19 | 
-| 2023-03-05 | 905 | 17 | 
 

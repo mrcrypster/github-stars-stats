@@ -1,6 +1,6 @@
 # applanga/sdk-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 15 | 5 | 
 | 2023-04-03 | 15 | 5 | 
 | 2023-04-01 | 15 | 5 | 
 | 2023-03-31 | 15 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 15 | 5 | 
 | 2023-03-08 | 15 | 5 | 
 | 2023-03-07 | 15 | 5 | 
-| 2023-03-05 | 15 | 5 | 
 

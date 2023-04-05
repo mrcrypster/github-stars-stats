@@ -1,6 +1,6 @@
 # ros-controls/control_msgs - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 31 | 60 | 
 | 2023-04-03 | 31 | 60 | 
 | 2023-04-02 | 31 | 60 | 
 | 2023-03-30 | 31 | 59 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 31 | 59 | 
 | 2023-03-07 | 31 | 59 | 
 | 2023-03-06 | 31 | 59 | 
-| 2023-03-05 | 31 | 59 | 
 

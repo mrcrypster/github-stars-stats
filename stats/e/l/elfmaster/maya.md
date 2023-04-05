@@ -1,10 +1,10 @@
 # elfmaster/maya - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/elfmaster/maya)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 133 | 15 | 
 | 2023-04-03 | 132 | 15 | 
 | 2023-04-01 | 132 | 15 | 
 | 2023-03-29 | 132 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 132 | 15 | 
 | 2023-03-08 | 132 | 15 | 
 | 2023-03-06 | 132 | 15 | 
-| 2023-03-05 | 132 | 15 | 
 

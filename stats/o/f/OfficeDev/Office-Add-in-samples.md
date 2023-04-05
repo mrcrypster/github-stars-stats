@@ -1,10 +1,10 @@
 # OfficeDev/Office-Add-in-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 551
+☋ Forks: 552
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/OfficeDev/Office-Add-in-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 395 | 552 | 
 | 2023-04-03 | 394 | 551 | 
 | 2023-04-02 | 394 | 549 | 
 | 2023-03-30 | 391 | 545 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 380 | 532 | 
 | 2023-03-07 | 380 | 531 | 
 | 2023-03-06 | 380 | 530 | 
-| 2023-03-05 | 381 | 530 | 
 

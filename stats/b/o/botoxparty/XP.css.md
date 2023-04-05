@@ -1,6 +1,6 @@
 # botoxparty/XP.css - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1762 | 86 | 
 | 2023-04-02 | 1762 | 86 | 
 | 2023-03-30 | 1759 | 85 | 
 | 2023-03-28 | 1759 | 85 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 1742 | 82 | 
 | 2023-03-08 | 1742 | 82 | 
 | 2023-03-06 | 1740 | 82 | 
-| 2023-03-05 | 1736 | 82 | 
 

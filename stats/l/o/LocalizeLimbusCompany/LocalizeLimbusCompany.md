@@ -1,8 +1,8 @@
 # LocalizeLimbusCompany/LocalizeLimbusCompany - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 11
+☋ Forks: 13
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 62 | 13 | 
 | 2023-04-03 | 62 | 11 | 
 | 2023-04-02 | 61 | 11 | 
 

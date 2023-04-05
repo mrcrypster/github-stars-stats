@@ -1,10 +1,10 @@
 # consenlabs/tokenlon-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/consenlabs/tokenlon-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 46 | 8 | 
 | 2023-04-03 | 45 | 8 | 
 | 2023-03-31 | 45 | 8 | 
 | 2023-03-29 | 45 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 41 | 8 | 
 | 2023-03-08 | 40 | 8 | 
 | 2023-03-07 | 40 | 8 | 
-| 2023-03-05 | 40 | 8 | 
 

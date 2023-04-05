@@ -1,6 +1,6 @@
 # forwardemail/status.forwardemail.net - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 9 | 1 | 
 | 2023-04-03 | 9 | 1 | 
 | 2023-04-01 | 9 | 1 | 
 | 2023-03-31 | 9 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 9 | 1 | 
 | 2023-03-08 | 9 | 1 | 
 | 2023-03-06 | 9 | 1 | 
-| 2023-03-05 | 9 | 1 | 
 

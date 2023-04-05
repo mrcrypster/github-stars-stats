@@ -1,6 +1,6 @@
 # microsoft/Visual-Studio-Administrative-Templates - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | 6 | 
 | 2023-04-03 | 11 | 6 | 
 | 2023-04-02 | 11 | 7 | 
 | 2023-03-30 | 12 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 9 | 6 | 
 | 2023-03-07 | 9 | 6 | 
 | 2023-03-06 | 9 | 6 | 
-| 2023-03-05 | 9 | 6 | 
 

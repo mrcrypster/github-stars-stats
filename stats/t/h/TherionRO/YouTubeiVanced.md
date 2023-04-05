@@ -1,10 +1,10 @@
 # TherionRO/YouTubeiVanced - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/TherionRO/YouTubeiVanced)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 60 | 1 | 
 | 2023-04-03 | 59 | 1 | 
 | 2023-04-01 | 59 | 1 | 
 | 2023-03-30 | 59 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 51 | 1 | 
 | 2023-03-07 | 50 | 1 | 
 | 2023-03-06 | 48 | 1 | 
-| 2023-03-05 | 46 | 1 | 
 

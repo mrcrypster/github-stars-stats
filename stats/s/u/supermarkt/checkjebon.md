@@ -1,10 +1,10 @@
 # supermarkt/checkjebon - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 12
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/supermarkt/checkjebon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 60 | 12 | 
 | 2023-04-03 | 59 | 12 | 
 | 2023-04-02 | 59 | 11 | 
 | 2023-03-30 | 59 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 58 | 10 | 
 | 2023-03-08 | 58 | 10 | 
 | 2023-03-06 | 58 | 10 | 
-| 2023-03-05 | 58 | 10 | 
 

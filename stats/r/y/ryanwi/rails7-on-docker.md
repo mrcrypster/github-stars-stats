@@ -1,6 +1,6 @@
 # ryanwi/rails7-on-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 212 | 95 | 
 | 2023-04-03 | 212 | 95 | 
 | 2023-04-01 | 210 | 95 | 
 | 2023-03-30 | 210 | 95 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 201 | 90 | 
 | 2023-03-08 | 200 | 89 | 
 | 2023-03-06 | 199 | 89 | 
-| 2023-03-05 | 198 | 89 | 
 

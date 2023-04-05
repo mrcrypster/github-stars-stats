@@ -1,6 +1,6 @@
 # sudh9931/function-practice - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 12 | 16 | 
 | 2023-04-03 | 12 | 16 | 
 | 2023-03-31 | 12 | 16 | 
 | 2023-03-29 | 12 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 13 | 15 | 
 | 2023-03-07 | 13 | 15 | 
 | 2023-03-06 | 13 | 15 | 
-| 2023-03-05 | 13 | 15 | 
 

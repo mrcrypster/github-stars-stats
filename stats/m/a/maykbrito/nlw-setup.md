@@ -1,6 +1,6 @@
 # maykbrito/nlw-setup - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 53 | 77 | 
 | 2023-04-03 | 53 | 77 | 
 | 2023-04-02 | 53 | 77 | 
 | 2023-03-31 | 52 | 77 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 51 | 75 | 
 | 2023-03-08 | 51 | 75 | 
 | 2023-03-06 | 51 | 75 | 
-| 2023-03-05 | 51 | 75 | 
 

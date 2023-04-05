@@ -1,6 +1,6 @@
 # SQLJames/factorio-server-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 15 | 16 | 
 | 2023-04-03 | 15 | 16 | 
 | 2023-03-29 | 14 | 14 | 
 | 2023-03-28 | 14 | 14 | 

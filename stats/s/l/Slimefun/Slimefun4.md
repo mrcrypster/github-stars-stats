@@ -1,8 +1,8 @@
 # Slimefun/Slimefun4 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 456
+☋ Forks: 457
 
 ★ Stars: 742
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 742 | 457 | 
 | 2023-04-03 | 742 | 456 | 
 | 2023-03-31 | 740 | 456 | 
 | 2023-03-29 | 739 | 457 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 735 | 455 | 
 | 2023-03-08 | 731 | 455 | 
 | 2023-03-06 | 731 | 456 | 
-| 2023-03-05 | 731 | 455 | 
 

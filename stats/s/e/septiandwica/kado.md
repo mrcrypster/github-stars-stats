@@ -1,10 +1,10 @@
 # septiandwica/kado - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 161
+☋ Forks: 163
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/septiandwica/kado)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 70 | 163 | 
 | 2023-04-03 | 69 | 161 | 
 | 2023-03-31 | 67 | 160 | 
 | 2023-03-29 | 66 | 159 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 61 | 121 | 
 | 2023-03-08 | 61 | 118 | 
 | 2023-03-06 | 60 | 118 | 
-| 2023-03-05 | 59 | 118 | 
 

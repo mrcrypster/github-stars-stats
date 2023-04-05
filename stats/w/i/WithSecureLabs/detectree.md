@@ -1,10 +1,10 @@
 # WithSecureLabs/detectree - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/WithSecureLabs/detectree)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 117 | 7 | 
 | 2023-04-02 | 116 | 7 | 
 | 2023-03-30 | 116 | 7 | 
 | 2023-03-28 | 116 | 7 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 115 | 7 | 
 | 2023-03-08 | 116 | 7 | 
 | 2023-03-07 | 116 | 7 | 
-| 2023-03-05 | 116 | 7 | 
 

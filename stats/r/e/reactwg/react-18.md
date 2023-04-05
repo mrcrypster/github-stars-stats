@@ -1,6 +1,6 @@
 # reactwg/react-18 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4995 | 135 | 
 | 2023-04-03 | 4995 | 135 | 
 | 2023-04-02 | 4993 | 135 | 
 | 2023-03-30 | 4990 | 135 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 4949 | 132 | 
 | 2023-03-08 | 4948 | 132 | 
 | 2023-03-07 | 4945 | 132 | 
-| 2023-03-06 | 4945 | 132 | 
 

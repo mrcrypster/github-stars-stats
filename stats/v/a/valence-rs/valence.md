@@ -1,10 +1,10 @@
 # valence-rs/valence - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 82
 
-★ Stars: 1564
+★ Stars: 1566
 
 [Open repository](https://github.com/valence-rs/valence)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1566 | 82 | 
 | 2023-04-03 | 1564 | 82 | 
 | 2023-04-02 | 1564 | 82 | 
 | 2023-03-31 | 1557 | 82 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1510 | 76 | 
 | 2023-03-08 | 1508 | 76 | 
 | 2023-03-07 | 1502 | 76 | 
-| 2023-03-05 | 1501 | 74 | 
 

@@ -1,6 +1,6 @@
 # vaexio/vaex - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 590
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7851 | 590 | 
 | 2023-04-03 | 7851 | 590 | 
 | 2023-03-31 | 7846 | 590 | 
 | 2023-03-29 | 7844 | 590 | 

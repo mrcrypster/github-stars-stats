@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/aristus/cloudstats)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 41 | 4 | 
+| 2023-04-04 | 42 | 4 | 
 | 2023-04-03 | 41 | 4 | 
 | 2023-04-02 | 40 | 4 | 
 | 2023-03-30 | 39 | 4 | 

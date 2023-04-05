@@ -1,10 +1,10 @@
 # Exafunction/codeium.el - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 133
+★ Stars: 135
 
 [Open repository](https://github.com/Exafunction/codeium.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 135 | 1 | 
 | 2023-04-03 | 133 | 1 | 
 | 2023-03-31 | 130 | 1 | 
 | 2023-03-29 | 128 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 102 | - | 
 | 2023-03-08 | 98 | - | 
 | 2023-03-07 | 98 | - | 
-| 2023-03-05 | 97 | - | 
 

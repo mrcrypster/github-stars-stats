@@ -1,6 +1,6 @@
 # matthewbauer/ghc-nix - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 97 | 3 | 
 | 2023-04-03 | 97 | 3 | 
 | 2023-03-31 | 96 | 3 | 
 | 2023-03-29 | 96 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 96 | 3 | 
 | 2023-03-08 | 96 | 3 | 
 | 2023-03-06 | 96 | 3 | 
-| 2023-03-05 | 96 | 3 | 
 

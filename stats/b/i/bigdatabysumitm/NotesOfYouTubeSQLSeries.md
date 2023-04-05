@@ -1,6 +1,6 @@
 # bigdatabysumitm/NotesOfYouTubeSQLSeries - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 221 | 103 | 
 | 2023-04-03 | 221 | 103 | 
 | 2023-03-31 | 221 | 103 | 
 | 2023-03-29 | 221 | 103 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 220 | 103 | 
 | 2023-03-08 | 220 | 103 | 
 | 2023-03-06 | 220 | 103 | 
-| 2023-03-05 | 220 | 103 | 
 

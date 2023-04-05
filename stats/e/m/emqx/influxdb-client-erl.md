@@ -1,6 +1,6 @@
 # emqx/influxdb-client-erl - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5 | 4 | 
 | 2023-04-03 | 5 | 4 | 
 | 2023-04-02 | 5 | 4 | 
 | 2023-03-30 | 4 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 4 | 4 | 
 | 2023-03-08 | 4 | 4 | 
 | 2023-03-06 | 4 | 4 | 
-| 2023-03-05 | 4 | 4 | 
 

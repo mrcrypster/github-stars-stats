@@ -1,6 +1,6 @@
 # sunnyoggcp/github-slideshow - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 49 | 22 | 
 | 2023-04-03 | 49 | 22 | 
 | 2023-04-01 | 49 | 22 | 
 | 2023-03-29 | 49 | 22 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 49 | 22 | 
 | 2023-03-08 | 49 | 22 | 
 | 2023-03-07 | 49 | 22 | 
-| 2023-03-05 | 49 | 22 | 
 

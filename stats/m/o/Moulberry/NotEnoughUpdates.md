@@ -1,10 +1,10 @@
 # Moulberry/NotEnoughUpdates - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 192
 
-★ Stars: 363
+★ Stars: 364
 
 [Open repository](https://github.com/Moulberry/NotEnoughUpdates)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 364 | 192 | 
 | 2023-04-03 | 363 | 192 | 
 | 2023-04-02 | 362 | 193 | 
 

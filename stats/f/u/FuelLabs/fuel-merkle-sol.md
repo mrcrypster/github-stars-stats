@@ -1,6 +1,6 @@
 # FuelLabs/fuel-merkle-sol - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 45 | 2 | 
 | 2023-04-03 | 45 | 2 | 
 | 2023-04-02 | 45 | 2 | 
 | 2023-03-30 | 45 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 45 | 2 | 
 | 2023-03-07 | 45 | 2 | 
 | 2023-03-06 | 46 | 2 | 
-| 2023-03-05 | 46 | 2 | 
 

@@ -1,10 +1,10 @@
 # evilsocket/pwnagotchi - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 879
+☋ Forks: 882
 
-★ Stars: 5648
+★ Stars: 5653
 
 [Open repository](https://github.com/evilsocket/pwnagotchi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5653 | 882 | 
 | 2023-04-03 | 5648 | 879 | 
 | 2023-04-02 | 5644 | 877 | 
 | 2023-03-30 | 5640 | 876 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 5542 | 857 | 
 | 2023-03-08 | 5543 | 857 | 
 | 2023-03-06 | 5541 | 857 | 
-| 2023-03-05 | 5539 | 857 | 
 

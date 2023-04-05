@@ -1,6 +1,6 @@
 # yatima-inc/yatima-lang - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 54 | 3 | 
 | 2023-04-03 | 54 | 3 | 
 | 2023-04-02 | 54 | 3 | 
 | 2023-04-01 | 54 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 46 | 2 | 
 | 2023-03-08 | 45 | 2 | 
 | 2023-03-07 | 44 | 2 | 
-| 2023-03-05 | 44 | 2 | 
 

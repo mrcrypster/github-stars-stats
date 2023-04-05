@@ -1,6 +1,6 @@
 # ranjithshegde/ccls.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 42 | 1 | 
 | 2023-04-03 | 42 | 1 | 
 | 2023-04-02 | 41 | 1 | 
 | 2023-03-29 | 41 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 39 | 1 | 
 | 2023-03-08 | 39 | 1 | 
 | 2023-03-07 | 39 | 1 | 
-| 2023-03-05 | 39 | 1 | 
 

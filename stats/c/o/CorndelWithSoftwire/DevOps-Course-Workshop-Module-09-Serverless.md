@@ -1,6 +1,6 @@
 # CorndelWithSoftwire/DevOps-Course-Workshop-Module-09-Serverless - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | - | 66 | 
 | 2023-04-03 | - | 66 | 
 | 2023-04-01 | - | 66 | 
 | 2023-03-29 | - | 66 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | - | 66 | 
 | 2023-03-08 | - | 66 | 
 | 2023-03-07 | - | 66 | 
-| 2023-03-05 | - | 66 | 
 

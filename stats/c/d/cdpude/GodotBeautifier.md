@@ -1,10 +1,10 @@
 # cdpude/GodotBeautifier - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/cdpude/GodotBeautifier)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 53 | 3 | 
 | 2023-04-03 | 52 | 3 | 
 | 2023-03-31 | 49 | 3 | 
 | 2023-03-29 | 49 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 34 | 3 | 
 | 2023-03-07 | 33 | 3 | 
 | 2023-03-06 | 33 | 3 | 
-| 2023-03-05 | 33 | 3 | 
 

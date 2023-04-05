@@ -1,10 +1,10 @@
 # sonnylazuardi/chat-ai-desktop - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 148
 
-★ Stars: 1577
+★ Stars: 1583
 
 [Open repository](https://github.com/sonnylazuardi/chat-ai-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1583 | 148 | 
 | 2023-04-03 | 1577 | 148 | 
 | 2023-03-31 | 1563 | 147 | 
 | 2023-03-29 | 1534 | 144 | 

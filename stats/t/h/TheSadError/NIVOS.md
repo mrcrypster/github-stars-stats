@@ -1,6 +1,6 @@
 # TheSadError/NIVOS - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 290 | 114 | 
 | 2023-04-03 | 290 | 114 | 
 | 2023-03-31 | 290 | 114 | 
 | 2023-03-29 | 290 | 114 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 278 | 114 | 
 | 2023-03-08 | 278 | 114 | 
 | 2023-03-06 | 278 | 114 | 
-| 2023-03-05 | 276 | 115 | 
 

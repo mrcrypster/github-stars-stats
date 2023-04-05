@@ -1,10 +1,10 @@
 # v2018z/xueXiQiangguo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 133
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/v2018z/xueXiQiangguo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 404 | 133 | 
 | 2023-04-03 | 403 | 133 | 
 | 2023-04-02 | 402 | 132 | 
 | 2023-03-31 | 401 | 132 | 

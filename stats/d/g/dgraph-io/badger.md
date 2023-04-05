@@ -1,10 +1,10 @@
 # dgraph-io/badger - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1059
 
-★ Stars: 12064
+★ Stars: 12067
 
 [Open repository](https://github.com/dgraph-io/badger)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 12067 | 1059 | 
 | 2023-04-03 | 12064 | 1059 | 
 | 2023-04-02 | 12062 | 1059 | 
 | 2023-03-30 | 12048 | 1059 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 11970 | 1049 | 
 | 2023-03-08 | 11958 | 1048 | 
 | 2023-03-07 | 11945 | 1048 | 
-| 2023-03-05 | 11934 | 1046 | 
 

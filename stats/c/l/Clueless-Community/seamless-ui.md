@@ -1,10 +1,10 @@
 # Clueless-Community/seamless-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 246
 
-★ Stars: 237
+★ Stars: 236
 
 [Open repository](https://github.com/Clueless-Community/seamless-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 236 | 246 | 
 | 2023-04-03 | 237 | 246 | 
 | 2023-04-01 | 237 | 247 | 
 | 2023-03-30 | 237 | 247 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 233 | 249 | 
 | 2023-03-08 | 232 | 249 | 
 | 2023-03-06 | 232 | 247 | 
-| 2023-03-05 | 233 | 244 | 
 

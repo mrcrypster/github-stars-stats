@@ -1,0 +1,17 @@
+# hubgit/citation-parser - stars & forks statistics
+
+Stats updated on Apr 2023, 04
+
+☋ Forks: 1
+
+★ Stars: 1
+
+[Open repository](https://github.com/hubgit/citation-parser)
+
+[Open detailed stats for hubgit/citation-parser](https://reviewgithub.com/rep/hubgit/citation-parser)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-04 | 1 | 1 | 
+

@@ -1,10 +1,10 @@
 # jenv/jenv - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 325
 
-★ Stars: 4783
+★ Stars: 4788
 
 [Open repository](https://github.com/jenv/jenv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4788 | 325 | 
 | 2023-04-03 | 4783 | 325 | 
 | 2023-03-31 | 4778 | 325 | 
 | 2023-03-29 | 4771 | 325 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 4737 | 322 | 
 | 2023-03-08 | 4736 | 322 | 
 | 2023-03-07 | 4729 | 322 | 
-| 2023-03-05 | 4724 | 321 | 
 

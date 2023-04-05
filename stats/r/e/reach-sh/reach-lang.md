@@ -1,6 +1,6 @@
 # reach-sh/reach-lang - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 573 | 171 | 
 | 2023-04-03 | 573 | 171 | 
 | 2023-04-02 | 573 | 171 | 
 | 2023-03-30 | 573 | 171 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 573 | 172 | 
 | 2023-03-08 | 571 | 172 | 
 | 2023-03-07 | 571 | 172 | 
-| 2023-03-05 | 571 | 172 | 
 

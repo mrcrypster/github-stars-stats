@@ -1,6 +1,6 @@
 # dinosaure/bob - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 104 | 4 | 
 | 2023-04-03 | 104 | 4 | 
 | 2023-04-01 | 104 | 4 | 
 | 2023-03-29 | 103 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 100 | 4 | 
 | 2023-03-08 | 100 | 4 | 
 | 2023-03-07 | 100 | 4 | 
-| 2023-03-05 | 101 | 4 | 
 

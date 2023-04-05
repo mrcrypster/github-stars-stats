@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 129
 
-★ Stars: 640
+★ Stars: 643
 
 [Open repository](https://github.com/twitter/bijection)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 640 | 129 | 
+| 2023-04-04 | 643 | 129 | 
 | 2023-04-03 | 639 | 129 | 
 | 2023-04-02 | 636 | 126 | 
 | 2023-03-31 | 626 | 116 | 
@@ -34,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 626 | 116 | 
 | 2023-03-07 | 626 | 116 | 
 | 2023-03-06 | 626 | 116 | 
-| 2023-03-05 | 626 | 116 | 
 

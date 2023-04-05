@@ -1,6 +1,6 @@
 # forcedotcom/SalesforceMobileSDK-ReactNative - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 45 | 51 | 
 | 2023-04-03 | 45 | 51 | 
 | 2023-03-31 | 45 | 51 | 
 | 2023-03-29 | 45 | 51 | 

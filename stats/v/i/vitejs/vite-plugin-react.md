@@ -1,10 +1,10 @@
 # vitejs/vite-plugin-react - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 49
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/vitejs/vite-plugin-react)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 202 | 49 | 
 | 2023-04-03 | 201 | 49 | 
 | 2023-03-31 | 196 | 47 | 
 | 2023-03-29 | 191 | 46 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 173 | 41 | 
 | 2023-03-08 | 172 | 40 | 
 | 2023-03-07 | 172 | 38 | 
-| 2023-03-05 | 169 | 38 | 
 

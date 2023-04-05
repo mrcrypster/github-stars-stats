@@ -1,10 +1,10 @@
 # agileguru/gke_ssl_Iac_kcert - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/agileguru/gke_ssl_Iac_kcert)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 7 | 
 | 2023-04-03 | 1 | 7 | 
 

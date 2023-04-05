@@ -1,6 +1,6 @@
 # sheldonucr/ucr-eecs168-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 423 | 31 | 
 | 2023-04-03 | 423 | 31 | 
 | 2023-03-31 | 423 | 31 | 
 | 2023-03-29 | 423 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 423 | 30 | 
 | 2023-03-08 | 423 | 30 | 
 | 2023-03-07 | 423 | 30 | 
-| 2023-03-06 | 423 | 30 | 
 

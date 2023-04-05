@@ -1,6 +1,6 @@
 # moodymudskipper/typed - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 134 | 5 | 
 | 2023-04-03 | 134 | 5 | 
 | 2023-03-31 | 134 | 5 | 
 | 2023-03-29 | 134 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 135 | 5 | 
 | 2023-03-08 | 135 | 5 | 
 | 2023-03-07 | 135 | 5 | 
-| 2023-03-05 | 135 | 5 | 
 

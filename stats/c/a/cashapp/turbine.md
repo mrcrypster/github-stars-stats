@@ -1,10 +1,10 @@
 # cashapp/turbine - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 83
 
-★ Stars: 1890
+★ Stars: 1891
 
 [Open repository](https://github.com/cashapp/turbine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1891 | 83 | 
 | 2023-04-03 | 1890 | 83 | 
 | 2023-04-02 | 1888 | 83 | 
 | 2023-03-30 | 1885 | 83 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1867 | 80 | 
 | 2023-03-07 | 1866 | 80 | 
 | 2023-03-06 | 1864 | 80 | 
-| 2023-03-05 | 1864 | 80 | 
 

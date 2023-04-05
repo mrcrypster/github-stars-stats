@@ -1,6 +1,6 @@
 # branhoff/python_class_101 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 56 | 12 | 
 | 2023-04-03 | 56 | 12 | 
 | 2023-04-01 | 56 | 12 | 
 | 2023-03-31 | 56 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 56 | 12 | 
 | 2023-03-08 | 56 | 12 | 
 | 2023-03-07 | 56 | 12 | 
-| 2023-03-05 | 56 | 12 | 
 

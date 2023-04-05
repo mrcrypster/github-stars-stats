@@ -1,10 +1,10 @@
 # es-meta/esmeta - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 123
+★ Stars: 126
 
 [Open repository](https://github.com/es-meta/esmeta)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 126 | 10 | 
 | 2023-04-03 | 123 | 10 | 
 | 2023-03-31 | 121 | 9 | 
 | 2023-03-29 | 118 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 115 | 9 | 
 | 2023-03-08 | 115 | 9 | 
 | 2023-03-07 | 115 | 9 | 
-| 2023-03-05 | 115 | 9 | 
 

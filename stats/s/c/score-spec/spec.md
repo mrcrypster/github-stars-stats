@@ -1,8 +1,8 @@
 # score-spec/spec - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 2505
+☋ Forks: 2503
 
 ★ Stars: 7841
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7841 | 2503 | 
 | 2023-04-03 | 7841 | 2505 | 
 | 2023-04-02 | 7839 | 2510 | 
 | 2023-03-30 | 7782 | 2515 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 7465 | 2538 | 
 | 2023-03-08 | 7439 | 2543 | 
 | 2023-03-06 | 7428 | 2547 | 
-| 2023-03-05 | 7375 | 2548 | 
 

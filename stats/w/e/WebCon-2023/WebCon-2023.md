@@ -1,10 +1,10 @@
 # WebCon-2023/WebCon-2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/WebCon-2023/WebCon-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 16 | 82 | 
 | 2023-04-03 | 15 | 81 | 
 | 2023-04-01 | 15 | 80 | 
 | 2023-03-31 | 15 | 80 | 

@@ -1,6 +1,6 @@
 # coderyjw/jw-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 109 | 16 | 
 | 2023-04-03 | 109 | 16 | 
 | 2023-04-02 | 108 | 16 | 
 | 2023-03-30 | 108 | 16 | 

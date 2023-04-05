@@ -1,10 +1,10 @@
 # freechipsproject/chisel-testers - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 49
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/freechipsproject/chisel-testers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 91 | 49 | 
 | 2023-04-03 | 89 | 49 | 
 | 2023-03-29 | 89 | 49 | 
 | 2023-03-28 | 89 | 49 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 88 | 49 | 
 | 2023-03-08 | 88 | 49 | 
 | 2023-03-06 | 88 | 49 | 
-| 2023-03-05 | 88 | 49 | 
 

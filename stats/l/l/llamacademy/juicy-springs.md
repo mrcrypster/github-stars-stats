@@ -1,6 +1,6 @@
 # llamacademy/juicy-springs - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 2 | 
 | 2023-04-03 | 17 | 2 | 
 | 2023-04-02 | 17 | 2 | 
 | 2023-04-01 | 17 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 16 | 2 | 
 | 2023-03-08 | 16 | 2 | 
 | 2023-03-07 | 16 | 2 | 
-| 2023-03-05 | 16 | 2 | 
 

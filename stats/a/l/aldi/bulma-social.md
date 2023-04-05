@@ -1,6 +1,6 @@
 # aldi/bulma-social - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 321 | 58 | 
 | 2023-04-03 | 321 | 58 | 
 | 2023-03-31 | 321 | 58 | 
 | 2023-03-29 | 322 | 58 | 

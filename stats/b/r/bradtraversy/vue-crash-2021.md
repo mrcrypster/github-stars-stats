@@ -1,10 +1,10 @@
 # bradtraversy/vue-crash-2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 273
+☋ Forks: 274
 
-★ Stars: 507
+★ Stars: 508
 
 [Open repository](https://github.com/bradtraversy/vue-crash-2021)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 508 | 274 | 
 | 2023-04-03 | 507 | 273 | 
 | 2023-04-02 | 507 | 273 | 
 | 2023-03-31 | 507 | 273 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 506 | 268 | 
 | 2023-03-08 | 505 | 268 | 
 | 2023-03-06 | 505 | 268 | 
-| 2023-03-05 | 505 | 268 | 
 

@@ -1,8 +1,8 @@
 # CapnKitten/Translucence - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 84
+☋ Forks: 86
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 46 | 86 | 
 | 2023-04-03 | 46 | 84 | 
 | 2023-04-01 | 46 | 79 | 
 | 2023-03-30 | 46 | 76 | 

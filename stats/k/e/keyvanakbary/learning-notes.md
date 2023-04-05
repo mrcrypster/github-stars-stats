@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 762
+☋ Forks: 766
 
-★ Stars: 3206
+★ Stars: 3214
 
 [Open repository](https://github.com/keyvanakbary/learning-notes)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 3206 | 762 | 
+| 2023-04-04 | 3214 | 766 | 
 | 2023-04-03 | 3205 | 762 | 
 | 2023-04-02 | 3200 | 760 | 
 | 2023-03-31 | 3192 | 760 | 

@@ -1,6 +1,6 @@
 # tinyphporg/tinyphp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 209 | 41 | 
 | 2023-04-03 | 209 | 41 | 
 | 2023-03-31 | 209 | 41 | 
 | 2023-03-29 | 209 | 41 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 210 | 41 | 
 | 2023-03-08 | 210 | 41 | 
 | 2023-03-07 | 210 | 41 | 
-| 2023-03-05 | 210 | 41 | 
 

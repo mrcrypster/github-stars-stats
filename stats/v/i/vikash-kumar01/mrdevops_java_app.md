@@ -1,10 +1,10 @@
 # vikash-kumar01/mrdevops_java_app - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/vikash-kumar01/mrdevops_java_app)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 25 | 
 | 2023-04-03 | 1 | 21 | 
 

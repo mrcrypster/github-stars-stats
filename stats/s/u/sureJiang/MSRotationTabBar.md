@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 25
 
-★ Stars: 731
+★ Stars: 737
 
 [Open repository](https://github.com/sureJiang/MSRotationTabBar)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 731 | 25 | 
+| 2023-04-04 | 737 | 25 | 
 | 2023-04-03 | 728 | 25 | 
 

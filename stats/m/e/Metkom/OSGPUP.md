@@ -1,6 +1,6 @@
 # Metkom/OSGPUP - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7 | 73 | 
 | 2023-04-03 | 7 | 73 | 
 | 2023-03-30 | 7 | 73 | 
 | 2023-03-28 | 7 | 73 | 

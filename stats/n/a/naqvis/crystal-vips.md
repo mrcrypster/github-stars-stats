@@ -1,6 +1,6 @@
 # naqvis/crystal-vips - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 21 | 3 | 
 | 2023-04-03 | 21 | 3 | 
 | 2023-03-31 | 21 | 3 | 
 | 2023-03-29 | 21 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 20 | 3 | 
 | 2023-03-07 | 20 | 2 | 
 | 2023-03-06 | 20 | 2 | 
-| 2023-03-05 | 20 | 2 | 
 

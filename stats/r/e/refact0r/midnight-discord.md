@@ -1,6 +1,6 @@
 # refact0r/midnight-discord - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 53 | 
 | 2023-04-03 | 36 | 53 | 
 | 2023-04-01 | 33 | 51 | 
 | 2023-03-30 | 33 | 50 | 

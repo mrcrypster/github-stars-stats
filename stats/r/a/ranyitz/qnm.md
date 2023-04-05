@@ -1,6 +1,6 @@
 # ranyitz/qnm - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 884 | 29 | 
 | 2023-04-03 | 884 | 29 | 
 | 2023-04-02 | 884 | 29 | 
 | 2023-03-30 | 884 | 29 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 882 | 29 | 
 | 2023-03-08 | 882 | 29 | 
 | 2023-03-06 | 881 | 29 | 
-| 2023-03-05 | 881 | 29 | 
 

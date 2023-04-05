@@ -1,8 +1,8 @@
 # MOHAMEDGHORAB100/NEW-RDP-2020 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 281
+☋ Forks: 280
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | - | 280 | 
 | 2023-04-03 | - | 281 | 
 | 2023-04-02 | - | 281 | 
 | 2023-03-30 | - | 281 | 

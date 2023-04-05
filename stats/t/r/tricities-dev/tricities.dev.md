@@ -1,6 +1,6 @@
 # tricities-dev/tricities.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5 | - | 
 | 2023-04-02 | 5 | - | 
 | 2023-03-30 | 5 | - | 
 | 2023-03-28 | 5 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-10 | 5 | - | 
 | 2023-03-08 | 5 | - | 
 | 2023-03-07 | 5 | - | 
-| 2023-03-05 | 5 | - | 
 

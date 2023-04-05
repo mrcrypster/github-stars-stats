@@ -1,10 +1,10 @@
 # alpha2phi/neovim-for-beginner - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 90
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/alpha2phi/neovim-for-beginner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 311 | 90 | 
 | 2023-04-03 | 310 | 90 | 
 | 2023-04-02 | 310 | 90 | 
 | 2023-03-30 | 310 | 90 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 298 | 89 | 
 | 2023-03-08 | 295 | 89 | 
 | 2023-03-06 | 295 | 88 | 
-| 2023-03-05 | 295 | 88 | 
 

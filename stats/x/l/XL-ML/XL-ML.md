@@ -1,10 +1,10 @@
 # XL-ML/XL-ML - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/XL-ML/XL-ML)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 24 | - | 
 | 2023-04-03 | 23 | - | 
 | 2023-04-01 | 23 | - | 
 | 2023-03-30 | 23 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 23 | - | 
 | 2023-03-08 | 23 | - | 
 | 2023-03-06 | 23 | - | 
-| 2023-03-05 | 23 | - | 
 

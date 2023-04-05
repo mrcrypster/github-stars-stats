@@ -1,6 +1,6 @@
 # geocaml/ocaml-optics - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 13 | 1 | 
 | 2023-04-03 | 13 | 1 | 
 | 2023-03-31 | 13 | 1 | 
 | 2023-03-29 | 13 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 13 | 1 | 
 | 2023-03-08 | 13 | 1 | 
 | 2023-03-07 | 13 | 1 | 
-| 2023-03-05 | 13 | 1 | 
 

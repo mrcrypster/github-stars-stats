@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/danendracoding/PHP-CRUD-Rest-API)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 9 | 8 | 
+| 2023-04-04 | 10 | 8 | 
 | 2023-04-03 | 9 | 8 | 
 

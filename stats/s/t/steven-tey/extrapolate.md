@@ -1,6 +1,6 @@
 # steven-tey/extrapolate - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 282 | 28 | 
 | 2023-04-03 | 282 | 28 | 
 | 2023-04-01 | 282 | 28 | 
 | 2023-03-30 | 282 | 27 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 261 | 21 | 
 | 2023-03-08 | 251 | 20 | 
 | 2023-03-07 | 246 | 20 | 
-| 2023-03-05 | 246 | 20 | 
 

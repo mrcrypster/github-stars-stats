@@ -1,10 +1,10 @@
 # LambdaLabsML/lambda-diffusers - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 71
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/LambdaLabsML/lambda-diffusers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 403 | 71 | 
 | 2023-04-03 | 402 | 71 | 
 | 2023-03-31 | 401 | 69 | 
 | 2023-03-29 | 393 | 69 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 370 | 64 | 
 | 2023-03-08 | 368 | 64 | 
 | 2023-03-06 | 366 | 64 | 
-| 2023-03-05 | 365 | 63 | 
 

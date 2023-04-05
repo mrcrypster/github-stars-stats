@@ -1,6 +1,6 @@
 # niuhuan/nhentai-cross - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 373 | 28 | 
 | 2023-04-03 | 373 | 28 | 
 | 2023-03-31 | 371 | 28 | 
 | 2023-03-29 | 371 | 27 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 360 | 26 | 
 | 2023-03-08 | 358 | 26 | 
 | 2023-03-07 | 358 | 26 | 
-| 2023-03-05 | 358 | 26 | 
 

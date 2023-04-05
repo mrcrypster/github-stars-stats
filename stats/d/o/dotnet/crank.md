@@ -1,6 +1,6 @@
 # dotnet/crank - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 805 | 90 | 
 | 2023-04-03 | 805 | 90 | 
 | 2023-04-01 | 805 | 90 | 
 | 2023-03-30 | 805 | 90 | 

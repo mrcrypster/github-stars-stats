@@ -1,6 +1,6 @@
 # rm-hull/turmites - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7 | 1 | 
 | 2023-04-03 | 7 | 1 | 
 | 2023-04-02 | 7 | 1 | 
 | 2023-03-30 | 7 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 7 | 1 | 
 | 2023-03-08 | 7 | 1 | 
 | 2023-03-06 | 7 | 1 | 
-| 2023-03-05 | 7 | 1 | 
 

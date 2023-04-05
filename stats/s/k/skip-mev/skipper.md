@@ -1,8 +1,8 @@
 # skip-mev/skipper - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 120 | 28 | 
 | 2023-04-03 | 120 | 27 | 
 | 2023-04-02 | 119 | 27 | 
 | 2023-04-01 | 118 | 27 | 

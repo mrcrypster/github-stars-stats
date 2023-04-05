@@ -1,10 +1,10 @@
 # ElvisQin/thegibook - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 144
 
-★ Stars: 917
+★ Stars: 918
 
 [Open repository](https://github.com/ElvisQin/thegibook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 918 | 144 | 
 | 2023-04-03 | 917 | 144 | 
 | 2023-03-31 | 915 | 144 | 
 | 2023-03-29 | 914 | 143 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 906 | 143 | 
 | 2023-03-08 | 905 | 142 | 
 | 2023-03-06 | 904 | 142 | 
-| 2023-03-05 | 903 | 142 | 
 

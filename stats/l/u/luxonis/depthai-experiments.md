@@ -1,6 +1,6 @@
 # luxonis/depthai-experiments - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 298
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 615 | 298 | 
 | 2023-04-03 | 615 | 298 | 
 | 2023-04-02 | 613 | 298 | 
 | 2023-03-30 | 612 | 297 | 

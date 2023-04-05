@@ -1,8 +1,8 @@
 # dtolnay/syn - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 268
+☋ Forks: 269
 
 ★ Stars: 2188
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2188 | 269 | 
 | 2023-04-03 | 2188 | 268 | 
 | 2023-04-02 | 2185 | 268 | 
 | 2023-03-29 | 2182 | 267 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2080 | 265 | 
 | 2023-03-08 | 2076 | 264 | 
 | 2023-03-06 | 2072 | 264 | 
-| 2023-03-05 | 2071 | 265 | 
 

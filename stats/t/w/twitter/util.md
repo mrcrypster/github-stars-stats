@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 585
+☋ Forks: 586
 
-★ Stars: 2608
+★ Stars: 2610
 
 [Open repository](https://github.com/twitter/util)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 2608 | 585 | 
+| 2023-04-04 | 2610 | 586 | 
 | 2023-04-03 | 2608 | 585 | 
 | 2023-04-02 | 2603 | 581 | 
 | 2023-03-30 | 2585 | 569 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 2581 | 568 | 
 | 2023-03-07 | 2582 | 567 | 
 | 2023-03-06 | 2582 | 567 | 
-| 2023-03-05 | 2581 | 567 | 
 

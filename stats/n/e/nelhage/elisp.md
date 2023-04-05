@@ -1,6 +1,6 @@
 # nelhage/elisp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 42 | 4 | 
 | 2023-04-03 | 42 | 4 | 
 | 2023-04-02 | 42 | 4 | 
 | 2023-03-30 | 42 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 42 | 4 | 
 | 2023-03-07 | 42 | 4 | 
 | 2023-03-06 | 42 | 4 | 
-| 2023-03-05 | 42 | 4 | 
 

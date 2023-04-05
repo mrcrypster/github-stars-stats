@@ -1,6 +1,6 @@
 # mstksg/advent-of-code-2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 12 | 2 | 
 | 2023-04-03 | 12 | 2 | 
 | 2023-04-02 | 12 | 2 | 
 | 2023-03-30 | 12 | 2 | 

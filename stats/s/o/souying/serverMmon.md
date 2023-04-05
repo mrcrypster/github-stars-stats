@@ -1,10 +1,10 @@
 # souying/serverMmon - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 221
+★ Stars: 227
 
 [Open repository](https://github.com/souying/serverMmon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 227 | 23 | 
 | 2023-04-03 | 221 | 22 | 
 | 2023-03-31 | 193 | 20 | 
 | 2023-03-30 | 184 | 19 | 

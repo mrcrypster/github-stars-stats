@@ -1,10 +1,10 @@
 # Ummidichandrika/100-Days-of-RTL - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/Ummidichandrika/100-Days-of-RTL)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 35 | 7 | 
 | 2023-04-03 | 33 | 7 | 
 | 2023-03-31 | 30 | 5 | 
 | 2023-03-29 | 29 | 5 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 24 | 3 | 
 | 2023-03-08 | 23 | 3 | 
 | 2023-03-06 | 22 | 3 | 
-| 2023-03-05 | 21 | 3 | 
 

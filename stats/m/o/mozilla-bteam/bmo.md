@@ -1,6 +1,6 @@
 # mozilla-bteam/bmo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 135 | 192 | 
 | 2023-04-03 | 135 | 192 | 
 | 2023-04-01 | 135 | 192 | 
 | 2023-03-29 | 135 | 190 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 135 | 191 | 
 | 2023-03-08 | 135 | 191 | 
 | 2023-03-07 | 135 | 191 | 
-| 2023-03-05 | 135 | 191 | 
 

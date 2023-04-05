@@ -1,10 +1,10 @@
 # OpenEtherCATsociety/SOEM - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 538
+☋ Forks: 539
 
-★ Stars: 941
+★ Stars: 942
 
 [Open repository](https://github.com/OpenEtherCATsociety/SOEM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 942 | 539 | 
 | 2023-04-03 | 941 | 538 | 
 | 2023-04-02 | 938 | 538 | 
 | 2023-03-30 | 937 | 538 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 919 | 532 | 
 | 2023-03-07 | 918 | 532 | 
 | 2023-03-06 | 918 | 531 | 
-| 2023-03-05 | 918 | 531 | 
 

@@ -1,10 +1,10 @@
 # vikash-kumar01/Kubernetes_Project - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 133
+☋ Forks: 136
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/vikash-kumar01/Kubernetes_Project)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | 136 | 
 | 2023-04-03 | 10 | 133 | 
 | 2023-04-02 | 10 | 133 | 
 | 2023-04-01 | 9 | 131 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 7 | 113 | 
 | 2023-03-08 | 7 | 112 | 
 | 2023-03-07 | 7 | 111 | 
-| 2023-03-05 | 7 | 111 | 
 

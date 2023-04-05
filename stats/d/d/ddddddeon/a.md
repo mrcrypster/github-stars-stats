@@ -1,6 +1,6 @@
 # ddddddeon/a - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 238 | 10 | 
 | 2023-04-03 | 238 | 10 | 
 | 2023-04-01 | 238 | 10 | 
 | 2023-03-31 | 237 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 223 | 10 | 
 | 2023-03-07 | 221 | 10 | 
 | 2023-03-06 | 218 | 10 | 
-| 2023-03-05 | 208 | 10 | 
 

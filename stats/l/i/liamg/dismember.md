@@ -1,6 +1,6 @@
 # liamg/dismember - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 410 | 31 | 
 | 2023-04-03 | 410 | 31 | 
 | 2023-04-02 | 410 | 31 | 
 | 2023-03-30 | 409 | 31 | 

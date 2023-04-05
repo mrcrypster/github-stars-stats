@@ -1,6 +1,6 @@
 # akashyap2013/Blooger_Website - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 599
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 391 | 599 | 
 | 2023-04-03 | 391 | 599 | 
 | 2023-04-01 | 390 | 599 | 
 | 2023-03-30 | 390 | 599 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 390 | 598 | 
 | 2023-03-08 | 390 | 599 | 
 | 2023-03-06 | 390 | 599 | 
-| 2023-03-05 | 390 | 599 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 29
 
-★ Stars: 775
+★ Stars: 777
 
 [Open repository](https://github.com/instill-ai/vdp)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 775 | 29 | 
+| 2023-04-04 | 777 | 29 | 
 | 2023-04-03 | 775 | 29 | 
 | 2023-04-02 | 769 | 29 | 
 | 2023-04-01 | 761 | 29 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 697 | 26 | 
 | 2023-03-07 | 697 | 26 | 
 | 2023-03-06 | 698 | 26 | 
-| 2023-03-05 | 697 | 26 | 
 

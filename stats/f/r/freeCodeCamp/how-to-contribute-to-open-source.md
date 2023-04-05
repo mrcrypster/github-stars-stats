@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 1621
+☋ Forks: 1622
 
-★ Stars: 7522
+★ Stars: 7526
 
 [Open repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 7522 | 1621 | 
+| 2023-04-04 | 7526 | 1622 | 
 | 2023-04-03 | 7522 | 1621 | 
 | 2023-04-02 | 7516 | 1619 | 
 | 2023-03-30 | 7501 | 1618 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 7433 | 1606 | 
 | 2023-03-08 | 7430 | 1607 | 
 | 2023-03-07 | 7429 | 1606 | 
-| 2023-03-05 | 7426 | 1605 | 
 

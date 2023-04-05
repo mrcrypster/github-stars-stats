@@ -1,6 +1,6 @@
 # Azure/Mission-Critical-Online - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 255 | 72 | 
 | 2023-04-03 | 255 | 72 | 
 | 2023-04-02 | 255 | 72 | 
 | 2023-03-30 | 255 | 72 | 

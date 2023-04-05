@@ -1,10 +1,10 @@
 # whereisph/new - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 11
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/whereisph/new)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 159 | 11 | 
 | 2023-04-03 | 158 | 11 | 
 | 2023-04-01 | 158 | 11 | 
 | 2023-03-30 | 157 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 153 | 10 | 
 | 2023-03-08 | 152 | 10 | 
 | 2023-03-07 | 152 | 10 | 
-| 2023-03-05 | 152 | 10 | 
 

@@ -1,6 +1,6 @@
 # cabol/shards - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 33
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 286 | 33 | 
+| 2023-04-04 | 286 | 33 | 
 | 2023-04-03 | 286 | 33 | 
 | 2023-04-01 | 286 | 33 | 
 | 2023-03-30 | 286 | 33 | 
@@ -34,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 286 | 32 | 
 | 2023-03-08 | 286 | 32 | 
 | 2023-03-06 | 286 | 32 | 
-| 2023-03-05 | 286 | 32 | 
 

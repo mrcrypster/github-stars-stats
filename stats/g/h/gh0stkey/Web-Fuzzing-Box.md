@@ -1,10 +1,10 @@
 # gh0stkey/Web-Fuzzing-Box - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 339
 
-★ Stars: 1616
+★ Stars: 1620
 
 [Open repository](https://github.com/gh0stkey/Web-Fuzzing-Box)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1620 | 339 | 
 | 2023-04-03 | 1616 | 339 | 
 | 2023-03-31 | 1611 | 339 | 
 | 2023-03-29 | 1608 | 339 | 

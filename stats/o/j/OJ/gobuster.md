@@ -1,10 +1,10 @@
 # OJ/gobuster - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1022
 
-★ Stars: 7430
+★ Stars: 7445
 
 [Open repository](https://github.com/OJ/gobuster)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7445 | 1022 | 
 | 2023-04-03 | 7430 | 1022 | 
 | 2023-03-31 | 7413 | 1022 | 
 | 2023-03-29 | 7405 | 1021 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 7313 | 1008 | 
 | 2023-03-07 | 7301 | 1008 | 
 | 2023-03-06 | 7298 | 1007 | 
-| 2023-03-05 | 7287 | 1007 | 
 

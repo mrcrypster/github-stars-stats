@@ -1,6 +1,6 @@
 # alexbelgium/hassio-addons - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 670 | 104 | 
 | 2023-04-03 | 670 | 104 | 
 | 2023-04-02 | 670 | 104 | 
 | 2023-03-30 | 664 | 104 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 636 | 104 | 
 | 2023-03-07 | 635 | 104 | 
 | 2023-03-06 | 634 | 104 | 
-| 2023-03-05 | 632 | 103 | 
 

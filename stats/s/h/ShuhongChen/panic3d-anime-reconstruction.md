@@ -1,10 +1,10 @@
 # ShuhongChen/panic3d-anime-reconstruction - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 16
 
-★ Stars: 323
+★ Stars: 329
 
 [Open repository](https://github.com/ShuhongChen/panic3d-anime-reconstruction)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 329 | 16 | 
 | 2023-04-03 | 323 | 16 | 
 | 2023-04-02 | 307 | 15 | 
 | 2023-03-31 | 285 | 13 | 

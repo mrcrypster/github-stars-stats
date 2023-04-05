@@ -1,6 +1,6 @@
 # Netflix/edda - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 547 | 137 | 
 | 2023-04-03 | 547 | 137 | 
 | 2023-03-31 | 547 | 137 | 
 | 2023-03-29 | 547 | 137 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 546 | 135 | 
 | 2023-03-08 | 546 | 135 | 
 | 2023-03-06 | 546 | 135 | 
-| 2023-03-05 | 546 | 135 | 
 

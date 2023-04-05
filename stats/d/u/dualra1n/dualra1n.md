@@ -1,6 +1,6 @@
 # dualra1n/dualra1n - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 89 | 22 | 
 | 2023-04-03 | 89 | 22 | 
 | 2023-04-01 | 85 | 22 | 
 | 2023-03-31 | 82 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 78 | 15 | 
 | 2023-03-08 | 76 | 15 | 
 | 2023-03-06 | 73 | 14 | 
-| 2023-03-05 | 71 | 12 | 
 

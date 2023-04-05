@@ -1,10 +1,10 @@
 # h2oai/wave - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 246
 
-★ Stars: 3450
+★ Stars: 3452
 
 [Open repository](https://github.com/h2oai/wave)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3452 | 246 | 
 | 2023-04-04 | 3450 | 246 | 
 | 2023-04-02 | 3449 | 246 | 
 | 2023-04-01 | 3446 | 246 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 3421 | 241 | 
 | 2023-03-08 | 3420 | 238 | 
 | 2023-03-07 | 3420 | 239 | 
-| 2023-03-05 | 3417 | 239 | 
 

@@ -1,10 +1,10 @@
 # keploy/keploy - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 165
 
-★ Stars: 1733
+★ Stars: 1742
 
 [Open repository](https://github.com/keploy/keploy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1742 | 165 | 
 | 2023-04-03 | 1733 | 165 | 
 | 2023-04-02 | 1731 | 164 | 
 | 2023-03-30 | 1685 | 161 | 

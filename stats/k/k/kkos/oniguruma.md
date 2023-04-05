@@ -1,10 +1,10 @@
 # kkos/oniguruma - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 301
 
-★ Stars: 1971
+★ Stars: 1973
 
 [Open repository](https://github.com/kkos/oniguruma)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1973 | 301 | 
 | 2023-04-03 | 1971 | 301 | 
 | 2023-04-02 | 1971 | 301 | 
 | 2023-03-30 | 1967 | 300 | 

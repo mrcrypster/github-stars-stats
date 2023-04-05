@@ -1,8 +1,8 @@
 # kupl-courses/COSE312-2023spring - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 30 | 12 | 
 | 2023-04-03 | 30 | 11 | 
 | 2023-03-31 | 31 | 11 | 
 | 2023-03-29 | 31 | 10 | 

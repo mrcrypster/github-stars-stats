@@ -1,10 +1,10 @@
 # twbs/examples - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 93
+☋ Forks: 94
 
-★ Stars: 149
+★ Stars: 151
 
 [Open repository](https://github.com/twbs/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 151 | 94 | 
 | 2023-04-03 | 149 | 93 | 
 | 2023-04-02 | 147 | 92 | 
 | 2023-03-30 | 143 | 91 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 126 | 79 | 
 | 2023-03-08 | 126 | 78 | 
 | 2023-03-07 | 126 | 77 | 
-| 2023-03-06 | 126 | 77 | 
 

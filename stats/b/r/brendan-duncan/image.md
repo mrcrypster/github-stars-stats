@@ -1,10 +1,10 @@
 # brendan-duncan/image - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 221
 
-★ Stars: 965
+★ Stars: 967
 
 [Open repository](https://github.com/brendan-duncan/image)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 967 | 221 | 
 | 2023-04-03 | 965 | 221 | 
 | 2023-04-02 | 964 | 221 | 
 | 2023-03-31 | 960 | 219 | 

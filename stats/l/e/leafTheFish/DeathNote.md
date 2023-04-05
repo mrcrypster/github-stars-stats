@@ -1,10 +1,10 @@
 # leafTheFish/DeathNote - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 586
+☋ Forks: 587
 
-★ Stars: 1022
+★ Stars: 1025
 
 [Open repository](https://github.com/leafTheFish/DeathNote)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1025 | 587 | 
 | 2023-04-03 | 1022 | 586 | 
 | 2023-04-02 | 1017 | 585 | 
 | 2023-03-30 | 1009 | 581 | 

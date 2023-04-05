@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 30
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/chiru-labs/ERC721A-Upgradeable)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 115 | 30 | 
+| 2023-04-04 | 116 | 30 | 
 | 2023-04-03 | 115 | 29 | 
 | 2023-04-02 | 115 | 29 | 
 | 2023-03-31 | 115 | 29 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 112 | 28 | 
 | 2023-03-07 | 112 | 28 | 
 | 2023-03-06 | 112 | 28 | 
-| 2023-03-05 | 112 | 28 | 
 

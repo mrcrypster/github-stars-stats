@@ -1,6 +1,6 @@
 # JTiger0431/DingdongHelper - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 27 | 17 | 
 | 2023-04-03 | 27 | 17 | 
 | 2023-04-02 | 27 | 17 | 
 | 2023-03-30 | 27 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 27 | 17 | 
 | 2023-03-08 | 27 | 17 | 
 | 2023-03-06 | 27 | 17 | 
-| 2023-03-05 | 27 | 17 | 
 

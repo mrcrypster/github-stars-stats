@@ -1,6 +1,6 @@
 # ginpei/books.ginpei.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 32 | - | 
 | 2023-04-03 | 32 | - | 
 | 2023-04-01 | 32 | - | 
 | 2023-03-31 | 32 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 32 | - | 
 | 2023-03-08 | 32 | - | 
 | 2023-03-06 | 32 | - | 
-| 2023-03-05 | 32 | - | 
 

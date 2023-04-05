@@ -1,6 +1,6 @@
 # toshiossada/conversor_moedas_fatec - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 31 | - | 
 | 2023-04-03 | 31 | - | 
 | 2023-03-31 | 31 | - | 
 | 2023-03-29 | 31 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 31 | - | 
 | 2023-03-08 | 31 | - | 
 | 2023-03-07 | 31 | - | 
-| 2023-03-05 | 31 | - | 
 

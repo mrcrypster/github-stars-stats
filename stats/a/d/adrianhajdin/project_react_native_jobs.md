@@ -1,10 +1,10 @@
 # adrianhajdin/project_react_native_jobs - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 220
+★ Stars: 232
 
 [Open repository](https://github.com/adrianhajdin/project_react_native_jobs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 232 | 51 | 
 | 2023-04-03 | 220 | 50 | 
 | 2023-03-31 | 208 | 46 | 
 | 2023-03-29 | 192 | 44 | 

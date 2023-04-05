@@ -1,6 +1,6 @@
 # danini-the-panini/mittsu - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 485 | 29 | 
 | 2023-04-03 | 485 | 29 | 
 | 2023-03-31 | 485 | 29 | 
 | 2023-03-29 | 485 | 29 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 485 | 29 | 
 | 2023-03-08 | 485 | 29 | 
 | 2023-03-07 | 485 | 29 | 
-| 2023-03-05 | 485 | 29 | 
 

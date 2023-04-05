@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-iam-policy - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 9 | 12 | 
 | 2023-04-03 | 9 | 12 | 
 | 2023-04-02 | 9 | 12 | 
 | 2023-03-30 | 9 | 12 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 9 | 12 | 
 | 2023-03-09 | 9 | 12 | 
 | 2023-03-07 | 9 | 12 | 
-| 2023-03-06 | 9 | 12 | 
 

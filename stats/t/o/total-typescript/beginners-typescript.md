@@ -1,10 +1,10 @@
 # total-typescript/beginners-typescript - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 917
+☋ Forks: 920
 
-★ Stars: 7167
+★ Stars: 7170
 
 [Open repository](https://github.com/total-typescript/beginners-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7170 | 920 | 
 | 2023-04-03 | 7167 | 917 | 
 | 2023-03-31 | 7165 | 915 | 
 | 2023-03-29 | 7163 | 915 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 7136 | 894 | 
 | 2023-03-08 | 7130 | 891 | 
 | 2023-03-07 | 7126 | 887 | 
-| 2023-03-05 | 7122 | 884 | 
 

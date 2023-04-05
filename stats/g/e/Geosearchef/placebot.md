@@ -1,6 +1,6 @@
 # Geosearchef/placebot - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 22 | 22 | 
 | 2023-04-03 | 22 | 22 | 
 | 2023-03-31 | 22 | 22 | 
 | 2023-03-29 | 22 | 22 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 22 | 22 | 
 | 2023-03-08 | 22 | 22 | 
 | 2023-03-07 | 22 | 22 | 
-| 2023-03-05 | 22 | 22 | 
 

@@ -1,6 +1,6 @@
 # barncastle/Battle.Net-Installer - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 189 | 36 | 
 | 2023-04-03 | 189 | 36 | 
 | 2023-03-31 | 186 | 36 | 
 | 2023-03-28 | 186 | 36 | 

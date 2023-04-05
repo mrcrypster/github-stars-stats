@@ -1,10 +1,10 @@
 # cnuernber/streams - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/cnuernber/streams)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 18 | - | 
 | 2023-04-03 | 17 | - | 
 | 2023-04-02 | 17 | - | 
 | 2023-03-30 | 16 | - | 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 417
 
-★ Stars: 8766
+★ Stars: 8769
 
 [Open repository](https://github.com/Spotifyd/spotifyd)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 8766 | 417 | 
+| 2023-04-04 | 8769 | 417 | 
 | 2023-04-03 | 8765 | 417 | 
 | 2023-04-02 | 8752 | 416 | 
 | 2023-03-31 | 8748 | 415 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 8687 | 411 | 
 | 2023-03-08 | 8686 | 410 | 
 | 2023-03-06 | 8682 | 410 | 
-| 2023-03-05 | 8674 | 410 | 
 

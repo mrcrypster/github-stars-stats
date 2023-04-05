@@ -1,6 +1,6 @@
 # yu-takagi/StableDiffusionReconstruction - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 818 | 21 | 
 | 2023-04-03 | 818 | 21 | 
 | 2023-04-02 | 814 | 20 | 
 | 2023-03-30 | 808 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 709 | 17 | 
 | 2023-03-07 | 690 | 17 | 
 | 2023-03-06 | 610 | 15 | 
-| 2023-03-05 | 533 | 13 | 
 

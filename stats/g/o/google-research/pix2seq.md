@@ -1,6 +1,6 @@
 # google-research/pix2seq - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 579 | 50 | 
 | 2023-04-03 | 579 | 50 | 
 | 2023-04-02 | 579 | 49 | 
 | 2023-03-30 | 573 | 49 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 538 | 47 | 
 | 2023-03-08 | 537 | 46 | 
 | 2023-03-06 | 535 | 46 | 
-| 2023-03-05 | 533 | 46 | 
 

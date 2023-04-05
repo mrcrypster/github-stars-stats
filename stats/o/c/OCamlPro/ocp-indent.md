@@ -1,6 +1,6 @@
 # OCamlPro/ocp-indent - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 193 | 60 | 
 | 2023-04-03 | 193 | 60 | 
 | 2023-04-01 | 193 | 60 | 
 | 2023-03-30 | 193 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 193 | 59 | 
 | 2023-03-08 | 193 | 59 | 
 | 2023-03-07 | 193 | 59 | 
-| 2023-03-05 | 193 | 59 | 
 

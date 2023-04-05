@@ -1,6 +1,6 @@
 # ververica/flink-sql-cookbook - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 174
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 698 | 174 | 
 | 2023-04-03 | 698 | 174 | 
 | 2023-04-01 | 699 | 174 | 
 | 2023-03-30 | 699 | 174 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 678 | 171 | 
 | 2023-03-08 | 674 | 171 | 
 | 2023-03-06 | 674 | 171 | 
-| 2023-03-05 | 671 | 172 | 
 

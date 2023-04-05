@@ -1,6 +1,6 @@
 # VitroidFPV/VitroidFPV - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 6 | 7 | 
 | 2023-04-03 | 6 | 7 | 
 | 2023-04-01 | 6 | 7 | 
 | 2023-03-30 | 6 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 5 | 5 | 
 | 2023-03-08 | 5 | 5 | 
 | 2023-03-06 | 5 | 5 | 
-| 2023-03-05 | 5 | 5 | 
 

@@ -1,10 +1,10 @@
 # sni/Thruk - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 147
 
-★ Stars: 385
+★ Stars: 384
 
 [Open repository](https://github.com/sni/Thruk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 384 | 147 | 
 | 2023-04-03 | 385 | 147 | 
 | 2023-04-01 | 385 | 147 | 
 | 2023-03-29 | 384 | 147 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 383 | 147 | 
 | 2023-03-08 | 383 | 147 | 
 | 2023-03-06 | 383 | 147 | 
-| 2023-03-05 | 384 | 147 | 
 

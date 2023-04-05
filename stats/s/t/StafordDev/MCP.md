@@ -1,0 +1,18 @@
+# StafordDev/MCP - stars & forks statistics
+
+Stats updated on Apr 2023, 05
+
+☋ Forks: 1
+
+★ Stars: 2
+
+[Open repository](https://github.com/StafordDev/MCP)
+
+[Open detailed stats for StafordDev/MCP](https://reviewgithub.com/rep/StafordDev/MCP)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-05 | 2 | 1 | 
+| 2023-04-04 | 2 | 1 | 
+

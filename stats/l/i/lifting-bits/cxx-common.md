@@ -1,6 +1,6 @@
 # lifting-bits/cxx-common - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 23 | 12 | 
 | 2023-04-03 | 23 | 12 | 
 | 2023-04-02 | 23 | 12 | 
 | 2023-03-30 | 23 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 22 | 12 | 
 | 2023-03-08 | 22 | 12 | 
 | 2023-03-07 | 22 | 12 | 
-| 2023-03-05 | 22 | 12 | 
 

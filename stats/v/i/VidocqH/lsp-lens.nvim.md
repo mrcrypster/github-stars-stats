@@ -1,6 +1,6 @@
 # VidocqH/lsp-lens.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 56 | 4 | 
 | 2023-04-03 | 56 | 4 | 
 | 2023-04-02 | 55 | 4 | 
 | 2023-03-31 | 55 | 4 | 

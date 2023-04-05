@@ -1,6 +1,6 @@
 # ChimeHQ/Neon - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 234 | 9 | 
 | 2023-04-03 | 234 | 9 | 
 | 2023-03-31 | 234 | 9 | 
 | 2023-03-29 | 234 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 229 | 9 | 
 | 2023-03-07 | 228 | 9 | 
 | 2023-03-06 | 228 | 9 | 
-| 2023-03-05 | 228 | 9 | 
 

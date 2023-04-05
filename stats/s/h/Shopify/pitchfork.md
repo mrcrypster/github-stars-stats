@@ -1,10 +1,10 @@
 # Shopify/pitchfork - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/Shopify/pitchfork)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 507 | 15 | 
 | 2023-04-03 | 506 | 15 | 
 | 2023-04-02 | 505 | 15 | 
 | 2023-03-30 | 502 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 489 | 13 | 
 | 2023-03-08 | 489 | 13 | 
 | 2023-03-07 | 490 | 13 | 
-| 2023-03-05 | 490 | 13 | 
 

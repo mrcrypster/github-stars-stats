@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 99
 
-★ Stars: 1702
+★ Stars: 1705
 
 [Open repository](https://github.com/open-source-labs/Svelvet)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 1702 | 99 | 
+| 2023-04-04 | 1705 | 99 | 
 | 2023-04-03 | 1702 | 99 | 
 | 2023-04-01 | 1692 | 98 | 
 | 2023-03-29 | 1688 | 99 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 1664 | 95 | 
 | 2023-03-07 | 1661 | 94 | 
 | 2023-03-06 | 1659 | 93 | 
-| 2023-03-05 | 1658 | 93 | 
 

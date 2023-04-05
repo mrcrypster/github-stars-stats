@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 87
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/Morsmalleo/AhMyth)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 279 | 87 | 
+| 2023-04-04 | 280 | 87 | 
 | 2023-04-03 | 279 | 87 | 
 | 2023-04-02 | 279 | 87 | 
 | 2023-04-01 | 275 | 85 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 255 | 81 | 
 | 2023-03-07 | 254 | 81 | 
 | 2023-03-06 | 254 | 81 | 
-| 2023-03-05 | 253 | 81 | 
 

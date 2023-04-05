@@ -1,6 +1,6 @@
 # deepcam-cn/yolov5-face - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 425
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1555 | 425 | 
 | 2023-04-03 | 1555 | 425 | 
 | 2023-03-31 | 1548 | 423 | 
 | 2023-03-29 | 1545 | 423 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 1515 | 420 | 
 | 2023-03-08 | 1513 | 420 | 
 | 2023-03-07 | 1508 | 420 | 
-| 2023-03-05 | 1506 | 421 | 
 

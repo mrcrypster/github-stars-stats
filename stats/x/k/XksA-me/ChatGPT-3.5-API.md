@@ -1,10 +1,10 @@
 # XksA-me/ChatGPT-3.5-API - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 122
+★ Stars: 125
 
 [Open repository](https://github.com/XksA-me/ChatGPT-3.5-API)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 125 | 26 | 
+| 2023-04-04 | 125 | 25 | 
 | 2023-04-03 | 122 | 24 | 
 | 2023-04-02 | 118 | 23 | 
 | 2023-03-30 | 116 | 20 | 

@@ -1,6 +1,6 @@
 # nagy135/typebreak.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 28 | - | 
 | 2023-04-03 | 28 | - | 
 | 2023-04-02 | 28 | - | 
 | 2023-03-31 | 28 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 28 | - | 
 | 2023-03-08 | 27 | - | 
 | 2023-03-06 | 27 | - | 
-| 2023-03-05 | 27 | - | 
 

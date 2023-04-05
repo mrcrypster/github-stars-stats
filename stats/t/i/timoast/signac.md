@@ -1,6 +1,6 @@
 # timoast/signac - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 216 | 77 | 
 | 2023-04-03 | 216 | 77 | 
 | 2023-04-02 | 216 | 77 | 
 | 2023-03-30 | 216 | 77 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 213 | 76 | 
 | 2023-03-07 | 213 | 76 | 
 | 2023-03-06 | 211 | 76 | 
-| 2023-03-05 | 211 | 77 | 
 

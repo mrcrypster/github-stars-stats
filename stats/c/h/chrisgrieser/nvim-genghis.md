@@ -1,10 +1,10 @@
 # chrisgrieser/nvim-genghis - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 86
+★ Stars: 88
 
 [Open repository](https://github.com/chrisgrieser/nvim-genghis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 88 | 5 | 
 | 2023-04-03 | 86 | 4 | 
 | 2023-03-31 | 82 | 4 | 
 | 2023-03-29 | 82 | 4 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 73 | 4 | 
 | 2023-03-08 | 71 | 4 | 
 | 2023-03-06 | 68 | 4 | 
-| 2023-03-05 | 68 | 4 | 
 

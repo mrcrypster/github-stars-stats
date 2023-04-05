@@ -1,10 +1,10 @@
 # cawfree/zk-starter - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/cawfree/zk-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 93 | 4 | 
 | 2023-04-03 | 91 | 4 | 
 | 2023-03-31 | 90 | 4 | 
 | 2023-03-29 | 90 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 89 | 4 | 
 | 2023-03-08 | 89 | 4 | 
 | 2023-03-07 | 89 | 4 | 
-| 2023-03-05 | 89 | 4 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 241
 
-★ Stars: 3365
+★ Stars: 3364
 
 [Open repository](https://github.com/folke/tokyonight.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 3365 | 241 | 
+| 2023-04-04 | 3364 | 241 | 
 | 2023-04-03 | 3364 | 241 | 
 | 2023-04-02 | 3352 | 241 | 
 | 2023-04-01 | 3349 | 240 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 3215 | 229 | 
 | 2023-03-07 | 3205 | 228 | 
 | 2023-03-06 | 3197 | 226 | 
-| 2023-03-05 | 3191 | 225 | 
 

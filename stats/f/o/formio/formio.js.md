@@ -1,6 +1,6 @@
 # formio/formio.js - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 920
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1574 | 920 | 
 | 2023-04-03 | 1574 | 920 | 
 | 2023-03-31 | 1574 | 918 | 
 | 2023-03-29 | 1572 | 918 | 

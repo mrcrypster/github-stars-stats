@@ -1,6 +1,6 @@
 # CloudSlang/cs-content - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 70 | 183 | 
 | 2023-04-03 | 70 | 183 | 
 | 2023-04-01 | 70 | 183 | 
 | 2023-03-30 | 70 | 183 | 

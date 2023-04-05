@@ -1,6 +1,6 @@
 # OSPanel/OpenServerPanel - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 67 | 11 | 
 | 2023-04-03 | 67 | 11 | 
 | 2023-04-02 | 67 | 11 | 
 | 2023-03-30 | 67 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 62 | 9 | 
 | 2023-03-07 | 61 | 9 | 
 | 2023-03-06 | 61 | 9 | 
-| 2023-03-05 | 61 | 9 | 
 

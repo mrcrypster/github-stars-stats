@@ -1,10 +1,10 @@
 # p8952/bocker - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 704
 
-★ Stars: 10689
+★ Stars: 10690
 
 [Open repository](https://github.com/p8952/bocker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 10690 | 704 | 
 | 2023-04-03 | 10689 | 704 | 
 | 2023-03-31 | 10689 | 704 | 
 | 2023-03-29 | 10685 | 703 | 

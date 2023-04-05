@@ -1,8 +1,8 @@
 # Dadoum/Provision - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1150
+☋ Forks: 1151
 
 ★ Stars: 235
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 235 | 1151 | 
 | 2023-04-03 | 235 | 1150 | 
 | 2023-04-01 | 233 | 1104 | 
 | 2023-03-29 | 229 | 1078 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 188 | 561 | 
 | 2023-03-07 | 185 | 514 | 
 | 2023-03-06 | 185 | 491 | 
-| 2023-03-05 | 184 | 458 | 
 

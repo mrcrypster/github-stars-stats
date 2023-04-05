@@ -1,8 +1,8 @@
 # chipsalliance/rocket-chip-inclusive-cache - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 4 | 7 | 
 | 2023-04-03 | 4 | 8 | 
 | 2023-03-31 | 4 | 8 | 
 | 2023-03-29 | 4 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 3 | 6 | 
 | 2023-03-07 | 3 | 6 | 
 | 2023-03-06 | 3 | 6 | 
-| 2023-03-05 | 3 | 6 | 
 

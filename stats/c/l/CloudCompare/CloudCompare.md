@@ -1,10 +1,10 @@
 # CloudCompare/CloudCompare - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 913
 
-★ Stars: 2643
+★ Stars: 2648
 
 [Open repository](https://github.com/CloudCompare/CloudCompare)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2648 | 913 | 
 | 2023-04-03 | 2643 | 913 | 
 | 2023-04-02 | 2642 | 912 | 
 | 2023-03-30 | 2639 | 910 | 

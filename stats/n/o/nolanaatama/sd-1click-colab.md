@@ -1,10 +1,10 @@
 # nolanaatama/sd-1click-colab - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 305
+☋ Forks: 310
 
-★ Stars: 653
+★ Stars: 660
 
 [Open repository](https://github.com/nolanaatama/sd-1click-colab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 660 | 310 | 
 | 2023-04-03 | 653 | 305 | 
 | 2023-04-02 | 647 | 300 | 
 | 2023-03-30 | 627 | 289 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 495 | 210 | 
 | 2023-03-08 | 477 | 206 | 
 | 2023-03-07 | 461 | 202 | 
-| 2023-03-05 | 444 | 195 | 
 

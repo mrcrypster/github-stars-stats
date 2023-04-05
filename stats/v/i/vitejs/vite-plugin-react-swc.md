@@ -1,10 +1,10 @@
 # vitejs/vite-plugin-react-swc - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 20
 
-★ Stars: 403
+★ Stars: 405
 
 [Open repository](https://github.com/vitejs/vite-plugin-react-swc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 405 | 20 | 
 | 2023-04-03 | 403 | 20 | 
 | 2023-04-02 | 402 | 20 | 
 | 2023-04-01 | 401 | 20 | 

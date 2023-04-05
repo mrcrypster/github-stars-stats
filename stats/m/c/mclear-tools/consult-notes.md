@@ -1,6 +1,6 @@
 # mclear-tools/consult-notes - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 91 | 9 | 
 | 2023-04-03 | 91 | 9 | 
 | 2023-04-02 | 90 | 9 | 
 | 2023-03-30 | 90 | 9 | 

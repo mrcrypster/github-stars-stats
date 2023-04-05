@@ -1,10 +1,10 @@
 # hmxmilohax/beatles-rock-band-deluxe - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/hmxmilohax/beatles-rock-band-deluxe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | 4 | 
 | 2023-04-03 | 10 | 4 | 
 | 2023-03-31 | 10 | 4 | 
 | 2023-03-29 | 10 | 4 | 

@@ -1,10 +1,10 @@
 # openai/spinningup-workshop - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 44
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/openai/spinningup-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 178 | 44 | 
 | 2023-04-03 | 177 | 44 | 
 | 2023-04-02 | 177 | 44 | 
 | 2023-03-30 | 177 | 44 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 42
+☋ Forks: 45
 
-★ Stars: 569
+★ Stars: 594
 
 [Open repository](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 569 | 42 | 
+| 2023-04-04 | 594 | 45 | 
 | 2023-04-03 | 564 | 42 | 
 

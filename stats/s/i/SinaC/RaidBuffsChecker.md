@@ -1,6 +1,6 @@
 # SinaC/RaidBuffsChecker - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1 | 3 | 
 | 2023-04-03 | 1 | 3 | 
 | 2023-03-31 | 1 | 3 | 
 | 2023-03-29 | 1 | 3 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 1 | 3 | 
 | 2023-03-08 | 1 | 3 | 
 | 2023-03-07 | 1 | 3 | 
-| 2023-03-06 | 1 | 3 | 
 

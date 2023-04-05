@@ -1,6 +1,6 @@
 # ning-y/Cheatsheets - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 73 | 21 | 
 | 2023-04-03 | 73 | 21 | 
 | 2023-04-02 | 73 | 21 | 
 | 2023-03-30 | 73 | 21 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 72 | 21 | 
 | 2023-03-08 | 72 | 21 | 
 | 2023-03-07 | 72 | 21 | 
-| 2023-03-06 | 72 | 21 | 
 

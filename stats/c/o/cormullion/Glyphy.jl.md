@@ -1,6 +1,6 @@
 # cormullion/Glyphy.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 49 | - | 
 | 2023-04-02 | 49 | - | 
 | 2023-03-30 | 49 | - | 
 | 2023-03-28 | 49 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-10 | 49 | - | 
 | 2023-03-08 | 49 | - | 
 | 2023-03-07 | 49 | - | 
-| 2023-03-06 | 49 | - | 
 

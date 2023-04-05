@@ -1,10 +1,10 @@
 # arismelachroinos/lscript - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1046
+☋ Forks: 1047
 
-★ Stars: 3582
+★ Stars: 3583
 
 [Open repository](https://github.com/arismelachroinos/lscript)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 3583 | 1047 | 
 | 2023-04-03 | 3582 | 1046 | 
 | 2023-04-01 | 3578 | 1046 | 
 | 2023-03-29 | 3577 | 1046 | 

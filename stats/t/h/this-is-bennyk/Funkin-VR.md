@@ -1,6 +1,6 @@
 # this-is-bennyk/Funkin-VR - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 34 | 14 | 
 | 2023-04-03 | 34 | 14 | 
 | 2023-04-02 | 34 | 14 | 
 | 2023-03-30 | 34 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 33 | 13 | 
 | 2023-03-07 | 33 | 13 | 
 | 2023-03-06 | 33 | 13 | 
-| 2023-03-05 | 33 | 13 | 
 

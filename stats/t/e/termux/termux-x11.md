@@ -1,10 +1,10 @@
 # termux/termux-x11 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 132
 
-★ Stars: 601
+★ Stars: 602
 
 [Open repository](https://github.com/termux/termux-x11)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 602 | 132 | 
 | 2023-04-03 | 601 | 132 | 
 | 2023-04-02 | 600 | 132 | 
 | 2023-03-30 | 593 | 131 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 546 | 123 | 
 | 2023-03-08 | 543 | 122 | 
 | 2023-03-06 | 541 | 123 | 
-| 2023-03-05 | 538 | 123 | 
 

@@ -1,10 +1,10 @@
 # CristiVlad25/gpt-cli - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/CristiVlad25/gpt-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 143 | 10 | 
 | 2023-04-03 | 142 | 10 | 
 | 2023-03-31 | 138 | 9 | 
 | 2023-03-29 | 134 | 9 | 

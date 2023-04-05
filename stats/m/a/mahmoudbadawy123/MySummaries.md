@@ -1,6 +1,6 @@
 # mahmoudbadawy123/MySummaries - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 28 | 13 | 
 | 2023-04-03 | 28 | 13 | 
 | 2023-04-02 | 28 | 13 | 
 | 2023-04-01 | 28 | 13 | 

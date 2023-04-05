@@ -1,10 +1,10 @@
 # TomThorpe/TTRangeSlider - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 203
 
-★ Stars: 950
+★ Stars: 951
 
 [Open repository](https://github.com/TomThorpe/TTRangeSlider)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 951 | 203 | 
 | 2023-04-03 | 950 | 203 | 
 | 2023-04-01 | 950 | 203 | 
 | 2023-03-31 | 949 | 203 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 949 | 203 | 
 | 2023-03-08 | 949 | 203 | 
 | 2023-03-07 | 950 | 203 | 
-| 2023-03-05 | 950 | 203 | 
 

@@ -1,6 +1,6 @@
 # rejeep/f.el - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 70
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 640 | 70 | 
+| 2023-04-04 | 640 | 70 | 
 | 2023-04-03 | 640 | 70 | 
 | 2023-04-02 | 639 | 70 | 
 | 2023-04-01 | 639 | 70 | 

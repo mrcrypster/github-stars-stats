@@ -1,6 +1,6 @@
 # jcubic/wayne - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 491 | 18 | 
 | 2023-04-03 | 491 | 18 | 
 | 2023-04-01 | 491 | 18 | 
 | 2023-03-29 | 491 | 18 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 489 | 18 | 
 | 2023-03-07 | 488 | 18 | 
 | 2023-03-06 | 488 | 18 | 
-| 2023-03-05 | 488 | 18 | 
 

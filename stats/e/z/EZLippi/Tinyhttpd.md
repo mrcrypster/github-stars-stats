@@ -1,10 +1,10 @@
 # EZLippi/Tinyhttpd - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 3757
+☋ Forks: 3758
 
-★ Stars: 9722
+★ Stars: 9727
 
 [Open repository](https://github.com/EZLippi/Tinyhttpd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 9727 | 3758 | 
 | 2023-04-03 | 9722 | 3757 | 
 | 2023-04-02 | 9716 | 3757 | 
 | 2023-03-31 | 9704 | 3755 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 9596 | 3744 | 
 | 2023-03-08 | 9582 | 3742 | 
 | 2023-03-07 | 9575 | 3736 | 
-| 2023-03-05 | 9570 | 3734 | 
 

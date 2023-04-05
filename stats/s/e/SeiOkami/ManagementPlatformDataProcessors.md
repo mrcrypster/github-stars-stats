@@ -1,10 +1,10 @@
 # SeiOkami/ManagementPlatformDataProcessors - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/SeiOkami/ManagementPlatformDataProcessors)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 19 | - | 
 | 2023-04-03 | 18 | - | 
 | 2023-03-31 | 18 | - | 
 | 2023-03-29 | 18 | - | 

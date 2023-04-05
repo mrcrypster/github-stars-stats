@@ -1,10 +1,10 @@
 # Widle-Studio/Grocery-App - stars & forks statistics
 
-Stats updated on Apr 2023, 02
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 450
 
-★ Stars: 853
+★ Stars: 854
 
 [Open repository](https://github.com/Widle-Studio/Grocery-App)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 854 | 450 | 
 | 2023-04-02 | 853 | 450 | 
 | 2023-03-31 | 852 | 447 | 
 | 2023-03-29 | 852 | 443 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 02
 | 2023-03-09 | 838 | 431 | 
 | 2023-03-07 | 838 | 431 | 
 | 2023-03-06 | 837 | 431 | 
-| 2023-03-05 | 836 | 431 | 
 

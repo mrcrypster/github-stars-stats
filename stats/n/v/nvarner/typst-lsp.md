@@ -1,10 +1,10 @@
 # nvarner/typst-lsp - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
-★ Stars: 317
+★ Stars: 324
 
 [Open repository](https://github.com/nvarner/typst-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 324 | 12 | 
 | 2023-04-03 | 317 | 12 | 
 | 2023-04-01 | 296 | 12 | 
 | 2023-03-29 | 269 | 14 | 

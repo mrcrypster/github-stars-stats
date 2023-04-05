@@ -1,6 +1,6 @@
 # HorizenLabs/ape-staking-public - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 15 | 
 | 2023-04-03 | 17 | 15 | 
 | 2023-04-02 | 17 | 15 | 
 | 2023-03-31 | 17 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 15 | 13 | 
 | 2023-03-07 | 15 | 13 | 
 | 2023-03-06 | 15 | 13 | 
-| 2023-03-05 | 13 | 12 | 
 

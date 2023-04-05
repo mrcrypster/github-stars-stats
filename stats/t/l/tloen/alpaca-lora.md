@@ -1,10 +1,10 @@
 # tloen/alpaca-lora - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 965
+☋ Forks: 1003
 
-★ Stars: 8112
+★ Stars: 8314
 
 [Open repository](https://github.com/tloen/alpaca-lora)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 8314 | 1003 | 
+| 2023-04-04 | 8297 | 998 | 
 | 2023-04-03 | 8112 | 965 | 
 | 2023-04-02 | 7811 | 917 | 
 | 2023-03-30 | 7359 | 860 | 

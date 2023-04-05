@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 534
 
-★ Stars: 943
+★ Stars: 944
 
 [Open repository](https://github.com/11ty/eleventy-base-blog)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 943 | 534 | 
+| 2023-04-04 | 944 | 534 | 
 | 2023-04-03 | 942 | 534 | 
 | 2023-04-02 | 940 | 533 | 
 | 2023-03-31 | 938 | 531 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-08 | 927 | 521 | 
 | 2023-03-07 | 927 | 520 | 
 | 2023-03-06 | 925 | 520 | 
-| 2023-03-05 | 925 | 520 | 
 

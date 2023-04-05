@@ -1,6 +1,6 @@
 # chris-mcginnis-ucsf/DoubletFinder - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 244 | 66 | 
 | 2023-04-03 | 244 | 66 | 
 | 2023-04-02 | 244 | 66 | 
 | 2023-04-01 | 244 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 239 | 66 | 
 | 2023-03-08 | 239 | 66 | 
 | 2023-03-06 | 239 | 66 | 
-| 2023-03-05 | 238 | 65 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 04
 
-☋ Forks: 4667
+☋ Forks: 4668
 
-★ Stars: 6767
+★ Stars: 6768
 
 [Open repository](https://github.com/opencart/opencart)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 6767 | 4667 | 
+| 2023-04-04 | 6768 | 4668 | 
 | 2023-04-03 | 6767 | 4667 | 
 | 2023-04-02 | 6764 | 4666 | 
 | 2023-03-30 | 6757 | 4662 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 6728 | 4653 | 
 | 2023-03-07 | 6726 | 4655 | 
 | 2023-03-06 | 6723 | 4655 | 
-| 2023-03-05 | 6721 | 4655 | 
 

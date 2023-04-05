@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 84
 
-★ Stars: 879
+★ Stars: 917
 
 [Open repository](https://github.com/noobnooc/noobnooc)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 879 | 84 | 
+| 2023-04-04 | 917 | 84 | 
 | 2023-04-03 | 877 | 84 | 
 | 2023-04-01 | 750 | 76 | 
 | 2023-03-29 | 708 | 74 | 

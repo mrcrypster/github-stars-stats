@@ -1,10 +1,10 @@
 # rakyll/hey - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1059
 
-★ Stars: 15413
+★ Stars: 15422
 
 [Open repository](https://github.com/rakyll/hey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 15422 | 1059 | 
 | 2023-04-03 | 15413 | 1059 | 
 | 2023-04-02 | 15413 | 1059 | 
 | 2023-03-30 | 15402 | 1056 | 

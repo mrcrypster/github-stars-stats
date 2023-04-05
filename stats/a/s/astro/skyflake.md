@@ -1,10 +1,10 @@
 # astro/skyflake - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/astro/skyflake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 38 | - | 
 | 2023-04-03 | 37 | - | 
 | 2023-03-31 | 37 | - | 
 | 2023-03-29 | 36 | - | 

@@ -1,10 +1,10 @@
 # cveoy/chatgpt-web - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 58
+★ Stars: 61
 
 [Open repository](https://github.com/cveoy/chatgpt-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 61 | 20 | 
 | 2023-04-03 | 58 | 19 | 
 | 2023-04-02 | 51 | 18 | 
 | 2023-03-30 | 24 | 6 | 

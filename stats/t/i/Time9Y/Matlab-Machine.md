@@ -1,10 +1,10 @@
 # Time9Y/Matlab-Machine - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 189
+★ Stars: 192
 
 [Open repository](https://github.com/Time9Y/Matlab-Machine)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 189 | 51 | 
+| 2023-04-05 | 192 | 52 | 
+| 2023-04-04 | 192 | 52 | 
 | 2023-04-03 | 189 | 51 | 
 | 2023-04-02 | 186 | 51 | 
 | 2023-03-31 | 185 | 51 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 154 | 40 | 
 | 2023-03-08 | 153 | 40 | 
 | 2023-03-06 | 152 | 40 | 
-| 2023-03-05 | 151 | 40 | 
 

@@ -1,10 +1,10 @@
 # Visualize-ML/Book1_Python-For-Beginners - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 239
+★ Stars: 243
 
 [Open repository](https://github.com/Visualize-ML/Book1_Python-For-Beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 243 | 7 | 
 | 2023-04-03 | 239 | 5 | 
 | 2023-04-02 | 233 | 5 | 
 

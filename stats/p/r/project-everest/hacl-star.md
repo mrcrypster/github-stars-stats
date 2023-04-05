@@ -1,8 +1,8 @@
 # project-everest/hacl-star - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 152
+☋ Forks: 153
 
 ★ Stars: 1470
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1470 | 153 | 
 | 2023-04-03 | 1470 | 152 | 
 | 2023-03-31 | 1467 | 152 | 
 | 2023-03-29 | 1465 | 151 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 1464 | 151 | 
 | 2023-03-07 | 1464 | 151 | 
 | 2023-03-06 | 1463 | 151 | 
-| 2023-03-05 | 1463 | 151 | 
 

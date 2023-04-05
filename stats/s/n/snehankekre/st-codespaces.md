@@ -1,8 +1,8 @@
 # snehankekre/st-codespaces - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 17 | 14 | 
 | 2023-04-03 | 17 | 13 | 
 | 2023-04-01 | 17 | 13 | 
 | 2023-03-29 | 17 | 13 | 

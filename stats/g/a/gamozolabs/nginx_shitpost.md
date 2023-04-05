@@ -1,6 +1,6 @@
 # gamozolabs/nginx_shitpost - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 114 | 43 | 
 | 2023-04-03 | 114 | 43 | 
 | 2023-04-02 | 114 | 43 | 
 | 2023-03-30 | 114 | 43 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 114 | 44 | 
 | 2023-03-08 | 114 | 44 | 
 | 2023-03-06 | 114 | 44 | 
-| 2023-03-05 | 114 | 44 | 
 

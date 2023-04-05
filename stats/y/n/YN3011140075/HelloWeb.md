@@ -1,8 +1,8 @@
 # YN3011140075/HelloWeb - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 40
+☋ Forks: 39
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 2 | 39 | 
 | 2023-04-03 | 2 | 40 | 
 | 2023-03-31 | 2 | 40 | 
 | 2023-03-29 | 2 | 40 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 2 | 40 | 
 | 2023-03-08 | 2 | 40 | 
 | 2023-03-06 | 2 | 40 | 
-| 2023-03-05 | 2 | 40 | 
 

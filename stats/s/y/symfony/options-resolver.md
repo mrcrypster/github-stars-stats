@@ -1,10 +1,10 @@
 # symfony/options-resolver - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 29
 
-★ Stars: 2977
+★ Stars: 2979
 
 [Open repository](https://github.com/symfony/options-resolver)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2979 | 29 | 
 | 2023-04-03 | 2977 | 29 | 
 | 2023-04-02 | 2977 | 28 | 
 | 2023-03-31 | 2977 | 28 | 

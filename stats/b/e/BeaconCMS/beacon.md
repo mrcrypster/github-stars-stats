@@ -1,6 +1,6 @@
 # BeaconCMS/beacon - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 415 | 40 | 
 | 2023-04-03 | 415 | 40 | 
 | 2023-04-02 | 415 | 40 | 
 | 2023-03-30 | 415 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 397 | 37 | 
 | 2023-03-07 | 397 | 37 | 
 | 2023-03-06 | 397 | 37 | 
-| 2023-03-05 | 397 | 37 | 
 

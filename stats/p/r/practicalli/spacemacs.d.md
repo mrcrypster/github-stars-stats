@@ -1,10 +1,10 @@
 # practicalli/spacemacs.d - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 384
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/practicalli/spacemacs.d)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 115 | 384 | 
 | 2023-04-03 | 114 | 384 | 
 | 2023-04-02 | 114 | 384 | 
 | 2023-04-01 | 114 | 384 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 108 | 384 | 
 | 2023-03-08 | 107 | 384 | 
 | 2023-03-07 | 107 | 384 | 
-| 2023-03-05 | 107 | 384 | 
 

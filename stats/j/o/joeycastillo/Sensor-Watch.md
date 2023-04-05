@@ -1,10 +1,10 @@
 # joeycastillo/Sensor-Watch - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 118
 
-★ Stars: 756
+★ Stars: 757
 
 [Open repository](https://github.com/joeycastillo/Sensor-Watch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 757 | 118 | 
 | 2023-04-03 | 756 | 118 | 
 | 2023-03-31 | 751 | 117 | 
 | 2023-03-29 | 750 | 117 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 738 | 113 | 
 | 2023-03-08 | 738 | 113 | 
 | 2023-03-07 | 736 | 113 | 
-| 2023-03-05 | 735 | 113 | 
 

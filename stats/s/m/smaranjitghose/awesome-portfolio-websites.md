@@ -1,8 +1,8 @@
 # smaranjitghose/awesome-portfolio-websites - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 1268
+☋ Forks: 1269
 
 ★ Stars: 1814
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1814 | 1269 | 
 | 2023-04-03 | 1814 | 1268 | 
 | 2023-04-02 | 1813 | 1268 | 
 | 2023-03-30 | 1811 | 1268 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 1800 | 1254 | 
 | 2023-03-08 | 1799 | 1254 | 
 | 2023-03-07 | 1799 | 1254 | 
-| 2023-03-05 | 1798 | 1253 | 
 

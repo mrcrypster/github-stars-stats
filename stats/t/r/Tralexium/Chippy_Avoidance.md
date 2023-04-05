@@ -1,6 +1,6 @@
 # Tralexium/Chippy_Avoidance - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 119 | 14 | 
 | 2023-04-03 | 119 | 14 | 
 | 2023-04-02 | 118 | 14 | 
 | 2023-03-31 | 116 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 102 | 11 | 
 | 2023-03-07 | 97 | 11 | 
 | 2023-03-06 | 96 | 11 | 
-| 2023-03-05 | 94 | 11 | 
 

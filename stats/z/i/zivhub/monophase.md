@@ -1,8 +1,8 @@
 # zivhub/monophase - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 56
+☋ Forks: 55
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 36 | 55 | 
 | 2023-04-03 | 36 | 56 | 
 | 2023-04-01 | 36 | 56 | 
 

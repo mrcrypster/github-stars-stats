@@ -1,10 +1,10 @@
 # facebookincubator/buck2 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 26
 
-★ Stars: 549
+★ Stars: 550
 
 [Open repository](https://github.com/facebookincubator/buck2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 550 | 26 | 
 | 2023-04-03 | 549 | 26 | 
 | 2023-04-02 | 549 | 26 | 
 | 2023-04-01 | 549 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 483 | 22 | 
 | 2023-03-08 | 483 | 22 | 
 | 2023-03-07 | 481 | 22 | 
-| 2023-03-05 | 479 | 22 | 
 

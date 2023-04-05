@@ -1,10 +1,10 @@
 # Cerebras/modelzoo - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 49
+☋ Forks: 52
 
-★ Stars: 371
+★ Stars: 392
 
 [Open repository](https://github.com/Cerebras/modelzoo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 392 | 52 | 
 | 2023-04-03 | 371 | 49 | 
 | 2023-04-01 | 326 | 42 | 
 | 2023-03-31 | 292 | 39 | 

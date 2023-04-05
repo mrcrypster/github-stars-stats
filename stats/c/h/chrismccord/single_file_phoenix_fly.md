@@ -1,6 +1,6 @@
 # chrismccord/single_file_phoenix_fly - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 50 | - | 
 | 2023-04-03 | 50 | - | 
 | 2023-03-31 | 50 | - | 
 | 2023-03-29 | 50 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 50 | - | 
 | 2023-03-08 | 50 | - | 
 | 2023-03-06 | 49 | - | 
-| 2023-03-05 | 49 | - | 
 

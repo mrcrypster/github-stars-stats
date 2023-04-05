@@ -1,10 +1,10 @@
 # hashicorp/waypoint-helm - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 13
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/hashicorp/waypoint-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 28 | 13 | 
 | 2023-04-03 | 27 | 13 | 
 | 2023-04-01 | 27 | 13 | 
 | 2023-03-29 | 27 | 13 | 

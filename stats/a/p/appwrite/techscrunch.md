@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/appwrite/techscrunch)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 24 | 1 | 
+| 2023-04-04 | 25 | 1 | 
 | 2023-04-03 | 24 | 1 | 
 | 2023-04-02 | 20 | 1 | 
 

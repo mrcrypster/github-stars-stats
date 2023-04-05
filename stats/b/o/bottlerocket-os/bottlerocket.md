@@ -1,10 +1,10 @@
 # bottlerocket-os/bottlerocket - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
-☋ Forks: 410
+☋ Forks: 411
 
-★ Stars: 7248
+★ Stars: 7249
 
 [Open repository](https://github.com/bottlerocket-os/bottlerocket)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 7249 | 411 | 
 | 2023-04-03 | 7248 | 410 | 
 | 2023-04-02 | 7246 | 410 | 
 | 2023-03-31 | 7238 | 410 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 7183 | 405 | 
 | 2023-03-08 | 7179 | 403 | 
 | 2023-03-06 | 7172 | 402 | 
-| 2023-03-05 | 7167 | 401 | 
 

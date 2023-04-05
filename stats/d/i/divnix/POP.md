@@ -1,10 +1,10 @@
 # divnix/POP - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 15
 
 [Open repository](https://github.com/divnix/POP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 15 | 1 | 
 | 2023-04-03 | 12 | 1 | 
 | 2023-03-31 | 12 | 1 | 
 | 2023-03-29 | 12 | 1 | 

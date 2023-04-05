@@ -1,10 +1,10 @@
 # storybookjs/builder-vite - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 112
 
-★ Stars: 849
+★ Stars: 850
 
 [Open repository](https://github.com/storybookjs/builder-vite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 850 | 112 | 
 | 2023-04-03 | 849 | 112 | 
 | 2023-04-01 | 849 | 111 | 
 | 2023-03-31 | 849 | 111 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 844 | 109 | 
 | 2023-03-07 | 845 | 109 | 
 | 2023-03-06 | 844 | 109 | 
-| 2023-03-05 | 844 | 109 | 
 

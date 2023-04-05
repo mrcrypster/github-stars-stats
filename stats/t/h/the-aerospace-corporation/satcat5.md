@@ -1,10 +1,10 @@
 # the-aerospace-corporation/satcat5 - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 12
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/the-aerospace-corporation/satcat5)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 219 | 12 | 
 | 2023-04-03 | 218 | 12 | 
 | 2023-04-01 | 218 | 12 | 
 | 2023-03-31 | 217 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 216 | 12 | 
 | 2023-03-07 | 215 | 12 | 
 | 2023-03-06 | 213 | 12 | 
-| 2023-03-05 | 212 | 12 | 
 

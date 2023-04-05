@@ -1,10 +1,10 @@
 # corkami/pocs - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 192
 
-★ Stars: 1346
+★ Stars: 1347
 
 [Open repository](https://github.com/corkami/pocs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 1347 | 192 | 
 | 2023-04-03 | 1346 | 192 | 
 | 2023-04-02 | 1346 | 192 | 
 | 2023-03-30 | 1346 | 192 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-08 | 1325 | 192 | 
 | 2023-03-07 | 1314 | 191 | 
 | 2023-03-06 | 1313 | 191 | 
-| 2023-03-05 | 1312 | 191 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 04
 
 ☋ Forks: 1454
 
-★ Stars: 12902
+★ Stars: 12904
 
 [Open repository](https://github.com/compiler-explorer/compiler-explorer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-04 | 12902 | 1454 | 
+| 2023-04-04 | 12904 | 1454 | 
 | 2023-04-03 | 12900 | 1453 | 
 | 2023-04-02 | 12889 | 1452 | 
 | 2023-03-30 | 12865 | 1451 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 12730 | 1436 | 
 | 2023-03-08 | 12724 | 1435 | 
 | 2023-03-07 | 12708 | 1430 | 
-| 2023-03-05 | 12704 | 1429 | 
 

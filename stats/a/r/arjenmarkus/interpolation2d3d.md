@@ -1,6 +1,6 @@
 # arjenmarkus/interpolation2d3d - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 11 | - | 
 | 2023-04-03 | 11 | - | 
 | 2023-03-31 | 11 | - | 
 | 2023-03-29 | 11 | - | 

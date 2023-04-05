@@ -1,10 +1,10 @@
 # Mitek-Systems/MiSnap-iOS - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Mitek-Systems/MiSnap-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 5 | 4 | 
 | 2023-04-03 | 6 | 4 | 
 | 2023-04-02 | 6 | 4 | 
 | 2023-03-31 | 6 | 4 | 

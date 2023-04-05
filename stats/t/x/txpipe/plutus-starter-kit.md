@@ -1,6 +1,6 @@
 # txpipe/plutus-starter-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 04
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-04 | 38 | 19 | 
 | 2023-04-03 | 38 | 19 | 
 | 2023-04-02 | 38 | 19 | 
 | 2023-03-30 | 38 | 19 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 38 | 20 | 
 | 2023-03-08 | 38 | 20 | 
 | 2023-03-07 | 38 | 20 | 
-| 2023-03-05 | 38 | 20 | 
 
