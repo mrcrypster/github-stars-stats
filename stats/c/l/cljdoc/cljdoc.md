@@ -1,6 +1,6 @@
 # cljdoc/cljdoc - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 505 | 78 | 
 | 2023-04-04 | 505 | 78 | 
 | 2023-04-02 | 505 | 78 | 
 | 2023-03-31 | 503 | 78 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 502 | 78 | 
 | 2023-03-08 | 502 | 78 | 
 | 2023-03-07 | 501 | 78 | 
-| 2023-03-06 | 501 | 78 | 
 

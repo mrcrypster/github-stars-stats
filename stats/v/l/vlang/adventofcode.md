@@ -1,6 +1,6 @@
 # vlang/adventofcode - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 22 | 3 | 
 | 2023-04-04 | 22 | 3 | 
 | 2023-04-03 | 22 | 3 | 
 | 2023-04-01 | 22 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 20 | 3 | 
 | 2023-03-09 | 20 | 3 | 
 | 2023-03-07 | 20 | 3 | 
-| 2023-03-06 | 20 | 3 | 
 

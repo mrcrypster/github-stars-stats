@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/Creds - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 199
+☋ Forks: 200
 
-★ Stars: 824
+★ Stars: 825
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/Creds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 825 | 200 | 
 | 2023-04-04 | 824 | 199 | 
 | 2023-04-03 | 824 | 199 | 
 | 2023-03-31 | 824 | 199 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 818 | 196 | 
 | 2023-03-09 | 818 | 196 | 
 | 2023-03-07 | 817 | 196 | 
-| 2023-03-06 | 817 | 195 | 
 

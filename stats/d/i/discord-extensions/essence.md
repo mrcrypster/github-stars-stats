@@ -1,10 +1,10 @@
 # discord-extensions/essence - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 20
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/discord-extensions/essence)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 56 | 20 | 
 | 2023-04-04 | 55 | 20 | 
 | 2023-04-03 | 55 | 20 | 
 | 2023-04-01 | 55 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 55 | 16 | 
 | 2023-03-09 | 55 | 16 | 
 | 2023-03-08 | 55 | 16 | 
-| 2023-03-06 | 55 | 16 | 
 

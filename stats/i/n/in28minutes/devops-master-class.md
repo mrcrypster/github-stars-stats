@@ -1,10 +1,10 @@
 # in28minutes/devops-master-class - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 4277
+☋ Forks: 4287
 
-★ Stars: 1360
+★ Stars: 1363
 
 [Open repository](https://github.com/in28minutes/devops-master-class)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1363 | 4287 | 
 | 2023-04-04 | 1360 | 4277 | 
 | 2023-04-03 | 1358 | 4270 | 
 | 2023-04-01 | 1357 | 4263 | 

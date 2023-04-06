@@ -1,10 +1,10 @@
 # zalando/postgres-operator - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 853
+☋ Forks: 854
 
-★ Stars: 3213
+★ Stars: 3216
 
 [Open repository](https://github.com/zalando/postgres-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3216 | 854 | 
 | 2023-04-04 | 3213 | 853 | 
 | 2023-04-03 | 3210 | 854 | 
 | 2023-04-02 | 3208 | 852 | 

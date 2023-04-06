@@ -1,10 +1,10 @@
 # superfluid-finance/protocol-monorepo - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 217
 
-★ Stars: 833
+★ Stars: 834
 
 [Open repository](https://github.com/superfluid-finance/protocol-monorepo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 834 | 217 | 
 | 2023-04-04 | 833 | 217 | 
 | 2023-04-03 | 833 | 217 | 
 | 2023-04-01 | 833 | 217 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 836 | 213 | 
 | 2023-03-09 | 836 | 213 | 
 | 2023-03-08 | 835 | 213 | 
-| 2023-03-06 | 834 | 213 | 
 

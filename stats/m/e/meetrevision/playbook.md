@@ -1,10 +1,10 @@
 # meetrevision/playbook - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 18
+★ Stars: 24
 
 [Open repository](https://github.com/meetrevision/playbook)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 24 | 4 | 
+| 2023-04-05 | 23 | 4 | 
 | 2023-04-04 | 18 | 3 | 
 | 2023-04-03 | 14 | 1 | 
 

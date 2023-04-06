@@ -1,10 +1,10 @@
 # kannagi0303/yt-dlp-gui - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 35
 
-★ Stars: 285
+★ Stars: 287
 
 [Open repository](https://github.com/kannagi0303/yt-dlp-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 287 | 35 | 
 | 2023-04-04 | 285 | 35 | 
 | 2023-04-03 | 283 | 35 | 
 

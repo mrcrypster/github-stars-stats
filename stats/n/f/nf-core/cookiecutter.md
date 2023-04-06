@@ -1,6 +1,6 @@
 # nf-core/cookiecutter - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 19 | 7 | 
 | 2023-04-05 | 19 | 7 | 
 | 2023-04-03 | 19 | 7 | 
 | 2023-04-02 | 19 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 19 | 7 | 
 | 2023-03-09 | 19 | 7 | 
 | 2023-03-07 | 19 | 7 | 
-| 2023-03-06 | 19 | 7 | 
 

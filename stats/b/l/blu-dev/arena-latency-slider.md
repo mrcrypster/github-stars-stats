@@ -1,8 +1,8 @@
 # blu-dev/arena-latency-slider - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 42 | 9 | 
 | 2023-04-04 | 42 | 8 | 
 | 2023-04-03 | 42 | 8 | 
 | 2023-03-31 | 42 | 8 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 40 | 7 | 
 | 2023-03-10 | 40 | 7 | 
 | 2023-03-08 | 40 | 7 | 
-| 2023-03-07 | 40 | 7 | 
 

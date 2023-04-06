@@ -1,10 +1,10 @@
 # GrupoYACCK/odoo-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 12
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/GrupoYACCK/odoo-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 7 | 12 | 
 | 2023-04-04 | 6 | 12 | 
 | 2023-04-03 | 6 | 12 | 
 | 2023-03-31 | 6 | 12 | 

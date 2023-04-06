@@ -1,6 +1,6 @@
 # maple-labs/revenue-distribution-token - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 157 | 17 | 
 | 2023-04-04 | 157 | 17 | 
 | 2023-04-03 | 157 | 17 | 
 | 2023-03-30 | 157 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 156 | 16 | 
 | 2023-03-09 | 156 | 16 | 
 | 2023-03-08 | 156 | 16 | 
-| 2023-03-06 | 156 | 16 | 
 

@@ -1,10 +1,10 @@
 # new-ai-company/ide - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 42
+☋ Forks: 59
 
-★ Stars: 885
+★ Stars: 1567
 
 [Open repository](https://github.com/new-ai-company/ide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1567 | 59 | 
 | 2023-04-04 | 885 | 42 | 
 | 2023-04-03 | 800 | 40 | 
 | 2023-04-02 | 745 | 37 | 

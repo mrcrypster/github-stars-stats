@@ -1,10 +1,10 @@
 # ruby/psych - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 199
 
-★ Stars: 531
+★ Stars: 532
 
 [Open repository](https://github.com/ruby/psych)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 532 | 199 | 
 | 2023-04-04 | 531 | 199 | 
 | 2023-04-03 | 531 | 199 | 
 | 2023-03-31 | 531 | 199 | 

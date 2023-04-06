@@ -1,10 +1,10 @@
 # gkaramanis/tidytuesday - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 92
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/gkaramanis/tidytuesday)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 558 | 92 | 
 | 2023-04-04 | 557 | 92 | 
 | 2023-04-03 | 557 | 92 | 
 | 2023-04-01 | 557 | 92 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 555 | 91 | 
 | 2023-03-09 | 556 | 91 | 
 | 2023-03-08 | 556 | 91 | 
-| 2023-03-06 | 556 | 91 | 
 

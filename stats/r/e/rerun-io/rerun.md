@@ -1,10 +1,10 @@
 # rerun-io/rerun - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 72
+☋ Forks: 74
 
-★ Stars: 1805
+★ Stars: 1810
 
 [Open repository](https://github.com/rerun-io/rerun)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1810 | 74 | 
 | 2023-04-04 | 1805 | 72 | 
 | 2023-04-03 | 1789 | 72 | 
 | 2023-04-01 | 1762 | 70 | 

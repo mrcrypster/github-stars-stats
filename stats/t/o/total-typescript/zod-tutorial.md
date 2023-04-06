@@ -1,8 +1,8 @@
 # total-typescript/zod-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 406
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 406 | 105 | 
 | 2023-04-04 | 406 | 104 | 
 | 2023-04-02 | 405 | 104 | 
 | 2023-04-01 | 404 | 104 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 392 | 99 | 
 | 2023-03-09 | 391 | 98 | 
 | 2023-03-07 | 389 | 97 | 
-| 2023-03-06 | 389 | 96 | 
 

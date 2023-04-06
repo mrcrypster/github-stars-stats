@@ -1,10 +1,10 @@
 # zio/zio-connect - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 20
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/zio/zio-connect)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 29 | 20 | 
 | 2023-04-04 | 28 | 20 | 
 | 2023-04-03 | 28 | 20 | 
 | 2023-03-31 | 28 | 20 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 28 | 20 | 
 | 2023-03-09 | 28 | 20 | 
 | 2023-03-08 | 28 | 20 | 
-| 2023-03-06 | 28 | 20 | 
 

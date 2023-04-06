@@ -1,10 +1,10 @@
 # noobnooc/noobnooc - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 917
+★ Stars: 926
 
 [Open repository](https://github.com/noobnooc/noobnooc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 926 | 85 | 
 | 2023-04-04 | 917 | 84 | 
 | 2023-04-03 | 877 | 84 | 
 | 2023-04-01 | 750 | 76 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 276 | 27 | 
 | 2023-03-08 | 263 | 26 | 
 | 2023-03-07 | 230 | 21 | 
-| 2023-03-06 | 190 | 13 | 
 

@@ -1,10 +1,10 @@
 # compgenomr/book - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 230
 
-★ Stars: 262
+★ Stars: 264
 
 [Open repository](https://github.com/compgenomr/book)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 264 | 230 | 
 | 2023-04-04 | 262 | 230 | 
 | 2023-04-02 | 262 | 230 | 
 | 2023-03-30 | 262 | 228 | 

@@ -1,10 +1,10 @@
 # trey-wallis/obsidian-notion-like-tables - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 21
 
-★ Stars: 287
+★ Stars: 289
 
 [Open repository](https://github.com/trey-wallis/obsidian-notion-like-tables)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 289 | 21 | 
 | 2023-04-04 | 287 | 21 | 
 | 2023-04-03 | 280 | 21 | 
 | 2023-04-02 | 280 | 22 | 

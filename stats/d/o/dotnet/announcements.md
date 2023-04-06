@@ -1,10 +1,10 @@
 # dotnet/announcements - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 47
 
-★ Stars: 1124
+★ Stars: 1125
 
 [Open repository](https://github.com/dotnet/announcements)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1125 | 47 | 
 | 2023-04-04 | 1124 | 47 | 
 | 2023-04-03 | 1124 | 47 | 
 | 2023-03-31 | 1124 | 47 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1117 | 44 | 
 | 2023-03-08 | 1117 | 44 | 
 | 2023-03-07 | 1117 | 44 | 
-| 2023-03-06 | 1116 | 44 | 
 

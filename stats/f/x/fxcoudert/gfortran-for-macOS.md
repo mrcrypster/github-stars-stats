@@ -1,6 +1,6 @@
 # fxcoudert/gfortran-for-macOS - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 288 | 63 | 
 | 2023-04-04 | 288 | 63 | 
 | 2023-04-03 | 287 | 63 | 
 | 2023-04-01 | 287 | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 282 | 63 | 
 | 2023-03-08 | 282 | 63 | 
 | 2023-03-07 | 281 | 63 | 
-| 2023-03-06 | 281 | 63 | 
 

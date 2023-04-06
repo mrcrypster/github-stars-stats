@@ -1,10 +1,10 @@
 # PrismJS/prism-themes - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 516
 
-★ Stars: 1153
+★ Stars: 1154
 
 [Open repository](https://github.com/PrismJS/prism-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1154 | 516 | 
 | 2023-04-05 | 1153 | 516 | 
 | 2023-04-03 | 1153 | 517 | 
 | 2023-04-02 | 1152 | 517 | 

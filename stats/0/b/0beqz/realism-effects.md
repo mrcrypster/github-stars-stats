@@ -1,10 +1,10 @@
 # 0beqz/realism-effects - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 26
 
-★ Stars: 680
+★ Stars: 684
 
 [Open repository](https://github.com/0beqz/realism-effects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 684 | 26 | 
 | 2023-04-04 | 680 | 26 | 
 | 2023-04-03 | 677 | 26 | 
 | 2023-04-02 | 677 | 26 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 535 | 17 | 
 | 2023-03-08 | 517 | 17 | 
 | 2023-03-07 | 435 | 11 | 
-| 2023-03-06 | 305 | 10 | 
 

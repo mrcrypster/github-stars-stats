@@ -1,10 +1,10 @@
 # scsibug/nostr-rs-relay - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 89
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/scsibug/nostr-rs-relay)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 355 | 89 | 
 | 2023-04-04 | 354 | 89 | 
 | 2023-04-03 | 353 | 89 | 
 | 2023-03-31 | 352 | 88 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 339 | 86 | 
 | 2023-03-09 | 335 | 85 | 
 | 2023-03-07 | 335 | 84 | 
-| 2023-03-06 | 332 | 84 | 
 

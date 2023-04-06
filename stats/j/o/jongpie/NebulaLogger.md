@@ -1,10 +1,10 @@
 # jongpie/NebulaLogger - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 405
+★ Stars: 406
 
 [Open repository](https://github.com/jongpie/NebulaLogger)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 406 | 97 | 
 | 2023-04-04 | 405 | 96 | 
 | 2023-04-03 | 405 | 96 | 
 | 2023-03-31 | 404 | 95 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 389 | 92 | 
 | 2023-03-09 | 388 | 92 | 
 | 2023-03-07 | 387 | 91 | 
-| 2023-03-06 | 387 | 91 | 
 

@@ -1,6 +1,6 @@
 # YorikSar/nixos-vm-on-macos - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 37 | - | 
 | 2023-04-04 | 37 | - | 
 | 2023-04-03 | 37 | - | 
 | 2023-03-31 | 37 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 37 | - | 
 | 2023-03-09 | 37 | - | 
 | 2023-03-07 | 37 | - | 
-| 2023-03-06 | 37 | - | 
 

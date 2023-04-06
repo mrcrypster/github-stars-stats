@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 517
 
-★ Stars: 650
+★ Stars: 651
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-lambda)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 650 | 517 | 
+| 2023-04-05 | 651 | 517 | 
 | 2023-04-04 | 650 | 517 | 
 | 2023-04-03 | 650 | 516 | 
 | 2023-04-02 | 650 | 515 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-09 | 637 | 502 | 
 | 2023-03-08 | 637 | 501 | 
 | 2023-03-07 | 637 | 502 | 
-| 2023-03-06 | 637 | 498 | 
 

@@ -1,8 +1,8 @@
 # dotnet/dotnet-buildtools-prereqs-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 90
+☋ Forks: 91
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 45 | 91 | 
 | 2023-04-04 | 45 | 90 | 
 | 2023-04-03 | 45 | 90 | 
 | 2023-04-01 | 45 | 90 | 

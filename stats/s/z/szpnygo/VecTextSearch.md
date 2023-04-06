@@ -1,10 +1,10 @@
 # szpnygo/VecTextSearch - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 114
+★ Stars: 117
 
 [Open repository](https://github.com/szpnygo/VecTextSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 117 | 16 | 
 | 2023-04-04 | 114 | 15 | 
 | 2023-04-03 | 113 | 15 | 
 | 2023-03-31 | 106 | 14 | 

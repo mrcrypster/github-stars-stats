@@ -1,10 +1,10 @@
 # AdminTurnedDevOps/Kubernetes-Quickstart-Environments - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 79
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/AdminTurnedDevOps/Kubernetes-Quickstart-Environments)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 283 | 79 | 
 | 2023-04-04 | 282 | 79 | 
 | 2023-04-03 | 281 | 78 | 
 | 2023-03-30 | 280 | 78 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 266 | 72 | 
 | 2023-03-09 | 265 | 72 | 
 | 2023-03-08 | 265 | 72 | 
-| 2023-03-06 | 265 | 72 | 
 

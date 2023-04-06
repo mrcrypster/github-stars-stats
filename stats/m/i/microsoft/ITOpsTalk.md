@@ -1,10 +1,10 @@
 # microsoft/ITOpsTalk - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 59
+★ Stars: 62
 
 [Open repository](https://github.com/microsoft/ITOpsTalk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 62 | 7 | 
 | 2023-04-04 | 59 | 5 | 
 | 2023-04-03 | 57 | 5 | 
 | 2023-04-02 | 51 | 3 | 

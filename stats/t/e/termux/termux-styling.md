@@ -1,10 +1,10 @@
 # termux/termux-styling - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 219
 
-★ Stars: 746
+★ Stars: 747
 
 [Open repository](https://github.com/termux/termux-styling)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 747 | 219 | 
 | 2023-04-04 | 746 | 219 | 
 | 2023-04-02 | 746 | 219 | 
 | 2023-03-31 | 742 | 217 | 

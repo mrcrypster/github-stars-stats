@@ -1,10 +1,10 @@
 # nf-core/taxprofiler - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 15
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/nf-core/taxprofiler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 48 | 15 | 
 | 2023-04-03 | 47 | 15 | 
 | 2023-04-02 | 47 | 15 | 
 | 2023-03-30 | 47 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-09 | 41 | 13 | 
 | 2023-03-08 | 41 | 13 | 
 | 2023-03-07 | 41 | 13 | 
-| 2023-03-06 | 40 | 13 | 
 

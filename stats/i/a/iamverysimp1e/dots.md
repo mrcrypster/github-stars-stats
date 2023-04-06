@@ -1,8 +1,8 @@
 # iamverysimp1e/dots - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 508
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 508 | 34 | 
 | 2023-04-04 | 508 | 33 | 
 | 2023-04-03 | 506 | 33 | 
 | 2023-04-02 | 500 | 33 | 

@@ -1,0 +1,17 @@
+# lorniu/org-mpvi - stars & forks statistics
+
+Stats updated on Apr 2023, 05
+
+☋ Forks: 1
+
+★ Stars: 19
+
+[Open repository](https://github.com/lorniu/org-mpvi)
+
+[Open detailed stats for lorniu/org-mpvi](https://reviewgithub.com/rep/lorniu/org-mpvi)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-05 | 19 | 1 | 
+

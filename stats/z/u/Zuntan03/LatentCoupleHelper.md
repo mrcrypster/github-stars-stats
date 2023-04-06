@@ -1,10 +1,10 @@
 # Zuntan03/LatentCoupleHelper - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4
 
-★ Stars: 87
+★ Stars: 89
 
 [Open repository](https://github.com/Zuntan03/LatentCoupleHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 89 | 4 | 
 | 2023-04-04 | 87 | 4 | 
 | 2023-04-03 | 85 | 4 | 
 | 2023-04-02 | 83 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 60 | 2 | 
 | 2023-03-08 | 57 | 2 | 
 | 2023-03-07 | 54 | 1 | 
-| 2023-03-06 | 53 | 1 | 
 

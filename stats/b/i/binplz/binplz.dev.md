@@ -1,10 +1,10 @@
 # binplz/binplz.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/binplz/binplz.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3 | 1 | 
 | 2023-04-04 | 2 | 1 | 
 | 2023-04-03 | 2 | 1 | 
 | 2023-04-02 | 2 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1 | 1 | 
 | 2023-03-09 | 1 | 1 | 
 | 2023-03-07 | 1 | 1 | 
-| 2023-03-06 | 1 | 1 | 
 

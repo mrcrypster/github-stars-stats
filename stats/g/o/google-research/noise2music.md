@@ -1,6 +1,6 @@
 # google-research/noise2music - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 37 | 3 | 
 | 2023-04-04 | 37 | 3 | 
 | 2023-04-03 | 36 | 3 | 
 | 2023-04-02 | 36 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 29 | 3 | 
 | 2023-03-09 | 29 | 3 | 
 | 2023-03-08 | 29 | 3 | 
-| 2023-03-06 | 29 | 3 | 
 

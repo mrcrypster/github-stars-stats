@@ -1,6 +1,6 @@
 # Tabyltop/CC-SRD - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 29 | 8 | 
 | 2023-04-04 | 29 | 8 | 
 | 2023-04-03 | 29 | 8 | 
 | 2023-04-02 | 29 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 28 | 8 | 
 | 2023-03-10 | 28 | 8 | 
 | 2023-03-08 | 28 | 8 | 
-| 2023-03-07 | 28 | 8 | 
 

@@ -1,10 +1,10 @@
 # devrimgunduz/pagila - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 228
 
-★ Stars: 681
+★ Stars: 683
 
 [Open repository](https://github.com/devrimgunduz/pagila)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 683 | 228 | 
 | 2023-04-04 | 681 | 228 | 
 | 2023-04-03 | 681 | 228 | 
 | 2023-03-31 | 679 | 227 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 665 | 221 | 
 | 2023-03-09 | 663 | 221 | 
 | 2023-03-08 | 663 | 221 | 
-| 2023-03-06 | 662 | 221 | 
 

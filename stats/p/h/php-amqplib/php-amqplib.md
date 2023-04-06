@@ -1,6 +1,6 @@
 # php-amqplib/php-amqplib - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1010
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4241 | 1010 | 
 | 2023-04-04 | 4241 | 1010 | 
 | 2023-04-03 | 4239 | 1010 | 
 | 2023-04-02 | 4239 | 1009 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4230 | 1010 | 
 | 2023-03-09 | 4230 | 1009 | 
 | 2023-03-08 | 4230 | 1008 | 
-| 2023-03-06 | 4225 | 1008 | 
 

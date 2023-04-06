@@ -1,6 +1,6 @@
 # ic3w0lf22/Roblox-Account-Manager - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 269 | 158 | 
 | 2023-04-04 | 269 | 158 | 
 | 2023-04-03 | 269 | 158 | 
 | 2023-03-31 | 268 | 156 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 260 | 152 | 
 | 2023-03-09 | 258 | 153 | 
 | 2023-03-08 | 258 | 152 | 
-| 2023-03-06 | 258 | 151 | 
 

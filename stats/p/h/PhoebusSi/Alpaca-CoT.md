@@ -1,10 +1,10 @@
 # PhoebusSi/Alpaca-CoT - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 744
+★ Stars: 766
 
 [Open repository](https://github.com/PhoebusSi/Alpaca-CoT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 766 | 72 | 
 | 2023-04-04 | 744 | 71 | 
 | 2023-04-03 | 698 | 65 | 
 | 2023-04-01 | 562 | 49 | 

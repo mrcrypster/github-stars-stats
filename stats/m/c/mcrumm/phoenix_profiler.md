@@ -1,10 +1,10 @@
 # mcrumm/phoenix_profiler - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 3
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/mcrumm/phoenix_profiler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 177 | 3 | 
 | 2023-04-04 | 176 | 3 | 
 | 2023-04-02 | 176 | 3 | 
 | 2023-04-01 | 176 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 171 | 3 | 
 | 2023-03-09 | 171 | 3 | 
 | 2023-03-08 | 171 | 3 | 
-| 2023-03-06 | 171 | 3 | 
 

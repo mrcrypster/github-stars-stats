@@ -1,10 +1,10 @@
 # zephray/RISu64 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/zephray/RISu64)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 45 | 6 | 
 | 2023-04-04 | 43 | 6 | 
 | 2023-04-03 | 43 | 6 | 
 | 2023-04-02 | 41 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 37 | 6 | 
 | 2023-03-08 | 37 | 6 | 
 | 2023-03-07 | 37 | 6 | 
-| 2023-03-06 | 37 | 6 | 
 

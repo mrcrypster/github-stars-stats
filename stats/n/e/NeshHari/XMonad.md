@@ -1,10 +1,10 @@
 # NeshHari/XMonad - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/NeshHari/XMonad)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 149 | 13 | 
 | 2023-04-05 | 148 | 12 | 
 | 2023-04-03 | 146 | 12 | 
 | 2023-04-02 | 146 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 132 | 12 | 
 | 2023-03-09 | 132 | 12 | 
 | 2023-03-08 | 132 | 12 | 
-| 2023-03-06 | 131 | 12 | 
 

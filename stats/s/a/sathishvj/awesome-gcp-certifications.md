@@ -1,10 +1,10 @@
 # sathishvj/awesome-gcp-certifications - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1184
 
-★ Stars: 3279
+★ Stars: 3282
 
 [Open repository](https://github.com/sathishvj/awesome-gcp-certifications)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3282 | 1184 | 
 | 2023-04-04 | 3279 | 1184 | 
 | 2023-04-03 | 3277 | 1184 | 
 | 2023-04-02 | 3270 | 1183 | 

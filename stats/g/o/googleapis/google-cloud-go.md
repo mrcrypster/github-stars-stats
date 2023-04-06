@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 1154
 
-★ Stars: 3246
+★ Stars: 3247
 
 [Open repository](https://github.com/googleapis/google-cloud-go)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 3246 | 1154 | 
+| 2023-04-05 | 3247 | 1154 | 
 | 2023-04-04 | 3245 | 1153 | 
 | 2023-04-03 | 3238 | 1152 | 
 | 2023-04-02 | 3235 | 1151 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 3211 | 1139 | 
 | 2023-03-09 | 3208 | 1138 | 
 | 2023-03-08 | 3206 | 1138 | 
-| 2023-03-06 | 3206 | 1137 | 
 

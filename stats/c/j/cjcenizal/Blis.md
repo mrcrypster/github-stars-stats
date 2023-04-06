@@ -1,6 +1,6 @@
 # cjcenizal/Blis - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 8 | 1 | 
 | 2023-04-04 | 8 | 1 | 
 | 2023-04-03 | 8 | 1 | 
 | 2023-04-02 | 8 | 1 | 

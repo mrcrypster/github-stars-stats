@@ -1,10 +1,10 @@
 # trummerschlunk/soundsgood - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 10
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/trummerschlunk/soundsgood)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 279 | 10 | 
 | 2023-04-04 | 278 | 10 | 
 | 2023-04-03 | 271 | 10 | 
 | 2023-04-01 | 264 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 186 | 7 | 
 | 2023-03-09 | 181 | 7 | 
 | 2023-03-08 | 179 | 7 | 
-| 2023-03-06 | 172 | 7 | 
 

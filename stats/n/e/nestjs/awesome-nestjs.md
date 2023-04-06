@@ -1,10 +1,10 @@
 # nestjs/awesome-nestjs - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 719
 
-★ Stars: 7641
+★ Stars: 7649
 
 [Open repository](https://github.com/nestjs/awesome-nestjs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 7649 | 719 | 
 | 2023-04-04 | 7641 | 719 | 
 | 2023-04-03 | 7631 | 719 | 
 | 2023-04-02 | 7622 | 717 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 7459 | 704 | 
 | 2023-03-09 | 7454 | 703 | 
 | 2023-03-08 | 7450 | 700 | 
-| 2023-03-06 | 7447 | 699 | 
 

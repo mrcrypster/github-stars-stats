@@ -1,6 +1,6 @@
 # p-w/gatling-webserver - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 27 | 4 | 
 | 2023-04-04 | 27 | 4 | 
 | 2023-04-03 | 27 | 4 | 
 | 2023-04-02 | 27 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 27 | 4 | 
 | 2023-03-10 | 27 | 4 | 
 | 2023-03-08 | 27 | 4 | 
-| 2023-03-07 | 27 | 4 | 
 

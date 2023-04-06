@@ -1,6 +1,6 @@
 # linux-test-project/ltp - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 927
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2004 | 927 | 
 | 2023-04-05 | 2004 | 927 | 
 | 2023-04-03 | 2001 | 928 | 
 | 2023-04-02 | 2000 | 928 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 1986 | 922 | 
 | 2023-03-09 | 1985 | 922 | 
 | 2023-03-07 | 1985 | 922 | 
-| 2023-03-06 | 1985 | 922 | 
 

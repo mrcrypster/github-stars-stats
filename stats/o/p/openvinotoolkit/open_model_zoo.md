@@ -1,10 +1,10 @@
 # openvinotoolkit/open_model_zoo - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1287
+☋ Forks: 1289
 
-★ Stars: 3548
+★ Stars: 3551
 
 [Open repository](https://github.com/openvinotoolkit/open_model_zoo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3551 | 1289 | 
 | 2023-04-04 | 3548 | 1287 | 
 | 2023-04-03 | 3547 | 1286 | 
 | 2023-04-02 | 3543 | 1286 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 3518 | 1284 | 
 | 2023-03-09 | 3515 | 1283 | 
 | 2023-03-07 | 3513 | 1283 | 
-| 2023-03-06 | 3510 | 1282 | 
 

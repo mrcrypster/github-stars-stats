@@ -1,6 +1,6 @@
 # jdah/dotfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 167 | 13 | 
 | 2023-04-03 | 167 | 13 | 
 | 2023-04-02 | 167 | 13 | 
 | 2023-04-01 | 167 | 13 | 

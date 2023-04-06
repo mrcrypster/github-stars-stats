@@ -1,10 +1,10 @@
 # SamirPaul1/DSAlgo - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 322
 
-★ Stars: 1427
+★ Stars: 1428
 
 [Open repository](https://github.com/SamirPaul1/DSAlgo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1428 | 322 | 
 | 2023-04-04 | 1427 | 322 | 
 | 2023-04-03 | 1427 | 322 | 
 | 2023-04-01 | 1425 | 321 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1391 | 302 | 
 | 2023-03-09 | 1387 | 248 | 
 | 2023-03-07 | 1381 | 245 | 
-| 2023-03-06 | 1374 | 244 | 
 

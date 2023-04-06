@@ -1,10 +1,10 @@
 # nihaojob/vue-fabric-editor - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 185
 
-★ Stars: 903
+★ Stars: 905
 
 [Open repository](https://github.com/nihaojob/vue-fabric-editor)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 905 | 185 | 
+| 2023-04-05 | 905 | 185 | 
 | 2023-04-04 | 903 | 185 | 
 | 2023-04-03 | 893 | 184 | 
 | 2023-03-31 | 885 | 180 | 

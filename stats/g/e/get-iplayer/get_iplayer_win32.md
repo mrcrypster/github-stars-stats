@@ -1,6 +1,6 @@
 # get-iplayer/get_iplayer_win32 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 123 | 15 | 
 | 2023-04-04 | 123 | 15 | 
 | 2023-04-03 | 123 | 15 | 
 | 2023-03-31 | 123 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 122 | 15 | 
 | 2023-03-09 | 121 | 15 | 
 | 2023-03-08 | 121 | 15 | 
-| 2023-03-06 | 121 | 15 | 
 

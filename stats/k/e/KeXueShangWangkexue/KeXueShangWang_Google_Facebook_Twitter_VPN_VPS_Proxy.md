@@ -1,10 +1,10 @@
 # KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 113
+☋ Forks: 114
 
-★ Stars: 454
+★ Stars: 457
 
 [Open repository](https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 457 | 114 | 
 | 2023-04-04 | 454 | 113 | 
 | 2023-04-02 | 450 | 112 | 
 | 2023-03-31 | 408 | 110 | 

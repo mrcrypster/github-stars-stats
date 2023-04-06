@@ -1,6 +1,6 @@
 # gouthampradhan/leetcode - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 796
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3147 | 796 | 
 | 2023-04-04 | 3147 | 796 | 
 | 2023-04-03 | 3147 | 796 | 
 | 2023-04-02 | 3147 | 795 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 3134 | 793 | 
 | 2023-03-09 | 3135 | 793 | 
 | 2023-03-07 | 3135 | 793 | 
-| 2023-03-06 | 3135 | 793 | 
 

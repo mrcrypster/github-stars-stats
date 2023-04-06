@@ -1,6 +1,6 @@
 # p-gen/smenu - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2208 | 47 | 
 | 2023-04-04 | 2208 | 47 | 
 | 2023-04-02 | 2207 | 47 | 
 | 2023-03-30 | 2205 | 47 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 2194 | 48 | 
 | 2023-03-09 | 2194 | 48 | 
 | 2023-03-07 | 2194 | 48 | 
-| 2023-03-06 | 2191 | 48 | 
 

@@ -1,10 +1,10 @@
 # Mehedi61/Login-Signup-form - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 160
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/Mehedi61/Login-Signup-form)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 58 | 160 | 
 | 2023-04-04 | 57 | 160 | 
 | 2023-04-03 | 57 | 160 | 
 | 2023-03-31 | 57 | 160 | 

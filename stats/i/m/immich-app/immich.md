@@ -1,10 +1,10 @@
 # immich-app/immich - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 349
+☋ Forks: 352
 
-★ Stars: 9656
+★ Stars: 9704
 
 [Open repository](https://github.com/immich-app/immich)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 9704 | 352 | 
 | 2023-04-04 | 9656 | 349 | 
 | 2023-04-03 | 9640 | 347 | 
 | 2023-03-31 | 9582 | 349 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 9189 | 324 | 
 | 2023-03-08 | 9169 | 322 | 
 | 2023-03-07 | 9157 | 321 | 
-| 2023-03-06 | 9129 | 318 | 
 

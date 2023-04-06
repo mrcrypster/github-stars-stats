@@ -1,10 +1,10 @@
 # libgit2/libgit2 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 2323
 
-★ Stars: 8960
+★ Stars: 8962
 
 [Open repository](https://github.com/libgit2/libgit2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 8962 | 2323 | 
 | 2023-04-04 | 8960 | 2323 | 
 | 2023-04-02 | 8960 | 2323 | 
 | 2023-03-30 | 8956 | 2322 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 8927 | 2298 | 
 | 2023-03-09 | 8924 | 2298 | 
 | 2023-03-08 | 8923 | 2297 | 
-| 2023-03-06 | 8920 | 2296 | 
 

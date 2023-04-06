@@ -1,6 +1,6 @@
 # PEZ/clojure-get-started-mini - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 34 | 1 | 
 | 2023-04-05 | 34 | 1 | 
 | 2023-04-03 | 34 | 1 | 
 | 2023-04-02 | 34 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 35 | 1 | 
 | 2023-03-09 | 35 | 1 | 
 | 2023-03-07 | 35 | 1 | 
-| 2023-03-06 | 35 | 1 | 
 

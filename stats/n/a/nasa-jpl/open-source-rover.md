@@ -1,10 +1,10 @@
 # nasa-jpl/open-source-rover - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1193
+☋ Forks: 1194
 
-★ Stars: 7230
+★ Stars: 7234
 
 [Open repository](https://github.com/nasa-jpl/open-source-rover)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 7234 | 1194 | 
 | 2023-04-04 | 7230 | 1193 | 
 | 2023-04-03 | 7231 | 1193 | 
 | 2023-04-02 | 7230 | 1193 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 7207 | 1192 | 
 | 2023-03-10 | 7207 | 1192 | 
 | 2023-03-08 | 7206 | 1192 | 
-| 2023-03-07 | 7206 | 1192 | 
 

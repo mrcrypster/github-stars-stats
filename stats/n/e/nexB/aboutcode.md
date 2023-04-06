@@ -1,10 +1,10 @@
 # nexB/aboutcode - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 87
 
-★ Stars: 132
+★ Stars: 131
 
 [Open repository](https://github.com/nexB/aboutcode)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 131 | 87 | 
 | 2023-04-04 | 132 | 87 | 
 | 2023-04-03 | 132 | 87 | 
 | 2023-04-01 | 132 | 87 | 

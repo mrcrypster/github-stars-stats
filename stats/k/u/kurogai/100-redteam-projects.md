@@ -1,10 +1,10 @@
 # kurogai/100-redteam-projects - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 219
 
-★ Stars: 1280
+★ Stars: 1283
 
 [Open repository](https://github.com/kurogai/100-redteam-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1283 | 219 | 
 | 2023-04-04 | 1280 | 219 | 
 | 2023-04-03 | 1280 | 219 | 
 | 2023-03-31 | 1280 | 219 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1250 | 212 | 
 | 2023-03-08 | 1250 | 212 | 
 | 2023-03-07 | 1248 | 212 | 
-| 2023-03-06 | 1246 | 212 | 
 

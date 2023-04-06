@@ -1,10 +1,10 @@
 # moveline/mongoose-pagination - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 10
 
-★ Stars: 56
+★ Stars: 55
 
 [Open repository](https://github.com/moveline/mongoose-pagination)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 55 | 10 | 
 | 2023-04-04 | 56 | 10 | 
 | 2023-04-03 | 56 | 10 | 
 | 2023-04-01 | 56 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 57 | 10 | 
 | 2023-03-09 | 57 | 10 | 
 | 2023-03-07 | 57 | 10 | 
-| 2023-03-06 | 57 | 10 | 
 

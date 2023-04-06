@@ -1,10 +1,10 @@
 # microsoft/OMS-Agent-for-Linux - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 331
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/microsoft/OMS-Agent-for-Linux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 389 | 331 | 
 | 2023-04-04 | 388 | 331 | 
 | 2023-04-03 | 387 | 330 | 
 | 2023-04-02 | 387 | 330 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 385 | 327 | 
 | 2023-03-10 | 385 | 327 | 
 | 2023-03-08 | 385 | 327 | 
-| 2023-03-07 | 385 | 327 | 
 

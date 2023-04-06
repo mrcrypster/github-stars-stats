@@ -1,6 +1,6 @@
 # a16z/erc4626-tests - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 91 | 10 | 
 | 2023-04-04 | 91 | 10 | 
 | 2023-04-03 | 91 | 10 | 
 | 2023-04-02 | 90 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 88 | 10 | 
 | 2023-03-10 | 88 | 10 | 
 | 2023-03-08 | 87 | 10 | 
-| 2023-03-07 | 87 | 10 | 
 

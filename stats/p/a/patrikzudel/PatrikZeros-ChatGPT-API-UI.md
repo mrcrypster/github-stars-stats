@@ -1,10 +1,10 @@
 # patrikzudel/PatrikZeros-ChatGPT-API-UI - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 267
+★ Stars: 269
 
 [Open repository](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 269 | 50 | 
+| 2023-04-05 | 269 | 50 | 
 | 2023-04-04 | 267 | 49 | 
 | 2023-04-03 | 263 | 49 | 
 | 2023-04-02 | 259 | 46 | 

@@ -1,6 +1,6 @@
 # efectn/go-orm-benchmarks - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 211 | 17 | 
 | 2023-04-04 | 211 | 17 | 
 | 2023-04-03 | 212 | 16 | 
 | 2023-03-31 | 212 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 207 | 16 | 
 | 2023-03-09 | 207 | 16 | 
 | 2023-03-08 | 206 | 16 | 
-| 2023-03-06 | 206 | 16 | 
 

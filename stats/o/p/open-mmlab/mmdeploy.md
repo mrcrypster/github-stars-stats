@@ -1,10 +1,10 @@
 # open-mmlab/mmdeploy - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 447
+☋ Forks: 449
 
-★ Stars: 1740
+★ Stars: 1746
 
 [Open repository](https://github.com/open-mmlab/mmdeploy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1746 | 449 | 
 | 2023-04-04 | 1740 | 447 | 
 | 2023-04-03 | 1734 | 448 | 
 | 2023-03-31 | 1727 | 446 | 

@@ -1,6 +1,6 @@
 # SwiftOldDriver/iOS-Weekly - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 413
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4468 | 413 | 
 | 2023-04-04 | 4468 | 413 | 
 | 2023-04-03 | 4467 | 414 | 
 | 2023-03-31 | 4467 | 414 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4450 | 409 | 
 | 2023-03-08 | 4447 | 408 | 
 | 2023-03-07 | 4443 | 408 | 
-| 2023-03-06 | 4442 | 408 | 
 

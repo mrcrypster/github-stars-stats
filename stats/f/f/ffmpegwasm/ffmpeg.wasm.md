@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 542
 
-★ Stars: 10101
+★ Stars: 10110
 
 [Open repository](https://github.com/ffmpegwasm/ffmpeg.wasm)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 10101 | 542 | 
+| 2023-04-05 | 10110 | 542 | 
 | 2023-04-04 | 10100 | 541 | 
 | 2023-04-03 | 10078 | 540 | 
 | 2023-04-02 | 10066 | 538 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 9898 | 530 | 
 | 2023-03-09 | 9889 | 527 | 
 | 2023-03-07 | 9875 | 527 | 
-| 2023-03-06 | 9868 | 525 | 
 

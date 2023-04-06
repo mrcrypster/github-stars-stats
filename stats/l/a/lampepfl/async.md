@@ -1,10 +1,10 @@
 # lampepfl/async - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 51
+★ Stars: 60
 
 [Open repository](https://github.com/lampepfl/async)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 60 | 5 | 
+| 2023-04-05 | 60 | 5 | 
 | 2023-04-04 | 51 | 5 | 
 | 2023-04-03 | 50 | 5 | 
 | 2023-03-31 | 49 | 5 | 

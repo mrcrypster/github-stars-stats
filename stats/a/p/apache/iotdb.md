@@ -1,10 +1,10 @@
 # apache/iotdb - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 837
 
-★ Stars: 3136
+★ Stars: 3138
 
 [Open repository](https://github.com/apache/iotdb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3138 | 837 | 
 | 2023-04-04 | 3136 | 837 | 
 | 2023-04-03 | 3128 | 836 | 
 | 2023-03-31 | 3122 | 835 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 3091 | 822 | 
 | 2023-03-10 | 3092 | 820 | 
 | 2023-03-08 | 3092 | 820 | 
-| 2023-03-07 | 3090 | 819 | 
 

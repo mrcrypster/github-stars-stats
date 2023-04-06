@@ -1,6 +1,6 @@
 # apertium/apertium-eng - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 49
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 9 | 49 | 
+| 2023-04-05 | 9 | 49 | 
 | 2023-04-04 | 9 | 49 | 
 | 2023-04-03 | 9 | 48 | 
 | 2023-04-02 | 9 | 48 | 

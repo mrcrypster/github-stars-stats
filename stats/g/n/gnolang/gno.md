@@ -1,10 +1,10 @@
 # gnolang/gno - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 273
+☋ Forks: 274
 
-★ Stars: 712
+★ Stars: 716
 
 [Open repository](https://github.com/gnolang/gno)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 716 | 274 | 
 | 2023-04-04 | 712 | 273 | 
 | 2023-04-03 | 712 | 272 | 
 | 2023-03-31 | 712 | 270 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 647 | 267 | 
 | 2023-03-09 | 648 | 267 | 
 | 2023-03-08 | 648 | 268 | 
-| 2023-03-06 | 648 | 268 | 
 

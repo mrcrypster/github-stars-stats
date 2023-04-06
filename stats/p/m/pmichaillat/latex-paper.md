@@ -1,6 +1,6 @@
 # pmichaillat/latex-paper - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 38 | 12 | 
 | 2023-04-04 | 38 | 12 | 
 | 2023-04-03 | 38 | 12 | 
 | 2023-04-02 | 38 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 36 | 11 | 
 | 2023-03-08 | 36 | 11 | 
 | 2023-03-07 | 36 | 11 | 
-| 2023-03-06 | 35 | 11 | 
 

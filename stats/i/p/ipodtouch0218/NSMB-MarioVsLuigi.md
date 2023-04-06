@@ -1,10 +1,10 @@
 # ipodtouch0218/NSMB-MarioVsLuigi - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 156
 
-★ Stars: 362
+★ Stars: 365
 
 [Open repository](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 365 | 156 | 
 | 2023-04-04 | 362 | 156 | 
 | 2023-04-03 | 360 | 156 | 
 | 2023-04-02 | 359 | 156 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 339 | 153 | 
 | 2023-03-09 | 339 | 153 | 
 | 2023-03-08 | 339 | 153 | 
-| 2023-03-06 | 339 | 154 | 
 

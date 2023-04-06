@@ -1,10 +1,10 @@
 # j-hc/mindetach-magisk - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/j-hc/mindetach-magisk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 144 | 2 | 
 | 2023-04-04 | 143 | 2 | 
 | 2023-04-03 | 143 | 2 | 
 | 2023-04-02 | 142 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 117 | 3 | 
 | 2023-03-09 | 116 | 2 | 
 | 2023-03-07 | 115 | 2 | 
-| 2023-03-06 | 114 | 2 | 
 

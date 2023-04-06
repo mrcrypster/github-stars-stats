@@ -1,10 +1,10 @@
 # dexidp/dex - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1488
 
-★ Stars: 7989
+★ Stars: 7994
 
 [Open repository](https://github.com/dexidp/dex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 7994 | 1488 | 
 | 2023-04-04 | 7989 | 1488 | 
 | 2023-04-03 | 7979 | 1488 | 
 | 2023-03-31 | 7969 | 1489 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 7903 | 1478 | 
 | 2023-03-09 | 7900 | 1477 | 
 | 2023-03-08 | 7893 | 1476 | 
-| 2023-03-06 | 7888 | 1475 | 
 

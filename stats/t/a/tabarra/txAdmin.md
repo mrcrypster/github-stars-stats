@@ -1,10 +1,10 @@
 # tabarra/txAdmin - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 454
+☋ Forks: 455
 
-★ Stars: 673
+★ Stars: 675
 
 [Open repository](https://github.com/tabarra/txAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 675 | 455 | 
 | 2023-04-04 | 673 | 454 | 
 | 2023-04-02 | 672 | 454 | 
 | 2023-03-31 | 653 | 454 | 

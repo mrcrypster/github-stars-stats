@@ -1,10 +1,10 @@
 # github-drama/github-drama - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 146
+★ Stars: 149
 
 [Open repository](https://github.com/github-drama/github-drama)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 149 | 9 | 
 | 2023-04-05 | 146 | 8 | 
 | 2023-04-03 | 145 | 8 | 
 | 2023-04-02 | 140 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 122 | 9 | 
 | 2023-03-08 | 119 | 8 | 
 | 2023-03-07 | 116 | 7 | 
-| 2023-03-06 | 116 | 7 | 
 

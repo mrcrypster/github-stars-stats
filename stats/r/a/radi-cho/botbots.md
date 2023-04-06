@@ -1,10 +1,10 @@
 # radi-cho/botbots - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 11
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/radi-cho/botbots)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 119 | 11 | 
 | 2023-04-04 | 118 | 11 | 
 

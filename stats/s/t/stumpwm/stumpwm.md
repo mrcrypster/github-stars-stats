@@ -1,10 +1,10 @@
 # stumpwm/stumpwm - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 258
 
-★ Stars: 1772
+★ Stars: 1774
 
 [Open repository](https://github.com/stumpwm/stumpwm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1774 | 258 | 
 | 2023-04-04 | 1772 | 258 | 
 | 2023-04-03 | 1773 | 258 | 
 | 2023-04-01 | 1773 | 258 | 

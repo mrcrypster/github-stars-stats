@@ -1,8 +1,8 @@
 # rust-lang/rust-by-example - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1143
+☋ Forks: 1144
 
 ★ Stars: 5666
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 5666 | 1144 | 
 | 2023-04-04 | 5666 | 1143 | 
 | 2023-04-03 | 5666 | 1142 | 
 | 2023-04-02 | 5664 | 1141 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 5581 | 1126 | 
 | 2023-03-09 | 5577 | 1125 | 
 | 2023-03-07 | 5569 | 1125 | 
-| 2023-03-06 | 5564 | 1124 | 
 

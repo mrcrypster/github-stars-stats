@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 444
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/dotnet/intro-to-dotnet-web-dev)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 386 | 444 | 
+| 2023-04-05 | 387 | 444 | 
 | 2023-04-04 | 386 | 443 | 
 | 2023-04-03 | 385 | 442 | 
 | 2023-03-31 | 380 | 438 | 

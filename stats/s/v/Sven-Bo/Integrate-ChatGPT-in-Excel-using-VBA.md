@@ -1,10 +1,10 @@
 # Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 41 | 24 | 
+| 2023-04-05 | 41 | 24 | 
 | 2023-04-04 | 40 | 23 | 
 | 2023-04-02 | 40 | 21 | 
 | 2023-04-01 | 39 | 21 | 
@@ -39,5 +41,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 20 | 10 | 
 | 2023-03-08 | 19 | 10 | 
 | 2023-03-07 | 18 | 10 | 
-| 2023-03-06 | 17 | 8 | 
 

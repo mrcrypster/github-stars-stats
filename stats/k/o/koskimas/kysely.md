@@ -1,10 +1,10 @@
 # koskimas/kysely - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 102
 
-★ Stars: 4553
+★ Stars: 4562
 
 [Open repository](https://github.com/koskimas/kysely)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4562 | 102 | 
 | 2023-04-04 | 4553 | 102 | 
 | 2023-04-03 | 4524 | 101 | 
 | 2023-04-02 | 4513 | 100 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 3986 | 95 | 
 | 2023-03-09 | 3962 | 92 | 
 | 2023-03-08 | 3948 | 91 | 
-| 2023-03-06 | 3926 | 90 | 
 

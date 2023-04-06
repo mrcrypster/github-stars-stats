@@ -1,10 +1,10 @@
 # manateelazycat/auto-save - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 17
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/manateelazycat/auto-save)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 71 | 17 | 
 | 2023-04-04 | 70 | 17 | 
 | 2023-04-03 | 70 | 17 | 
 | 2023-03-31 | 70 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 69 | 17 | 
 | 2023-03-10 | 69 | 17 | 
 | 2023-03-08 | 69 | 17 | 
-| 2023-03-07 | 69 | 17 | 
 

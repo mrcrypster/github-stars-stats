@@ -1,10 +1,10 @@
 # star7th/showdoc - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 2133
 
-★ Stars: 11183
+★ Stars: 11184
 
 [Open repository](https://github.com/star7th/showdoc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 11184 | 2133 | 
 | 2023-04-04 | 11183 | 2133 | 
 | 2023-04-03 | 11178 | 2132 | 
 | 2023-03-31 | 11174 | 2130 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 11115 | 2120 | 
 | 2023-03-08 | 11111 | 2119 | 
 | 2023-03-07 | 11108 | 2119 | 
-| 2023-03-06 | 11099 | 2119 | 
 

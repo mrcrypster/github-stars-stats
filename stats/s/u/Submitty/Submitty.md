@@ -1,10 +1,10 @@
 # Submitty/Submitty - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 488
 
-★ Stars: 473
+★ Stars: 474
 
 [Open repository](https://github.com/Submitty/Submitty)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 474 | 488 | 
 | 2023-04-04 | 473 | 488 | 
 | 2023-04-03 | 473 | 487 | 
 | 2023-04-02 | 472 | 482 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 460 | 448 | 
 | 2023-03-09 | 459 | 446 | 
 | 2023-03-08 | 459 | 442 | 
-| 2023-03-07 | 459 | 442 | 
 

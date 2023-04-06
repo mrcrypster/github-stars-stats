@@ -1,10 +1,10 @@
 # markus-nilsson/mri-simulator - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4
 
-★ Stars: 33
+★ Stars: 36
 
 [Open repository](https://github.com/markus-nilsson/mri-simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 36 | 4 | 
 | 2023-04-04 | 33 | 4 | 
 | 2023-04-03 | 33 | 4 | 
 | 2023-04-02 | 31 | 2 | 

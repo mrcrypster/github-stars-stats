@@ -1,10 +1,10 @@
 # microsoft/kiota - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 72
 
-★ Stars: 489
+★ Stars: 491
 
 [Open repository](https://github.com/microsoft/kiota)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 491 | 72 | 
 | 2023-04-04 | 489 | 72 | 
 | 2023-04-03 | 486 | 71 | 
 | 2023-04-02 | 484 | 71 | 

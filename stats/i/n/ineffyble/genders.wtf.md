@@ -1,6 +1,6 @@
 # ineffyble/genders.wtf - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 50 | 25 | 
 | 2023-04-04 | 50 | 25 | 
 | 2023-04-02 | 50 | 25 | 
 | 2023-03-29 | 50 | 25 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 44 | 23 | 
 | 2023-03-09 | 44 | 23 | 
 | 2023-03-07 | 43 | 23 | 
-| 2023-03-06 | 42 | 23 | 
 

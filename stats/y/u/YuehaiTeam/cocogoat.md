@@ -1,10 +1,10 @@
 # YuehaiTeam/cocogoat - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 47
 
-★ Stars: 690
+★ Stars: 691
 
 [Open repository](https://github.com/YuehaiTeam/cocogoat)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 690 | 47 | 
+| 2023-04-06 | 691 | 47 | 
+| 2023-04-05 | 691 | 47 | 
 | 2023-04-03 | 686 | 47 | 
 | 2023-04-02 | 682 | 46 | 
 | 2023-03-30 | 679 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 658 | 46 | 
 | 2023-03-09 | 657 | 45 | 
 | 2023-03-07 | 654 | 44 | 
-| 2023-03-06 | 653 | 44 | 
 

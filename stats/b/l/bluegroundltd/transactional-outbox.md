@@ -1,6 +1,6 @@
 # bluegroundltd/transactional-outbox - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 7 | 2 | 
 | 2023-04-04 | 7 | 2 | 
 | 2023-04-03 | 7 | 2 | 
 | 2023-04-02 | 7 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 6 | 2 | 
 | 2023-03-09 | 6 | 2 | 
 | 2023-03-08 | 6 | 2 | 
-| 2023-03-06 | 6 | 2 | 
 

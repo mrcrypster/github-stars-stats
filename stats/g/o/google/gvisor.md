@@ -1,10 +1,10 @@
 # google/gvisor - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1159
+☋ Forks: 1161
 
-★ Stars: 13664
+★ Stars: 13668
 
 [Open repository](https://github.com/google/gvisor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 13668 | 1161 | 
 | 2023-04-04 | 13664 | 1159 | 
 | 2023-04-03 | 13657 | 1157 | 
 | 2023-04-02 | 13645 | 1157 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 13567 | 1151 | 
 | 2023-03-08 | 13561 | 1150 | 
 | 2023-03-07 | 13552 | 1147 | 
-| 2023-03-06 | 13553 | 1147 | 
 

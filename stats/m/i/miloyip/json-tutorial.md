@@ -1,10 +1,10 @@
 # miloyip/json-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4078
 
-★ Stars: 6899
+★ Stars: 6902
 
 [Open repository](https://github.com/miloyip/json-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 6902 | 4078 | 
 | 2023-04-04 | 6899 | 4078 | 
 | 2023-04-03 | 6893 | 4078 | 
 | 2023-03-31 | 6881 | 4072 | 

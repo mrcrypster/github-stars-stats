@@ -1,6 +1,6 @@
 # evolution-gaming/scala-bootcamp - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 127 | 96 | 
 | 2023-04-04 | 127 | 96 | 
 | 2023-04-03 | 127 | 95 | 
 | 2023-04-02 | 127 | 95 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 125 | 92 | 
 | 2023-03-08 | 125 | 91 | 
 | 2023-03-07 | 126 | 91 | 
-| 2023-03-06 | 126 | 91 | 
 

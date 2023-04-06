@@ -1,10 +1,10 @@
 # Daksh777/SpotifyNoPremium - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 625
+★ Stars: 626
 
 [Open repository](https://github.com/Daksh777/SpotifyNoPremium)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 626 | 51 | 
 | 2023-04-03 | 625 | 50 | 
 | 2023-04-02 | 625 | 50 | 
 | 2023-03-30 | 626 | 50 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 610 | 49 | 
 | 2023-03-09 | 607 | 49 | 
 | 2023-03-08 | 607 | 49 | 
-| 2023-03-06 | 607 | 49 | 
 

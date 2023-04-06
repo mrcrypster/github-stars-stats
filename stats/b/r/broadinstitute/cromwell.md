@@ -1,6 +1,6 @@
 # broadinstitute/cromwell - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 881 | 325 | 
 | 2023-04-04 | 881 | 325 | 
 | 2023-04-03 | 881 | 325 | 
 | 2023-04-01 | 881 | 325 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 878 | 323 | 
 | 2023-03-09 | 878 | 323 | 
 | 2023-03-07 | 878 | 323 | 
-| 2023-03-06 | 877 | 323 | 
 

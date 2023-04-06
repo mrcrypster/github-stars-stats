@@ -1,8 +1,8 @@
 # diatmpravin/The-Cloud-Advisory - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 95
+☋ Forks: 94
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 12 | 94 | 
 | 2023-04-04 | 12 | 95 | 
 | 2023-04-03 | 12 | 95 | 
 

@@ -1,6 +1,6 @@
 # vinceliuice/Lavanda-gtk-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 118 | 6 | 
 | 2023-04-04 | 118 | 6 | 
 | 2023-04-03 | 118 | 6 | 
 | 2023-03-31 | 117 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 110 | 6 | 
 | 2023-03-10 | 110 | 6 | 
 | 2023-03-08 | 111 | 6 | 
-| 2023-03-07 | 111 | 6 | 
 

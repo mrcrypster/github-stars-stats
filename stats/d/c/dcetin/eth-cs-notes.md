@@ -1,10 +1,10 @@
 # dcetin/eth-cs-notes - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 80
 
-★ Stars: 543
+★ Stars: 544
 
 [Open repository](https://github.com/dcetin/eth-cs-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 544 | 80 | 
 | 2023-04-04 | 543 | 80 | 
 | 2023-04-03 | 543 | 80 | 
 | 2023-03-31 | 543 | 80 | 

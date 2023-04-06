@@ -1,10 +1,10 @@
 # uasoft-indonesia/badaso - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 197
 
-★ Stars: 1040
+★ Stars: 1045
 
 [Open repository](https://github.com/uasoft-indonesia/badaso)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1045 | 197 | 
 | 2023-04-04 | 1040 | 197 | 
 | 2023-04-03 | 1039 | 197 | 
 | 2023-04-01 | 1039 | 197 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1031 | 194 | 
 | 2023-03-09 | 1031 | 194 | 
 | 2023-03-08 | 1030 | 193 | 
-| 2023-03-06 | 1029 | 193 | 
 

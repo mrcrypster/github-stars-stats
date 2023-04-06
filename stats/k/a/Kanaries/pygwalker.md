@@ -1,10 +1,10 @@
 # Kanaries/pygwalker - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 150
+☋ Forks: 151
 
-★ Stars: 4872
+★ Stars: 4889
 
 [Open repository](https://github.com/Kanaries/pygwalker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4889 | 151 | 
 | 2023-04-05 | 4872 | 150 | 
 | 2023-04-03 | 4848 | 149 | 
 | 2023-04-02 | 4833 | 147 | 

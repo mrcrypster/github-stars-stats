@@ -1,6 +1,6 @@
 # koush/scrypted - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1865 | 138 | 
 | 2023-04-04 | 1865 | 138 | 
 | 2023-04-02 | 1860 | 138 | 
 | 2023-03-31 | 1848 | 139 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1789 | 132 | 
 | 2023-03-08 | 1783 | 132 | 
 | 2023-03-07 | 1772 | 132 | 
-| 2023-03-06 | 1768 | 132 | 
 

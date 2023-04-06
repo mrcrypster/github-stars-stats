@@ -1,6 +1,6 @@
 # monero-project/research-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 207 | 69 | 
 | 2023-04-04 | 207 | 69 | 
 | 2023-04-03 | 207 | 69 | 
 | 2023-04-01 | 207 | 69 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 205 | 69 | 
 | 2023-03-09 | 203 | 69 | 
 | 2023-03-07 | 202 | 69 | 
-| 2023-03-06 | 202 | 69 | 
 

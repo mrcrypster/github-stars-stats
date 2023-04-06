@@ -1,6 +1,6 @@
 # arichorn/CercubePlusExtra - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 81 | 18 | 
 | 2023-04-04 | 81 | 18 | 
 | 2023-04-03 | 81 | 18 | 
 | 2023-04-02 | 79 | 18 | 

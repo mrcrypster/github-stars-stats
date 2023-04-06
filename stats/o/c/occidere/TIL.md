@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 1
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/occidere/TIL)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 57 | 1 | 
+| 2023-04-05 | 58 | 1 | 
 | 2023-04-04 | 57 | 1 | 
 | 2023-04-03 | 57 | 1 | 
 | 2023-04-01 | 56 | 1 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-09 | 54 | 1 | 
 | 2023-03-08 | 54 | 1 | 
 | 2023-03-07 | 54 | 1 | 
-| 2023-03-06 | 54 | 1 | 
 

@@ -1,10 +1,10 @@
 # LyLme/lylme_spage - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 42
 
-★ Stars: 188
+★ Stars: 190
 
 [Open repository](https://github.com/LyLme/lylme_spage)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 190 | 42 | 
 | 2023-04-05 | 188 | 42 | 
 | 2023-04-03 | 188 | 41 | 
 | 2023-04-02 | 188 | 41 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-09 | 176 | 37 | 
 | 2023-03-08 | 175 | 37 | 
 | 2023-03-07 | 174 | 37 | 
-| 2023-03-06 | 174 | 37 | 
 

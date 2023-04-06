@@ -1,10 +1,10 @@
 # mirkat1206/2021_Spring_NCTU_ICLAB - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 21
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/mirkat1206/2021_Spring_NCTU_ICLAB)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 77 | 21 | 
 | 2023-04-04 | 76 | 21 | 
 | 2023-04-03 | 76 | 21 | 
 | 2023-03-31 | 72 | 21 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 70 | 19 | 
 | 2023-03-09 | 70 | 19 | 
 | 2023-03-08 | 69 | 19 | 
-| 2023-03-06 | 69 | 19 | 
 

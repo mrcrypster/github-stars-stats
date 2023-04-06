@@ -1,10 +1,10 @@
 # justjavac/openai-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 78
+☋ Forks: 82
 
-★ Stars: 319
+★ Stars: 329
 
 [Open repository](https://github.com/justjavac/openai-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 329 | 82 | 
 | 2023-04-04 | 319 | 78 | 
 | 2023-04-03 | 303 | 74 | 
 | 2023-04-02 | 276 | 52 | 

@@ -1,10 +1,10 @@
 # carbon-app/carbon - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1834
 
-★ Stars: 32118
+★ Stars: 32121
 
 [Open repository](https://github.com/carbon-app/carbon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 32121 | 1834 | 
 | 2023-04-04 | 32118 | 1834 | 
 | 2023-04-03 | 32116 | 1834 | 
 | 2023-04-01 | 32100 | 1832 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 32006 | 1828 | 
 | 2023-03-09 | 32002 | 1826 | 
 | 2023-03-08 | 31995 | 1824 | 
-| 2023-03-06 | 31988 | 1823 | 
 

@@ -1,10 +1,10 @@
 # chadcat5207/nvide - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 133
+★ Stars: 132
 
 [Open repository](https://github.com/chadcat5207/nvide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 132 | 5 | 
 | 2023-04-04 | 133 | 5 | 
 | 2023-04-03 | 133 | 5 | 
 | 2023-03-30 | 133 | 5 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 129 | 5 | 
 | 2023-03-09 | 129 | 5 | 
 | 2023-03-08 | 128 | 5 | 
-| 2023-03-06 | 127 | 5 | 
 

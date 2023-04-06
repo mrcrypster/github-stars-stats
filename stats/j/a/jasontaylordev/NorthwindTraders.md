@@ -1,6 +1,6 @@
 # jasontaylordev/NorthwindTraders - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1582
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4903 | 1582 | 
 | 2023-04-04 | 4903 | 1582 | 
 | 2023-04-03 | 4902 | 1583 | 
 | 2023-04-01 | 4901 | 1583 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4895 | 1580 | 
 | 2023-03-09 | 4895 | 1579 | 
 | 2023-03-08 | 4895 | 1578 | 
-| 2023-03-06 | 4893 | 1577 | 
 

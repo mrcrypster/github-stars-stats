@@ -1,10 +1,10 @@
 # programthink/opensource - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1530
 
-★ Stars: 4503
+★ Stars: 4505
 
 [Open repository](https://github.com/programthink/opensource)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4505 | 1530 | 
 | 2023-04-04 | 4503 | 1530 | 
 | 2023-04-03 | 4500 | 1529 | 
 | 2023-04-02 | 4498 | 1527 | 

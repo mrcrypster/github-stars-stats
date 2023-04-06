@@ -1,10 +1,10 @@
 # mozilla/readability - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 512
 
-★ Stars: 5795
+★ Stars: 5800
 
 [Open repository](https://github.com/mozilla/readability)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 5800 | 512 | 
 | 2023-04-04 | 5795 | 512 | 
 | 2023-04-03 | 5793 | 512 | 
 | 2023-03-31 | 5779 | 512 | 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 812
 
-★ Stars: 609
+★ Stars: 610
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-iam)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 609 | 812 | 
+| 2023-04-05 | 610 | 812 | 
 | 2023-04-04 | 609 | 812 | 
 | 2023-04-03 | 608 | 812 | 
 | 2023-04-02 | 608 | 810 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-09 | 601 | 779 | 
 | 2023-03-08 | 601 | 779 | 
 | 2023-03-07 | 601 | 779 | 
-| 2023-03-06 | 601 | 778 | 
 

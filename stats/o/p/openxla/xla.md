@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 05
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 1205
+★ Stars: 1208
 
 [Open repository](https://github.com/openxla/xla)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 1205 | 94 | 
+| 2023-04-05 | 1208 | 95 | 
 | 2023-04-04 | 1205 | 93 | 
 | 2023-04-02 | 1191 | 89 | 
 | 2023-03-30 | 1182 | 87 | 

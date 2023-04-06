@@ -1,10 +1,10 @@
 # Vectorized/solady - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 1025
+★ Stars: 1027
 
 [Open repository](https://github.com/Vectorized/solady)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1027 | 89 | 
+| 2023-04-05 | 1026 | 88 | 
 | 2023-04-04 | 1025 | 88 | 
 | 2023-04-03 | 1017 | 88 | 
 | 2023-04-01 | 1004 | 86 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 952 | 76 | 
 | 2023-03-08 | 952 | 75 | 
 | 2023-03-07 | 949 | 75 | 
-| 2023-03-06 | 945 | 74 | 
 

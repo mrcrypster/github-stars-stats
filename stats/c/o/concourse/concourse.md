@@ -1,10 +1,10 @@
 # concourse/concourse - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 837
 
-★ Stars: 6821
+★ Stars: 6822
 
 [Open repository](https://github.com/concourse/concourse)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 6822 | 837 | 
 | 2023-04-04 | 6821 | 837 | 
 | 2023-04-03 | 6821 | 837 | 
 | 2023-03-31 | 6812 | 836 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 6787 | 830 | 
 | 2023-03-09 | 6787 | 830 | 
 | 2023-03-07 | 6786 | 831 | 
-| 2023-03-06 | 6784 | 832 | 
 

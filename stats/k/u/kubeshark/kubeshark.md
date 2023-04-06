@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 318
 
-★ Stars: 8755
+★ Stars: 8760
 
 [Open repository](https://github.com/kubeshark/kubeshark)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 8755 | 318 | 
+| 2023-04-05 | 8760 | 318 | 
 | 2023-04-04 | 8746 | 318 | 
 | 2023-04-03 | 8723 | 317 | 
 | 2023-04-01 | 8690 | 317 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 8447 | 306 | 
 | 2023-03-09 | 8443 | 305 | 
 | 2023-03-08 | 8425 | 304 | 
-| 2023-03-06 | 8419 | 303 | 
 

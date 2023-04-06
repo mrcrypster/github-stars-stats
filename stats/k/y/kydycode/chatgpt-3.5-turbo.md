@@ -1,10 +1,10 @@
 # kydycode/chatgpt-3.5-turbo - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/kydycode/chatgpt-3.5-turbo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 136 | 49 | 
 | 2023-04-04 | 135 | 48 | 
 | 2023-04-03 | 132 | 45 | 
 | 2023-04-02 | 130 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 92 | 27 | 
 | 2023-03-09 | 83 | 25 | 
 | 2023-03-08 | 70 | 22 | 
-| 2023-03-06 | 60 | 18 | 
 

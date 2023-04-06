@@ -1,10 +1,10 @@
 # apache/incubator-brpc - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 3658
 
-★ Stars: 14727
+★ Stars: 14733
 
 [Open repository](https://github.com/apache/incubator-brpc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 14733 | 3658 | 
 | 2023-04-04 | 14727 | 3658 | 
 | 2023-04-02 | 14724 | 3656 | 
 | 2023-04-01 | 14722 | 3656 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 14643 | 3630 | 
 | 2023-03-09 | 14637 | 3631 | 
 | 2023-03-07 | 14630 | 3630 | 
-| 2023-03-06 | 14626 | 3627 | 
 

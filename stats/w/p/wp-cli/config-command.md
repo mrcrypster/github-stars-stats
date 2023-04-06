@@ -1,6 +1,6 @@
 # wp-cli/config-command - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 32 | 25 | 
 | 2023-04-04 | 32 | 25 | 
 | 2023-04-03 | 32 | 25 | 
 | 2023-04-02 | 32 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 32 | 25 | 
 | 2023-03-10 | 33 | 25 | 
 | 2023-03-08 | 33 | 25 | 
-| 2023-03-07 | 33 | 25 | 
 

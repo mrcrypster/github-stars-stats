@@ -1,10 +1,10 @@
 # danielgerlag/workflow-core - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1042
+☋ Forks: 1044
 
-★ Stars: 4451
+★ Stars: 4457
 
 [Open repository](https://github.com/danielgerlag/workflow-core)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 4451 | 1042 | 
+| 2023-04-06 | 4457 | 1044 | 
+| 2023-04-05 | 4456 | 1044 | 
 | 2023-04-04 | 4449 | 1042 | 
 | 2023-04-03 | 4437 | 1040 | 
 | 2023-04-01 | 4431 | 1039 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 4394 | 1033 | 
 | 2023-03-09 | 4392 | 1031 | 
 | 2023-03-07 | 4389 | 1031 | 
-| 2023-03-06 | 4386 | 1031 | 
 

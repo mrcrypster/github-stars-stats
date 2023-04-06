@@ -1,10 +1,10 @@
 # NYRI4/Couve - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 55
+★ Stars: 57
 
 [Open repository](https://github.com/NYRI4/Couve)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 57 | 53 | 
 | 2023-04-04 | 55 | 52 | 
 | 2023-04-03 | 55 | 52 | 
 | 2023-03-31 | 54 | 50 | 

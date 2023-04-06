@@ -1,10 +1,10 @@
 # whitfin/cachex - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 86
 
-★ Stars: 1326
+★ Stars: 1327
 
 [Open repository](https://github.com/whitfin/cachex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1327 | 86 | 
 | 2023-04-04 | 1326 | 86 | 
 | 2023-04-03 | 1326 | 86 | 
 | 2023-04-02 | 1325 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1311 | 84 | 
 | 2023-03-09 | 1309 | 84 | 
 | 2023-03-08 | 1308 | 84 | 
-| 2023-03-06 | 1308 | 84 | 
 

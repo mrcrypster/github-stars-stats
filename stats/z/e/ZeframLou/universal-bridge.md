@@ -1,8 +1,8 @@
 # ZeframLou/universal-bridge - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 89 | 6 | 
 | 2023-04-04 | 89 | 5 | 
 | 2023-04-03 | 89 | 5 | 
 | 2023-04-02 | 89 | 5 | 

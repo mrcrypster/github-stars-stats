@@ -1,10 +1,10 @@
 # hkirat/linkedin-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 45
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/hkirat/linkedin-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 51 | 45 | 
 | 2023-04-04 | 50 | 45 | 
 | 2023-04-03 | 49 | 44 | 
 | 2023-03-31 | 48 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 38 | 35 | 
 | 2023-03-08 | 31 | 31 | 
 | 2023-03-07 | 27 | 29 | 
-| 2023-03-06 | 27 | 28 | 
 

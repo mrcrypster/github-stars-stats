@@ -1,6 +1,6 @@
 # rabbibotton/clog - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1178 | 76 | 
 | 2023-04-04 | 1178 | 76 | 
 | 2023-04-03 | 1178 | 76 | 
 | 2023-04-02 | 1177 | 76 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1165 | 76 | 
 | 2023-03-09 | 1165 | 76 | 
 | 2023-03-07 | 1163 | 76 | 
-| 2023-03-06 | 1162 | 76 | 
 

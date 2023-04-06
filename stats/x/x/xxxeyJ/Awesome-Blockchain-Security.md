@@ -1,6 +1,6 @@
 # xxxeyJ/Awesome-Blockchain-Security - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 131 | 22 | 
 | 2023-04-04 | 131 | 22 | 
 | 2023-04-03 | 129 | 22 | 
 | 2023-04-02 | 129 | 22 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 126 | 21 | 
 | 2023-03-10 | 126 | 21 | 
 | 2023-03-08 | 126 | 21 | 
-| 2023-03-07 | 126 | 21 | 
 

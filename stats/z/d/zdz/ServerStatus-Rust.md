@@ -1,8 +1,8 @@
 # zdz/ServerStatus-Rust - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 176
+☋ Forks: 177
 
 ★ Stars: 742
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 742 | 177 | 
 | 2023-04-04 | 742 | 176 | 
 | 2023-04-03 | 741 | 176 | 
 | 2023-04-02 | 739 | 174 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 682 | 163 | 
 | 2023-03-09 | 678 | 159 | 
 | 2023-03-07 | 675 | 159 | 
-| 2023-03-06 | 672 | 158 | 
 

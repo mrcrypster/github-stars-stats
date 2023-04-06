@@ -1,10 +1,10 @@
 # modern-forms/Modern.Forms - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 41
 
-★ Stars: 676
+★ Stars: 677
 
 [Open repository](https://github.com/modern-forms/Modern.Forms)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 677 | 41 | 
 | 2023-04-04 | 676 | 41 | 
 | 2023-04-03 | 674 | 41 | 
 | 2023-04-02 | 673 | 41 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 663 | 39 | 
 | 2023-03-09 | 662 | 39 | 
 | 2023-03-08 | 662 | 39 | 
-| 2023-03-06 | 661 | 39 | 
 

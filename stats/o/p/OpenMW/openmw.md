@@ -1,10 +1,10 @@
 # OpenMW/openmw - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 890
 
-★ Stars: 4607
+★ Stars: 4608
 
 [Open repository](https://github.com/OpenMW/openmw)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4608 | 890 | 
 | 2023-04-04 | 4607 | 890 | 
 | 2023-04-02 | 4607 | 890 | 
 | 2023-03-30 | 4602 | 889 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4575 | 892 | 
 | 2023-03-08 | 4575 | 890 | 
 | 2023-03-07 | 4575 | 890 | 
-| 2023-03-06 | 4573 | 890 | 
 

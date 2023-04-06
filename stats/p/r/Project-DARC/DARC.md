@@ -1,10 +1,10 @@
 # Project-DARC/DARC - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 34
+☋ Forks: 37
 
-★ Stars: 701
+★ Stars: 748
 
 [Open repository](https://github.com/Project-DARC/DARC)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 748 | 37 | 
 | 2023-04-04 | 701 | 34 | 
 | 2023-04-03 | 621 | 33 | 
 | 2023-04-02 | 595 | 31 | 

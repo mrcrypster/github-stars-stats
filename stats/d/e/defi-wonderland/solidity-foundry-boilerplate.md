@@ -1,10 +1,10 @@
 # defi-wonderland/solidity-foundry-boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 8
 
-★ Stars: 107
+★ Stars: 109
 
 [Open repository](https://github.com/defi-wonderland/solidity-foundry-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 109 | 8 | 
 | 2023-04-04 | 107 | 8 | 
 | 2023-04-03 | 107 | 8 | 
 | 2023-04-02 | 107 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 106 | 7 | 
 | 2023-03-08 | 105 | 6 | 
 | 2023-03-07 | 105 | 6 | 
-| 2023-03-06 | 102 | 6 | 
 

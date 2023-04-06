@@ -1,6 +1,6 @@
 # hhvm/fbexpect - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 21 | 9 | 
 | 2023-04-05 | 21 | 9 | 
 | 2023-04-03 | 21 | 9 | 
 | 2023-04-02 | 21 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 21 | 9 | 
 | 2023-03-09 | 21 | 9 | 
 | 2023-03-08 | 21 | 9 | 
-| 2023-03-06 | 21 | 9 | 
 

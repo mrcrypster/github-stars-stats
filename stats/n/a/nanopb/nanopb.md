@@ -1,10 +1,10 @@
 # nanopb/nanopb - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 721
 
-★ Stars: 3432
+★ Stars: 3435
 
 [Open repository](https://github.com/nanopb/nanopb)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 3432 | 721 | 
+| 2023-04-06 | 3435 | 721 | 
+| 2023-04-05 | 3434 | 721 | 
 | 2023-04-04 | 3432 | 721 | 
 | 2023-04-03 | 3426 | 721 | 
 | 2023-04-01 | 3423 | 721 | 

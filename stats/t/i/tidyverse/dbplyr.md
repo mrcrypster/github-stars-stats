@@ -1,6 +1,6 @@
 # tidyverse/dbplyr - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 406 | 151 | 
 | 2023-04-04 | 406 | 151 | 
 | 2023-04-03 | 406 | 151 | 
 | 2023-04-02 | 406 | 151 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 399 | 149 | 
 | 2023-03-09 | 399 | 149 | 
 | 2023-03-07 | 399 | 149 | 
-| 2023-03-06 | 399 | 149 | 
 

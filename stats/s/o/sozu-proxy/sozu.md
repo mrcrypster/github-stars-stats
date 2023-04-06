@@ -1,10 +1,10 @@
 # sozu-proxy/sozu - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 157
 
-★ Stars: 2309
+★ Stars: 2314
 
 [Open repository](https://github.com/sozu-proxy/sozu)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2314 | 157 | 
 | 2023-04-04 | 2309 | 157 | 
 | 2023-04-03 | 2303 | 157 | 
 | 2023-04-01 | 2279 | 157 | 

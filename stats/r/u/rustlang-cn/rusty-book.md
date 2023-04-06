@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 90
 
-★ Stars: 1405
+★ Stars: 1406
 
 [Open repository](https://github.com/rustlang-cn/rusty-book)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 1405 | 90 | 
+| 2023-04-05 | 1406 | 90 | 
 | 2023-04-04 | 1405 | 90 | 
 | 2023-04-03 | 1401 | 89 | 
 | 2023-04-02 | 1394 | 88 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 1331 | 82 | 
 | 2023-03-09 | 1331 | 81 | 
 | 2023-03-08 | 1326 | 81 | 
-| 2023-03-06 | 1317 | 80 | 
 

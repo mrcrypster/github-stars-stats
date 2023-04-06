@@ -1,10 +1,10 @@
 # stakater/Reloader - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 360
 
-★ Stars: 5023
+★ Stars: 5025
 
 [Open repository](https://github.com/stakater/Reloader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5025 | 360 | 
 | 2023-04-05 | 5023 | 360 | 
 | 2023-04-03 | 5018 | 361 | 
 | 2023-04-02 | 5011 | 361 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 4896 | 350 | 
 | 2023-03-09 | 4891 | 348 | 
 | 2023-03-07 | 4885 | 348 | 
-| 2023-03-06 | 4876 | 348 | 
 

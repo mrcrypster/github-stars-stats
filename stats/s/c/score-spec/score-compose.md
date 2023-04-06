@@ -1,8 +1,8 @@
 # score-spec/score-compose - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 469
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 469 | 41 | 
 | 2023-04-04 | 469 | 40 | 
 | 2023-04-03 | 470 | 40 | 
 | 2023-03-31 | 472 | 41 | 

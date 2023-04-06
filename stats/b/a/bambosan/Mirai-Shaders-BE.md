@@ -1,10 +1,10 @@
 # bambosan/Mirai-Shaders-BE - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 58
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/bambosan/Mirai-Shaders-BE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 37 | 58 | 
 | 2023-04-04 | 36 | 58 | 
 | 2023-04-03 | 36 | 58 | 
 | 2023-04-01 | 36 | 58 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 36 | 58 | 
 | 2023-03-08 | 36 | 58 | 
 | 2023-03-07 | 36 | 58 | 
-| 2023-03-06 | 36 | 58 | 
 

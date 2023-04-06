@@ -1,6 +1,6 @@
 # Moham3dRiahi/Th3inspector - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 466
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1556 | 466 | 
 | 2023-04-04 | 1556 | 466 | 
 | 2023-04-03 | 1552 | 465 | 
 | 2023-04-02 | 1549 | 465 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1537 | 462 | 
 | 2023-03-09 | 1537 | 463 | 
 | 2023-03-07 | 1536 | 462 | 
-| 2023-03-06 | 1534 | 462 | 
 

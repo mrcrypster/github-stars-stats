@@ -1,10 +1,10 @@
 # GuyTevet/motion-diffusion-model - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 197
 
-★ Stars: 2003
+★ Stars: 2006
 
 [Open repository](https://github.com/GuyTevet/motion-diffusion-model)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2006 | 197 | 
 | 2023-04-04 | 2003 | 197 | 
 | 2023-04-03 | 2002 | 196 | 
 | 2023-04-02 | 1995 | 196 | 

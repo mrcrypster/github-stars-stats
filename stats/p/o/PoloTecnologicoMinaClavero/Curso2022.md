@@ -1,6 +1,6 @@
 # PoloTecnologicoMinaClavero/Curso2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 79 | 37 | 
 | 2023-04-04 | 79 | 37 | 
 | 2023-04-02 | 79 | 37 | 
 | 2023-03-30 | 79 | 37 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 79 | 37 | 
 | 2023-03-09 | 79 | 37 | 
 | 2023-03-08 | 79 | 37 | 
-| 2023-03-06 | 79 | 37 | 
 

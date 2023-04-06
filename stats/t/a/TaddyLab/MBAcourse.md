@@ -1,8 +1,8 @@
 # TaddyLab/MBAcourse - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 80 | 84 | 
 | 2023-04-04 | 80 | 83 | 
 | 2023-04-03 | 80 | 82 | 
 | 2023-04-02 | 80 | 82 | 

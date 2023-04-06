@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 05
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/x13a/Duress)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 229 | 7 | 
+| 2023-04-05 | 230 | 8 | 
 | 2023-04-04 | 229 | 7 | 
 

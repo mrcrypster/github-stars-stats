@@ -1,8 +1,8 @@
 # ScanNet/ScanNet - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 328
+☋ Forks: 329
 
 ★ Stars: 1364
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1364 | 329 | 
 | 2023-04-04 | 1364 | 328 | 
 | 2023-04-03 | 1365 | 328 | 
 | 2023-03-30 | 1363 | 327 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1343 | 324 | 
 | 2023-03-10 | 1340 | 324 | 
 | 2023-03-08 | 1340 | 324 | 
-| 2023-03-07 | 1338 | 324 | 
 

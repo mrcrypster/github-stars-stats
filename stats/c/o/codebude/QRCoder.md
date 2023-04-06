@@ -1,10 +1,10 @@
 # codebude/QRCoder - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 972
 
-★ Stars: 3665
+★ Stars: 3666
 
 [Open repository](https://github.com/codebude/QRCoder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3666 | 972 | 
 | 2023-04-04 | 3665 | 972 | 
 | 2023-04-03 | 3663 | 972 | 
 | 2023-04-02 | 3659 | 972 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 3619 | 961 | 
 | 2023-03-09 | 3617 | 961 | 
 | 2023-03-08 | 3615 | 959 | 
-| 2023-03-06 | 3610 | 959 | 
 

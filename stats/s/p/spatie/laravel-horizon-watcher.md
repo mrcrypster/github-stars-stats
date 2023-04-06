@@ -1,10 +1,10 @@
 # spatie/laravel-horizon-watcher - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/spatie/laravel-horizon-watcher)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 128 | 5 | 
 | 2023-04-04 | 127 | 5 | 
 | 2023-04-02 | 127 | 5 | 
 | 2023-04-01 | 127 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 125 | 4 | 
 | 2023-03-09 | 125 | 4 | 
 | 2023-03-07 | 125 | 4 | 
-| 2023-03-06 | 125 | 4 | 
 

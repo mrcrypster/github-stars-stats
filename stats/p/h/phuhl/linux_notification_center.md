@@ -1,6 +1,6 @@
 # phuhl/linux_notification_center - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 852 | 35 | 
 | 2023-04-04 | 852 | 35 | 
 | 2023-04-03 | 852 | 35 | 
 | 2023-04-01 | 851 | 35 | 

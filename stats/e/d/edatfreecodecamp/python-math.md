@@ -1,6 +1,6 @@
 # edatfreecodecamp/python-math - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 156 | 79 | 
 | 2023-04-04 | 156 | 79 | 
 | 2023-04-03 | 155 | 79 | 
 | 2023-04-02 | 154 | 79 | 

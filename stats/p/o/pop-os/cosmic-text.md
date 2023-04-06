@@ -1,10 +1,10 @@
 # pop-os/cosmic-text - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 32
 
-★ Stars: 978
+★ Stars: 982
 
 [Open repository](https://github.com/pop-os/cosmic-text)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 982 | 32 | 
 | 2023-04-04 | 978 | 32 | 
 | 2023-04-02 | 974 | 32 | 
 | 2023-03-30 | 971 | 30 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 937 | 25 | 
 | 2023-03-09 | 930 | 25 | 
 | 2023-03-07 | 922 | 25 | 
-| 2023-03-06 | 915 | 25 | 
 

@@ -1,10 +1,10 @@
 # kitar/laravel-dynamodb - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 19
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/kitar/laravel-dynamodb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 152 | 19 | 
 | 2023-04-05 | 151 | 19 | 
 | 2023-04-03 | 151 | 19 | 
 | 2023-04-02 | 151 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 150 | 17 | 
 | 2023-03-09 | 150 | 17 | 
 | 2023-03-08 | 150 | 17 | 
-| 2023-03-06 | 150 | 17 | 
 

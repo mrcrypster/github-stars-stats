@@ -1,10 +1,10 @@
 # gaoxiang12/slam_in_autonomous_driving - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 73
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/gaoxiang12/slam_in_autonomous_driving)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 522 | 73 | 
 | 2023-04-04 | 521 | 73 | 
 | 2023-04-03 | 519 | 73 | 
 | 2023-03-31 | 511 | 73 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 472 | 61 | 
 | 2023-03-09 | 463 | 55 | 
 | 2023-03-07 | 458 | 55 | 
-| 2023-03-06 | 454 | 54 | 
 

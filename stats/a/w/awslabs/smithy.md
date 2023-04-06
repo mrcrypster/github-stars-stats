@@ -1,10 +1,10 @@
 # awslabs/smithy - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 150
+☋ Forks: 151
 
-★ Stars: 1284
+★ Stars: 1289
 
 [Open repository](https://github.com/awslabs/smithy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1289 | 151 | 
 | 2023-04-04 | 1284 | 150 | 
 | 2023-04-03 | 1284 | 150 | 
 | 2023-04-01 | 1283 | 150 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1263 | 150 | 
 | 2023-03-09 | 1261 | 150 | 
 | 2023-03-08 | 1259 | 150 | 
-| 2023-03-07 | 1257 | 148 | 
 

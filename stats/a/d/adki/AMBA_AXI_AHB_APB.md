@@ -1,10 +1,10 @@
 # adki/AMBA_AXI_AHB_APB - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 99
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/adki/AMBA_AXI_AHB_APB)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 201 | 99 | 
 | 2023-04-04 | 200 | 99 | 
 | 2023-04-03 | 200 | 99 | 
 | 2023-03-31 | 200 | 98 | 

@@ -1,10 +1,10 @@
 # vbondarevsky/Connector - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 166
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/vbondarevsky/Connector)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 434 | 166 | 
 | 2023-04-04 | 433 | 166 | 
 | 2023-04-03 | 431 | 166 | 
 | 2023-04-01 | 431 | 166 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 424 | 163 | 
 | 2023-03-09 | 422 | 163 | 
 | 2023-03-08 | 422 | 163 | 
-| 2023-03-06 | 422 | 163 | 
 

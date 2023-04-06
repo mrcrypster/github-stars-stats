@@ -1,8 +1,8 @@
 # kunchalavikram1427/jenkins-end-to-end-pipeline - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 10 | 63 | 
 | 2023-04-04 | 10 | 62 | 
 | 2023-04-03 | 10 | 62 | 
 | 2023-04-01 | 10 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 10 | 60 | 
 | 2023-03-08 | 10 | 58 | 
 | 2023-03-07 | 10 | 57 | 
-| 2023-03-06 | 10 | 57 | 
 

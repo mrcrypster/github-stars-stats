@@ -1,8 +1,8 @@
 # uo-ec607/lectures - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 506
+☋ Forks: 507
 
 ★ Stars: 1176
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1176 | 507 | 
 | 2023-04-04 | 1176 | 506 | 
 | 2023-04-03 | 1176 | 506 | 
 | 2023-04-02 | 1176 | 506 | 

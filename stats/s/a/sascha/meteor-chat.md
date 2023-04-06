@@ -1,6 +1,6 @@
 # sascha/meteor-chat - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6 | - | 
 | 2023-04-04 | 6 | - | 
 | 2023-04-03 | 6 | - | 
 | 2023-04-02 | 6 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 6 | - | 
 | 2023-03-09 | 6 | - | 
 | 2023-03-07 | 6 | - | 
-| 2023-03-06 | 6 | - | 
 

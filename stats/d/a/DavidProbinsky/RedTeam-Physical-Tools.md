@@ -1,10 +1,10 @@
 # DavidProbinsky/RedTeam-Physical-Tools - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 39
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/DavidProbinsky/RedTeam-Physical-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 287 | 39 | 
 | 2023-04-04 | 286 | 39 | 
 | 2023-04-03 | 284 | 39 | 
 | 2023-03-31 | 284 | 38 | 

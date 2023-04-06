@@ -1,10 +1,10 @@
 # valhalla/valhalla - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 505
+☋ Forks: 506
 
-★ Stars: 2442
+★ Stars: 2443
 
 [Open repository](https://github.com/valhalla/valhalla)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2443 | 506 | 
 | 2023-04-04 | 2442 | 505 | 
 | 2023-04-03 | 2442 | 505 | 
 | 2023-04-01 | 2441 | 505 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 2404 | 500 | 
 | 2023-03-10 | 2401 | 500 | 
 | 2023-03-08 | 2398 | 498 | 
-| 2023-03-07 | 2395 | 498 | 
 

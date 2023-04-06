@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 2878
 
-★ Stars: 9917
+★ Stars: 9920
 
 [Open repository](https://github.com/openlayers/openlayers)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 9917 | 2878 | 
+| 2023-04-05 | 9920 | 2878 | 
 | 2023-04-04 | 9917 | 2878 | 
 | 2023-04-02 | 9907 | 2876 | 
 | 2023-03-29 | 9900 | 2873 | 

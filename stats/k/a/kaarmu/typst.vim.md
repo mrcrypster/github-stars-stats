@@ -1,10 +1,10 @@
 # kaarmu/typst.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 7
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/kaarmu/typst.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 25 | 7 | 
 | 2023-04-04 | 23 | 7 | 
 | 2023-04-03 | 23 | 7 | 
 | 2023-03-31 | 18 | 6 | 

@@ -1,10 +1,10 @@
 # nsbno/terraform-digitalekanaler-modules - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/nsbno/terraform-digitalekanaler-modules)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2 | - | 
 | 2023-04-03 | 1 | - | 
 | 2023-04-02 | 1 | - | 
 | 2023-04-01 | 1 | - | 

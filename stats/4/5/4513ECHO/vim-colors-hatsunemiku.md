@@ -1,6 +1,6 @@
 # 4513ECHO/vim-colors-hatsunemiku - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 101 | 4 | 
 | 2023-04-04 | 101 | 4 | 
 | 2023-04-03 | 101 | 4 | 
 | 2023-04-02 | 101 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 99 | 4 | 
 | 2023-03-09 | 99 | 4 | 
 | 2023-03-08 | 99 | 4 | 
-| 2023-03-06 | 99 | 4 | 
 

@@ -1,8 +1,8 @@
 # WillKoehrsen/Data-Analysis - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 3554
+☋ Forks: 3553
 
 ★ Stars: 4678
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4678 | 3553 | 
 | 2023-04-04 | 4678 | 3554 | 
 | 2023-04-03 | 4678 | 3552 | 
 | 2023-03-30 | 4674 | 3550 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4651 | 3539 | 
 | 2023-03-09 | 4646 | 3540 | 
 | 2023-03-08 | 4644 | 3539 | 
-| 2023-03-06 | 4644 | 3539 | 
 

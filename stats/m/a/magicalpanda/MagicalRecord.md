@@ -1,10 +1,10 @@
 # magicalpanda/MagicalRecord - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1823
 
-★ Stars: 10842
+★ Stars: 10843
 
 [Open repository](https://github.com/magicalpanda/MagicalRecord)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 10843 | 1823 | 
 | 2023-04-04 | 10842 | 1823 | 
 | 2023-04-03 | 10842 | 1823 | 
 | 2023-03-31 | 10842 | 1823 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 10845 | 1824 | 
 | 2023-03-09 | 10845 | 1824 | 
 | 2023-03-07 | 10846 | 1824 | 
-| 2023-03-06 | 10846 | 1824 | 
 

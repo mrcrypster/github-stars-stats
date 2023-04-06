@@ -1,6 +1,6 @@
 # RWTH-EBC/AixLib - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 144 | 75 | 
 | 2023-04-04 | 144 | 75 | 
 | 2023-04-03 | 144 | 75 | 
 | 2023-03-31 | 144 | 75 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 142 | 74 | 
 | 2023-03-09 | 142 | 74 | 
 | 2023-03-07 | 144 | 74 | 
-| 2023-03-06 | 144 | 74 | 
 

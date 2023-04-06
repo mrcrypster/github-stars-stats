@@ -1,10 +1,10 @@
 # docker-library/ghost - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 318
 
-★ Stars: 596
+★ Stars: 597
 
 [Open repository](https://github.com/docker-library/ghost)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 597 | 318 | 
 | 2023-04-04 | 596 | 318 | 
 | 2023-04-03 | 596 | 317 | 
 | 2023-03-31 | 595 | 316 | 

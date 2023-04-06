@@ -1,10 +1,10 @@
 # rhysd/vim.wasm - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 136
 
-★ Stars: 5268
+★ Stars: 5269
 
 [Open repository](https://github.com/rhysd/vim.wasm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 5269 | 136 | 
 | 2023-04-04 | 5268 | 136 | 
 | 2023-04-03 | 5268 | 135 | 
 | 2023-04-02 | 5267 | 135 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 5259 | 134 | 
 | 2023-03-09 | 5258 | 134 | 
 | 2023-03-07 | 5258 | 134 | 
-| 2023-03-06 | 5258 | 134 | 
 

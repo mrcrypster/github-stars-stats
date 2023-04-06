@@ -1,10 +1,10 @@
 # cn-terraform/terraform-aws-ecs-fargate-task-definition - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 31
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/cn-terraform/terraform-aws-ecs-fargate-task-definition)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 35 | 31 | 
 | 2023-04-04 | 34 | 31 | 
 | 2023-04-03 | 34 | 31 | 
 | 2023-03-31 | 34 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 30 | 31 | 
 | 2023-03-09 | 30 | 31 | 
 | 2023-03-07 | 30 | 31 | 
-| 2023-03-06 | 30 | 31 | 
 

@@ -1,10 +1,10 @@
 # ZrrSkywalker/LLaMA-Adapter - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 111
+☋ Forks: 116
 
-★ Stars: 1793
+★ Stars: 1877
 
 [Open repository](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1877 | 116 | 
 | 2023-04-04 | 1793 | 111 | 
 | 2023-04-03 | 1665 | 106 | 
 | 2023-04-02 | 1599 | 102 | 

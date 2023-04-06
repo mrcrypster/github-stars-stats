@@ -1,10 +1,10 @@
 # skyzh/typst-cv-template - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 8
 
-★ Stars: 200
+★ Stars: 203
 
 [Open repository](https://github.com/skyzh/typst-cv-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 203 | 8 | 
 | 2023-04-04 | 200 | 8 | 
 | 2023-04-03 | 195 | 7 | 
 | 2023-04-02 | 192 | 7 | 

@@ -1,6 +1,6 @@
 # AlanTur1ng/Free-VPN-for-Coursera - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 835
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2709 | 835 | 
 | 2023-04-04 | 2709 | 835 | 
 | 2023-04-02 | 2707 | 834 | 
 | 2023-03-30 | 2702 | 835 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 2690 | 832 | 
 | 2023-03-10 | 2686 | 831 | 
 | 2023-03-08 | 2683 | 831 | 
-| 2023-03-07 | 2681 | 831 | 
 

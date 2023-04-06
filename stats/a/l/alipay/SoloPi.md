@@ -1,10 +1,10 @@
 # alipay/SoloPi - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1047
 
-★ Stars: 5152
+★ Stars: 5153
 
 [Open repository](https://github.com/alipay/SoloPi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 5153 | 1047 | 
 | 2023-04-04 | 5152 | 1047 | 
 | 2023-04-03 | 5152 | 1046 | 
 | 2023-03-31 | 5151 | 1045 | 

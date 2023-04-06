@@ -1,10 +1,10 @@
 # samiullahsaleem/cyberblock - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 184
 
-★ Stars: 33
+★ Stars: 31
 
 [Open repository](https://github.com/samiullahsaleem/cyberblock)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 31 | 184 | 
 | 2023-04-04 | 33 | 184 | 
 | 2023-04-03 | 33 | 184 | 
 | 2023-03-31 | 33 | 183 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 34 | 185 | 
 | 2023-03-08 | 34 | 185 | 
 | 2023-03-07 | 34 | 185 | 
-| 2023-03-06 | 34 | 185 | 
 

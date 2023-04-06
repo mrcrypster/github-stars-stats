@@ -1,10 +1,10 @@
 # Psychedelic/cap-motoko-library - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/Psychedelic/cap-motoko-library)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 11 | 4 | 
 | 2023-04-04 | 10 | 3 | 
 | 2023-04-03 | 10 | 3 | 
 | 2023-03-31 | 10 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 10 | 3 | 
 | 2023-03-09 | 10 | 3 | 
 | 2023-03-08 | 10 | 3 | 
-| 2023-03-06 | 10 | 3 | 
 

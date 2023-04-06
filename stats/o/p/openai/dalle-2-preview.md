@@ -1,6 +1,6 @@
 # openai/dalle-2-preview - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1041 | 114 | 
 | 2023-04-04 | 1041 | 114 | 
 | 2023-04-03 | 1040 | 113 | 
 | 2023-03-31 | 1041 | 112 | 

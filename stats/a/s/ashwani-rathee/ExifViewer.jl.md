@@ -1,6 +1,6 @@
 # ashwani-rathee/ExifViewer.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 23 | - | 
 | 2023-04-04 | 23 | - | 
 | 2023-04-03 | 23 | - | 
 | 2023-03-31 | 23 | - | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 23 | - | 
 | 2023-03-09 | 23 | - | 
 | 2023-03-08 | 23 | - | 
-| 2023-03-06 | 23 | - | 
 

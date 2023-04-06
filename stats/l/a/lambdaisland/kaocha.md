@@ -1,10 +1,10 @@
 # lambdaisland/kaocha - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 81
 
-★ Stars: 723
+★ Stars: 724
 
 [Open repository](https://github.com/lambdaisland/kaocha)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 724 | 81 | 
 | 2023-04-04 | 723 | 81 | 
 | 2023-04-03 | 723 | 81 | 
 | 2023-03-31 | 723 | 81 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 720 | 80 | 
 | 2023-03-10 | 719 | 80 | 
 | 2023-03-08 | 719 | 80 | 
-| 2023-03-06 | 717 | 80 | 
 

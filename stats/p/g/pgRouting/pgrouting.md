@@ -1,6 +1,6 @@
 # pgRouting/pgrouting - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1004 | 365 | 
 | 2023-04-04 | 1004 | 365 | 
 | 2023-04-03 | 1004 | 365 | 
 | 2023-03-31 | 1005 | 365 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1000 | 365 | 
 | 2023-03-10 | 991 | 365 | 
 | 2023-03-08 | 991 | 365 | 
-| 2023-03-07 | 990 | 365 | 
 

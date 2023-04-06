@@ -1,10 +1,10 @@
 # pytorch/botorch - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 312
 
-★ Stars: 2574
+★ Stars: 2576
 
 [Open repository](https://github.com/pytorch/botorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2576 | 312 | 
 | 2023-04-04 | 2574 | 312 | 
 | 2023-04-02 | 2573 | 311 | 
 | 2023-03-30 | 2572 | 311 | 

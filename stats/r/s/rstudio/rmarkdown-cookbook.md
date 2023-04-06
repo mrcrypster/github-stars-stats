@@ -1,6 +1,6 @@
 # rstudio/rmarkdown-cookbook - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 515 | 197 | 
 | 2023-04-04 | 515 | 197 | 
 | 2023-04-03 | 515 | 197 | 
 | 2023-04-01 | 515 | 196 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 512 | 197 | 
 | 2023-03-10 | 511 | 196 | 
 | 2023-03-08 | 511 | 196 | 
-| 2023-03-07 | 511 | 195 | 
 

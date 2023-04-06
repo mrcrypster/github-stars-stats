@@ -1,6 +1,6 @@
 # TTK4145/Project-resources - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 6 | 30 | 
 | 2023-04-04 | 6 | 30 | 
 | 2023-04-02 | 6 | 30 | 
 | 2023-03-31 | 6 | 30 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 6 | 27 | 
 | 2023-03-09 | 6 | 27 | 
 | 2023-03-08 | 6 | 27 | 
-| 2023-03-06 | 6 | 27 | 
 

@@ -1,10 +1,10 @@
 # mrabit/aliyundriveDailyCheck - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 116
 
-★ Stars: 730
+★ Stars: 735
 
 [Open repository](https://github.com/mrabit/aliyundriveDailyCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 735 | 116 | 
 | 2023-04-04 | 730 | 116 | 
 | 2023-04-03 | 727 | 116 | 
 | 2023-04-02 | 694 | 112 | 

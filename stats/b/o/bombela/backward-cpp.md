@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 410
 
-★ Stars: 3015
+★ Stars: 3017
 
 [Open repository](https://github.com/bombela/backward-cpp)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 3015 | 410 | 
+| 2023-04-05 | 3017 | 410 | 
 | 2023-04-04 | 3014 | 410 | 
 | 2023-04-03 | 3004 | 410 | 
 | 2023-04-02 | 2977 | 408 | 

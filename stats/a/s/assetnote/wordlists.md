@@ -1,10 +1,10 @@
 # assetnote/wordlists - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 95
 
-★ Stars: 842
+★ Stars: 843
 
 [Open repository](https://github.com/assetnote/wordlists)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 843 | 95 | 
 | 2023-04-04 | 842 | 95 | 
 | 2023-04-02 | 839 | 94 | 
 | 2023-03-31 | 838 | 94 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 828 | 93 | 
 | 2023-03-09 | 828 | 93 | 
 | 2023-03-08 | 827 | 93 | 
-| 2023-03-06 | 825 | 93 | 
 

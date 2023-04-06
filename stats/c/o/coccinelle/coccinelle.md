@@ -1,6 +1,6 @@
 # coccinelle/coccinelle - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 541 | 94 | 
 | 2023-04-03 | 541 | 94 | 
 | 2023-04-02 | 541 | 94 | 
 | 2023-03-30 | 541 | 94 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 534 | 94 | 
 | 2023-03-09 | 534 | 94 | 
 | 2023-03-07 | 534 | 94 | 
-| 2023-03-06 | 534 | 94 | 
 

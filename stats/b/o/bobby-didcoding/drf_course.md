@@ -1,10 +1,10 @@
 # bobby-didcoding/drf_course - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/bobby-didcoding/drf_course)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 112 | 86 | 
 | 2023-04-04 | 111 | 85 | 
 | 2023-04-03 | 111 | 85 | 
 | 2023-04-02 | 110 | 82 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 100 | 66 | 
 | 2023-03-09 | 100 | 64 | 
 | 2023-03-08 | 100 | 63 | 
-| 2023-03-06 | 100 | 63 | 
 

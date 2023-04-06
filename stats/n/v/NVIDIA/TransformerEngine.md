@@ -1,10 +1,10 @@
 # NVIDIA/TransformerEngine - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 58
 
-★ Stars: 467
+★ Stars: 470
 
 [Open repository](https://github.com/NVIDIA/TransformerEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 470 | 58 | 
 | 2023-04-04 | 467 | 58 | 
 | 2023-04-03 | 466 | 58 | 
 | 2023-04-01 | 461 | 58 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 410 | 46 | 
 | 2023-03-09 | 409 | 46 | 
 | 2023-03-08 | 405 | 46 | 
-| 2023-03-07 | 402 | 45 | 
 

@@ -1,10 +1,10 @@
 # tighten/duster - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 9
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/tighten/duster)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 276 | 9 | 
 | 2023-04-04 | 275 | 9 | 
 | 2023-04-03 | 275 | 9 | 
 | 2023-04-02 | 274 | 9 | 

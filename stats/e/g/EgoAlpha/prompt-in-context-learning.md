@@ -1,10 +1,10 @@
 # EgoAlpha/prompt-in-context-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 11
 
-★ Stars: 193
+★ Stars: 211
 
 [Open repository](https://github.com/EgoAlpha/prompt-in-context-learning)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 211 | 11 | 
+| 2023-04-05 | 207 | 11 | 
 | 2023-04-04 | 193 | 11 | 
 | 2023-04-03 | 157 | 10 | 
 | 2023-04-01 | 154 | 9 | 

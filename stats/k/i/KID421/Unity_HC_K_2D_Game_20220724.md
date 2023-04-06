@@ -1,6 +1,6 @@
 # KID421/Unity_HC_K_2D_Game_20220724 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | - | 5 | 
 | 2023-04-04 | - | 5 | 
 | 2023-04-03 | - | 5 | 
 | 2023-03-31 | - | 5 | 

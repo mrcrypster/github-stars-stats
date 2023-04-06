@@ -1,6 +1,6 @@
 # sparkfun/L6470-AutoDriver - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 27 | 27 | 
 | 2023-04-04 | 27 | 27 | 
 | 2023-04-02 | 27 | 27 | 
 | 2023-03-30 | 27 | 27 | 

@@ -1,10 +1,10 @@
 # nextcloud/android - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1531
+☋ Forks: 1532
 
-★ Stars: 3342
+★ Stars: 3345
 
 [Open repository](https://github.com/nextcloud/android)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3345 | 1532 | 
 | 2023-04-04 | 3342 | 1531 | 
 | 2023-04-03 | 3342 | 1530 | 
 | 2023-04-02 | 3342 | 1530 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 3308 | 1521 | 
 | 2023-03-08 | 3307 | 1520 | 
 | 2023-03-07 | 3304 | 1520 | 
-| 2023-03-06 | 3304 | 1520 | 
 

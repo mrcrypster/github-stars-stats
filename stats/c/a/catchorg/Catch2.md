@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 05
 
-☋ Forks: 2822
+☋ Forks: 2824
 
-★ Stars: 16434
+★ Stars: 16436
 
 [Open repository](https://github.com/catchorg/Catch2)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 16434 | 2822 | 
+| 2023-04-05 | 16436 | 2824 | 
 | 2023-04-04 | 16434 | 2822 | 
 | 2023-04-03 | 16428 | 2820 | 
 | 2023-03-31 | 16421 | 2822 | 

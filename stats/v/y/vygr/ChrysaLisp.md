@@ -1,10 +1,10 @@
 # vygr/ChrysaLisp - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 92
+☋ Forks: 91
 
-★ Stars: 1456
+★ Stars: 1457
 
 [Open repository](https://github.com/vygr/ChrysaLisp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1457 | 91 | 
 | 2023-04-04 | 1456 | 92 | 
 | 2023-04-03 | 1456 | 92 | 
 | 2023-04-02 | 1456 | 92 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1446 | 90 | 
 | 2023-03-08 | 1445 | 90 | 
 | 2023-03-07 | 1446 | 90 | 
-| 2023-03-06 | 1446 | 90 | 
 

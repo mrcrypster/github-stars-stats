@@ -1,10 +1,10 @@
 # namazso/OpenHashTab - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 91
 
-★ Stars: 1908
+★ Stars: 1910
 
 [Open repository](https://github.com/namazso/OpenHashTab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1910 | 91 | 
 | 2023-04-04 | 1908 | 91 | 
 | 2023-04-03 | 1907 | 91 | 
 | 2023-04-02 | 1906 | 91 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1856 | 89 | 
 | 2023-03-09 | 1854 | 89 | 
 | 2023-03-07 | 1851 | 89 | 
-| 2023-03-06 | 1843 | 89 | 
 

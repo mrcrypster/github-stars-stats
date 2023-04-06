@@ -1,10 +1,10 @@
 # phil-opp/blog_os - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 882
+☋ Forks: 881
 
-★ Stars: 11839
+★ Stars: 11842
 
 [Open repository](https://github.com/phil-opp/blog_os)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 11842 | 881 | 
 | 2023-04-04 | 11839 | 882 | 
 | 2023-04-03 | 11832 | 882 | 
 | 2023-03-31 | 11808 | 882 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 11711 | 879 | 
 | 2023-03-09 | 11705 | 879 | 
 | 2023-03-08 | 11697 | 877 | 
-| 2023-03-06 | 11695 | 877 | 
 

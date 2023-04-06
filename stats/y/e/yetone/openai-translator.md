@@ -1,10 +1,10 @@
 # yetone/openai-translator - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 890
+☋ Forks: 899
 
-★ Stars: 13625
+★ Stars: 13708
 
 [Open repository](https://github.com/yetone/openai-translator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 13708 | 899 | 
 | 2023-04-04 | 13625 | 890 | 
 | 2023-04-03 | 13465 | 872 | 
 | 2023-03-31 | 13045 | 830 | 

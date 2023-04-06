@@ -1,10 +1,10 @@
 # chiphuyen/ml-interviews-book - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 421
 
-★ Stars: 2604
+★ Stars: 2605
 
 [Open repository](https://github.com/chiphuyen/ml-interviews-book)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2605 | 421 | 
 | 2023-04-04 | 2604 | 421 | 
 | 2023-04-03 | 2604 | 421 | 
 | 2023-04-02 | 2604 | 421 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 2576 | 414 | 
 | 2023-03-09 | 2576 | 413 | 
 | 2023-03-07 | 2574 | 413 | 
-| 2023-03-06 | 2573 | 413 | 
 

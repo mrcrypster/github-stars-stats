@@ -1,10 +1,10 @@
 # sickcodes/Docker-OSX - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1449
+☋ Forks: 1450
 
-★ Stars: 29615
+★ Stars: 29630
 
 [Open repository](https://github.com/sickcodes/Docker-OSX)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 29630 | 1450 | 
 | 2023-04-05 | 29615 | 1449 | 
 | 2023-04-03 | 29599 | 1450 | 
 | 2023-04-02 | 29585 | 1450 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 29275 | 1438 | 
 | 2023-03-09 | 29257 | 1435 | 
 | 2023-03-07 | 29247 | 1435 | 
-| 2023-03-06 | 29225 | 1434 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 05
 
-☋ Forks: 47
+☋ Forks: 53
 
-★ Stars: 404
+★ Stars: 449
 
 [Open repository](https://github.com/bigintpro/csdn_downloader)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 404 | 47 | 
+| 2023-04-05 | 449 | 53 | 
 | 2023-04-04 | 402 | 47 | 
 | 2023-04-03 | 302 | 26 | 
 

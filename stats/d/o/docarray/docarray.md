@@ -1,8 +1,8 @@
 # docarray/docarray - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 165
+☋ Forks: 166
 
 ★ Stars: 1980
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1980 | 166 | 
 | 2023-04-04 | 1980 | 165 | 
 | 2023-04-03 | 1974 | 164 | 
 | 2023-03-31 | 1960 | 163 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1853 | 151 | 
 | 2023-03-09 | 1848 | 149 | 
 | 2023-03-08 | 1829 | 147 | 
-| 2023-03-06 | 1824 | 147 | 
 

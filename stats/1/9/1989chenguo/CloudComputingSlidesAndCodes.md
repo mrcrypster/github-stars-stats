@@ -1,6 +1,6 @@
 # 1989chenguo/CloudComputingSlidesAndCodes - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 11 | 28 | 
 | 2023-04-04 | 11 | 28 | 
 | 2023-04-03 | 11 | 27 | 
 | 2023-04-02 | 11 | 27 | 

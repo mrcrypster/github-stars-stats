@@ -1,10 +1,10 @@
 # cfortuner/promptable - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 1621
+★ Stars: 1633
 
 [Open repository](https://github.com/cfortuner/promptable)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1633 | 92 | 
 | 2023-04-04 | 1621 | 91 | 
 | 2023-04-02 | 1613 | 90 | 
 | 2023-03-30 | 1598 | 88 | 

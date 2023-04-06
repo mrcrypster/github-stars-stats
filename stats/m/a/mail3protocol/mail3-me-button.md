@@ -1,6 +1,6 @@
 # mail3protocol/mail3-me-button - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 132 | 24 | 
 | 2023-04-04 | 132 | 24 | 
 | 2023-04-03 | 132 | 24 | 
 | 2023-03-31 | 132 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 131 | 24 | 
 | 2023-03-09 | 131 | 24 | 
 | 2023-03-07 | 131 | 24 | 
-| 2023-03-06 | 131 | 24 | 
 

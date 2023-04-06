@@ -1,10 +1,10 @@
 # davidayalas/current-time - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/davidayalas/current-time)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 11 | 5 | 
 | 2023-04-04 | 12 | 5 | 
 | 2023-04-03 | 12 | 5 | 
 | 2023-04-01 | 12 | 5 | 

@@ -1,10 +1,10 @@
 # Maoni0/mem-doc - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 136
 
-★ Stars: 1620
+★ Stars: 1621
 
 [Open repository](https://github.com/Maoni0/mem-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1621 | 136 | 
 | 2023-04-04 | 1620 | 136 | 
 | 2023-04-03 | 1619 | 136 | 
 | 2023-04-02 | 1608 | 134 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1592 | 132 | 
 | 2023-03-09 | 1590 | 132 | 
 | 2023-03-08 | 1589 | 132 | 
-| 2023-03-06 | 1588 | 132 | 
 

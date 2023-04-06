@@ -1,6 +1,6 @@
 # GaudiLabs/OpenLaserScanningMicroscope - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 260 | 32 | 
 | 2023-04-04 | 260 | 32 | 
 | 2023-04-03 | 260 | 32 | 
 | 2023-03-31 | 260 | 32 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 260 | 32 | 
 | 2023-03-10 | 260 | 32 | 
 | 2023-03-08 | 260 | 32 | 
-| 2023-03-07 | 260 | 32 | 
 

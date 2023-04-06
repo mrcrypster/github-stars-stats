@@ -1,10 +1,10 @@
 # dpgaspar/Flask-AppBuilder - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1257
 
-★ Stars: 4113
+★ Stars: 4112
 
 [Open repository](https://github.com/dpgaspar/Flask-AppBuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4112 | 1257 | 
 | 2023-04-04 | 4113 | 1257 | 
 | 2023-04-03 | 4113 | 1257 | 
 | 2023-04-02 | 4113 | 1257 | 

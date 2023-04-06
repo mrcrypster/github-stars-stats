@@ -1,10 +1,10 @@
 # 7eu7d7/APT-stable-diffusion-auto-prompt - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 51
 
-★ Stars: 768
+★ Stars: 769
 
 [Open repository](https://github.com/7eu7d7/APT-stable-diffusion-auto-prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 769 | 51 | 
 | 2023-04-04 | 768 | 51 | 
 | 2023-04-03 | 767 | 51 | 
 | 2023-03-31 | 767 | 51 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 753 | 49 | 
 | 2023-03-09 | 753 | 49 | 
 | 2023-03-08 | 752 | 49 | 
-| 2023-03-06 | 751 | 49 | 
 

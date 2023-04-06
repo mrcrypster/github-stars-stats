@@ -1,10 +1,10 @@
 # n0kovo/n0kovo_subdomains - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 21
+☋ Forks: 23
 
-★ Stars: 205
+★ Stars: 211
 
 [Open repository](https://github.com/n0kovo/n0kovo_subdomains)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 211 | 23 | 
 | 2023-04-04 | 205 | 21 | 
 

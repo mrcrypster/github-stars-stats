@@ -1,10 +1,10 @@
 # CyberAgentGameEntertainment/UnityPerformanceTuningBible - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 1091
+★ Stars: 1094
 
 [Open repository](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1094 | 38 | 
 | 2023-04-04 | 1091 | 37 | 
 | 2023-04-03 | 1085 | 37 | 
 | 2023-03-31 | 1049 | 38 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1026 | 35 | 
 | 2023-03-09 | 1026 | 35 | 
 | 2023-03-08 | 1027 | 35 | 
-| 2023-03-06 | 1025 | 35 | 
 

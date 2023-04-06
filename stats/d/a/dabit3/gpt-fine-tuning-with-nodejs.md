@@ -1,10 +1,10 @@
 # dabit3/gpt-fine-tuning-with-nodejs - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 128
+★ Stars: 130
 
 [Open repository](https://github.com/dabit3/gpt-fine-tuning-with-nodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 130 | 30 | 
 | 2023-04-04 | 128 | 28 | 
 | 2023-04-03 | 128 | 28 | 
 | 2023-04-01 | 124 | 25 | 

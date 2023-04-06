@@ -1,10 +1,10 @@
 # apache/shiro - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 2284
 
-★ Stars: 4075
+★ Stars: 4076
 
 [Open repository](https://github.com/apache/shiro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4076 | 2284 | 
 | 2023-04-04 | 4075 | 2284 | 
 | 2023-04-03 | 4075 | 2284 | 
 | 2023-03-31 | 4074 | 2284 | 

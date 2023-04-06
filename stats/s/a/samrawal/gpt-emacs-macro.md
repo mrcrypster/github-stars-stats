@@ -1,6 +1,6 @@
 # samrawal/gpt-emacs-macro - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 37 | 2 | 
 | 2023-04-05 | 37 | 2 | 
 | 2023-04-03 | 37 | 2 | 
 | 2023-04-02 | 37 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 34 | 2 | 
 | 2023-03-09 | 33 | 2 | 
 | 2023-03-07 | 33 | 2 | 
-| 2023-03-06 | 31 | 2 | 
 

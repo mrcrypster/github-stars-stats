@@ -1,10 +1,10 @@
 # hyperium/tonic - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 746
+☋ Forks: 747
 
-★ Stars: 7063
+★ Stars: 7085
 
 [Open repository](https://github.com/hyperium/tonic)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 7085 | 747 | 
+| 2023-04-05 | 7080 | 747 | 
 | 2023-04-04 | 7063 | 746 | 
 | 2023-04-03 | 7052 | 743 | 
 | 2023-04-02 | 7045 | 743 | 

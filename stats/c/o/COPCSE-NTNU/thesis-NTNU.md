@@ -1,10 +1,10 @@
 # COPCSE-NTNU/thesis-NTNU - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 295
+☋ Forks: 296
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/COPCSE-NTNU/thesis-NTNU)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 78 | 296 | 
 | 2023-04-04 | 77 | 295 | 
 | 2023-04-03 | 77 | 295 | 
 | 2023-03-31 | 77 | 294 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 77 | 289 | 
 | 2023-03-09 | 77 | 290 | 
 | 2023-03-07 | 77 | 290 | 
-| 2023-03-06 | 77 | 289 | 
 

@@ -1,10 +1,10 @@
 # chengchingwen/Transformers.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 55
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/chengchingwen/Transformers.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 404 | 55 | 
 | 2023-04-04 | 403 | 55 | 
 | 2023-04-03 | 402 | 55 | 
 | 2023-04-02 | 402 | 55 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 393 | 53 | 
 | 2023-03-09 | 391 | 53 | 
 | 2023-03-08 | 391 | 53 | 
-| 2023-03-06 | 391 | 53 | 
 

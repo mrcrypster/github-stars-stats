@@ -1,6 +1,6 @@
 # TylerPottsDev/yt-js-task-list-2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 58 | 106 | 
 | 2023-04-04 | 58 | 106 | 
 | 2023-04-03 | 58 | 106 | 
 | 2023-03-31 | 58 | 105 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 54 | 99 | 
 | 2023-03-09 | 54 | 98 | 
 | 2023-03-07 | 54 | 99 | 
-| 2023-03-06 | 54 | 99 | 
 

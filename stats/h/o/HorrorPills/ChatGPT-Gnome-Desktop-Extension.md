@@ -1,10 +1,10 @@
 # HorrorPills/ChatGPT-Gnome-Desktop-Extension - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 36
 
-★ Stars: 423
+★ Stars: 424
 
 [Open repository](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 424 | 36 | 
 | 2023-04-04 | 423 | 36 | 
 | 2023-04-02 | 424 | 36 | 
 | 2023-03-30 | 422 | 37 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 410 | 36 | 
 | 2023-03-08 | 410 | 36 | 
 | 2023-03-07 | 408 | 36 | 
-| 2023-03-06 | 407 | 37 | 
 

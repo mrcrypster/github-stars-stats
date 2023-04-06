@@ -1,6 +1,6 @@
 # microsoft/TemplateStudio - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 442
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2415 | 442 | 
+| 2023-04-05 | 2415 | 442 | 
 | 2023-04-04 | 2415 | 442 | 
 | 2023-04-03 | 2414 | 441 | 
 | 2023-04-02 | 2414 | 441 | 
@@ -39,5 +41,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 2401 | 440 | 
 | 2023-03-09 | 2403 | 440 | 
 | 2023-03-08 | 2401 | 439 | 
-| 2023-03-06 | 2401 | 439 | 
 

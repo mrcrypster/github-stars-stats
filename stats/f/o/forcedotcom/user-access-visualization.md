@@ -1,10 +1,10 @@
 # forcedotcom/user-access-visualization - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 33
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/forcedotcom/user-access-visualization)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 47 | 33 | 
 | 2023-04-04 | 46 | 33 | 
 | 2023-04-02 | 46 | 33 | 
 | 2023-03-30 | 46 | 33 | 

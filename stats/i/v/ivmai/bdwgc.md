@@ -1,10 +1,10 @@
 # ivmai/bdwgc - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 349
 
-★ Stars: 2398
+★ Stars: 2399
 
 [Open repository](https://github.com/ivmai/bdwgc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2399 | 349 | 
 | 2023-04-04 | 2398 | 349 | 
 | 2023-04-03 | 2398 | 349 | 
 | 2023-04-02 | 2398 | 349 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 2361 | 347 | 
 | 2023-03-08 | 2357 | 347 | 
 | 2023-03-07 | 2354 | 348 | 
-| 2023-03-06 | 2352 | 348 | 
 

@@ -1,10 +1,10 @@
 # slippersheepig/chatgpt-web - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 68
 
-★ Stars: 325
+★ Stars: 327
 
 [Open repository](https://github.com/slippersheepig/chatgpt-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 327 | 68 | 
 | 2023-04-04 | 325 | 68 | 
 | 2023-04-02 | 323 | 68 | 
 | 2023-03-29 | 314 | 68 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 241 | 55 | 
 | 2023-03-08 | 237 | 55 | 
 | 2023-03-07 | 232 | 55 | 
-| 2023-03-06 | 224 | 55 | 
 

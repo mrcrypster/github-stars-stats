@@ -1,8 +1,8 @@
 # dotnet/dotnet-api-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1398
+☋ Forks: 1399
 
 ★ Stars: 529
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 529 | 1399 | 
 | 2023-04-04 | 529 | 1398 | 
 | 2023-04-03 | 529 | 1398 | 
 | 2023-03-31 | 527 | 1400 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 520 | 1376 | 
 | 2023-03-09 | 519 | 1375 | 
 | 2023-03-08 | 517 | 1373 | 
-| 2023-03-06 | 516 | 1371 | 
 

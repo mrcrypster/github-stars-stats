@@ -1,10 +1,10 @@
 # SlimeNull/OpenGptChat - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 9
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/SlimeNull/OpenGptChat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 52 | 9 | 
 | 2023-04-04 | 51 | 9 | 
 | 2023-04-03 | 50 | 9 | 
 | 2023-04-01 | 46 | 8 | 

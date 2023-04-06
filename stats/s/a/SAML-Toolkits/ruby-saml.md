@@ -1,6 +1,6 @@
 # SAML-Toolkits/ruby-saml - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 558
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 839 | 558 | 
 | 2023-04-04 | 839 | 558 | 
 | 2023-04-03 | 839 | 558 | 
 | 2023-04-02 | 839 | 558 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 838 | 558 | 
 | 2023-03-09 | 837 | 558 | 
 | 2023-03-08 | 837 | 558 | 
-| 2023-03-06 | 837 | 557 | 
 

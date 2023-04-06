@@ -1,10 +1,10 @@
 # sashabaranov/go-openai - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 449
+☋ Forks: 454
 
-★ Stars: 3580
+★ Stars: 3654
 
 [Open repository](https://github.com/sashabaranov/go-openai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3654 | 454 | 
 | 2023-04-04 | 3580 | 449 | 
 | 2023-04-03 | 3524 | 441 | 
 | 2023-04-02 | 3470 | 432 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 1575 | 212 | 
 | 2023-03-08 | 1507 | 203 | 
 | 2023-03-07 | 1469 | 198 | 
-| 2023-03-06 | 1385 | 189 | 
 

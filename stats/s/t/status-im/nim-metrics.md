@@ -1,6 +1,6 @@
 # status-im/nim-metrics - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 35 | 4 | 
 | 2023-04-04 | 35 | 4 | 
 | 2023-04-03 | 35 | 4 | 
 | 2023-03-31 | 35 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 35 | 4 | 
 | 2023-03-09 | 35 | 4 | 
 | 2023-03-07 | 35 | 4 | 
-| 2023-03-06 | 35 | 4 | 
 

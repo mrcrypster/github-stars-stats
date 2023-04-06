@@ -1,10 +1,10 @@
 # FairwindsOps/charts - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 121
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/FairwindsOps/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 109 | 121 | 
 | 2023-04-04 | 108 | 121 | 
 | 2023-04-02 | 108 | 120 | 
 | 2023-04-01 | 108 | 120 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 103 | 116 | 
 | 2023-03-08 | 104 | 116 | 
 | 2023-03-07 | 104 | 116 | 
-| 2023-03-06 | 104 | 116 | 
 

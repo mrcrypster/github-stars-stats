@@ -1,6 +1,6 @@
 # genabdulrehman/credit-card-animation - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 70 | 31 | 
 | 2023-04-04 | 70 | 31 | 
 | 2023-04-02 | 70 | 31 | 
 | 2023-03-30 | 70 | 31 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 68 | 31 | 
 | 2023-03-09 | 68 | 31 | 
 | 2023-03-07 | 68 | 31 | 
-| 2023-03-06 | 67 | 31 | 
 

@@ -1,10 +1,10 @@
 # Finalboss77/Best-foss-apps-for-privacy-security- - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 3
 
-★ Stars: 153
+★ Stars: 152
 
 [Open repository](https://github.com/Finalboss77/Best-foss-apps-for-privacy-security-)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 152 | 3 | 
 | 2023-04-04 | 153 | 3 | 
 | 2023-04-03 | 153 | 3 | 
 | 2023-04-02 | 152 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 148 | 3 | 
 | 2023-03-09 | 148 | 3 | 
 | 2023-03-08 | 148 | 3 | 
-| 2023-03-06 | 147 | 3 | 
 

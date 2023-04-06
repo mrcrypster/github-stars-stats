@@ -1,10 +1,10 @@
 # Azure-Terraform/terraform-azurerm-virtual-network - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 27
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/Azure-Terraform/terraform-azurerm-virtual-network)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 30 | 27 | 
 | 2023-04-04 | 29 | 27 | 
 | 2023-04-03 | 29 | 27 | 
 | 2023-03-31 | 29 | 27 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 29 | 27 | 
 | 2023-03-09 | 29 | 27 | 
 | 2023-03-08 | 29 | 27 | 
-| 2023-03-06 | 29 | 27 | 
 

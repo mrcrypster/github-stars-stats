@@ -1,10 +1,10 @@
 # dhasterok/global_tectonics - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 15
 
-★ Stars: 79
+★ Stars: 81
 
 [Open repository](https://github.com/dhasterok/global_tectonics)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 81 | 15 | 
 | 2023-04-04 | 79 | 15 | 
 | 2023-04-03 | 79 | 15 | 
 | 2023-04-02 | 78 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 77 | 14 | 
 | 2023-03-09 | 77 | 14 | 
 | 2023-03-08 | 77 | 14 | 
-| 2023-03-06 | 77 | 14 | 
 

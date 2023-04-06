@@ -1,10 +1,10 @@
 # vercel/pkg - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 976
 
-★ Stars: 23048
+★ Stars: 23054
 
 [Open repository](https://github.com/vercel/pkg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 23054 | 976 | 
 | 2023-04-04 | 23048 | 976 | 
 | 2023-04-03 | 23042 | 977 | 
 | 2023-03-31 | 23031 | 977 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 22925 | 972 | 
 | 2023-03-09 | 22916 | 972 | 
 | 2023-03-08 | 22907 | 972 | 
-| 2023-03-06 | 22886 | 969 | 
 

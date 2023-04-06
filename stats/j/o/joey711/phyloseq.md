@@ -1,10 +1,10 @@
 # joey711/phyloseq - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 180
 
-★ Stars: 491
+★ Stars: 492
 
 [Open repository](https://github.com/joey711/phyloseq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 492 | 180 | 
 | 2023-04-04 | 491 | 180 | 
 | 2023-04-03 | 490 | 180 | 
 | 2023-04-02 | 490 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 485 | 177 | 
 | 2023-03-08 | 485 | 177 | 
 | 2023-03-07 | 484 | 177 | 
-| 2023-03-06 | 483 | 176 | 
 

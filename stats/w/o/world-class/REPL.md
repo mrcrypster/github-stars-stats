@@ -1,10 +1,10 @@
 # world-class/REPL - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 186
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/world-class/REPL)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 666 | 186 | 
 | 2023-04-04 | 665 | 186 | 
 | 2023-04-03 | 665 | 186 | 
 | 2023-04-02 | 661 | 186 | 

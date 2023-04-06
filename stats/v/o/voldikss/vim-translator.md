@@ -1,6 +1,6 @@
 # voldikss/vim-translator - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 424 | 47 | 
 | 2023-04-04 | 424 | 47 | 
 | 2023-04-03 | 425 | 47 | 
 | 2023-03-31 | 423 | 47 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 418 | 45 | 
 | 2023-03-09 | 418 | 45 | 
 | 2023-03-07 | 418 | 45 | 
-| 2023-03-06 | 418 | 44 | 
 

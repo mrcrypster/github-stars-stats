@@ -1,10 +1,10 @@
 # mark-when/markwhen - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 98
 
-★ Stars: 2453
+★ Stars: 2455
 
 [Open repository](https://github.com/mark-when/markwhen)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2455 | 98 | 
 | 2023-04-04 | 2453 | 98 | 
 | 2023-04-03 | 2453 | 98 | 
 | 2023-04-02 | 2427 | 98 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 2279 | 93 | 
 | 2023-03-08 | 2279 | 92 | 
 | 2023-03-07 | 2277 | 92 | 
-| 2023-03-06 | 2276 | 92 | 
 

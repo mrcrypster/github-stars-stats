@@ -1,6 +1,6 @@
 # Haskell-Things/ImplicitCAD - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1207 | 139 | 
 | 2023-04-04 | 1207 | 139 | 
 | 2023-04-03 | 1208 | 139 | 
 | 2023-04-01 | 1208 | 139 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1201 | 139 | 
 | 2023-03-08 | 1202 | 139 | 
 | 2023-03-07 | 1202 | 139 | 
-| 2023-03-06 | 1201 | 139 | 
 

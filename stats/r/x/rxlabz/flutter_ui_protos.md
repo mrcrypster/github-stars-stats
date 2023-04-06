@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 3
 
-★ Stars: 65
+★ Stars: 69
 
 [Open repository](https://github.com/rxlabz/flutter_ui_protos)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 65 | 3 | 
+| 2023-04-05 | 69 | 3 | 
 | 2023-04-04 | 65 | 3 | 
 

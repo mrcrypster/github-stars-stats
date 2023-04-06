@@ -1,8 +1,8 @@
 # phillipai/100-days-of-code-python - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 141
+☋ Forks: 142
 
 ★ Stars: 244
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 244 | 142 | 
 | 2023-04-04 | 244 | 141 | 
 | 2023-04-03 | 240 | 140 | 
 | 2023-03-31 | 239 | 140 | 

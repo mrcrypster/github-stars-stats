@@ -1,10 +1,10 @@
 # cvpaperchallenge/Ascender - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 15
 
-★ Stars: 250
+★ Stars: 252
 
 [Open repository](https://github.com/cvpaperchallenge/Ascender)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 252 | 15 | 
 | 2023-04-04 | 250 | 15 | 
 | 2023-04-03 | 249 | 15 | 
 | 2023-04-02 | 249 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 228 | 13 | 
 | 2023-03-09 | 227 | 13 | 
 | 2023-03-08 | 206 | 12 | 
-| 2023-03-07 | 150 | 11 | 
 

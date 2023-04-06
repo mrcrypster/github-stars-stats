@@ -1,8 +1,8 @@
 # AustinCodingAcademy/311_wk4_day1_crud - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 196
+☋ Forks: 197
 
 ★ Stars: 1
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1 | 197 | 
+| 2023-04-05 | 1 | 196 | 
 | 2023-04-04 | 1 | 196 | 
 | 2023-04-03 | 1 | 191 | 
 | 2023-03-31 | 1 | 191 | 
@@ -33,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1 | 188 | 
 | 2023-03-09 | 1 | 187 | 
 | 2023-03-08 | 1 | 187 | 
-| 2023-03-06 | 1 | 187 | 
 

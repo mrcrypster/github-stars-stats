@@ -1,6 +1,6 @@
 # graphql-dotnet/graphql-dotnet - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 888
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 5485 | 888 | 
 | 2023-04-04 | 5485 | 888 | 
 | 2023-04-03 | 5484 | 887 | 
 | 2023-04-01 | 5482 | 888 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 5471 | 888 | 
 | 2023-03-09 | 5470 | 888 | 
 | 2023-03-08 | 5467 | 888 | 
-| 2023-03-07 | 5465 | 888 | 
 

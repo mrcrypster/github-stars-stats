@@ -1,10 +1,10 @@
 # ErickWendel/semana-javascript-expert07 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 574
+☋ Forks: 573
 
-★ Stars: 2418
+★ Stars: 2419
 
 [Open repository](https://github.com/ErickWendel/semana-javascript-expert07)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2419 | 573 | 
 | 2023-04-04 | 2418 | 574 | 
 | 2023-04-03 | 2418 | 575 | 
 | 2023-04-02 | 2419 | 575 | 

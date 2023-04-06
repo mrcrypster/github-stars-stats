@@ -1,10 +1,10 @@
 # apache/maven - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 2446
+☋ Forks: 2448
 
-★ Stars: 3559
+★ Stars: 3562
 
 [Open repository](https://github.com/apache/maven)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3562 | 2448 | 
 | 2023-04-04 | 3559 | 2446 | 
 | 2023-04-03 | 3556 | 2444 | 
 | 2023-04-02 | 3552 | 2441 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 3522 | 2424 | 
 | 2023-03-09 | 3521 | 2422 | 
 | 2023-03-08 | 3519 | 2422 | 
-| 2023-03-06 | 3517 | 2420 | 
 

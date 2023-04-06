@@ -1,10 +1,10 @@
 # lynnandtonic/airport-codes - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 193
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/lynnandtonic/airport-codes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 273 | 193 | 
 | 2023-04-04 | 272 | 193 | 
 | 2023-04-02 | 272 | 193 | 
 | 2023-03-30 | 272 | 193 | 

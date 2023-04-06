@@ -1,10 +1,10 @@
 # aitimate/local-uniswap-v2 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 16
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/aitimate/local-uniswap-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 31 | 16 | 
 | 2023-04-04 | 29 | 16 | 
 | 2023-04-03 | 29 | 16 | 
 | 2023-04-01 | 29 | 15 | 

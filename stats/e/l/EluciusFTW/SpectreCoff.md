@@ -1,6 +1,6 @@
 # EluciusFTW/SpectreCoff - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 46 | 1 | 
 | 2023-04-04 | 46 | 1 | 
 | 2023-04-03 | 46 | 1 | 
 | 2023-04-02 | 46 | 1 | 

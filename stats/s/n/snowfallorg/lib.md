@@ -1,6 +1,6 @@
 # snowfallorg/lib - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 65 | - | 
 | 2023-04-04 | 65 | - | 
 | 2023-04-03 | 65 | - | 
 | 2023-03-31 | 63 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 50 | - | 
 | 2023-03-08 | 50 | - | 
 | 2023-03-07 | 48 | - | 
-| 2023-03-06 | 47 | - | 
 

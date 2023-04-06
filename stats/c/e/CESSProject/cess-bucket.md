@@ -1,10 +1,10 @@
 # CESSProject/cess-bucket - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 19
 
-★ Stars: 61
+★ Stars: 60
 
 [Open repository](https://github.com/CESSProject/cess-bucket)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 60 | 19 | 
 | 2023-04-04 | 61 | 19 | 
 | 2023-04-02 | 61 | 19 | 
 | 2023-03-30 | 61 | 19 | 

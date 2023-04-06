@@ -1,10 +1,10 @@
 # grbl/grbl - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 2917
+☋ Forks: 2918
 
-★ Stars: 4961
+★ Stars: 4964
 
 [Open repository](https://github.com/grbl/grbl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4964 | 2918 | 
 | 2023-04-04 | 4961 | 2917 | 
 | 2023-04-03 | 4961 | 2917 | 
 | 2023-04-02 | 4960 | 2917 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4928 | 2903 | 
 | 2023-03-09 | 4928 | 2902 | 
 | 2023-03-08 | 4928 | 2903 | 
-| 2023-03-06 | 4925 | 2902 | 
 

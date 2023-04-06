@@ -1,10 +1,10 @@
 # purescm/purescm - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 0
 
-★ Stars: 35
+★ Stars: 39
 
 [Open repository](https://github.com/purescm/purescm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 39 | - | 
 | 2023-04-04 | 35 | - | 
 | 2023-04-03 | 35 | - | 
 | 2023-04-01 | 34 | - | 

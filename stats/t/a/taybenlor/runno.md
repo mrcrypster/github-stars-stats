@@ -1,6 +1,6 @@
 # taybenlor/runno - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 359 | 12 | 
 | 2023-04-04 | 359 | 12 | 
 | 2023-04-03 | 358 | 12 | 
 | 2023-03-31 | 357 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 356 | 12 | 
 | 2023-03-09 | 356 | 12 | 
 | 2023-03-08 | 356 | 12 | 
-| 2023-03-06 | 355 | 12 | 
 

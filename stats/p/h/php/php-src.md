@@ -1,10 +1,10 @@
 # php/php-src - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 7509
+☋ Forks: 7510
 
-★ Stars: 35242
+★ Stars: 35250
 
 [Open repository](https://github.com/php/php-src)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 35250 | 7510 | 
+| 2023-04-05 | 35249 | 7509 | 
 | 2023-04-04 | 35242 | 7509 | 
 | 2023-04-03 | 35233 | 7505 | 
 | 2023-04-02 | 35231 | 7505 | 
@@ -35,5 +37,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 35124 | 7478 | 
 | 2023-03-09 | 35118 | 7472 | 
 | 2023-03-08 | 35115 | 7473 | 
-| 2023-03-06 | 35094 | 7473 | 
 

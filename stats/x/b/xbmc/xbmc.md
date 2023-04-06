@@ -1,10 +1,10 @@
 # xbmc/xbmc - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 6123
 
-★ Stars: 15575
+★ Stars: 15581
 
 [Open repository](https://github.com/xbmc/xbmc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 15581 | 6123 | 
 | 2023-04-03 | 15575 | 6123 | 
 | 2023-04-02 | 15570 | 6119 | 
 | 2023-03-30 | 15556 | 6118 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-10 | 15458 | 6107 | 
 | 2023-03-09 | 15449 | 6108 | 
 | 2023-03-07 | 15442 | 6106 | 
-| 2023-03-06 | 15438 | 6104 | 
 

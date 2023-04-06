@@ -1,10 +1,10 @@
 # pal1000/Realtek-UAD-generic - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 41
 
-★ Stars: 806
+★ Stars: 808
 
 [Open repository](https://github.com/pal1000/Realtek-UAD-generic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 808 | 41 | 
 | 2023-04-04 | 806 | 41 | 
 | 2023-04-03 | 805 | 41 | 
 | 2023-03-31 | 802 | 41 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 787 | 41 | 
 | 2023-03-09 | 786 | 41 | 
 | 2023-03-07 | 784 | 41 | 
-| 2023-03-06 | 783 | 41 | 
 

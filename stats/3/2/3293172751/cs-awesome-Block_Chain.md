@@ -1,6 +1,6 @@
 # 3293172751/cs-awesome-Block_Chain - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 722 | 92 | 
 | 2023-04-04 | 722 | 92 | 
 | 2023-04-03 | 720 | 92 | 
 | 2023-04-01 | 718 | 92 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 688 | 92 | 
 | 2023-03-09 | 688 | 92 | 
 | 2023-03-07 | 684 | 92 | 
-| 2023-03-06 | 682 | 92 | 
 

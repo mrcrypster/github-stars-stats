@@ -1,10 +1,10 @@
 # seaweedfs/seaweedfs - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1945
 
-★ Stars: 17003
+★ Stars: 17015
 
 [Open repository](https://github.com/seaweedfs/seaweedfs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 17015 | 1945 | 
 | 2023-04-04 | 17003 | 1945 | 
 | 2023-04-03 | 16986 | 1944 | 
 | 2023-03-31 | 16937 | 1943 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 16788 | 1936 | 
 | 2023-03-09 | 16773 | 1935 | 
 | 2023-03-08 | 16754 | 1934 | 
-| 2023-03-07 | 16738 | 1932 | 
 

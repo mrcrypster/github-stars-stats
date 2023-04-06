@@ -1,10 +1,10 @@
 # runtimeverification/wasm-semantics - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 16
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/runtimeverification/wasm-semantics)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 70 | 16 | 
 | 2023-04-04 | 69 | 16 | 
 | 2023-04-03 | 69 | 16 | 
 | 2023-03-31 | 68 | 15 | 

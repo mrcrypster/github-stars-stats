@@ -1,6 +1,6 @@
 # crystal-lang/crystal-sqlite3 - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 122 | 25 | 
 | 2023-04-04 | 122 | 25 | 
 | 2023-04-03 | 122 | 25 | 
 | 2023-04-02 | 121 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 121 | 25 | 
 | 2023-03-09 | 121 | 25 | 
 | 2023-03-08 | 121 | 25 | 
-| 2023-03-07 | 121 | 25 | 
 

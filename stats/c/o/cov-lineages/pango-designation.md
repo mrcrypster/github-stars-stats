@@ -1,10 +1,10 @@
 # cov-lineages/pango-designation - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 78
 
-★ Stars: 985
+★ Stars: 986
 
 [Open repository](https://github.com/cov-lineages/pango-designation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 986 | 78 | 
 | 2023-04-04 | 985 | 78 | 
 | 2023-04-03 | 984 | 78 | 
 | 2023-04-02 | 981 | 78 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 970 | 75 | 
 | 2023-03-09 | 970 | 75 | 
 | 2023-03-07 | 970 | 74 | 
-| 2023-03-06 | 970 | 73 | 
 

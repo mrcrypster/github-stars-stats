@@ -1,10 +1,10 @@
 # huggingface/diffusion-models-class - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 192
 
-★ Stars: 2077
+★ Stars: 2078
 
 [Open repository](https://github.com/huggingface/diffusion-models-class)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2078 | 192 | 
 | 2023-04-04 | 2077 | 192 | 
 | 2023-04-03 | 2075 | 191 | 
 | 2023-04-02 | 2069 | 189 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 1959 | 176 | 
 | 2023-03-09 | 1954 | 174 | 
 | 2023-03-08 | 1950 | 175 | 
-| 2023-03-06 | 1942 | 175 | 
 

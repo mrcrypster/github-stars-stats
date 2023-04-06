@@ -1,10 +1,10 @@
 # xicilion/gptproxy - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 216
+★ Stars: 224
 
 [Open repository](https://github.com/xicilion/gptproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 224 | 22 | 
 | 2023-04-04 | 216 | 20 | 
 | 2023-04-03 | 205 | 18 | 
 | 2023-04-02 | 167 | 16 | 

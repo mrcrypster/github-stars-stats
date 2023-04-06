@@ -1,10 +1,10 @@
 # dotnet/command-line-api - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 349
 
-★ Stars: 3031
+★ Stars: 3032
 
 [Open repository](https://github.com/dotnet/command-line-api)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3032 | 349 | 
 | 2023-04-04 | 3031 | 349 | 
 | 2023-04-02 | 3031 | 349 | 
 | 2023-03-30 | 3029 | 348 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 3015 | 350 | 
 | 2023-03-09 | 3015 | 350 | 
 | 2023-03-08 | 3014 | 350 | 
-| 2023-03-06 | 3011 | 350 | 
 

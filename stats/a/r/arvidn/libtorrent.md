@@ -1,10 +1,10 @@
 # arvidn/libtorrent - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 923
 
-★ Stars: 4447
+★ Stars: 4450
 
 [Open repository](https://github.com/arvidn/libtorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 4450 | 923 | 
 | 2023-04-04 | 4447 | 923 | 
 | 2023-04-03 | 4442 | 921 | 
 | 2023-03-31 | 4438 | 920 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 4415 | 920 | 
 | 2023-03-09 | 4414 | 921 | 
 | 2023-03-07 | 4410 | 921 | 
-| 2023-03-06 | 4410 | 921 | 
 

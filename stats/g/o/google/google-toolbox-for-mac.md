@@ -1,6 +1,6 @@
 # google/google-toolbox-for-mac - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1083 | 264 | 
 | 2023-04-04 | 1083 | 264 | 
 | 2023-04-02 | 1083 | 264 | 
 | 2023-03-31 | 1084 | 264 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 1076 | 264 | 
 | 2023-03-10 | 1075 | 264 | 
 | 2023-03-08 | 1075 | 265 | 
-| 2023-03-07 | 1073 | 265 | 
 

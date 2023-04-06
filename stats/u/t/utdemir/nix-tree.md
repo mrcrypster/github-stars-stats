@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 05
 
 ☋ Forks: 7
 
-★ Stars: 345
+★ Stars: 347
 
 [Open repository](https://github.com/utdemir/nix-tree)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 345 | 7 | 
+| 2023-04-05 | 347 | 7 | 
 | 2023-04-04 | 345 | 7 | 
 | 2023-04-02 | 341 | 7 | 
 | 2023-03-30 | 333 | 7 | 

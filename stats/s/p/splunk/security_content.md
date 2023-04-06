@@ -1,10 +1,10 @@
 # splunk/security_content - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 254
 
-★ Stars: 819
+★ Stars: 821
 
 [Open repository](https://github.com/splunk/security_content)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 821 | 254 | 
 | 2023-04-04 | 819 | 254 | 
 | 2023-04-03 | 820 | 254 | 
 | 2023-03-31 | 820 | 254 | 

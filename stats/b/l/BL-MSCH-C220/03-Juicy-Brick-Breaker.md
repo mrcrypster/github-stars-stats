@@ -1,6 +1,6 @@
 # BL-MSCH-C220/03-Juicy-Brick-Breaker - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | - | 33 | 
 | 2023-04-04 | - | 33 | 
 | 2023-04-02 | - | 33 | 
 | 2023-04-01 | - | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | - | 31 | 
 | 2023-03-09 | - | 30 | 
 | 2023-03-07 | - | 30 | 
-| 2023-03-06 | - | 30 | 
 

@@ -1,10 +1,10 @@
 # emalderson/ThePhish - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 133
+☋ Forks: 134
 
-★ Stars: 740
+★ Stars: 741
 
 [Open repository](https://github.com/emalderson/ThePhish)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 741 | 134 | 
 | 2023-04-04 | 740 | 133 | 
 | 2023-04-03 | 739 | 133 | 
 | 2023-03-31 | 735 | 133 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 727 | 130 | 
 | 2023-03-09 | 727 | 130 | 
 | 2023-03-08 | 727 | 130 | 
-| 2023-03-06 | 727 | 130 | 
 

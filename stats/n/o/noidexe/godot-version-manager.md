@@ -1,6 +1,6 @@
 # noidexe/godot-version-manager - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 89 | 8 | 
 | 2023-04-04 | 89 | 8 | 
 | 2023-04-03 | 88 | 8 | 
 | 2023-04-01 | 86 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 80 | 8 | 
 | 2023-03-08 | 80 | 8 | 
 | 2023-03-07 | 80 | 8 | 
-| 2023-03-06 | 81 | 8 | 
 

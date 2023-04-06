@@ -1,10 +1,10 @@
 # dirk1983/chatgpt-wechat-personal - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 12
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/dirk1983/chatgpt-wechat-personal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 37 | 12 | 
 | 2023-04-04 | 36 | 12 | 
 | 2023-04-03 | 35 | 12 | 
 | 2023-04-02 | 34 | 12 | 

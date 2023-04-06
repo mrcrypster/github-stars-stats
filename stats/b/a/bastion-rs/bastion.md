@@ -1,10 +1,10 @@
 # bastion-rs/bastion - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 95
 
-★ Stars: 2615
+★ Stars: 2616
 
 [Open repository](https://github.com/bastion-rs/bastion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 2616 | 95 | 
 | 2023-04-04 | 2615 | 95 | 
 | 2023-04-03 | 2614 | 95 | 
 | 2023-03-31 | 2612 | 95 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 2609 | 95 | 
 | 2023-03-09 | 2608 | 95 | 
 | 2023-03-08 | 2607 | 95 | 
-| 2023-03-06 | 2607 | 95 | 
 

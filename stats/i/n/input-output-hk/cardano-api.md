@@ -1,0 +1,17 @@
+# input-output-hk/cardano-api - stars & forks statistics
+
+Stats updated on Apr 2023, 05
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/input-output-hk/cardano-api)
+
+[Open detailed stats for input-output-hk/cardano-api](https://reviewgithub.com/rep/input-output-hk/cardano-api)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-05 | 1 | - | 
+

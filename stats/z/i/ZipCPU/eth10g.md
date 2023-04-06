@@ -1,10 +1,10 @@
 # ZipCPU/eth10g - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/ZipCPU/eth10g)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 26 | 2 | 
 | 2023-04-04 | 25 | 2 | 
 | 2023-04-03 | 24 | 2 | 
 | 2023-03-31 | 24 | 2 | 

@@ -1,10 +1,10 @@
 # mckaywrigley/chatbot-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1566
+☋ Forks: 1663
 
-★ Stars: 8013
+★ Stars: 8297
 
 [Open repository](https://github.com/mckaywrigley/chatbot-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 8297 | 1663 | 
 | 2023-04-04 | 8013 | 1566 | 
 | 2023-04-03 | 7810 | 1520 | 
 | 2023-04-02 | 7478 | 1421 | 

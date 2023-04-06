@@ -1,10 +1,10 @@
 # just-the-docs/just-the-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 3369
+☋ Forks: 3368
 
-★ Stars: 5751
+★ Stars: 5759
 
 [Open repository](https://github.com/just-the-docs/just-the-docs)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5759 | 3368 | 
+| 2023-04-05 | 5758 | 3368 | 
 | 2023-04-04 | 5751 | 3369 | 
 | 2023-04-03 | 5746 | 3366 | 
 | 2023-04-02 | 5738 | 3364 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-09 | 5609 | 3328 | 
 | 2023-03-08 | 5608 | 3328 | 
 | 2023-03-07 | 5604 | 3330 | 
-| 2023-03-06 | 5593 | 3324 | 
 

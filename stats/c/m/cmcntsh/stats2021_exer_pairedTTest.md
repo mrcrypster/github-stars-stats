@@ -1,8 +1,8 @@
 # cmcntsh/stats2021_exer_pairedTTest - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 30
+☋ Forks: 35
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | - | 35 | 
+| 2023-04-05 | - | 35 | 
 | 2023-04-04 | - | 30 | 
 | 2023-04-03 | - | 30 | 
 | 2023-04-02 | - | 29 | 

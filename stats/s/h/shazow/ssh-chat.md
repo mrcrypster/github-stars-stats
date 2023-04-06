@@ -1,6 +1,6 @@
 # shazow/ssh-chat - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 411
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5086 | 411 | 
 | 2023-04-04 | 5086 | 411 | 
 | 2023-04-03 | 5085 | 411 | 
 | 2023-04-02 | 5084 | 411 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-11 | 5076 | 410 | 
 | 2023-03-09 | 5077 | 410 | 
 | 2023-03-08 | 5075 | 410 | 
-| 2023-03-07 | 5075 | 410 | 
 

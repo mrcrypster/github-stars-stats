@@ -1,10 +1,10 @@
 # jesseduffield/lazydocker - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 946
+☋ Forks: 944
 
-★ Stars: 26025
+★ Stars: 26031
 
 [Open repository](https://github.com/jesseduffield/lazydocker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 26031 | 944 | 
 | 2023-04-04 | 26025 | 946 | 
 | 2023-04-02 | 26015 | 946 | 
 | 2023-03-31 | 25991 | 945 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 25842 | 941 | 
 | 2023-03-09 | 25834 | 941 | 
 | 2023-03-08 | 25820 | 942 | 
-| 2023-03-06 | 25812 | 941 | 
 

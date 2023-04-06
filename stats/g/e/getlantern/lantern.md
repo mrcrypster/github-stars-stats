@@ -1,10 +1,10 @@
 # getlantern/lantern - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 11553
+☋ Forks: 11556
 
-★ Stars: 13060
+★ Stars: 13067
 
 [Open repository](https://github.com/getlantern/lantern)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 13067 | 11556 | 
 | 2023-04-04 | 13060 | 11553 | 
 | 2023-04-03 | 13050 | 11554 | 
 | 2023-04-02 | 13047 | 11554 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 12843 | 11548 | 
 | 2023-03-09 | 12835 | 11546 | 
 | 2023-03-08 | 12824 | 11548 | 
-| 2023-03-06 | 12820 | 11547 | 
 

@@ -1,10 +1,10 @@
 # otsembo/TaskTrain - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/otsembo/TaskTrain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 3 | 18 | 
 | 2023-04-04 | 2 | 17 | 
 | 2023-04-03 | 2 | 17 | 
 | 2023-03-31 | 2 | 17 | 

@@ -1,10 +1,10 @@
 # techienikhil/Office-2019-Activator - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/techienikhil/Office-2019-Activator)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 1 | 7 | 
+| 2023-04-06 | 2 | 7 | 
+| 2023-04-05 | 2 | 7 | 
 | 2023-04-04 | 1 | 7 | 
 | 2023-04-03 | 1 | 7 | 
 | 2023-04-01 | 1 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | - | 4 | 
 | 2023-03-09 | - | 4 | 
 | 2023-03-08 | - | 4 | 
-| 2023-03-06 | - | 4 | 
 

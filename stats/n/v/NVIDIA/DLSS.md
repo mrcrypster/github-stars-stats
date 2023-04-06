@@ -1,10 +1,10 @@
 # NVIDIA/DLSS - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
-☋ Forks: 60
+☋ Forks: 59
 
-★ Stars: 388
+★ Stars: 390
 
 [Open repository](https://github.com/NVIDIA/DLSS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 390 | 59 | 
 | 2023-04-04 | 388 | 60 | 
 | 2023-04-03 | 387 | 60 | 
 | 2023-04-02 | 385 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 360 | 54 | 
 | 2023-03-08 | 360 | 53 | 
 | 2023-03-07 | 359 | 53 | 
-| 2023-03-06 | 356 | 53 | 
 

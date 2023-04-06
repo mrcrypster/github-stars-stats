@@ -1,6 +1,6 @@
 # nivekuil/nexus - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 56 | 1 | 
 | 2023-04-04 | 56 | 1 | 
 | 2023-04-03 | 56 | 1 | 
 | 2023-03-31 | 56 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 56 | 1 | 
 | 2023-03-09 | 56 | 1 | 
 | 2023-03-08 | 56 | 1 | 
-| 2023-03-06 | 56 | 1 | 
 

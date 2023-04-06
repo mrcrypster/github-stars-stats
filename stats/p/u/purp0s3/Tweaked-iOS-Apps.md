@@ -1,10 +1,10 @@
 # purp0s3/Tweaked-iOS-Apps - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 16
 
-★ Stars: 551
+★ Stars: 554
 
 [Open repository](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 554 | 16 | 
 | 2023-04-04 | 551 | 16 | 
 | 2023-04-03 | 549 | 16 | 
 | 2023-04-01 | 547 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 499 | 14 | 
 | 2023-03-08 | 498 | 14 | 
 | 2023-03-07 | 496 | 14 | 
-| 2023-03-06 | 495 | 14 | 
 

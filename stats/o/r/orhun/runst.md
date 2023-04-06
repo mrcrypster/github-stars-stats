@@ -1,10 +1,10 @@
 # orhun/runst - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/orhun/runst)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 205 | 2 | 
 | 2023-04-04 | 204 | 2 | 
 | 2023-04-02 | 201 | 2 | 
 | 2023-03-30 | 200 | 2 | 

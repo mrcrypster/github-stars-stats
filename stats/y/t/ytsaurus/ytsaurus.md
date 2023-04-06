@@ -1,6 +1,6 @@
 # ytsaurus/ytsaurus - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1376 | 51 | 
 | 2023-04-04 | 1376 | 51 | 
 | 2023-04-03 | 1374 | 50 | 
 | 2023-04-02 | 1366 | 49 | 

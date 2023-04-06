@@ -1,6 +1,6 @@
 # chuckhoupt/jekyll-apple-help - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 182 | 15 | 
 | 2023-04-04 | 182 | 15 | 
 | 2023-04-03 | 182 | 15 | 
 | 2023-04-02 | 182 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 182 | 15 | 
 | 2023-03-09 | 182 | 15 | 
 | 2023-03-07 | 182 | 15 | 
-| 2023-03-06 | 182 | 15 | 
 

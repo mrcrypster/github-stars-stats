@@ -1,10 +1,10 @@
 # nluedtke/linux_kernel_cves - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 58
 
-★ Stars: 586
+★ Stars: 588
 
 [Open repository](https://github.com/nluedtke/linux_kernel_cves)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 588 | 58 | 
 | 2023-04-04 | 586 | 58 | 
 | 2023-04-03 | 579 | 58 | 
 | 2023-03-31 | 549 | 57 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 544 | 57 | 
 | 2023-03-08 | 544 | 57 | 
 | 2023-03-07 | 544 | 57 | 
-| 2023-03-06 | 544 | 57 | 
 

@@ -1,10 +1,10 @@
 # midorg-com/midorg - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 72
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/midorg-com/midorg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 172 | 72 | 
 | 2023-04-04 | 171 | 72 | 
 | 2023-04-03 | 171 | 71 | 
 | 2023-04-02 | 170 | 71 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 163 | 68 | 
 | 2023-03-09 | 162 | 69 | 
 | 2023-03-07 | 162 | 68 | 
-| 2023-03-06 | 161 | 68 | 
 

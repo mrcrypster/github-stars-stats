@@ -1,10 +1,10 @@
 # nomic-ai/gpt4all - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
-☋ Forks: 1840
+☋ Forks: 2033
 
-★ Stars: 19263
+★ Stars: 20607
 
 [Open repository](https://github.com/nomic-ai/gpt4all)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 20607 | 2033 | 
 | 2023-04-04 | 19263 | 1840 | 
 | 2023-04-03 | 17859 | 1644 | 
 | 2023-04-02 | 17360 | 1581 | 

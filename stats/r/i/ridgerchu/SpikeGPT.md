@@ -1,10 +1,10 @@
 # ridgerchu/SpikeGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 28
 
-★ Stars: 303
+★ Stars: 306
 
 [Open repository](https://github.com/ridgerchu/SpikeGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 306 | 28 | 
 | 2023-04-04 | 303 | 28 | 
 | 2023-04-03 | 300 | 28 | 
 | 2023-04-02 | 293 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 183 | 21 | 
 | 2023-03-09 | 172 | 20 | 
 | 2023-03-08 | 163 | 20 | 
-| 2023-03-06 | 159 | 19 | 
 

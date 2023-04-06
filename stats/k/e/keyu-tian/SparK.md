@@ -1,10 +1,10 @@
 # keyu-tian/SparK - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 45
 
-★ Stars: 909
+★ Stars: 913
 
 [Open repository](https://github.com/keyu-tian/SparK)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 913 | 45 | 
 | 2023-04-04 | 909 | 45 | 
 | 2023-04-02 | 906 | 45 | 
 | 2023-03-30 | 900 | 45 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 720 | 26 | 
 | 2023-03-08 | 718 | 26 | 
 | 2023-03-07 | 715 | 26 | 
-| 2023-03-06 | 713 | 25 | 
 

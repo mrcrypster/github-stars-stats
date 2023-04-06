@@ -1,6 +1,6 @@
 # flozz/p0wny-shell - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 577
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 1455 | 577 | 
 | 2023-04-04 | 1455 | 577 | 
 | 2023-04-03 | 1454 | 575 | 
 | 2023-04-02 | 1453 | 576 | 

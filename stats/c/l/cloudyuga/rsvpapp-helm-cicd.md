@@ -1,6 +1,6 @@
 # cloudyuga/rsvpapp-helm-cicd - stars & forks statistics
 
-Stats updated on Apr 2023, 03
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | - | 71 | 
 | 2023-04-03 | - | 71 | 
 | 2023-04-02 | - | 71 | 
 | 2023-04-01 | - | 71 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 03
 | 2023-03-11 | - | 69 | 
 | 2023-03-09 | - | 69 | 
 | 2023-03-08 | - | 69 | 
-| 2023-03-06 | - | 69 | 
 

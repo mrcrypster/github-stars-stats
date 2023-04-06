@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 05
 
-☋ Forks: 431
+☋ Forks: 434
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/gitdagray/html_course)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-05 | 425 | 431 | 
+| 2023-04-05 | 426 | 434 | 
 | 2023-04-04 | 424 | 430 | 
 | 2023-04-03 | 424 | 424 | 
 | 2023-04-02 | 422 | 425 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 390 | 397 | 
 | 2023-03-09 | 390 | 397 | 
 | 2023-03-08 | 389 | 394 | 
-| 2023-03-06 | 389 | 390 | 
 

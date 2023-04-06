@@ -1,10 +1,10 @@
 # source-foundry/Hack - stars & forks statistics
 
-Stats updated on Apr 2023, 04
+Stats updated on Apr 2023, 05
 
 ☋ Forks: 612
 
-★ Stars: 15457
+★ Stars: 15462
 
 [Open repository](https://github.com/source-foundry/Hack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-05 | 15462 | 612 | 
 | 2023-04-04 | 15457 | 612 | 
 | 2023-04-02 | 15455 | 612 | 
 | 2023-04-01 | 15452 | 612 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 04
 | 2023-03-10 | 15420 | 613 | 
 | 2023-03-09 | 15419 | 613 | 
 | 2023-03-08 | 15412 | 613 | 
-| 2023-03-06 | 15407 | 613 | 
 
