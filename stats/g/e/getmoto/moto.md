@@ -1,10 +1,10 @@
 # getmoto/moto - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1835
+☋ Forks: 1836
 
-★ Stars: 6748
+★ Stars: 6750
 
 [Open repository](https://github.com/getmoto/moto)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 6750 | 1836 | 
+| 2023-04-06 | 6749 | 1835 | 
 | 2023-04-05 | 6748 | 1835 | 
 

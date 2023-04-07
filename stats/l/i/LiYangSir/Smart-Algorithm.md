@@ -1,10 +1,10 @@
 # LiYangSir/Smart-Algorithm - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 107
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/LiYangSir/Smart-Algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 355 | 107 | 
 | 2023-04-05 | 354 | 107 | 
 | 2023-04-04 | 354 | 107 | 
 | 2023-04-02 | 354 | 107 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 335 | 102 | 
 | 2023-03-10 | 334 | 102 | 
 | 2023-03-08 | 334 | 102 | 
-| 2023-03-07 | 333 | 102 | 
 

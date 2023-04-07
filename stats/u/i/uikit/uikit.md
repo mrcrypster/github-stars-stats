@@ -1,10 +1,10 @@
 # uikit/uikit - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 2335
+☋ Forks: 2336
 
-★ Stars: 17832
+★ Stars: 17835
 
 [Open repository](https://github.com/uikit/uikit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 17835 | 2336 | 
 | 2023-04-05 | 17832 | 2335 | 
 | 2023-04-04 | 17830 | 2334 | 
 | 2023-04-03 | 17828 | 2335 | 

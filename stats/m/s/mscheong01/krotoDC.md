@@ -1,10 +1,10 @@
 # mscheong01/krotoDC - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/mscheong01/krotoDC)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 41 | 2 | 
 | 2023-04-05 | 39 | 2 | 
 

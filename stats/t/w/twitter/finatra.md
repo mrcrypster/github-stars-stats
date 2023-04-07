@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 421
+☋ Forks: 422
 
-★ Stars: 2246
+★ Stars: 2245
 
 [Open repository](https://github.com/twitter/finatra)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 2246 | 421 | 
+| 2023-04-06 | 2245 | 422 | 
 | 2023-04-05 | 2246 | 421 | 
 | 2023-04-04 | 2245 | 421 | 
 | 2023-04-03 | 2241 | 418 | 

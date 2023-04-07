@@ -1,10 +1,10 @@
 # Devilcheck/RDPNEW - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 405
+☋ Forks: 414
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/Devilcheck/RDPNEW)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6 | 414 | 
 | 2023-04-05 | 7 | 405 | 
 | 2023-04-04 | 6 | 398 | 
 | 2023-04-03 | 6 | 382 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1 | 25 | 
 | 2023-03-10 | 1 | 25 | 
 | 2023-03-08 | 1 | 25 | 
-| 2023-03-07 | 1 | 25 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 1970
+☋ Forks: 1971
 
-★ Stars: 11208
+★ Stars: 11211
 
 [Open repository](https://github.com/acidanthera/OpenCorePkg)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 11208 | 1970 | 
+| 2023-04-06 | 11211 | 1971 | 
 | 2023-04-05 | 11207 | 1970 | 
 | 2023-04-04 | 11199 | 1969 | 
 | 2023-04-03 | 11188 | 1966 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 11065 | 1948 | 
 | 2023-03-09 | 11063 | 1946 | 
 | 2023-03-08 | 11057 | 1947 | 
-| 2023-03-07 | 11054 | 1946 | 
 

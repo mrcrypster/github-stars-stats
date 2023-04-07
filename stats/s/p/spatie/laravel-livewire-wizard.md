@@ -1,6 +1,6 @@
 # spatie/laravel-livewire-wizard - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 250 | 34 | 
 | 2023-04-05 | 250 | 34 | 
 | 2023-04-04 | 250 | 34 | 
 | 2023-04-02 | 250 | 34 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 244 | 33 | 
 | 2023-03-09 | 244 | 33 | 
 | 2023-03-08 | 244 | 33 | 
-| 2023-03-07 | 244 | 33 | 
 

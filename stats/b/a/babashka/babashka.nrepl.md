@@ -1,10 +1,10 @@
 # babashka/babashka.nrepl - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 15
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/babashka/babashka.nrepl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 50 | 15 | 
 | 2023-04-05 | 49 | 15 | 
 | 2023-04-04 | 49 | 15 | 
 | 2023-04-03 | 49 | 15 | 

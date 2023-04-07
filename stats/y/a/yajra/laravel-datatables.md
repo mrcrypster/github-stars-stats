@@ -1,10 +1,10 @@
 # yajra/laravel-datatables - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 834
 
-★ Stars: 4523
+★ Stars: 4524
 
 [Open repository](https://github.com/yajra/laravel-datatables)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4524 | 834 | 
 | 2023-04-05 | 4523 | 834 | 
 | 2023-04-04 | 4523 | 833 | 
 | 2023-04-03 | 4523 | 834 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 4501 | 828 | 
 | 2023-03-10 | 4500 | 828 | 
 | 2023-03-09 | 4500 | 827 | 
-| 2023-03-07 | 4498 | 827 | 
 

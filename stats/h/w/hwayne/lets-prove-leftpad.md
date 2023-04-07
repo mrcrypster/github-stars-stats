@@ -1,6 +1,6 @@
 # hwayne/lets-prove-leftpad - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 545 | 54 | 
 | 2023-04-05 | 545 | 54 | 
 | 2023-04-04 | 545 | 54 | 
 | 2023-04-03 | 545 | 54 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 544 | 54 | 
 | 2023-03-10 | 544 | 54 | 
 | 2023-03-08 | 544 | 54 | 
-| 2023-03-07 | 544 | 54 | 
 

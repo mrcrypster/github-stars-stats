@@ -1,10 +1,10 @@
 # djun/wechatbot - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 829
+☋ Forks: 830
 
-★ Stars: 671
+★ Stars: 673
 
 [Open repository](https://github.com/djun/wechatbot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 673 | 830 | 
 | 2023-04-05 | 671 | 829 | 
 | 2023-04-04 | 670 | 827 | 
 | 2023-04-03 | 668 | 823 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 556 | 702 | 
 | 2023-03-10 | 550 | 701 | 
 | 2023-03-09 | 549 | 695 | 
-| 2023-03-08 | 545 | 691 | 
 

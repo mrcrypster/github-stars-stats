@@ -1,10 +1,10 @@
 # markmap/markmap - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 289
 
-★ Stars: 4833
+★ Stars: 4837
 
 [Open repository](https://github.com/markmap/markmap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4837 | 289 | 
 | 2023-04-05 | 4833 | 289 | 
 | 2023-04-04 | 4822 | 287 | 
 | 2023-04-03 | 4811 | 286 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 4690 | 274 | 
 | 2023-03-10 | 4687 | 274 | 
 | 2023-03-09 | 4682 | 274 | 
-| 2023-03-07 | 4678 | 274 | 
 

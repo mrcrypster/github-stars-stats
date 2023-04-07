@@ -1,6 +1,6 @@
 # 3ximus/aerial-sddm-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 287 | 31 | 
 | 2023-04-05 | 287 | 31 | 
 | 2023-04-04 | 287 | 31 | 
 | 2023-04-02 | 287 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 280 | 31 | 
 | 2023-03-09 | 280 | 31 | 
 | 2023-03-08 | 280 | 31 | 
-| 2023-03-07 | 280 | 31 | 
 

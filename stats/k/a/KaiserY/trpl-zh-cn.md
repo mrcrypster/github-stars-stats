@@ -1,10 +1,10 @@
 # KaiserY/trpl-zh-cn - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 457
 
-★ Stars: 3436
+★ Stars: 3437
 
 [Open repository](https://github.com/KaiserY/trpl-zh-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3437 | 457 | 
 | 2023-04-05 | 3436 | 457 | 
 | 2023-04-04 | 3434 | 457 | 
 | 2023-04-03 | 3431 | 456 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 3383 | 449 | 
 | 2023-03-09 | 3382 | 449 | 
 | 2023-03-08 | 3382 | 449 | 
-| 2023-03-07 | 3381 | 450 | 
 

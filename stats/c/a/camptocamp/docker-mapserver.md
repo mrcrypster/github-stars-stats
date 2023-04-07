@@ -1,6 +1,6 @@
 # camptocamp/docker-mapserver - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 29 | 23 | 
 | 2023-04-05 | 29 | 23 | 
 | 2023-04-04 | 29 | 23 | 
 | 2023-04-03 | 29 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 28 | 23 | 
 | 2023-03-10 | 28 | 23 | 
 | 2023-03-09 | 28 | 23 | 
-| 2023-03-07 | 28 | 23 | 
 

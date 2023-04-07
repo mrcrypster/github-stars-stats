@@ -1,10 +1,10 @@
 # google/prompt-to-prompt - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 154
 
-★ Stars: 1860
+★ Stars: 1864
 
 [Open repository](https://github.com/google/prompt-to-prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1864 | 154 | 
 | 2023-04-05 | 1860 | 154 | 
 | 2023-04-04 | 1856 | 154 | 
 | 2023-04-03 | 1853 | 154 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1748 | 145 | 
 | 2023-03-09 | 1741 | 141 | 
 | 2023-03-08 | 1733 | 141 | 
-| 2023-03-07 | 1729 | 141 | 
 

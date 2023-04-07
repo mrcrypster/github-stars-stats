@@ -1,10 +1,10 @@
 # ronggang/PT-Plugin-Plus - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 666
 
-★ Stars: 4766
+★ Stars: 4774
 
 [Open repository](https://github.com/ronggang/PT-Plugin-Plus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4774 | 666 | 
 | 2023-04-05 | 4766 | 666 | 
 | 2023-04-04 | 4761 | 666 | 
 | 2023-04-03 | 4752 | 666 | 

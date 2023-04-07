@@ -1,6 +1,6 @@
 # zhongqiangwu960812/AI-RecommenderSystem - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1053 | 305 | 
 | 2023-04-05 | 1053 | 305 | 
 | 2023-04-04 | 1053 | 306 | 
 | 2023-04-03 | 1053 | 306 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1027 | 300 | 
 | 2023-03-10 | 1026 | 300 | 
 | 2023-03-08 | 1025 | 300 | 
-| 2023-03-07 | 1021 | 299 | 
 

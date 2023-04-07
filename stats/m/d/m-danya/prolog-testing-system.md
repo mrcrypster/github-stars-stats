@@ -1,6 +1,6 @@
 # m-danya/prolog-testing-system - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 24 | 6 | 
 | 2023-04-05 | 24 | 6 | 
 | 2023-04-04 | 24 | 6 | 
 | 2023-04-03 | 24 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 23 | 6 | 
 | 2023-03-10 | 23 | 6 | 
 | 2023-03-09 | 23 | 6 | 
-| 2023-03-07 | 23 | 6 | 
 

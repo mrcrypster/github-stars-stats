@@ -1,10 +1,10 @@
 # openxla/xla - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 1208
+★ Stars: 1212
 
 [Open repository](https://github.com/openxla/xla)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1212 | 96 | 
 | 2023-04-05 | 1208 | 95 | 
 | 2023-04-04 | 1205 | 93 | 
 | 2023-04-02 | 1191 | 89 | 

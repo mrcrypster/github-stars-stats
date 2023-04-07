@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 69
 
-★ Stars: 850
+★ Stars: 851
 
 [Open repository](https://github.com/system76/firmware-open)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 850 | 69 | 
+| 2023-04-06 | 851 | 69 | 
 | 2023-04-05 | 849 | 69 | 
 

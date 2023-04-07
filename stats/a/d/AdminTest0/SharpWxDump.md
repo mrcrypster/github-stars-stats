@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 210
+☋ Forks: 212
 
-★ Stars: 1275
+★ Stars: 1291
 
 [Open repository](https://github.com/AdminTest0/SharpWxDump)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 1275 | 210 | 
+| 2023-04-06 | 1291 | 212 | 
 | 2023-04-05 | 1272 | 209 | 
 | 2023-04-04 | 1248 | 205 | 
 | 2023-04-03 | 1197 | 200 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 930 | 148 | 
 | 2023-03-10 | 925 | 147 | 
 | 2023-03-08 | 917 | 146 | 
-| 2023-03-07 | 913 | 144 | 
 

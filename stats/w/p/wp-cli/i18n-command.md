@@ -1,6 +1,6 @@
 # wp-cli/i18n-command - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 78 | 45 | 
 | 2023-04-05 | 78 | 45 | 
 | 2023-04-03 | 78 | 45 | 
 | 2023-04-02 | 78 | 45 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 79 | 41 | 
 | 2023-03-10 | 79 | 41 | 
 | 2023-03-09 | 79 | 41 | 
-| 2023-03-07 | 79 | 41 | 
 

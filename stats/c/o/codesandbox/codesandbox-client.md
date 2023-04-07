@@ -1,10 +1,10 @@
 # codesandbox/codesandbox-client - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 2133
+☋ Forks: 2136
 
-★ Stars: 12299
+★ Stars: 12301
 
 [Open repository](https://github.com/codesandbox/codesandbox-client)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 12301 | 2136 | 
 | 2023-04-05 | 12299 | 2133 | 
 | 2023-04-04 | 12297 | 2133 | 
 | 2023-04-03 | 12295 | 2132 | 

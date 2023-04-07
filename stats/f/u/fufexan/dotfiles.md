@@ -1,10 +1,10 @@
 # fufexan/dotfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 19
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/fufexan/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 209 | 19 | 
 | 2023-04-05 | 208 | 19 | 
 | 2023-04-04 | 207 | 19 | 
 | 2023-04-03 | 204 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 180 | 18 | 
 | 2023-03-09 | 178 | 18 | 
 | 2023-03-08 | 178 | 16 | 
-| 2023-03-07 | 178 | 15 | 
 

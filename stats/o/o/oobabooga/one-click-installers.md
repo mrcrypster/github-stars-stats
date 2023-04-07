@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 7
+☋ Forks: 9
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/oobabooga/one-click-installers)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 21 | 7 | 
+| 2023-04-06 | 23 | 9 | 
 | 2023-04-05 | 21 | 7 | 
 | 2023-04-04 | 20 | 6 | 
 | 2023-04-03 | 18 | 6 | 

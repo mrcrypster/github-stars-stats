@@ -1,6 +1,6 @@
 # krishnamurthypradeep/devops-infra-groovy-app - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | - | 20 | 
 | 2023-04-05 | - | 20 | 
 | 2023-04-04 | - | 20 | 
 | 2023-04-03 | - | 20 | 

@@ -1,10 +1,10 @@
 # dyanikoglu/ALS-Community - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 479
 
-★ Stars: 1584
+★ Stars: 1586
 
 [Open repository](https://github.com/dyanikoglu/ALS-Community)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1586 | 479 | 
 | 2023-04-05 | 1584 | 479 | 
 | 2023-04-04 | 1583 | 479 | 
 | 2023-04-02 | 1581 | 478 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1546 | 469 | 
 | 2023-03-10 | 1544 | 470 | 
 | 2023-03-08 | 1540 | 471 | 
-| 2023-03-07 | 1537 | 468 | 
 

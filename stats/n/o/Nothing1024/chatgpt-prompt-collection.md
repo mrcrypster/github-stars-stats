@@ -1,10 +1,10 @@
 # Nothing1024/chatgpt-prompt-collection - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 45
+☋ Forks: 44
 
-★ Stars: 45
+★ Stars: 48
 
 [Open repository](https://github.com/Nothing1024/chatgpt-prompt-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 48 | 44 | 
 | 2023-04-05 | 45 | 45 | 
 | 2023-04-04 | 44 | 45 | 
 | 2023-04-03 | 42 | 45 | 

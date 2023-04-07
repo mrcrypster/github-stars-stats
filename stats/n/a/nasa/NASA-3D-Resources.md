@@ -1,8 +1,8 @@
 # nasa/NASA-3D-Resources - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 430
+☋ Forks: 429
 
 ★ Stars: 2702
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2702 | 429 | 
 | 2023-04-05 | 2702 | 430 | 
 | 2023-04-04 | 2701 | 430 | 
 | 2023-04-03 | 2699 | 430 | 

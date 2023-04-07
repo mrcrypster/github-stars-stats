@@ -1,8 +1,8 @@
 # jfrog/artifactory-user-plugins - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 453
+☋ Forks: 454
 
 ★ Stars: 355
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 355 | 454 | 
 | 2023-04-05 | 355 | 453 | 
 | 2023-04-04 | 355 | 453 | 
 | 2023-04-03 | 355 | 453 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 354 | 449 | 
 | 2023-03-09 | 354 | 448 | 
 | 2023-03-08 | 354 | 448 | 
-| 2023-03-07 | 354 | 448 | 
 

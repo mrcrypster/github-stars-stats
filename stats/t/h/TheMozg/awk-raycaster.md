@@ -1,6 +1,6 @@
 # TheMozg/awk-raycaster - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2309 | 73 | 
 | 2023-04-05 | 2309 | 73 | 
 | 2023-04-04 | 2307 | 73 | 
 | 2023-04-03 | 2307 | 73 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 2291 | 73 | 
 | 2023-03-10 | 2290 | 73 | 
 | 2023-03-08 | 2290 | 73 | 
-| 2023-03-07 | 2287 | 73 | 
 

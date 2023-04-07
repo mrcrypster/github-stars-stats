@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 35
+☋ Forks: 39
 
-★ Stars: 350
+★ Stars: 379
 
 [Open repository](https://github.com/nomic-ai/pyllamacpp)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 350 | 35 | 
+| 2023-04-06 | 379 | 39 | 
 | 2023-04-05 | 339 | 35 | 
 

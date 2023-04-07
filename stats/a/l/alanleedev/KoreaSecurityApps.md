@@ -1,6 +1,6 @@
 # alanleedev/KoreaSecurityApps - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 392 | 35 | 
 | 2023-04-05 | 392 | 35 | 
 | 2023-04-04 | 391 | 35 | 
 | 2023-04-03 | 391 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 374 | 32 | 
 | 2023-03-09 | 374 | 32 | 
 | 2023-03-08 | 373 | 32 | 
-| 2023-03-07 | 369 | 31 | 
 

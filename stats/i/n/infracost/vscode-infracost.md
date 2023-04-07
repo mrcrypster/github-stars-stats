@@ -1,10 +1,10 @@
 # infracost/vscode-infracost - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 50
 
-★ Stars: 1678
+★ Stars: 1679
 
 [Open repository](https://github.com/infracost/vscode-infracost)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1679 | 50 | 
 | 2023-04-05 | 1678 | 50 | 
 | 2023-04-04 | 1677 | 50 | 
 | 2023-04-03 | 1676 | 50 | 

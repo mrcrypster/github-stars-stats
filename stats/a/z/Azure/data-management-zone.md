@@ -1,6 +1,6 @@
 # Azure/data-management-zone - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 144 | 77 | 
 | 2023-04-05 | 144 | 77 | 
 | 2023-04-04 | 144 | 77 | 
 | 2023-04-03 | 144 | 77 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 142 | 77 | 
 | 2023-03-10 | 142 | 77 | 
 | 2023-03-08 | 142 | 77 | 
-| 2023-03-07 | 141 | 77 | 
 

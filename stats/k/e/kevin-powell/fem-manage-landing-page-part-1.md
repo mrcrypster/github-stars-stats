@@ -1,6 +1,6 @@
 # kevin-powell/fem-manage-landing-page-part-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 24 | 37 | 
 | 2023-04-06 | 24 | 37 | 
 | 2023-04-04 | 24 | 37 | 
 | 2023-04-03 | 24 | 37 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 22 | 37 | 
 | 2023-03-10 | 22 | 37 | 
 | 2023-03-08 | 22 | 37 | 
-| 2023-03-07 | 22 | 37 | 
 

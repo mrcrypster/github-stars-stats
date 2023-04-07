@@ -1,10 +1,10 @@
 # amacneil/dbmate - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 211
 
-★ Stars: 3247
+★ Stars: 3249
 
 [Open repository](https://github.com/amacneil/dbmate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3249 | 211 | 
 | 2023-04-05 | 3247 | 211 | 
 | 2023-04-04 | 3244 | 211 | 
 | 2023-04-03 | 3239 | 211 | 

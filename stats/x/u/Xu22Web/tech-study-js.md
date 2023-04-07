@@ -1,10 +1,10 @@
 # Xu22Web/tech-study-js - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 111
 
-★ Stars: 262
+★ Stars: 265
 
 [Open repository](https://github.com/Xu22Web/tech-study-js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 265 | 111 | 
 | 2023-04-05 | 262 | 111 | 
 | 2023-04-03 | 261 | 109 | 
 | 2023-04-02 | 256 | 105 | 

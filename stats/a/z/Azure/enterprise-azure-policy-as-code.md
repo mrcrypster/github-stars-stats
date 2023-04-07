@@ -1,6 +1,6 @@
 # Azure/enterprise-azure-policy-as-code - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 243 | 98 | 
 | 2023-04-06 | 243 | 98 | 
 | 2023-04-04 | 242 | 97 | 
 | 2023-04-03 | 242 | 97 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 228 | 93 | 
 | 2023-03-10 | 228 | 93 | 
 | 2023-03-09 | 228 | 93 | 
-| 2023-03-07 | 228 | 93 | 
 

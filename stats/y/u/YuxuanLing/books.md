@@ -1,6 +1,6 @@
 # YuxuanLing/books - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 279 | 183 | 
 | 2023-04-05 | 279 | 183 | 
 | 2023-04-04 | 279 | 183 | 
 | 2023-04-03 | 279 | 183 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 275 | 180 | 
 | 2023-03-10 | 274 | 180 | 
 | 2023-03-08 | 274 | 180 | 
-| 2023-03-07 | 273 | 179 | 
 

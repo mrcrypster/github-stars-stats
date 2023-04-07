@@ -1,8 +1,8 @@
 # rdeepak2002/reddit-place-script-2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 336
+☋ Forks: 335
 
 ★ Stars: 830
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 830 | 335 | 
 | 2023-04-05 | 830 | 336 | 
 | 2023-04-04 | 830 | 336 | 
 | 2023-04-02 | 830 | 336 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 830 | 333 | 
 | 2023-03-10 | 830 | 333 | 
 | 2023-03-09 | 830 | 333 | 
-| 2023-03-07 | 830 | 333 | 
 

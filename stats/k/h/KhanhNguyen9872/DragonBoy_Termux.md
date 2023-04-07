@@ -1,10 +1,10 @@
 # KhanhNguyen9872/DragonBoy_Termux - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 97
+☋ Forks: 98
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/KhanhNguyen9872/DragonBoy_Termux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 47 | 98 | 
 | 2023-04-05 | 46 | 97 | 
 | 2023-04-04 | 46 | 97 | 
 | 2023-04-03 | 46 | 97 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 44 | 93 | 
 | 2023-03-10 | 44 | 92 | 
 | 2023-03-08 | 44 | 92 | 
-| 2023-03-07 | 44 | 92 | 
 

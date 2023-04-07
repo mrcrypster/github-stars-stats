@@ -1,6 +1,6 @@
 # kitbogashow/how-to-fix-paypal - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 47 | 35 | 
 | 2023-04-05 | 47 | 35 | 
 | 2023-04-04 | 47 | 35 | 
 | 2023-04-03 | 47 | 35 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 47 | 35 | 
 | 2023-03-10 | 48 | 35 | 
 | 2023-03-08 | 48 | 35 | 
-| 2023-03-07 | 48 | 35 | 
 

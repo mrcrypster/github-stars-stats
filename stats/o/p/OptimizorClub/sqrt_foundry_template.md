@@ -1,6 +1,6 @@
 # OptimizorClub/sqrt_foundry_template - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 57 | 11 | 
 | 2023-04-05 | 57 | 11 | 
 | 2023-04-04 | 57 | 11 | 
 | 2023-04-03 | 57 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 57 | 10 | 
 | 2023-03-10 | 57 | 10 | 
 | 2023-03-09 | 57 | 10 | 
-| 2023-03-08 | 57 | 10 | 
 

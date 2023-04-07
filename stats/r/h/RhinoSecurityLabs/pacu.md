@@ -1,6 +1,6 @@
 # RhinoSecurityLabs/pacu - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 577
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3341 | 577 | 
 | 2023-04-05 | 3341 | 577 | 
 | 2023-04-04 | 3338 | 577 | 
 | 2023-04-03 | 3337 | 577 | 

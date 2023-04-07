@@ -1,6 +1,6 @@
 # tweag/ormolu - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 824 | 75 | 
 | 2023-04-05 | 824 | 75 | 
 | 2023-04-04 | 824 | 75 | 
 | 2023-04-03 | 824 | 75 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 822 | 73 | 
 | 2023-03-10 | 822 | 73 | 
 | 2023-03-09 | 821 | 73 | 
-| 2023-03-07 | 820 | 73 | 
 

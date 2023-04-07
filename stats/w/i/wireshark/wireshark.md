@@ -1,10 +1,10 @@
 # wireshark/wireshark - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1640
+☋ Forks: 1641
 
-★ Stars: 5386
+★ Stars: 5387
 
 [Open repository](https://github.com/wireshark/wireshark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5387 | 1641 | 
 | 2023-04-05 | 5386 | 1640 | 
 | 2023-04-04 | 5381 | 1640 | 
 | 2023-04-03 | 5380 | 1640 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 5299 | 1618 | 
 | 2023-03-10 | 5297 | 1618 | 
 | 2023-03-09 | 5292 | 1618 | 
-| 2023-03-07 | 5290 | 1619 | 
 

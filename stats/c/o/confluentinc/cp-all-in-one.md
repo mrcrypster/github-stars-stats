@@ -1,10 +1,10 @@
 # confluentinc/cp-all-in-one - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 628
+☋ Forks: 630
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/confluentinc/cp-all-in-one)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 671 | 630 | 
 | 2023-04-05 | 670 | 628 | 
 | 2023-04-04 | 670 | 628 | 
 | 2023-04-02 | 670 | 628 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 652 | 618 | 
 | 2023-03-09 | 651 | 617 | 
 | 2023-03-08 | 651 | 616 | 
-| 2023-03-07 | 651 | 613 | 
 

@@ -1,10 +1,10 @@
 # bradtraversy/php-crash - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 404
 
-★ Stars: 403
+★ Stars: 405
 
 [Open repository](https://github.com/bradtraversy/php-crash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 405 | 404 | 
 | 2023-04-05 | 403 | 404 | 
 | 2023-04-03 | 403 | 404 | 
 | 2023-04-02 | 402 | 401 | 

@@ -1,10 +1,10 @@
 # declantsien/emacs-webrender - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/declantsien/emacs-webrender)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6 | 1 | 
 | 2023-04-05 | 5 | 1 | 
 | 2023-04-04 | 5 | 1 | 
 | 2023-04-03 | 5 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 6 | 1 | 
 | 2023-03-09 | 6 | 1 | 
 | 2023-03-08 | 6 | 1 | 
-| 2023-03-07 | 6 | 1 | 
 

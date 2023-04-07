@@ -1,10 +1,10 @@
 # AzureAD/AzureADAssessment - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 75
 
-★ Stars: 525
+★ Stars: 526
 
 [Open repository](https://github.com/AzureAD/AzureADAssessment)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 526 | 75 | 
 | 2023-04-05 | 525 | 75 | 
 | 2023-04-04 | 524 | 75 | 
 | 2023-04-03 | 523 | 75 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 464 | 70 | 
 | 2023-03-10 | 464 | 70 | 
 | 2023-03-09 | 463 | 70 | 
-| 2023-03-07 | 461 | 71 | 
 

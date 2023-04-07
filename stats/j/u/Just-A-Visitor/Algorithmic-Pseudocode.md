@@ -1,6 +1,6 @@
 # Just-A-Visitor/Algorithmic-Pseudocode - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 685 | 158 | 
 | 2023-04-05 | 685 | 158 | 
 | 2023-04-03 | 685 | 158 | 
 | 2023-04-02 | 684 | 158 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 682 | 157 | 
 | 2023-03-10 | 682 | 157 | 
 | 2023-03-09 | 682 | 157 | 
-| 2023-03-08 | 680 | 157 | 
 

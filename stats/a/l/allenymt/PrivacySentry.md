@@ -1,10 +1,10 @@
 # allenymt/PrivacySentry - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 199
 
-★ Stars: 1418
+★ Stars: 1423
 
 [Open repository](https://github.com/allenymt/PrivacySentry)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1423 | 199 | 
 | 2023-04-05 | 1418 | 199 | 
 | 2023-04-04 | 1416 | 198 | 
 | 2023-04-03 | 1416 | 198 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1371 | 192 | 
 | 2023-03-10 | 1369 | 192 | 
 | 2023-03-08 | 1364 | 192 | 
-| 2023-03-07 | 1359 | 190 | 
 

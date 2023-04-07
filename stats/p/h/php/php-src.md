@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 7510
 
-★ Stars: 35250
+★ Stars: 35253
 
 [Open repository](https://github.com/php/php-src)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 35250 | 7510 | 
+| 2023-04-06 | 35253 | 7510 | 
 | 2023-04-05 | 35249 | 7509 | 
 | 2023-04-04 | 35242 | 7509 | 
 | 2023-04-03 | 35233 | 7505 | 

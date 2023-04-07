@@ -1,6 +1,6 @@
 # rafaballerini/LandingPage - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 288 | 126 | 
 | 2023-04-05 | 288 | 126 | 
 | 2023-04-04 | 288 | 125 | 
 | 2023-04-03 | 288 | 125 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 282 | 123 | 
 | 2023-03-10 | 281 | 123 | 
 | 2023-03-08 | 281 | 124 | 
-| 2023-03-07 | 281 | 124 | 
 

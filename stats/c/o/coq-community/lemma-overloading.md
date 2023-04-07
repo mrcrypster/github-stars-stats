@@ -1,6 +1,6 @@
 # coq-community/lemma-overloading - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 26 | 7 | 
 | 2023-04-05 | 26 | 7 | 
 | 2023-04-04 | 26 | 7 | 
 | 2023-04-02 | 26 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 25 | 7 | 
 | 2023-03-10 | 25 | 7 | 
 | 2023-03-08 | 25 | 7 | 
-| 2023-03-07 | 25 | 7 | 
 

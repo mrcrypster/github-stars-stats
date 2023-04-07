@@ -1,8 +1,8 @@
 # petervanderdoes/gitflow-avh - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 513
+☋ Forks: 512
 
 ★ Stars: 5326
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5326 | 512 | 
 | 2023-04-05 | 5326 | 513 | 
 | 2023-04-04 | 5326 | 513 | 
 | 2023-04-03 | 5325 | 513 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 5315 | 514 | 
 | 2023-03-10 | 5314 | 513 | 
 | 2023-03-09 | 5311 | 514 | 
-| 2023-03-07 | 5309 | 514 | 
 

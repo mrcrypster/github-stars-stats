@@ -1,10 +1,10 @@
 # yaroslaff/nudecrawler - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 148
+★ Stars: 158
 
 [Open repository](https://github.com/yaroslaff/nudecrawler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 158 | 13 | 
 | 2023-04-05 | 148 | 12 | 
 | 2023-04-04 | 132 | 13 | 
 | 2023-04-03 | 126 | 12 | 

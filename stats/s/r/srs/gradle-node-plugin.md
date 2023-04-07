@@ -1,8 +1,8 @@
 # srs/gradle-node-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 206
+☋ Forks: 207
 
 ★ Stars: 872
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 872 | 207 | 
 | 2023-04-05 | 872 | 206 | 
 | 2023-04-04 | 872 | 206 | 
 | 2023-04-03 | 872 | 206 | 

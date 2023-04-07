@@ -1,10 +1,10 @@
 # EFPrefix/EFQRCode - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 467
 
-★ Stars: 4383
+★ Stars: 4385
 
 [Open repository](https://github.com/EFPrefix/EFQRCode)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4385 | 467 | 
 | 2023-04-05 | 4383 | 467 | 
 | 2023-04-04 | 4383 | 467 | 
 | 2023-04-03 | 4382 | 467 | 

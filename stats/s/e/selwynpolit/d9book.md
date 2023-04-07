@@ -1,10 +1,10 @@
 # selwynpolit/d9book - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/selwynpolit/d9book)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 54 | 31 | 
 | 2023-04-05 | 53 | 30 | 
 | 2023-04-04 | 53 | 30 | 
 | 2023-04-03 | 53 | 30 | 

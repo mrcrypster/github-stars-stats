@@ -1,6 +1,6 @@
 # flynnsbit/Top300_updates - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 95 | 8 | 
 | 2023-04-05 | 95 | 8 | 
 | 2023-04-04 | 94 | 8 | 
 | 2023-04-03 | 94 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 92 | 8 | 
 | 2023-03-09 | 92 | 8 | 
 | 2023-03-08 | 92 | 8 | 
-| 2023-03-07 | 92 | 8 | 
 

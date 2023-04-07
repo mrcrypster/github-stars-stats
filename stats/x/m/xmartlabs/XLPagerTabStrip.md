@@ -1,10 +1,10 @@
 # xmartlabs/XLPagerTabStrip - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1305
 
-★ Stars: 6831
+★ Stars: 6832
 
 [Open repository](https://github.com/xmartlabs/XLPagerTabStrip)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6832 | 1305 | 
 | 2023-04-05 | 6831 | 1305 | 
 | 2023-04-04 | 6831 | 1305 | 
 | 2023-04-03 | 6831 | 1305 | 

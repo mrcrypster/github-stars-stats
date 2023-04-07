@@ -1,10 +1,10 @@
 # SeiOkami/AdvancedGlobalSearchOneS - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/SeiOkami/AdvancedGlobalSearchOneS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 31 | - | 
 | 2023-04-05 | 30 | - | 
 | 2023-04-04 | 29 | - | 
 | 2023-04-02 | 28 | - | 

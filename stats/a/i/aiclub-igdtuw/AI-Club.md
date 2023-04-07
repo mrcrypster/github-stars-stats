@@ -1,10 +1,10 @@
 # aiclub-igdtuw/AI-Club - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/aiclub-igdtuw/AI-Club)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1 | 5 | 
 | 2023-04-05 | - | 5 | 
 | 2023-04-04 | - | 5 | 
 | 2023-04-03 | - | 5 | 

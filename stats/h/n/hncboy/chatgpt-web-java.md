@@ -1,10 +1,10 @@
 # hncboy/chatgpt-web-java - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 45
+☋ Forks: 51
 
-★ Stars: 133
+★ Stars: 161
 
 [Open repository](https://github.com/hncboy/chatgpt-web-java)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 161 | 51 | 
 | 2023-04-05 | 133 | 45 | 
 | 2023-04-04 | 128 | 39 | 
 | 2023-04-03 | 94 | 34 | 

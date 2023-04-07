@@ -1,10 +1,10 @@
 # mvp/uhubctl - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 194
 
-★ Stars: 1721
+★ Stars: 1722
 
 [Open repository](https://github.com/mvp/uhubctl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1722 | 194 | 
 | 2023-04-05 | 1721 | 194 | 
 | 2023-04-04 | 1720 | 194 | 
 | 2023-04-03 | 1718 | 194 | 

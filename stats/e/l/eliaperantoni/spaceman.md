@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 10
 
-★ Stars: 295
+★ Stars: 297
 
 [Open repository](https://github.com/eliaperantoni/spaceman)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 295 | 10 | 
+| 2023-04-06 | 297 | 10 | 
 | 2023-04-05 | 290 | 10 | 
 | 2023-04-04 | 267 | 10 | 
 

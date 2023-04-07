@@ -1,10 +1,10 @@
 # pwndbg/pwndbg - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 747
 
-★ Stars: 5433
+★ Stars: 5436
 
 [Open repository](https://github.com/pwndbg/pwndbg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5436 | 747 | 
 | 2023-04-05 | 5433 | 747 | 
 | 2023-04-04 | 5427 | 747 | 
 | 2023-04-03 | 5426 | 747 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 5336 | 737 | 
 | 2023-03-10 | 5335 | 737 | 
 | 2023-03-09 | 5330 | 736 | 
-| 2023-03-07 | 5328 | 736 | 
 

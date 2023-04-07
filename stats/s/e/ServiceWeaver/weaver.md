@@ -1,10 +1,10 @@
 # ServiceWeaver/weaver - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 133
 
-★ Stars: 3205
+★ Stars: 3212
 
 [Open repository](https://github.com/ServiceWeaver/weaver)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3212 | 133 | 
 | 2023-04-05 | 3205 | 133 | 
 | 2023-04-04 | 3202 | 133 | 
 | 2023-04-03 | 3194 | 132 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 2588 | 86 | 
 | 2023-03-09 | 2430 | 78 | 
 | 2023-03-08 | 2393 | 75 | 
-| 2023-03-07 | 2138 | 64 | 
 

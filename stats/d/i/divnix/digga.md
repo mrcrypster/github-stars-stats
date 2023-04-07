@@ -1,10 +1,10 @@
 # divnix/digga - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 117
 
-★ Stars: 913
+★ Stars: 915
 
 [Open repository](https://github.com/divnix/digga)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 915 | 117 | 
 | 2023-04-05 | 913 | 117 | 
 | 2023-04-03 | 912 | 117 | 
 | 2023-04-02 | 912 | 117 | 

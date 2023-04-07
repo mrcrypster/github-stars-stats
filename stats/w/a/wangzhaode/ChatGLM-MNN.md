@@ -1,10 +1,10 @@
 # wangzhaode/ChatGLM-MNN - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 23
+☋ Forks: 26
 
-★ Stars: 200
+★ Stars: 210
 
 [Open repository](https://github.com/wangzhaode/ChatGLM-MNN)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 210 | 26 | 
 | 2023-04-05 | 200 | 23 | 
 | 2023-04-04 | 194 | 21 | 
 | 2023-04-03 | 182 | 22 | 

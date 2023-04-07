@@ -1,6 +1,6 @@
 # parnold-x/nasc - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 527 | 37 | 
 | 2023-04-05 | 527 | 37 | 
 | 2023-04-04 | 527 | 37 | 
 | 2023-04-03 | 527 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 522 | 38 | 
 | 2023-03-10 | 522 | 38 | 
 | 2023-03-08 | 522 | 38 | 
-| 2023-03-07 | 522 | 38 | 
 

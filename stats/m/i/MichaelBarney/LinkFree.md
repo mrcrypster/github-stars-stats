@@ -1,10 +1,10 @@
 # MichaelBarney/LinkFree - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 341
 
-★ Stars: 528
+★ Stars: 527
 
 [Open repository](https://github.com/MichaelBarney/LinkFree)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 527 | 341 | 
 | 2023-04-05 | 528 | 341 | 
 | 2023-04-04 | 524 | 341 | 
 | 2023-04-02 | 524 | 341 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 519 | 340 | 
 | 2023-03-10 | 518 | 340 | 
 | 2023-03-09 | 517 | 340 | 
-| 2023-03-07 | 517 | 340 | 
 

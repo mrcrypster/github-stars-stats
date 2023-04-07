@@ -1,10 +1,10 @@
 # Bnyro/WallYou - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 13
 
-★ Stars: 173
+★ Stars: 172
 
 [Open repository](https://github.com/Bnyro/WallYou)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 172 | 13 | 
 | 2023-04-05 | 173 | 13 | 
 | 2023-04-04 | 171 | 13 | 
 | 2023-04-03 | 170 | 13 | 

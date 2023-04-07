@@ -1,6 +1,6 @@
 # ucsd-cse15l-w23/lab7 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 518
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | - | 518 | 
 | 2023-04-05 | - | 518 | 
 | 2023-04-03 | - | 520 | 
 | 2023-04-02 | - | 520 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | - | 518 | 
 | 2023-03-10 | - | 515 | 
 | 2023-03-09 | - | 515 | 
-| 2023-03-07 | - | 514 | 
 

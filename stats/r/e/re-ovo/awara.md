@@ -1,10 +1,10 @@
 # re-ovo/awara - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 35
+☋ Forks: 38
 
-★ Stars: 458
+★ Stars: 472
 
 [Open repository](https://github.com/re-ovo/awara)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 472 | 38 | 
 | 2023-04-05 | 458 | 35 | 
 | 2023-04-04 | 444 | 35 | 
 | 2023-04-03 | 432 | 33 | 

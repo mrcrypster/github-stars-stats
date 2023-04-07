@@ -1,10 +1,10 @@
 # pengbaolin/LLM-Augmenter - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 241
+★ Stars: 279
 
 [Open repository](https://github.com/pengbaolin/LLM-Augmenter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 279 | 5 | 
 | 2023-04-05 | 241 | 4 | 
 | 2023-04-04 | 210 | 4 | 
 | 2023-04-02 | 210 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 160 | 3 | 
 | 2023-03-09 | 155 | 3 | 
 | 2023-03-08 | 144 | 3 | 
-| 2023-03-07 | 138 | 3 | 
 

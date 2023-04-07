@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 257
+☋ Forks: 256
 
-★ Stars: 149
+★ Stars: 151
 
 [Open repository](https://github.com/TeoMeWhy/olist-ml-models)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 149 | 257 | 
+| 2023-04-06 | 151 | 256 | 
 | 2023-04-05 | 145 | 250 | 
 

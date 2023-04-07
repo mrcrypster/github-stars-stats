@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 1372
 
-★ Stars: 16043
+★ Stars: 16042
 
 [Open repository](https://github.com/facebook/yoga)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 16043 | 1372 | 
+| 2023-04-06 | 16042 | 1372 | 
 | 2023-04-05 | 16042 | 1372 | 
 | 2023-04-04 | 16041 | 1372 | 
 | 2023-04-03 | 16034 | 1372 | 

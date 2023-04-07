@@ -1,8 +1,8 @@
 # bdenney/phase-1-calexico - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 150
+☋ Forks: 152
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | - | 152 | 
 | 2023-04-05 | - | 150 | 
 | 2023-04-04 | - | 150 | 
 | 2023-04-02 | - | 150 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | - | 113 | 
 | 2023-03-10 | - | 113 | 
 | 2023-03-08 | - | 114 | 
-| 2023-03-07 | - | 114 | 
 

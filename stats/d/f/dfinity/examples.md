@@ -1,6 +1,6 @@
 # dfinity/examples - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 402 | 256 | 
 | 2023-04-05 | 402 | 256 | 
 | 2023-04-04 | 402 | 256 | 
 | 2023-04-03 | 401 | 256 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 391 | 254 | 
 | 2023-03-09 | 391 | 254 | 
 | 2023-03-08 | 391 | 254 | 
-| 2023-03-07 | 390 | 254 | 
 

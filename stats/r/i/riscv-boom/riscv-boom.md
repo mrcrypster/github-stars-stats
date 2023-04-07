@@ -1,6 +1,6 @@
 # riscv-boom/riscv-boom - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 344
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1317 | 344 | 
 | 2023-04-05 | 1317 | 344 | 
 | 2023-04-04 | 1316 | 343 | 
 | 2023-04-03 | 1315 | 343 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 1293 | 335 | 
 | 2023-03-10 | 1292 | 335 | 
 | 2023-03-08 | 1291 | 336 | 
-| 2023-03-07 | 1290 | 335 | 
 

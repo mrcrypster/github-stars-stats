@@ -1,10 +1,10 @@
 # neomake/neomake - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 378
 
-★ Stars: 2605
+★ Stars: 2606
 
 [Open repository](https://github.com/neomake/neomake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2606 | 378 | 
 | 2023-04-05 | 2605 | 378 | 
 | 2023-04-04 | 2605 | 378 | 
 | 2023-04-03 | 2605 | 378 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 2598 | 378 | 
 | 2023-03-10 | 2597 | 378 | 
 | 2023-03-08 | 2598 | 378 | 
-| 2023-03-07 | 2597 | 378 | 
 

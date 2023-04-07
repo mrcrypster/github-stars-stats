@@ -1,10 +1,10 @@
 # PyCQA/isort - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 517
 
-★ Stars: 5725
+★ Stars: 5727
 
 [Open repository](https://github.com/PyCQA/isort)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5727 | 517 | 
 | 2023-04-05 | 5725 | 517 | 
 | 2023-04-04 | 5720 | 515 | 
 | 2023-04-03 | 5716 | 515 | 

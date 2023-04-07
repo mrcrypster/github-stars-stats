@@ -1,10 +1,10 @@
 # wintermute-cell/gitignore.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/wintermute-cell/gitignore.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 61 | 1 | 
 | 2023-04-05 | 60 | 1 | 
 | 2023-04-04 | 59 | 1 | 
 | 2023-04-03 | 53 | - | 

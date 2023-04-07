@@ -1,10 +1,10 @@
 # choidavid4/pagina-completa-html-css - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 78
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/choidavid4/pagina-completa-html-css)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 71 | 78 | 
 | 2023-04-05 | 70 | 78 | 
 | 2023-04-04 | 70 | 78 | 
 | 2023-04-03 | 70 | 78 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 67 | 77 | 
 | 2023-03-10 | 67 | 76 | 
 | 2023-03-08 | 67 | 75 | 
-| 2023-03-07 | 66 | 75 | 
 

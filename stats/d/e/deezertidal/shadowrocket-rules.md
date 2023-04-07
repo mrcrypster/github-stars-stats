@@ -1,10 +1,10 @@
 # deezertidal/shadowrocket-rules - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 112
+☋ Forks: 114
 
-★ Stars: 1383
+★ Stars: 1391
 
 [Open repository](https://github.com/deezertidal/shadowrocket-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1391 | 114 | 
 | 2023-04-05 | 1383 | 112 | 
 | 2023-04-04 | 1378 | 112 | 
 | 2023-04-03 | 1364 | 111 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1133 | 98 | 
 | 2023-03-10 | 1124 | 97 | 
 | 2023-03-08 | 1117 | 98 | 
-| 2023-03-07 | 1112 | 96 | 
 

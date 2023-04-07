@@ -1,6 +1,6 @@
 # laravel/pennant - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 327 | 24 | 
 | 2023-04-05 | 327 | 24 | 
 | 2023-04-04 | 327 | 24 | 
 | 2023-04-03 | 326 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 308 | 23 | 
 | 2023-03-10 | 308 | 22 | 
 | 2023-03-08 | 304 | 22 | 
-| 2023-03-07 | 302 | 23 | 
 

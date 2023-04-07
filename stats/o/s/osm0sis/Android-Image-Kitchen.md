@@ -1,6 +1,6 @@
 # osm0sis/Android-Image-Kitchen - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 592 | 222 | 
 | 2023-04-05 | 592 | 222 | 
 | 2023-04-03 | 591 | 221 | 
 | 2023-04-02 | 591 | 222 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 580 | 219 | 
 | 2023-03-10 | 580 | 219 | 
 | 2023-03-08 | 580 | 219 | 
-| 2023-03-07 | 579 | 219 | 
 

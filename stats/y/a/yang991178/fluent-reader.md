@@ -1,10 +1,10 @@
 # yang991178/fluent-reader - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 299
 
-★ Stars: 4687
+★ Stars: 4690
 
 [Open repository](https://github.com/yang991178/fluent-reader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4690 | 299 | 
 | 2023-04-05 | 4687 | 299 | 
 | 2023-04-03 | 4680 | 297 | 
 | 2023-04-02 | 4675 | 297 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 4548 | 293 | 
 | 2023-03-09 | 4544 | 293 | 
 | 2023-03-08 | 4540 | 293 | 
-| 2023-03-07 | 4535 | 293 | 
 

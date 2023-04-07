@@ -1,10 +1,10 @@
 # Azure-Samples/svc-invoke-dapr-csharp - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/Azure-Samples/svc-invoke-dapr-csharp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6 | 2 | 
 | 2023-04-05 | 5 | 2 | 
 | 2023-04-04 | 4 | 1 | 
 | 2023-04-03 | 4 | 1 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 3 | 1 | 
 | 2023-03-10 | 3 | 1 | 
 | 2023-03-09 | 3 | 1 | 
-| 2023-03-08 | 3 | 1 | 
 

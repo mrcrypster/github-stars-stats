@@ -1,10 +1,10 @@
 # Azure/azure-openai-workshop - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 69
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/Azure/azure-openai-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 152 | 69 | 
 | 2023-04-05 | 151 | 69 | 
 | 2023-04-04 | 150 | 69 | 
 | 2023-04-03 | 142 | 65 | 

@@ -1,10 +1,10 @@
 # hiifeng/v2ray - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 115
+★ Stars: 118
 
 [Open repository](https://github.com/hiifeng/v2ray)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 118 | 91 | 
 | 2023-04-05 | 115 | 90 | 
 | 2023-04-04 | 114 | 90 | 
 | 2023-04-02 | 112 | 89 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 96 | 74 | 
 | 2023-03-10 | 97 | 74 | 
 | 2023-03-08 | 94 | 73 | 
-| 2023-03-07 | 94 | 72 | 
 

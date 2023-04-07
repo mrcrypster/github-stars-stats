@@ -1,8 +1,8 @@
 # lit/lit - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 732
+☋ Forks: 733
 
 ★ Stars: 14224
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 14224 | 733 | 
 | 2023-04-05 | 14224 | 732 | 
 | 2023-04-04 | 14212 | 731 | 
 | 2023-04-02 | 14199 | 731 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 13998 | 715 | 
 | 2023-03-10 | 13987 | 715 | 
 | 2023-03-08 | 13979 | 715 | 
-| 2023-03-07 | 13966 | 713 | 
 

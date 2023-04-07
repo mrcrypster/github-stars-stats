@@ -1,10 +1,10 @@
 # Sanakan8472/copy-dialog-lunar-lander - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 65
 
-★ Stars: 3342
+★ Stars: 3341
 
 [Open repository](https://github.com/Sanakan8472/copy-dialog-lunar-lander)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3341 | 65 | 
 | 2023-04-05 | 3342 | 65 | 
 | 2023-04-04 | 3343 | 65 | 
 | 2023-04-03 | 3343 | 65 | 

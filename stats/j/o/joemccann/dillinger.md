@@ -1,6 +1,6 @@
 # joemccann/dillinger - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1100
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 7625 | 1100 | 
 | 2023-04-05 | 7625 | 1100 | 
 | 2023-04-04 | 7625 | 1099 | 
 | 2023-04-03 | 7624 | 1099 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 7619 | 1103 | 
 | 2023-03-10 | 7615 | 1103 | 
 | 2023-03-09 | 7613 | 1102 | 
-| 2023-03-08 | 7615 | 1101 | 
 

@@ -1,10 +1,10 @@
 # kethcode/vEVM - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 108
+★ Stars: 107
 
 [Open repository](https://github.com/kethcode/vEVM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 107 | 6 | 
 | 2023-04-05 | 108 | 6 | 
 | 2023-04-04 | 108 | 6 | 
 | 2023-04-02 | 107 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 99 | 4 | 
 | 2023-03-09 | 98 | 4 | 
 | 2023-03-08 | 96 | 4 | 
-| 2023-03-07 | 96 | 4 | 
 

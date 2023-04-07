@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 19
+☋ Forks: 22
 
-★ Stars: 416
+★ Stars: 462
 
 [Open repository](https://github.com/handzlikchris/FastScriptReload)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 416 | 19 | 
+| 2023-04-06 | 462 | 22 | 
 | 2023-04-05 | 406 | 19 | 
 

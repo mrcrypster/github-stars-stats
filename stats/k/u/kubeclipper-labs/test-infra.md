@@ -1,10 +1,10 @@
 # kubeclipper-labs/test-infra - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/kubeclipper-labs/test-infra)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 18 | 2 | 
 | 2023-04-05 | 19 | 2 | 
 | 2023-04-04 | 19 | 2 | 
 | 2023-04-03 | 19 | 2 | 

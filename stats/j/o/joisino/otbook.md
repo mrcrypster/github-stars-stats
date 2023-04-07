@@ -1,10 +1,10 @@
 # joisino/otbook - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/joisino/otbook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 60 | 7 | 
 | 2023-04-05 | 59 | 7 | 
 | 2023-04-04 | 59 | 7 | 
 | 2023-04-03 | 59 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 58 | 7 | 
 | 2023-03-09 | 58 | 7 | 
 | 2023-03-08 | 57 | 7 | 
-| 2023-03-07 | 57 | 7 | 
 

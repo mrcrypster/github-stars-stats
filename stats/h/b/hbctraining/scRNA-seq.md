@@ -1,8 +1,8 @@
 # hbctraining/scRNA-seq - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 191
+☋ Forks: 192
 
 ★ Stars: 417
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 417 | 192 | 
 | 2023-04-05 | 417 | 191 | 
 | 2023-04-04 | 417 | 191 | 
 | 2023-04-02 | 417 | 191 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 405 | 187 | 
 | 2023-03-10 | 405 | 187 | 
 | 2023-03-09 | 405 | 186 | 
-| 2023-03-07 | 405 | 185 | 
 

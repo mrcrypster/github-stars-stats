@@ -1,10 +1,10 @@
 # JeffersonD-art/one-challenge-encriptador-texto - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/JeffersonD-art/one-challenge-encriptador-texto)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 51 | 2 | 
 | 2023-04-05 | 50 | 2 | 
 | 2023-04-03 | 50 | 2 | 
 | 2023-04-02 | 50 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 50 | 2 | 
 | 2023-03-10 | 50 | 2 | 
 | 2023-03-08 | 50 | 2 | 
-| 2023-03-07 | 50 | 2 | 
 

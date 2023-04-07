@@ -1,10 +1,10 @@
 # jamesturk/scrapeghost - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 745
+★ Stars: 768
 
 [Open repository](https://github.com/jamesturk/scrapeghost)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 768 | 28 | 
 | 2023-04-05 | 745 | 27 | 
 | 2023-04-03 | 699 | 26 | 
 | 2023-04-02 | 665 | 23 | 

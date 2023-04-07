@@ -1,6 +1,6 @@
 # hlissner/evil-snipe - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 299 | 24 | 
 | 2023-04-05 | 299 | 24 | 
 | 2023-04-04 | 298 | 24 | 
 | 2023-04-03 | 298 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 291 | 24 | 
 | 2023-03-10 | 291 | 24 | 
 | 2023-03-08 | 291 | 24 | 
-| 2023-03-07 | 290 | 24 | 
 

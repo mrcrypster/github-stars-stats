@@ -1,10 +1,10 @@
 # vercel/swr - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1030
+☋ Forks: 1031
 
-★ Stars: 26240
+★ Stars: 26257
 
 [Open repository](https://github.com/vercel/swr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 26257 | 1031 | 
 | 2023-04-05 | 26240 | 1030 | 
 | 2023-04-04 | 26223 | 1029 | 
 | 2023-04-03 | 26213 | 1030 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 25970 | 1025 | 
 | 2023-03-10 | 25952 | 1025 | 
 | 2023-03-08 | 25932 | 1024 | 
-| 2023-03-07 | 25907 | 1024 | 
 

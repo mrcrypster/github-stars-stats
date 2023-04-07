@@ -1,8 +1,8 @@
 # brunocampos01/banco-de-dados - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 144
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 144 | 29 | 
 | 2023-04-05 | 144 | 28 | 
 | 2023-04-03 | 144 | 28 | 
 | 2023-04-02 | 142 | 28 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 135 | 27 | 
 | 2023-03-10 | 135 | 27 | 
 | 2023-03-08 | 135 | 27 | 
-| 2023-03-07 | 135 | 27 | 
 

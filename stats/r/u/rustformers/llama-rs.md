@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 104
+☋ Forks: 106
 
-★ Stars: 2495
+★ Stars: 2503
 
 [Open repository](https://github.com/rustformers/llama-rs)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 2495 | 104 | 
+| 2023-04-06 | 2503 | 106 | 
 | 2023-04-05 | 2493 | 104 | 
 | 2023-04-04 | 2458 | 103 | 
 | 2023-04-03 | 2366 | 96 | 

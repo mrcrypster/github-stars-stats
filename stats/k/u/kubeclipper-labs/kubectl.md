@@ -1,10 +1,10 @@
 # kubeclipper-labs/kubectl - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/kubeclipper-labs/kubectl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 22 | 1 | 
 | 2023-04-05 | 23 | 1 | 
 | 2023-04-04 | 23 | 1 | 
 | 2023-04-03 | 23 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 23 | 1 | 
 | 2023-03-09 | 23 | 1 | 
 | 2023-03-08 | 23 | 1 | 
-| 2023-03-07 | 23 | 1 | 
 

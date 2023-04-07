@@ -1,10 +1,10 @@
 # input-output-hk/mithril - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/input-output-hk/mithril)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 74 | 7 | 
 | 2023-04-05 | 73 | 7 | 
 | 2023-04-04 | 73 | 7 | 
 | 2023-04-03 | 73 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 72 | 7 | 
 | 2023-03-09 | 72 | 7 | 
 | 2023-03-08 | 72 | 7 | 
-| 2023-03-07 | 72 | 7 | 
 

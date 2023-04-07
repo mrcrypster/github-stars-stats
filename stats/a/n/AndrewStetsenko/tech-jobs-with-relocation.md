@@ -1,10 +1,10 @@
 # AndrewStetsenko/tech-jobs-with-relocation - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 151
 
-★ Stars: 1355
+★ Stars: 1364
 
 [Open repository](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1364 | 151 | 
 | 2023-04-05 | 1355 | 151 | 
 | 2023-04-04 | 1348 | 150 | 
 | 2023-04-03 | 1337 | 150 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1213 | 142 | 
 | 2023-03-10 | 1213 | 142 | 
 | 2023-03-09 | 1212 | 142 | 
-| 2023-03-07 | 1209 | 142 | 
 

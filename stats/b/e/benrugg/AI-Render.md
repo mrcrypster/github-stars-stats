@@ -1,10 +1,10 @@
 # benrugg/AI-Render - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 46
 
-★ Stars: 720
+★ Stars: 723
 
 [Open repository](https://github.com/benrugg/AI-Render)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 723 | 46 | 
 | 2023-04-05 | 720 | 46 | 
 | 2023-04-04 | 714 | 46 | 
 | 2023-04-03 | 712 | 46 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 685 | 42 | 
 | 2023-03-10 | 683 | 42 | 
 | 2023-03-09 | 681 | 42 | 
-| 2023-03-07 | 679 | 42 | 
 

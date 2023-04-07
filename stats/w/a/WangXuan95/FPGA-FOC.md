@@ -1,10 +1,10 @@
 # WangXuan95/FPGA-FOC - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 102
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/WangXuan95/FPGA-FOC)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 226 | 102 | 
 | 2023-04-05 | 225 | 102 | 
 | 2023-04-04 | 225 | 102 | 
 | 2023-04-03 | 224 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 215 | 92 | 
 | 2023-03-10 | 215 | 92 | 
 | 2023-03-09 | 215 | 92 | 
-| 2023-03-07 | 215 | 92 | 
 

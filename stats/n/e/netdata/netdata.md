@@ -1,10 +1,10 @@
 # netdata/netdata - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 5487
+☋ Forks: 5486
 
-★ Stars: 62501
+★ Stars: 62515
 
 [Open repository](https://github.com/netdata/netdata)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 62515 | 5486 | 
 | 2023-04-05 | 62501 | 5487 | 
 | 2023-04-04 | 62489 | 5487 | 
 | 2023-04-03 | 62476 | 5487 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 62229 | 5468 | 
 | 2023-03-10 | 62221 | 5467 | 
 | 2023-03-09 | 62216 | 5466 | 
-| 2023-03-07 | 62207 | 5463 | 
 

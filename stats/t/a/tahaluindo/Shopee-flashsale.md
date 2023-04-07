@@ -1,10 +1,10 @@
 # tahaluindo/Shopee-flashsale - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 46
+☋ Forks: 48
 
-★ Stars: 78
+★ Stars: 80
 
 [Open repository](https://github.com/tahaluindo/Shopee-flashsale)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 80 | 48 | 
 | 2023-04-05 | 78 | 46 | 
 | 2023-04-04 | 75 | 45 | 
 | 2023-04-03 | 74 | 42 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 68 | 36 | 
 | 2023-03-10 | 68 | 36 | 
 | 2023-03-09 | 68 | 36 | 
-| 2023-03-07 | 68 | 36 | 
 

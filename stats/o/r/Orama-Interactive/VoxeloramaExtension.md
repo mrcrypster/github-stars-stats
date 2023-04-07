@@ -1,6 +1,6 @@
 # Orama-Interactive/VoxeloramaExtension - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 53 | 3 | 
 | 2023-04-05 | 53 | 3 | 
 | 2023-04-04 | 53 | 3 | 
 | 2023-04-03 | 53 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 51 | 2 | 
 | 2023-03-09 | 51 | 2 | 
 | 2023-03-08 | 51 | 2 | 
-| 2023-03-07 | 51 | 2 | 
 

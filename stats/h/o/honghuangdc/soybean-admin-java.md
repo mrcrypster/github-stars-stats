@@ -1,10 +1,10 @@
 # honghuangdc/soybean-admin-java - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 53
+☋ Forks: 55
 
-★ Stars: 86
+★ Stars: 89
 
 [Open repository](https://github.com/honghuangdc/soybean-admin-java)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 89 | 55 | 
 | 2023-04-05 | 86 | 53 | 
 | 2023-04-04 | 85 | 52 | 
 | 2023-04-03 | 84 | 52 | 

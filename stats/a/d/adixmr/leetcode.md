@@ -1,8 +1,8 @@
 # adixmr/leetcode - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 254
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 254 | 45 | 
 | 2023-04-05 | 254 | 44 | 
 | 2023-04-04 | 254 | 44 | 
 | 2023-04-03 | 254 | 44 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 252 | 43 | 
 | 2023-03-10 | 252 | 43 | 
 | 2023-03-08 | 252 | 43 | 
-| 2023-03-07 | 251 | 43 | 
 

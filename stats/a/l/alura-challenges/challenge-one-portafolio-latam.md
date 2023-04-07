@@ -1,6 +1,6 @@
 # alura-challenges/challenge-one-portafolio-latam - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 154 | 65 | 
 | 2023-04-05 | 154 | 65 | 
 | 2023-04-04 | 153 | 65 | 
 | 2023-04-03 | 153 | 66 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 141 | 62 | 
 | 2023-03-10 | 141 | 62 | 
 | 2023-03-08 | 140 | 62 | 
-| 2023-03-07 | 140 | 62 | 
 

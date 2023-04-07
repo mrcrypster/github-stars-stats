@@ -1,10 +1,10 @@
 # 1N3/BruteX - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 541
 
-★ Stars: 1568
+★ Stars: 1569
 
 [Open repository](https://github.com/1N3/BruteX)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1569 | 541 | 
 | 2023-04-05 | 1568 | 541 | 
 | 2023-04-04 | 1567 | 541 | 
 | 2023-04-03 | 1567 | 541 | 

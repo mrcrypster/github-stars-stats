@@ -1,10 +1,10 @@
 # zen-mod/ZEN - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 43
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/zen-mod/ZEN)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 100 | 43 | 
 | 2023-04-05 | 99 | 43 | 
 | 2023-04-04 | 99 | 43 | 
 | 2023-04-03 | 98 | 43 | 

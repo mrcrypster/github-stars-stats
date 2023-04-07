@@ -1,8 +1,8 @@
 # hardmaru/image-notebook - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 85 | 17 | 
 | 2023-04-05 | 85 | 16 | 
 | 2023-04-04 | 85 | 16 | 
 | 2023-04-03 | 85 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 82 | 14 | 
 | 2023-03-10 | 82 | 14 | 
 | 2023-03-09 | 82 | 14 | 
-| 2023-03-07 | 82 | 14 | 
 

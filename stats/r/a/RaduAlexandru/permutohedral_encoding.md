@@ -1,10 +1,10 @@
 # RaduAlexandru/permutohedral_encoding - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/RaduAlexandru/permutohedral_encoding)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 39 | 1 | 
 | 2023-04-05 | 38 | - | 
 | 2023-04-04 | 38 | - | 
 | 2023-04-03 | 34 | - | 

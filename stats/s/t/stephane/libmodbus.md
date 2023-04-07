@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 1536
 
-★ Stars: 2651
+★ Stars: 2652
 
 [Open repository](https://github.com/stephane/libmodbus)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 2651 | 1536 | 
+| 2023-04-06 | 2652 | 1536 | 
 | 2023-04-05 | 2651 | 1536 | 
 | 2023-04-04 | 2647 | 1534 | 
 | 2023-04-03 | 2644 | 1533 | 

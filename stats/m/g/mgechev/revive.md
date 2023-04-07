@@ -1,6 +1,6 @@
 # mgechev/revive - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4158 | 242 | 
 | 2023-04-05 | 4158 | 242 | 
 | 2023-04-04 | 4155 | 243 | 
 | 2023-04-03 | 4149 | 243 | 

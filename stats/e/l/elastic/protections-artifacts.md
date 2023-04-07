@@ -1,6 +1,6 @@
 # elastic/protections-artifacts - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 67
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 619 | 67 | 
+| 2023-04-06 | 619 | 67 | 
 | 2023-04-05 | 619 | 67 | 
 | 2023-04-04 | 619 | 66 | 
 | 2023-04-03 | 618 | 66 | 
@@ -35,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 594 | 62 | 
 | 2023-03-09 | 592 | 62 | 
 | 2023-03-08 | 590 | 62 | 
-| 2023-03-07 | 589 | 62 | 
 

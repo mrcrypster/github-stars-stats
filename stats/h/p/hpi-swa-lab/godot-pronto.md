@@ -1,0 +1,17 @@
+# hpi-swa-lab/godot-pronto - stars & forks statistics
+
+Stats updated on Apr 2023, 06
+
+☋ Forks: 1
+
+★ Stars: 1
+
+[Open repository](https://github.com/hpi-swa-lab/godot-pronto)
+
+[Open detailed stats for hpi-swa-lab/godot-pronto](https://reviewgithub.com/rep/hpi-swa-lab/godot-pronto)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-06 | 1 | 1 | 
+

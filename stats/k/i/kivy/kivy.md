@@ -1,10 +1,10 @@
 # kivy/kivy - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 3013
 
-★ Stars: 15710
+★ Stars: 15717
 
 [Open repository](https://github.com/kivy/kivy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 15717 | 3013 | 
 | 2023-04-05 | 15710 | 3013 | 
 | 2023-04-04 | 15706 | 3013 | 
 | 2023-04-03 | 15705 | 3013 | 

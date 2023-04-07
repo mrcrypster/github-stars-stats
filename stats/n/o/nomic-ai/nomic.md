@@ -1,10 +1,10 @@
 # nomic-ai/nomic - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 317
+★ Stars: 335
 
 [Open repository](https://github.com/nomic-ai/nomic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 335 | 48 | 
 | 2023-04-05 | 317 | 47 | 
 | 2023-04-04 | 302 | 43 | 
 | 2023-04-03 | 286 | 38 | 

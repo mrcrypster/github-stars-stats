@@ -1,6 +1,6 @@
 # YN3011140075/02_DartWeb - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2 | 35 | 
 | 2023-04-06 | 2 | 35 | 
 | 2023-04-04 | 2 | 35 | 
 | 2023-04-03 | 2 | 35 | 

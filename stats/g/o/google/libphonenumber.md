@@ -1,10 +1,10 @@
 # google/libphonenumber - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1956
+☋ Forks: 1957
 
-★ Stars: 14854
+★ Stars: 14857
 
 [Open repository](https://github.com/google/libphonenumber)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 14857 | 1957 | 
 | 2023-04-05 | 14854 | 1956 | 
 | 2023-04-03 | 14848 | 1955 | 
 | 2023-04-02 | 14841 | 1954 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 14743 | 1950 | 
 | 2023-03-10 | 14737 | 1950 | 
 | 2023-03-09 | 14731 | 1950 | 
-| 2023-03-07 | 14728 | 1949 | 
 

@@ -1,10 +1,10 @@
 # barbeau/gpstest - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 333
 
-★ Stars: 1275
+★ Stars: 1276
 
 [Open repository](https://github.com/barbeau/gpstest)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1276 | 333 | 
 | 2023-04-05 | 1275 | 333 | 
 | 2023-04-04 | 1275 | 333 | 
 | 2023-04-03 | 1275 | 333 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1260 | 332 | 
 | 2023-03-10 | 1259 | 332 | 
 | 2023-03-08 | 1256 | 332 | 
-| 2023-03-07 | 1253 | 332 | 
 

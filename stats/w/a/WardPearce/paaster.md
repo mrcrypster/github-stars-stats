@@ -1,10 +1,10 @@
 # WardPearce/paaster - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 12
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/WardPearce/paaster)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 296 | 12 | 
 | 2023-04-05 | 295 | 12 | 
 | 2023-04-03 | 295 | 12 | 
 | 2023-04-02 | 295 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 287 | 10 | 
 | 2023-03-10 | 287 | 10 | 
 | 2023-03-08 | 286 | 10 | 
-| 2023-03-07 | 286 | 10 | 
 

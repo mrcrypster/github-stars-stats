@@ -1,10 +1,10 @@
 # RynoM/self-hosted-deployment - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/RynoM/self-hosted-deployment)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 26 | 3 | 
 | 2023-04-05 | 25 | 3 | 
 

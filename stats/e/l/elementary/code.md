@@ -1,6 +1,6 @@
 # elementary/code - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 436 | 109 | 
 | 2023-04-05 | 436 | 109 | 
 | 2023-04-03 | 436 | 109 | 
 | 2023-04-02 | 436 | 110 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 435 | 110 | 
 | 2023-03-10 | 435 | 110 | 
 | 2023-03-09 | 436 | 110 | 
-| 2023-03-08 | 435 | 109 | 
 

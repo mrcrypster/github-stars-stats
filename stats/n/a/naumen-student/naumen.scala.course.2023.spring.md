@@ -1,6 +1,6 @@
 # naumen-student/naumen.scala.course.2023.spring - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3 | 29 | 
 | 2023-04-05 | 3 | 29 | 
 | 2023-04-03 | 3 | 29 | 
 | 2023-04-02 | 3 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 3 | 26 | 
 | 2023-03-09 | 3 | 26 | 
 | 2023-03-08 | 3 | 26 | 
-| 2023-03-07 | 3 | 26 | 
 

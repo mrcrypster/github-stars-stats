@@ -1,6 +1,6 @@
 # lbc-team/deep_ethereum - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 343 | 133 | 
 | 2023-04-05 | 343 | 133 | 
 | 2023-04-04 | 343 | 133 | 
 | 2023-04-03 | 343 | 133 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 336 | 132 | 
 | 2023-03-10 | 335 | 132 | 
 | 2023-03-08 | 335 | 132 | 
-| 2023-03-07 | 335 | 132 | 
 

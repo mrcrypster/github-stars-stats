@@ -1,6 +1,6 @@
 # alist-org/alist-web - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 153 | 143 | 
 | 2023-04-05 | 153 | 143 | 
 | 2023-04-04 | 153 | 142 | 
 | 2023-04-03 | 154 | 140 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 142 | 131 | 
 | 2023-03-10 | 141 | 130 | 
 | 2023-03-09 | 140 | 129 | 
-| 2023-03-07 | 137 | 129 | 
 

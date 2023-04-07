@@ -1,10 +1,10 @@
 # cztomsik/graffiti - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 899
+★ Stars: 900
 
 [Open repository](https://github.com/cztomsik/graffiti)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 900 | 18 | 
 | 2023-04-05 | 899 | 18 | 
 | 2023-04-04 | 899 | 18 | 
 | 2023-04-03 | 899 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 898 | 17 | 
 | 2023-03-10 | 898 | 17 | 
 | 2023-03-09 | 896 | 17 | 
-| 2023-03-08 | 896 | 17 | 
 

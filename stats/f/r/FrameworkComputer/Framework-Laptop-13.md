@@ -1,10 +1,10 @@
 # FrameworkComputer/Framework-Laptop-13 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 47
 
-★ Stars: 1189
+★ Stars: 1190
 
 [Open repository](https://github.com/FrameworkComputer/Framework-Laptop-13)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1190 | 47 | 
 | 2023-04-05 | 1189 | 47 | 
 | 2023-04-04 | 1184 | 47 | 
 | 2023-04-03 | 1183 | 47 | 

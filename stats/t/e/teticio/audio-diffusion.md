@@ -1,10 +1,10 @@
 # teticio/audio-diffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/teticio/audio-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 410 | 40 | 
 | 2023-04-05 | 409 | 39 | 
 | 2023-04-03 | 405 | 39 | 
 | 2023-04-02 | 404 | 39 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 358 | 36 | 
 | 2023-03-10 | 356 | 36 | 
 | 2023-03-09 | 356 | 36 | 
-| 2023-03-07 | 354 | 36 | 
 

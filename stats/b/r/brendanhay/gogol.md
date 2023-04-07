@@ -1,6 +1,6 @@
 # brendanhay/gogol - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 272 | 104 | 
 | 2023-04-05 | 272 | 104 | 
 | 2023-04-04 | 272 | 104 | 
 | 2023-04-02 | 272 | 104 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 272 | 103 | 
 | 2023-03-10 | 272 | 103 | 
 | 2023-03-08 | 272 | 103 | 
-| 2023-03-07 | 272 | 103 | 
 

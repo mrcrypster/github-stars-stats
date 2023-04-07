@@ -1,10 +1,10 @@
 # dakhama-mehdi/Modern_ActiveDirectory - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 32
 
 [Open repository](https://github.com/dakhama-mehdi/Modern_ActiveDirectory)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 32 | 1 | 
 | 2023-04-05 | 29 | 1 | 
 | 2023-04-04 | 28 | 1 | 
 | 2023-04-03 | 28 | 1 | 

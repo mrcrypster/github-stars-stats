@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 224
 
-★ Stars: 3288
+★ Stars: 3289
 
 [Open repository](https://github.com/babashka/babashka)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 3288 | 224 | 
+| 2023-04-06 | 3289 | 224 | 
 | 2023-04-05 | 3288 | 224 | 
 | 2023-04-04 | 3286 | 223 | 
 | 2023-04-03 | 3285 | 223 | 

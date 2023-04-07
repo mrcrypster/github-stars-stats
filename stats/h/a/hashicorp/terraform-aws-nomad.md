@@ -1,6 +1,6 @@
 # hashicorp/terraform-aws-nomad - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 258 | 192 | 
 | 2023-04-05 | 258 | 192 | 
 | 2023-04-04 | 258 | 192 | 
 | 2023-04-03 | 258 | 192 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 258 | 191 | 
 | 2023-03-10 | 258 | 191 | 
 | 2023-03-09 | 258 | 191 | 
-| 2023-03-07 | 257 | 191 | 
 

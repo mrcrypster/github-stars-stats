@@ -1,10 +1,10 @@
 # RainEggplant/chatgpt-telegram-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 86
+☋ Forks: 87
 
-★ Stars: 269
+★ Stars: 271
 
 [Open repository](https://github.com/RainEggplant/chatgpt-telegram-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 271 | 87 | 
 | 2023-04-05 | 269 | 86 | 
 | 2023-04-04 | 266 | 83 | 
 | 2023-04-03 | 263 | 81 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 215 | 47 | 
 | 2023-03-10 | 208 | 44 | 
 | 2023-03-08 | 199 | 43 | 
-| 2023-03-07 | 192 | 42 | 
 

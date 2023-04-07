@@ -1,10 +1,10 @@
 # michael-franke/Bayesian-Regression - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 6
+★ Stars: 8
 
 [Open repository](https://github.com/michael-franke/Bayesian-Regression)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 8 | 5 | 
 | 2023-04-05 | 6 | 5 | 
 | 2023-04-04 | 3 | 5 | 
 | 2023-04-03 | 3 | 5 | 

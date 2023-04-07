@@ -1,10 +1,10 @@
 # iamseancheney/python_for_data_analysis_2nd_chinese_version - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 2417
+☋ Forks: 2418
 
-★ Stars: 5956
+★ Stars: 5957
 
 [Open repository](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5957 | 2418 | 
 | 2023-04-05 | 5956 | 2417 | 
 | 2023-04-04 | 5952 | 2416 | 
 | 2023-04-02 | 5948 | 2416 | 

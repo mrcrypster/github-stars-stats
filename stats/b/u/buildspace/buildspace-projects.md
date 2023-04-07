@@ -1,10 +1,10 @@
 # buildspace/buildspace-projects - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1026
+☋ Forks: 1030
 
-★ Stars: 2814
+★ Stars: 2815
 
 [Open repository](https://github.com/buildspace/buildspace-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2815 | 1030 | 
 | 2023-04-05 | 2814 | 1026 | 
 | 2023-04-04 | 2809 | 1024 | 
 | 2023-04-03 | 2804 | 1025 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 2779 | 1014 | 
 | 2023-03-10 | 2778 | 1013 | 
 | 2023-03-09 | 2775 | 1012 | 
-| 2023-03-08 | 2774 | 1010 | 
 

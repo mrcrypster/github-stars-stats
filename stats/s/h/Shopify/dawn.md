@@ -1,10 +1,10 @@
 # Shopify/dawn - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 2560
+☋ Forks: 2563
 
-★ Stars: 1946
+★ Stars: 1948
 
 [Open repository](https://github.com/Shopify/dawn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1948 | 2563 | 
 | 2023-04-05 | 1946 | 2560 | 
 | 2023-04-04 | 1945 | 2557 | 
 | 2023-04-03 | 1945 | 2553 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 1920 | 2501 | 
 | 2023-03-09 | 1917 | 2497 | 
 | 2023-03-08 | 1915 | 2497 | 
-| 2023-03-07 | 1916 | 2492 | 
 

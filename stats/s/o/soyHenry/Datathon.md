@@ -1,6 +1,6 @@
 # soyHenry/Datathon - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 10 | 190 | 
 | 2023-04-05 | 10 | 190 | 
 | 2023-04-04 | 10 | 190 | 
 | 2023-04-03 | 10 | 190 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 10 | 189 | 
 | 2023-03-10 | 10 | 189 | 
 | 2023-03-08 | 10 | 189 | 
-| 2023-03-07 | 10 | 189 | 
 

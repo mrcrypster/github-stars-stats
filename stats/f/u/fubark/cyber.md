@@ -1,10 +1,10 @@
 # fubark/cyber - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 19
 
-★ Stars: 733
+★ Stars: 735
 
 [Open repository](https://github.com/fubark/cyber)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 735 | 19 | 
+| 2023-04-06 | 735 | 19 | 
 | 2023-04-05 | 733 | 19 | 
 | 2023-04-04 | 728 | 19 | 
 | 2023-04-03 | 728 | 19 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 699 | 16 | 
 | 2023-03-09 | 695 | 16 | 
 | 2023-03-08 | 693 | 16 | 
-| 2023-03-07 | 692 | 16 | 
 

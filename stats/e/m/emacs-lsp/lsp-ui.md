@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 930 | 139 | 
 | 2023-04-05 | 930 | 139 | 
 | 2023-04-04 | 930 | 139 | 
 | 2023-04-03 | 930 | 139 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 924 | 138 | 
 | 2023-03-10 | 924 | 138 | 
 | 2023-03-08 | 924 | 138 | 
-| 2023-03-07 | 924 | 138 | 
 

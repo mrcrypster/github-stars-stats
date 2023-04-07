@@ -1,6 +1,6 @@
 # saviodossantos/projeto-videos - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4 | 14 | 
 | 2023-04-05 | 4 | 14 | 
 | 2023-04-04 | 4 | 14 | 
 | 2023-04-02 | 4 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 4 | 14 | 
 | 2023-03-09 | 4 | 14 | 
 | 2023-03-08 | 4 | 14 | 
-| 2023-03-07 | 4 | 14 | 
 

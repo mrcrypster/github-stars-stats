@@ -1,10 +1,10 @@
 # OWASP/NodeGoat - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1284
 
-★ Stars: 1705
+★ Stars: 1707
 
 [Open repository](https://github.com/OWASP/NodeGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1707 | 1284 | 
 | 2023-04-05 | 1705 | 1284 | 
 | 2023-04-04 | 1705 | 1283 | 
 | 2023-04-03 | 1704 | 1283 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1694 | 1253 | 
 | 2023-03-09 | 1694 | 1252 | 
 | 2023-03-08 | 1692 | 1251 | 
-| 2023-03-07 | 1691 | 1248 | 
 

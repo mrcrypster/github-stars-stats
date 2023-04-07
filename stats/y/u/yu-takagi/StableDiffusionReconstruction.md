@@ -1,10 +1,10 @@
 # yu-takagi/StableDiffusionReconstruction - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 21
 
-★ Stars: 818
+★ Stars: 820
 
 [Open repository](https://github.com/yu-takagi/StableDiffusionReconstruction)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 820 | 21 | 
 | 2023-04-05 | 818 | 21 | 
 | 2023-04-03 | 818 | 21 | 
 | 2023-04-02 | 814 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 735 | 20 | 
 | 2023-03-09 | 722 | 18 | 
 | 2023-03-08 | 709 | 17 | 
-| 2023-03-07 | 690 | 17 | 
 

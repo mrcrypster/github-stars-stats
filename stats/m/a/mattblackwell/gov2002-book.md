@@ -1,10 +1,10 @@
 # mattblackwell/gov2002-book - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/mattblackwell/gov2002-book)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 50 | 8 | 
+| 2023-04-07 | 51 | 9 | 
+| 2023-04-06 | 51 | 9 | 
 | 2023-04-05 | 49 | 8 | 
 

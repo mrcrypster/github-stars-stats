@@ -1,10 +1,10 @@
 # rusqlite/rusqlite - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 268
 
-★ Stars: 2018
+★ Stars: 2019
 
 [Open repository](https://github.com/rusqlite/rusqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2019 | 268 | 
 | 2023-04-05 | 2018 | 268 | 
 | 2023-04-04 | 2014 | 266 | 
 | 2023-04-03 | 2012 | 266 | 

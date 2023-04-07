@@ -1,10 +1,10 @@
 # wanglihom/Veaser - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/wanglihom/Veaser)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 128 | 1 | 
 | 2023-04-05 | 127 | 1 | 
 | 2023-04-03 | 126 | 1 | 
 | 2023-04-02 | 125 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 106 | 1 | 
 | 2023-03-10 | 103 | 1 | 
 | 2023-03-09 | 98 | 1 | 
-| 2023-03-07 | 95 | 1 | 
 

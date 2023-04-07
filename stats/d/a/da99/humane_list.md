@@ -1,0 +1,17 @@
+# da99/humane_list - stars & forks statistics
+
+Stats updated on Apr 2023, 06
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/da99/humane_list)
+
+[Open detailed stats for da99/humane_list](https://reviewgithub.com/rep/da99/humane_list)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-06 | - | - | 
+

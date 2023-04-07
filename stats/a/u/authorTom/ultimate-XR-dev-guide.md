@@ -1,10 +1,10 @@
 # authorTom/ultimate-XR-dev-guide - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 8
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/authorTom/ultimate-XR-dev-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 111 | 8 | 
 | 2023-04-05 | 110 | 8 | 
 | 2023-04-04 | 110 | 8 | 
 | 2023-04-03 | 109 | 8 | 

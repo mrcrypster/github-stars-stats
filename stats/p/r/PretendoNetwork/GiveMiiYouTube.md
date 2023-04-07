@@ -1,8 +1,8 @@
 # PretendoNetwork/GiveMiiYouTube - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1
+☋ Forks: 0
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 46 | - | 
 | 2023-04-06 | 46 | 1 | 
 | 2023-04-04 | 46 | 1 | 
 | 2023-04-03 | 46 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 43 | 1 | 
 | 2023-03-10 | 43 | 1 | 
 | 2023-03-08 | 43 | 1 | 
-| 2023-03-07 | 43 | 1 | 
 

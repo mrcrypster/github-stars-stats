@@ -1,10 +1,10 @@
 # ai/nanoid - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 739
 
-★ Stars: 20454
+★ Stars: 20463
 
 [Open repository](https://github.com/ai/nanoid)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 20463 | 739 | 
 | 2023-04-05 | 20454 | 739 | 
 | 2023-04-04 | 20446 | 739 | 
 | 2023-04-03 | 20437 | 739 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 20240 | 738 | 
 | 2023-03-10 | 20234 | 738 | 
 | 2023-03-09 | 20217 | 737 | 
-| 2023-03-07 | 20197 | 738 | 
 

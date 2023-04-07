@@ -1,10 +1,10 @@
 # davinci1012/pinduoduo_backdoor_unpacker - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 432
+☋ Forks: 433
 
-★ Stars: 1033
+★ Stars: 1035
 
 [Open repository](https://github.com/davinci1012/pinduoduo_backdoor_unpacker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1035 | 433 | 
 | 2023-04-05 | 1033 | 432 | 
 | 2023-04-04 | 1029 | 430 | 
 | 2023-04-03 | 1025 | 428 | 

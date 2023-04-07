@@ -1,6 +1,6 @@
 # laravel/passport - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 731
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3124 | 731 | 
 | 2023-04-05 | 3124 | 731 | 
 | 2023-04-04 | 3124 | 731 | 
 | 2023-04-03 | 3124 | 731 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 3106 | 727 | 
 | 2023-03-10 | 3106 | 726 | 
 | 2023-03-08 | 3106 | 726 | 
-| 2023-03-07 | 3106 | 726 | 
 

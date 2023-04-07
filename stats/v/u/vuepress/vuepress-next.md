@@ -1,10 +1,10 @@
 # vuepress/vuepress-next - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 867
 
-★ Stars: 1655
+★ Stars: 1656
 
 [Open repository](https://github.com/vuepress/vuepress-next)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1656 | 867 | 
 | 2023-04-05 | 1655 | 867 | 
 | 2023-04-04 | 1654 | 866 | 
 | 2023-04-02 | 1653 | 865 | 

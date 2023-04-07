@@ -1,10 +1,10 @@
 # QiuChenly/MyMacsAppCrack - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 22
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/QiuChenly/MyMacsAppCrack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 123 | 22 | 
 | 2023-04-05 | 122 | 22 | 
 | 2023-04-04 | 117 | 21 | 
 | 2023-04-02 | 113 | 21 | 

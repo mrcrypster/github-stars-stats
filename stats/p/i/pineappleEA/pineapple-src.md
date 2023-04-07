@@ -1,10 +1,10 @@
 # pineappleEA/pineapple-src - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 115
 
-★ Stars: 1254
+★ Stars: 1255
 
 [Open repository](https://github.com/pineappleEA/pineapple-src)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1255 | 115 | 
 | 2023-04-05 | 1254 | 115 | 
 | 2023-04-03 | 1253 | 115 | 
 | 2023-04-02 | 1253 | 115 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1217 | 115 | 
 | 2023-03-10 | 1216 | 115 | 
 | 2023-03-09 | 1215 | 115 | 
-| 2023-03-07 | 1214 | 115 | 
 

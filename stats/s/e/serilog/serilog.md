@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 744
+☋ Forks: 745
 
-★ Stars: 6169
+★ Stars: 6170
 
 [Open repository](https://github.com/serilog/serilog)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 6169 | 744 | 
+| 2023-04-06 | 6170 | 745 | 
 | 2023-04-05 | 6169 | 744 | 
 | 2023-04-04 | 6163 | 744 | 
 | 2023-04-03 | 6159 | 743 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 6124 | 736 | 
 | 2023-03-10 | 6122 | 736 | 
 | 2023-03-08 | 6118 | 735 | 
-| 2023-03-07 | 6116 | 735 | 
 

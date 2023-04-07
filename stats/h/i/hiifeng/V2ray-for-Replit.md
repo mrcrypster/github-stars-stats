@@ -1,10 +1,10 @@
 # hiifeng/V2ray-for-Replit - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 459
+☋ Forks: 462
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/hiifeng/V2ray-for-Replit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 261 | 462 | 
 | 2023-04-05 | 260 | 459 | 
 | 2023-04-04 | 258 | 459 | 
 | 2023-04-03 | 256 | 456 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 200 | 339 | 
 | 2023-03-10 | 197 | 333 | 
 | 2023-03-09 | 194 | 327 | 
-| 2023-03-07 | 193 | 319 | 
 

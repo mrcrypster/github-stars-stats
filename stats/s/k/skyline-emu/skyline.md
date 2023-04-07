@@ -1,10 +1,10 @@
 # skyline-emu/skyline - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1568
+☋ Forks: 1570
 
-★ Stars: 12352
+★ Stars: 12361
 
 [Open repository](https://github.com/skyline-emu/skyline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 12361 | 1570 | 
 | 2023-04-05 | 12352 | 1568 | 
 | 2023-04-04 | 12344 | 1568 | 
 | 2023-04-03 | 12333 | 1567 | 

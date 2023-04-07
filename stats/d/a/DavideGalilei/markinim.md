@@ -1,6 +1,6 @@
 # DavideGalilei/markinim - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 51 | 12 | 
 | 2023-04-05 | 51 | 12 | 
 | 2023-04-04 | 51 | 12 | 
 | 2023-04-03 | 51 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 50 | 12 | 
 | 2023-03-10 | 50 | 12 | 
 | 2023-03-08 | 50 | 12 | 
-| 2023-03-07 | 50 | 12 | 
 

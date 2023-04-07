@@ -1,10 +1,10 @@
 # metafizzy/isotope - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1447
 
-★ Stars: 10805
+★ Stars: 10807
 
 [Open repository](https://github.com/metafizzy/isotope)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 10807 | 1447 | 
 | 2023-04-05 | 10805 | 1447 | 
 | 2023-04-04 | 10805 | 1447 | 
 | 2023-04-02 | 10804 | 1447 | 

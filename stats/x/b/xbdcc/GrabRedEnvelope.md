@@ -1,6 +1,6 @@
 # xbdcc/GrabRedEnvelope - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 464 | 134 | 
 | 2023-04-05 | 464 | 134 | 
 | 2023-04-04 | 463 | 134 | 
 | 2023-04-03 | 463 | 134 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 455 | 130 | 
 | 2023-03-10 | 455 | 130 | 
 | 2023-03-08 | 454 | 130 | 
-| 2023-03-07 | 454 | 129 | 
 

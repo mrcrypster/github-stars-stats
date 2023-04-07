@@ -1,10 +1,10 @@
 # Puliczek/awesome-list-of-secrets-in-environment-variables - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 70
 
-★ Stars: 793
+★ Stars: 794
 
 [Open repository](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 794 | 70 | 
 | 2023-04-05 | 793 | 70 | 
 | 2023-04-04 | 793 | 70 | 
 | 2023-04-02 | 793 | 70 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 792 | 70 | 
 | 2023-03-10 | 792 | 70 | 
 | 2023-03-08 | 792 | 70 | 
-| 2023-03-07 | 792 | 70 | 
 

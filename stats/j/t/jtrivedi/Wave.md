@@ -1,6 +1,6 @@
 # jtrivedi/Wave - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1523 | 32 | 
 | 2023-04-05 | 1523 | 32 | 
 | 2023-04-04 | 1523 | 32 | 
 | 2023-04-03 | 1522 | 32 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1494 | 32 | 
 | 2023-03-10 | 1495 | 31 | 
 | 2023-03-08 | 1490 | 31 | 
-| 2023-03-07 | 1486 | 31 | 
 

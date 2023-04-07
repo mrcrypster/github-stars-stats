@@ -1,10 +1,10 @@
 # Syllo/nvtop - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 209
 
-★ Stars: 5033
+★ Stars: 5038
 
 [Open repository](https://github.com/Syllo/nvtop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5038 | 209 | 
 | 2023-04-05 | 5033 | 209 | 
 | 2023-04-04 | 5027 | 210 | 
 | 2023-04-03 | 5020 | 210 | 

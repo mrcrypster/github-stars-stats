@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 619
 
-★ Stars: 1466
+★ Stars: 1468
 
 [Open repository](https://github.com/pjsip/pjproject)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 1466 | 619 | 
+| 2023-04-06 | 1468 | 619 | 
 | 2023-04-05 | 1466 | 618 | 
 | 2023-04-03 | 1463 | 616 | 
 | 2023-04-02 | 1462 | 616 | 

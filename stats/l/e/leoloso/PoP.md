@@ -1,6 +1,6 @@
 # leoloso/PoP - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 321 | 36 | 
 | 2023-04-05 | 321 | 36 | 
 | 2023-04-03 | 320 | 36 | 
 | 2023-04-02 | 319 | 36 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 315 | 36 | 
 | 2023-03-09 | 315 | 36 | 
 | 2023-03-08 | 315 | 36 | 
-| 2023-03-07 | 314 | 36 | 
 

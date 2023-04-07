@@ -1,10 +1,10 @@
 # 201206030/novel - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1119
+☋ Forks: 1120
 
-★ Stars: 3750
+★ Stars: 3751
 
 [Open repository](https://github.com/201206030/novel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3751 | 1120 | 
 | 2023-04-05 | 3750 | 1119 | 
 | 2023-04-04 | 3746 | 1119 | 
 | 2023-04-03 | 3736 | 1119 | 

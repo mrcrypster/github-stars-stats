@@ -1,10 +1,10 @@
 # d4rksystem/VBoxCloak - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 10
 
-★ Stars: 171
+★ Stars: 174
 
 [Open repository](https://github.com/d4rksystem/VBoxCloak)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 174 | 10 | 
+| 2023-04-06 | 174 | 10 | 
 | 2023-04-05 | 171 | 10 | 
 

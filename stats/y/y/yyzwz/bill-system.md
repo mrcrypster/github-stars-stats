@@ -1,10 +1,10 @@
 # yyzwz/bill-system - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/yyzwz/bill-system)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6 | 5 | 
 | 2023-04-05 | 7 | 5 | 
 | 2023-04-04 | 7 | 5 | 
 | 2023-04-03 | 7 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 7 | 5 | 
 | 2023-03-10 | 7 | 5 | 
 | 2023-03-09 | 7 | 5 | 
-| 2023-03-07 | 7 | 5 | 
 

@@ -1,10 +1,10 @@
 # kohya-ss/sd-scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 210
+☋ Forks: 212
 
-★ Stars: 1179
+★ Stars: 1204
 
 [Open repository](https://github.com/kohya-ss/sd-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1204 | 212 | 
 | 2023-04-05 | 1179 | 210 | 
 | 2023-04-04 | 1163 | 208 | 
 | 2023-04-02 | 1137 | 208 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 753 | 154 | 
 | 2023-03-10 | 736 | 150 | 
 | 2023-03-09 | 707 | 144 | 
-| 2023-03-07 | 680 | 139 | 
 

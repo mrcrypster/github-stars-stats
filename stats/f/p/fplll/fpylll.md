@@ -1,6 +1,6 @@
 # fplll/fpylll - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 89 | 44 | 
 | 2023-04-05 | 89 | 44 | 
 | 2023-04-03 | 89 | 44 | 
 | 2023-04-02 | 89 | 44 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 88 | 45 | 
 | 2023-03-10 | 88 | 45 | 
 | 2023-03-08 | 88 | 45 | 
-| 2023-03-07 | 88 | 45 | 
 

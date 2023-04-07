@@ -1,8 +1,8 @@
 # pterodactyl-installer/pterodactyl-installer - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 374
+☋ Forks: 378
 
 ★ Stars: 831
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 831 | 378 | 
 | 2023-04-05 | 831 | 374 | 
 | 2023-04-04 | 829 | 374 | 
 | 2023-04-03 | 825 | 372 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 812 | 362 | 
 | 2023-03-09 | 810 | 364 | 
 | 2023-03-08 | 810 | 364 | 
-| 2023-03-07 | 808 | 364 | 
 

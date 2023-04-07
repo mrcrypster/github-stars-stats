@@ -1,8 +1,8 @@
 # KinesisCorporation/Adv360-Pro-ZMK - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 2286
+☋ Forks: 2291
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 195 | 2291 | 
 | 2023-04-05 | 195 | 2286 | 
 | 2023-04-04 | 195 | 2274 | 
 | 2023-04-03 | 195 | 2267 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 179 | 2067 | 
 | 2023-03-10 | 179 | 2061 | 
 | 2023-03-09 | 178 | 2048 | 
-| 2023-03-07 | 177 | 2030 | 
 

@@ -1,10 +1,10 @@
 # microsoft/CloudAdoptionFramework - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
-☋ Forks: 493
+☋ Forks: 494
 
-★ Stars: 682
+★ Stars: 683
 
 [Open repository](https://github.com/microsoft/CloudAdoptionFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 683 | 494 | 
 | 2023-04-05 | 682 | 493 | 
 | 2023-04-04 | 680 | 491 | 
 | 2023-04-03 | 679 | 491 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 655 | 471 | 
 | 2023-03-09 | 654 | 471 | 
 | 2023-03-08 | 649 | 465 | 
-| 2023-03-07 | 648 | 463 | 
 

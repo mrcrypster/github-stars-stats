@@ -1,6 +1,6 @@
 # faker-ruby/faker - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3088
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 10681 | 3088 | 
+| 2023-04-07 | 10681 | 3088 | 
+| 2023-04-06 | 10680 | 3088 | 
 | 2023-04-05 | 10681 | 3087 | 
 | 2023-04-04 | 10680 | 3087 | 
 | 2023-04-03 | 10679 | 3087 | 

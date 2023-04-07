@@ -1,10 +1,10 @@
 # MrXiaoM/Aoki - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/MrXiaoM/Aoki)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 149 | 6 | 
 | 2023-04-05 | 148 | 6 | 
 | 2023-04-03 | 145 | 6 | 
 | 2023-04-02 | 145 | 6 | 

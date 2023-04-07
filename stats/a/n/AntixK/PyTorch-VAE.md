@@ -1,10 +1,10 @@
 # AntixK/PyTorch-VAE - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 860
+☋ Forks: 861
 
-★ Stars: 4547
+★ Stars: 4554
 
 [Open repository](https://github.com/AntixK/PyTorch-VAE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 4554 | 861 | 
 | 2023-04-05 | 4547 | 860 | 
 | 2023-04-04 | 4541 | 858 | 
 | 2023-04-02 | 4533 | 858 | 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 61
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/gmx-io/gmx-synthetics)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 95 | 61 | 
+| 2023-04-06 | 96 | 61 | 
 | 2023-04-05 | 95 | 61 | 
 | 2023-04-04 | 95 | 59 | 
 | 2023-04-03 | 95 | 59 | 

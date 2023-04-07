@@ -1,6 +1,6 @@
 # supabase/gotrue - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 174
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 497 | 174 | 
 | 2023-04-05 | 497 | 174 | 
 | 2023-04-04 | 496 | 174 | 
 | 2023-04-03 | 496 | 174 | 

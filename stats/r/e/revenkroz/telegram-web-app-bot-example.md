@@ -1,8 +1,8 @@
 # revenkroz/telegram-web-app-bot-example - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 126
+☋ Forks: 128
 
 ★ Stars: 181
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 181 | 128 | 
 | 2023-04-05 | 181 | 126 | 
 | 2023-04-04 | 178 | 126 | 
 | 2023-04-03 | 179 | 126 | 

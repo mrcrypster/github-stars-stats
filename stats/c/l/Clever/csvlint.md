@@ -1,10 +1,10 @@
 # Clever/csvlint - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 13
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/Clever/csvlint)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 173 | 13 | 
 | 2023-04-05 | 172 | 13 | 
 | 2023-04-04 | 172 | 13 | 
 | 2023-04-03 | 172 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 170 | 12 | 
 | 2023-03-10 | 170 | 12 | 
 | 2023-03-09 | 169 | 12 | 
-| 2023-03-08 | 169 | 12 | 
 

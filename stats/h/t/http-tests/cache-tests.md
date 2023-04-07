@@ -1,10 +1,10 @@
 # http-tests/cache-tests - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 22
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/http-tests/cache-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 92 | 22 | 
 | 2023-04-05 | 91 | 22 | 
 | 2023-04-04 | 91 | 22 | 
 | 2023-04-03 | 91 | 22 | 

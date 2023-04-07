@@ -1,10 +1,10 @@
 # DeterminateSystems/zero-to-nix - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 380
+★ Stars: 381
 
 [Open repository](https://github.com/DeterminateSystems/zero-to-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 381 | 30 | 
 | 2023-04-05 | 380 | 30 | 
 | 2023-04-04 | 380 | 31 | 
 | 2023-04-03 | 380 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 364 | 28 | 
 | 2023-03-10 | 363 | 28 | 
 | 2023-03-09 | 359 | 28 | 
-| 2023-03-07 | 345 | 26 | 
 

@@ -1,6 +1,6 @@
 # hmxmilohax/rock-band-2-deluxe - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 30 | 10 | 
 | 2023-04-05 | 30 | 10 | 
 | 2023-04-04 | 30 | 10 | 
 | 2023-04-03 | 30 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 28 | 10 | 
 | 2023-03-10 | 28 | 10 | 
 | 2023-03-09 | 27 | 10 | 
-| 2023-03-07 | 27 | 10 | 
 

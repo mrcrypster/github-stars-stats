@@ -1,10 +1,10 @@
 # xitu/gold-miner - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 4987
+☋ Forks: 4989
 
-★ Stars: 32137
+★ Stars: 32145
 
 [Open repository](https://github.com/xitu/gold-miner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 32145 | 4989 | 
 | 2023-04-05 | 32137 | 4987 | 
 | 2023-04-04 | 32133 | 4986 | 
 | 2023-04-03 | 32121 | 4986 | 

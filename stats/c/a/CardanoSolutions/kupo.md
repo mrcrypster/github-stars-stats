@@ -1,10 +1,10 @@
 # CardanoSolutions/kupo - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 11
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/CardanoSolutions/kupo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 80 | 11 | 
 | 2023-04-05 | 79 | 11 | 
 | 2023-04-04 | 79 | 11 | 
 | 2023-04-03 | 79 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 78 | 11 | 
 | 2023-03-10 | 77 | 11 | 
 | 2023-03-08 | 77 | 11 | 
-| 2023-03-07 | 77 | 11 | 
 

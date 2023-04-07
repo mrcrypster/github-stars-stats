@@ -1,10 +1,10 @@
 # PatrickAlphaC/hardhat-security-fcc - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 103
 
-★ Stars: 308
+★ Stars: 310
 
 [Open repository](https://github.com/PatrickAlphaC/hardhat-security-fcc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 310 | 103 | 
 | 2023-04-05 | 308 | 103 | 
 | 2023-04-04 | 308 | 103 | 
 | 2023-04-03 | 307 | 103 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 293 | 98 | 
 | 2023-03-10 | 292 | 95 | 
 | 2023-03-08 | 292 | 93 | 
-| 2023-03-07 | 290 | 93 | 
 

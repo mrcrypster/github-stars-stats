@@ -1,10 +1,10 @@
 # CScorza/Analisi-Digital-Forense - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 12
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/CScorza/Analisi-Digital-Forense)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 113 | 12 | 
 | 2023-04-05 | 112 | 12 | 
 | 2023-04-04 | 110 | 12 | 
 | 2023-04-02 | 109 | 12 | 

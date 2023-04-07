@@ -1,10 +1,10 @@
 # Evil0ctal/Douyin_TikTok_Download_API - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 487
+☋ Forks: 488
 
-★ Stars: 2335
+★ Stars: 2350
 
 [Open repository](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2350 | 488 | 
 | 2023-04-05 | 2335 | 487 | 
 | 2023-04-04 | 2324 | 486 | 
 | 2023-04-03 | 2304 | 484 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 2099 | 437 | 
 | 2023-03-10 | 2088 | 437 | 
 | 2023-03-09 | 2078 | 436 | 
-| 2023-03-08 | 2057 | 430 | 
 

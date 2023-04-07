@@ -1,6 +1,6 @@
 # technion/open_safety - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 29 | - | 
 | 2023-04-05 | 29 | - | 
 | 2023-04-04 | 29 | - | 
 | 2023-04-03 | 29 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 29 | - | 
 | 2023-03-10 | 29 | - | 
 | 2023-03-09 | 29 | - | 
-| 2023-03-08 | 29 | - | 
 

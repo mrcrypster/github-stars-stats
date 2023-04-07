@@ -1,6 +1,6 @@
 # beeware/Python-Apple-support - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 845 | 130 | 
 | 2023-04-05 | 845 | 130 | 
 | 2023-04-04 | 844 | 130 | 
 | 2023-04-02 | 843 | 128 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 828 | 126 | 
 | 2023-03-10 | 827 | 126 | 
 | 2023-03-09 | 826 | 126 | 
-| 2023-03-07 | 826 | 126 | 
 

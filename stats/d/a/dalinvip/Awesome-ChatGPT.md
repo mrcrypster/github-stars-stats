@@ -1,10 +1,10 @@
 # dalinvip/Awesome-ChatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 203
+☋ Forks: 208
 
-★ Stars: 2451
+★ Stars: 2486
 
 [Open repository](https://github.com/dalinvip/Awesome-ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2486 | 208 | 
 | 2023-04-05 | 2451 | 203 | 
 | 2023-04-04 | 2405 | 201 | 
 | 2023-04-03 | 2365 | 200 | 

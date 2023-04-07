@@ -1,6 +1,6 @@
 # revanced/revanced-cli - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 496 | 96 | 
 | 2023-04-05 | 496 | 96 | 
 | 2023-04-04 | 496 | 96 | 
 | 2023-04-03 | 495 | 96 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 470 | 96 | 
 | 2023-03-10 | 470 | 96 | 
 | 2023-03-09 | 468 | 96 | 
-| 2023-03-07 | 467 | 95 | 
 

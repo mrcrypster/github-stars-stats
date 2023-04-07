@@ -1,6 +1,6 @@
 # velas/web-wallet - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 20 | 17 | 
 | 2023-04-05 | 20 | 17 | 
 | 2023-04-04 | 20 | 17 | 
 | 2023-04-03 | 20 | 17 | 

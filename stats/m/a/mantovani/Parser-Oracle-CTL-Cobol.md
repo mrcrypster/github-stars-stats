@@ -1,0 +1,18 @@
+# mantovani/Parser-Oracle-CTL-Cobol - stars & forks statistics
+
+Stats updated on Apr 2023, 07
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/mantovani/Parser-Oracle-CTL-Cobol)
+
+[Open detailed stats for mantovani/Parser-Oracle-CTL-Cobol](https://reviewgithub.com/rep/mantovani/Parser-Oracle-CTL-Cobol)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-07 | - | - | 
+| 2023-04-06 | - | - | 
+

@@ -1,6 +1,6 @@
 # cakecatz/garage - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 12 | 168 | 
 | 2023-04-05 | 12 | 168 | 
 | 2023-04-03 | 12 | 168 | 
 | 2023-04-02 | 12 | 168 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 12 | 169 | 
 | 2023-03-10 | 12 | 169 | 
 | 2023-03-08 | 12 | 169 | 
-| 2023-03-07 | 12 | 169 | 
 

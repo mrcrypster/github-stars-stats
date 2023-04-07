@@ -1,6 +1,6 @@
 # NayamAmarshe/please - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 431 | 20 | 
 | 2023-04-05 | 431 | 20 | 
 | 2023-04-04 | 431 | 20 | 
 | 2023-04-02 | 431 | 20 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 424 | 19 | 
 | 2023-03-10 | 423 | 19 | 
 | 2023-03-09 | 423 | 19 | 
-| 2023-03-07 | 422 | 18 | 
 

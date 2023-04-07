@@ -1,6 +1,6 @@
 # icyguider/ICMP-TransferTools - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 273 | 52 | 
 | 2023-04-05 | 273 | 52 | 
 | 2023-04-04 | 273 | 52 | 
 | 2023-04-03 | 274 | 52 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 272 | 52 | 
 | 2023-03-09 | 272 | 52 | 
 | 2023-03-08 | 272 | 52 | 
-| 2023-03-07 | 272 | 52 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 83
+☋ Forks: 86
 
-★ Stars: 429
+★ Stars: 436
 
 [Open repository](https://github.com/0xPugazh/fuzz4bounty)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 429 | 83 | 
+| 2023-04-06 | 436 | 86 | 
 | 2023-04-05 | 428 | 82 | 
 | 2023-04-04 | 418 | 78 | 
 | 2023-04-02 | 314 | 58 | 

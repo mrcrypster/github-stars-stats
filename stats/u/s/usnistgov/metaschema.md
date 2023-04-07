@@ -1,10 +1,10 @@
 # usnistgov/metaschema - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 9
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/usnistgov/metaschema)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 19 | 9 | 
+| 2023-04-07 | 20 | 9 | 
+| 2023-04-06 | 20 | 9 | 
 | 2023-04-05 | 19 | 9 | 
 | 2023-04-04 | 19 | 9 | 
 | 2023-04-03 | 19 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 19 | 9 | 
 | 2023-03-09 | 19 | 9 | 
 | 2023-03-08 | 19 | 9 | 
-| 2023-03-07 | 19 | 9 | 
 

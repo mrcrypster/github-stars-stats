@@ -1,10 +1,10 @@
 # phodal/prompt-patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 1579
+★ Stars: 1587
 
 [Open repository](https://github.com/phodal/prompt-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1587 | 89 | 
 | 2023-04-05 | 1579 | 88 | 
 | 2023-04-04 | 1555 | 85 | 
 | 2023-04-02 | 1530 | 85 | 

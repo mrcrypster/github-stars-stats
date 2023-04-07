@@ -1,10 +1,10 @@
 # sjlleo/netflix-verify - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 393
+☋ Forks: 395
 
-★ Stars: 2088
+★ Stars: 2093
 
 [Open repository](https://github.com/sjlleo/netflix-verify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2093 | 395 | 
 | 2023-04-05 | 2088 | 393 | 
 | 2023-04-04 | 2088 | 393 | 
 | 2023-04-03 | 2083 | 393 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 2052 | 393 | 
 | 2023-03-10 | 2051 | 393 | 
 | 2023-03-08 | 2050 | 393 | 
-| 2023-03-07 | 2049 | 393 | 
 

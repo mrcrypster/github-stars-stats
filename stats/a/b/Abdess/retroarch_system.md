@@ -1,10 +1,10 @@
 # Abdess/retroarch_system - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 173
 
-★ Stars: 1590
+★ Stars: 1593
 
 [Open repository](https://github.com/Abdess/retroarch_system)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1593 | 173 | 
 | 2023-04-05 | 1590 | 173 | 
 | 2023-04-04 | 1587 | 172 | 
 | 2023-04-03 | 1584 | 172 | 

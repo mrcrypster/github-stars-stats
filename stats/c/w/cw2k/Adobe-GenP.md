@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 24
 
-★ Stars: 188
+★ Stars: 191
 
 [Open repository](https://github.com/cw2k/Adobe-GenP)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 188 | 24 | 
+| 2023-04-06 | 191 | 24 | 
 | 2023-04-05 | 188 | 24 | 
 | 2023-04-04 | 181 | 23 | 
 | 2023-04-03 | 178 | 23 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 126 | 10 | 
 | 2023-03-09 | 123 | 10 | 
 | 2023-03-08 | 117 | 10 | 
-| 2023-03-07 | 116 | 10 | 
 

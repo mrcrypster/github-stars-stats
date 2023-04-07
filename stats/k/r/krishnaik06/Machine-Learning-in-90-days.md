@@ -1,10 +1,10 @@
 # krishnaik06/Machine-Learning-in-90-days - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1276
 
-★ Stars: 945
+★ Stars: 946
 
 [Open repository](https://github.com/krishnaik06/Machine-Learning-in-90-days)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 946 | 1276 | 
 | 2023-04-05 | 945 | 1276 | 
 | 2023-04-04 | 945 | 1276 | 
 | 2023-04-02 | 944 | 1275 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 1253
+☋ Forks: 1254
 
-★ Stars: 4779
+★ Stars: 4782
 
 [Open repository](https://github.com/newbee-ltd/newbee-mall-vue3-app)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 4779 | 1253 | 
+| 2023-04-06 | 4782 | 1254 | 
 | 2023-04-05 | 4779 | 1253 | 
 | 2023-04-04 | 4777 | 1251 | 
 | 2023-04-03 | 4772 | 1250 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 4696 | 1235 | 
 | 2023-03-09 | 4690 | 1233 | 
 | 2023-03-08 | 4684 | 1229 | 
-| 2023-03-07 | 4671 | 1224 | 
 

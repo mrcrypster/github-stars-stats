@@ -1,10 +1,10 @@
 # cedille/ial - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/cedille/ial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 34 | 18 | 
 | 2023-04-05 | 33 | 18 | 
 | 2023-04-04 | 33 | 18 | 
 | 2023-04-03 | 33 | 18 | 

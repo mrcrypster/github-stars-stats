@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 1903
 
-★ Stars: 5091
+★ Stars: 5093
 
 [Open repository](https://github.com/microsoft/DirectX-Graphics-Samples)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 5091 | 1903 | 
+| 2023-04-06 | 5093 | 1903 | 
 | 2023-04-05 | 5089 | 1903 | 
 | 2023-04-04 | 5082 | 1902 | 
 | 2023-04-03 | 5081 | 1900 | 
@@ -34,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 5033 | 1890 | 
 | 2023-03-10 | 5032 | 1890 | 
 | 2023-03-09 | 5027 | 1890 | 
-| 2023-03-08 | 5025 | 1888 | 
 

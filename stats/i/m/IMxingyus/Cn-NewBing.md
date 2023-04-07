@@ -1,8 +1,8 @@
 # IMxingyus/Cn-NewBing - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 9
+☋ Forks: 11
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 29 | 11 | 
 | 2023-04-06 | 29 | 9 | 
 | 2023-04-04 | 28 | 9 | 
 | 2023-04-03 | 28 | 8 | 

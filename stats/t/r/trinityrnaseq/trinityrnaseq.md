@@ -1,6 +1,6 @@
 # trinityrnaseq/trinityrnaseq - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 311
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 716 | 311 | 
+| 2023-04-06 | 716 | 311 | 
 | 2023-04-05 | 716 | 311 | 
 | 2023-04-04 | 715 | 311 | 
 | 2023-04-03 | 715 | 311 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 705 | 310 | 
 | 2023-03-09 | 705 | 310 | 
 | 2023-03-08 | 704 | 310 | 
-| 2023-03-07 | 703 | 310 | 
 

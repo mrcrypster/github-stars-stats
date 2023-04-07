@@ -1,6 +1,6 @@
 # gin-gonic/examples - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 579
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2934 | 579 | 
 | 2023-04-05 | 2934 | 579 | 
 | 2023-04-04 | 2934 | 579 | 
 | 2023-04-03 | 2933 | 579 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 2881 | 568 | 
 | 2023-03-10 | 2880 | 569 | 
 | 2023-03-08 | 2874 | 567 | 
-| 2023-03-07 | 2873 | 567 | 
 

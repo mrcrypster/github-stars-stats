@@ -1,6 +1,6 @@
 # lanagarmire/Asgard - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 14 | 8 | 
 | 2023-04-05 | 14 | 8 | 
 | 2023-04-04 | 14 | 8 | 
 | 2023-04-03 | 14 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 14 | 8 | 
 | 2023-03-10 | 14 | 8 | 
 | 2023-03-08 | 14 | 8 | 
-| 2023-03-07 | 14 | 8 | 
 

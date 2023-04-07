@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 188
+☋ Forks: 190
 
-★ Stars: 782
+★ Stars: 789
 
 [Open repository](https://github.com/onwidget/astrowind)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 782 | 188 | 
+| 2023-04-06 | 789 | 190 | 
 | 2023-04-05 | 782 | 188 | 
 | 2023-04-04 | 782 | 188 | 
 | 2023-04-03 | 778 | 188 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 692 | 167 | 
 | 2023-03-09 | 689 | 168 | 
 | 2023-03-08 | 689 | 166 | 
-| 2023-03-07 | 682 | 161 | 
 

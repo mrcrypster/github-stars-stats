@@ -1,10 +1,10 @@
 # dompdf/dompdf - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1731
 
-★ Stars: 9555
+★ Stars: 9564
 
 [Open repository](https://github.com/dompdf/dompdf)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 9564 | 1731 | 
+| 2023-04-06 | 9562 | 1731 | 
 | 2023-04-05 | 9555 | 1731 | 
 | 2023-04-04 | 9550 | 1731 | 
 | 2023-04-03 | 9546 | 1731 | 

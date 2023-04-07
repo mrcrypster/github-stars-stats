@@ -1,10 +1,10 @@
 # Xhofe/alist - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 3327
+☋ Forks: 3333
 
-★ Stars: 23690
+★ Stars: 23735
 
 [Open repository](https://github.com/Xhofe/alist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 23735 | 3333 | 
 | 2023-04-05 | 23690 | 3327 | 
 | 2023-04-04 | 23654 | 3318 | 
 | 2023-04-03 | 23583 | 3301 | 

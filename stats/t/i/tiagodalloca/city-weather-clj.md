@@ -1,6 +1,6 @@
 # tiagodalloca/city-weather-clj - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 14 | - | 
 | 2023-04-05 | 14 | - | 
 | 2023-04-03 | 14 | - | 
 | 2023-04-02 | 14 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 14 | - | 
 | 2023-03-10 | 14 | - | 
 | 2023-03-09 | 14 | - | 
-| 2023-03-07 | 14 | - | 
 

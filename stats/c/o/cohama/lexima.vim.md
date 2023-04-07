@@ -1,10 +1,10 @@
 # cohama/lexima.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 44
 
-★ Stars: 909
+★ Stars: 910
 
 [Open repository](https://github.com/cohama/lexima.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 910 | 44 | 
 | 2023-04-05 | 909 | 44 | 
 | 2023-04-04 | 909 | 44 | 
 | 2023-04-03 | 909 | 44 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 906 | 44 | 
 | 2023-03-10 | 906 | 44 | 
 | 2023-03-08 | 906 | 44 | 
-| 2023-03-07 | 906 | 44 | 
 

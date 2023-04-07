@@ -1,6 +1,6 @@
 # alf/ob-restclient.el - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 186 | 22 | 
 | 2023-04-05 | 186 | 22 | 
 | 2023-04-04 | 185 | 22 | 
 | 2023-04-03 | 185 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 185 | 22 | 
 | 2023-03-09 | 185 | 22 | 
 | 2023-03-08 | 185 | 22 | 
-| 2023-03-07 | 185 | 22 | 
 

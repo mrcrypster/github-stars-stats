@@ -1,10 +1,10 @@
 # sighupio/fury-kubernetes-dr - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/sighupio/fury-kubernetes-dr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 8 | 2 | 
 | 2023-04-06 | 7 | 2 | 
 | 2023-04-04 | 7 | 2 | 
 | 2023-04-03 | 7 | 2 | 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 822
 
-★ Stars: 16113
+★ Stars: 16125
 
 [Open repository](https://github.com/pola-rs/polars)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 16113 | 822 | 
+| 2023-04-06 | 16125 | 822 | 
 | 2023-04-05 | 16105 | 822 | 
 | 2023-04-04 | 16070 | 820 | 
 | 2023-04-03 | 15996 | 818 | 

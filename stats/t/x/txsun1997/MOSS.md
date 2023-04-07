@@ -1,10 +1,10 @@
 # txsun1997/MOSS - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 761
+★ Stars: 765
 
 [Open repository](https://github.com/txsun1997/MOSS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 765 | 24 | 
 | 2023-04-05 | 761 | 23 | 
 | 2023-04-04 | 758 | 23 | 
 | 2023-04-03 | 755 | 23 | 

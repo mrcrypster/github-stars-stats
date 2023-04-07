@@ -1,6 +1,6 @@
 # AllenDowney/ThinkDataStructures - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1160
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 475 | 1160 | 
 | 2023-04-05 | 475 | 1160 | 
 | 2023-04-04 | 475 | 1159 | 
 | 2023-04-03 | 475 | 1159 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 471 | 1152 | 
 | 2023-03-10 | 471 | 1150 | 
 | 2023-03-09 | 471 | 1148 | 
-| 2023-03-07 | 470 | 1147 | 
 

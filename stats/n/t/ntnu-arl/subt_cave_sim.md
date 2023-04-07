@@ -1,10 +1,10 @@
 # ntnu-arl/subt_cave_sim - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ntnu-arl/subt_cave_sim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 17 | 4 | 
 | 2023-04-05 | 16 | 4 | 
 | 2023-04-04 | 15 | 4 | 
 | 2023-04-02 | 13 | 4 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 13 | 4 | 
 | 2023-03-10 | 13 | 4 | 
 | 2023-03-09 | 13 | 4 | 
-| 2023-03-07 | 13 | 4 | 
 

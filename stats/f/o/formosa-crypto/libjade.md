@@ -1,6 +1,6 @@
 # formosa-crypto/libjade - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 29 | 7 | 
 | 2023-04-05 | 29 | 7 | 
 | 2023-04-04 | 29 | 7 | 
 | 2023-04-03 | 29 | 7 | 

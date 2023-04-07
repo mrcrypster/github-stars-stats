@@ -1,10 +1,10 @@
 # xuhongv/StudyInEsp8266 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 420
 
-★ Stars: 648
+★ Stars: 649
 
 [Open repository](https://github.com/xuhongv/StudyInEsp8266)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 649 | 420 | 
 | 2023-04-05 | 648 | 420 | 
 | 2023-04-04 | 648 | 420 | 
 | 2023-04-03 | 647 | 420 | 

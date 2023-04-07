@@ -1,10 +1,10 @@
 # logica-programacion/Solucion-Challenge-encriptador - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 104
+★ Stars: 103
 
 [Open repository](https://github.com/logica-programacion/Solucion-Challenge-encriptador)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 103 | 18 | 
 | 2023-04-05 | 104 | 18 | 
 | 2023-04-04 | 104 | 17 | 
 | 2023-04-03 | 104 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 94 | 15 | 
 | 2023-03-10 | 94 | 15 | 
 | 2023-03-09 | 93 | 15 | 
-| 2023-03-08 | 93 | 15 | 
 

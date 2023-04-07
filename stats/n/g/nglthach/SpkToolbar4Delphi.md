@@ -1,6 +1,6 @@
 # nglthach/SpkToolbar4Delphi - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 24 | 9 | 
 | 2023-04-05 | 24 | 9 | 
 | 2023-04-04 | 24 | 9 | 
 | 2023-04-03 | 24 | 9 | 

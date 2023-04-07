@@ -1,8 +1,8 @@
 # lee-to/moonshine - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 88
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 88 | 24 | 
 | 2023-04-05 | 88 | 23 | 
 | 2023-04-04 | 88 | 23 | 
 | 2023-04-03 | 84 | 22 | 

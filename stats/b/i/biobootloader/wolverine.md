@@ -1,10 +1,10 @@
 # biobootloader/wolverine - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 72
+☋ Forks: 74
 
-★ Stars: 745
+★ Stars: 760
 
 [Open repository](https://github.com/biobootloader/wolverine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 760 | 74 | 
 | 2023-04-05 | 745 | 72 | 
 | 2023-04-04 | 710 | 66 | 
 | 2023-04-03 | 698 | 66 | 

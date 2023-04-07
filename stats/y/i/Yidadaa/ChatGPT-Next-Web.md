@@ -1,10 +1,10 @@
 # Yidadaa/ChatGPT-Next-Web - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 5187
+☋ Forks: 5617
 
-★ Stars: 11805
+★ Stars: 12435
 
 [Open repository](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 12435 | 5617 | 
 | 2023-04-05 | 11805 | 5187 | 
 | 2023-04-04 | 11523 | 4970 | 
 | 2023-04-03 | 10490 | 4362 | 

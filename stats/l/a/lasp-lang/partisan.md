@@ -1,10 +1,10 @@
 # lasp-lang/partisan - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 53
+☋ Forks: 54
 
-★ Stars: 768
+★ Stars: 770
 
 [Open repository](https://github.com/lasp-lang/partisan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 770 | 54 | 
 | 2023-04-05 | 768 | 53 | 
 | 2023-04-04 | 767 | 53 | 
 | 2023-04-03 | 766 | 54 | 

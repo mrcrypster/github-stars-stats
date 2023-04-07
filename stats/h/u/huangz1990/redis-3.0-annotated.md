@@ -1,10 +1,10 @@
 # huangz1990/redis-3.0-annotated - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 4118
+☋ Forks: 4119
 
-★ Stars: 9407
+★ Stars: 9410
 
 [Open repository](https://github.com/huangz1990/redis-3.0-annotated)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 9410 | 4119 | 
 | 2023-04-05 | 9407 | 4118 | 
 | 2023-04-04 | 9405 | 4116 | 
 | 2023-04-03 | 9404 | 4117 | 

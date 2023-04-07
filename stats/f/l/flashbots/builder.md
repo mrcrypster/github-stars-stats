@@ -1,10 +1,10 @@
 # flashbots/builder - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/flashbots/builder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 274 | 72 | 
 | 2023-04-05 | 273 | 71 | 
 | 2023-04-04 | 273 | 70 | 
 | 2023-04-03 | 271 | 69 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 266 | 64 | 
 | 2023-03-10 | 265 | 64 | 
 | 2023-03-09 | 264 | 63 | 
-| 2023-03-08 | 263 | 63 | 
 

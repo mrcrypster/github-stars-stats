@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 195
+★ Stars: 197
 
 [Open repository](https://github.com/starknet-edu/starknet-cairo-101)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 195 | 85 | 
+| 2023-04-06 | 197 | 86 | 
 | 2023-04-05 | 195 | 85 | 
 | 2023-04-04 | 194 | 84 | 
 | 2023-04-03 | 193 | 84 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 181 | 75 | 
 | 2023-03-10 | 181 | 75 | 
 | 2023-03-09 | 181 | 75 | 
-| 2023-03-08 | 181 | 75 | 
 

@@ -1,10 +1,10 @@
 # CjangCjengh/MoeGoe_GUI - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 60
 
-★ Stars: 449
+★ Stars: 451
 
 [Open repository](https://github.com/CjangCjengh/MoeGoe_GUI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 451 | 60 | 
 | 2023-04-05 | 449 | 60 | 
 | 2023-04-04 | 449 | 60 | 
 | 2023-04-02 | 447 | 58 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 411 | 51 | 
 | 2023-03-10 | 408 | 50 | 
 | 2023-03-09 | 403 | 50 | 
-| 2023-03-07 | 402 | 49 | 
 

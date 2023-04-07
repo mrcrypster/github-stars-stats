@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 177
 
-★ Stars: 630
+★ Stars: 631
 
 [Open repository](https://github.com/PacktPublishing/Learn-CUDA-Programming)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 630 | 177 | 
+| 2023-04-06 | 631 | 177 | 
 | 2023-04-05 | 630 | 177 | 
 | 2023-04-04 | 630 | 176 | 
 | 2023-04-03 | 626 | 176 | 

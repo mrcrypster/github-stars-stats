@@ -1,10 +1,10 @@
 # uparrows/LANraragi_cn - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 10
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/uparrows/LANraragi_cn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 181 | 10 | 
 | 2023-04-05 | 180 | 10 | 
 | 2023-04-04 | 180 | 10 | 
 | 2023-04-03 | 180 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 167 | 10 | 
 | 2023-03-10 | 167 | 10 | 
 | 2023-03-09 | 166 | 10 | 
-| 2023-03-07 | 166 | 10 | 
 

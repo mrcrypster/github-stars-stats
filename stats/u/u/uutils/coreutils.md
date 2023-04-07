@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 1014
 
-★ Stars: 14404
+★ Stars: 14408
 
 [Open repository](https://github.com/uutils/coreutils)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 14404 | 1014 | 
+| 2023-04-06 | 14408 | 1014 | 
 | 2023-04-05 | 14400 | 1014 | 
 | 2023-04-04 | 14390 | 1012 | 
 | 2023-04-03 | 14360 | 1011 | 

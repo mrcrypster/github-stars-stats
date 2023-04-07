@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 1279
 
-★ Stars: 35494
+★ Stars: 35507
 
 [Open repository](https://github.com/meilisearch/meilisearch)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 35494 | 1279 | 
+| 2023-04-06 | 35507 | 1279 | 
 | 2023-04-05 | 35487 | 1279 | 
 | 2023-04-04 | 35433 | 1278 | 
 | 2023-04-03 | 35326 | 1274 | 

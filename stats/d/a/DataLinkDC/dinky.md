@@ -1,10 +1,10 @@
 # DataLinkDC/dinky - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 695
+☋ Forks: 696
 
-★ Stars: 1896
+★ Stars: 1904
 
 [Open repository](https://github.com/DataLinkDC/dinky)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1904 | 696 | 
 | 2023-04-06 | 1896 | 695 | 
 | 2023-04-04 | 1896 | 694 | 
 | 2023-04-03 | 1892 | 694 | 

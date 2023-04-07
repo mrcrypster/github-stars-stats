@@ -1,10 +1,10 @@
 # BloopAI/bloop - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 124
+☋ Forks: 128
 
-★ Stars: 3383
+★ Stars: 3420
 
 [Open repository](https://github.com/BloopAI/bloop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3420 | 128 | 
 | 2023-04-05 | 3383 | 124 | 
 | 2023-04-04 | 3364 | 122 | 
 | 2023-04-03 | 3332 | 120 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 318 | 9 | 
 | 2023-03-10 | 316 | 8 | 
 | 2023-03-08 | 316 | 8 | 
-| 2023-03-07 | 312 | 8 | 
 

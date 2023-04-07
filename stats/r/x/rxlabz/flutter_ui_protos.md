@@ -1,10 +1,10 @@
 # rxlabz/flutter_ui_protos - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/rxlabz/flutter_ui_protos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 70 | 4 | 
 | 2023-04-05 | 69 | 3 | 
 | 2023-04-04 | 65 | 3 | 
 

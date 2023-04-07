@@ -1,10 +1,10 @@
 # kevin-funderburg/AppleScripts - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/kevin-funderburg/AppleScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 127 | 17 | 
 | 2023-04-05 | 126 | 16 | 
 | 2023-04-03 | 126 | 16 | 
 | 2023-04-02 | 126 | 16 | 

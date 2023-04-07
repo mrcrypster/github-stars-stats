@@ -1,6 +1,6 @@
 # FLAMEGPU/FLAMEGPU2 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 51 | 14 | 
 | 2023-04-05 | 51 | 14 | 
 | 2023-04-03 | 51 | 14 | 
 | 2023-04-02 | 51 | 14 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 50 | 14 | 
 | 2023-03-10 | 49 | 14 | 
 | 2023-03-09 | 49 | 14 | 
-| 2023-03-07 | 49 | 14 | 
 

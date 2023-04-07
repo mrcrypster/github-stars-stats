@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 31
 
-★ Stars: 1335
+★ Stars: 1337
 
 [Open repository](https://github.com/ebitengine/purego)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 1335 | 31 | 
+| 2023-04-06 | 1337 | 31 | 
 | 2023-04-05 | 1333 | 30 | 
 | 2023-04-04 | 1330 | 30 | 
 | 2023-04-03 | 1323 | 30 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 1260 | 27 | 
 | 2023-03-09 | 1257 | 27 | 
 | 2023-03-08 | 1253 | 28 | 
-| 2023-03-07 | 1252 | 28 | 
 

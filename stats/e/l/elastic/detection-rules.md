@@ -1,10 +1,10 @@
 # elastic/detection-rules - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 364
+☋ Forks: 365
 
-★ Stars: 1477
+★ Stars: 1481
 
 [Open repository](https://github.com/elastic/detection-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1481 | 365 | 
 | 2023-04-05 | 1477 | 364 | 
 | 2023-04-04 | 1477 | 364 | 
 | 2023-04-03 | 1477 | 364 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1453 | 353 | 
 | 2023-03-09 | 1446 | 353 | 
 | 2023-03-08 | 1445 | 353 | 
-| 2023-03-07 | 1443 | 352 | 
 

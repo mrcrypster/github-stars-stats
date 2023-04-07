@@ -1,6 +1,6 @@
 # gandlafbtc/nutstash-wallet - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 11 | 4 | 
 | 2023-04-05 | 11 | 4 | 
 | 2023-04-04 | 11 | 4 | 
 | 2023-04-02 | 11 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 10 | 4 | 
 | 2023-03-09 | 10 | 3 | 
 | 2023-03-08 | 10 | 3 | 
-| 2023-03-07 | 9 | 3 | 
 

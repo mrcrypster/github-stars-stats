@@ -1,6 +1,6 @@
 # ArcRain/sciter-bulma - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 15 | 3 | 
 | 2023-04-05 | 15 | 3 | 
 | 2023-04-03 | 14 | 3 | 
 | 2023-04-02 | 14 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 13 | 3 | 
 | 2023-03-09 | 13 | 3 | 
 | 2023-03-08 | 13 | 3 | 
-| 2023-03-07 | 13 | 3 | 
 

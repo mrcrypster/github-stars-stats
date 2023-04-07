@@ -1,6 +1,6 @@
 # 0382/argparse-f - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 16 | 1 | 
 | 2023-04-05 | 16 | 1 | 
 | 2023-04-03 | 16 | 1 | 
 | 2023-04-02 | 16 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 16 | 1 | 
 | 2023-03-10 | 15 | 1 | 
 | 2023-03-09 | 15 | 1 | 
-| 2023-03-07 | 15 | 1 | 
 

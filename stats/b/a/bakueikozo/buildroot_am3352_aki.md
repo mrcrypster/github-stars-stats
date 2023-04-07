@@ -1,10 +1,10 @@
 # bakueikozo/buildroot_am3352_aki - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/bakueikozo/buildroot_am3352_aki)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 17 | 2 | 
 | 2023-04-05 | 16 | 2 | 
 | 2023-04-04 | 15 | 2 | 
 | 2023-04-03 | 15 | 1 | 

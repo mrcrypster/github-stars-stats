@@ -1,10 +1,10 @@
 # amachanic/sp_whoisactive - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 247
 
-★ Stars: 958
+★ Stars: 959
 
 [Open repository](https://github.com/amachanic/sp_whoisactive)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 958 | 247 | 
+| 2023-04-07 | 959 | 247 | 
+| 2023-04-06 | 959 | 247 | 
 | 2023-04-05 | 958 | 247 | 
 | 2023-04-04 | 957 | 247 | 
 | 2023-04-03 | 957 | 247 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 943 | 242 | 
 | 2023-03-09 | 943 | 242 | 
 | 2023-03-08 | 943 | 241 | 
-| 2023-03-07 | 943 | 241 | 
 

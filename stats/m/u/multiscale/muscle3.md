@@ -1,8 +1,8 @@
 # multiscale/muscle3 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 16 | 11 | 
 | 2023-04-05 | 16 | 10 | 
 | 2023-04-03 | 16 | 10 | 
 | 2023-04-02 | 16 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 16 | 10 | 
 | 2023-03-10 | 16 | 10 | 
 | 2023-03-09 | 16 | 10 | 
-| 2023-03-07 | 16 | 10 | 
 

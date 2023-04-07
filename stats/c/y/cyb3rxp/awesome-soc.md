@@ -1,10 +1,10 @@
 # cyb3rxp/awesome-soc - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 50
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/cyb3rxp/awesome-soc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 238 | 50 | 
 | 2023-04-05 | 237 | 50 | 
 | 2023-04-04 | 234 | 50 | 
 | 2023-04-02 | 229 | 50 | 

@@ -1,10 +1,10 @@
 # bufgix/website - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/bufgix/website)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 25 | 4 | 
 | 2023-04-05 | 24 | 4 | 
 | 2023-04-03 | 24 | 4 | 
 | 2023-04-02 | 24 | 4 | 

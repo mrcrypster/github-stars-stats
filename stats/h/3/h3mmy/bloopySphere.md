@@ -1,10 +1,10 @@
 # h3mmy/bloopySphere - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 8
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/h3mmy/bloopySphere)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 19 | 8 | 
 | 2023-04-05 | 18 | 8 | 
 | 2023-04-04 | 18 | 8 | 
 | 2023-04-03 | 18 | 8 | 

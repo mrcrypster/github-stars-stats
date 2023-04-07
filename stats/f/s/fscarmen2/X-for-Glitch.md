@@ -1,10 +1,10 @@
 # fscarmen2/X-for-Glitch - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1837
+☋ Forks: 1980
 
-★ Stars: 87
+★ Stars: 91
 
 [Open repository](https://github.com/fscarmen2/X-for-Glitch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 87 | 1837 | 
+| 2023-04-07 | 91 | 1980 | 
+| 2023-04-06 | 91 | 1956 | 
 | 2023-04-05 | 86 | 1786 | 
 

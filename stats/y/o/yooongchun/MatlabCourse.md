@@ -1,6 +1,6 @@
 # yooongchun/MatlabCourse - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 39 | 63 | 
 | 2023-04-05 | 39 | 63 | 
 | 2023-04-04 | 39 | 63 | 
 | 2023-04-03 | 39 | 63 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 39 | 61 | 
 | 2023-03-10 | 39 | 61 | 
 | 2023-03-08 | 39 | 61 | 
-| 2023-03-07 | 39 | 61 | 
 

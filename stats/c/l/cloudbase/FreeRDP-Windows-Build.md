@@ -1,8 +1,8 @@
 # cloudbase/FreeRDP-Windows-Build - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 2016
+☋ Forks: 2021
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 40 | 2021 | 
 | 2023-04-05 | 40 | 2016 | 
 | 2023-04-04 | 40 | 2012 | 
 | 2023-04-03 | 40 | 2009 | 

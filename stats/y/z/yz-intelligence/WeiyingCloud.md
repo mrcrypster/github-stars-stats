@@ -1,10 +1,10 @@
 # yz-intelligence/WeiyingCloud - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/yz-intelligence/WeiyingCloud)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 35 | 1 | 
 | 2023-04-05 | 34 | 1 | 
 | 2023-04-04 | 34 | 1 | 
 | 2023-04-03 | 34 | 1 | 

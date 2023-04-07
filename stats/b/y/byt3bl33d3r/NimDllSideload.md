@@ -1,6 +1,6 @@
 # byt3bl33d3r/NimDllSideload - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 134 | 12 | 
 | 2023-04-05 | 134 | 12 | 
 | 2023-04-04 | 134 | 12 | 
 | 2023-04-03 | 134 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 133 | 12 | 
 | 2023-03-09 | 133 | 12 | 
 | 2023-03-08 | 132 | 12 | 
-| 2023-03-07 | 132 | 12 | 
 

@@ -1,6 +1,6 @@
 # okp4/docs - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 36 | 16 | 
 | 2023-04-05 | 36 | 16 | 
 | 2023-04-04 | 36 | 16 | 
 | 2023-04-03 | 36 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 36 | 17 | 
 | 2023-03-10 | 36 | 17 | 
 | 2023-03-08 | 36 | 17 | 
-| 2023-03-07 | 36 | 17 | 
 

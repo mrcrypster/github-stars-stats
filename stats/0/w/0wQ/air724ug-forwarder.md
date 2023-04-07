@@ -1,10 +1,10 @@
 # 0wQ/air724ug-forwarder - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 73
+★ Stars: 76
 
 [Open repository](https://github.com/0wQ/air724ug-forwarder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 76 | 6 | 
 | 2023-04-05 | 73 | 6 | 
 | 2023-04-04 | 70 | 6 | 
 | 2023-04-03 | 70 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 67 | 4 | 
 | 2023-03-10 | 67 | 4 | 
 | 2023-03-09 | 67 | 4 | 
-| 2023-03-07 | 67 | 4 | 
 

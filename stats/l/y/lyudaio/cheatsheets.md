@@ -1,6 +1,6 @@
 # lyudaio/cheatsheets - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 324 | 24 | 
 | 2023-04-05 | 324 | 24 | 
 | 2023-04-04 | 324 | 24 | 
 | 2023-04-03 | 323 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 315 | 22 | 
 | 2023-03-10 | 314 | 22 | 
 | 2023-03-08 | 313 | 21 | 
-| 2023-03-07 | 312 | 21 | 
 

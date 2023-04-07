@@ -1,10 +1,10 @@
 # lukas-reineke/indent-blankline.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 66
+☋ Forks: 65
 
-★ Stars: 2596
+★ Stars: 2601
 
 [Open repository](https://github.com/lukas-reineke/indent-blankline.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2601 | 65 | 
 | 2023-04-05 | 2596 | 66 | 
 | 2023-04-04 | 2592 | 66 | 
 | 2023-04-03 | 2586 | 66 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 2502 | 64 | 
 | 2023-03-10 | 2501 | 64 | 
 | 2023-03-09 | 2491 | 64 | 
-| 2023-03-07 | 2488 | 64 | 
 

@@ -1,6 +1,6 @@
 # csc-training/summerschool - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 48 | 123 | 
 | 2023-04-05 | 48 | 123 | 
 | 2023-04-04 | 48 | 123 | 
 | 2023-04-03 | 48 | 123 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 48 | 121 | 
 | 2023-03-10 | 48 | 121 | 
 | 2023-03-08 | 48 | 121 | 
-| 2023-03-07 | 48 | 121 | 
 

@@ -1,10 +1,10 @@
 # nightscout/nightscout.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 216
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/nightscout/nightscout.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 89 | 216 | 
 | 2023-04-05 | 88 | 216 | 
 | 2023-04-04 | 88 | 216 | 
 | 2023-04-03 | 88 | 216 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 88 | 215 | 
 | 2023-03-10 | 88 | 215 | 
 | 2023-03-09 | 88 | 215 | 
-| 2023-03-07 | 88 | 215 | 
 

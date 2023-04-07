@@ -1,10 +1,10 @@
 # LfgSwap/lfg-protocol - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/LfgSwap/lfg-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 31 | 5 | 
 | 2023-04-05 | 30 | 5 | 
 | 2023-04-03 | 30 | 5 | 
 | 2023-04-02 | 30 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 29 | 3 | 
 | 2023-03-10 | 29 | 3 | 
 | 2023-03-08 | 29 | 3 | 
-| 2023-03-07 | 24 | 3 | 
 

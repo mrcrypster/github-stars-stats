@@ -1,10 +1,10 @@
 # lambdaisland/witchcraft - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/lambdaisland/witchcraft)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 125 | 7 | 
 | 2023-04-05 | 124 | 7 | 
 | 2023-04-04 | 124 | 7 | 
 | 2023-04-03 | 124 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 122 | 7 | 
 | 2023-03-10 | 122 | 7 | 
 | 2023-03-08 | 122 | 7 | 
-| 2023-03-07 | 122 | 7 | 
 

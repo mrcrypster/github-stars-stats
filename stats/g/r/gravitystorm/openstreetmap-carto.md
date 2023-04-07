@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 782
 
-★ Stars: 1382
+★ Stars: 1384
 
 [Open repository](https://github.com/gravitystorm/openstreetmap-carto)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 1382 | 782 | 
+| 2023-04-06 | 1384 | 782 | 
 | 2023-04-05 | 1382 | 782 | 
 | 2023-04-04 | 1382 | 781 | 
 | 2023-04-03 | 1382 | 781 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 1369 | 777 | 
 | 2023-03-09 | 1369 | 777 | 
 | 2023-03-08 | 1369 | 777 | 
-| 2023-03-07 | 1369 | 776 | 
 

@@ -1,10 +1,10 @@
 # micro/micro - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1038
 
-★ Stars: 11670
+★ Stars: 11673
 
 [Open repository](https://github.com/micro/micro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 11673 | 1038 | 
 | 2023-04-05 | 11670 | 1038 | 
 | 2023-04-04 | 11668 | 1038 | 
 | 2023-04-03 | 11668 | 1039 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 11628 | 1023 | 
 | 2023-03-10 | 11624 | 1023 | 
 | 2023-03-08 | 11621 | 1023 | 
-| 2023-03-07 | 11621 | 1023 | 
 

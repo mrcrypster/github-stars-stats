@@ -1,6 +1,6 @@
 # grischaerbe/threlte - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 31 | 45 | 
 | 2023-04-05 | 31 | 45 | 
 | 2023-04-04 | 31 | 45 | 
 | 2023-04-03 | 31 | 45 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 30 | 41 | 
 | 2023-03-10 | 30 | 42 | 
 | 2023-03-09 | 30 | 42 | 
-| 2023-03-07 | 30 | 42 | 
 

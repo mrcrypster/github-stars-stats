@@ -1,10 +1,10 @@
 # ever-co/ever-gauzy - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 310
+☋ Forks: 313
 
-★ Stars: 1095
+★ Stars: 1103
 
 [Open repository](https://github.com/ever-co/ever-gauzy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1103 | 313 | 
 | 2023-04-05 | 1095 | 310 | 
 | 2023-04-04 | 1090 | 309 | 
 | 2023-04-02 | 1088 | 308 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1060 | 302 | 
 | 2023-03-10 | 1055 | 301 | 
 | 2023-03-09 | 1051 | 300 | 
-| 2023-03-07 | 1048 | 299 | 
 

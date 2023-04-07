@@ -1,10 +1,10 @@
 # vfarid/v2ray-worker-sub - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 78
+★ Stars: 84
 
 [Open repository](https://github.com/vfarid/v2ray-worker-sub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 84 | 53 | 
 | 2023-04-05 | 78 | 52 | 
 | 2023-04-04 | 75 | 50 | 
 | 2023-04-03 | 71 | 48 | 

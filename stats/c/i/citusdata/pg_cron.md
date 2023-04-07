@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 158
 
-★ Stars: 2000
+★ Stars: 2001
 
 [Open repository](https://github.com/citusdata/pg_cron)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 2000 | 158 | 
+| 2023-04-06 | 2001 | 158 | 
 | 2023-04-05 | 2000 | 158 | 
 | 2023-04-04 | 1996 | 158 | 
 | 2023-04-03 | 1982 | 156 | 

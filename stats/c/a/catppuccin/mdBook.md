@@ -1,6 +1,6 @@
 # catppuccin/mdBook - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 70 | 1 | 
 | 2023-04-05 | 70 | 1 | 
 | 2023-04-04 | 70 | 1 | 
 | 2023-04-02 | 69 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 61 | 1 | 
 | 2023-03-10 | 61 | 1 | 
 | 2023-03-09 | 59 | 1 | 
-| 2023-03-07 | 59 | 1 | 
 

@@ -1,10 +1,10 @@
 # tezc/sc - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 191
 
-★ Stars: 1927
+★ Stars: 1930
 
 [Open repository](https://github.com/tezc/sc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1930 | 191 | 
 | 2023-04-05 | 1927 | 191 | 
 | 2023-04-03 | 1924 | 190 | 
 | 2023-04-02 | 1923 | 190 | 

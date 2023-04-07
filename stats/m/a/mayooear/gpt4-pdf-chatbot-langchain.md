@@ -1,10 +1,10 @@
 # mayooear/gpt4-pdf-chatbot-langchain - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 976
+☋ Forks: 1014
 
-★ Stars: 5739
+★ Stars: 5927
 
 [Open repository](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5927 | 1014 | 
 | 2023-04-05 | 5739 | 976 | 
 | 2023-04-04 | 5596 | 948 | 
 | 2023-04-02 | 4836 | 779 | 

@@ -1,10 +1,10 @@
 # sachinchoolur/lightGallery - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 1261
 
-★ Stars: 5746
+★ Stars: 5748
 
 [Open repository](https://github.com/sachinchoolur/lightGallery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 5748 | 1261 | 
 | 2023-04-05 | 5746 | 1261 | 
 | 2023-04-04 | 5744 | 1259 | 
 | 2023-04-02 | 5743 | 1259 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 5713 | 1252 | 
 | 2023-03-10 | 5711 | 1251 | 
 | 2023-03-09 | 5711 | 1253 | 
-| 2023-03-08 | 5703 | 1252 | 
 

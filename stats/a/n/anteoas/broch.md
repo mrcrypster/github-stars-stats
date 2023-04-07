@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/anteoas/broch)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 38 | - | 
+| 2023-04-06 | 40 | - | 
 | 2023-04-05 | 38 | - | 
 | 2023-04-04 | 34 | - | 
 | 2023-04-03 | 17 | - | 

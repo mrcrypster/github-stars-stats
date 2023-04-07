@@ -1,10 +1,10 @@
 # typicode/json-server - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 6532
+☋ Forks: 6533
 
-★ Stars: 66281
+★ Stars: 66291
 
 [Open repository](https://github.com/typicode/json-server)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 66291 | 6533 | 
 | 2023-04-05 | 66281 | 6532 | 
 | 2023-04-04 | 66256 | 6531 | 
 | 2023-04-02 | 66240 | 6529 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 65899 | 6509 | 
 | 2023-03-10 | 65890 | 6509 | 
 | 2023-03-09 | 65872 | 6501 | 
-| 2023-03-07 | 65846 | 6498 | 
 

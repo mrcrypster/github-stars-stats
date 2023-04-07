@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 36
+★ Stars: 41
 
 [Open repository](https://github.com/scallop-io/sui-kit)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 36 | 9 | 
+| 2023-04-06 | 41 | 11 | 
 | 2023-04-05 | 35 | 8 | 
 

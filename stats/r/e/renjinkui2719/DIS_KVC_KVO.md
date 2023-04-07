@@ -1,6 +1,6 @@
 # renjinkui2719/DIS_KVC_KVO - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 564 | 79 | 
 | 2023-04-05 | 564 | 79 | 
 | 2023-04-04 | 564 | 79 | 
 | 2023-04-03 | 564 | 79 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 564 | 77 | 
 | 2023-03-10 | 564 | 77 | 
 | 2023-03-08 | 564 | 77 | 
-| 2023-03-07 | 564 | 77 | 
 

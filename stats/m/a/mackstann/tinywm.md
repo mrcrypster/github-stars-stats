@@ -1,10 +1,10 @@
 # mackstann/tinywm - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 144
 
-★ Stars: 1354
+★ Stars: 1355
 
 [Open repository](https://github.com/mackstann/tinywm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1355 | 144 | 
 | 2023-04-05 | 1354 | 144 | 
 | 2023-04-04 | 1354 | 144 | 
 | 2023-04-03 | 1353 | 144 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1345 | 145 | 
 | 2023-03-10 | 1345 | 146 | 
 | 2023-03-09 | 1345 | 146 | 
-| 2023-03-07 | 1344 | 146 | 
 

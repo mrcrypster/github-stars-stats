@@ -1,10 +1,10 @@
 # UNC0V3R3D/Flipper_Zero-BadUsb - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 290
+☋ Forks: 291
 
-★ Stars: 1075
+★ Stars: 1081
 
 [Open repository](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1081 | 291 | 
 | 2023-04-05 | 1075 | 290 | 
 | 2023-04-04 | 1072 | 289 | 
 | 2023-04-03 | 1064 | 285 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 994 | 251 | 
 | 2023-03-10 | 990 | 250 | 
 | 2023-03-09 | 986 | 250 | 
-| 2023-03-07 | 996 | 248 | 
 

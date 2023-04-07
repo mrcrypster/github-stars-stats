@@ -1,10 +1,10 @@
 # gravitee-io/helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 91
 
-★ Stars: 47
+★ Stars: 46
 
 [Open repository](https://github.com/gravitee-io/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 46 | 91 | 
 | 2023-04-05 | 47 | 91 | 
 | 2023-04-04 | 47 | 91 | 
 | 2023-04-03 | 47 | 91 | 

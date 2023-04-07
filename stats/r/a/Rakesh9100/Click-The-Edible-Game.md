@@ -1,10 +1,10 @@
 # Rakesh9100/Click-The-Edible-Game - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 40
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 17 | 40 | 
 | 2023-04-05 | 18 | 40 | 
 | 2023-04-04 | 18 | 40 | 
 | 2023-04-03 | 18 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 16 | 46 | 
 | 2023-03-09 | 16 | 45 | 
 | 2023-03-08 | 16 | 45 | 
-| 2023-03-07 | 16 | 45 | 
 

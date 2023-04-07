@@ -1,10 +1,10 @@
 # SchemaStore/schemastore - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1252
+☋ Forks: 1255
 
-★ Stars: 2220
+★ Stars: 2222
 
 [Open repository](https://github.com/SchemaStore/schemastore)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2222 | 1255 | 
 | 2023-04-05 | 2220 | 1252 | 
 | 2023-04-04 | 2219 | 1252 | 
 | 2023-04-03 | 2214 | 1252 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 2183 | 1233 | 
 | 2023-03-10 | 2182 | 1234 | 
 | 2023-03-09 | 2180 | 1233 | 
-| 2023-03-08 | 2178 | 1233 | 
 

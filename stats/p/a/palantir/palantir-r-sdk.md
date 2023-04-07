@@ -1,10 +1,10 @@
 # palantir/palantir-r-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/palantir/palantir-r-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 8 | 2 | 
 | 2023-04-05 | 7 | 2 | 
 | 2023-04-04 | 7 | 2 | 
 | 2023-04-03 | 7 | 2 | 

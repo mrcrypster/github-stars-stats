@@ -1,6 +1,6 @@
 # andrew-git/Orbit - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2 | 3 | 
 | 2023-04-06 | 2 | 3 | 
 | 2023-04-04 | 2 | 3 | 
 | 2023-04-03 | 2 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 2 | 3 | 
 | 2023-03-10 | 2 | 3 | 
 | 2023-03-09 | 2 | 3 | 
-| 2023-03-08 | 2 | 3 | 
 

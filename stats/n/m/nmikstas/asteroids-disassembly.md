@@ -1,6 +1,6 @@
 # nmikstas/asteroids-disassembly - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 46 | 2 | 
 | 2023-04-05 | 46 | 2 | 
 | 2023-04-04 | 46 | 2 | 
 | 2023-04-03 | 46 | 2 | 

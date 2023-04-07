@@ -1,10 +1,10 @@
 # menzi11/BullshitGenerator - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 2959
 
-★ Stars: 15736
+★ Stars: 15737
 
 [Open repository](https://github.com/menzi11/BullshitGenerator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 15737 | 2959 | 
 | 2023-04-05 | 15736 | 2959 | 
 | 2023-04-04 | 15736 | 2959 | 
 | 2023-04-03 | 15736 | 2959 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 15752 | 2960 | 
 | 2023-03-10 | 15754 | 2960 | 
 | 2023-03-08 | 15753 | 2960 | 
-| 2023-03-07 | 15751 | 2959 | 
 

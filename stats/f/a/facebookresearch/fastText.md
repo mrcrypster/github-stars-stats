@@ -1,10 +1,10 @@
 # facebookresearch/fastText - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 4561
+☋ Forks: 4562
 
-★ Stars: 24383
+★ Stars: 24389
 
 [Open repository](https://github.com/facebookresearch/fastText)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 24389 | 4562 | 
 | 2023-04-05 | 24383 | 4561 | 
 | 2023-04-04 | 24377 | 4559 | 
 | 2023-04-03 | 24372 | 4559 | 

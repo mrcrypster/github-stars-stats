@@ -1,6 +1,6 @@
 # yinwang0/historical - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 21 | 23 | 
 | 2023-04-05 | 21 | 23 | 
 | 2023-04-04 | 21 | 23 | 
 | 2023-04-03 | 21 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 20 | 23 | 
 | 2023-03-10 | 20 | 23 | 
 | 2023-03-09 | 20 | 23 | 
-| 2023-03-08 | 20 | 23 | 
 

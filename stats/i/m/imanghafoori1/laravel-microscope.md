@@ -1,10 +1,10 @@
 # imanghafoori1/laravel-microscope - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 91
 
-★ Stars: 1263
+★ Stars: 1265
 
 [Open repository](https://github.com/imanghafoori1/laravel-microscope)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1265 | 91 | 
 | 2023-04-05 | 1263 | 91 | 
 | 2023-04-04 | 1262 | 91 | 
 | 2023-04-02 | 1262 | 91 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1256 | 90 | 
 | 2023-03-10 | 1256 | 90 | 
 | 2023-03-08 | 1256 | 90 | 
-| 2023-03-07 | 1255 | 89 | 
 

@@ -1,10 +1,10 @@
 # an-anime-team/an-anime-game-launcher - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 25
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/an-anime-team/an-anime-game-launcher)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 616 | 25 | 
 | 2023-04-05 | 615 | 25 | 
 | 2023-04-04 | 613 | 25 | 
 | 2023-04-03 | 608 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 548 | 25 | 
 | 2023-03-09 | 546 | 25 | 
 | 2023-03-08 | 546 | 25 | 
-| 2023-03-07 | 541 | 25 | 
 

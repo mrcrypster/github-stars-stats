@@ -1,10 +1,10 @@
 # GenieFramework/Genie.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 180
 
-★ Stars: 1976
+★ Stars: 1977
 
 [Open repository](https://github.com/GenieFramework/Genie.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1977 | 180 | 
 | 2023-04-06 | 1976 | 180 | 
 | 2023-04-04 | 1977 | 180 | 
 | 2023-04-03 | 1977 | 180 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 1963 | 180 | 
 | 2023-03-09 | 1960 | 180 | 
 | 2023-03-08 | 1959 | 180 | 
-| 2023-03-07 | 1960 | 180 | 
 

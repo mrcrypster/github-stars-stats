@@ -1,10 +1,10 @@
 # Shopify/restyle - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 118
 
-★ Stars: 2253
+★ Stars: 2256
 
 [Open repository](https://github.com/Shopify/restyle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2256 | 118 | 
 | 2023-04-05 | 2253 | 118 | 
 | 2023-04-04 | 2253 | 118 | 
 | 2023-04-03 | 2249 | 118 | 

@@ -1,6 +1,6 @@
 # mandiant/heyserial - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 120 | 19 | 
 | 2023-04-05 | 120 | 19 | 
 | 2023-04-04 | 120 | 19 | 
 | 2023-04-03 | 120 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 120 | 19 | 
 | 2023-03-10 | 120 | 19 | 
 | 2023-03-09 | 120 | 19 | 
-| 2023-03-07 | 120 | 19 | 
 

@@ -1,6 +1,6 @@
 # royquilor/twitter-ui-practise - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 163 | 33 | 
 | 2023-04-05 | 163 | 33 | 
 | 2023-04-03 | 162 | 32 | 
 | 2023-04-02 | 162 | 32 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 156 | 29 | 
 | 2023-03-10 | 156 | 29 | 
 | 2023-03-08 | 155 | 29 | 
-| 2023-03-07 | 155 | 29 | 
 

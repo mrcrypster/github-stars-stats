@@ -1,10 +1,10 @@
 # takshal/freq - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 73
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/takshal/freq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 202 | 73 | 
 | 2023-04-05 | 201 | 73 | 
 | 2023-04-04 | 201 | 73 | 
 | 2023-04-03 | 201 | 73 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 201 | 72 | 
 | 2023-03-10 | 201 | 72 | 
 | 2023-03-09 | 200 | 72 | 
-| 2023-03-07 | 199 | 71 | 
 

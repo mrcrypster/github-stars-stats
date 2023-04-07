@@ -1,10 +1,10 @@
 # glts/vim-textobj-comment - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 9
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/glts/vim-textobj-comment)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 123 | 9 | 
 | 2023-04-05 | 122 | 9 | 
 | 2023-04-03 | 122 | 9 | 
 | 2023-04-02 | 122 | 9 | 

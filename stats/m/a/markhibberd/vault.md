@@ -1,6 +1,6 @@
 # markhibberd/vault - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 13 | 1 | 
 | 2023-04-05 | 13 | 1 | 
 | 2023-04-04 | 13 | 1 | 
 | 2023-04-03 | 13 | 1 | 

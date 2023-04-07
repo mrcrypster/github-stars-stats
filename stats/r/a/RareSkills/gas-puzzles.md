@@ -1,10 +1,10 @@
 # RareSkills/gas-puzzles - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 94
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/RareSkills/gas-puzzles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 288 | 94 | 
 | 2023-04-05 | 287 | 94 | 
 | 2023-04-04 | 285 | 94 | 
 | 2023-04-03 | 284 | 94 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 267 | 92 | 
 | 2023-03-09 | 266 | 92 | 
 | 2023-03-08 | 266 | 92 | 
-| 2023-03-07 | 265 | 92 | 
 

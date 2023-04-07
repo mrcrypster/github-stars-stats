@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 06
 
 ☋ Forks: 2421
 
-★ Stars: 6770
+★ Stars: 6774
 
 [Open repository](https://github.com/autowarefoundation/autoware)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 6770 | 2421 | 
+| 2023-04-06 | 6774 | 2421 | 
 | 2023-04-05 | 6770 | 2421 | 
 | 2023-04-04 | 6768 | 2420 | 
 | 2023-04-02 | 6757 | 2417 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-10 | 6693 | 2403 | 
 | 2023-03-09 | 6687 | 2402 | 
 | 2023-03-08 | 6685 | 2402 | 
-| 2023-03-07 | 6683 | 2401 | 
 

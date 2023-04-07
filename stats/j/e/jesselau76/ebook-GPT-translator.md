@@ -1,10 +1,10 @@
 # jesselau76/ebook-GPT-translator - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 733
+★ Stars: 752
 
 [Open repository](https://github.com/jesselau76/ebook-GPT-translator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 752 | 83 | 
 | 2023-04-05 | 733 | 82 | 
 | 2023-04-04 | 723 | 82 | 
 | 2023-04-03 | 708 | 78 | 

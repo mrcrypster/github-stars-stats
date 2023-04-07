@@ -1,8 +1,8 @@
 # TheAlgorithms/Dart - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 329
+☋ Forks: 330
 
 ★ Stars: 1285
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 1285 | 330 | 
 | 2023-04-05 | 1285 | 329 | 
 | 2023-04-04 | 1283 | 329 | 
 | 2023-04-03 | 1282 | 329 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1253 | 323 | 
 | 2023-03-09 | 1249 | 323 | 
 | 2023-03-08 | 1246 | 323 | 
-| 2023-03-07 | 1245 | 323 | 
 

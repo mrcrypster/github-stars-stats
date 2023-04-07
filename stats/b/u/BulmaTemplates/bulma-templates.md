@@ -1,10 +1,10 @@
 # BulmaTemplates/bulma-templates - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 1242
+☋ Forks: 1243
 
-★ Stars: 3117
+★ Stars: 3120
 
 [Open repository](https://github.com/BulmaTemplates/bulma-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 3120 | 1243 | 
 | 2023-04-05 | 3117 | 1242 | 
 | 2023-04-04 | 3116 | 1242 | 
 | 2023-04-03 | 3116 | 1242 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 3112 | 1240 | 
 | 2023-03-10 | 3111 | 1240 | 
 | 2023-03-09 | 3111 | 1240 | 
-| 2023-03-08 | 3110 | 1240 | 
 

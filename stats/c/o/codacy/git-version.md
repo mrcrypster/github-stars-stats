@@ -1,10 +1,10 @@
 # codacy/git-version - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 45
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/codacy/git-version)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 109 | 45 | 
 | 2023-04-05 | 108 | 45 | 
 | 2023-04-04 | 108 | 45 | 
 | 2023-04-03 | 108 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 107 | 43 | 
 | 2023-03-10 | 107 | 43 | 
 | 2023-03-09 | 107 | 43 | 
-| 2023-03-07 | 106 | 43 | 
 

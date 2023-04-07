@@ -1,10 +1,10 @@
 # gragland/chatgpt-chrome-extension - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 396
 
-★ Stars: 2451
+★ Stars: 2457
 
 [Open repository](https://github.com/gragland/chatgpt-chrome-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2457 | 396 | 
 | 2023-04-05 | 2451 | 396 | 
 | 2023-04-04 | 2444 | 396 | 
 | 2023-04-03 | 2434 | 393 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 2255 | 342 | 
 | 2023-03-10 | 2250 | 341 | 
 | 2023-03-09 | 2237 | 339 | 
-| 2023-03-07 | 2229 | 334 | 
 

@@ -1,6 +1,6 @@
 # gszabi99/War-Thunder-Datamine - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 137 | 40 | 
 | 2023-04-05 | 137 | 40 | 
 | 2023-04-04 | 136 | 39 | 
 | 2023-04-03 | 136 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-10 | 133 | 38 | 
 | 2023-03-09 | 133 | 38 | 
 | 2023-03-08 | 129 | 38 | 
-| 2023-03-07 | 129 | 38 | 
 

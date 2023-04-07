@@ -1,8 +1,8 @@
 # dr3ams/Roguelike-Adventures-and-Dungeons-2 - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 07
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 29
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 29 | 13 | 
+| 2023-04-06 | 29 | 13 | 
 | 2023-04-05 | 29 | 12 | 
 | 2023-04-04 | 29 | 12 | 
 | 2023-04-03 | 29 | 12 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 26 | 12 | 
 | 2023-03-09 | 26 | 12 | 
 | 2023-03-08 | 25 | 11 | 
-| 2023-03-07 | 25 | 11 | 
 

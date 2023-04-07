@@ -1,10 +1,10 @@
 # microsoft/WinUI-Gallery - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 540
 
-★ Stars: 2006
+★ Stars: 2012
 
 [Open repository](https://github.com/microsoft/WinUI-Gallery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2012 | 540 | 
 | 2023-04-05 | 2006 | 540 | 
 | 2023-04-04 | 2005 | 538 | 
 | 2023-04-03 | 1999 | 536 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 1949 | 529 | 
 | 2023-03-10 | 1949 | 529 | 
 | 2023-03-09 | 1946 | 528 | 
-| 2023-03-07 | 1940 | 528 | 
 

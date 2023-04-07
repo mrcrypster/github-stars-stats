@@ -1,10 +1,10 @@
 # YakshaLang/Yaksha - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/YakshaLang/Yaksha)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 110 | 3 | 
 | 2023-04-05 | 109 | 3 | 
 | 2023-04-04 | 109 | 3 | 
 | 2023-04-03 | 109 | 3 | 

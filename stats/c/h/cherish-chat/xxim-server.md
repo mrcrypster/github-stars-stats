@@ -1,10 +1,10 @@
 # cherish-chat/xxim-server - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
-☋ Forks: 37
+☋ Forks: 43
 
-★ Stars: 274
+★ Stars: 313
 
 [Open repository](https://github.com/cherish-chat/xxim-server)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 313 | 43 | 
 | 2023-04-05 | 274 | 37 | 
 | 2023-04-04 | 242 | 31 | 
 | 2023-04-03 | 218 | 29 | 

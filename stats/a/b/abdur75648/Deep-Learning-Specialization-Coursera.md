@@ -1,6 +1,6 @@
 # abdur75648/Deep-Learning-Specialization-Coursera - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 200 | 222 | 
 | 2023-04-05 | 200 | 222 | 
 | 2023-04-04 | 200 | 221 | 
 | 2023-04-03 | 200 | 222 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 186 | 214 | 
 | 2023-03-10 | 186 | 214 | 
 | 2023-03-09 | 186 | 213 | 
-| 2023-03-07 | 186 | 213 | 
 

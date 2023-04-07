@@ -1,10 +1,10 @@
 # Razor12911/xtool - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/Razor12911/xtool)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 87 | 6 | 
 | 2023-04-05 | 86 | 6 | 
 | 2023-04-04 | 86 | 6 | 
 | 2023-04-03 | 86 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 80 | 6 | 
 | 2023-03-10 | 80 | 6 | 
 | 2023-03-09 | 79 | 6 | 
-| 2023-03-07 | 79 | 6 | 
 

@@ -1,10 +1,10 @@
 # project-copacetic/copacetic - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 14
 
-★ Stars: 248
+★ Stars: 250
 
 [Open repository](https://github.com/project-copacetic/copacetic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 250 | 14 | 
 | 2023-04-05 | 248 | 14 | 
 | 2023-04-04 | 248 | 14 | 
 | 2023-04-03 | 248 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 151 | 10 | 
 | 2023-03-10 | 151 | 10 | 
 | 2023-03-08 | 149 | 10 | 
-| 2023-03-07 | 149 | 9 | 
 

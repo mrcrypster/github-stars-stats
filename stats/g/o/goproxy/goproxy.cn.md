@@ -1,10 +1,10 @@
 # goproxy/goproxy.cn - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 371
 
-★ Stars: 6296
+★ Stars: 6298
 
 [Open repository](https://github.com/goproxy/goproxy.cn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 6298 | 371 | 
 | 2023-04-05 | 6296 | 371 | 
 | 2023-04-03 | 6293 | 371 | 
 | 2023-04-02 | 6292 | 371 | 

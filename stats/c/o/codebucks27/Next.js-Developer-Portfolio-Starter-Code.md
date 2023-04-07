@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 42
+☋ Forks: 45
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 67 | 42 | 
+| 2023-04-06 | 68 | 45 | 
 | 2023-04-05 | 67 | 42 | 
 | 2023-04-04 | 57 | 38 | 
 | 2023-04-03 | 52 | 32 | 

@@ -1,10 +1,10 @@
 # Mitcheljager/svelte-confetti - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/Mitcheljager/svelte-confetti)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 138 | 5 | 
 | 2023-04-05 | 137 | 5 | 
 | 2023-04-04 | 137 | 5 | 
 | 2023-04-03 | 137 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 134 | 5 | 
 | 2023-03-10 | 134 | 5 | 
 | 2023-03-08 | 134 | 5 | 
-| 2023-03-07 | 132 | 4 | 
 

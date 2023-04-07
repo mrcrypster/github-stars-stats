@@ -1,6 +1,6 @@
 # code-iai/iai_maps - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 10 | 36 | 
 | 2023-04-05 | 10 | 36 | 
 | 2023-04-04 | 10 | 36 | 
 | 2023-04-03 | 10 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 10 | 36 | 
 | 2023-03-09 | 10 | 36 | 
 | 2023-03-08 | 10 | 36 | 
-| 2023-03-07 | 10 | 36 | 
 

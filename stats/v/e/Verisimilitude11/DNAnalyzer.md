@@ -1,6 +1,6 @@
 # Verisimilitude11/DNAnalyzer - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 94 | 56 | 
 | 2023-04-05 | 94 | 56 | 
 | 2023-04-04 | 94 | 56 | 
 | 2023-04-03 | 94 | 55 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-11 | 91 | 56 | 
 | 2023-03-10 | 91 | 56 | 
 | 2023-03-08 | 91 | 56 | 
-| 2023-03-07 | 91 | 56 | 
 

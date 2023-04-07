@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 06
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 139
+★ Stars: 149
 
 [Open repository](https://github.com/RaduAlexandru/permuto_sdf)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-06 | 139 | 5 | 
+| 2023-04-06 | 149 | 6 | 
 | 2023-04-05 | 138 | 5 | 
 | 2023-04-04 | 133 | 5 | 
 | 2023-04-03 | 107 | 5 | 

@@ -1,6 +1,6 @@
 # MizarProject/system - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 27 | 6 | 
 | 2023-04-05 | 27 | 6 | 
 | 2023-04-04 | 27 | 6 | 
 | 2023-04-02 | 27 | 6 | 

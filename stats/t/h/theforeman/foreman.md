@@ -1,10 +1,10 @@
 # theforeman/foreman - stars & forks statistics
 
-Stats updated on Apr 2023, 05
+Stats updated on Apr 2023, 06
 
 ☋ Forks: 968
 
-★ Stars: 2325
+★ Stars: 2326
 
 [Open repository](https://github.com/theforeman/foreman)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-06 | 2326 | 968 | 
 | 2023-04-05 | 2325 | 968 | 
 | 2023-04-04 | 2324 | 967 | 
 | 2023-04-03 | 2323 | 967 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 05
 | 2023-03-12 | 2314 | 965 | 
 | 2023-03-10 | 2314 | 965 | 
 | 2023-03-09 | 2313 | 964 | 
-| 2023-03-07 | 2313 | 963 | 
 
