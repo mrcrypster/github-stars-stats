@@ -1,10 +1,10 @@
 # elm-fullstack/elm-fullstack - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/elm-fullstack/elm-fullstack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 176 | 14 | 
 | 2023-04-06 | 175 | 14 | 
 | 2023-04-05 | 175 | 14 | 
 | 2023-04-04 | 175 | 14 | 

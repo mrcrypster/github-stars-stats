@@ -1,10 +1,10 @@
 # ngrok/ngrok-rs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 190
+★ Stars: 194
 
 [Open repository](https://github.com/ngrok/ngrok-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 194 | 7 | 
 | 2023-04-06 | 190 | 7 | 
 | 2023-04-05 | 190 | 7 | 
 | 2023-04-04 | 187 | 7 | 

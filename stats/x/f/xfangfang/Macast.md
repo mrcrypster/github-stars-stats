@@ -1,10 +1,10 @@
 # xfangfang/Macast - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 308
 
-★ Stars: 5015
+★ Stars: 5019
 
 [Open repository](https://github.com/xfangfang/Macast)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 5019 | 308 | 
 | 2023-04-06 | 5015 | 308 | 
 | 2023-04-05 | 5007 | 306 | 
 | 2023-04-04 | 4999 | 305 | 

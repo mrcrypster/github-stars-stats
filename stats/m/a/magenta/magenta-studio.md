@@ -1,10 +1,10 @@
 # magenta/magenta-studio - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 114
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/magenta/magenta-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 679 | 114 | 
 | 2023-04-06 | 678 | 114 | 
 | 2023-04-05 | 678 | 114 | 
 | 2023-04-04 | 677 | 114 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 664 | 109 | 
 | 2023-03-11 | 664 | 109 | 
 | 2023-03-10 | 663 | 108 | 
-| 2023-03-08 | 662 | 108 | 
 

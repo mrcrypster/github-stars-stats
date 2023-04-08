@@ -1,6 +1,6 @@
 # Lameguy64/n00brom - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 26 | 5 | 
 | 2023-04-06 | 26 | 5 | 
 | 2023-04-05 | 26 | 5 | 
 | 2023-04-04 | 26 | 5 | 

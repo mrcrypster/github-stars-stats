@@ -1,6 +1,6 @@
 # atsign-foundation/sshnoports - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 235 | 9 | 
 | 2023-04-06 | 235 | 9 | 
 | 2023-04-05 | 235 | 9 | 
 | 2023-04-04 | 235 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 233 | 9 | 
 | 2023-03-10 | 233 | 9 | 
 | 2023-03-09 | 235 | 9 | 
-| 2023-03-08 | 234 | 9 | 
 

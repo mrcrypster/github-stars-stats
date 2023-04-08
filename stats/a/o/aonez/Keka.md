@@ -1,10 +1,10 @@
 # aonez/Keka - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 201
 
-★ Stars: 3617
+★ Stars: 3622
 
 [Open repository](https://github.com/aonez/Keka)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3622 | 201 | 
 | 2023-04-06 | 3617 | 201 | 
 | 2023-04-05 | 3616 | 201 | 
 | 2023-04-04 | 3607 | 200 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 3568 | 199 | 
 | 2023-03-10 | 3565 | 199 | 
 | 2023-03-09 | 3562 | 199 | 
-| 2023-03-08 | 3561 | 199 | 
 

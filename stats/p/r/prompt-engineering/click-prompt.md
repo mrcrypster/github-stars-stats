@@ -1,10 +1,10 @@
 # prompt-engineering/click-prompt - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 102
+☋ Forks: 101
 
-★ Stars: 1154
+★ Stars: 1180
 
 [Open repository](https://github.com/prompt-engineering/click-prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1180 | 101 | 
 | 2023-04-06 | 1154 | 102 | 
 | 2023-04-05 | 1138 | 98 | 
 | 2023-04-04 | 1130 | 98 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 559 | 50 | 
 | 2023-03-10 | 543 | 47 | 
 | 2023-03-09 | 478 | 40 | 
-| 2023-03-08 | 360 | 31 | 
 

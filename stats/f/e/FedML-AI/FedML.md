@@ -1,10 +1,10 @@
 # FedML-AI/FedML - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 602
+☋ Forks: 604
 
-★ Stars: 2545
+★ Stars: 2547
 
 [Open repository](https://github.com/FedML-AI/FedML)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2547 | 604 | 
 | 2023-04-06 | 2545 | 602 | 
 | 2023-04-05 | 2541 | 602 | 
 | 2023-04-04 | 2540 | 602 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2464 | 587 | 
 | 2023-03-11 | 2462 | 587 | 
 | 2023-03-09 | 2457 | 587 | 
-| 2023-03-08 | 2454 | 583 | 
 

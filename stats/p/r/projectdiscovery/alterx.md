@@ -1,10 +1,10 @@
 # projectdiscovery/alterx - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 13
+☋ Forks: 16
 
-★ Stars: 240
+★ Stars: 285
 
 [Open repository](https://github.com/projectdiscovery/alterx)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 285 | 16 | 
 | 2023-04-06 | 240 | 13 | 
 

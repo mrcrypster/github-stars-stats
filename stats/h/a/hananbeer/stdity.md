@@ -1,6 +1,6 @@
 # hananbeer/stdity - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 81 | 5 | 
 | 2023-04-06 | 81 | 5 | 
 | 2023-04-04 | 81 | 5 | 
 | 2023-04-03 | 81 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 80 | 5 | 
 | 2023-03-10 | 80 | 5 | 
 | 2023-03-09 | 80 | 5 | 
-| 2023-03-08 | 80 | 5 | 
 

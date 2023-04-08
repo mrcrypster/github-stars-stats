@@ -1,10 +1,10 @@
 # alexwidua/prototypes - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 665
+★ Stars: 669
 
 [Open repository](https://github.com/alexwidua/prototypes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 669 | 45 | 
 | 2023-04-06 | 665 | 44 | 
 | 2023-04-05 | 663 | 44 | 
 | 2023-04-04 | 663 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 536 | 33 | 
 | 2023-03-10 | 531 | 33 | 
 | 2023-03-09 | 519 | 32 | 
-| 2023-03-08 | 501 | 32 | 
 

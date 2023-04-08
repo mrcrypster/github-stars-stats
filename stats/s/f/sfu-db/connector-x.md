@@ -1,6 +1,6 @@
 # sfu-db/connector-x - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1195 | 88 | 
 | 2023-04-06 | 1195 | 88 | 
 | 2023-04-05 | 1193 | 87 | 
 | 2023-04-04 | 1191 | 87 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1143 | 81 | 
 | 2023-03-10 | 1140 | 81 | 
 | 2023-03-09 | 1137 | 80 | 
-| 2023-03-08 | 1135 | 80 | 
 

@@ -1,10 +1,10 @@
 # tokio-rs/tracing - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 517
 
-★ Stars: 3698
+★ Stars: 3703
 
 [Open repository](https://github.com/tokio-rs/tracing)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3703 | 517 | 
 | 2023-04-06 | 3698 | 517 | 
 | 2023-04-05 | 3695 | 515 | 
 | 2023-04-04 | 3694 | 513 | 

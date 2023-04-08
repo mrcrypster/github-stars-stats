@@ -1,10 +1,10 @@
 # MicrosoftDocs/microsoft-365-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1733
 
-★ Stars: 714
+★ Stars: 713
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 714 | 1733 | 
+| 2023-04-08 | 713 | 1733 | 
+| 2023-04-07 | 713 | 1733 | 
 | 2023-04-06 | 714 | 1733 | 
 | 2023-04-05 | 711 | 1731 | 
 | 2023-04-04 | 709 | 1727 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 689 | 1682 | 
 | 2023-03-10 | 689 | 1681 | 
 | 2023-03-09 | 687 | 1679 | 
-| 2023-03-08 | 687 | 1678 | 
 

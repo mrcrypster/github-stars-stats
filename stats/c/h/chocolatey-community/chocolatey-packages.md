@@ -1,10 +1,10 @@
 # chocolatey-community/chocolatey-packages - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 347
+☋ Forks: 348
 
-★ Stars: 395
+★ Stars: 396
 
 [Open repository](https://github.com/chocolatey-community/chocolatey-packages)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 396 | 348 | 
 | 2023-04-06 | 395 | 347 | 
 | 2023-04-05 | 395 | 347 | 
 | 2023-04-04 | 395 | 346 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 392 | 344 | 
 | 2023-03-10 | 392 | 344 | 
 | 2023-03-09 | 392 | 343 | 
-| 2023-03-08 | 393 | 343 | 
 

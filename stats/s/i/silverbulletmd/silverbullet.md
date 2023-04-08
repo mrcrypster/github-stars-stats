@@ -1,6 +1,6 @@
 # silverbulletmd/silverbullet - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1070 | 65 | 
 | 2023-04-06 | 1070 | 65 | 
 | 2023-04-05 | 1069 | 65 | 
 | 2023-04-04 | 1068 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1050 | 64 | 
 | 2023-03-11 | 1049 | 65 | 
 | 2023-03-10 | 1049 | 65 | 
-| 2023-03-08 | 1047 | 65 | 
 

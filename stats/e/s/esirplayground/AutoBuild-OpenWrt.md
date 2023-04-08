@@ -1,10 +1,10 @@
 # esirplayground/AutoBuild-OpenWrt - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4212
 
-★ Stars: 1379
+★ Stars: 1380
 
 [Open repository](https://github.com/esirplayground/AutoBuild-OpenWrt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1380 | 4212 | 
 | 2023-04-06 | 1379 | 4212 | 
 | 2023-04-05 | 1379 | 4212 | 
 | 2023-04-04 | 1376 | 4212 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1363 | 4185 | 
 | 2023-03-11 | 1361 | 4178 | 
 | 2023-03-10 | 1359 | 4177 | 
-| 2023-03-09 | 1356 | 4173 | 
 

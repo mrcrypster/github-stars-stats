@@ -1,10 +1,10 @@
 # tetratelabs/wazero - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 161
 
-★ Stars: 2833
+★ Stars: 2843
 
 [Open repository](https://github.com/tetratelabs/wazero)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2843 | 161 | 
 | 2023-04-06 | 2833 | 161 | 
 | 2023-04-05 | 2824 | 161 | 
 | 2023-04-03 | 2805 | 158 | 

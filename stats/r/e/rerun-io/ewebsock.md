@@ -1,10 +1,10 @@
 # rerun-io/ewebsock - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 11
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/rerun-io/ewebsock)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 98 | 11 | 
 | 2023-04-06 | 97 | 11 | 
 | 2023-04-05 | 97 | 11 | 
 | 2023-04-04 | 96 | 11 | 

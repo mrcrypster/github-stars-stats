@@ -1,10 +1,10 @@
 # Zellic/poc-hacks - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/Zellic/poc-hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 33 | 1 | 
 | 2023-04-07 | 32 | 1 | 
 | 2023-04-06 | 32 | 1 | 
 | 2023-04-04 | 32 | 1 | 

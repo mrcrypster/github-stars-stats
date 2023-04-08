@@ -2,7 +2,7 @@
 
 Stats updated on Apr 2023, 07
 
-☋ Forks: 1980
+☋ Forks: 2009
 
 ★ Stars: 91
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 91 | 1980 | 
+| 2023-04-07 | 91 | 2009 | 
 | 2023-04-06 | 91 | 1956 | 
 | 2023-04-05 | 86 | 1786 | 
 

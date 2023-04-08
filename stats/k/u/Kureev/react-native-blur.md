@@ -1,6 +1,6 @@
 # Kureev/react-native-blur - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 548
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3501 | 548 | 
 | 2023-04-06 | 3501 | 548 | 
 | 2023-04-05 | 3501 | 548 | 
 | 2023-04-04 | 3498 | 548 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 3480 | 545 | 
 | 2023-03-11 | 3480 | 545 | 
 | 2023-03-10 | 3481 | 545 | 
-| 2023-03-08 | 3478 | 545 | 
 

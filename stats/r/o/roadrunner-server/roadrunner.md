@@ -1,10 +1,10 @@
 # roadrunner-server/roadrunner - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 390
 
-★ Stars: 7097
+★ Stars: 7099
 
 [Open repository](https://github.com/roadrunner-server/roadrunner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 7099 | 390 | 
 | 2023-04-06 | 7097 | 390 | 
 | 2023-04-05 | 7095 | 390 | 
 | 2023-04-04 | 7091 | 390 | 

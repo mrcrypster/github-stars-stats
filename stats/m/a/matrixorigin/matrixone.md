@@ -1,10 +1,10 @@
 # matrixorigin/matrixone - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 234
 
-★ Stars: 1450
+★ Stars: 1451
 
 [Open repository](https://github.com/matrixorigin/matrixone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1451 | 234 | 
 | 2023-04-06 | 1450 | 234 | 
 | 2023-04-05 | 1450 | 234 | 
 | 2023-04-04 | 1448 | 234 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1421 | 231 | 
 | 2023-03-11 | 1421 | 230 | 
 | 2023-03-10 | 1421 | 229 | 
-| 2023-03-08 | 1418 | 229 | 
 

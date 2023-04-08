@@ -1,6 +1,6 @@
 # Atharva1802/CSS-trickies - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 169 | 17 | 
 | 2023-04-06 | 169 | 17 | 
 | 2023-04-05 | 169 | 17 | 
 | 2023-04-04 | 169 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 148 | 16 | 
 | 2023-03-10 | 148 | 16 | 
 | 2023-03-09 | 148 | 16 | 
-| 2023-03-08 | 147 | 16 | 
 

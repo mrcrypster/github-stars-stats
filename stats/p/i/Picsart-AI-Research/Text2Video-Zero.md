@@ -1,10 +1,10 @@
 # Picsart-AI-Research/Text2Video-Zero - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 98
+☋ Forks: 108
 
-★ Stars: 2227
+★ Stars: 2247
 
 [Open repository](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2247 | 108 | 
 | 2023-04-06 | 2227 | 98 | 
 | 2023-04-05 | 2189 | 92 | 
 | 2023-04-04 | 2154 | 88 | 

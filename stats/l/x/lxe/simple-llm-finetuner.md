@@ -1,0 +1,17 @@
+# lxe/simple-llm-finetuner - stars & forks statistics
+
+Stats updated on Apr 2023, 07
+
+☋ Forks: 61
+
+★ Stars: 1275
+
+[Open repository](https://github.com/lxe/simple-llm-finetuner)
+
+[Open detailed stats for lxe/simple-llm-finetuner](https://reviewgithub.com/rep/lxe/simple-llm-finetuner)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-07 | 1275 | 61 | 
+

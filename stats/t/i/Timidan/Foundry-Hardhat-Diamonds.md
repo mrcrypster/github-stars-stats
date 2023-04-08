@@ -1,10 +1,10 @@
 # Timidan/Foundry-Hardhat-Diamonds - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 16
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/Timidan/Foundry-Hardhat-Diamonds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 59 | 16 | 
 | 2023-04-06 | 58 | 16 | 
 | 2023-04-05 | 58 | 16 | 
 | 2023-04-04 | 58 | 16 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 54 | 11 | 
 | 2023-03-11 | 54 | 11 | 
 | 2023-03-10 | 54 | 11 | 
-| 2023-03-08 | 54 | 11 | 
 

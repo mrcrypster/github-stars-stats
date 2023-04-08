@@ -1,10 +1,10 @@
 # tectalichq/public-openai-client-php - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 196
+★ Stars: 200
 
 [Open repository](https://github.com/tectalichq/public-openai-client-php)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 200 | 33 | 
 | 2023-04-06 | 196 | 32 | 
 | 2023-04-04 | 188 | 31 | 
 | 2023-04-03 | 186 | 31 | 

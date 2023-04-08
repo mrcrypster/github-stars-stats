@@ -1,10 +1,10 @@
 # owasp-amass/amass - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1656
+☋ Forks: 1655
 
-★ Stars: 9096
+★ Stars: 9107
 
 [Open repository](https://github.com/owasp-amass/amass)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 9107 | 1655 | 
 | 2023-04-06 | 9096 | 1656 | 
 | 2023-04-05 | 9089 | 1656 | 
 | 2023-04-04 | 9081 | 1654 | 

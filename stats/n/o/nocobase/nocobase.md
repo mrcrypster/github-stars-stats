@@ -1,10 +1,10 @@
 # nocobase/nocobase - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 505
+☋ Forks: 507
 
-★ Stars: 4114
+★ Stars: 4122
 
 [Open repository](https://github.com/nocobase/nocobase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4122 | 507 | 
 | 2023-04-06 | 4114 | 505 | 
 | 2023-04-05 | 4110 | 504 | 
 | 2023-04-04 | 4108 | 503 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 4038 | 483 | 
 | 2023-03-10 | 4037 | 483 | 
 | 2023-03-09 | 4032 | 481 | 
-| 2023-03-08 | 4028 | 479 | 
 

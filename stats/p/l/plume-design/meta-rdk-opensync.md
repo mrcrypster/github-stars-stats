@@ -1,10 +1,10 @@
 # plume-design/meta-rdk-opensync - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/plume-design/meta-rdk-opensync)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2 | 5 | 
 | 2023-04-06 | 3 | 5 | 
 | 2023-04-05 | 3 | 5 | 
 | 2023-04-04 | 3 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3 | 5 | 
 | 2023-03-10 | 3 | 5 | 
 | 2023-03-09 | 3 | 4 | 
-| 2023-03-08 | 3 | 4 | 
 

@@ -1,10 +1,10 @@
 # GrapesJS/grapesjs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 3377
+☋ Forks: 3378
 
-★ Stars: 17683
+★ Stars: 17690
 
 [Open repository](https://github.com/GrapesJS/grapesjs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 17690 | 3378 | 
 | 2023-04-06 | 17683 | 3377 | 
 | 2023-04-05 | 17681 | 3377 | 
 | 2023-04-04 | 17677 | 3375 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 17556 | 3349 | 
 | 2023-03-10 | 17550 | 3346 | 
 | 2023-03-09 | 17535 | 3346 | 
-| 2023-03-08 | 17523 | 3347 | 
 

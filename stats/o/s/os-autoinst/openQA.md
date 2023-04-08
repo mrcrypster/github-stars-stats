@@ -1,6 +1,6 @@
 # os-autoinst/openQA - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 264 | 187 | 
 | 2023-04-06 | 264 | 187 | 
 | 2023-04-05 | 264 | 187 | 
 | 2023-04-04 | 264 | 187 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 261 | 183 | 
 | 2023-03-10 | 261 | 183 | 
 | 2023-03-09 | 261 | 183 | 
-| 2023-03-08 | 261 | 183 | 
 

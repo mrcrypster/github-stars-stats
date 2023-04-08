@@ -1,10 +1,10 @@
 # benthecoder/ClassGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/benthecoder/ClassGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 137 | 19 | 
 | 2023-04-06 | 136 | 18 | 
 | 2023-04-05 | 134 | 19 | 
 | 2023-04-04 | 132 | 17 | 

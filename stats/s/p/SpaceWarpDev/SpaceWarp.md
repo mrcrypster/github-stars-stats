@@ -1,6 +1,6 @@
 # SpaceWarpDev/SpaceWarp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 71 | 32 | 
 | 2023-04-06 | 71 | 32 | 
 | 2023-04-05 | 71 | 32 | 
 | 2023-04-04 | 71 | 32 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 64 | 29 | 
 | 2023-03-11 | 63 | 29 | 
 | 2023-03-10 | 61 | 28 | 
-| 2023-03-09 | 60 | 28 | 
 

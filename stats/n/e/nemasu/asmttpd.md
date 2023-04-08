@@ -1,10 +1,10 @@
 # nemasu/asmttpd - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 194
+☋ Forks: 195
 
-★ Stars: 2924
+★ Stars: 2925
 
 [Open repository](https://github.com/nemasu/asmttpd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2925 | 195 | 
 | 2023-04-06 | 2924 | 194 | 
 | 2023-04-05 | 2924 | 194 | 
 | 2023-04-04 | 2924 | 194 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 2921 | 195 | 
 | 2023-03-12 | 2921 | 195 | 
 | 2023-03-10 | 2921 | 195 | 
-| 2023-03-09 | 2922 | 195 | 
 

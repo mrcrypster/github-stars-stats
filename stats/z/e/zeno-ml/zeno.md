@@ -1,6 +1,6 @@
 # zeno-ml/zeno - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 97 | 5 | 
 | 2023-04-06 | 97 | 5 | 
 | 2023-04-05 | 97 | 5 | 
 | 2023-04-04 | 97 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 75 | 4 | 
 | 2023-03-11 | 74 | 4 | 
 | 2023-03-10 | 73 | 4 | 
-| 2023-03-08 | 72 | 4 | 
 

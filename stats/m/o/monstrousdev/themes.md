@@ -1,8 +1,8 @@
 # monstrousdev/themes - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 257
+☋ Forks: 258
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 66 | 258 | 
 | 2023-04-06 | 66 | 257 | 
 | 2023-04-05 | 66 | 256 | 
 | 2023-04-04 | 66 | 253 | 

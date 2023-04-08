@@ -1,6 +1,6 @@
 # ColauttiLab/RCrashCourse_Book - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 190 | 21 | 
 | 2023-04-06 | 190 | 21 | 
 | 2023-04-05 | 189 | 21 | 
 | 2023-04-04 | 189 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 188 | 21 | 
 | 2023-03-11 | 188 | 21 | 
 | 2023-03-10 | 188 | 21 | 
-| 2023-03-08 | 188 | 21 | 
 

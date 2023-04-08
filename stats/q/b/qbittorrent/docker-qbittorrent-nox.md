@@ -1,10 +1,10 @@
 # qbittorrent/docker-qbittorrent-nox - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/qbittorrent/docker-qbittorrent-nox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 22 | 6 | 
 | 2023-04-06 | 21 | 6 | 
 | 2023-04-05 | 21 | 6 | 
 | 2023-04-03 | 21 | 6 | 

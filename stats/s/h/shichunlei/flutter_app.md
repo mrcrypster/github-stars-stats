@@ -1,10 +1,10 @@
 # shichunlei/flutter_app - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 492
 
-★ Stars: 2433
+★ Stars: 2436
 
 [Open repository](https://github.com/shichunlei/flutter_app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2436 | 492 | 
 | 2023-04-06 | 2433 | 492 | 
 | 2023-04-05 | 2433 | 492 | 
 | 2023-04-04 | 2431 | 492 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2409 | 488 | 
 | 2023-03-11 | 2407 | 488 | 
 | 2023-03-10 | 2407 | 488 | 
-| 2023-03-08 | 2407 | 488 | 
 

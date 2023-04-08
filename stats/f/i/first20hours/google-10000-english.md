@@ -1,10 +1,10 @@
 # first20hours/google-10000-english - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1966
 
-★ Stars: 3503
+★ Stars: 3506
 
 [Open repository](https://github.com/first20hours/google-10000-english)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3506 | 1966 | 
 | 2023-04-06 | 3503 | 1966 | 
 | 2023-04-05 | 3501 | 1965 | 
 | 2023-04-04 | 3501 | 1965 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 3481 | 1956 | 
 | 2023-03-12 | 3481 | 1957 | 
 | 2023-03-10 | 3475 | 1954 | 
-| 2023-03-09 | 3473 | 1955 | 
 

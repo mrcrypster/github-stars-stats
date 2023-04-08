@@ -1,10 +1,10 @@
 # jonathan-bower/DataScienceResources - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1442
+☋ Forks: 1443
 
-★ Stars: 3675
+★ Stars: 3677
 
 [Open repository](https://github.com/jonathan-bower/DataScienceResources)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3677 | 1443 | 
 | 2023-04-06 | 3675 | 1442 | 
 | 2023-04-05 | 3675 | 1442 | 
 | 2023-04-04 | 3675 | 1442 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3660 | 1438 | 
 | 2023-03-10 | 3661 | 1438 | 
 | 2023-03-09 | 3654 | 1438 | 
-| 2023-03-08 | 3653 | 1438 | 
 

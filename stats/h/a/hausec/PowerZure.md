@@ -1,6 +1,6 @@
 # hausec/PowerZure - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 873 | 133 | 
 | 2023-04-06 | 873 | 133 | 
 | 2023-04-05 | 873 | 133 | 
 | 2023-04-04 | 873 | 133 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 857 | 133 | 
 | 2023-03-11 | 857 | 133 | 
 | 2023-03-10 | 857 | 133 | 
-| 2023-03-08 | 856 | 133 | 
 

@@ -1,10 +1,10 @@
 # CheckBoxStudio/BUAAThesis - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 87
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/CheckBoxStudio/BUAAThesis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 375 | 87 | 
 | 2023-04-06 | 374 | 87 | 
 | 2023-04-05 | 373 | 87 | 
 | 2023-04-03 | 373 | 87 | 

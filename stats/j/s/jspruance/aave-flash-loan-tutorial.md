@@ -1,10 +1,10 @@
 # jspruance/aave-flash-loan-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 50
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/jspruance/aave-flash-loan-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 64 | 50 | 
 | 2023-04-06 | 63 | 50 | 
 | 2023-04-05 | 63 | 50 | 
 | 2023-04-04 | 63 | 50 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 59 | 43 | 
 | 2023-03-11 | 57 | 43 | 
 | 2023-03-10 | 56 | 43 | 
-| 2023-03-09 | 56 | 43 | 
 

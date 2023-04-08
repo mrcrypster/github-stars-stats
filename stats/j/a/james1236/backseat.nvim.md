@@ -1,10 +1,10 @@
 # james1236/backseat.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 49
+★ Stars: 52
 
 [Open repository](https://github.com/james1236/backseat.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 52 | 3 | 
 | 2023-04-06 | 49 | 2 | 
 | 2023-04-05 | 48 | 1 | 
 

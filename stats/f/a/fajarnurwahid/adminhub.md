@@ -1,10 +1,10 @@
 # fajarnurwahid/adminhub - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 121
 
-★ Stars: 171
+★ Stars: 173
 
 [Open repository](https://github.com/fajarnurwahid/adminhub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 173 | 121 | 
 | 2023-04-06 | 171 | 121 | 
 | 2023-04-05 | 167 | 119 | 
 | 2023-04-04 | 161 | 116 | 

@@ -1,6 +1,6 @@
 # dobrado76/Stable-Diffusion-Unity-Integration - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 93 | 19 | 
 | 2023-04-07 | 93 | 19 | 
 | 2023-04-06 | 93 | 19 | 
 | 2023-04-04 | 93 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 60 | 11 | 
 | 2023-03-11 | 59 | 11 | 
 | 2023-03-10 | 57 | 10 | 
-| 2023-03-08 | 57 | 10 | 
 

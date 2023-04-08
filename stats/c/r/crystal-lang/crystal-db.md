@@ -1,6 +1,6 @@
 # crystal-lang/crystal-db - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 267 | 46 | 
 | 2023-04-06 | 267 | 46 | 
 | 2023-04-05 | 267 | 45 | 
 | 2023-04-04 | 266 | 45 | 

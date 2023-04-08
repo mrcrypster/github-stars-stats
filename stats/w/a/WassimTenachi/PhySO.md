@@ -1,8 +1,8 @@
 # WassimTenachi/PhySO - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 174
+☋ Forks: 175
 
 ★ Stars: 1329
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1329 | 175 | 
 | 2023-04-06 | 1329 | 174 | 
 | 2023-04-05 | 1323 | 173 | 
 | 2023-04-04 | 1319 | 173 | 

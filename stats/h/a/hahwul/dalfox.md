@@ -1,10 +1,10 @@
 # hahwul/dalfox - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 319
 
-★ Stars: 2438
+★ Stars: 2443
 
 [Open repository](https://github.com/hahwul/dalfox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2443 | 319 | 
 | 2023-04-06 | 2438 | 319 | 
 | 2023-04-05 | 2437 | 319 | 
 | 2023-04-04 | 2436 | 319 | 

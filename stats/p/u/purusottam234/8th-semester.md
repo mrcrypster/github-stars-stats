@@ -1,6 +1,6 @@
 # purusottam234/8th-semester - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 33 | 6 | 
 | 2023-04-06 | 33 | 6 | 
 | 2023-04-05 | 33 | 6 | 
 | 2023-04-04 | 33 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 33 | 6 | 
 | 2023-03-11 | 33 | 6 | 
 | 2023-03-09 | 33 | 6 | 
-| 2023-03-08 | 33 | 6 | 
 

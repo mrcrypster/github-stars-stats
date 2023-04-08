@@ -1,10 +1,10 @@
 # pcaversaccio/snekmate - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 24
 
-★ Stars: 303
+★ Stars: 304
 
 [Open repository](https://github.com/pcaversaccio/snekmate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 304 | 24 | 
 | 2023-04-06 | 303 | 24 | 
 | 2023-04-05 | 301 | 24 | 
 | 2023-04-04 | 300 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 286 | 23 | 
 | 2023-03-10 | 284 | 23 | 
 | 2023-03-09 | 284 | 23 | 
-| 2023-03-08 | 284 | 23 | 
 

@@ -1,10 +1,10 @@
 # pfeodrippe/wally - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/pfeodrippe/wally)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 48 | 1 | 
 | 2023-04-06 | 47 | 1 | 
 | 2023-04-05 | 43 | 1 | 
 | 2023-04-04 | 41 | 1 | 

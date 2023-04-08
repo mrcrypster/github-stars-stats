@@ -1,10 +1,10 @@
 # jcs-elpa/codemetrics - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/jcs-elpa/codemetrics)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 20 | 3 | 
 | 2023-04-06 | 19 | 3 | 
 

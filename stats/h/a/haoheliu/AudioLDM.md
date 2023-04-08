@@ -1,10 +1,10 @@
 # haoheliu/AudioLDM - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 93
+☋ Forks: 94
 
-★ Stars: 1169
+★ Stars: 1174
 
 [Open repository](https://github.com/haoheliu/AudioLDM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1174 | 94 | 
 | 2023-04-06 | 1169 | 93 | 
 | 2023-04-05 | 1166 | 93 | 
 | 2023-04-04 | 1158 | 91 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1009 | 78 | 
 | 2023-03-11 | 1000 | 77 | 
 | 2023-03-09 | 988 | 75 | 
-| 2023-03-08 | 978 | 71 | 
 

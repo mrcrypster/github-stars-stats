@@ -1,6 +1,6 @@
 # varunKT001/awesome-javascript-projects - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 35 | 38 | 
 | 2023-04-06 | 35 | 38 | 
 | 2023-04-05 | 35 | 38 | 
 | 2023-04-04 | 35 | 38 | 

@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | - | 311 | 
 | 2023-04-06 | - | 311 | 
 | 2023-04-05 | - | 311 | 
 | 2023-04-03 | - | 311 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | - | 311 | 
 | 2023-03-11 | - | 311 | 
 | 2023-03-09 | - | 311 | 
-| 2023-03-08 | - | 311 | 
 

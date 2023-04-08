@@ -1,6 +1,6 @@
 # eclipse-tycho/tycho - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 142 | 160 | 
 | 2023-04-06 | 142 | 160 | 
 | 2023-04-05 | 142 | 160 | 
 | 2023-04-04 | 142 | 160 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 138 | 158 | 
 | 2023-03-11 | 138 | 158 | 
 | 2023-03-09 | 137 | 158 | 
-| 2023-03-08 | 137 | 158 | 
 

@@ -1,6 +1,6 @@
 # miversen33/import.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 172 | 1 | 
 | 2023-04-06 | 172 | 1 | 
 | 2023-04-05 | 172 | 1 | 
 | 2023-04-04 | 172 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 172 | 1 | 
 | 2023-03-11 | 172 | 1 | 
 | 2023-03-10 | 171 | 1 | 
-| 2023-03-08 | 171 | 1 | 
 

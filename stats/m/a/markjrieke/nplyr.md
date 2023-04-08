@@ -1,10 +1,10 @@
 # markjrieke/nplyr - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/markjrieke/nplyr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 105 | 3 | 
 | 2023-04-06 | 104 | 3 | 
 | 2023-04-05 | 104 | 3 | 
 | 2023-04-04 | 104 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 104 | 3 | 
 | 2023-03-10 | 105 | 3 | 
 | 2023-03-09 | 105 | 3 | 
-| 2023-03-08 | 105 | 3 | 
 

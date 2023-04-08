@@ -1,10 +1,10 @@
 # RUCAIBox/LLMSurvey - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 237
+★ Stars: 259
 
 [Open repository](https://github.com/RUCAIBox/LLMSurvey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 259 | 17 | 
 | 2023-04-06 | 237 | 17 | 
 | 2023-04-05 | 209 | 15 | 
 

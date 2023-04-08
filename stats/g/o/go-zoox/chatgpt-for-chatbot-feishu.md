@@ -1,8 +1,8 @@
 # go-zoox/chatgpt-for-chatbot-feishu - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 245
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 245 | 30 | 
 | 2023-04-06 | 245 | 29 | 
 | 2023-04-05 | 245 | 28 | 
 | 2023-04-04 | 245 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 192 | 24 | 
 | 2023-03-10 | 188 | 22 | 
 | 2023-03-09 | 184 | 21 | 
-| 2023-03-08 | 178 | 21 | 
 

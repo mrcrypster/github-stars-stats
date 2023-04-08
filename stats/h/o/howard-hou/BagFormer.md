@@ -1,6 +1,6 @@
 # howard-hou/BagFormer - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 112 | 33 | 
 | 2023-04-06 | 112 | 33 | 
 | 2023-04-05 | 112 | 33 | 
 | 2023-04-04 | 112 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 112 | 33 | 
 | 2023-03-11 | 112 | 33 | 
 | 2023-03-09 | 112 | 33 | 
-| 2023-03-08 | 112 | 33 | 
 

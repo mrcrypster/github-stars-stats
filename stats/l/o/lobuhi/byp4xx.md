@@ -1,10 +1,10 @@
 # lobuhi/byp4xx - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 245
 
-★ Stars: 1212
+★ Stars: 1213
 
 [Open repository](https://github.com/lobuhi/byp4xx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1213 | 245 | 
 | 2023-04-06 | 1212 | 245 | 
 | 2023-04-05 | 1212 | 245 | 
 | 2023-04-04 | 1212 | 245 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1184 | 241 | 
 | 2023-03-10 | 1184 | 241 | 
 | 2023-03-09 | 1183 | 241 | 
-| 2023-03-08 | 1183 | 241 | 
 

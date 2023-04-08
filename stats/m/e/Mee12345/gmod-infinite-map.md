@@ -1,6 +1,6 @@
 # Mee12345/gmod-infinite-map - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 147 | 26 | 
 | 2023-04-06 | 147 | 26 | 
 | 2023-04-05 | 146 | 26 | 
 | 2023-04-04 | 146 | 26 | 

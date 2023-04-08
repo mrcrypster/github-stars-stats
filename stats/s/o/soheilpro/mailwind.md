@@ -1,6 +1,6 @@
 # soheilpro/mailwind - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2964 | 68 | 
 | 2023-04-06 | 2964 | 68 | 
 | 2023-04-05 | 2964 | 68 | 
 | 2023-04-04 | 2963 | 67 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2942 | 67 | 
 | 2023-03-11 | 2942 | 67 | 
 | 2023-03-10 | 2940 | 67 | 
-| 2023-03-08 | 2938 | 67 | 
 

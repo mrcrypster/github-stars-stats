@@ -1,10 +1,10 @@
 # trickest/cve - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 519
 
-★ Stars: 4173
+★ Stars: 4175
 
 [Open repository](https://github.com/trickest/cve)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4175 | 519 | 
 | 2023-04-06 | 4173 | 519 | 
 | 2023-04-05 | 4168 | 519 | 
 | 2023-04-04 | 4164 | 518 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 4057 | 505 | 
 | 2023-03-11 | 4051 | 503 | 
 | 2023-03-09 | 4048 | 503 | 
-| 2023-03-08 | 4041 | 503 | 
 

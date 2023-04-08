@@ -1,10 +1,10 @@
 # builtbybel/BloatyNosy - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 12
 
-★ Stars: 524
+★ Stars: 533
 
 [Open repository](https://github.com/builtbybel/BloatyNosy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 533 | 12 | 
 | 2023-04-06 | 524 | 12 | 
 | 2023-04-05 | 520 | 12 | 
 | 2023-04-04 | 516 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 390 | 11 | 
 | 2023-03-10 | 387 | 10 | 
 | 2023-03-09 | 380 | 9 | 
-| 2023-03-08 | 379 | 8 | 
 

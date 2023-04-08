@@ -1,6 +1,6 @@
 # postmanlabs/newman - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1113
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 6293 | 1113 | 
 | 2023-04-06 | 6293 | 1113 | 
 | 2023-04-05 | 6293 | 1114 | 
 | 2023-04-04 | 6290 | 1113 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 6261 | 1105 | 
 | 2023-03-11 | 6260 | 1105 | 
 | 2023-03-09 | 6258 | 1106 | 
-| 2023-03-08 | 6256 | 1106 | 
 

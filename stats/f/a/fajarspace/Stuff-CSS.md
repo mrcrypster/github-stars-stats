@@ -1,6 +1,6 @@
 # fajarspace/Stuff-CSS - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 36 | 6 | 
 | 2023-04-06 | 36 | 6 | 
 | 2023-04-05 | 36 | 6 | 
 | 2023-04-04 | 36 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 34 | 6 | 
 | 2023-03-10 | 34 | 6 | 
 | 2023-03-09 | 33 | 6 | 
-| 2023-03-08 | 32 | 6 | 
 

@@ -1,10 +1,10 @@
 # Privoce/vocechat-web - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 89
 
-★ Stars: 1057
+★ Stars: 1058
 
 [Open repository](https://github.com/Privoce/vocechat-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1058 | 89 | 
 | 2023-04-06 | 1057 | 89 | 
 | 2023-04-05 | 1056 | 88 | 
 | 2023-04-04 | 1055 | 88 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 969 | 77 | 
 | 2023-03-11 | 968 | 77 | 
 | 2023-03-10 | 967 | 77 | 
-| 2023-03-08 | 962 | 77 | 
 

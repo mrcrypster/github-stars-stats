@@ -1,6 +1,6 @@
 # data-science-on-aws/data-science-on-aws - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 958
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2942 | 958 | 
 | 2023-04-06 | 2942 | 958 | 
 | 2023-04-05 | 2942 | 958 | 
 | 2023-04-04 | 2942 | 958 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 2916 | 954 | 
 | 2023-03-10 | 2915 | 954 | 
 | 2023-03-09 | 2915 | 953 | 
-| 2023-03-08 | 2915 | 953 | 
 

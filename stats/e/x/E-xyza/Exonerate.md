@@ -1,10 +1,10 @@
 # E-xyza/Exonerate - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 76
 
 [Open repository](https://github.com/E-xyza/Exonerate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 76 | 1 | 
 | 2023-04-06 | 47 | 1 | 
 | 2023-04-05 | 47 | 1 | 
 

@@ -1,10 +1,10 @@
 # awslabs/data-on-eks - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 40
 
-★ Stars: 148
+★ Stars: 154
 
 [Open repository](https://github.com/awslabs/data-on-eks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 154 | 40 | 
 | 2023-04-06 | 148 | 40 | 
 | 2023-04-05 | 144 | 40 | 
 | 2023-04-04 | 143 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 94 | 27 | 
 | 2023-03-11 | 93 | 27 | 
 | 2023-03-09 | 92 | 27 | 
-| 2023-03-08 | 91 | 27 | 
 

@@ -1,6 +1,6 @@
 # coq-community/coq-ext-lib - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 119 | 42 | 
 | 2023-04-06 | 119 | 42 | 
 | 2023-04-05 | 119 | 42 | 
 | 2023-04-04 | 119 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 118 | 42 | 
 | 2023-03-10 | 118 | 42 | 
 | 2023-03-09 | 118 | 42 | 
-| 2023-03-08 | 118 | 42 | 
 

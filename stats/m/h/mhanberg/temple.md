@@ -1,6 +1,6 @@
 # mhanberg/temple - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 416 | 15 | 
 | 2023-04-07 | 416 | 15 | 
 | 2023-04-06 | 416 | 15 | 
 | 2023-04-04 | 416 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 413 | 15 | 
 | 2023-03-10 | 413 | 15 | 
 | 2023-03-09 | 413 | 15 | 
-| 2023-03-08 | 414 | 15 | 
 

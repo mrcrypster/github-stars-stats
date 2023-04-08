@@ -1,8 +1,8 @@
 # kubernetes/git-sync - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 368
+☋ Forks: 369
 
 ★ Stars: 1731
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1731 | 369 | 
 | 2023-04-06 | 1731 | 368 | 
 | 2023-04-05 | 1729 | 368 | 
 | 2023-04-04 | 1728 | 368 | 

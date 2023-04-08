@@ -1,6 +1,6 @@
 # Nivanchenko/winow - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 48 | 9 | 
 | 2023-04-06 | 48 | 9 | 
 | 2023-04-05 | 47 | 9 | 
 | 2023-04-04 | 46 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 44 | 9 | 
 | 2023-03-11 | 43 | 9 | 
 | 2023-03-09 | 43 | 9 | 
-| 2023-03-08 | 43 | 9 | 
 

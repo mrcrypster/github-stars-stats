@@ -1,10 +1,10 @@
 # Noeda/rllama - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 12
 
-★ Stars: 266
+★ Stars: 290
 
 [Open repository](https://github.com/Noeda/rllama)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 290 | 12 | 
 | 2023-04-06 | 266 | 12 | 
 | 2023-04-05 | 238 | 12 | 
 | 2023-04-03 | 230 | 12 | 

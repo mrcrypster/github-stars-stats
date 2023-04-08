@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/dahvidschloss/CRASH)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 50 | 1 | 
+| 2023-04-07 | 51 | 1 | 
 | 2023-04-06 | 50 | 1 | 
 

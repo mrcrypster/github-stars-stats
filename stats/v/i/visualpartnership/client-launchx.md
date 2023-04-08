@@ -1,6 +1,6 @@
 # visualpartnership/client-launchx - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 18 | 137 | 
 | 2023-04-07 | 18 | 137 | 
 | 2023-04-06 | 18 | 137 | 
 | 2023-04-04 | 18 | 137 | 

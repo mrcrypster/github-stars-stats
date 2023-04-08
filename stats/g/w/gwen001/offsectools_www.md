@@ -1,6 +1,6 @@
 # gwen001/offsectools_www - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 97 | 17 | 
 | 2023-04-07 | 97 | 17 | 
 | 2023-04-05 | 97 | 17 | 
 | 2023-04-04 | 96 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 78 | 15 | 
 | 2023-03-11 | 78 | 15 | 
 | 2023-03-10 | 79 | 15 | 
-| 2023-03-08 | 78 | 15 | 
 

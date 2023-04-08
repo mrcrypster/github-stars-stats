@@ -1,8 +1,8 @@
 # S-Rushidhar-1-1999/ngrok-rdp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | - | 37 | 
 | 2023-04-06 | - | 36 | 
 | 2023-04-05 | - | 35 | 
 | 2023-04-04 | - | 35 | 

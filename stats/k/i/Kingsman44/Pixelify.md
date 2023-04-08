@@ -1,10 +1,10 @@
 # Kingsman44/Pixelify - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 33
 
-★ Stars: 702
+★ Stars: 704
 
 [Open repository](https://github.com/Kingsman44/Pixelify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 704 | 33 | 
 | 2023-04-06 | 702 | 33 | 
 | 2023-04-05 | 699 | 33 | 
 | 2023-04-04 | 696 | 33 | 

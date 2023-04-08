@@ -1,6 +1,6 @@
 # pointer-gg/comments-with-polygon - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 472
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 121 | 472 | 
 | 2023-04-07 | 121 | 472 | 
 | 2023-04-05 | 121 | 472 | 
 | 2023-04-04 | 121 | 472 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 121 | 472 | 
 | 2023-03-11 | 121 | 472 | 
 | 2023-03-09 | 121 | 472 | 
-| 2023-03-08 | 121 | 472 | 
 

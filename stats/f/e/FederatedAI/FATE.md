@@ -1,10 +1,10 @@
 # FederatedAI/FATE - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1465
 
-★ Stars: 4935
+★ Stars: 4939
 
 [Open repository](https://github.com/FederatedAI/FATE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4939 | 1465 | 
 | 2023-04-06 | 4935 | 1465 | 
 | 2023-04-05 | 4933 | 1466 | 
 | 2023-04-04 | 4932 | 1466 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 4894 | 1449 | 
 | 2023-03-11 | 4894 | 1449 | 
 | 2023-03-10 | 4889 | 1449 | 
-| 2023-03-08 | 4883 | 1449 | 
 

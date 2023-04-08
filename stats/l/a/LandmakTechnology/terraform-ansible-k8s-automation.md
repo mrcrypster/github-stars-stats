@@ -1,6 +1,6 @@
 # LandmakTechnology/terraform-ansible-k8s-automation - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3 | 387 | 
 | 2023-04-06 | 3 | 387 | 
 | 2023-04-05 | 3 | 387 | 
 | 2023-04-03 | 3 | 387 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2 | 387 | 
 | 2023-03-11 | 2 | 387 | 
 | 2023-03-09 | 2 | 387 | 
-| 2023-03-08 | 2 | 386 | 
 

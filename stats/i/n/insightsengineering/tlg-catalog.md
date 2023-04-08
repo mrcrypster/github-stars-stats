@@ -1,10 +1,10 @@
 # insightsengineering/tlg-catalog - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/insightsengineering/tlg-catalog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 8 | 1 | 
 | 2023-04-06 | 7 | 1 | 
 | 2023-04-05 | 7 | 1 | 
 | 2023-04-04 | 7 | 1 | 

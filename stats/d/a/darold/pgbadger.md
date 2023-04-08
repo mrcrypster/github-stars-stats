@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 315
 
-★ Stars: 2950
+★ Stars: 2951
 
 [Open repository](https://github.com/darold/pgbadger)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 2950 | 315 | 
+| 2023-04-07 | 2951 | 315 | 
 | 2023-04-06 | 2950 | 315 | 
 | 2023-04-05 | 2948 | 315 | 
 | 2023-04-04 | 2947 | 315 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 2919 | 312 | 
 | 2023-03-10 | 2918 | 311 | 
 | 2023-03-09 | 2918 | 311 | 
-| 2023-03-08 | 2918 | 311 | 
 

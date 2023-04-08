@@ -1,10 +1,10 @@
 # wizwizdev/wizwizxui-timebot - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 166
+★ Stars: 180
 
 [Open repository](https://github.com/wizwizdev/wizwizxui-timebot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 180 | 13 | 
 | 2023-04-06 | 166 | 12 | 
 | 2023-04-05 | 100 | 13 | 
 | 2023-04-04 | 46 | 13 | 

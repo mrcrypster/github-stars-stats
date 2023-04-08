@@ -1,10 +1,10 @@
 # agg23/openfpga-pcengine - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/agg23/openfpga-pcengine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 57 | 1 | 
 | 2023-04-07 | 56 | 1 | 
 | 2023-04-06 | 56 | 1 | 
 | 2023-04-04 | 56 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 55 | 1 | 
 | 2023-03-10 | 55 | 1 | 
 | 2023-03-09 | 55 | 1 | 
-| 2023-03-08 | 55 | 1 | 
 

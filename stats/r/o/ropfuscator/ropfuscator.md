@@ -1,10 +1,10 @@
 # ropfuscator/ropfuscator - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 19
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/ropfuscator/ropfuscator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 264 | 19 | 
 | 2023-04-06 | 263 | 19 | 
 | 2023-04-05 | 261 | 19 | 
 | 2023-04-04 | 260 | 19 | 

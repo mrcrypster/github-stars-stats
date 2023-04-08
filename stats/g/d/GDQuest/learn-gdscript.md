@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 99
 
-★ Stars: 1351
+★ Stars: 1353
 
 [Open repository](https://github.com/GDQuest/learn-gdscript)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 1351 | 99 | 
+| 2023-04-07 | 1353 | 99 | 
 | 2023-04-06 | 1351 | 99 | 
 | 2023-04-04 | 1351 | 99 | 
 | 2023-04-03 | 1351 | 99 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 1327 | 98 | 
 | 2023-03-10 | 1319 | 97 | 
 | 2023-03-09 | 1316 | 97 | 
-| 2023-03-08 | 1316 | 97 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 94
 
-★ Stars: 292
+★ Stars: 296
 
 [Open repository](https://github.com/dulaiduwang003/ChatGPT_wechat)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 292 | 94 | 
+| 2023-04-07 | 296 | 94 | 
 | 2023-04-06 | 291 | 94 | 
 | 2023-04-05 | 277 | 88 | 
 | 2023-04-04 | 263 | 83 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 47 | 10 | 
 | 2023-03-10 | 44 | 10 | 
 | 2023-03-09 | 42 | 10 | 
-| 2023-03-08 | 39 | 6 | 
 

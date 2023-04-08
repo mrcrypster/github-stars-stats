@@ -1,10 +1,10 @@
 # kasem-sm/SlimeKT - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 45
 
-★ Stars: 520
+★ Stars: 521
 
 [Open repository](https://github.com/kasem-sm/SlimeKT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 521 | 45 | 
 | 2023-04-06 | 520 | 45 | 
 | 2023-04-05 | 520 | 45 | 
 | 2023-04-04 | 520 | 45 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 515 | 44 | 
 | 2023-03-11 | 515 | 44 | 
 | 2023-03-09 | 514 | 44 | 
-| 2023-03-08 | 514 | 44 | 
 

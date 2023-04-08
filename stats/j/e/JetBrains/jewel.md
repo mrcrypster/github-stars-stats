@@ -1,8 +1,8 @@
 # JetBrains/jewel - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 254
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 254 | 9 | 
 | 2023-04-06 | 254 | 8 | 
 | 2023-04-05 | 253 | 8 | 
 | 2023-04-04 | 252 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 214 | 6 | 
 | 2023-03-10 | 213 | 6 | 
 | 2023-03-09 | 209 | 5 | 
-| 2023-03-08 | 209 | 5 | 
 

@@ -1,10 +1,10 @@
 # Dashlane/apple-apps - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 16
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/Dashlane/apple-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 148 | 16 | 
 | 2023-04-06 | 147 | 16 | 
 | 2023-04-05 | 147 | 16 | 
 | 2023-04-04 | 147 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 146 | 15 | 
 | 2023-03-11 | 145 | 15 | 
 | 2023-03-10 | 145 | 15 | 
-| 2023-03-08 | 145 | 15 | 
 

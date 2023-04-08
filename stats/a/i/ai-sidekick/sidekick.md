@@ -1,10 +1,10 @@
 # ai-sidekick/sidekick - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 531
+★ Stars: 544
 
 [Open repository](https://github.com/ai-sidekick/sidekick)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 544 | 32 | 
 | 2023-04-06 | 531 | 31 | 
 | 2023-04-05 | 519 | 31 | 
 | 2023-04-04 | 498 | 30 | 

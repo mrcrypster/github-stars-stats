@@ -1,6 +1,6 @@
 # confluentinc/terraform-state-s3 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 32 | 28 | 
 | 2023-04-06 | 32 | 28 | 
 | 2023-04-05 | 32 | 28 | 
 | 2023-04-04 | 32 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 32 | 28 | 
 | 2023-03-11 | 32 | 28 | 
 | 2023-03-10 | 32 | 28 | 
-| 2023-03-09 | 32 | 28 | 
 

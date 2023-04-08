@@ -1,10 +1,10 @@
 # alvr-org/ALVR - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 322
 
-★ Stars: 3283
+★ Stars: 3284
 
 [Open repository](https://github.com/alvr-org/ALVR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3284 | 322 | 
 | 2023-04-06 | 3283 | 322 | 
 | 2023-04-05 | 3282 | 322 | 
 | 2023-04-04 | 3280 | 322 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3228 | 317 | 
 | 2023-03-11 | 3220 | 316 | 
 | 2023-03-10 | 3215 | 316 | 
-| 2023-03-08 | 3211 | 316 | 
 

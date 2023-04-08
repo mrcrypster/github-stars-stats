@@ -1,6 +1,6 @@
 # dnaeon/clingon - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 83 | 3 | 
 | 2023-04-06 | 83 | 3 | 
 | 2023-04-05 | 82 | 3 | 
 | 2023-04-04 | 82 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 77 | 3 | 
 | 2023-03-11 | 77 | 3 | 
 | 2023-03-10 | 77 | 3 | 
-| 2023-03-08 | 76 | 3 | 
 

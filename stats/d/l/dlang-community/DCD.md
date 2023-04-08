@@ -1,6 +1,6 @@
 # dlang-community/DCD - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 334 | 72 | 
 | 2023-04-06 | 334 | 72 | 
 | 2023-04-05 | 334 | 72 | 
 | 2023-04-04 | 334 | 72 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 336 | 72 | 
 | 2023-03-10 | 335 | 72 | 
 | 2023-03-09 | 335 | 72 | 
-| 2023-03-08 | 335 | 72 | 
 

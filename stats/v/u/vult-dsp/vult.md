@@ -1,10 +1,10 @@
 # vult-dsp/vult - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 23
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/vult-dsp/vult)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 410 | 23 | 
 | 2023-04-06 | 409 | 23 | 
 | 2023-04-05 | 409 | 23 | 
 | 2023-04-04 | 409 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 404 | 23 | 
 | 2023-03-10 | 405 | 23 | 
 | 2023-03-09 | 404 | 23 | 
-| 2023-03-08 | 404 | 23 | 
 

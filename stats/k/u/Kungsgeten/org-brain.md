@@ -1,6 +1,6 @@
 # Kungsgeten/org-brain - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1640 | 101 | 
 | 2023-04-06 | 1640 | 101 | 
 | 2023-04-05 | 1639 | 101 | 
 | 2023-04-04 | 1639 | 101 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1635 | 100 | 
 | 2023-03-11 | 1635 | 100 | 
 | 2023-03-10 | 1635 | 100 | 
-| 2023-03-08 | 1635 | 100 | 
 

@@ -1,10 +1,10 @@
 # svalvaro/drawCell - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 117
+★ Stars: 119
 
 [Open repository](https://github.com/svalvaro/drawCell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 119 | 15 | 
 | 2023-04-06 | 117 | 15 | 
 | 2023-04-05 | 115 | 15 | 
 | 2023-04-04 | 114 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 113 | 15 | 
 | 2023-03-11 | 113 | 15 | 
 | 2023-03-10 | 113 | 15 | 
-| 2023-03-08 | 113 | 15 | 
 

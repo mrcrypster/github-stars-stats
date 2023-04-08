@@ -1,10 +1,10 @@
 # deckarep/golang-set - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 251
 
-★ Stars: 3195
+★ Stars: 3197
 
 [Open repository](https://github.com/deckarep/golang-set)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3197 | 251 | 
 | 2023-04-06 | 3195 | 251 | 
 | 2023-04-05 | 3191 | 250 | 
 | 2023-04-04 | 3189 | 250 | 

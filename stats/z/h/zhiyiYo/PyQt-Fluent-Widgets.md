@@ -1,10 +1,10 @@
 # zhiyiYo/PyQt-Fluent-Widgets - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 51
 
-★ Stars: 635
+★ Stars: 670
 
 [Open repository](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 670 | 51 | 
 | 2023-04-06 | 635 | 51 | 
 | 2023-04-05 | 616 | 49 | 
 | 2023-04-04 | 594 | 45 | 

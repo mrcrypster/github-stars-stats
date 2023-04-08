@@ -1,6 +1,6 @@
 # farcasterxyz/hub - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 240 | 59 | 
 | 2023-04-07 | 240 | 59 | 
 | 2023-04-05 | 240 | 57 | 
 | 2023-04-04 | 240 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 228 | 50 | 
 | 2023-03-11 | 228 | 50 | 
 | 2023-03-10 | 227 | 50 | 
-| 2023-03-08 | 226 | 50 | 
 

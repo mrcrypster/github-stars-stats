@@ -1,10 +1,10 @@
 # JetBrains/Exposed - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 594
+☋ Forks: 595
 
-★ Stars: 7007
+★ Stars: 7010
 
 [Open repository](https://github.com/JetBrains/Exposed)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 7010 | 595 | 
 | 2023-04-06 | 7007 | 594 | 
 | 2023-04-05 | 7002 | 592 | 
 | 2023-04-04 | 6996 | 593 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 6931 | 589 | 
 | 2023-03-10 | 6927 | 589 | 
 | 2023-03-09 | 6925 | 588 | 
-| 2023-03-08 | 6922 | 588 | 
 

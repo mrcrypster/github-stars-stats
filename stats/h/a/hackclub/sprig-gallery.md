@@ -1,6 +1,6 @@
 # hackclub/sprig-gallery - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 16 | 11 | 
 | 2023-04-06 | 16 | 11 | 
 | 2023-04-05 | 16 | 11 | 
 | 2023-04-04 | 16 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 15 | 11 | 
 | 2023-03-10 | 15 | 11 | 
 | 2023-03-09 | 15 | 11 | 
-| 2023-03-08 | 15 | 11 | 
 

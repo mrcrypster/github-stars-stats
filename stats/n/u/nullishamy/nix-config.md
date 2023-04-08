@@ -1,10 +1,10 @@
 # nullishamy/nix-config - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/nullishamy/nix-config)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 14 | - | 
 | 2023-04-06 | 13 | - | 
 | 2023-04-05 | 13 | - | 
 | 2023-04-04 | 13 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 13 | - | 
 | 2023-03-11 | 13 | - | 
 | 2023-03-10 | 13 | - | 
-| 2023-03-08 | 13 | - | 
 

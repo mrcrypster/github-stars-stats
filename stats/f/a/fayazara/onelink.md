@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 122
+★ Stars: 125
 
 [Open repository](https://github.com/fayazara/onelink)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 122 | 15 | 
+| 2023-04-07 | 125 | 15 | 
 | 2023-04-06 | 122 | 15 | 
 

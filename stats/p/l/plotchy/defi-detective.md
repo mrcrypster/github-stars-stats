@@ -1,6 +1,6 @@
 # plotchy/defi-detective - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 50 | 3 | 
 | 2023-04-07 | 50 | 3 | 
 | 2023-04-06 | 50 | 3 | 
 | 2023-04-04 | 50 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 40 | 2 | 
 | 2023-03-10 | 38 | 2 | 
 | 2023-03-09 | 36 | 1 | 
-| 2023-03-08 | 33 | 1 | 
 

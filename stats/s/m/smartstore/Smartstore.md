@@ -1,10 +1,10 @@
 # smartstore/Smartstore - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 237
+☋ Forks: 236
 
-★ Stars: 586
+★ Stars: 587
 
 [Open repository](https://github.com/smartstore/Smartstore)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 587 | 236 | 
 | 2023-04-06 | 586 | 237 | 
 | 2023-04-05 | 585 | 236 | 
 | 2023-04-04 | 586 | 237 | 

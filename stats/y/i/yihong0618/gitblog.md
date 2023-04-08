@@ -1,10 +1,10 @@
 # yihong0618/gitblog - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 93
 
-★ Stars: 971
+★ Stars: 974
 
 [Open repository](https://github.com/yihong0618/gitblog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 974 | 93 | 
 | 2023-04-06 | 971 | 93 | 
 | 2023-04-05 | 970 | 94 | 
 | 2023-04-03 | 967 | 94 | 

@@ -1,10 +1,10 @@
 # luckyzhz/Software-Designer - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 613
+★ Stars: 617
 
 [Open repository](https://github.com/luckyzhz/Software-Designer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 617 | 130 | 
 | 2023-04-06 | 613 | 129 | 
 | 2023-04-05 | 610 | 129 | 
 | 2023-04-04 | 608 | 128 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 527 | 120 | 
 | 2023-03-11 | 522 | 119 | 
 | 2023-03-10 | 522 | 119 | 
-| 2023-03-08 | 519 | 119 | 
 

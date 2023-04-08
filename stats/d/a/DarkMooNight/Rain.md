@@ -1,10 +1,10 @@
 # DarkMooNight/Rain - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 4
+☋ Forks: 6
 
-★ Stars: 79
+★ Stars: 82
 
 [Open repository](https://github.com/DarkMooNight/Rain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 82 | 6 | 
 | 2023-04-06 | 79 | 4 | 
 | 2023-04-05 | 65 | 4 | 
 | 2023-04-04 | 57 | 5 | 

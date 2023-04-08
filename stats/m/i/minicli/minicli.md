@@ -1,10 +1,10 @@
 # minicli/minicli - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 48
 
-★ Stars: 812
+★ Stars: 813
 
 [Open repository](https://github.com/minicli/minicli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 813 | 48 | 
 | 2023-04-06 | 812 | 48 | 
 | 2023-04-05 | 811 | 48 | 
 | 2023-04-04 | 811 | 48 | 

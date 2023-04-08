@@ -1,10 +1,10 @@
 # Stapxs/Stapxs-QQ-Lite-2.0 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 140 | 6 | 
 | 2023-04-06 | 139 | 6 | 
 | 2023-04-05 | 138 | 6 | 
 | 2023-04-04 | 136 | 6 | 

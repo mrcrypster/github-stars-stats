@@ -1,10 +1,10 @@
 # zju3dv/mlp_maps - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/zju3dv/mlp_maps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 93 | 1 | 
 | 2023-04-06 | 91 | 1 | 
 | 2023-04-05 | 90 | 1 | 
 | 2023-04-04 | 89 | 1 | 

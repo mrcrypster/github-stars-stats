@@ -1,10 +1,10 @@
 # xinliangnote/Go - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 975
 
-★ Stars: 3301
+★ Stars: 3307
 
 [Open repository](https://github.com/xinliangnote/Go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3307 | 975 | 
 | 2023-04-06 | 3301 | 975 | 
 | 2023-04-05 | 3301 | 973 | 
 | 2023-04-04 | 3294 | 971 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3239 | 961 | 
 | 2023-03-10 | 3235 | 960 | 
 | 2023-03-09 | 3230 | 961 | 
-| 2023-03-08 | 3219 | 959 | 
 

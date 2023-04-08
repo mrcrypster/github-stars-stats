@@ -1,8 +1,8 @@
 # ShadowDevilsAvenged/ShadowDevilsAvenged - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 257
+☋ Forks: 259
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 52 | 259 | 
 | 2023-04-06 | 52 | 257 | 
 | 2023-04-05 | 52 | 254 | 
 | 2023-04-04 | 52 | 252 | 

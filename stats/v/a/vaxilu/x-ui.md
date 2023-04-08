@@ -1,10 +1,10 @@
 # vaxilu/x-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 4671
+☋ Forks: 4680
 
-★ Stars: 10401
+★ Stars: 10439
 
 [Open repository](https://github.com/vaxilu/x-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 10439 | 4680 | 
 | 2023-04-06 | 10401 | 4671 | 
 | 2023-04-05 | 10378 | 4656 | 
 | 2023-04-03 | 10341 | 4643 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 9798 | 4445 | 
 | 2023-03-11 | 9784 | 4432 | 
 | 2023-03-10 | 9758 | 4416 | 
-| 2023-03-09 | 9716 | 4401 | 
 

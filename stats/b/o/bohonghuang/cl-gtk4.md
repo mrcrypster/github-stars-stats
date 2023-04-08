@@ -1,10 +1,10 @@
 # bohonghuang/cl-gtk4 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/bohonghuang/cl-gtk4)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 147 | 4 | 
 | 2023-04-06 | 146 | 4 | 
 | 2023-04-05 | 144 | 4 | 
 | 2023-04-03 | 142 | 4 | 

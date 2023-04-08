@@ -1,10 +1,10 @@
 # AzeemIdrisi/PhoneSploit-Pro - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 353
 
-★ Stars: 2502
+★ Stars: 2505
 
 [Open repository](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2505 | 353 | 
 | 2023-04-06 | 2502 | 353 | 
 | 2023-04-05 | 2498 | 352 | 
 | 2023-04-03 | 2497 | 352 | 

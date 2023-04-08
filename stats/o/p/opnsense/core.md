@@ -1,10 +1,10 @@
 # opnsense/core - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 602
 
-★ Stars: 2344
+★ Stars: 2345
 
 [Open repository](https://github.com/opnsense/core)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2345 | 602 | 
 | 2023-04-06 | 2344 | 602 | 
 | 2023-04-04 | 2343 | 600 | 
 | 2023-04-03 | 2340 | 600 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2305 | 593 | 
 | 2023-03-11 | 2304 | 592 | 
 | 2023-03-10 | 2303 | 592 | 
-| 2023-03-08 | 2301 | 591 | 
 

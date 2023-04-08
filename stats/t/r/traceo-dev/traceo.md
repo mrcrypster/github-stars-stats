@@ -1,10 +1,10 @@
 # traceo-dev/traceo - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 324
+★ Stars: 325
 
 [Open repository](https://github.com/traceo-dev/traceo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 325 | 5 | 
 | 2023-04-06 | 324 | 5 | 
 | 2023-04-05 | 324 | 5 | 
 | 2023-04-04 | 323 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 316 | 5 | 
 | 2023-03-11 | 316 | 5 | 
 | 2023-03-09 | 317 | 5 | 
-| 2023-03-08 | 315 | 5 | 
 

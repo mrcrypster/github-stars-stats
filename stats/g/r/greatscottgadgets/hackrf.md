@@ -1,10 +1,10 @@
 # greatscottgadgets/hackrf - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1377
 
-★ Stars: 5273
+★ Stars: 5276
 
 [Open repository](https://github.com/greatscottgadgets/hackrf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 5276 | 1377 | 
 | 2023-04-06 | 5273 | 1377 | 
 | 2023-04-05 | 5271 | 1377 | 
 | 2023-04-03 | 5270 | 1377 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 5227 | 1364 | 
 | 2023-03-10 | 5224 | 1363 | 
 | 2023-03-09 | 5221 | 1363 | 
-| 2023-03-08 | 5220 | 1363 | 
 

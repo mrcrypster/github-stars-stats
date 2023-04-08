@@ -1,10 +1,10 @@
 # eikek/sharry - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 42
 
-★ Stars: 535
+★ Stars: 534
 
 [Open repository](https://github.com/eikek/sharry)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 534 | 42 | 
 | 2023-04-06 | 535 | 42 | 
 | 2023-04-05 | 534 | 42 | 
 | 2023-04-04 | 534 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 527 | 42 | 
 | 2023-03-11 | 525 | 42 | 
 | 2023-03-10 | 523 | 42 | 
-| 2023-03-08 | 522 | 42 | 
 

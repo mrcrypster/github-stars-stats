@@ -1,10 +1,10 @@
 # JeffLi1993/springboot-learning-example - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7063
 
-★ Stars: 15366
+★ Stars: 15373
 
 [Open repository](https://github.com/JeffLi1993/springboot-learning-example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 15373 | 7063 | 
 | 2023-04-06 | 15366 | 7063 | 
 | 2023-04-05 | 15362 | 7065 | 
 | 2023-04-04 | 15359 | 7064 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 15306 | 7060 | 
 | 2023-03-10 | 15305 | 7060 | 
 | 2023-03-09 | 15301 | 7060 | 
-| 2023-03-08 | 15297 | 7057 | 
 

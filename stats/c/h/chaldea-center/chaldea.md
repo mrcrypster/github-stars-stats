@@ -1,6 +1,6 @@
 # chaldea-center/chaldea - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 154 | 22 | 
 | 2023-04-07 | 154 | 22 | 
 | 2023-04-06 | 154 | 22 | 
 | 2023-04-04 | 153 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 150 | 22 | 
 | 2023-03-10 | 150 | 22 | 
 | 2023-03-09 | 150 | 22 | 
-| 2023-03-08 | 150 | 22 | 
 

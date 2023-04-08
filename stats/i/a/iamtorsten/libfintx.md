@@ -1,10 +1,10 @@
 # iamtorsten/libfintx - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 138
 
-★ Stars: 122
+★ Stars: 121
 
 [Open repository](https://github.com/iamtorsten/libfintx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 121 | 138 | 
 | 2023-04-06 | 122 | 138 | 
 | 2023-04-05 | 122 | 138 | 
 | 2023-04-04 | 122 | 138 | 

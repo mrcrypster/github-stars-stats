@@ -1,10 +1,10 @@
 # lvwerra/trl - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 273
+☋ Forks: 278
 
-★ Stars: 2531
+★ Stars: 2593
 
 [Open repository](https://github.com/lvwerra/trl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2593 | 278 | 
 | 2023-04-06 | 2531 | 273 | 
 | 2023-04-04 | 2508 | 271 | 
 | 2023-04-03 | 2493 | 270 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1991 | 220 | 
 | 2023-03-11 | 1974 | 219 | 
 | 2023-03-10 | 1942 | 216 | 
-| 2023-03-08 | 1890 | 209 | 
 

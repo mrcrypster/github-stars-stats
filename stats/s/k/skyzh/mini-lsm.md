@@ -1,10 +1,10 @@
 # skyzh/mini-lsm - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 84
 
-★ Stars: 1060
+★ Stars: 1061
 
 [Open repository](https://github.com/skyzh/mini-lsm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1061 | 84 | 
 | 2023-04-07 | 1060 | 84 | 
 | 2023-04-06 | 1059 | 84 | 
 | 2023-04-04 | 1059 | 84 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1022 | 79 | 
 | 2023-03-11 | 1019 | 77 | 
 | 2023-03-09 | 1016 | 77 | 
-| 2023-03-08 | 1013 | 76 | 
 

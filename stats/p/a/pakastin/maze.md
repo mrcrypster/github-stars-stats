@@ -1,6 +1,6 @@
 # pakastin/maze - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 81 | 1 | 
 | 2023-04-06 | 81 | 1 | 
 | 2023-04-05 | 81 | 1 | 
 | 2023-04-04 | 81 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 82 | 1 | 
 | 2023-03-10 | 82 | 1 | 
 | 2023-03-09 | 82 | 1 | 
-| 2023-03-08 | 82 | 1 | 
 

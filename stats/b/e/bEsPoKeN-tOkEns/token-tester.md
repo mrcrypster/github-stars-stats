@@ -1,10 +1,10 @@
 # bEsPoKeN-tOkEns/token-tester - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 8
 
-★ Stars: 132
+★ Stars: 135
 
 [Open repository](https://github.com/bEsPoKeN-tOkEns/token-tester)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 135 | 8 | 
 | 2023-04-06 | 132 | 8 | 
 | 2023-04-05 | 130 | 8 | 
 | 2023-04-04 | 126 | 7 | 

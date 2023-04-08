@@ -1,6 +1,6 @@
 # DeutscheKI/tevr-asr-tool - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 388 | 16 | 
 | 2023-04-06 | 388 | 16 | 
 | 2023-04-05 | 386 | 15 | 
 | 2023-04-04 | 386 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 385 | 15 | 
 | 2023-03-11 | 384 | 15 | 
 | 2023-03-10 | 384 | 15 | 
-| 2023-03-08 | 384 | 15 | 
 

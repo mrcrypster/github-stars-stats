@@ -1,6 +1,6 @@
 # smirnov-am/awesome-saas-boilerplates - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 771 | 73 | 
 | 2023-04-06 | 771 | 73 | 
 | 2023-04-05 | 769 | 72 | 
 | 2023-04-03 | 768 | 72 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 749 | 70 | 
 | 2023-03-10 | 747 | 70 | 
 | 2023-03-09 | 745 | 70 | 
-| 2023-03-08 | 740 | 69 | 
 

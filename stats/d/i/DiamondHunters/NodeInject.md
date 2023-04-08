@@ -1,10 +1,10 @@
 # DiamondHunters/NodeInject - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 66
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/DiamondHunters/NodeInject)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 156 | 66 | 
 | 2023-04-06 | 155 | 66 | 
 | 2023-04-05 | 155 | 66 | 
 | 2023-04-04 | 154 | 66 | 

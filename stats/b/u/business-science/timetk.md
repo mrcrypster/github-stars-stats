@@ -1,6 +1,6 @@
 # business-science/timetk - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 553 | 85 | 
 | 2023-04-06 | 553 | 85 | 
 | 2023-04-05 | 552 | 85 | 
 | 2023-04-04 | 551 | 85 | 

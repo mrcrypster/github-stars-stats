@@ -1,10 +1,10 @@
 # MateriiApps/OpenCord - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 45
 
-★ Stars: 807
+★ Stars: 813
 
 [Open repository](https://github.com/MateriiApps/OpenCord)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 813 | 45 | 
 | 2023-04-06 | 807 | 45 | 
 

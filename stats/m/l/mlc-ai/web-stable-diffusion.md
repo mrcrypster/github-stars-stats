@@ -1,10 +1,10 @@
 # mlc-ai/web-stable-diffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 75
+☋ Forks: 76
 
-★ Stars: 1838
+★ Stars: 1880
 
 [Open repository](https://github.com/mlc-ai/web-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1880 | 76 | 
 | 2023-04-06 | 1838 | 75 | 
 | 2023-04-05 | 1829 | 75 | 
 | 2023-04-04 | 1820 | 75 | 

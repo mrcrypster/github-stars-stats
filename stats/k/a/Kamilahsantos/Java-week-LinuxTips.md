@@ -1,10 +1,10 @@
 # Kamilahsantos/Java-week-LinuxTips - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 224
 
-★ Stars: 611
+★ Stars: 612
 
 [Open repository](https://github.com/Kamilahsantos/Java-week-LinuxTips)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 612 | 224 | 
 | 2023-04-06 | 611 | 224 | 
 | 2023-04-05 | 611 | 223 | 
 | 2023-04-04 | 606 | 223 | 

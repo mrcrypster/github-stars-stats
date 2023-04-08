@@ -1,6 +1,6 @@
 # RivaanRanawat/tiktok-flutter-clone - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 237 | 135 | 
 | 2023-04-06 | 237 | 135 | 
 | 2023-04-05 | 235 | 135 | 
 | 2023-04-03 | 235 | 135 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 229 | 127 | 
 | 2023-03-11 | 229 | 127 | 
 | 2023-03-10 | 226 | 127 | 
-| 2023-03-08 | 226 | 127 | 
 

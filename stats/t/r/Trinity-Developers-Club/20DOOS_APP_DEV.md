@@ -1,6 +1,6 @@
 # Trinity-Developers-Club/20DOOS_APP_DEV - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 8 | 42 | 
 | 2023-04-06 | 8 | 42 | 
 | 2023-04-05 | 8 | 42 | 
 | 2023-04-04 | 9 | 42 | 

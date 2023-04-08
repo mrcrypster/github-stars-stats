@@ -1,10 +1,10 @@
 # docker/cli - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1733
+☋ Forks: 1732
 
-★ Stars: 3963
+★ Stars: 3965
 
 [Open repository](https://github.com/docker/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3965 | 1732 | 
 | 2023-04-06 | 3963 | 1733 | 
 | 2023-04-05 | 3962 | 1733 | 
 | 2023-04-04 | 3961 | 1733 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3911 | 1714 | 
 | 2023-03-11 | 3910 | 1713 | 
 | 2023-03-10 | 3908 | 1712 | 
-| 2023-03-08 | 3901 | 1709 | 
 

@@ -1,10 +1,10 @@
 # ianthehenry/cmd - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/ianthehenry/cmd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 10 | - | 
 | 2023-04-06 | 9 | - | 
 | 2023-04-05 | 8 | - | 
 | 2023-04-03 | 8 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 5 | - | 
 | 2023-03-10 | 5 | - | 
 | 2023-03-09 | 5 | - | 
-| 2023-03-08 | 5 | - | 
 

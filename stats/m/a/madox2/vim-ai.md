@@ -1,10 +1,10 @@
 # madox2/vim-ai - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 81
+★ Stars: 83
 
 [Open repository](https://github.com/madox2/vim-ai)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 81 | 9 | 
+| 2023-04-08 | 83 | 10 | 
+| 2023-04-07 | 83 | 10 | 
 | 2023-04-06 | 81 | 9 | 
 | 2023-04-05 | 73 | 9 | 
 | 2023-04-04 | 72 | 8 | 

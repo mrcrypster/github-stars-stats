@@ -1,10 +1,10 @@
 # scala/toolkit - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/scala/toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 28 | 5 | 
 | 2023-04-06 | 27 | 5 | 
 | 2023-04-05 | 27 | 4 | 
 | 2023-04-04 | 27 | 4 | 

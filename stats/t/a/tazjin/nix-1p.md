@@ -1,10 +1,10 @@
 # tazjin/nix-1p - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 490
+★ Stars: 491
 
 [Open repository](https://github.com/tazjin/nix-1p)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 491 | 17 | 
 | 2023-04-06 | 490 | 17 | 
 | 2023-04-05 | 489 | 17 | 
 | 2023-04-04 | 489 | 17 | 

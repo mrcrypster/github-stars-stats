@@ -1,10 +1,10 @@
 # SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 539
+★ Stars: 542
 
 [Open repository](https://github.com/SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 542 | 48 | 
 | 2023-04-06 | 539 | 47 | 
 | 2023-04-05 | 537 | 47 | 
 | 2023-04-04 | 534 | 46 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 423 | 37 | 
 | 2023-03-11 | 421 | 37 | 
 | 2023-03-09 | 416 | 36 | 
-| 2023-03-08 | 413 | 36 | 
 

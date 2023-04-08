@@ -1,10 +1,10 @@
 # M0Coding/Pokedex - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 16
+☋ Forks: 15
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/M0Coding/Pokedex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 253 | 15 | 
 | 2023-04-07 | 252 | 16 | 
 | 2023-04-05 | 252 | 16 | 
 | 2023-04-04 | 252 | 16 | 

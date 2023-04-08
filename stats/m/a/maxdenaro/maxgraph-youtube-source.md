@@ -1,6 +1,6 @@
 # maxdenaro/maxgraph-youtube-source - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1294
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 352 | 1294 | 
 | 2023-04-06 | 352 | 1294 | 
 | 2023-04-05 | 351 | 1294 | 
 | 2023-04-04 | 349 | 1295 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 339 | 1272 | 
 | 2023-03-10 | 339 | 1273 | 
 | 2023-03-09 | 339 | 1272 | 
-| 2023-03-08 | 339 | 1272 | 
 

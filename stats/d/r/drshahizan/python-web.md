@@ -1,6 +1,6 @@
 # drshahizan/python-web - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 50 | 41 | 
 | 2023-04-06 | 50 | 41 | 
 | 2023-04-05 | 49 | 41 | 
 | 2023-04-04 | 46 | 41 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 44 | 40 | 
 | 2023-03-11 | 44 | 40 | 
 | 2023-03-10 | 44 | 40 | 
-| 2023-03-08 | 44 | 40 | 
 

@@ -1,10 +1,10 @@
 # securityelixir/potion_shop - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/securityelixir/potion_shop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 69 | 4 | 
 | 2023-04-06 | 68 | 4 | 
 | 2023-04-05 | 67 | 4 | 
 | 2023-04-04 | 67 | 4 | 

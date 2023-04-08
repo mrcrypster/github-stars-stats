@@ -1,8 +1,8 @@
 # masdaruddin29/rdptest - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
-☋ Forks: 66
+☋ Forks: 76
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | - | 76 | 
+| 2023-04-07 | - | 74 | 
 | 2023-04-06 | - | 66 | 
 | 2023-04-05 | - | 63 | 
 | 2023-04-04 | - | 61 | 

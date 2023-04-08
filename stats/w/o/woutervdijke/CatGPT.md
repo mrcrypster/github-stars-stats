@@ -1,10 +1,10 @@
 # woutervdijke/CatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 41
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/woutervdijke/CatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 213 | 41 | 
 | 2023-04-06 | 212 | 41 | 
 | 2023-04-05 | 212 | 41 | 
 | 2023-04-04 | 210 | 41 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 199 | 37 | 
 | 2023-03-11 | 199 | 37 | 
 | 2023-03-10 | 198 | 36 | 
-| 2023-03-08 | 198 | 36 | 
 

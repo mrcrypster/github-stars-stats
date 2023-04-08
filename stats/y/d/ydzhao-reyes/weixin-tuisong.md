@@ -1,10 +1,10 @@
 # ydzhao-reyes/weixin-tuisong - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 85
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/ydzhao-reyes/weixin-tuisong)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 72 | 85 | 
 | 2023-04-06 | 71 | 85 | 
 | 2023-04-05 | 72 | 85 | 
 | 2023-04-04 | 73 | 85 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 72 | 85 | 
 | 2023-03-10 | 72 | 85 | 
 | 2023-03-09 | 72 | 85 | 
-| 2023-03-08 | 72 | 85 | 
 

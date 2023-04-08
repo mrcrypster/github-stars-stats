@@ -1,10 +1,10 @@
 # nicknochnack/RealTimeObjectDetection - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 429
+☋ Forks: 430
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/nicknochnack/RealTimeObjectDetection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 259 | 430 | 
 | 2023-04-06 | 258 | 429 | 
 | 2023-04-05 | 257 | 428 | 
 | 2023-04-03 | 257 | 428 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 246 | 418 | 
 | 2023-03-11 | 245 | 418 | 
 | 2023-03-09 | 244 | 417 | 
-| 2023-03-08 | 244 | 415 | 
 

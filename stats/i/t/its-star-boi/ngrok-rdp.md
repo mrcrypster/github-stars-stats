@@ -1,10 +1,10 @@
 # its-star-boi/ngrok-rdp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
-☋ Forks: 399
+☋ Forks: 486
 
-★ Stars: 6
+★ Stars: 9
 
 [Open repository](https://github.com/its-star-boi/ngrok-rdp)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9 | 486 | 
+| 2023-04-07 | 9 | 478 | 
 | 2023-04-06 | 6 | 399 | 
 | 2023-04-05 | 6 | 351 | 
 | 2023-04-04 | 6 | 341 | 

@@ -1,8 +1,8 @@
 # dragon731012/-WORKING-bookmarklets-and-games - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 71
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 71 | 58 | 
 | 2023-04-06 | 71 | 57 | 
 | 2023-04-05 | 69 | 55 | 
 | 2023-04-04 | 69 | 55 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 52 | 41 | 
 | 2023-03-10 | 52 | 40 | 
 | 2023-03-09 | 50 | 39 | 
-| 2023-03-08 | 48 | 38 | 
 

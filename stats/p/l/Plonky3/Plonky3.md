@@ -1,10 +1,10 @@
 # Plonky3/Plonky3 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 37
 
 [Open repository](https://github.com/Plonky3/Plonky3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 37 | - | 
 | 2023-04-06 | 34 | - | 
 | 2023-04-05 | 33 | - | 
 | 2023-04-04 | 33 | - | 

@@ -1,6 +1,6 @@
 # 7oSkaaa/LeetCode_DailyChallenge_2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 87 | 79 | 
 | 2023-04-06 | 87 | 79 | 
 | 2023-04-05 | 87 | 79 | 
 | 2023-04-04 | 87 | 79 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 81 | 73 | 
 | 2023-03-11 | 81 | 75 | 
 | 2023-03-09 | 82 | 75 | 
-| 2023-03-08 | 82 | 75 | 
 

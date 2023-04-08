@@ -1,10 +1,10 @@
 # caesarHQ/textSQL - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 68
+☋ Forks: 71
 
-★ Stars: 771
+★ Stars: 776
 
 [Open repository](https://github.com/caesarHQ/textSQL)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 776 | 71 | 
 | 2023-04-06 | 771 | 68 | 
 | 2023-04-05 | 767 | 68 | 
 | 2023-04-04 | 758 | 67 | 

@@ -1,10 +1,10 @@
 # Wilfred/pip-requirements.el - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/Wilfred/pip-requirements.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 51 | 4 | 
 | 2023-04-06 | 50 | 4 | 
 | 2023-04-05 | 50 | 4 | 
 | 2023-04-04 | 50 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 50 | 4 | 
 | 2023-03-11 | 50 | 4 | 
 | 2023-03-10 | 50 | 4 | 
-| 2023-03-08 | 50 | 4 | 
 

@@ -1,8 +1,8 @@
 # jasonrudolph/keyboard - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 204
+☋ Forks: 203
 
 ★ Stars: 1696
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1696 | 203 | 
 | 2023-04-06 | 1696 | 204 | 
 | 2023-04-05 | 1695 | 204 | 
 | 2023-04-04 | 1695 | 204 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1684 | 203 | 
 | 2023-03-11 | 1683 | 203 | 
 | 2023-03-09 | 1683 | 203 | 
-| 2023-03-08 | 1683 | 203 | 
 

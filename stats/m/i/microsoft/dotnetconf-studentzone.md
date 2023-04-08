@@ -1,10 +1,10 @@
 # microsoft/dotnetconf-studentzone - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 51
 
-★ Stars: 93
+★ Stars: 92
 
 [Open repository](https://github.com/microsoft/dotnetconf-studentzone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 92 | 51 | 
 | 2023-04-06 | 93 | 51 | 
 | 2023-04-05 | 93 | 51 | 
 | 2023-04-04 | 93 | 51 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 93 | 51 | 
 | 2023-03-10 | 93 | 51 | 
 | 2023-03-09 | 93 | 51 | 
-| 2023-03-08 | 93 | 51 | 
 

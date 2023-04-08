@@ -1,10 +1,10 @@
 # cloudofoz/godot-deformablemesh - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 45
+★ Stars: 48
 
 [Open repository](https://github.com/cloudofoz/godot-deformablemesh)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 48 | 2 | 
 | 2023-04-06 | 45 | 2 | 
 

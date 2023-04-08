@@ -1,10 +1,10 @@
 # JonasGeiping/cramming - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 68
 
-★ Stars: 1023
+★ Stars: 1026
 
 [Open repository](https://github.com/JonasGeiping/cramming)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1026 | 68 | 
 | 2023-04-06 | 1023 | 68 | 
 | 2023-04-05 | 1023 | 68 | 
 | 2023-04-04 | 1022 | 68 | 

@@ -1,10 +1,10 @@
 # EliteMasterEric/PickHaxe - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/EliteMasterEric/PickHaxe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 18 | 2 | 
 | 2023-04-06 | 17 | 2 | 
 | 2023-04-05 | 17 | 2 | 
 | 2023-04-04 | 17 | 2 | 

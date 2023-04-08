@@ -1,10 +1,10 @@
 # 34j/so-vits-svc-fork - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 87
+☋ Forks: 88
 
-★ Stars: 561
+★ Stars: 590
 
 [Open repository](https://github.com/34j/so-vits-svc-fork)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 590 | 88 | 
 | 2023-04-06 | 561 | 87 | 
 | 2023-04-05 | 529 | 82 | 
 | 2023-04-04 | 503 | 78 | 

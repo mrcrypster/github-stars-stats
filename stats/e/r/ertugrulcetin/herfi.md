@@ -1,6 +1,6 @@
 # ertugrulcetin/herfi - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 108 | 9 | 
 | 2023-04-07 | 108 | 9 | 
 | 2023-04-05 | 108 | 9 | 
 | 2023-04-04 | 108 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 106 | 9 | 
 | 2023-03-10 | 106 | 9 | 
 | 2023-03-09 | 105 | 9 | 
-| 2023-03-08 | 105 | 9 | 
 

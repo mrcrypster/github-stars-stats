@@ -1,10 +1,10 @@
 # LaravelDaily/laravel-permission-editor - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/LaravelDaily/laravel-permission-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 29 | 2 | 
 | 2023-04-06 | 28 | 2 | 
 | 2023-04-05 | 28 | 2 | 
 | 2023-04-04 | 27 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 27 | 1 | 
 | 2023-03-11 | 27 | 1 | 
 | 2023-03-09 | 27 | 1 | 
-| 2023-03-08 | 26 | 1 | 
 

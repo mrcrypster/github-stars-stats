@@ -1,10 +1,10 @@
 # prasadgujar/low-level-design-primer - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1775
 
-★ Stars: 4865
+★ Stars: 4866
 
 [Open repository](https://github.com/prasadgujar/low-level-design-primer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4866 | 1775 | 
 | 2023-04-06 | 4865 | 1775 | 
 | 2023-04-05 | 4863 | 1775 | 
 | 2023-04-04 | 4862 | 1775 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 4812 | 1750 | 
 | 2023-03-11 | 4809 | 1750 | 
 | 2023-03-10 | 4802 | 1749 | 
-| 2023-03-08 | 4784 | 1736 | 
 

@@ -1,10 +1,10 @@
 # Kanaries/graphic-walker - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 52
 
-★ Stars: 1454
+★ Stars: 1458
 
 [Open repository](https://github.com/Kanaries/graphic-walker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1458 | 52 | 
 | 2023-04-06 | 1454 | 52 | 
 | 2023-04-04 | 1451 | 52 | 
 | 2023-04-03 | 1446 | 52 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1381 | 46 | 
 | 2023-03-11 | 1371 | 45 | 
 | 2023-03-10 | 1355 | 44 | 
-| 2023-03-08 | 1339 | 44 | 
 

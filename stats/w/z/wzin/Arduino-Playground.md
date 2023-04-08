@@ -1,10 +1,10 @@
 # wzin/Arduino-Playground - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/wzin/Arduino-Playground)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7 | - | 
 | 2023-04-07 | 6 | - | 
 | 2023-04-05 | 6 | - | 
 | 2023-04-04 | 6 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 5 | - | 
 | 2023-03-10 | 4 | - | 
 | 2023-03-09 | 4 | - | 
-| 2023-03-08 | 4 | - | 
 

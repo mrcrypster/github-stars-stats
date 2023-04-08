@@ -1,6 +1,6 @@
 # rensbreur/SwiftTUI - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 685 | 18 | 
 | 2023-04-06 | 685 | 18 | 
 | 2023-04-05 | 684 | 18 | 
 | 2023-04-04 | 684 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 677 | 18 | 
 | 2023-03-11 | 678 | 18 | 
 | 2023-03-10 | 678 | 18 | 
-| 2023-03-08 | 677 | 18 | 
 

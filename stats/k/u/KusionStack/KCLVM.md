@@ -1,10 +1,10 @@
 # KusionStack/KCLVM - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 45
 
-★ Stars: 503
+★ Stars: 505
 
 [Open repository](https://github.com/KusionStack/KCLVM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 505 | 45 | 
 | 2023-04-06 | 503 | 45 | 
 | 2023-04-05 | 503 | 45 | 
 | 2023-04-03 | 502 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 474 | 40 | 
 | 2023-03-10 | 475 | 39 | 
 | 2023-03-09 | 468 | 39 | 
-| 2023-03-08 | 468 | 39 | 
 

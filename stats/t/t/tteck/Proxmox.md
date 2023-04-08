@@ -1,10 +1,10 @@
 # tteck/Proxmox - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 653
+☋ Forks: 656
 
-★ Stars: 3931
+★ Stars: 3941
 
 [Open repository](https://github.com/tteck/Proxmox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3941 | 656 | 
 | 2023-04-06 | 3931 | 653 | 
 | 2023-04-05 | 3924 | 653 | 
 | 2023-04-04 | 3918 | 651 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3681 | 615 | 
 | 2023-03-11 | 3670 | 614 | 
 | 2023-03-09 | 3641 | 607 | 
-| 2023-03-08 | 3634 | 606 | 
 

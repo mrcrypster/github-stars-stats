@@ -1,10 +1,10 @@
 # lxgw/LxgwWenKai-Lite - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/lxgw/LxgwWenKai-Lite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 171 | 3 | 
 | 2023-04-06 | 170 | 3 | 
 | 2023-04-05 | 170 | 3 | 
 | 2023-04-04 | 170 | 3 | 

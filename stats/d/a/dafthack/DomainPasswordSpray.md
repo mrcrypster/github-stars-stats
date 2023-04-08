@@ -1,10 +1,10 @@
 # dafthack/DomainPasswordSpray - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 332
 
-★ Stars: 1367
+★ Stars: 1368
 
 [Open repository](https://github.com/dafthack/DomainPasswordSpray)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1368 | 332 | 
 | 2023-04-07 | 1367 | 332 | 
 | 2023-04-05 | 1366 | 332 | 
 | 2023-04-04 | 1363 | 332 | 

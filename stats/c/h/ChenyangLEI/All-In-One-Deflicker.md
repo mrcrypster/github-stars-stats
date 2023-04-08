@@ -1,10 +1,10 @@
 # ChenyangLEI/All-In-One-Deflicker - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 356
+★ Stars: 360
 
 [Open repository](https://github.com/ChenyangLEI/All-In-One-Deflicker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 360 | 18 | 
 | 2023-04-06 | 356 | 17 | 
 | 2023-04-05 | 354 | 17 | 
 | 2023-04-04 | 354 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 195 | 5 | 
 | 2023-03-10 | 195 | 5 | 
 | 2023-03-09 | 191 | 5 | 
-| 2023-03-08 | 183 | 5 | 
 

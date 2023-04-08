@@ -1,10 +1,10 @@
 # isaachinman/next-i18next - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 721
+☋ Forks: 722
 
-★ Stars: 4309
+★ Stars: 4312
 
 [Open repository](https://github.com/isaachinman/next-i18next)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4312 | 722 | 
 | 2023-04-06 | 4309 | 721 | 
 | 2023-04-05 | 4302 | 720 | 
 | 2023-04-04 | 4300 | 719 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 4218 | 712 | 
 | 2023-03-11 | 4216 | 711 | 
 | 2023-03-10 | 4209 | 712 | 
-| 2023-03-09 | 4203 | 710 | 
 

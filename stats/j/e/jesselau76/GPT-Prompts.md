@@ -1,10 +1,10 @@
 # jesselau76/GPT-Prompts - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 550
+★ Stars: 562
 
 [Open repository](https://github.com/jesselau76/GPT-Prompts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 562 | 62 | 
 | 2023-04-06 | 550 | 61 | 
 | 2023-04-05 | 538 | 61 | 
 | 2023-04-04 | 525 | 61 | 

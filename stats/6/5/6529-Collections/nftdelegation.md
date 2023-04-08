@@ -1,10 +1,10 @@
 # 6529-Collections/nftdelegation - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/6529-Collections/nftdelegation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 8 | 5 | 
 | 2023-04-06 | 7 | 5 | 
 | 2023-04-05 | 7 | 5 | 
 | 2023-04-04 | 7 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 7 | 4 | 
 | 2023-03-11 | 7 | 4 | 
 | 2023-03-09 | 7 | 4 | 
-| 2023-03-08 | 7 | 4 | 
 

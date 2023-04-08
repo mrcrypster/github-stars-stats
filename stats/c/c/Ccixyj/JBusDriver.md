@@ -1,10 +1,10 @@
 # Ccixyj/JBusDriver - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 244
 
-★ Stars: 2330
+★ Stars: 2334
 
 [Open repository](https://github.com/Ccixyj/JBusDriver)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2334 | 244 | 
 | 2023-04-06 | 2330 | 244 | 
 | 2023-04-05 | 2329 | 244 | 
 | 2023-04-04 | 2329 | 244 | 

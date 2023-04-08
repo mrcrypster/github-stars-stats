@@ -1,6 +1,6 @@
 # buildkite-plugins/junit-annotate-buildkite-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 30 | 78 | 
 | 2023-04-06 | 30 | 78 | 
 | 2023-04-05 | 30 | 78 | 
 | 2023-04-04 | 30 | 78 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 29 | 77 | 
 | 2023-03-12 | 29 | 77 | 
 | 2023-03-10 | 28 | 77 | 
-| 2023-03-08 | 28 | 77 | 
 

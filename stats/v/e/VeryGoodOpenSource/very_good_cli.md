@@ -1,10 +1,10 @@
 # VeryGoodOpenSource/very_good_cli - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 154
 
-★ Stars: 1837
+★ Stars: 1838
 
 [Open repository](https://github.com/VeryGoodOpenSource/very_good_cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1838 | 154 | 
 | 2023-04-06 | 1837 | 154 | 
 | 2023-04-05 | 1837 | 154 | 
 | 2023-04-04 | 1837 | 154 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1820 | 154 | 
 | 2023-03-10 | 1819 | 154 | 
 | 2023-03-09 | 1819 | 154 | 
-| 2023-03-08 | 1817 | 155 | 
 

@@ -1,10 +1,10 @@
 # toshiakit/MatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/toshiakit/MatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 26 | - | 
 | 2023-04-06 | 25 | - | 
 | 2023-04-05 | 25 | - | 
 | 2023-04-04 | 25 | - | 

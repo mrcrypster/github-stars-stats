@@ -1,10 +1,10 @@
 # dolotech/ebook - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 648
 
-★ Stars: 1692
+★ Stars: 1693
 
 [Open repository](https://github.com/dolotech/ebook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1693 | 648 | 
 | 2023-04-06 | 1692 | 648 | 
 | 2023-04-05 | 1692 | 648 | 
 | 2023-04-04 | 1691 | 647 | 

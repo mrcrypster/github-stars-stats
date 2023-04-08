@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-autoscaling - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 37 | 68 | 
 | 2023-04-06 | 37 | 68 | 
 | 2023-04-05 | 37 | 68 | 
 | 2023-04-03 | 37 | 68 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 36 | 68 | 
 | 2023-03-11 | 36 | 68 | 
 | 2023-03-10 | 36 | 68 | 
-| 2023-03-08 | 36 | 68 | 
 

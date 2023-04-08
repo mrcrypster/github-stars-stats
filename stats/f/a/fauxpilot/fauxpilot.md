@@ -1,10 +1,10 @@
 # fauxpilot/fauxpilot - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 440
+☋ Forks: 442
 
-★ Stars: 10735
+★ Stars: 10839
 
 [Open repository](https://github.com/fauxpilot/fauxpilot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 10839 | 442 | 
 | 2023-04-06 | 10735 | 440 | 
 | 2023-04-05 | 10694 | 436 | 
 | 2023-04-04 | 10662 | 434 | 

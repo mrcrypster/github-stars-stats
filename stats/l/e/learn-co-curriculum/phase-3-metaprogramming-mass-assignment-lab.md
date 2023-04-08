@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-metaprogramming-mass-assignment-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1873
+☋ Forks: 1874
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | - | 1874 | 
 | 2023-04-06 | - | 1873 | 
 | 2023-04-05 | - | 1873 | 
 | 2023-04-04 | - | 1871 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | - | 1834 | 
 | 2023-03-10 | - | 1834 | 
 | 2023-03-09 | - | 1829 | 
-| 2023-03-08 | - | 1827 | 
 

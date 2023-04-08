@@ -1,10 +1,10 @@
 # kleiton0x00/RemoteShellcodeExec - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/kleiton0x00/RemoteShellcodeExec)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 127 | 28 | 
 | 2023-04-07 | 126 | 27 | 
 | 2023-04-06 | 123 | 26 | 
 | 2023-04-04 | 118 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 102 | 22 | 
 | 2023-03-11 | 99 | 22 | 
 | 2023-03-09 | 96 | 20 | 
-| 2023-03-08 | 94 | 19 | 
 

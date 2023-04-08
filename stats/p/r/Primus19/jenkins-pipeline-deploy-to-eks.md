@@ -1,10 +1,10 @@
 # Primus19/jenkins-pipeline-deploy-to-eks - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 35
+☋ Forks: 37
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Primus19/jenkins-pipeline-deploy-to-eks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 5 | 37 | 
 | 2023-04-06 | 4 | 35 | 
 | 2023-04-05 | 4 | 35 | 
 | 2023-04-04 | 4 | 33 | 

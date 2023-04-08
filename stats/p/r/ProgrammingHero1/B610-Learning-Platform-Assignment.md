@@ -1,6 +1,6 @@
 # ProgrammingHero1/B610-Learning-Platform-Assignment - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 18 | 63 | 
 | 2023-04-06 | 18 | 63 | 
 | 2023-04-05 | 18 | 63 | 
 | 2023-04-04 | 17 | 63 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 17 | 62 | 
 | 2023-03-11 | 17 | 62 | 
 | 2023-03-09 | 17 | 62 | 
-| 2023-03-08 | 17 | 62 | 
 

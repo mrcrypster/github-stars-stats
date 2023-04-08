@@ -1,6 +1,6 @@
 # boogie-org/boogie - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 416 | 100 | 
 | 2023-04-06 | 416 | 100 | 
 | 2023-04-05 | 416 | 100 | 
 | 2023-04-04 | 416 | 100 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 408 | 99 | 
 | 2023-03-11 | 408 | 99 | 
 | 2023-03-10 | 408 | 99 | 
-| 2023-03-08 | 408 | 99 | 
 

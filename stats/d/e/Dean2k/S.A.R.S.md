@@ -1,10 +1,10 @@
 # Dean2k/S.A.R.S - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/Dean2k/S.A.R.S)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 30 | 4 | 
+| 2023-04-07 | 29 | 4 | 
 | 2023-04-06 | 28 | 4 | 
 | 2023-04-05 | 27 | 4 | 
 | 2023-04-04 | 27 | 4 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 20 | 3 | 
 | 2023-03-11 | 20 | 3 | 
 | 2023-03-10 | 20 | 3 | 
-| 2023-03-08 | 20 | 3 | 
 

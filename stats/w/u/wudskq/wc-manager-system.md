@@ -1,6 +1,6 @@
 # wudskq/wc-manager-system - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 85 | 19 | 
 | 2023-04-06 | 85 | 19 | 
 | 2023-04-05 | 85 | 19 | 
 | 2023-04-04 | 85 | 19 | 

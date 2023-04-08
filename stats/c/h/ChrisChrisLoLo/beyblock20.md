@@ -1,6 +1,6 @@
 # ChrisChrisLoLo/beyblock20 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 252 | 5 | 
 | 2023-04-06 | 252 | 5 | 
 | 2023-04-05 | 252 | 5 | 
 | 2023-04-04 | 252 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 246 | 5 | 
 | 2023-03-11 | 246 | 5 | 
 | 2023-03-10 | 246 | 5 | 
-| 2023-03-08 | 246 | 5 | 
 

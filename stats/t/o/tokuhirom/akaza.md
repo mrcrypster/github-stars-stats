@@ -1,6 +1,6 @@
 # tokuhirom/akaza - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 196 | 6 | 
 | 2023-04-07 | 196 | 6 | 
 | 2023-04-06 | 196 | 6 | 
 | 2023-04-04 | 196 | 6 | 

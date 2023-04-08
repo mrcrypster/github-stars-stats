@@ -1,10 +1,10 @@
 # yoimiya-kokomi/Miao-Yunzai - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 25
+☋ Forks: 27
 
-★ Stars: 204
+★ Stars: 208
 
 [Open repository](https://github.com/yoimiya-kokomi/Miao-Yunzai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 208 | 27 | 
 | 2023-04-06 | 204 | 25 | 
 | 2023-04-05 | 198 | 25 | 
 | 2023-04-04 | 194 | 25 | 

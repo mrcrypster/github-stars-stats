@@ -1,10 +1,10 @@
 # WalkerLau/DetectHumanFaces - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 49
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/WalkerLau/DetectHumanFaces)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 128 | 49 | 
 | 2023-04-06 | 127 | 49 | 
 | 2023-04-05 | 126 | 49 | 
 | 2023-04-03 | 126 | 49 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 125 | 48 | 
 | 2023-03-11 | 125 | 48 | 
 | 2023-03-10 | 123 | 48 | 
-| 2023-03-08 | 123 | 47 | 
 

@@ -1,10 +1,10 @@
 # arainho/awesome-api-security - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 334
+☋ Forks: 335
 
-★ Stars: 2074
+★ Stars: 2077
 
 [Open repository](https://github.com/arainho/awesome-api-security)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2077 | 335 | 
 | 2023-04-06 | 2074 | 334 | 
 | 2023-04-05 | 2067 | 334 | 
 | 2023-04-04 | 2063 | 334 | 

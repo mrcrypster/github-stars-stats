@@ -1,6 +1,6 @@
 # dglai/Graph-Neural-Networks-in-Life-Sciences - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 178 | 44 | 
 | 2023-04-06 | 178 | 44 | 
 | 2023-04-05 | 178 | 44 | 
 | 2023-04-04 | 177 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 174 | 44 | 
 | 2023-03-11 | 174 | 44 | 
 | 2023-03-10 | 175 | 44 | 
-| 2023-03-08 | 173 | 44 | 
 

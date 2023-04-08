@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 44
 
-★ Stars: 729
+★ Stars: 732
 
 [Open repository](https://github.com/biliup/biliup-app)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 729 | 44 | 
+| 2023-04-07 | 732 | 44 | 
 | 2023-04-06 | 729 | 44 | 
 | 2023-04-05 | 727 | 44 | 
 | 2023-04-04 | 725 | 44 | 

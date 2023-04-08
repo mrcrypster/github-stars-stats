@@ -1,6 +1,6 @@
 # codeAdrian/clay.css - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 524 | 23 | 
 | 2023-04-06 | 524 | 23 | 
 | 2023-04-05 | 523 | 23 | 
 | 2023-04-04 | 523 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 521 | 23 | 
 | 2023-03-11 | 521 | 23 | 
 | 2023-03-10 | 521 | 23 | 
-| 2023-03-08 | 521 | 23 | 
 

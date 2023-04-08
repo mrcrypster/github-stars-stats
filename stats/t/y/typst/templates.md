@@ -1,10 +1,10 @@
 # typst/templates - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/typst/templates)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 19 | 3 | 
 | 2023-04-06 | 18 | 2 | 
 | 2023-04-05 | 17 | 1 | 
 | 2023-04-03 | 16 | 1 | 

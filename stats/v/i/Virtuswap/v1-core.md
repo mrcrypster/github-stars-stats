@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/Virtuswap/v1-core)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 68 | 7 | 
+| 2023-04-07 | 69 | 7 | 
 | 2023-04-06 | 68 | 7 | 
 | 2023-04-05 | 73 | 7 | 
 | 2023-04-04 | 56 | 7 | 

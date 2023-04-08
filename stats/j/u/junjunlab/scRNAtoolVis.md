@@ -1,10 +1,10 @@
 # junjunlab/scRNAtoolVis - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/junjunlab/scRNAtoolVis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 114 | 7 | 
 | 2023-04-06 | 113 | 7 | 
 | 2023-04-05 | 112 | 7 | 
 | 2023-04-04 | 111 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 109 | 7 | 
 | 2023-03-10 | 109 | 7 | 
 | 2023-03-09 | 109 | 7 | 
-| 2023-03-08 | 110 | 7 | 
 

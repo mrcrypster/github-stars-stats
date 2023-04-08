@@ -1,6 +1,6 @@
 # lucidrains/lion-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1245 | 32 | 
 | 2023-04-06 | 1245 | 32 | 
 | 2023-04-05 | 1239 | 31 | 
 | 2023-04-04 | 1237 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 1093 | 28 | 
 | 2023-03-11 | 1085 | 27 | 
 | 2023-03-10 | 1056 | 25 | 
-| 2023-03-08 | 1018 | 23 | 
 

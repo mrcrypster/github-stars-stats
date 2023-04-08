@@ -1,6 +1,6 @@
 # influxdata/flux-lsp - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 22 | 4 | 
 | 2023-04-07 | 22 | 4 | 
 | 2023-04-05 | 22 | 4 | 
 | 2023-04-04 | 22 | 4 | 

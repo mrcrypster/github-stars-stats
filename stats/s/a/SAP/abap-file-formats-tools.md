@@ -1,10 +1,10 @@
 # SAP/abap-file-formats-tools - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/SAP/abap-file-formats-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 13 | 5 | 
 | 2023-04-06 | 12 | 5 | 
 | 2023-04-05 | 12 | 5 | 
 | 2023-04-04 | 12 | 5 | 

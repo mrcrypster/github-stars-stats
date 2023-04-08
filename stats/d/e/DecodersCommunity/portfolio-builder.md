@@ -1,10 +1,10 @@
 # DecodersCommunity/portfolio-builder - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 60
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/DecodersCommunity/portfolio-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 13 | 60 | 
 | 2023-04-06 | 14 | 60 | 
 | 2023-04-05 | 14 | 60 | 
 | 2023-04-04 | 14 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 14 | 61 | 
 | 2023-03-11 | 14 | 61 | 
 | 2023-03-09 | 14 | 61 | 
-| 2023-03-08 | 14 | 61 | 
 

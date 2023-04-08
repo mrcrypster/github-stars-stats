@@ -1,10 +1,10 @@
 # getsentry/self-hosted - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1513
+☋ Forks: 1515
 
-★ Stars: 6028
+★ Stars: 6032
 
 [Open repository](https://github.com/getsentry/self-hosted)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 6032 | 1515 | 
 | 2023-04-06 | 6028 | 1513 | 
 | 2023-04-05 | 6026 | 1513 | 
 | 2023-04-04 | 6022 | 1511 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 5927 | 1495 | 
 | 2023-03-10 | 5927 | 1495 | 
 | 2023-03-09 | 5919 | 1493 | 
-| 2023-03-08 | 5914 | 1494 | 
 

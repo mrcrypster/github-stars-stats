@@ -1,10 +1,10 @@
 # krisnova/q - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/krisnova/q)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 75 | 4 | 
 | 2023-04-06 | 74 | 4 | 
 | 2023-04-05 | 73 | 4 | 
 | 2023-04-04 | 73 | 4 | 

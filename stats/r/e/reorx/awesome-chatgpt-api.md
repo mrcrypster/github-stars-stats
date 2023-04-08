@@ -1,10 +1,10 @@
 # reorx/awesome-chatgpt-api - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 223
+☋ Forks: 228
 
-★ Stars: 4057
+★ Stars: 4083
 
 [Open repository](https://github.com/reorx/awesome-chatgpt-api)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4083 | 228 | 
 | 2023-04-06 | 4057 | 223 | 
 | 2023-04-05 | 4034 | 222 | 
 | 2023-04-04 | 4009 | 222 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 2913 | 130 | 
 | 2023-03-10 | 2875 | 128 | 
 | 2023-03-09 | 2680 | 119 | 
-| 2023-03-08 | 2309 | 95 | 
 

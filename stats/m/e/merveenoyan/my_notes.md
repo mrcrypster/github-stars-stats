@@ -1,6 +1,6 @@
 # merveenoyan/my_notes - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1306 | 107 | 
 | 2023-04-06 | 1306 | 107 | 
 | 2023-04-05 | 1304 | 107 | 
 | 2023-04-04 | 1303 | 107 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 1118 | 91 | 
 | 2023-03-10 | 936 | 80 | 
 | 2023-03-09 | 796 | 73 | 
-| 2023-03-08 | 746 | 68 | 
 

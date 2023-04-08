@@ -1,6 +1,6 @@
 # Kuenaimaku/lancer-briefings - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 26 | 118 | 
 | 2023-04-06 | 26 | 118 | 
 | 2023-04-05 | 26 | 117 | 
 | 2023-04-04 | 26 | 117 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 24 | 116 | 
 | 2023-03-11 | 24 | 115 | 
 | 2023-03-09 | 24 | 115 | 
-| 2023-03-08 | 24 | 115 | 
 

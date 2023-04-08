@@ -1,6 +1,6 @@
 # wp-cli/db-command - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 69 | 48 | 
 | 2023-04-06 | 69 | 48 | 
 | 2023-04-05 | 69 | 48 | 
 | 2023-04-04 | 69 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 70 | 48 | 
 | 2023-03-11 | 70 | 48 | 
 | 2023-03-09 | 71 | 48 | 
-| 2023-03-08 | 71 | 48 | 
 

@@ -1,10 +1,10 @@
 # streetpea/chiaki4deck - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/streetpea/chiaki4deck)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 194 | 11 | 
 | 2023-04-06 | 193 | 10 | 
 | 2023-04-05 | 192 | 10 | 
 | 2023-04-04 | 191 | 10 | 

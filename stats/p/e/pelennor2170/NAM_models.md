@@ -1,10 +1,10 @@
 # pelennor2170/NAM_models - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 31
+☋ Forks: 33
 
-★ Stars: 272
+★ Stars: 278
 
 [Open repository](https://github.com/pelennor2170/NAM_models)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 278 | 33 | 
 | 2023-04-06 | 272 | 31 | 
 | 2023-04-05 | 266 | 31 | 
 | 2023-04-04 | 262 | 30 | 

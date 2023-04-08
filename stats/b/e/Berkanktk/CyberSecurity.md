@@ -1,10 +1,10 @@
 # Berkanktk/CyberSecurity - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 20
 
-★ Stars: 398
+★ Stars: 399
 
 [Open repository](https://github.com/Berkanktk/CyberSecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 399 | 20 | 
 | 2023-04-06 | 398 | 20 | 
 | 2023-04-05 | 398 | 20 | 
 | 2023-04-03 | 393 | 20 | 

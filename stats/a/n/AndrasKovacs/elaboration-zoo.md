@@ -1,6 +1,6 @@
 # AndrasKovacs/elaboration-zoo - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 445 | 28 | 
 | 2023-04-06 | 445 | 28 | 
 | 2023-04-05 | 444 | 28 | 
 | 2023-04-03 | 444 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 437 | 28 | 
 | 2023-03-11 | 436 | 28 | 
 | 2023-03-10 | 435 | 28 | 
-| 2023-03-08 | 433 | 28 | 
 

@@ -1,10 +1,10 @@
 # Liberty-Landing/Liberty-Station-13 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Liberty-Landing/Liberty-Station-13)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2 | 17 | 
 | 2023-04-06 | 1 | 16 | 
 | 2023-04-05 | 1 | 16 | 
 | 2023-04-04 | 1 | 15 | 

@@ -1,10 +1,10 @@
 # otya128/winevdm - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 124
 
-★ Stars: 1950
+★ Stars: 1951
 
 [Open repository](https://github.com/otya128/winevdm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1951 | 124 | 
 | 2023-04-06 | 1950 | 124 | 
 | 2023-04-05 | 1947 | 124 | 
 | 2023-04-04 | 1945 | 124 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1917 | 124 | 
 | 2023-03-11 | 1917 | 124 | 
 | 2023-03-10 | 1916 | 123 | 
-| 2023-03-08 | 1914 | 123 | 
 

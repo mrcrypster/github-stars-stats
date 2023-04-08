@@ -1,10 +1,10 @@
 # ConnectingEurope/eInvoicing-EN16931 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 39
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/ConnectingEurope/eInvoicing-EN16931)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 82 | 39 | 
 | 2023-04-06 | 81 | 39 | 
 | 2023-04-05 | 81 | 39 | 
 | 2023-04-04 | 81 | 39 | 

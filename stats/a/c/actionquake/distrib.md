@@ -1,6 +1,6 @@
 # actionquake/distrib - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 15 | 9 | 
 | 2023-04-07 | 15 | 9 | 
 | 2023-04-06 | 15 | 9 | 
 | 2023-04-04 | 15 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 14 | 9 | 
 | 2023-03-10 | 14 | 9 | 
 | 2023-03-09 | 14 | 9 | 
-| 2023-03-08 | 14 | 9 | 
 

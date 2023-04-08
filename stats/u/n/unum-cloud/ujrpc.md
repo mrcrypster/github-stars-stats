@@ -1,10 +1,10 @@
 # unum-cloud/ujrpc - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 12
 
-★ Stars: 666
+★ Stars: 669
 
 [Open repository](https://github.com/unum-cloud/ujrpc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 669 | 12 | 
 | 2023-04-06 | 666 | 12 | 
 | 2023-04-05 | 665 | 12 | 
 | 2023-04-04 | 664 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 561 | 10 | 
 | 2023-03-10 | 540 | 10 | 
 | 2023-03-09 | 504 | 9 | 
-| 2023-03-08 | 490 | 9 | 
 

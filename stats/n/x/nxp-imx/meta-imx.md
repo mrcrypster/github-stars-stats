@@ -1,6 +1,6 @@
 # nxp-imx/meta-imx - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5 | 18 | 
+| 2023-04-07 | 5 | 18 | 
 | 2023-04-06 | 5 | 18 | 
 | 2023-04-05 | 5 | 18 | 
 | 2023-04-04 | 4 | 17 | 

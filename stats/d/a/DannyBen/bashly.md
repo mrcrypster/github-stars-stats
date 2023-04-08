@@ -1,10 +1,10 @@
 # DannyBen/bashly - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 62
 
-★ Stars: 1530
+★ Stars: 1533
 
 [Open repository](https://github.com/DannyBen/bashly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1533 | 62 | 
 | 2023-04-06 | 1530 | 62 | 
 | 2023-04-05 | 1529 | 62 | 
 | 2023-04-04 | 1528 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1506 | 63 | 
 | 2023-03-11 | 1504 | 63 | 
 | 2023-03-10 | 1502 | 63 | 
-| 2023-03-08 | 1500 | 63 | 
 

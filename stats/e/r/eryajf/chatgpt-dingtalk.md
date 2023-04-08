@@ -1,10 +1,10 @@
 # eryajf/chatgpt-dingtalk - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 250
+☋ Forks: 254
 
-★ Stars: 1380
+★ Stars: 1396
 
 [Open repository](https://github.com/eryajf/chatgpt-dingtalk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1396 | 254 | 
 | 2023-04-06 | 1380 | 250 | 
 | 2023-04-05 | 1364 | 247 | 
 | 2023-04-04 | 1354 | 242 | 

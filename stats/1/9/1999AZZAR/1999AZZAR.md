@@ -1,6 +1,6 @@
 # 1999AZZAR/1999AZZAR - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 5 | 32 | 
 | 2023-04-06 | 5 | 32 | 
 | 2023-04-05 | 5 | 32 | 
 | 2023-04-04 | 5 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3 | 30 | 
 | 2023-03-10 | 3 | 30 | 
 | 2023-03-09 | 3 | 30 | 
-| 2023-03-08 | 3 | 30 | 
 

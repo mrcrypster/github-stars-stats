@@ -1,8 +1,8 @@
 # programthink/sites - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 546
+☋ Forks: 548
 
 ★ Stars: 2036
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2036 | 548 | 
 | 2023-04-06 | 2036 | 546 | 
 | 2023-04-05 | 2029 | 546 | 
 | 2023-04-04 | 2029 | 546 | 

@@ -1,10 +1,10 @@
 # resilience4j/resilience4j - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1194
+☋ Forks: 1196
 
-★ Stars: 8680
+★ Stars: 8683
 
 [Open repository](https://github.com/resilience4j/resilience4j)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 8683 | 1196 | 
 | 2023-04-06 | 8680 | 1194 | 
 | 2023-04-05 | 8679 | 1193 | 
 | 2023-04-03 | 8677 | 1193 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 8632 | 1184 | 
 | 2023-03-11 | 8631 | 1184 | 
 | 2023-03-10 | 8629 | 1184 | 
-| 2023-03-08 | 8626 | 1183 | 
 

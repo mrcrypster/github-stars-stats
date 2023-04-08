@@ -1,10 +1,10 @@
 # buo/homebrew-cask-upgrade - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 86
 
-★ Stars: 2166
+★ Stars: 2168
 
 [Open repository](https://github.com/buo/homebrew-cask-upgrade)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2168 | 86 | 
 | 2023-04-06 | 2166 | 86 | 
 | 2023-04-05 | 2164 | 86 | 
 | 2023-04-04 | 2164 | 86 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2144 | 87 | 
 | 2023-03-11 | 2143 | 87 | 
 | 2023-03-09 | 2142 | 87 | 
-| 2023-03-08 | 2141 | 87 | 
 

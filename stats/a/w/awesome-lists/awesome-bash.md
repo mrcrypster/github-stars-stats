@@ -1,10 +1,10 @@
 # awesome-lists/awesome-bash - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 651
 
-★ Stars: 5965
+★ Stars: 5974
 
 [Open repository](https://github.com/awesome-lists/awesome-bash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 5974 | 651 | 
 | 2023-04-06 | 5965 | 651 | 
 | 2023-04-05 | 5962 | 650 | 
 | 2023-04-03 | 5958 | 650 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 5900 | 650 | 
 | 2023-03-10 | 5893 | 650 | 
 | 2023-03-09 | 5887 | 649 | 
-| 2023-03-08 | 5879 | 649 | 
 

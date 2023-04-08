@@ -1,10 +1,10 @@
 # twitter/sbf - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 106
+★ Stars: 112
 
 [Open repository](https://github.com/twitter/sbf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 112 | 29 | 
 | 2023-04-06 | 106 | 28 | 
 | 2023-04-05 | 103 | 28 | 
 | 2023-04-04 | 96 | 27 | 

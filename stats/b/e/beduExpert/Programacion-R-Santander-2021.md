@@ -1,6 +1,6 @@
 # beduExpert/Programacion-R-Santander-2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 19 | 55 | 
 | 2023-04-06 | 19 | 55 | 
 | 2023-04-05 | 19 | 55 | 
 | 2023-04-04 | 19 | 55 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 19 | 55 | 
 | 2023-03-10 | 19 | 55 | 
 | 2023-03-09 | 19 | 55 | 
-| 2023-03-08 | 19 | 55 | 
 

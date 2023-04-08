@@ -1,6 +1,6 @@
 # vlggms/lobotomy-corp13 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 11 | 66 | 
 | 2023-04-06 | 11 | 66 | 
 | 2023-04-05 | 11 | 66 | 
 | 2023-04-04 | 11 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 10 | 60 | 
 | 2023-03-10 | 10 | 59 | 
 | 2023-03-09 | 9 | 59 | 
-| 2023-03-08 | 9 | 59 | 
 

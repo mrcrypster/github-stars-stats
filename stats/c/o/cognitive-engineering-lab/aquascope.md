@@ -1,10 +1,10 @@
 # cognitive-engineering-lab/aquascope - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 13
 
-★ Stars: 854
+★ Stars: 856
 
 [Open repository](https://github.com/cognitive-engineering-lab/aquascope)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 856 | 13 | 
 | 2023-04-06 | 854 | 13 | 
 | 2023-04-05 | 853 | 13 | 
 | 2023-04-04 | 852 | 12 | 

@@ -1,10 +1,10 @@
 # numencyber/NumenCTF_2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 25
+★ Stars: 28
 
 [Open repository](https://github.com/numencyber/NumenCTF_2023)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 28 | 7 | 
 | 2023-04-06 | 25 | 7 | 
 | 2023-04-05 | 24 | 8 | 
 | 2023-04-04 | 22 | 8 | 

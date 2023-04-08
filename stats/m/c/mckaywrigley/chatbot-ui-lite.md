@@ -1,10 +1,10 @@
 # mckaywrigley/chatbot-ui-lite - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 101
+☋ Forks: 107
 
-★ Stars: 588
+★ Stars: 600
 
 [Open repository](https://github.com/mckaywrigley/chatbot-ui-lite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 600 | 107 | 
 | 2023-04-06 | 588 | 101 | 
 | 2023-04-05 | 579 | 96 | 
 | 2023-04-04 | 570 | 94 | 

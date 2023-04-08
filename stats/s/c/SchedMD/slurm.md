@@ -1,10 +1,10 @@
 # SchedMD/slurm - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 552
 
-★ Stars: 1771
+★ Stars: 1772
 
 [Open repository](https://github.com/SchedMD/slurm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1772 | 552 | 
 | 2023-04-06 | 1771 | 552 | 
 | 2023-04-05 | 1771 | 552 | 
 | 2023-04-04 | 1770 | 552 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1743 | 544 | 
 | 2023-03-10 | 1742 | 544 | 
 | 2023-03-09 | 1738 | 543 | 
-| 2023-03-08 | 1732 | 543 | 
 

@@ -1,6 +1,6 @@
 # m2robocon/m2cs_ros_tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3 | 9 | 
 | 2023-04-07 | 3 | 9 | 
 | 2023-04-06 | 3 | 9 | 
 | 2023-04-04 | 3 | 9 | 

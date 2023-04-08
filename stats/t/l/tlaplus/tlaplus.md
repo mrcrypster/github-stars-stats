@@ -1,10 +1,10 @@
 # tlaplus/tlaplus - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 166
 
-★ Stars: 1997
+★ Stars: 1998
 
 [Open repository](https://github.com/tlaplus/tlaplus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1998 | 166 | 
 | 2023-04-06 | 1997 | 166 | 
 | 2023-04-04 | 1997 | 166 | 
 | 2023-04-03 | 1995 | 166 | 

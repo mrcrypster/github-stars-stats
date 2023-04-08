@@ -1,6 +1,6 @@
 # mixandjam/ThePathless-Gameplay - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 36 | 15 | 
 | 2023-04-06 | 36 | 15 | 
 | 2023-04-05 | 34 | 15 | 
 | 2023-04-04 | 32 | 15 | 

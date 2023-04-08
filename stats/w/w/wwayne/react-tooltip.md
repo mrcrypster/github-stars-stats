@@ -1,6 +1,6 @@
 # wwayne/react-tooltip - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 513
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3120 | 513 | 
 | 2023-04-07 | 3120 | 513 | 
 | 2023-04-06 | 3116 | 512 | 
 | 2023-04-04 | 3114 | 513 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 3075 | 511 | 
 | 2023-03-11 | 3075 | 511 | 
 | 2023-03-09 | 3072 | 512 | 
-| 2023-03-08 | 3067 | 511 | 
 

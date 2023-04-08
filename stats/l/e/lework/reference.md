@@ -1,10 +1,10 @@
 # lework/reference - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/lework/reference)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 22 | 9 | 
 | 2023-04-06 | 20 | 8 | 
 | 2023-04-05 | 20 | 8 | 
 | 2023-04-04 | 20 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 21 | 8 | 
 | 2023-03-11 | 21 | 8 | 
 | 2023-03-09 | 21 | 7 | 
-| 2023-03-08 | 17 | 6 | 
 

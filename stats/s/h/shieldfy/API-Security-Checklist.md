@@ -1,10 +1,10 @@
 # shieldfy/API-Security-Checklist - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2477
 
-★ Stars: 20695
+★ Stars: 20697
 
 [Open repository](https://github.com/shieldfy/API-Security-Checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 20697 | 2477 | 
 | 2023-04-06 | 20695 | 2477 | 
 | 2023-04-05 | 20691 | 2477 | 
 | 2023-04-04 | 20688 | 2478 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 20609 | 2466 | 
 | 2023-03-11 | 20607 | 2466 | 
 | 2023-03-09 | 20595 | 2465 | 
-| 2023-03-08 | 20573 | 2464 | 
 

@@ -1,6 +1,6 @@
 # woj-ciech/Kamerka-GUI - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 486 | 99 | 
 | 2023-04-06 | 486 | 99 | 
 | 2023-04-05 | 486 | 99 | 
 | 2023-04-04 | 486 | 99 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 462 | 95 | 
 | 2023-03-10 | 463 | 95 | 
 | 2023-03-09 | 462 | 95 | 
-| 2023-03-08 | 462 | 95 | 
 

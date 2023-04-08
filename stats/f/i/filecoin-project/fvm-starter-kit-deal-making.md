@@ -1,10 +1,10 @@
 # filecoin-project/fvm-starter-kit-deal-making - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 8
+★ Stars: 10
 
 [Open repository](https://github.com/filecoin-project/fvm-starter-kit-deal-making)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 10 | 5 | 
 | 2023-04-06 | 8 | 5 | 
 | 2023-04-05 | 8 | 5 | 
 | 2023-04-04 | 8 | 5 | 

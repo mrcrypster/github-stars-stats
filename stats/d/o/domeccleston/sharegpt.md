@@ -1,10 +1,10 @@
 # domeccleston/sharegpt - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 768
+★ Stars: 793
 
 [Open repository](https://github.com/domeccleston/sharegpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 793 | 92 | 
 | 2023-04-06 | 768 | 91 | 
 | 2023-04-05 | 749 | 89 | 
 | 2023-04-04 | 727 | 88 | 

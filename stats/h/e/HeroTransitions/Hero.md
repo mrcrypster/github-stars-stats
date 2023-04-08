@@ -1,10 +1,10 @@
 # HeroTransitions/Hero - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1719
+☋ Forks: 1718
 
-★ Stars: 21338
+★ Stars: 21340
 
 [Open repository](https://github.com/HeroTransitions/Hero)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 21340 | 1718 | 
 | 2023-04-06 | 21338 | 1719 | 
 | 2023-04-05 | 21338 | 1719 | 
 | 2023-04-04 | 21337 | 1719 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 21289 | 1720 | 
 | 2023-03-12 | 21288 | 1720 | 
 | 2023-03-10 | 21286 | 1720 | 
-| 2023-03-08 | 21284 | 1719 | 
 

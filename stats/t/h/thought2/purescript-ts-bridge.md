@@ -1,10 +1,10 @@
 # thought2/purescript-ts-bridge - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/thought2/purescript-ts-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 21 | - | 
 | 2023-04-06 | 20 | - | 
 | 2023-04-05 | 20 | - | 
 

@@ -1,6 +1,6 @@
 # twitter/tormenta - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 132 | 38 | 
 | 2023-04-06 | 132 | 38 | 
 | 2023-04-05 | 132 | 38 | 
 | 2023-04-04 | 132 | 38 | 

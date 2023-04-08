@@ -1,10 +1,10 @@
 # JuliaGPU/CUDA.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 166
 
-★ Stars: 936
+★ Stars: 937
 
 [Open repository](https://github.com/JuliaGPU/CUDA.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 937 | 166 | 
 | 2023-04-06 | 936 | 166 | 
 | 2023-04-04 | 936 | 165 | 
 | 2023-04-03 | 935 | 165 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 924 | 163 | 
 | 2023-03-10 | 924 | 163 | 
 | 2023-03-09 | 924 | 163 | 
-| 2023-03-08 | 923 | 163 | 
 

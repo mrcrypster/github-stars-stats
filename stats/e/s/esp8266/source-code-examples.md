@@ -1,6 +1,6 @@
 # esp8266/source-code-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 264 | 126 | 
 | 2023-04-06 | 264 | 126 | 
 | 2023-04-05 | 264 | 126 | 
 | 2023-04-04 | 263 | 126 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 263 | 126 | 
 | 2023-03-10 | 263 | 126 | 
 | 2023-03-09 | 263 | 126 | 
-| 2023-03-08 | 262 | 126 | 
 

@@ -1,6 +1,6 @@
 # lifinance/create3-factory - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 38 | 4 | 
 | 2023-04-06 | 38 | 4 | 
 | 2023-04-05 | 38 | 4 | 
 | 2023-04-04 | 37 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 36 | 1 | 
 | 2023-03-10 | 36 | 1 | 
 | 2023-03-09 | 36 | 1 | 
-| 2023-03-08 | 36 | 1 | 
 

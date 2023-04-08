@@ -1,10 +1,10 @@
 # jhaddix/awsScrape - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 22
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/jhaddix/awsScrape)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 148 | 22 | 
 | 2023-04-06 | 146 | 22 | 
 | 2023-04-05 | 145 | 22 | 
 | 2023-04-04 | 145 | 22 | 

@@ -1,6 +1,6 @@
 # bazelbuild/platforms - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 74 | 55 | 
 | 2023-04-06 | 74 | 55 | 
 | 2023-04-05 | 74 | 55 | 
 | 2023-04-04 | 74 | 55 | 

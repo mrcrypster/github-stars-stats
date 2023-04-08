@@ -1,10 +1,10 @@
 # alyssaxuu/omni - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 254
+☋ Forks: 255
 
-★ Stars: 6144
+★ Stars: 6148
 
 [Open repository](https://github.com/alyssaxuu/omni)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 6148 | 255 | 
 | 2023-04-06 | 6144 | 254 | 
 | 2023-04-05 | 6144 | 254 | 
 | 2023-04-04 | 6139 | 254 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 6065 | 251 | 
 | 2023-03-11 | 6063 | 251 | 
 | 2023-03-10 | 6061 | 251 | 
-| 2023-03-08 | 6057 | 251 | 
 

@@ -1,10 +1,10 @@
 # lyr408/MobileCyberSecurity - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 32
 
-★ Stars: 87
+★ Stars: 47
 
 [Open repository](https://github.com/lyr408/MobileCyberSecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 47 | 32 | 
 | 2023-04-06 | 87 | 32 | 
 | 2023-04-05 | 87 | 32 | 
 | 2023-04-04 | 87 | 32 | 

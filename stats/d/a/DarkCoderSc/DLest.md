@@ -1,6 +1,6 @@
 # DarkCoderSc/DLest - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 62 | 9 | 
 | 2023-04-06 | 62 | 9 | 
 | 2023-04-05 | 62 | 9 | 
 | 2023-04-03 | 61 | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 58 | 6 | 
 | 2023-03-11 | 58 | 6 | 
 | 2023-03-09 | 58 | 6 | 
-| 2023-03-08 | 58 | 6 | 
 

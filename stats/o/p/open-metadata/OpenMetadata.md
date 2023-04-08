@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 449
 
-★ Stars: 2082
+★ Stars: 2086
 
 [Open repository](https://github.com/open-metadata/OpenMetadata)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 2082 | 449 | 
+| 2023-04-07 | 2086 | 449 | 
 | 2023-04-06 | 2082 | 449 | 
 | 2023-04-04 | 2075 | 447 | 
 | 2023-04-03 | 2070 | 446 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2010 | 417 | 
 | 2023-03-10 | 2009 | 417 | 
 | 2023-03-09 | 2003 | 417 | 
-| 2023-03-08 | 1998 | 417 | 
 

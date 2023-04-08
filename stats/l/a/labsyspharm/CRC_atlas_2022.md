@@ -1,10 +1,10 @@
 # labsyspharm/CRC_atlas_2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/labsyspharm/CRC_atlas_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6 | 3 | 
 | 2023-04-07 | 5 | 3 | 
 | 2023-04-05 | 5 | 3 | 
 | 2023-04-04 | 5 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 5 | 3 | 
 | 2023-03-11 | 5 | 3 | 
 | 2023-03-09 | 5 | 3 | 
-| 2023-03-08 | 5 | 3 | 
 

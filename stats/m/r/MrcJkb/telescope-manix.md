@@ -1,10 +1,10 @@
 # MrcJkb/telescope-manix - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/MrcJkb/telescope-manix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 33 | - | 
 | 2023-04-06 | 32 | - | 
 | 2023-04-05 | 32 | - | 
 | 2023-04-04 | 32 | - | 

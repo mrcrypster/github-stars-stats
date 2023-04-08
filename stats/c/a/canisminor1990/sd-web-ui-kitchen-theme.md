@@ -1,10 +1,10 @@
 # canisminor1990/sd-web-ui-kitchen-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 81
+★ Stars: 83
 
 [Open repository](https://github.com/canisminor1990/sd-web-ui-kitchen-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 83 | 17 | 
 | 2023-04-06 | 81 | 17 | 
 | 2023-04-05 | 79 | 15 | 
 | 2023-04-04 | 78 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 36 | 8 | 
 | 2023-03-11 | 32 | 7 | 
 | 2023-03-10 | 28 | 7 | 
-| 2023-03-08 | 25 | 7 | 
 

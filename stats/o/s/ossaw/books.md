@@ -1,8 +1,8 @@
 # ossaw/books - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 111
+☋ Forks: 114
 
 ★ Stars: 311
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 311 | 114 | 
 | 2023-04-06 | 311 | 111 | 
 | 2023-04-05 | 311 | 111 | 
 | 2023-04-04 | 311 | 112 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 300 | 108 | 
 | 2023-03-11 | 300 | 108 | 
 | 2023-03-10 | 300 | 107 | 
-| 2023-03-08 | 300 | 107 | 
 

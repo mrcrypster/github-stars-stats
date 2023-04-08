@@ -1,10 +1,10 @@
 # sberbank-ai/ru-dalle - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 237
+☋ Forks: 239
 
-★ Stars: 1621
+★ Stars: 1622
 
 [Open repository](https://github.com/sberbank-ai/ru-dalle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1622 | 239 | 
 | 2023-04-06 | 1621 | 237 | 
 | 2023-04-05 | 1621 | 237 | 
 | 2023-04-04 | 1622 | 236 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1612 | 236 | 
 | 2023-03-11 | 1611 | 236 | 
 | 2023-03-10 | 1611 | 236 | 
-| 2023-03-09 | 1611 | 236 | 
 

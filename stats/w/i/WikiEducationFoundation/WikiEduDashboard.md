@@ -1,6 +1,6 @@
 # WikiEducationFoundation/WikiEduDashboard - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 493
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 335 | 493 | 
 | 2023-04-06 | 335 | 493 | 
 | 2023-04-05 | 335 | 493 | 
 | 2023-04-04 | 335 | 492 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 327 | 486 | 
 | 2023-03-12 | 327 | 485 | 
 | 2023-03-10 | 327 | 482 | 
-| 2023-03-09 | 327 | 481 | 
 

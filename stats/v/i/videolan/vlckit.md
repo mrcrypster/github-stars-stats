@@ -1,10 +1,10 @@
 # videolan/vlckit - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 119
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/videolan/vlckit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 387 | 119 | 
 | 2023-04-06 | 386 | 119 | 
 | 2023-04-05 | 386 | 119 | 
 | 2023-04-04 | 386 | 119 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 384 | 119 | 
 | 2023-03-11 | 384 | 119 | 
 | 2023-03-09 | 384 | 119 | 
-| 2023-03-08 | 384 | 119 | 
 

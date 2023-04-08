@@ -1,6 +1,6 @@
 # lorniu/go-translate - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 201 | 24 | 
 | 2023-04-06 | 201 | 24 | 
 | 2023-04-05 | 201 | 24 | 
 | 2023-04-03 | 201 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 199 | 24 | 
 | 2023-03-10 | 199 | 24 | 
 | 2023-03-09 | 199 | 24 | 
-| 2023-03-08 | 199 | 24 | 
 

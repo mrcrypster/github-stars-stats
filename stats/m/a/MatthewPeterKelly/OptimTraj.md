@@ -1,10 +1,10 @@
 # MatthewPeterKelly/OptimTraj - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 176
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/MatthewPeterKelly/OptimTraj)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 439 | 176 | 
 | 2023-04-06 | 438 | 176 | 
 | 2023-04-05 | 437 | 176 | 
 | 2023-04-04 | 436 | 176 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 426 | 174 | 
 | 2023-03-11 | 426 | 174 | 
 | 2023-03-10 | 427 | 174 | 
-| 2023-03-08 | 427 | 174 | 
 

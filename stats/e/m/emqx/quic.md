@@ -1,10 +1,10 @@
 # emqx/quic - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 31
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/emqx/quic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 158 | 31 | 
 | 2023-04-06 | 157 | 31 | 
 | 2023-04-05 | 156 | 31 | 
 | 2023-04-04 | 156 | 31 | 

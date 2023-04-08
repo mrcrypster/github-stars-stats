@@ -1,10 +1,10 @@
 # baggepinnen/static_kalman - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/baggepinnen/static_kalman)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 16 | - | 
 | 2023-04-06 | 15 | - | 
 | 2023-04-05 | 15 | - | 
 | 2023-04-04 | 15 | - | 

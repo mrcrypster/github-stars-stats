@@ -1,10 +1,10 @@
 # moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 102
 
-★ Stars: 265
+★ Stars: 266
 
 [Open repository](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 266 | 102 | 
 | 2023-04-06 | 265 | 102 | 
 | 2023-04-05 | 258 | 99 | 
 

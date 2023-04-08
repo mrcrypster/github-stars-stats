@@ -1,10 +1,10 @@
 # ggerganov/llama.cpp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 2818
+☋ Forks: 2858
 
-★ Stars: 20062
+★ Stars: 20312
 
 [Open repository](https://github.com/ggerganov/llama.cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 20312 | 2858 | 
 | 2023-04-06 | 20062 | 2818 | 
 | 2023-04-05 | 19360 | 2711 | 
 | 2023-04-04 | 19064 | 2629 | 

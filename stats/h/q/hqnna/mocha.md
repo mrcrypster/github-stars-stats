@@ -1,10 +1,10 @@
 # hqnna/mocha - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 21
 
 [Open repository](https://github.com/hqnna/mocha)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 21 | - | 
+| 2023-04-07 | 21 | - | 
 | 2023-04-06 | 16 | - | 
 

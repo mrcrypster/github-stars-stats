@@ -1,8 +1,8 @@
 # appdev-projects/umbrella - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 275
+☋ Forks: 301
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | - | 301 | 
 | 2023-04-06 | - | 275 | 
 | 2023-04-05 | - | 275 | 
 | 2023-04-04 | - | 249 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | - | 225 | 
 | 2023-03-11 | - | 225 | 
 | 2023-03-09 | - | 224 | 
-| 2023-03-08 | - | 224 | 
 

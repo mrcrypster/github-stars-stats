@@ -1,10 +1,10 @@
 # geekr-dev/openai-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 227
+★ Stars: 230
 
 [Open repository](https://github.com/geekr-dev/openai-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 230 | 48 | 
 | 2023-04-06 | 227 | 47 | 
 | 2023-04-05 | 218 | 44 | 
 | 2023-04-04 | 213 | 43 | 

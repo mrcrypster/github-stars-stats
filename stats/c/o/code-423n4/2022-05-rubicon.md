@@ -1,6 +1,6 @@
 # code-423n4/2022-05-rubicon - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3 | 3 | 
 | 2023-04-06 | 3 | 3 | 
 | 2023-04-05 | 3 | 3 | 
 | 2023-04-04 | 3 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3 | 3 | 
 | 2023-03-10 | 3 | 3 | 
 | 2023-03-09 | 3 | 3 | 
-| 2023-03-08 | 3 | 3 | 
 

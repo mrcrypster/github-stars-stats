@@ -1,6 +1,6 @@
 # mateendev3/lets_chat - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 100 | 29 | 
 | 2023-04-06 | 100 | 29 | 
 | 2023-04-05 | 100 | 29 | 
 | 2023-04-04 | 100 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 98 | 29 | 
 | 2023-03-11 | 98 | 29 | 
 | 2023-03-09 | 98 | 29 | 
-| 2023-03-08 | 98 | 29 | 
 

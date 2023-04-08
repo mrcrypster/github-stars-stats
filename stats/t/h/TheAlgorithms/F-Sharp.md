@@ -1,6 +1,6 @@
 # TheAlgorithms/F-Sharp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 177 | 40 | 
 | 2023-04-06 | 177 | 40 | 
 | 2023-04-05 | 177 | 40 | 
 | 2023-04-04 | 177 | 40 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 176 | 40 | 
 | 2023-03-10 | 176 | 41 | 
 | 2023-03-09 | 176 | 41 | 
-| 2023-03-08 | 176 | 41 | 
 

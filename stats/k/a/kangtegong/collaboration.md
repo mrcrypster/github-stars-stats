@@ -1,8 +1,8 @@
 # kangtegong/collaboration - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 305
+☋ Forks: 307
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 22 | 307 | 
 | 2023-04-06 | 22 | 305 | 
 | 2023-04-05 | 22 | 300 | 
 | 2023-04-04 | 23 | 299 | 

@@ -1,6 +1,6 @@
 # tighten/duster - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 276 | 9 | 
 | 2023-04-07 | 276 | 9 | 
 | 2023-04-05 | 276 | 9 | 
 | 2023-04-04 | 275 | 9 | 

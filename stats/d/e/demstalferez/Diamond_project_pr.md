@@ -1,10 +1,10 @@
 # demstalferez/Diamond_project_pr - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 50
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/demstalferez/Diamond_project_pr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 49 | 50 | 
 | 2023-04-06 | 50 | 50 | 
 | 2023-04-05 | 50 | 50 | 
 | 2023-04-04 | 50 | 50 | 

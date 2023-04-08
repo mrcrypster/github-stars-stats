@@ -1,6 +1,6 @@
 # bradtraversy/tailwind-landing-page - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 374
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 374 | 374 | 
 | 2023-04-07 | 374 | 374 | 
 | 2023-04-05 | 373 | 374 | 
 | 2023-04-04 | 373 | 373 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 361 | 355 | 
 | 2023-03-11 | 361 | 355 | 
 | 2023-03-10 | 360 | 356 | 
-| 2023-03-08 | 361 | 356 | 
 

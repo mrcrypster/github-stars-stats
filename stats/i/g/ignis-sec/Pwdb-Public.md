@@ -1,10 +1,10 @@
 # ignis-sec/Pwdb-Public - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 383
 
-★ Stars: 2833
+★ Stars: 2834
 
 [Open repository](https://github.com/ignis-sec/Pwdb-Public)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2834 | 383 | 
 | 2023-04-07 | 2833 | 383 | 
 | 2023-04-06 | 2833 | 383 | 
 | 2023-04-04 | 2834 | 383 | 

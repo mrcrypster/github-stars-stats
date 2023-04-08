@@ -1,6 +1,6 @@
 # ixahmedxi/trashvim - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 114 | 15 | 
 | 2023-04-07 | 114 | 15 | 
 | 2023-04-05 | 114 | 15 | 
 | 2023-04-04 | 109 | 15 | 

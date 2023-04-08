@@ -1,6 +1,6 @@
 # daluobai-devops/jenkins-shared-library - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 23 | 2 | 
 | 2023-04-06 | 23 | 2 | 
 | 2023-04-05 | 23 | 2 | 
 | 2023-04-04 | 22 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 20 | 2 | 
 | 2023-03-11 | 20 | 2 | 
 | 2023-03-10 | 20 | 2 | 
-| 2023-03-08 | 20 | 2 | 
 

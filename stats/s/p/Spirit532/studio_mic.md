@@ -1,10 +1,10 @@
 # Spirit532/studio_mic - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/Spirit532/studio_mic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 91 | 16 | 
 | 2023-04-06 | 90 | 15 | 
 | 2023-04-04 | 89 | 15 | 
 | 2023-04-03 | 89 | 14 | 

@@ -1,6 +1,6 @@
 # Bronsa/om - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 7 | - | 
 | 2023-04-06 | 7 | - | 
 | 2023-04-05 | 7 | - | 
 | 2023-04-04 | 7 | - | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 7 | - | 
 | 2023-03-10 | 7 | - | 
 | 2023-03-09 | 7 | - | 
-| 2023-03-08 | 7 | - | 
 

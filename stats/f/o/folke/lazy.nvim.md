@@ -1,10 +1,10 @@
 # folke/lazy.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 102
 
-★ Stars: 4176
+★ Stars: 4198
 
 [Open repository](https://github.com/folke/lazy.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4198 | 102 | 
 | 2023-04-06 | 4176 | 102 | 
 | 2023-04-05 | 4140 | 101 | 
 | 2023-04-04 | 4124 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 3663 | 82 | 
 | 2023-03-10 | 3639 | 82 | 
 | 2023-03-09 | 3607 | 80 | 
-| 2023-03-08 | 3567 | 80 | 
 

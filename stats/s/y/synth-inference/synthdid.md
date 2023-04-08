@@ -1,10 +1,10 @@
 # synth-inference/synthdid - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 84
+☋ Forks: 83
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/synth-inference/synthdid)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 220 | 83 | 
 | 2023-04-06 | 219 | 84 | 
 | 2023-04-05 | 219 | 84 | 
 

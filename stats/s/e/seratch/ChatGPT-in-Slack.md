@@ -1,10 +1,10 @@
 # seratch/ChatGPT-in-Slack - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/seratch/ChatGPT-in-Slack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 156 | 39 | 
 | 2023-04-06 | 155 | 38 | 
 | 2023-04-05 | 152 | 38 | 
 | 2023-04-04 | 147 | 35 | 

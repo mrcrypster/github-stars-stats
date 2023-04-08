@@ -1,10 +1,10 @@
 # SpruceGabriela/instagram-dio - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 683
+☋ Forks: 684
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/SpruceGabriela/instagram-dio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 234 | 684 | 
 | 2023-04-06 | 233 | 683 | 
 | 2023-04-05 | 233 | 683 | 
 | 2023-04-04 | 233 | 683 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 234 | 689 | 
 | 2023-03-11 | 234 | 689 | 
 | 2023-03-10 | 234 | 689 | 
-| 2023-03-08 | 234 | 689 | 
 

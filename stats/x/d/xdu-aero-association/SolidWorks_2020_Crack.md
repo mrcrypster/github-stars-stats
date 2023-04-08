@@ -1,10 +1,10 @@
 # xdu-aero-association/SolidWorks_2020_Crack - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/xdu-aero-association/SolidWorks_2020_Crack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 23 | 15 | 
 | 2023-04-06 | 22 | 15 | 
 | 2023-04-04 | 22 | 15 | 
 | 2023-04-03 | 22 | 15 | 

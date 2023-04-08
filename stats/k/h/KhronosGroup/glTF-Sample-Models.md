@@ -1,10 +1,10 @@
 # KhronosGroup/glTF-Sample-Models - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1257
+☋ Forks: 1259
 
-★ Stars: 2459
+★ Stars: 2461
 
 [Open repository](https://github.com/KhronosGroup/glTF-Sample-Models)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2461 | 1259 | 
 | 2023-04-06 | 2459 | 1257 | 
 | 2023-04-05 | 2457 | 1255 | 
 | 2023-04-04 | 2455 | 1255 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 2393 | 1237 | 
 | 2023-03-10 | 2391 | 1235 | 
 | 2023-03-09 | 2388 | 1233 | 
-| 2023-03-08 | 2388 | 1233 | 
 

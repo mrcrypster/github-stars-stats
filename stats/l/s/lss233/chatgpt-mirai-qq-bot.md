@@ -1,10 +1,10 @@
 # lss233/chatgpt-mirai-qq-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 427
+☋ Forks: 437
 
-★ Stars: 3982
+★ Stars: 4060
 
 [Open repository](https://github.com/lss233/chatgpt-mirai-qq-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4060 | 437 | 
 | 2023-04-06 | 3982 | 427 | 
 | 2023-04-05 | 3892 | 413 | 
 | 2023-04-04 | 3853 | 411 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 2371 | 249 | 
 | 2023-03-10 | 2309 | 244 | 
 | 2023-03-09 | 2220 | 236 | 
-| 2023-03-08 | 2179 | 231 | 
 

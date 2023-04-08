@@ -1,10 +1,10 @@
 # hollance/neural-engine - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 51
 
-★ Stars: 1460
+★ Stars: 1462
 
 [Open repository](https://github.com/hollance/neural-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1462 | 51 | 
 | 2023-04-06 | 1460 | 51 | 
 | 2023-04-05 | 1455 | 51 | 
 | 2023-04-04 | 1451 | 51 | 

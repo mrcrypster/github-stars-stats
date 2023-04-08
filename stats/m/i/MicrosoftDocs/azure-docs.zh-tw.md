@@ -1,0 +1,18 @@
+# MicrosoftDocs/azure-docs.zh-tw - stars & forks statistics
+
+Stats updated on Apr 2023, 08
+
+☋ Forks: 109
+
+★ Stars: 94
+
+[Open repository](https://github.com/MicrosoftDocs/azure-docs.zh-tw)
+
+[Open detailed stats for MicrosoftDocs/azure-docs.zh-tw](https://reviewgithub.com/rep/MicrosoftDocs/azure-docs.zh-tw)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-08 | 94 | 109 | 
+| 2023-04-07 | 94 | 109 | 
+

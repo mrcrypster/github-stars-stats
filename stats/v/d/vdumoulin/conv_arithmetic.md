@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 2192
 
-★ Stars: 12866
+★ Stars: 12867
 
 [Open repository](https://github.com/vdumoulin/conv_arithmetic)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 12866 | 2192 | 
+| 2023-04-07 | 12867 | 2192 | 
 | 2023-04-06 | 12867 | 2192 | 
 | 2023-04-05 | 12864 | 2192 | 
 | 2023-04-04 | 12860 | 2191 | 

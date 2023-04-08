@@ -1,10 +1,10 @@
 # kamranahmedse/design-patterns-for-humans - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4793
 
-★ Stars: 40228
+★ Stars: 40244
 
 [Open repository](https://github.com/kamranahmedse/design-patterns-for-humans)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 40244 | 4793 | 
 | 2023-04-06 | 40228 | 4793 | 
 | 2023-04-05 | 40213 | 4793 | 
 | 2023-04-04 | 40198 | 4788 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 39235 | 4723 | 
 | 2023-03-10 | 39153 | 4719 | 
 | 2023-03-09 | 39038 | 4711 | 
-| 2023-03-08 | 39001 | 4708 | 
 

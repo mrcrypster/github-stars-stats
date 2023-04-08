@@ -1,10 +1,10 @@
 # monicahq/monica - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1871
+☋ Forks: 1872
 
-★ Stars: 18886
+★ Stars: 18892
 
 [Open repository](https://github.com/monicahq/monica)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 18892 | 1872 | 
 | 2023-04-06 | 18886 | 1871 | 
 | 2023-04-05 | 18883 | 1870 | 
 | 2023-04-04 | 18882 | 1870 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 18794 | 1864 | 
 | 2023-03-11 | 18792 | 1863 | 
 | 2023-03-09 | 18788 | 1860 | 
-| 2023-03-08 | 18780 | 1858 | 
 

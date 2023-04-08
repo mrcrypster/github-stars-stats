@@ -1,10 +1,10 @@
 # TracyWang95/legal-prompts-for-gpt - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 77
 
-★ Stars: 332
+★ Stars: 333
 
 [Open repository](https://github.com/TracyWang95/legal-prompts-for-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 333 | 77 | 
 | 2023-04-06 | 332 | 77 | 
 | 2023-04-05 | 332 | 77 | 
 | 2023-04-04 | 331 | 77 | 

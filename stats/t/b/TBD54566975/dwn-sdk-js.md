@@ -1,10 +1,10 @@
 # TBD54566975/dwn-sdk-js - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 64
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/TBD54566975/dwn-sdk-js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 275 | 64 | 
 | 2023-04-06 | 274 | 64 | 
 | 2023-04-05 | 274 | 64 | 
 | 2023-04-03 | 271 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 267 | 60 | 
 | 2023-03-10 | 267 | 60 | 
 | 2023-03-09 | 267 | 60 | 
-| 2023-03-08 | 267 | 60 | 
 

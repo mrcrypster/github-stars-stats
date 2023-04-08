@@ -1,10 +1,10 @@
 # jcs-elpa/ts-fold - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 22
 
-★ Stars: 78
+★ Stars: 84
 
 [Open repository](https://github.com/jcs-elpa/ts-fold)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 84 | 22 | 
 | 2023-04-06 | 78 | 22 | 
 | 2023-04-05 | 62 | 21 | 
 | 2023-04-04 | 62 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 59 | 19 | 
 | 2023-03-10 | 58 | 19 | 
 | 2023-03-09 | 58 | 19 | 
-| 2023-03-08 | 58 | 19 | 
 

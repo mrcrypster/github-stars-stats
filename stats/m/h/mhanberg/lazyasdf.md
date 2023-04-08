@@ -1,6 +1,6 @@
 # mhanberg/lazyasdf - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 86 | 4 | 
 | 2023-04-06 | 86 | 4 | 
 | 2023-04-05 | 86 | 4 | 
 | 2023-04-04 | 86 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 61 | 3 | 
 | 2023-03-10 | 61 | 3 | 
 | 2023-03-09 | 51 | 3 | 
-| 2023-03-08 | 33 | 2 | 
 

@@ -1,10 +1,10 @@
 # xianshenglu/cloudflare-ip-tester-app - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 35
 
-★ Stars: 200
+★ Stars: 203
 
 [Open repository](https://github.com/xianshenglu/cloudflare-ip-tester-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 203 | 35 | 
 | 2023-04-06 | 200 | 35 | 
 | 2023-04-05 | 198 | 34 | 
 | 2023-04-04 | 198 | 34 | 

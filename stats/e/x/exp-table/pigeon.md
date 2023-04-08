@@ -1,10 +1,10 @@
 # exp-table/pigeon - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/exp-table/pigeon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 88 | 3 | 
 | 2023-04-06 | 87 | 3 | 
 | 2023-04-05 | 87 | 3 | 
 | 2023-04-03 | 87 | 3 | 

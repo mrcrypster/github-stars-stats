@@ -1,10 +1,10 @@
 # 0voice/cpp_new_features - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 667
+☋ Forks: 669
 
-★ Stars: 2937
+★ Stars: 2943
 
 [Open repository](https://github.com/0voice/cpp_new_features)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2943 | 669 | 
 | 2023-04-06 | 2937 | 667 | 
 | 2023-04-05 | 2934 | 666 | 
 | 2023-04-04 | 2929 | 666 | 

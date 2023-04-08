@@ -1,10 +1,10 @@
 # JuliaTopOpt/TopOpt.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 25
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/JuliaTopOpt/TopOpt.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 137 | 25 | 
 | 2023-04-06 | 136 | 25 | 
 | 2023-04-05 | 135 | 25 | 
 | 2023-04-04 | 135 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 133 | 24 | 
 | 2023-03-11 | 133 | 23 | 
 | 2023-03-09 | 131 | 23 | 
-| 2023-03-08 | 130 | 23 | 
 

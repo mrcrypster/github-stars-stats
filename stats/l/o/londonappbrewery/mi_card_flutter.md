@@ -1,6 +1,6 @@
 # londonappbrewery/mi_card_flutter - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1045
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 398 | 1045 | 
 | 2023-04-06 | 398 | 1045 | 
 | 2023-04-05 | 398 | 1045 | 
 | 2023-04-03 | 398 | 1046 | 

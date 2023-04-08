@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 736
 
-★ Stars: 2805
+★ Stars: 2806
 
 [Open repository](https://github.com/sjtug/SJTUThesis)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 2805 | 736 | 
+| 2023-04-07 | 2806 | 736 | 
 | 2023-04-06 | 2805 | 736 | 
 | 2023-04-05 | 2801 | 734 | 
 | 2023-04-04 | 2792 | 734 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2754 | 731 | 
 | 2023-03-10 | 2753 | 731 | 
 | 2023-03-09 | 2754 | 731 | 
-| 2023-03-08 | 2753 | 730 | 
 

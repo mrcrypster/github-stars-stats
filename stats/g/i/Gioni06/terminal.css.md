@@ -1,6 +1,6 @@
 # Gioni06/terminal.css - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 914 | 50 | 
 | 2023-04-06 | 914 | 50 | 
 | 2023-04-05 | 913 | 49 | 
 | 2023-04-04 | 911 | 49 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 895 | 48 | 
 | 2023-03-11 | 895 | 48 | 
 | 2023-03-10 | 895 | 48 | 
-| 2023-03-08 | 894 | 48 | 
 

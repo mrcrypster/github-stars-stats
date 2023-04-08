@@ -1,6 +1,6 @@
 # RforOperations2023/Class-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | - | 8 | 
 | 2023-04-06 | - | 8 | 
 | 2023-04-05 | - | 8 | 
 | 2023-04-03 | - | 8 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | - | 8 | 
 | 2023-03-10 | - | 8 | 
 | 2023-03-09 | - | 8 | 
-| 2023-03-08 | - | 8 | 
 

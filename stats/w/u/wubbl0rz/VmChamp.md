@@ -1,10 +1,10 @@
 # wubbl0rz/VmChamp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/wubbl0rz/VmChamp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 42 | 7 | 
 | 2023-04-06 | 40 | 7 | 
 | 2023-04-05 | 37 | 7 | 
 | 2023-04-04 | 37 | 7 | 

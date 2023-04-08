@@ -1,10 +1,10 @@
 # ruby0x1/machinery_blog_archive - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 43
+☋ Forks: 42
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/ruby0x1/machinery_blog_archive)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 178 | 42 | 
 | 2023-04-06 | 177 | 43 | 
 | 2023-04-05 | 177 | 43 | 
 | 2023-04-03 | 177 | 43 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 175 | 43 | 
 | 2023-03-11 | 175 | 43 | 
 | 2023-03-09 | 175 | 43 | 
-| 2023-03-08 | 176 | 43 | 
 

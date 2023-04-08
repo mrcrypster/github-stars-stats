@@ -1,10 +1,10 @@
 # jcsec-security/solidity-security-teaching-resources - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/jcsec-security/solidity-security-teaching-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 94 | 7 | 
 | 2023-04-06 | 93 | 7 | 
 | 2023-04-05 | 94 | 7 | 
 | 2023-04-04 | 94 | 7 | 

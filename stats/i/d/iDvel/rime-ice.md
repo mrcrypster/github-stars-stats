@@ -1,10 +1,10 @@
 # iDvel/rime-ice - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 157
+☋ Forks: 181
 
-★ Stars: 2071
+★ Stars: 2491
 
 [Open repository](https://github.com/iDvel/rime-ice)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2491 | 181 | 
 | 2023-04-06 | 2071 | 157 | 
 | 2023-04-05 | 1624 | 129 | 
 | 2023-04-04 | 1186 | 100 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 719 | 73 | 
 | 2023-03-10 | 712 | 72 | 
 | 2023-03-09 | 710 | 71 | 
-| 2023-03-08 | 708 | 71 | 
 

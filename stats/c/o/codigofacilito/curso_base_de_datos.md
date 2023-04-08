@@ -1,6 +1,6 @@
 # codigofacilito/curso_base_de_datos - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 83 | 93 | 
 | 2023-04-06 | 83 | 93 | 
 | 2023-04-05 | 83 | 93 | 
 | 2023-04-04 | 83 | 93 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 83 | 89 | 
 | 2023-03-11 | 83 | 89 | 
 | 2023-03-10 | 83 | 89 | 
-| 2023-03-08 | 83 | 88 | 
 

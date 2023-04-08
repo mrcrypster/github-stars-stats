@@ -1,10 +1,8 @@
 # Pabedilan/freeRDP_Pabedilan - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+☋ Forks: 
 
-☋ Forks: 184
-
-★ Stars: 1
+★ Stars: 
 
 [Open repository](https://github.com/Pabedilan/freeRDP_Pabedilan)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 1 | 184 | 
 

@@ -1,10 +1,10 @@
 # AammarTufail/job_ready_datascience_course_120days - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/AammarTufail/job_ready_datascience_course_120days)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 33 | 16 | 
 | 2023-04-06 | 32 | 15 | 
 | 2023-04-05 | 31 | 15 | 
 | 2023-04-04 | 32 | 14 | 

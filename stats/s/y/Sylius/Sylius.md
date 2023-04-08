@@ -1,10 +1,10 @@
 # Sylius/Sylius - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2025
 
-★ Stars: 7286
+★ Stars: 7287
 
 [Open repository](https://github.com/Sylius/Sylius)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 7287 | 2025 | 
 | 2023-04-06 | 7286 | 2025 | 
 | 2023-04-05 | 7286 | 2025 | 
 | 2023-04-04 | 7285 | 2025 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 7251 | 2018 | 
 | 2023-03-10 | 7247 | 2018 | 
 | 2023-03-09 | 7245 | 2016 | 
-| 2023-03-08 | 7243 | 2016 | 
 

@@ -1,6 +1,6 @@
 # sjchoi86/2022-1-deep-learning-applications - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 182 | 21 | 
 | 2023-04-07 | 182 | 21 | 
 | 2023-04-06 | 182 | 21 | 
 | 2023-04-04 | 182 | 21 | 

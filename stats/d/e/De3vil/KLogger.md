@@ -1,10 +1,10 @@
 # De3vil/KLogger - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/De3vil/KLogger)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 115 | 21 | 
 | 2023-04-06 | 114 | 21 | 
 | 2023-04-05 | 114 | 21 | 
 | 2023-04-04 | 114 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 111 | 20 | 
 | 2023-03-11 | 110 | 18 | 
 | 2023-03-10 | 110 | 18 | 
-| 2023-03-08 | 110 | 18 | 
 

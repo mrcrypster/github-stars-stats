@@ -1,10 +1,10 @@
 # WangXuan95/FPGA-MPEG2-encoder - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/WangXuan95/FPGA-MPEG2-encoder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 33 | 4 | 
 | 2023-04-06 | 32 | 4 | 
 | 2023-04-05 | 31 | 4 | 
 | 2023-04-04 | 31 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 27 | 3 | 
 | 2023-03-11 | 27 | 3 | 
 | 2023-03-09 | 27 | 3 | 
-| 2023-03-08 | 26 | 3 | 
 

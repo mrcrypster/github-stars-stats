@@ -1,10 +1,10 @@
 # blizzless/blizzless-diiis - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 271
 
-★ Stars: 1000
+★ Stars: 1003
 
 [Open repository](https://github.com/blizzless/blizzless-diiis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1003 | 271 | 
 | 2023-04-06 | 1000 | 271 | 
 | 2023-04-05 | 1000 | 271 | 
 | 2023-04-04 | 996 | 271 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 951 | 260 | 
 | 2023-03-11 | 950 | 259 | 
 | 2023-03-09 | 946 | 258 | 
-| 2023-03-08 | 945 | 258 | 
 

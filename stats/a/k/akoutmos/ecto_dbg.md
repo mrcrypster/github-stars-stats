@@ -1,6 +1,6 @@
 # akoutmos/ecto_dbg - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 81 | 1 | 
 | 2023-04-06 | 81 | 1 | 
 | 2023-04-05 | 80 | 1 | 
 | 2023-04-04 | 80 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 75 | - | 
 | 2023-03-11 | 75 | - | 
 | 2023-03-09 | 74 | - | 
-| 2023-03-08 | 74 | - | 
 

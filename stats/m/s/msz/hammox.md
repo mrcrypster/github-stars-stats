@@ -1,10 +1,10 @@
 # msz/hammox - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 20
 
-★ Stars: 508
+★ Stars: 510
 
 [Open repository](https://github.com/msz/hammox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 510 | 20 | 
 | 2023-04-06 | 508 | 20 | 
 | 2023-04-05 | 508 | 20 | 
 | 2023-04-04 | 508 | 20 | 

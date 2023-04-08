@@ -1,10 +1,10 @@
 # akto-api-security/akto - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 48
 
-★ Stars: 250
+★ Stars: 254
 
 [Open repository](https://github.com/akto-api-security/akto)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 254 | 48 | 
 | 2023-04-07 | 250 | 48 | 
 | 2023-04-06 | 249 | 48 | 
 | 2023-04-04 | 248 | 48 | 

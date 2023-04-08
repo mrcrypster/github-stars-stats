@@ -1,6 +1,6 @@
 # enhance-dev/enhance-starter-project - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 267 | 8 | 
 | 2023-04-06 | 267 | 8 | 
 | 2023-04-04 | 267 | 8 | 
 | 2023-04-03 | 267 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 267 | 8 | 
 | 2023-03-12 | 267 | 8 | 
 | 2023-03-10 | 267 | 8 | 
-| 2023-03-08 | 267 | 8 | 
 

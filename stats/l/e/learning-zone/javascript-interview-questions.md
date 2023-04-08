@@ -1,8 +1,8 @@
 # learning-zone/javascript-interview-questions - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 546
+☋ Forks: 545
 
 ★ Stars: 1470
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1470 | 545 | 
 | 2023-04-06 | 1470 | 546 | 
 | 2023-04-05 | 1470 | 546 | 
 | 2023-04-04 | 1469 | 546 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1449 | 540 | 
 | 2023-03-10 | 1449 | 539 | 
 | 2023-03-09 | 1448 | 539 | 
-| 2023-03-08 | 1448 | 539 | 
 

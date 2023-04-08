@@ -1,8 +1,8 @@
 # terraform-google-modules/terraform-google-vpn - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 71
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 71 | 74 | 
 | 2023-04-06 | 71 | 73 | 
 | 2023-04-05 | 71 | 73 | 
 | 2023-04-04 | 71 | 73 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 70 | 74 | 
 | 2023-03-11 | 70 | 74 | 
 | 2023-03-09 | 70 | 74 | 
-| 2023-03-08 | 70 | 74 | 
 

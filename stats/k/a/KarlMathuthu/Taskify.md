@@ -1,10 +1,10 @@
 # KarlMathuthu/Taskify - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 8
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/KarlMathuthu/Taskify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 17 | 8 | 
 | 2023-04-06 | 16 | 8 | 
 | 2023-04-05 | 15 | 8 | 
 | 2023-04-04 | 15 | 8 | 

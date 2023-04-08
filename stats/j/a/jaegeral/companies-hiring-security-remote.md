@@ -1,10 +1,10 @@
 # jaegeral/companies-hiring-security-remote - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 65
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/jaegeral/companies-hiring-security-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 343 | 65 | 
 | 2023-04-06 | 342 | 65 | 
 | 2023-04-05 | 342 | 65 | 
 | 2023-04-04 | 342 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 342 | 65 | 
 | 2023-03-11 | 342 | 65 | 
 | 2023-03-10 | 341 | 65 | 
-| 2023-03-08 | 341 | 65 | 
 

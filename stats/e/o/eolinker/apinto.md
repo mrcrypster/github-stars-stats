@@ -1,10 +1,10 @@
 # eolinker/apinto - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 114
+☋ Forks: 113
 
-★ Stars: 659
+★ Stars: 663
 
 [Open repository](https://github.com/eolinker/apinto)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 663 | 113 | 
 | 2023-04-06 | 659 | 114 | 
 | 2023-04-05 | 655 | 112 | 
 | 2023-04-04 | 651 | 112 | 

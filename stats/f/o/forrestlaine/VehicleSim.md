@@ -1,8 +1,8 @@
 # forrestlaine/VehicleSim - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 6
+☋ Forks: 9
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2 | 9 | 
 | 2023-04-06 | 2 | 6 | 
 | 2023-04-05 | 2 | 4 | 
 | 2023-04-04 | 2 | 4 | 

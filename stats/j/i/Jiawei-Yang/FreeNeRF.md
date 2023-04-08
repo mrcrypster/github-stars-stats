@@ -1,10 +1,10 @@
 # Jiawei-Yang/FreeNeRF - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 8
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/Jiawei-Yang/FreeNeRF)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 213 | 8 | 
 | 2023-04-06 | 212 | 8 | 
 | 2023-04-05 | 210 | 8 | 
 | 2023-04-03 | 208 | 7 | 

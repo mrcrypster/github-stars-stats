@@ -1,6 +1,6 @@
 # klezVirus/SilentMoonwalk - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 411 | 70 | 
 | 2023-04-06 | 411 | 70 | 
 | 2023-04-05 | 411 | 70 | 
 | 2023-04-04 | 410 | 70 | 

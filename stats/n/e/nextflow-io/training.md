@@ -1,10 +1,10 @@
 # nextflow-io/training - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 35
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/nextflow-io/training)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 49 | 35 | 
 | 2023-04-06 | 48 | 35 | 
 | 2023-04-05 | 48 | 35 | 
 | 2023-04-04 | 48 | 35 | 

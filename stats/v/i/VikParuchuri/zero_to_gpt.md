@@ -1,6 +1,6 @@
 # VikParuchuri/zero_to_gpt - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 216 | 86 | 
 | 2023-04-06 | 216 | 86 | 
 | 2023-04-05 | 215 | 86 | 
 | 2023-04-04 | 214 | 86 | 

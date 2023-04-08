@@ -1,10 +1,10 @@
 # Nutlope/aicommits - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 4709
+★ Stars: 4722
 
 [Open repository](https://github.com/Nutlope/aicommits)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4722 | 186 | 
 | 2023-04-06 | 4709 | 185 | 
 | 2023-04-05 | 4697 | 184 | 
 | 2023-04-04 | 4684 | 182 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3817 | 146 | 
 | 2023-03-10 | 3783 | 143 | 
 | 2023-03-09 | 3712 | 140 | 
-| 2023-03-08 | 3619 | 138 | 
 

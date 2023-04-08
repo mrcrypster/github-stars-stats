@@ -1,8 +1,8 @@
 # learning-zone/website-templates - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 2751
+☋ Forks: 2755
 
 ★ Stars: 3174
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3174 | 2755 | 
 | 2023-04-06 | 3174 | 2751 | 
 | 2023-04-05 | 3169 | 2749 | 
 | 2023-04-04 | 3167 | 2744 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3088 | 2690 | 
 | 2023-03-11 | 3088 | 2687 | 
 | 2023-03-10 | 3078 | 2685 | 
-| 2023-03-08 | 3072 | 2683 | 
 

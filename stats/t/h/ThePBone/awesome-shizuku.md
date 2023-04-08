@@ -1,10 +1,10 @@
 # ThePBone/awesome-shizuku - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 402
+★ Stars: 411
 
 [Open repository](https://github.com/ThePBone/awesome-shizuku)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 411 | 6 | 
 | 2023-04-06 | 402 | 6 | 
 | 2023-04-05 | 396 | 6 | 
 | 2023-04-04 | 385 | 6 | 

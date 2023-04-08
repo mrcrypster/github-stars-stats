@@ -1,10 +1,10 @@
 # RobinYang11/goji - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 592
+★ Stars: 595
 
 [Open repository](https://github.com/RobinYang11/goji)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 595 | 47 | 
 | 2023-04-06 | 592 | 46 | 
 | 2023-04-05 | 589 | 46 | 
 | 2023-04-04 | 585 | 46 | 

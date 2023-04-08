@@ -1,10 +1,10 @@
 # vlang/ved - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 68
 
-★ Stars: 1207
+★ Stars: 1208
 
 [Open repository](https://github.com/vlang/ved)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1208 | 68 | 
 | 2023-04-06 | 1207 | 68 | 
 | 2023-04-05 | 1206 | 68 | 
 | 2023-04-04 | 1206 | 68 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1193 | 68 | 
 | 2023-03-11 | 1192 | 68 | 
 | 2023-03-10 | 1192 | 68 | 
-| 2023-03-08 | 1190 | 69 | 
 

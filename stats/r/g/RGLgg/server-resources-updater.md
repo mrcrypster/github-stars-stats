@@ -1,10 +1,10 @@
 # RGLgg/server-resources-updater - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/RGLgg/server-resources-updater)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 5 | 6 | 
 | 2023-04-06 | 6 | 6 | 
 | 2023-04-05 | 6 | 6 | 
 | 2023-04-04 | 6 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 6 | 6 | 
 | 2023-03-11 | 6 | 6 | 
 | 2023-03-10 | 6 | 6 | 
-| 2023-03-08 | 6 | 6 | 
 

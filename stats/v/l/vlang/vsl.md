@@ -1,6 +1,6 @@
 # vlang/vsl - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 260 | 35 | 
 | 2023-04-06 | 260 | 35 | 
 | 2023-04-05 | 259 | 35 | 
 | 2023-04-04 | 259 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 248 | 34 | 
 | 2023-03-11 | 246 | 34 | 
 | 2023-03-09 | 243 | 34 | 
-| 2023-03-08 | 243 | 34 | 
 

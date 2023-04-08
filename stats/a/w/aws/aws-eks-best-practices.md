@@ -1,10 +1,10 @@
 # aws/aws-eks-best-practices - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 337
+☋ Forks: 338
 
-★ Stars: 1423
+★ Stars: 1425
 
 [Open repository](https://github.com/aws/aws-eks-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1425 | 338 | 
 | 2023-04-06 | 1423 | 337 | 
 | 2023-04-05 | 1420 | 337 | 
 | 2023-04-03 | 1418 | 337 | 

@@ -1,10 +1,10 @@
 # LemonIT66/idea_activate - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 59
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/LemonIT66/idea_activate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3 | 59 | 
 | 2023-04-06 | 2 | 59 | 
 | 2023-04-05 | 2 | 59 | 
 | 2023-04-04 | 2 | 59 | 

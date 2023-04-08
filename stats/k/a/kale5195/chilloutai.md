@@ -1,10 +1,10 @@
 # kale5195/chilloutai - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 61
+☋ Forks: 68
 
-★ Stars: 560
+★ Stars: 582
 
 [Open repository](https://github.com/kale5195/chilloutai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 582 | 68 | 
 | 2023-04-06 | 560 | 61 | 
 | 2023-04-05 | 550 | 61 | 
 | 2023-04-04 | 502 | 57 | 

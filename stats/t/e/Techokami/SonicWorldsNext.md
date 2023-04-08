@@ -1,10 +1,10 @@
 # Techokami/SonicWorldsNext - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/Techokami/SonicWorldsNext)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 39 | 7 | 
 | 2023-04-06 | 37 | 7 | 
 | 2023-04-05 | 37 | 7 | 
 | 2023-04-04 | 37 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 36 | 6 | 
 | 2023-03-11 | 35 | 6 | 
 | 2023-03-09 | 35 | 6 | 
-| 2023-03-08 | 34 | 6 | 
 

@@ -1,10 +1,10 @@
 # 26F-Studio/Techmino - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 46
+☋ Forks: 45
 
-★ Stars: 293
+★ Stars: 295
 
 [Open repository](https://github.com/26F-Studio/Techmino)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 295 | 45 | 
 | 2023-04-06 | 293 | 46 | 
 | 2023-04-05 | 293 | 46 | 
 | 2023-04-04 | 293 | 46 | 

@@ -1,8 +1,8 @@
 # Djemchik/AkatsukiRDP - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1 | 70 | 
 | 2023-04-06 | 1 | 69 | 
 | 2023-04-05 | 1 | 69 | 
 | 2023-04-04 | 1 | 69 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1 | 62 | 
 | 2023-03-11 | 1 | 60 | 
 | 2023-03-09 | 1 | 59 | 
-| 2023-03-08 | 1 | 59 | 
 

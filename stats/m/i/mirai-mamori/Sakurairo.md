@@ -1,6 +1,6 @@
 # mirai-mamori/Sakurairo - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 280
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1869 | 280 | 
 | 2023-04-06 | 1869 | 280 | 
 | 2023-04-05 | 1867 | 280 | 
 | 2023-04-04 | 1865 | 280 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1809 | 274 | 
 | 2023-03-11 | 1807 | 274 | 
 | 2023-03-10 | 1805 | 274 | 
-| 2023-03-08 | 1802 | 274 | 
 

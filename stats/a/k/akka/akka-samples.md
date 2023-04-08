@@ -1,6 +1,6 @@
 # akka/akka-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 435
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 766 | 435 | 
 | 2023-04-06 | 766 | 435 | 
 | 2023-04-05 | 766 | 435 | 
 | 2023-04-04 | 766 | 435 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 767 | 433 | 
 | 2023-03-11 | 768 | 433 | 
 | 2023-03-10 | 768 | 433 | 
-| 2023-03-08 | 768 | 433 | 
 

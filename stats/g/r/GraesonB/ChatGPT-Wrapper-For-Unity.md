@@ -1,10 +1,10 @@
 # GraesonB/ChatGPT-Wrapper-For-Unity - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 181
+★ Stars: 185
 
 [Open repository](https://github.com/GraesonB/ChatGPT-Wrapper-For-Unity)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 185 | 27 | 
 | 2023-04-06 | 181 | 26 | 
 | 2023-04-05 | 180 | 25 | 
 | 2023-04-04 | 173 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 101 | 20 | 
 | 2023-03-10 | 96 | 16 | 
 | 2023-03-09 | 93 | 15 | 
-| 2023-03-08 | 89 | 15 | 
 

@@ -1,10 +1,10 @@
 # readthedocs/sphinx_rtd_theme - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1740
 
-★ Stars: 4339
+★ Stars: 4340
 
 [Open repository](https://github.com/readthedocs/sphinx_rtd_theme)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 4339 | 1740 | 
+| 2023-04-08 | 4340 | 1740 | 
+| 2023-04-07 | 4340 | 1740 | 
 | 2023-04-06 | 4339 | 1740 | 
 | 2023-04-05 | 4338 | 1741 | 
 | 2023-04-04 | 4335 | 1742 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 4317 | 1731 | 
 | 2023-03-10 | 4317 | 1731 | 
 | 2023-03-09 | 4315 | 1731 | 
-| 2023-03-08 | 4315 | 1730 | 
 

@@ -1,10 +1,10 @@
 # MoyGcc/vid2avatar - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 13
 
-★ Stars: 427
+★ Stars: 430
 
 [Open repository](https://github.com/MoyGcc/vid2avatar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 430 | 13 | 
 | 2023-04-06 | 427 | 13 | 
 | 2023-04-05 | 427 | 12 | 
 | 2023-04-04 | 424 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 365 | 6 | 
 | 2023-03-11 | 354 | 4 | 
 | 2023-03-10 | 349 | 4 | 
-| 2023-03-09 | 342 | 4 | 
 

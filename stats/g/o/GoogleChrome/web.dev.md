@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 1652
 
-★ Stars: 3292
+★ Stars: 3294
 
 [Open repository](https://github.com/GoogleChrome/web.dev)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 3292 | 1652 | 
+| 2023-04-07 | 3294 | 1652 | 
 | 2023-04-06 | 3292 | 1652 | 
 | 2023-04-05 | 3291 | 1650 | 
 | 2023-04-04 | 3280 | 1644 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-11 | 3248 | 1622 | 
 | 2023-03-10 | 3247 | 1622 | 
 | 2023-03-09 | 3243 | 1622 | 
-| 2023-03-08 | 3240 | 1621 | 
 

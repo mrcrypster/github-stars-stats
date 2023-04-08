@@ -1,10 +1,10 @@
 # starknet-edu/basecamp - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 40
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/starknet-edu/basecamp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 143 | 40 | 
 | 2023-04-07 | 142 | 40 | 
 | 2023-04-06 | 142 | 40 | 
 | 2023-04-04 | 140 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 133 | 38 | 
 | 2023-03-11 | 132 | 37 | 
 | 2023-03-10 | 131 | 37 | 
-| 2023-03-08 | 131 | 37 | 
 

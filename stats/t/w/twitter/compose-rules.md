@@ -1,10 +1,10 @@
 # twitter/compose-rules - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 65
 
-★ Stars: 1209
+★ Stars: 1212
 
 [Open repository](https://github.com/twitter/compose-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1212 | 65 | 
 | 2023-04-06 | 1209 | 65 | 
 | 2023-04-05 | 1206 | 65 | 
 | 2023-04-04 | 1204 | 64 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 1186 | 57 | 
 | 2023-03-11 | 1187 | 57 | 
 | 2023-03-10 | 1184 | 57 | 
-| 2023-03-08 | 1184 | 57 | 
 

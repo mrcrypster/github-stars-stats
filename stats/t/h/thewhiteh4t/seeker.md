@@ -1,10 +1,10 @@
 # thewhiteh4t/seeker - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1360
 
-★ Stars: 4682
+★ Stars: 4684
 
 [Open repository](https://github.com/thewhiteh4t/seeker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4684 | 1360 | 
 | 2023-04-06 | 4682 | 1360 | 
 | 2023-04-05 | 4675 | 1360 | 
 | 2023-04-04 | 4671 | 1360 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 4538 | 1334 | 
 | 2023-03-10 | 4531 | 1332 | 
 | 2023-03-09 | 4524 | 1332 | 
-| 2023-03-08 | 4522 | 1332 | 
 

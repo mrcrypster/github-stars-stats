@@ -1,8 +1,8 @@
 # cisco/cisco-mibs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 65
+☋ Forks: 67
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 53 | 67 | 
 | 2023-04-06 | 53 | 65 | 
 | 2023-04-05 | 53 | 65 | 
 | 2023-04-03 | 53 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 50 | 61 | 
 | 2023-03-11 | 50 | 61 | 
 | 2023-03-09 | 50 | 61 | 
-| 2023-03-08 | 50 | 61 | 
 

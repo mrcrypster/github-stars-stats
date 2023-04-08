@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 26
 
-★ Stars: 398
+★ Stars: 399
 
 [Open repository](https://github.com/saitamasahil/Pixel-Launcher-Extended)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 398 | 26 | 
+| 2023-04-07 | 399 | 26 | 
 | 2023-04-06 | 398 | 26 | 
 | 2023-04-05 | 386 | 26 | 
 | 2023-04-04 | 370 | 26 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 257 | 24 | 
 | 2023-03-11 | 254 | 24 | 
 | 2023-03-09 | 252 | 24 | 
-| 2023-03-08 | 251 | 24 | 
 

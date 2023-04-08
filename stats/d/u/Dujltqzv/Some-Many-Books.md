@@ -1,10 +1,10 @@
 # Dujltqzv/Some-Many-Books - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 889
+☋ Forks: 891
 
-★ Stars: 4961
+★ Stars: 4972
 
 [Open repository](https://github.com/Dujltqzv/Some-Many-Books)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 4972 | 891 | 
 | 2023-04-06 | 4961 | 889 | 
 | 2023-04-05 | 4945 | 884 | 
 | 2023-04-04 | 4937 | 883 | 

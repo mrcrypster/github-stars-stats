@@ -1,6 +1,6 @@
 # betaveros/noulith - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 978 | 15 | 
 | 2023-04-06 | 978 | 15 | 
 | 2023-04-05 | 978 | 15 | 
 | 2023-04-04 | 978 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 969 | 16 | 
 | 2023-03-11 | 968 | 16 | 
 | 2023-03-10 | 966 | 16 | 
-| 2023-03-08 | 966 | 16 | 
 

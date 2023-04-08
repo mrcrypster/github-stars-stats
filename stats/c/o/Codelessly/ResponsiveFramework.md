@@ -1,8 +1,8 @@
 # Codelessly/ResponsiveFramework - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 125
+☋ Forks: 126
 
 ★ Stars: 996
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 996 | 126 | 
 | 2023-04-06 | 996 | 125 | 
 | 2023-04-05 | 995 | 125 | 
 | 2023-04-03 | 995 | 125 | 

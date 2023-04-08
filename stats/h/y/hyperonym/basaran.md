@@ -1,10 +1,10 @@
 # hyperonym/basaran - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 470
+★ Stars: 474
 
 [Open repository](https://github.com/hyperonym/basaran)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 474 | 23 | 
 | 2023-04-06 | 470 | 22 | 
 | 2023-04-05 | 463 | 22 | 
 | 2023-04-04 | 460 | 22 | 

@@ -1,8 +1,8 @@
 # SnosMe/awakened-poe-trade - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 290
+☋ Forks: 291
 
 ★ Stars: 1459
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1459 | 291 | 
 | 2023-04-06 | 1459 | 290 | 
 | 2023-04-05 | 1454 | 289 | 
 | 2023-04-03 | 1453 | 289 | 

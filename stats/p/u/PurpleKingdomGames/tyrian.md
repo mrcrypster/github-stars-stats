@@ -1,10 +1,10 @@
 # PurpleKingdomGames/tyrian - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 13
 
-★ Stars: 194
+★ Stars: 196
 
 [Open repository](https://github.com/PurpleKingdomGames/tyrian)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 196 | 13 | 
 | 2023-04-06 | 194 | 13 | 
 | 2023-04-05 | 194 | 13 | 
 | 2023-04-03 | 194 | 13 | 

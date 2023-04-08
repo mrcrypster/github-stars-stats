@@ -1,8 +1,8 @@
 # sholafalana/MT5-MT4-Telegram-API-Bot - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 89 | 114 | 
 | 2023-04-06 | 89 | 113 | 
 | 2023-04-05 | 89 | 113 | 
 | 2023-04-04 | 89 | 113 | 

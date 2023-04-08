@@ -1,6 +1,6 @@
 # NelosG/fp-tests - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 30 | 10 | 
 | 2023-04-06 | 30 | 10 | 
 | 2023-04-05 | 30 | 10 | 
 | 2023-04-04 | 30 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 30 | 10 | 
 | 2023-03-11 | 30 | 10 | 
 | 2023-03-10 | 30 | 10 | 
-| 2023-03-09 | 30 | 10 | 
 

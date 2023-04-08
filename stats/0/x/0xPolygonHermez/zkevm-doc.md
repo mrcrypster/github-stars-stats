@@ -1,10 +1,10 @@
 # 0xPolygonHermez/zkevm-doc - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 12
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/0xPolygonHermez/zkevm-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 39 | 12 | 
 | 2023-04-06 | 38 | 12 | 
 | 2023-04-05 | 38 | 12 | 
 | 2023-04-04 | 38 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 37 | 10 | 
 | 2023-03-11 | 37 | 10 | 
 | 2023-03-09 | 37 | 10 | 
-| 2023-03-08 | 37 | 10 | 
 

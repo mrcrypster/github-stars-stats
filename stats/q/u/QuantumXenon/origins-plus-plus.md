@@ -1,10 +1,10 @@
 # QuantumXenon/origins-plus-plus - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 13
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/QuantumXenon/origins-plus-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 7 | 13 | 
 | 2023-04-06 | 6 | 13 | 
 | 2023-04-05 | 6 | 12 | 
 | 2023-04-04 | 6 | 12 | 

@@ -1,10 +1,10 @@
 # StuartJO/BrainSurfaceAnimation - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/StuartJO/BrainSurfaceAnimation)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 28 | - | 
 | 2023-04-06 | 27 | - | 
 

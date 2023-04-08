@@ -1,8 +1,8 @@
 # motianjun4/ChatGPT_Chatbot - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 107
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 107 | 22 | 
 | 2023-04-06 | 107 | 21 | 
 | 2023-04-05 | 106 | 21 | 
 | 2023-04-04 | 105 | 20 | 

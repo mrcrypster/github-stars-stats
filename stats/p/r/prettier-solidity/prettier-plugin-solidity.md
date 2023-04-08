@@ -1,6 +1,6 @@
 # prettier-solidity/prettier-plugin-solidity - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 649 | 71 | 
 | 2023-04-06 | 649 | 71 | 
 | 2023-04-05 | 649 | 71 | 
 | 2023-04-04 | 649 | 70 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 641 | 67 | 
 | 2023-03-11 | 641 | 67 | 
 | 2023-03-10 | 640 | 67 | 
-| 2023-03-09 | 640 | 67 | 
 

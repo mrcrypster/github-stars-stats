@@ -1,10 +1,10 @@
 # messari/subgraphs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 170
 
-★ Stars: 376
+★ Stars: 377
 
 [Open repository](https://github.com/messari/subgraphs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 377 | 170 | 
 | 2023-04-06 | 376 | 170 | 
 | 2023-04-05 | 376 | 169 | 
 | 2023-04-04 | 376 | 169 | 

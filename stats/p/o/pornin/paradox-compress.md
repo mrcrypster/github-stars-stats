@@ -1,6 +1,6 @@
 # pornin/paradox-compress - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 170 | 3 | 
 | 2023-04-06 | 170 | 3 | 
 | 2023-04-05 | 170 | 3 | 
 | 2023-04-03 | 170 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 169 | 3 | 
 | 2023-03-11 | 169 | 3 | 
 | 2023-03-10 | 169 | 3 | 
-| 2023-03-08 | 169 | 3 | 
 

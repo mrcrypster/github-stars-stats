@@ -1,10 +1,10 @@
 # MarsX-dev/floatui - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
-☋ Forks: 162
+☋ Forks: 165
 
-★ Stars: 1420
+★ Stars: 1429
 
 [Open repository](https://github.com/MarsX-dev/floatui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1429 | 165 | 
 | 2023-04-06 | 1420 | 162 | 
 | 2023-04-05 | 1413 | 160 | 
 | 2023-04-04 | 1405 | 158 | 

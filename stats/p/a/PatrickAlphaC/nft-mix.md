@@ -1,6 +1,6 @@
 # PatrickAlphaC/nft-mix - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 418
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 804 | 418 | 
 | 2023-04-06 | 804 | 418 | 
 | 2023-04-05 | 804 | 418 | 
 | 2023-04-04 | 804 | 418 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 807 | 419 | 
 | 2023-03-11 | 807 | 418 | 
 | 2023-03-10 | 808 | 418 | 
-| 2023-03-09 | 808 | 418 | 
 

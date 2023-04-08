@@ -1,10 +1,10 @@
 # XD-DENG/SQL-exercise - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 547
 
-★ Stars: 1127
+★ Stars: 1128
 
 [Open repository](https://github.com/XD-DENG/SQL-exercise)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1128 | 547 | 
 | 2023-04-06 | 1127 | 547 | 
 | 2023-04-05 | 1125 | 546 | 
 | 2023-04-04 | 1125 | 546 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1115 | 538 | 
 | 2023-03-11 | 1115 | 538 | 
 | 2023-03-10 | 1115 | 538 | 
-| 2023-03-08 | 1114 | 539 | 
 

@@ -1,6 +1,6 @@
 # ACIPL/MPC4AMVs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 19 | 4 | 
 | 2023-04-06 | 19 | 4 | 
 | 2023-04-05 | 19 | 4 | 
 | 2023-04-04 | 19 | 4 | 

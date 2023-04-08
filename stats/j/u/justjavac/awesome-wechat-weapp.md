@@ -1,10 +1,10 @@
 # justjavac/awesome-wechat-weapp - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 8242
+☋ Forks: 8240
 
-★ Stars: 40641
+★ Stars: 40661
 
 [Open repository](https://github.com/justjavac/awesome-wechat-weapp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 40661 | 8240 | 
 | 2023-04-06 | 40641 | 8242 | 
 | 2023-04-05 | 40628 | 8242 | 
 | 2023-04-03 | 40614 | 8242 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 40328 | 8223 | 
 | 2023-03-11 | 40315 | 8224 | 
 | 2023-03-09 | 40301 | 8223 | 
-| 2023-03-08 | 40283 | 8218 | 
 

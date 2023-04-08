@@ -1,6 +1,6 @@
 # square/retrofit - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 7249
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 41374 | 7249 | 
 | 2023-04-06 | 41374 | 7249 | 
 | 2023-04-05 | 41365 | 7249 | 
 | 2023-04-04 | 41357 | 7250 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 41254 | 7242 | 
 | 2023-03-11 | 41254 | 7242 | 
 | 2023-03-09 | 41246 | 7241 | 
-| 2023-03-08 | 41239 | 7240 | 
 

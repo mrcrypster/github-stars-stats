@@ -1,10 +1,10 @@
 # doczjs/docz - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 1499
+☋ Forks: 1498
 
-★ Stars: 23185
+★ Stars: 23186
 
 [Open repository](https://github.com/doczjs/docz)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 23186 | 1498 | 
 | 2023-04-06 | 23185 | 1499 | 
 | 2023-04-05 | 23180 | 1499 | 
 | 2023-04-04 | 23183 | 1499 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 23133 | 1500 | 
 | 2023-03-10 | 23133 | 1500 | 
 | 2023-03-09 | 23131 | 1501 | 
-| 2023-03-08 | 23130 | 1500 | 
 

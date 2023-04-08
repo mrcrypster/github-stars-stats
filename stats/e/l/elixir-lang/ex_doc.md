@@ -1,10 +1,10 @@
 # elixir-lang/ex_doc - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 283
 
-★ Stars: 1290
+★ Stars: 1292
 
 [Open repository](https://github.com/elixir-lang/ex_doc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1292 | 283 | 
 | 2023-04-06 | 1290 | 283 | 
 | 2023-04-05 | 1289 | 283 | 
 | 2023-04-04 | 1288 | 283 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 1279 | 279 | 
 | 2023-03-11 | 1279 | 279 | 
 | 2023-03-10 | 1280 | 279 | 
-| 2023-03-08 | 1280 | 279 | 
 

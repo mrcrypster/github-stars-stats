@@ -1,6 +1,6 @@
 # ryoppippi/Ray-Tracing-in-One-Weekend.zig - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 16 | 2 | 
 | 2023-04-06 | 16 | 2 | 
 | 2023-04-05 | 16 | 2 | 
 | 2023-04-04 | 16 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 16 | 2 | 
 | 2023-03-10 | 16 | 2 | 
 | 2023-03-09 | 16 | 2 | 
-| 2023-03-08 | 16 | 2 | 
 

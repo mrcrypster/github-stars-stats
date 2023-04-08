@@ -1,6 +1,6 @@
 # bullet-train-co/bullet_train-core - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 10 | 19 | 
 | 2023-04-06 | 10 | 19 | 
 | 2023-04-05 | 10 | 19 | 
 | 2023-04-04 | 10 | 19 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 7 | 16 | 
 | 2023-03-11 | 8 | 16 | 
 | 2023-03-10 | 6 | 16 | 
-| 2023-03-09 | 6 | 16 | 
 

@@ -1,6 +1,6 @@
 # VoltageOS-Devices/vendor_xiaomi_sweet - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | - | 3 | 
 | 2023-04-06 | - | 3 | 
 

@@ -1,10 +1,10 @@
 # ashawkey/nerf2mesh - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 262
+★ Stars: 265
 
 [Open repository](https://github.com/ashawkey/nerf2mesh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 265 | 17 | 
 | 2023-04-06 | 262 | 17 | 
 | 2023-04-05 | 259 | 17 | 
 | 2023-04-04 | 256 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 165 | 9 | 
 | 2023-03-10 | 162 | 8 | 
 | 2023-03-09 | 151 | 6 | 
-| 2023-03-08 | 146 | 6 | 
 

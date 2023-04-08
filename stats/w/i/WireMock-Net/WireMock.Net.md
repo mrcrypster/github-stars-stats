@@ -1,6 +1,6 @@
 # WireMock-Net/WireMock.Net - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 1043 | 167 | 
 | 2023-04-06 | 1043 | 167 | 
 | 2023-04-05 | 1041 | 168 | 
 | 2023-04-04 | 1035 | 167 | 

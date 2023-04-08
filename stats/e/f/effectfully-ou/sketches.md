@@ -1,6 +1,6 @@
 # effectfully-ou/sketches - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 115 | 4 | 
 | 2023-04-06 | 115 | 4 | 
 | 2023-04-05 | 115 | 4 | 
 | 2023-04-04 | 115 | 4 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 114 | 4 | 
 | 2023-03-11 | 114 | 4 | 
 | 2023-03-10 | 114 | 4 | 
-| 2023-03-08 | 114 | 4 | 
 

@@ -1,10 +1,10 @@
 # nagadomi/waifu2x - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2684
 
-★ Stars: 25947
+★ Stars: 25948
 
 [Open repository](https://github.com/nagadomi/waifu2x)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 25948 | 2684 | 
 | 2023-04-06 | 25947 | 2684 | 
 | 2023-04-05 | 25943 | 2684 | 
 | 2023-04-04 | 25928 | 2684 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 25768 | 2682 | 
 | 2023-03-11 | 25759 | 2681 | 
 | 2023-03-10 | 25746 | 2681 | 
-| 2023-03-09 | 25738 | 2682 | 
 

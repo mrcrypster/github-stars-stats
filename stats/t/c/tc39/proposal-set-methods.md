@@ -1,10 +1,10 @@
 # tc39/proposal-set-methods - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 21
 
-★ Stars: 419
+★ Stars: 420
 
 [Open repository](https://github.com/tc39/proposal-set-methods)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 420 | 21 | 
 | 2023-04-06 | 419 | 21 | 
 | 2023-04-05 | 416 | 21 | 
 | 2023-04-04 | 415 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 411 | 22 | 
 | 2023-03-10 | 408 | 22 | 
 | 2023-03-09 | 407 | 22 | 
-| 2023-03-08 | 407 | 22 | 
 

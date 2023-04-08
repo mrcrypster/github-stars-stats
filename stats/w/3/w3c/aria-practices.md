@@ -1,8 +1,8 @@
 # w3c/aria-practices - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 235
+☋ Forks: 234
 
 ★ Stars: 995
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 995 | 234 | 
 | 2023-04-06 | 995 | 235 | 
 | 2023-04-05 | 993 | 234 | 
 | 2023-04-04 | 992 | 233 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 976 | 230 | 
 | 2023-03-11 | 975 | 230 | 
 | 2023-03-10 | 974 | 230 | 
-| 2023-03-09 | 973 | 230 | 
 

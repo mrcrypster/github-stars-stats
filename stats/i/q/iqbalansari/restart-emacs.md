@@ -1,6 +1,6 @@
 # iqbalansari/restart-emacs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 140 | 15 | 
 | 2023-04-06 | 140 | 15 | 
 | 2023-04-05 | 139 | 15 | 
 | 2023-04-04 | 139 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 137 | 15 | 
 | 2023-03-10 | 137 | 15 | 
 | 2023-03-09 | 136 | 15 | 
-| 2023-03-08 | 136 | 15 | 
 

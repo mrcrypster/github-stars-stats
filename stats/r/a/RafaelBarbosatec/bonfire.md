@@ -1,10 +1,10 @@
 # RafaelBarbosatec/bonfire - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 144
+☋ Forks: 146
 
-★ Stars: 894
+★ Stars: 895
 
 [Open repository](https://github.com/RafaelBarbosatec/bonfire)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 895 | 146 | 
 | 2023-04-06 | 894 | 144 | 
 | 2023-04-05 | 892 | 144 | 
 | 2023-04-04 | 892 | 144 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 869 | 137 | 
 | 2023-03-11 | 868 | 137 | 
 | 2023-03-10 | 867 | 137 | 
-| 2023-03-08 | 866 | 137 | 
 

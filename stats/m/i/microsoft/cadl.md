@@ -1,8 +1,8 @@
 # microsoft/cadl - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 76
+☋ Forks: 77
 
 ★ Stars: 686
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 686 | 77 | 
 | 2023-04-06 | 686 | 76 | 
 | 2023-04-05 | 682 | 76 | 
 | 2023-04-04 | 681 | 76 | 

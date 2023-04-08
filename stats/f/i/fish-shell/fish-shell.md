@@ -1,10 +1,10 @@
 # fish-shell/fish-shell - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1702
+☋ Forks: 1703
 
-★ Stars: 21292
+★ Stars: 21302
 
 [Open repository](https://github.com/fish-shell/fish-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 21302 | 1703 | 
 | 2023-04-07 | 21292 | 1702 | 
 | 2023-04-05 | 21287 | 1702 | 
 | 2023-04-04 | 21282 | 1702 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 21122 | 1693 | 
 | 2023-03-11 | 21118 | 1693 | 
 | 2023-03-10 | 21110 | 1693 | 
-| 2023-03-08 | 21097 | 1690 | 
 

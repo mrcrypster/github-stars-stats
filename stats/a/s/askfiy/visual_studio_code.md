@@ -1,6 +1,6 @@
 # askfiy/visual_studio_code - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 42 | 2 | 
 | 2023-04-06 | 42 | 2 | 
 | 2023-04-05 | 42 | 2 | 
 | 2023-04-04 | 42 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 40 | 2 | 
 | 2023-03-11 | 40 | 2 | 
 | 2023-03-10 | 40 | 2 | 
-| 2023-03-09 | 40 | 2 | 
 

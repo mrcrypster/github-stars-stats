@@ -1,6 +1,6 @@
 # BzzzThe18th/UnstrippedLibInstaller2019.3.15 - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3 | 6 | 
 | 2023-04-06 | 3 | 6 | 
 | 2023-04-05 | 3 | 6 | 
 | 2023-04-04 | 3 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3 | 5 | 
 | 2023-03-11 | 3 | 5 | 
 | 2023-03-10 | 3 | 5 | 
-| 2023-03-08 | 3 | 5 | 
 

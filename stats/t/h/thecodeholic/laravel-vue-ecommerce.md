@@ -1,8 +1,8 @@
 # thecodeholic/laravel-vue-ecommerce - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 218
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 218 | 65 | 
 | 2023-04-06 | 218 | 64 | 
 | 2023-04-05 | 217 | 63 | 
 | 2023-04-04 | 215 | 62 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 186 | 56 | 
 | 2023-03-10 | 185 | 56 | 
 | 2023-03-09 | 185 | 56 | 
-| 2023-03-08 | 185 | 53 | 
 

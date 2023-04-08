@@ -1,10 +1,10 @@
 # CloudSkills/Terraform-Projects - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 168
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/CloudSkills/Terraform-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 73 | 168 | 
 | 2023-04-06 | 72 | 168 | 
 | 2023-04-05 | 72 | 168 | 
 | 2023-04-04 | 72 | 168 | 

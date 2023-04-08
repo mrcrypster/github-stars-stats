@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 960
 
-★ Stars: 11926
+★ Stars: 11929
 
 [Open repository](https://github.com/bytecodealliance/wasmtime)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 11926 | 960 | 
+| 2023-04-07 | 11929 | 960 | 
 | 2023-04-06 | 11925 | 960 | 
 | 2023-04-05 | 11918 | 956 | 
 | 2023-04-04 | 11910 | 954 | 

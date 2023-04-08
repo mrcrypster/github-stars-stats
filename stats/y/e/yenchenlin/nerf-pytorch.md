@@ -1,10 +1,10 @@
 # yenchenlin/nerf-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 752
+☋ Forks: 753
 
-★ Stars: 3555
+★ Stars: 3562
 
 [Open repository](https://github.com/yenchenlin/nerf-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3562 | 753 | 
 | 2023-04-06 | 3555 | 752 | 
 | 2023-04-05 | 3549 | 752 | 
 | 2023-04-04 | 3547 | 751 | 

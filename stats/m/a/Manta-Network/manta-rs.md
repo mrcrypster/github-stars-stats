@@ -1,6 +1,6 @@
 # Manta-Network/manta-rs - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 43 | 29 | 
 | 2023-04-06 | 43 | 29 | 
 | 2023-04-05 | 43 | 29 | 
 | 2023-04-03 | 43 | 29 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 43 | 27 | 
 | 2023-03-11 | 43 | 27 | 
 | 2023-03-10 | 43 | 27 | 
-| 2023-03-08 | 43 | 27 | 
 

@@ -1,10 +1,10 @@
 # spandex-project/spandex - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 51
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/spandex-project/spandex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 312 | 51 | 
 | 2023-04-06 | 311 | 51 | 
 | 2023-04-05 | 311 | 51 | 
 | 2023-04-04 | 311 | 51 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 310 | 51 | 
 | 2023-03-11 | 310 | 51 | 
 | 2023-03-10 | 310 | 51 | 
-| 2023-03-08 | 310 | 51 | 
 

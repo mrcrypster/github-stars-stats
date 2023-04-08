@@ -1,10 +1,10 @@
 # xditya/ChannelActionsBot - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 66
+★ Stars: 68
 
 [Open repository](https://github.com/xditya/ChannelActionsBot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 68 | 129 | 
 | 2023-04-06 | 66 | 128 | 
 | 2023-04-05 | 66 | 128 | 
 | 2023-04-04 | 66 | 128 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 65 | 122 | 
 | 2023-03-10 | 65 | 122 | 
 | 2023-03-09 | 65 | 122 | 
-| 2023-03-08 | 65 | 122 | 
 

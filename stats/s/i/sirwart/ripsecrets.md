@@ -1,10 +1,10 @@
 # sirwart/ripsecrets - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 618
+★ Stars: 619
 
 [Open repository](https://github.com/sirwart/ripsecrets)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 619 | 14 | 
 | 2023-04-06 | 618 | 14 | 
 | 2023-04-05 | 618 | 14 | 
 | 2023-04-04 | 618 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 616 | 14 | 
 | 2023-03-11 | 616 | 14 | 
 | 2023-03-10 | 615 | 14 | 
-| 2023-03-08 | 615 | 14 | 
 

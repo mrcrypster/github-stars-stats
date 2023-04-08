@@ -1,6 +1,6 @@
 # celer-network/sgn-v2-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 92 | 64 | 
 | 2023-04-06 | 92 | 64 | 
 | 2023-04-05 | 91 | 64 | 
 | 2023-04-04 | 89 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 84 | 58 | 
 | 2023-03-11 | 84 | 58 | 
 | 2023-03-09 | 83 | 58 | 
-| 2023-03-08 | 83 | 58 | 
 

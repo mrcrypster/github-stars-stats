@@ -1,10 +1,10 @@
 # latitudegames/GPT-3-Encoder - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 361
+★ Stars: 369
 
 [Open repository](https://github.com/latitudegames/GPT-3-Encoder)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 369 | 143 | 
 | 2023-04-06 | 361 | 142 | 
 

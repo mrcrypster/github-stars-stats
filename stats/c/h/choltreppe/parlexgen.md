@@ -1,6 +1,6 @@
 # choltreppe/parlexgen - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 20 | 1 | 
 | 2023-04-06 | 20 | 1 | 
 | 2023-04-05 | 20 | 1 | 
 | 2023-04-04 | 20 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 17 | 1 | 
 | 2023-03-11 | 17 | 1 | 
 | 2023-03-10 | 17 | 1 | 
-| 2023-03-08 | 17 | 1 | 
 

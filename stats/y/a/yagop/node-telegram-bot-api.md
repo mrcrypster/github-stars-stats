@@ -1,10 +1,10 @@
 # yagop/node-telegram-bot-api - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1377
 
-★ Stars: 7013
+★ Stars: 7014
 
 [Open repository](https://github.com/yagop/node-telegram-bot-api)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 7014 | 1377 | 
 | 2023-04-06 | 7013 | 1377 | 
 | 2023-04-05 | 7008 | 1377 | 
 | 2023-04-04 | 7002 | 1377 | 

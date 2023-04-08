@@ -1,8 +1,8 @@
 # clayh53/tufte-jekyll - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 197
+☋ Forks: 198
 
 ★ Stars: 570
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 570 | 198 | 
 | 2023-04-06 | 570 | 197 | 
 | 2023-04-05 | 570 | 197 | 
 | 2023-04-04 | 570 | 197 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 568 | 197 | 
 | 2023-03-11 | 568 | 197 | 
 | 2023-03-10 | 567 | 197 | 
-| 2023-03-08 | 567 | 197 | 
 

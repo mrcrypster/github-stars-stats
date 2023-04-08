@@ -1,6 +1,6 @@
 # rockman88v/kubernetes_basic_course - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 24 | 19 | 
 | 2023-04-06 | 24 | 19 | 
 | 2023-04-05 | 24 | 19 | 
 | 2023-04-04 | 24 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 24 | 18 | 
 | 2023-03-10 | 24 | 18 | 
 | 2023-03-09 | 24 | 18 | 
-| 2023-03-08 | 24 | 18 | 
 

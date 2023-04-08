@@ -1,10 +1,10 @@
 # patrykandpatryk/vico - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 33
 
-★ Stars: 714
+★ Stars: 715
 
 [Open repository](https://github.com/patrykandpatryk/vico)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 715 | 33 | 
 | 2023-04-06 | 714 | 33 | 
 | 2023-04-05 | 714 | 33 | 
 | 2023-04-04 | 713 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 665 | 29 | 
 | 2023-03-10 | 664 | 29 | 
 | 2023-03-09 | 661 | 29 | 
-| 2023-03-08 | 657 | 29 | 
 

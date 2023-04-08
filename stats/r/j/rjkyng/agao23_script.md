@@ -1,6 +1,6 @@
 # rjkyng/agao23_script - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 3 | 4 | 
 | 2023-04-06 | 3 | 4 | 
 | 2023-04-05 | 3 | 4 | 
 | 2023-04-04 | 3 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 3 | 4 | 
 | 2023-03-11 | 3 | 4 | 
 | 2023-03-09 | 3 | 4 | 
-| 2023-03-08 | 3 | 4 | 
 

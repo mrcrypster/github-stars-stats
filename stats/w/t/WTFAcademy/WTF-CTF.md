@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/WTFAcademy/WTF-CTF)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 13 | 2 | 
+| 2023-04-07 | 14 | 2 | 
 | 2023-04-06 | 13 | 2 | 
 

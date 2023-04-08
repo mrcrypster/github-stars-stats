@@ -1,10 +1,10 @@
 # ehmatthes/pcc_2e - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 1491
 
-★ Stars: 2160
+★ Stars: 2162
 
 [Open repository](https://github.com/ehmatthes/pcc_2e)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 2162 | 1491 | 
 | 2023-04-06 | 2160 | 1491 | 
 | 2023-04-05 | 2158 | 1490 | 
 | 2023-04-04 | 2153 | 1489 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 2140 | 1486 | 
 | 2023-03-10 | 2140 | 1485 | 
 | 2023-03-09 | 2139 | 1484 | 
-| 2023-03-08 | 2139 | 1485 | 
 

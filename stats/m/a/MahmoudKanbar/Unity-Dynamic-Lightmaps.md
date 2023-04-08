@@ -1,10 +1,10 @@
 # MahmoudKanbar/Unity-Dynamic-Lightmaps - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 28 | 3 | 
 | 2023-04-06 | 27 | 3 | 
 | 2023-04-05 | 27 | 3 | 
 | 2023-04-04 | 27 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 27 | 2 | 
 | 2023-03-11 | 27 | 2 | 
 | 2023-03-09 | 27 | 2 | 
-| 2023-03-08 | 27 | 2 | 
 

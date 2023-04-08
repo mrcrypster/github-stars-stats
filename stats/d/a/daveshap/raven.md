@@ -1,10 +1,10 @@
 # daveshap/raven - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 88
 
-★ Stars: 780
+★ Stars: 783
 
 [Open repository](https://github.com/daveshap/raven)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 783 | 88 | 
 | 2023-04-06 | 780 | 88 | 
 | 2023-04-04 | 773 | 87 | 
 | 2023-04-03 | 768 | 86 | 

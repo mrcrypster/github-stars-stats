@@ -1,10 +1,10 @@
 # 0xacx/chatGPT-shell-cli - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
-☋ Forks: 42
+☋ Forks: 44
 
-★ Stars: 321
+★ Stars: 328
 
 [Open repository](https://github.com/0xacx/chatGPT-shell-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 328 | 44 | 
 | 2023-04-06 | 321 | 42 | 
 | 2023-04-05 | 317 | 40 | 
 | 2023-04-03 | 308 | 37 | 

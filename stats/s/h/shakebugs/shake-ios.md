@@ -1,6 +1,6 @@
 # shakebugs/shake-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 25 | 4 | 
 | 2023-04-06 | 25 | 4 | 
 | 2023-04-05 | 25 | 4 | 
 | 2023-04-03 | 25 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-11 | 25 | 4 | 
 | 2023-03-10 | 25 | 4 | 
 | 2023-03-09 | 25 | 4 | 
-| 2023-03-08 | 25 | 4 | 
 

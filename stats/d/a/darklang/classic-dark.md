@@ -1,10 +1,10 @@
 # darklang/classic-dark - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/darklang/classic-dark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 25 | 3 | 
 | 2023-04-06 | 23 | 3 | 
 | 2023-04-05 | 23 | 3 | 
 | 2023-04-03 | 23 | 3 | 

@@ -1,10 +1,10 @@
 # gorilla/mux - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1724
 
-★ Stars: 18144
+★ Stars: 18142
 
 [Open repository](https://github.com/gorilla/mux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 18142 | 1724 | 
 | 2023-04-07 | 18144 | 1724 | 
 | 2023-04-06 | 18141 | 1724 | 
 | 2023-04-04 | 18140 | 1724 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 18104 | 1718 | 
 | 2023-03-11 | 18104 | 1718 | 
 | 2023-03-10 | 18102 | 1717 | 
-| 2023-03-08 | 18100 | 1717 | 
 

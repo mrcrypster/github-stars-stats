@@ -1,6 +1,6 @@
 # Azure-Samples/serverless-web-application - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 23 | 44 | 
 | 2023-04-06 | 23 | 44 | 
 | 2023-04-05 | 23 | 44 | 
 | 2023-04-04 | 23 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 22 | 44 | 
 | 2023-03-11 | 22 | 44 | 
 | 2023-03-09 | 22 | 42 | 
-| 2023-03-08 | 22 | 42 | 
 

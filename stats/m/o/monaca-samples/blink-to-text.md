@@ -1,6 +1,6 @@
 # monaca-samples/blink-to-text - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 176 | 30 | 
 | 2023-04-06 | 176 | 30 | 
 | 2023-04-05 | 176 | 30 | 
 | 2023-04-04 | 176 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-13 | 173 | 31 | 
 | 2023-03-11 | 172 | 31 | 
 | 2023-03-10 | 172 | 31 | 
-| 2023-03-08 | 172 | 31 | 
 

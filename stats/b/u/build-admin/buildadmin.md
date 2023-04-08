@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 07
 
-☋ Forks: 99
+☋ Forks: 100
 
-★ Stars: 624
+★ Stars: 626
 
 [Open repository](https://github.com/build-admin/buildadmin)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-07 | 624 | 99 | 
+| 2023-04-07 | 626 | 100 | 
 | 2023-04-06 | 623 | 99 | 
 | 2023-04-05 | 621 | 99 | 
 | 2023-04-04 | 618 | 98 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 572 | 87 | 
 | 2023-03-10 | 572 | 87 | 
 | 2023-03-09 | 568 | 87 | 
-| 2023-03-08 | 566 | 87 | 
 

@@ -1,10 +1,10 @@
 # CERN/TIGRE - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 151
 
-★ Stars: 376
+★ Stars: 377
 
 [Open repository](https://github.com/CERN/TIGRE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 377 | 151 | 
 | 2023-04-06 | 376 | 151 | 
 | 2023-04-05 | 376 | 151 | 
 | 2023-04-04 | 376 | 151 | 

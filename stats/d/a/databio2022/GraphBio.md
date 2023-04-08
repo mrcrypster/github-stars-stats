@@ -1,10 +1,10 @@
 # databio2022/GraphBio - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 10
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/databio2022/GraphBio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 19 | 10 | 
 | 2023-04-06 | 18 | 10 | 
 | 2023-04-05 | 18 | 10 | 
 | 2023-04-04 | 18 | 10 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 18 | 10 | 
 | 2023-03-11 | 18 | 10 | 
 | 2023-03-10 | 18 | 10 | 
-| 2023-03-08 | 18 | 10 | 
 

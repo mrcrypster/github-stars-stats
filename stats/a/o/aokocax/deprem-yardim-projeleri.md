@@ -1,6 +1,6 @@
 # aokocax/deprem-yardim-projeleri - stars & forks statistics
 
-Stats updated on Apr 2023, 06
+Stats updated on Apr 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-07 | 131 | 15 | 
 | 2023-04-06 | 131 | 15 | 
 | 2023-04-05 | 131 | 15 | 
 | 2023-04-04 | 131 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 06
 | 2023-03-12 | 131 | 15 | 
 | 2023-03-11 | 131 | 15 | 
 | 2023-03-10 | 131 | 15 | 
-| 2023-03-08 | 132 | 15 | 
 

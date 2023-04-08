@@ -1,10 +1,10 @@
 # fumiama/copymanga - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 385
+★ Stars: 386
 
 [Open repository](https://github.com/fumiama/copymanga)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 386 | 15 | 
 | 2023-04-07 | 385 | 15 | 
 | 2023-04-06 | 383 | 15 | 
 | 2023-04-04 | 383 | 15 | 
