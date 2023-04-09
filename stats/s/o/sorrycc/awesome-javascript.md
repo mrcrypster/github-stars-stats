@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 4227
 
-★ Stars: 30509
+★ Stars: 30508
 
 [Open repository](https://github.com/sorrycc/awesome-javascript)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 30509 | 4227 | 
+| 2023-04-08 | 30508 | 4227 | 
 | 2023-04-07 | 30507 | 4227 | 
 | 2023-04-06 | 30488 | 4225 | 
 | 2023-04-05 | 30462 | 4225 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 30320 | 4208 | 
 | 2023-03-11 | 30313 | 4209 | 
 | 2023-03-10 | 30297 | 4209 | 
-| 2023-03-09 | 30289 | 4207 | 
 

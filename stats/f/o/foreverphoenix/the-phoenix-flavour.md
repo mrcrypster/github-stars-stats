@@ -1,10 +1,10 @@
 # foreverphoenix/the-phoenix-flavour - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/foreverphoenix/the-phoenix-flavour)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 55 | 15 | 
 | 2023-04-07 | 54 | 15 | 
 | 2023-04-06 | 54 | 15 | 
 | 2023-04-05 | 54 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 55 | 15 | 
 | 2023-03-12 | 55 | 15 | 
 | 2023-03-10 | 55 | 15 | 
-| 2023-03-09 | 55 | 15 | 
 

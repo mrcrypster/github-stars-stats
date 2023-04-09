@@ -1,10 +1,10 @@
 # Hicores/QTool - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 124
 
-★ Stars: 476
+★ Stars: 478
 
 [Open repository](https://github.com/Hicores/QTool)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 478 | 124 | 
 | 2023-04-07 | 476 | 124 | 
 | 2023-04-06 | 475 | 124 | 
 | 2023-04-04 | 473 | 123 | 

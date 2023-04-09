@@ -1,10 +1,10 @@
 # pingcap/tiflash - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 396
 
-★ Stars: 878
+★ Stars: 879
 
 [Open repository](https://github.com/pingcap/tiflash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 879 | 396 | 
 | 2023-04-07 | 878 | 396 | 
 | 2023-04-06 | 875 | 396 | 
 | 2023-04-05 | 875 | 396 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 867 | 395 | 
 | 2023-03-12 | 867 | 394 | 
 | 2023-03-10 | 868 | 394 | 
-| 2023-03-09 | 868 | 394 | 
 

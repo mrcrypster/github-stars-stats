@@ -1,10 +1,10 @@
 # fakhrane/windrdpfakhrane - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 72
+☋ Forks: 81
 
-★ Stars: 3
+★ Stars: 5
 
 [Open repository](https://github.com/fakhrane/windrdpfakhrane)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5 | 81 | 
+| 2023-04-08 | 5 | 81 | 
 | 2023-04-07 | 3 | 72 | 
 | 2023-04-06 | 1 | 70 | 
 | 2023-04-05 | 1 | 70 | 

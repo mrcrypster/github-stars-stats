@@ -1,6 +1,6 @@
 # featurestoreorg/serverless-ml-course - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 336 | 147 | 
 | 2023-04-07 | 336 | 147 | 
 | 2023-04-06 | 335 | 147 | 
 | 2023-04-05 | 333 | 146 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 299 | 134 | 
 | 2023-03-12 | 297 | 134 | 
 | 2023-03-11 | 296 | 134 | 
-| 2023-03-09 | 296 | 134 | 
 

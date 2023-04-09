@@ -1,10 +1,10 @@
 # CarlQLange/chatgpt-arcana.el - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/CarlQLange/chatgpt-arcana.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 64 | 6 | 
 | 2023-04-07 | 63 | 6 | 
 | 2023-04-06 | 63 | 6 | 
 | 2023-04-05 | 63 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 36 | 3 | 
 | 2023-03-11 | 36 | 3 | 
 | 2023-03-10 | 36 | 3 | 
-| 2023-03-09 | 32 | 3 | 
 

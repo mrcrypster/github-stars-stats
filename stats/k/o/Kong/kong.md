@@ -1,6 +1,6 @@
 # Kong/kong - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4430
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 34507 | 4430 | 
 | 2023-04-07 | 34507 | 4430 | 
 | 2023-04-06 | 34497 | 4429 | 
 | 2023-04-05 | 34490 | 4428 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 34266 | 4415 | 
 | 2023-03-11 | 34262 | 4415 | 
 | 2023-03-10 | 34256 | 4415 | 
-| 2023-03-09 | 34247 | 4413 | 
 

@@ -1,6 +1,6 @@
 # sou6av/raganork-md-deploy - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 535
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7 | 535 | 
 | 2023-04-07 | 7 | 535 | 
 | 2023-04-06 | 7 | 535 | 
 | 2023-04-05 | 7 | 535 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 7 | 534 | 
 | 2023-03-12 | 7 | 534 | 
 | 2023-03-10 | 7 | 534 | 
-| 2023-03-09 | 7 | 534 | 
 

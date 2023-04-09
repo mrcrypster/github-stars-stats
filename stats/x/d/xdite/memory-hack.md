@@ -1,6 +1,6 @@
 # xdite/memory-hack - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 348 | 139 | 
 | 2023-04-07 | 348 | 139 | 
 | 2023-04-06 | 348 | 139 | 
 | 2023-04-05 | 348 | 139 | 

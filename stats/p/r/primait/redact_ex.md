@@ -1,10 +1,10 @@
 # primait/redact_ex - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/primait/redact_ex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9 | 1 | 
 | 2023-04-07 | 8 | 1 | 
 | 2023-04-06 | 8 | 1 | 
 | 2023-04-05 | 8 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 7 | 1 | 
 | 2023-03-12 | 7 | 1 | 
 | 2023-03-11 | 7 | 1 | 
-| 2023-03-09 | 7 | 1 | 
 

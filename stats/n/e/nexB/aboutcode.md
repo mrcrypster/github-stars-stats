@@ -1,6 +1,6 @@
 # nexB/aboutcode - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 131 | 87 | 
 | 2023-04-07 | 131 | 87 | 
 | 2023-04-06 | 131 | 87 | 
 | 2023-04-05 | 131 | 87 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 128 | 85 | 
 | 2023-03-12 | 127 | 85 | 
 | 2023-03-11 | 127 | 85 | 
-| 2023-03-09 | 127 | 85 | 
 

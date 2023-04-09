@@ -1,6 +1,6 @@
 # Checkmarx/capital - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 218 | 29 | 
 | 2023-04-07 | 218 | 29 | 
 | 2023-04-06 | 218 | 29 | 
 | 2023-04-05 | 218 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 203 | 23 | 
 | 2023-03-11 | 203 | 23 | 
 | 2023-03-10 | 202 | 23 | 
-| 2023-03-09 | 202 | 23 | 
 

@@ -1,10 +1,10 @@
 # unit-mesh/unit-runtime - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/unit-mesh/unit-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 70 | 8 | 
 | 2023-04-07 | 69 | 8 | 
 | 2023-04-06 | 67 | 8 | 
 | 2023-04-05 | 65 | 8 | 

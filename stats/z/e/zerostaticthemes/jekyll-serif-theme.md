@@ -1,6 +1,6 @@
 # zerostaticthemes/jekyll-serif-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 597
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 557 | 597 | 
 | 2023-04-07 | 557 | 597 | 
 | 2023-04-06 | 557 | 598 | 
 | 2023-04-04 | 557 | 596 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 550 | 587 | 
 | 2023-03-11 | 550 | 586 | 
 | 2023-03-10 | 549 | 584 | 
-| 2023-03-09 | 548 | 584 | 
 

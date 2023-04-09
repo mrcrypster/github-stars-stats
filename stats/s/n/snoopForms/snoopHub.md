@@ -1,10 +1,10 @@
 # snoopForms/snoopHub - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 117
 
-★ Stars: 1318
+★ Stars: 1320
 
 [Open repository](https://github.com/snoopForms/snoopHub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1320 | 117 | 
 | 2023-04-07 | 1318 | 117 | 
 | 2023-04-06 | 1315 | 117 | 
 | 2023-04-05 | 1314 | 117 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1285 | 113 | 
 | 2023-03-11 | 1284 | 113 | 
 | 2023-03-10 | 1282 | 113 | 
-| 2023-03-09 | 1280 | 113 | 
 

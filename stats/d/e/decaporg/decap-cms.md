@@ -1,10 +1,10 @@
 # decaporg/decap-cms - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2964
+☋ Forks: 2965
 
-★ Stars: 16392
+★ Stars: 16395
 
 [Open repository](https://github.com/decaporg/decap-cms)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16395 | 2965 | 
 | 2023-04-07 | 16392 | 2964 | 
 | 2023-04-06 | 16387 | 2966 | 
 | 2023-04-05 | 16382 | 2967 | 

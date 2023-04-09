@@ -1,10 +1,10 @@
 # Sorosliu1029/CSAPP-Labs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 104
+☋ Forks: 106
 
-★ Stars: 366
+★ Stars: 369
 
 [Open repository](https://github.com/Sorosliu1029/CSAPP-Labs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 369 | 106 | 
 | 2023-04-07 | 366 | 104 | 
 | 2023-04-06 | 365 | 104 | 
 | 2023-04-05 | 364 | 104 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 350 | 98 | 
 | 2023-03-12 | 348 | 98 | 
 | 2023-03-11 | 349 | 96 | 
-| 2023-03-10 | 348 | 95 | 
 

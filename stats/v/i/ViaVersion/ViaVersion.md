@@ -1,8 +1,8 @@
 # ViaVersion/ViaVersion - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 218
+☋ Forks: 219
 
 ★ Stars: 940
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 940 | 219 | 
 | 2023-04-07 | 940 | 218 | 
 | 2023-04-06 | 940 | 218 | 
 | 2023-04-05 | 939 | 218 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 923 | 215 | 
 | 2023-03-11 | 923 | 216 | 
 | 2023-03-10 | 923 | 216 | 
-| 2023-03-09 | 922 | 216 | 
 

@@ -1,10 +1,10 @@
 # danendracoding/PHP-CRUD-Rest-API - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/danendracoding/PHP-CRUD-Rest-API)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 11 | 8 | 
 | 2023-04-07 | 10 | 8 | 
 | 2023-04-06 | 10 | 8 | 
 | 2023-04-05 | 10 | 8 | 

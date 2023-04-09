@@ -1,6 +1,6 @@
 # filmil/bazel-bats - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9 | 3 | 
 | 2023-04-07 | 9 | 3 | 
 | 2023-04-06 | 9 | 3 | 
 | 2023-04-05 | 9 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 8 | 3 | 
 | 2023-03-12 | 8 | 3 | 
 | 2023-03-10 | 8 | 3 | 
-| 2023-03-09 | 8 | 3 | 
 

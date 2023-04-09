@@ -1,10 +1,10 @@
 # laytan/cloak.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/laytan/cloak.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 111 | 4 | 
 | 2023-04-07 | 110 | 4 | 
 | 2023-04-06 | 110 | 4 | 
 | 2023-04-05 | 110 | 3 | 

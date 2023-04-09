@@ -1,10 +1,10 @@
 # docsifyjs/docsify - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5526
 
-★ Stars: 23133
+★ Stars: 23138
 
 [Open repository](https://github.com/docsifyjs/docsify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 23138 | 5526 | 
 | 2023-04-08 | 23133 | 5526 | 
 | 2023-04-06 | 23123 | 5524 | 
 | 2023-04-05 | 23113 | 5521 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 22960 | 5487 | 
 | 2023-03-12 | 22947 | 5486 | 
 | 2023-03-11 | 22944 | 5484 | 
-| 2023-03-09 | 22928 | 5483 | 
 

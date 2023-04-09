@@ -1,6 +1,6 @@
 # NFTX-project/nftx-protocol-v2 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 120 | 43 | 
 | 2023-04-07 | 120 | 43 | 
 | 2023-04-06 | 120 | 43 | 
 | 2023-04-05 | 120 | 43 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 120 | 42 | 
 | 2023-03-11 | 119 | 42 | 
 | 2023-03-10 | 119 | 42 | 
-| 2023-03-09 | 119 | 42 | 
 

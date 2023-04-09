@@ -1,0 +1,17 @@
+# bdsqqq/things - stars & forks statistics
+
+Stats updated on Apr 2023, 08
+
+☋ Forks: 1
+
+★ Stars: 18
+
+[Open repository](https://github.com/bdsqqq/things)
+
+[Open detailed stats for bdsqqq/things](https://reviewgithub.com/rep/bdsqqq/things)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-08 | 18 | 1 | 
+

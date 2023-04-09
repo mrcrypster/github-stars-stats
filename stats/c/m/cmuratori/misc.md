@@ -1,10 +1,10 @@
 # cmuratori/misc - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/cmuratori/misc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 158 | 35 | 
 | 2023-04-07 | 157 | 35 | 
 | 2023-04-06 | 154 | 32 | 
 | 2023-04-05 | 149 | 32 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 62 | 19 | 
 | 2023-03-11 | 62 | 17 | 
 | 2023-03-10 | 52 | 13 | 
-| 2023-03-09 | 42 | 5 | 
 

@@ -1,6 +1,6 @@
 # hrzndhrn/recode - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 208 | 9 | 
 | 2023-04-07 | 208 | 9 | 
 | 2023-04-06 | 208 | 9 | 
 | 2023-04-05 | 208 | 9 | 

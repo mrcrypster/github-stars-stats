@@ -1,10 +1,10 @@
 # 1Panel-dev/1Panel - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 201
+☋ Forks: 202
 
-★ Stars: 2091
+★ Stars: 2114
 
 [Open repository](https://github.com/1Panel-dev/1Panel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2114 | 202 | 
 | 2023-04-07 | 2091 | 201 | 
 | 2023-04-06 | 2060 | 199 | 
 | 2023-04-05 | 2025 | 197 | 

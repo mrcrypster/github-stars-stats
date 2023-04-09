@@ -1,6 +1,6 @@
 # JordanMarr/Elmish.Avalonia - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 46 | 3 | 
 | 2023-04-07 | 46 | 3 | 
 | 2023-04-06 | 46 | 3 | 
 | 2023-04-05 | 46 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 45 | 2 | 
 | 2023-03-12 | 45 | 2 | 
 | 2023-03-10 | 45 | 2 | 
-| 2023-03-09 | 45 | 2 | 
 

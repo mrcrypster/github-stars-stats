@@ -1,10 +1,10 @@
 # NTBBloodbath/sweetie.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/NTBBloodbath/sweetie.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 67 | 1 | 
 | 2023-04-07 | 66 | 1 | 
 | 2023-04-06 | 65 | 1 | 
 | 2023-04-05 | 65 | 1 | 

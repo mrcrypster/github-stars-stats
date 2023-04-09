@@ -1,10 +1,10 @@
 # Vigemus/iron.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 68
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/Vigemus/iron.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 679 | 68 | 
 | 2023-04-07 | 678 | 68 | 
 | 2023-04-06 | 675 | 68 | 
 | 2023-04-05 | 674 | 68 | 

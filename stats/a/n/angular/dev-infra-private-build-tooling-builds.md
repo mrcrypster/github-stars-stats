@@ -1,10 +1,10 @@
 # angular/dev-infra-private-build-tooling-builds - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/angular/dev-infra-private-build-tooling-builds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3 | 2 | 
 | 2023-04-07 | 2 | 2 | 
 | 2023-04-06 | 2 | 2 | 
 | 2023-04-05 | 2 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2 | 2 | 
 | 2023-03-11 | 2 | 2 | 
 | 2023-03-10 | 2 | 2 | 
-| 2023-03-09 | 2 | 2 | 
 

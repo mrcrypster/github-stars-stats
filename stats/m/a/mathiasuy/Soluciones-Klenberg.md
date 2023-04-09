@@ -1,10 +1,10 @@
 # mathiasuy/Soluciones-Klenberg - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 125
 
-★ Stars: 460
+★ Stars: 461
 
 [Open repository](https://github.com/mathiasuy/Soluciones-Klenberg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 461 | 125 | 
 | 2023-04-07 | 460 | 125 | 
 | 2023-04-06 | 459 | 125 | 
 | 2023-04-05 | 457 | 125 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 449 | 123 | 
 | 2023-03-12 | 447 | 123 | 
 | 2023-03-11 | 446 | 122 | 
-| 2023-03-09 | 446 | 122 | 
 

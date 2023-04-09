@@ -1,10 +1,10 @@
 # filecoin-project/FIPs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 135
+☋ Forks: 136
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/filecoin-project/FIPs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 250 | 136 | 
 | 2023-04-07 | 249 | 135 | 
 | 2023-04-06 | 249 | 135 | 
 | 2023-04-05 | 249 | 135 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 242 | 130 | 
 | 2023-03-12 | 242 | 130 | 
 | 2023-03-11 | 241 | 130 | 
-| 2023-03-10 | 240 | 130 | 
 

@@ -1,6 +1,6 @@
 # pyscripter/pyscripter - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 293
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 848 | 293 | 
 | 2023-04-07 | 848 | 293 | 
 | 2023-04-06 | 848 | 293 | 
 | 2023-04-05 | 848 | 293 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 842 | 290 | 
 | 2023-03-11 | 841 | 290 | 
 | 2023-03-10 | 841 | 290 | 
-| 2023-03-09 | 840 | 290 | 
 

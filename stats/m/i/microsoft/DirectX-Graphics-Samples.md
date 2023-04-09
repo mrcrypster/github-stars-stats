@@ -1,8 +1,8 @@
 # microsoft/DirectX-Graphics-Samples - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1906
+☋ Forks: 1907
 
 ★ Stars: 5097
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5097 | 1907 | 
 | 2023-04-07 | 5097 | 1906 | 
 | 2023-04-06 | 5093 | 1903 | 
 | 2023-04-05 | 5089 | 1903 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 5034 | 1891 | 
 | 2023-03-11 | 5033 | 1890 | 
 | 2023-03-10 | 5032 | 1890 | 
-| 2023-03-09 | 5027 | 1890 | 
 

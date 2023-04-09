@@ -1,10 +1,10 @@
 # rmagatti/goto-preview - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 17
 
-★ Stars: 483
+★ Stars: 484
 
 [Open repository](https://github.com/rmagatti/goto-preview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 484 | 17 | 
 | 2023-04-07 | 483 | 17 | 
 | 2023-04-06 | 482 | 17 | 
 | 2023-04-05 | 481 | 17 | 

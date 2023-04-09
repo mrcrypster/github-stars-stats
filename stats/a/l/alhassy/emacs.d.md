@@ -1,6 +1,6 @@
 # alhassy/emacs.d - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 354 | 16 | 
 | 2023-04-07 | 354 | 16 | 
 | 2023-04-06 | 355 | 16 | 
 | 2023-04-05 | 355 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 352 | 16 | 
 | 2023-03-12 | 352 | 16 | 
 | 2023-03-11 | 352 | 16 | 
-| 2023-03-09 | 352 | 16 | 
 

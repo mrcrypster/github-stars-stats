@@ -1,8 +1,8 @@
 # AsYetUntitled/Framework - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 315
+☋ Forks: 316
 
 ★ Stars: 235
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 235 | 316 | 
 | 2023-04-07 | 235 | 315 | 
 | 2023-04-06 | 235 | 315 | 
 | 2023-04-05 | 235 | 315 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 235 | 315 | 
 | 2023-03-11 | 235 | 315 | 
 | 2023-03-10 | 235 | 314 | 
-| 2023-03-09 | 235 | 314 | 
 

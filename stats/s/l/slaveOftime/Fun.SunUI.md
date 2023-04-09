@@ -1,6 +1,6 @@
 # slaveOftime/Fun.SunUI - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 35 | - | 
 | 2023-04-08 | 35 | - | 
 | 2023-04-06 | 35 | - | 
 | 2023-04-05 | 35 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 35 | - | 
 | 2023-03-11 | 35 | - | 
 | 2023-03-10 | 35 | - | 
-| 2023-03-09 | 35 | - | 
 

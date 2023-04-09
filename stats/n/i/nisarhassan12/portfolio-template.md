@@ -1,6 +1,6 @@
 # nisarhassan12/portfolio-template - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 455 | 144 | 
 | 2023-04-07 | 455 | 144 | 
 | 2023-04-06 | 455 | 142 | 
 | 2023-04-05 | 455 | 142 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 447 | 137 | 
 | 2023-03-11 | 448 | 136 | 
 | 2023-03-10 | 446 | 136 | 
-| 2023-03-09 | 444 | 136 | 
 

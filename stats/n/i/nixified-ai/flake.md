@@ -1,10 +1,10 @@
 # nixified-ai/flake - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/nixified-ai/flake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 151 | 9 | 
 | 2023-04-07 | 150 | 9 | 
 | 2023-04-06 | 147 | 9 | 
 | 2023-04-05 | 146 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 25 | 4 | 
 | 2023-03-12 | 25 | 4 | 
 | 2023-03-10 | 25 | 4 | 
-| 2023-03-09 | 25 | 4 | 
 

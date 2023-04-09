@@ -1,10 +1,10 @@
 # oov/aviutl_rampreview - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/oov/aviutl_rampreview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 91 | 9 | 
 | 2023-04-07 | 90 | 9 | 
 | 2023-04-06 | 90 | 9 | 
 | 2023-04-05 | 90 | 9 | 

@@ -1,10 +1,10 @@
 # kyujin-cho/pixel-volte-patch - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 414
+★ Stars: 420
 
 [Open repository](https://github.com/kyujin-cho/pixel-volte-patch)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 420 | 37 | 
+| 2023-04-08 | 420 | 37 | 
 | 2023-04-07 | 414 | 36 | 
 | 2023-04-06 | 410 | 36 | 
 | 2023-04-05 | 410 | 36 | 
@@ -34,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 347 | 31 | 
 | 2023-03-12 | 345 | 30 | 
 | 2023-03-10 | 345 | 30 | 
-| 2023-03-09 | 343 | 30 | 
 

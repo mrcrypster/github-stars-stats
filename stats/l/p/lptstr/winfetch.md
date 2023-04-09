@@ -1,10 +1,10 @@
 # lptstr/winfetch - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 59
 
-★ Stars: 901
+★ Stars: 902
 
 [Open repository](https://github.com/lptstr/winfetch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 902 | 59 | 
 | 2023-04-07 | 901 | 59 | 
 | 2023-04-06 | 900 | 59 | 
 | 2023-04-05 | 900 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 879 | 60 | 
 | 2023-03-11 | 879 | 60 | 
 | 2023-03-10 | 879 | 60 | 
-| 2023-03-09 | 879 | 61 | 
 

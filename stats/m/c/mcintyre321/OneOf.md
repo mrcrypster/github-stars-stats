@@ -1,10 +1,10 @@
 # mcintyre321/OneOf - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 122
+☋ Forks: 123
 
-★ Stars: 2383
+★ Stars: 2390
 
 [Open repository](https://github.com/mcintyre321/OneOf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2390 | 123 | 
 | 2023-04-07 | 2383 | 122 | 
 | 2023-04-06 | 2380 | 122 | 
 | 2023-04-05 | 2374 | 122 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2194 | 117 | 
 | 2023-03-11 | 2185 | 117 | 
 | 2023-03-10 | 2152 | 117 | 
-| 2023-03-09 | 2117 | 117 | 
 

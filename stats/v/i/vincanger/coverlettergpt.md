@@ -1,10 +1,10 @@
 # vincanger/coverlettergpt - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 47
 
-★ Stars: 483
+★ Stars: 487
 
 [Open repository](https://github.com/vincanger/coverlettergpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 487 | 47 | 
 | 2023-04-07 | 483 | 47 | 
 | 2023-04-06 | 481 | 47 | 
 | 2023-04-05 | 473 | 46 | 

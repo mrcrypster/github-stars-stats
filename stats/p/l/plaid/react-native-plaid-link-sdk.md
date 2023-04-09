@@ -1,6 +1,6 @@
 # plaid/react-native-plaid-link-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 143 | 106 | 
 | 2023-04-07 | 143 | 106 | 
 | 2023-04-06 | 143 | 105 | 
 | 2023-04-05 | 143 | 105 | 

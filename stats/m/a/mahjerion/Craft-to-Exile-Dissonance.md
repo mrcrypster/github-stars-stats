@@ -1,6 +1,6 @@
 # mahjerion/Craft-to-Exile-Dissonance - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 44 | 10 | 
 | 2023-04-07 | 44 | 10 | 
 | 2023-04-06 | 44 | 10 | 
 | 2023-04-05 | 44 | 10 | 

@@ -1,10 +1,10 @@
 # coilhq/tigerbeetle - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 99
 
-★ Stars: 2224
+★ Stars: 2232
 
 [Open repository](https://github.com/coilhq/tigerbeetle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2232 | 99 | 
 | 2023-04-07 | 2224 | 99 | 
 | 2023-04-06 | 2222 | 99 | 
 | 2023-04-05 | 2219 | 99 | 

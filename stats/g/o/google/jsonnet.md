@@ -1,6 +1,6 @@
 # google/jsonnet - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 425
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6176 | 425 | 
 | 2023-04-07 | 6176 | 425 | 
 | 2023-04-06 | 6172 | 425 | 
 | 2023-04-05 | 6170 | 425 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 6095 | 420 | 
 | 2023-03-11 | 6095 | 420 | 
 | 2023-03-10 | 6095 | 420 | 
-| 2023-03-09 | 6093 | 420 | 
 

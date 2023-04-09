@@ -1,10 +1,10 @@
 # giltene/wrk2 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 343
 
-★ Stars: 3818
+★ Stars: 3819
 
 [Open repository](https://github.com/giltene/wrk2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3819 | 343 | 
 | 2023-04-07 | 3818 | 343 | 
 | 2023-04-06 | 3818 | 342 | 
 | 2023-04-05 | 3816 | 342 | 

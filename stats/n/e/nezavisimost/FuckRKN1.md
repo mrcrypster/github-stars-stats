@@ -1,10 +1,10 @@
 # nezavisimost/FuckRKN1 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 71
 
-★ Stars: 564
+★ Stars: 569
 
 [Open repository](https://github.com/nezavisimost/FuckRKN1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 569 | 71 | 
 | 2023-04-07 | 564 | 71 | 
 | 2023-04-06 | 562 | 71 | 
 | 2023-04-04 | 562 | 71 | 

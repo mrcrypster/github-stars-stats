@@ -1,6 +1,6 @@
 # dvorka/hstr - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3549 | 223 | 
 | 2023-04-07 | 3549 | 223 | 
 | 2023-04-06 | 3545 | 222 | 
 | 2023-04-04 | 3544 | 222 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 3524 | 221 | 
 | 2023-03-12 | 3520 | 221 | 
 | 2023-03-11 | 3515 | 221 | 
-| 2023-03-09 | 3510 | 221 | 
 

@@ -1,10 +1,10 @@
 # ufrisk/pcileech - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 519
 
-★ Stars: 2992
+★ Stars: 2993
 
 [Open repository](https://github.com/ufrisk/pcileech)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2993 | 519 | 
 | 2023-04-07 | 2992 | 519 | 
 | 2023-04-06 | 2991 | 519 | 
 | 2023-04-05 | 2990 | 518 | 

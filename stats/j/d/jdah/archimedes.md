@@ -1,6 +1,6 @@
 # jdah/archimedes - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 524 | 20 | 
 | 2023-04-07 | 524 | 20 | 
 | 2023-04-06 | 523 | 20 | 
 | 2023-04-05 | 523 | 20 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 514 | 19 | 
 | 2023-03-12 | 513 | 19 | 
 | 2023-03-10 | 512 | 19 | 
-| 2023-03-09 | 510 | 19 | 
 

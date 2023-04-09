@@ -1,8 +1,8 @@
 # szabodanika/microbin - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 82
+☋ Forks: 81
 
 ★ Stars: 1155
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1155 | 81 | 
 | 2023-04-07 | 1155 | 82 | 
 | 2023-04-06 | 1151 | 82 | 
 | 2023-04-05 | 1150 | 82 | 

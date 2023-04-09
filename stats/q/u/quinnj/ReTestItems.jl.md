@@ -1,10 +1,10 @@
 # quinnj/ReTestItems.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/quinnj/ReTestItems.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5 | - | 
 | 2023-04-08 | 4 | - | 
 | 2023-04-07 | 4 | - | 
 | 2023-04-05 | 4 | - | 

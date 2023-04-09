@@ -1,6 +1,6 @@
 # spiffe/spire-api-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7 | 24 | 
 | 2023-04-07 | 7 | 24 | 
 | 2023-04-06 | 7 | 24 | 
 | 2023-04-04 | 7 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 7 | 22 | 
 | 2023-03-11 | 7 | 22 | 
 | 2023-03-10 | 7 | 22 | 
-| 2023-03-09 | 7 | 22 | 
 

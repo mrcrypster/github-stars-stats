@@ -1,10 +1,10 @@
 # IlluminatiFish/Odyssey - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/IlluminatiFish/Odyssey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 42 | 7 | 
 | 2023-04-07 | 41 | 7 | 
 | 2023-04-06 | 41 | 7 | 
 | 2023-04-05 | 41 | 7 | 

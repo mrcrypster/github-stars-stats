@@ -1,6 +1,6 @@
 # dmitryme/erlang_localtime - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 56 | 49 | 
 | 2023-04-07 | 56 | 49 | 
 | 2023-04-06 | 56 | 49 | 
 | 2023-04-05 | 56 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 55 | 49 | 
 | 2023-03-12 | 55 | 49 | 
 | 2023-03-11 | 55 | 49 | 
-| 2023-03-09 | 55 | 49 | 
 

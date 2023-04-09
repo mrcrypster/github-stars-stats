@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 1027
 
-★ Stars: 11796
+★ Stars: 11797
 
 [Open repository](https://github.com/Juanpe/SkeletonView)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 11796 | 1027 | 
+| 2023-04-08 | 11797 | 1027 | 
 | 2023-04-07 | 11796 | 1027 | 
 | 2023-04-06 | 11795 | 1026 | 
 | 2023-04-05 | 11791 | 1027 | 

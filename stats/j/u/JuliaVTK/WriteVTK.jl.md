@@ -1,10 +1,10 @@
 # JuliaVTK/WriteVTK.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 27
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/JuliaVTK/WriteVTK.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 132 | 27 | 
 | 2023-04-07 | 131 | 27 | 
 | 2023-04-06 | 131 | 27 | 
 

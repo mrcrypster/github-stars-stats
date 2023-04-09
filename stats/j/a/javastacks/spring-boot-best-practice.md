@@ -1,10 +1,10 @@
 # javastacks/spring-boot-best-practice - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 826
+☋ Forks: 828
 
-★ Stars: 2684
+★ Stars: 2685
 
 [Open repository](https://github.com/javastacks/spring-boot-best-practice)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2685 | 828 | 
 | 2023-04-07 | 2684 | 826 | 
 | 2023-04-06 | 2674 | 824 | 
 | 2023-04-05 | 2669 | 822 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2542 | 791 | 
 | 2023-03-12 | 2541 | 791 | 
 | 2023-03-10 | 2539 | 790 | 
-| 2023-03-09 | 2534 | 790 | 
 

@@ -1,10 +1,10 @@
 # rollup/plugins - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 506
 
-★ Stars: 3150
+★ Stars: 3153
 
 [Open repository](https://github.com/rollup/plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3153 | 506 | 
 | 2023-04-07 | 3150 | 506 | 
 | 2023-04-06 | 3145 | 507 | 
 | 2023-04-05 | 3143 | 505 | 

@@ -1,10 +1,10 @@
 # Torantulino/Auto-GPT - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1777
+☋ Forks: 2115
 
-★ Stars: 15628
+★ Stars: 17471
 
 [Open repository](https://github.com/Torantulino/Auto-GPT)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 15628 | 1777 | 
+| 2023-04-09 | 17471 | 2115 | 
+| 2023-04-08 | 17253 | 2078 | 
 | 2023-04-07 | 15322 | 1724 | 
 | 2023-04-06 | 12655 | 1344 | 
 | 2023-04-05 | 10212 | 1037 | 

@@ -1,10 +1,10 @@
 # bootdotdev/curriculum - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 490
+★ Stars: 491
 
 [Open repository](https://github.com/bootdotdev/curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 491 | 35 | 
 | 2023-04-07 | 490 | 35 | 
 | 2023-04-06 | 489 | 35 | 
 | 2023-04-05 | 489 | 35 | 

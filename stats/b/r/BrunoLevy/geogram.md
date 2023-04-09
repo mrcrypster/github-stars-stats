@@ -1,6 +1,6 @@
 # BrunoLevy/geogram - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1145 | 66 | 
 | 2023-04-07 | 1145 | 66 | 
 | 2023-04-06 | 1142 | 66 | 
 | 2023-04-05 | 1142 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1115 | 60 | 
 | 2023-03-12 | 1108 | 59 | 
 | 2023-03-10 | 1107 | 59 | 
-| 2023-03-09 | 1103 | 59 | 
 

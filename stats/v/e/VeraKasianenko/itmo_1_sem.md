@@ -1,10 +1,10 @@
 # VeraKasianenko/itmo_1_sem - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/VeraKasianenko/itmo_1_sem)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7 | 5 | 
 | 2023-04-07 | 6 | 5 | 
 | 2023-04-06 | 6 | 5 | 
 | 2023-04-05 | 6 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 6 | 5 | 
 | 2023-03-12 | 6 | 5 | 
 | 2023-03-11 | 6 | 5 | 
-| 2023-03-09 | 6 | 5 | 
 

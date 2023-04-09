@@ -1,6 +1,6 @@
 # diem/diem - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2601
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 16692 | 2601 | 
 | 2023-04-07 | 16692 | 2601 | 
 | 2023-04-06 | 16693 | 2601 | 
 | 2023-04-05 | 16693 | 2600 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 16705 | 2603 | 
 | 2023-03-12 | 16706 | 2603 | 
 | 2023-03-10 | 16705 | 2603 | 
-| 2023-03-09 | 16706 | 2603 | 
 

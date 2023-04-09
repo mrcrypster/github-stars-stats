@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 37
 
-★ Stars: 679
+★ Stars: 687
 
 [Open repository](https://github.com/leetcode-mafia/cheetah)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 679 | 37 | 
+| 2023-04-08 | 687 | 37 | 
 | 2023-04-07 | 672 | 36 | 
 

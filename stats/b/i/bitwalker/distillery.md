@@ -1,6 +1,6 @@
 # bitwalker/distillery - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2934 | 387 | 
 | 2023-04-07 | 2934 | 387 | 
 | 2023-04-06 | 2934 | 387 | 
 | 2023-04-05 | 2934 | 387 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2925 | 385 | 
 | 2023-03-11 | 2925 | 386 | 
 | 2023-03-10 | 2925 | 387 | 
-| 2023-03-09 | 2925 | 387 | 
 

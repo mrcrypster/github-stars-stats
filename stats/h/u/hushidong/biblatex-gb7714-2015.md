@@ -1,6 +1,6 @@
 # hushidong/biblatex-gb7714-2015 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 587 | 69 | 
 | 2023-04-07 | 587 | 69 | 
 | 2023-04-06 | 587 | 69 | 
 | 2023-04-05 | 587 | 69 | 

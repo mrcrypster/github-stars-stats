@@ -1,10 +1,10 @@
 # kevinjycui/DesmosBezierRenderer - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 84
+☋ Forks: 83
 
-★ Stars: 378
+★ Stars: 379
 
 [Open repository](https://github.com/kevinjycui/DesmosBezierRenderer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 379 | 83 | 
 | 2023-04-07 | 378 | 84 | 
 | 2023-04-06 | 378 | 84 | 
 | 2023-04-05 | 378 | 84 | 

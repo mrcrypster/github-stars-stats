@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 1769
+☋ Forks: 1772
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/MrJemboet/freeRDP2022)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 7 | 1769 | 
+| 2023-04-08 | 8 | 1772 | 
 | 2023-04-07 | 7 | 1768 | 
 | 2023-04-06 | 7 | 1757 | 
 | 2023-04-05 | 7 | 1739 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 5 | 1368 | 
 | 2023-03-11 | 5 | 1345 | 
 | 2023-03-10 | 4 | 1323 | 
-| 2023-03-09 | 4 | 1318 | 
 

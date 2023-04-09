@@ -1,6 +1,6 @@
 # eugenioclrc/DeFi-Security-Summit-Stanford - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 140 | 21 | 
 | 2023-04-07 | 140 | 21 | 
 | 2023-04-06 | 140 | 21 | 
 | 2023-04-05 | 140 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 136 | 21 | 
 | 2023-03-12 | 136 | 21 | 
 | 2023-03-10 | 136 | 21 | 
-| 2023-03-09 | 135 | 21 | 
 

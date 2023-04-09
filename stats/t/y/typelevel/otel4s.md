@@ -1,10 +1,10 @@
 # typelevel/otel4s - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/typelevel/otel4s)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 81 | 9 | 
 | 2023-04-07 | 80 | 9 | 
 | 2023-04-06 | 80 | 9 | 
 | 2023-04-05 | 79 | 9 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 78 | 8 | 
 | 2023-03-12 | 78 | 8 | 
 | 2023-03-10 | 78 | 8 | 
-| 2023-03-09 | 78 | 8 | 
 

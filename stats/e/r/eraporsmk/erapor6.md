@@ -1,10 +1,10 @@
 # eraporsmk/erapor6 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 29
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/eraporsmk/erapor6)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 30 | 29 | 
 | 2023-04-07 | 29 | 29 | 
 | 2023-04-06 | 29 | 29 | 
 | 2023-04-05 | 29 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 29 | 29 | 
 | 2023-03-11 | 29 | 29 | 
 | 2023-03-10 | 29 | 29 | 
-| 2023-03-09 | 29 | 29 | 
 

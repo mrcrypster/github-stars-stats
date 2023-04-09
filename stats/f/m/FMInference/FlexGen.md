@@ -1,10 +1,10 @@
 # FMInference/FlexGen - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 413
 
-★ Stars: 7707
+★ Stars: 7718
 
 [Open repository](https://github.com/FMInference/FlexGen)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7718 | 413 | 
 | 2023-04-07 | 7707 | 413 | 
 | 2023-04-06 | 7692 | 412 | 
 | 2023-04-05 | 7673 | 411 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 6602 | 345 | 
 | 2023-03-12 | 6566 | 340 | 
 | 2023-03-10 | 6532 | 338 | 
-| 2023-03-09 | 6472 | 332 | 
 

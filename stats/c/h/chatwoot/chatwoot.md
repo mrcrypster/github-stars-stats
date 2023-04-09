@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 2113
+☋ Forks: 2114
 
-★ Stars: 14916
+★ Stars: 14919
 
 [Open repository](https://github.com/chatwoot/chatwoot)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 14916 | 2113 | 
+| 2023-04-08 | 14919 | 2114 | 
 | 2023-04-07 | 14913 | 2113 | 
 | 2023-04-06 | 14909 | 2108 | 
 | 2023-04-05 | 14901 | 2105 | 

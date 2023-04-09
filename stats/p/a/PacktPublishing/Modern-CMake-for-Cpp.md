@@ -1,6 +1,6 @@
 # PacktPublishing/Modern-CMake-for-Cpp - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 256 | 68 | 
 | 2023-04-07 | 256 | 68 | 
 | 2023-04-06 | 256 | 68 | 
 | 2023-04-05 | 255 | 68 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 244 | 63 | 
 | 2023-03-12 | 245 | 62 | 
 | 2023-03-11 | 243 | 62 | 
-| 2023-03-09 | 243 | 62 | 
 

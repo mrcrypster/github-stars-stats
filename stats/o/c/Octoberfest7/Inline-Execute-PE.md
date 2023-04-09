@@ -1,6 +1,6 @@
 # Octoberfest7/Inline-Execute-PE - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 421 | 69 | 
 | 2023-04-07 | 421 | 69 | 
 | 2023-04-06 | 420 | 69 | 
 | 2023-04-05 | 420 | 69 | 

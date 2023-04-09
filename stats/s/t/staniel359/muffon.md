@@ -1,10 +1,10 @@
 # staniel359/muffon - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 28
 
-★ Stars: 540
+★ Stars: 541
 
 [Open repository](https://github.com/staniel359/muffon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 541 | 28 | 
 | 2023-04-07 | 540 | 28 | 
 | 2023-04-06 | 539 | 28 | 
 | 2023-04-05 | 534 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 520 | 29 | 
 | 2023-03-11 | 519 | 29 | 
 | 2023-03-10 | 518 | 29 | 
-| 2023-03-09 | 518 | 29 | 
 

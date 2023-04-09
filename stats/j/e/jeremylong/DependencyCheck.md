@@ -1,10 +1,10 @@
 # jeremylong/DependencyCheck - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1082
+☋ Forks: 1083
 
-★ Stars: 4977
+★ Stars: 4978
 
 [Open repository](https://github.com/jeremylong/DependencyCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4978 | 1083 | 
 | 2023-04-07 | 4977 | 1082 | 
 | 2023-04-06 | 4973 | 1082 | 
 | 2023-04-05 | 4973 | 1082 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 4905 | 1076 | 
 | 2023-03-12 | 4900 | 1076 | 
 | 2023-03-11 | 4899 | 1074 | 
-| 2023-03-09 | 4896 | 1073 | 
 

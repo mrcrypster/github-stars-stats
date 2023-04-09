@@ -1,6 +1,6 @@
 # hadley/minby - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 21 | 2 | 
 | 2023-04-07 | 21 | 2 | 
 | 2023-04-06 | 21 | 2 | 
 | 2023-04-05 | 21 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 21 | 2 | 
 | 2023-03-12 | 20 | 2 | 
 | 2023-03-11 | 20 | 2 | 
-| 2023-03-09 | 20 | 2 | 
 

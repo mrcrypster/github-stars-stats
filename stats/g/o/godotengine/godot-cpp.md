@@ -1,8 +1,8 @@
 # godotengine/godot-cpp - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 326
+☋ Forks: 327
 
 ★ Stars: 864
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 864 | 327 | 
 | 2023-04-07 | 864 | 326 | 
 | 2023-04-06 | 862 | 325 | 
 | 2023-04-04 | 861 | 324 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 836 | 316 | 
 | 2023-03-12 | 834 | 316 | 
 | 2023-03-11 | 833 | 316 | 
-| 2023-03-09 | 833 | 316 | 
 

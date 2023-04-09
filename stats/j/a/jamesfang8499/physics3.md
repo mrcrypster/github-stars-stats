@@ -1,6 +1,6 @@
 # jamesfang8499/physics3 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 50 | 44 | 
 | 2023-04-07 | 50 | 44 | 
 | 2023-04-06 | 50 | 44 | 
 | 2023-04-05 | 50 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 49 | 42 | 
 | 2023-03-11 | 49 | 42 | 
 | 2023-03-10 | 49 | 42 | 
-| 2023-03-09 | 49 | 42 | 
 

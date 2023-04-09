@@ -1,10 +1,10 @@
 # mrthinger/wow-voiceover - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 74
+★ Stars: 77
 
 [Open repository](https://github.com/mrthinger/wow-voiceover)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 77 | 13 | 
 | 2023-04-07 | 74 | 13 | 
 | 2023-04-06 | 73 | 13 | 
 | 2023-04-05 | 68 | 11 | 

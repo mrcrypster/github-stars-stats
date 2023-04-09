@@ -1,10 +1,10 @@
 # devtron-labs/devtron - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 320
 
-★ Stars: 3035
+★ Stars: 3036
 
 [Open repository](https://github.com/devtron-labs/devtron)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3036 | 320 | 
 | 2023-04-07 | 3035 | 320 | 
 | 2023-04-06 | 3033 | 318 | 
 | 2023-04-05 | 3032 | 318 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 3000 | 313 | 
 | 2023-03-12 | 2999 | 313 | 
 | 2023-03-10 | 2997 | 313 | 
-| 2023-03-09 | 2993 | 313 | 
 

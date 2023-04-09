@@ -1,6 +1,6 @@
 # ucb-bar/riscv-torture - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 126 | 41 | 
 | 2023-04-07 | 126 | 41 | 
 | 2023-04-06 | 126 | 41 | 
 | 2023-04-05 | 126 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 123 | 41 | 
 | 2023-03-11 | 123 | 41 | 
 | 2023-03-10 | 123 | 41 | 
-| 2023-03-09 | 123 | 41 | 
 

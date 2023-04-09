@@ -1,8 +1,8 @@
 # avnyadav/machine_learning_project - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 168
+☋ Forks: 169
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 53 | 169 | 
 | 2023-04-07 | 53 | 168 | 
 | 2023-04-06 | 53 | 168 | 
 | 2023-04-05 | 53 | 168 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 50 | 167 | 
 | 2023-03-12 | 50 | 167 | 
 | 2023-03-10 | 50 | 166 | 
-| 2023-03-09 | 50 | 165 | 
 

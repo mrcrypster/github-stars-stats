@@ -1,10 +1,10 @@
 # LangLangShanDeNanKe/chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 60
+☋ Forks: 59
 
-★ Stars: 581
+★ Stars: 592
 
 [Open repository](https://github.com/LangLangShanDeNanKe/chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 592 | 59 | 
 | 2023-04-07 | 581 | 60 | 
 | 2023-04-06 | 565 | 57 | 
 | 2023-04-05 | 554 | 53 | 

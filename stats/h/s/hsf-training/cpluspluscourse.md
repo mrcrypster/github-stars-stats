@@ -1,10 +1,10 @@
 # hsf-training/cpluspluscourse - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 29
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/hsf-training/cpluspluscourse)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 64 | 29 | 
 | 2023-04-07 | 63 | 29 | 
 | 2023-04-06 | 62 | 29 | 
 | 2023-04-05 | 62 | 29 | 

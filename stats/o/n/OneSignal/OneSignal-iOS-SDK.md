@@ -1,8 +1,8 @@
 # OneSignal/OneSignal-iOS-SDK - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 247
+☋ Forks: 248
 
 ★ Stars: 452
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 452 | 248 | 
 | 2023-04-07 | 452 | 247 | 
 | 2023-04-06 | 451 | 247 | 
 | 2023-04-05 | 451 | 247 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 448 | 247 | 
 | 2023-03-11 | 448 | 247 | 
 | 2023-03-10 | 448 | 247 | 
-| 2023-03-09 | 448 | 247 | 
 

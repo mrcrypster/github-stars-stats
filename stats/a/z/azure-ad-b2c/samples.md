@@ -1,8 +1,8 @@
 # azure-ad-b2c/samples - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 546
+☋ Forks: 545
 
 ★ Stars: 647
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 647 | 545 | 
 | 2023-04-07 | 647 | 546 | 
 | 2023-04-06 | 647 | 546 | 
 | 2023-04-05 | 647 | 545 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 634 | 540 | 
 | 2023-03-12 | 634 | 540 | 
 | 2023-03-11 | 634 | 540 | 
-| 2023-03-09 | 635 | 540 | 
 

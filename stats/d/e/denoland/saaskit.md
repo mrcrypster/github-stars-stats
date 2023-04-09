@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 19
+☋ Forks: 23
 
-★ Stars: 239
+★ Stars: 267
 
 [Open repository](https://github.com/denoland/saaskit)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 239 | 19 | 
+| 2023-04-08 | 267 | 23 | 
 | 2023-04-07 | 229 | 17 | 
 

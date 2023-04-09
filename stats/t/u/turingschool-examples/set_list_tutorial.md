@@ -1,6 +1,6 @@
 # turingschool-examples/set_list_tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1 | 89 | 
 | 2023-04-07 | 1 | 89 | 
 | 2023-04-06 | 1 | 89 | 
 | 2023-04-05 | 1 | 89 | 

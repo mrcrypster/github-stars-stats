@@ -1,10 +1,10 @@
 # yamashi/CyberEngineTweaks - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 255
 
-★ Stars: 3983
+★ Stars: 3982
 
 [Open repository](https://github.com/yamashi/CyberEngineTweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3982 | 255 | 
 | 2023-04-07 | 3983 | 255 | 
 | 2023-04-06 | 3983 | 255 | 
 | 2023-04-05 | 3980 | 255 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 3977 | 256 | 
 | 2023-03-12 | 3978 | 256 | 
 | 2023-03-11 | 3978 | 256 | 
-| 2023-03-09 | 3977 | 256 | 
 

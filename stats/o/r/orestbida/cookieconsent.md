@@ -1,10 +1,10 @@
 # orestbida/cookieconsent - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 281
 
-★ Stars: 2299
+★ Stars: 2301
 
 [Open repository](https://github.com/orestbida/cookieconsent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2301 | 281 | 
 | 2023-04-07 | 2299 | 281 | 
 | 2023-04-06 | 2293 | 280 | 
 | 2023-04-05 | 2283 | 278 | 

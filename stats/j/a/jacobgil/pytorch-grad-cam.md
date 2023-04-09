@@ -1,10 +1,10 @@
 # jacobgil/pytorch-grad-cam - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1248
 
-★ Stars: 7151
+★ Stars: 7159
 
 [Open repository](https://github.com/jacobgil/pytorch-grad-cam)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7159 | 1248 | 
 | 2023-04-07 | 7151 | 1248 | 
 | 2023-04-06 | 7142 | 1248 | 
 | 2023-04-05 | 7136 | 1248 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 6948 | 1226 | 
 | 2023-03-12 | 6943 | 1224 | 
 | 2023-03-10 | 6941 | 1224 | 
-| 2023-03-09 | 6929 | 1220 | 
 

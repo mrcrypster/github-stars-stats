@@ -1,6 +1,6 @@
 # upenn-cis5520/05-quickcheck - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | - | 16 | 
 | 2023-04-07 | - | 16 | 
 | 2023-04-06 | - | 16 | 
 | 2023-04-05 | - | 16 | 

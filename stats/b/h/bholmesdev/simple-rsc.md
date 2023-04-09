@@ -1,10 +1,10 @@
 # bholmesdev/simple-rsc - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 273
+★ Stars: 278
 
 [Open repository](https://github.com/bholmesdev/simple-rsc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 278 | 14 | 
 | 2023-04-07 | 273 | 13 | 
 | 2023-04-06 | 250 | 10 | 
 | 2023-04-05 | 227 | 9 | 

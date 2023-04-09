@@ -1,6 +1,6 @@
 # lukesyy/jd_yun - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 321
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 644 | 321 | 
 | 2023-04-07 | 644 | 321 | 
 | 2023-04-06 | 644 | 321 | 
 | 2023-04-05 | 644 | 321 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 645 | 322 | 
 | 2023-03-12 | 645 | 322 | 
 | 2023-03-11 | 645 | 321 | 
-| 2023-03-09 | 645 | 320 | 
 

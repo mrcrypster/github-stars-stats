@@ -1,10 +1,10 @@
 # oslabs-beta/AstroSpect - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/oslabs-beta/AstroSpect)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 68 | - | 
 | 2023-04-07 | 67 | - | 
 | 2023-04-06 | 67 | - | 
 | 2023-04-05 | 67 | - | 

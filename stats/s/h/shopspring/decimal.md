@@ -1,10 +1,10 @@
 # shopspring/decimal - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 534
 
-★ Stars: 4935
+★ Stars: 4937
 
 [Open repository](https://github.com/shopspring/decimal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4937 | 534 | 
 | 2023-04-07 | 4935 | 534 | 
 | 2023-04-06 | 4934 | 534 | 
 | 2023-04-05 | 4931 | 533 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 4864 | 528 | 
 | 2023-03-11 | 4863 | 528 | 
 | 2023-03-10 | 4861 | 528 | 
-| 2023-03-09 | 4856 | 528 | 
 

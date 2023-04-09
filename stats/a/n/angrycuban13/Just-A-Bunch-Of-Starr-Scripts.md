@@ -1,10 +1,10 @@
 # angrycuban13/Just-A-Bunch-Of-Starr-Scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 52 | 9 | 
 | 2023-04-07 | 51 | 9 | 
 | 2023-04-06 | 51 | 9 | 
 | 2023-04-05 | 50 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 49 | 9 | 
 | 2023-03-12 | 49 | 9 | 
 | 2023-03-10 | 49 | 9 | 
-| 2023-03-09 | 49 | 9 | 
 

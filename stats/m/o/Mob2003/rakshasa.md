@@ -1,10 +1,10 @@
 # Mob2003/rakshasa - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 514
+★ Stars: 519
 
 [Open repository](https://github.com/Mob2003/rakshasa)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 519 | 68 | 
 | 2023-04-07 | 514 | 67 | 
 | 2023-04-06 | 508 | 64 | 
 | 2023-04-05 | 497 | 63 | 

@@ -1,10 +1,10 @@
 # TeneikaAskew/productmanagementroadmap - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/TeneikaAskew/productmanagementroadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 55 | 4 | 
 | 2023-04-07 | 54 | 4 | 
 | 2023-04-06 | 54 | 4 | 
 | 2023-04-05 | 54 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 55 | 4 | 
 | 2023-03-12 | 55 | 4 | 
 | 2023-03-10 | 55 | 4 | 
-| 2023-03-09 | 55 | 4 | 
 

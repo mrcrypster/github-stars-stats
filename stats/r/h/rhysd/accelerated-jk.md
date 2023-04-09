@@ -1,6 +1,6 @@
 # rhysd/accelerated-jk - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 126 | 3 | 
 | 2023-04-07 | 126 | 3 | 
 | 2023-04-06 | 126 | 3 | 
 | 2023-04-05 | 126 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 126 | 3 | 
 | 2023-03-12 | 126 | 3 | 
 | 2023-03-10 | 125 | 3 | 
-| 2023-03-09 | 125 | 3 | 
 

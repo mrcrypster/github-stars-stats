@@ -1,6 +1,6 @@
 # Wowu/docker-rollout - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1101 | 25 | 
 | 2023-04-07 | 1101 | 25 | 
 | 2023-04-06 | 1100 | 25 | 
 | 2023-04-05 | 1097 | 25 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1064 | 23 | 
 | 2023-03-12 | 1063 | 23 | 
 | 2023-03-11 | 1061 | 23 | 
-| 2023-03-09 | 1056 | 23 | 
 

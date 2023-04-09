@@ -1,6 +1,6 @@
 # milligram/milligram - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 644
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9955 | 644 | 
 | 2023-04-07 | 9955 | 644 | 
 | 2023-04-06 | 9952 | 644 | 
 | 2023-04-05 | 9951 | 644 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 9936 | 645 | 
 | 2023-03-11 | 9934 | 645 | 
 | 2023-03-10 | 9934 | 645 | 
-| 2023-03-09 | 9932 | 646 | 
 

@@ -1,10 +1,10 @@
 # hisxo/ReconAIzer - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 268
+★ Stars: 275
 
 [Open repository](https://github.com/hisxo/ReconAIzer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 275 | 37 | 
 | 2023-04-07 | 268 | 36 | 
 | 2023-04-06 | 259 | 34 | 
 | 2023-04-05 | 248 | 31 | 

@@ -1,6 +1,6 @@
 # dromara/payment-spring-boot - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 561 | 128 | 
 | 2023-04-07 | 561 | 128 | 
 | 2023-04-06 | 560 | 128 | 
 | 2023-04-05 | 558 | 128 | 

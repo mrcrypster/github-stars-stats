@@ -1,8 +1,8 @@
 # Sentdex/ChatGPT-at-Home - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 312
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 312 | 92 | 
 | 2023-04-07 | 312 | 91 | 
 | 2023-04-06 | 310 | 91 | 
 | 2023-04-05 | 309 | 91 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 296 | 87 | 
 | 2023-03-11 | 296 | 87 | 
 | 2023-03-10 | 296 | 87 | 
-| 2023-03-09 | 295 | 87 | 
 

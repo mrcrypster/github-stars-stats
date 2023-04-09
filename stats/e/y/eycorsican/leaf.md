@@ -1,10 +1,10 @@
 # eycorsican/leaf - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 358
 
-★ Stars: 1837
+★ Stars: 1838
 
 [Open repository](https://github.com/eycorsican/leaf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1838 | 358 | 
 | 2023-04-07 | 1837 | 358 | 
 | 2023-04-06 | 1835 | 358 | 
 | 2023-04-05 | 1831 | 356 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1759 | 344 | 
 | 2023-03-11 | 1758 | 344 | 
 | 2023-03-10 | 1757 | 344 | 
-| 2023-03-09 | 1757 | 343 | 
 

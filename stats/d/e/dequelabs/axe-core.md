@@ -1,10 +1,10 @@
 # dequelabs/axe-core - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 726
 
-★ Stars: 5041
+★ Stars: 5040
 
 [Open repository](https://github.com/dequelabs/axe-core)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5040 | 726 | 
 | 2023-04-07 | 5041 | 726 | 
 | 2023-04-06 | 5040 | 726 | 
 | 2023-04-05 | 5035 | 725 | 

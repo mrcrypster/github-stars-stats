@@ -1,10 +1,10 @@
 # Mikusch/friendlyfire - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Mikusch/friendlyfire)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 10 | 1 | 
 | 2023-04-07 | 9 | 1 | 
 | 2023-04-06 | 9 | 1 | 
 | 2023-04-04 | 9 | 1 | 

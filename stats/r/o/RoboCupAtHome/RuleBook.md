@@ -1,10 +1,10 @@
 # RoboCupAtHome/RuleBook - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 50
 
-★ Stars: 116
+★ Stars: 115
 
 [Open repository](https://github.com/RoboCupAtHome/RuleBook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 115 | 50 | 
 | 2023-04-07 | 116 | 50 | 
 | 2023-04-06 | 116 | 50 | 
 | 2023-04-05 | 116 | 50 | 

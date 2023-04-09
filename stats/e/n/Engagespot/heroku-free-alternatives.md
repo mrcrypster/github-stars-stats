@@ -1,6 +1,6 @@
 # Engagespot/heroku-free-alternatives - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1533 | 79 | 
 | 2023-04-07 | 1533 | 79 | 
 | 2023-04-06 | 1533 | 79 | 
 | 2023-04-05 | 1532 | 79 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1518 | 76 | 
 | 2023-03-11 | 1517 | 76 | 
 | 2023-03-10 | 1516 | 76 | 
-| 2023-03-09 | 1513 | 76 | 
 

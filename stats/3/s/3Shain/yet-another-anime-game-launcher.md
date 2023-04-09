@@ -1,10 +1,10 @@
 # 3Shain/yet-another-anime-game-launcher - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 161
+★ Stars: 165
 
 [Open repository](https://github.com/3Shain/yet-another-anime-game-launcher)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 165 | 13 | 
 | 2023-04-07 | 161 | 13 | 
 | 2023-04-06 | 155 | 12 | 
 | 2023-04-05 | 148 | 12 | 

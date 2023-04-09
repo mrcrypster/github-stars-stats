@@ -1,6 +1,6 @@
 # dfithian/chez-grater - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 38 | 1 | 
 | 2023-04-07 | 38 | 1 | 
 | 2023-04-06 | 38 | 1 | 
 | 2023-04-05 | 38 | 1 | 

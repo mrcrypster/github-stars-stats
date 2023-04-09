@@ -1,10 +1,10 @@
 # Python-World/python-mini-projects - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 3994
+☋ Forks: 3997
 
-★ Stars: 12437
+★ Stars: 12442
 
 [Open repository](https://github.com/Python-World/python-mini-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 12442 | 3997 | 
 | 2023-04-07 | 12437 | 3994 | 
 | 2023-04-06 | 12435 | 3995 | 
 | 2023-04-05 | 12426 | 3994 | 

@@ -1,6 +1,6 @@
 # kyxiaxiang/CrackSleeve4.7 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 91 | 21 | 
 | 2023-04-07 | 91 | 21 | 
 | 2023-04-06 | 91 | 21 | 
 | 2023-04-05 | 91 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 90 | 21 | 
 | 2023-03-11 | 90 | 21 | 
 | 2023-03-10 | 90 | 21 | 
-| 2023-03-09 | 90 | 21 | 
 

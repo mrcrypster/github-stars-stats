@@ -1,10 +1,10 @@
 # rouxhaver/scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 33
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/rouxhaver/scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6 | 33 | 
 | 2023-04-07 | 5 | 33 | 
 | 2023-04-06 | 5 | 33 | 
 | 2023-04-05 | 5 | 33 | 

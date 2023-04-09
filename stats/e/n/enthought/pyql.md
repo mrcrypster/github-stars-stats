@@ -1,6 +1,6 @@
 # enthought/pyql - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 766 | 177 | 
 | 2023-04-07 | 766 | 177 | 
 | 2023-04-06 | 766 | 177 | 
 | 2023-04-05 | 766 | 177 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 762 | 176 | 
 | 2023-03-12 | 761 | 176 | 
 | 2023-03-10 | 761 | 176 | 
-| 2023-03-09 | 761 | 176 | 
 

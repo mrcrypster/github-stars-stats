@@ -1,10 +1,10 @@
 # apecloud/website - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 6
 
 [Open repository](https://github.com/apecloud/website)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6 | 1 | 
 | 2023-04-07 | 4 | 1 | 
 | 2023-04-06 | 4 | 1 | 
 | 2023-04-05 | 4 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 4 | 1 | 
 | 2023-03-12 | 4 | 1 | 
 | 2023-03-10 | 4 | 1 | 
-| 2023-03-09 | 4 | 1 | 
 

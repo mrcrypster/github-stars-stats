@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 29 | 24 | 
 | 2023-04-07 | 29 | 24 | 
 | 2023-04-06 | 29 | 24 | 
 | 2023-04-05 | 29 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 28 | 24 | 
 | 2023-03-12 | 28 | 24 | 
 | 2023-03-10 | 28 | 24 | 
-| 2023-03-09 | 28 | 24 | 
 

@@ -1,10 +1,10 @@
 # Project-MONAI/GenerativeModels - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/Project-MONAI/GenerativeModels)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 172 | 15 | 
 | 2023-04-07 | 171 | 15 | 
 | 2023-04-06 | 170 | 13 | 
 | 2023-04-05 | 167 | 13 | 

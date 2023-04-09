@@ -1,10 +1,10 @@
 # OneDrive/onedrive-api-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 246
+☋ Forks: 245
 
-★ Stars: 420
+★ Stars: 421
 
 [Open repository](https://github.com/OneDrive/onedrive-api-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 421 | 245 | 
 | 2023-04-07 | 420 | 246 | 
 | 2023-04-06 | 420 | 246 | 
 | 2023-04-05 | 420 | 246 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 418 | 241 | 
 | 2023-03-12 | 418 | 241 | 
 | 2023-03-10 | 418 | 241 | 
-| 2023-03-09 | 417 | 241 | 
 

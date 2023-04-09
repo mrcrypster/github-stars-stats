@@ -1,10 +1,10 @@
 # sqlancer/sqlancer - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 218
+☋ Forks: 219
 
-★ Stars: 1206
+★ Stars: 1208
 
 [Open repository](https://github.com/sqlancer/sqlancer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1208 | 219 | 
 | 2023-04-07 | 1206 | 218 | 
 | 2023-04-06 | 1202 | 218 | 
 | 2023-04-05 | 1199 | 217 | 

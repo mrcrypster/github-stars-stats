@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-enumerables-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 2483
+☋ Forks: 2484
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2 | 2484 | 
 | 2023-04-07 | 2 | 2483 | 
 | 2023-04-06 | 2 | 2483 | 
 | 2023-04-05 | 2 | 2483 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2 | 2452 | 
 | 2023-03-11 | 2 | 2450 | 
 | 2023-03-10 | 2 | 2448 | 
-| 2023-03-09 | 2 | 2442 | 
 

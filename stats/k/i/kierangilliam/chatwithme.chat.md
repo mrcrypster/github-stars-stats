@@ -1,10 +1,10 @@
 # kierangilliam/chatwithme.chat - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/kierangilliam/chatwithme.chat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 79 | 11 | 
 | 2023-04-07 | 78 | 11 | 
 | 2023-04-06 | 78 | 11 | 
 | 2023-04-05 | 78 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 49 | 8 | 
 | 2023-03-11 | 48 | 8 | 
 | 2023-03-10 | 46 | 8 | 
-| 2023-03-09 | 46 | 8 | 
 

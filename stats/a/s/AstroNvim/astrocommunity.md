@@ -1,10 +1,10 @@
 # AstroNvim/astrocommunity - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 29
+☋ Forks: 31
 
-★ Stars: 152
+★ Stars: 155
 
 [Open repository](https://github.com/AstroNvim/astrocommunity)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 155 | 31 | 
+| 2023-04-08 | 155 | 30 | 
 | 2023-04-07 | 152 | 29 | 
 | 2023-04-06 | 140 | 27 | 
 | 2023-04-05 | 137 | 27 | 

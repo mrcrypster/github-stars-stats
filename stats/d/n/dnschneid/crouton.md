@@ -1,10 +1,10 @@
 # dnschneid/crouton - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1223
+☋ Forks: 1224
 
-★ Stars: 8323
+★ Stars: 8324
 
 [Open repository](https://github.com/dnschneid/crouton)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 8324 | 1224 | 
 | 2023-04-07 | 8323 | 1223 | 
 | 2023-04-06 | 8324 | 1222 | 
 | 2023-04-05 | 8322 | 1222 | 

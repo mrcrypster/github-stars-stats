@@ -1,10 +1,10 @@
 # KindlingProject/kindling - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 345
+★ Stars: 347
 
 [Open repository](https://github.com/KindlingProject/kindling)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 347 | 66 | 
 | 2023-04-07 | 345 | 65 | 
 | 2023-04-06 | 345 | 65 | 
 | 2023-04-05 | 345 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 334 | 62 | 
 | 2023-03-12 | 334 | 62 | 
 | 2023-03-11 | 333 | 62 | 
-| 2023-03-09 | 333 | 62 | 
 

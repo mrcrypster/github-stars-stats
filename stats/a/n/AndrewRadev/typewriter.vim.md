@@ -1,10 +1,10 @@
 # AndrewRadev/typewriter.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 58
+★ Stars: 60
 
 [Open repository](https://github.com/AndrewRadev/typewriter.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 60 | - | 
 | 2023-04-07 | 58 | - | 
 | 2023-04-06 | 56 | - | 
 | 2023-04-05 | 55 | - | 

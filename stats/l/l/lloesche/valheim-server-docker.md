@@ -1,10 +1,10 @@
 # lloesche/valheim-server-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 234
 
-★ Stars: 1552
+★ Stars: 1554
 
 [Open repository](https://github.com/lloesche/valheim-server-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1554 | 234 | 
 | 2023-04-07 | 1552 | 234 | 
 | 2023-04-06 | 1552 | 234 | 
 | 2023-04-05 | 1552 | 234 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1502 | 226 | 
 | 2023-03-11 | 1499 | 226 | 
 | 2023-03-10 | 1499 | 227 | 
-| 2023-03-09 | 1497 | 227 | 
 

@@ -1,10 +1,10 @@
 # slatinsky/DiscordChatExporter-frontend - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 121
+★ Stars: 123
 
 [Open repository](https://github.com/slatinsky/DiscordChatExporter-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 123 | 3 | 
 | 2023-04-07 | 121 | 3 | 
 | 2023-04-06 | 121 | 3 | 
 | 2023-04-05 | 121 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 85 | 3 | 
 | 2023-03-11 | 84 | 3 | 
 | 2023-03-10 | 84 | 3 | 
-| 2023-03-09 | 82 | 3 | 
 

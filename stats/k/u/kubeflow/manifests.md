@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 678
 
-★ Stars: 558
+★ Stars: 560
 
 [Open repository](https://github.com/kubeflow/manifests)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 558 | 678 | 
+| 2023-04-08 | 560 | 678 | 
 | 2023-04-07 | 557 | 678 | 
 | 2023-04-06 | 556 | 677 | 
 | 2023-04-05 | 556 | 676 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 541 | 660 | 
 | 2023-03-11 | 541 | 660 | 
 | 2023-03-10 | 540 | 660 | 
-| 2023-03-09 | 538 | 659 | 
 

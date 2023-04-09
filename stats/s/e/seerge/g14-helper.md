@@ -1,10 +1,10 @@
 # seerge/g14-helper - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 426
+★ Stars: 439
 
 [Open repository](https://github.com/seerge/g14-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 439 | 20 | 
 | 2023-04-07 | 426 | 19 | 
 | 2023-04-06 | 417 | 19 | 
 | 2023-04-05 | 400 | 18 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 124 | 7 | 
 | 2023-03-12 | 120 | 7 | 
 | 2023-03-10 | 117 | 7 | 
-| 2023-03-09 | 115 | 6 | 
 

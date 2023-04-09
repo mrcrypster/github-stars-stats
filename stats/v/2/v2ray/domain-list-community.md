@@ -1,10 +1,10 @@
 # v2ray/domain-list-community - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 402
 
-★ Stars: 1862
+★ Stars: 1863
 
 [Open repository](https://github.com/v2ray/domain-list-community)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1863 | 402 | 
 | 2023-04-07 | 1862 | 402 | 
 | 2023-04-06 | 1861 | 402 | 
 | 2023-04-05 | 1858 | 401 | 

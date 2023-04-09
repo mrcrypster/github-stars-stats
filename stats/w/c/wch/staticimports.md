@@ -1,6 +1,6 @@
 # wch/staticimports - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 50 | 6 | 
 | 2023-04-07 | 50 | 6 | 
 | 2023-04-06 | 50 | 6 | 
 | 2023-04-05 | 50 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 51 | 6 | 
 | 2023-03-11 | 51 | 6 | 
 | 2023-03-10 | 51 | 6 | 
-| 2023-03-09 | 51 | 6 | 
 

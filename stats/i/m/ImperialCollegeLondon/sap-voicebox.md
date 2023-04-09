@@ -1,6 +1,6 @@
 # ImperialCollegeLondon/sap-voicebox - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 197 | 61 | 
 | 2023-04-07 | 197 | 61 | 
 | 2023-04-06 | 196 | 61 | 
 | 2023-04-05 | 196 | 61 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 194 | 61 | 
 | 2023-03-12 | 193 | 61 | 
 | 2023-03-10 | 192 | 61 | 
-| 2023-03-09 | 191 | 61 | 
 

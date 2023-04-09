@@ -1,10 +1,10 @@
 # pytorch/audio - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 548
 
-★ Stars: 2042
+★ Stars: 2043
 
 [Open repository](https://github.com/pytorch/audio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2043 | 548 | 
 | 2023-04-08 | 2042 | 548 | 
 | 2023-04-07 | 2039 | 547 | 
 | 2023-04-05 | 2039 | 546 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 2017 | 530 | 
 | 2023-03-12 | 2016 | 529 | 
 | 2023-03-11 | 2014 | 529 | 
-| 2023-03-09 | 2011 | 529 | 
 

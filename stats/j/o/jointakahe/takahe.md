@@ -1,10 +1,10 @@
 # jointakahe/takahe - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 62
 
-★ Stars: 834
+★ Stars: 835
 
 [Open repository](https://github.com/jointakahe/takahe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 835 | 62 | 
 | 2023-04-07 | 834 | 62 | 
 | 2023-04-06 | 832 | 62 | 
 | 2023-04-05 | 829 | 62 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 809 | 60 | 
 | 2023-03-12 | 809 | 59 | 
 | 2023-03-11 | 809 | 59 | 
-| 2023-03-09 | 810 | 60 | 
 

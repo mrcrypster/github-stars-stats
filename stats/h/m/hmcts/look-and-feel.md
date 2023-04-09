@@ -1,6 +1,6 @@
 # hmcts/look-and-feel - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3 | 3 | 
 | 2023-04-07 | 3 | 3 | 
 | 2023-04-06 | 3 | 3 | 
 | 2023-04-05 | 3 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2 | 3 | 
 | 2023-03-11 | 2 | 3 | 
 | 2023-03-10 | 2 | 3 | 
-| 2023-03-09 | 2 | 3 | 
 

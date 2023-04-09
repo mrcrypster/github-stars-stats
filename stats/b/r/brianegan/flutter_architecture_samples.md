@@ -1,10 +1,10 @@
 # brianegan/flutter_architecture_samples - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1688
+☋ Forks: 1687
 
-★ Stars: 8369
+★ Stars: 8368
 
 [Open repository](https://github.com/brianegan/flutter_architecture_samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 8368 | 1687 | 
 | 2023-04-07 | 8369 | 1688 | 
 | 2023-04-06 | 8368 | 1687 | 
 | 2023-04-05 | 8369 | 1687 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 8335 | 1681 | 
 | 2023-03-12 | 8330 | 1681 | 
 | 2023-03-11 | 8328 | 1680 | 
-| 2023-03-10 | 8324 | 1679 | 
 

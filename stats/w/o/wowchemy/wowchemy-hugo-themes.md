@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 2795
 
-★ Stars: 7115
+★ Stars: 7116
 
 [Open repository](https://github.com/wowchemy/wowchemy-hugo-themes)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 7115 | 2795 | 
+| 2023-04-08 | 7116 | 2795 | 
 | 2023-04-07 | 7114 | 2795 | 
 | 2023-04-06 | 7112 | 2795 | 
 | 2023-04-05 | 7105 | 2793 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 7057 | 2785 | 
 | 2023-03-11 | 7051 | 2783 | 
 | 2023-03-10 | 7050 | 2783 | 
-| 2023-03-09 | 7050 | 2783 | 
 

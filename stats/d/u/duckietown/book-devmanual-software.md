@@ -1,10 +1,10 @@
 # duckietown/book-devmanual-software - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/duckietown/book-devmanual-software)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1 | - | 
 | 2023-04-07 | - | - | 
 | 2023-04-06 | - | - | 
 | 2023-04-05 | - | - | 

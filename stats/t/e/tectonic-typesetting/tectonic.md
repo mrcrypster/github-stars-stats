@@ -1,10 +1,10 @@
 # tectonic-typesetting/tectonic - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 131
 
-★ Stars: 3282
+★ Stars: 3283
 
 [Open repository](https://github.com/tectonic-typesetting/tectonic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3283 | 131 | 
 | 2023-04-07 | 3282 | 131 | 
 | 2023-04-06 | 3282 | 131 | 
 | 2023-04-05 | 3280 | 131 | 

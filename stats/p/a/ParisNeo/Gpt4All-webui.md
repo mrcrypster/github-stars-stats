@@ -1,10 +1,10 @@
 # ParisNeo/Gpt4All-webui - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/ParisNeo/Gpt4All-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 40 | 8 | 
 | 2023-04-07 | 39 | 8 | 
 | 2023-04-06 | 36 | 8 | 
 | 2023-04-05 | 25 | 8 | 

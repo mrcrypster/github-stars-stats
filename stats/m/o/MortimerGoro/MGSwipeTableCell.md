@@ -1,6 +1,6 @@
 # MortimerGoro/MGSwipeTableCell - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1089
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6961 | 1089 | 
 | 2023-04-07 | 6961 | 1089 | 
 | 2023-04-06 | 6961 | 1089 | 
 | 2023-04-05 | 6960 | 1089 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 6961 | 1091 | 
 | 2023-03-11 | 6961 | 1091 | 
 | 2023-03-10 | 6960 | 1092 | 
-| 2023-03-09 | 6960 | 1092 | 
 

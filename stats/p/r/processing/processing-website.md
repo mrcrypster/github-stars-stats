@@ -1,8 +1,8 @@
 # processing/processing-website - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 40 | 56 | 
 | 2023-04-07 | 40 | 55 | 
 | 2023-04-06 | 40 | 55 | 
 | 2023-04-05 | 40 | 55 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 38 | 54 | 
 | 2023-03-12 | 38 | 54 | 
 | 2023-03-11 | 38 | 54 | 
-| 2023-03-09 | 37 | 53 | 
 

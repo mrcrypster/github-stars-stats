@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 4001
 
-★ Stars: 7532
+★ Stars: 7534
 
 [Open repository](https://github.com/gcc-mirror/gcc)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 7532 | 4001 | 
+| 2023-04-08 | 7534 | 4001 | 
 | 2023-04-07 | 7532 | 4000 | 
 | 2023-04-06 | 7526 | 3995 | 
 | 2023-04-05 | 7519 | 3995 | 

@@ -1,10 +1,10 @@
 # s0md3v/Photon - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1386
+☋ Forks: 1387
 
-★ Stars: 9519
+★ Stars: 9522
 
 [Open repository](https://github.com/s0md3v/Photon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9522 | 1387 | 
 | 2023-04-07 | 9519 | 1386 | 
 | 2023-04-06 | 9515 | 1385 | 
 | 2023-04-05 | 9511 | 1385 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 9459 | 1382 | 
 | 2023-03-12 | 9456 | 1382 | 
 | 2023-03-11 | 9455 | 1381 | 
-| 2023-03-10 | 9452 | 1381 | 
 

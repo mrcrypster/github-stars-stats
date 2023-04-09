@@ -1,6 +1,6 @@
 # TheMuppets/proprietary_vendor_xiaomi_platina - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | - | - | 
 | 2023-04-07 | - | - | 
 | 2023-04-06 | - | - | 
 | 2023-04-05 | - | - | 

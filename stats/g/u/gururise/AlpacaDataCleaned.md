@@ -1,10 +1,10 @@
 # gururise/AlpacaDataCleaned - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 84
 
-★ Stars: 785
+★ Stars: 792
 
 [Open repository](https://github.com/gururise/AlpacaDataCleaned)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 792 | 84 | 
 | 2023-04-07 | 785 | 84 | 
 | 2023-04-06 | 767 | 80 | 
 | 2023-04-05 | 747 | 79 | 

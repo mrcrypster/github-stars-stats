@@ -1,6 +1,6 @@
 # jbtule/cdto - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 225
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2186 | 225 | 
 | 2023-04-07 | 2186 | 225 | 
 | 2023-04-06 | 2178 | 225 | 
 | 2023-04-05 | 2178 | 225 | 

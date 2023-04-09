@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 2564
+☋ Forks: 2563
 
-★ Stars: 6631
+★ Stars: 6632
 
 [Open repository](https://github.com/PHPOffice/PHPWord)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 6631 | 2564 | 
+| 2023-04-08 | 6632 | 2563 | 
 | 2023-04-07 | 6631 | 2564 | 
 | 2023-04-06 | 6631 | 2564 | 
 | 2023-04-05 | 6629 | 2563 | 

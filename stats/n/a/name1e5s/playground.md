@@ -1,10 +1,10 @@
 # name1e5s/playground - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 28
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/name1e5s/playground)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 35 | 28 | 
 | 2023-04-07 | 34 | 28 | 
 | 2023-04-06 | 34 | 28 | 
 | 2023-04-05 | 34 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 32 | 27 | 
 | 2023-03-12 | 32 | 27 | 
 | 2023-03-10 | 32 | 27 | 
-| 2023-03-09 | 32 | 27 | 
 

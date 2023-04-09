@@ -1,10 +1,10 @@
 # mmarienko/debut - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 28
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/mmarienko/debut)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 8 | 28 | 
 | 2023-04-07 | 7 | 28 | 
 | 2023-04-06 | 7 | 26 | 
 | 2023-04-05 | 7 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 7 | 22 | 
 | 2023-03-11 | 7 | 22 | 
 | 2023-03-10 | 7 | 22 | 
-| 2023-03-09 | 7 | 22 | 
 

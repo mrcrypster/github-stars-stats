@@ -1,10 +1,10 @@
 # linktimecloud/big-data-on-k8s - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/linktimecloud/big-data-on-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 30 | 8 | 
 | 2023-04-07 | 29 | 8 | 
 | 2023-04-06 | 28 | 8 | 
 | 2023-04-05 | 28 | 8 | 

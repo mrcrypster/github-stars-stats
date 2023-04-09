@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 449
 
-★ Stars: 2458
+★ Stars: 2459
 
 [Open repository](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 2458 | 449 | 
+| 2023-04-08 | 2459 | 449 | 
 | 2023-04-07 | 2458 | 449 | 
 | 2023-04-06 | 2457 | 449 | 
 | 2023-04-05 | 2454 | 448 | 

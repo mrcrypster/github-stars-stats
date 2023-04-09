@@ -1,10 +1,10 @@
 # kkzzhizhou/scoop-apps - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 45
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/kkzzhizhou/scoop-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 227 | 45 | 
 | 2023-04-07 | 226 | 45 | 
 | 2023-04-06 | 226 | 45 | 
 | 2023-04-05 | 226 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 223 | 45 | 
 | 2023-03-11 | 223 | 45 | 
 | 2023-03-10 | 223 | 45 | 
-| 2023-03-09 | 223 | 45 | 
 

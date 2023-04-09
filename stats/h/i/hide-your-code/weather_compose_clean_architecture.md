@@ -1,6 +1,6 @@
 # hide-your-code/weather_compose_clean_architecture - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 83 | 31 | 
 | 2023-04-07 | 83 | 31 | 
 | 2023-04-06 | 82 | 30 | 
 | 2023-04-05 | 81 | 30 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 71 | 30 | 
 | 2023-03-12 | 71 | 30 | 
 | 2023-03-11 | 71 | 30 | 
-| 2023-03-10 | 70 | 30 | 
 

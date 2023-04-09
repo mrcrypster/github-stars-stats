@@ -1,6 +1,6 @@
 # Hank0626/FPGA-Game-Design - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 23 | - | 
 | 2023-04-08 | 23 | - | 
 | 2023-04-06 | 23 | - | 
 | 2023-04-05 | 23 | - | 

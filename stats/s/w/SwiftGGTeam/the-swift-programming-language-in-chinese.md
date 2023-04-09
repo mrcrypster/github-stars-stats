@@ -1,10 +1,10 @@
 # SwiftGGTeam/the-swift-programming-language-in-chinese - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 5160
+☋ Forks: 5162
 
-★ Stars: 20743
+★ Stars: 20744
 
 [Open repository](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 20744 | 5162 | 
 | 2023-04-07 | 20743 | 5160 | 
 | 2023-04-06 | 20742 | 5161 | 
 | 2023-04-05 | 20741 | 5161 | 

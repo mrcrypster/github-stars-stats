@@ -1,10 +1,10 @@
 # InterviewReady/Low-Level-Design - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 426
+★ Stars: 428
 
 [Open repository](https://github.com/InterviewReady/Low-Level-Design)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 428 | 84 | 
 | 2023-04-07 | 426 | 83 | 
 | 2023-04-06 | 425 | 83 | 
 | 2023-04-05 | 425 | 83 | 

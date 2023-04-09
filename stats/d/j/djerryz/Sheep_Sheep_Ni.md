@@ -1,6 +1,6 @@
 # djerryz/Sheep_Sheep_Ni - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 156 | 30 | 
 | 2023-04-07 | 156 | 30 | 
 | 2023-04-06 | 156 | 30 | 
 | 2023-04-05 | 156 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 156 | 31 | 
 | 2023-03-12 | 156 | 31 | 
 | 2023-03-11 | 156 | 31 | 
-| 2023-03-09 | 156 | 31 | 
 

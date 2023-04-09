@@ -1,10 +1,10 @@
 # PrivateRouter-LLC/openwrt-x86 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/PrivateRouter-LLC/openwrt-x86)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 15 | 2 | 
 | 2023-04-08 | 14 | 2 | 
 | 2023-04-07 | 14 | 2 | 
 | 2023-04-06 | 14 | 2 | 

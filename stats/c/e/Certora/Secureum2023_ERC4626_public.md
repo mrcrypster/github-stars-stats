@@ -1,10 +1,10 @@
 # Certora/Secureum2023_ERC4626_public - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/Certora/Secureum2023_ERC4626_public)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1 | 7 | 
 | 2023-04-08 | 2 | 7 | 
 | 2023-04-06 | 2 | 7 | 
 | 2023-04-05 | 2 | 7 | 

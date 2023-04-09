@@ -1,6 +1,6 @@
 # vim-scripts/locator - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5 | 1 | 
 | 2023-04-07 | 5 | 1 | 
 | 2023-04-06 | 5 | 1 | 
 | 2023-04-05 | 5 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 5 | 1 | 
 | 2023-03-11 | 5 | 1 | 
 | 2023-03-10 | 5 | 1 | 
-| 2023-03-09 | 5 | 1 | 
 

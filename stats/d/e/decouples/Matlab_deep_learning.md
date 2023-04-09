@@ -1,6 +1,6 @@
 # decouples/Matlab_deep_learning - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 195 | 122 | 
 | 2023-04-07 | 195 | 122 | 
 | 2023-04-06 | 194 | 122 | 
 | 2023-04-05 | 192 | 121 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 186 | 119 | 
 | 2023-03-12 | 186 | 119 | 
 | 2023-03-10 | 186 | 119 | 
-| 2023-03-09 | 186 | 119 | 
 

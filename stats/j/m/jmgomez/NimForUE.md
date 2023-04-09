@@ -1,10 +1,10 @@
 # jmgomez/NimForUE - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 14
 
-★ Stars: 299
+★ Stars: 300
 
 [Open repository](https://github.com/jmgomez/NimForUE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 300 | 14 | 
 | 2023-04-07 | 299 | 14 | 
 | 2023-04-06 | 299 | 14 | 
 | 2023-04-05 | 299 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 268 | 13 | 
 | 2023-03-11 | 266 | 13 | 
 | 2023-03-10 | 262 | 13 | 
-| 2023-03-09 | 262 | 13 | 
 

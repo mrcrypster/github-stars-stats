@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-3-building-sinatra-applications - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1857
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1 | 1857 | 
 | 2023-04-07 | 1 | 1857 | 
 | 2023-04-06 | 1 | 1855 | 
 | 2023-04-05 | 1 | 1855 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1 | 1839 | 
 | 2023-03-11 | 1 | 1838 | 
 | 2023-03-10 | 1 | 1836 | 
-| 2023-03-09 | 1 | 1833 | 
 

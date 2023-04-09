@@ -1,10 +1,10 @@
 # noah-nuebling/mac-mouse-fix - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 83
 
-★ Stars: 2946
+★ Stars: 2948
 
 [Open repository](https://github.com/noah-nuebling/mac-mouse-fix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2948 | 83 | 
 | 2023-04-07 | 2946 | 83 | 
 | 2023-04-06 | 2944 | 83 | 
 | 2023-04-05 | 2939 | 83 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2847 | 82 | 
 | 2023-03-11 | 2844 | 82 | 
 | 2023-03-10 | 2839 | 82 | 
-| 2023-03-09 | 2835 | 82 | 
 

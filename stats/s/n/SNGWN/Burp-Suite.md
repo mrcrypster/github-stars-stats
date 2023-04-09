@@ -1,6 +1,6 @@
 # SNGWN/Burp-Suite - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 655 | 279 | 
 | 2023-04-07 | 655 | 279 | 
 | 2023-04-06 | 655 | 279 | 
 | 2023-04-05 | 650 | 277 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 615 | 266 | 
 | 2023-03-11 | 614 | 265 | 
 | 2023-03-10 | 613 | 264 | 
-| 2023-03-09 | 612 | 264 | 
 

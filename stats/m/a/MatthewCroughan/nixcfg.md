@@ -1,10 +1,10 @@
 # MatthewCroughan/nixcfg - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/MatthewCroughan/nixcfg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 83 | 5 | 
 | 2023-04-07 | 82 | 5 | 
 | 2023-04-06 | 82 | 5 | 
 | 2023-04-05 | 82 | 5 | 

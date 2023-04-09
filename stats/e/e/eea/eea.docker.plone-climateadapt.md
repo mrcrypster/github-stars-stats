@@ -1,6 +1,6 @@
 # eea/eea.docker.plone-climateadapt - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3 | 2 | 
 | 2023-04-08 | 3 | 2 | 
 | 2023-04-07 | 3 | 2 | 
 | 2023-04-05 | 4 | 2 | 

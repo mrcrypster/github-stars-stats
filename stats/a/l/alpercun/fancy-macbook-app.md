@@ -1,10 +1,10 @@
 # alpercun/fancy-macbook-app - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/alpercun/fancy-macbook-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 56 | 7 | 
 | 2023-04-07 | 54 | 7 | 
 | 2023-04-06 | 54 | 7 | 
 | 2023-04-04 | 54 | 7 | 

@@ -1,6 +1,6 @@
 # thephpleague/commonmark - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2440 | 187 | 
 | 2023-04-07 | 2440 | 187 | 
 | 2023-04-06 | 2440 | 187 | 
 | 2023-04-05 | 2440 | 187 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 2423 | 185 | 
 | 2023-03-11 | 2423 | 185 | 
 | 2023-03-10 | 2423 | 185 | 
-| 2023-03-09 | 2422 | 186 | 
 

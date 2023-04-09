@@ -1,8 +1,8 @@
 # evrone/postcss-px-to-viewport - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 374
+☋ Forks: 375
 
 ★ Stars: 2632
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2632 | 375 | 
 | 2023-04-08 | 2632 | 374 | 
 | 2023-04-06 | 2632 | 374 | 
 | 2023-04-05 | 2630 | 374 | 

@@ -1,10 +1,10 @@
 # pmndrs/gltfjsx - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 191
+☋ Forks: 192
 
-★ Stars: 3073
+★ Stars: 3075
 
 [Open repository](https://github.com/pmndrs/gltfjsx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3075 | 192 | 
 | 2023-04-07 | 3073 | 191 | 
 | 2023-04-06 | 3069 | 191 | 
 | 2023-04-05 | 3064 | 191 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2990 | 184 | 
 | 2023-03-11 | 2989 | 184 | 
 | 2023-03-10 | 2985 | 184 | 
-| 2023-03-09 | 2978 | 184 | 
 

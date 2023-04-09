@@ -1,10 +1,10 @@
 # tweag/funflow - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 31
 
-★ Stars: 361
+★ Stars: 360
 
 [Open repository](https://github.com/tweag/funflow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 360 | 31 | 
 | 2023-04-07 | 361 | 31 | 
 | 2023-04-06 | 361 | 31 | 
 | 2023-04-05 | 361 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 362 | 31 | 
 | 2023-03-11 | 362 | 31 | 
 | 2023-03-10 | 362 | 31 | 
-| 2023-03-09 | 362 | 31 | 
 

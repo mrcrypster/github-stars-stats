@@ -1,10 +1,10 @@
 # orhun/halp - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 559
+★ Stars: 561
 
 [Open repository](https://github.com/orhun/halp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 561 | 9 | 
 | 2023-04-07 | 559 | 9 | 
 | 2023-04-06 | 560 | 9 | 
 | 2023-04-05 | 560 | 9 | 

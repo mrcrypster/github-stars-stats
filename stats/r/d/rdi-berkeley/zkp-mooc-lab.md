@@ -1,10 +1,10 @@
 # rdi-berkeley/zkp-mooc-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 54
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/rdi-berkeley/zkp-mooc-lab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 49 | 54 | 
 | 2023-04-08 | 48 | 54 | 
 | 2023-04-07 | 48 | 54 | 
 | 2023-04-05 | 48 | 54 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 33 | 45 | 
 | 2023-03-12 | 33 | 35 | 
 | 2023-03-11 | 30 | 27 | 
-| 2023-03-09 | 28 | 25 | 
 

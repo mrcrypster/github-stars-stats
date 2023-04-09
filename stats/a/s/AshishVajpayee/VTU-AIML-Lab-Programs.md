@@ -1,6 +1,6 @@
 # AshishVajpayee/VTU-AIML-Lab-Programs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 48 | 85 | 
 | 2023-04-07 | 48 | 85 | 
 | 2023-04-06 | 48 | 85 | 
 | 2023-04-05 | 49 | 85 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 50 | 86 | 
 | 2023-03-11 | 50 | 86 | 
 | 2023-03-10 | 50 | 86 | 
-| 2023-03-09 | 50 | 87 | 
 

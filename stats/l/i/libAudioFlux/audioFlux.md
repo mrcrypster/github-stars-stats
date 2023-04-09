@@ -1,6 +1,6 @@
 # libAudioFlux/audioFlux - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1405 | 51 | 
 | 2023-04-07 | 1405 | 51 | 
 | 2023-04-06 | 1398 | 51 | 
 | 2023-04-05 | 1387 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 366 | 14 | 
 | 2023-03-11 | 365 | 14 | 
 | 2023-03-10 | 350 | 14 | 
-| 2023-03-09 | 293 | 13 | 
 

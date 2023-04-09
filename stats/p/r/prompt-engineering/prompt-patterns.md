@@ -1,10 +1,10 @@
 # prompt-engineering/prompt-patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 89
+☋ Forks: 91
 
-★ Stars: 1621
+★ Stars: 1629
 
 [Open repository](https://github.com/prompt-engineering/prompt-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1629 | 91 | 
 | 2023-04-07 | 1621 | 89 | 
 | 2023-04-06 | 1598 | 89 | 
 | 2023-04-05 | 1582 | 88 | 

@@ -1,6 +1,6 @@
 # KeJunMao/better-emby-server - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 205 | 15 | 
 | 2023-04-07 | 205 | 15 | 
 | 2023-04-06 | 205 | 15 | 
 | 2023-04-05 | 205 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 201 | 15 | 
 | 2023-03-12 | 201 | 15 | 
 | 2023-03-11 | 201 | 15 | 
-| 2023-03-10 | 200 | 15 | 
 

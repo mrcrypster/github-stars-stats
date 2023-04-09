@@ -1,10 +1,10 @@
 # spalladino/zkp-tests - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/spalladino/zkp-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 86 | 4 | 
 | 2023-04-07 | 85 | 3 | 
 | 2023-04-06 | 85 | 3 | 
 | 2023-04-05 | 85 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 80 | 1 | 
 | 2023-03-11 | 79 | 1 | 
 | 2023-03-10 | 79 | 1 | 
-| 2023-03-09 | 79 | 1 | 
 

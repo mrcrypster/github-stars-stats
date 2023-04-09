@@ -1,6 +1,6 @@
 # TBD54566975/tbdex-whitepaper - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 591 | 40 | 
 | 2023-04-07 | 591 | 40 | 
 | 2023-04-06 | 591 | 40 | 
 | 2023-04-05 | 591 | 41 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 592 | 41 | 
 | 2023-03-12 | 592 | 41 | 
 | 2023-03-11 | 592 | 41 | 
-| 2023-03-09 | 591 | 41 | 
 

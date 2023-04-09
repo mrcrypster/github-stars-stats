@@ -1,6 +1,6 @@
 # nebulazorua/D-Sides-v2.5 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 10 | 38 | 
 | 2023-04-07 | 10 | 38 | 
 | 2023-04-06 | 10 | 38 | 
 | 2023-04-05 | 10 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 10 | 37 | 
 | 2023-03-12 | 10 | 37 | 
 | 2023-03-11 | 10 | 37 | 
-| 2023-03-09 | 10 | 37 | 
 

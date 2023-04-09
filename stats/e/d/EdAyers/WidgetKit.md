@@ -1,10 +1,10 @@
 # EdAyers/WidgetKit - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/EdAyers/WidgetKit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 13 | 2 | 
 | 2023-04-07 | 12 | 1 | 
 | 2023-04-06 | 12 | 1 | 
 | 2023-04-05 | 12 | 1 | 

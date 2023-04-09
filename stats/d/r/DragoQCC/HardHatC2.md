@@ -1,10 +1,10 @@
 # DragoQCC/HardHatC2 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 79
 
-★ Stars: 520
+★ Stars: 522
 
 [Open repository](https://github.com/DragoQCC/HardHatC2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 522 | 79 | 
 | 2023-04-07 | 520 | 79 | 
 | 2023-04-06 | 500 | 74 | 
 | 2023-04-05 | 472 | 69 | 

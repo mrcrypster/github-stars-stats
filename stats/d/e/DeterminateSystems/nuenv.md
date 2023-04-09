@@ -1,10 +1,10 @@
 # DeterminateSystems/nuenv - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/DeterminateSystems/nuenv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 56 | - | 
 | 2023-04-07 | 55 | - | 
 | 2023-04-06 | 55 | - | 
 | 2023-04-05 | 54 | - | 

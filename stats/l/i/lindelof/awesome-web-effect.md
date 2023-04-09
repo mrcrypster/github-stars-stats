@@ -1,10 +1,10 @@
 # lindelof/awesome-web-effect - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 179
 
-★ Stars: 2773
+★ Stars: 2774
 
 [Open repository](https://github.com/lindelof/awesome-web-effect)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2774 | 179 | 
 | 2023-04-07 | 2773 | 179 | 
 | 2023-04-06 | 2772 | 179 | 
 | 2023-04-05 | 2769 | 179 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2763 | 179 | 
 | 2023-03-11 | 2762 | 179 | 
 | 2023-03-10 | 2762 | 179 | 
-| 2023-03-09 | 2762 | 180 | 
 

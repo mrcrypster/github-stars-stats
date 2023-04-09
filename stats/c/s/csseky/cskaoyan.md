@@ -1,10 +1,10 @@
 # csseky/cskaoyan - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1518
+☋ Forks: 1520
 
-★ Stars: 7562
+★ Stars: 7570
 
 [Open repository](https://github.com/csseky/cskaoyan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7570 | 1520 | 
 | 2023-04-07 | 7562 | 1518 | 
 | 2023-04-06 | 7559 | 1516 | 
 | 2023-04-05 | 7557 | 1517 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 7435 | 1514 | 
 | 2023-03-11 | 7425 | 1515 | 
 | 2023-03-10 | 7420 | 1515 | 
-| 2023-03-09 | 7413 | 1515 | 
 

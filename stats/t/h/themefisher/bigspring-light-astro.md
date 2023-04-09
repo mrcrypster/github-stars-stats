@@ -1,10 +1,10 @@
 # themefisher/bigspring-light-astro - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/themefisher/bigspring-light-astro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5 | - | 
 | 2023-04-07 | 4 | - | 
 | 2023-04-06 | 4 | - | 
 | 2023-04-05 | 4 | - | 

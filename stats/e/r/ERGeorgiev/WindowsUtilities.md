@@ -1,10 +1,10 @@
 # ERGeorgiev/WindowsUtilities - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/ERGeorgiev/WindowsUtilities)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 22 | 4 | 
 | 2023-04-07 | 23 | 4 | 
 | 2023-04-06 | 23 | 4 | 
 | 2023-04-05 | 23 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 23 | 4 | 
 | 2023-03-12 | 23 | 4 | 
 | 2023-03-10 | 23 | 4 | 
-| 2023-03-09 | 23 | 4 | 
 

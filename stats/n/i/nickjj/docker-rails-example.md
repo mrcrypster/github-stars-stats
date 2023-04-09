@@ -1,10 +1,10 @@
 # nickjj/docker-rails-example - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 109
+☋ Forks: 111
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/nickjj/docker-rails-example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 614 | 111 | 
 | 2023-04-07 | 613 | 109 | 
 | 2023-04-06 | 613 | 109 | 
 | 2023-04-05 | 613 | 109 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 595 | 103 | 
 | 2023-03-11 | 594 | 103 | 
 | 2023-03-10 | 591 | 102 | 
-| 2023-03-09 | 590 | 102 | 
 

@@ -1,10 +1,10 @@
 # EdgeTX/edgetx - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 220
+☋ Forks: 221
 
-★ Stars: 923
+★ Stars: 924
 
 [Open repository](https://github.com/EdgeTX/edgetx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 924 | 221 | 
 | 2023-04-07 | 923 | 220 | 
 | 2023-04-06 | 923 | 220 | 
 | 2023-04-05 | 923 | 220 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 895 | 217 | 
 | 2023-03-11 | 893 | 217 | 
 | 2023-03-10 | 892 | 217 | 
-| 2023-03-09 | 890 | 216 | 
 

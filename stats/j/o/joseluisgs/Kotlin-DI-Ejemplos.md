@@ -1,10 +1,10 @@
 # joseluisgs/Kotlin-DI-Ejemplos - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/joseluisgs/Kotlin-DI-Ejemplos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 16 | 4 | 
 | 2023-04-07 | 15 | 4 | 
 | 2023-04-06 | 15 | 4 | 
 | 2023-04-05 | 15 | 4 | 

@@ -1,6 +1,6 @@
 # pat-alt/ConformalPrediction.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 53 | 4 | 
 | 2023-04-07 | 53 | 4 | 
 | 2023-04-06 | 53 | 4 | 
 | 2023-04-05 | 53 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 52 | 4 | 
 | 2023-03-11 | 52 | 4 | 
 | 2023-03-10 | 49 | 4 | 
-| 2023-03-09 | 48 | 4 | 
 

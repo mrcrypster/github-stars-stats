@@ -1,10 +1,10 @@
 # APCSLowell/GoogleBillboard - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 904
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/APCSLowell/GoogleBillboard)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3 | 904 | 
 | 2023-04-07 | 2 | 904 | 
 | 2023-04-06 | 2 | 904 | 
 | 2023-04-05 | 2 | 904 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-14 | 2 | 905 | 
 | 2023-03-12 | 2 | 905 | 
 | 2023-03-11 | 2 | 905 | 
-| 2023-03-09 | 2 | 905 | 
 

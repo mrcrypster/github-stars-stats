@@ -1,10 +1,10 @@
 # dfinity/examples - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 256
+☋ Forks: 257
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/dfinity/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 404 | 257 | 
 | 2023-04-07 | 403 | 256 | 
 | 2023-04-06 | 402 | 256 | 
 | 2023-04-05 | 402 | 256 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 394 | 254 | 
 | 2023-03-12 | 392 | 254 | 
 | 2023-03-10 | 391 | 254 | 
-| 2023-03-09 | 391 | 254 | 
 

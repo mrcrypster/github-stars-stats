@@ -1,10 +1,10 @@
 # vinijmoura/Azure-DevOps - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 187
 
-★ Stars: 645
+★ Stars: 646
 
 [Open repository](https://github.com/vinijmoura/Azure-DevOps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 646 | 187 | 
 | 2023-04-07 | 645 | 187 | 
 | 2023-04-06 | 645 | 187 | 
 | 2023-04-05 | 645 | 187 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 628 | 185 | 
 | 2023-03-12 | 626 | 185 | 
 | 2023-03-10 | 626 | 185 | 
-| 2023-03-09 | 623 | 185 | 
 

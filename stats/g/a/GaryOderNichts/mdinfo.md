@@ -1,10 +1,10 @@
 # GaryOderNichts/mdinfo - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/GaryOderNichts/mdinfo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 68 | 4 | 
 | 2023-04-07 | 67 | 4 | 
 | 2023-04-06 | 67 | 4 | 
 | 2023-04-05 | 65 | 4 | 

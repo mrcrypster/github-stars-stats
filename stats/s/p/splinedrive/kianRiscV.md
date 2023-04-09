@@ -1,10 +1,10 @@
 # splinedrive/kianRiscV - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/splinedrive/kianRiscV)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 175 | 12 | 
 | 2023-04-07 | 174 | 12 | 
 | 2023-04-06 | 172 | 12 | 
 | 2023-04-05 | 172 | 12 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 162 | 12 | 
 | 2023-03-12 | 161 | 12 | 
 | 2023-03-10 | 161 | 12 | 
-| 2023-03-09 | 161 | 12 | 
 

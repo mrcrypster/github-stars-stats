@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 39
+☋ Forks: 41
 
-★ Stars: 482
+★ Stars: 525
 
 [Open repository](https://github.com/young-geng/EasyLM)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 482 | 39 | 
+| 2023-04-08 | 525 | 41 | 
 | 2023-04-07 | 458 | 36 | 
 | 2023-04-06 | 348 | 30 | 
 

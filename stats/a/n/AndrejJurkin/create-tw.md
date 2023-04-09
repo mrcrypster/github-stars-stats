@@ -1,6 +1,6 @@
 # AndrejJurkin/create-tw - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 241 | 18 | 
 | 2023-04-07 | 241 | 18 | 
 | 2023-04-06 | 241 | 18 | 
 | 2023-04-05 | 240 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 235 | 18 | 
 | 2023-03-12 | 235 | 18 | 
 | 2023-03-11 | 235 | 18 | 
-| 2023-03-09 | 235 | 18 | 
 

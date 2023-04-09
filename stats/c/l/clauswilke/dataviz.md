@@ -1,10 +1,10 @@
 # clauswilke/dataviz - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 645
 
-★ Stars: 2821
+★ Stars: 2823
 
 [Open repository](https://github.com/clauswilke/dataviz)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2823 | 645 | 
 | 2023-04-07 | 2821 | 645 | 
 | 2023-04-06 | 2821 | 645 | 
 | 2023-04-05 | 2820 | 645 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2813 | 646 | 
 | 2023-03-12 | 2812 | 647 | 
 | 2023-03-11 | 2812 | 647 | 
-| 2023-03-09 | 2811 | 647 | 
 

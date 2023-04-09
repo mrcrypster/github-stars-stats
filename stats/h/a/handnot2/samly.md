@@ -1,8 +1,8 @@
 # handnot2/samly - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 70
+☋ Forks: 71
 
 ★ Stars: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 117 | 71 | 
 | 2023-04-07 | 117 | 70 | 
 | 2023-04-06 | 117 | 70 | 
 | 2023-04-05 | 117 | 70 | 

@@ -1,6 +1,6 @@
 # saasbook/hw-bdd-cucumber - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2376
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 15 | 2376 | 
 | 2023-04-07 | 15 | 2376 | 
 | 2023-04-06 | 15 | 2376 | 
 | 2023-04-04 | 15 | 2377 | 

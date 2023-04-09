@@ -1,10 +1,10 @@
 # rifkat1985/PancakeSwap-Sniper-Bot - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 136
+☋ Forks: 140
 
-★ Stars: 161
+★ Stars: 171
 
 [Open repository](https://github.com/rifkat1985/PancakeSwap-Sniper-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 171 | 140 | 
 | 2023-04-07 | 161 | 136 | 
 | 2023-04-06 | 155 | 132 | 
 | 2023-04-05 | 150 | 126 | 

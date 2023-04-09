@@ -1,6 +1,6 @@
 # elastic/elasticsearch-net - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1142
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3399 | 1142 | 
 | 2023-04-07 | 3399 | 1142 | 
 | 2023-04-06 | 3398 | 1143 | 
 | 2023-04-05 | 3395 | 1143 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 3390 | 1143 | 
 | 2023-03-12 | 3390 | 1143 | 
 | 2023-03-10 | 3390 | 1143 | 
-| 2023-03-09 | 3389 | 1142 | 
 

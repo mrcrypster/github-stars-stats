@@ -1,8 +1,8 @@
 # safe6Sec/CodeqlNote - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 102
+☋ Forks: 103
 
 ★ Stars: 711
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 711 | 103 | 
 | 2023-04-07 | 711 | 102 | 
 | 2023-04-06 | 711 | 102 | 
 | 2023-04-05 | 709 | 102 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 701 | 101 | 
 | 2023-03-11 | 702 | 101 | 
 | 2023-03-10 | 702 | 101 | 
-| 2023-03-09 | 702 | 101 | 
 

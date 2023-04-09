@@ -1,8 +1,8 @@
 # ACINQ/eclair - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 256
+☋ Forks: 257
 
 ★ Stars: 1105
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1105 | 257 | 
+| 2023-04-08 | 1105 | 257 | 
 | 2023-04-07 | 1105 | 256 | 
 | 2023-04-06 | 1105 | 256 | 
 | 2023-04-05 | 1105 | 256 | 

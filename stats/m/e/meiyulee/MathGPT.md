@@ -1,6 +1,6 @@
 # meiyulee/MathGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 29 | 1 | 
 | 2023-04-07 | 29 | 1 | 
 | 2023-04-06 | 28 | 1 | 
 | 2023-04-05 | 27 | 1 | 

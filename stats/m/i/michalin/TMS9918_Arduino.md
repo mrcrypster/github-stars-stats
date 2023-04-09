@@ -1,6 +1,6 @@
 # michalin/TMS9918_Arduino - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 5 | 
 | 2023-04-07 | 16 | 5 | 
 | 2023-04-06 | 16 | 5 | 
 | 2023-04-05 | 16 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 15 | 5 | 
 | 2023-03-11 | 14 | 5 | 
 | 2023-03-10 | 14 | 5 | 
-| 2023-03-09 | 13 | 5 | 
 

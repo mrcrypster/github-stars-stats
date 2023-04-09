@@ -1,6 +1,6 @@
 # stephane/libmodbus - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1536
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2654 | 1536 | 
 | 2023-04-07 | 2654 | 1536 | 
 | 2023-04-06 | 2652 | 1536 | 
 | 2023-04-05 | 2651 | 1536 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2608 | 1525 | 
 | 2023-03-12 | 2604 | 1525 | 
 | 2023-03-10 | 2603 | 1525 | 
-| 2023-03-09 | 2602 | 1524 | 
 

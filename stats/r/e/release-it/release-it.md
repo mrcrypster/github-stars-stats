@@ -1,10 +1,10 @@
 # release-it/release-it - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 504
 
-★ Stars: 6324
+★ Stars: 6325
 
 [Open repository](https://github.com/release-it/release-it)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6325 | 504 | 
 | 2023-04-07 | 6324 | 504 | 
 | 2023-04-06 | 6318 | 504 | 
 | 2023-04-05 | 6316 | 504 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 6244 | 501 | 
 | 2023-03-12 | 6242 | 502 | 
 | 2023-03-11 | 6240 | 502 | 
-| 2023-03-09 | 6239 | 500 | 
 

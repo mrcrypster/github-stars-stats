@@ -1,6 +1,6 @@
 # FastVM/Web49 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 295 | 11 | 
 | 2023-04-07 | 295 | 11 | 
 | 2023-04-06 | 295 | 11 | 
 | 2023-04-05 | 295 | 11 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 292 | 12 | 
 | 2023-03-12 | 292 | 12 | 
 | 2023-03-10 | 292 | 12 | 
-| 2023-03-09 | 291 | 12 | 
 

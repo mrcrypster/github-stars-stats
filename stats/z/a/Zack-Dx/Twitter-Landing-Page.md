@@ -1,10 +1,10 @@
 # Zack-Dx/Twitter-Landing-Page - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 44
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/Zack-Dx/Twitter-Landing-Page)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 29 | 44 | 
 | 2023-04-07 | 28 | 44 | 
 | 2023-04-06 | 28 | 44 | 
 | 2023-04-05 | 28 | 44 | 

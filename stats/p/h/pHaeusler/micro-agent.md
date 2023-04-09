@@ -1,10 +1,10 @@
 # pHaeusler/micro-agent - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 26
 
-★ Stars: 305
+★ Stars: 321
 
 [Open repository](https://github.com/pHaeusler/micro-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 321 | 26 | 
 | 2023-04-07 | 305 | 26 | 
 | 2023-04-06 | 295 | 25 | 
 | 2023-04-05 | 278 | 22 | 

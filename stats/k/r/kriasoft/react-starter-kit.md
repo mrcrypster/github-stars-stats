@@ -1,10 +1,10 @@
 # kriasoft/react-starter-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 4141
+☋ Forks: 4142
 
-★ Stars: 21835
+★ Stars: 21839
 
 [Open repository](https://github.com/kriasoft/react-starter-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 21839 | 4142 | 
 | 2023-04-07 | 21835 | 4141 | 
 | 2023-04-06 | 21833 | 4141 | 
 | 2023-04-05 | 21831 | 4142 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 21784 | 4138 | 
 | 2023-03-11 | 21782 | 4138 | 
 | 2023-03-10 | 21780 | 4138 | 
-| 2023-03-09 | 21779 | 4139 | 
 

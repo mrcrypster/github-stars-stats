@@ -1,6 +1,6 @@
 # km-neuron/se-git-exercise - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 464
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 8 | 464 | 
 | 2023-04-07 | 8 | 464 | 
 | 2023-04-06 | 8 | 464 | 
 | 2023-04-05 | 8 | 464 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 9 | 464 | 
 | 2023-03-12 | 9 | 464 | 
 | 2023-03-10 | 9 | 464 | 
-| 2023-03-09 | 9 | 463 | 
 

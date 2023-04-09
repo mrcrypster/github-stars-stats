@@ -1,6 +1,6 @@
 # covertool/covertool - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 73 | 57 | 
 | 2023-04-07 | 73 | 57 | 
 | 2023-04-06 | 73 | 57 | 
 | 2023-04-05 | 73 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 71 | 57 | 
 | 2023-03-12 | 71 | 57 | 
 | 2023-03-11 | 71 | 57 | 
-| 2023-03-09 | 71 | 57 | 
 

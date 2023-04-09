@@ -1,10 +1,10 @@
 # DrKLO/Telegram - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 7363
+☋ Forks: 7365
 
-★ Stars: 21862
+★ Stars: 21866
 
 [Open repository](https://github.com/DrKLO/Telegram)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 21866 | 7365 | 
 | 2023-04-07 | 21862 | 7363 | 
 | 2023-04-06 | 21856 | 7362 | 
 | 2023-04-05 | 21851 | 7360 | 

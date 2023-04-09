@@ -1,10 +1,10 @@
 # flutterchina/flukit - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 593
 
-★ Stars: 4887
+★ Stars: 4891
 
 [Open repository](https://github.com/flutterchina/flukit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4891 | 593 | 
 | 2023-04-07 | 4887 | 593 | 
 | 2023-04-06 | 4883 | 593 | 
 | 2023-04-05 | 4882 | 593 | 

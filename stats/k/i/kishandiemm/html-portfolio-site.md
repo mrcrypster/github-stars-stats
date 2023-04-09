@@ -1,6 +1,6 @@
 # kishandiemm/html-portfolio-site - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 29 | 31 | 
 | 2023-04-07 | 29 | 31 | 
 | 2023-04-06 | 29 | 31 | 
 | 2023-04-05 | 29 | 31 | 

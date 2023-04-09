@@ -1,10 +1,10 @@
 # SergiusTheBest/FindWDK - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 172
+★ Stars: 174
 
 [Open repository](https://github.com/SergiusTheBest/FindWDK)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 174 | 43 | 
 | 2023-04-07 | 172 | 42 | 
 | 2023-04-06 | 172 | 42 | 
 | 2023-04-05 | 172 | 42 | 

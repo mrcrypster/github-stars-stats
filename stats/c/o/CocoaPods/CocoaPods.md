@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 2626
 
-★ Stars: 14056
+★ Stars: 14059
 
 [Open repository](https://github.com/CocoaPods/CocoaPods)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 14056 | 2626 | 
+| 2023-04-08 | 14059 | 2626 | 
 | 2023-04-07 | 14056 | 2626 | 
 | 2023-04-06 | 14056 | 2625 | 
 | 2023-04-05 | 14043 | 2625 | 

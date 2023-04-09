@@ -1,10 +1,10 @@
 # cognitedata/bazel-snapshots - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/cognitedata/bazel-snapshots)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5 | - | 
 | 2023-04-07 | 4 | - | 
 | 2023-04-06 | 4 | - | 
 | 2023-04-05 | 4 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 4 | - | 
 | 2023-03-12 | 4 | - | 
 | 2023-03-11 | 4 | - | 
-| 2023-03-09 | 4 | - | 
 

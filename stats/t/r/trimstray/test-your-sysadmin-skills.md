@@ -1,10 +1,10 @@
 # trimstray/test-your-sysadmin-skills - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1284
+☋ Forks: 1285
 
-★ Stars: 9701
+★ Stars: 9704
 
 [Open repository](https://github.com/trimstray/test-your-sysadmin-skills)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9704 | 1285 | 
 | 2023-04-07 | 9701 | 1284 | 
 | 2023-04-06 | 9697 | 1284 | 
 | 2023-04-05 | 9694 | 1282 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 9641 | 1275 | 
 | 2023-03-11 | 9637 | 1275 | 
 | 2023-03-10 | 9634 | 1273 | 
-| 2023-03-09 | 9634 | 1273 | 
 

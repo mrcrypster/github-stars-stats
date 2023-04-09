@@ -1,6 +1,6 @@
 # nunit/docs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 601 | 136 | 
 | 2023-04-07 | 601 | 136 | 
 | 2023-04-06 | 601 | 136 | 
 | 2023-04-04 | 601 | 137 | 

@@ -1,10 +1,10 @@
 # tkkcc/ArkLights - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 56
 
-★ Stars: 1432
+★ Stars: 1433
 
 [Open repository](https://github.com/tkkcc/ArkLights)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1433 | 56 | 
 | 2023-04-07 | 1432 | 56 | 
 | 2023-04-06 | 1431 | 56 | 
 | 2023-04-05 | 1430 | 56 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1414 | 53 | 
 | 2023-03-11 | 1412 | 53 | 
 | 2023-03-10 | 1411 | 53 | 
-| 2023-03-09 | 1407 | 53 | 
 

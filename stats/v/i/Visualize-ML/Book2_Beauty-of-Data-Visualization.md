@@ -1,10 +1,10 @@
 # Visualize-ML/Book2_Beauty-of-Data-Visualization - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 50
 
-★ Stars: 428
+★ Stars: 436
 
 [Open repository](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 436 | 50 | 
 | 2023-04-07 | 428 | 50 | 
 | 2023-04-06 | 426 | 50 | 
 | 2023-04-05 | 426 | 49 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 276 | 23 | 
 | 2023-03-12 | 271 | 23 | 
 | 2023-03-11 | 267 | 21 | 
-| 2023-03-09 | 261 | 20 | 
 

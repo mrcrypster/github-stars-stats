@@ -1,10 +1,10 @@
 # drpancake/chard - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/drpancake/chard)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 202 | 3 | 
 | 2023-04-07 | 201 | 3 | 
 | 2023-04-06 | 201 | 3 | 
 | 2023-04-05 | 201 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 202 | 3 | 
 | 2023-03-11 | 202 | 3 | 
 | 2023-03-10 | 202 | 3 | 
-| 2023-03-09 | 202 | 3 | 
 

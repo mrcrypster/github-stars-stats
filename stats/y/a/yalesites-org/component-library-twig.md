@@ -1,10 +1,10 @@
 # yalesites-org/component-library-twig - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/yalesites-org/component-library-twig)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4 | - | 
 | 2023-04-07 | 3 | - | 
 | 2023-04-06 | 3 | - | 
 | 2023-04-05 | 3 | - | 

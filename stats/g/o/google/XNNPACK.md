@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 257
 
-★ Stars: 1387
+★ Stars: 1389
 
 [Open repository](https://github.com/google/XNNPACK)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 1387 | 257 | 
+| 2023-04-08 | 1389 | 257 | 
 | 2023-04-07 | 1385 | 257 | 
 

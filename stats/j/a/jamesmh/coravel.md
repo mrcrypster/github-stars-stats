@@ -1,10 +1,10 @@
 # jamesmh/coravel - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 202
 
-★ Stars: 2534
+★ Stars: 2535
 
 [Open repository](https://github.com/jamesmh/coravel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2535 | 202 | 
 | 2023-04-07 | 2534 | 202 | 
 | 2023-04-06 | 2532 | 202 | 
 | 2023-04-05 | 2531 | 202 | 

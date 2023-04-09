@@ -1,10 +1,10 @@
 # microsoft/PromptCraft-Robotics - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 79
 
-★ Stars: 908
+★ Stars: 909
 
 [Open repository](https://github.com/microsoft/PromptCraft-Robotics)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 909 | 79 | 
 | 2023-04-07 | 908 | 79 | 
 | 2023-04-06 | 901 | 78 | 
 | 2023-04-05 | 896 | 77 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 620 | 50 | 
 | 2023-03-12 | 608 | 48 | 
 | 2023-03-11 | 595 | 48 | 
-| 2023-03-09 | 580 | 46 | 
 

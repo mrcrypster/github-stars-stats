@@ -1,6 +1,6 @@
 # JonathanSalwan/Tigress_protection - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 702 | 144 | 
 | 2023-04-07 | 702 | 144 | 
 | 2023-04-06 | 702 | 144 | 
 | 2023-04-05 | 702 | 144 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 697 | 144 | 
 | 2023-03-12 | 697 | 144 | 
 | 2023-03-11 | 695 | 144 | 
-| 2023-03-09 | 695 | 144 | 
 

@@ -1,6 +1,6 @@
 # Madelena/Metrology-for-Hass - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 306 | 18 | 
 | 2023-04-07 | 306 | 18 | 
 | 2023-04-06 | 304 | 18 | 
 | 2023-04-05 | 304 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 297 | 18 | 
 | 2023-03-12 | 297 | 18 | 
 | 2023-03-10 | 297 | 18 | 
-| 2023-03-09 | 297 | 18 | 
 

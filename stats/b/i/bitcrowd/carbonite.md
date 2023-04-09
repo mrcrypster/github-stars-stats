@@ -1,6 +1,6 @@
 # bitcrowd/carbonite - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 93 | 10 | 
 | 2023-04-07 | 93 | 10 | 
 | 2023-04-06 | 92 | 10 | 
 | 2023-04-05 | 92 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 91 | 9 | 
 | 2023-03-12 | 91 | 9 | 
 | 2023-03-11 | 91 | 9 | 
-| 2023-03-09 | 91 | 9 | 
 

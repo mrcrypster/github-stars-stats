@@ -1,10 +1,10 @@
 # neonbjb/tortoise-tts - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 698
+☋ Forks: 700
 
-★ Stars: 5609
+★ Stars: 5624
 
 [Open repository](https://github.com/neonbjb/tortoise-tts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5624 | 700 | 
 | 2023-04-07 | 5609 | 698 | 
 | 2023-04-06 | 5568 | 689 | 
 | 2023-04-05 | 5544 | 682 | 

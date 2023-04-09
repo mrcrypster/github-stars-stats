@@ -1,10 +1,10 @@
 # gesiscss/awesome-computational-social-science - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 34
 
-★ Stars: 270
+★ Stars: 275
 
 [Open repository](https://github.com/gesiscss/awesome-computational-social-science)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 275 | 34 | 
+| 2023-04-08 | 275 | 34 | 
 | 2023-04-07 | 270 | 34 | 
 | 2023-04-06 | 269 | 34 | 
 | 2023-04-05 | 268 | 34 | 

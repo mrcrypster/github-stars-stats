@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/loypoll/PizzaTowerOnline)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 11 | 13 | 
+| 2023-04-08 | 12 | 13 | 
 | 2023-04-07 | 11 | 13 | 
 | 2023-04-06 | 11 | 13 | 
 | 2023-04-05 | 10 | 13 | 

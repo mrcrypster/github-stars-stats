@@ -1,6 +1,6 @@
 # moomerman/libcluster_tailscale - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 40 | 1 | 
 | 2023-04-07 | 40 | 1 | 
 | 2023-04-06 | 39 | 1 | 
 | 2023-04-05 | 39 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 29 | 1 | 
 | 2023-03-11 | 29 | 1 | 
 | 2023-03-10 | 28 | 1 | 
-| 2023-03-09 | 26 | 1 | 
 

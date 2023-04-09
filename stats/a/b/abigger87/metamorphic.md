@@ -1,6 +1,6 @@
 # abigger87/metamorphic - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 39 | 3 | 
 | 2023-04-07 | 39 | 3 | 
 | 2023-04-06 | 39 | 3 | 
 | 2023-04-05 | 39 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 37 | 3 | 
 | 2023-03-12 | 38 | 3 | 
 | 2023-03-10 | 38 | 3 | 
-| 2023-03-09 | 38 | 2 | 
 

@@ -1,6 +1,6 @@
 # stripe/stripe-android - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 585
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1082 | 585 | 
 | 2023-04-07 | 1082 | 585 | 
 | 2023-04-06 | 1081 | 585 | 
 | 2023-04-05 | 1079 | 585 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1070 | 585 | 
 | 2023-03-11 | 1069 | 585 | 
 | 2023-03-10 | 1068 | 585 | 
-| 2023-03-09 | 1067 | 586 | 
 

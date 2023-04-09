@@ -1,10 +1,10 @@
 # jerryjliu/llama_index - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1092
+☋ Forks: 1117
 
-★ Stars: 11336
+★ Stars: 11507
 
 [Open repository](https://github.com/jerryjliu/llama_index)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 11507 | 1117 | 
 | 2023-04-07 | 11336 | 1092 | 
 | 2023-04-06 | 11126 | 1067 | 
 | 2023-04-05 | 10876 | 1042 | 

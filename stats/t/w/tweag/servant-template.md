@@ -1,6 +1,6 @@
 # tweag/servant-template - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 36 | 3 | 
 | 2023-04-07 | 36 | 3 | 
 | 2023-04-06 | 36 | 3 | 
 | 2023-04-05 | 36 | 3 | 

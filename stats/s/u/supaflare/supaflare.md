@@ -1,6 +1,6 @@
 # supaflare/supaflare - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 104 | 30 | 
 | 2023-04-07 | 104 | 30 | 
 | 2023-04-06 | 104 | 30 | 
 | 2023-04-04 | 104 | 30 | 

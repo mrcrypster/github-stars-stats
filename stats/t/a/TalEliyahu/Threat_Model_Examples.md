@@ -1,10 +1,10 @@
 # TalEliyahu/Threat_Model_Examples - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 40
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/TalEliyahu/Threat_Model_Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 265 | 40 | 
 | 2023-04-07 | 264 | 40 | 
 | 2023-04-06 | 264 | 40 | 
 | 2023-04-05 | 264 | 40 | 

@@ -1,10 +1,10 @@
 # thchr/DOI2BibTeX.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/thchr/DOI2BibTeX.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 17 | - | 
 | 2023-04-07 | 16 | - | 
 | 2023-04-06 | 15 | - | 
 | 2023-04-05 | 15 | - | 

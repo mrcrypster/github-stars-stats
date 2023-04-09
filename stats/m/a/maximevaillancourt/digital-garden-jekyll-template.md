@@ -1,8 +1,8 @@
 # maximevaillancourt/digital-garden-jekyll-template - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 572
+☋ Forks: 571
 
 ★ Stars: 646
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 646 | 571 | 
 | 2023-04-07 | 646 | 572 | 
 | 2023-04-06 | 646 | 572 | 
 | 2023-04-05 | 645 | 570 | 

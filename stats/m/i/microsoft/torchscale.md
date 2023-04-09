@@ -1,10 +1,10 @@
 # microsoft/torchscale - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 1558
+★ Stars: 1560
 
 [Open repository](https://github.com/microsoft/torchscale)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1560 | 83 | 
 | 2023-04-07 | 1558 | 82 | 
 | 2023-04-06 | 1557 | 81 | 
 | 2023-04-04 | 1555 | 81 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1457 | 77 | 
 | 2023-03-12 | 1448 | 77 | 
 | 2023-03-11 | 1442 | 77 | 
-| 2023-03-09 | 1430 | 77 | 
 

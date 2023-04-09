@@ -1,10 +1,10 @@
 # twoyi/twoyi - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 167
 
-★ Stars: 1356
+★ Stars: 1357
 
 [Open repository](https://github.com/twoyi/twoyi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1357 | 167 | 
 | 2023-04-07 | 1356 | 167 | 
 | 2023-04-06 | 1355 | 167 | 
 | 2023-04-05 | 1352 | 167 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1339 | 163 | 
 | 2023-03-12 | 1339 | 163 | 
 | 2023-03-11 | 1339 | 163 | 
-| 2023-03-10 | 1338 | 162 | 
 

@@ -1,6 +1,6 @@
 # keijiro/BibcamVfx - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 451 | 52 | 
 | 2023-04-07 | 451 | 52 | 
 | 2023-04-06 | 451 | 52 | 
 | 2023-04-05 | 451 | 52 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 440 | 50 | 
 | 2023-03-12 | 440 | 50 | 
 | 2023-03-11 | 440 | 50 | 
-| 2023-03-09 | 440 | 50 | 
 

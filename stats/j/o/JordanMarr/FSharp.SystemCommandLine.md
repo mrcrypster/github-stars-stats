@@ -1,8 +1,8 @@
 # JordanMarr/FSharp.SystemCommandLine - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 94
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 94 | 5 | 
 | 2023-04-07 | 94 | 4 | 
 | 2023-04-06 | 94 | 4 | 
 | 2023-04-05 | 94 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 91 | 3 | 
 | 2023-03-11 | 91 | 3 | 
 | 2023-03-10 | 91 | 3 | 
-| 2023-03-09 | 90 | 3 | 
 

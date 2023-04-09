@@ -1,10 +1,10 @@
 # osanseviero/ml_timeline - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 20
+☋ Forks: 23
 
-★ Stars: 420
+★ Stars: 458
 
 [Open repository](https://github.com/osanseviero/ml_timeline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 458 | 23 | 
 | 2023-04-07 | 420 | 20 | 
 | 2023-04-06 | 396 | 17 | 
 | 2023-04-05 | 391 | 17 | 

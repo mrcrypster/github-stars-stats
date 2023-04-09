@@ -1,10 +1,10 @@
 # router-resources/Workshop-ERC20 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 5
+★ Stars: 7
 
 [Open repository](https://github.com/router-resources/Workshop-ERC20)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7 | 11 | 
 | 2023-04-07 | 5 | 9 | 
 | 2023-04-06 | 5 | 9 | 
 | 2023-04-05 | 5 | 9 | 

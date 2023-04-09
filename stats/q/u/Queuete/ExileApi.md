@@ -1,6 +1,6 @@
 # Queuete/ExileApi - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 160 | 109 | 
 | 2023-04-07 | 160 | 109 | 
 | 2023-04-06 | 160 | 109 | 
 | 2023-04-05 | 161 | 109 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 161 | 109 | 
 | 2023-03-11 | 161 | 109 | 
 | 2023-03-10 | 161 | 109 | 
-| 2023-03-09 | 161 | 109 | 
 

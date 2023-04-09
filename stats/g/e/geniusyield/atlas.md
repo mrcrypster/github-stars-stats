@@ -1,6 +1,6 @@
 # geniusyield/atlas - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 40 | 5 | 
+| 2023-04-08 | 40 | 5 | 
 | 2023-04-07 | 40 | 5 | 
 | 2023-04-06 | 40 | 5 | 
 | 2023-04-05 | 38 | 4 | 

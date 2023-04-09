@@ -1,6 +1,6 @@
 # victorvoid/space-jekyll-template - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 317
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 392 | 317 | 
 | 2023-04-07 | 392 | 317 | 
 | 2023-04-06 | 391 | 317 | 
 | 2023-04-05 | 391 | 317 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 391 | 316 | 
 | 2023-03-12 | 391 | 316 | 
 | 2023-03-10 | 391 | 317 | 
-| 2023-03-09 | 391 | 317 | 
 

@@ -1,10 +1,10 @@
 # future-architect/vuls - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1104
 
-★ Stars: 9888
+★ Stars: 9890
 
 [Open repository](https://github.com/future-architect/vuls)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 9890 | 1104 | 
 | 2023-04-07 | 9888 | 1104 | 
 | 2023-04-06 | 9884 | 1104 | 
 | 2023-04-05 | 9884 | 1104 | 

@@ -1,10 +1,10 @@
 # azbuky/kaspium_wallet - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/azbuky/kaspium_wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 24 | 3 | 
 | 2023-04-07 | 23 | 3 | 
 | 2023-04-06 | 23 | 3 | 
 | 2023-04-05 | 23 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 21 | 2 | 
 | 2023-03-12 | 21 | 2 | 
 | 2023-03-10 | 21 | 2 | 
-| 2023-03-09 | 21 | 2 | 
 

@@ -1,6 +1,6 @@
 # prod80/prod80-ReShade-Repository - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 97 | 36 | 
+| 2023-04-08 | 97 | 36 | 
 | 2023-04-07 | 97 | 36 | 
 | 2023-04-06 | 97 | 36 | 
 | 2023-04-05 | 97 | 36 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 96 | 35 | 
 | 2023-03-12 | 96 | 35 | 
 | 2023-03-11 | 95 | 35 | 
-| 2023-03-09 | 95 | 35 | 
 

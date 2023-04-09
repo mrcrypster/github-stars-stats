@@ -1,10 +1,10 @@
 # jellyfin/jellyfin-media-player - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 180
 
-★ Stars: 1689
+★ Stars: 1692
 
 [Open repository](https://github.com/jellyfin/jellyfin-media-player)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1692 | 180 | 
 | 2023-04-07 | 1689 | 180 | 
 | 2023-04-06 | 1687 | 179 | 
 | 2023-04-05 | 1686 | 179 | 

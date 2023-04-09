@@ -1,6 +1,6 @@
 # moul/http2curl - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 60
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 638 | 60 | 
+| 2023-04-08 | 638 | 60 | 
 | 2023-04-07 | 638 | 60 | 
 | 2023-04-06 | 638 | 60 | 
 | 2023-04-05 | 637 | 60 | 
@@ -39,5 +41,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 635 | 59 | 
 | 2023-03-11 | 634 | 59 | 
 | 2023-03-10 | 634 | 60 | 
-| 2023-03-09 | 634 | 60 | 
 

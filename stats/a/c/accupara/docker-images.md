@@ -1,10 +1,10 @@
 # accupara/docker-images - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/accupara/docker-images)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 18 | 3 | 
 | 2023-04-07 | 17 | 3 | 
 | 2023-04-06 | 17 | 3 | 
 | 2023-04-05 | 17 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 17 | 3 | 
 | 2023-03-12 | 17 | 3 | 
 | 2023-03-10 | 17 | 3 | 
-| 2023-03-09 | 17 | 3 | 
 

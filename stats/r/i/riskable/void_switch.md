@@ -1,6 +1,6 @@
 # riskable/void_switch - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 553 | 37 | 
 | 2023-04-07 | 553 | 37 | 
 | 2023-04-06 | 552 | 37 | 
 | 2023-04-05 | 551 | 37 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 534 | 34 | 
 | 2023-03-12 | 532 | 34 | 
 | 2023-03-11 | 531 | 34 | 
-| 2023-03-10 | 510 | 34 | 
 

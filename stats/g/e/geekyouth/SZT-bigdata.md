@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 559
+☋ Forks: 558
 
-★ Stars: 1820
+★ Stars: 1821
 
 [Open repository](https://github.com/geekyouth/SZT-bigdata)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 1820 | 559 | 
+| 2023-04-08 | 1821 | 558 | 
 | 2023-04-07 | 1820 | 559 | 
 | 2023-04-06 | 1815 | 558 | 
 | 2023-04-05 | 1813 | 558 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 1781 | 553 | 
 | 2023-03-11 | 1781 | 553 | 
 | 2023-03-10 | 1781 | 553 | 
-| 2023-03-09 | 1775 | 550 | 
 

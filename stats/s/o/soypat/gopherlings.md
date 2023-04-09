@@ -1,10 +1,10 @@
 # soypat/gopherlings - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 31
 
-★ Stars: 626
+★ Stars: 627
 
 [Open repository](https://github.com/soypat/gopherlings)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 627 | 31 | 
 | 2023-04-07 | 626 | 31 | 
 | 2023-04-06 | 626 | 31 | 
 | 2023-04-05 | 626 | 31 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 624 | 31 | 
 | 2023-03-12 | 624 | 31 | 
 | 2023-03-10 | 623 | 31 | 
-| 2023-03-09 | 623 | 31 | 
 

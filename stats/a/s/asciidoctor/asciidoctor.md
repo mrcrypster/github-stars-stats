@@ -1,10 +1,10 @@
 # asciidoctor/asciidoctor - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 791
 
-★ Stars: 4316
+★ Stars: 4317
 
 [Open repository](https://github.com/asciidoctor/asciidoctor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4317 | 791 | 
 | 2023-04-07 | 4316 | 791 | 
 | 2023-04-06 | 4314 | 790 | 
 | 2023-04-05 | 4312 | 791 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 4295 | 778 | 
 | 2023-03-11 | 4295 | 778 | 
 | 2023-03-10 | 4294 | 778 | 
-| 2023-03-09 | 4293 | 775 | 
 

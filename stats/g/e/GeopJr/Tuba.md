@@ -1,10 +1,10 @@
 # GeopJr/Tuba - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 201
+★ Stars: 206
 
 [Open repository](https://github.com/GeopJr/Tuba)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 206 | 24 | 
 | 2023-04-07 | 201 | 25 | 
 | 2023-04-06 | 199 | 25 | 
 | 2023-04-05 | 198 | 25 | 

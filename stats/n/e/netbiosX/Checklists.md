@@ -1,10 +1,10 @@
 # netbiosX/Checklists - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 465
 
-★ Stars: 2000
+★ Stars: 1999
 
 [Open repository](https://github.com/netbiosX/Checklists)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1999 | 465 | 
 | 2023-04-07 | 2000 | 465 | 
 | 2023-04-06 | 2000 | 465 | 
 | 2023-04-05 | 1997 | 465 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1976 | 465 | 
 | 2023-03-12 | 1976 | 465 | 
 | 2023-03-11 | 1976 | 465 | 
-| 2023-03-09 | 1976 | 465 | 
 

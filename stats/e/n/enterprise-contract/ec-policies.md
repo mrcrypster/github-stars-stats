@@ -1,6 +1,6 @@
 # enterprise-contract/ec-policies - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7 | 18 | 
 | 2023-04-08 | 7 | 18 | 
 | 2023-04-07 | 7 | 18 | 
 | 2023-04-05 | 7 | 18 | 

@@ -1,6 +1,6 @@
 # BlinkDL/RWKV-CUDA - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 77 | 19 | 
 | 2023-04-08 | 77 | 19 | 
 | 2023-04-07 | 76 | 19 | 
 | 2023-04-05 | 74 | 19 | 

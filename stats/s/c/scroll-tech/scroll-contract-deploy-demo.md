@@ -1,8 +1,8 @@
 # scroll-tech/scroll-contract-deploy-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 76
+☋ Forks: 77
 
 ★ Stars: 143
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 143 | 77 | 
 | 2023-04-07 | 143 | 76 | 
 | 2023-04-06 | 142 | 76 | 
 | 2023-04-05 | 139 | 75 | 

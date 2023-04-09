@@ -1,6 +1,6 @@
 # ledermann/docker-rails-base - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 247 | 33 | 
 | 2023-04-08 | 247 | 33 | 
 | 2023-04-07 | 245 | 33 | 
 | 2023-04-05 | 245 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 241 | 32 | 
 | 2023-03-11 | 241 | 32 | 
 | 2023-03-10 | 241 | 32 | 
-| 2023-03-09 | 241 | 32 | 
 

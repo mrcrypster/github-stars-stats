@@ -1,10 +1,10 @@
 # Dhghomon/easy_rust - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 345
 
-★ Stars: 7462
+★ Stars: 7463
 
 [Open repository](https://github.com/Dhghomon/easy_rust)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7463 | 345 | 
 | 2023-04-07 | 7462 | 345 | 
 | 2023-04-06 | 7458 | 345 | 
 | 2023-04-05 | 7456 | 345 | 

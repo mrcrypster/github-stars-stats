@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 284
+★ Stars: 292
 
 [Open repository](https://github.com/Lailloken/Lailloken-UI)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 284 | 19 | 
+| 2023-04-08 | 292 | 20 | 
 | 2023-04-07 | 283 | 19 | 
 | 2023-04-06 | 245 | 19 | 
 | 2023-04-05 | 233 | 18 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 204 | 15 | 
 | 2023-03-11 | 204 | 15 | 
 | 2023-03-10 | 203 | 15 | 
-| 2023-03-09 | 203 | 15 | 
 

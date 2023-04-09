@@ -1,6 +1,6 @@
 # 2point21/lba2-classic - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 474 | 39 | 
 | 2023-04-07 | 474 | 39 | 
 | 2023-04-06 | 474 | 39 | 
 | 2023-04-05 | 474 | 39 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 471 | 38 | 
 | 2023-03-11 | 471 | 38 | 
 | 2023-03-10 | 471 | 38 | 
-| 2023-03-09 | 471 | 38 | 
 

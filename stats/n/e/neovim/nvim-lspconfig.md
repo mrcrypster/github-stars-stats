@@ -1,10 +1,10 @@
 # neovim/nvim-lspconfig - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1865
+☋ Forks: 1868
 
-★ Stars: 7073
+★ Stars: 7079
 
 [Open repository](https://github.com/neovim/nvim-lspconfig)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7079 | 1868 | 
+| 2023-04-08 | 7079 | 1869 | 
 | 2023-04-07 | 7073 | 1865 | 
 | 2023-04-06 | 7063 | 1863 | 
 | 2023-04-05 | 7059 | 1858 | 

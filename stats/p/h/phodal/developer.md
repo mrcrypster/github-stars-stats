@@ -1,6 +1,6 @@
 # phodal/developer - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1702 | 355 | 
 | 2023-04-07 | 1702 | 355 | 
 | 2023-04-06 | 1702 | 355 | 
 | 2023-04-05 | 1702 | 355 | 

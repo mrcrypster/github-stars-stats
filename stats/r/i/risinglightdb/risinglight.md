@@ -1,6 +1,6 @@
 # risinglightdb/risinglight - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1167 | 171 | 
 | 2023-04-07 | 1167 | 171 | 
 | 2023-04-06 | 1160 | 171 | 
 | 2023-04-05 | 1160 | 171 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1106 | 166 | 
 | 2023-03-12 | 1108 | 165 | 
 | 2023-03-10 | 1105 | 164 | 
-| 2023-03-09 | 1104 | 164 | 
 

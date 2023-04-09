@@ -1,10 +1,10 @@
 # ManlyMarco/KK-HF_Patch - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 70
 
-★ Stars: 536
+★ Stars: 537
 
 [Open repository](https://github.com/ManlyMarco/KK-HF_Patch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 537 | 70 | 
 | 2023-04-07 | 536 | 70 | 
 | 2023-04-06 | 536 | 70 | 
 | 2023-04-05 | 535 | 70 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 522 | 68 | 
 | 2023-03-12 | 522 | 68 | 
 | 2023-03-11 | 520 | 68 | 
-| 2023-03-10 | 519 | 68 | 
 

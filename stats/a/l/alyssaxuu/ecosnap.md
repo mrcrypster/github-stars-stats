@@ -1,10 +1,10 @@
 # alyssaxuu/ecosnap - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 10
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/alyssaxuu/ecosnap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 205 | 10 | 
 | 2023-04-07 | 204 | 10 | 
 | 2023-04-06 | 204 | 10 | 
 | 2023-04-05 | 204 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-14 | 200 | 11 | 
 | 2023-03-12 | 199 | 11 | 
 | 2023-03-11 | 199 | 11 | 
-| 2023-03-09 | 199 | 11 | 
 

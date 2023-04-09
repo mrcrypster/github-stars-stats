@@ -1,6 +1,6 @@
 # UniversalRobots/Universal_Robots_ROS2_Driver - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 201 | 117 | 
 | 2023-04-07 | 201 | 117 | 
 | 2023-04-06 | 201 | 117 | 
 | 2023-04-05 | 199 | 117 | 

@@ -1,8 +1,8 @@
 # py-why/dowhy - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 825
+☋ Forks: 824
 
 ★ Stars: 5792
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5792 | 824 | 
 | 2023-04-07 | 5792 | 825 | 
 | 2023-04-06 | 5791 | 825 | 
 | 2023-04-05 | 5787 | 823 | 

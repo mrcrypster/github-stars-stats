@@ -1,10 +1,10 @@
 # catppuccin/gitea - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 27
 
 [Open repository](https://github.com/catppuccin/gitea)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 27 | 1 | 
 | 2023-04-07 | 24 | 1 | 
 | 2023-04-06 | 24 | 1 | 
 | 2023-04-04 | 22 | 1 | 

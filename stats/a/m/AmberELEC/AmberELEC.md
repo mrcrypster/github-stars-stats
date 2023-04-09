@@ -1,6 +1,6 @@
 # AmberELEC/AmberELEC - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 911 | 121 | 
 | 2023-04-07 | 911 | 121 | 
 | 2023-04-06 | 911 | 121 | 
 | 2023-04-05 | 911 | 121 | 

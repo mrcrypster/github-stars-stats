@@ -1,10 +1,10 @@
 # LC1332/CamelBell-Chinese-LoRA - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 101
+★ Stars: 103
 
 [Open repository](https://github.com/LC1332/CamelBell-Chinese-LoRA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 103 | 12 | 
 | 2023-04-07 | 101 | 11 | 
 | 2023-04-06 | 95 | 10 | 
 | 2023-04-05 | 89 | 10 | 

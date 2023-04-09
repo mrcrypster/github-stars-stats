@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 442
+☋ Forks: 443
 
-★ Stars: 1797
+★ Stars: 1798
 
 [Open repository](https://github.com/J2TEAM/idm-trial-reset)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 1797 | 442 | 
+| 2023-04-08 | 1798 | 443 | 
 | 2023-04-07 | 1797 | 442 | 
 | 2023-04-06 | 1789 | 440 | 
 | 2023-04-05 | 1790 | 440 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 1743 | 432 | 
 | 2023-03-11 | 1743 | 432 | 
 | 2023-03-10 | 1742 | 432 | 
-| 2023-03-09 | 1742 | 431 | 
 

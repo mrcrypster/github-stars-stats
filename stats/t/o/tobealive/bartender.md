@@ -1,6 +1,6 @@
 # tobealive/bartender - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 33 | 1 | 
 | 2023-04-07 | 33 | 1 | 
 | 2023-04-06 | 33 | 1 | 
 | 2023-04-05 | 33 | 1 | 

@@ -1,6 +1,6 @@
 # scarf-sh/tie - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 40 | 3 | 
 | 2023-04-07 | 40 | 3 | 
 | 2023-04-06 | 40 | 3 | 
 | 2023-04-05 | 40 | 3 | 

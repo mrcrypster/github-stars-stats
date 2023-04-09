@@ -1,8 +1,8 @@
 # madcowswe/ODriveHardware - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 394
+☋ Forks: 395
 
 ★ Stars: 774
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 774 | 395 | 
 | 2023-04-07 | 774 | 394 | 
 | 2023-04-06 | 774 | 394 | 
 | 2023-04-05 | 774 | 394 | 

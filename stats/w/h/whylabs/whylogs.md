@@ -1,10 +1,10 @@
 # whylabs/whylogs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 93
 
-★ Stars: 2167
+★ Stars: 2168
 
 [Open repository](https://github.com/whylabs/whylogs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2168 | 93 | 
 | 2023-04-07 | 2167 | 93 | 
 | 2023-04-06 | 2163 | 93 | 
 | 2023-04-05 | 2161 | 93 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2125 | 92 | 
 | 2023-03-12 | 2123 | 92 | 
 | 2023-03-10 | 2125 | 92 | 
-| 2023-03-09 | 2126 | 92 | 
 

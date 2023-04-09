@@ -1,10 +1,10 @@
 # bizz84/starter_architecture_flutter_firebase - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 341
 
-★ Stars: 1248
+★ Stars: 1247
 
 [Open repository](https://github.com/bizz84/starter_architecture_flutter_firebase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1247 | 341 | 
 | 2023-04-07 | 1248 | 341 | 
 | 2023-04-06 | 1245 | 340 | 
 | 2023-04-05 | 1245 | 340 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1211 | 334 | 
 | 2023-03-11 | 1209 | 332 | 
 | 2023-03-10 | 1203 | 332 | 
-| 2023-03-09 | 1201 | 332 | 
 

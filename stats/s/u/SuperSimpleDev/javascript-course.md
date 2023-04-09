@@ -1,10 +1,10 @@
 # SuperSimpleDev/javascript-course - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 44
+★ Stars: 47
 
 [Open repository](https://github.com/SuperSimpleDev/javascript-course)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 47 | 30 | 
 | 2023-04-07 | 44 | 28 | 
 | 2023-04-06 | 39 | 25 | 
 | 2023-04-05 | 36 | 23 | 

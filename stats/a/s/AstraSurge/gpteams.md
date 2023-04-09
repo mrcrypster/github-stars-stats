@@ -1,10 +1,10 @@
 # AstraSurge/gpteams - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/AstraSurge/gpteams)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 67 | 20 | 
 | 2023-04-07 | 66 | 18 | 
 | 2023-04-06 | 66 | 18 | 
 | 2023-04-05 | 64 | 15 | 

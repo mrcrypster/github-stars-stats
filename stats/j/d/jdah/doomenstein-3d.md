@@ -1,10 +1,10 @@
 # jdah/doomenstein-3d - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 22
 
-★ Stars: 330
+★ Stars: 331
 
 [Open repository](https://github.com/jdah/doomenstein-3d)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 331 | 22 | 
 | 2023-04-07 | 330 | 22 | 
 | 2023-04-06 | 329 | 22 | 
 | 2023-04-05 | 327 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 258 | 19 | 
 | 2023-03-11 | 245 | 17 | 
 | 2023-03-10 | 225 | 16 | 
-| 2023-03-09 | 219 | 16 | 
 

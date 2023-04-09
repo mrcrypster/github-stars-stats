@@ -1,10 +1,10 @@
 # tempAccountA/MSParallaxDemo - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 200
 
-★ Stars: 130
+★ Stars: 149
 
 [Open repository](https://github.com/tempAccountA/MSParallaxDemo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 149 | 200 | 
 | 2023-04-07 | 130 | 200 | 
 | 2023-04-06 | 111 | 200 | 
 | 2023-04-05 | 91 | 200 | 

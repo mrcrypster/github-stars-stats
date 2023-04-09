@@ -1,8 +1,8 @@
 # dend/awesome-product-management - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 95
+☋ Forks: 94
 
 ★ Stars: 1009
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1009 | 94 | 
 | 2023-04-07 | 1009 | 95 | 
 | 2023-04-06 | 1009 | 94 | 
 | 2023-04-05 | 1008 | 94 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 992 | 93 | 
 | 2023-03-12 | 989 | 93 | 
 | 2023-03-10 | 987 | 93 | 
-| 2023-03-09 | 985 | 93 | 
 

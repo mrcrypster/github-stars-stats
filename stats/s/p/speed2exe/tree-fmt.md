@@ -1,6 +1,6 @@
 # speed2exe/tree-fmt - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 16 | - | 
 | 2023-04-07 | 16 | - | 
 | 2023-04-06 | 16 | - | 
 | 2023-04-05 | 16 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 14 | - | 
 | 2023-03-11 | 14 | - | 
 | 2023-03-10 | 13 | - | 
-| 2023-03-09 | 12 | - | 
 

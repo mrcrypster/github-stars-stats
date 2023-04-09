@@ -1,10 +1,10 @@
 # GammaTauAI/reflexion-human-eval - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 481
+★ Stars: 487
 
 [Open repository](https://github.com/GammaTauAI/reflexion-human-eval)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 487 | 45 | 
 | 2023-04-07 | 481 | 44 | 
 | 2023-04-06 | 469 | 44 | 
 | 2023-04-05 | 458 | 42 | 

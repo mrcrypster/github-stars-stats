@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 307
+★ Stars: 323
 
 [Open repository](https://github.com/Jittor/JittorLLMs)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 307 | 22 | 
+| 2023-04-08 | 323 | 23 | 
 | 2023-04-07 | 304 | 22 | 
 | 2023-04-06 | 265 | 14 | 
 

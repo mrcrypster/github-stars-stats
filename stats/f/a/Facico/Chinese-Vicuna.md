@@ -1,10 +1,10 @@
 # Facico/Chinese-Vicuna - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 85
+☋ Forks: 90
 
-★ Stars: 735
+★ Stars: 791
 
 [Open repository](https://github.com/Facico/Chinese-Vicuna)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 791 | 90 | 
 | 2023-04-07 | 735 | 85 | 
 | 2023-04-06 | 674 | 73 | 
 | 2023-04-05 | 557 | 66 | 

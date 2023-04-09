@@ -1,6 +1,6 @@
 # mastodon-dart/mastodon-api - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 50 | 5 | 
 | 2023-04-07 | 50 | 5 | 
 | 2023-04-06 | 50 | 5 | 
 | 2023-04-05 | 50 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 47 | 5 | 
 | 2023-03-12 | 47 | 5 | 
 | 2023-03-11 | 47 | 5 | 
-| 2023-03-09 | 47 | 5 | 
 

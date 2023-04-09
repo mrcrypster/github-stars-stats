@@ -1,10 +1,10 @@
 # espocrm/espocrm - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 444
 
-★ Stars: 1083
+★ Stars: 1085
 
 [Open repository](https://github.com/espocrm/espocrm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1085 | 444 | 
 | 2023-04-07 | 1083 | 444 | 
 | 2023-04-06 | 1080 | 444 | 
 | 2023-04-04 | 1079 | 443 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1060 | 438 | 
 | 2023-03-11 | 1060 | 438 | 
 | 2023-03-10 | 1059 | 436 | 
-| 2023-03-09 | 1059 | 436 | 
 

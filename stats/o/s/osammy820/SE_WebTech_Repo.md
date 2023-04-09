@@ -1,10 +1,10 @@
 # osammy820/SE_WebTech_Repo - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 811
+☋ Forks: 888
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/osammy820/SE_WebTech_Repo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 18 | 888 | 
 | 2023-04-07 | 16 | 811 | 
 | 2023-04-06 | 16 | 726 | 
 | 2023-04-05 | 14 | 683 | 

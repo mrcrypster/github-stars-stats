@@ -1,10 +1,10 @@
 # mattyamonaca/layerdivider - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 357
+★ Stars: 359
 
 [Open repository](https://github.com/mattyamonaca/layerdivider)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 359 | 25 | 
 | 2023-04-07 | 357 | 25 | 
 | 2023-04-06 | 357 | 25 | 
 | 2023-04-05 | 354 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 60 | 11 | 
 | 2023-03-11 | 55 | 9 | 
 | 2023-03-10 | 49 | 8 | 
-| 2023-03-09 | 41 | 7 | 
 

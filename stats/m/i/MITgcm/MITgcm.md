@@ -1,6 +1,6 @@
 # MITgcm/MITgcm - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 213
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 274 | 213 | 
 | 2023-04-07 | 274 | 213 | 
 | 2023-04-06 | 274 | 213 | 
 | 2023-04-05 | 274 | 213 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 272 | 213 | 
 | 2023-03-11 | 272 | 213 | 
 | 2023-03-10 | 272 | 213 | 
-| 2023-03-09 | 272 | 213 | 
 

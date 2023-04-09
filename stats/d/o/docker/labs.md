@@ -1,10 +1,10 @@
 # docker/labs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 5375
+☋ Forks: 5374
 
-★ Stars: 11196
+★ Stars: 11198
 
 [Open repository](https://github.com/docker/labs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 11198 | 5374 | 
 | 2023-04-07 | 11196 | 5375 | 
 | 2023-04-06 | 11194 | 5375 | 
 | 2023-04-05 | 11192 | 5375 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 11156 | 5368 | 
 | 2023-03-11 | 11153 | 5368 | 
 | 2023-03-10 | 11151 | 5366 | 
-| 2023-03-09 | 11149 | 5365 | 
 

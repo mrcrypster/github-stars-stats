@@ -1,8 +1,8 @@
 # chipsalliance/rocket-chip-fpga-shells - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 10 | 6 | 
 | 2023-04-07 | 10 | 5 | 
 | 2023-04-06 | 8 | 5 | 
 | 2023-04-05 | 8 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 7 | 4 | 
 | 2023-03-11 | 7 | 4 | 
 | 2023-03-10 | 7 | 4 | 
-| 2023-03-09 | 7 | 4 | 
 

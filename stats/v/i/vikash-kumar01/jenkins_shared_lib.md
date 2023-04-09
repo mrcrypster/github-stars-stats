@@ -1,10 +1,10 @@
 # vikash-kumar01/jenkins_shared_lib - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/vikash-kumar01/jenkins_shared_lib)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2 | 25 | 
+| 2023-04-08 | 2 | 25 | 
 | 2023-04-07 | 1 | 24 | 
 | 2023-04-06 | 1 | 21 | 
 | 2023-04-05 | - | 20 | 

@@ -1,6 +1,6 @@
 # rust-lang/regex - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 369
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2764 | 369 | 
 | 2023-04-07 | 2764 | 369 | 
 | 2023-04-06 | 2761 | 369 | 
 | 2023-04-05 | 2759 | 369 | 

@@ -1,6 +1,6 @@
 # rbaron/b-parasite - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1422 | 98 | 
 | 2023-04-07 | 1422 | 98 | 
 | 2023-04-06 | 1421 | 98 | 
 | 2023-04-05 | 1421 | 98 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1400 | 95 | 
 | 2023-03-12 | 1398 | 95 | 
 | 2023-03-11 | 1397 | 94 | 
-| 2023-03-09 | 1395 | 94 | 
 

@@ -1,10 +1,10 @@
 # moigagoo/climate - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/moigagoo/climate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 22 | - | 
 | 2023-04-07 | 20 | - | 
 | 2023-04-06 | 19 | - | 
 | 2023-04-05 | 19 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 15 | - | 
 | 2023-03-11 | 15 | - | 
 | 2023-03-10 | 15 | - | 
-| 2023-03-09 | 15 | - | 
 

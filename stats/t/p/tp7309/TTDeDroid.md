@@ -1,6 +1,6 @@
 # tp7309/TTDeDroid - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 642 | 148 | 
 | 2023-04-07 | 642 | 148 | 
 | 2023-04-06 | 640 | 147 | 
 | 2023-04-05 | 638 | 147 | 

@@ -1,10 +1,10 @@
 # GuidoPenta/galactic-linkedin-profile-guide - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/GuidoPenta/galactic-linkedin-profile-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 67 | 4 | 
 | 2023-04-07 | 66 | 4 | 
 | 2023-04-06 | 66 | 4 | 
 | 2023-04-05 | 65 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 59 | 5 | 
 | 2023-03-12 | 58 | 5 | 
 | 2023-03-11 | 58 | 5 | 
-| 2023-03-10 | 58 | 5 | 
 

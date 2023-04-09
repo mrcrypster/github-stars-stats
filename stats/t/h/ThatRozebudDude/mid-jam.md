@@ -1,6 +1,6 @@
 # ThatRozebudDude/mid-jam - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 8 | 5 | 
 | 2023-04-07 | 8 | 5 | 
 | 2023-04-06 | 8 | 5 | 
 | 2023-04-04 | 8 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 7 | 5 | 
 | 2023-03-12 | 7 | 5 | 
 | 2023-03-11 | 7 | 5 | 
-| 2023-03-10 | 7 | 5 | 
 

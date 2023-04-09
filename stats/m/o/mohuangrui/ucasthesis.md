@@ -1,10 +1,10 @@
 # mohuangrui/ucasthesis - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 912
 
-★ Stars: 3046
+★ Stars: 3047
 
 [Open repository](https://github.com/mohuangrui/ucasthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3047 | 912 | 
 | 2023-04-07 | 3046 | 912 | 
 | 2023-04-06 | 3046 | 913 | 
 | 2023-04-05 | 3045 | 913 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 3022 | 909 | 
 | 2023-03-11 | 3022 | 909 | 
 | 2023-03-10 | 3019 | 909 | 
-| 2023-03-09 | 3019 | 909 | 
 

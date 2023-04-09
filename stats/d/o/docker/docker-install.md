@@ -1,10 +1,10 @@
 # docker/docker-install - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 720
 
-★ Stars: 1662
+★ Stars: 1661
 
 [Open repository](https://github.com/docker/docker-install)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1661 | 720 | 
 | 2023-04-07 | 1662 | 720 | 
 | 2023-04-06 | 1659 | 718 | 
 | 2023-04-05 | 1659 | 718 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1619 | 714 | 
 | 2023-03-12 | 1619 | 714 | 
 | 2023-03-11 | 1617 | 714 | 
-| 2023-03-09 | 1618 | 713 | 
 

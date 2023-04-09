@@ -1,6 +1,6 @@
 # xHak9x/SocialPhish - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 954 | 424 | 
 | 2023-04-07 | 954 | 424 | 
 | 2023-04-06 | 953 | 424 | 
 | 2023-04-05 | 953 | 424 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 948 | 421 | 
 | 2023-03-12 | 948 | 421 | 
 | 2023-03-10 | 948 | 420 | 
-| 2023-03-09 | 947 | 420 | 
 

@@ -1,10 +1,10 @@
 # 0beqz/enhance-shader-lighting - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/0beqz/enhance-shader-lighting)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 138 | 7 | 
 | 2023-04-08 | 137 | 7 | 
 | 2023-04-07 | 136 | 7 | 
 | 2023-04-05 | 132 | 7 | 

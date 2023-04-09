@@ -1,10 +1,10 @@
 # jedib0t/go-pretty - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 89
 
-★ Stars: 1943
+★ Stars: 1945
 
 [Open repository](https://github.com/jedib0t/go-pretty)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1945 | 89 | 
 | 2023-04-07 | 1943 | 89 | 
 | 2023-04-06 | 1943 | 88 | 
 | 2023-04-05 | 1939 | 88 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1898 | 88 | 
 | 2023-03-11 | 1896 | 88 | 
 | 2023-03-10 | 1897 | 88 | 
-| 2023-03-09 | 1895 | 88 | 
 

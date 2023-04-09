@@ -1,10 +1,10 @@
 # BinarCode/laravel-restify - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 43
 
-★ Stars: 427
+★ Stars: 428
 
 [Open repository](https://github.com/BinarCode/laravel-restify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 428 | 43 | 
 | 2023-04-07 | 427 | 43 | 
 | 2023-04-06 | 427 | 43 | 
 | 2023-04-05 | 427 | 43 | 

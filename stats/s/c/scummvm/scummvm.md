@@ -1,10 +1,10 @@
 # scummvm/scummvm - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 889
 
-★ Stars: 1979
+★ Stars: 1980
 
 [Open repository](https://github.com/scummvm/scummvm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1980 | 889 | 
 | 2023-04-07 | 1979 | 889 | 
 | 2023-04-06 | 1979 | 889 | 
 | 2023-04-05 | 1978 | 889 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1962 | 870 | 
 | 2023-03-12 | 1961 | 870 | 
 | 2023-03-10 | 1960 | 871 | 
-| 2023-03-09 | 1959 | 871 | 
 

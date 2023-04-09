@@ -1,10 +1,10 @@
 # lenve/VBlog - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 2895
+☋ Forks: 2897
 
-★ Stars: 6864
+★ Stars: 6866
 
 [Open repository](https://github.com/lenve/VBlog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6866 | 2897 | 
 | 2023-04-07 | 6864 | 2895 | 
 | 2023-04-06 | 6863 | 2895 | 
 | 2023-04-05 | 6862 | 2895 | 

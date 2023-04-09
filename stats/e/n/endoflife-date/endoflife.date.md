@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 380
 
-★ Stars: 1418
+★ Stars: 1420
 
 [Open repository](https://github.com/endoflife-date/endoflife.date)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 1418 | 380 | 
+| 2023-04-08 | 1420 | 380 | 
 | 2023-04-07 | 1418 | 380 | 
 | 2023-04-05 | 1413 | 378 | 
 | 2023-04-04 | 1411 | 377 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 1372 | 359 | 
 | 2023-03-11 | 1371 | 358 | 
 | 2023-03-10 | 1367 | 358 | 
-| 2023-03-09 | 1367 | 358 | 
 

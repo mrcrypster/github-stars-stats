@@ -1,10 +1,10 @@
 # librespeed/speedtest - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1950
+☋ Forks: 1949
 
-★ Stars: 9425
+★ Stars: 9428
 
 [Open repository](https://github.com/librespeed/speedtest)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 9428 | 1949 | 
 | 2023-04-08 | 9425 | 1950 | 
 | 2023-04-07 | 9420 | 1950 | 
 | 2023-04-05 | 9413 | 1950 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 9288 | 1943 | 
 | 2023-03-12 | 9283 | 1942 | 
 | 2023-03-11 | 9279 | 1942 | 
-| 2023-03-09 | 9277 | 1942 | 
 

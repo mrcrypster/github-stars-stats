@@ -1,10 +1,10 @@
 # bkrem/awesome-solidity - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 845
+☋ Forks: 846
 
-★ Stars: 5829
+★ Stars: 5832
 
 [Open repository](https://github.com/bkrem/awesome-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 5832 | 846 | 
 | 2023-04-07 | 5829 | 845 | 
 | 2023-04-06 | 5826 | 845 | 
 | 2023-04-05 | 5821 | 845 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 5757 | 836 | 
 | 2023-03-12 | 5752 | 835 | 
 | 2023-03-11 | 5751 | 835 | 
-| 2023-03-09 | 5747 | 833 | 
 

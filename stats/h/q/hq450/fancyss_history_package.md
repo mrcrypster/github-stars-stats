@@ -1,10 +1,10 @@
 # hq450/fancyss_history_package - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3602
 
-★ Stars: 9434
+★ Stars: 9437
 
 [Open repository](https://github.com/hq450/fancyss_history_package)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 9437 | 3602 | 
 | 2023-04-07 | 9434 | 3602 | 
 | 2023-04-06 | 9431 | 3598 | 
 | 2023-04-05 | 9425 | 3596 | 

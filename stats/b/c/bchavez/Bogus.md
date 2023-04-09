@@ -1,6 +1,6 @@
 # bchavez/Bogus - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 412
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7065 | 412 | 
 | 2023-04-07 | 7065 | 412 | 
 | 2023-04-06 | 7060 | 412 | 
 | 2023-04-05 | 7055 | 412 | 

@@ -1,10 +1,10 @@
 # stefanprodan/timoni - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 275
+★ Stars: 283
 
 [Open repository](https://github.com/stefanprodan/timoni)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 283 | 6 | 
 | 2023-04-07 | 275 | 6 | 
 | 2023-04-06 | 271 | 6 | 
 | 2023-04-05 | 257 | 6 | 

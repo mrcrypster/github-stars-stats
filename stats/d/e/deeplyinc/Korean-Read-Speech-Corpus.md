@@ -1,6 +1,6 @@
 # deeplyinc/Korean-Read-Speech-Corpus - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7 | - | 
 | 2023-04-08 | 7 | - | 
 | 2023-04-07 | 7 | - | 
 | 2023-04-05 | 7 | - | 

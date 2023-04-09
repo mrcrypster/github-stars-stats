@@ -1,6 +1,6 @@
 # espressif/esp-usb-bridge - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 195 | 24 | 
 | 2023-04-08 | 195 | 24 | 
 | 2023-04-07 | 195 | 24 | 
 | 2023-04-05 | 194 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 193 | 23 | 
 | 2023-03-12 | 192 | 23 | 
 | 2023-03-10 | 192 | 23 | 
-| 2023-03-09 | 192 | 23 | 
 

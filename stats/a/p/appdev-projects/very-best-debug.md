@@ -1,6 +1,6 @@
 # appdev-projects/very-best-debug - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 818
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | - | 818 | 
 | 2023-04-07 | - | 818 | 
 | 2023-04-06 | - | 818 | 
 | 2023-04-05 | - | 818 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | - | 811 | 
 | 2023-03-12 | - | 809 | 
 | 2023-03-11 | - | 808 | 
-| 2023-03-10 | - | 806 | 
 

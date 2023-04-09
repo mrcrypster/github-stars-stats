@@ -1,10 +1,10 @@
 # memN0ps/ekko-rs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 103
+★ Stars: 110
 
 [Open repository](https://github.com/memN0ps/ekko-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 110 | 10 | 
 | 2023-04-07 | 103 | 9 | 
 | 2023-04-06 | 100 | 9 | 
 | 2023-04-05 | 99 | 9 | 

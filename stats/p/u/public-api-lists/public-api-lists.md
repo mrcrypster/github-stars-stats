@@ -1,10 +1,10 @@
 # public-api-lists/public-api-lists - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 449
+☋ Forks: 451
 
-★ Stars: 6454
+★ Stars: 6465
 
 [Open repository](https://github.com/public-api-lists/public-api-lists)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 6465 | 451 | 
 | 2023-04-07 | 6454 | 449 | 
 | 2023-04-06 | 6443 | 448 | 
 

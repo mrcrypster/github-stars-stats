@@ -1,6 +1,6 @@
 # vmware/PowerCLI-Example-Scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 572
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 690 | 572 | 
 | 2023-04-07 | 690 | 572 | 
 | 2023-04-06 | 690 | 571 | 
 | 2023-04-05 | 690 | 571 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 686 | 569 | 
 | 2023-03-12 | 685 | 569 | 
 | 2023-03-11 | 684 | 568 | 
-| 2023-03-09 | 684 | 567 | 
 

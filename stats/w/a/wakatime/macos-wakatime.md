@@ -1,10 +1,10 @@
 # wakatime/macos-wakatime - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/wakatime/macos-wakatime)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 49 | 9 | 
 | 2023-04-07 | 48 | 8 | 
 | 2023-04-06 | 47 | 8 | 
 | 2023-04-05 | 46 | 8 | 

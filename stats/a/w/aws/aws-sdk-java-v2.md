@@ -1,6 +1,6 @@
 # aws/aws-sdk-java-v2 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 692
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1732 | 692 | 
 | 2023-04-07 | 1732 | 692 | 
 | 2023-04-06 | 1731 | 691 | 
 | 2023-04-05 | 1730 | 690 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1688 | 675 | 
 | 2023-03-11 | 1688 | 674 | 
 | 2023-03-10 | 1685 | 675 | 
-| 2023-03-09 | 1684 | 674 | 
 

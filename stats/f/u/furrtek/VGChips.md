@@ -1,10 +1,10 @@
 # furrtek/VGChips - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/furrtek/VGChips)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 119 | 12 | 
 | 2023-04-07 | 118 | 12 | 
 | 2023-04-06 | 118 | 12 | 
 | 2023-04-05 | 118 | 12 | 

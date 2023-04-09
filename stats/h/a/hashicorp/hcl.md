@@ -1,8 +1,8 @@
 # hashicorp/hcl - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 535
+☋ Forks: 536
 
 ★ Stars: 4640
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4640 | 536 | 
 | 2023-04-07 | 4640 | 535 | 
 | 2023-04-06 | 4638 | 535 | 
 | 2023-04-05 | 4636 | 535 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 4606 | 530 | 
 | 2023-03-12 | 4605 | 530 | 
 | 2023-03-11 | 4602 | 531 | 
-| 2023-03-09 | 4601 | 531 | 
 

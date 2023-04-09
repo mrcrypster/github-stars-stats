@@ -1,6 +1,6 @@
 # ocsf/ocsf-schema - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 393 | 55 | 
 | 2023-04-08 | 393 | 55 | 
 | 2023-04-06 | 392 | 55 | 
 | 2023-04-05 | 392 | 53 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 388 | 49 | 
 | 2023-03-12 | 388 | 49 | 
 | 2023-03-11 | 388 | 49 | 
-| 2023-03-09 | 388 | 49 | 
 

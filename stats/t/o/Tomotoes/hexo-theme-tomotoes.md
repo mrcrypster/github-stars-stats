@@ -1,10 +1,10 @@
 # Tomotoes/hexo-theme-tomotoes - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 51
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/Tomotoes/hexo-theme-tomotoes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 310 | 51 | 
 | 2023-04-07 | 309 | 51 | 
 | 2023-04-06 | 309 | 51 | 
 | 2023-04-05 | 309 | 51 | 

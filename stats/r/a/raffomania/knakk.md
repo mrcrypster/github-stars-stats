@@ -1,10 +1,10 @@
 # raffomania/knakk - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 57
+★ Stars: 68
 
 [Open repository](https://github.com/raffomania/knakk)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 68 | 4 | 
+| 2023-04-08 | 67 | 4 | 
 | 2023-04-07 | 57 | 4 | 
 

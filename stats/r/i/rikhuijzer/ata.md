@@ -1,6 +1,6 @@
 # rikhuijzer/ata - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 166 | 9 | 
 | 2023-04-07 | 166 | 9 | 
 | 2023-04-06 | 166 | 9 | 
 | 2023-04-05 | 166 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 151 | 9 | 
 | 2023-03-11 | 151 | 9 | 
 | 2023-03-10 | 150 | 9 | 
-| 2023-03-09 | 147 | 9 | 
 

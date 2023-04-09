@@ -1,6 +1,6 @@
 # uzh-rpg/agilicious - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 308 | 33 | 
 | 2023-04-07 | 308 | 33 | 
 | 2023-04-06 | 308 | 33 | 
 | 2023-04-05 | 307 | 33 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 296 | 32 | 
 | 2023-03-12 | 295 | 32 | 
 | 2023-03-11 | 292 | 32 | 
-| 2023-03-10 | 290 | 32 | 
 

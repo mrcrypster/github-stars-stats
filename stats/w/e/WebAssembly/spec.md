@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 441
+☋ Forks: 442
 
-★ Stars: 2869
+★ Stars: 2870
 
 [Open repository](https://github.com/WebAssembly/spec)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 2869 | 441 | 
+| 2023-04-08 | 2870 | 442 | 
 | 2023-04-07 | 2869 | 441 | 
 | 2023-04-06 | 2869 | 441 | 
 | 2023-04-05 | 2869 | 440 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 2843 | 434 | 
 | 2023-03-11 | 2842 | 434 | 
 | 2023-03-10 | 2843 | 435 | 
-| 2023-03-09 | 2843 | 435 | 
 

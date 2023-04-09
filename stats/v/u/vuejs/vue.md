@@ -1,10 +1,10 @@
 # vuejs/vue - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 33562
+☋ Forks: 33565
 
-★ Stars: 203095
+★ Stars: 203108
 
 [Open repository](https://github.com/vuejs/vue)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 203108 | 33565 | 
 | 2023-04-07 | 203095 | 33562 | 
 | 2023-04-06 | 203084 | 33554 | 
 | 2023-04-05 | 203077 | 33552 | 

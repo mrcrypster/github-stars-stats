@@ -1,10 +1,10 @@
 # liveshowy/webauthn_live_component - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/liveshowy/webauthn_live_component)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 79 | 3 | 
 | 2023-04-07 | 78 | 3 | 
 | 2023-04-06 | 78 | 3 | 
 | 2023-04-05 | 78 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 73 | 3 | 
 | 2023-03-11 | 73 | 3 | 
 | 2023-03-10 | 73 | 3 | 
-| 2023-03-09 | 73 | 3 | 
 

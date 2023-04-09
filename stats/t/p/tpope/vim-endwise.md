@@ -1,10 +1,10 @@
 # tpope/vim-endwise - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 102
 
-★ Stars: 1051
+★ Stars: 1052
 
 [Open repository](https://github.com/tpope/vim-endwise)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1052 | 102 | 
 | 2023-04-07 | 1051 | 102 | 
 | 2023-04-06 | 1049 | 102 | 
 | 2023-04-05 | 1049 | 102 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1046 | 102 | 
 | 2023-03-12 | 1046 | 103 | 
 | 2023-03-11 | 1047 | 103 | 
-| 2023-03-09 | 1047 | 103 | 
 

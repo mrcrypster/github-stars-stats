@@ -1,6 +1,6 @@
 # StephenGrider/ElixirCode - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1005 | 327 | 
 | 2023-04-07 | 1005 | 327 | 
 | 2023-04-06 | 1004 | 327 | 
 | 2023-04-05 | 1004 | 327 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 994 | 326 | 
 | 2023-03-11 | 994 | 326 | 
 | 2023-03-10 | 992 | 326 | 
-| 2023-03-09 | 992 | 326 | 
 

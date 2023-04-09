@@ -1,6 +1,6 @@
 # Unity-Technologies/com.unity.webrtc - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 628 | 154 | 
 | 2023-04-07 | 628 | 154 | 
 | 2023-04-06 | 628 | 154 | 
 | 2023-04-05 | 628 | 154 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 618 | 150 | 
 | 2023-03-11 | 618 | 150 | 
 | 2023-03-10 | 618 | 150 | 
-| 2023-03-09 | 618 | 150 | 
 

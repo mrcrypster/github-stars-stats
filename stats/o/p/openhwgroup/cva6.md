@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 507
 
-★ Stars: 1694
+★ Stars: 1693
 
 [Open repository](https://github.com/openhwgroup/cva6)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 1694 | 507 | 
+| 2023-04-08 | 1693 | 507 | 
 | 2023-04-07 | 1694 | 507 | 
 | 2023-04-06 | 1693 | 506 | 
 | 2023-04-05 | 1691 | 506 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 1679 | 497 | 
 | 2023-03-11 | 1679 | 497 | 
 | 2023-03-10 | 1679 | 497 | 
-| 2023-03-09 | 1679 | 497 | 
 

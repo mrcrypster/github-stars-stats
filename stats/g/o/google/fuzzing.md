@@ -1,10 +1,10 @@
 # google/fuzzing - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 385
+☋ Forks: 386
 
-★ Stars: 2669
+★ Stars: 2670
 
 [Open repository](https://github.com/google/fuzzing)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2670 | 386 | 
 | 2023-04-07 | 2669 | 385 | 
 | 2023-04-06 | 2668 | 384 | 
 | 2023-04-05 | 2667 | 384 | 

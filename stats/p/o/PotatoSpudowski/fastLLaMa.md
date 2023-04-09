@@ -1,10 +1,10 @@
 # PotatoSpudowski/fastLLaMa - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 20
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/PotatoSpudowski/fastLLaMa)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 219 | 20 | 
 | 2023-04-07 | 218 | 20 | 
 | 2023-04-06 | 216 | 20 | 
 | 2023-04-05 | 212 | 20 | 

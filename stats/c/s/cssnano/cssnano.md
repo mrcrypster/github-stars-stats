@@ -1,10 +1,10 @@
 # cssnano/cssnano - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 315
 
-★ Stars: 4394
+★ Stars: 4395
 
 [Open repository](https://github.com/cssnano/cssnano)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4395 | 315 | 
 | 2023-04-07 | 4394 | 315 | 
 | 2023-04-06 | 4393 | 315 | 
 | 2023-04-05 | 4393 | 315 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 4375 | 316 | 
 | 2023-03-12 | 4374 | 316 | 
 | 2023-03-11 | 4375 | 316 | 
-| 2023-03-09 | 4375 | 316 | 
 

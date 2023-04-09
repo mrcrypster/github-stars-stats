@@ -1,10 +1,10 @@
 # liyupi/mianshiya-public - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1047
+☋ Forks: 1048
 
-★ Stars: 3519
+★ Stars: 3522
 
 [Open repository](https://github.com/liyupi/mianshiya-public)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3522 | 1048 | 
 | 2023-04-07 | 3519 | 1047 | 
 | 2023-04-06 | 3517 | 1045 | 
 | 2023-04-05 | 3517 | 1044 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 3465 | 1033 | 
 | 2023-03-12 | 3464 | 1032 | 
 | 2023-03-11 | 3461 | 1031 | 
-| 2023-03-09 | 3459 | 1032 | 
 

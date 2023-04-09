@@ -1,10 +1,10 @@
 # Kong/openapi-generator-config - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Kong/openapi-generator-config)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1 | 1 | 
 | 2023-04-07 | - | 1 | 
 | 2023-04-06 | - | 1 | 
 | 2023-04-05 | - | 1 | 

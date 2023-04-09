@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 08
 
 ☋ Forks: 23
 
-★ Stars: 719
+★ Stars: 720
 
 [Open repository](https://github.com/capy-ui/capy)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 719 | 23 | 
+| 2023-04-08 | 720 | 23 | 
 | 2023-04-07 | 719 | 23 | 
 | 2023-04-06 | 716 | 23 | 
 | 2023-04-05 | 714 | 23 | 

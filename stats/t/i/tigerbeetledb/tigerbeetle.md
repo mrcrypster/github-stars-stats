@@ -1,10 +1,10 @@
 # tigerbeetledb/tigerbeetle - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 99
 
-★ Stars: 2224
+★ Stars: 2231
 
 [Open repository](https://github.com/tigerbeetledb/tigerbeetle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2231 | 99 | 
 | 2023-04-07 | 2224 | 99 | 
 | 2023-04-06 | 2222 | 99 | 
 | 2023-04-05 | 2220 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 1958 | 94 | 
 | 2023-03-11 | 1956 | 94 | 
 | 2023-03-10 | 1946 | 94 | 
-| 2023-03-09 | 1937 | 94 | 
 

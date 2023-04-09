@@ -1,10 +1,10 @@
 # 64bit/async-openai - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 30
 
-★ Stars: 305
+★ Stars: 307
 
 [Open repository](https://github.com/64bit/async-openai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 307 | 30 | 
 | 2023-04-07 | 305 | 30 | 
 | 2023-04-06 | 304 | 30 | 
 | 2023-04-05 | 303 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 186 | 23 | 
 | 2023-03-11 | 185 | 22 | 
 | 2023-03-10 | 181 | 21 | 
-| 2023-03-09 | 178 | 21 | 
 

@@ -1,10 +1,10 @@
 # CBATeam/CBA_A3 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 137
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/CBATeam/CBA_A3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 340 | 137 | 
 | 2023-04-07 | 339 | 137 | 
 | 2023-04-06 | 339 | 137 | 
 | 2023-04-05 | 338 | 137 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 338 | 136 | 
 | 2023-03-11 | 338 | 136 | 
 | 2023-03-10 | 338 | 136 | 
-| 2023-03-09 | 338 | 136 | 
 

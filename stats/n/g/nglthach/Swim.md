@@ -1,6 +1,6 @@
 # nglthach/Swim - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 26 | 7 | 
 | 2023-04-08 | 26 | 7 | 
 | 2023-04-07 | 26 | 7 | 
 | 2023-04-05 | 26 | 7 | 

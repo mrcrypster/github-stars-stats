@@ -1,10 +1,10 @@
 # robotframework/robotframework - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 2109
+☋ Forks: 2108
 
-★ Stars: 7916
+★ Stars: 7919
 
 [Open repository](https://github.com/robotframework/robotframework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 7919 | 2108 | 
 | 2023-04-07 | 7916 | 2109 | 
 | 2023-04-06 | 7913 | 2108 | 
 | 2023-04-05 | 7910 | 2108 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 7843 | 2098 | 
 | 2023-03-12 | 7838 | 2098 | 
 | 2023-03-10 | 7834 | 2097 | 
-| 2023-03-09 | 7829 | 2096 | 
 

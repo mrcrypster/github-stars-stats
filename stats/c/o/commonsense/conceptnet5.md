@@ -1,10 +1,10 @@
 # commonsense/conceptnet5 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 348
 
-★ Stars: 2616
+★ Stars: 2617
 
 [Open repository](https://github.com/commonsense/conceptnet5)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2617 | 348 | 
 | 2023-04-08 | 2616 | 348 | 
 | 2023-04-06 | 2616 | 348 | 
 | 2023-04-05 | 2616 | 348 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 2605 | 347 | 
 | 2023-03-12 | 2605 | 347 | 
 | 2023-03-11 | 2605 | 347 | 
-| 2023-03-09 | 2601 | 347 | 
 

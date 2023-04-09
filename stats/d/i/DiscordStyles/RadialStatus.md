@@ -1,8 +1,8 @@
 # DiscordStyles/RadialStatus - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 78 | 65 | 
 | 2023-04-07 | 78 | 64 | 
 | 2023-04-06 | 78 | 61 | 
 | 2023-04-05 | 78 | 61 | 

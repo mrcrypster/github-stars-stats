@@ -1,10 +1,10 @@
 # electric-sql/electric - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 205
+★ Stars: 208
 
 [Open repository](https://github.com/electric-sql/electric)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 208 | 7 | 
 | 2023-04-07 | 205 | 7 | 
 | 2023-04-06 | 202 | 7 | 
 | 2023-04-05 | 200 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 167 | 6 | 
 | 2023-03-11 | 166 | 6 | 
 | 2023-03-10 | 166 | 6 | 
-| 2023-03-09 | 164 | 6 | 
 

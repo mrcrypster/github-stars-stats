@@ -1,10 +1,10 @@
 # easychen/chatchan-dist - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 53
+☋ Forks: 56
 
-★ Stars: 385
+★ Stars: 409
 
 [Open repository](https://github.com/easychen/chatchan-dist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 409 | 56 | 
 | 2023-04-07 | 385 | 53 | 
 | 2023-04-06 | 328 | 41 | 
 

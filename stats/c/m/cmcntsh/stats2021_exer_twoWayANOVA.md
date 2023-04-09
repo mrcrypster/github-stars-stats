@@ -1,8 +1,8 @@
 # cmcntsh/stats2021_exer_twoWayANOVA - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 23
+☋ Forks: 26
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | - | 26 | 
+| 2023-04-08 | - | 26 | 
 | 2023-04-07 | - | 23 | 
 | 2023-04-06 | - | 23 | 
 

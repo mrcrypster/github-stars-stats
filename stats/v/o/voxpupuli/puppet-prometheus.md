@@ -1,6 +1,6 @@
 # voxpupuli/puppet-prometheus - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 58 | 222 | 
 | 2023-04-07 | 58 | 222 | 
 | 2023-04-06 | 58 | 221 | 
 | 2023-04-05 | 58 | 221 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 56 | 219 | 
 | 2023-03-12 | 56 | 219 | 
 | 2023-03-11 | 56 | 219 | 
-| 2023-03-09 | 56 | 219 | 
 

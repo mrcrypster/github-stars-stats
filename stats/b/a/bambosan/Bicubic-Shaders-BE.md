@@ -1,6 +1,6 @@
 # bambosan/Bicubic-Shaders-BE - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 116 | 47 | 
 | 2023-04-07 | 116 | 47 | 
 | 2023-04-06 | 116 | 47 | 
 | 2023-04-05 | 116 | 47 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 114 | 47 | 
 | 2023-03-12 | 114 | 47 | 
 | 2023-03-11 | 114 | 47 | 
-| 2023-03-09 | 114 | 47 | 
 

@@ -1,8 +1,8 @@
 # creativetimofficial/vue-material-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 265
+☋ Forks: 266
 
 ★ Stars: 312
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 312 | 266 | 
 | 2023-04-07 | 312 | 265 | 
 | 2023-04-06 | 312 | 264 | 
 | 2023-04-05 | 312 | 262 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 309 | 244 | 
 | 2023-03-11 | 309 | 244 | 
 | 2023-03-10 | 309 | 243 | 
-| 2023-03-09 | 309 | 243 | 
 

@@ -1,8 +1,8 @@
 # KennethJudd/CompEcon2020 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 181
+☋ Forks: 182
 
 ★ Stars: 396
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 396 | 182 | 
 | 2023-04-07 | 396 | 181 | 
 | 2023-04-06 | 395 | 180 | 
 | 2023-04-05 | 395 | 180 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 394 | 176 | 
 | 2023-03-12 | 394 | 176 | 
 | 2023-03-11 | 394 | 176 | 
-| 2023-03-09 | 394 | 176 | 
 

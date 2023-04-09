@@ -1,10 +1,10 @@
 # freeCodeCamp/devdocs - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 2106
+☋ Forks: 2110
 
-★ Stars: 31225
+★ Stars: 31227
 
 [Open repository](https://github.com/freeCodeCamp/devdocs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 31227 | 2110 | 
 | 2023-04-07 | 31225 | 2106 | 
 | 2023-04-06 | 31221 | 2106 | 
 | 2023-04-05 | 31206 | 2104 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 30988 | 2084 | 
 | 2023-03-12 | 30980 | 2084 | 
 | 2023-03-11 | 30977 | 2083 | 
-| 2023-03-10 | 30966 | 2083 | 
 

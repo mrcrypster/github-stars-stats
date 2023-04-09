@@ -1,6 +1,6 @@
 # Syslifters/offsec-tools - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 147 | 18 | 
 | 2023-04-07 | 147 | 18 | 
 | 2023-04-06 | 147 | 18 | 
 | 2023-04-05 | 147 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 137 | 13 | 
 | 2023-03-12 | 136 | 13 | 
 | 2023-03-10 | 134 | 13 | 
-| 2023-03-09 | 131 | 13 | 
 

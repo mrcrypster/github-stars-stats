@@ -1,6 +1,6 @@
 # not-poma/lazyshell - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 282 | 16 | 
 | 2023-04-07 | 282 | 16 | 
 | 2023-04-06 | 280 | 16 | 
 | 2023-04-05 | 280 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 248 | 14 | 
 | 2023-03-12 | 248 | 14 | 
 | 2023-03-11 | 241 | 13 | 
-| 2023-03-09 | 238 | 12 | 
 

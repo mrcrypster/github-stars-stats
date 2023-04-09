@@ -1,10 +1,10 @@
 # yzfly/awesome-chatgpt-zh - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 194
+☋ Forks: 206
 
-★ Stars: 3218
+★ Stars: 3432
 
 [Open repository](https://github.com/yzfly/awesome-chatgpt-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3432 | 206 | 
 | 2023-04-07 | 3218 | 194 | 
 | 2023-04-06 | 2898 | 161 | 
 | 2023-04-05 | 2814 | 156 | 

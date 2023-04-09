@@ -1,8 +1,8 @@
 # PraktikumJava/m1-t6-decoder - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1239
+☋ Forks: 1242
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1 | 1242 | 
 | 2023-04-07 | 1 | 1239 | 
 | 2023-04-06 | 1 | 1236 | 
 | 2023-04-05 | 1 | 1232 | 

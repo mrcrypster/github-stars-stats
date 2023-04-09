@@ -1,10 +1,10 @@
 # AmbientRun/Ambient - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 92
 
-★ Stars: 2899
+★ Stars: 2904
 
 [Open repository](https://github.com/AmbientRun/Ambient)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2904 | 92 | 
 | 2023-04-07 | 2899 | 92 | 
 | 2023-04-06 | 2889 | 92 | 
 | 2023-04-05 | 2865 | 92 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 2752 | 84 | 
 | 2023-03-12 | 2750 | 84 | 
 | 2023-03-11 | 2745 | 84 | 
-| 2023-03-10 | 2743 | 84 | 
 

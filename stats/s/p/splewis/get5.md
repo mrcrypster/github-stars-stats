@@ -1,6 +1,6 @@
 # splewis/get5 - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 528 | 184 | 
 | 2023-04-07 | 528 | 184 | 
 | 2023-04-06 | 528 | 184 | 
 | 2023-04-05 | 528 | 184 | 

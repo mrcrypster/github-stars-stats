@@ -1,6 +1,6 @@
 # thejano/laravel-domain-driven-design - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 72 | 4 | 
 | 2023-04-07 | 72 | 4 | 
 | 2023-04-06 | 72 | 4 | 
 | 2023-04-05 | 72 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 67 | 4 | 
 | 2023-03-12 | 67 | 4 | 
 | 2023-03-11 | 65 | 4 | 
-| 2023-03-10 | 63 | 4 | 
 

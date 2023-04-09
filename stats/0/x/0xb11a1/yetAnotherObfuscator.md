@@ -1,10 +1,10 @@
 # 0xb11a1/yetAnotherObfuscator - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 253
+★ Stars: 257
 
 [Open repository](https://github.com/0xb11a1/yetAnotherObfuscator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 257 | 45 | 
 | 2023-04-07 | 253 | 44 | 
 | 2023-04-06 | 245 | 43 | 
 | 2023-04-05 | 238 | 41 | 

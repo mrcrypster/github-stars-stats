@@ -1,10 +1,10 @@
 # cmhungsteve/Awesome-Transformer-Attention - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 272
 
-★ Stars: 2477
+★ Stars: 2480
 
 [Open repository](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2480 | 272 | 
 | 2023-04-07 | 2477 | 272 | 
 | 2023-04-06 | 2474 | 271 | 
 | 2023-04-05 | 2460 | 269 | 

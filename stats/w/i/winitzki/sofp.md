@@ -1,6 +1,6 @@
 # winitzki/sofp - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1203 | 86 | 
 | 2023-04-07 | 1203 | 86 | 
 | 2023-04-06 | 1202 | 86 | 
 | 2023-04-05 | 1202 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1198 | 86 | 
 | 2023-03-12 | 1198 | 86 | 
 | 2023-03-10 | 1198 | 86 | 
-| 2023-03-09 | 1198 | 86 | 
 

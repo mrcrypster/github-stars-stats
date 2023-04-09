@@ -1,6 +1,6 @@
 # jinnovation/kele.el - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 41 | 2 | 
 | 2023-04-07 | 41 | 2 | 
 | 2023-04-06 | 41 | 2 | 
 | 2023-04-05 | 41 | 2 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 38 | 2 | 
 | 2023-03-12 | 38 | 2 | 
 | 2023-03-11 | 38 | 2 | 
-| 2023-03-09 | 38 | 2 | 
 

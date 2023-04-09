@@ -1,10 +1,10 @@
 # emilbaehr/automatic-app-landing-page - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 1407
+☋ Forks: 1408
 
-★ Stars: 2982
+★ Stars: 2983
 
 [Open repository](https://github.com/emilbaehr/automatic-app-landing-page)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2983 | 1408 | 
 | 2023-04-07 | 2982 | 1407 | 
 | 2023-04-06 | 2981 | 1407 | 
 | 2023-04-05 | 2981 | 1407 | 

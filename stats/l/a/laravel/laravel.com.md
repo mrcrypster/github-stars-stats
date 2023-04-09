@@ -1,10 +1,10 @@
 # laravel/laravel.com - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 473
+☋ Forks: 472
 
-★ Stars: 493
+★ Stars: 494
 
 [Open repository](https://github.com/laravel/laravel.com)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 494 | 472 | 
 | 2023-04-07 | 493 | 473 | 
 | 2023-04-06 | 493 | 473 | 
 | 2023-04-05 | 493 | 473 | 

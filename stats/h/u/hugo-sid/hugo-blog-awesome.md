@@ -1,10 +1,10 @@
 # hugo-sid/hugo-blog-awesome - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 23
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/hugo-sid/hugo-blog-awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 46 | 23 | 
 | 2023-04-07 | 44 | 23 | 
 | 2023-04-06 | 43 | 23 | 
 | 2023-04-05 | 42 | 23 | 

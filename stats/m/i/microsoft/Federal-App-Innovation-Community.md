@@ -1,6 +1,6 @@
 # microsoft/Federal-App-Innovation-Community - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 20 | 19 | 
 | 2023-04-07 | 20 | 19 | 
 | 2023-04-06 | 20 | 19 | 
 | 2023-04-05 | 20 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 18 | 19 | 
 | 2023-03-12 | 18 | 19 | 
 | 2023-03-11 | 18 | 19 | 
-| 2023-03-10 | 18 | 19 | 
 

@@ -1,10 +1,10 @@
 # Lothrik/diablo4-build-calc - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/Lothrik/diablo4-build-calc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 80 | 21 | 
 | 2023-04-07 | 79 | 21 | 
 | 2023-04-06 | 79 | 21 | 
 | 2023-04-05 | 77 | 21 | 

@@ -1,6 +1,6 @@
 # grafana/faro-web-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 452 | 22 | 
 | 2023-04-07 | 452 | 22 | 
 | 2023-04-06 | 451 | 22 | 
 | 2023-04-05 | 449 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 435 | 20 | 
 | 2023-03-12 | 435 | 20 | 
 | 2023-03-11 | 436 | 20 | 
-| 2023-03-09 | 435 | 20 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 5580
+☋ Forks: 5581
 
-★ Stars: 21294
+★ Stars: 21292
 
 [Open repository](https://github.com/bitcoinbook/bitcoinbook)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 21294 | 5580 | 
+| 2023-04-08 | 21292 | 5581 | 
 | 2023-04-07 | 21294 | 5580 | 
 | 2023-04-06 | 21292 | 5578 | 
 | 2023-04-05 | 21291 | 5578 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 21222 | 5561 | 
 | 2023-03-11 | 21221 | 5563 | 
 | 2023-03-10 | 21211 | 5565 | 
-| 2023-03-09 | 21208 | 5565 | 
 

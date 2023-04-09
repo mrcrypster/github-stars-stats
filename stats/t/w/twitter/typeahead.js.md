@@ -1,10 +1,10 @@
 # twitter/typeahead.js - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 3297
 
-★ Stars: 16499
+★ Stars: 16504
 
 [Open repository](https://github.com/twitter/typeahead.js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 16504 | 3297 | 
 | 2023-04-07 | 16499 | 3297 | 
 | 2023-04-06 | 16498 | 3297 | 
 | 2023-04-05 | 16498 | 3294 | 

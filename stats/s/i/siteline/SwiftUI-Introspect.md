@@ -1,10 +1,10 @@
 # siteline/SwiftUI-Introspect - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 250
 
-★ Stars: 3963
+★ Stars: 3967
 
 [Open repository](https://github.com/siteline/SwiftUI-Introspect)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 3967 | 250 | 
 | 2023-04-07 | 3963 | 250 | 
 | 2023-04-06 | 3959 | 250 | 
 | 2023-04-05 | 3957 | 250 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 3873 | 247 | 
 | 2023-03-12 | 3870 | 246 | 
 | 2023-03-11 | 3870 | 246 | 
-| 2023-03-09 | 3861 | 247 | 
 

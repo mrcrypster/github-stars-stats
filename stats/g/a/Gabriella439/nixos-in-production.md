@@ -1,10 +1,10 @@
 # Gabriella439/nixos-in-production - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/Gabriella439/nixos-in-production)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 212 | 6 | 
 | 2023-04-07 | 211 | 6 | 
 | 2023-04-06 | 211 | 6 | 
 | 2023-04-05 | 211 | 6 | 

@@ -1,6 +1,6 @@
 # roypriyanshu02/impressive-profile-readmes - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 14 | 4 | 
 | 2023-04-07 | 14 | 4 | 
 | 2023-04-06 | 13 | 3 | 
 | 2023-04-05 | 13 | 3 | 

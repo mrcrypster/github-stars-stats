@@ -1,10 +1,10 @@
 # michigan-traffic-lab/Dense-Deep-Reinforcement-Learning - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 154
+★ Stars: 156
 
 [Open repository](https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 156 | 22 | 
 | 2023-04-07 | 154 | 21 | 
 | 2023-04-06 | 154 | 21 | 
 | 2023-04-05 | 153 | 21 | 

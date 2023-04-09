@@ -1,10 +1,10 @@
 # iwahbe/chat.el - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/iwahbe/chat.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 14 | 2 | 
 | 2023-04-07 | 13 | 2 | 
 | 2023-04-06 | 13 | 2 | 
 | 2023-04-05 | 13 | 2 | 

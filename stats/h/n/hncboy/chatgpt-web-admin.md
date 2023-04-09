@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 77
+★ Stars: 79
 
 [Open repository](https://github.com/hncboy/chatgpt-web-admin)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 77 | 24 | 
+| 2023-04-08 | 79 | 25 | 
 | 2023-04-07 | 76 | 24 | 
 | 2023-04-06 | 67 | 19 | 
 | 2023-04-05 | 60 | 15 | 

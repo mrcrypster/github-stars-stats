@@ -1,6 +1,6 @@
 # paolo-rossi/delphi-neon - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 229 | 60 | 
 | 2023-04-07 | 229 | 60 | 
 | 2023-04-06 | 228 | 60 | 
 | 2023-04-05 | 226 | 60 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 220 | 59 | 
 | 2023-03-11 | 220 | 59 | 
 | 2023-03-10 | 220 | 59 | 
-| 2023-03-09 | 219 | 59 | 
 

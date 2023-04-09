@@ -1,10 +1,10 @@
 # Codeusa/Borderless-Gaming - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 417
 
-★ Stars: 4240
+★ Stars: 4242
 
 [Open repository](https://github.com/Codeusa/Borderless-Gaming)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 4242 | 417 | 
 | 2023-04-07 | 4240 | 417 | 
 | 2023-04-06 | 4240 | 417 | 
 | 2023-04-05 | 4241 | 417 | 

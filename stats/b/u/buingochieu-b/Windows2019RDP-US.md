@@ -1,6 +1,6 @@
 # buingochieu-b/Windows2019RDP-US - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 2 | 144 | 
 | 2023-04-07 | 2 | 144 | 
 | 2023-04-06 | 2 | 144 | 
 | 2023-04-05 | 2 | 142 | 

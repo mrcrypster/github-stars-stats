@@ -1,6 +1,6 @@
 # nf-core/rnaseq - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 557
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 589 | 557 | 
 | 2023-04-07 | 589 | 557 | 
 | 2023-04-06 | 589 | 557 | 
 | 2023-04-05 | 589 | 557 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 575 | 539 | 
 | 2023-03-11 | 575 | 539 | 
 | 2023-03-10 | 574 | 539 | 
-| 2023-03-09 | 573 | 540 | 
 

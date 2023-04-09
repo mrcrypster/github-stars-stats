@@ -1,10 +1,10 @@
 # opendilab/awesome-RLHF - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 366
+★ Stars: 376
 
 [Open repository](https://github.com/opendilab/awesome-RLHF)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 376 | 21 | 
 | 2023-04-07 | 366 | 21 | 
 | 2023-04-06 | 355 | 20 | 
 | 2023-04-05 | 342 | 20 | 

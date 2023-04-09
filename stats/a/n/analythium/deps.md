@@ -1,10 +1,10 @@
 # analythium/deps - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/analythium/deps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 28 | - | 
 | 2023-04-07 | 27 | - | 
 | 2023-04-06 | 27 | - | 
 | 2023-04-05 | 27 | - | 

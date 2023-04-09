@@ -1,10 +1,10 @@
 # namigop/OneBella - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 89
+★ Stars: 92
 
 [Open repository](https://github.com/namigop/OneBella)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 92 | 1 | 
 | 2023-04-07 | 89 | 1 | 
 | 2023-04-06 | 88 | 1 | 
 | 2023-04-05 | 86 | 1 | 

@@ -1,10 +1,10 @@
 # waylaidwanderer/PandoraAI - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 94
+☋ Forks: 96
 
-★ Stars: 400
+★ Stars: 410
 
 [Open repository](https://github.com/waylaidwanderer/PandoraAI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 410 | 96 | 
 | 2023-04-07 | 400 | 94 | 
 | 2023-04-06 | 394 | 93 | 
 | 2023-04-05 | 384 | 92 | 

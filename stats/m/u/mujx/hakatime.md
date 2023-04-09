@@ -1,6 +1,6 @@
 # mujx/hakatime - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 443 | 35 | 
 | 2023-04-08 | 443 | 35 | 
 | 2023-04-06 | 443 | 35 | 
 | 2023-04-05 | 442 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 436 | 35 | 
 | 2023-03-11 | 436 | 33 | 
 | 2023-03-10 | 436 | 33 | 
-| 2023-03-09 | 435 | 33 | 
 

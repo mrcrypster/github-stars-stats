@@ -1,10 +1,10 @@
 # anastasiuspernat/UnderPillow - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 53
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/anastasiuspernat/UnderPillow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 24 | 53 | 
 | 2023-04-07 | 25 | 53 | 
 | 2023-04-06 | 25 | 53 | 
 | 2023-04-05 | 25 | 53 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 29 | 53 | 
 | 2023-03-12 | 29 | 53 | 
 | 2023-03-10 | 29 | 53 | 
-| 2023-03-09 | 29 | 53 | 
 

@@ -1,10 +1,10 @@
 # smarques84/MockLocationDetector - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 279
+☋ Forks: 284
 
-★ Stars: 1074
+★ Stars: 1075
 
 [Open repository](https://github.com/smarques84/MockLocationDetector)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1075 | 284 | 
 | 2023-04-08 | 1074 | 279 | 
 | 2023-04-06 | 1072 | 278 | 
 | 2023-04-05 | 1072 | 278 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-12 | 1046 | 273 | 
 | 2023-03-11 | 1044 | 273 | 
 | 2023-03-10 | 1041 | 272 | 
-| 2023-03-09 | 1039 | 271 | 
 

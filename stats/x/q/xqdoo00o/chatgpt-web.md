@@ -1,10 +1,10 @@
 # xqdoo00o/chatgpt-web - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
-☋ Forks: 139
+☋ Forks: 144
 
-★ Stars: 407
+★ Stars: 413
 
 [Open repository](https://github.com/xqdoo00o/chatgpt-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 413 | 144 | 
 | 2023-04-07 | 407 | 139 | 
 | 2023-04-06 | 392 | 137 | 
 | 2023-04-05 | 378 | 130 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 74 | 21 | 
 | 2023-03-11 | 71 | 20 | 
 | 2023-03-10 | 67 | 20 | 
-| 2023-03-09 | 67 | 20 | 
 

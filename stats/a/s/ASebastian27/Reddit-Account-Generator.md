@@ -1,10 +1,10 @@
 # ASebastian27/Reddit-Account-Generator - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 30
 
-★ Stars: 62
+★ Stars: 61
 
 [Open repository](https://github.com/ASebastian27/Reddit-Account-Generator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 61 | 30 | 
 | 2023-04-07 | 62 | 30 | 
 | 2023-04-06 | 62 | 30 | 
 | 2023-04-05 | 62 | 30 | 

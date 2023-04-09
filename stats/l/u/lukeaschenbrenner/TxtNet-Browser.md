@@ -1,6 +1,6 @@
 # lukeaschenbrenner/TxtNet-Browser - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 399 | 7 | 
 | 2023-04-07 | 399 | 7 | 
 | 2023-04-06 | 399 | 7 | 
 | 2023-04-05 | 399 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 393 | 8 | 
 | 2023-03-12 | 391 | 8 | 
 | 2023-03-10 | 390 | 8 | 
-| 2023-03-09 | 376 | 8 | 
 

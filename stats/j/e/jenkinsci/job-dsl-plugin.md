@@ -1,10 +1,10 @@
 # jenkinsci/job-dsl-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 818
 
-★ Stars: 1835
+★ Stars: 1834
 
 [Open repository](https://github.com/jenkinsci/job-dsl-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 1834 | 818 | 
 | 2023-04-07 | 1835 | 818 | 
 | 2023-04-06 | 1834 | 818 | 
 | 2023-04-05 | 1834 | 818 | 

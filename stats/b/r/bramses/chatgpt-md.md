@@ -1,10 +1,10 @@
 # bramses/chatgpt-md - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 22
 
-★ Stars: 447
+★ Stars: 452
 
 [Open repository](https://github.com/bramses/chatgpt-md)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 452 | 22 | 
 | 2023-04-07 | 447 | 22 | 
 | 2023-04-06 | 441 | 22 | 
 | 2023-04-05 | 431 | 21 | 

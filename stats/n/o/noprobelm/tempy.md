@@ -1,10 +1,10 @@
 # noprobelm/tempy - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 162
+★ Stars: 161
 
 [Open repository](https://github.com/noprobelm/tempy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 161 | 1 | 
 | 2023-04-07 | 162 | 1 | 
 | 2023-04-06 | 162 | 1 | 
 | 2023-04-05 | 162 | 1 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 161 | 1 | 
 | 2023-03-12 | 161 | 1 | 
 | 2023-03-11 | 161 | 1 | 
-| 2023-03-09 | 161 | 1 | 
 

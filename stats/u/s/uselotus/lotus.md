@@ -1,10 +1,10 @@
 # uselotus/lotus - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 1281
+★ Stars: 1286
 
 [Open repository](https://github.com/uselotus/lotus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1286 | 78 | 
 | 2023-04-07 | 1281 | 77 | 
 | 2023-04-06 | 1279 | 76 | 
 | 2023-04-05 | 1278 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 1223 | 69 | 
 | 2023-03-12 | 1221 | 69 | 
 | 2023-03-10 | 1218 | 68 | 
-| 2023-03-09 | 1215 | 68 | 
 

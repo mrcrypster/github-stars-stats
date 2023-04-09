@@ -1,6 +1,6 @@
 # hackclub/winter - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 367
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 77 | 367 | 
 | 2023-04-07 | 77 | 367 | 
 | 2023-04-06 | 77 | 368 | 
 | 2023-04-05 | 77 | 368 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-12 | 77 | 371 | 
 | 2023-03-11 | 77 | 371 | 
 | 2023-03-10 | 77 | 371 | 
-| 2023-03-09 | 77 | 371 | 
 

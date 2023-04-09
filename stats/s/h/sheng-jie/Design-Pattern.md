@@ -1,10 +1,10 @@
 # sheng-jie/Design-Pattern - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 160
 
-★ Stars: 515
+★ Stars: 516
 
 [Open repository](https://github.com/sheng-jie/Design-Pattern)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 516 | 160 | 
 | 2023-04-07 | 515 | 160 | 
 | 2023-04-06 | 511 | 158 | 
 | 2023-04-05 | 508 | 158 | 

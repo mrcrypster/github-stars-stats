@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 08
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 1897
+★ Stars: 1928
 
 [Open repository](https://github.com/activepieces/activepieces)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-08 | 1897 | 84 | 
+| 2023-04-08 | 1928 | 85 | 
 | 2023-04-07 | 1891 | 84 | 
 | 2023-04-06 | 1825 | 81 | 
 | 2023-04-05 | 1816 | 80 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1581 | 64 | 
 | 2023-03-12 | 1570 | 63 | 
 | 2023-03-10 | 1554 | 61 | 
-| 2023-03-09 | 1539 | 60 | 
 

@@ -1,6 +1,6 @@
 # tfiers/PkgGraph.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 37 | 2 | 
 | 2023-04-07 | 37 | 2 | 
 | 2023-04-06 | 37 | 2 | 
 | 2023-04-05 | 37 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 36 | 2 | 
 | 2023-03-12 | 36 | 2 | 
 | 2023-03-10 | 36 | 2 | 
-| 2023-03-09 | 36 | 2 | 
 

@@ -1,10 +1,10 @@
 # lyz-code/blue-book - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 64
 
-★ Stars: 479
+★ Stars: 480
 
 [Open repository](https://github.com/lyz-code/blue-book)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 480 | 64 | 
 | 2023-04-07 | 479 | 64 | 
 | 2023-04-06 | 479 | 64 | 
 | 2023-04-05 | 479 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 460 | 62 | 
 | 2023-03-12 | 459 | 62 | 
 | 2023-03-11 | 459 | 62 | 
-| 2023-03-09 | 459 | 62 | 
 

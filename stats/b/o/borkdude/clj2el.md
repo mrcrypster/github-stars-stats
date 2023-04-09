@@ -1,10 +1,10 @@
 # borkdude/clj2el - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/borkdude/clj2el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 56 | 2 | 
 | 2023-04-07 | 54 | 2 | 
 | 2023-04-06 | 54 | 2 | 
 | 2023-04-05 | 54 | 2 | 

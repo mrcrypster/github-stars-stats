@@ -1,6 +1,6 @@
 # ziontee113/SnippetGenie - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-08 | 54 | - | 
 | 2023-04-07 | 54 | - | 
 | 2023-04-06 | 54 | - | 
 | 2023-04-05 | 54 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 07
 | 2023-03-13 | 54 | - | 
 | 2023-03-11 | 54 | - | 
 | 2023-03-10 | 53 | - | 
-| 2023-03-09 | 52 | - | 
 

@@ -1,6 +1,6 @@
 # shawngrimes/CloudJumper - stars & forks statistics
 
-Stats updated on Apr 2023, 07
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3 | 4 | 
 | 2023-04-07 | 3 | 4 | 
 | 2023-04-06 | 3 | 4 | 
 | 2023-04-05 | 3 | 4 | 
