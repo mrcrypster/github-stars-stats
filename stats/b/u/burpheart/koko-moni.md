@@ -1,10 +1,10 @@
 # burpheart/koko-moni - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 13
 
-★ Stars: 292
+★ Stars: 295
 
 [Open repository](https://github.com/burpheart/koko-moni)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 295 | 13 | 
 | 2023-04-08 | 292 | 13 | 
 | 2023-04-07 | 289 | 13 | 
 | 2023-04-06 | 284 | 11 | 

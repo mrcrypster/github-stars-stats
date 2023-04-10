@@ -1,6 +1,6 @@
 # Azure-Samples/helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 34 | 93 | 
 | 2023-04-08 | 34 | 93 | 
 | 2023-04-07 | 34 | 93 | 
 | 2023-04-06 | 34 | 92 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 33 | 87 | 
 | 2023-03-13 | 33 | 87 | 
 | 2023-03-12 | 33 | 87 | 
-| 2023-03-11 | 33 | 87 | 
 

@@ -1,10 +1,10 @@
 # okibcn/wslcompact - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 145
+★ Stars: 147
 
 [Open repository](https://github.com/okibcn/wslcompact)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 147 | 2 | 
 | 2023-04-08 | 145 | 2 | 
 | 2023-04-07 | 145 | 2 | 
 | 2023-04-06 | 143 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 103 | 2 | 
 | 2023-03-13 | 103 | 2 | 
 | 2023-03-12 | 102 | 2 | 
-| 2023-03-10 | 99 | 2 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 136
+☋ Forks: 137
 
-★ Stars: 466
+★ Stars: 473
 
 [Open repository](https://github.com/mozilla-mobile/firefox-android)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 466 | 136 | 
+| 2023-04-09 | 473 | 137 | 
 | 2023-04-08 | 464 | 136 | 
 | 2023-04-07 | 457 | 137 | 
 | 2023-04-06 | 455 | 135 | 

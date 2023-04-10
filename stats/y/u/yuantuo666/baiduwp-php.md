@@ -1,10 +1,10 @@
 # yuantuo666/baiduwp-php - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1115
+☋ Forks: 1117
 
-★ Stars: 4158
+★ Stars: 4176
 
 [Open repository](https://github.com/yuantuo666/baiduwp-php)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4176 | 1117 | 
 | 2023-04-08 | 4158 | 1115 | 
 | 2023-04-07 | 4144 | 1113 | 
 | 2023-04-06 | 4133 | 1112 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 3917 | 1080 | 
 | 2023-03-12 | 3909 | 1077 | 
 | 2023-03-11 | 3884 | 1072 | 
-| 2023-03-10 | 3877 | 1071 | 
 

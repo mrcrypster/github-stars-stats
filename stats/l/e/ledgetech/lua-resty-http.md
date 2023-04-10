@@ -1,6 +1,6 @@
 # ledgetech/lua-resty-http - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 619
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1828 | 619 | 
 | 2023-04-09 | 1828 | 619 | 
 | 2023-04-08 | 1827 | 619 | 
 | 2023-04-07 | 1828 | 619 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 1816 | 614 | 
 | 2023-03-12 | 1816 | 614 | 
 | 2023-03-11 | 1816 | 614 | 
-| 2023-03-10 | 1816 | 613 | 
 

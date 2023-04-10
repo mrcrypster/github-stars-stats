@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 40
 
-★ Stars: 434
+★ Stars: 435
 
 [Open repository](https://github.com/nix-community/disko)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 434 | 40 | 
+| 2023-04-09 | 435 | 40 | 
 | 2023-04-08 | 434 | 40 | 
 | 2023-04-07 | 432 | 40 | 
 | 2023-04-06 | 427 | 40 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 370 | 36 | 
 | 2023-03-12 | 370 | 35 | 
 | 2023-03-11 | 369 | 35 | 
-| 2023-03-10 | 365 | 35 | 
 

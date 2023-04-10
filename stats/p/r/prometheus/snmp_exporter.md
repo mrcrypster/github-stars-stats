@@ -1,10 +1,10 @@
 # prometheus/snmp_exporter - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 532
+☋ Forks: 533
 
-★ Stars: 1212
+★ Stars: 1213
 
 [Open repository](https://github.com/prometheus/snmp_exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1213 | 533 | 
 | 2023-04-08 | 1212 | 532 | 
 | 2023-04-07 | 1212 | 532 | 
 | 2023-04-06 | 1210 | 532 | 

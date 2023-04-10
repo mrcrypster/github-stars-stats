@@ -1,6 +1,6 @@
 # yyx990803/vue-tsc-3.3-type-repro - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 35 | 1 | 
 | 2023-04-08 | 35 | 1 | 
 | 2023-04-07 | 35 | 1 | 
 | 2023-04-06 | 35 | 1 | 

@@ -1,6 +1,6 @@
 # elastic/elasticsearch-groovy - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 37 | 20 | 
 | 2023-04-08 | 37 | 20 | 
 | 2023-04-07 | 37 | 20 | 
 | 2023-04-06 | 37 | 20 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 37 | 20 | 
 | 2023-03-13 | 37 | 20 | 
 | 2023-03-12 | 37 | 20 | 
-| 2023-03-10 | 37 | 20 | 
 

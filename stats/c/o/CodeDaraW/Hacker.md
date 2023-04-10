@@ -1,10 +1,10 @@
 # CodeDaraW/Hacker - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 125
 
-★ Stars: 600
+★ Stars: 601
 
 [Open repository](https://github.com/CodeDaraW/Hacker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 601 | 125 | 
 | 2023-04-08 | 600 | 125 | 
 | 2023-04-07 | 600 | 125 | 
 | 2023-04-06 | 600 | 125 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 591 | 126 | 
 | 2023-03-13 | 591 | 126 | 
 | 2023-03-12 | 591 | 126 | 
-| 2023-03-10 | 591 | 126 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/dialecticch/medici-contracts-demo)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 59 | 2 | 
+| 2023-04-09 | 60 | 2 | 
 | 2023-04-08 | 59 | 2 | 
 | 2023-04-07 | 56 | 1 | 
 

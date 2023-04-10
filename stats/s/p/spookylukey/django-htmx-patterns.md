@@ -1,10 +1,10 @@
 # spookylukey/django-htmx-patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 9
 
-★ Stars: 359
+★ Stars: 371
 
 [Open repository](https://github.com/spookylukey/django-htmx-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 371 | 9 | 
 | 2023-04-08 | 359 | 9 | 
 | 2023-04-07 | 357 | 9 | 
 | 2023-04-06 | 355 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 350 | 9 | 
 | 2023-03-13 | 350 | 8 | 
 | 2023-03-12 | 350 | 8 | 
-| 2023-03-10 | 348 | 8 | 
 

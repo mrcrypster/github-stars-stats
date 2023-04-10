@@ -1,10 +1,10 @@
 # littlesticks/odyssey-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/littlesticks/odyssey-theme)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 242 | 68 | 
+| 2023-04-09 | 242 | 68 | 
 | 2023-04-08 | 241 | 67 | 
 | 2023-04-07 | 241 | 67 | 
 | 2023-04-06 | 239 | 67 | 

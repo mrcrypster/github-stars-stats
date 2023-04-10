@@ -1,6 +1,6 @@
 # pieroit/inflazione-secondo-tua-zia - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 77 | 5 | 
 | 2023-04-09 | 77 | 5 | 
 | 2023-04-08 | 77 | 5 | 
 | 2023-04-06 | 77 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 76 | 5 | 
 | 2023-03-13 | 75 | 5 | 
 | 2023-03-11 | 75 | 5 | 
-| 2023-03-10 | 75 | 5 | 
 

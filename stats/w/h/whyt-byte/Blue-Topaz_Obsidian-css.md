@@ -1,6 +1,6 @@
 # whyt-byte/Blue-Topaz_Obsidian-css - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 802 | 76 | 
 | 2023-04-08 | 802 | 76 | 
 | 2023-04-07 | 800 | 76 | 
 | 2023-04-06 | 799 | 76 | 

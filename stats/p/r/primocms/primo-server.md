@@ -1,8 +1,8 @@
 # primocms/primo-server - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 85 | 84 | 
 | 2023-04-08 | 85 | 83 | 
 | 2023-04-07 | 85 | 83 | 
 | 2023-04-06 | 83 | 82 | 

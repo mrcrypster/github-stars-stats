@@ -1,6 +1,6 @@
 # sgermosen/PocketDex - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 68 | 42 | 
 | 2023-04-08 | 68 | 42 | 
 | 2023-04-07 | 68 | 42 | 
 | 2023-04-06 | 68 | 42 | 

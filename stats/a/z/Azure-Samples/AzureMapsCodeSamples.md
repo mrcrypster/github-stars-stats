@@ -1,6 +1,6 @@
 # Azure-Samples/AzureMapsCodeSamples - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 407
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 268 | 407 | 
 | 2023-04-08 | 268 | 407 | 
 | 2023-04-07 | 268 | 406 | 
 | 2023-04-06 | 268 | 406 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 266 | 408 | 
 | 2023-03-13 | 266 | 408 | 
 | 2023-03-11 | 265 | 408 | 
-| 2023-03-10 | 265 | 408 | 
 

@@ -1,10 +1,10 @@
 # phodal/ai-research - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 165
+☋ Forks: 167
 
-★ Stars: 2230
+★ Stars: 2251
 
 [Open repository](https://github.com/phodal/ai-research)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2251 | 167 | 
 | 2023-04-08 | 2230 | 165 | 
 | 2023-04-07 | 2213 | 165 | 
 | 2023-04-06 | 2175 | 163 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1421 | 98 | 
 | 2023-03-12 | 1371 | 95 | 
 | 2023-03-11 | 1339 | 91 | 
-| 2023-03-10 | 1293 | 89 | 
 

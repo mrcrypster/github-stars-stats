@@ -1,10 +1,10 @@
 # a-little-org-called-mario/a-little-game-called-mario - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 180
 
-★ Stars: 1269
+★ Stars: 1268
 
 [Open repository](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1268 | 180 | 
 | 2023-04-08 | 1269 | 180 | 
 | 2023-04-07 | 1269 | 180 | 
 | 2023-04-06 | 1269 | 180 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1250 | 179 | 
 | 2023-03-12 | 1250 | 180 | 
 | 2023-03-11 | 1250 | 180 | 
-| 2023-03-10 | 1247 | 180 | 
 

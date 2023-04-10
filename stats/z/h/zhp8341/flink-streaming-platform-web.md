@@ -1,8 +1,8 @@
 # zhp8341/flink-streaming-platform-web - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 632
+☋ Forks: 633
 
 ★ Stars: 1562
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1562 | 633 | 
 | 2023-04-08 | 1562 | 632 | 
 | 2023-04-07 | 1563 | 632 | 
 | 2023-04-06 | 1562 | 632 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1538 | 621 | 
 | 2023-03-13 | 1537 | 621 | 
 | 2023-03-11 | 1537 | 621 | 
-| 2023-03-10 | 1536 | 621 | 
 

@@ -1,6 +1,6 @@
 # PlaceNL/Commando - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 22 | 50 | 
 | 2023-04-08 | 22 | 50 | 
 | 2023-04-07 | 22 | 50 | 
 | 2023-04-06 | 22 | 50 | 

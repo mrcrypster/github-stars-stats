@@ -1,10 +1,10 @@
 # mamedev/mame - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1731
+☋ Forks: 1733
 
-★ Stars: 6593
+★ Stars: 6595
 
 [Open repository](https://github.com/mamedev/mame)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 6595 | 1733 | 
 | 2023-04-08 | 6593 | 1731 | 
 | 2023-04-07 | 6593 | 1730 | 
 | 2023-04-06 | 6594 | 1730 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 6534 | 1723 | 
 | 2023-03-13 | 6531 | 1723 | 
 | 2023-03-12 | 6531 | 1723 | 
-| 2023-03-11 | 6525 | 1724 | 
 

@@ -1,10 +1,10 @@
 # pnp/powerapps-designtoolkit - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/pnp/powerapps-designtoolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 85 | 21 | 
 | 2023-04-08 | 84 | 21 | 
 | 2023-04-07 | 84 | 21 | 
 | 2023-04-06 | 84 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 72 | 17 | 
 | 2023-03-13 | 72 | 17 | 
 | 2023-03-11 | 72 | 17 | 
-| 2023-03-10 | 71 | 17 | 
 

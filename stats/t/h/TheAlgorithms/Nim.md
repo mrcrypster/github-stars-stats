@@ -1,10 +1,10 @@
 # TheAlgorithms/Nim - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/TheAlgorithms/Nim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 23 | 2 | 
 | 2023-04-08 | 22 | 2 | 
 | 2023-04-07 | 21 | 2 | 
 | 2023-04-06 | 20 | 2 | 

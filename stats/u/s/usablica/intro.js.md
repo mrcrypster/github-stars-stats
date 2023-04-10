@@ -1,10 +1,10 @@
 # usablica/intro.js - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2631
 
-★ Stars: 21951
+★ Stars: 21952
 
 [Open repository](https://github.com/usablica/intro.js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 21952 | 2631 | 
 | 2023-04-08 | 21951 | 2631 | 
 | 2023-04-07 | 21950 | 2631 | 
 | 2023-04-06 | 21949 | 2631 | 

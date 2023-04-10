@@ -1,6 +1,6 @@
 # pkmncoraldev/polishedcoral - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 47 | 6 | 
 | 2023-04-08 | 47 | 6 | 
 | 2023-04-07 | 47 | 6 | 
 | 2023-04-06 | 47 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 45 | 6 | 
 | 2023-03-12 | 45 | 6 | 
 | 2023-03-11 | 45 | 6 | 
-| 2023-03-10 | 47 | 6 | 
 

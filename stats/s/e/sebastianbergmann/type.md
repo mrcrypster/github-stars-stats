@@ -1,10 +1,10 @@
 # sebastianbergmann/type - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 12
 
-★ Stars: 1136
+★ Stars: 1137
 
 [Open repository](https://github.com/sebastianbergmann/type)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1137 | 12 | 
 | 2023-04-08 | 1136 | 12 | 
 | 2023-04-07 | 1135 | 12 | 
 | 2023-04-06 | 1132 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1119 | 11 | 
 | 2023-03-13 | 1119 | 11 | 
 | 2023-03-12 | 1116 | 11 | 
-| 2023-03-10 | 1115 | 11 | 
 

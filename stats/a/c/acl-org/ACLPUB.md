@@ -1,10 +1,10 @@
 # acl-org/ACLPUB - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 156
 
-★ Stars: 203
+★ Stars: 202
 
 [Open repository](https://github.com/acl-org/ACLPUB)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 202 | 156 | 
 | 2023-04-08 | 203 | 156 | 
 | 2023-04-07 | 203 | 156 | 
 | 2023-04-06 | 203 | 156 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 203 | 157 | 
 | 2023-03-13 | 203 | 157 | 
 | 2023-03-12 | 203 | 157 | 
-| 2023-03-11 | 203 | 157 | 
 

@@ -1,10 +1,10 @@
 # apple/swift-protobuf - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 418
+☋ Forks: 419
 
-★ Stars: 4150
+★ Stars: 4151
 
 [Open repository](https://github.com/apple/swift-protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4151 | 419 | 
 | 2023-04-08 | 4150 | 418 | 
 | 2023-04-07 | 4150 | 418 | 
 | 2023-04-06 | 4149 | 417 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 4136 | 414 | 
 | 2023-03-12 | 4135 | 414 | 
 | 2023-03-11 | 4133 | 414 | 
-| 2023-03-10 | 4133 | 414 | 
 

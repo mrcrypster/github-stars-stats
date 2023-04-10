@@ -1,10 +1,10 @@
 # innnky/emotional-vits - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 100
+☋ Forks: 101
 
-★ Stars: 608
+★ Stars: 611
 
 [Open repository](https://github.com/innnky/emotional-vits)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 611 | 101 | 
 | 2023-04-08 | 608 | 100 | 
 | 2023-04-07 | 607 | 98 | 
 | 2023-04-06 | 606 | 97 | 

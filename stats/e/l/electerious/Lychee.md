@@ -1,10 +1,10 @@
 # electerious/Lychee - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 691
 
-★ Stars: 6230
+★ Stars: 6231
 
 [Open repository](https://github.com/electerious/Lychee)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 6231 | 691 | 
 | 2023-04-08 | 6230 | 691 | 
 | 2023-04-07 | 6230 | 691 | 
 | 2023-04-06 | 6230 | 691 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 6221 | 692 | 
 | 2023-03-13 | 6220 | 691 | 
 | 2023-03-11 | 6218 | 691 | 
-| 2023-03-10 | 6214 | 691 | 
 

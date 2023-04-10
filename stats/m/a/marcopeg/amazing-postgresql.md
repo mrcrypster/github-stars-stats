@@ -1,6 +1,6 @@
 # marcopeg/amazing-postgresql - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 8 | 
 | 2023-04-08 | 16 | 8 | 
 | 2023-04-07 | 16 | 8 | 
 | 2023-04-06 | 16 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 15 | 9 | 
 | 2023-03-13 | 15 | 9 | 
 | 2023-03-11 | 15 | 9 | 
-| 2023-03-10 | 15 | 9 | 
 

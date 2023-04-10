@@ -1,6 +1,6 @@
 # atlassian/bazel-tools - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 113 | 38 | 
 | 2023-04-08 | 113 | 38 | 
 | 2023-04-07 | 113 | 38 | 
 | 2023-04-06 | 113 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 113 | 38 | 
 | 2023-03-12 | 113 | 38 | 
 | 2023-03-11 | 113 | 38 | 
-| 2023-03-10 | 113 | 38 | 
 

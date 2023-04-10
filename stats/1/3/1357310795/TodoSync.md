@@ -1,10 +1,10 @@
 # 1357310795/TodoSync - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 101
+☋ Forks: 102
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/1357310795/TodoSync)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 50 | 102 | 
 | 2023-04-09 | 49 | 101 | 
 | 2023-04-07 | 49 | 101 | 
 | 2023-04-06 | 49 | 101 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 49 | 99 | 
 | 2023-03-12 | 49 | 99 | 
 | 2023-03-11 | 49 | 99 | 
-| 2023-03-10 | 49 | 98 | 
 

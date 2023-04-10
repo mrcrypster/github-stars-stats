@@ -1,6 +1,6 @@
 # lcobucci/jwt - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 582
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6931 | 582 | 
 | 2023-04-08 | 6931 | 582 | 
 | 2023-04-07 | 6929 | 582 | 
 | 2023-04-06 | 6928 | 583 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 6907 | 580 | 
 | 2023-03-13 | 6906 | 580 | 
 | 2023-03-12 | 6905 | 580 | 
-| 2023-03-10 | 6904 | 580 | 
 

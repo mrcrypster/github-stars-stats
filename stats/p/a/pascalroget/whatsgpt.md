@@ -1,6 +1,6 @@
 # pascalroget/whatsgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 77 | 27 | 
 | 2023-04-08 | 77 | 27 | 
 | 2023-04-07 | 77 | 27 | 
 | 2023-04-06 | 77 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 71 | 23 | 
 | 2023-03-12 | 71 | 23 | 
 | 2023-03-11 | 71 | 22 | 
-| 2023-03-10 | 71 | 22 | 
 

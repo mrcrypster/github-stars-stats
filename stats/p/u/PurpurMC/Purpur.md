@@ -1,10 +1,10 @@
 # PurpurMC/Purpur - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 260
 
-★ Stars: 1473
+★ Stars: 1474
 
 [Open repository](https://github.com/PurpurMC/Purpur)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1474 | 260 | 
 | 2023-04-08 | 1473 | 260 | 
 | 2023-04-07 | 1472 | 260 | 
 | 2023-04-06 | 1472 | 261 | 

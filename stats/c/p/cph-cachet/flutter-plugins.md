@@ -1,6 +1,6 @@
 # cph-cachet/flutter-plugins - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 451
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 426 | 451 | 
 | 2023-04-08 | 426 | 451 | 
 | 2023-04-07 | 426 | 451 | 
 | 2023-04-06 | 426 | 451 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 418 | 444 | 
 | 2023-03-12 | 415 | 443 | 
 | 2023-03-11 | 413 | 443 | 
-| 2023-03-10 | 413 | 443 | 
 

@@ -1,10 +1,10 @@
 # melpa/melpa - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2277
 
-★ Stars: 2545
+★ Stars: 2546
 
 [Open repository](https://github.com/melpa/melpa)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2546 | 2277 | 
+| 2023-04-09 | 2545 | 2277 | 
 | 2023-04-08 | 2545 | 2277 | 
 | 2023-04-07 | 2544 | 2277 | 
 | 2023-04-06 | 2544 | 2277 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 2534 | 2276 | 
 | 2023-03-12 | 2534 | 2277 | 
 | 2023-03-11 | 2533 | 2275 | 
-| 2023-03-10 | 2532 | 2274 | 
 

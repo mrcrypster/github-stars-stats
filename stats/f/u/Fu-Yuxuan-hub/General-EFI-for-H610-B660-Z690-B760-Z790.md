@@ -1,10 +1,10 @@
 # Fu-Yuxuan-hub/General-EFI-for-H610-B660-Z690-B760-Z790 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 14
 
-★ Stars: 81
+★ Stars: 83
 
 [Open repository](https://github.com/Fu-Yuxuan-hub/General-EFI-for-H610-B660-Z690-B760-Z790)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 83 | 14 | 
 | 2023-04-08 | 81 | 14 | 
 | 2023-04-07 | 81 | 14 | 
 | 2023-04-06 | 80 | 14 | 

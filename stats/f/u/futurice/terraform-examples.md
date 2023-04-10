@@ -1,10 +1,10 @@
 # futurice/terraform-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 363
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/futurice/terraform-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 559 | 363 | 
 | 2023-04-08 | 558 | 363 | 
 | 2023-04-07 | 557 | 363 | 
 | 2023-04-06 | 556 | 362 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 545 | 359 | 
 | 2023-03-13 | 545 | 359 | 
 | 2023-03-11 | 545 | 359 | 
-| 2023-03-10 | 545 | 359 | 
 

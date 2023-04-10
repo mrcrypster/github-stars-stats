@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/MilesCranmer/AirspeedVelocity.jl)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 28 | - | 
+| 2023-04-09 | 30 | - | 
 | 2023-04-08 | 28 | - | 
 

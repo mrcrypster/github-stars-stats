@@ -1,10 +1,10 @@
 # Xilinx/linux-xlnx - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1451
 
-★ Stars: 1132
+★ Stars: 1133
 
 [Open repository](https://github.com/Xilinx/linux-xlnx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1133 | 1451 | 
 | 2023-04-08 | 1132 | 1451 | 
 | 2023-04-07 | 1131 | 1451 | 
 | 2023-04-06 | 1130 | 1451 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1118 | 1447 | 
 | 2023-03-13 | 1117 | 1447 | 
 | 2023-03-12 | 1117 | 1447 | 
-| 2023-03-11 | 1117 | 1447 | 
 

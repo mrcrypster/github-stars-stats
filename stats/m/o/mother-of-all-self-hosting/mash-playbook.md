@@ -1,10 +1,10 @@
 # mother-of-all-self-hosting/mash-playbook - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/mother-of-all-self-hosting/mash-playbook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 37 | 5 | 
 | 2023-04-08 | 36 | 5 | 
 | 2023-04-07 | 36 | 5 | 
 | 2023-04-06 | 36 | 5 | 

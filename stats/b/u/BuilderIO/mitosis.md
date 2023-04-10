@@ -1,10 +1,10 @@
 # BuilderIO/mitosis - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 346
 
-★ Stars: 8480
+★ Stars: 8489
 
 [Open repository](https://github.com/BuilderIO/mitosis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 8489 | 346 | 
 | 2023-04-08 | 8480 | 346 | 
 | 2023-04-07 | 8471 | 345 | 
 | 2023-04-06 | 8463 | 343 | 

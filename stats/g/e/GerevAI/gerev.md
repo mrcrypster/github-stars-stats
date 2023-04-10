@@ -1,10 +1,10 @@
 # GerevAI/gerev - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 114
 
-★ Stars: 2020
+★ Stars: 2033
 
 [Open repository](https://github.com/GerevAI/gerev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2033 | 114 | 
 | 2023-04-08 | 2020 | 114 | 
 | 2023-04-07 | 2008 | 114 | 
 | 2023-04-06 | 1992 | 111 | 

@@ -1,10 +1,10 @@
 # PrefectHQ/marvin - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 1451
+★ Stars: 1582
 
 [Open repository](https://github.com/PrefectHQ/marvin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1582 | 56 | 
 | 2023-04-08 | 1451 | 55 | 
 | 2023-04-07 | 1422 | 53 | 
 | 2023-04-06 | 1382 | 51 | 

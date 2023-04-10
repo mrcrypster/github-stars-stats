@@ -1,10 +1,10 @@
 # oobabooga/one-click-installers - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 9
+☋ Forks: 16
 
-★ Stars: 29
+★ Stars: 37
 
 [Open repository](https://github.com/oobabooga/one-click-installers)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 37 | 16 | 
+| 2023-04-09 | 36 | 16 | 
 | 2023-04-08 | 29 | 9 | 
 | 2023-04-07 | 29 | 9 | 
 | 2023-04-06 | 23 | 9 | 

@@ -1,6 +1,6 @@
 # Adzz/data_schema - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 53 | 9 | 
 | 2023-04-08 | 53 | 9 | 
 | 2023-04-07 | 53 | 9 | 
 | 2023-04-06 | 53 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 53 | 9 | 
 | 2023-03-12 | 53 | 9 | 
 | 2023-03-11 | 53 | 8 | 
-| 2023-03-10 | 53 | 8 | 
 

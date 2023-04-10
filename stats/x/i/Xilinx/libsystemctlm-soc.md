@@ -1,6 +1,6 @@
 # Xilinx/libsystemctlm-soc - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 47
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 134 | 47 | 
+| 2023-04-09 | 134 | 47 | 
 | 2023-04-08 | 134 | 47 | 
 | 2023-04-07 | 134 | 47 | 
 | 2023-04-06 | 134 | 47 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 129 | 46 | 
 | 2023-03-13 | 129 | 46 | 
 | 2023-03-12 | 129 | 46 | 
-| 2023-03-10 | 129 | 46 | 
 

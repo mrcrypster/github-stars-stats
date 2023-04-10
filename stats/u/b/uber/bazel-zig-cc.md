@@ -1,10 +1,10 @@
 # uber/bazel-zig-cc - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/uber/bazel-zig-cc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 72 | 7 | 
 | 2023-04-09 | 71 | 7 | 
 | 2023-04-07 | 70 | 7 | 
 | 2023-04-06 | 69 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 44 | 2 | 
 | 2023-03-12 | 44 | 2 | 
 | 2023-03-11 | 44 | 2 | 
-| 2023-03-10 | 44 | 2 | 
 

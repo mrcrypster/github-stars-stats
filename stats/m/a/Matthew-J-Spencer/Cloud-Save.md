@@ -1,10 +1,10 @@
 # Matthew-J-Spencer/Cloud-Save - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/Matthew-J-Spencer/Cloud-Save)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 27 | 7 | 
 | 2023-04-08 | 26 | 7 | 
 | 2023-04-07 | 26 | 7 | 
 | 2023-04-06 | 26 | 7 | 

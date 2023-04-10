@@ -1,10 +1,10 @@
 # diharaw/volumetric-clouds - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/diharaw/volumetric-clouds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 93 | 7 | 
 | 2023-04-08 | 92 | 7 | 
 | 2023-04-07 | 92 | 7 | 
 | 2023-04-06 | 91 | 7 | 

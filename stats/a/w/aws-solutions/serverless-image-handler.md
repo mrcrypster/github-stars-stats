@@ -1,10 +1,10 @@
 # aws-solutions/serverless-image-handler - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 459
+☋ Forks: 460
 
-★ Stars: 1103
+★ Stars: 1104
 
 [Open repository](https://github.com/aws-solutions/serverless-image-handler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1104 | 460 | 
 | 2023-04-08 | 1103 | 459 | 
 | 2023-04-07 | 1103 | 459 | 
 | 2023-04-06 | 1103 | 458 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1093 | 455 | 
 | 2023-03-13 | 1091 | 455 | 
 | 2023-03-12 | 1091 | 454 | 
-| 2023-03-10 | 1090 | 454 | 
 

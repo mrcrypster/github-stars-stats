@@ -1,10 +1,10 @@
 # Adam-Miao/Fl-Studio-Crack - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 149
+★ Stars: 162
 
 [Open repository](https://github.com/Adam-Miao/Fl-Studio-Crack)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 162 | - | 
 | 2023-04-08 | 149 | - | 
 

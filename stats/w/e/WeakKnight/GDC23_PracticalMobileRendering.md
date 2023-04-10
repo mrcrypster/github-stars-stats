@@ -1,6 +1,6 @@
 # WeakKnight/GDC23_PracticalMobileRendering - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 221 | 25 | 
 | 2023-04-08 | 221 | 25 | 
 | 2023-04-07 | 221 | 25 | 
 | 2023-04-06 | 221 | 25 | 

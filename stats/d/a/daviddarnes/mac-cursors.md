@@ -1,6 +1,6 @@
 # daviddarnes/mac-cursors - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 306 | 30 | 
 | 2023-04-08 | 306 | 30 | 
 | 2023-04-07 | 306 | 30 | 
 | 2023-04-06 | 306 | 30 | 

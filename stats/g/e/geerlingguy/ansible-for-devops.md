@@ -1,10 +1,10 @@
 # geerlingguy/ansible-for-devops - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 2888
+☋ Forks: 2889
 
-★ Stars: 6801
+★ Stars: 6810
 
 [Open repository](https://github.com/geerlingguy/ansible-for-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6810 | 2889 | 
 | 2023-04-08 | 6801 | 2888 | 
 | 2023-04-07 | 6799 | 2885 | 
 | 2023-04-06 | 6794 | 2880 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 6729 | 2835 | 
 | 2023-03-12 | 6727 | 2833 | 
 | 2023-03-11 | 6724 | 2832 | 
-| 2023-03-10 | 6720 | 2831 | 
 

@@ -1,6 +1,6 @@
 # matiffeder/3DS-stuff - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 276 | 113 | 
 | 2023-04-08 | 276 | 113 | 
 | 2023-04-07 | 276 | 113 | 
 | 2023-04-06 | 275 | 114 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 269 | 109 | 
 | 2023-03-12 | 269 | 109 | 
 | 2023-03-11 | 269 | 108 | 
-| 2023-03-10 | 269 | 107 | 
 

@@ -1,10 +1,10 @@
 # moment/luxon - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 719
 
-★ Stars: 13778
+★ Stars: 13780
 
 [Open repository](https://github.com/moment/luxon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 13780 | 719 | 
 | 2023-04-08 | 13778 | 719 | 
 | 2023-04-07 | 13777 | 719 | 
 | 2023-04-06 | 13773 | 719 | 

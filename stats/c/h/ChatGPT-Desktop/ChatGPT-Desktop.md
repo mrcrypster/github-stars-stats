@@ -1,10 +1,10 @@
 # ChatGPT-Desktop/ChatGPT-Desktop - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 114
+☋ Forks: 116
 
-★ Stars: 1186
+★ Stars: 1189
 
 [Open repository](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1189 | 116 | 
 | 2023-04-08 | 1186 | 114 | 
 | 2023-04-07 | 1179 | 112 | 
 | 2023-04-06 | 1161 | 109 | 

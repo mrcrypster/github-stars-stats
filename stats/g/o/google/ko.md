@@ -1,6 +1,6 @@
 # google/ko - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 322
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5856 | 322 | 
 | 2023-04-08 | 5856 | 322 | 
 | 2023-04-07 | 5855 | 323 | 
 | 2023-04-06 | 5855 | 323 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 5695 | 319 | 
 | 2023-03-12 | 5692 | 319 | 
 | 2023-03-11 | 5690 | 319 | 
-| 2023-03-10 | 5678 | 318 | 
 

@@ -1,6 +1,6 @@
 # ElementUI/theme-chalk - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 206 | 247 | 
 | 2023-04-08 | 206 | 247 | 
 | 2023-04-07 | 205 | 247 | 
 | 2023-04-06 | 205 | 247 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 205 | 247 | 
 | 2023-03-12 | 205 | 247 | 
 | 2023-03-11 | 205 | 247 | 
-| 2023-03-10 | 205 | 247 | 
 

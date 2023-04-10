@@ -1,8 +1,8 @@
 # LLK/scratch-gui - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2881
+☋ Forks: 2882
 
 ★ Stars: 3842
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3842 | 2882 | 
 | 2023-04-08 | 3842 | 2881 | 
 | 2023-04-07 | 3840 | 2878 | 
 | 2023-04-06 | 3839 | 2878 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3790 | 2861 | 
 | 2023-03-13 | 3788 | 2860 | 
 | 2023-03-12 | 3786 | 2859 | 
-| 2023-03-10 | 3786 | 2856 | 
 

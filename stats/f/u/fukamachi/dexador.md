@@ -1,6 +1,6 @@
 # fukamachi/dexador - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 315 | 36 | 
 | 2023-04-08 | 315 | 36 | 
 | 2023-04-07 | 314 | 36 | 
 | 2023-04-06 | 314 | 36 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 311 | 36 | 
 | 2023-03-13 | 310 | 36 | 
 | 2023-03-12 | 310 | 36 | 
-| 2023-03-10 | 310 | 36 | 
 

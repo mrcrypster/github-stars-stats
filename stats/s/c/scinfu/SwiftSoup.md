@@ -1,10 +1,10 @@
 # scinfu/SwiftSoup - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 269
 
-★ Stars: 3822
+★ Stars: 3824
 
 [Open repository](https://github.com/scinfu/SwiftSoup)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3824 | 269 | 
 | 2023-04-08 | 3822 | 269 | 
 | 2023-04-07 | 3822 | 269 | 
 | 2023-04-06 | 3821 | 269 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 3785 | 264 | 
 | 2023-03-12 | 3783 | 264 | 
 | 2023-03-11 | 3780 | 264 | 
-| 2023-03-10 | 3778 | 264 | 
 

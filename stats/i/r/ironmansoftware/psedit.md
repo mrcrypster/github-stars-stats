@@ -1,6 +1,6 @@
 # ironmansoftware/psedit - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 220 | 14 | 
 | 2023-04-08 | 220 | 14 | 
 | 2023-04-07 | 220 | 14 | 
 | 2023-04-06 | 220 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 218 | 12 | 
 | 2023-03-12 | 218 | 12 | 
 | 2023-03-11 | 218 | 12 | 
-| 2023-03-10 | 218 | 12 | 
 

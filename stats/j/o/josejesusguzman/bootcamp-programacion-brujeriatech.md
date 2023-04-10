@@ -1,10 +1,10 @@
 # josejesusguzman/bootcamp-programacion-brujeriatech - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 15
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/josejesusguzman/bootcamp-programacion-brujeriatech)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 72 | 15 | 
 | 2023-04-08 | 71 | 15 | 
 | 2023-04-07 | 71 | 15 | 
 | 2023-04-06 | 71 | 15 | 

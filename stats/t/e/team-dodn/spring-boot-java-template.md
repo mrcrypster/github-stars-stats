@@ -1,6 +1,6 @@
 # team-dodn/spring-boot-java-template - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 96 | 15 | 
 | 2023-04-08 | 96 | 15 | 
 | 2023-04-07 | 96 | 15 | 
 | 2023-04-06 | 96 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 92 | 16 | 
 | 2023-03-12 | 92 | 16 | 
 | 2023-03-11 | 90 | 16 | 
-| 2023-03-10 | 88 | 15 | 
 

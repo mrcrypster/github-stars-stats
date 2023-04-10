@@ -1,10 +1,10 @@
 # GoogleChrome/chrome-extensions-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 7067
+☋ Forks: 7071
 
-★ Stars: 12001
+★ Stars: 12008
 
 [Open repository](https://github.com/GoogleChrome/chrome-extensions-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 12008 | 7071 | 
 | 2023-04-08 | 12001 | 7067 | 
 | 2023-04-07 | 11993 | 7064 | 
 | 2023-04-06 | 11987 | 7058 | 

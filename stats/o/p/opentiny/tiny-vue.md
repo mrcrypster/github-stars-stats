@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 165
+★ Stars: 171
 
 [Open repository](https://github.com/opentiny/tiny-vue)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 165 | 28 | 
+| 2023-04-09 | 171 | 29 | 
 | 2023-04-08 | 165 | 28 | 
 | 2023-04-07 | 156 | 27 | 
 | 2023-04-06 | 140 | 26 | 

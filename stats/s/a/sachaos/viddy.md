@@ -1,10 +1,10 @@
 # sachaos/viddy - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 75
 
-★ Stars: 3932
+★ Stars: 3933
 
 [Open repository](https://github.com/sachaos/viddy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3933 | 75 | 
 | 2023-04-08 | 3932 | 75 | 
 | 2023-04-07 | 3933 | 74 | 
 | 2023-04-06 | 3931 | 74 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3918 | 73 | 
 | 2023-03-13 | 3918 | 73 | 
 | 2023-03-12 | 3918 | 73 | 
-| 2023-03-10 | 3918 | 73 | 
 

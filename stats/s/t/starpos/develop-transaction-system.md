@@ -1,10 +1,10 @@
 # starpos/develop-transaction-system - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/starpos/develop-transaction-system)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 156 | 5 | 
 | 2023-04-08 | 155 | 5 | 
 | 2023-04-07 | 155 | 5 | 
 | 2023-04-06 | 155 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 152 | 5 | 
 | 2023-03-13 | 152 | 5 | 
 | 2023-03-11 | 152 | 5 | 
-| 2023-03-10 | 152 | 5 | 
 

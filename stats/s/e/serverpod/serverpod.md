@@ -1,10 +1,10 @@
 # serverpod/serverpod - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 118
 
-★ Stars: 1474
+★ Stars: 1476
 
 [Open repository](https://github.com/serverpod/serverpod)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1476 | 118 | 
 | 2023-04-08 | 1474 | 118 | 
 | 2023-04-07 | 1474 | 118 | 
 | 2023-04-06 | 1473 | 117 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1447 | 114 | 
 | 2023-03-12 | 1444 | 114 | 
 | 2023-03-11 | 1443 | 113 | 
-| 2023-03-10 | 1443 | 113 | 
 

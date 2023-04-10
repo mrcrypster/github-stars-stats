@@ -1,10 +1,10 @@
 # Zakarialabib/Mystock-Laravel-Livewire-alpine-tailwind-Inventory-Pos - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 28
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/Zakarialabib/Mystock-Laravel-Livewire-alpine-tailwind-Inventory-Pos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 62 | 28 | 
 | 2023-04-08 | 61 | 28 | 
 | 2023-04-07 | 61 | 28 | 
 | 2023-04-06 | 61 | 28 | 

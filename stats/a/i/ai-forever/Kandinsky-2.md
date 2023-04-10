@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 94
 
-★ Stars: 1082
+★ Stars: 1143
 
 [Open repository](https://github.com/ai-forever/Kandinsky-2)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 1082 | 94 | 
+| 2023-04-09 | 1143 | 94 | 
 | 2023-04-08 | 1070 | 92 | 
 | 2023-04-07 | 969 | 87 | 
 | 2023-04-06 | 757 | 69 | 

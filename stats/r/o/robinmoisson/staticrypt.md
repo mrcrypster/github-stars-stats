@@ -1,10 +1,10 @@
 # robinmoisson/staticrypt - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 367
 
-★ Stars: 5305
+★ Stars: 5307
 
 [Open repository](https://github.com/robinmoisson/staticrypt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5307 | 367 | 
 | 2023-04-08 | 5305 | 367 | 
 | 2023-04-07 | 5302 | 366 | 
 | 2023-04-06 | 5292 | 366 | 

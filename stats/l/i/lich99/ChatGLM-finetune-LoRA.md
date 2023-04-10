@@ -1,10 +1,10 @@
 # lich99/ChatGLM-finetune-LoRA - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 291
+★ Stars: 296
 
 [Open repository](https://github.com/lich99/ChatGLM-finetune-LoRA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 296 | 21 | 
 | 2023-04-08 | 291 | 20 | 
 | 2023-04-07 | 287 | 20 | 
 | 2023-04-06 | 287 | 20 | 

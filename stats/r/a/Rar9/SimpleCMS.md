@@ -1,10 +1,10 @@
 # Rar9/SimpleCMS - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 6
+★ Stars: 8
 
 [Open repository](https://github.com/Rar9/SimpleCMS)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 8 | 11 | 
+| 2023-04-09 | 7 | 11 | 
 | 2023-04-08 | 6 | 10 | 
 | 2023-04-07 | 6 | 9 | 
 | 2023-04-06 | 6 | 8 | 

@@ -1,8 +1,8 @@
 # FreeRTOS/FreeRTOS-Kernel - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 763
+☋ Forks: 764
 
 ★ Stars: 1601
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1601 | 764 | 
 | 2023-04-08 | 1601 | 763 | 
 | 2023-04-07 | 1599 | 762 | 
 | 2023-04-06 | 1595 | 761 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1532 | 740 | 
 | 2023-03-13 | 1531 | 739 | 
 | 2023-03-11 | 1530 | 739 | 
-| 2023-03-10 | 1526 | 738 | 
 

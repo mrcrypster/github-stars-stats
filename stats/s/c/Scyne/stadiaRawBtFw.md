@@ -1,10 +1,10 @@
 # Scyne/stadiaRawBtFw - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 141
+★ Stars: 143
 
 [Open repository](https://github.com/Scyne/stadiaRawBtFw)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 143 | 3 | 
 | 2023-04-08 | 141 | 3 | 
 | 2023-04-07 | 141 | 3 | 
 | 2023-04-06 | 141 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 140 | 3 | 
 | 2023-03-13 | 139 | 3 | 
 | 2023-03-11 | 137 | 3 | 
-| 2023-03-10 | 137 | 3 | 
 

@@ -1,10 +1,10 @@
 # ranmaru22/firefox-vertical-tabs - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 66
 
-★ Stars: 535
+★ Stars: 536
 
 [Open repository](https://github.com/ranmaru22/firefox-vertical-tabs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 536 | 66 | 
 | 2023-04-08 | 535 | 66 | 
 | 2023-04-07 | 534 | 66 | 
 | 2023-04-06 | 533 | 66 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 507 | 65 | 
 | 2023-03-13 | 505 | 65 | 
 | 2023-03-11 | 505 | 64 | 
-| 2023-03-10 | 504 | 64 | 
 

@@ -1,6 +1,6 @@
 # r-lib/pkgdepends - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 73 | 21 | 
 | 2023-04-08 | 73 | 21 | 
 | 2023-04-07 | 73 | 21 | 
 | 2023-04-06 | 73 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 68 | 20 | 
 | 2023-03-12 | 68 | 20 | 
 | 2023-03-11 | 68 | 20 | 
-| 2023-03-10 | 69 | 20 | 
 

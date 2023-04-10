@@ -1,10 +1,10 @@
 # Ptkatz/OrcaC2 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 62
 
-★ Stars: 463
+★ Stars: 464
 
 [Open repository](https://github.com/Ptkatz/OrcaC2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 464 | 62 | 
 | 2023-04-08 | 463 | 62 | 
 | 2023-04-07 | 463 | 62 | 
 | 2023-04-06 | 463 | 62 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 456 | 62 | 
 | 2023-03-12 | 456 | 62 | 
 | 2023-03-11 | 456 | 62 | 
-| 2023-03-10 | 456 | 62 | 
 

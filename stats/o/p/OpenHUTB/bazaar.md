@@ -1,8 +1,8 @@
 # OpenHUTB/bazaar - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 6
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6 | 13 | 
+| 2023-04-09 | 6 | 13 | 
 | 2023-04-08 | 6 | 12 | 
 | 2023-04-07 | 6 | 12 | 
 | 2023-04-06 | 6 | 12 | 

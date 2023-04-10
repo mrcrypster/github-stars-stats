@@ -1,10 +1,10 @@
 # lxe/simple-llama-finetuner - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 1294
+★ Stars: 1304
 
 [Open repository](https://github.com/lxe/simple-llama-finetuner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1304 | 65 | 
 | 2023-04-09 | 1294 | 64 | 
 | 2023-04-07 | 1279 | 61 | 
 | 2023-04-06 | 1263 | 61 | 

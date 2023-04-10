@@ -1,10 +1,10 @@
 # TritonVM/triton-vm - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 20
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/TritonVM/triton-vm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 124 | 20 | 
 | 2023-04-08 | 123 | 20 | 
 | 2023-04-07 | 123 | 20 | 
 | 2023-04-06 | 123 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 119 | 18 | 
 | 2023-03-13 | 118 | 18 | 
 | 2023-03-11 | 118 | 18 | 
-| 2023-03-10 | 118 | 18 | 
 

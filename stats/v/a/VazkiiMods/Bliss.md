@@ -1,6 +1,6 @@
 # VazkiiMods/Bliss - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 9 | 
 | 2023-04-08 | 16 | 9 | 
 | 2023-04-07 | 16 | 9 | 
 | 2023-04-06 | 16 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 16 | 9 | 
 | 2023-03-12 | 16 | 9 | 
 | 2023-03-11 | 16 | 9 | 
-| 2023-03-10 | 16 | 9 | 
 

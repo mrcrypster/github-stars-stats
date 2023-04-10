@@ -1,10 +1,10 @@
 # hanyuancheung/gpt-go - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 16
 
-★ Stars: 149
+★ Stars: 152
 
 [Open repository](https://github.com/hanyuancheung/gpt-go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 152 | 16 | 
 | 2023-04-08 | 149 | 16 | 
 | 2023-04-07 | 147 | 16 | 
 | 2023-04-06 | 147 | 16 | 

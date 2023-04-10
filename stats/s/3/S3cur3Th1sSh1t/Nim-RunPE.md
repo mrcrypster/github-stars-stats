@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/Nim-RunPE - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 32
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/Nim-RunPE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 220 | 32 | 
 | 2023-04-09 | 219 | 32 | 
 | 2023-04-08 | 218 | 32 | 
 | 2023-04-06 | 217 | 32 | 

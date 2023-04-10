@@ -1,10 +1,10 @@
 # shahin8r/iptv - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/shahin8r/iptv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 153 | 4 | 
 | 2023-04-08 | 152 | 4 | 
 | 2023-04-07 | 151 | 4 | 
 | 2023-04-06 | 149 | 4 | 

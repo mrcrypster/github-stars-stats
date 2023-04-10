@@ -1,10 +1,10 @@
 # vernesong/OpenClash - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1546
+☋ Forks: 1550
 
-★ Stars: 9387
+★ Stars: 9407
 
 [Open repository](https://github.com/vernesong/OpenClash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 9407 | 1550 | 
 | 2023-04-08 | 9387 | 1546 | 
 | 2023-04-07 | 9366 | 1545 | 
 | 2023-04-06 | 9351 | 1543 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 8955 | 1506 | 
 | 2023-03-12 | 8939 | 1503 | 
 | 2023-03-11 | 8925 | 1501 | 
-| 2023-03-10 | 8881 | 1501 | 
 

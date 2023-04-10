@@ -1,10 +1,10 @@
 # twitterdev/Twitter-API-v2-sample-code - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 815
+☋ Forks: 817
 
-★ Stars: 1994
+★ Stars: 1997
 
 [Open repository](https://github.com/twitterdev/Twitter-API-v2-sample-code)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1997 | 817 | 
 | 2023-04-08 | 1994 | 815 | 
 | 2023-04-07 | 1992 | 815 | 
 | 2023-04-06 | 1991 | 814 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 1947 | 801 | 
 | 2023-03-13 | 1945 | 800 | 
 | 2023-03-12 | 1944 | 798 | 
-| 2023-03-11 | 1944 | 798 | 
 

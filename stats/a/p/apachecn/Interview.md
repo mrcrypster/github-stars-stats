@@ -1,6 +1,6 @@
 # apachecn/Interview - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2162
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 8049 | 2162 | 
 | 2023-04-08 | 8049 | 2162 | 
 | 2023-04-07 | 8046 | 2162 | 
 | 2023-04-06 | 8044 | 2162 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 8004 | 2159 | 
 | 2023-03-12 | 8000 | 2159 | 
 | 2023-03-11 | 7997 | 2159 | 
-| 2023-03-10 | 7994 | 2159 | 
 

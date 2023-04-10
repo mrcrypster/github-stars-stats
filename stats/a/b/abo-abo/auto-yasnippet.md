@@ -1,6 +1,6 @@
 # abo-abo/auto-yasnippet - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 229 | 15 | 
 | 2023-04-08 | 229 | 15 | 
 | 2023-04-07 | 229 | 15 | 
 | 2023-04-06 | 229 | 15 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 229 | 15 | 
 | 2023-03-13 | 229 | 15 | 
 | 2023-03-12 | 229 | 15 | 
-| 2023-03-10 | 229 | 15 | 
 

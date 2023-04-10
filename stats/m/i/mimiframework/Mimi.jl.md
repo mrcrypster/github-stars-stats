@@ -1,0 +1,17 @@
+# mimiframework/Mimi.jl - stars & forks statistics
+
+Stats updated on Apr 2023, 09
+
+☋ Forks: 32
+
+★ Stars: 58
+
+[Open repository](https://github.com/mimiframework/Mimi.jl)
+
+[Open detailed stats for mimiframework/Mimi.jl](https://reviewgithub.com/rep/mimiframework/Mimi.jl)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-09 | 58 | 32 | 
+

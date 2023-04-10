@@ -1,8 +1,8 @@
 # xx025/chatgptapi_server - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 97
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 97 | 24 | 
 | 2023-04-08 | 97 | 23 | 
 | 2023-04-07 | 97 | 23 | 
 | 2023-04-06 | 97 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 89 | 20 | 
 | 2023-03-13 | 89 | 20 | 
 | 2023-03-11 | 88 | 20 | 
-| 2023-03-10 | 88 | 20 | 
 

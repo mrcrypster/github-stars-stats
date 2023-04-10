@@ -1,10 +1,10 @@
 # LocalizeLimbusCompany/LocalizeLimbusCompany - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 69 | 17 | 
+| 2023-04-09 | 69 | 17 | 
 | 2023-04-08 | 67 | 16 | 
 | 2023-04-07 | 63 | 13 | 
 | 2023-04-06 | 61 | 13 | 

@@ -1,6 +1,6 @@
 # Suzhou-Tongyuan/jnumpy - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 213 | 8 | 
 | 2023-04-08 | 213 | 8 | 
 | 2023-04-07 | 213 | 8 | 
 | 2023-04-06 | 213 | 8 | 

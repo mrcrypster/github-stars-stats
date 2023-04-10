@@ -1,10 +1,10 @@
 # Akegarasu/ChatGLM-webui - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 117
+☋ Forks: 123
 
-★ Stars: 846
+★ Stars: 913
 
 [Open repository](https://github.com/Akegarasu/ChatGLM-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 913 | 123 | 
 | 2023-04-08 | 846 | 117 | 
 | 2023-04-07 | 812 | 111 | 
 | 2023-04-06 | 762 | 100 | 

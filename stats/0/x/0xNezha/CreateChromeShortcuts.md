@@ -1,6 +1,6 @@
 # 0xNezha/CreateChromeShortcuts - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 15 | 7 | 
 | 2023-04-08 | 15 | 7 | 
 | 2023-04-07 | 15 | 7 | 
 | 2023-04-06 | 15 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 14 | 7 | 
 | 2023-03-12 | 14 | 7 | 
 | 2023-03-11 | 14 | 7 | 
-| 2023-03-10 | 14 | 7 | 
 

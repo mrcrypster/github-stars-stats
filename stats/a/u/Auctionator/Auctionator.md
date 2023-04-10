@@ -1,6 +1,6 @@
 # Auctionator/Auctionator - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 173 | 73 | 
 | 2023-04-08 | 173 | 73 | 
 | 2023-04-07 | 173 | 73 | 
 | 2023-04-06 | 173 | 73 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 170 | 73 | 
 | 2023-03-12 | 170 | 73 | 
 | 2023-03-11 | 170 | 73 | 
-| 2023-03-10 | 171 | 73 | 
 

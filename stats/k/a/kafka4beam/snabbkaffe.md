@@ -1,6 +1,6 @@
 # kafka4beam/snabbkaffe - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 27 | 6 | 
 | 2023-04-08 | 27 | 6 | 
 | 2023-04-07 | 27 | 6 | 
 | 2023-04-06 | 27 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 26 | 6 | 
 | 2023-03-13 | 26 | 6 | 
 | 2023-03-12 | 26 | 6 | 
-| 2023-03-10 | 26 | 6 | 
 

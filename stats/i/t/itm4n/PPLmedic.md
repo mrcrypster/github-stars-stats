@@ -1,10 +1,10 @@
 # itm4n/PPLmedic - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 233
+★ Stars: 236
 
 [Open repository](https://github.com/itm4n/PPLmedic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 236 | 23 | 
 | 2023-04-08 | 233 | 22 | 
 | 2023-04-07 | 233 | 22 | 
 | 2023-04-06 | 233 | 22 | 

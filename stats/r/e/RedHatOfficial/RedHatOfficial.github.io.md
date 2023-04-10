@@ -1,6 +1,6 @@
 # RedHatOfficial/RedHatOfficial.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 548 | 215 | 
 | 2023-04-08 | 548 | 215 | 
 | 2023-04-07 | 549 | 215 | 
 | 2023-04-06 | 548 | 215 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 536 | 214 | 
 | 2023-03-13 | 534 | 214 | 
 | 2023-03-11 | 533 | 214 | 
-| 2023-03-10 | 530 | 214 | 
 

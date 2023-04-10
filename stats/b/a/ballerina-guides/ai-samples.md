@@ -1,10 +1,10 @@
 # ballerina-guides/ai-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/ballerina-guides/ai-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2 | 9 | 
 | 2023-04-08 | 1 | 8 | 
 | 2023-04-07 | 1 | 8 | 
 | 2023-04-06 | 1 | 8 | 

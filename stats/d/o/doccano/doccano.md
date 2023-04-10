@@ -1,10 +1,10 @@
 # doccano/doccano - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1521
 
-★ Stars: 7570
+★ Stars: 7573
 
 [Open repository](https://github.com/doccano/doccano)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7573 | 1521 | 
 | 2023-04-08 | 7570 | 1521 | 
 | 2023-04-07 | 7567 | 1519 | 
 | 2023-04-06 | 7561 | 1516 | 

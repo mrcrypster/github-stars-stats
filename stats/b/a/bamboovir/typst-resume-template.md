@@ -1,10 +1,10 @@
 # bamboovir/typst-resume-template - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/bamboovir/typst-resume-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 17 | - | 
 | 2023-04-08 | 15 | - | 
 | 2023-04-07 | 15 | - | 
 | 2023-04-06 | 14 | - | 

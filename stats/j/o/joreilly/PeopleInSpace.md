@@ -1,6 +1,6 @@
 # joreilly/PeopleInSpace - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2329 | 211 | 
 | 2023-04-09 | 2329 | 211 | 
 | 2023-04-08 | 2329 | 210 | 
 | 2023-04-06 | 2329 | 210 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 2305 | 209 | 
 | 2023-03-13 | 2302 | 209 | 
 | 2023-03-12 | 2300 | 209 | 
-| 2023-03-10 | 2299 | 209 | 
 

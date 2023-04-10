@@ -1,10 +1,10 @@
 # vandadnp/youtube-riverpodcourse-public - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 33
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/vandadnp/youtube-riverpodcourse-public)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 124 | 33 | 
 | 2023-04-08 | 123 | 33 | 
 | 2023-04-07 | 123 | 32 | 
 | 2023-04-06 | 123 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 114 | 30 | 
 | 2023-03-13 | 112 | 30 | 
 | 2023-03-11 | 112 | 30 | 
-| 2023-03-10 | 112 | 30 | 
 

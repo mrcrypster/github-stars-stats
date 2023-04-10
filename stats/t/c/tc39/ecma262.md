@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 1313
 
-★ Stars: 14027
+★ Stars: 14028
 
 [Open repository](https://github.com/tc39/ecma262)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 14027 | 1313 | 
+| 2023-04-09 | 14028 | 1313 | 
 | 2023-04-08 | 14028 | 1313 | 
 | 2023-04-07 | 14027 | 1312 | 
 | 2023-04-06 | 14023 | 1312 | 

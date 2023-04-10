@@ -1,10 +1,10 @@
 # earthly/earthly - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 320
 
-★ Stars: 8966
+★ Stars: 8968
 
 [Open repository](https://github.com/earthly/earthly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 8968 | 320 | 
 | 2023-04-08 | 8966 | 320 | 
 | 2023-04-07 | 8964 | 319 | 
 | 2023-04-06 | 8958 | 319 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 8861 | 312 | 
 | 2023-03-13 | 8859 | 312 | 
 | 2023-03-12 | 8856 | 311 | 
-| 2023-03-10 | 8856 | 311 | 
 

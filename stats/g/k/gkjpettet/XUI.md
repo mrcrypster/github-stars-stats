@@ -1,10 +1,10 @@
 # gkjpettet/XUI - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/gkjpettet/XUI)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 4 | 5 | 
+| 2023-04-09 | 4 | 5 | 
 | 2023-04-08 | 3 | 4 | 
 | 2023-04-07 | 2 | 4 | 
 | 2023-04-06 | 2 | 4 | 

@@ -1,6 +1,6 @@
 # tmux-plugins/vim-tmux - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 324 | 22 | 
 | 2023-04-08 | 324 | 22 | 
 | 2023-04-07 | 324 | 23 | 
 | 2023-04-06 | 324 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 323 | 23 | 
 | 2023-03-12 | 323 | 23 | 
 | 2023-03-11 | 323 | 23 | 
-| 2023-03-10 | 323 | 23 | 
 

@@ -1,10 +1,10 @@
 # brikis98/terraform-up-and-running-code - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1652
 
-★ Stars: 2379
+★ Stars: 2381
 
 [Open repository](https://github.com/brikis98/terraform-up-and-running-code)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2381 | 1652 | 
 | 2023-04-08 | 2379 | 1652 | 
 | 2023-04-07 | 2378 | 1651 | 
 | 2023-04-06 | 2378 | 1651 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 2344 | 1625 | 
 | 2023-03-12 | 2342 | 1624 | 
 | 2023-03-11 | 2339 | 1622 | 
-| 2023-03-10 | 2338 | 1622 | 
 

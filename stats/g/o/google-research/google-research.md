@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 7035
+☋ Forks: 7039
 
-★ Stars: 28300
+★ Stars: 28305
 
 [Open repository](https://github.com/google-research/google-research)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 28300 | 7035 | 
+| 2023-04-09 | 28305 | 7039 | 
 | 2023-04-08 | 28294 | 7035 | 
 | 2023-04-07 | 28281 | 7033 | 
 | 2023-04-06 | 28261 | 7026 | 

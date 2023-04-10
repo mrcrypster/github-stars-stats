@@ -1,6 +1,6 @@
 # CaptnCodr/Fli - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 101 | - | 
 | 2023-04-08 | 101 | - | 
 | 2023-04-07 | 101 | - | 
 | 2023-04-06 | 101 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 99 | - | 
 | 2023-03-13 | 99 | - | 
 | 2023-03-12 | 99 | - | 
-| 2023-03-10 | 99 | - | 
 

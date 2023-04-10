@@ -1,6 +1,6 @@
 # Ezharjan/NLPTeamWork2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4 | 4 | 
 | 2023-04-08 | 4 | 4 | 
 | 2023-04-07 | 4 | 4 | 
 | 2023-04-06 | 4 | 4 | 

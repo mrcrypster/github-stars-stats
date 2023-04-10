@@ -1,6 +1,6 @@
 # phpseclib/phpseclib - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 870
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5011 | 870 | 
 | 2023-04-08 | 5011 | 870 | 
 | 2023-04-07 | 5010 | 871 | 
 | 2023-04-06 | 5008 | 870 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 4993 | 864 | 
 | 2023-03-13 | 4989 | 864 | 
 | 2023-03-12 | 4989 | 864 | 
-| 2023-03-10 | 4989 | 864 | 
 

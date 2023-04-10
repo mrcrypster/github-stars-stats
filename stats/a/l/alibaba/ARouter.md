@@ -1,6 +1,6 @@
 # alibaba/ARouter - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 2547
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 14148 | 2547 | 
 | 2023-04-08 | 14148 | 2547 | 
 | 2023-04-07 | 14147 | 2547 | 
 | 2023-04-06 | 14144 | 2547 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 14124 | 2538 | 
 | 2023-03-13 | 14120 | 2538 | 
 | 2023-03-12 | 14117 | 2538 | 
-| 2023-03-10 | 14117 | 2538 | 
 

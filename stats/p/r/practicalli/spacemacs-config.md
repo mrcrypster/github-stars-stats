@@ -1,8 +1,8 @@
 # practicalli/spacemacs-config - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 383
+☋ Forks: 385
 
 ★ Stars: 115
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 115 | 385 | 
 | 2023-04-09 | 115 | 383 | 
 | 2023-04-07 | 115 | 384 | 
 | 2023-04-06 | 115 | 384 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 109 | 384 | 
 | 2023-03-12 | 109 | 384 | 
 | 2023-03-11 | 109 | 384 | 
-| 2023-03-10 | 108 | 384 | 
 

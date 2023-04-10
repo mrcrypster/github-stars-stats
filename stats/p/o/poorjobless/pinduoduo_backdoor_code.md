@@ -1,10 +1,10 @@
 # poorjobless/pinduoduo_backdoor_code - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 138
+☋ Forks: 139
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/poorjobless/pinduoduo_backdoor_code)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 275 | 139 | 
 | 2023-04-08 | 274 | 138 | 
 | 2023-04-07 | 272 | 136 | 
 | 2023-04-06 | 272 | 136 | 

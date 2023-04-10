@@ -1,10 +1,10 @@
 # zuoFeng59556/chatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 49
+☋ Forks: 51
 
-★ Stars: 99
+★ Stars: 105
 
 [Open repository](https://github.com/zuoFeng59556/chatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 105 | 51 | 
 | 2023-04-08 | 99 | 49 | 
 | 2023-04-07 | 99 | 47 | 
 | 2023-04-06 | 99 | 47 | 

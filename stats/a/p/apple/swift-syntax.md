@@ -1,6 +1,6 @@
 # apple/swift-syntax - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2162 | 245 | 
 | 2023-04-08 | 2162 | 245 | 
 | 2023-04-07 | 2161 | 242 | 
 | 2023-04-06 | 2160 | 241 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 2125 | 238 | 
 | 2023-03-12 | 2124 | 238 | 
 | 2023-03-11 | 2123 | 237 | 
-| 2023-03-10 | 2123 | 236 | 
 

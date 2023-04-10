@@ -1,10 +1,10 @@
 # JerBouma/FinanceDatabase - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 225
+☋ Forks: 226
 
-★ Stars: 1805
+★ Stars: 1809
 
 [Open repository](https://github.com/JerBouma/FinanceDatabase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1809 | 226 | 
 | 2023-04-08 | 1805 | 225 | 
 | 2023-04-07 | 1801 | 225 | 
 | 2023-04-06 | 1798 | 224 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1707 | 214 | 
 | 2023-03-12 | 1696 | 213 | 
 | 2023-03-11 | 1687 | 209 | 
-| 2023-03-10 | 1685 | 209 | 
 

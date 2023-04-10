@@ -1,6 +1,6 @@
 # unrelentingtech/httpotion - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 727 | 104 | 
 | 2023-04-08 | 727 | 104 | 
 | 2023-04-07 | 727 | 104 | 
 | 2023-04-06 | 727 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 727 | 104 | 
 | 2023-03-12 | 727 | 104 | 
 | 2023-03-11 | 727 | 104 | 
-| 2023-03-10 | 727 | 104 | 
 

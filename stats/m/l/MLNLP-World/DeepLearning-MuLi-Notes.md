@@ -1,10 +1,10 @@
 # MLNLP-World/DeepLearning-MuLi-Notes - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 461
+☋ Forks: 463
 
-★ Stars: 2712
+★ Stars: 2715
 
 [Open repository](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2715 | 463 | 
 | 2023-04-08 | 2712 | 461 | 
 | 2023-04-07 | 2707 | 461 | 
 | 2023-04-06 | 2704 | 460 | 

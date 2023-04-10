@@ -1,6 +1,6 @@
 # edstott/EEE1labs - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 40 | 
 | 2023-04-08 | 16 | 40 | 
 | 2023-04-07 | 16 | 40 | 
 | 2023-04-06 | 16 | 40 | 

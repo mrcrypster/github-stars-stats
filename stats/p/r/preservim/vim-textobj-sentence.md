@@ -1,6 +1,6 @@
 # preservim/vim-textobj-sentence - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 93 | 8 | 
 | 2023-04-08 | 93 | 8 | 
 | 2023-04-07 | 93 | 8 | 
 | 2023-04-06 | 93 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 92 | 8 | 
 | 2023-03-13 | 92 | 8 | 
 | 2023-03-12 | 92 | 8 | 
-| 2023-03-10 | 92 | 8 | 
 

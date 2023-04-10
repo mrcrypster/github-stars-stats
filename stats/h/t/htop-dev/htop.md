@@ -1,10 +1,10 @@
 # htop-dev/htop - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 311
 
-★ Stars: 4771
+★ Stars: 4774
 
 [Open repository](https://github.com/htop-dev/htop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4774 | 311 | 
 | 2023-04-08 | 4771 | 311 | 
 | 2023-04-07 | 4770 | 311 | 
 | 2023-04-06 | 4764 | 311 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 4678 | 307 | 
 | 2023-03-13 | 4679 | 308 | 
 | 2023-03-12 | 4677 | 308 | 
-| 2023-03-11 | 4675 | 307 | 
 

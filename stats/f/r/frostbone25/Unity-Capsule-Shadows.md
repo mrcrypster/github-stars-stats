@@ -1,10 +1,10 @@
 # frostbone25/Unity-Capsule-Shadows - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/frostbone25/Unity-Capsule-Shadows)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 44 | 4 | 
 | 2023-04-08 | 43 | 4 | 
 | 2023-04-07 | 42 | 4 | 
 | 2023-04-06 | 41 | 4 | 

@@ -1,10 +1,10 @@
 # folke/neoconf.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 3
 
-★ Stars: 269
+★ Stars: 270
 
 [Open repository](https://github.com/folke/neoconf.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 270 | 3 | 
 | 2023-04-09 | 269 | 3 | 
 | 2023-04-07 | 269 | 3 | 
 | 2023-04-06 | 269 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 250 | 1 | 
 | 2023-03-12 | 250 | 1 | 
 | 2023-03-11 | 249 | 1 | 
-| 2023-03-10 | 248 | 1 | 
 

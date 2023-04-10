@@ -1,6 +1,6 @@
 # creativetimofficial/black-dashboard-django - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 79 | 190 | 
 | 2023-04-08 | 79 | 190 | 
 | 2023-04-07 | 79 | 190 | 
 | 2023-04-06 | 79 | 188 | 

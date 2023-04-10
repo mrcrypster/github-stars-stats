@@ -1,10 +1,10 @@
 # mit-pdos/xv6-riscv - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1441
+☋ Forks: 1442
 
-★ Stars: 3794
+★ Stars: 3799
 
 [Open repository](https://github.com/mit-pdos/xv6-riscv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3799 | 1442 | 
 | 2023-04-08 | 3794 | 1441 | 
 | 2023-04-07 | 3791 | 1440 | 
 | 2023-04-06 | 3786 | 1440 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3698 | 1366 | 
 | 2023-03-12 | 3689 | 1361 | 
 | 2023-03-11 | 3686 | 1358 | 
-| 2023-03-10 | 3681 | 1357 | 
 

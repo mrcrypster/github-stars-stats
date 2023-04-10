@@ -1,10 +1,10 @@
 # OpenFn/Lightning - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 12
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/OpenFn/Lightning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 32 | 12 | 
 | 2023-04-08 | 31 | 12 | 
 | 2023-04-07 | 31 | 12 | 
 | 2023-04-06 | 31 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 24 | 9 | 
 | 2023-03-13 | 23 | 8 | 
 | 2023-03-12 | 23 | 8 | 
-| 2023-03-11 | 23 | 8 | 
 

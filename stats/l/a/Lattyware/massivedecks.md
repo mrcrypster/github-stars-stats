@@ -1,6 +1,6 @@
 # Lattyware/massivedecks - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 388 | 86 | 
 | 2023-04-08 | 388 | 86 | 
 | 2023-04-07 | 389 | 86 | 
 | 2023-04-06 | 389 | 86 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 386 | 86 | 
 | 2023-03-12 | 386 | 86 | 
 | 2023-03-11 | 386 | 86 | 
-| 2023-03-10 | 386 | 87 | 
 

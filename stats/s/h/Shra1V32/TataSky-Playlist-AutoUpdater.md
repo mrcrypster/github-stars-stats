@@ -1,10 +1,10 @@
 # Shra1V32/TataSky-Playlist-AutoUpdater - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 67
 
-★ Stars: 398
+★ Stars: 400
 
 [Open repository](https://github.com/Shra1V32/TataSky-Playlist-AutoUpdater)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 400 | 67 | 
 | 2023-04-08 | 398 | 67 | 
 | 2023-04-07 | 397 | 67 | 
 | 2023-04-06 | 397 | 67 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 376 | 66 | 
 | 2023-03-13 | 373 | 64 | 
 | 2023-03-11 | 373 | 64 | 
-| 2023-03-10 | 373 | 63 | 
 

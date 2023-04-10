@@ -1,6 +1,6 @@
 # michael-rubel/livewire-best-practices - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 591 | 33 | 
 | 2023-04-08 | 591 | 33 | 
 | 2023-04-07 | 590 | 33 | 
 | 2023-04-06 | 590 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 571 | 32 | 
 | 2023-03-12 | 568 | 32 | 
 | 2023-03-11 | 568 | 32 | 
-| 2023-03-10 | 564 | 31 | 
 

@@ -1,10 +1,10 @@
 # fayazara/onelink - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 16
 
-★ Stars: 127
+★ Stars: 130
 
 [Open repository](https://github.com/fayazara/onelink)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 130 | 16 | 
+| 2023-04-09 | 130 | 16 | 
 | 2023-04-08 | 127 | 16 | 
 | 2023-04-07 | 125 | 15 | 
 | 2023-04-06 | 122 | 15 | 

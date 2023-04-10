@@ -1,10 +1,10 @@
 # Stability-AI/stablediffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2109
+☋ Forks: 2136
 
-★ Stars: 17803
+★ Stars: 17956
 
 [Open repository](https://github.com/Stability-AI/stablediffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 17956 | 2136 | 
 | 2023-04-08 | 17803 | 2109 | 
 | 2023-04-07 | 17612 | 2082 | 
 | 2023-04-06 | 17436 | 2045 | 

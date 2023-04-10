@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 3766
+☋ Forks: 3790
 
-★ Stars: 26628
+★ Stars: 26801
 
 [Open repository](https://github.com/openai/openai-cookbook)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 26628 | 3766 | 
+| 2023-04-09 | 26801 | 3790 | 
 | 2023-04-08 | 26594 | 3766 | 
 | 2023-04-07 | 26301 | 3738 | 
 | 2023-04-06 | 26053 | 3694 | 

@@ -1,10 +1,10 @@
 # deepfence/agent-plugins-grpc - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/deepfence/agent-plugins-grpc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 20 | - | 
 | 2023-04-08 | 19 | - | 
 | 2023-04-07 | 19 | - | 
 | 2023-04-06 | 19 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 19 | - | 
 | 2023-03-13 | 19 | - | 
 | 2023-03-12 | 19 | - | 
-| 2023-03-10 | 19 | - | 
 

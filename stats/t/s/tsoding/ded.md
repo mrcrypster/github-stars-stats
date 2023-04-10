@@ -1,10 +1,10 @@
 # tsoding/ded - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 54
 
-★ Stars: 371
+★ Stars: 372
 
 [Open repository](https://github.com/tsoding/ded)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 372 | 54 | 
 | 2023-04-08 | 371 | 54 | 
 | 2023-04-07 | 369 | 53 | 
 | 2023-04-06 | 369 | 53 | 

@@ -1,6 +1,6 @@
 # zeux/meshoptimizer - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4082 | 358 | 
 | 2023-04-08 | 4082 | 358 | 
 | 2023-04-07 | 4081 | 356 | 
 | 2023-04-06 | 4080 | 356 | 

@@ -1,10 +1,10 @@
 # aniketpanchal52648/RailGhateMe - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/aniketpanchal52648/RailGhateMe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2 | 6 | 
 | 2023-04-08 | 1 | 5 | 
 | 2023-04-07 | 1 | 5 | 
 | 2023-04-06 | 1 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1 | 5 | 
 | 2023-03-12 | 1 | 5 | 
 | 2023-03-11 | 1 | 5 | 
-| 2023-03-10 | 1 | 5 | 
 

@@ -1,6 +1,6 @@
 # B4-Group/swe_b4 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4 | 7 | 
 | 2023-04-08 | 4 | 7 | 
 | 2023-04-07 | 4 | 7 | 
 | 2023-04-06 | 4 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 4 | 8 | 
 | 2023-03-13 | 4 | 8 | 
 | 2023-03-11 | 4 | 8 | 
-| 2023-03-10 | 4 | 8 | 
 

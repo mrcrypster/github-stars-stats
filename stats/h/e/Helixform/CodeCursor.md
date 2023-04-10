@@ -1,10 +1,10 @@
 # Helixform/CodeCursor - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 1063
+★ Stars: 1068
 
 [Open repository](https://github.com/Helixform/CodeCursor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1068 | 29 | 
 | 2023-04-08 | 1063 | 28 | 
 | 2023-04-07 | 1062 | 28 | 
 | 2023-04-06 | 1050 | 28 | 

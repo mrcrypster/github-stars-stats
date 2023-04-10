@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 939
+☋ Forks: 940
 
-★ Stars: 6451
+★ Stars: 6461
 
 [Open repository](https://github.com/BetterDiscord/BetterDiscord)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 6451 | 939 | 
+| 2023-04-09 | 6461 | 940 | 
 | 2023-04-08 | 6450 | 939 | 
 | 2023-04-07 | 6444 | 936 | 
 | 2023-04-06 | 6433 | 935 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 6230 | 919 | 
 | 2023-03-13 | 6227 | 920 | 
 | 2023-03-12 | 6219 | 920 | 
-| 2023-03-10 | 6210 | 919 | 
 

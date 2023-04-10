@@ -1,6 +1,6 @@
 # fengb/wazm - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 99 | 4 | 
 | 2023-04-08 | 99 | 4 | 
 | 2023-04-07 | 99 | 4 | 
 | 2023-04-06 | 99 | 4 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 98 | 4 | 
 | 2023-03-13 | 98 | 4 | 
 | 2023-03-12 | 98 | 4 | 
-| 2023-03-11 | 98 | 4 | 
 

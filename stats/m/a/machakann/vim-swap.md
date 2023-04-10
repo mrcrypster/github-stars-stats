@@ -1,10 +1,10 @@
 # machakann/vim-swap - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/machakann/vim-swap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 271 | 5 | 
 | 2023-04-08 | 270 | 5 | 
 | 2023-04-07 | 270 | 5 | 
 | 2023-04-06 | 270 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 270 | 5 | 
 | 2023-03-12 | 270 | 5 | 
 | 2023-03-11 | 270 | 5 | 
-| 2023-03-10 | 270 | 5 | 
 

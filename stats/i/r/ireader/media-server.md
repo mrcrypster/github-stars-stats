@@ -1,8 +1,8 @@
 # ireader/media-server - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 963
+☋ Forks: 964
 
 ★ Stars: 2474
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2474 | 964 | 
 | 2023-04-08 | 2474 | 963 | 
 | 2023-04-07 | 2473 | 963 | 
 | 2023-04-06 | 2471 | 963 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 2437 | 954 | 
 | 2023-03-13 | 2436 | 953 | 
 | 2023-03-12 | 2437 | 952 | 
-| 2023-03-10 | 2436 | 952 | 
 

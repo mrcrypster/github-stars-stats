@@ -1,6 +1,6 @@
 # Kong/kong-pongo - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 113 | 45 | 
 | 2023-04-09 | 113 | 45 | 
 | 2023-04-08 | 112 | 45 | 
 | 2023-04-07 | 111 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 108 | 43 | 
 | 2023-03-13 | 107 | 43 | 
 | 2023-03-12 | 107 | 43 | 
-| 2023-03-10 | 107 | 43 | 
 

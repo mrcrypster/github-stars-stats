@@ -1,10 +1,10 @@
 # FuzzingLabs/thoth - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 17
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/FuzzingLabs/thoth)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 162 | 17 | 
 | 2023-04-08 | 161 | 17 | 
 | 2023-04-07 | 161 | 17 | 
 | 2023-04-06 | 161 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 159 | 17 | 
 | 2023-03-12 | 159 | 17 | 
 | 2023-03-11 | 159 | 17 | 
-| 2023-03-10 | 159 | 17 | 
 

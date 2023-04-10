@@ -1,10 +1,10 @@
 # HeartofPhos/exile-leveling - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/HeartofPhos/exile-leveling)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 91 | 26 | 
 | 2023-04-08 | 89 | 25 | 
 | 2023-04-07 | 78 | 23 | 
 | 2023-04-06 | 74 | 21 | 

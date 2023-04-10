@@ -1,6 +1,6 @@
 # mikangogo/JRTrainPack - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 11 | 6 | 
+| 2023-04-09 | 11 | 6 | 
 | 2023-04-08 | 11 | 6 | 
 | 2023-04-07 | 11 | 6 | 
 | 2023-04-06 | 10 | 6 | 

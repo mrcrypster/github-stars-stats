@@ -1,6 +1,6 @@
 # twofaktor/minibolt - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 30 | 16 | 
 | 2023-04-08 | 30 | 16 | 
 | 2023-04-07 | 30 | 16 | 
 | 2023-04-06 | 30 | 16 | 

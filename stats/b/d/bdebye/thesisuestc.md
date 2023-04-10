@@ -1,10 +1,10 @@
 # bdebye/thesisuestc - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 305
 
-★ Stars: 1038
+★ Stars: 1039
 
 [Open repository](https://github.com/bdebye/thesisuestc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1039 | 305 | 
 | 2023-04-08 | 1038 | 305 | 
 | 2023-04-07 | 1037 | 305 | 
 | 2023-04-06 | 1036 | 305 | 

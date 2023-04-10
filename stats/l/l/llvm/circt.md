@@ -1,10 +1,10 @@
 # llvm/circt - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 199
 
-★ Stars: 1167
+★ Stars: 1169
 
 [Open repository](https://github.com/llvm/circt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1169 | 199 | 
 | 2023-04-08 | 1167 | 199 | 
 | 2023-04-07 | 1166 | 199 | 
 | 2023-04-06 | 1165 | 200 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1146 | 193 | 
 | 2023-03-13 | 1146 | 193 | 
 | 2023-03-11 | 1145 | 193 | 
-| 2023-03-10 | 1142 | 191 | 
 

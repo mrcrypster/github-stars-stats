@@ -1,10 +1,10 @@
 # tcdi/plrust - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 504
+★ Stars: 511
 
 [Open repository](https://github.com/tcdi/plrust)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 511 | 18 | 
 | 2023-04-08 | 504 | 17 | 
 | 2023-04-07 | 493 | 17 | 
 | 2023-04-06 | 443 | 17 | 

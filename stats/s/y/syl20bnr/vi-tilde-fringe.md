@@ -1,6 +1,6 @@
 # syl20bnr/vi-tilde-fringe - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 30 | 6 | 
 | 2023-04-08 | 30 | 6 | 
 | 2023-04-07 | 30 | 6 | 
 | 2023-04-06 | 30 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 29 | 6 | 
 | 2023-03-13 | 29 | 6 | 
 | 2023-03-12 | 29 | 6 | 
-| 2023-03-11 | 29 | 6 | 
 

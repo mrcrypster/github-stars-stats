@@ -1,6 +1,6 @@
 # Zack-Dx/Mini-TODO - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 39 | 63 | 
 | 2023-04-09 | 39 | 63 | 
 | 2023-04-08 | 39 | 63 | 
 | 2023-04-07 | 39 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 39 | 63 | 
 | 2023-03-12 | 39 | 62 | 
 | 2023-03-11 | 39 | 62 | 
-| 2023-03-10 | 39 | 62 | 
 

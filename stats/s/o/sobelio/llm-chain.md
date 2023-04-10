@@ -1,10 +1,10 @@
 # sobelio/llm-chain - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 58
+★ Stars: 65
 
 [Open repository](https://github.com/sobelio/llm-chain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 65 | 3 | 
 | 2023-04-08 | 58 | 3 | 
 | 2023-04-07 | 45 | 1 | 
 

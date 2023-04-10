@@ -1,8 +1,8 @@
 # Loopring/protocols - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 63
+☋ Forks: 65
 
 ★ Stars: 250
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 250 | 65 | 
 | 2023-04-08 | 250 | 63 | 
 | 2023-04-07 | 250 | 63 | 
 | 2023-04-06 | 250 | 62 | 

@@ -1,6 +1,6 @@
 # KarimElghamry/chillify - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 666 | 183 | 
 | 2023-04-08 | 666 | 183 | 
 | 2023-04-07 | 665 | 183 | 
 | 2023-04-06 | 665 | 182 | 

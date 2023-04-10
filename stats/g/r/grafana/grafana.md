@@ -1,10 +1,10 @@
 # grafana/grafana - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 10688
+☋ Forks: 10690
 
-★ Stars: 54784
+★ Stars: 54795
 
 [Open repository](https://github.com/grafana/grafana)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 54795 | 10690 | 
 | 2023-04-08 | 54784 | 10688 | 
 | 2023-04-07 | 54772 | 10687 | 
 | 2023-04-06 | 54761 | 10682 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 54372 | 10591 | 
 | 2023-03-13 | 54349 | 10588 | 
 | 2023-03-12 | 54342 | 10589 | 
-| 2023-03-10 | 54331 | 10589 | 
 

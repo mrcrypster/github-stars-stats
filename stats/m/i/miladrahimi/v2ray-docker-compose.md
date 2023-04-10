@@ -1,6 +1,6 @@
 # miladrahimi/v2ray-docker-compose - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 488 | 116 | 
 | 2023-04-08 | 488 | 116 | 
 | 2023-04-07 | 489 | 116 | 
 | 2023-04-06 | 488 | 116 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 466 | 107 | 
 | 2023-03-13 | 464 | 107 | 
 | 2023-03-12 | 464 | 107 | 
-| 2023-03-10 | 462 | 107 | 
 

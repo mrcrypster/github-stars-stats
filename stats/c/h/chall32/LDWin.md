@@ -1,10 +1,10 @@
 # chall32/LDWin - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 37
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/chall32/LDWin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 276 | 37 | 
 | 2023-04-08 | 275 | 37 | 
 | 2023-04-07 | 275 | 37 | 
 | 2023-04-06 | 275 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 272 | 37 | 
 | 2023-03-12 | 272 | 37 | 
 | 2023-03-11 | 272 | 37 | 
-| 2023-03-10 | 272 | 37 | 
 

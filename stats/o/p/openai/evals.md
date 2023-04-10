@@ -1,10 +1,10 @@
 # openai/evals - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1290
+☋ Forks: 1300
 
-★ Stars: 7734
+★ Stars: 7773
 
 [Open repository](https://github.com/openai/evals)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7773 | 1300 | 
 | 2023-04-08 | 7734 | 1290 | 
 | 2023-04-07 | 7681 | 1272 | 
 | 2023-04-06 | 7637 | 1260 | 

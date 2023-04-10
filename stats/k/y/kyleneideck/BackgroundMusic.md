@@ -1,10 +1,10 @@
 # kyleneideck/BackgroundMusic - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 619
+☋ Forks: 620
 
-★ Stars: 13383
+★ Stars: 13387
 
 [Open repository](https://github.com/kyleneideck/BackgroundMusic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 13387 | 620 | 
 | 2023-04-08 | 13383 | 619 | 
 | 2023-04-07 | 13376 | 619 | 
 | 2023-04-06 | 13370 | 618 | 

@@ -1,6 +1,6 @@
 # tw93/weekly - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 311 | 33 | 
 | 2023-04-08 | 311 | 33 | 
 | 2023-04-07 | 311 | 33 | 
 | 2023-04-06 | 310 | 32 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 298 | 32 | 
 | 2023-03-12 | 297 | 32 | 
 | 2023-03-11 | 296 | 32 | 
-| 2023-03-10 | 296 | 32 | 
 

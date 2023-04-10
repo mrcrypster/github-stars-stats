@@ -1,10 +1,10 @@
 # overextended/ox_lib - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 165
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/overextended/ox_lib)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 111 | 165 | 
 | 2023-04-08 | 110 | 165 | 
 | 2023-04-07 | 109 | 165 | 
 | 2023-04-06 | 109 | 164 | 

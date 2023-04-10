@@ -1,10 +1,10 @@
 # CalvinWalzel/ruby-companies - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 35
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/CalvinWalzel/ruby-companies)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 47 | 35 | 
 | 2023-04-08 | 46 | 35 | 
 | 2023-04-07 | 46 | 35 | 
 | 2023-04-06 | 46 | 35 | 

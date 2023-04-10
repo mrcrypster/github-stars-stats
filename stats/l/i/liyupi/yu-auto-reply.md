@@ -1,10 +1,10 @@
 # liyupi/yu-auto-reply - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 263
+☋ Forks: 268
 
-★ Stars: 542
+★ Stars: 552
 
 [Open repository](https://github.com/liyupi/yu-auto-reply)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 552 | 268 | 
 | 2023-04-08 | 542 | 263 | 
 | 2023-04-07 | 533 | 258 | 
 | 2023-04-06 | 519 | 249 | 

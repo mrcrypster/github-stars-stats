@@ -1,10 +1,10 @@
 # renovatebot/helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 60
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/renovatebot/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 71 | 60 | 
 | 2023-04-08 | 70 | 60 | 
 | 2023-04-07 | 70 | 59 | 
 | 2023-04-06 | 70 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 69 | 56 | 
 | 2023-03-12 | 69 | 56 | 
 | 2023-03-11 | 69 | 56 | 
-| 2023-03-10 | 69 | 56 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 454
+★ Stars: 462
 
 [Open repository](https://github.com/EleutherAI/pythia)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 454 | 32 | 
+| 2023-04-09 | 462 | 33 | 
 | 2023-04-08 | 454 | 32 | 
 | 2023-04-07 | 447 | 32 | 
 | 2023-04-06 | 418 | 30 | 

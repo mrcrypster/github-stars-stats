@@ -1,10 +1,10 @@
 # axllent/mailpit - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 844
+★ Stars: 846
 
 [Open repository](https://github.com/axllent/mailpit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 846 | 19 | 
 | 2023-04-08 | 844 | 18 | 
 | 2023-04-07 | 837 | 18 | 
 | 2023-04-06 | 833 | 18 | 

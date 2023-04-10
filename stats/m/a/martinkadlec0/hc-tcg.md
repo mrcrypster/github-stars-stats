@@ -1,10 +1,10 @@
 # martinkadlec0/hc-tcg - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 58
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/martinkadlec0/hc-tcg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 134 | 58 | 
 | 2023-04-08 | 133 | 58 | 
 | 2023-04-07 | 133 | 58 | 
 | 2023-04-06 | 133 | 57 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 124 | 51 | 
 | 2023-03-13 | 124 | 50 | 
 | 2023-03-12 | 123 | 50 | 
-| 2023-03-11 | 122 | 49 | 
 

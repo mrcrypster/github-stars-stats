@@ -1,6 +1,6 @@
 # BankSecurity/Red_Team - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 364
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1455 | 364 | 
 | 2023-04-08 | 1455 | 364 | 
 | 2023-04-07 | 1454 | 363 | 
 | 2023-04-06 | 1455 | 363 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1448 | 365 | 
 | 2023-03-13 | 1448 | 365 | 
 | 2023-03-12 | 1448 | 365 | 
-| 2023-03-10 | 1448 | 365 | 
 

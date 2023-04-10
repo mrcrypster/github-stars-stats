@@ -1,10 +1,10 @@
 # mchev/banhammer - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 205
+★ Stars: 207
 
 [Open repository](https://github.com/mchev/banhammer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 207 | 11 | 
 | 2023-04-08 | 205 | 11 | 
 | 2023-04-07 | 205 | 11 | 
 | 2023-04-06 | 201 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 188 | 11 | 
 | 2023-03-12 | 187 | 11 | 
 | 2023-03-11 | 186 | 11 | 
-| 2023-03-10 | 183 | 11 | 
 

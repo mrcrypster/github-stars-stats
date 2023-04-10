@@ -1,10 +1,10 @@
 # barryvdh/laravel-dompdf - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 900
 
-★ Stars: 5814
+★ Stars: 5815
 
 [Open repository](https://github.com/barryvdh/laravel-dompdf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5815 | 900 | 
 | 2023-04-08 | 5814 | 900 | 
 | 2023-04-07 | 5814 | 900 | 
 | 2023-04-06 | 5813 | 900 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 5763 | 885 | 
 | 2023-03-12 | 5757 | 884 | 
 | 2023-03-11 | 5757 | 884 | 
-| 2023-03-10 | 5755 | 884 | 
 

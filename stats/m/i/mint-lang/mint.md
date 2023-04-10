@@ -1,10 +1,10 @@
 # mint-lang/mint - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 110
 
-★ Stars: 3845
+★ Stars: 3846
 
 [Open repository](https://github.com/mint-lang/mint)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3846 | 110 | 
 | 2023-04-08 | 3845 | 110 | 
 | 2023-04-07 | 3845 | 110 | 
 | 2023-04-06 | 3846 | 110 | 

@@ -1,10 +1,10 @@
 # Igang-Fan-Jing/HDIP-YOLO - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 28
 
-★ Stars: 79
+★ Stars: 78
 
 [Open repository](https://github.com/Igang-Fan-Jing/HDIP-YOLO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 78 | 28 | 
 | 2023-04-08 | 79 | 28 | 
 | 2023-04-07 | 79 | 28 | 
 | 2023-04-06 | 79 | 28 | 

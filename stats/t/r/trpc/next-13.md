@@ -1,10 +1,10 @@
 # trpc/next-13 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 23
 
-★ Stars: 211
+★ Stars: 213
 
 [Open repository](https://github.com/trpc/next-13)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 213 | 23 | 
 | 2023-04-08 | 211 | 23 | 
 | 2023-04-07 | 209 | 22 | 
 | 2023-04-06 | 208 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 193 | 21 | 
 | 2023-03-12 | 192 | 21 | 
 | 2023-03-11 | 192 | 21 | 
-| 2023-03-10 | 191 | 19 | 
 

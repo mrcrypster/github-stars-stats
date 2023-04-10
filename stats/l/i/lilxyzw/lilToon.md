@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 52
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/lilxyzw/lilToon)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 557 | 52 | 
+| 2023-04-09 | 558 | 52 | 
 | 2023-04-08 | 557 | 52 | 
 | 2023-04-07 | 552 | 51 | 
 | 2023-04-06 | 551 | 51 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 536 | 50 | 
 | 2023-03-12 | 534 | 50 | 
 | 2023-03-11 | 533 | 50 | 
-| 2023-03-10 | 533 | 50 | 
 

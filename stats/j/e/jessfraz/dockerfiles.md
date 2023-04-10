@@ -1,10 +1,10 @@
 # jessfraz/dockerfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2471
+☋ Forks: 2473
 
-★ Stars: 13088
+★ Stars: 13090
 
 [Open repository](https://github.com/jessfraz/dockerfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 13090 | 2473 | 
 | 2023-04-08 | 13088 | 2471 | 
 | 2023-04-07 | 13087 | 2471 | 
 | 2023-04-06 | 13087 | 2470 | 

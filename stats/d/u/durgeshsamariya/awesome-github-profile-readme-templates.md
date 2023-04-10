@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 6193
+☋ Forks: 6196
 
-★ Stars: 2783
+★ Stars: 2787
 
 [Open repository](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 2783 | 6193 | 
+| 2023-04-09 | 2787 | 6196 | 
 | 2023-04-08 | 2776 | 6185 | 
 | 2023-04-07 | 2773 | 6176 | 
 | 2023-04-05 | 2769 | 6172 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 2683 | 6010 | 
 | 2023-03-12 | 2679 | 5999 | 
 | 2023-03-11 | 2670 | 5998 | 
-| 2023-03-10 | 2665 | 5988 | 
 

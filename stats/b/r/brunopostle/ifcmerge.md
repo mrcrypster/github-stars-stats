@@ -1,6 +1,6 @@
 # brunopostle/ifcmerge - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 61 | 5 | 
 | 2023-04-09 | 61 | 5 | 
 | 2023-04-08 | 61 | 5 | 
 | 2023-04-07 | 61 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 57 | 5 | 
 | 2023-03-12 | 57 | 5 | 
 | 2023-03-11 | 57 | 5 | 
-| 2023-03-10 | 57 | 5 | 
 

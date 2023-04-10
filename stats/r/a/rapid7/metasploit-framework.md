@@ -1,10 +1,10 @@
 # rapid7/metasploit-framework - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 13053
+☋ Forks: 13059
 
-★ Stars: 29922
+★ Stars: 29930
 
 [Open repository](https://github.com/rapid7/metasploit-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 29930 | 13059 | 
 | 2023-04-08 | 29922 | 13053 | 
 | 2023-04-07 | 29909 | 13051 | 
 | 2023-04-06 | 29905 | 13051 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 29703 | 12978 | 
 | 2023-03-12 | 29689 | 12976 | 
 | 2023-03-11 | 29672 | 12970 | 
-| 2023-03-10 | 29666 | 12969 | 
 

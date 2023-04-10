@@ -1,8 +1,8 @@
 # silent-lad/Vue2BaremetricsCalendar - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 138
+☋ Forks: 139
 
 ★ Stars: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 55 | 139 | 
 | 2023-04-08 | 55 | 138 | 
 | 2023-04-07 | 55 | 138 | 
 | 2023-04-06 | 55 | 138 | 

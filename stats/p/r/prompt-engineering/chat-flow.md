@@ -1,10 +1,10 @@
 # prompt-engineering/chat-flow - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 479
+★ Stars: 482
 
 [Open repository](https://github.com/prompt-engineering/chat-flow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 482 | 47 | 
 | 2023-04-08 | 479 | 46 | 
 | 2023-04-07 | 471 | 45 | 
 | 2023-04-06 | 463 | 45 | 

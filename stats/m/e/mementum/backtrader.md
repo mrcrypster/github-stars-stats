@@ -1,10 +1,10 @@
 # mementum/backtrader - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 3224
+☋ Forks: 3227
 
-★ Stars: 10373
+★ Stars: 10384
 
 [Open repository](https://github.com/mementum/backtrader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 10384 | 3227 | 
 | 2023-04-08 | 10373 | 3224 | 
 | 2023-04-07 | 10363 | 3221 | 
 | 2023-04-06 | 10360 | 3221 | 

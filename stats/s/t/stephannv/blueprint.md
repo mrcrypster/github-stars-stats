@@ -1,10 +1,10 @@
 # stephannv/blueprint - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/stephannv/blueprint)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 25 | 1 | 
 | 2023-04-08 | 24 | 1 | 
 | 2023-04-07 | 23 | 1 | 
 | 2023-04-06 | 23 | 1 | 

@@ -1,6 +1,6 @@
 # sergiolepore/ChristBASHTree - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 324 | 102 | 
 | 2023-04-08 | 324 | 102 | 
 | 2023-04-07 | 324 | 102 | 
 | 2023-04-06 | 323 | 102 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 322 | 102 | 
 | 2023-03-13 | 322 | 102 | 
 | 2023-03-12 | 322 | 102 | 
-| 2023-03-10 | 322 | 102 | 
 

@@ -1,10 +1,10 @@
 # coderdost/full-stack-dev-2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 116
+★ Stars: 118
 
 [Open repository](https://github.com/coderdost/full-stack-dev-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 118 | 75 | 
 | 2023-04-08 | 116 | 74 | 
 | 2023-04-07 | 115 | 72 | 
 | 2023-04-06 | 112 | 69 | 

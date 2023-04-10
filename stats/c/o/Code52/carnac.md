@@ -1,10 +1,10 @@
 # Code52/carnac - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 465
+☋ Forks: 466
 
-★ Stars: 3308
+★ Stars: 3310
 
 [Open repository](https://github.com/Code52/carnac)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3310 | 466 | 
 | 2023-04-08 | 3308 | 465 | 
 | 2023-04-07 | 3306 | 465 | 
 | 2023-04-06 | 3302 | 465 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3244 | 460 | 
 | 2023-03-13 | 3244 | 459 | 
 | 2023-03-11 | 3243 | 457 | 
-| 2023-03-10 | 3241 | 457 | 
 

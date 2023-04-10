@@ -1,10 +1,10 @@
 # x-dr/chatgptProxyAPI - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 222
+☋ Forks: 225
 
-★ Stars: 947
+★ Stars: 965
 
 [Open repository](https://github.com/x-dr/chatgptProxyAPI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 965 | 225 | 
 | 2023-04-08 | 947 | 222 | 
 | 2023-04-07 | 930 | 213 | 
 | 2023-04-06 | 899 | 205 | 

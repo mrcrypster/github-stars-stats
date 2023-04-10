@@ -1,8 +1,8 @@
 # signalapp/libsignal-client - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 236
+☋ Forks: 237
 
 ★ Stars: 1869
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1869 | 237 | 
 | 2023-04-08 | 1869 | 236 | 
 | 2023-04-07 | 1869 | 236 | 
 | 2023-04-06 | 1868 | 235 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1836 | 233 | 
 | 2023-03-13 | 1828 | 233 | 
 | 2023-03-12 | 1809 | 232 | 
-| 2023-03-11 | 1803 | 230 | 
 

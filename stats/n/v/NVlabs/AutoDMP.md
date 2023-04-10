@@ -1,8 +1,8 @@
 # NVlabs/AutoDMP - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 43 | 5 | 
 | 2023-04-08 | 43 | 4 | 
 | 2023-04-07 | 43 | 4 | 
 | 2023-04-06 | 43 | 4 | 

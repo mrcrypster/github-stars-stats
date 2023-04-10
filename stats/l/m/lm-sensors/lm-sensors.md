@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 223
 
-★ Stars: 738
+★ Stars: 739
 
 [Open repository](https://github.com/lm-sensors/lm-sensors)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 738 | 223 | 
+| 2023-04-09 | 739 | 223 | 
 | 2023-04-08 | 738 | 223 | 
 | 2023-04-07 | 737 | 223 | 
 | 2023-04-06 | 737 | 223 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 729 | 222 | 
 | 2023-03-12 | 729 | 222 | 
 | 2023-03-11 | 727 | 222 | 
-| 2023-03-10 | 726 | 222 | 
 

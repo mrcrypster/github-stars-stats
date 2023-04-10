@@ -1,10 +1,10 @@
 # MasterBin-IIAU/UNINEXT - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 41
+☋ Forks: 43
 
-★ Stars: 455
+★ Stars: 474
 
 [Open repository](https://github.com/MasterBin-IIAU/UNINEXT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 474 | 43 | 
 | 2023-04-08 | 455 | 41 | 
 | 2023-04-07 | 436 | 39 | 
 | 2023-04-06 | 408 | 37 | 

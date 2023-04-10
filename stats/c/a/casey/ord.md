@@ -1,8 +1,8 @@
 # casey/ord - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 369
+☋ Forks: 370
 
 ★ Stars: 1302
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1302 | 370 | 
 | 2023-04-08 | 1302 | 369 | 
 | 2023-04-07 | 1300 | 367 | 
 | 2023-04-06 | 1299 | 363 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1205 | 312 | 
 | 2023-03-12 | 1197 | 307 | 
 | 2023-03-11 | 1192 | 304 | 
-| 2023-03-10 | 1187 | 303 | 
 

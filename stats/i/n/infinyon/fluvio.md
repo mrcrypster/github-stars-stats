@@ -1,10 +1,10 @@
 # infinyon/fluvio - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 135
 
-★ Stars: 1730
+★ Stars: 1732
 
 [Open repository](https://github.com/infinyon/fluvio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1732 | 135 | 
 | 2023-04-08 | 1730 | 135 | 
 | 2023-04-07 | 1729 | 134 | 
 | 2023-04-06 | 1726 | 134 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1694 | 128 | 
 | 2023-03-12 | 1693 | 128 | 
 | 2023-03-11 | 1693 | 128 | 
-| 2023-03-10 | 1691 | 127 | 
 

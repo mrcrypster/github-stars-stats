@@ -1,10 +1,10 @@
 # Adam-Miao/Blox-Fruits-Fruit-Master-Free-Download-2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 153
+★ Stars: 185
 
 [Open repository](https://github.com/Adam-Miao/Blox-Fruits-Fruit-Master-Free-Download-2023)
 
@@ -13,5 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 185 | 2 | 
+| 2023-04-09 | 185 | 2 | 
 | 2023-04-08 | 153 | 1 | 
 

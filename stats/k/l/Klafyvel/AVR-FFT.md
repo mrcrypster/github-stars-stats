@@ -1,6 +1,6 @@
 # Klafyvel/AVR-FFT - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 121 | 6 | 
 | 2023-04-08 | 121 | 6 | 
 | 2023-04-07 | 121 | 6 | 
 | 2023-04-06 | 121 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 121 | 5 | 
 | 2023-03-12 | 121 | 5 | 
 | 2023-03-11 | 121 | 5 | 
-| 2023-03-10 | 121 | 5 | 
 

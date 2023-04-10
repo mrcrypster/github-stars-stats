@@ -1,10 +1,10 @@
 # codingstella/vCard-personal-portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 28
+★ Stars: 32
 
 [Open repository](https://github.com/codingstella/vCard-personal-portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 32 | 13 | 
 | 2023-04-08 | 28 | 12 | 
 | 2023-04-07 | 28 | 12 | 
 | 2023-04-06 | 28 | 12 | 

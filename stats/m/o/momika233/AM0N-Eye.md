@@ -1,10 +1,10 @@
 # momika233/AM0N-Eye - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 80
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/momika233/AM0N-Eye)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 179 | 80 | 
 | 2023-04-08 | 178 | 80 | 
 | 2023-04-07 | 177 | 80 | 
 | 2023-04-06 | 175 | 80 | 

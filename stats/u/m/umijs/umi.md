@@ -1,10 +1,10 @@
 # umijs/umi - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2511
+☋ Forks: 2513
 
-★ Stars: 13872
+★ Stars: 13875
 
 [Open repository](https://github.com/umijs/umi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 13875 | 2513 | 
 | 2023-04-08 | 13872 | 2511 | 
 | 2023-04-07 | 13872 | 2511 | 
 | 2023-04-06 | 13870 | 2509 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 13764 | 2488 | 
 | 2023-03-12 | 13758 | 2488 | 
 | 2023-03-11 | 13756 | 2487 | 
-| 2023-03-10 | 13753 | 2488 | 
 

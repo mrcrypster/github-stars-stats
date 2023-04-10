@@ -1,10 +1,10 @@
 # mstfknn/rat-collection - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/mstfknn/rat-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 33 | 23 | 
 | 2023-04-08 | 32 | 22 | 
 | 2023-04-07 | 32 | 22 | 
 | 2023-04-06 | 32 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 30 | 21 | 
 | 2023-03-13 | 30 | 21 | 
 | 2023-03-12 | 30 | 20 | 
-| 2023-03-10 | 30 | 20 | 
 

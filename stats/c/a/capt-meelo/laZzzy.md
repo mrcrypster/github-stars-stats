@@ -1,10 +1,10 @@
 # capt-meelo/laZzzy - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 58
 
-★ Stars: 395
+★ Stars: 394
 
 [Open repository](https://github.com/capt-meelo/laZzzy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 394 | 58 | 
 | 2023-04-08 | 395 | 58 | 
 | 2023-04-07 | 394 | 58 | 
 | 2023-04-06 | 394 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 389 | 58 | 
 | 2023-03-12 | 389 | 58 | 
 | 2023-03-11 | 388 | 58 | 
-| 2023-03-10 | 387 | 58 | 
 

@@ -1,6 +1,6 @@
 # fr0gger/awesome-ida-x64-olly-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 962 | 125 | 
 | 2023-04-08 | 962 | 125 | 
 | 2023-04-07 | 962 | 125 | 
 | 2023-04-06 | 961 | 125 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 942 | 125 | 
 | 2023-03-12 | 940 | 125 | 
 | 2023-03-11 | 939 | 125 | 
-| 2023-03-10 | 938 | 125 | 
 

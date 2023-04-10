@@ -1,10 +1,10 @@
 # super6wenzi/chatGPT-wx - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 57
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/super6wenzi/chatGPT-wx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 106 | 57 | 
 | 2023-04-08 | 105 | 57 | 
 | 2023-04-07 | 105 | 57 | 
 | 2023-04-06 | 105 | 57 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 53 | 35 | 
 | 2023-03-12 | 52 | 35 | 
 | 2023-03-11 | 50 | 35 | 
-| 2023-03-10 | 48 | 35 | 
 

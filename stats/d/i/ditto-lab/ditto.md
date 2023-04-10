@@ -1,8 +1,8 @@
 # ditto-lab/ditto - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 61 | 4 | 
 | 2023-04-09 | 61 | 3 | 
 | 2023-04-08 | 61 | 3 | 
 | 2023-04-06 | 61 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 61 | 3 | 
 | 2023-03-12 | 61 | 3 | 
 | 2023-03-11 | 61 | 3 | 
-| 2023-03-10 | 61 | 3 | 
 

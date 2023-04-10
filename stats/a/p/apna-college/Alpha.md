@@ -1,10 +1,10 @@
 # apna-college/Alpha - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 62
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/apna-college/Alpha)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 157 | 62 | 
 | 2023-04-08 | 156 | 62 | 
 | 2023-04-07 | 156 | 62 | 
 | 2023-04-06 | 156 | 62 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 148 | 57 | 
 | 2023-03-13 | 148 | 57 | 
 | 2023-03-12 | 148 | 57 | 
-| 2023-03-10 | 147 | 57 | 
 

@@ -1,8 +1,8 @@
 # apify/apify-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 44 | 
 | 2023-04-08 | 16 | 43 | 
 | 2023-04-07 | 16 | 43 | 
 | 2023-04-06 | 15 | 43 | 

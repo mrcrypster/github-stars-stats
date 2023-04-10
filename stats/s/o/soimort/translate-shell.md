@@ -1,10 +1,10 @@
 # soimort/translate-shell - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 382
 
-★ Stars: 6148
+★ Stars: 6152
 
 [Open repository](https://github.com/soimort/translate-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 6152 | 382 | 
 | 2023-04-08 | 6148 | 382 | 
 | 2023-04-07 | 6148 | 382 | 
 | 2023-04-06 | 6147 | 382 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 6084 | 376 | 
 | 2023-03-12 | 6082 | 376 | 
 | 2023-03-11 | 6081 | 376 | 
-| 2023-03-10 | 6079 | 376 | 
 

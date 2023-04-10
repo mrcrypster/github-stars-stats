@@ -1,10 +1,10 @@
 # flows-network/chatgpt-github-app - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 66
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/flows-network/chatgpt-github-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 56 | 66 | 
 | 2023-04-08 | 55 | 66 | 
 | 2023-04-07 | 54 | 64 | 
 | 2023-04-06 | 54 | 64 | 

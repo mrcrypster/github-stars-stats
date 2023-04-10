@@ -1,6 +1,6 @@
 # google/clspv - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 524 | 89 | 
 | 2023-04-08 | 524 | 89 | 
 | 2023-04-07 | 523 | 89 | 
 | 2023-04-06 | 523 | 88 | 

@@ -1,8 +1,8 @@
 # FuyukoUxU/windows-rdp-vps - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 129
+☋ Forks: 130
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4 | 130 | 
 | 2023-04-08 | 4 | 129 | 
 | 2023-04-07 | 4 | 129 | 
 | 2023-04-06 | 4 | 128 | 

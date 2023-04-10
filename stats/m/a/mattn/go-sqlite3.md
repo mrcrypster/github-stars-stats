@@ -1,10 +1,10 @@
 # mattn/go-sqlite3 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1023
+☋ Forks: 1024
 
-★ Stars: 6516
+★ Stars: 6521
 
 [Open repository](https://github.com/mattn/go-sqlite3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6521 | 1024 | 
 | 2023-04-09 | 6516 | 1023 | 
 | 2023-04-08 | 6511 | 1023 | 
 | 2023-04-07 | 6507 | 1021 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 6469 | 1020 | 
 | 2023-03-13 | 6462 | 1019 | 
 | 2023-03-12 | 6461 | 1019 | 
-| 2023-03-10 | 6456 | 1019 | 
 

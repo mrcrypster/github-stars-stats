@@ -1,10 +1,10 @@
 # coderabbit214/bibliothecarius - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 222
+★ Stars: 232
 
 [Open repository](https://github.com/coderabbit214/bibliothecarius)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 232 | 33 | 
 | 2023-04-08 | 222 | 32 | 
 | 2023-04-07 | 209 | 30 | 
 | 2023-04-06 | 204 | 28 | 

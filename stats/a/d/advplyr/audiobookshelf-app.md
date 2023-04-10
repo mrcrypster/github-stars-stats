@@ -1,10 +1,10 @@
 # advplyr/audiobookshelf-app - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 51
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/advplyr/audiobookshelf-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 439 | 51 | 
 | 2023-04-08 | 438 | 51 | 
 | 2023-04-07 | 438 | 50 | 
 | 2023-04-06 | 435 | 50 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 408 | 48 | 
 | 2023-03-13 | 403 | 48 | 
 | 2023-03-12 | 399 | 48 | 
-| 2023-03-10 | 398 | 48 | 
 

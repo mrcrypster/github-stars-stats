@@ -1,8 +1,8 @@
 # tobiabocchi/flipperzero-bruteforce - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 801
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 801 | 70 | 
 | 2023-04-08 | 801 | 69 | 
 | 2023-04-07 | 797 | 69 | 
 | 2023-04-06 | 797 | 69 | 

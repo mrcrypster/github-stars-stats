@@ -1,6 +1,6 @@
 # methods-4-f23/methods-4-resources - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 7 | 32 | 
 | 2023-04-08 | 7 | 32 | 
 | 2023-04-07 | 7 | 32 | 
 | 2023-04-06 | 7 | 32 | 

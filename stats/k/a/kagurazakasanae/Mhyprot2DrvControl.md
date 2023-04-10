@@ -1,10 +1,10 @@
 # kagurazakasanae/Mhyprot2DrvControl - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 74
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/kagurazakasanae/Mhyprot2DrvControl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 296 | 74 | 
 | 2023-04-08 | 295 | 74 | 
 | 2023-04-07 | 294 | 74 | 
 | 2023-04-06 | 294 | 73 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 283 | 70 | 
 | 2023-03-12 | 283 | 70 | 
 | 2023-03-11 | 283 | 70 | 
-| 2023-03-10 | 283 | 70 | 
 

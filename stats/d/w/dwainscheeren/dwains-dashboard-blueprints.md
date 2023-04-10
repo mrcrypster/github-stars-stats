@@ -1,8 +1,8 @@
 # dwainscheeren/dwains-dashboard-blueprints - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 143
+☋ Forks: 144
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 91 | 144 | 
 | 2023-04-08 | 91 | 143 | 
 | 2023-04-07 | 91 | 142 | 
 | 2023-04-06 | 91 | 142 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 83 | 135 | 
 | 2023-03-13 | 83 | 134 | 
 | 2023-03-12 | 83 | 134 | 
-| 2023-03-10 | 83 | 133 | 
 

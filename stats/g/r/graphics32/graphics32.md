@@ -1,6 +1,6 @@
 # graphics32/graphics32 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 316 | 111 | 
 | 2023-04-08 | 316 | 111 | 
 | 2023-04-07 | 316 | 111 | 
 | 2023-04-06 | 316 | 111 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 310 | 108 | 
 | 2023-03-13 | 309 | 109 | 
 | 2023-03-12 | 308 | 108 | 
-| 2023-03-11 | 308 | 108 | 
 

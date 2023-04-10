@@ -1,6 +1,6 @@
 # frenck/awesome-home-assistant - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 313
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4562 | 313 | 
 | 2023-04-08 | 4562 | 313 | 
 | 2023-04-07 | 4561 | 313 | 
 | 2023-04-06 | 4558 | 313 | 

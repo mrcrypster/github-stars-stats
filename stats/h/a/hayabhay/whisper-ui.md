@@ -1,10 +1,10 @@
 # hayabhay/whisper-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 60
 
-★ Stars: 476
+★ Stars: 478
 
 [Open repository](https://github.com/hayabhay/whisper-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 478 | 60 | 
 | 2023-04-08 | 476 | 60 | 
 | 2023-04-07 | 474 | 59 | 
 | 2023-04-06 | 472 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 409 | 49 | 
 | 2023-03-12 | 407 | 48 | 
 | 2023-03-11 | 404 | 47 | 
-| 2023-03-10 | 399 | 47 | 
 

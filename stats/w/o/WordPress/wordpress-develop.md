@@ -1,10 +1,10 @@
 # WordPress/wordpress-develop - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1783
+☋ Forks: 1784
 
-★ Stars: 1851
+★ Stars: 1852
 
 [Open repository](https://github.com/WordPress/wordpress-develop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1852 | 1784 | 
 | 2023-04-08 | 1851 | 1783 | 
 | 2023-04-07 | 1850 | 1781 | 
 | 2023-04-06 | 1849 | 1781 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1816 | 1735 | 
 | 2023-03-12 | 1815 | 1734 | 
 | 2023-03-11 | 1815 | 1734 | 
-| 2023-03-10 | 1816 | 1731 | 
 

@@ -1,6 +1,6 @@
 # dudecoderr/Electronics_E-Commerce_App_in_flutter - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 24 | 9 | 
 | 2023-04-08 | 24 | 9 | 
 | 2023-04-07 | 23 | 8 | 
 | 2023-04-06 | 23 | 8 | 

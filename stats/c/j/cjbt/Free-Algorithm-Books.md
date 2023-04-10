@@ -1,10 +1,10 @@
 # cjbt/Free-Algorithm-Books - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 798
+★ Stars: 800
 
 [Open repository](https://github.com/cjbt/Free-Algorithm-Books)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 800 | 68 | 
 | 2023-04-08 | 798 | 67 | 
 | 2023-04-07 | 797 | 67 | 
 | 2023-04-06 | 794 | 66 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 753 | 64 | 
 | 2023-03-13 | 751 | 64 | 
 | 2023-03-12 | 748 | 64 | 
-| 2023-03-10 | 745 | 64 | 
 

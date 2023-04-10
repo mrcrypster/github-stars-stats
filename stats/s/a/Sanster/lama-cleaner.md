@@ -1,10 +1,10 @@
 # Sanster/lama-cleaner - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 838
+☋ Forks: 839
 
-★ Stars: 9105
+★ Stars: 9118
 
 [Open repository](https://github.com/Sanster/lama-cleaner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 9118 | 839 | 
 | 2023-04-08 | 9105 | 838 | 
 | 2023-04-07 | 9095 | 839 | 
 | 2023-04-06 | 9076 | 836 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 8506 | 762 | 
 | 2023-03-13 | 8486 | 763 | 
 | 2023-03-11 | 8473 | 762 | 
-| 2023-03-10 | 8460 | 762 | 
 

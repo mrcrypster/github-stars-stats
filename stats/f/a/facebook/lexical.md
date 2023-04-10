@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 958
+☋ Forks: 959
 
-★ Stars: 13931
+★ Stars: 13935
 
 [Open repository](https://github.com/facebook/lexical)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 13931 | 958 | 
+| 2023-04-09 | 13935 | 959 | 
 | 2023-04-08 | 13931 | 958 | 
 | 2023-04-07 | 13914 | 959 | 
 | 2023-04-06 | 13902 | 956 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 13623 | 890 | 
 | 2023-03-12 | 13601 | 886 | 
 | 2023-03-11 | 13587 | 885 | 
-| 2023-03-10 | 13586 | 885 | 
 

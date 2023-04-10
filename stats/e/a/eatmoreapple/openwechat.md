@@ -1,10 +1,10 @@
 # eatmoreapple/openwechat - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 557
+☋ Forks: 559
 
-★ Stars: 2747
+★ Stars: 2756
 
 [Open repository](https://github.com/eatmoreapple/openwechat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2756 | 559 | 
 | 2023-04-08 | 2747 | 557 | 
 | 2023-04-07 | 2745 | 554 | 
 | 2023-04-06 | 2732 | 552 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 2408 | 471 | 
 | 2023-03-13 | 2389 | 470 | 
 | 2023-03-11 | 2385 | 470 | 
-| 2023-03-10 | 2377 | 469 | 
 

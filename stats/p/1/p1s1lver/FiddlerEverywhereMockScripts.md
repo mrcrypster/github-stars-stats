@@ -1,10 +1,10 @@
 # p1s1lver/FiddlerEverywhereMockScripts - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 12
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/p1s1lver/FiddlerEverywhereMockScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 42 | 12 | 
 | 2023-04-08 | 40 | 12 | 
 | 2023-04-07 | 38 | 12 | 
 | 2023-04-06 | 36 | 12 | 

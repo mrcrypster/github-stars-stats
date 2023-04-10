@@ -1,6 +1,6 @@
 # hazelgrove/hazel - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 577 | 40 | 
 | 2023-04-08 | 577 | 40 | 
 | 2023-04-07 | 575 | 40 | 
 | 2023-04-06 | 575 | 40 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 562 | 40 | 
 | 2023-03-12 | 562 | 40 | 
 | 2023-03-11 | 562 | 40 | 
-| 2023-03-10 | 562 | 40 | 
 

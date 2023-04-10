@@ -1,6 +1,6 @@
 # iGhibli/iOS-DeviceSupport - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1140
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 7673 | 1140 | 
 | 2023-04-08 | 7673 | 1140 | 
 | 2023-04-07 | 7670 | 1138 | 
 | 2023-04-06 | 7665 | 1137 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 7603 | 1135 | 
 | 2023-03-13 | 7600 | 1133 | 
 | 2023-03-12 | 7598 | 1133 | 
-| 2023-03-11 | 7598 | 1133 | 
 

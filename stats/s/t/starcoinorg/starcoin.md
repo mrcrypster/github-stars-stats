@@ -1,6 +1,6 @@
 # starcoinorg/starcoin - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1321 | 250 | 
 | 2023-04-08 | 1321 | 250 | 
 | 2023-04-07 | 1321 | 250 | 
 | 2023-04-06 | 1321 | 249 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1317 | 249 | 
 | 2023-03-12 | 1316 | 249 | 
 | 2023-03-11 | 1316 | 249 | 
-| 2023-03-10 | 1316 | 249 | 
 

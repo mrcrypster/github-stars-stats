@@ -1,10 +1,10 @@
 # bobangajicsm/iphone-3d-website-starter - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/bobangajicsm/iphone-3d-website-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 14 | 24 | 
 | 2023-04-08 | 13 | 22 | 
 | 2023-04-07 | 13 | 20 | 
 | 2023-04-06 | 13 | 20 | 

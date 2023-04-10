@@ -1,10 +1,10 @@
 # luggit/react-native-config - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 631
 
-★ Stars: 4458
+★ Stars: 4459
 
 [Open repository](https://github.com/luggit/react-native-config)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4459 | 631 | 
 | 2023-04-08 | 4458 | 631 | 
 | 2023-04-07 | 4458 | 631 | 
 | 2023-04-06 | 4456 | 631 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 4429 | 629 | 
 | 2023-03-13 | 4426 | 630 | 
 | 2023-03-11 | 4426 | 629 | 
-| 2023-03-10 | 4426 | 629 | 
 

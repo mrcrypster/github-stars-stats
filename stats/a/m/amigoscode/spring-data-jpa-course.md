@@ -1,8 +1,8 @@
 # amigoscode/spring-data-jpa-course - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 584
+☋ Forks: 585
 
 ★ Stars: 670
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 670 | 585 | 
 | 2023-04-09 | 670 | 584 | 
 | 2023-04-08 | 671 | 583 | 
 | 2023-04-07 | 670 | 582 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 662 | 568 | 
 | 2023-03-13 | 661 | 569 | 
 | 2023-03-11 | 661 | 569 | 
-| 2023-03-10 | 660 | 567 | 
 

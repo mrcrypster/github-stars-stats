@@ -1,10 +1,10 @@
 # waylybaye/opencat.app - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/waylybaye/opencat.app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 161 | 21 | 
 | 2023-04-08 | 160 | 21 | 
 | 2023-04-07 | 159 | 21 | 
 | 2023-04-06 | 157 | 20 | 

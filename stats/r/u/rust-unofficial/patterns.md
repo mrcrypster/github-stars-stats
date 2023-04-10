@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 303
 
-★ Stars: 6824
+★ Stars: 6827
 
 [Open repository](https://github.com/rust-unofficial/patterns)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 6824 | 303 | 
+| 2023-04-09 | 6827 | 303 | 
 | 2023-04-08 | 6824 | 303 | 
 

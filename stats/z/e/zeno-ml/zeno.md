@@ -1,10 +1,10 @@
 # zeno-ml/zeno - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 6
 
-★ Stars: 104
+★ Stars: 106
 
 [Open repository](https://github.com/zeno-ml/zeno)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 106 | 6 | 
 | 2023-04-08 | 104 | 6 | 
 | 2023-04-07 | 97 | 5 | 
 | 2023-04-06 | 97 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 78 | 4 | 
 | 2023-03-13 | 75 | 4 | 
 | 2023-03-11 | 74 | 4 | 
-| 2023-03-10 | 73 | 4 | 
 

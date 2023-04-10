@@ -1,10 +1,10 @@
 # cormiertyshawn895/PixelPerfect - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 211
+★ Stars: 222
 
 [Open repository](https://github.com/cormiertyshawn895/PixelPerfect)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 222 | 7 | 
 | 2023-04-08 | 211 | 5 | 
 | 2023-04-07 | 202 | 5 | 
 | 2023-04-06 | 186 | 4 | 

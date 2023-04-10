@@ -1,10 +1,10 @@
 # cmudig/AutoProfiler - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 6
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/cmudig/AutoProfiler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 128 | 6 | 
 | 2023-04-08 | 127 | 6 | 
 | 2023-04-07 | 122 | 6 | 
 | 2023-04-06 | 105 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 98 | 5 | 
 | 2023-03-13 | 98 | 5 | 
 | 2023-03-11 | 98 | 5 | 
-| 2023-03-10 | 99 | 5 | 
 

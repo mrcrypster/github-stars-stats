@@ -1,10 +1,10 @@
 # matlab-deep-learning/fourier-neural-operator - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/matlab-deep-learning/fourier-neural-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4 | - | 
 | 2023-04-08 | 3 | - | 
 | 2023-04-07 | 3 | - | 
 | 2023-04-06 | 3 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | - | - | 
 | 2023-03-12 | - | - | 
 | 2023-03-11 | - | - | 
-| 2023-03-10 | - | - | 
 

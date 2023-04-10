@@ -1,8 +1,8 @@
 # devid14/vps - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 994
+☋ Forks: 996
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 30 | 996 | 
 | 2023-04-08 | 30 | 994 | 
 | 2023-04-07 | 30 | 989 | 
 | 2023-04-06 | 30 | 984 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 28 | 902 | 
 | 2023-03-13 | 28 | 895 | 
 | 2023-03-12 | 28 | 890 | 
-| 2023-03-10 | 28 | 889 | 
 

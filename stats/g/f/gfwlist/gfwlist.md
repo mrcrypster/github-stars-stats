@@ -1,10 +1,10 @@
 # gfwlist/gfwlist - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 3972
+☋ Forks: 3973
 
-★ Stars: 21015
+★ Stars: 21022
 
 [Open repository](https://github.com/gfwlist/gfwlist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 21022 | 3973 | 
 | 2023-04-08 | 21015 | 3972 | 
 | 2023-04-07 | 21013 | 3971 | 
 | 2023-04-06 | 21003 | 3971 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 20838 | 3955 | 
 | 2023-03-13 | 20833 | 3953 | 
 | 2023-03-11 | 20829 | 3951 | 
-| 2023-03-10 | 20826 | 3951 | 
 

@@ -1,8 +1,8 @@
 # rubbertoe98/FiveM-Scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 690
+☋ Forks: 691
 
 ★ Stars: 119
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 119 | 691 | 
 | 2023-04-09 | 119 | 690 | 
 | 2023-04-08 | 119 | 689 | 
 | 2023-04-06 | 119 | 688 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 115 | 681 | 
 | 2023-03-13 | 115 | 681 | 
 | 2023-03-11 | 115 | 680 | 
-| 2023-03-10 | 115 | 678 | 
 

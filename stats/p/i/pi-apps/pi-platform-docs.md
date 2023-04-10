@@ -1,10 +1,10 @@
 # pi-apps/pi-platform-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 279
 
-★ Stars: 1514
+★ Stars: 1515
 
 [Open repository](https://github.com/pi-apps/pi-platform-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1515 | 279 | 
 | 2023-04-08 | 1514 | 279 | 
 | 2023-04-07 | 1514 | 279 | 
 | 2023-04-06 | 1513 | 279 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1500 | 279 | 
 | 2023-03-13 | 1498 | 278 | 
 | 2023-03-12 | 1496 | 278 | 
-| 2023-03-10 | 1495 | 278 | 
 

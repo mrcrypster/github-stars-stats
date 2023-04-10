@@ -1,10 +1,10 @@
 # go-ozzo/ozzo-validation - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 209
 
-★ Stars: 3135
+★ Stars: 3136
 
 [Open repository](https://github.com/go-ozzo/ozzo-validation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3136 | 209 | 
 | 2023-04-08 | 3135 | 209 | 
 | 2023-04-07 | 3135 | 209 | 
 | 2023-04-06 | 3134 | 209 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3112 | 208 | 
 | 2023-03-13 | 3110 | 208 | 
 | 2023-03-12 | 3109 | 208 | 
-| 2023-03-10 | 3109 | 208 | 
 

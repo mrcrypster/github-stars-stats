@@ -1,10 +1,10 @@
 # tharwatsamy/Flutter-Beginners-Projects - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/tharwatsamy/Flutter-Beginners-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 224 | 64 | 
 | 2023-04-08 | 223 | 63 | 
 | 2023-04-07 | 224 | 62 | 
 | 2023-04-06 | 224 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 208 | 58 | 
 | 2023-03-12 | 206 | 57 | 
 | 2023-03-11 | 205 | 58 | 
-| 2023-03-10 | 205 | 56 | 
 

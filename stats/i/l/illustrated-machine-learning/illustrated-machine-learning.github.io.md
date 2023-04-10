@@ -1,6 +1,6 @@
 # illustrated-machine-learning/illustrated-machine-learning.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 272 | 38 | 
 | 2023-04-08 | 272 | 38 | 
 | 2023-04-07 | 272 | 38 | 
 | 2023-04-06 | 271 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 266 | 35 | 
 | 2023-03-12 | 266 | 35 | 
 | 2023-03-11 | 266 | 35 | 
-| 2023-03-10 | 266 | 35 | 
 

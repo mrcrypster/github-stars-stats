@@ -1,6 +1,6 @@
 # syncthing/syncthing-macos - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2038 | 124 | 
 | 2023-04-08 | 2038 | 124 | 
 | 2023-04-07 | 2036 | 124 | 
 | 2023-04-06 | 2033 | 124 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 2013 | 123 | 
 | 2023-03-13 | 2010 | 123 | 
 | 2023-03-11 | 2008 | 123 | 
-| 2023-03-10 | 2003 | 123 | 
 

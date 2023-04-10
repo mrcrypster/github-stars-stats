@@ -1,10 +1,10 @@
 # BililiveRecorder/BililiveRecorder - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 235
 
-★ Stars: 2514
+★ Stars: 2518
 
 [Open repository](https://github.com/BililiveRecorder/BililiveRecorder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2518 | 235 | 
 | 2023-04-08 | 2514 | 235 | 
 | 2023-04-07 | 2511 | 235 | 
 | 2023-04-06 | 2511 | 235 | 

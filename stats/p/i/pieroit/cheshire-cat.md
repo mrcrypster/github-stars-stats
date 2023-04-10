@@ -1,10 +1,10 @@
 # pieroit/cheshire-cat - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 33
 
-★ Stars: 179
+★ Stars: 183
 
 [Open repository](https://github.com/pieroit/cheshire-cat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 183 | 33 | 
 | 2023-04-08 | 179 | 33 | 
 | 2023-04-07 | 175 | 31 | 
 | 2023-04-06 | 172 | 29 | 

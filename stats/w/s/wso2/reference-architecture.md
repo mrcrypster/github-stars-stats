@@ -1,6 +1,6 @@
 # wso2/reference-architecture - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1382 | 259 | 
 | 2023-04-08 | 1382 | 259 | 
 | 2023-04-07 | 1380 | 259 | 
 | 2023-04-06 | 1380 | 258 | 

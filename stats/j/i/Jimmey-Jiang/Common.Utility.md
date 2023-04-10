@@ -1,6 +1,6 @@
 # Jimmey-Jiang/Common.Utility - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1980
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4489 | 1980 | 
 | 2023-04-08 | 4489 | 1980 | 
 | 2023-04-07 | 4488 | 1980 | 
 | 2023-04-06 | 4485 | 1979 | 

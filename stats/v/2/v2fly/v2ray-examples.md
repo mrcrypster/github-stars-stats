@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 678
+☋ Forks: 680
 
-★ Stars: 1850
+★ Stars: 1854
 
 [Open repository](https://github.com/v2fly/v2ray-examples)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 1850 | 678 | 
+| 2023-04-09 | 1854 | 680 | 
 | 2023-04-08 | 1850 | 678 | 
 | 2023-04-07 | 1848 | 676 | 
 | 2023-04-06 | 1846 | 673 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 1790 | 653 | 
 | 2023-03-12 | 1788 | 652 | 
 | 2023-03-11 | 1788 | 651 | 
-| 2023-03-10 | 1786 | 651 | 
 

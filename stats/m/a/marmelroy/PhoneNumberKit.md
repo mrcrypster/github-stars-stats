@@ -1,6 +1,6 @@
 # marmelroy/PhoneNumberKit - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 744
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4771 | 744 | 
 | 2023-04-08 | 4771 | 744 | 
 | 2023-04-07 | 4771 | 744 | 
 | 2023-04-06 | 4770 | 744 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 4745 | 738 | 
 | 2023-03-13 | 4745 | 737 | 
 | 2023-03-12 | 4745 | 737 | 
-| 2023-03-10 | 4745 | 736 | 
 

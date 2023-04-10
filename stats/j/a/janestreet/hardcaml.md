@@ -1,10 +1,10 @@
 # janestreet/hardcaml - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 28
 
-★ Stars: 506
+★ Stars: 505
 
 [Open repository](https://github.com/janestreet/hardcaml)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 505 | 28 | 
 | 2023-04-08 | 506 | 28 | 
 | 2023-04-07 | 506 | 28 | 
 | 2023-04-06 | 506 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 499 | 28 | 
 | 2023-03-12 | 499 | 28 | 
 | 2023-03-11 | 499 | 28 | 
-| 2023-03-10 | 499 | 28 | 
 

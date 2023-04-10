@@ -1,10 +1,10 @@
 # square/javapoet - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1321
+☋ Forks: 1322
 
-★ Stars: 10162
+★ Stars: 10163
 
 [Open repository](https://github.com/square/javapoet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 10163 | 1322 | 
 | 2023-04-08 | 10162 | 1321 | 
 | 2023-04-07 | 10162 | 1321 | 
 | 2023-04-06 | 10160 | 1320 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 10102 | 1312 | 
 | 2023-03-13 | 10100 | 1312 | 
 | 2023-03-12 | 10101 | 1312 | 
-| 2023-03-10 | 10098 | 1310 | 
 

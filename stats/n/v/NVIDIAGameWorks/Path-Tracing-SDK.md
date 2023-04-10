@@ -1,10 +1,10 @@
 # NVIDIAGameWorks/Path-Tracing-SDK - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 42
 
-★ Stars: 416
+★ Stars: 418
 
 [Open repository](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 418 | 42 | 
 | 2023-04-08 | 416 | 42 | 
 | 2023-04-07 | 416 | 42 | 
 | 2023-04-06 | 413 | 42 | 

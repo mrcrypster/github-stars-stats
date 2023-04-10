@@ -1,10 +1,10 @@
 # Fukki-Z/nodefree - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 37
 
-★ Stars: 644
+★ Stars: 645
 
 [Open repository](https://github.com/Fukki-Z/nodefree)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 645 | 37 | 
 | 2023-04-08 | 644 | 37 | 
 | 2023-04-07 | 645 | 37 | 
 | 2023-04-06 | 645 | 37 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 640 | 37 | 
 | 2023-03-13 | 640 | 37 | 
 | 2023-03-11 | 640 | 37 | 
-| 2023-03-10 | 639 | 37 | 
 

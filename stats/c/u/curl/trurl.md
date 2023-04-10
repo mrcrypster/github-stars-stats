@@ -1,10 +1,10 @@
 # curl/trurl - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 59
+☋ Forks: 61
 
-★ Stars: 1759
+★ Stars: 1817
 
 [Open repository](https://github.com/curl/trurl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1817 | 61 | 
 | 2023-04-08 | 1759 | 59 | 
 | 2023-04-07 | 1727 | 57 | 
 | 2023-04-06 | 1577 | 50 | 

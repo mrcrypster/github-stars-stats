@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 43
+☋ Forks: 45
 
-★ Stars: 215
+★ Stars: 230
 
 [Open repository](https://github.com/c121914yu/FastGPT)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 215 | 43 | 
+| 2023-04-09 | 230 | 45 | 
 | 2023-04-08 | 212 | 43 | 
 | 2023-04-07 | 183 | 38 | 
 

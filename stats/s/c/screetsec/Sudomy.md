@@ -1,10 +1,10 @@
 # screetsec/Sudomy - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 339
 
-★ Stars: 1606
+★ Stars: 1607
 
 [Open repository](https://github.com/screetsec/Sudomy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1607 | 339 | 
 | 2023-04-08 | 1606 | 339 | 
 | 2023-04-07 | 1605 | 339 | 
 | 2023-04-06 | 1604 | 339 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1583 | 339 | 
 | 2023-03-13 | 1581 | 339 | 
 | 2023-03-12 | 1580 | 339 | 
-| 2023-03-10 | 1580 | 339 | 
 

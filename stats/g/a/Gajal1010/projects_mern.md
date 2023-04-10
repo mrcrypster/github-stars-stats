@@ -1,6 +1,6 @@
 # Gajal1010/projects_mern - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 12
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3 | 12 | 
 | 2023-04-08 | 3 | 12 | 
 

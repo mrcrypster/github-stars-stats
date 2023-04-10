@@ -1,10 +1,10 @@
 # KnpLabs/snappy - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 431
 
-★ Stars: 4195
+★ Stars: 4197
 
 [Open repository](https://github.com/KnpLabs/snappy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4197 | 431 | 
 | 2023-04-08 | 4195 | 431 | 
 | 2023-04-07 | 4194 | 431 | 
 | 2023-04-06 | 4194 | 431 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 4174 | 433 | 
 | 2023-03-13 | 4173 | 433 | 
 | 2023-03-12 | 4173 | 433 | 
-| 2023-03-10 | 4173 | 433 | 
 

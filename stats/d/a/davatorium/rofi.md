@@ -1,10 +1,10 @@
 # davatorium/rofi - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 590
 
-★ Stars: 10927
+★ Stars: 10929
 
 [Open repository](https://github.com/davatorium/rofi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 10929 | 590 | 
 | 2023-04-08 | 10927 | 590 | 
 | 2023-04-07 | 10927 | 590 | 
 | 2023-04-06 | 10922 | 590 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 10814 | 580 | 
 | 2023-03-13 | 10812 | 580 | 
 | 2023-03-12 | 10802 | 580 | 
-| 2023-03-10 | 10801 | 579 | 
 

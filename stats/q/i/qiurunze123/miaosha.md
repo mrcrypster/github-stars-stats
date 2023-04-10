@@ -1,10 +1,10 @@
 # qiurunze123/miaosha - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 6666
+☋ Forks: 6669
 
-★ Stars: 25810
+★ Stars: 25809
 
 [Open repository](https://github.com/qiurunze123/miaosha)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 25809 | 6669 | 
 | 2023-04-08 | 25810 | 6666 | 
 | 2023-04-07 | 25811 | 6667 | 
 | 2023-04-06 | 25805 | 6668 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 25764 | 6661 | 
 | 2023-03-13 | 25766 | 6663 | 
 | 2023-03-11 | 25762 | 6663 | 
-| 2023-03-10 | 25757 | 6662 | 
 

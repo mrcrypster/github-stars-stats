@@ -1,6 +1,6 @@
 # react-native-async-storage/async-storage - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 415
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3974 | 415 | 
 | 2023-04-08 | 3974 | 415 | 
 | 2023-04-07 | 3973 | 415 | 
 | 2023-04-06 | 3971 | 415 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3927 | 414 | 
 | 2023-03-12 | 3924 | 413 | 
 | 2023-03-11 | 3924 | 413 | 
-| 2023-03-10 | 3922 | 413 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/windows-powershell-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 510
 
-★ Stars: 344
+★ Stars: 343
 
 [Open repository](https://github.com/MicrosoftDocs/windows-powershell-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 343 | 510 | 
 | 2023-04-08 | 344 | 510 | 
 | 2023-04-07 | 344 | 509 | 
 | 2023-04-06 | 343 | 509 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 336 | 502 | 
 | 2023-03-13 | 336 | 502 | 
 | 2023-03-12 | 336 | 502 | 
-| 2023-03-10 | 336 | 502 | 
 

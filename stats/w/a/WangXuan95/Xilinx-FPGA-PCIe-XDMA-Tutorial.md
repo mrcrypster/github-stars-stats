@@ -1,10 +1,10 @@
 # WangXuan95/Xilinx-FPGA-PCIe-XDMA-Tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/WangXuan95/Xilinx-FPGA-PCIe-XDMA-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 53 | 8 | 
 | 2023-04-08 | 52 | 8 | 
 | 2023-04-07 | 51 | 8 | 
 | 2023-04-06 | 49 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 34 | 5 | 
 | 2023-03-13 | 35 | 5 | 
 | 2023-03-11 | 35 | 5 | 
-| 2023-03-10 | 35 | 5 | 
 

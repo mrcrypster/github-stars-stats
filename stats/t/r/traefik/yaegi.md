@@ -1,10 +1,10 @@
 # traefik/yaegi - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 296
 
-★ Stars: 5589
+★ Stars: 5593
 
 [Open repository](https://github.com/traefik/yaegi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5593 | 296 | 
 | 2023-04-08 | 5589 | 296 | 
 | 2023-04-07 | 5581 | 296 | 
 | 2023-04-06 | 5562 | 296 | 

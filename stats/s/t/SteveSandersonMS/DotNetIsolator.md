@@ -1,10 +1,10 @@
 # SteveSandersonMS/DotNetIsolator - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 22
 
-★ Stars: 409
+★ Stars: 411
 
 [Open repository](https://github.com/SteveSandersonMS/DotNetIsolator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 411 | 22 | 
 | 2023-04-08 | 409 | 22 | 
 | 2023-04-07 | 407 | 22 | 
 | 2023-04-06 | 404 | 22 | 

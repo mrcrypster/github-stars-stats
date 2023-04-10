@@ -1,10 +1,10 @@
 # sureJiang/MSRocketGiftAnimation - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 118
 
-★ Stars: 1406
+★ Stars: 1429
 
 [Open repository](https://github.com/sureJiang/MSRocketGiftAnimation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1429 | 118 | 
 | 2023-04-08 | 1406 | 118 | 
 | 2023-04-07 | 1383 | 118 | 
 | 2023-04-06 | 1361 | 118 | 

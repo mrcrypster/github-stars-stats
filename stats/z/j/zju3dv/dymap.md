@@ -1,10 +1,10 @@
 # zju3dv/dymap - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/zju3dv/dymap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 94 | 1 | 
 | 2023-04-08 | 93 | 1 | 
 | 2023-04-07 | 93 | 1 | 
 | 2023-04-06 | 91 | 1 | 

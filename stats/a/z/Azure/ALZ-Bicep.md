@@ -1,6 +1,6 @@
 # Azure/ALZ-Bicep - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 317
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 517 | 317 | 
 | 2023-04-08 | 517 | 317 | 
 | 2023-04-07 | 517 | 317 | 
 | 2023-04-06 | 516 | 318 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 491 | 299 | 
 | 2023-03-12 | 491 | 297 | 
 | 2023-03-11 | 490 | 297 | 
-| 2023-03-10 | 490 | 297 | 
 

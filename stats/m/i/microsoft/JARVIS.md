@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 808
+☋ Forks: 832
 
-★ Stars: 12507
+★ Stars: 12813
 
 [Open repository](https://github.com/microsoft/JARVIS)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 12507 | 808 | 
+| 2023-04-09 | 12813 | 832 | 
 | 2023-04-08 | 12430 | 801 | 
 | 2023-04-07 | 11528 | 729 | 
 | 2023-04-06 | 9784 | 605 | 

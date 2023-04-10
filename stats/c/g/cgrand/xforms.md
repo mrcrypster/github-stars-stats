@@ -1,10 +1,10 @@
 # cgrand/xforms - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 30
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/cgrand/xforms)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 525 | 30 | 
 | 2023-04-08 | 524 | 30 | 
 | 2023-04-07 | 524 | 30 | 
 | 2023-04-06 | 522 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 519 | 30 | 
 | 2023-03-13 | 519 | 30 | 
 | 2023-03-11 | 519 | 30 | 
-| 2023-03-10 | 519 | 30 | 
 

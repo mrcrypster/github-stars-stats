@@ -1,10 +1,10 @@
 # Icy-Thought/snowflake - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/Icy-Thought/snowflake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 105 | 11 | 
 | 2023-04-08 | 104 | 11 | 
 | 2023-04-07 | 104 | 11 | 
 | 2023-04-06 | 104 | 11 | 

@@ -1,10 +1,10 @@
 # coreybutler/nvm-windows - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2757
+☋ Forks: 2759
 
-★ Stars: 27193
+★ Stars: 27208
 
 [Open repository](https://github.com/coreybutler/nvm-windows)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 27208 | 2759 | 
 | 2023-04-08 | 27193 | 2757 | 
 | 2023-04-07 | 27178 | 2754 | 
 | 2023-04-06 | 27150 | 2753 | 

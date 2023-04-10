@@ -1,10 +1,10 @@
 # helloexp/0day - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 581
+☋ Forks: 582
 
-★ Stars: 1284
+★ Stars: 1286
 
 [Open repository](https://github.com/helloexp/0day)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1286 | 582 | 
 | 2023-04-08 | 1284 | 581 | 
 | 2023-04-07 | 1282 | 581 | 
 | 2023-04-06 | 1266 | 577 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1221 | 553 | 
 | 2023-03-12 | 1218 | 552 | 
 | 2023-03-11 | 1216 | 551 | 
-| 2023-03-10 | 1212 | 550 | 
 

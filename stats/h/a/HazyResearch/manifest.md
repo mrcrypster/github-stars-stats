@@ -1,10 +1,10 @@
 # HazyResearch/manifest - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/HazyResearch/manifest)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 305 | 24 | 
 | 2023-04-08 | 304 | 23 | 
 | 2023-04-07 | 304 | 23 | 
 | 2023-04-06 | 303 | 23 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 284 | 20 | 
 | 2023-03-12 | 283 | 20 | 
 | 2023-03-11 | 283 | 20 | 
-| 2023-03-10 | 282 | 20 | 
 

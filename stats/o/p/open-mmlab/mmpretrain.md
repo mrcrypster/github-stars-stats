@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 805
 
-★ Stars: 2059
+★ Stars: 2060
 
 [Open repository](https://github.com/open-mmlab/mmpretrain)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 2059 | 805 | 
+| 2023-04-09 | 2060 | 805 | 
 | 2023-04-08 | 2058 | 805 | 
 

@@ -1,10 +1,10 @@
 # github/opensource.guide - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 15900
+☋ Forks: 15901
 
-★ Stars: 12001
+★ Stars: 12005
 
 [Open repository](https://github.com/github/opensource.guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 12005 | 15901 | 
 | 2023-04-08 | 12001 | 15900 | 
 | 2023-04-07 | 11996 | 15898 | 
 | 2023-04-06 | 11994 | 15899 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 11902 | 15841 | 
 | 2023-03-12 | 11892 | 15837 | 
 | 2023-03-11 | 11888 | 15835 | 
-| 2023-03-10 | 11887 | 15835 | 
 

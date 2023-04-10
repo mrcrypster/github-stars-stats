@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 1893
+★ Stars: 1897
 
 [Open repository](https://github.com/mlc-ai/web-stable-diffusion)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 1893 | 77 | 
+| 2023-04-09 | 1897 | 78 | 
 | 2023-04-08 | 1893 | 77 | 
 | 2023-04-07 | 1880 | 76 | 
 | 2023-04-06 | 1838 | 75 | 

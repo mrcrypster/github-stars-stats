@@ -1,10 +1,10 @@
 # LlmKira/Openaibot - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 164
+☋ Forks: 166
 
-★ Stars: 1377
+★ Stars: 1381
 
 [Open repository](https://github.com/LlmKira/Openaibot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1381 | 166 | 
 | 2023-04-08 | 1377 | 164 | 
 | 2023-04-07 | 1371 | 163 | 
 | 2023-04-06 | 1365 | 162 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1166 | 142 | 
 | 2023-03-13 | 1155 | 142 | 
 | 2023-03-12 | 1147 | 140 | 
-| 2023-03-11 | 1128 | 137 | 
 

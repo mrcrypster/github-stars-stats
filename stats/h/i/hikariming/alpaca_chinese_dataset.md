@@ -1,10 +1,10 @@
 # hikariming/alpaca_chinese_dataset - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 33
 
-★ Stars: 377
+★ Stars: 388
 
 [Open repository](https://github.com/hikariming/alpaca_chinese_dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 388 | 33 | 
 | 2023-04-08 | 377 | 33 | 
 | 2023-04-07 | 371 | 32 | 
 | 2023-04-06 | 350 | 31 | 

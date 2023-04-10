@@ -1,10 +1,10 @@
 # andrewning/sortphotos - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 298
 
-★ Stars: 935
+★ Stars: 936
 
 [Open repository](https://github.com/andrewning/sortphotos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 936 | 298 | 
 | 2023-04-08 | 935 | 298 | 
 | 2023-04-07 | 934 | 298 | 
 | 2023-04-06 | 934 | 298 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 926 | 298 | 
 | 2023-03-13 | 926 | 298 | 
 | 2023-03-12 | 924 | 298 | 
-| 2023-03-11 | 922 | 297 | 
 

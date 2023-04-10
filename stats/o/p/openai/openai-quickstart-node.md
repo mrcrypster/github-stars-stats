@@ -1,10 +1,10 @@
 # openai/openai-quickstart-node - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1483
+☋ Forks: 1489
 
-★ Stars: 1852
+★ Stars: 1856
 
 [Open repository](https://github.com/openai/openai-quickstart-node)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1856 | 1489 | 
 | 2023-04-08 | 1852 | 1483 | 
 | 2023-04-07 | 1849 | 1477 | 
 | 2023-04-06 | 1841 | 1469 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1466 | 1222 | 
 | 2023-03-12 | 1451 | 1213 | 
 | 2023-03-11 | 1446 | 1202 | 
-| 2023-03-10 | 1430 | 1189 | 
 

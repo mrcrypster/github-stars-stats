@@ -1,8 +1,8 @@
 # 0voice/audio_video_streaming - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 849
+☋ Forks: 850
 
 ★ Stars: 3808
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3808 | 850 | 
 | 2023-04-08 | 3808 | 849 | 
 | 2023-04-07 | 3808 | 848 | 
 | 2023-04-06 | 3806 | 847 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 3751 | 836 | 
 | 2023-03-13 | 3741 | 834 | 
 | 2023-03-11 | 3741 | 833 | 
-| 2023-03-10 | 3738 | 832 | 
 

@@ -1,6 +1,6 @@
 # jayachandrareddym/terraform - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 116 | 
 | 2023-04-08 | 16 | 116 | 
 | 2023-04-07 | 16 | 116 | 
 | 2023-04-06 | 16 | 115 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 16 | 111 | 
 | 2023-03-12 | 16 | 111 | 
 | 2023-03-11 | 16 | 111 | 
-| 2023-03-10 | 16 | 111 | 
 

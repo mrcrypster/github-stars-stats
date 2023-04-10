@@ -1,10 +1,10 @@
 # ultrasecurity/Storm-Breaker - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 699
+☋ Forks: 702
 
-★ Stars: 1699
+★ Stars: 1710
 
 [Open repository](https://github.com/ultrasecurity/Storm-Breaker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1710 | 702 | 
 | 2023-04-08 | 1699 | 699 | 
 | 2023-04-07 | 1697 | 699 | 
 | 2023-04-06 | 1691 | 697 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1458 | 626 | 
 | 2023-03-13 | 1457 | 626 | 
 | 2023-03-12 | 1456 | 624 | 
-| 2023-03-11 | 1453 | 624 | 
 

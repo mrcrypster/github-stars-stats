@@ -1,6 +1,6 @@
 # avinashmamidi/terraform - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2 | 117 | 
 | 2023-04-09 | 2 | 117 | 
 | 2023-04-07 | 2 | 116 | 
 | 2023-04-06 | 2 | 116 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 2 | 113 | 
 | 2023-03-13 | 2 | 113 | 
 | 2023-03-12 | 2 | 113 | 
-| 2023-03-10 | 2 | 113 | 
 

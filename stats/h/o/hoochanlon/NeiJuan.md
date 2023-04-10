@@ -1,10 +1,10 @@
 # hoochanlon/NeiJuan - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 1851
+☋ Forks: 1852
 
-★ Stars: 8201
+★ Stars: 8203
 
 [Open repository](https://github.com/hoochanlon/NeiJuan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 8203 | 1852 | 
 | 2023-04-08 | 8201 | 1851 | 
 | 2023-04-07 | 8197 | 1851 | 
 | 2023-04-06 | 8191 | 1852 | 

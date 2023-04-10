@@ -1,10 +1,10 @@
 # seemoo-lab/openhaystack - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 350
+☋ Forks: 351
 
-★ Stars: 6328
+★ Stars: 6330
 
 [Open repository](https://github.com/seemoo-lab/openhaystack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 6330 | 351 | 
 | 2023-04-08 | 6328 | 350 | 
 | 2023-04-07 | 6326 | 350 | 
 | 2023-04-06 | 6319 | 350 | 

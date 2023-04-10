@@ -1,6 +1,6 @@
 # Wilfred/pip-requirements.el - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 51 | 4 | 
 | 2023-04-09 | 51 | 4 | 
 | 2023-04-07 | 51 | 4 | 
 | 2023-04-06 | 50 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 50 | 4 | 
 | 2023-03-12 | 50 | 4 | 
 | 2023-03-11 | 50 | 4 | 
-| 2023-03-10 | 50 | 4 | 
 

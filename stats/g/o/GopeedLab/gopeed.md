@@ -1,10 +1,10 @@
 # GopeedLab/gopeed - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 349
 
-★ Stars: 4046
+★ Stars: 4044
 
 [Open repository](https://github.com/GopeedLab/gopeed)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4044 | 349 | 
 | 2023-04-08 | 4046 | 349 | 
 | 2023-04-07 | 4045 | 348 | 
 | 2023-04-06 | 4044 | 348 | 

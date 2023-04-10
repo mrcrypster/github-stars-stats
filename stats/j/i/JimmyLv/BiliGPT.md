@@ -1,10 +1,10 @@
 # JimmyLv/BiliGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 247
+☋ Forks: 249
 
-★ Stars: 2648
+★ Stars: 2676
 
 [Open repository](https://github.com/JimmyLv/BiliGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2676 | 249 | 
 | 2023-04-08 | 2648 | 247 | 
 | 2023-04-07 | 2636 | 243 | 
 | 2023-04-06 | 2604 | 239 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1522 | 110 | 
 | 2023-03-13 | 1394 | 98 | 
 | 2023-03-11 | 1317 | 91 | 
-| 2023-03-10 | 1275 | 85 | 
 

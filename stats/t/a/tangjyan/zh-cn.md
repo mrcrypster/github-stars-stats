@@ -1,6 +1,6 @@
 # tangjyan/zh-cn - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 9 | 17 | 
 | 2023-04-08 | 9 | 17 | 
 | 2023-04-07 | 9 | 17 | 
 | 2023-04-06 | 9 | 17 | 

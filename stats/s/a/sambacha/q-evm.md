@@ -1,6 +1,6 @@
 # sambacha/q-evm - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 376 | 86 | 
 | 2023-04-08 | 376 | 86 | 
 | 2023-04-07 | 376 | 87 | 
 | 2023-04-06 | 376 | 87 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 374 | 86 | 
 | 2023-03-12 | 373 | 86 | 
 | 2023-03-11 | 373 | 86 | 
-| 2023-03-10 | 373 | 86 | 
 

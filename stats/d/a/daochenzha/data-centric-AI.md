@@ -1,10 +1,10 @@
 # daochenzha/data-centric-AI - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 314
+★ Stars: 327
 
 [Open repository](https://github.com/daochenzha/data-centric-AI)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 327 | 22 | 
 | 2023-04-08 | 314 | 21 | 
 

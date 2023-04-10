@@ -1,10 +1,10 @@
 # vuejs/core - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 6687
+☋ Forks: 6695
 
-★ Stars: 36672
+★ Stars: 36696
 
 [Open repository](https://github.com/vuejs/core)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 36696 | 6695 | 
+| 2023-04-09 | 36692 | 6695 | 
 | 2023-04-08 | 36672 | 6687 | 
 | 2023-04-07 | 36646 | 6683 | 
 | 2023-04-06 | 36611 | 6675 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 36013 | 6560 | 
 | 2023-03-12 | 35979 | 6556 | 
 | 2023-03-11 | 35956 | 6551 | 
-| 2023-03-10 | 35925 | 6546 | 
 

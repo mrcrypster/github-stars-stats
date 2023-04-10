@@ -1,8 +1,8 @@
 # ckeditor/ckeditor4 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 2494
+☋ Forks: 2496
 
 ★ Stars: 5704
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5704 | 2496 | 
 | 2023-04-08 | 5704 | 2494 | 
 | 2023-04-07 | 5704 | 2494 | 
 | 2023-04-06 | 5705 | 2494 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 5698 | 2492 | 
 | 2023-03-12 | 5697 | 2492 | 
 | 2023-03-11 | 5697 | 2492 | 
-| 2023-03-10 | 5696 | 2492 | 
 

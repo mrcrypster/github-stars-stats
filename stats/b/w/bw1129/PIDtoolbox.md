@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 57
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/bw1129/PIDtoolbox)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 402 | 57 | 
+| 2023-04-09 | 403 | 57 | 
 | 2023-04-08 | 402 | 57 | 
 | 2023-04-07 | 402 | 57 | 
 | 2023-04-06 | 400 | 57 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 394 | 57 | 
 | 2023-03-12 | 393 | 57 | 
 | 2023-03-11 | 393 | 57 | 
-| 2023-03-10 | 392 | 57 | 
 

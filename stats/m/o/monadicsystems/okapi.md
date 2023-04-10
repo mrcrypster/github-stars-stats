@@ -1,6 +1,6 @@
 # monadicsystems/okapi - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 89 | 3 | 
 | 2023-04-08 | 89 | 3 | 
 | 2023-04-07 | 89 | 3 | 
 | 2023-04-06 | 89 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 89 | 3 | 
 | 2023-03-13 | 89 | 3 | 
 | 2023-03-12 | 89 | 3 | 
-| 2023-03-11 | 89 | 3 | 
 

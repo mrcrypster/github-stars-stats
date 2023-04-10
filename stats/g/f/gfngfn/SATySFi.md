@@ -1,10 +1,10 @@
 # gfngfn/SATySFi - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 81
 
-★ Stars: 1042
+★ Stars: 1046
 
 [Open repository](https://github.com/gfngfn/SATySFi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1046 | 81 | 
 | 2023-04-08 | 1042 | 81 | 
 | 2023-04-07 | 1041 | 81 | 
 | 2023-04-06 | 1040 | 81 | 

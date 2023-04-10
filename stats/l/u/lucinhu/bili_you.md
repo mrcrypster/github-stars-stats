@@ -1,10 +1,10 @@
 # lucinhu/bili_you - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 3
 
-★ Stars: 223
+★ Stars: 257
 
 [Open repository](https://github.com/lucinhu/bili_you)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 257 | 3 | 
+| 2023-04-09 | 256 | 3 | 
 | 2023-04-08 | 223 | 3 | 
 | 2023-04-07 | 211 | 3 | 
 | 2023-04-06 | 207 | 3 | 

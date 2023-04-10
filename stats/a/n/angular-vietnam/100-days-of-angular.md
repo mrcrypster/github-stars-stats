@@ -1,10 +1,10 @@
 # angular-vietnam/100-days-of-angular - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 719
+☋ Forks: 720
 
-★ Stars: 1488
+★ Stars: 1489
 
 [Open repository](https://github.com/angular-vietnam/100-days-of-angular)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1489 | 720 | 
 | 2023-04-09 | 1488 | 719 | 
 | 2023-04-08 | 1487 | 720 | 
 | 2023-04-06 | 1487 | 715 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1466 | 706 | 
 | 2023-03-13 | 1465 | 706 | 
 | 2023-03-11 | 1463 | 706 | 
-| 2023-03-10 | 1463 | 706 | 
 

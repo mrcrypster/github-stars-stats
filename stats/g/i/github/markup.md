@@ -1,6 +1,6 @@
 # github/markup - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3644
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 5626 | 3644 | 
 | 2023-04-08 | 5626 | 3644 | 
 | 2023-04-07 | 5626 | 3644 | 
 | 2023-04-06 | 5626 | 3645 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 5608 | 3636 | 
 | 2023-03-13 | 5606 | 3636 | 
 | 2023-03-12 | 5606 | 3636 | 
-| 2023-03-10 | 5606 | 3637 | 
 

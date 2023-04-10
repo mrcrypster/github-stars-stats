@@ -1,6 +1,6 @@
 # lyj0309/pan - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 9 | 18 | 
 | 2023-04-08 | 9 | 18 | 
 | 2023-04-07 | 9 | 18 | 
 | 2023-04-06 | 9 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 9 | 16 | 
 | 2023-03-12 | 9 | 16 | 
 | 2023-03-11 | 9 | 16 | 
-| 2023-03-10 | 9 | 16 | 
 

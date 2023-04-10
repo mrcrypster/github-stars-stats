@@ -1,6 +1,6 @@
 # r-spatial/sf - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 268
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1123 | 268 | 
 | 2023-04-08 | 1123 | 268 | 
 | 2023-04-07 | 1123 | 268 | 
 | 2023-04-06 | 1122 | 268 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1116 | 264 | 
 | 2023-03-12 | 1116 | 264 | 
 | 2023-03-11 | 1115 | 264 | 
-| 2023-03-10 | 1115 | 263 | 
 

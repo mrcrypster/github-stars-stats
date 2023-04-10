@@ -1,10 +1,10 @@
 # mrkline/modern-latex - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/mrkline/modern-latex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 84 | 5 | 
 | 2023-04-08 | 83 | 5 | 
 | 2023-04-07 | 83 | 5 | 
 | 2023-04-06 | 83 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 80 | 5 | 
 | 2023-03-13 | 80 | 5 | 
 | 2023-03-11 | 80 | 5 | 
-| 2023-03-10 | 80 | 5 | 
 

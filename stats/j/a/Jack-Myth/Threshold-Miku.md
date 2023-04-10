@@ -1,10 +1,10 @@
 # Jack-Myth/Threshold-Miku - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 176
 
-★ Stars: 1022
+★ Stars: 1023
 
 [Open repository](https://github.com/Jack-Myth/Threshold-Miku)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1023 | 176 | 
 | 2023-04-08 | 1022 | 176 | 
 | 2023-04-07 | 1022 | 176 | 
 | 2023-04-06 | 1022 | 176 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 1007 | 177 | 
 | 2023-03-12 | 1004 | 177 | 
 | 2023-03-11 | 1003 | 177 | 
-| 2023-03-10 | 998 | 177 | 
 

@@ -1,6 +1,6 @@
 # open-education-hub/operating-systems - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 42 | 99 | 
 | 2023-04-08 | 42 | 99 | 
 | 2023-04-07 | 42 | 99 | 
 | 2023-04-06 | 42 | 99 | 

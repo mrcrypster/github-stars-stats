@@ -1,6 +1,6 @@
 # RadekVyM/MarvelousMAUI - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 330 | 35 | 
 | 2023-04-09 | 330 | 35 | 
 | 2023-04-08 | 323 | 35 | 
 | 2023-04-07 | 322 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-13 | 282 | 29 | 
 | 2023-03-12 | 275 | 27 | 
 | 2023-03-11 | 272 | 27 | 
-| 2023-03-10 | 235 | 25 | 
 

@@ -1,6 +1,6 @@
 # bazel-contrib/bazel-mypy-integration - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 84 | 37 | 
 | 2023-04-08 | 84 | 37 | 
 | 2023-04-07 | 84 | 37 | 
 | 2023-04-06 | 84 | 37 | 

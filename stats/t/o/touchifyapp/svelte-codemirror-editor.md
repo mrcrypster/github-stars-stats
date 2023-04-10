@@ -1,10 +1,10 @@
 # touchifyapp/svelte-codemirror-editor - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/touchifyapp/svelte-codemirror-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 85 | 8 | 
 | 2023-04-08 | 84 | 8 | 
 | 2023-04-07 | 84 | 8 | 
 | 2023-04-06 | 83 | 8 | 

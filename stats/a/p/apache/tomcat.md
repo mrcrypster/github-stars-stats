@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 4499
 
-★ Stars: 6597
+★ Stars: 6598
 
 [Open repository](https://github.com/apache/tomcat)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 6597 | 4499 | 
+| 2023-04-09 | 6598 | 4499 | 
 | 2023-04-08 | 6597 | 4499 | 
 | 2023-04-07 | 6592 | 4493 | 
 | 2023-04-06 | 6590 | 4492 | 

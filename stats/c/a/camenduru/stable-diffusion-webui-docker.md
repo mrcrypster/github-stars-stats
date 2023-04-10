@@ -1,10 +1,10 @@
 # camenduru/stable-diffusion-webui-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 106
+★ Stars: 105
 
 [Open repository](https://github.com/camenduru/stable-diffusion-webui-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 105 | 35 | 
 | 2023-04-08 | 106 | 34 | 
 | 2023-04-07 | 105 | 32 | 
 | 2023-04-06 | 105 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 50 | 16 | 
 | 2023-03-13 | 47 | 16 | 
 | 2023-03-12 | 46 | 16 | 
-| 2023-03-10 | 44 | 15 | 
 

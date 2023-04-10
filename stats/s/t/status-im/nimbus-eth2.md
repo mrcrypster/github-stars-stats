@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 162
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/status-im/nimbus-eth2)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 404 | 162 | 
+| 2023-04-09 | 405 | 162 | 
 | 2023-04-08 | 404 | 162 | 
 | 2023-04-06 | 404 | 162 | 
 | 2023-04-05 | 404 | 162 | 

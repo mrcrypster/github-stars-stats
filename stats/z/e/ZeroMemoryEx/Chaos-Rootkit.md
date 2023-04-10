@@ -1,10 +1,10 @@
 # ZeroMemoryEx/Chaos-Rootkit - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 38
 
-★ Stars: 227
+★ Stars: 231
 
 [Open repository](https://github.com/ZeroMemoryEx/Chaos-Rootkit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 231 | 38 | 
 | 2023-04-08 | 227 | 38 | 
 | 2023-04-07 | 225 | 37 | 
 | 2023-04-06 | 204 | 32 | 

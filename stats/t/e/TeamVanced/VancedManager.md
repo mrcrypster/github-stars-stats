@@ -1,10 +1,10 @@
 # TeamVanced/VancedManager - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1219
 
-★ Stars: 8029
+★ Stars: 8034
 
 [Open repository](https://github.com/TeamVanced/VancedManager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 8034 | 1219 | 
 | 2023-04-09 | 8029 | 1219 | 
 | 2023-04-08 | 8028 | 1219 | 
 | 2023-04-07 | 8027 | 1219 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 7997 | 1227 | 
 | 2023-03-13 | 7994 | 1226 | 
 | 2023-03-11 | 7993 | 1228 | 
-| 2023-03-10 | 7992 | 1229 | 
 

@@ -1,6 +1,6 @@
 # emacsorphanage/popwin - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 461 | 44 | 
 | 2023-04-08 | 461 | 44 | 
 | 2023-04-07 | 461 | 44 | 
 | 2023-04-06 | 461 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 458 | 44 | 
 | 2023-03-13 | 458 | 44 | 
 | 2023-03-11 | 458 | 44 | 
-| 2023-03-10 | 458 | 44 | 
 

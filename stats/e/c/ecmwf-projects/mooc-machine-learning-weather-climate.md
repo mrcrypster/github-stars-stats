@@ -1,6 +1,6 @@
 # ecmwf-projects/mooc-machine-learning-weather-climate - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 80 | 78 | 
 | 2023-04-08 | 80 | 78 | 
 | 2023-04-07 | 80 | 78 | 
 | 2023-04-06 | 80 | 78 | 

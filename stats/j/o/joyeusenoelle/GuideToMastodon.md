@@ -1,6 +1,6 @@
 # joyeusenoelle/GuideToMastodon - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 847 | 35 | 
 | 2023-04-08 | 847 | 35 | 
 | 2023-04-07 | 847 | 35 | 
 | 2023-04-06 | 847 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 839 | 35 | 
 | 2023-03-12 | 838 | 35 | 
 | 2023-03-11 | 837 | 35 | 
-| 2023-03-10 | 837 | 35 | 
 

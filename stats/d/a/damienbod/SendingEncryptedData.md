@@ -1,10 +1,10 @@
 # damienbod/SendingEncryptedData - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 10
 
-★ Stars: 70
+★ Stars: 73
 
 [Open repository](https://github.com/damienbod/SendingEncryptedData)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 73 | 10 | 
 | 2023-04-08 | 70 | 10 | 
 | 2023-04-07 | 70 | 10 | 
 | 2023-04-06 | 70 | 10 | 

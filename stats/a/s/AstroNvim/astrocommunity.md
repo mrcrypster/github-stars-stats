@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 31
+☋ Forks: 29
 
-★ Stars: 155
+★ Stars: 160
 
 [Open repository](https://github.com/AstroNvim/astrocommunity)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 155 | 31 | 
+| 2023-04-09 | 160 | 29 | 
 | 2023-04-08 | 155 | 30 | 
 | 2023-04-07 | 152 | 29 | 
 | 2023-04-06 | 140 | 27 | 

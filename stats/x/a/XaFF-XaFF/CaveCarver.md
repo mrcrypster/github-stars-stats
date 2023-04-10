@@ -1,10 +1,10 @@
 # XaFF-XaFF/CaveCarver - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 19
+☋ Forks: 22
 
-★ Stars: 74
+★ Stars: 79
 
 [Open repository](https://github.com/XaFF-XaFF/CaveCarver)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 79 | 22 | 
 | 2023-04-08 | 74 | 19 | 
 | 2023-04-07 | 64 | 15 | 
 | 2023-04-06 | 64 | 15 | 

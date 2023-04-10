@@ -1,6 +1,6 @@
 # Axonify/muffin.io - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 37 | 3 | 
 | 2023-04-08 | 37 | 3 | 
 | 2023-04-07 | 37 | 3 | 
 | 2023-04-06 | 37 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 37 | 3 | 
 | 2023-03-13 | 37 | 3 | 
 | 2023-03-12 | 37 | 3 | 
-| 2023-03-10 | 37 | 3 | 
 

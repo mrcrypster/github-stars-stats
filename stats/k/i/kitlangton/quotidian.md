@@ -1,10 +1,10 @@
 # kitlangton/quotidian - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/kitlangton/quotidian)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 66 | 5 | 
 | 2023-04-08 | 65 | 5 | 
 | 2023-04-07 | 64 | 5 | 
 | 2023-04-06 | 64 | 5 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-15 | 64 | 5 | 
 | 2023-03-13 | 58 | 5 | 
 | 2023-03-12 | 55 | 5 | 
-| 2023-03-11 | 53 | 5 | 
 

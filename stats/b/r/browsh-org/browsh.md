@@ -1,10 +1,10 @@
 # browsh-org/browsh - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 447
 
-★ Stars: 15643
+★ Stars: 15644
 
 [Open repository](https://github.com/browsh-org/browsh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 15644 | 447 | 
 | 2023-04-08 | 15643 | 447 | 
 | 2023-04-07 | 15639 | 447 | 
 | 2023-04-06 | 15637 | 448 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 15572 | 447 | 
 | 2023-03-12 | 15561 | 447 | 
 | 2023-03-11 | 15558 | 448 | 
-| 2023-03-10 | 15556 | 448 | 
 

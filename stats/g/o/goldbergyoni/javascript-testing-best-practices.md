@@ -1,6 +1,6 @@
 # goldbergyoni/javascript-testing-best-practices - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1872
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 21173 | 1872 | 
 | 2023-04-08 | 21173 | 1872 | 
 | 2023-04-07 | 21170 | 1872 | 
 | 2023-04-06 | 21164 | 1869 | 

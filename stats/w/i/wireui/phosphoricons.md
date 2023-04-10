@@ -1,6 +1,6 @@
 # wireui/phosphoricons - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 23 | 5 | 
 | 2023-04-08 | 23 | 5 | 
 | 2023-04-07 | 23 | 5 | 
 | 2023-04-06 | 23 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 23 | 5 | 
 | 2023-03-12 | 23 | 5 | 
 | 2023-03-11 | 23 | 5 | 
-| 2023-03-10 | 23 | 5 | 
 

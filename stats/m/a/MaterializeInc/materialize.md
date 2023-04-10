@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 403
 
-★ Stars: 4979
+★ Stars: 4981
 
 [Open repository](https://github.com/MaterializeInc/materialize)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 4979 | 403 | 
+| 2023-04-09 | 4981 | 403 | 
 | 2023-04-08 | 4978 | 403 | 
 | 2023-04-07 | 4974 | 403 | 
 | 2023-04-06 | 4956 | 403 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 4902 | 399 | 
 | 2023-03-13 | 4899 | 399 | 
 | 2023-03-12 | 4894 | 399 | 
-| 2023-03-10 | 4890 | 399 | 
 

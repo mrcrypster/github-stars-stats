@@ -1,10 +1,10 @@
 # keijiro/AICommand - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 342
+☋ Forks: 343
 
-★ Stars: 3239
+★ Stars: 3249
 
 [Open repository](https://github.com/keijiro/AICommand)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 3249 | 343 | 
 | 2023-04-08 | 3239 | 342 | 
 | 2023-04-07 | 3229 | 341 | 
 | 2023-04-06 | 3210 | 336 | 

@@ -1,10 +1,10 @@
 # apple/ml-gaudi - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 24
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/apple/ml-gaudi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 558 | 24 | 
 | 2023-04-08 | 557 | 24 | 
 | 2023-04-07 | 557 | 24 | 
 | 2023-04-06 | 556 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 545 | 24 | 
 | 2023-03-13 | 545 | 24 | 
 | 2023-03-12 | 545 | 24 | 
-| 2023-03-10 | 544 | 24 | 
 

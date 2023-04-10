@@ -1,10 +1,10 @@
 # vercel-labs/next-fetch - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 519
+★ Stars: 520
 
 [Open repository](https://github.com/vercel-labs/next-fetch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 520 | 11 | 
 | 2023-04-08 | 519 | 11 | 
 | 2023-04-07 | 519 | 11 | 
 | 2023-04-06 | 519 | 11 | 

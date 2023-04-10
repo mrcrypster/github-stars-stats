@@ -1,10 +1,10 @@
 # ONElua/AutoPlugin2 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 37
 
-★ Stars: 337
+★ Stars: 338
 
 [Open repository](https://github.com/ONElua/AutoPlugin2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 338 | 37 | 
 | 2023-04-08 | 337 | 37 | 
 | 2023-04-07 | 337 | 37 | 
 | 2023-04-06 | 337 | 37 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 330 | 37 | 
 | 2023-03-13 | 329 | 37 | 
 | 2023-03-11 | 329 | 37 | 
-| 2023-03-10 | 329 | 37 | 
 

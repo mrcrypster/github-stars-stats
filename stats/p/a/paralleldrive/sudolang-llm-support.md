@@ -1,10 +1,10 @@
 # paralleldrive/sudolang-llm-support - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 161
+★ Stars: 171
 
 [Open repository](https://github.com/paralleldrive/sudolang-llm-support)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 171 | 16 | 
 | 2023-04-08 | 161 | 15 | 
 | 2023-04-07 | 149 | 15 | 
 | 2023-04-06 | 137 | 13 | 

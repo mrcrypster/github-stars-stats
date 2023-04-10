@@ -1,6 +1,6 @@
 # starbeamjs/starbeam - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 263 | 12 | 
 | 2023-04-08 | 263 | 12 | 
 | 2023-04-07 | 263 | 12 | 
 | 2023-04-06 | 262 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 257 | 12 | 
 | 2023-03-12 | 257 | 12 | 
 | 2023-03-11 | 257 | 12 | 
-| 2023-03-10 | 257 | 12 | 
 

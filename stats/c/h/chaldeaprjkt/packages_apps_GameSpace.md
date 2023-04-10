@@ -1,10 +1,10 @@
 # chaldeaprjkt/packages_apps_GameSpace - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 26
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/chaldeaprjkt/packages_apps_GameSpace)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 27 | 26 | 
 | 2023-04-08 | 26 | 26 | 
 | 2023-04-07 | 26 | 26 | 
 | 2023-04-06 | 26 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 26 | 28 | 
 | 2023-03-12 | 26 | 28 | 
 | 2023-03-11 | 26 | 28 | 
-| 2023-03-10 | 26 | 28 | 
 

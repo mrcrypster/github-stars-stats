@@ -1,10 +1,10 @@
 # HMBSbige/NatTypeTester - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 144
 
-★ Stars: 1705
+★ Stars: 1712
 
 [Open repository](https://github.com/HMBSbige/NatTypeTester)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1712 | 144 | 
 | 2023-04-08 | 1705 | 144 | 
 | 2023-04-07 | 1702 | 144 | 
 | 2023-04-06 | 1699 | 144 | 

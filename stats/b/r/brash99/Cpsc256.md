@@ -1,6 +1,6 @@
 # brash99/Cpsc256 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 6 | 42 | 
 | 2023-04-08 | 6 | 42 | 
 | 2023-04-07 | 6 | 42 | 
 | 2023-04-06 | 6 | 42 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 6 | 42 | 
 | 2023-03-13 | 6 | 42 | 
 | 2023-03-11 | 6 | 42 | 
-| 2023-03-10 | 6 | 42 | 
 

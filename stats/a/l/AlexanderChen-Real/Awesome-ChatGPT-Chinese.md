@@ -1,10 +1,10 @@
 # AlexanderChen-Real/Awesome-ChatGPT-Chinese - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/AlexanderChen-Real/Awesome-ChatGPT-Chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 198 | 25 | 
 | 2023-04-09 | 197 | 24 | 
 | 2023-04-08 | 195 | 24 | 
 | 2023-04-06 | 192 | 24 | 

@@ -1,10 +1,10 @@
 # markqvist/Reticulum - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 71
 
-★ Stars: 1146
+★ Stars: 1147
 
 [Open repository](https://github.com/markqvist/Reticulum)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1147 | 71 | 
 | 2023-04-08 | 1146 | 71 | 
 | 2023-04-07 | 1146 | 71 | 
 | 2023-04-06 | 1146 | 71 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1132 | 70 | 
 | 2023-03-13 | 1132 | 70 | 
 | 2023-03-11 | 1130 | 69 | 
-| 2023-03-10 | 1127 | 68 | 
 

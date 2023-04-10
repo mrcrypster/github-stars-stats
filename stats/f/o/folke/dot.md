@@ -1,10 +1,10 @@
 # folke/dot - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 40
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/folke/dot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 362 | 40 | 
 | 2023-04-08 | 361 | 40 | 
 | 2023-04-07 | 357 | 40 | 
 | 2023-04-06 | 357 | 40 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 344 | 37 | 
 | 2023-03-13 | 344 | 37 | 
 | 2023-03-12 | 343 | 37 | 
-| 2023-03-10 | 342 | 37 | 
 

@@ -1,10 +1,10 @@
 # FirstGearGames/FishNet - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 71
 
-★ Stars: 697
+★ Stars: 699
 
 [Open repository](https://github.com/FirstGearGames/FishNet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 699 | 71 | 
 | 2023-04-08 | 697 | 71 | 
 | 2023-04-07 | 696 | 70 | 
 | 2023-04-06 | 695 | 70 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 676 | 68 | 
 | 2023-03-13 | 675 | 68 | 
 | 2023-03-11 | 673 | 68 | 
-| 2023-03-10 | 673 | 68 | 
 

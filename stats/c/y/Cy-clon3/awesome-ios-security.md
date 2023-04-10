@@ -1,6 +1,6 @@
 # Cy-clon3/awesome-ios-security - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 304 | 36 | 
 | 2023-04-08 | 304 | 36 | 
 | 2023-04-07 | 304 | 36 | 
 | 2023-04-06 | 304 | 36 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 299 | 34 | 
 | 2023-03-12 | 299 | 34 | 
 | 2023-03-11 | 299 | 34 | 
-| 2023-03-10 | 299 | 34 | 
 

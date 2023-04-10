@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 36
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/prod80/prod80-ReShade-Repository)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 97 | 36 | 
+| 2023-04-09 | 98 | 36 | 
 | 2023-04-08 | 97 | 36 | 
 | 2023-04-07 | 97 | 36 | 
 | 2023-04-06 | 97 | 36 | 

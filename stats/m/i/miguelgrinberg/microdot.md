@@ -1,10 +1,10 @@
 # miguelgrinberg/microdot - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 68
+☋ Forks: 70
 
-★ Stars: 613
+★ Stars: 616
 
 [Open repository](https://github.com/miguelgrinberg/microdot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 616 | 70 | 
 | 2023-04-08 | 613 | 68 | 
 | 2023-04-07 | 606 | 67 | 
 | 2023-04-06 | 600 | 66 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 574 | 64 | 
 | 2023-03-12 | 572 | 64 | 
 | 2023-03-11 | 572 | 64 | 
-| 2023-03-10 | 571 | 63 | 
 

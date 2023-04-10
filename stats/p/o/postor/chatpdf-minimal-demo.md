@@ -1,10 +1,10 @@
 # postor/chatpdf-minimal-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 338
+★ Stars: 341
 
 [Open repository](https://github.com/postor/chatpdf-minimal-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 341 | 68 | 
 | 2023-04-08 | 338 | 67 | 
 | 2023-04-07 | 332 | 67 | 
 | 2023-04-06 | 324 | 67 | 

@@ -1,6 +1,6 @@
 # matthaigh27/ChatGPT-android-app - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 150 | 16 | 
 | 2023-04-08 | 150 | 16 | 
 | 2023-04-07 | 147 | 16 | 
 | 2023-04-06 | 134 | 14 | 

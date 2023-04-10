@@ -1,6 +1,6 @@
 # Asana/kraken - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 336 | 35 | 
 | 2023-04-08 | 336 | 35 | 
 | 2023-04-07 | 336 | 35 | 
 | 2023-04-06 | 336 | 35 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 335 | 35 | 
 | 2023-03-13 | 335 | 35 | 
 | 2023-03-11 | 335 | 35 | 
-| 2023-03-10 | 335 | 35 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 09
 
-☋ Forks: 99
+☋ Forks: 113
 
-★ Stars: 2056
+★ Stars: 2354
 
 [Open repository](https://github.com/chroma-core/chroma)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 2056 | 99 | 
+| 2023-04-09 | 2354 | 113 | 
 | 2023-04-08 | 2012 | 98 | 
 | 2023-04-07 | 1558 | 81 | 
 

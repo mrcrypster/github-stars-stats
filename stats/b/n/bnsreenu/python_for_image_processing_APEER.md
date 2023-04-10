@@ -1,10 +1,10 @@
 # bnsreenu/python_for_image_processing_APEER - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 243
+☋ Forks: 244
 
-★ Stars: 358
+★ Stars: 359
 
 [Open repository](https://github.com/bnsreenu/python_for_image_processing_APEER)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 359 | 244 | 
 | 2023-04-08 | 358 | 243 | 
 | 2023-04-07 | 358 | 242 | 
 | 2023-04-06 | 358 | 242 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 351 | 240 | 
 | 2023-03-13 | 351 | 240 | 
 | 2023-03-12 | 350 | 239 | 
-| 2023-03-10 | 350 | 239 | 
 

@@ -1,6 +1,6 @@
 # jfjelstul/eumaps - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 39 | 1 | 
 | 2023-04-08 | 39 | 1 | 
 | 2023-04-07 | 39 | 1 | 
 | 2023-04-06 | 39 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 38 | 1 | 
 | 2023-03-13 | 38 | 1 | 
 | 2023-03-12 | 38 | 1 | 
-| 2023-03-10 | 38 | 1 | 
 

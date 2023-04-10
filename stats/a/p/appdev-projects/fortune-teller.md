@@ -1,6 +1,6 @@
 # appdev-projects/fortune-teller - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 810
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | - | 810 | 
 | 2023-04-08 | - | 810 | 
 | 2023-04-07 | - | 810 | 
 | 2023-04-06 | - | 810 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | - | 795 | 
 | 2023-03-13 | - | 794 | 
 | 2023-03-12 | - | 794 | 
-| 2023-03-10 | - | 794 | 
 

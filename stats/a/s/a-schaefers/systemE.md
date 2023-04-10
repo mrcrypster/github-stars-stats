@@ -1,6 +1,6 @@
 # a-schaefers/systemE - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 639 | 13 | 
 | 2023-04-08 | 639 | 13 | 
 | 2023-04-07 | 639 | 13 | 
 | 2023-04-06 | 639 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 638 | 13 | 
 | 2023-03-13 | 638 | 13 | 
 | 2023-03-11 | 638 | 13 | 
-| 2023-03-10 | 638 | 13 | 
 

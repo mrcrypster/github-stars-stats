@@ -1,10 +1,10 @@
 # txthinking/brook - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 2410
+☋ Forks: 2411
 
-★ Stars: 13586
+★ Stars: 13590
 
 [Open repository](https://github.com/txthinking/brook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 13590 | 2411 | 
 | 2023-04-08 | 13586 | 2410 | 
 | 2023-04-07 | 13582 | 2410 | 
 | 2023-04-06 | 13577 | 2410 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 13485 | 2400 | 
 | 2023-03-12 | 13484 | 2399 | 
 | 2023-03-11 | 13485 | 2400 | 
-| 2023-03-10 | 13484 | 2400 | 
 

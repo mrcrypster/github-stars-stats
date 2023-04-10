@@ -1,10 +1,10 @@
 # geneasy/links - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 16
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/geneasy/links)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 12 | 16 | 
 | 2023-04-08 | 11 | 16 | 
 | 2023-04-07 | 11 | 16 | 
 | 2023-04-06 | 11 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 11 | 15 | 
 | 2023-03-13 | 11 | 15 | 
 | 2023-03-11 | 11 | 15 | 
-| 2023-03-10 | 11 | 14 | 
 

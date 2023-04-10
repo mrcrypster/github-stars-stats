@@ -1,10 +1,10 @@
 # HaoOuBa/Joe - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 296
+☋ Forks: 298
 
-★ Stars: 1176
+★ Stars: 1179
 
 [Open repository](https://github.com/HaoOuBa/Joe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1179 | 298 | 
 | 2023-04-09 | 1176 | 296 | 
 | 2023-04-08 | 1173 | 296 | 
 | 2023-04-06 | 1172 | 296 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1146 | 291 | 
 | 2023-03-13 | 1146 | 292 | 
 | 2023-03-11 | 1145 | 291 | 
-| 2023-03-10 | 1145 | 291 | 
 

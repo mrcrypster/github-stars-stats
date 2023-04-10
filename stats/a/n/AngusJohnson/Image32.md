@@ -1,10 +1,10 @@
 # AngusJohnson/Image32 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 16
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/AngusJohnson/Image32)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 71 | 16 | 
 | 2023-04-08 | 70 | 16 | 
 | 2023-04-07 | 70 | 16 | 
 | 2023-04-06 | 70 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-13 | 60 | 16 | 
 | 2023-03-12 | 60 | 16 | 
 | 2023-03-11 | 60 | 15 | 
-| 2023-03-10 | 60 | 15 | 
 

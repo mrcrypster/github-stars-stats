@@ -1,10 +1,10 @@
 # iancoleman/bip39 - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 1327
 
-★ Stars: 2810
+★ Stars: 2812
 
 [Open repository](https://github.com/iancoleman/bip39)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 2812 | 1327 | 
 | 2023-04-08 | 2810 | 1327 | 
 | 2023-04-07 | 2808 | 1327 | 
 | 2023-04-06 | 2805 | 1327 | 

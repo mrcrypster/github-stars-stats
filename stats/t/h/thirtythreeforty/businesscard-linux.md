@@ -1,10 +1,10 @@
 # thirtythreeforty/businesscard-linux - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 179
+☋ Forks: 180
 
-★ Stars: 1684
+★ Stars: 1686
 
 [Open repository](https://github.com/thirtythreeforty/businesscard-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1686 | 180 | 
 | 2023-04-08 | 1684 | 179 | 
 | 2023-04-07 | 1684 | 179 | 
 | 2023-04-06 | 1684 | 179 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1682 | 178 | 
 | 2023-03-12 | 1682 | 178 | 
 | 2023-03-11 | 1682 | 178 | 
-| 2023-03-10 | 1682 | 178 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 341
 
-★ Stars: 2237
+★ Stars: 2238
 
 [Open repository](https://github.com/Ylianst/MeshCentral)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 2237 | 341 | 
+| 2023-04-09 | 2238 | 341 | 
 | 2023-04-08 | 2235 | 341 | 
 | 2023-04-07 | 2229 | 341 | 
 | 2023-04-06 | 2218 | 340 | 

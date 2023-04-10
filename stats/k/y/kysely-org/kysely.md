@@ -1,10 +1,10 @@
 # kysely-org/kysely - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 4645
+★ Stars: 4658
 
 [Open repository](https://github.com/kysely-org/kysely)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 4658 | 103 | 
 | 2023-04-08 | 4645 | 102 | 
 | 2023-04-07 | 4629 | 102 | 
 | 2023-04-06 | 4567 | 102 | 

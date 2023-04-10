@@ -1,10 +1,10 @@
 # xiaoweiChen/Template-Metaprogramming-with-CPP - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/xiaoweiChen/Template-Metaprogramming-with-CPP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 16 | 3 | 
 | 2023-04-08 | 15 | 3 | 
 | 2023-04-07 | 15 | 3 | 
 | 2023-04-06 | 13 | 3 | 

@@ -1,10 +1,10 @@
 # w-okada/voice-changer - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 36
+☋ Forks: 42
 
-★ Stars: 238
+★ Stars: 318
 
 [Open repository](https://github.com/w-okada/voice-changer)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 318 | 42 | 
+| 2023-04-09 | 315 | 41 | 
 | 2023-04-08 | 238 | 36 | 
 | 2023-04-07 | 218 | 34 | 
 | 2023-04-06 | 204 | 30 | 

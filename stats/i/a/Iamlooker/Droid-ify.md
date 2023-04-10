@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 09
 
 ☋ Forks: 36
 
-★ Stars: 1155
+★ Stars: 1156
 
 [Open repository](https://github.com/Iamlooker/Droid-ify)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-09 | 1155 | 36 | 
+| 2023-04-09 | 1156 | 36 | 
 | 2023-04-08 | 1154 | 36 | 
 | 2023-04-07 | 1152 | 36 | 
 | 2023-04-06 | 1144 | 36 | 

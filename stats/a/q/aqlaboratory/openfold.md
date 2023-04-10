@@ -1,10 +1,10 @@
 # aqlaboratory/openfold - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
-☋ Forks: 308
+☋ Forks: 310
 
-★ Stars: 1881
+★ Stars: 1882
 
 [Open repository](https://github.com/aqlaboratory/openfold)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 1882 | 310 | 
 | 2023-04-08 | 1881 | 308 | 
 | 2023-04-07 | 1881 | 306 | 
 | 2023-04-06 | 1879 | 306 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 08
 | 2023-03-14 | 1832 | 299 | 
 | 2023-03-12 | 1830 | 299 | 
 | 2023-03-11 | 1827 | 299 | 
-| 2023-03-10 | 1822 | 299 | 
 

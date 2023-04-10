@@ -1,10 +1,10 @@
 # hackingthemarkets/chatgpt-api-whisper-api-voice-assistant - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 10
 
-☋ Forks: 108
+☋ Forks: 112
 
-★ Stars: 235
+★ Stars: 240
 
 [Open repository](https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 240 | 112 | 
 | 2023-04-08 | 235 | 108 | 
 | 2023-04-07 | 234 | 106 | 
 | 2023-04-06 | 233 | 105 | 

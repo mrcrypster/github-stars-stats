@@ -1,6 +1,6 @@
 # farazsth98/real-world-ethereum-hacks-remastered - stars & forks statistics
 
-Stats updated on Apr 2023, 08
+Stats updated on Apr 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-09 | 24 | - | 
 | 2023-04-08 | 24 | - | 
 | 2023-04-07 | 24 | - | 
 | 2023-04-06 | 24 | - | 
