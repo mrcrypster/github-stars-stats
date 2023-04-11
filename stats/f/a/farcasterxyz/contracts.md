@@ -1,10 +1,10 @@
 # farcasterxyz/contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 29
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/farcasterxyz/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 139 | 29 | 
 | 2023-04-09 | 138 | 29 | 
 | 2023-04-08 | 138 | 29 | 
 | 2023-04-07 | 138 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 134 | 28 | 
 | 2023-03-13 | 134 | 27 | 
 | 2023-03-12 | 134 | 26 | 
-| 2023-03-11 | 134 | 25 | 
 

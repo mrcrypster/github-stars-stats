@@ -1,6 +1,6 @@
 # jojoldu/freelec-springboot2-webservice - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 442
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 988 | 442 | 
 | 2023-04-09 | 988 | 442 | 
 | 2023-04-08 | 987 | 441 | 
 | 2023-04-07 | 987 | 442 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 973 | 438 | 
 | 2023-03-13 | 973 | 438 | 
 | 2023-03-12 | 972 | 438 | 
-| 2023-03-11 | 971 | 438 | 
 

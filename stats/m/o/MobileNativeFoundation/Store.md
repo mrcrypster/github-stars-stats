@@ -1,6 +1,6 @@
 # MobileNativeFoundation/Store - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2777 | 184 | 
 | 2023-04-09 | 2777 | 184 | 
 | 2023-04-08 | 2776 | 184 | 
 | 2023-04-07 | 2776 | 184 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 2755 | 184 | 
 | 2023-03-14 | 2755 | 184 | 
 | 2023-03-13 | 2754 | 184 | 
-| 2023-03-11 | 2753 | 184 | 
 

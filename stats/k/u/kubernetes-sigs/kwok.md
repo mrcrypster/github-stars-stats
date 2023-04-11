@@ -1,10 +1,10 @@
 # kubernetes-sigs/kwok - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 87
 
-★ Stars: 1034
+★ Stars: 1036
 
 [Open repository](https://github.com/kubernetes-sigs/kwok)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1036 | 87 | 
 | 2023-04-09 | 1034 | 87 | 
 | 2023-04-08 | 1032 | 87 | 
 | 2023-04-07 | 1031 | 87 | 

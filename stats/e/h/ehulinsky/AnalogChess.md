@@ -1,10 +1,10 @@
 # ehulinsky/AnalogChess - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 22
 
-★ Stars: 447
+★ Stars: 448
 
 [Open repository](https://github.com/ehulinsky/AnalogChess)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 448 | 22 | 
 | 2023-04-09 | 447 | 22 | 
 | 2023-04-08 | 447 | 22 | 
 | 2023-04-07 | 447 | 22 | 

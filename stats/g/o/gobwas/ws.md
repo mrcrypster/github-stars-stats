@@ -1,10 +1,10 @@
 # gobwas/ws - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 337
+☋ Forks: 336
 
-★ Stars: 5153
+★ Stars: 5202
 
 [Open repository](https://github.com/gobwas/ws)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5202 | 336 | 
 | 2023-04-09 | 5153 | 337 | 
 | 2023-04-08 | 5151 | 337 | 
 | 2023-04-07 | 5148 | 337 | 

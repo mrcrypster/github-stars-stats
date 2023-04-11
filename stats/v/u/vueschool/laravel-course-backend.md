@@ -1,8 +1,8 @@
 # vueschool/laravel-course-backend - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 10 | 12 | 
 | 2023-04-09 | 10 | 11 | 
 | 2023-04-08 | 10 | 11 | 
 | 2023-04-07 | 10 | 11 | 

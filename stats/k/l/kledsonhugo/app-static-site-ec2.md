@@ -1,8 +1,8 @@
 # kledsonhugo/app-static-site-ec2 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 24
+☋ Forks: 27
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | - | 27 | 
 | 2023-04-09 | - | 24 | 
 | 2023-04-08 | - | 17 | 
 

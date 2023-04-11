@@ -1,10 +1,10 @@
 # herobrine19/openai-billing - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/herobrine19/openai-billing)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 29 | 11 | 
 | 2023-04-09 | 28 | 10 | 
 | 2023-04-08 | 27 | 10 | 
 | 2023-04-07 | 27 | 9 | 

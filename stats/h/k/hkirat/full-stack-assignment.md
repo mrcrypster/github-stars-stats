@@ -1,10 +1,10 @@
 # hkirat/full-stack-assignment - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 355
+☋ Forks: 365
 
-★ Stars: 95
+★ Stars: 98
 
 [Open repository](https://github.com/hkirat/full-stack-assignment)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 98 | 365 | 
 | 2023-04-09 | 95 | 355 | 
 | 2023-04-08 | 84 | 323 | 
 

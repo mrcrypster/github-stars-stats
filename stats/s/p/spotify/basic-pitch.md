@@ -1,10 +1,10 @@
 # spotify/basic-pitch - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 111
 
-★ Stars: 1752
+★ Stars: 1754
 
 [Open repository](https://github.com/spotify/basic-pitch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1754 | 111 | 
 | 2023-04-09 | 1752 | 111 | 
 | 2023-04-08 | 1749 | 110 | 
 | 2023-04-07 | 1747 | 110 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1670 | 100 | 
 | 2023-03-14 | 1668 | 99 | 
 | 2023-03-12 | 1666 | 99 | 
-| 2023-03-11 | 1666 | 99 | 
 

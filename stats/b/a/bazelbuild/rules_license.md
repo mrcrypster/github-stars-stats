@@ -1,8 +1,8 @@
 # bazelbuild/rules_license - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 52 | 20 | 
 | 2023-04-09 | 52 | 19 | 
 | 2023-04-08 | 52 | 19 | 
 | 2023-04-07 | 52 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 50 | 18 | 
 | 2023-03-13 | 51 | 18 | 
 | 2023-03-12 | 51 | 18 | 
-| 2023-03-11 | 51 | 18 | 
 

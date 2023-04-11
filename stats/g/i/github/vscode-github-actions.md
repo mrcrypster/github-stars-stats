@@ -1,10 +1,10 @@
 # github/vscode-github-actions - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 261
+★ Stars: 263
 
 [Open repository](https://github.com/github/vscode-github-actions)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 263 | 14 | 
 | 2023-04-09 | 261 | 14 | 
 | 2023-04-08 | 260 | 14 | 
 | 2023-04-07 | 257 | 13 | 

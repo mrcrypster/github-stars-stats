@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 64
+☋ Forks: 78
 
-★ Stars: 564
+★ Stars: 681
 
 [Open repository](https://github.com/l15y/wenda)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 564 | 64 | 
+| 2023-04-10 | 681 | 78 | 
 | 2023-04-09 | 548 | 63 | 
 | 2023-04-08 | 465 | 57 | 
 | 2023-04-07 | 388 | 45 | 

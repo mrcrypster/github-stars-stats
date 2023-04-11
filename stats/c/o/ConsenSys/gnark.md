@@ -1,10 +1,10 @@
 # ConsenSys/gnark - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 177
+☋ Forks: 179
 
-★ Stars: 828
+★ Stars: 831
 
 [Open repository](https://github.com/ConsenSys/gnark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 831 | 179 | 
 | 2023-04-09 | 828 | 177 | 
 | 2023-04-08 | 823 | 177 | 
 | 2023-04-07 | 820 | 175 | 

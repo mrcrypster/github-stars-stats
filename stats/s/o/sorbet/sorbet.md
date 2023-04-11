@@ -1,6 +1,6 @@
 # sorbet/sorbet - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 463
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3409 | 463 | 
 | 2023-04-09 | 3409 | 463 | 
 | 2023-04-08 | 3410 | 463 | 
 | 2023-04-07 | 3409 | 463 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 3389 | 459 | 
 | 2023-03-14 | 3389 | 459 | 
 | 2023-03-13 | 3388 | 459 | 
-| 2023-03-12 | 3387 | 458 | 
 

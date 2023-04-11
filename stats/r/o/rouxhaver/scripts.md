@@ -1,6 +1,6 @@
 # rouxhaver/scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6 | 33 | 
 | 2023-04-09 | 6 | 33 | 
 | 2023-04-08 | 6 | 33 | 
 | 2023-04-07 | 5 | 33 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 7 | 33 | 
 | 2023-03-14 | 7 | 33 | 
 | 2023-03-13 | 7 | 33 | 
-| 2023-03-12 | 7 | 32 | 
 

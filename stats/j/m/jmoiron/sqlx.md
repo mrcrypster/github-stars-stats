@@ -1,10 +1,10 @@
 # jmoiron/sqlx - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1010
 
-★ Stars: 13506
+★ Stars: 13509
 
 [Open repository](https://github.com/jmoiron/sqlx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 13509 | 1010 | 
 | 2023-04-09 | 13506 | 1010 | 
 | 2023-04-08 | 13504 | 1010 | 
 | 2023-04-07 | 13499 | 1010 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 13404 | 1005 | 
 | 2023-03-13 | 13395 | 1004 | 
 | 2023-03-12 | 13386 | 1004 | 
-| 2023-03-11 | 13383 | 1004 | 
 

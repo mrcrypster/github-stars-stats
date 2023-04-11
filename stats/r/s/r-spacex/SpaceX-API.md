@@ -1,10 +1,10 @@
 # r-spacex/SpaceX-API - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 878
 
-★ Stars: 9763
+★ Stars: 9765
 
 [Open repository](https://github.com/r-spacex/SpaceX-API)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 9765 | 878 | 
 | 2023-04-09 | 9763 | 878 | 
 | 2023-04-08 | 9762 | 878 | 
 | 2023-04-07 | 9759 | 877 | 

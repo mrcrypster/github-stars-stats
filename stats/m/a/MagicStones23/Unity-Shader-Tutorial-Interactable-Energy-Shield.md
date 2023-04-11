@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 19
+★ Stars: 22
 
 [Open repository](https://github.com/MagicStones23/Unity-Shader-Tutorial-Interactable-Energy-Shield)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 19 | 4 | 
+| 2023-04-10 | 22 | 5 | 
 | 2023-04-09 | 19 | 4 | 
 

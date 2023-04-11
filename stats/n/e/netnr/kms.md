@@ -1,6 +1,6 @@
 # netnr/kms - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 730 | 193 | 
 | 2023-04-09 | 730 | 193 | 
 | 2023-04-08 | 729 | 192 | 
 | 2023-04-07 | 727 | 191 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 707 | 187 | 
 | 2023-03-13 | 707 | 187 | 
 | 2023-03-12 | 706 | 187 | 
-| 2023-03-11 | 706 | 187 | 
 

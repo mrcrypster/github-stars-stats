@@ -1,10 +1,10 @@
 # huff-language/huff-project-template - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 27
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/huff-language/huff-project-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 143 | 27 | 
 | 2023-04-09 | 142 | 27 | 
 | 2023-04-08 | 142 | 27 | 
 | 2023-04-07 | 142 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 136 | 25 | 
 | 2023-03-13 | 136 | 25 | 
 | 2023-03-12 | 136 | 25 | 
-| 2023-03-11 | 136 | 25 | 
 

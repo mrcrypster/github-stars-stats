@@ -1,10 +1,10 @@
 # google/btree - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 404
 
-★ Stars: 3359
+★ Stars: 3360
 
 [Open repository](https://github.com/google/btree)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3360 | 404 | 
 | 2023-04-09 | 3359 | 404 | 
 | 2023-04-08 | 3358 | 404 | 
 | 2023-04-07 | 3358 | 404 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 3321 | 397 | 
 | 2023-03-13 | 3322 | 397 | 
 | 2023-03-12 | 3323 | 397 | 
-| 2023-03-11 | 3319 | 395 | 
 

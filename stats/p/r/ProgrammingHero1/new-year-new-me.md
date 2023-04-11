@@ -1,10 +1,10 @@
 # ProgrammingHero1/new-year-new-me - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 54
+★ Stars: 53
 
 [Open repository](https://github.com/ProgrammingHero1/new-year-new-me)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 53 | 18 | 
 | 2023-04-09 | 54 | 18 | 
 | 2023-04-08 | 54 | 18 | 
 | 2023-04-07 | 54 | 18 | 

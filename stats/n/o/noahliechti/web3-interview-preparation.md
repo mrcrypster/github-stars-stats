@@ -1,6 +1,6 @@
 # noahliechti/web3-interview-preparation - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 148 | 47 | 
 | 2023-04-09 | 148 | 47 | 
 | 2023-04-08 | 148 | 47 | 
 | 2023-04-07 | 148 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 145 | 45 | 
 | 2023-03-14 | 145 | 44 | 
 | 2023-03-12 | 144 | 44 | 
-| 2023-03-11 | 144 | 43 | 
 

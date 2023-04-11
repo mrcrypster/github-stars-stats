@@ -1,6 +1,6 @@
 # mgeeky/AzureRT - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 211 | 29 | 
 | 2023-04-09 | 211 | 29 | 
 | 2023-04-08 | 211 | 29 | 
 | 2023-04-07 | 211 | 29 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 209 | 30 | 
 | 2023-03-14 | 209 | 30 | 
 | 2023-03-13 | 209 | 30 | 
-| 2023-03-11 | 209 | 30 | 
 

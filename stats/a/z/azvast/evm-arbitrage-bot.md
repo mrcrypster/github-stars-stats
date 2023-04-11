@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/azvast/evm-arbitrage-bot)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 36 | 1 | 
+| 2023-04-10 | 37 | 1 | 
 | 2023-04-09 | 36 | 1 | 
 

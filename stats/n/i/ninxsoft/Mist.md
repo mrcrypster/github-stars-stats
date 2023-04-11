@@ -1,6 +1,6 @@
 # ninxsoft/Mist - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 630 | 31 | 
 | 2023-04-09 | 630 | 31 | 
 | 2023-04-08 | 630 | 31 | 
 | 2023-04-07 | 629 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 602 | 29 | 
 | 2023-03-13 | 600 | 29 | 
 | 2023-03-12 | 597 | 29 | 
-| 2023-03-11 | 596 | 29 | 
 

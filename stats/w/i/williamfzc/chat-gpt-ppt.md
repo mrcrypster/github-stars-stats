@@ -1,10 +1,10 @@
 # williamfzc/chat-gpt-ppt - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 494
+★ Stars: 500
 
 [Open repository](https://github.com/williamfzc/chat-gpt-ppt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 500 | 56 | 
 | 2023-04-09 | 494 | 55 | 
 | 2023-04-08 | 490 | 55 | 
 | 2023-04-07 | 488 | 55 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 321 | 40 | 
 | 2023-03-13 | 309 | 40 | 
 | 2023-03-12 | 300 | 39 | 
-| 2023-03-11 | 296 | 38 | 
 

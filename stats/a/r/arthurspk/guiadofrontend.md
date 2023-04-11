@@ -1,10 +1,10 @@
 # arthurspk/guiadofrontend - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 235
 
-★ Stars: 2394
+★ Stars: 2399
 
 [Open repository](https://github.com/arthurspk/guiadofrontend)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2399 | 235 | 
 | 2023-04-09 | 2394 | 235 | 
 | 2023-04-08 | 2392 | 235 | 
 | 2023-04-07 | 2391 | 235 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 2274 | 238 | 
 | 2023-03-13 | 2269 | 236 | 
 | 2023-03-12 | 2258 | 237 | 
-| 2023-03-11 | 2257 | 237 | 
 

@@ -1,6 +1,6 @@
 # ouromoros/PowerGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 122 | 6 | 
 | 2023-04-10 | 122 | 6 | 
 | 2023-04-08 | 118 | 6 | 
 | 2023-04-07 | 117 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 33 | 3 | 
 | 2023-03-13 | 30 | 3 | 
 | 2023-03-12 | 29 | 3 | 
-| 2023-03-11 | 28 | 3 | 
 

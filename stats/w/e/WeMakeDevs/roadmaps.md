@@ -1,10 +1,10 @@
 # WeMakeDevs/roadmaps - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 583
+☋ Forks: 584
 
-★ Stars: 1648
+★ Stars: 1652
 
 [Open repository](https://github.com/WeMakeDevs/roadmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1652 | 584 | 
 | 2023-04-09 | 1648 | 583 | 
 | 2023-04-08 | 1648 | 583 | 
 | 2023-04-07 | 1643 | 581 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1472 | 516 | 
 | 2023-03-14 | 1459 | 511 | 
 | 2023-03-13 | 1431 | 507 | 
-| 2023-03-12 | 1348 | 478 | 
 

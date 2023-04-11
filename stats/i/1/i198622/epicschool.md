@@ -1,6 +1,6 @@
 # i198622/epicschool - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2 | 13 | 
 | 2023-04-10 | 2 | 13 | 
 | 2023-04-09 | 2 | 13 | 
 | 2023-04-07 | 2 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 2 | 13 | 
 | 2023-03-14 | 2 | 13 | 
 | 2023-03-12 | 2 | 13 | 
-| 2023-03-11 | 2 | 13 | 
 

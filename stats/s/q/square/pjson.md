@@ -1,6 +1,6 @@
 # square/pjson - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 93 | 5 | 
 | 2023-04-10 | 93 | 5 | 
 | 2023-04-08 | 93 | 5 | 
 | 2023-04-07 | 93 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 92 | 4 | 
 | 2023-03-14 | 92 | 4 | 
 | 2023-03-13 | 92 | 4 | 
-| 2023-03-11 | 92 | 4 | 
 

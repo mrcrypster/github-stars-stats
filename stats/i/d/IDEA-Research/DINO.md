@@ -1,10 +1,10 @@
 # IDEA-Research/DINO - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 1224
+★ Stars: 1239
 
 [Open repository](https://github.com/IDEA-Research/DINO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1239 | 128 | 
 | 2023-04-09 | 1224 | 127 | 
 | 2023-04-08 | 1219 | 126 | 
 | 2023-04-07 | 1215 | 126 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1162 | 122 | 
 | 2023-03-13 | 1163 | 122 | 
 | 2023-03-12 | 1163 | 122 | 
-| 2023-03-11 | 1160 | 122 | 
 

@@ -1,8 +1,8 @@
 # chriscrowe/docker-pihole-unbound - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 198
+☋ Forks: 199
 
 ★ Stars: 764
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 764 | 199 | 
 | 2023-04-09 | 764 | 198 | 
 | 2023-04-08 | 764 | 198 | 
 | 2023-04-07 | 763 | 197 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 745 | 193 | 
 | 2023-03-13 | 744 | 193 | 
 | 2023-03-12 | 744 | 193 | 
-| 2023-03-11 | 743 | 194 | 
 

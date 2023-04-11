@@ -1,10 +1,10 @@
 # osfans/trime - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 298
 
-★ Stars: 2011
+★ Stars: 2017
 
 [Open repository](https://github.com/osfans/trime)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2017 | 298 | 
 | 2023-04-09 | 2011 | 298 | 
 | 2023-04-08 | 2009 | 297 | 
 | 2023-04-07 | 2004 | 296 | 

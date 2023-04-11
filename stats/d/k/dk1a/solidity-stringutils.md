@@ -1,6 +1,6 @@
 # dk1a/solidity-stringutils - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 20 | - | 
 | 2023-04-09 | 20 | - | 
 | 2023-04-08 | 20 | - | 
 | 2023-04-07 | 20 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 20 | - | 
 | 2023-03-14 | 20 | - | 
 | 2023-03-13 | 20 | - | 
-| 2023-03-12 | 20 | - | 
 

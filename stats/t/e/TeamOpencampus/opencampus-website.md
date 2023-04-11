@@ -1,6 +1,6 @@
 # TeamOpencampus/opencampus-website - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3 | 13 | 
 | 2023-04-10 | 3 | 13 | 
 | 2023-04-08 | 3 | 13 | 
 | 2023-04-07 | 3 | 13 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 3 | 13 | 
 | 2023-03-14 | 3 | 13 | 
 | 2023-03-13 | 3 | 13 | 
-| 2023-03-12 | 3 | 13 | 
 

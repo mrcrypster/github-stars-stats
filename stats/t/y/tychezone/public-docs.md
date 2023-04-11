@@ -1,10 +1,10 @@
 # tychezone/public-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/tychezone/public-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 35 | 8 | 
 | 2023-04-09 | 34 | 8 | 
 | 2023-04-08 | 34 | 7 | 
 | 2023-04-07 | 34 | 7 | 

@@ -1,6 +1,6 @@
 # CommunityOfCoders/ML-DS-Workshop-22 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 22 | 14 | 
 | 2023-04-10 | 22 | 14 | 
 | 2023-04-08 | 22 | 14 | 
 | 2023-04-07 | 22 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 22 | 14 | 
 | 2023-03-14 | 22 | 14 | 
 | 2023-03-12 | 22 | 14 | 
-| 2023-03-11 | 22 | 14 | 
 

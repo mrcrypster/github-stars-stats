@@ -1,6 +1,6 @@
 # lax1dude/eaglercraftx-1.8 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 28 | 94 | 
 | 2023-04-09 | 28 | 94 | 
 | 2023-04-08 | 28 | 94 | 
 | 2023-04-07 | 28 | 94 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 22 | 44 | 
 | 2023-03-14 | 20 | 40 | 
 | 2023-03-12 | 19 | 36 | 
-| 2023-03-11 | 19 | 34 | 
 

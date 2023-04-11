@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 934
 
-★ Stars: 2214
+★ Stars: 2215
 
 [Open repository](https://github.com/dotnet/sdk)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 2214 | 934 | 
+| 2023-04-10 | 2215 | 934 | 
 | 2023-04-09 | 2213 | 934 | 
 | 2023-04-08 | 2209 | 932 | 
 | 2023-04-07 | 2208 | 933 | 

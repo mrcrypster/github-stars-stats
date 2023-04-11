@@ -1,10 +1,10 @@
 # btcsuite/btcd - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1875
 
-★ Stars: 5245
+★ Stars: 5244
 
 [Open repository](https://github.com/btcsuite/btcd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5244 | 1875 | 
 | 2023-04-09 | 5245 | 1875 | 
 | 2023-04-08 | 5243 | 1875 | 
 | 2023-04-07 | 5245 | 1876 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 5223 | 1860 | 
 | 2023-03-13 | 5222 | 1859 | 
 | 2023-03-12 | 5222 | 1858 | 
-| 2023-03-11 | 5219 | 1858 | 
 

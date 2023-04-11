@@ -1,10 +1,10 @@
 # Mimetis/Dotmim.Sync - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 164
 
-★ Stars: 729
+★ Stars: 731
 
 [Open repository](https://github.com/Mimetis/Dotmim.Sync)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 731 | 164 | 
 | 2023-04-09 | 729 | 164 | 
 | 2023-04-08 | 729 | 164 | 
 | 2023-04-07 | 728 | 164 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 715 | 162 | 
 | 2023-03-14 | 714 | 162 | 
 | 2023-03-13 | 713 | 162 | 
-| 2023-03-11 | 713 | 162 | 
 

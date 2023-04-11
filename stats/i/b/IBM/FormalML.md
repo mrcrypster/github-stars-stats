@@ -1,6 +1,6 @@
 # IBM/FormalML - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 46 | 14 | 
 | 2023-04-09 | 46 | 14 | 
 | 2023-04-08 | 46 | 14 | 
 | 2023-04-07 | 46 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 46 | 14 | 
 | 2023-03-13 | 46 | 14 | 
 | 2023-03-12 | 46 | 14 | 
-| 2023-03-11 | 46 | 14 | 
 

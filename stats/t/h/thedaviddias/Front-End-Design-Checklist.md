@@ -1,6 +1,6 @@
 # thedaviddias/Front-End-Design-Checklist - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 372
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 4736 | 372 | 
 | 2023-04-09 | 4736 | 372 | 
 | 2023-04-08 | 4734 | 372 | 
 | 2023-04-07 | 4733 | 372 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 4718 | 372 | 
 | 2023-03-13 | 4717 | 371 | 
 | 2023-03-12 | 4715 | 371 | 
-| 2023-03-11 | 4714 | 371 | 
 

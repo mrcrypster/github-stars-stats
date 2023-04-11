@@ -1,6 +1,6 @@
 # stemangiola/tidyseurat - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 114 | 11 | 
 | 2023-04-09 | 114 | 11 | 
 | 2023-04-08 | 114 | 11 | 
 | 2023-04-07 | 114 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 114 | 10 | 
 | 2023-03-14 | 113 | 10 | 
 | 2023-03-13 | 113 | 10 | 
-| 2023-03-11 | 113 | 10 | 
 

@@ -1,10 +1,10 @@
 # plasma-umass/ChatDBG - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 412
+★ Stars: 419
 
 [Open repository](https://github.com/plasma-umass/ChatDBG)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 419 | 22 | 
 | 2023-04-09 | 412 | 21 | 
 | 2023-04-08 | 408 | 21 | 
 | 2023-04-07 | 402 | 20 | 

@@ -1,10 +1,10 @@
 # casbin/casbin - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1539
 
-★ Stars: 14201
+★ Stars: 14208
 
 [Open repository](https://github.com/casbin/casbin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 14208 | 1539 | 
 | 2023-04-09 | 14201 | 1539 | 
 | 2023-04-08 | 14197 | 1539 | 
 | 2023-04-07 | 14190 | 1537 | 

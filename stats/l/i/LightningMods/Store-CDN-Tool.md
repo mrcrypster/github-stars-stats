@@ -1,8 +1,8 @@
 # LightningMods/Store-CDN-Tool - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 30 | 6 | 
 | 2023-04-09 | 30 | 5 | 
 | 2023-04-08 | 30 | 5 | 
 | 2023-04-07 | 30 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 29 | 5 | 
 | 2023-03-14 | 29 | 5 | 
 | 2023-03-12 | 29 | 5 | 
-| 2023-03-11 | 29 | 5 | 
 

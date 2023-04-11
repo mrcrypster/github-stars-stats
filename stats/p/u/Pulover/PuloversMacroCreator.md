@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 212
 
-★ Stars: 1315
+★ Stars: 1316
 
 [Open repository](https://github.com/Pulover/PuloversMacroCreator)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 1315 | 212 | 
+| 2023-04-10 | 1316 | 212 | 
 | 2023-04-09 | 1315 | 212 | 
 | 2023-04-08 | 1314 | 212 | 
 | 2023-04-07 | 1312 | 211 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 1299 | 209 | 
 | 2023-03-13 | 1299 | 209 | 
 | 2023-03-12 | 1298 | 208 | 
-| 2023-03-11 | 1298 | 208 | 
 

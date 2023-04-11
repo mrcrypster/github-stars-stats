@@ -1,10 +1,10 @@
 # orhanerday/ChatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 43
 
-★ Stars: 151
+★ Stars: 154
 
 [Open repository](https://github.com/orhanerday/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 154 | 43 | 
 | 2023-04-09 | 151 | 43 | 
 | 2023-04-08 | 147 | 43 | 
 | 2023-04-07 | 145 | 41 | 

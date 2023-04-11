@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Herick75/Box4Droid)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 17 | 1 | 
+| 2023-04-10 | 18 | 2 | 
 | 2023-04-09 | 17 | 1 | 
 

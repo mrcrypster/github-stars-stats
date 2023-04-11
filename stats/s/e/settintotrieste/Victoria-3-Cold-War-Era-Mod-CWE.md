@@ -1,8 +1,8 @@
 # settintotrieste/Victoria-3-Cold-War-Era-Mod-CWE - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 17 | 19 | 
 | 2023-04-09 | 17 | 18 | 
 | 2023-04-08 | 17 | 18 | 
 | 2023-04-07 | 17 | 18 | 

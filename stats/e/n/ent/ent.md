@@ -1,10 +1,10 @@
 # ent/ent - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 778
+☋ Forks: 777
 
-★ Stars: 13286
+★ Stars: 13290
 
 [Open repository](https://github.com/ent/ent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 13290 | 777 | 
 | 2023-04-09 | 13286 | 778 | 
 | 2023-04-08 | 13282 | 778 | 
 | 2023-04-07 | 13279 | 778 | 

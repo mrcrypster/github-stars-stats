@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 20
 
-★ Stars: 304
+★ Stars: 303
 
 [Open repository](https://github.com/joshcho/ChatGPT.el)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 304 | 20 | 
+| 2023-04-10 | 303 | 20 | 
 | 2023-04-09 | 303 | 20 | 
 | 2023-04-08 | 303 | 20 | 
 | 2023-04-07 | 302 | 20 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 230 | 14 | 
 | 2023-03-13 | 227 | 14 | 
 | 2023-03-12 | 224 | 14 | 
-| 2023-03-11 | 223 | 14 | 
 

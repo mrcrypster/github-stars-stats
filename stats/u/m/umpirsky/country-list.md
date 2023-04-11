@@ -1,10 +1,10 @@
 # umpirsky/country-list - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1571
 
-★ Stars: 5014
+★ Stars: 5013
 
 [Open repository](https://github.com/umpirsky/country-list)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5013 | 1571 | 
 | 2023-04-09 | 5014 | 1571 | 
 | 2023-04-08 | 5014 | 1571 | 
 | 2023-04-07 | 5014 | 1571 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 5015 | 1569 | 
 | 2023-03-14 | 5013 | 1569 | 
 | 2023-03-12 | 5013 | 1569 | 
-| 2023-03-11 | 5013 | 1568 | 
 

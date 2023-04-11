@@ -1,6 +1,6 @@
 # akoutmos/octo_fetch - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 15 | 1 | 
 | 2023-04-09 | 15 | 1 | 
 | 2023-04-08 | 15 | 1 | 
 | 2023-04-07 | 15 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 13 | - | 
 | 2023-03-14 | 13 | - | 
 | 2023-03-12 | 13 | - | 
-| 2023-03-11 | 13 | - | 
 

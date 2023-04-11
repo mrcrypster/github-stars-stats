@@ -1,6 +1,6 @@
 # simplex-chat/simplexmq - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 232 | 26 | 
 | 2023-04-09 | 232 | 26 | 
 | 2023-04-08 | 231 | 26 | 
 | 2023-04-07 | 231 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 221 | 24 | 
 | 2023-03-14 | 220 | 24 | 
 | 2023-03-13 | 220 | 24 | 
-| 2023-03-12 | 217 | 24 | 
 

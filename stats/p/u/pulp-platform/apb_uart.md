@@ -1,6 +1,6 @@
 # pulp-platform/apb_uart - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 5 | 20 | 
 | 2023-04-10 | 5 | 20 | 
 | 2023-04-09 | 5 | 20 | 
 | 2023-04-08 | 5 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 5 | 19 | 
 | 2023-03-13 | 5 | 19 | 
 | 2023-03-12 | 5 | 19 | 
-| 2023-03-11 | 5 | 19 | 
 

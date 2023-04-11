@@ -1,10 +1,10 @@
 # highlight/highlight - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 2550
+★ Stars: 2560
 
 [Open repository](https://github.com/highlight/highlight)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2560 | 55 | 
 | 2023-04-09 | 2550 | 54 | 
 | 2023-04-08 | 2541 | 53 | 
 | 2023-04-07 | 2535 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 2177 | 32 | 
 | 2023-03-13 | 2161 | 31 | 
 | 2023-03-12 | 2144 | 31 | 
-| 2023-03-11 | 2140 | 31 | 
 

@@ -1,10 +1,10 @@
 # moodle-an-hochschulen/moodle-local_boostnavigation - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 33
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/moodle-an-hochschulen/moodle-local_boostnavigation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 40 | 33 | 
 | 2023-04-09 | 39 | 33 | 
 | 2023-04-08 | 39 | 33 | 
 | 2023-04-07 | 39 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 39 | 33 | 
 | 2023-03-13 | 39 | 33 | 
 | 2023-03-12 | 39 | 33 | 
-| 2023-03-11 | 39 | 33 | 
 

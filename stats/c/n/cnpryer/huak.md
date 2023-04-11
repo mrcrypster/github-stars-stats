@@ -1,10 +1,10 @@
 # cnpryer/huak - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 20
 
-★ Stars: 212
+★ Stars: 214
 
 [Open repository](https://github.com/cnpryer/huak)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 214 | 20 | 
 | 2023-04-09 | 212 | 20 | 
 | 2023-04-08 | 212 | 20 | 
 | 2023-04-07 | 211 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 207 | 20 | 
 | 2023-03-14 | 208 | 19 | 
 | 2023-03-12 | 206 | 19 | 
-| 2023-03-11 | 205 | 19 | 
 

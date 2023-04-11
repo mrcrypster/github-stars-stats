@@ -1,10 +1,10 @@
 # zerodevx/svelte-img - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/zerodevx/svelte-img)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 96 | 2 | 
 | 2023-04-09 | 95 | 2 | 
 | 2023-04-08 | 94 | 2 | 
 | 2023-04-07 | 92 | 2 | 

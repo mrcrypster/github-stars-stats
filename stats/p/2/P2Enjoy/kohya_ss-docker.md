@@ -1,10 +1,10 @@
 # P2Enjoy/kohya_ss-docker - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/P2Enjoy/kohya_ss-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 66 | 12 | 
 | 2023-04-09 | 64 | 11 | 
 | 2023-04-08 | 63 | 11 | 
 | 2023-04-07 | 63 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 44 | 8 | 
 | 2023-03-14 | 41 | 7 | 
 | 2023-03-13 | 40 | 7 | 
-| 2023-03-11 | 38 | 7 | 
 

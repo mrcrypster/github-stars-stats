@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 18 | 1 | 
+| 2023-04-10 | 19 | 1 | 
 | 2023-04-09 | 18 | 1 | 
 

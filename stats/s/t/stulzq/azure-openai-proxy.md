@@ -1,10 +1,10 @@
 # stulzq/azure-openai-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 145
+★ Stars: 165
 
 [Open repository](https://github.com/stulzq/azure-openai-proxy)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 165 | 20 | 
 | 2023-04-09 | 145 | 18 | 
 

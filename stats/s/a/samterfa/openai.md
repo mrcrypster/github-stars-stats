@@ -1,10 +1,10 @@
 # samterfa/openai - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/samterfa/openai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 108 | 13 | 
 | 2023-04-09 | 107 | 13 | 
 | 2023-04-08 | 107 | 13 | 
 | 2023-04-07 | 107 | 13 | 

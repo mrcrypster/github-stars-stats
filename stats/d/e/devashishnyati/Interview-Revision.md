@@ -1,10 +1,10 @@
 # devashishnyati/Interview-Revision - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 104
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/devashishnyati/Interview-Revision)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 193 | 104 | 
 | 2023-04-09 | 192 | 104 | 
 | 2023-04-08 | 192 | 104 | 
 | 2023-04-07 | 192 | 104 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 191 | 101 | 
 | 2023-03-14 | 191 | 101 | 
 | 2023-03-13 | 191 | 101 | 
-| 2023-03-11 | 191 | 101 | 
 

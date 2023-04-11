@@ -1,6 +1,6 @@
 # CapnKitten/BetterDiscord - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 699
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 116 | 699 | 
 | 2023-04-09 | 116 | 699 | 
 | 2023-04-08 | 115 | 698 | 
 | 2023-04-07 | 115 | 696 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 112 | 653 | 
 | 2023-03-13 | 112 | 653 | 
 | 2023-03-12 | 111 | 652 | 
-| 2023-03-11 | 111 | 652 | 
 

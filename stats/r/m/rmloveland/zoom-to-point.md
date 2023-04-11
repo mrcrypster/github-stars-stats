@@ -1,10 +1,10 @@
 # rmloveland/zoom-to-point - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/rmloveland/zoom-to-point)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 18 | - | 
 | 2023-04-10 | 17 | - | 
 | 2023-04-08 | 17 | - | 
 | 2023-04-07 | 17 | - | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 17 | - | 
 | 2023-03-14 | 17 | - | 
 | 2023-03-12 | 17 | - | 
-| 2023-03-11 | 17 | - | 
 

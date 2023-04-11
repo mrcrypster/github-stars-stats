@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 184
+★ Stars: 189
 
 [Open repository](https://github.com/Adam-Miao/SYNAPSE-X-CRACKED-ROBLOX-HACK-2023)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 184 | 1 | 
+| 2023-04-10 | 189 | 1 | 
 | 2023-04-09 | 184 | 1 | 
 

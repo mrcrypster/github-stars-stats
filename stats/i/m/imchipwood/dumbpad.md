@@ -1,10 +1,10 @@
 # imchipwood/dumbpad - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/imchipwood/dumbpad)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 278 | 52 | 
 | 2023-04-09 | 277 | 51 | 
 | 2023-04-08 | 277 | 51 | 
 | 2023-04-07 | 277 | 51 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 268 | 48 | 
 | 2023-03-14 | 268 | 48 | 
 | 2023-03-12 | 268 | 48 | 
-| 2023-03-11 | 268 | 48 | 
 

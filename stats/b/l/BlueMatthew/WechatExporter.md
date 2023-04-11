@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 348
 
-★ Stars: 3171
+★ Stars: 3181
 
 [Open repository](https://github.com/BlueMatthew/WechatExporter)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 3171 | 348 | 
+| 2023-04-10 | 3181 | 348 | 
 | 2023-04-09 | 3170 | 348 | 
 | 2023-04-08 | 3157 | 348 | 
 

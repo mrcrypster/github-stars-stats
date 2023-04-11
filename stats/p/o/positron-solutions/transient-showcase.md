@@ -1,6 +1,6 @@
 # positron-solutions/transient-showcase - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 63 | 7 | 
 | 2023-04-10 | 63 | 7 | 
 | 2023-04-08 | 62 | 7 | 
 | 2023-04-07 | 62 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 61 | 6 | 
 | 2023-03-13 | 61 | 6 | 
 | 2023-03-12 | 61 | 6 | 
-| 2023-03-11 | 61 | 6 | 
 

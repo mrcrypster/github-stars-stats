@@ -1,10 +1,10 @@
 # masmovil/bazel-rules - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 20
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/masmovil/bazel-rules)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 46 | 20 | 
+| 2023-04-11 | 47 | 20 | 
+| 2023-04-10 | 47 | 20 | 
 | 2023-04-09 | 46 | 20 | 
 | 2023-04-08 | 46 | 20 | 
 | 2023-04-07 | 46 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 44 | 20 | 
 | 2023-03-13 | 43 | 20 | 
 | 2023-03-12 | 43 | 20 | 
-| 2023-03-11 | 43 | 20 | 
 

@@ -1,10 +1,10 @@
 # xulioc/sveltekit-supabase-dashboard - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 11
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/xulioc/sveltekit-supabase-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 81 | 11 | 
 | 2023-04-09 | 80 | 11 | 
 | 2023-04-08 | 79 | 11 | 
 | 2023-04-07 | 79 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 69 | 11 | 
 | 2023-03-13 | 69 | 11 | 
 | 2023-03-12 | 67 | 11 | 
-| 2023-03-11 | 67 | 11 | 
 

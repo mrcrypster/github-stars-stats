@@ -1,10 +1,10 @@
 # Kav-K/GPT3Discord - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 188
+☋ Forks: 190
 
-★ Stars: 1201
+★ Stars: 1204
 
 [Open repository](https://github.com/Kav-K/GPT3Discord)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1204 | 190 | 
 | 2023-04-09 | 1201 | 188 | 
 | 2023-04-08 | 1197 | 186 | 
 | 2023-04-07 | 1192 | 185 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1071 | 154 | 
 | 2023-03-13 | 1067 | 150 | 
 | 2023-03-12 | 1063 | 150 | 
-| 2023-03-11 | 1043 | 146 | 
 

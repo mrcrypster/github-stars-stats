@@ -1,10 +1,10 @@
 # Cohee1207/SillyTavern - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 83
+★ Stars: 86
 
 [Open repository](https://github.com/Cohee1207/SillyTavern)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 86 | 17 | 
 | 2023-04-09 | 83 | 16 | 
 | 2023-04-08 | 74 | 14 | 
 | 2023-04-07 | 68 | 14 | 

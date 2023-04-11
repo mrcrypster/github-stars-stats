@@ -1,10 +1,10 @@
 # daisixuan/r0chrome - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 92
+☋ Forks: 95
 
-★ Stars: 240
+★ Stars: 269
 
 [Open repository](https://github.com/daisixuan/r0chrome)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 269 | 95 | 
 | 2023-04-09 | 240 | 92 | 
 | 2023-04-08 | 237 | 91 | 
 | 2023-04-07 | 227 | 88 | 

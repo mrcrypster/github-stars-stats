@@ -1,10 +1,10 @@
 # mmistakes/minimal-mistakes - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 22352
+☋ Forks: 22362
 
-★ Stars: 10858
+★ Stars: 10863
 
 [Open repository](https://github.com/mmistakes/minimal-mistakes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 10863 | 22362 | 
 | 2023-04-09 | 10858 | 22352 | 
 | 2023-04-08 | 10841 | 22296 | 
 | 2023-04-07 | 10838 | 22289 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 10756 | 22059 | 
 | 2023-03-13 | 10753 | 22055 | 
 | 2023-03-12 | 10741 | 22040 | 
-| 2023-03-11 | 10739 | 22024 | 
 

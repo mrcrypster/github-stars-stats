@@ -1,10 +1,10 @@
 # amark/gun - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1151
 
-★ Stars: 17074
+★ Stars: 17078
 
 [Open repository](https://github.com/amark/gun)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 17078 | 1151 | 
 | 2023-04-10 | 17074 | 1151 | 
 | 2023-04-09 | 17069 | 1150 | 
 | 2023-04-07 | 17069 | 1151 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 17001 | 1140 | 
 | 2023-03-14 | 17000 | 1140 | 
 | 2023-03-12 | 16996 | 1140 | 
-| 2023-03-11 | 16989 | 1139 | 
 

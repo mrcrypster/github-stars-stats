@@ -1,10 +1,10 @@
 # hnmr293/posex - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 37
 
-★ Stars: 331
+★ Stars: 334
 
 [Open repository](https://github.com/hnmr293/posex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 334 | 37 | 
 | 2023-04-09 | 331 | 37 | 
 | 2023-04-08 | 330 | 36 | 
 | 2023-04-07 | 321 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 201 | 20 | 
 | 2023-03-13 | 193 | 18 | 
 | 2023-03-12 | 179 | 16 | 
-| 2023-03-11 | 168 | 14 | 
 

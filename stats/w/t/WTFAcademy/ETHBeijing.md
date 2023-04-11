@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 90
+☋ Forks: 89
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/WTFAcademy/ETHBeijing)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 30 | 90 | 
+| 2023-04-10 | 31 | 89 | 
 | 2023-04-09 | 30 | 91 | 
 | 2023-04-08 | 29 | 90 | 
 | 2023-04-07 | 26 | 69 | 

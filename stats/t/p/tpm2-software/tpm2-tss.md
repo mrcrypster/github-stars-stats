@@ -1,10 +1,10 @@
 # tpm2-software/tpm2-tss - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 312
 
-★ Stars: 588
+★ Stars: 589
 
 [Open repository](https://github.com/tpm2-software/tpm2-tss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 589 | 312 | 
 | 2023-04-10 | 588 | 312 | 
 | 2023-04-09 | 588 | 312 | 
 | 2023-04-07 | 588 | 312 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 579 | 309 | 
 | 2023-03-13 | 579 | 309 | 
 | 2023-03-12 | 578 | 309 | 
-| 2023-03-11 | 578 | 309 | 
 

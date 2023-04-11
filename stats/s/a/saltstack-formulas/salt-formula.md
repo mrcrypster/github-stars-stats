@@ -1,8 +1,8 @@
 # saltstack-formulas/salt-formula - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 426
+☋ Forks: 425
 
 ★ Stars: 194
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 194 | 425 | 
 | 2023-04-09 | 194 | 426 | 
 | 2023-04-08 | 194 | 426 | 
 | 2023-04-07 | 194 | 426 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 195 | 429 | 
 | 2023-03-14 | 195 | 429 | 
 | 2023-03-12 | 195 | 428 | 
-| 2023-03-11 | 195 | 428 | 
 

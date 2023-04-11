@@ -1,10 +1,10 @@
 # jayasuryat/dowel - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/jayasuryat/dowel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 119 | 2 | 
 | 2023-04-09 | 118 | 2 | 
 | 2023-04-08 | 118 | 2 | 
 | 2023-04-07 | 118 | 2 | 

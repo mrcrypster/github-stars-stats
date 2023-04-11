@@ -1,10 +1,10 @@
 # popey/unsnap - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 34
 
-★ Stars: 748
+★ Stars: 750
 
 [Open repository](https://github.com/popey/unsnap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 750 | 34 | 
 | 2023-04-09 | 748 | 34 | 
 | 2023-04-08 | 748 | 34 | 
 | 2023-04-07 | 748 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 721 | 35 | 
 | 2023-03-13 | 720 | 35 | 
 | 2023-03-12 | 719 | 35 | 
-| 2023-03-11 | 719 | 35 | 
 

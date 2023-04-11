@@ -1,10 +1,10 @@
 # zaru/chatgpt-zundamon-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/zaru/chatgpt-zundamon-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 26 | 6 | 
 | 2023-04-09 | 24 | 5 | 
 | 2023-04-08 | 24 | 5 | 
 

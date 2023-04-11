@@ -1,10 +1,10 @@
 # hyprwm/Hyprland - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 255
+☋ Forks: 256
 
-★ Stars: 7454
+★ Stars: 7482
 
 [Open repository](https://github.com/hyprwm/Hyprland)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 7482 | 256 | 
 | 2023-04-09 | 7454 | 255 | 
 | 2023-04-08 | 7423 | 254 | 
 | 2023-04-07 | 7380 | 255 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 6713 | 244 | 
 | 2023-03-14 | 6693 | 243 | 
 | 2023-03-13 | 6680 | 243 | 
-| 2023-03-11 | 6663 | 243 | 
 

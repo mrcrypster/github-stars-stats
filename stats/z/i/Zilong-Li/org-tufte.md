@@ -1,10 +1,10 @@
 # Zilong-Li/org-tufte - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/Zilong-Li/org-tufte)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 36 | 1 | 
 | 2023-04-09 | 37 | 1 | 
 | 2023-04-08 | 37 | 1 | 
 | 2023-04-07 | 36 | 1 | 

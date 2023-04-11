@@ -1,10 +1,10 @@
 # Crossbell-Box/xLog - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 87
 
-★ Stars: 553
+★ Stars: 567
 
 [Open repository](https://github.com/Crossbell-Box/xLog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 567 | 87 | 
 | 2023-04-09 | 553 | 87 | 
 | 2023-04-08 | 528 | 87 | 
 | 2023-04-07 | 520 | 87 | 

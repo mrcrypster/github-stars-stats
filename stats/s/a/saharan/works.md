@@ -1,10 +1,10 @@
 # saharan/works - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 34
 
 [Open repository](https://github.com/saharan/works)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 34 | 1 | 
 | 2023-04-09 | 31 | 1 | 
 | 2023-04-08 | 30 | 1 | 
 | 2023-04-07 | 30 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 25 | 1 | 
 | 2023-03-14 | 25 | 1 | 
 | 2023-03-12 | 21 | 1 | 
-| 2023-03-11 | 20 | 1 | 
 

@@ -1,6 +1,6 @@
 # ibraheemdev/seize - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 247 | 10 | 
 | 2023-04-09 | 247 | 10 | 
 | 2023-04-08 | 247 | 10 | 
 | 2023-04-07 | 247 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 247 | 9 | 
 | 2023-03-14 | 247 | 9 | 
 | 2023-03-13 | 247 | 9 | 
-| 2023-03-11 | 247 | 9 | 
 

@@ -1,10 +1,10 @@
 # grafana/pyroscope - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 428
 
-★ Stars: 7588
+★ Stars: 7596
 
 [Open repository](https://github.com/grafana/pyroscope)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 7596 | 428 | 
 | 2023-04-09 | 7588 | 428 | 
 | 2023-04-08 | 7588 | 429 | 
 | 2023-04-07 | 7579 | 430 | 

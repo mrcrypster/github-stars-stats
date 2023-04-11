@@ -1,10 +1,10 @@
 # mhss1/MyBrain - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 649
+★ Stars: 697
 
 [Open repository](https://github.com/mhss1/MyBrain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 697 | 41 | 
 | 2023-04-09 | 649 | 40 | 
 | 2023-04-08 | 650 | 41 | 
 | 2023-04-07 | 643 | 41 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 628 | 40 | 
 | 2023-03-14 | 626 | 40 | 
 | 2023-03-13 | 624 | 40 | 
-| 2023-03-11 | 623 | 40 | 
 

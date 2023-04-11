@@ -1,10 +1,10 @@
 # harryzhangOG/Deep-RL-Notes - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 40
+☋ Forks: 43
 
-★ Stars: 224
+★ Stars: 233
 
 [Open repository](https://github.com/harryzhangOG/Deep-RL-Notes)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 224 | 40 | 
+| 2023-04-11 | 233 | 43 | 
+| 2023-04-10 | 232 | 43 | 
 | 2023-04-09 | 223 | 40 | 
 | 2023-04-08 | 198 | 38 | 
 | 2023-04-07 | 184 | 32 | 

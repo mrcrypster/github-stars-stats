@@ -1,10 +1,10 @@
 # dragonwell-project/dragonwell8 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 475
+☋ Forks: 474
 
-★ Stars: 3883
+★ Stars: 3885
 
 [Open repository](https://github.com/dragonwell-project/dragonwell8)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3885 | 474 | 
 | 2023-04-09 | 3883 | 475 | 
 | 2023-04-08 | 3881 | 475 | 
 

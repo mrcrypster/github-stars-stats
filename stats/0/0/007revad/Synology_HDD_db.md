@@ -1,10 +1,10 @@
 # 007revad/Synology_HDD_db - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 184
+★ Stars: 188
 
 [Open repository](https://github.com/007revad/Synology_HDD_db)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 188 | 11 | 
 | 2023-04-09 | 184 | 10 | 
 | 2023-04-08 | 176 | 9 | 
 | 2023-04-07 | 175 | 9 | 

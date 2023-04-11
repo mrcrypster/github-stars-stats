@@ -1,8 +1,8 @@
 # FiYHer/kernel_window_hide - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 95
+☋ Forks: 94
 
 ★ Stars: 183
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 183 | 94 | 
 | 2023-04-09 | 183 | 95 | 
 | 2023-04-08 | 182 | 95 | 
 | 2023-04-07 | 181 | 95 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 172 | 90 | 
 | 2023-03-14 | 171 | 90 | 
 | 2023-03-13 | 171 | 90 | 
-| 2023-03-11 | 171 | 90 | 
 

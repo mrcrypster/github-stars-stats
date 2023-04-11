@@ -1,10 +1,10 @@
 # PhilipsHue/flutter_reactive_ble - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 259
 
-★ Stars: 516
+★ Stars: 517
 
 [Open repository](https://github.com/PhilipsHue/flutter_reactive_ble)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 517 | 259 | 
 | 2023-04-09 | 516 | 259 | 
 | 2023-04-08 | 515 | 259 | 
 | 2023-04-07 | 515 | 259 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 505 | 245 | 
 | 2023-03-14 | 504 | 243 | 
 | 2023-03-12 | 502 | 243 | 
-| 2023-03-11 | 501 | 244 | 
 

@@ -1,6 +1,6 @@
 # twitter/ios-twitter-network-layer - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 569 | 37 | 
 | 2023-04-09 | 569 | 37 | 
 | 2023-04-08 | 569 | 37 | 
 | 2023-04-07 | 569 | 37 | 

@@ -1,10 +1,10 @@
 # morelinq/MoreLINQ - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 384
 
-★ Stars: 3245
+★ Stars: 3250
 
 [Open repository](https://github.com/morelinq/MoreLINQ)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3250 | 384 | 
 | 2023-04-09 | 3245 | 384 | 
 | 2023-04-08 | 3239 | 383 | 
 

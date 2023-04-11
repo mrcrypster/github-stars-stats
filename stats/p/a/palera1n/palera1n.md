@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 386
 
-★ Stars: 3086
+★ Stars: 3094
 
 [Open repository](https://github.com/palera1n/palera1n)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 3086 | 386 | 
+| 2023-04-10 | 3094 | 386 | 
 | 2023-04-09 | 3086 | 386 | 
 | 2023-04-08 | 3075 | 386 | 
 | 2023-04-07 | 3068 | 386 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 2900 | 368 | 
 | 2023-03-13 | 2899 | 368 | 
 | 2023-03-12 | 2889 | 367 | 
-| 2023-03-11 | 2875 | 365 | 
 

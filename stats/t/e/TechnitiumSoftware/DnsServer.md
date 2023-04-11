@@ -1,10 +1,10 @@
 # TechnitiumSoftware/DnsServer - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 252
+☋ Forks: 253
 
-★ Stars: 1859
+★ Stars: 1872
 
 [Open repository](https://github.com/TechnitiumSoftware/DnsServer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1872 | 253 | 
 | 2023-04-09 | 1859 | 252 | 
 | 2023-04-08 | 1850 | 251 | 
 | 2023-04-07 | 1844 | 251 | 

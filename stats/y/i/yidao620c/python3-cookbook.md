@@ -1,10 +1,10 @@
 # yidao620c/python3-cookbook - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2872
 
-★ Stars: 10705
+★ Stars: 10709
 
 [Open repository](https://github.com/yidao620c/python3-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 10709 | 2872 | 
 | 2023-04-09 | 10705 | 2872 | 
 | 2023-04-08 | 10701 | 2871 | 
 | 2023-04-07 | 10701 | 2872 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 10663 | 2874 | 
 | 2023-03-13 | 10662 | 2874 | 
 | 2023-03-12 | 10661 | 2874 | 
-| 2023-03-11 | 10658 | 2873 | 
 

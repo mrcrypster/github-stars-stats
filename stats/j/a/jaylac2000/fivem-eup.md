@@ -1,10 +1,10 @@
 # jaylac2000/fivem-eup - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 15
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/jaylac2000/fivem-eup)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 18 | 15 | 
 | 2023-04-09 | 19 | 15 | 
 | 2023-04-08 | 19 | 15 | 
 | 2023-04-07 | 18 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 17 | 14 | 
 | 2023-03-13 | 17 | 14 | 
 | 2023-03-12 | 17 | 14 | 
-| 2023-03-11 | 17 | 14 | 
 

@@ -1,10 +1,10 @@
 # EdgeTX/flasher - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 26
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/EdgeTX/flasher)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 47 | 26 | 
 | 2023-04-09 | 46 | 26 | 
 | 2023-04-08 | 46 | 26 | 
 | 2023-04-07 | 46 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 45 | 26 | 
 | 2023-03-14 | 45 | 26 | 
 | 2023-03-13 | 45 | 26 | 
-| 2023-03-11 | 45 | 26 | 
 

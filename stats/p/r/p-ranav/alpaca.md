@@ -1,8 +1,8 @@
 # p-ranav/alpaca - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 306
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 306 | 18 | 
 | 2023-04-09 | 306 | 17 | 
 | 2023-04-08 | 306 | 17 | 
 | 2023-04-07 | 305 | 17 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 303 | 15 | 
 | 2023-03-14 | 303 | 15 | 
 | 2023-03-13 | 304 | 15 | 
-| 2023-03-11 | 304 | 15 | 
 

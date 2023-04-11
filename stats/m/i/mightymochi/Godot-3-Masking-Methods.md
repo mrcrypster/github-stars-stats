@@ -1,6 +1,6 @@
 # mightymochi/Godot-3-Masking-Methods - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 28 | 2 | 
 | 2023-04-09 | 28 | 2 | 
 | 2023-04-08 | 28 | 2 | 
 | 2023-04-07 | 28 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 27 | 2 | 
 | 2023-03-14 | 27 | 2 | 
 | 2023-03-12 | 27 | 2 | 
-| 2023-03-11 | 27 | 2 | 
 

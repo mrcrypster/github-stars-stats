@@ -1,10 +1,10 @@
 # v2board/v2board - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 958
 
-★ Stars: 2679
+★ Stars: 2688
 
 [Open repository](https://github.com/v2board/v2board)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2688 | 958 | 
+| 2023-04-10 | 2688 | 958 | 
 | 2023-04-09 | 2679 | 958 | 
 | 2023-04-08 | 2672 | 955 | 
 | 2023-04-07 | 2657 | 950 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 2509 | 910 | 
 | 2023-03-13 | 2505 | 909 | 
 | 2023-03-12 | 2498 | 909 | 
-| 2023-03-11 | 2491 | 906 | 
 

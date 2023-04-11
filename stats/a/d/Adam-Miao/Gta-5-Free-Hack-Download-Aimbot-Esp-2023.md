@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 184
+★ Stars: 190
 
 [Open repository](https://github.com/Adam-Miao/Gta-5-Free-Hack-Download-Aimbot-Esp-2023)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 184 | - | 
+| 2023-04-10 | 190 | - | 
 | 2023-04-09 | 184 | - | 
 | 2023-04-08 | 149 | - | 
 

@@ -1,10 +1,10 @@
 # Doikki/DKVideoPlayer - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 970
 
-★ Stars: 4489
+★ Stars: 4491
 
 [Open repository](https://github.com/Doikki/DKVideoPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 4491 | 970 | 
 | 2023-04-09 | 4489 | 970 | 
 | 2023-04-08 | 4488 | 970 | 
 | 2023-04-07 | 4485 | 970 | 

@@ -1,6 +1,6 @@
 # davidz-yt/desk-controller - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 492 | 22 | 
 | 2023-04-09 | 492 | 22 | 
 | 2023-04-08 | 491 | 22 | 
 | 2023-04-07 | 491 | 22 | 

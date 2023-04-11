@@ -1,10 +1,10 @@
 # YunYouJun/cook - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 202
 
-★ Stars: 3159
+★ Stars: 3161
 
 [Open repository](https://github.com/YunYouJun/cook)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3161 | 202 | 
 | 2023-04-09 | 3159 | 202 | 
 | 2023-04-08 | 3159 | 202 | 
 | 2023-04-07 | 3158 | 202 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 3139 | 200 | 
 | 2023-03-13 | 3140 | 200 | 
 | 2023-03-12 | 3139 | 200 | 
-| 2023-03-11 | 3140 | 200 | 
 

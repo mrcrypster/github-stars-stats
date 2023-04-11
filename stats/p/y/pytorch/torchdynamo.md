@@ -1,8 +1,8 @@
 # pytorch/torchdynamo - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 211
+☋ Forks: 210
 
 ★ Stars: 833
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 833 | 210 | 
 | 2023-04-09 | 833 | 211 | 
 | 2023-04-08 | 833 | 211 | 
 | 2023-04-07 | 832 | 211 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 823 | 211 | 
 | 2023-03-14 | 823 | 211 | 
 | 2023-03-13 | 822 | 210 | 
-| 2023-03-11 | 822 | 210 | 
 

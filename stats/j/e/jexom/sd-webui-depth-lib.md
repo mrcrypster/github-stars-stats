@@ -1,10 +1,10 @@
 # jexom/sd-webui-depth-lib - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 769
+★ Stars: 775
 
 [Open repository](https://github.com/jexom/sd-webui-depth-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 775 | 58 | 
 | 2023-04-09 | 769 | 57 | 
 | 2023-04-08 | 763 | 57 | 
 | 2023-04-07 | 755 | 56 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 555 | 40 | 
 | 2023-03-14 | 533 | 37 | 
 | 2023-03-13 | 505 | 33 | 
-| 2023-03-12 | 489 | 32 | 
 

@@ -1,10 +1,10 @@
 # clavascript/clavascript - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/clavascript/clavascript)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 310 | 13 | 
 | 2023-04-09 | 309 | 13 | 
 | 2023-04-08 | 309 | 13 | 
 | 2023-04-07 | 309 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 298 | 13 | 
 | 2023-03-14 | 298 | 13 | 
 | 2023-03-13 | 298 | 13 | 
-| 2023-03-11 | 298 | 13 | 
 

@@ -1,10 +1,10 @@
 # chsiang426/ML-2021-notes - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 6
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/chsiang426/ML-2021-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 140 | 6 | 
 | 2023-04-09 | 139 | 6 | 
 | 2023-04-08 | 135 | 5 | 
 | 2023-04-07 | 134 | 5 | 

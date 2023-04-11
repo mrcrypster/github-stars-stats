@@ -1,10 +1,10 @@
 # abrochard/mermaid-mode - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 15
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/abrochard/mermaid-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 126 | 15 | 
 | 2023-04-09 | 125 | 15 | 
 | 2023-04-08 | 125 | 15 | 
 | 2023-04-07 | 125 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 118 | 15 | 
 | 2023-03-14 | 118 | 15 | 
 | 2023-03-12 | 119 | 15 | 
-| 2023-03-11 | 119 | 15 | 
 

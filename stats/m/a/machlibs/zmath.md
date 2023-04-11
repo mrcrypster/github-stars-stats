@@ -1,10 +1,10 @@
 # machlibs/zmath - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/machlibs/zmath)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 5 | 1 | 
+| 2023-04-11 | 6 | 1 | 
+| 2023-04-10 | 6 | 1 | 
 | 2023-04-09 | 5 | 1 | 
 | 2023-04-08 | 5 | 1 | 
 | 2023-04-07 | 5 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 4 | 1 | 
 | 2023-03-14 | 4 | 1 | 
 | 2023-03-13 | 4 | 1 | 
-| 2023-03-12 | 4 | 1 | 
 

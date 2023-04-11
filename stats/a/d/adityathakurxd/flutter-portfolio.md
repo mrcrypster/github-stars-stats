@@ -1,10 +1,10 @@
 # adityathakurxd/flutter-portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 45
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/adityathakurxd/flutter-portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 56 | 45 | 
 | 2023-04-09 | 55 | 45 | 
 | 2023-04-08 | 55 | 45 | 
 | 2023-04-07 | 55 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 52 | 41 | 
 | 2023-03-14 | 52 | 41 | 
 | 2023-03-12 | 52 | 41 | 
-| 2023-03-11 | 52 | 41 | 
 

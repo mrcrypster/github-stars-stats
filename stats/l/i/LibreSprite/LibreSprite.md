@@ -1,10 +1,10 @@
 # LibreSprite/LibreSprite - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 190
 
-★ Stars: 3255
+★ Stars: 3259
 
 [Open repository](https://github.com/LibreSprite/LibreSprite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3259 | 190 | 
 | 2023-04-09 | 3255 | 190 | 
 | 2023-04-08 | 3252 | 190 | 
 | 2023-04-07 | 3249 | 190 | 

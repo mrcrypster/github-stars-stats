@@ -1,6 +1,6 @@
 # B1Z0N/twitter-algorithm-with-author_is_elon - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 13 | 5 | 
 | 2023-04-09 | 13 | 5 | 
 | 2023-04-08 | 13 | 5 | 
 | 2023-04-07 | 13 | 5 | 

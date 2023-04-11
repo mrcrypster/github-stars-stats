@@ -1,10 +1,10 @@
 # Bert-JanP/Hunting-Queries-Detection-Rules - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 65
 
-★ Stars: 432
+★ Stars: 436
 
 [Open repository](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 436 | 65 | 
 | 2023-04-09 | 432 | 65 | 
 | 2023-04-08 | 431 | 65 | 
 | 2023-04-07 | 430 | 65 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 378 | 54 | 
 | 2023-03-13 | 378 | 54 | 
 | 2023-03-12 | 377 | 54 | 
-| 2023-03-11 | 374 | 53 | 
 

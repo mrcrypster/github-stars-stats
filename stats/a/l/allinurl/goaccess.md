@@ -1,6 +1,6 @@
 # allinurl/goaccess - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1034
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 16004 | 1034 | 
 | 2023-04-10 | 16004 | 1034 | 
 | 2023-04-09 | 16003 | 1034 | 
 | 2023-04-07 | 15997 | 1034 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 15912 | 1036 | 
 | 2023-03-13 | 15904 | 1034 | 
 | 2023-03-12 | 15899 | 1033 | 
-| 2023-03-11 | 15896 | 1033 | 
 

@@ -1,10 +1,10 @@
 # Bin-Huang/chatbox - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 707
+☋ Forks: 725
 
-★ Stars: 7224
+★ Stars: 7384
 
 [Open repository](https://github.com/Bin-Huang/chatbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 7384 | 725 | 
 | 2023-04-09 | 7224 | 707 | 
 | 2023-04-08 | 7106 | 694 | 
 | 2023-04-07 | 6941 | 672 | 

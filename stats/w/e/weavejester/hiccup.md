@@ -1,10 +1,10 @@
 # weavejester/hiccup - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 173
 
-★ Stars: 2508
+★ Stars: 2509
 
 [Open repository](https://github.com/weavejester/hiccup)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2509 | 173 | 
 | 2023-04-09 | 2508 | 173 | 
 | 2023-04-08 | 2508 | 173 | 
 | 2023-04-07 | 2507 | 173 | 

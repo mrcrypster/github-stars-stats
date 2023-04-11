@@ -1,10 +1,10 @@
 # scutan90/DeepLearning-500-questions - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 15507
+☋ Forks: 15509
 
-★ Stars: 50250
+★ Stars: 50263
 
 [Open repository](https://github.com/scutan90/DeepLearning-500-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 50263 | 15509 | 
 | 2023-04-09 | 50250 | 15507 | 
 | 2023-04-08 | 50245 | 15505 | 
 | 2023-04-07 | 50242 | 15506 | 

@@ -1,10 +1,10 @@
 # yonggekkk/warp-yg - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 217
+☋ Forks: 225
 
-★ Stars: 550
+★ Stars: 576
 
 [Open repository](https://github.com/yonggekkk/warp-yg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 576 | 225 | 
 | 2023-04-09 | 550 | 217 | 
 | 2023-04-08 | 528 | 209 | 
 | 2023-04-07 | 518 | 206 | 

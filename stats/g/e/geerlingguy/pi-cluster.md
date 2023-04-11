@@ -1,10 +1,10 @@
 # geerlingguy/pi-cluster - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 10
 
-★ Stars: 214
+★ Stars: 216
 
 [Open repository](https://github.com/geerlingguy/pi-cluster)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 216 | 10 | 
 | 2023-04-09 | 214 | 10 | 
 | 2023-04-08 | 214 | 10 | 
 | 2023-04-07 | 213 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 203 | 10 | 
 | 2023-03-14 | 202 | 9 | 
 | 2023-03-12 | 200 | 9 | 
-| 2023-03-11 | 200 | 9 | 
 

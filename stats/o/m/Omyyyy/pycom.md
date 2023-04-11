@@ -1,10 +1,10 @@
 # Omyyyy/pycom - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 21
 
-★ Stars: 1109
+★ Stars: 1108
 
 [Open repository](https://github.com/Omyyyy/pycom)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1108 | 21 | 
 | 2023-04-09 | 1109 | 21 | 
 | 2023-04-08 | 1109 | 21 | 
 | 2023-04-07 | 1109 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1102 | 21 | 
 | 2023-03-13 | 1102 | 21 | 
 | 2023-03-12 | 1102 | 21 | 
-| 2023-03-11 | 1102 | 21 | 
 

@@ -1,10 +1,10 @@
 # G-Levine/rhea_description - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 158
+★ Stars: 168
 
 [Open repository](https://github.com/G-Levine/rhea_description)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 168 | 8 | 
 | 2023-04-09 | 158 | 8 | 
 | 2023-04-08 | 157 | 8 | 
 | 2023-04-07 | 145 | 8 | 

@@ -1,10 +1,10 @@
 # purcell/ibuffer-projectile - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/purcell/ibuffer-projectile)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 60 | 9 | 
 | 2023-04-09 | 59 | 9 | 
 | 2023-04-08 | 59 | 9 | 
 | 2023-04-07 | 59 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 58 | 9 | 
 | 2023-03-14 | 58 | 9 | 
 | 2023-03-13 | 58 | 9 | 
-| 2023-03-11 | 58 | 9 | 
 

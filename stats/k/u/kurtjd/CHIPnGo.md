@@ -1,6 +1,6 @@
 # kurtjd/CHIPnGo - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 94 | 1 | 
 | 2023-04-10 | 94 | 1 | 
 | 2023-04-08 | 94 | 1 | 
 | 2023-04-07 | 94 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 95 | 1 | 
 | 2023-03-13 | 95 | 1 | 
 | 2023-03-12 | 95 | 1 | 
-| 2023-03-11 | 95 | 1 | 
 

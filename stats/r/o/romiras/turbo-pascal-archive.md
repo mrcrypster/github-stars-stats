@@ -1,10 +1,10 @@
 # romiras/turbo-pascal-archive - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 30
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/romiras/turbo-pascal-archive)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 63 | 30 | 
 | 2023-04-09 | 62 | 30 | 
 | 2023-04-08 | 62 | 30 | 
 | 2023-04-07 | 62 | 30 | 

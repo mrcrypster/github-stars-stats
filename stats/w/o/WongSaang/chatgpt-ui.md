@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 111
+☋ Forks: 113
 
-★ Stars: 425
+★ Stars: 430
 
 [Open repository](https://github.com/WongSaang/chatgpt-ui)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 425 | 111 | 
+| 2023-04-10 | 430 | 113 | 
 | 2023-04-09 | 424 | 111 | 
 | 2023-04-08 | 407 | 106 | 
 | 2023-04-07 | 391 | 104 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 99 | 26 | 
 | 2023-03-13 | 92 | 22 | 
 | 2023-03-12 | 88 | 21 | 
-| 2023-03-11 | 84 | 19 | 
 

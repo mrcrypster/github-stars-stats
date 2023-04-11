@@ -1,10 +1,10 @@
 # IMNascimento/ClothingCatalog - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/IMNascimento/ClothingCatalog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1 | 5 | 
 | 2023-04-09 | - | 4 | 
 | 2023-04-08 | - | 4 | 
 | 2023-04-07 | - | 4 | 

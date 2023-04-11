@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 271
 
-★ Stars: 3471
+★ Stars: 3472
 
 [Open repository](https://github.com/rust-lang/rust.vim)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 3471 | 271 | 
+| 2023-04-10 | 3472 | 271 | 
 | 2023-04-09 | 3470 | 271 | 
 | 2023-04-08 | 3470 | 271 | 
 | 2023-04-07 | 3470 | 271 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 3439 | 272 | 
 | 2023-03-13 | 3437 | 272 | 
 | 2023-03-12 | 3438 | 272 | 
-| 2023-03-11 | 3436 | 272 | 
 

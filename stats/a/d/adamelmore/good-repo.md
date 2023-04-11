@@ -1,10 +1,10 @@
 # adamelmore/good-repo - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 1390
+★ Stars: 1389
 
 [Open repository](https://github.com/adamelmore/good-repo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1389 | 4 | 
 | 2023-04-09 | 1390 | 4 | 
 | 2023-04-08 | 1390 | 4 | 
 | 2023-04-07 | 1391 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1414 | 4 | 
 | 2023-03-14 | 1416 | 4 | 
 | 2023-03-13 | 1417 | 4 | 
-| 2023-03-12 | 1418 | 4 | 
 

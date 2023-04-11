@@ -1,10 +1,10 @@
 # WhitesPhD/BayesianModelSelection - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 6
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/WhitesPhD/BayesianModelSelection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 23 | 6 | 
 | 2023-04-09 | 22 | 6 | 
 | 2023-04-08 | 21 | 6 | 
 | 2023-04-07 | 21 | 6 | 

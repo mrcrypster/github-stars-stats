@@ -1,10 +1,10 @@
 # vikramlearning/blazorbootstrap - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 171
+★ Stars: 175
 
 [Open repository](https://github.com/vikramlearning/blazorbootstrap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 175 | 34 | 
 | 2023-04-09 | 171 | 33 | 
 | 2023-04-08 | 171 | 33 | 
 | 2023-04-07 | 170 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 157 | 31 | 
 | 2023-03-13 | 156 | 31 | 
 | 2023-03-12 | 156 | 33 | 
-| 2023-03-11 | 155 | 32 | 
 

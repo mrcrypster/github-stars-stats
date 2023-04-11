@@ -1,10 +1,10 @@
 # rtkwlf/wolf-tools - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 28
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/rtkwlf/wolf-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 68 | 28 | 
 | 2023-04-09 | 67 | 28 | 
 | 2023-04-08 | 67 | 28 | 
 | 2023-04-07 | 67 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 66 | 28 | 
 | 2023-03-13 | 66 | 28 | 
 | 2023-03-12 | 66 | 28 | 
-| 2023-03-11 | 67 | 28 | 
 

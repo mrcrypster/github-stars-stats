@@ -1,6 +1,6 @@
 # divarvel/hammertime - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 8 | 2 | 
 | 2023-04-09 | 8 | 2 | 
 | 2023-04-08 | 8 | 2 | 
 | 2023-04-07 | 8 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 7 | 2 | 
 | 2023-03-13 | 7 | 2 | 
 | 2023-03-12 | 7 | 2 | 
-| 2023-03-11 | 7 | 2 | 
 

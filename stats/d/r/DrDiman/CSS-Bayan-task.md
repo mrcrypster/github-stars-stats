@@ -1,6 +1,6 @@
 # DrDiman/CSS-Bayan-task - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 48 | 52 | 
 | 2023-04-09 | 48 | 52 | 
 | 2023-04-08 | 48 | 52 | 
 | 2023-04-07 | 48 | 52 | 

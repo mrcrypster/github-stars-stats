@@ -1,6 +1,6 @@
 # sendbird/sendbird-ios-framework - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 60 | 17 | 
 | 2023-04-09 | 60 | 17 | 
 | 2023-04-08 | 60 | 17 | 
 | 2023-04-07 | 60 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 60 | 17 | 
 | 2023-03-13 | 60 | 17 | 
 | 2023-03-12 | 60 | 17 | 
-| 2023-03-11 | 60 | 17 | 
 

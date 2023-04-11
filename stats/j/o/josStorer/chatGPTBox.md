@@ -1,10 +1,10 @@
 # josStorer/chatGPTBox - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 343
+☋ Forks: 347
 
-★ Stars: 5515
+★ Stars: 5592
 
 [Open repository](https://github.com/josStorer/chatGPTBox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5592 | 347 | 
 | 2023-04-09 | 5515 | 343 | 
 | 2023-04-08 | 5465 | 341 | 
 | 2023-04-07 | 5362 | 333 | 

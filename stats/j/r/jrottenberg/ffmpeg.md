@@ -1,10 +1,10 @@
 # jrottenberg/ffmpeg - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 438
 
-★ Stars: 1201
+★ Stars: 1202
 
 [Open repository](https://github.com/jrottenberg/ffmpeg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1202 | 438 | 
 | 2023-04-09 | 1201 | 438 | 
 | 2023-04-08 | 1200 | 438 | 
 | 2023-04-07 | 1200 | 438 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1193 | 433 | 
 | 2023-03-13 | 1191 | 433 | 
 | 2023-03-12 | 1191 | 433 | 
-| 2023-03-11 | 1191 | 433 | 
 

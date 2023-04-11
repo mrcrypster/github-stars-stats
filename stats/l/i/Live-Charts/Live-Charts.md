@@ -1,8 +1,8 @@
 # Live-Charts/Live-Charts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1370
+☋ Forks: 1371
 
 ★ Stars: 5337
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5337 | 1371 | 
 | 2023-04-09 | 5337 | 1370 | 
 | 2023-04-08 | 5336 | 1370 | 
 | 2023-04-07 | 5336 | 1370 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 5319 | 1369 | 
 | 2023-03-14 | 5317 | 1369 | 
 | 2023-03-13 | 5318 | 1370 | 
-| 2023-03-12 | 5319 | 1370 | 
 

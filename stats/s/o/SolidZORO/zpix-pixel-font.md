@@ -1,10 +1,10 @@
 # SolidZORO/zpix-pixel-font - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 58
 
-★ Stars: 1871
+★ Stars: 1872
 
 [Open repository](https://github.com/SolidZORO/zpix-pixel-font)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1872 | 58 | 
 | 2023-04-09 | 1871 | 58 | 
 | 2023-04-08 | 1869 | 58 | 
 | 2023-04-07 | 1868 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1839 | 58 | 
 | 2023-03-14 | 1839 | 58 | 
 | 2023-03-13 | 1833 | 58 | 
-| 2023-03-11 | 1833 | 58 | 
 

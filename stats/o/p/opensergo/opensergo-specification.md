@@ -1,6 +1,6 @@
 # opensergo/opensergo-specification - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 589 | 61 | 
 | 2023-04-09 | 589 | 61 | 
 | 2023-04-08 | 589 | 61 | 
 | 2023-04-07 | 589 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 577 | 60 | 
 | 2023-03-14 | 574 | 60 | 
 | 2023-03-13 | 573 | 60 | 
-| 2023-03-11 | 572 | 60 | 
 

@@ -1,10 +1,10 @@
 # matthaigh27/ChatGPT-android-app - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 16
 
-★ Stars: 150
+★ Stars: 152
 
 [Open repository](https://github.com/matthaigh27/ChatGPT-android-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 152 | 16 | 
 | 2023-04-09 | 150 | 16 | 
 | 2023-04-08 | 150 | 16 | 
 | 2023-04-07 | 147 | 16 | 

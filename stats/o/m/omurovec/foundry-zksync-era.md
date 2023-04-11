@@ -1,10 +1,10 @@
 # omurovec/foundry-zksync-era - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/omurovec/foundry-zksync-era)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 69 | 7 | 
 | 2023-04-09 | 68 | 7 | 
 | 2023-04-08 | 68 | 7 | 
 | 2023-04-07 | 68 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 37 | 2 | 
 | 2023-03-14 | 36 | 2 | 
 | 2023-03-13 | 36 | 2 | 
-| 2023-03-11 | 35 | 1 | 
 

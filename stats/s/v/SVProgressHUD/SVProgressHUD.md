@@ -1,8 +1,8 @@
 # SVProgressHUD/SVProgressHUD - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 2580
+☋ Forks: 2581
 
 ★ Stars: 12365
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 12365 | 2581 | 
 | 2023-04-09 | 12365 | 2580 | 
 | 2023-04-08 | 12365 | 2580 | 
 | 2023-04-07 | 12365 | 2580 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 12365 | 2579 | 
 | 2023-03-14 | 12364 | 2579 | 
 | 2023-03-12 | 12364 | 2579 | 
-| 2023-03-11 | 12364 | 2579 | 
 

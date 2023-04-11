@@ -1,10 +1,10 @@
 # jfadev/bottok - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/jfadev/bottok)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 20 | 13 | 
 | 2023-04-09 | 19 | 13 | 
 | 2023-04-08 | 19 | 13 | 
 | 2023-04-07 | 19 | 13 | 

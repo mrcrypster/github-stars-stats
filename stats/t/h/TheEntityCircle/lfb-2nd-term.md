@@ -1,10 +1,10 @@
 # TheEntityCircle/lfb-2nd-term - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/TheEntityCircle/lfb-2nd-term)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1 | 7 | 
 | 2023-04-09 | - | 7 | 
 | 2023-04-08 | - | 7 | 
 | 2023-04-07 | - | 7 | 

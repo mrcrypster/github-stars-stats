@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 271
 
-★ Stars: 8871
+★ Stars: 8872
 
 [Open repository](https://github.com/picocss/pico)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 8871 | 271 | 
+| 2023-04-10 | 8872 | 271 | 
 | 2023-04-09 | 8869 | 271 | 
 | 2023-04-08 | 8845 | 271 | 
 | 2023-04-07 | 8832 | 270 | 

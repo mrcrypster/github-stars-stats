@@ -1,10 +1,10 @@
 # oldj/SwitchHosts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 2229
+☋ Forks: 2230
 
-★ Stars: 19895
+★ Stars: 19905
 
 [Open repository](https://github.com/oldj/SwitchHosts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 19905 | 2230 | 
 | 2023-04-09 | 19895 | 2229 | 
 | 2023-04-08 | 19887 | 2229 | 
 | 2023-04-07 | 19881 | 2229 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 19528 | 2203 | 
 | 2023-03-14 | 19514 | 2204 | 
 | 2023-03-13 | 19508 | 2202 | 
-| 2023-03-11 | 19502 | 2201 | 
 

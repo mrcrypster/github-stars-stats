@@ -1,6 +1,6 @@
 # nf-core/mnaseseq - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 9 | 6 | 
 | 2023-04-10 | 9 | 6 | 
 | 2023-04-08 | 9 | 6 | 
 | 2023-04-07 | 9 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 8 | 6 | 
 | 2023-03-13 | 8 | 6 | 
 | 2023-03-12 | 8 | 6 | 
-| 2023-03-11 | 8 | 6 | 
 

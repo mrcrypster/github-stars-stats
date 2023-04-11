@@ -1,10 +1,10 @@
 # huawei-noah/HEBO - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 144
+☋ Forks: 151
 
-★ Stars: 703
+★ Stars: 728
 
 [Open repository](https://github.com/huawei-noah/HEBO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 728 | 151 | 
 | 2023-04-09 | 703 | 144 | 
 | 2023-04-08 | 692 | 142 | 
 | 2023-04-07 | 682 | 142 | 

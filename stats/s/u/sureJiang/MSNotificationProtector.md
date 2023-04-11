@@ -1,10 +1,10 @@
 # sureJiang/MSNotificationProtector - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 113
 
-★ Stars: 1452
+★ Stars: 1474
 
 [Open repository](https://github.com/sureJiang/MSNotificationProtector)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1474 | 113 | 
 | 2023-04-09 | 1452 | 113 | 
 | 2023-04-08 | 1428 | 113 | 
 | 2023-04-07 | 1407 | 113 | 

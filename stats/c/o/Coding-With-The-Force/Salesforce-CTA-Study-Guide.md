@@ -1,6 +1,6 @@
 # Coding-With-The-Force/Salesforce-CTA-Study-Guide - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 74 | 11 | 
 | 2023-04-09 | 74 | 11 | 
 | 2023-04-08 | 74 | 11 | 
 | 2023-04-07 | 74 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 57 | 6 | 
 | 2023-03-14 | 57 | 6 | 
 | 2023-03-12 | 57 | 4 | 
-| 2023-03-11 | 57 | 4 | 
 

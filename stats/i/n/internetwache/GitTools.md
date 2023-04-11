@@ -1,10 +1,10 @@
 # internetwache/GitTools - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 573
+☋ Forks: 572
 
-★ Stars: 3379
+★ Stars: 3381
 
 [Open repository](https://github.com/internetwache/GitTools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3381 | 572 | 
 | 2023-04-09 | 3379 | 573 | 
 | 2023-04-08 | 3378 | 573 | 
 | 2023-04-07 | 3376 | 573 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 3354 | 574 | 
 | 2023-03-14 | 3350 | 573 | 
 | 2023-03-13 | 3350 | 573 | 
-| 2023-03-11 | 3349 | 571 | 
 

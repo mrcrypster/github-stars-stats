@@ -1,10 +1,10 @@
 # emacs-sideline/sideline - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/emacs-sideline/sideline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 63 | 8 | 
 | 2023-04-09 | 62 | 8 | 
 | 2023-04-08 | 61 | 8 | 
 

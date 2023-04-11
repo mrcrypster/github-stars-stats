@@ -1,10 +1,10 @@
 # Akegarasu/lora-scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
-☋ Forks: 166
+☋ Forks: 169
 
-★ Stars: 933
+★ Stars: 954
 
 [Open repository](https://github.com/Akegarasu/lora-scripts)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 954 | 169 | 
+| 2023-04-10 | 954 | 169 | 
 | 2023-04-09 | 933 | 166 | 
 | 2023-04-08 | 912 | 158 | 
 | 2023-04-07 | 901 | 157 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 478 | 78 | 
 | 2023-03-13 | 464 | 76 | 
 | 2023-03-12 | 451 | 73 | 
-| 2023-03-11 | 437 | 71 | 
 

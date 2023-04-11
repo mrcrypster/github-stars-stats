@@ -1,10 +1,10 @@
 # ethanholz/nvim-lastplace - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 6
 
-★ Stars: 231
+★ Stars: 236
 
 [Open repository](https://github.com/ethanholz/nvim-lastplace)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 236 | 6 | 
 | 2023-04-09 | 231 | 6 | 
 | 2023-04-08 | 229 | 6 | 
 | 2023-04-07 | 229 | 6 | 

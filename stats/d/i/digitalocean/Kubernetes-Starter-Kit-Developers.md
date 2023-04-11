@@ -1,8 +1,8 @@
 # digitalocean/Kubernetes-Starter-Kit-Developers - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 204
+☋ Forks: 205
 
 ★ Stars: 533
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 533 | 205 | 
 | 2023-04-09 | 533 | 204 | 
 | 2023-04-08 | 533 | 204 | 
 | 2023-04-07 | 533 | 203 | 

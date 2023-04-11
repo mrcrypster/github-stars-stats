@@ -1,6 +1,6 @@
 # akhil-aggarwal/cookie - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 10 | 18 | 
 | 2023-04-09 | 10 | 18 | 
 | 2023-04-08 | 10 | 18 | 
 | 2023-04-07 | 10 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 11 | 20 | 
 | 2023-03-14 | 11 | 20 | 
 | 2023-03-12 | 11 | 20 | 
-| 2023-03-11 | 11 | 20 | 
 

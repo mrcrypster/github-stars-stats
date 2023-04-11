@@ -1,10 +1,10 @@
 # pixelomer/discord-fs - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 315
+★ Stars: 322
 
 [Open repository](https://github.com/pixelomer/discord-fs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 322 | 16 | 
 | 2023-04-09 | 315 | 15 | 
 | 2023-04-08 | 315 | 15 | 
 | 2023-04-07 | 312 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 287 | 14 | 
 | 2023-03-14 | 286 | 14 | 
 | 2023-03-13 | 284 | 13 | 
-| 2023-03-11 | 280 | 13 | 
 

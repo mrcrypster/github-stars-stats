@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 926
 
-★ Stars: 1180
+★ Stars: 1181
 
 [Open repository](https://github.com/openai/openai-quickstart-python)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 1180 | 926 | 
+| 2023-04-10 | 1181 | 926 | 
 | 2023-04-09 | 1180 | 926 | 
 | 2023-04-08 | 1177 | 920 | 
 | 2023-04-07 | 1178 | 908 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 987 | 746 | 
 | 2023-03-13 | 972 | 737 | 
 | 2023-03-12 | 962 | 728 | 
-| 2023-03-11 | 953 | 717 | 
 

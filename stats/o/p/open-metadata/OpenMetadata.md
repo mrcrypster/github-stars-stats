@@ -1,10 +1,10 @@
 # open-metadata/OpenMetadata - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 452
+☋ Forks: 454
 
-★ Stars: 2091
+★ Stars: 2095
 
 [Open repository](https://github.com/open-metadata/OpenMetadata)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2095 | 454 | 
 | 2023-04-09 | 2091 | 452 | 
 | 2023-04-08 | 2089 | 450 | 
 | 2023-04-07 | 2086 | 449 | 

@@ -1,6 +1,6 @@
 # ash237/vs-Bob-and-Bosip - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 61 | 166 | 
 | 2023-04-09 | 61 | 166 | 
 | 2023-04-08 | 61 | 166 | 
 | 2023-04-07 | 61 | 166 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 59 | 166 | 
 | 2023-03-14 | 59 | 166 | 
 | 2023-03-13 | 59 | 166 | 
-| 2023-03-11 | 59 | 166 | 
 

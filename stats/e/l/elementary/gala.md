@@ -1,6 +1,6 @@
 # elementary/gala - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 245 | 68 | 
 | 2023-04-09 | 245 | 68 | 
 | 2023-04-08 | 245 | 68 | 
 | 2023-04-07 | 245 | 68 | 

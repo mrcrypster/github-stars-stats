@@ -1,10 +1,10 @@
 # KoBeWi/Godot-Universal-Mod-Manager - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/KoBeWi/Godot-Universal-Mod-Manager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 58 | 2 | 
 | 2023-04-09 | 57 | 2 | 
 | 2023-04-08 | 56 | 2 | 
 | 2023-04-07 | 56 | 2 | 

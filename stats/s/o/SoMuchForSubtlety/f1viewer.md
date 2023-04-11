@@ -1,8 +1,8 @@
 # SoMuchForSubtlety/f1viewer - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 760
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 760 | 70 | 
 | 2023-04-09 | 760 | 69 | 
 | 2023-04-08 | 760 | 69 | 
 | 2023-04-07 | 760 | 69 | 

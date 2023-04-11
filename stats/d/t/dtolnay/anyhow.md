@@ -1,10 +1,10 @@
 # dtolnay/anyhow - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 121
 
-★ Stars: 3944
+★ Stars: 3950
 
 [Open repository](https://github.com/dtolnay/anyhow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 3950 | 121 | 
 | 2023-04-09 | 3944 | 121 | 
 | 2023-04-08 | 3940 | 121 | 
 | 2023-04-07 | 3938 | 121 | 

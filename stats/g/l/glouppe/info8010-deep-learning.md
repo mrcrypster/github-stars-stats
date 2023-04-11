@@ -1,6 +1,6 @@
 # glouppe/info8010-deep-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 306
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1116 | 306 | 
 | 2023-04-09 | 1116 | 306 | 
 | 2023-04-08 | 1116 | 306 | 
 | 2023-04-07 | 1116 | 306 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1088 | 302 | 
 | 2023-03-13 | 1086 | 301 | 
 | 2023-03-12 | 1085 | 300 | 
-| 2023-03-11 | 1082 | 300 | 
 

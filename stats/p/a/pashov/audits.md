@@ -1,10 +1,10 @@
 # pashov/audits - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 55
+☋ Forks: 57
 
-★ Stars: 422
+★ Stars: 429
 
 [Open repository](https://github.com/pashov/audits)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 429 | 57 | 
 | 2023-04-09 | 422 | 55 | 
 | 2023-04-08 | 419 | 54 | 
 | 2023-04-07 | 416 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 334 | 45 | 
 | 2023-03-13 | 333 | 44 | 
 | 2023-03-12 | 333 | 43 | 
-| 2023-03-11 | 332 | 43 | 
 

@@ -1,8 +1,8 @@
 # widdix/aws-cf-templates - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1361
+☋ Forks: 1362
 
 ★ Stars: 2631
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2631 | 1362 | 
 | 2023-04-09 | 2631 | 1361 | 
 | 2023-04-08 | 2631 | 1361 | 
 | 2023-04-07 | 2630 | 1362 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 2627 | 1361 | 
 | 2023-03-13 | 2628 | 1360 | 
 | 2023-03-12 | 2627 | 1360 | 
-| 2023-03-11 | 2627 | 1360 | 
 

@@ -1,10 +1,10 @@
 # qiayue/php-openai-gpt-stream-chat-api-webui - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 33
+☋ Forks: 35
 
-★ Stars: 124
+★ Stars: 133
 
 [Open repository](https://github.com/qiayue/php-openai-gpt-stream-chat-api-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 133 | 35 | 
 | 2023-04-09 | 124 | 33 | 
 | 2023-04-08 | 123 | 33 | 
 | 2023-04-07 | 121 | 33 | 

@@ -1,0 +1,17 @@
+# sasa1977/exactor - stars & forks statistics
+
+Stats updated on Apr 2023, 10
+
+☋ Forks: 24
+
+★ Stars: 667
+
+[Open repository](https://github.com/sasa1977/exactor)
+
+[Open detailed stats for sasa1977/exactor](https://reviewgithub.com/rep/sasa1977/exactor)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-10 | 667 | 24 | 
+

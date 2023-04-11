@@ -1,10 +1,10 @@
 # dhg/Skeleton - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 3154
 
-★ Stars: 18817
+★ Stars: 18821
 
 [Open repository](https://github.com/dhg/Skeleton)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 18821 | 3154 | 
 | 2023-04-09 | 18817 | 3154 | 
 | 2023-04-08 | 18815 | 3154 | 
 | 2023-04-07 | 18814 | 3153 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 18799 | 3148 | 
 | 2023-03-13 | 18798 | 3148 | 
 | 2023-03-12 | 18795 | 3148 | 
-| 2023-03-11 | 18791 | 3148 | 
 

@@ -1,10 +1,10 @@
 # notapixelstudio/superstarfighter - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 31
 
-★ Stars: 407
+★ Stars: 410
 
 [Open repository](https://github.com/notapixelstudio/superstarfighter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 410 | 31 | 
 | 2023-04-09 | 407 | 31 | 
 | 2023-04-08 | 405 | 31 | 
 | 2023-04-07 | 403 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 398 | 30 | 
 | 2023-03-14 | 399 | 29 | 
 | 2023-03-13 | 397 | 29 | 
-| 2023-03-11 | 396 | 29 | 
 

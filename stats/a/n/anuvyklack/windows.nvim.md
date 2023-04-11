@@ -1,6 +1,6 @@
 # anuvyklack/windows.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 358 | 8 | 
 | 2023-04-09 | 358 | 8 | 
 | 2023-04-08 | 358 | 8 | 
 | 2023-04-07 | 358 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 342 | 8 | 
 | 2023-03-14 | 341 | 8 | 
 | 2023-03-13 | 339 | 8 | 
-| 2023-03-12 | 338 | 8 | 
 

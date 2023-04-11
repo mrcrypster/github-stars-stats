@@ -1,6 +1,6 @@
 # Araq/mastering_nim - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 25 | 1 | 
 | 2023-04-10 | 25 | 1 | 
 | 2023-04-08 | 25 | 1 | 
 | 2023-04-07 | 25 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 24 | 1 | 
 | 2023-03-14 | 24 | 1 | 
 | 2023-03-12 | 24 | 1 | 
-| 2023-03-11 | 24 | 1 | 
 

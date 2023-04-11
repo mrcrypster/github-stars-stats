@@ -1,10 +1,10 @@
 # google/evcxr - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 188
 
-★ Stars: 4339
+★ Stars: 4342
 
 [Open repository](https://github.com/google/evcxr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 4342 | 188 | 
 | 2023-04-09 | 4339 | 188 | 
 | 2023-04-08 | 4340 | 187 | 
 | 2023-04-07 | 4332 | 187 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 4272 | 186 | 
 | 2023-03-14 | 4268 | 187 | 
 | 2023-03-13 | 4265 | 187 | 
-| 2023-03-11 | 4260 | 188 | 
 

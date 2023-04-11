@@ -1,10 +1,10 @@
 # supabase-community/nextjs-openai-doc-search - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 19
+☋ Forks: 26
 
-★ Stars: 221
+★ Stars: 257
 
 [Open repository](https://github.com/supabase-community/nextjs-openai-doc-search)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 221 | 19 | 
+| 2023-04-11 | 257 | 26 | 
+| 2023-04-10 | 252 | 26 | 
 | 2023-04-09 | 213 | 17 | 
 

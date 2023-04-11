@@ -1,10 +1,10 @@
 # xcatliu/chatgpt-next - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 108
+☋ Forks: 111
 
-★ Stars: 355
+★ Stars: 357
 
 [Open repository](https://github.com/xcatliu/chatgpt-next)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 357 | 111 | 
 | 2023-04-09 | 355 | 108 | 
 | 2023-04-08 | 353 | 107 | 
 | 2023-04-07 | 353 | 107 | 

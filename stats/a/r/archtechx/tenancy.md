@@ -1,8 +1,8 @@
 # archtechx/tenancy - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 342
+☋ Forks: 343
 
 ★ Stars: 2879
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2879 | 343 | 
 | 2023-04-09 | 2879 | 342 | 
 | 2023-04-08 | 2875 | 342 | 
 | 2023-04-07 | 2874 | 341 | 

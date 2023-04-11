@@ -1,6 +1,6 @@
 # joshnuss/svelte-stripe - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 239 | 22 | 
 | 2023-04-09 | 239 | 22 | 
 | 2023-04-08 | 239 | 22 | 
 | 2023-04-07 | 239 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 235 | 21 | 
 | 2023-03-14 | 234 | 22 | 
 | 2023-03-13 | 231 | 22 | 
-| 2023-03-11 | 229 | 22 | 
 

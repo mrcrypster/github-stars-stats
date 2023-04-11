@@ -1,6 +1,6 @@
 # gideondurand/Econometrics871 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 9 | 3 | 
 | 2023-04-09 | 9 | 3 | 
 | 2023-04-08 | 9 | 3 | 
 | 2023-04-07 | 9 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 7 | 3 | 
 | 2023-03-13 | 7 | 3 | 
 | 2023-03-12 | 4 | 2 | 
-| 2023-03-11 | 4 | 2 | 
 

@@ -1,10 +1,10 @@
 # dataxpress/UICountingLabel - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 253
 
-★ Stars: 1892
+★ Stars: 1893
 
 [Open repository](https://github.com/dataxpress/UICountingLabel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1893 | 253 | 
 | 2023-04-09 | 1892 | 253 | 
 | 2023-04-08 | 1891 | 253 | 
 | 2023-04-06 | 1890 | 251 | 

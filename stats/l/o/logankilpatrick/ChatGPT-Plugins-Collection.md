@@ -1,10 +1,10 @@
 # logankilpatrick/ChatGPT-Plugins-Collection - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 24
+☋ Forks: 28
 
-★ Stars: 470
+★ Stars: 484
 
 [Open repository](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 484 | 28 | 
 | 2023-04-09 | 470 | 24 | 
 | 2023-04-08 | 469 | 24 | 
 | 2023-04-07 | 458 | 23 | 

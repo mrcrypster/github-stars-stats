@@ -1,10 +1,10 @@
 # geekplux/timeline-sankey - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/geekplux/timeline-sankey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 85 | 2 | 
 | 2023-04-09 | 84 | 2 | 
 | 2023-04-08 | 84 | 2 | 
 | 2023-04-07 | 84 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 85 | 2 | 
 | 2023-03-13 | 85 | 2 | 
 | 2023-03-12 | 85 | 2 | 
-| 2023-03-11 | 84 | 2 | 
 

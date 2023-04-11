@@ -1,6 +1,6 @@
 # imandra-ai/catapult - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 9 | - | 
 | 2023-04-09 | 9 | - | 
 | 2023-04-08 | 9 | - | 
 | 2023-04-07 | 9 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 9 | - | 
 | 2023-03-14 | 9 | - | 
 | 2023-03-12 | 9 | - | 
-| 2023-03-11 | 9 | - | 
 

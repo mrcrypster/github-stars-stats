@@ -1,10 +1,10 @@
 # networkx/networkx - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 2883
+☋ Forks: 2884
 
-★ Stars: 12463
+★ Stars: 12475
 
 [Open repository](https://github.com/networkx/networkx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 12475 | 2884 | 
 | 2023-04-09 | 12463 | 2883 | 
 | 2023-04-08 | 12456 | 2883 | 
 | 2023-04-07 | 12455 | 2882 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 12339 | 2869 | 
 | 2023-03-13 | 12332 | 2869 | 
 | 2023-03-12 | 12327 | 2867 | 
-| 2023-03-11 | 12327 | 2865 | 
 

@@ -1,10 +1,10 @@
 # sw-yx/spark-joy - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 303
+☋ Forks: 304
 
-★ Stars: 8594
+★ Stars: 8607
 
 [Open repository](https://github.com/sw-yx/spark-joy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 8607 | 304 | 
 | 2023-04-09 | 8594 | 303 | 
 | 2023-04-08 | 8588 | 302 | 
 | 2023-04-07 | 8580 | 302 | 

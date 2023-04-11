@@ -1,6 +1,6 @@
 # vspinu/math-symbol-lists - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 32 | 4 | 
 | 2023-04-09 | 32 | 4 | 
 | 2023-04-08 | 32 | 4 | 
 | 2023-04-07 | 32 | 4 | 

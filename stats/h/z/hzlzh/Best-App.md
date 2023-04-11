@@ -1,10 +1,10 @@
 # hzlzh/Best-App - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1861
 
-★ Stars: 16437
+★ Stars: 16436
 
 [Open repository](https://github.com/hzlzh/Best-App)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 16436 | 1861 | 
 | 2023-04-09 | 16437 | 1861 | 
 | 2023-04-08 | 16437 | 1860 | 
 | 2023-04-07 | 16434 | 1860 | 

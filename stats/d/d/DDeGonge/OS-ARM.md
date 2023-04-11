@@ -1,10 +1,10 @@
 # DDeGonge/OS-ARM - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 69
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/DDeGonge/OS-ARM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 332 | 69 | 
 | 2023-04-09 | 331 | 69 | 
 | 2023-04-08 | 331 | 69 | 
 | 2023-04-07 | 330 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 320 | 68 | 
 | 2023-03-13 | 320 | 68 | 
 | 2023-03-12 | 320 | 68 | 
-| 2023-03-11 | 320 | 68 | 
 

@@ -1,10 +1,10 @@
 # vividus-framework/vividus-sample-tests - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 50
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/vividus-framework/vividus-sample-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6 | 50 | 
 | 2023-04-09 | 5 | 50 | 
 | 2023-04-08 | 5 | 50 | 
 | 2023-04-07 | 5 | 50 | 

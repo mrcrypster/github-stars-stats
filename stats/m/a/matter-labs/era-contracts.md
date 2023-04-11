@@ -1,10 +1,10 @@
 # matter-labs/era-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/matter-labs/era-contracts)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 54 | 10 | 
+| 2023-04-10 | 54 | 10 | 
 | 2023-04-09 | 53 | 9 | 
 | 2023-04-08 | 53 | 8 | 
 | 2023-04-07 | 52 | 8 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 28 | 6 | 
 | 2023-03-13 | 27 | 6 | 
 | 2023-03-12 | 26 | 6 | 
-| 2023-03-11 | 24 | 6 | 
 

@@ -1,10 +1,10 @@
 # liu673cn/box - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1225
+☋ Forks: 1229
 
-★ Stars: 5771
+★ Stars: 5786
 
 [Open repository](https://github.com/liu673cn/box)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5786 | 1229 | 
 | 2023-04-09 | 5771 | 1225 | 
 | 2023-04-08 | 5759 | 1221 | 
 | 2023-04-07 | 5750 | 1219 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 5212 | 1132 | 
 | 2023-03-13 | 5206 | 1130 | 
 | 2023-03-12 | 5172 | 1122 | 
-| 2023-03-11 | 5122 | 1113 | 
 

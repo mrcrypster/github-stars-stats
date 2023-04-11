@@ -1,10 +1,10 @@
 # dolthub/swiss - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 10
 
-★ Stars: 335
+★ Stars: 345
 
 [Open repository](https://github.com/dolthub/swiss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 345 | 10 | 
 | 2023-04-09 | 335 | 10 | 
 | 2023-04-08 | 333 | 10 | 
 | 2023-04-07 | 329 | 10 | 

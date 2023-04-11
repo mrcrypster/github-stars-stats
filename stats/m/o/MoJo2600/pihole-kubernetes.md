@@ -1,8 +1,8 @@
 # MoJo2600/pihole-kubernetes - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 152
+☋ Forks: 153
 
 ★ Stars: 363
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 363 | 153 | 
 | 2023-04-09 | 363 | 152 | 
 | 2023-04-08 | 363 | 151 | 
 | 2023-04-07 | 362 | 151 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 358 | 147 | 
 | 2023-03-14 | 358 | 147 | 
 | 2023-03-13 | 357 | 146 | 
-| 2023-03-12 | 357 | 146 | 
 

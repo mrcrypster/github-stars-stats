@@ -1,10 +1,10 @@
 # syncfusion/flutter-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 733
 
-★ Stars: 1653
+★ Stars: 1654
 
 [Open repository](https://github.com/syncfusion/flutter-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1654 | 733 | 
 | 2023-04-09 | 1653 | 733 | 
 | 2023-04-08 | 1651 | 733 | 
 | 2023-04-07 | 1651 | 732 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1633 | 718 | 
 | 2023-03-13 | 1629 | 718 | 
 | 2023-03-12 | 1623 | 718 | 
-| 2023-03-11 | 1623 | 718 | 
 

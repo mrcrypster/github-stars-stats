@@ -1,6 +1,6 @@
 # ipfs/distributions - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 44 | 36 | 
 | 2023-04-09 | 44 | 36 | 
 | 2023-04-08 | 44 | 36 | 
 | 2023-04-07 | 44 | 35 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 45 | 35 | 
 | 2023-03-13 | 45 | 35 | 
 | 2023-03-12 | 45 | 35 | 
-| 2023-03-11 | 45 | 35 | 
 

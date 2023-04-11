@@ -1,6 +1,6 @@
 # pgRouting/GSoC-pgRouting - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3 | 36 | 
 | 2023-04-09 | 3 | 36 | 
 | 2023-04-08 | 3 | 36 | 
 | 2023-04-07 | 3 | 36 | 

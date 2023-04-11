@@ -1,10 +1,10 @@
 # elm/core - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 357
 
-★ Stars: 2730
+★ Stars: 2729
 
 [Open repository](https://github.com/elm/core)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2729 | 357 | 
 | 2023-04-09 | 2730 | 357 | 
 | 2023-04-08 | 2730 | 357 | 
 | 2023-04-07 | 2730 | 357 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 2727 | 356 | 
 | 2023-03-14 | 2727 | 356 | 
 | 2023-03-12 | 2726 | 356 | 
-| 2023-03-11 | 2725 | 357 | 
 

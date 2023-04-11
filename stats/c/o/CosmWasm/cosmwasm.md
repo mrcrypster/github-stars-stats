@@ -1,6 +1,6 @@
 # CosmWasm/cosmwasm - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 849 | 246 | 
 | 2023-04-09 | 849 | 246 | 
 | 2023-04-08 | 849 | 247 | 
 | 2023-04-07 | 849 | 246 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 835 | 240 | 
 | 2023-03-13 | 835 | 239 | 
 | 2023-03-12 | 835 | 239 | 
-| 2023-03-11 | 834 | 237 | 
 

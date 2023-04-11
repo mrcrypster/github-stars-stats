@@ -1,10 +1,10 @@
 # TonyCrane/PracticalSkillsTutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/TonyCrane/PracticalSkillsTutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 31 | 2 | 
 | 2023-04-09 | 30 | 2 | 
 | 2023-04-08 | 29 | 2 | 
 | 2023-04-07 | 29 | 2 | 

@@ -1,10 +1,10 @@
 # fscheck/FsCheck - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 151
 
-★ Stars: 1051
+★ Stars: 1052
 
 [Open repository](https://github.com/fscheck/FsCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1052 | 151 | 
 | 2023-04-09 | 1051 | 151 | 
 | 2023-04-08 | 1051 | 151 | 
 | 2023-04-07 | 1051 | 151 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1039 | 151 | 
 | 2023-03-14 | 1039 | 151 | 
 | 2023-03-12 | 1039 | 151 | 
-| 2023-03-11 | 1039 | 151 | 
 

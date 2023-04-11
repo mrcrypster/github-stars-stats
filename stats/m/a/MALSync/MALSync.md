@@ -1,8 +1,8 @@
 # MALSync/MALSync - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 178
+☋ Forks: 179
 
 ★ Stars: 1480
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1480 | 179 | 
 | 2023-04-09 | 1480 | 178 | 
 | 2023-04-08 | 1478 | 178 | 
 | 2023-04-07 | 1477 | 178 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1450 | 175 | 
 | 2023-03-14 | 1447 | 175 | 
 | 2023-03-12 | 1447 | 175 | 
-| 2023-03-11 | 1445 | 175 | 
 

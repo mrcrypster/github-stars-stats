@@ -1,6 +1,6 @@
 # svind1er/Bonelab-Mods - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 5 | 4 | 
 | 2023-04-09 | 5 | 4 | 
 | 2023-04-08 | 5 | 4 | 
 | 2023-04-07 | 5 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 5 | 4 | 
 | 2023-03-13 | 4 | 4 | 
 | 2023-03-12 | 4 | 4 | 
-| 2023-03-11 | 4 | 4 | 
 

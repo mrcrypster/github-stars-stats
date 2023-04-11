@@ -1,10 +1,10 @@
 # ddobokki/chatgpt_stock_report - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 16
+☋ Forks: 15
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/ddobokki/chatgpt_stock_report)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 172 | 15 | 
 | 2023-04-09 | 171 | 16 | 
 | 2023-04-08 | 168 | 16 | 
 | 2023-04-07 | 168 | 15 | 

@@ -1,10 +1,10 @@
 # python-poetry/poetry - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1938
+☋ Forks: 1941
 
-★ Stars: 24550
+★ Stars: 24567
 
 [Open repository](https://github.com/python-poetry/poetry)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 24567 | 1941 | 
 | 2023-04-09 | 24550 | 1938 | 
 | 2023-04-08 | 24541 | 1938 | 
 | 2023-04-07 | 24528 | 1937 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 24180 | 1929 | 
 | 2023-03-13 | 24150 | 1926 | 
 | 2023-03-12 | 24126 | 1926 | 
-| 2023-03-11 | 24109 | 1927 | 
 

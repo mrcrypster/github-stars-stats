@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 6165
+☋ Forks: 6170
 
-★ Stars: 50693
+★ Stars: 50746
 
 [Open repository](https://github.com/Fndroid/clash_for_windows_pkg)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 50693 | 6165 | 
+| 2023-04-10 | 50746 | 6170 | 
 | 2023-04-09 | 50691 | 6165 | 
 | 2023-04-08 | 50585 | 6156 | 
 | 2023-04-07 | 50480 | 6150 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 47576 | 5890 | 
 | 2023-03-13 | 47432 | 5881 | 
 | 2023-03-12 | 47388 | 5881 | 
-| 2023-03-11 | 47282 | 5874 | 
 

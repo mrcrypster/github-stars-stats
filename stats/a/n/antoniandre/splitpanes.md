@@ -1,6 +1,6 @@
 # antoniandre/splitpanes - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1333 | 148 | 
 | 2023-04-09 | 1333 | 148 | 
 | 2023-04-08 | 1333 | 148 | 
 | 2023-04-07 | 1332 | 148 | 

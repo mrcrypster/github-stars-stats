@@ -1,10 +1,10 @@
 # Lxtharia/minegrub-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 10
+☋ Forks: 9
 
-★ Stars: 719
+★ Stars: 720
 
 [Open repository](https://github.com/Lxtharia/minegrub-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 720 | 9 | 
 | 2023-04-09 | 719 | 10 | 
 | 2023-04-08 | 717 | 10 | 
 | 2023-04-07 | 718 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 684 | 8 | 
 | 2023-03-13 | 684 | 8 | 
 | 2023-03-12 | 681 | 8 | 
-| 2023-03-11 | 680 | 8 | 
 

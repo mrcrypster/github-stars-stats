@@ -1,6 +1,6 @@
 # gdgand/ComposeCamp2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 695
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 107 | 695 | 
 | 2023-04-09 | 107 | 695 | 
 | 2023-04-08 | 107 | 695 | 
 | 2023-04-07 | 107 | 695 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 106 | 697 | 
 | 2023-03-13 | 106 | 698 | 
 | 2023-03-12 | 106 | 698 | 
-| 2023-03-11 | 106 | 698 | 
 

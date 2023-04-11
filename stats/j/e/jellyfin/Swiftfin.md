@@ -1,10 +1,10 @@
 # jellyfin/Swiftfin - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 125
 
-★ Stars: 1392
+★ Stars: 1393
 
 [Open repository](https://github.com/jellyfin/Swiftfin)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 1392 | 125 | 
+| 2023-04-11 | 1393 | 125 | 
+| 2023-04-10 | 1393 | 125 | 
 | 2023-04-09 | 1391 | 125 | 
 | 2023-04-08 | 1388 | 124 | 
 | 2023-04-07 | 1382 | 123 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 1328 | 116 | 
 | 2023-03-13 | 1328 | 115 | 
 | 2023-03-12 | 1323 | 114 | 
-| 2023-03-11 | 1316 | 113 | 
 

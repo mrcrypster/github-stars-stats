@@ -1,6 +1,6 @@
 # UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 20 | 25 | 
 | 2023-04-09 | 20 | 25 | 
 | 2023-04-08 | 20 | 25 | 
 | 2023-04-07 | 20 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 20 | 25 | 
 | 2023-03-13 | 20 | 25 | 
 | 2023-03-12 | 20 | 25 | 
-| 2023-03-11 | 20 | 25 | 
 

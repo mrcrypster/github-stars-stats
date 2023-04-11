@@ -1,8 +1,8 @@
 # hyperledger/bevel - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 584
+☋ Forks: 585
 
 ★ Stars: 298
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 298 | 584 | 
+| 2023-04-11 | 298 | 585 | 
+| 2023-04-10 | 298 | 585 | 
 | 2023-04-09 | 298 | 584 | 
 | 2023-04-08 | 298 | 584 | 
 | 2023-04-07 | 298 | 583 | 

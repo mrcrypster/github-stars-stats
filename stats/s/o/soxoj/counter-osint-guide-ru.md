@@ -1,6 +1,6 @@
 # soxoj/counter-osint-guide-ru - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 212 | 24 | 
 | 2023-04-09 | 212 | 24 | 
 | 2023-04-08 | 212 | 24 | 
 | 2023-04-07 | 211 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 205 | 23 | 
 | 2023-03-14 | 203 | 23 | 
 | 2023-03-13 | 201 | 23 | 
-| 2023-03-12 | 201 | 23 | 
 

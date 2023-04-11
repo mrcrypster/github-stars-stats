@@ -1,10 +1,10 @@
 # codemix/deprank - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 17
 
-★ Stars: 824
+★ Stars: 825
 
 [Open repository](https://github.com/codemix/deprank)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 825 | 17 | 
 | 2023-04-09 | 824 | 17 | 
 | 2023-04-08 | 823 | 17 | 
 | 2023-04-07 | 823 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 818 | 17 | 
 | 2023-03-13 | 818 | 17 | 
 | 2023-03-12 | 818 | 17 | 
-| 2023-03-11 | 818 | 17 | 
 

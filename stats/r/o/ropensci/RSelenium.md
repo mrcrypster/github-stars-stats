@@ -1,10 +1,10 @@
 # ropensci/RSelenium - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 78
 
-★ Stars: 323
+★ Stars: 324
 
 [Open repository](https://github.com/ropensci/RSelenium)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 324 | 78 | 
 | 2023-04-09 | 323 | 78 | 
 | 2023-04-08 | 323 | 78 | 
 | 2023-04-07 | 323 | 78 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 321 | 78 | 
 | 2023-03-13 | 321 | 78 | 
 | 2023-03-12 | 321 | 78 | 
-| 2023-03-11 | 321 | 78 | 
 

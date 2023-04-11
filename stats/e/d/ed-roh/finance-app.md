@@ -1,10 +1,10 @@
 # ed-roh/finance-app - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 36
 
-★ Stars: 41
+★ Stars: 44
 
 [Open repository](https://github.com/ed-roh/finance-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 44 | 36 | 
 | 2023-04-09 | 41 | 36 | 
 | 2023-04-08 | 39 | 35 | 
 | 2023-04-07 | 39 | 33 | 

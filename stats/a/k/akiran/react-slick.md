@@ -1,10 +1,10 @@
 # akiran/react-slick - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
-☋ Forks: 2048
+☋ Forks: 2049
 
-★ Stars: 10932
+★ Stars: 10934
 
 [Open repository](https://github.com/akiran/react-slick)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 10934 | 2049 | 
 | 2023-04-09 | 10932 | 2048 | 
 | 2023-04-08 | 10930 | 2046 | 
 | 2023-04-07 | 10928 | 2046 | 

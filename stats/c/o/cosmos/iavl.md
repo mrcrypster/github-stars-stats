@@ -1,6 +1,6 @@
 # cosmos/iavl - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 358 | 208 | 
 | 2023-04-09 | 358 | 208 | 
 | 2023-04-08 | 358 | 208 | 
 | 2023-04-07 | 358 | 208 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 356 | 205 | 
 | 2023-03-14 | 355 | 205 | 
 | 2023-03-12 | 355 | 205 | 
-| 2023-03-11 | 355 | 205 | 
 

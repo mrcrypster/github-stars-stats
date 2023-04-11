@@ -1,6 +1,6 @@
 # scalameta/nvim-metals - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 310 | 64 | 
 | 2023-04-09 | 310 | 64 | 
 | 2023-04-08 | 310 | 64 | 
 | 2023-04-07 | 309 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 297 | 63 | 
 | 2023-03-14 | 297 | 63 | 
 | 2023-03-13 | 297 | 63 | 
-| 2023-03-12 | 297 | 63 | 
 

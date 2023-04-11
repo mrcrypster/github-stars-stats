@@ -1,10 +1,10 @@
 # n1snt/Windows-Decrapifier - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 60
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/n1snt/Windows-Decrapifier)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 310 | 60 | 
 | 2023-04-09 | 309 | 60 | 
 | 2023-04-08 | 308 | 60 | 
 | 2023-04-07 | 308 | 60 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 295 | 59 | 
 | 2023-03-13 | 295 | 59 | 
 | 2023-03-12 | 293 | 59 | 
-| 2023-03-11 | 294 | 59 | 
 

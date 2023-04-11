@@ -1,8 +1,8 @@
 # dtolnay/cxx - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 271
+☋ Forks: 272
 
 ★ Stars: 4662
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 4662 | 272 | 
 | 2023-04-09 | 4662 | 271 | 
 | 2023-04-08 | 4660 | 271 | 
 | 2023-04-07 | 4659 | 271 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 4600 | 266 | 
 | 2023-03-14 | 4595 | 265 | 
 | 2023-03-12 | 4589 | 265 | 
-| 2023-03-11 | 4589 | 265 | 
 

@@ -1,6 +1,6 @@
 # nomoixyz/vulcan - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 166 | 4 | 
 | 2023-04-09 | 166 | 4 | 
 | 2023-04-08 | 165 | 4 | 
 | 2023-04-07 | 165 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 54 | 1 | 
 | 2023-03-13 | 54 | 1 | 
 | 2023-03-12 | 53 | 1 | 
-| 2023-03-11 | 53 | 1 | 
 

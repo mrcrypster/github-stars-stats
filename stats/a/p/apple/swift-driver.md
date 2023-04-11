@@ -1,10 +1,10 @@
 # apple/swift-driver - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 162
 
-★ Stars: 700
+★ Stars: 701
 
 [Open repository](https://github.com/apple/swift-driver)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 701 | 162 | 
 | 2023-04-09 | 700 | 162 | 
 | 2023-04-08 | 700 | 162 | 
 | 2023-04-07 | 700 | 162 | 

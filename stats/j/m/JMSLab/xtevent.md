@@ -1,10 +1,10 @@
 # JMSLab/xtevent - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/JMSLab/xtevent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 23 | 9 | 
 | 2023-04-09 | 22 | 9 | 
 | 2023-04-08 | 22 | 9 | 
 | 2023-04-07 | 22 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 21 | 8 | 
 | 2023-03-14 | 21 | 8 | 
 | 2023-03-13 | 21 | 8 | 
-| 2023-03-11 | 21 | 8 | 
 

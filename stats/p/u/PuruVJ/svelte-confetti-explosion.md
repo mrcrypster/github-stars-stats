@@ -1,10 +1,10 @@
 # PuruVJ/svelte-confetti-explosion - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/PuruVJ/svelte-confetti-explosion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 72 | 5 | 
 | 2023-04-09 | 71 | 5 | 
 | 2023-04-08 | 71 | 5 | 
 | 2023-04-07 | 71 | 5 | 

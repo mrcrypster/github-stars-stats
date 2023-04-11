@@ -1,6 +1,6 @@
 # mrexodia/lolbin-poc - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 110 | 14 | 
 | 2023-04-09 | 110 | 14 | 
 | 2023-04-08 | 110 | 14 | 
 | 2023-04-07 | 110 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 100 | 12 | 
 | 2023-03-13 | 99 | 12 | 
 | 2023-03-12 | 95 | 12 | 
-| 2023-03-11 | 95 | 12 | 
 

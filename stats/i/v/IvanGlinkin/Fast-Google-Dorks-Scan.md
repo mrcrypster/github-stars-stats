@@ -1,10 +1,10 @@
 # IvanGlinkin/Fast-Google-Dorks-Scan - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 166
 
-★ Stars: 875
+★ Stars: 878
 
 [Open repository](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 878 | 166 | 
 | 2023-04-09 | 875 | 166 | 
 | 2023-04-08 | 869 | 163 | 
 | 2023-04-07 | 862 | 163 | 

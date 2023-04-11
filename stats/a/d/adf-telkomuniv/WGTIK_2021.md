@@ -1,6 +1,6 @@
 # adf-telkomuniv/WGTIK_2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2 | 250 | 
 | 2023-04-09 | 2 | 250 | 
 | 2023-04-08 | 2 | 250 | 
 | 2023-04-07 | 2 | 250 | 

@@ -1,10 +1,10 @@
 # romainl/vim-cool - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 23
 
-★ Stars: 427
+★ Stars: 428
 
 [Open repository](https://github.com/romainl/vim-cool)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 428 | 23 | 
 | 2023-04-09 | 427 | 23 | 
 | 2023-04-08 | 427 | 23 | 
 | 2023-04-07 | 427 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 420 | 23 | 
 | 2023-03-13 | 419 | 22 | 
 | 2023-03-12 | 419 | 22 | 
-| 2023-03-11 | 420 | 22 | 
 

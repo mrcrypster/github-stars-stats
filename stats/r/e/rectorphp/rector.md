@@ -1,10 +1,10 @@
 # rectorphp/rector - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 624
 
-★ Stars: 6983
+★ Stars: 6985
 
 [Open repository](https://github.com/rectorphp/rector)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6985 | 624 | 
 | 2023-04-09 | 6983 | 624 | 
 | 2023-04-08 | 6979 | 624 | 
 | 2023-04-07 | 6974 | 624 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 6827 | 611 | 
 | 2023-03-13 | 6826 | 611 | 
 | 2023-03-12 | 6821 | 610 | 
-| 2023-03-11 | 6822 | 608 | 
 

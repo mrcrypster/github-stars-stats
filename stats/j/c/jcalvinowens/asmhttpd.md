@@ -1,6 +1,6 @@
 # jcalvinowens/asmhttpd - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 166 | 13 | 
 | 2023-04-09 | 166 | 13 | 
 | 2023-04-08 | 166 | 13 | 
 | 2023-04-07 | 166 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 166 | 13 | 
 | 2023-03-14 | 166 | 13 | 
 | 2023-03-13 | 166 | 13 | 
-| 2023-03-11 | 166 | 13 | 
 

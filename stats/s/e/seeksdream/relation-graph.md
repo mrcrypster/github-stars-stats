@@ -1,10 +1,10 @@
 # seeksdream/relation-graph - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 379
 
-★ Stars: 1068
+★ Stars: 1072
 
 [Open repository](https://github.com/seeksdream/relation-graph)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1072 | 379 | 
 | 2023-04-10 | 1068 | 379 | 
 | 2023-04-08 | 1064 | 379 | 
 | 2023-04-07 | 1061 | 379 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 1027 | 371 | 
 | 2023-03-13 | 1025 | 371 | 
 | 2023-03-12 | 1023 | 371 | 
-| 2023-03-11 | 1020 | 371 | 
 

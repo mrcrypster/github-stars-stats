@@ -1,10 +1,10 @@
 # Liuhaixv/GGDH_ML - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 3
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/Liuhaixv/GGDH_ML)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 31 | 3 | 
+| 2023-04-11 | 32 | 3 | 
+| 2023-04-10 | 32 | 3 | 
 | 2023-04-09 | 31 | 3 | 
 | 2023-04-08 | 31 | 3 | 
 | 2023-04-07 | 31 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 25 | 1 | 
 | 2023-03-13 | 25 | 1 | 
 | 2023-03-12 | 25 | 1 | 
-| 2023-03-11 | 24 | 1 | 
 

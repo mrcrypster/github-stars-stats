@@ -1,10 +1,10 @@
 # flowplayer/flash - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 183
 
-★ Stars: 280
+★ Stars: 279
 
 [Open repository](https://github.com/flowplayer/flash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 279 | 183 | 
 | 2023-04-09 | 280 | 183 | 
 | 2023-04-08 | 280 | 183 | 
 | 2023-04-07 | 280 | 183 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 279 | 183 | 
 | 2023-03-13 | 279 | 183 | 
 | 2023-03-12 | 279 | 183 | 
-| 2023-03-11 | 279 | 183 | 
 

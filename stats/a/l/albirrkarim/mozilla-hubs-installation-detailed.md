@@ -1,6 +1,6 @@
 # albirrkarim/mozilla-hubs-installation-detailed - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 94 | 41 | 
 | 2023-04-09 | 94 | 41 | 
 | 2023-04-08 | 94 | 40 | 
 | 2023-04-07 | 94 | 40 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 92 | 40 | 
 | 2023-03-14 | 92 | 40 | 
 | 2023-03-13 | 92 | 40 | 
-| 2023-03-11 | 92 | 40 | 
 

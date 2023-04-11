@@ -1,10 +1,10 @@
 # Torantulino/AI-Functions - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 339
+★ Stars: 366
 
 [Open repository](https://github.com/Torantulino/AI-Functions)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 366 | 46 | 
 | 2023-04-09 | 339 | 45 | 
 | 2023-04-08 | 325 | 44 | 
 | 2023-04-07 | 247 | 36 | 

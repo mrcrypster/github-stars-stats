@@ -1,10 +1,10 @@
 # michael-andreuzza/quickstore - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/michael-andreuzza/quickstore)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 27 | 8 | 
 | 2023-04-09 | 26 | 8 | 
 | 2023-04-08 | 26 | 8 | 
 | 2023-04-07 | 25 | 7 | 

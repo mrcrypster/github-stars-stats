@@ -1,10 +1,10 @@
 # Mboalab/Outreachy_May_2023-August_2023-Internships - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 77
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Mboalab/Outreachy_May_2023-August_2023-Internships)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 10 | 77 | 
 | 2023-04-09 | 9 | 77 | 
 | 2023-04-08 | 9 | 77 | 
 | 2023-04-07 | 9 | 77 | 

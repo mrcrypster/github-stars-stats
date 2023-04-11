@@ -1,10 +1,10 @@
 # ItIsMeCall911/Course-Piracy-Index - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 158
 
-★ Stars: 1310
+★ Stars: 1316
 
 [Open repository](https://github.com/ItIsMeCall911/Course-Piracy-Index)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1316 | 158 | 
 | 2023-04-09 | 1310 | 158 | 
 | 2023-04-08 | 1309 | 156 | 
 | 2023-04-07 | 1309 | 156 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1217 | 150 | 
 | 2023-03-13 | 1214 | 150 | 
 | 2023-03-12 | 1207 | 149 | 
-| 2023-03-11 | 1204 | 149 | 
 

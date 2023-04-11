@@ -1,10 +1,10 @@
 # zhelper-org/search-page - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 35
 
-★ Stars: 199
+★ Stars: 202
 
 [Open repository](https://github.com/zhelper-org/search-page)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 202 | 35 | 
 | 2023-04-09 | 199 | 35 | 
 | 2023-04-08 | 197 | 34 | 
 | 2023-04-07 | 197 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 171 | 27 | 
 | 2023-03-13 | 170 | 26 | 
 | 2023-03-12 | 168 | 26 | 
-| 2023-03-11 | 168 | 26 | 
 

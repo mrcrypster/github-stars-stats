@@ -1,10 +1,10 @@
 # showtime-xyz/SS2ERC721 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 8
+☋ Forks: 10
 
-★ Stars: 74
+★ Stars: 77
 
 [Open repository](https://github.com/showtime-xyz/SS2ERC721)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 77 | 10 | 
 | 2023-04-09 | 74 | 8 | 
 | 2023-04-08 | 74 | 7 | 
 | 2023-04-07 | 74 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 58 | 5 | 
 | 2023-03-13 | 57 | 5 | 
 | 2023-03-12 | 55 | 5 | 
-| 2023-03-11 | 54 | 5 | 
 

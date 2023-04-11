@@ -1,10 +1,10 @@
 # rigelminer/rigel - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 5
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/rigelminer/rigel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 72 | 5 | 
 | 2023-04-09 | 70 | 5 | 
 | 2023-04-08 | 69 | 5 | 
 | 2023-04-07 | 67 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 61 | 5 | 
 | 2023-03-13 | 60 | 5 | 
 | 2023-03-12 | 60 | 5 | 
-| 2023-03-11 | 59 | 5 | 
 

@@ -1,10 +1,10 @@
 # motifland/markprompt - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 1552
+★ Stars: 1565
 
 [Open repository](https://github.com/motifland/markprompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1565 | 105 | 
 | 2023-04-09 | 1552 | 104 | 
 | 2023-04-08 | 1534 | 102 | 
 | 2023-04-07 | 1503 | 102 | 

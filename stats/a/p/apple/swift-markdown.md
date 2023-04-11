@@ -1,10 +1,10 @@
 # apple/swift-markdown - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 126
 
-★ Stars: 2131
+★ Stars: 2132
 
 [Open repository](https://github.com/apple/swift-markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2132 | 126 | 
 | 2023-04-09 | 2131 | 126 | 
 | 2023-04-08 | 2130 | 125 | 
 | 2023-04-07 | 2126 | 125 | 

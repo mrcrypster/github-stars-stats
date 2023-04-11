@@ -1,10 +1,10 @@
 # roadmapsh/next.roadmap.sh - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 377
+☋ Forks: 379
 
-★ Stars: 2279
+★ Stars: 2290
 
 [Open repository](https://github.com/roadmapsh/next.roadmap.sh)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 2279 | 377 | 
+| 2023-04-11 | 2290 | 379 | 
+| 2023-04-10 | 2286 | 379 | 
 | 2023-04-09 | 2278 | 376 | 
 | 2023-04-08 | 2266 | 373 | 
 | 2023-04-07 | 2262 | 372 | 

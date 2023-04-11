@@ -1,10 +1,10 @@
 # json-path/JsonPath - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1518
 
-★ Stars: 7808
+★ Stars: 7812
 
 [Open repository](https://github.com/json-path/JsonPath)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 7812 | 1518 | 
 | 2023-04-09 | 7808 | 1518 | 
 | 2023-04-08 | 7804 | 1518 | 
 | 2023-04-07 | 7801 | 1518 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 7741 | 1505 | 
 | 2023-03-14 | 7734 | 1505 | 
 | 2023-03-13 | 7727 | 1503 | 
-| 2023-03-11 | 7725 | 1503 | 
 

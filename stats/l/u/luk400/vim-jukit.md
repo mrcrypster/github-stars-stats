@@ -1,10 +1,10 @@
 # luk400/vim-jukit - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 7
+☋ Forks: 6
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/luk400/vim-jukit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 246 | 6 | 
 | 2023-04-09 | 245 | 7 | 
 | 2023-04-08 | 244 | 6 | 
 | 2023-04-07 | 244 | 6 | 

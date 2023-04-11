@@ -1,6 +1,6 @@
 # Pugmatt/BedrockConnect - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 983 | 120 | 
 | 2023-04-09 | 983 | 120 | 
 | 2023-04-08 | 981 | 119 | 
 | 2023-04-07 | 978 | 118 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 964 | 115 | 
 | 2023-03-14 | 962 | 115 | 
 | 2023-03-13 | 961 | 115 | 
-| 2023-03-11 | 960 | 115 | 
 

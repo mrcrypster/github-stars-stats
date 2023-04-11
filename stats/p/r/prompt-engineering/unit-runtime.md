@@ -1,10 +1,10 @@
 # prompt-engineering/unit-runtime - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 70
+★ Stars: 74
 
 [Open repository](https://github.com/prompt-engineering/unit-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 74 | 8 | 
 | 2023-04-09 | 70 | 8 | 
 | 2023-04-08 | 69 | 8 | 
 | 2023-04-07 | 68 | 8 | 

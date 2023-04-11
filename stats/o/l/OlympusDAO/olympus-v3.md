@@ -1,8 +1,8 @@
 # OlympusDAO/olympus-v3 - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 19 | 19 | 
 | 2023-04-09 | 19 | 18 | 
 | 2023-04-08 | 19 | 18 | 
 | 2023-04-07 | 19 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 17 | 18 | 
 | 2023-03-14 | 17 | 17 | 
 | 2023-03-13 | 17 | 17 | 
-| 2023-03-12 | 17 | 17 | 
 

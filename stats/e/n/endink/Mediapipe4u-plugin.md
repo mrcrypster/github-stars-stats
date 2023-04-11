@@ -1,10 +1,10 @@
 # endink/Mediapipe4u-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 25
 
-★ Stars: 135
+★ Stars: 139
 
 [Open repository](https://github.com/endink/Mediapipe4u-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 139 | 25 | 
 | 2023-04-09 | 135 | 25 | 
 | 2023-04-08 | 135 | 25 | 
 | 2023-04-07 | 135 | 25 | 

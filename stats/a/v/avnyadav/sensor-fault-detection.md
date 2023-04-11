@@ -1,8 +1,8 @@
 # avnyadav/sensor-fault-detection - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 236
+☋ Forks: 235
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 31 | 235 | 
 | 2023-04-10 | 31 | 236 | 
 | 2023-04-08 | 31 | 236 | 
 | 2023-04-07 | 31 | 236 | 

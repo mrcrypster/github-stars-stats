@@ -1,10 +1,10 @@
 # rustdesk/rustdesk - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 3847
+☋ Forks: 3857
 
-★ Stars: 40367
+★ Stars: 40412
 
 [Open repository](https://github.com/rustdesk/rustdesk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 40412 | 3857 | 
 | 2023-04-09 | 40367 | 3847 | 
 | 2023-04-08 | 40357 | 3845 | 
 | 2023-04-07 | 40317 | 3839 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 39322 | 3642 | 
 | 2023-03-13 | 39276 | 3632 | 
 | 2023-03-12 | 39221 | 3621 | 
-| 2023-03-11 | 39184 | 3607 | 
 

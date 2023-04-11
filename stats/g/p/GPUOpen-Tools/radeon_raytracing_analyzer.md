@@ -1,6 +1,6 @@
 # GPUOpen-Tools/radeon_raytracing_analyzer - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 237 | 21 | 
 | 2023-04-09 | 237 | 21 | 
 | 2023-04-08 | 237 | 21 | 
 | 2023-04-06 | 237 | 21 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 236 | 21 | 
 | 2023-03-14 | 236 | 21 | 
 | 2023-03-13 | 236 | 21 | 
-| 2023-03-11 | 236 | 21 | 
 

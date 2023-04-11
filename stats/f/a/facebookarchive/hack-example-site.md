@@ -1,10 +1,10 @@
 # facebookarchive/hack-example-site - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 73
 
-★ Stars: 285
+★ Stars: 284
 
 [Open repository](https://github.com/facebookarchive/hack-example-site)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 284 | 73 | 
 | 2023-04-09 | 285 | 73 | 
 | 2023-04-08 | 285 | 73 | 
 | 2023-04-07 | 285 | 73 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 285 | 73 | 
 | 2023-03-13 | 285 | 73 | 
 | 2023-03-12 | 285 | 73 | 
-| 2023-03-11 | 285 | 73 | 
 

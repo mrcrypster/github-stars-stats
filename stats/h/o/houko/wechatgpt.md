@@ -1,10 +1,10 @@
 # houko/wechatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 177
+☋ Forks: 178
 
-★ Stars: 716
+★ Stars: 718
 
 [Open repository](https://github.com/houko/wechatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 718 | 178 | 
 | 2023-04-09 | 716 | 177 | 
 | 2023-04-08 | 715 | 177 | 
 | 2023-04-07 | 714 | 176 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 662 | 163 | 
 | 2023-03-14 | 658 | 158 | 
 | 2023-03-13 | 652 | 158 | 
-| 2023-03-11 | 654 | 158 | 
 

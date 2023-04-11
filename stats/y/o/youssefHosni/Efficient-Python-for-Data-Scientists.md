@@ -1,10 +1,10 @@
 # youssefHosni/Efficient-Python-for-Data-Scientists - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 66
 
-★ Stars: 326
+★ Stars: 328
 
 [Open repository](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 328 | 66 | 
 | 2023-04-10 | 326 | 66 | 
 | 2023-04-08 | 321 | 66 | 
 | 2023-04-07 | 320 | 65 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 290 | 57 | 
 | 2023-03-14 | 290 | 57 | 
 | 2023-03-12 | 289 | 56 | 
-| 2023-03-11 | 287 | 54 | 
 

@@ -1,10 +1,10 @@
 # apple/swift-package-manager - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1277
+☋ Forks: 1278
 
-★ Stars: 9198
+★ Stars: 9199
 
 [Open repository](https://github.com/apple/swift-package-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 9199 | 1278 | 
 | 2023-04-10 | 9198 | 1277 | 
 | 2023-04-09 | 9198 | 1278 | 
 | 2023-04-08 | 9196 | 1278 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 9161 | 1268 | 
 | 2023-03-13 | 9159 | 1267 | 
 | 2023-03-12 | 9156 | 1266 | 
-| 2023-03-11 | 9154 | 1266 | 
 

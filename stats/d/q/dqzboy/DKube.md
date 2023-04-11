@@ -1,10 +1,10 @@
 # dqzboy/DKube - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 23
 
-★ Stars: 196
+★ Stars: 199
 
 [Open repository](https://github.com/dqzboy/DKube)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 199 | 23 | 
 | 2023-04-09 | 196 | 23 | 
 | 2023-04-08 | 192 | 23 | 
 | 2023-04-07 | 190 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 149 | 18 | 
 | 2023-03-13 | 147 | 18 | 
 | 2023-03-12 | 146 | 18 | 
-| 2023-03-11 | 143 | 18 | 
 

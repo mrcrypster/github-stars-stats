@@ -1,6 +1,6 @@
 # cilium/hubble - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2607 | 191 | 
 | 2023-04-09 | 2607 | 191 | 
 | 2023-04-08 | 2608 | 190 | 
 | 2023-04-07 | 2609 | 190 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 2566 | 189 | 
 | 2023-03-14 | 2561 | 189 | 
 | 2023-03-12 | 2561 | 189 | 
-| 2023-03-11 | 2558 | 189 | 
 

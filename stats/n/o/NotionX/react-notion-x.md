@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 412
 
-★ Stars: 3573
+★ Stars: 3577
 
 [Open repository](https://github.com/NotionX/react-notion-x)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 3573 | 412 | 
+| 2023-04-10 | 3577 | 412 | 
 | 2023-04-09 | 3571 | 412 | 
 | 2023-04-08 | 3560 | 411 | 
 | 2023-04-07 | 3555 | 411 | 

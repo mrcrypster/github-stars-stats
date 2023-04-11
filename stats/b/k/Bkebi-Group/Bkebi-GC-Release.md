@@ -1,10 +1,10 @@
 # Bkebi-Group/Bkebi-GC-Release - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
-☋ Forks: 359
+☋ Forks: 352
 
-★ Stars: 798
+★ Stars: 800
 
 [Open repository](https://github.com/Bkebi-Group/Bkebi-GC-Release)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 800 | 352 | 
 | 2023-04-09 | 798 | 359 | 
 | 2023-04-08 | 799 | 367 | 
 | 2023-04-07 | 797 | 366 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 783 | 354 | 
 | 2023-03-13 | 769 | 350 | 
 | 2023-03-12 | 760 | 349 | 
-| 2023-03-11 | 754 | 342 | 
 

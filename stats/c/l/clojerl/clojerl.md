@@ -1,10 +1,10 @@
 # clojerl/clojerl - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 36
 
-★ Stars: 1597
+★ Stars: 1596
 
 [Open repository](https://github.com/clojerl/clojerl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1596 | 36 | 
 | 2023-04-09 | 1597 | 36 | 
 | 2023-04-08 | 1597 | 36 | 
 | 2023-04-07 | 1597 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1590 | 36 | 
 | 2023-03-14 | 1590 | 36 | 
 | 2023-03-13 | 1590 | 36 | 
-| 2023-03-11 | 1590 | 36 | 
 

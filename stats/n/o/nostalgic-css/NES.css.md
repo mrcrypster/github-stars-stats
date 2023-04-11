@@ -1,10 +1,10 @@
 # nostalgic-css/NES.css - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 1612
 
-★ Stars: 19648
+★ Stars: 19651
 
 [Open repository](https://github.com/nostalgic-css/NES.css)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 19651 | 1612 | 
 | 2023-04-09 | 19648 | 1612 | 
 | 2023-04-08 | 19646 | 1611 | 
 | 2023-04-07 | 19641 | 1610 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 19511 | 1609 | 
 | 2023-03-14 | 19498 | 1609 | 
 | 2023-03-12 | 19496 | 1611 | 
-| 2023-03-11 | 19494 | 1611 | 
 

@@ -1,8 +1,8 @@
 # ygminds73/terraform-vpc - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 45
+☋ Forks: 47
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1 | 47 | 
 | 2023-04-09 | 1 | 45 | 
 | 2023-04-08 | 1 | 45 | 
 

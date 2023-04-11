@@ -1,6 +1,6 @@
 # sonyxperiadev/dataflow - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 136 | 17 | 
 | 2023-04-09 | 136 | 17 | 
 | 2023-04-08 | 136 | 17 | 
 | 2023-04-07 | 136 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 135 | 17 | 
 | 2023-03-14 | 134 | 17 | 
 | 2023-03-12 | 134 | 17 | 
-| 2023-03-11 | 134 | 17 | 
 

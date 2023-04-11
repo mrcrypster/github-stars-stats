@@ -1,8 +1,8 @@
 # exorde-labs/TestnetProtocol - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 23
+☋ Forks: 22
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 13 | 22 | 
 | 2023-04-09 | 13 | 23 | 
 | 2023-04-08 | 13 | 23 | 
 | 2023-04-07 | 13 | 23 | 

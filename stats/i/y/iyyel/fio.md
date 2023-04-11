@@ -1,10 +1,10 @@
 # iyyel/fio - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/iyyel/fio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 28 | - | 
 | 2023-04-09 | 27 | - | 
 | 2023-04-08 | 27 | - | 
 | 2023-04-07 | 27 | - | 

@@ -1,10 +1,10 @@
 # kowainik/typerep-map - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 94
+★ Stars: 93
 
 [Open repository](https://github.com/kowainik/typerep-map)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 93 | 13 | 
 | 2023-04-09 | 94 | 13 | 
 | 2023-04-08 | 94 | 13 | 
 | 2023-04-07 | 94 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 95 | 13 | 
 | 2023-03-13 | 95 | 13 | 
 | 2023-03-12 | 95 | 13 | 
-| 2023-03-11 | 95 | 13 | 
 

@@ -1,10 +1,10 @@
 # google/flexbox-layout - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1839
+☋ Forks: 1840
 
-★ Stars: 17835
+★ Stars: 17836
 
 [Open repository](https://github.com/google/flexbox-layout)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 17836 | 1840 | 
 | 2023-04-09 | 17835 | 1839 | 
 | 2023-04-08 | 17833 | 1839 | 
 | 2023-04-06 | 17833 | 1839 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 17800 | 1838 | 
 | 2023-03-13 | 17798 | 1838 | 
 | 2023-03-12 | 17793 | 1837 | 
-| 2023-03-11 | 17791 | 1837 | 
 

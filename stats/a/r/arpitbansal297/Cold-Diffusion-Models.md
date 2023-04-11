@@ -1,10 +1,10 @@
 # arpitbansal297/Cold-Diffusion-Models - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 62
 
-★ Stars: 769
+★ Stars: 770
 
 [Open repository](https://github.com/arpitbansal297/Cold-Diffusion-Models)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 770 | 62 | 
 | 2023-04-09 | 769 | 62 | 
 | 2023-04-08 | 768 | 62 | 
 | 2023-04-07 | 768 | 62 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 747 | 61 | 
 | 2023-03-13 | 746 | 61 | 
 | 2023-03-12 | 746 | 61 | 
-| 2023-03-11 | 746 | 61 | 
 

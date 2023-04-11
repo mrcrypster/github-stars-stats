@@ -1,10 +1,10 @@
 # SymbianSource/oss.FCL.sf.os.kernelhwsrv - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 71
 
-★ Stars: 462
+★ Stars: 461
 
 [Open repository](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 461 | 71 | 
 | 2023-04-09 | 462 | 71 | 
 | 2023-04-08 | 462 | 71 | 
 | 2023-04-07 | 462 | 71 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 457 | 71 | 
 | 2023-03-14 | 456 | 71 | 
 | 2023-03-12 | 456 | 71 | 
-| 2023-03-11 | 455 | 71 | 
 

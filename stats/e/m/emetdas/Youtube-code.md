@@ -1,10 +1,10 @@
 # emetdas/Youtube-code - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 187
+☋ Forks: 190
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/emetdas/Youtube-code)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 39 | 190 | 
 | 2023-04-09 | 38 | 187 | 
 | 2023-04-08 | 38 | 186 | 
 | 2023-04-07 | 38 | 188 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 34 | 144 | 
 | 2023-03-14 | 34 | 143 | 
 | 2023-03-13 | 34 | 142 | 
-| 2023-03-11 | 34 | 142 | 
 

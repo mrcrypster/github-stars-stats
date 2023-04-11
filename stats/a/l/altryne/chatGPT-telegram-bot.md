@@ -1,10 +1,10 @@
 # altryne/chatGPT-telegram-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 238
+☋ Forks: 239
 
-★ Stars: 1587
+★ Stars: 1591
 
 [Open repository](https://github.com/altryne/chatGPT-telegram-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1591 | 239 | 
 | 2023-04-09 | 1587 | 238 | 
 | 2023-04-08 | 1584 | 238 | 
 | 2023-04-07 | 1579 | 238 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1523 | 230 | 
 | 2023-03-14 | 1517 | 230 | 
 | 2023-03-13 | 1513 | 230 | 
-| 2023-03-11 | 1513 | 228 | 
 

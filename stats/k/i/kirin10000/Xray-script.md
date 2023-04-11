@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 530
+☋ Forks: 529
 
-★ Stars: 1539
+★ Stars: 1540
 
 [Open repository](https://github.com/kirin10000/Xray-script)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 1539 | 530 | 
+| 2023-04-10 | 1540 | 529 | 
 | 2023-04-09 | 1539 | 530 | 
 | 2023-04-08 | 1533 | 529 | 
 | 2023-04-07 | 1528 | 529 | 

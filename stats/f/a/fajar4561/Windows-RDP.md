@@ -1,8 +1,8 @@
 # fajar4561/Windows-RDP - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 63
+☋ Forks: 62
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1 | 62 | 
 | 2023-04-09 | 1 | 63 | 
 | 2023-04-08 | 1 | 62 | 
 | 2023-04-07 | 1 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 1 | 53 | 
 | 2023-03-14 | 1 | 52 | 
 | 2023-03-12 | 1 | 52 | 
-| 2023-03-11 | 1 | 52 | 
 

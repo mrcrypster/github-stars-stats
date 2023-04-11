@@ -1,8 +1,8 @@
 # vuepress-theme-hope/vuepress-theme-hope - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 441
+☋ Forks: 440
 
 ★ Stars: 1127
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1127 | 440 | 
 | 2023-04-09 | 1127 | 441 | 
 | 2023-04-08 | 1124 | 440 | 
 | 2023-04-07 | 1121 | 440 | 

@@ -1,8 +1,8 @@
 # Avinash987/Coding - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
-☋ Forks: 277
+☋ Forks: 279
 
 ★ Stars: 894
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 894 | 279 | 
 | 2023-04-09 | 894 | 277 | 
 | 2023-04-08 | 892 | 277 | 
 | 2023-04-07 | 889 | 275 | 

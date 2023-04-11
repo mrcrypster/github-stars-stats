@@ -1,6 +1,6 @@
 # maurice-daly/DriverAutomationTool - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 297 | 84 | 
 | 2023-04-09 | 297 | 84 | 
 | 2023-04-08 | 297 | 84 | 
 | 2023-04-07 | 297 | 84 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 285 | 84 | 
 | 2023-03-13 | 285 | 84 | 
 | 2023-03-12 | 285 | 84 | 
-| 2023-03-11 | 285 | 84 | 
 

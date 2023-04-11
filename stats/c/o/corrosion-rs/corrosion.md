@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 62
 
-★ Stars: 666
+★ Stars: 667
 
 [Open repository](https://github.com/corrosion-rs/corrosion)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 666 | 62 | 
+| 2023-04-10 | 667 | 62 | 
 | 2023-04-09 | 666 | 62 | 
 | 2023-04-08 | 666 | 62 | 
 | 2023-04-07 | 666 | 62 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 642 | 59 | 
 | 2023-03-13 | 641 | 59 | 
 | 2023-03-12 | 639 | 59 | 
-| 2023-03-11 | 639 | 59 | 
 

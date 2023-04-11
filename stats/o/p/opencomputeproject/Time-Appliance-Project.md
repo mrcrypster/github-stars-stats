@@ -1,6 +1,6 @@
 # opencomputeproject/Time-Appliance-Project - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1195 | 81 | 
 | 2023-04-09 | 1195 | 81 | 
 | 2023-04-08 | 1195 | 81 | 
 | 2023-04-07 | 1195 | 81 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-14 | 1188 | 80 | 
 | 2023-03-13 | 1187 | 80 | 
 | 2023-03-12 | 1187 | 80 | 
-| 2023-03-11 | 1187 | 80 | 
 

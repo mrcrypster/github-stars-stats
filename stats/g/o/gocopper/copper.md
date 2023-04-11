@@ -1,6 +1,6 @@
 # gocopper/copper - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 914 | 29 | 
 | 2023-04-09 | 914 | 29 | 
 | 2023-04-08 | 914 | 29 | 
 | 2023-04-07 | 914 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 913 | 30 | 
 | 2023-03-13 | 912 | 30 | 
 | 2023-03-12 | 912 | 30 | 
-| 2023-03-11 | 912 | 30 | 
 

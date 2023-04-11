@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 10
 
 ☋ Forks: 443
 
-★ Stars: 7219
+★ Stars: 7218
 
 [Open repository](https://github.com/Immediate-Mode-UI/Nuklear)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 7219 | 443 | 
+| 2023-04-10 | 7218 | 443 | 
 | 2023-04-09 | 7217 | 443 | 
 | 2023-04-08 | 7203 | 442 | 
 | 2023-04-07 | 7202 | 442 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-14 | 7113 | 431 | 
 | 2023-03-13 | 7108 | 430 | 
 | 2023-03-12 | 7106 | 430 | 
-| 2023-03-11 | 7101 | 429 | 
 

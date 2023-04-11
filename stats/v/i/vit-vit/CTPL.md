@@ -1,10 +1,10 @@
 # vit-vit/CTPL - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 1248
+★ Stars: 1252
 
 [Open repository](https://github.com/vit-vit/CTPL)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 1252 | 279 | 
 | 2023-04-09 | 1248 | 278 | 
 | 2023-04-08 | 1243 | 277 | 
 | 2023-04-07 | 1235 | 276 | 

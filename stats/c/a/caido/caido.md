@@ -1,10 +1,10 @@
 # caido/caido - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 318
+★ Stars: 326
 
 [Open repository](https://github.com/caido/caido)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 326 | 8 | 
 | 2023-04-09 | 318 | 8 | 
 | 2023-04-08 | 306 | 7 | 
 | 2023-04-07 | 306 | 7 | 

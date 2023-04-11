@@ -1,10 +1,10 @@
 # lewang/ws-butler - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 25
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/lewang/ws-butler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 221 | 25 | 
 | 2023-04-09 | 220 | 25 | 
 | 2023-04-08 | 220 | 25 | 
 | 2023-04-07 | 220 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 220 | 25 | 
 | 2023-03-14 | 221 | 25 | 
 | 2023-03-12 | 221 | 25 | 
-| 2023-03-11 | 221 | 25 | 
 

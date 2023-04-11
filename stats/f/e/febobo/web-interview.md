@@ -1,10 +1,10 @@
 # febobo/web-interview - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 1110
+☋ Forks: 1113
 
-★ Stars: 6923
+★ Stars: 6932
 
 [Open repository](https://github.com/febobo/web-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 6932 | 1113 | 
 | 2023-04-09 | 6923 | 1110 | 
 | 2023-04-08 | 6915 | 1107 | 
 | 2023-04-07 | 6915 | 1107 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-16 | 6710 | 1078 | 
 | 2023-03-14 | 6690 | 1074 | 
 | 2023-03-13 | 6673 | 1072 | 
-| 2023-03-11 | 6665 | 1068 | 
 

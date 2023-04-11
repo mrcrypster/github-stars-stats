@@ -1,10 +1,10 @@
 # AtsushiSakai/PythonRobotics - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 5629
+☋ Forks: 5632
 
-★ Stars: 18029
+★ Stars: 18049
 
 [Open repository](https://github.com/AtsushiSakai/PythonRobotics)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 18049 | 5632 | 
 | 2023-04-09 | 18029 | 5629 | 
 | 2023-04-08 | 18024 | 5627 | 
 | 2023-04-07 | 18015 | 5626 | 

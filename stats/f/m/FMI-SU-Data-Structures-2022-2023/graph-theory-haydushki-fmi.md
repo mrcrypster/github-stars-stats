@@ -1,6 +1,6 @@
 # FMI-SU-Data-Structures-2022-2023/graph-theory-haydushki-fmi - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | - | - | 
 | 2023-04-09 | - | - | 
 | 2023-04-08 | - | - | 
 | 2023-04-07 | - | - | 

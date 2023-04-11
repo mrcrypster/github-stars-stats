@@ -1,6 +1,6 @@
 # fiatjaf/cliche - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 40 | 6 | 
 | 2023-04-09 | 40 | 6 | 
 | 2023-04-08 | 40 | 6 | 
 | 2023-04-07 | 40 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 39 | 6 | 
 | 2023-03-13 | 39 | 6 | 
 | 2023-03-12 | 39 | 6 | 
-| 2023-03-11 | 39 | 6 | 
 

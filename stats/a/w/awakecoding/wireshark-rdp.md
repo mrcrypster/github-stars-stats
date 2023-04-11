@@ -1,10 +1,10 @@
 # awakecoding/wireshark-rdp - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/awakecoding/wireshark-rdp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 72 | 6 | 
 | 2023-04-09 | 71 | 5 | 
 | 2023-04-08 | 71 | 5 | 
 | 2023-04-07 | 66 | 5 | 

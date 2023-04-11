@@ -1,10 +1,10 @@
 # gloeyisk/universal-gms-doze - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 18
 
-★ Stars: 801
+★ Stars: 802
 
 [Open repository](https://github.com/gloeyisk/universal-gms-doze)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 802 | 18 | 
 | 2023-04-09 | 801 | 18 | 
 | 2023-04-08 | 801 | 18 | 
 | 2023-04-07 | 800 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 785 | 18 | 
 | 2023-03-13 | 785 | 18 | 
 | 2023-03-12 | 783 | 18 | 
-| 2023-03-11 | 781 | 18 | 
 

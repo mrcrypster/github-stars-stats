@@ -1,10 +1,10 @@
 # samber/awesome-prometheus-alerts - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 795
 
-★ Stars: 4813
+★ Stars: 4818
 
 [Open repository](https://github.com/samber/awesome-prometheus-alerts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 4818 | 795 | 
 | 2023-04-09 | 4813 | 795 | 
 | 2023-04-08 | 4812 | 795 | 
 | 2023-04-07 | 4808 | 793 | 

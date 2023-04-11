@@ -1,6 +1,6 @@
 # SceneView/sceneview-android - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 326 | 73 | 
 | 2023-04-09 | 326 | 73 | 
 | 2023-04-08 | 325 | 73 | 
 | 2023-04-07 | 325 | 73 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 301 | 66 | 
 | 2023-03-14 | 300 | 66 | 
 | 2023-03-12 | 297 | 66 | 
-| 2023-03-11 | 297 | 66 | 
 

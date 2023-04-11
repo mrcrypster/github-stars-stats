@@ -1,6 +1,6 @@
 # GitJournal/GitJournal - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 2926 | 189 | 
 | 2023-04-09 | 2926 | 189 | 
 | 2023-04-08 | 2925 | 189 | 
 | 2023-04-07 | 2923 | 189 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 2899 | 188 | 
 | 2023-03-14 | 2898 | 188 | 
 | 2023-03-13 | 2897 | 187 | 
-| 2023-03-11 | 2894 | 187 | 
 

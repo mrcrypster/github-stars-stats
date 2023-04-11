@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 493
+☋ Forks: 495
 
-★ Stars: 1197
+★ Stars: 1200
 
 [Open repository](https://github.com/G33kzD3n/Catalogue)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 1197 | 493 | 
+| 2023-04-10 | 1200 | 495 | 
 | 2023-04-09 | 1195 | 493 | 
 | 2023-04-08 | 1191 | 492 | 
 | 2023-04-07 | 1180 | 488 | 

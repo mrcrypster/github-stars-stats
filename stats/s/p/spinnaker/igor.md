@@ -1,6 +1,6 @@
 # spinnaker/igor - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 653
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 139 | 653 | 
 | 2023-04-09 | 139 | 653 | 
 | 2023-04-08 | 139 | 653 | 
 | 2023-04-07 | 139 | 653 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 139 | 651 | 
 | 2023-03-13 | 139 | 651 | 
 | 2023-03-12 | 139 | 651 | 
-| 2023-03-11 | 139 | 651 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 10
 
-☋ Forks: 4884
+☋ Forks: 4885
 
-★ Stars: 26950
+★ Stars: 26949
 
 [Open repository](https://github.com/microsoft/calculator)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-10 | 26950 | 4884 | 
+| 2023-04-10 | 26949 | 4885 | 
 | 2023-04-09 | 26950 | 4884 | 
 | 2023-04-08 | 26945 | 4884 | 
 | 2023-04-07 | 26940 | 4881 | 

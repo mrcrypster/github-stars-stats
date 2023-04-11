@@ -1,10 +1,10 @@
 # kroese/virtual-dsm - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
-☋ Forks: 11
+☋ Forks: 13
 
-★ Stars: 100
+★ Stars: 134
 
 [Open repository](https://github.com/kroese/virtual-dsm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 134 | 13 | 
 | 2023-04-09 | 100 | 11 | 
 | 2023-04-08 | 96 | 11 | 
 | 2023-04-07 | 93 | 11 | 

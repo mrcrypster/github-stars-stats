@@ -1,10 +1,10 @@
 # rocketseat-education/nlw-06-origin - stars & forks statistics
 
-Stats updated on Apr 2023, 09
+Stats updated on Apr 2023, 10
 
 ☋ Forks: 163
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/rocketseat-education/nlw-06-origin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-10 | 346 | 163 | 
 | 2023-04-09 | 345 | 163 | 
 | 2023-04-08 | 345 | 163 | 
 | 2023-04-07 | 345 | 163 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 09
 | 2023-03-15 | 345 | 164 | 
 | 2023-03-13 | 346 | 164 | 
 | 2023-03-12 | 346 | 164 | 
-| 2023-03-11 | 346 | 164 | 
 
