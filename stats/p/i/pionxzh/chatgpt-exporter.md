@@ -1,10 +1,10 @@
 # pionxzh/chatgpt-exporter - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 48
+☋ Forks: 50
 
-★ Stars: 616
+★ Stars: 627
 
 [Open repository](https://github.com/pionxzh/chatgpt-exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 627 | 50 | 
 | 2023-04-10 | 616 | 48 | 
 | 2023-04-09 | 607 | 45 | 
 | 2023-04-08 | 605 | 45 | 

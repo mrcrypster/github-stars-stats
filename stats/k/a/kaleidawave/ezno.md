@@ -1,10 +1,10 @@
 # kaleidawave/ezno - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 709
+★ Stars: 710
 
 [Open repository](https://github.com/kaleidawave/ezno)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 710 | 12 | 
 | 2023-04-10 | 709 | 12 | 
 | 2023-04-09 | 708 | 12 | 
 | 2023-04-08 | 708 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 639 | 8 | 
 | 2023-03-14 | 638 | 8 | 
 | 2023-03-13 | 635 | 7 | 
-| 2023-03-12 | 631 | 7 | 
 

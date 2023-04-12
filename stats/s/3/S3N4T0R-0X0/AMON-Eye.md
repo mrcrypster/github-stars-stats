@@ -1,10 +1,10 @@
 # S3N4T0R-0X0/AMON-Eye - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/S3N4T0R-0X0/AMON-Eye)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 49 | 12 | 
 | 2023-04-10 | 48 | 11 | 
 | 2023-04-09 | 48 | 11 | 
 | 2023-04-08 | 48 | 11 | 

@@ -1,10 +1,10 @@
 # ballerine-io/ballerine - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 1432
+★ Stars: 1431
 
 [Open repository](https://github.com/ballerine-io/ballerine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1431 | 73 | 
 | 2023-04-10 | 1432 | 72 | 
 | 2023-04-09 | 1431 | 72 | 
 | 2023-04-08 | 1430 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 1365 | 63 | 
 | 2023-03-14 | 1364 | 63 | 
 | 2023-03-13 | 1364 | 63 | 
-| 2023-03-12 | 1360 | 63 | 
 

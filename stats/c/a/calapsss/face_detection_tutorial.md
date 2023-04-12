@@ -1,6 +1,6 @@
 # calapsss/face_detection_tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 51 | 50 | 
 | 2023-04-10 | 51 | 50 | 
 | 2023-04-09 | 51 | 50 | 
 | 2023-04-08 | 51 | 50 | 

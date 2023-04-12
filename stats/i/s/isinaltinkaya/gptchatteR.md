@@ -1,10 +1,10 @@
 # isinaltinkaya/gptchatteR - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 12
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/isinaltinkaya/gptchatteR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 105 | 12 | 
 | 2023-04-11 | 104 | 12 | 
 | 2023-04-09 | 104 | 12 | 
 | 2023-04-08 | 104 | 12 | 

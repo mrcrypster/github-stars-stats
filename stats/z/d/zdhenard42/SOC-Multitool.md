@@ -1,6 +1,6 @@
 # zdhenard42/SOC-Multitool - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 186 | 19 | 
 | 2023-04-10 | 186 | 19 | 
 | 2023-04-09 | 186 | 19 | 
 | 2023-04-08 | 186 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 177 | 19 | 
 | 2023-03-15 | 177 | 19 | 
 | 2023-03-13 | 176 | 19 | 
-| 2023-03-12 | 175 | 19 | 
 

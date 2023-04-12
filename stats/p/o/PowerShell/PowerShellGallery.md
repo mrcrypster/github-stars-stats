@@ -1,10 +1,10 @@
 # PowerShell/PowerShellGallery - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 59
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/PowerShell/PowerShellGallery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 187 | 59 | 
 | 2023-04-10 | 186 | 59 | 
 | 2023-04-09 | 186 | 58 | 
 | 2023-04-08 | 186 | 58 | 

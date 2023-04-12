@@ -1,8 +1,8 @@
 # gentzkow/template - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 13 | 14 | 
 | 2023-04-10 | 13 | 13 | 
 | 2023-04-09 | 13 | 13 | 
 | 2023-04-08 | 13 | 13 | 

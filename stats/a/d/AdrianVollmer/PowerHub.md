@@ -1,10 +1,10 @@
 # AdrianVollmer/PowerHub - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 105
 
-★ Stars: 619
+★ Stars: 620
 
 [Open repository](https://github.com/AdrianVollmer/PowerHub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 620 | 105 | 
 | 2023-04-10 | 619 | 105 | 
 | 2023-04-09 | 618 | 105 | 
 | 2023-04-08 | 618 | 105 | 

@@ -1,10 +1,10 @@
 # MirageC79/Interfaces-for-WobbleX-integration - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 10
 
-★ Stars: 159
+★ Stars: 162
 
 [Open repository](https://github.com/MirageC79/Interfaces-for-WobbleX-integration)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 162 | 10 | 
 | 2023-04-10 | 159 | 10 | 
 | 2023-04-09 | 159 | 10 | 
 | 2023-04-08 | 156 | 10 | 

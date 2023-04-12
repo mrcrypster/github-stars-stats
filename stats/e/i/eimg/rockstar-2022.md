@@ -1,6 +1,6 @@
 # eimg/rockstar-2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 46 | 5 | 
 | 2023-04-11 | 46 | 5 | 
 | 2023-04-09 | 46 | 5 | 
 | 2023-04-08 | 46 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 46 | 6 | 
 | 2023-03-14 | 46 | 6 | 
 | 2023-03-13 | 46 | 6 | 
-| 2023-03-12 | 46 | 6 | 
 

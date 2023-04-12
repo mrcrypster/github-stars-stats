@@ -1,10 +1,10 @@
 # redleafnew/Chinese-STD-GB-T-7714-related-csl - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 585
+☋ Forks: 587
 
-★ Stars: 2273
+★ Stars: 2277
 
 [Open repository](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2277 | 587 | 
 | 2023-04-10 | 2273 | 585 | 
 | 2023-04-09 | 2262 | 582 | 
 | 2023-04-08 | 2259 | 580 | 

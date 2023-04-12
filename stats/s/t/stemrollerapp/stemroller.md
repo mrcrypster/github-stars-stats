@@ -1,10 +1,10 @@
 # stemrollerapp/stemroller - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 1917
+★ Stars: 1918
 
 [Open repository](https://github.com/stemrollerapp/stemroller)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1918 | 55 | 
 | 2023-04-10 | 1917 | 54 | 
 | 2023-04-09 | 1917 | 54 | 
 | 2023-04-08 | 1916 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 1874 | 53 | 
 | 2023-03-14 | 1873 | 53 | 
 | 2023-03-13 | 1872 | 52 | 
-| 2023-03-12 | 1869 | 52 | 
 

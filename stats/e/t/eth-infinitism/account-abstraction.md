@@ -1,10 +1,10 @@
 # eth-infinitism/account-abstraction - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 237
+☋ Forks: 240
 
-★ Stars: 664
+★ Stars: 674
 
 [Open repository](https://github.com/eth-infinitism/account-abstraction)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 674 | 240 | 
 | 2023-04-10 | 664 | 237 | 
 | 2023-04-09 | 657 | 234 | 
 | 2023-04-08 | 657 | 232 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 544 | 171 | 
 | 2023-03-14 | 535 | 172 | 
 | 2023-03-13 | 516 | 168 | 
-| 2023-03-12 | 509 | 166 | 
 

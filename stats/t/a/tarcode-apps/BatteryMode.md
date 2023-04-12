@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 13
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/tarcode-apps/BatteryMode)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 174 | 13 | 
+| 2023-04-11 | 175 | 13 | 
 | 2023-04-10 | 174 | 13 | 
 | 2023-04-09 | 174 | 13 | 
 | 2023-04-08 | 173 | 13 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 169 | 13 | 
 | 2023-03-14 | 168 | 13 | 
 | 2023-03-13 | 168 | 13 | 
-| 2023-03-12 | 168 | 13 | 
 

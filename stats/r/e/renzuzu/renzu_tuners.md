@@ -1,10 +1,10 @@
 # renzuzu/renzu_tuners - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/renzuzu/renzu_tuners)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 30 | 14 | 
 | 2023-04-10 | 29 | 14 | 
 | 2023-04-09 | 29 | 14 | 
 | 2023-04-08 | 29 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 23 | 11 | 
 | 2023-03-15 | 22 | 11 | 
 | 2023-03-14 | 21 | 11 | 
-| 2023-03-13 | 19 | 11 | 
 

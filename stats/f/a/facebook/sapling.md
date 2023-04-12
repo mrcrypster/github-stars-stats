@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 204
 
-★ Stars: 4861
+★ Stars: 4863
 
 [Open repository](https://github.com/facebook/sapling)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 4861 | 204 | 
+| 2023-04-11 | 4863 | 204 | 
 | 2023-04-10 | 4858 | 204 | 
 | 2023-04-09 | 4851 | 204 | 
 | 2023-04-08 | 4840 | 203 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 4749 | 192 | 
 | 2023-03-15 | 4746 | 192 | 
 | 2023-03-13 | 4746 | 192 | 
-| 2023-03-12 | 4743 | 192 | 
 

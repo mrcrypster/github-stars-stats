@@ -1,10 +1,10 @@
 # walkerke/tidycensus - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 79
 
-★ Stars: 569
+★ Stars: 570
 
 [Open repository](https://github.com/walkerke/tidycensus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 570 | 79 | 
 | 2023-04-11 | 569 | 79 | 
 | 2023-04-09 | 569 | 79 | 
 | 2023-04-08 | 568 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 567 | 77 | 
 | 2023-03-15 | 566 | 77 | 
 | 2023-03-14 | 566 | 77 | 
-| 2023-03-12 | 566 | 77 | 
 

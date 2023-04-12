@@ -1,10 +1,10 @@
 # FuelLabs/fuels-wallet - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 178
 
-★ Stars: 356
+★ Stars: 359
 
 [Open repository](https://github.com/FuelLabs/fuels-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 359 | 178 | 
 | 2023-04-10 | 356 | 178 | 
 | 2023-04-09 | 356 | 177 | 
 | 2023-04-08 | 355 | 176 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 275 | 142 | 
 | 2023-03-15 | 264 | 142 | 
 | 2023-03-14 | 263 | 142 | 
-| 2023-03-12 | 263 | 142 | 
 

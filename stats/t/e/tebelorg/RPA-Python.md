@@ -1,10 +1,10 @@
 # tebelorg/RPA-Python - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 561
+☋ Forks: 562
 
-★ Stars: 3829
+★ Stars: 3833
 
 [Open repository](https://github.com/tebelorg/RPA-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3833 | 562 | 
 | 2023-04-10 | 3829 | 561 | 
 | 2023-04-09 | 3827 | 561 | 
 | 2023-04-07 | 3824 | 561 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 3777 | 553 | 
 | 2023-03-15 | 3773 | 551 | 
 | 2023-03-13 | 3770 | 550 | 
-| 2023-03-12 | 3768 | 550 | 
 

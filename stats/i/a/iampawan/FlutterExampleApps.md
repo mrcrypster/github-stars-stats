@@ -1,10 +1,10 @@
 # iampawan/FlutterExampleApps - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 3547
+☋ Forks: 3548
 
-★ Stars: 18317
+★ Stars: 18321
 
 [Open repository](https://github.com/iampawan/FlutterExampleApps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 18321 | 3548 | 
 | 2023-04-10 | 18317 | 3547 | 
 | 2023-04-09 | 18315 | 3548 | 
 | 2023-04-08 | 18313 | 3548 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 18227 | 3537 | 
 | 2023-03-14 | 18222 | 3534 | 
 | 2023-03-13 | 18221 | 3532 | 
-| 2023-03-12 | 18213 | 3532 | 
 

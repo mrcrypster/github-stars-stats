@@ -1,10 +1,10 @@
 # fingerprintjs/fingerprintjs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 2091
+☋ Forks: 2094
 
-★ Stars: 18634
+★ Stars: 18642
 
 [Open repository](https://github.com/fingerprintjs/fingerprintjs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 18642 | 2094 | 
 | 2023-04-10 | 18634 | 2091 | 
 | 2023-04-09 | 18630 | 2092 | 
 | 2023-04-08 | 18629 | 2092 | 

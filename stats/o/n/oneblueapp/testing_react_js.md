@@ -1,6 +1,6 @@
 # oneblueapp/testing_react_js - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 13 | 11 | 
 | 2023-04-10 | 13 | 11 | 
 | 2023-04-09 | 13 | 11 | 
 | 2023-04-08 | 13 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 13 | 11 | 
 | 2023-03-14 | 13 | 11 | 
 | 2023-03-13 | 13 | 11 | 
-| 2023-03-12 | 13 | 11 | 
 

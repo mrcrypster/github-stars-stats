@@ -1,10 +1,10 @@
 # getActivity/XXPermissions - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 588
+☋ Forks: 589
 
-★ Stars: 4229
+★ Stars: 4244
 
 [Open repository](https://github.com/getActivity/XXPermissions)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4244 | 589 | 
 | 2023-04-10 | 4229 | 588 | 
 | 2023-04-09 | 4223 | 587 | 
 | 2023-04-08 | 4219 | 587 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 4171 | 581 | 
 | 2023-03-15 | 4166 | 580 | 
 | 2023-03-13 | 4163 | 580 | 
-| 2023-03-12 | 4159 | 579 | 
 

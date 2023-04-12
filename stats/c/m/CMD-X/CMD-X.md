@@ -1,6 +1,6 @@
 # CMD-X/CMD-X - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 77 | 92 | 
 | 2023-04-10 | 77 | 92 | 
 | 2023-04-09 | 77 | 91 | 
 | 2023-04-08 | 77 | 91 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 75 | 89 | 
 | 2023-03-15 | 75 | 89 | 
 | 2023-03-14 | 76 | 89 | 
-| 2023-03-13 | 75 | 89 | 
 

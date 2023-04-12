@@ -1,10 +1,10 @@
 # dunwu/linux-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 469
 
-★ Stars: 1487
+★ Stars: 1491
 
 [Open repository](https://github.com/dunwu/linux-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1491 | 469 | 
 | 2023-04-10 | 1487 | 469 | 
 | 2023-04-09 | 1485 | 468 | 
 | 2023-04-08 | 1482 | 467 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1425 | 460 | 
 | 2023-03-15 | 1423 | 460 | 
 | 2023-03-13 | 1421 | 460 | 
-| 2023-03-12 | 1417 | 458 | 
 

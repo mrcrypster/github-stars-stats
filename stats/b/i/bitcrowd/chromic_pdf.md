@@ -1,6 +1,6 @@
 # bitcrowd/chromic_pdf - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 232 | 23 | 
 | 2023-04-10 | 232 | 23 | 
 | 2023-04-09 | 232 | 23 | 
 | 2023-04-08 | 232 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 224 | 21 | 
 | 2023-03-15 | 223 | 21 | 
 | 2023-03-14 | 223 | 21 | 
-| 2023-03-12 | 223 | 21 | 
 

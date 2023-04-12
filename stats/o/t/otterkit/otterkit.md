@@ -1,6 +1,6 @@
 # otterkit/otterkit - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 203 | 10 | 
 | 2023-04-10 | 203 | 10 | 
 | 2023-04-09 | 202 | 10 | 
 | 2023-04-08 | 202 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 197 | 9 | 
 | 2023-03-15 | 197 | 9 | 
 | 2023-03-14 | 196 | 8 | 
-| 2023-03-13 | 195 | 8 | 
 

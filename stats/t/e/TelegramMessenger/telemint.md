@@ -1,6 +1,6 @@
 # TelegramMessenger/telemint - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 280 | 56 | 
 | 2023-04-10 | 280 | 56 | 
 | 2023-04-09 | 279 | 56 | 
 | 2023-04-08 | 278 | 56 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 273 | 56 | 
 | 2023-03-15 | 273 | 56 | 
 | 2023-03-13 | 272 | 56 | 
-| 2023-03-12 | 272 | 56 | 
 

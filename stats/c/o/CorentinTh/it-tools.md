@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 117
 
-★ Stars: 1322
+★ Stars: 1325
 
 [Open repository](https://github.com/CorentinTh/it-tools)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 1322 | 117 | 
+| 2023-04-11 | 1325 | 117 | 
 | 2023-04-10 | 1320 | 117 | 
 | 2023-04-09 | 1307 | 117 | 
 | 2023-04-08 | 1298 | 116 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 633 | 84 | 
 | 2023-03-15 | 631 | 84 | 
 | 2023-03-14 | 630 | 83 | 
-| 2023-03-12 | 628 | 83 | 
 

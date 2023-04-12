@@ -1,8 +1,8 @@
 # ProcursusTeam/Procursus - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 107
+☋ Forks: 106
 
 ★ Stars: 713
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 713 | 106 | 
 | 2023-04-10 | 713 | 107 | 
 | 2023-04-09 | 712 | 106 | 
 | 2023-04-08 | 712 | 106 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 701 | 108 | 
 | 2023-03-14 | 701 | 107 | 
 | 2023-03-13 | 701 | 107 | 
-| 2023-03-12 | 701 | 107 | 
 

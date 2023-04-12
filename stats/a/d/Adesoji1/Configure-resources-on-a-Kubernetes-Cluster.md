@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Adesoji1/Configure-resources-on-a-Kubernetes-Cluster)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 14 | - | 
+| 2023-04-11 | 15 | - | 
 | 2023-04-10 | 14 | - | 
 

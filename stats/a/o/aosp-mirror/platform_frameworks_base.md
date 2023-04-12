@@ -1,8 +1,8 @@
 # aosp-mirror/platform_frameworks_base - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 6231
+☋ Forks: 6232
 
 ★ Stars: 10365
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 10365 | 6232 | 
 | 2023-04-10 | 10365 | 6231 | 
 | 2023-04-09 | 10364 | 6230 | 
 | 2023-04-08 | 10363 | 6228 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 10343 | 6219 | 
 | 2023-03-15 | 10340 | 6218 | 
 | 2023-03-13 | 10339 | 6218 | 
-| 2023-03-12 | 10338 | 6217 | 
 

@@ -1,10 +1,10 @@
 # jaenfigueroa/JaenCraft - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 39
+★ Stars: 38
 
 [Open repository](https://github.com/jaenfigueroa/JaenCraft)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 38 | 7 | 
 | 2023-04-10 | 39 | 7 | 
 | 2023-04-09 | 39 | 7 | 
 | 2023-04-08 | 39 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 39 | 7 | 
 | 2023-03-15 | 39 | 7 | 
 | 2023-03-14 | 39 | 7 | 
-| 2023-03-12 | 39 | 7 | 
 

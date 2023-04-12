@@ -1,10 +1,10 @@
 # wilkerlucio/pathom3 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 25
 
-★ Stars: 314
+★ Stars: 315
 
 [Open repository](https://github.com/wilkerlucio/pathom3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 315 | 25 | 
 | 2023-04-10 | 314 | 25 | 
 | 2023-04-09 | 314 | 24 | 
 | 2023-04-08 | 314 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 311 | 23 | 
 | 2023-03-15 | 311 | 23 | 
 | 2023-03-14 | 311 | 23 | 
-| 2023-03-13 | 310 | 23 | 
 

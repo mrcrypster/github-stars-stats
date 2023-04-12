@@ -1,10 +1,10 @@
 # vitejs/vite - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 4859
+☋ Forks: 4867
 
-★ Stars: 54946
+★ Stars: 54995
 
 [Open repository](https://github.com/vitejs/vite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 54995 | 4867 | 
 | 2023-04-10 | 54946 | 4859 | 
 | 2023-04-09 | 54922 | 4853 | 
 | 2023-04-08 | 54878 | 4850 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 53906 | 4750 | 
 | 2023-03-15 | 53835 | 4742 | 
 | 2023-03-13 | 53772 | 4727 | 
-| 2023-03-12 | 53742 | 4723 | 
 

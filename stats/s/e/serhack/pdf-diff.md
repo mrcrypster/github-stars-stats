@@ -1,10 +1,10 @@
 # serhack/pdf-diff - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 37
 
-★ Stars: 724
+★ Stars: 725
 
 [Open repository](https://github.com/serhack/pdf-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 725 | 37 | 
 | 2023-04-10 | 724 | 37 | 
 | 2023-04-09 | 724 | 37 | 
 | 2023-04-08 | 724 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 723 | 37 | 
 | 2023-03-15 | 722 | 37 | 
 | 2023-03-13 | 721 | 37 | 
-| 2023-03-12 | 720 | 37 | 
 

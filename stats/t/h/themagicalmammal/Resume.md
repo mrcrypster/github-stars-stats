@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 72
+★ Stars: 74
 
 [Open repository](https://github.com/themagicalmammal/Resume)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 72 | 21 | 
+| 2023-04-11 | 74 | 21 | 
 | 2023-04-10 | 71 | 21 | 
 | 2023-04-09 | 69 | 20 | 
 | 2023-04-08 | 66 | 18 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 46 | 15 | 
 | 2023-03-14 | 45 | 14 | 
 | 2023-03-13 | 45 | 14 | 
-| 2023-03-12 | 45 | 14 | 
 

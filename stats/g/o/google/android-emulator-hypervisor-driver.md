@@ -1,8 +1,8 @@
 # google/android-emulator-hypervisor-driver - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 228
+☋ Forks: 229
 
 ★ Stars: 676
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 676 | 229 | 
 | 2023-04-10 | 676 | 228 | 
 | 2023-04-09 | 676 | 228 | 
 | 2023-04-08 | 676 | 228 | 

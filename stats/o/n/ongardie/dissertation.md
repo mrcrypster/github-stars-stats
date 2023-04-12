@@ -1,10 +1,10 @@
 # ongardie/dissertation - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 122
 
-★ Stars: 866
+★ Stars: 867
 
 [Open repository](https://github.com/ongardie/dissertation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 867 | 122 | 
 | 2023-04-10 | 866 | 122 | 
 | 2023-04-09 | 866 | 122 | 
 | 2023-04-08 | 866 | 122 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 863 | 122 | 
 | 2023-03-14 | 862 | 122 | 
 | 2023-03-13 | 861 | 121 | 
-| 2023-03-12 | 861 | 121 | 
 

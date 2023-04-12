@@ -1,10 +1,10 @@
 # theseyan/bkg - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/theseyan/bkg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 147 | 2 | 
 | 2023-04-10 | 146 | 2 | 
 | 2023-04-09 | 146 | 2 | 
 | 2023-04-08 | 145 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 138 | 1 | 
 | 2023-03-15 | 138 | 1 | 
 | 2023-03-14 | 138 | 1 | 
-| 2023-03-13 | 138 | 1 | 
 

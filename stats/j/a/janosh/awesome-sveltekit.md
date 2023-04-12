@@ -1,8 +1,8 @@
 # janosh/awesome-sveltekit - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 537
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 537 | 36 | 
+| 2023-04-12 | 537 | 37 | 
+| 2023-04-11 | 537 | 37 | 
 | 2023-04-10 | 537 | 36 | 
 | 2023-04-09 | 531 | 36 | 
 | 2023-04-08 | 530 | 36 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 502 | 36 | 
 | 2023-03-14 | 501 | 36 | 
 | 2023-03-13 | 500 | 36 | 
-| 2023-03-12 | 498 | 36 | 
 

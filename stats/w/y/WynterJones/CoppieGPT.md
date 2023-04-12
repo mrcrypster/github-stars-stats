@@ -1,10 +1,10 @@
 # WynterJones/CoppieGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/WynterJones/CoppieGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 47 | 11 | 
 | 2023-04-10 | 46 | 11 | 
 | 2023-04-09 | 44 | 11 | 
 | 2023-04-08 | 43 | 11 | 

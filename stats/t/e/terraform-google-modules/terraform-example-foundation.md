@@ -1,8 +1,8 @@
 # terraform-google-modules/terraform-example-foundation - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 559
+☋ Forks: 562
 
 ★ Stars: 850
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 850 | 562 | 
 | 2023-04-10 | 850 | 559 | 
 | 2023-04-09 | 848 | 559 | 
 | 2023-04-08 | 847 | 559 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 825 | 551 | 
 | 2023-03-14 | 824 | 551 | 
 | 2023-03-13 | 824 | 550 | 
-| 2023-03-12 | 824 | 550 | 
 

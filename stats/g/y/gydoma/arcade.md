@@ -1,10 +1,10 @@
 # gydoma/arcade - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/gydoma/arcade)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4 | 7 | 
 | 2023-04-10 | 5 | 7 | 
 | 2023-04-09 | 5 | 7 | 
 | 2023-04-08 | 5 | 7 | 

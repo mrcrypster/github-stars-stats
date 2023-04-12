@@ -1,10 +1,10 @@
 # jina-ai/clip-as-service - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 2020
+☋ Forks: 2019
 
-★ Stars: 11521
+★ Stars: 11526
 
 [Open repository](https://github.com/jina-ai/clip-as-service)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 11526 | 2019 | 
 | 2023-04-10 | 11521 | 2020 | 
 | 2023-04-09 | 11520 | 2020 | 
 | 2023-04-08 | 11518 | 2020 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 11423 | 2016 | 
 | 2023-03-14 | 11417 | 2016 | 
 | 2023-03-13 | 11414 | 2017 | 
-| 2023-03-12 | 11409 | 2017 | 
 

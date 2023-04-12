@@ -1,10 +1,10 @@
 # wanhebin/clash-for-linux - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 81
+☋ Forks: 84
 
-★ Stars: 549
+★ Stars: 559
 
 [Open repository](https://github.com/wanhebin/clash-for-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 559 | 84 | 
 | 2023-04-10 | 549 | 81 | 
 | 2023-04-09 | 537 | 80 | 
 | 2023-04-08 | 520 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 279 | 44 | 
 | 2023-03-15 | 269 | 43 | 
 | 2023-03-14 | 262 | 42 | 
-| 2023-03-13 | 253 | 41 | 
 

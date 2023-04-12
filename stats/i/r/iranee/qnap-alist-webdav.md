@@ -1,6 +1,6 @@
 # iranee/qnap-alist-webdav - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 508 | 59 | 
 | 2023-04-10 | 508 | 59 | 
 | 2023-04-09 | 505 | 58 | 
 | 2023-04-08 | 504 | 58 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 464 | 56 | 
 | 2023-03-15 | 464 | 56 | 
 | 2023-03-13 | 461 | 56 | 
-| 2023-03-12 | 459 | 56 | 
 

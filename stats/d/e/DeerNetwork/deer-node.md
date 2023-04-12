@@ -1,6 +1,6 @@
 # DeerNetwork/deer-node - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 88 | 20 | 
 | 2023-04-10 | 88 | 20 | 
 | 2023-04-09 | 88 | 20 | 
 | 2023-04-08 | 88 | 20 | 

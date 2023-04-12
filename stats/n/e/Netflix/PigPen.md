@@ -1,6 +1,6 @@
 # Netflix/PigPen - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 547 | 61 | 
 | 2023-04-10 | 547 | 61 | 
 | 2023-04-09 | 547 | 60 | 
 | 2023-04-08 | 547 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 544 | 60 | 
 | 2023-03-14 | 544 | 60 | 
 | 2023-03-13 | 544 | 60 | 
-| 2023-03-12 | 544 | 60 | 
 

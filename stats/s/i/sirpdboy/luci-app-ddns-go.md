@@ -1,10 +1,10 @@
 # sirpdboy/luci-app-ddns-go - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 111
+★ Stars: 113
 
 [Open repository](https://github.com/sirpdboy/luci-app-ddns-go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 113 | 21 | 
 | 2023-04-10 | 111 | 21 | 
 | 2023-04-09 | 110 | 21 | 
 | 2023-04-08 | 110 | 21 | 

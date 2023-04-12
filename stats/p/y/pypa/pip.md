@@ -1,8 +1,8 @@
 # pypa/pip - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 2902
+☋ Forks: 2903
 
 ★ Stars: 8659
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 8659 | 2903 | 
 | 2023-04-10 | 8659 | 2902 | 
 | 2023-04-09 | 8659 | 2902 | 
 | 2023-04-08 | 8655 | 2900 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 8605 | 2874 | 
 | 2023-03-14 | 8603 | 2875 | 
 | 2023-03-13 | 8601 | 2873 | 
-| 2023-03-12 | 8599 | 2873 | 
 

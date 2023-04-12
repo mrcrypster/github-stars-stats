@@ -1,10 +1,10 @@
 # StarStringStudio/so-vits-svc - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 657
+☋ Forks: 676
 
-★ Stars: 3832
+★ Stars: 4023
 
 [Open repository](https://github.com/StarStringStudio/so-vits-svc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4023 | 676 | 
 | 2023-04-10 | 3832 | 657 | 
 | 2023-04-09 | 3705 | 641 | 
 | 2023-04-08 | 3575 | 624 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 506 | 117 | 
 | 2023-03-14 | 348 | 84 | 
 | 2023-03-13 | 96 | 46 | 
-| 2023-03-12 | 42 | 24 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/powerbi-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 760
+☋ Forks: 763
 
-★ Stars: 343
+★ Stars: 344
 
 [Open repository](https://github.com/MicrosoftDocs/powerbi-docs)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 344 | 763 | 
+| 2023-04-11 | 344 | 762 | 
 | 2023-04-10 | 343 | 760 | 
 | 2023-04-09 | 343 | 759 | 
 | 2023-04-08 | 343 | 758 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 340 | 754 | 
 | 2023-03-14 | 339 | 753 | 
 | 2023-03-13 | 338 | 753 | 
-| 2023-03-12 | 338 | 753 | 
 

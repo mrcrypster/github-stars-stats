@@ -1,6 +1,6 @@
 # marcianotech/prompts - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 60 | 26 | 
 | 2023-04-10 | 60 | 26 | 
 | 2023-04-09 | 60 | 26 | 
 | 2023-04-08 | 60 | 26 | 

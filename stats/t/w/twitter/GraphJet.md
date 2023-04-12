@@ -1,10 +1,10 @@
 # twitter/GraphJet - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 105
 
-★ Stars: 641
+★ Stars: 643
 
 [Open repository](https://github.com/twitter/GraphJet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 643 | 105 | 
 | 2023-04-10 | 641 | 105 | 
 | 2023-04-09 | 637 | 104 | 
 | 2023-04-08 | 635 | 104 | 

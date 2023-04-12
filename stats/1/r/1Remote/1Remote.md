@@ -1,10 +1,10 @@
 # 1Remote/1Remote - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 1199
+★ Stars: 1205
 
 [Open repository](https://github.com/1Remote/1Remote)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1205 | 193 | 
 | 2023-04-11 | 1199 | 192 | 
 | 2023-04-09 | 1196 | 192 | 
 | 2023-04-08 | 1193 | 193 | 

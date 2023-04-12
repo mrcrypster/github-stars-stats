@@ -1,10 +1,10 @@
 # walter201230/Python - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 4244
+☋ Forks: 4248
 
-★ Stars: 14557
+★ Stars: 14578
 
 [Open repository](https://github.com/walter201230/Python)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 14578 | 4248 | 
 | 2023-04-10 | 14557 | 4244 | 
 | 2023-04-09 | 14554 | 4244 | 
 | 2023-04-08 | 14533 | 4242 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 14328 | 4201 | 
 | 2023-03-15 | 14311 | 4201 | 
 | 2023-03-13 | 14298 | 4198 | 
-| 2023-03-12 | 14284 | 4195 | 
 

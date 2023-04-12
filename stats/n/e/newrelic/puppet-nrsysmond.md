@@ -1,6 +1,6 @@
 # newrelic/puppet-nrsysmond - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 8 | 16 | 
 | 2023-04-11 | 8 | 16 | 
 | 2023-04-09 | 8 | 16 | 
 | 2023-04-08 | 8 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 8 | 16 | 
 | 2023-03-15 | 8 | 16 | 
 | 2023-03-14 | 8 | 16 | 
-| 2023-03-13 | 8 | 16 | 
 

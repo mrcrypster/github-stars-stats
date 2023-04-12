@@ -1,10 +1,10 @@
 # tullamods/Bagnon - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 96
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/tullamods/Bagnon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 174 | 96 | 
 | 2023-04-10 | 173 | 96 | 
 | 2023-04-09 | 173 | 96 | 
 | 2023-04-08 | 173 | 96 | 

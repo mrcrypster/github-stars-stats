@@ -1,8 +1,8 @@
 # EliteAsian123/YARG - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 104 | 17 | 
 | 2023-04-10 | 104 | 16 | 
 | 2023-04-09 | 104 | 14 | 
 | 2023-04-08 | 101 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 61 | 5 | 
 | 2023-03-14 | 61 | 4 | 
 | 2023-03-13 | 58 | 4 | 
-| 2023-03-12 | 56 | 3 | 
 

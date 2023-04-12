@@ -1,10 +1,10 @@
 # AbdulRahmanAlHamali/flutter_typeahead - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 276
 
-★ Stars: 685
+★ Stars: 686
 
 [Open repository](https://github.com/AbdulRahmanAlHamali/flutter_typeahead)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 686 | 276 | 
 | 2023-04-10 | 685 | 276 | 
 | 2023-04-09 | 684 | 276 | 
 | 2023-04-08 | 684 | 276 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 682 | 274 | 
 | 2023-03-14 | 682 | 274 | 
 | 2023-03-13 | 682 | 274 | 
-| 2023-03-12 | 681 | 274 | 
 

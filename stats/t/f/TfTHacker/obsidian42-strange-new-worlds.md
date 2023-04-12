@@ -1,10 +1,10 @@
 # TfTHacker/obsidian42-strange-new-worlds - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 278 | 8 | 
 | 2023-04-10 | 277 | 8 | 
 | 2023-04-09 | 277 | 8 | 
 | 2023-04-08 | 276 | 8 | 

@@ -1,6 +1,6 @@
 # Fabio-A-Sa/Y2S2-LabComputadores - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 31 | 1 | 
 | 2023-04-10 | 31 | 1 | 
 | 2023-04-09 | 31 | 1 | 
 | 2023-04-08 | 31 | 1 | 

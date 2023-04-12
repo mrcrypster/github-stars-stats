@@ -1,10 +1,10 @@
 # luoxuhai/Alock - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 472
+★ Stars: 474
 
 [Open repository](https://github.com/luoxuhai/Alock)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 474 | 34 | 
 | 2023-04-10 | 472 | 33 | 
 | 2023-04-09 | 469 | 33 | 
 | 2023-04-08 | 468 | 33 | 

@@ -1,10 +1,10 @@
 # RenwaX23/XSS-Payloads - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 233
+☋ Forks: 235
 
-★ Stars: 965
+★ Stars: 969
 
 [Open repository](https://github.com/RenwaX23/XSS-Payloads)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 969 | 235 | 
 | 2023-04-10 | 965 | 233 | 
 | 2023-04-09 | 962 | 233 | 
 | 2023-04-08 | 962 | 233 | 

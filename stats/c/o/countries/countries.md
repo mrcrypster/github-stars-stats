@@ -1,10 +1,10 @@
 # countries/countries - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 658
+☋ Forks: 656
 
-★ Stars: 1998
+★ Stars: 2000
 
 [Open repository](https://github.com/countries/countries)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2000 | 656 | 
 | 2023-04-10 | 1998 | 658 | 
 | 2023-04-09 | 1997 | 658 | 
 | 2023-04-08 | 1996 | 658 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1992 | 654 | 
 | 2023-03-14 | 1990 | 653 | 
 | 2023-03-13 | 1989 | 653 | 
-| 2023-03-12 | 1987 | 653 | 
 

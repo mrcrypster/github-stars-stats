@@ -1,10 +1,10 @@
 # LearnDelphiorg/BootCamp2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/LearnDelphiorg/BootCamp2022)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 19 | 5 | 
 | 2023-04-10 | 18 | 5 | 
 | 2023-04-09 | 18 | 4 | 
 | 2023-04-08 | 18 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 17 | 3 | 
 | 2023-03-14 | 17 | 3 | 
 | 2023-03-13 | 17 | 3 | 
-| 2023-03-12 | 17 | 3 | 
 

@@ -1,6 +1,6 @@
 # laravel/horizon - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 575
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3589 | 575 | 
 | 2023-04-11 | 3589 | 575 | 
 | 2023-04-09 | 3590 | 575 | 
 | 2023-04-08 | 3589 | 575 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 3578 | 575 | 
 | 2023-03-16 | 3576 | 575 | 
 | 2023-03-14 | 3572 | 575 | 
-| 2023-03-13 | 3573 | 575 | 
 

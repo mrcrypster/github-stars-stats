@@ -1,10 +1,10 @@
 # BuilderIO/builder - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 623
+☋ Forks: 625
 
-★ Stars: 4813
+★ Stars: 4826
 
 [Open repository](https://github.com/BuilderIO/builder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4826 | 625 | 
 | 2023-04-10 | 4813 | 623 | 
 | 2023-04-09 | 4806 | 622 | 
 | 2023-04-08 | 4804 | 621 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 4675 | 609 | 
 | 2023-03-14 | 4667 | 609 | 
 | 2023-03-13 | 4661 | 607 | 
-| 2023-03-12 | 4654 | 605 | 
 

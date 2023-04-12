@@ -1,10 +1,10 @@
 # portola-labs/db-webhooks - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 34
 
-★ Stars: 1081
+★ Stars: 1082
 
 [Open repository](https://github.com/portola-labs/db-webhooks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1082 | 34 | 
 | 2023-04-10 | 1081 | 34 | 
 | 2023-04-09 | 1081 | 34 | 
 | 2023-04-08 | 1080 | 33 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1008 | 31 | 
 | 2023-03-15 | 999 | 31 | 
 | 2023-03-13 | 965 | 30 | 
-| 2023-03-12 | 935 | 28 | 
 

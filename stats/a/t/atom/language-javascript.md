@@ -1,8 +1,8 @@
 # atom/language-javascript - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 249
+☋ Forks: 248
 
 ★ Stars: 199
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 199 | 248 | 
 | 2023-04-10 | 199 | 249 | 
 

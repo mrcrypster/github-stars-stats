@@ -1,10 +1,10 @@
 # SeaDve/Kooha - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 49
 
-★ Stars: 1404
+★ Stars: 1406
 
 [Open repository](https://github.com/SeaDve/Kooha)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1406 | 49 | 
 | 2023-04-10 | 1404 | 49 | 
 | 2023-04-09 | 1403 | 49 | 
 | 2023-04-08 | 1398 | 49 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1345 | 47 | 
 | 2023-03-14 | 1340 | 47 | 
 | 2023-03-13 | 1333 | 47 | 
-| 2023-03-12 | 1331 | 47 | 
 

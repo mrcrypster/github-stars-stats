@@ -1,6 +1,6 @@
 # digitalinnovationone/roadmaps - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 52 | 23 | 
 | 2023-04-10 | 52 | 23 | 
 | 2023-04-09 | 52 | 23 | 
 | 2023-04-08 | 52 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 51 | 23 | 
 | 2023-03-14 | 51 | 23 | 
 | 2023-03-13 | 50 | 23 | 
-| 2023-03-12 | 50 | 23 | 
 

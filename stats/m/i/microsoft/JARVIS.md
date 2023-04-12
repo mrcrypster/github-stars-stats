@@ -1,10 +1,10 @@
 # microsoft/JARVIS - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 969
+☋ Forks: 1069
 
-★ Stars: 14159
+★ Stars: 15158
 
 [Open repository](https://github.com/microsoft/JARVIS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 15158 | 1069 | 
 | 2023-04-10 | 14159 | 969 | 
 | 2023-04-09 | 12813 | 832 | 
 | 2023-04-08 | 12430 | 801 | 

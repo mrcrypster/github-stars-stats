@@ -1,10 +1,10 @@
 # chenjunnn/rm_auto_aim - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 127
+★ Stars: 130
 
 [Open repository](https://github.com/chenjunnn/rm_auto_aim)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 130 | 14 | 
 | 2023-04-10 | 127 | 14 | 
 

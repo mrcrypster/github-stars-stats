@@ -1,6 +1,6 @@
 # ergon/airlock-helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 9 | 5 | 
 | 2023-04-10 | 9 | 5 | 
 | 2023-04-09 | 9 | 5 | 
 | 2023-04-08 | 9 | 5 | 

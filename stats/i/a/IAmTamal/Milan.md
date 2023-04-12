@@ -1,8 +1,8 @@
 # IAmTamal/Milan - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 192
+☋ Forks: 194
 
 ★ Stars: 176
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 176 | 194 | 
 | 2023-04-11 | 176 | 192 | 
 | 2023-04-09 | 175 | 192 | 
 | 2023-04-08 | 175 | 191 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 160 | 179 | 
 | 2023-03-14 | 160 | 177 | 
 | 2023-03-13 | 159 | 175 | 
-| 2023-03-12 | 159 | 175 | 
 

@@ -1,10 +1,10 @@
 # manifoldxyz/royalty-registry-solidity - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 67
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/manifoldxyz/royalty-registry-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 279 | 67 | 
 | 2023-04-10 | 278 | 67 | 
 | 2023-04-09 | 278 | 67 | 
 | 2023-04-08 | 278 | 67 | 

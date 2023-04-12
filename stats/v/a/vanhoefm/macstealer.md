@@ -1,6 +1,6 @@
 # vanhoefm/macstealer - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 289 | 32 | 
 | 2023-04-10 | 289 | 32 | 
 | 2023-04-09 | 286 | 30 | 
 | 2023-04-08 | 282 | 30 | 

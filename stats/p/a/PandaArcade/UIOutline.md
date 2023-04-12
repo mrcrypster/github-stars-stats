@@ -1,10 +1,10 @@
 # PandaArcade/UIOutline - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 30
 
-★ Stars: 341
+★ Stars: 355
 
 [Open repository](https://github.com/PandaArcade/UIOutline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 341 | 30 | 
+| 2023-04-12 | 355 | 30 | 
+| 2023-04-11 | 355 | 30 | 
 | 2023-04-10 | 341 | 30 | 
 

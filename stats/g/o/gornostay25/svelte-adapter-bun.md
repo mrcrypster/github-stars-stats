@@ -1,6 +1,6 @@
 # gornostay25/svelte-adapter-bun - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 274 | 5 | 
 | 2023-04-10 | 274 | 5 | 
 | 2023-04-09 | 274 | 5 | 
 | 2023-04-08 | 274 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 270 | 5 | 
 | 2023-03-15 | 270 | 5 | 
 | 2023-03-14 | 269 | 5 | 
-| 2023-03-12 | 269 | 5 | 
 

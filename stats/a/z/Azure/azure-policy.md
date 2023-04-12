@@ -1,6 +1,6 @@
 # Azure/azure-policy - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 977
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1233 | 977 | 
 | 2023-04-10 | 1233 | 977 | 
 | 2023-04-09 | 1232 | 977 | 
 | 2023-04-08 | 1231 | 977 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 1217 | 968 | 
 | 2023-03-14 | 1215 | 968 | 
 | 2023-03-13 | 1214 | 968 | 
-| 2023-03-12 | 1212 | 967 | 
 

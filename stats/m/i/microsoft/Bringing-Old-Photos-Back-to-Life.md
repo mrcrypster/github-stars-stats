@@ -1,10 +1,10 @@
 # microsoft/Bringing-Old-Photos-Back-to-Life - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1587
+☋ Forks: 1591
 
-★ Stars: 11994
+★ Stars: 12004
 
 [Open repository](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 12004 | 1591 | 
 | 2023-04-11 | 11994 | 1587 | 
 | 2023-04-09 | 11987 | 1585 | 
 | 2023-04-08 | 11978 | 1587 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 11681 | 1547 | 
 | 2023-03-15 | 11672 | 1544 | 
 | 2023-03-14 | 11665 | 1541 | 
-| 2023-03-12 | 11661 | 1541 | 
 

@@ -1,10 +1,10 @@
 # corca-ai/EVAL - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 47
+☋ Forks: 50
 
-★ Stars: 512
+★ Stars: 535
 
 [Open repository](https://github.com/corca-ai/EVAL)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 535 | 50 | 
 | 2023-04-10 | 512 | 47 | 
 | 2023-04-09 | 491 | 43 | 
 | 2023-04-08 | 420 | 32 | 

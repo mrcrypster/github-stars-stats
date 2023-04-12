@@ -1,10 +1,10 @@
 # yuce/pot - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 36
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/yuce/pot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 229 | 36 | 
 | 2023-04-11 | 228 | 36 | 
 | 2023-04-09 | 228 | 36 | 
 | 2023-04-08 | 228 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 227 | 35 | 
 | 2023-03-14 | 227 | 35 | 
 | 2023-03-13 | 227 | 35 | 
-| 2023-03-12 | 227 | 35 | 
 

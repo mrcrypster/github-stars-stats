@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 11
 
-☋ Forks: 1872
+☋ Forks: 1873
 
-★ Stars: 4619
+★ Stars: 4628
 
 [Open repository](https://github.com/WeiYe-Jing/datax-web)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 4619 | 1872 | 
+| 2023-04-11 | 4628 | 1873 | 
 | 2023-04-09 | 4614 | 1869 | 
 | 2023-04-08 | 4614 | 1869 | 
 | 2023-04-07 | 4613 | 1869 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 4542 | 1846 | 
 | 2023-03-15 | 4539 | 1843 | 
 | 2023-03-14 | 4526 | 1837 | 
-| 2023-03-12 | 4522 | 1837 | 
 

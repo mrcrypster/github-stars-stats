@@ -1,6 +1,6 @@
 # solderparty/rp2040_stamp_hw - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 130 | 14 | 
 | 2023-04-10 | 130 | 14 | 
 | 2023-04-09 | 130 | 14 | 
 | 2023-04-08 | 130 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 128 | 13 | 
 | 2023-03-15 | 127 | 13 | 
 | 2023-03-14 | 127 | 13 | 
-| 2023-03-13 | 127 | 13 | 
 

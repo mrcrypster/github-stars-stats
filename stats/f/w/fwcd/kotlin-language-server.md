@@ -1,10 +1,10 @@
 # fwcd/kotlin-language-server - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 155
+☋ Forks: 157
 
-★ Stars: 1175
+★ Stars: 1178
 
 [Open repository](https://github.com/fwcd/kotlin-language-server)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1178 | 157 | 
 | 2023-04-10 | 1175 | 155 | 
 | 2023-04-09 | 1174 | 155 | 
 | 2023-04-08 | 1173 | 155 | 

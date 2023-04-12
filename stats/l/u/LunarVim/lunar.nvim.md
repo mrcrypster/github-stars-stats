@@ -1,10 +1,10 @@
 # LunarVim/lunar.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/LunarVim/lunar.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 10 | 6 | 
 | 2023-04-10 | 9 | 6 | 
 | 2023-04-09 | 9 | 6 | 
 | 2023-04-08 | 9 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 8 | 4 | 
 | 2023-03-14 | 8 | 4 | 
 | 2023-03-13 | 8 | 4 | 
-| 2023-03-12 | 8 | 4 | 
 

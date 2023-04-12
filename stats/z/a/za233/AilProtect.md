@@ -1,10 +1,10 @@
 # za233/AilProtect - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/za233/AilProtect)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 17 | 6 | 
 | 2023-04-10 | 16 | 5 | 
 | 2023-04-09 | 16 | 5 | 
 | 2023-04-08 | 16 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 16 | 5 | 
 | 2023-03-16 | 16 | 5 | 
 | 2023-03-14 | 16 | 5 | 
-| 2023-03-13 | 16 | 5 | 
 

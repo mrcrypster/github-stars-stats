@@ -1,10 +1,10 @@
 # google/styleguide - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 13250
+☋ Forks: 13247
 
-★ Stars: 34399
+★ Stars: 34410
 
 [Open repository](https://github.com/google/styleguide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 34410 | 13247 | 
 | 2023-04-10 | 34399 | 13250 | 
 | 2023-04-09 | 34395 | 13251 | 
 | 2023-04-08 | 34391 | 13250 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 34198 | 13184 | 
 | 2023-03-15 | 34182 | 13181 | 
 | 2023-03-14 | 34166 | 13179 | 
-| 2023-03-12 | 34159 | 13171 | 
 

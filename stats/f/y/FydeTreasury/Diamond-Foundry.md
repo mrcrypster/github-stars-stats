@@ -1,10 +1,10 @@
 # FydeTreasury/Diamond-Foundry - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 33
+★ Stars: 38
 
 [Open repository](https://github.com/FydeTreasury/Diamond-Foundry)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 38 | 4 | 
 | 2023-04-10 | 33 | 4 | 
 | 2023-04-09 | 26 | 3 | 
 | 2023-04-08 | 26 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 25 | 2 | 
 | 2023-03-14 | 25 | 2 | 
 | 2023-03-13 | 25 | 2 | 
-| 2023-03-12 | 25 | 2 | 
 

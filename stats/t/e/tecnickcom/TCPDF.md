@@ -1,10 +1,10 @@
 # tecnickcom/TCPDF - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1403
 
-★ Stars: 3682
+★ Stars: 3683
 
 [Open repository](https://github.com/tecnickcom/TCPDF)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3683 | 1403 | 
 | 2023-04-10 | 3682 | 1403 | 
 | 2023-04-09 | 3682 | 1402 | 
 | 2023-04-08 | 3682 | 1401 | 

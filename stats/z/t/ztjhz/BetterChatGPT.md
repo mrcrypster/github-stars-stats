@@ -1,10 +1,10 @@
 # ztjhz/BetterChatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 732
+☋ Forks: 747
 
-★ Stars: 2410
+★ Stars: 2491
 
 [Open repository](https://github.com/ztjhz/BetterChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2491 | 747 | 
 | 2023-04-10 | 2410 | 732 | 
 | 2023-04-09 | 2351 | 716 | 
 | 2023-04-08 | 2306 | 704 | 

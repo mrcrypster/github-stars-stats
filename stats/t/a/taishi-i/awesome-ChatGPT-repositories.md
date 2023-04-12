@@ -1,10 +1,10 @@
 # taishi-i/awesome-ChatGPT-repositories - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 65
+★ Stars: 82
 
 [Open repository](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 65 | 11 | 
+| 2023-04-12 | 82 | 11 | 
+| 2023-04-11 | 80 | 11 | 
 | 2023-04-10 | 65 | 11 | 
 

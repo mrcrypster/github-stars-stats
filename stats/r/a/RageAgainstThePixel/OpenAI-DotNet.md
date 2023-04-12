@@ -1,10 +1,10 @@
 # RageAgainstThePixel/OpenAI-DotNet - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 179
+★ Stars: 182
 
 [Open repository](https://github.com/RageAgainstThePixel/OpenAI-DotNet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 182 | 40 | 
 | 2023-04-10 | 179 | 39 | 
 | 2023-04-09 | 178 | 39 | 
 | 2023-04-08 | 178 | 39 | 

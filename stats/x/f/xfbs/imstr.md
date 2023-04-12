@@ -1,10 +1,10 @@
 # xfbs/imstr - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 207
+★ Stars: 210
 
 [Open repository](https://github.com/xfbs/imstr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 210 | 5 | 
 | 2023-04-10 | 207 | 5 | 
 | 2023-04-09 | 207 | 5 | 
 | 2023-04-08 | 204 | 5 | 

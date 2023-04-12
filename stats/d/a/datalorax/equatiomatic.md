@@ -1,10 +1,10 @@
 # datalorax/equatiomatic - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 38
 
-★ Stars: 574
+★ Stars: 575
 
 [Open repository](https://github.com/datalorax/equatiomatic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 575 | 38 | 
 | 2023-04-10 | 574 | 38 | 
 | 2023-04-09 | 574 | 38 | 
 | 2023-04-08 | 574 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 571 | 38 | 
 | 2023-03-15 | 570 | 38 | 
 | 2023-03-14 | 570 | 38 | 
-| 2023-03-12 | 570 | 38 | 
 

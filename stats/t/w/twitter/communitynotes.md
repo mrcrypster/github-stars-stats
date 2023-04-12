@@ -1,10 +1,10 @@
 # twitter/communitynotes - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 88
 
-★ Stars: 578
+★ Stars: 581
 
 [Open repository](https://github.com/twitter/communitynotes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 581 | 88 | 
 | 2023-04-10 | 578 | 88 | 
 | 2023-04-09 | 577 | 88 | 
 | 2023-04-08 | 576 | 88 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 529 | 71 | 
 | 2023-03-15 | 527 | 71 | 
 | 2023-03-14 | 521 | 71 | 
-| 2023-03-12 | 521 | 71 | 
 

@@ -1,10 +1,10 @@
 # Perelyn-sama/yul_by_example - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 46
+★ Stars: 71
 
 [Open repository](https://github.com/Perelyn-sama/yul_by_example)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 71 | 2 | 
+| 2023-04-11 | 71 | 2 | 
 | 2023-04-10 | 46 | 1 | 
 | 2023-04-09 | 46 | 1 | 
 

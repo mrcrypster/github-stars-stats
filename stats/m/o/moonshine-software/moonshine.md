@@ -1,10 +1,10 @@
 # moonshine-software/moonshine - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 26
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/moonshine-software/moonshine)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 95 | 26 | 
 | 2023-04-10 | 94 | 26 | 
 

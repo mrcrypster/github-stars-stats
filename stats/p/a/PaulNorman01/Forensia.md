@@ -1,10 +1,10 @@
 # PaulNorman01/Forensia - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 26
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/PaulNorman01/Forensia)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 210 | 26 | 
 | 2023-04-10 | 209 | 26 | 
 | 2023-04-09 | 209 | 26 | 
 | 2023-04-08 | 209 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 192 | 24 | 
 | 2023-03-15 | 192 | 24 | 
 | 2023-03-13 | 191 | 24 | 
-| 2023-03-12 | 191 | 24 | 
 

@@ -1,8 +1,8 @@
 # OfficeDev/office-js-docs-pr - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 235
+☋ Forks: 236
 
 ★ Stars: 345
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 345 | 236 | 
 | 2023-04-10 | 345 | 235 | 
 | 2023-04-09 | 345 | 235 | 
 | 2023-04-08 | 345 | 235 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 342 | 235 | 
 | 2023-03-15 | 341 | 235 | 
 | 2023-03-13 | 341 | 235 | 
-| 2023-03-12 | 341 | 235 | 
 

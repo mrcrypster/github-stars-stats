@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 11
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/matter-labs/era-system-contracts)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 42 | 5 | 
+| 2023-04-11 | 41 | 6 | 
 | 2023-04-10 | 42 | 5 | 
 | 2023-04-09 | 42 | 5 | 
 | 2023-04-08 | 42 | 4 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 25 | 1 | 
 | 2023-03-14 | 25 | 1 | 
 | 2023-03-13 | 25 | 1 | 
-| 2023-03-12 | 25 | 1 | 
 

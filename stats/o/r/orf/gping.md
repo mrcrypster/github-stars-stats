@@ -1,10 +1,10 @@
 # orf/gping - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 258
 
-★ Stars: 7305
+★ Stars: 7316
 
 [Open repository](https://github.com/orf/gping)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 7316 | 258 | 
 | 2023-04-10 | 7305 | 258 | 
 | 2023-04-09 | 7303 | 258 | 
 | 2023-04-08 | 7300 | 258 | 

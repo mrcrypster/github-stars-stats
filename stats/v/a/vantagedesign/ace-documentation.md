@@ -1,10 +1,10 @@
 # vantagedesign/ace-documentation - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 70
 
-★ Stars: 93
+★ Stars: 92
 
 [Open repository](https://github.com/vantagedesign/ace-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 92 | 70 | 
 | 2023-04-10 | 93 | 70 | 
 | 2023-04-09 | 93 | 70 | 
 | 2023-04-08 | 93 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 94 | 70 | 
 | 2023-03-15 | 94 | 70 | 
 | 2023-03-13 | 94 | 70 | 
-| 2023-03-12 | 94 | 70 | 
 

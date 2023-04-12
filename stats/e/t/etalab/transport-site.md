@@ -1,6 +1,6 @@
 # etalab/transport-site - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 114 | 25 | 
 | 2023-04-10 | 114 | 25 | 
 | 2023-04-09 | 114 | 25 | 
 | 2023-04-08 | 114 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 114 | 25 | 
 | 2023-03-15 | 113 | 25 | 
 | 2023-03-14 | 113 | 25 | 
-| 2023-03-13 | 113 | 25 | 
 

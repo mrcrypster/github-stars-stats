@@ -1,10 +1,10 @@
 # balloonwj/CppGuide - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 461
+☋ Forks: 464
 
-★ Stars: 2320
+★ Stars: 2324
 
 [Open repository](https://github.com/balloonwj/CppGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2324 | 464 | 
 | 2023-04-10 | 2320 | 461 | 
 | 2023-04-09 | 2311 | 461 | 
 | 2023-04-08 | 2309 | 459 | 

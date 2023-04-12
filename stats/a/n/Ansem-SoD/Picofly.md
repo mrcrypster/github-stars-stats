@@ -1,10 +1,10 @@
 # Ansem-SoD/Picofly - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 50
+☋ Forks: 49
 
-★ Stars: 212
+★ Stars: 218
 
 [Open repository](https://github.com/Ansem-SoD/Picofly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 218 | 49 | 
 | 2023-04-10 | 212 | 50 | 
 | 2023-04-09 | 209 | 47 | 
 | 2023-04-08 | 198 | 45 | 

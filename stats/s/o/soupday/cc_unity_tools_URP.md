@@ -1,6 +1,6 @@
 # soupday/cc_unity_tools_URP - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 62 | 16 | 
 | 2023-04-10 | 62 | 16 | 
 | 2023-04-09 | 62 | 16 | 
 | 2023-04-08 | 62 | 16 | 

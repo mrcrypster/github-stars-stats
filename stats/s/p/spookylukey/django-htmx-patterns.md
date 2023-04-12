@@ -1,6 +1,6 @@
 # spookylukey/django-htmx-patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 371 | 9 | 
 | 2023-04-10 | 371 | 9 | 
 | 2023-04-09 | 371 | 9 | 
 | 2023-04-08 | 359 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 350 | 9 | 
 | 2023-03-14 | 350 | 9 | 
 | 2023-03-13 | 350 | 8 | 
-| 2023-03-12 | 350 | 8 | 
 

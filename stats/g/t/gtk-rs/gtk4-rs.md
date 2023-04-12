@@ -1,10 +1,10 @@
 # gtk-rs/gtk4-rs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 128
 
-★ Stars: 1209
+★ Stars: 1211
 
 [Open repository](https://github.com/gtk-rs/gtk4-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1211 | 128 | 
 | 2023-04-10 | 1209 | 128 | 
 | 2023-04-09 | 1207 | 128 | 
 | 2023-04-08 | 1203 | 128 | 

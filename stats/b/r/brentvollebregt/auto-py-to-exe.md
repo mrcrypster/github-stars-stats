@@ -1,10 +1,10 @@
 # brentvollebregt/auto-py-to-exe - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 556
 
-★ Stars: 2920
+★ Stars: 2921
 
 [Open repository](https://github.com/brentvollebregt/auto-py-to-exe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2921 | 556 | 
 | 2023-04-10 | 2920 | 556 | 
 | 2023-04-09 | 2919 | 556 | 
 | 2023-04-08 | 2915 | 555 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 2867 | 545 | 
 | 2023-03-15 | 2861 | 543 | 
 | 2023-03-14 | 2860 | 541 | 
-| 2023-03-12 | 2857 | 540 | 
 

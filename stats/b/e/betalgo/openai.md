@@ -1,10 +1,10 @@
 # betalgo/openai - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 256
+☋ Forks: 259
 
-★ Stars: 1542
+★ Stars: 1551
 
 [Open repository](https://github.com/betalgo/openai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1551 | 259 | 
 | 2023-04-10 | 1542 | 256 | 
 | 2023-04-09 | 1528 | 252 | 
 | 2023-04-08 | 1517 | 249 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1137 | 179 | 
 | 2023-03-15 | 1098 | 171 | 
 | 2023-03-14 | 1071 | 167 | 
-| 2023-03-12 | 1053 | 164 | 
 

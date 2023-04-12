@@ -1,10 +1,10 @@
 # RosettaCommons/RFdiffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 93
+☋ Forks: 95
 
-★ Stars: 727
+★ Stars: 733
 
 [Open repository](https://github.com/RosettaCommons/RFdiffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 733 | 95 | 
 | 2023-04-10 | 727 | 93 | 
 | 2023-04-09 | 715 | 92 | 
 | 2023-04-08 | 711 | 92 | 

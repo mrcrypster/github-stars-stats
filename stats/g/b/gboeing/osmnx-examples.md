@@ -1,10 +1,10 @@
 # gboeing/osmnx-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 461
+☋ Forks: 460
 
-★ Stars: 1244
+★ Stars: 1245
 
 [Open repository](https://github.com/gboeing/osmnx-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1245 | 460 | 
 | 2023-04-10 | 1244 | 461 | 
 | 2023-04-09 | 1244 | 461 | 
 | 2023-04-08 | 1244 | 460 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1234 | 454 | 
 | 2023-03-15 | 1233 | 454 | 
 | 2023-03-13 | 1232 | 453 | 
-| 2023-03-12 | 1231 | 453 | 
 

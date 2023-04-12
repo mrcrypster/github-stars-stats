@@ -1,10 +1,10 @@
 # seL4/l4v - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 92
 
-★ Stars: 449
+★ Stars: 451
 
 [Open repository](https://github.com/seL4/l4v)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 451 | 92 | 
 | 2023-04-10 | 449 | 92 | 
 | 2023-04-09 | 449 | 92 | 
 | 2023-04-08 | 449 | 92 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 446 | 92 | 
 | 2023-03-14 | 446 | 92 | 
 | 2023-03-13 | 445 | 91 | 
-| 2023-03-12 | 445 | 91 | 
 

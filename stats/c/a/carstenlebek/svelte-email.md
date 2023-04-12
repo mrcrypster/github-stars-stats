@@ -1,10 +1,10 @@
 # carstenlebek/svelte-email - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/carstenlebek/svelte-email)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 153 | 4 | 
 | 2023-04-10 | 152 | 4 | 
 | 2023-04-09 | 148 | 4 | 
 | 2023-04-08 | 148 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 132 | 4 | 
 | 2023-03-14 | 130 | 4 | 
 | 2023-03-13 | 128 | 4 | 
-| 2023-03-12 | 128 | 4 | 
 

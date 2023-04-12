@@ -1,10 +1,10 @@
 # base-org/pessimism - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/base-org/pessimism)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 45 | 11 | 
 | 2023-04-10 | 43 | 11 | 
 | 2023-04-09 | 43 | 11 | 
 | 2023-04-08 | 42 | 10 | 

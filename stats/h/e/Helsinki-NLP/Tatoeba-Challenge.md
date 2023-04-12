@@ -1,10 +1,10 @@
 # Helsinki-NLP/Tatoeba-Challenge - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 76
 
-★ Stars: 701
+★ Stars: 702
 
 [Open repository](https://github.com/Helsinki-NLP/Tatoeba-Challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 702 | 76 | 
 | 2023-04-10 | 701 | 76 | 
 | 2023-04-09 | 699 | 76 | 
 | 2023-04-08 | 699 | 76 | 

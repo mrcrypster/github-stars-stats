@@ -1,8 +1,8 @@
 # LeNPaul/Millennial - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 757
+☋ Forks: 758
 
 ★ Stars: 362
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 362 | 758 | 
 | 2023-04-10 | 362 | 757 | 
 | 2023-04-09 | 362 | 756 | 
 | 2023-04-08 | 362 | 755 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 357 | 741 | 
 | 2023-03-15 | 356 | 737 | 
 | 2023-03-13 | 356 | 737 | 
-| 2023-03-12 | 356 | 737 | 
 

@@ -1,6 +1,6 @@
 # netology-code/onec-mid-base-11 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2 | 21 | 
 | 2023-04-10 | 2 | 21 | 
 | 2023-04-09 | 2 | 20 | 
 | 2023-04-08 | 2 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 1 | 14 | 
 | 2023-03-14 | 1 | 12 | 
 | 2023-03-13 | - | 11 | 
-| 2023-03-12 | - | 10 | 
 

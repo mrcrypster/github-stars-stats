@@ -1,8 +1,8 @@
 # pangloss/vim-javascript - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 369
+☋ Forks: 366
 
 ★ Stars: 3774
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3774 | 366 | 
 | 2023-04-10 | 3774 | 369 | 
 | 2023-04-09 | 3774 | 369 | 
 | 2023-04-08 | 3773 | 369 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 3772 | 366 | 
 | 2023-03-14 | 3773 | 366 | 
 | 2023-03-13 | 3773 | 366 | 
-| 2023-03-12 | 3773 | 366 | 
 

@@ -1,10 +1,10 @@
 # goravel/goravel - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 78
 
-★ Stars: 734
+★ Stars: 738
 
 [Open repository](https://github.com/goravel/goravel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 738 | 78 | 
 | 2023-04-10 | 734 | 78 | 
 | 2023-04-09 | 734 | 78 | 
 | 2023-04-08 | 730 | 78 | 

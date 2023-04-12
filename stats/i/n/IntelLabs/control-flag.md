@@ -1,6 +1,6 @@
 # IntelLabs/control-flag - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1224 | 113 | 
 | 2023-04-10 | 1224 | 113 | 
 | 2023-04-09 | 1224 | 113 | 
 | 2023-04-08 | 1224 | 113 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 1226 | 113 | 
 | 2023-03-15 | 1226 | 113 | 
 | 2023-03-14 | 1226 | 113 | 
-| 2023-03-12 | 1226 | 113 | 
 

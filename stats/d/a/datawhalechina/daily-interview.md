@@ -1,10 +1,10 @@
 # datawhalechina/daily-interview - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 379
 
-★ Stars: 1916
+★ Stars: 1917
 
 [Open repository](https://github.com/datawhalechina/daily-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1917 | 379 | 
 | 2023-04-10 | 1916 | 379 | 
 | 2023-04-09 | 1913 | 379 | 
 | 2023-04-08 | 1914 | 379 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1861 | 377 | 
 | 2023-03-14 | 1859 | 377 | 
 | 2023-03-13 | 1853 | 377 | 
-| 2023-03-12 | 1852 | 378 | 
 

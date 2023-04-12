@@ -1,10 +1,10 @@
 # hansihe/live_data - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/hansihe/live_data)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 81 | - | 
 | 2023-04-10 | 80 | - | 
 | 2023-04-09 | 80 | - | 
 | 2023-04-08 | 80 | - | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 75 | - | 
 | 2023-03-14 | 75 | - | 
 | 2023-03-13 | 75 | - | 
-| 2023-03-12 | 75 | - | 
 

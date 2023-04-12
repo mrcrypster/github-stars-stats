@@ -1,10 +1,10 @@
 # jrowberg/i2cdevlib - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 7524
+☋ Forks: 7525
 
-★ Stars: 3604
+★ Stars: 3606
 
 [Open repository](https://github.com/jrowberg/i2cdevlib)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3606 | 7525 | 
 | 2023-04-10 | 3604 | 7524 | 
 | 2023-04-09 | 3603 | 7524 | 
 | 2023-04-08 | 3602 | 7524 | 

@@ -1,10 +1,10 @@
 # k4zmu2a/SpaceCadetPinball - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 169
 
-★ Stars: 2525
+★ Stars: 2526
 
 [Open repository](https://github.com/k4zmu2a/SpaceCadetPinball)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2526 | 169 | 
 | 2023-04-10 | 2525 | 169 | 
 | 2023-04-09 | 2521 | 169 | 
 | 2023-04-08 | 2520 | 168 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 2481 | 166 | 
 | 2023-03-15 | 2479 | 166 | 
 | 2023-03-13 | 2478 | 166 | 
-| 2023-03-12 | 2478 | 166 | 
 

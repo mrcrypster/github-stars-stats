@@ -1,6 +1,6 @@
 # makerdao/dss-deploy - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 66 | 35 | 
 | 2023-04-11 | 66 | 35 | 
 | 2023-04-09 | 66 | 35 | 
 | 2023-04-08 | 66 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 66 | 34 | 
 | 2023-03-14 | 66 | 34 | 
 | 2023-03-13 | 66 | 34 | 
-| 2023-03-12 | 66 | 34 | 
 

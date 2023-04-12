@@ -1,6 +1,6 @@
 # tecosaur/emacs-config - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 920 | 125 | 
 | 2023-04-10 | 920 | 125 | 
 | 2023-04-09 | 920 | 125 | 
 | 2023-04-08 | 920 | 125 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 915 | 125 | 
 | 2023-03-14 | 915 | 125 | 
 | 2023-03-13 | 914 | 125 | 
-| 2023-03-12 | 914 | 124 | 
 

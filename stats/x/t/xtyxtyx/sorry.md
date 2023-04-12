@@ -1,6 +1,6 @@
 # xtyxtyx/sorry - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 795
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 6402 | 795 | 
 | 2023-04-10 | 6402 | 795 | 
 | 2023-04-09 | 6403 | 795 | 
 | 2023-04-08 | 6402 | 795 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 6396 | 795 | 
 | 2023-03-14 | 6396 | 795 | 
 | 2023-03-13 | 6395 | 795 | 
-| 2023-03-12 | 6395 | 795 | 
 

@@ -1,10 +1,10 @@
 # fholger/crysis_vrmod - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/fholger/crysis_vrmod)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 28 | - | 
 | 2023-04-10 | 27 | - | 
 

@@ -1,10 +1,10 @@
 # christianp/aperiodic-monotile - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 10
 
-★ Stars: 100
+★ Stars: 103
 
 [Open repository](https://github.com/christianp/aperiodic-monotile)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 103 | 10 | 
+| 2023-04-11 | 103 | 10 | 
 | 2023-04-10 | 100 | 10 | 
 | 2023-04-09 | 98 | 10 | 
 | 2023-04-08 | 97 | 10 | 

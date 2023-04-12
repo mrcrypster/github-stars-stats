@@ -1,10 +1,10 @@
 # NoahTheDuke/spat - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 45
+★ Stars: 48
 
 [Open repository](https://github.com/NoahTheDuke/spat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 48 | 2 | 
 | 2023-04-10 | 45 | 1 | 
 | 2023-04-09 | 44 | 1 | 
 | 2023-04-08 | 44 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 14 | - | 
 | 2023-03-14 | 14 | - | 
 | 2023-03-13 | 14 | - | 
-| 2023-03-12 | 14 | - | 
 

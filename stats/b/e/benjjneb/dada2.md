@@ -1,10 +1,10 @@
 # benjjneb/dada2 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 134
 
-★ Stars: 383
+★ Stars: 384
 
 [Open repository](https://github.com/benjjneb/dada2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 384 | 134 | 
 | 2023-04-10 | 383 | 134 | 
 | 2023-04-09 | 383 | 134 | 
 | 2023-04-08 | 383 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 382 | 133 | 
 | 2023-03-14 | 382 | 133 | 
 | 2023-03-13 | 382 | 133 | 
-| 2023-03-12 | 381 | 133 | 
 

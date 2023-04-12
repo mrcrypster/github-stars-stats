@@ -1,6 +1,6 @@
 # llvm/circt - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1169 | 200 | 
 | 2023-04-10 | 1169 | 200 | 
 | 2023-04-09 | 1169 | 199 | 
 | 2023-04-08 | 1167 | 199 | 

@@ -1,6 +1,6 @@
 # rongarret/ergolib - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 130 | 8 | 
 | 2023-04-10 | 130 | 8 | 
 | 2023-04-09 | 130 | 8 | 
 | 2023-04-08 | 130 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 129 | 8 | 
 | 2023-03-15 | 129 | 8 | 
 | 2023-03-14 | 129 | 8 | 
-| 2023-03-12 | 129 | 8 | 
 

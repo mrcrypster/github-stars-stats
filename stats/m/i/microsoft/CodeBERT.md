@@ -1,10 +1,10 @@
 # microsoft/CodeBERT - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 321
 
-★ Stars: 1256
+★ Stars: 1262
 
 [Open repository](https://github.com/microsoft/CodeBERT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1262 | 321 | 
 | 2023-04-10 | 1256 | 321 | 
 | 2023-04-09 | 1250 | 320 | 
 | 2023-04-08 | 1248 | 320 | 

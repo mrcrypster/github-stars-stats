@@ -1,10 +1,10 @@
 # dualra1n/dualra1n - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/dualra1n/dualra1n)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 92 | 21 | 
 | 2023-04-10 | 90 | 21 | 
 | 2023-04-09 | 90 | 22 | 
 | 2023-04-08 | 90 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 79 | 15 | 
 | 2023-03-14 | 79 | 15 | 
 | 2023-03-13 | 79 | 15 | 
-| 2023-03-12 | 78 | 15 | 
 

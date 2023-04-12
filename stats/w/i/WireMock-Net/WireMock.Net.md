@@ -1,10 +1,10 @@
 # WireMock-Net/WireMock.Net - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 167
 
-★ Stars: 1046
+★ Stars: 1050
 
 [Open repository](https://github.com/WireMock-Net/WireMock.Net)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1050 | 167 | 
 | 2023-04-10 | 1046 | 167 | 
 | 2023-04-09 | 1045 | 167 | 
 | 2023-04-08 | 1043 | 167 | 

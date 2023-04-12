@@ -1,10 +1,10 @@
 # steshaw/plt - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 326
 
-★ Stars: 4954
+★ Stars: 4957
 
 [Open repository](https://github.com/steshaw/plt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4957 | 326 | 
 | 2023-04-10 | 4954 | 326 | 
 | 2023-04-09 | 4952 | 326 | 
 | 2023-04-08 | 4952 | 326 | 

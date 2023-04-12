@@ -1,10 +1,10 @@
 # abap2xlsx/abap2xlsx - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 246
 
-★ Stars: 544
+★ Stars: 545
 
 [Open repository](https://github.com/abap2xlsx/abap2xlsx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 545 | 246 | 
 | 2023-04-10 | 544 | 246 | 
 | 2023-04-09 | 543 | 246 | 
 | 2023-04-08 | 543 | 246 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 533 | 242 | 
 | 2023-03-14 | 532 | 242 | 
 | 2023-03-13 | 532 | 242 | 
-| 2023-03-12 | 531 | 242 | 
 

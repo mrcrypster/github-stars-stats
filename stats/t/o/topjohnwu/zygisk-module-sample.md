@@ -1,10 +1,10 @@
 # topjohnwu/zygisk-module-sample - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 280
+★ Stars: 285
 
 [Open repository](https://github.com/topjohnwu/zygisk-module-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 285 | 67 | 
 | 2023-04-10 | 280 | 66 | 
 | 2023-04-09 | 280 | 65 | 
 

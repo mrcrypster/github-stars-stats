@@ -1,10 +1,10 @@
 # tomasklaen/uosc - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 39
 
-★ Stars: 595
+★ Stars: 600
 
 [Open repository](https://github.com/tomasklaen/uosc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 600 | 39 | 
 | 2023-04-10 | 595 | 39 | 
 | 2023-04-09 | 594 | 39 | 
 | 2023-04-08 | 594 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 559 | 38 | 
 | 2023-03-15 | 560 | 38 | 
 | 2023-03-13 | 557 | 38 | 
-| 2023-03-12 | 553 | 38 | 
 

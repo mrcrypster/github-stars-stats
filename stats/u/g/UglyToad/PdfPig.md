@@ -1,6 +1,6 @@
 # UglyToad/PdfPig - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1034 | 160 | 
 | 2023-04-11 | 1034 | 160 | 
 | 2023-04-09 | 1033 | 160 | 
 | 2023-04-08 | 1031 | 160 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 1003 | 154 | 
 | 2023-03-14 | 1000 | 153 | 
 | 2023-03-13 | 998 | 153 | 
-| 2023-03-12 | 998 | 152 | 
 

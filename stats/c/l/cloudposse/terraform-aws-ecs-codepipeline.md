@@ -1,10 +1,10 @@
 # cloudposse/terraform-aws-ecs-codepipeline - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 132
 
-★ Stars: 134
+★ Stars: 136
 
 [Open repository](https://github.com/cloudposse/terraform-aws-ecs-codepipeline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 136 | 132 | 
 | 2023-04-10 | 134 | 132 | 
 | 2023-04-09 | 134 | 132 | 
 | 2023-04-08 | 132 | 132 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 132 | 129 | 
 | 2023-03-15 | 132 | 129 | 
 | 2023-03-14 | 132 | 129 | 
-| 2023-03-12 | 132 | 129 | 
 

@@ -1,10 +1,10 @@
 # smimram/strid - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/smimram/strid)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 22 | - | 
+| 2023-04-11 | 22 | - | 
 | 2023-04-10 | 21 | - | 
 | 2023-04-09 | 21 | - | 
 

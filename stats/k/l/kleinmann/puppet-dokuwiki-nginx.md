@@ -1,0 +1,18 @@
+# kleinmann/puppet-dokuwiki-nginx - stars & forks statistics
+
+Stats updated on Apr 2023, 12
+
+☋ Forks: 2
+
+★ Stars: 1
+
+[Open repository](https://github.com/kleinmann/puppet-dokuwiki-nginx)
+
+[Open detailed stats for kleinmann/puppet-dokuwiki-nginx](https://reviewgithub.com/rep/kleinmann/puppet-dokuwiki-nginx)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-12 | 1 | 2 | 
+| 2023-04-11 | 1 | 2 | 
+

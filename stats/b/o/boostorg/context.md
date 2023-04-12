@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 129
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/boostorg/context)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 250 | 129 | 
+| 2023-04-11 | 251 | 129 | 
 | 2023-04-10 | 250 | 129 | 
 | 2023-04-09 | 249 | 129 | 
 | 2023-04-08 | 249 | 129 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 247 | 129 | 
 | 2023-03-14 | 247 | 129 | 
 | 2023-03-13 | 247 | 129 | 
-| 2023-03-12 | 247 | 129 | 
 

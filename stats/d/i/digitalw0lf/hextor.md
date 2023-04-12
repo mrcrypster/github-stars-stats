@@ -1,10 +1,10 @@
 # digitalw0lf/hextor - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/digitalw0lf/hextor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 58 | 7 | 
 | 2023-04-10 | 57 | 7 | 
 | 2023-04-09 | 57 | 7 | 
 | 2023-04-08 | 57 | 7 | 

@@ -1,10 +1,10 @@
 # keycastr/keycastr - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 460
+☋ Forks: 461
 
-★ Stars: 10108
+★ Stars: 10110
 
 [Open repository](https://github.com/keycastr/keycastr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 10110 | 461 | 
 | 2023-04-10 | 10108 | 460 | 
 | 2023-04-09 | 10102 | 459 | 
 | 2023-04-08 | 10101 | 459 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 9984 | 459 | 
 | 2023-03-15 | 9982 | 459 | 
 | 2023-03-13 | 9976 | 459 | 
-| 2023-03-12 | 9968 | 459 | 
 

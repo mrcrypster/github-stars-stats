@@ -1,10 +1,10 @@
 # dailydotdev/daily - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 375
+☋ Forks: 377
 
-★ Stars: 12326
+★ Stars: 12332
 
 [Open repository](https://github.com/dailydotdev/daily)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 12332 | 377 | 
 | 2023-04-10 | 12326 | 375 | 
 | 2023-04-09 | 12320 | 374 | 
 | 2023-04-08 | 12312 | 374 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 11997 | 366 | 
 | 2023-03-15 | 11974 | 366 | 
 | 2023-03-14 | 11955 | 366 | 
-| 2023-03-12 | 11936 | 366 | 
 

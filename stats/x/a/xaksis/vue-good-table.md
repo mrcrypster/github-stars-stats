@@ -1,10 +1,10 @@
 # xaksis/vue-good-table - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 394
 
-★ Stars: 2065
+★ Stars: 2067
 
 [Open repository](https://github.com/xaksis/vue-good-table)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2067 | 394 | 
 | 2023-04-10 | 2065 | 394 | 
 | 2023-04-09 | 2064 | 394 | 
 | 2023-04-08 | 2064 | 395 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 2049 | 393 | 
 | 2023-03-14 | 2046 | 392 | 
 | 2023-03-13 | 2045 | 390 | 
-| 2023-03-12 | 2044 | 390 | 
 

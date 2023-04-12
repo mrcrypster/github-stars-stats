@@ -1,8 +1,8 @@
 # google/season-of-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 893
+☋ Forks: 894
 
 ★ Stars: 403
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 403 | 894 | 
 | 2023-04-10 | 403 | 893 | 
 | 2023-04-08 | 402 | 893 | 
 | 2023-04-07 | 402 | 894 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 381 | 789 | 
 | 2023-03-14 | 380 | 785 | 
 | 2023-03-13 | 378 | 780 | 
-| 2023-03-12 | 377 | 777 | 
 

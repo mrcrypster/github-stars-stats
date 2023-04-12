@@ -1,10 +1,10 @@
 # openhwgroup/cvw - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/openhwgroup/cvw)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 68 | 55 | 
+| 2023-04-11 | 68 | 55 | 
 | 2023-04-10 | 67 | 54 | 
 | 2023-04-09 | 66 | 53 | 
 | 2023-04-08 | 65 | 53 | 
@@ -39,5 +41,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 54 | 33 | 
 | 2023-03-14 | 54 | 33 | 
 | 2023-03-13 | 54 | 32 | 
-| 2023-03-12 | 53 | 32 | 
 

@@ -1,10 +1,10 @@
 # Jeadie/awesome-chatgpt-plugins - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 181
+★ Stars: 184
 
 [Open repository](https://github.com/Jeadie/awesome-chatgpt-plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 184 | 10 | 
 | 2023-04-10 | 181 | 9 | 
 | 2023-04-09 | 180 | 8 | 
 | 2023-04-08 | 178 | 8 | 

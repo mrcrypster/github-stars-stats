@@ -1,8 +1,8 @@
 # plone/volto - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 265
+☋ Forks: 264
 
 ★ Stars: 251
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 251 | 264 | 
 | 2023-04-10 | 251 | 265 | 
 | 2023-04-09 | 249 | 263 | 
 | 2023-04-08 | 249 | 263 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 232 | 215 | 
 | 2023-03-14 | 231 | 213 | 
 | 2023-03-13 | 231 | 209 | 
-| 2023-03-12 | 231 | 207 | 
 

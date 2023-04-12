@@ -1,10 +1,10 @@
 # grpc-ecosystem/grpc-gateway - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1972
+☋ Forks: 1974
 
-★ Stars: 15251
+★ Stars: 15262
 
 [Open repository](https://github.com/grpc-ecosystem/grpc-gateway)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 15262 | 1974 | 
 | 2023-04-10 | 15251 | 1972 | 
 | 2023-04-09 | 15245 | 1971 | 
 | 2023-04-08 | 15241 | 1970 | 

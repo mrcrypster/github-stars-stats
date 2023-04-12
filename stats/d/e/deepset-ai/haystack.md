@@ -1,10 +1,10 @@
 # deepset-ai/haystack - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1144
+☋ Forks: 1145
 
-★ Stars: 7981
+★ Stars: 8016
 
 [Open repository](https://github.com/deepset-ai/haystack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 8016 | 1145 | 
 | 2023-04-10 | 7981 | 1144 | 
 | 2023-04-09 | 7958 | 1138 | 
 | 2023-04-08 | 7941 | 1137 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 7342 | 1087 | 
 | 2023-03-15 | 7318 | 1086 | 
 | 2023-03-13 | 7299 | 1082 | 
-| 2023-03-12 | 7274 | 1080 | 
 

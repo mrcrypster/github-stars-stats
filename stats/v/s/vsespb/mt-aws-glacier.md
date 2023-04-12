@@ -1,6 +1,6 @@
 # vsespb/mt-aws-glacier - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 536 | 60 | 
 | 2023-04-10 | 536 | 60 | 
 | 2023-04-09 | 536 | 60 | 
 | 2023-04-08 | 536 | 60 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 536 | 60 | 
 | 2023-03-14 | 536 | 60 | 
 | 2023-03-13 | 536 | 60 | 
-| 2023-03-12 | 536 | 60 | 
 

@@ -1,10 +1,10 @@
 # gluster/glusterfs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1045
+☋ Forks: 1046
 
-★ Stars: 4038
+★ Stars: 4041
 
 [Open repository](https://github.com/gluster/glusterfs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4041 | 1046 | 
 | 2023-04-10 | 4038 | 1045 | 
 | 2023-04-09 | 4036 | 1045 | 
 | 2023-04-08 | 4036 | 1045 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 4013 | 1037 | 
 | 2023-03-15 | 4013 | 1037 | 
 | 2023-03-14 | 4011 | 1037 | 
-| 2023-03-13 | 4010 | 1037 | 
 

@@ -1,10 +1,10 @@
 # klmr/box - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 40
 
-★ Stars: 682
+★ Stars: 683
 
 [Open repository](https://github.com/klmr/box)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 683 | 40 | 
 | 2023-04-10 | 682 | 40 | 
 | 2023-04-09 | 682 | 40 | 
 | 2023-04-08 | 682 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 674 | 40 | 
 | 2023-03-14 | 674 | 40 | 
 | 2023-03-13 | 674 | 40 | 
-| 2023-03-12 | 674 | 40 | 
 

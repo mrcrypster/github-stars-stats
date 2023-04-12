@@ -1,10 +1,10 @@
 # jlesage/docker-nginx-proxy-manager - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 161
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/jlesage/docker-nginx-proxy-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 614 | 161 | 
 | 2023-04-10 | 613 | 161 | 
 | 2023-04-09 | 611 | 160 | 
 | 2023-04-08 | 611 | 160 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 597 | 157 | 
 | 2023-03-15 | 596 | 157 | 
 | 2023-03-13 | 596 | 157 | 
-| 2023-03-12 | 595 | 157 | 
 

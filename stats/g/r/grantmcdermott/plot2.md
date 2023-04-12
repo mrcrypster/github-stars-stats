@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/grantmcdermott/plot2)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 31 | 2 | 
+| 2023-04-11 | 33 | 2 | 
 | 2023-04-10 | 31 | 2 | 
 

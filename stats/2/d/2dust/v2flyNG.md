@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 43
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/2dust/v2flyNG)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 316 | 43 | 
+| 2023-04-11 | 317 | 43 | 
 | 2023-04-10 | 316 | 43 | 
 

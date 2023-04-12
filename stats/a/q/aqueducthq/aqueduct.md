@@ -1,10 +1,10 @@
 # aqueducthq/aqueduct - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 422
+★ Stars: 424
 
 [Open repository](https://github.com/aqueducthq/aqueduct)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 424 | 7 | 
 | 2023-04-10 | 422 | 7 | 
 | 2023-04-09 | 420 | 7 | 
 | 2023-04-08 | 420 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 408 | 7 | 
 | 2023-03-14 | 406 | 7 | 
 | 2023-03-13 | 405 | 7 | 
-| 2023-03-12 | 406 | 7 | 
 

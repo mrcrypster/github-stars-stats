@@ -1,10 +1,10 @@
 # sefyudem/Responsive-Login-Form - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 491
+☋ Forks: 490
 
-★ Stars: 385
+★ Stars: 386
 
 [Open repository](https://github.com/sefyudem/Responsive-Login-Form)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 386 | 490 | 
 | 2023-04-10 | 385 | 491 | 
 

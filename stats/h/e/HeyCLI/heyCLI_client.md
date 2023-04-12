@@ -1,10 +1,10 @@
 # HeyCLI/heyCLI_client - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 9
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/HeyCLI/heyCLI_client)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 193 | 9 | 
 | 2023-04-10 | 192 | 9 | 
 | 2023-04-09 | 190 | 9 | 
 | 2023-04-08 | 189 | 8 | 

@@ -1,6 +1,6 @@
 # primitivefinance/portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 71 | 3 | 
 | 2023-04-10 | 71 | 3 | 
 | 2023-04-09 | 70 | 3 | 
 | 2023-04-08 | 70 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 60 | 1 | 
 | 2023-03-15 | 60 | 1 | 
 | 2023-03-14 | 60 | 1 | 
-| 2023-03-13 | 60 | 1 | 
 

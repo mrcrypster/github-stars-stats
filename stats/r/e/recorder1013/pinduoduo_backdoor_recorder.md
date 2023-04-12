@@ -1,10 +1,10 @@
 # recorder1013/pinduoduo_backdoor_recorder - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 37
 
-★ Stars: 158
+★ Stars: 161
 
 [Open repository](https://github.com/recorder1013/pinduoduo_backdoor_recorder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 161 | 37 | 
 | 2023-04-10 | 158 | 37 | 
 | 2023-04-09 | 159 | 37 | 
 | 2023-04-08 | 159 | 37 | 

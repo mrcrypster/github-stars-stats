@@ -1,6 +1,6 @@
 # ethereum-lists/tokens - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 394 | 522 | 
 | 2023-04-10 | 394 | 522 | 
 | 2023-04-09 | 394 | 522 | 
 | 2023-04-08 | 394 | 522 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 382 | 516 | 
 | 2023-03-14 | 381 | 515 | 
 | 2023-03-13 | 381 | 514 | 
-| 2023-03-12 | 381 | 513 | 
 

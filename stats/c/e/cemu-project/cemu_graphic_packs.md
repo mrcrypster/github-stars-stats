@@ -1,10 +1,10 @@
 # cemu-project/cemu_graphic_packs - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 589
 
-★ Stars: 1149
+★ Stars: 1150
 
 [Open repository](https://github.com/cemu-project/cemu_graphic_packs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 1149 | 589 | 
+| 2023-04-12 | 1150 | 589 | 
+| 2023-04-11 | 1150 | 589 | 
 | 2023-04-10 | 1149 | 589 | 
 

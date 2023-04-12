@@ -1,10 +1,10 @@
 # piomin/sample-spring-microservices-new - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 643
 
-★ Stars: 903
+★ Stars: 905
 
 [Open repository](https://github.com/piomin/sample-spring-microservices-new)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 905 | 643 | 
 | 2023-04-10 | 903 | 643 | 
 | 2023-04-09 | 903 | 642 | 
 | 2023-04-07 | 903 | 642 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 883 | 636 | 
 | 2023-03-14 | 881 | 631 | 
 | 2023-03-13 | 876 | 629 | 
-| 2023-03-12 | 873 | 627 | 
 

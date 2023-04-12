@@ -1,10 +1,10 @@
 # x13a/Duress - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 231
+★ Stars: 232
 
 [Open repository](https://github.com/x13a/Duress)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 232 | 8 | 
 | 2023-04-10 | 231 | 8 | 
 | 2023-04-09 | 231 | 8 | 
 | 2023-04-08 | 231 | 8 | 

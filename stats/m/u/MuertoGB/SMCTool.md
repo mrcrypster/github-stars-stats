@@ -1,10 +1,10 @@
 # MuertoGB/SMCTool - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/MuertoGB/SMCTool)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 29 | 7 | 
 | 2023-04-10 | 28 | 7 | 
 | 2023-04-09 | 28 | 7 | 
 | 2023-04-08 | 28 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 28 | 7 | 
 | 2023-03-14 | 27 | 7 | 
 | 2023-03-13 | 27 | 7 | 
-| 2023-03-12 | 27 | 7 | 
 

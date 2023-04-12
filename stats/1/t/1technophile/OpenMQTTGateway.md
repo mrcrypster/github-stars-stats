@@ -1,10 +1,10 @@
 # 1technophile/OpenMQTTGateway - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 662
+☋ Forks: 664
 
-★ Stars: 2981
+★ Stars: 2983
 
 [Open repository](https://github.com/1technophile/OpenMQTTGateway)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2983 | 664 | 
 | 2023-04-10 | 2981 | 662 | 
 | 2023-04-09 | 2980 | 664 | 
 | 2023-04-08 | 2977 | 664 | 

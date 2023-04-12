@@ -1,6 +1,6 @@
 # goitacademy/mobile-menu-workshop - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 64 | 79 | 
 | 2023-04-10 | 64 | 79 | 
 | 2023-04-09 | 64 | 79 | 
 | 2023-04-08 | 64 | 79 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 59 | 77 | 
 | 2023-03-15 | 58 | 77 | 
 | 2023-03-13 | 58 | 77 | 
-| 2023-03-12 | 58 | 77 | 
 

@@ -1,6 +1,6 @@
 # fanduel/jsonrpc2-elixir - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 52 | 19 | 
 | 2023-04-10 | 52 | 19 | 
 | 2023-04-09 | 52 | 19 | 
 | 2023-04-08 | 52 | 19 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 52 | 19 | 
 | 2023-03-15 | 52 | 19 | 
 | 2023-03-14 | 52 | 19 | 
-| 2023-03-12 | 52 | 19 | 
 

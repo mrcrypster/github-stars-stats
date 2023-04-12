@@ -1,8 +1,8 @@
 # EddieHubCommunity/good-first-issue-finder - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 205
+☋ Forks: 207
 
 ★ Stars: 324
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 324 | 207 | 
 | 2023-04-10 | 324 | 205 | 
 | 2023-04-09 | 324 | 205 | 
 | 2023-04-08 | 323 | 203 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 304 | 189 | 
 | 2023-03-14 | 304 | 188 | 
 | 2023-03-13 | 302 | 188 | 
-| 2023-03-12 | 303 | 187 | 
 

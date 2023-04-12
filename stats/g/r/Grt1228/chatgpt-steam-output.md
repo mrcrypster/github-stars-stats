@@ -1,10 +1,10 @@
 # Grt1228/chatgpt-steam-output - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 74
+☋ Forks: 79
 
-★ Stars: 167
+★ Stars: 173
 
 [Open repository](https://github.com/Grt1228/chatgpt-steam-output)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 173 | 79 | 
 | 2023-04-10 | 167 | 74 | 
 | 2023-04-09 | 160 | 68 | 
 | 2023-04-08 | 158 | 67 | 

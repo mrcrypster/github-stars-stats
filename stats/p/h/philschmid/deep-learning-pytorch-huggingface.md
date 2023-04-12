@@ -1,10 +1,10 @@
 # philschmid/deep-learning-pytorch-huggingface - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 93
+★ Stars: 95
 
 [Open repository](https://github.com/philschmid/deep-learning-pytorch-huggingface)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 95 | 36 | 
 | 2023-04-10 | 93 | 35 | 
 | 2023-04-09 | 93 | 35 | 
 | 2023-04-08 | 91 | 35 | 

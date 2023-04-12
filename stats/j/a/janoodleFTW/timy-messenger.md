@@ -1,10 +1,10 @@
 # janoodleFTW/timy-messenger - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 452
 
-★ Stars: 1965
+★ Stars: 1967
 
 [Open repository](https://github.com/janoodleFTW/timy-messenger)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1967 | 452 | 
 | 2023-04-10 | 1965 | 452 | 
 | 2023-04-09 | 1963 | 452 | 
 | 2023-04-08 | 1963 | 452 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1949 | 448 | 
 | 2023-03-15 | 1949 | 449 | 
 | 2023-03-13 | 1948 | 450 | 
-| 2023-03-12 | 1948 | 450 | 
 

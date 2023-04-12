@@ -1,10 +1,10 @@
 # obsproject/obs-studio - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 6764
+☋ Forks: 6767
 
-★ Stars: 46776
+★ Stars: 46787
 
 [Open repository](https://github.com/obsproject/obs-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 46787 | 6767 | 
 | 2023-04-10 | 46776 | 6764 | 
 | 2023-04-09 | 46759 | 6763 | 
 | 2023-04-08 | 46728 | 6759 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 46270 | 6694 | 
 | 2023-03-14 | 46227 | 6686 | 
 | 2023-03-13 | 46223 | 6685 | 
-| 2023-03-12 | 46199 | 6680 | 
 

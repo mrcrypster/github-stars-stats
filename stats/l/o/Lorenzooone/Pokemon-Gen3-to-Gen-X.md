@@ -1,10 +1,10 @@
 # Lorenzooone/Pokemon-Gen3-to-Gen-X - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/Lorenzooone/Pokemon-Gen3-to-Gen-X)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 66 | 2 | 
 | 2023-04-10 | 65 | 2 | 
 | 2023-04-09 | 65 | 2 | 
 | 2023-04-08 | 65 | 2 | 

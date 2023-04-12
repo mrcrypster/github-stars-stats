@@ -1,10 +1,10 @@
 # Virtuswap/v1-core - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/Virtuswap/v1-core)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 72 | 7 | 
 | 2023-04-10 | 71 | 7 | 
 | 2023-04-09 | 69 | 7 | 
 | 2023-04-08 | 69 | 7 | 

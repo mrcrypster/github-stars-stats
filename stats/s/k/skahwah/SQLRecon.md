@@ -1,10 +1,10 @@
 # skahwah/SQLRecon - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 405
+★ Stars: 406
 
 [Open repository](https://github.com/skahwah/SQLRecon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 406 | 83 | 
 | 2023-04-10 | 405 | 82 | 
 | 2023-04-09 | 404 | 82 | 
 | 2023-04-08 | 404 | 82 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 401 | 82 | 
 | 2023-03-14 | 400 | 82 | 
 | 2023-03-13 | 399 | 82 | 
-| 2023-03-12 | 398 | 82 | 
 

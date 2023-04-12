@@ -1,6 +1,6 @@
 # backdoorhub/shell-backdoor-list - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 573
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 518 | 573 | 
 | 2023-04-10 | 518 | 573 | 
 | 2023-04-09 | 517 | 572 | 
 | 2023-04-08 | 517 | 572 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 505 | 564 | 
 | 2023-03-15 | 505 | 563 | 
 | 2023-03-14 | 505 | 563 | 
-| 2023-03-12 | 505 | 562 | 
 

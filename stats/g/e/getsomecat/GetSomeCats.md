@@ -1,10 +1,10 @@
 # getsomecat/GetSomeCats - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 251
+★ Stars: 261
 
 [Open repository](https://github.com/getsomecat/GetSomeCats)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 261 | 31 | 
 | 2023-04-10 | 251 | 30 | 
 | 2023-04-09 | 247 | 30 | 
 | 2023-04-08 | 241 | 29 | 

@@ -1,6 +1,6 @@
 # symphonycms/getsymphony-html - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 9 | 3 | 
+| 2023-04-11 | 9 | 3 | 
 | 2023-04-10 | 9 | 3 | 
 | 2023-04-09 | 9 | 3 | 
 

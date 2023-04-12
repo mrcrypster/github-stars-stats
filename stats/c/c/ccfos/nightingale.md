@@ -1,10 +1,10 @@
 # ccfos/nightingale - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1037
+☋ Forks: 1038
 
-★ Stars: 6230
+★ Stars: 6237
 
 [Open repository](https://github.com/ccfos/nightingale)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 6237 | 1038 | 
 | 2023-04-10 | 6230 | 1037 | 
 | 2023-04-09 | 6228 | 1035 | 
 | 2023-04-08 | 6228 | 1034 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 6045 | 1015 | 
 | 2023-03-14 | 6008 | 1013 | 
 | 2023-03-13 | 5959 | 1012 | 
-| 2023-03-12 | 5928 | 1006 | 
 

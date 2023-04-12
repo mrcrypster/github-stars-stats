@@ -1,10 +1,10 @@
 # InterviewMap/CS-Interview-Knowledge-Map - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 2611
 
-★ Stars: 18113
+★ Stars: 18115
 
 [Open repository](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 18115 | 2611 | 
 | 2023-04-10 | 18113 | 2611 | 
 | 2023-04-09 | 18115 | 2611 | 
 | 2023-04-08 | 18115 | 2611 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 18089 | 2607 | 
 | 2023-03-14 | 18090 | 2608 | 
 | 2023-03-13 | 18087 | 2610 | 
-| 2023-03-12 | 18089 | 2611 | 
 

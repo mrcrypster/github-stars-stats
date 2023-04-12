@@ -1,6 +1,6 @@
 # ErrorErrorError/AnimeNow - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 399 | 19 | 
 | 2023-04-10 | 399 | 19 | 
 | 2023-04-09 | 398 | 19 | 
 | 2023-04-08 | 397 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 371 | 18 | 
 | 2023-03-14 | 368 | 18 | 
 | 2023-03-13 | 367 | 18 | 
-| 2023-03-12 | 365 | 18 | 
 

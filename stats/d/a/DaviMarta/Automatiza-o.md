@@ -1,10 +1,10 @@
 # DaviMarta/Automatiza-o - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 108
 
-★ Stars: 182
+★ Stars: 184
 
 [Open repository](https://github.com/DaviMarta/Automatiza-o)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 184 | 108 | 
 | 2023-04-10 | 182 | 108 | 
 | 2023-04-09 | 182 | 108 | 
 | 2023-04-08 | 182 | 108 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 179 | 109 | 
 | 2023-03-15 | 179 | 109 | 
 | 2023-03-13 | 178 | 110 | 
-| 2023-03-12 | 178 | 110 | 
 

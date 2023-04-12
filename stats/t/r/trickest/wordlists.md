@@ -1,10 +1,10 @@
 # trickest/wordlists - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 88
 
-★ Stars: 769
+★ Stars: 771
 
 [Open repository](https://github.com/trickest/wordlists)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 771 | 88 | 
 | 2023-04-10 | 769 | 88 | 
 | 2023-04-09 | 769 | 88 | 
 | 2023-04-08 | 768 | 88 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 688 | 81 | 
 | 2023-03-15 | 687 | 81 | 
 | 2023-03-14 | 686 | 80 | 
-| 2023-03-12 | 685 | 80 | 
 

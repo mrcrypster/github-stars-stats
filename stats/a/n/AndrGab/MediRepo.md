@@ -1,6 +1,6 @@
 # AndrGab/MediRepo - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 11 | 12 | 
 | 2023-04-10 | 11 | 12 | 
 | 2023-04-09 | 11 | 12 | 
 | 2023-04-08 | 11 | 12 | 

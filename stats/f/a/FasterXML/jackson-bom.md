@@ -1,6 +1,6 @@
 # FasterXML/jackson-bom - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 45 | 27 | 
 | 2023-04-10 | 45 | 27 | 
 | 2023-04-09 | 44 | 27 | 
 | 2023-04-08 | 44 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 44 | 27 | 
 | 2023-03-15 | 44 | 27 | 
 | 2023-03-13 | 44 | 27 | 
-| 2023-03-12 | 44 | 27 | 
 

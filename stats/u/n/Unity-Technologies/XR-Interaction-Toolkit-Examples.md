@@ -1,10 +1,10 @@
 # Unity-Technologies/XR-Interaction-Toolkit-Examples - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 226
 
-★ Stars: 738
+★ Stars: 740
 
 [Open repository](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 740 | 226 | 
 | 2023-04-10 | 738 | 226 | 
 | 2023-04-09 | 735 | 225 | 
 | 2023-04-08 | 734 | 225 | 

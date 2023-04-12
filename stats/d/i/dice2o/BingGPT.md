@@ -1,10 +1,10 @@
 # dice2o/BingGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 270
+☋ Forks: 296
 
-★ Stars: 4283
+★ Stars: 4642
 
 [Open repository](https://github.com/dice2o/BingGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4642 | 296 | 
 | 2023-04-10 | 4283 | 270 | 
 | 2023-04-09 | 3521 | 220 | 
 | 2023-04-08 | 3408 | 203 | 

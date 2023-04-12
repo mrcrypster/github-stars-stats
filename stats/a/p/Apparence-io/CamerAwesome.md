@@ -1,10 +1,10 @@
 # Apparence-io/CamerAwesome - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 100
+☋ Forks: 103
 
-★ Stars: 651
+★ Stars: 652
 
 [Open repository](https://github.com/Apparence-io/CamerAwesome)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 652 | 103 | 
 | 2023-04-10 | 651 | 100 | 
 | 2023-04-09 | 651 | 99 | 
 | 2023-04-08 | 651 | 99 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 606 | 95 | 
 | 2023-03-14 | 603 | 94 | 
 | 2023-03-13 | 601 | 94 | 
-| 2023-03-12 | 601 | 94 | 
 

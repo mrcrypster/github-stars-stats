@@ -1,10 +1,10 @@
 # rcore-os/arceos - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 143
+★ Stars: 141
 
 [Open repository](https://github.com/rcore-os/arceos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 141 | 29 | 
 | 2023-04-10 | 143 | 28 | 
 | 2023-04-09 | 141 | 28 | 
 | 2023-04-08 | 140 | 28 | 

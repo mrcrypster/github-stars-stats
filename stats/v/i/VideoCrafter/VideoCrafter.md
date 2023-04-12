@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 11
 
-☋ Forks: 65
+☋ Forks: 68
 
-★ Stars: 1227
+★ Stars: 1247
 
 [Open repository](https://github.com/VideoCrafter/VideoCrafter)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 1227 | 65 | 
+| 2023-04-11 | 1247 | 68 | 
 | 2023-04-10 | 1223 | 64 | 
 | 2023-04-09 | 1072 | 54 | 
 | 2023-04-08 | 879 | 51 | 

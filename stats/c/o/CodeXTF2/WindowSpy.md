@@ -1,10 +1,10 @@
 # CodeXTF2/WindowSpy - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 130
+★ Stars: 133
 
 [Open repository](https://github.com/CodeXTF2/WindowSpy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 133 | 23 | 
 | 2023-04-10 | 130 | 22 | 
 | 2023-04-09 | 127 | 21 | 
 | 2023-04-08 | 120 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 109 | 16 | 
 | 2023-03-15 | 109 | 16 | 
 | 2023-03-14 | 109 | 16 | 
-| 2023-03-12 | 109 | 16 | 
 

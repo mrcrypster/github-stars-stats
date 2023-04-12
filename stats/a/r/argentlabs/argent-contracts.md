@@ -1,10 +1,10 @@
 # argentlabs/argent-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 158
 
-★ Stars: 464
+★ Stars: 465
 
 [Open repository](https://github.com/argentlabs/argent-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 465 | 158 | 
 | 2023-04-10 | 464 | 158 | 
 | 2023-04-09 | 464 | 158 | 
 | 2023-04-08 | 464 | 158 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 461 | 156 | 
 | 2023-03-14 | 461 | 156 | 
 | 2023-03-13 | 461 | 156 | 
-| 2023-03-12 | 460 | 155 | 
 

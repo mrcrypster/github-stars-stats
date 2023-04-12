@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 75
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/sympa-community/sympa)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 202 | 75 | 
+| 2023-04-11 | 203 | 75 | 
 | 2023-04-10 | 202 | 75 | 
 | 2023-04-09 | 202 | 75 | 
 | 2023-04-08 | 202 | 75 | 

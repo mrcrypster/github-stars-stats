@@ -1,8 +1,8 @@
 # paradigm-operations/paradigm-ctf-2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 88
+☋ Forks: 87
 
 ★ Stars: 488
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 488 | 87 | 
 | 2023-04-10 | 488 | 88 | 
 | 2023-04-09 | 488 | 88 | 
 | 2023-04-08 | 488 | 88 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 482 | 89 | 
 | 2023-03-14 | 482 | 89 | 
 | 2023-03-13 | 482 | 89 | 
-| 2023-03-12 | 481 | 89 | 
 

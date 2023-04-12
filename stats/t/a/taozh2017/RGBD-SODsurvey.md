@@ -1,10 +1,10 @@
 # taozh2017/RGBD-SODsurvey - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 27
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/taozh2017/RGBD-SODsurvey)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 243 | 27 | 
 | 2023-04-10 | 242 | 27 | 
 | 2023-04-09 | 242 | 27 | 
 | 2023-04-08 | 241 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 233 | 27 | 
 | 2023-03-14 | 233 | 27 | 
 | 2023-03-13 | 233 | 27 | 
-| 2023-03-12 | 233 | 27 | 
 

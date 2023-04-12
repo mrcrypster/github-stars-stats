@@ -1,6 +1,6 @@
 # publiclab/plots2 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1876
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 926 | 1876 | 
 | 2023-04-10 | 926 | 1876 | 
 | 2023-04-09 | 926 | 1876 | 
 | 2023-04-08 | 926 | 1878 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 924 | 1877 | 
 | 2023-03-14 | 924 | 1876 | 
 | 2023-03-13 | 924 | 1875 | 
-| 2023-03-12 | 924 | 1875 | 
 

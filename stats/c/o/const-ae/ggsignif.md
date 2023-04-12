@@ -1,6 +1,6 @@
 # const-ae/ggsignif - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 503 | 38 | 
 | 2023-04-11 | 503 | 38 | 
 | 2023-04-09 | 503 | 38 | 
 | 2023-04-08 | 503 | 38 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 501 | 38 | 
 | 2023-03-15 | 500 | 38 | 
 | 2023-03-13 | 500 | 38 | 
-| 2023-03-12 | 500 | 38 | 
 

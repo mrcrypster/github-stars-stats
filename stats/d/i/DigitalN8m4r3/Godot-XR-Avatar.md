@@ -1,6 +1,6 @@
 # DigitalN8m4r3/Godot-XR-Avatar - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 23 | 4 | 
 | 2023-04-10 | 23 | 4 | 
 | 2023-04-09 | 23 | 4 | 
 | 2023-04-08 | 23 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 23 | 4 | 
 | 2023-03-15 | 23 | 4 | 
 | 2023-03-14 | 23 | 4 | 
-| 2023-03-12 | 23 | 4 | 
 

@@ -1,10 +1,10 @@
 # filp/whoops - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 611
 
-★ Stars: 12990
+★ Stars: 12992
 
 [Open repository](https://github.com/filp/whoops)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 12992 | 611 | 
 | 2023-04-10 | 12990 | 611 | 
 | 2023-04-09 | 12991 | 611 | 
 | 2023-04-08 | 12989 | 611 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 12975 | 608 | 
 | 2023-03-15 | 12971 | 608 | 
 | 2023-03-14 | 12963 | 608 | 
-| 2023-03-12 | 12962 | 608 | 
 

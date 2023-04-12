@@ -1,10 +1,10 @@
 # zhaoshenzhai/MathWiki - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/zhaoshenzhai/MathWiki)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 102 | 7 | 
 | 2023-04-10 | 101 | 7 | 
 | 2023-04-09 | 99 | 7 | 
 | 2023-04-08 | 100 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 89 | 7 | 
 | 2023-03-14 | 88 | 7 | 
 | 2023-03-13 | 86 | 7 | 
-| 2023-03-12 | 86 | 7 | 
 

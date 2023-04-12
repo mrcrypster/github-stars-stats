@@ -1,10 +1,10 @@
 # oruga-ui/oruga - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 150
 
-★ Stars: 954
+★ Stars: 955
 
 [Open repository](https://github.com/oruga-ui/oruga)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 955 | 150 | 
 | 2023-04-10 | 954 | 150 | 
 | 2023-04-09 | 953 | 150 | 
 | 2023-04-08 | 952 | 150 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 940 | 149 | 
 | 2023-03-15 | 939 | 149 | 
 | 2023-03-14 | 940 | 149 | 
-| 2023-03-13 | 938 | 149 | 
 

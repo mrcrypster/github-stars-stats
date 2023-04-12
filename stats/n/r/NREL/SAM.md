@@ -1,10 +1,10 @@
 # NREL/SAM - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 127
+☋ Forks: 126
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/NREL/SAM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 265 | 126 | 
 | 2023-04-10 | 264 | 127 | 
 | 2023-04-09 | 262 | 127 | 
 | 2023-04-08 | 261 | 127 | 

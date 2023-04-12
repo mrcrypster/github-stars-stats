@@ -1,6 +1,6 @@
 # SnapDragon64/ACMFinalsSolutions - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 309 | 92 | 
 | 2023-04-10 | 309 | 92 | 
 | 2023-04-09 | 309 | 92 | 
 | 2023-04-08 | 309 | 92 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 308 | 93 | 
 | 2023-03-14 | 308 | 93 | 
 | 2023-03-13 | 308 | 93 | 
-| 2023-03-12 | 308 | 93 | 
 

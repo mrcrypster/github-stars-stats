@@ -1,10 +1,10 @@
 # abcz316/linuxKernelRoot - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 349
+☋ Forks: 353
 
-★ Stars: 1235
+★ Stars: 1250
 
 [Open repository](https://github.com/abcz316/linuxKernelRoot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1250 | 353 | 
 | 2023-04-10 | 1235 | 349 | 
 | 2023-04-09 | 1211 | 342 | 
 | 2023-04-08 | 1182 | 336 | 

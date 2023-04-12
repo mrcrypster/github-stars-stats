@@ -1,6 +1,6 @@
 # pbatard/Fido - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1823 | 177 | 
 | 2023-04-10 | 1823 | 177 | 
 | 2023-04-09 | 1821 | 177 | 
 | 2023-04-08 | 1818 | 177 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1790 | 174 | 
 | 2023-03-14 | 1786 | 174 | 
 | 2023-03-13 | 1785 | 174 | 
-| 2023-03-12 | 1783 | 173 | 
 

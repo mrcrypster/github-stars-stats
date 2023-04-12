@@ -1,8 +1,8 @@
 # publify/publify - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 3765
+☋ Forks: 3763
 
 ★ Stars: 1798
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1798 | 3763 | 
 | 2023-04-10 | 1798 | 3765 | 
 | 2023-04-09 | 1798 | 3765 | 
 | 2023-04-08 | 1798 | 3765 | 

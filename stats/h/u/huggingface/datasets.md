@@ -1,10 +1,10 @@
 # huggingface/datasets - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 2109
+☋ Forks: 2110
 
-★ Stars: 15764
+★ Stars: 15780
 
 [Open repository](https://github.com/huggingface/datasets)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 15780 | 2110 | 
 | 2023-04-10 | 15764 | 2109 | 
 | 2023-04-09 | 15750 | 2107 | 
 | 2023-04-08 | 15737 | 2106 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 15500 | 2064 | 
 | 2023-03-14 | 15489 | 2062 | 
 | 2023-03-13 | 15478 | 2058 | 
-| 2023-03-12 | 15464 | 2056 | 
 

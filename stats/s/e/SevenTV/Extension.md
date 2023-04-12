@@ -1,10 +1,10 @@
 # SevenTV/Extension - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/SevenTV/Extension)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 263 | 50 | 
 | 2023-04-10 | 262 | 49 | 
 | 2023-04-09 | 260 | 50 | 
 | 2023-04-08 | 259 | 49 | 

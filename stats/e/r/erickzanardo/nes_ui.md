@@ -1,10 +1,10 @@
 # erickzanardo/nes_ui - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/erickzanardo/nes_ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 125 | 7 | 
 | 2023-04-10 | 124 | 6 | 
 | 2023-04-09 | 124 | 6 | 
 | 2023-04-08 | 124 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 113 | 6 | 
 | 2023-03-15 | 113 | 6 | 
 | 2023-03-14 | 112 | 6 | 
-| 2023-03-12 | 111 | 6 | 
 

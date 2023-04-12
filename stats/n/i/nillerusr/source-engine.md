@@ -1,10 +1,10 @@
 # nillerusr/source-engine - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 105
+☋ Forks: 103
 
-★ Stars: 504
+★ Stars: 506
 
 [Open repository](https://github.com/nillerusr/source-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 506 | 103 | 
 | 2023-04-10 | 504 | 105 | 
 | 2023-04-09 | 504 | 105 | 
 | 2023-04-08 | 503 | 105 | 

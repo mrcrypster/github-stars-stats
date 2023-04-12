@@ -1,10 +1,10 @@
 # jklepatch/eattheblocks - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3213
 
-★ Stars: 3856
+★ Stars: 3858
 
 [Open repository](https://github.com/jklepatch/eattheblocks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3858 | 3213 | 
 | 2023-04-11 | 3856 | 3213 | 
 | 2023-04-09 | 3854 | 3212 | 
 | 2023-04-08 | 3854 | 3212 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 3841 | 3196 | 
 | 2023-03-14 | 3840 | 3196 | 
 | 2023-03-13 | 3839 | 3197 | 
-| 2023-03-12 | 3837 | 3197 | 
 

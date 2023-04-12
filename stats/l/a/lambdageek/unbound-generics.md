@@ -1,6 +1,6 @@
 # lambdageek/unbound-generics - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 51 | 14 | 
 | 2023-04-10 | 51 | 14 | 
 | 2023-04-09 | 51 | 14 | 
 | 2023-04-08 | 51 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 52 | 14 | 
 | 2023-03-14 | 52 | 14 | 
 | 2023-03-13 | 52 | 14 | 
-| 2023-03-12 | 52 | 14 | 
 

@@ -1,6 +1,6 @@
 # nichealpham/minishop-composer - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 92 | 44 | 
 | 2023-04-10 | 92 | 44 | 
 | 2023-04-09 | 92 | 44 | 
 | 2023-04-08 | 92 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 91 | 43 | 
 | 2023-03-15 | 91 | 43 | 
 | 2023-03-13 | 90 | 41 | 
-| 2023-03-12 | 88 | 41 | 
 

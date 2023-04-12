@@ -1,10 +1,10 @@
 # facebook/buck2 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 81
+☋ Forks: 83
 
-★ Stars: 1908
+★ Stars: 2013
 
 [Open repository](https://github.com/facebook/buck2)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 1908 | 81 | 
+| 2023-04-12 | 2013 | 83 | 
+| 2023-04-11 | 2008 | 82 | 
 | 2023-04-10 | 1892 | 81 | 
 | 2023-04-09 | 1700 | 71 | 
 | 2023-04-08 | 1434 | 57 | 

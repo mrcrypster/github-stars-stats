@@ -1,6 +1,6 @@
 # naveenanimation20/PageObjectModel - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 1140
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 441 | 1140 | 
 | 2023-04-10 | 441 | 1140 | 
 | 2023-04-09 | 441 | 1140 | 
 | 2023-04-08 | 441 | 1139 | 

@@ -1,10 +1,10 @@
 # bluxmit/alnoda-workspaces - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 1149
+★ Stars: 1148
 
 [Open repository](https://github.com/bluxmit/alnoda-workspaces)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1148 | 108 | 
 | 2023-04-10 | 1149 | 107 | 
 | 2023-04-09 | 1149 | 107 | 
 | 2023-04-08 | 1149 | 107 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1146 | 106 | 
 | 2023-03-14 | 1145 | 106 | 
 | 2023-03-13 | 1145 | 104 | 
-| 2023-03-12 | 1144 | 104 | 
 

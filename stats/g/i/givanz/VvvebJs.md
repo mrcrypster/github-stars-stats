@@ -1,10 +1,10 @@
 # givanz/VvvebJs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1338
+☋ Forks: 1339
 
-★ Stars: 5473
+★ Stars: 5474
 
 [Open repository](https://github.com/givanz/VvvebJs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 5474 | 1339 | 
 | 2023-04-10 | 5473 | 1338 | 
 | 2023-04-09 | 5469 | 1337 | 
 | 2023-04-08 | 5465 | 1336 | 

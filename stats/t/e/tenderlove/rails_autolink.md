@@ -1,8 +1,8 @@
 # tenderlove/rails_autolink - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 98
+☋ Forks: 97
 
 ★ Stars: 547
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 547 | 97 | 
 | 2023-04-10 | 547 | 98 | 
 | 2023-04-09 | 546 | 98 | 
 | 2023-04-08 | 546 | 98 | 

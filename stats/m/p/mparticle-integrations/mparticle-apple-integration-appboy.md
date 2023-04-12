@@ -1,8 +1,8 @@
 # mparticle-integrations/mparticle-apple-integration-appboy - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2 | 29 | 
 | 2023-04-10 | 2 | 28 | 
 | 2023-04-09 | 2 | 28 | 
 | 2023-04-08 | 2 | 28 | 

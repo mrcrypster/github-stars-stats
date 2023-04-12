@@ -1,10 +1,10 @@
 # hyperfiddle/electric-starter-app - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/hyperfiddle/electric-starter-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 41 | 33 | 
 | 2023-04-10 | 40 | 33 | 
 | 2023-04-09 | 40 | 33 | 
 | 2023-04-08 | 40 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 38 | 28 | 
 | 2023-03-14 | 38 | 27 | 
 | 2023-03-13 | 38 | 26 | 
-| 2023-03-12 | 38 | 26 | 
 

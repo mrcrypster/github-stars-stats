@@ -1,10 +1,10 @@
 # ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 40
+☋ Forks: 48
 
-★ Stars: 265
+★ Stars: 371
 
 [Open repository](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 371 | 48 | 
 | 2023-04-10 | 265 | 40 | 
 | 2023-04-09 | 229 | 37 | 
 | 2023-04-08 | 219 | 36 | 

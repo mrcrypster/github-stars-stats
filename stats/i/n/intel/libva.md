@@ -1,6 +1,6 @@
 # intel/libva - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 283
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 514 | 283 | 
 | 2023-04-10 | 514 | 283 | 
 | 2023-04-09 | 514 | 283 | 
 | 2023-04-08 | 513 | 283 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 504 | 277 | 
 | 2023-03-15 | 504 | 276 | 
 | 2023-03-14 | 504 | 276 | 
-| 2023-03-12 | 504 | 276 | 
 

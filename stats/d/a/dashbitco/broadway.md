@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 139
 
-★ Stars: 2061
+★ Stars: 2062
 
 [Open repository](https://github.com/dashbitco/broadway)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 2061 | 139 | 
+| 2023-04-11 | 2062 | 139 | 
 | 2023-04-10 | 2057 | 139 | 
 | 2023-04-08 | 2055 | 139 | 
 | 2023-04-07 | 2055 | 139 | 

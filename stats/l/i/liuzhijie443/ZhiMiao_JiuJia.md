@@ -1,6 +1,6 @@
 # liuzhijie443/ZhiMiao_JiuJia - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 308 | 72 | 
 | 2023-04-10 | 308 | 72 | 
 | 2023-04-09 | 308 | 73 | 
 | 2023-04-08 | 308 | 73 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 304 | 73 | 
 | 2023-03-14 | 303 | 73 | 
 | 2023-03-13 | 302 | 73 | 
-| 2023-03-12 | 299 | 73 | 
 

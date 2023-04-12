@@ -1,10 +1,10 @@
 # tmm/wagmi - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 538
+☋ Forks: 540
 
-★ Stars: 4253
+★ Stars: 4257
 
 [Open repository](https://github.com/tmm/wagmi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4257 | 540 | 
 | 2023-04-10 | 4253 | 538 | 
 | 2023-04-09 | 4250 | 537 | 
 | 2023-04-08 | 4245 | 537 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 4134 | 507 | 
 | 2023-03-16 | 4126 | 506 | 
 | 2023-03-14 | 4113 | 506 | 
-| 2023-03-13 | 4109 | 508 | 
 

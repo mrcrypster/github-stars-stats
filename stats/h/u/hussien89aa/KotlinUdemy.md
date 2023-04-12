@@ -1,10 +1,10 @@
 # hussien89aa/KotlinUdemy - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 5083
+☋ Forks: 5084
 
-★ Stars: 1606
+★ Stars: 1607
 
 [Open repository](https://github.com/hussien89aa/KotlinUdemy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1607 | 5084 | 
 | 2023-04-10 | 1606 | 5083 | 
 | 2023-04-09 | 1606 | 5082 | 
 | 2023-04-08 | 1607 | 5082 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1592 | 5075 | 
 | 2023-03-15 | 1590 | 5075 | 
 | 2023-03-13 | 1588 | 5076 | 
-| 2023-03-12 | 1587 | 5075 | 
 

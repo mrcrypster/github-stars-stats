@@ -1,10 +1,10 @@
 # crazy-max/docker-jetbrains-license-server - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 310
 
-★ Stars: 1178
+★ Stars: 1180
 
 [Open repository](https://github.com/crazy-max/docker-jetbrains-license-server)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1180 | 310 | 
 | 2023-04-10 | 1178 | 310 | 
 | 2023-04-09 | 1177 | 310 | 
 | 2023-04-08 | 1178 | 310 | 

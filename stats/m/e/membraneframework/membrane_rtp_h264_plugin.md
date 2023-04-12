@@ -1,10 +1,10 @@
 # membraneframework/membrane_rtp_h264_plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/membraneframework/membrane_rtp_h264_plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5 | 1 | 
 | 2023-04-11 | 6 | 1 | 
 | 2023-04-09 | 6 | 1 | 
 | 2023-04-08 | 6 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 7 | 1 | 
 | 2023-03-14 | 7 | 1 | 
 | 2023-03-13 | 7 | 1 | 
-| 2023-03-12 | 7 | 1 | 
 

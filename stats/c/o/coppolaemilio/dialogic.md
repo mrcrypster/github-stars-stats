@@ -1,10 +1,10 @@
 # coppolaemilio/dialogic - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 149
+☋ Forks: 151
 
-★ Stars: 2201
+★ Stars: 2208
 
 [Open repository](https://github.com/coppolaemilio/dialogic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2208 | 151 | 
 | 2023-04-10 | 2201 | 149 | 
 | 2023-04-09 | 2197 | 149 | 
 | 2023-04-08 | 2195 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 2155 | 147 | 
 | 2023-03-14 | 2156 | 147 | 
 | 2023-03-13 | 2157 | 147 | 
-| 2023-03-12 | 2154 | 147 | 
 

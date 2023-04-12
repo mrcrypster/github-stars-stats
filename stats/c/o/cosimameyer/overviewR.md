@@ -1,10 +1,10 @@
 # cosimameyer/overviewR - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/cosimameyer/overviewR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 42 | 7 | 
 | 2023-04-10 | 41 | 7 | 
 | 2023-04-09 | 41 | 7 | 
 | 2023-04-08 | 41 | 7 | 

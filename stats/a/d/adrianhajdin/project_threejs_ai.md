@@ -1,10 +1,10 @@
 # adrianhajdin/project_threejs_ai - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 53
+☋ Forks: 55
 
-★ Stars: 175
+★ Stars: 185
 
 [Open repository](https://github.com/adrianhajdin/project_threejs_ai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 185 | 55 | 
 | 2023-04-10 | 175 | 53 | 
 | 2023-04-09 | 169 | 48 | 
 | 2023-04-08 | 156 | 46 | 

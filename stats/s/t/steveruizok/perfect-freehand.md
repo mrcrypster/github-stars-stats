@@ -1,10 +1,10 @@
 # steveruizok/perfect-freehand - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 114
+☋ Forks: 117
 
-★ Stars: 3346
+★ Stars: 3374
 
 [Open repository](https://github.com/steveruizok/perfect-freehand)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 3374 | 117 | 
 | 2023-04-10 | 3346 | 114 | 
 | 2023-04-09 | 3346 | 114 | 
 | 2023-04-08 | 3344 | 114 | 

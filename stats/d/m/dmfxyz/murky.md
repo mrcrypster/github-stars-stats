@@ -1,10 +1,10 @@
 # dmfxyz/murky - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 16
 
-★ Stars: 223
+★ Stars: 226
 
 [Open repository](https://github.com/dmfxyz/murky)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 226 | 16 | 
+| 2023-04-11 | 225 | 16 | 
 | 2023-04-10 | 223 | 16 | 
 | 2023-04-09 | 223 | 16 | 
 | 2023-04-08 | 223 | 16 | 
@@ -39,5 +41,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 219 | 14 | 
 | 2023-03-14 | 219 | 14 | 
 | 2023-03-13 | 218 | 14 | 
-| 2023-03-12 | 218 | 14 | 
 

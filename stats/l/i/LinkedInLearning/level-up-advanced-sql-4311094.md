@@ -1,8 +1,8 @@
 # LinkedInLearning/level-up-advanced-sql-4311094 - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 5 | 32 | 
 | 2023-04-10 | 5 | 31 | 
 | 2023-04-09 | 5 | 31 | 
 | 2023-04-08 | 5 | 31 | 

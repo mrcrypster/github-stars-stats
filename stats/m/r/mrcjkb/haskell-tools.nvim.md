@@ -1,10 +1,10 @@
 # mrcjkb/haskell-tools.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 10
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/mrcjkb/haskell-tools.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 201 | 10 | 
 | 2023-04-10 | 200 | 10 | 
 | 2023-04-09 | 200 | 10 | 
 | 2023-04-08 | 199 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 189 | 10 | 
 | 2023-03-15 | 189 | 10 | 
 | 2023-03-13 | 187 | 10 | 
-| 2023-03-12 | 186 | 10 | 
 

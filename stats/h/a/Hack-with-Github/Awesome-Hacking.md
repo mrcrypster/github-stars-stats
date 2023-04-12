@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 8436
 
-★ Stars: 63568
+★ Stars: 63580
 
 [Open repository](https://github.com/Hack-with-Github/Awesome-Hacking)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 63568 | 8436 | 
+| 2023-04-11 | 63580 | 8436 | 
 | 2023-04-10 | 63564 | 8436 | 
 | 2023-04-09 | 63509 | 8435 | 
 | 2023-04-08 | 63469 | 8430 | 

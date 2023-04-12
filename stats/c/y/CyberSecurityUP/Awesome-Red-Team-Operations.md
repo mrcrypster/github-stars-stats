@@ -1,6 +1,6 @@
 # CyberSecurityUP/Awesome-Red-Team-Operations - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 574 | 146 | 
 | 2023-04-10 | 574 | 146 | 
 | 2023-04-09 | 574 | 146 | 
 | 2023-04-08 | 574 | 146 | 

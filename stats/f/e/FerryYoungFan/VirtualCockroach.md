@@ -1,6 +1,6 @@
 # FerryYoungFan/VirtualCockroach - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 473 | 39 | 
 | 2023-04-10 | 473 | 39 | 
 | 2023-04-09 | 473 | 39 | 
 | 2023-04-08 | 473 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 471 | 39 | 
 | 2023-03-14 | 471 | 39 | 
 | 2023-03-13 | 471 | 39 | 
-| 2023-03-12 | 471 | 39 | 
 

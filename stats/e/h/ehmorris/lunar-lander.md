@@ -1,10 +1,10 @@
 # ehmorris/lunar-lander - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/ehmorris/lunar-lander)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 130 | 11 | 
 | 2023-04-10 | 129 | 11 | 
 | 2023-04-09 | 129 | 11 | 
 | 2023-04-08 | 129 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 122 | 9 | 
 | 2023-03-14 | 122 | 9 | 
 | 2023-03-13 | 122 | 9 | 
-| 2023-03-12 | 117 | 8 | 
 

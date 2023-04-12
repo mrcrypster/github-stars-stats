@@ -1,10 +1,10 @@
 # redteamguides/redteamguides.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/redteamguides/redteamguides.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 92 | 14 | 
 | 2023-04-10 | 91 | 14 | 
 | 2023-04-09 | 89 | 14 | 
 | 2023-04-08 | 88 | 14 | 

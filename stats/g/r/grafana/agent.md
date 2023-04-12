@@ -1,10 +1,10 @@
 # grafana/agent - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 302
+☋ Forks: 304
 
-★ Stars: 1041
+★ Stars: 1042
 
 [Open repository](https://github.com/grafana/agent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1042 | 304 | 
 | 2023-04-10 | 1041 | 302 | 
 | 2023-04-09 | 1041 | 302 | 
 | 2023-04-08 | 1041 | 302 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 993 | 292 | 
 | 2023-03-15 | 993 | 291 | 
 | 2023-03-14 | 989 | 287 | 
-| 2023-03-12 | 986 | 287 | 
 

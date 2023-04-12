@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 87
 
-★ Stars: 217
+★ Stars: 216
 
 [Open repository](https://github.com/BobCoderS9/Bob-Theme-Argon)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 217 | 87 | 
+| 2023-04-11 | 216 | 87 | 
 | 2023-04-10 | 217 | 87 | 
 | 2023-04-08 | 216 | 87 | 
 | 2023-04-07 | 216 | 86 | 
@@ -35,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 210 | 81 | 
 | 2023-03-14 | 209 | 81 | 
 | 2023-03-13 | 208 | 81 | 
-| 2023-03-12 | 206 | 80 | 
 

@@ -1,8 +1,8 @@
 # bravekingzhang/flutter_chat_box - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 34 | 12 | 
 | 2023-04-10 | 34 | 11 | 
 | 2023-04-09 | 33 | 11 | 
 | 2023-04-08 | 30 | 11 | 

@@ -1,10 +1,10 @@
 # Misaka-blog/Alist-for-CodeSandbox - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Misaka-blog/Alist-for-CodeSandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 7 | 9 | 
 | 2023-04-10 | 6 | 8 | 
 | 2023-04-09 | 5 | 7 | 
 | 2023-04-08 | 5 | 7 | 

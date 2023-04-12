@@ -1,8 +1,8 @@
 # spryker/spryker-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 77
+☋ Forks: 76
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 8 | 76 | 
 | 2023-04-10 | 8 | 77 | 
 | 2023-04-09 | 8 | 77 | 
 | 2023-04-08 | 8 | 77 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 8 | 76 | 
 | 2023-03-15 | 8 | 76 | 
 | 2023-03-14 | 8 | 75 | 
-| 2023-03-13 | 8 | 75 | 
 

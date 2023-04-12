@@ -1,6 +1,6 @@
 # AngryGroceries/Apex_Superglide_Practice_Tool - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 14 | 5 | 
 | 2023-04-10 | 14 | 5 | 
 | 2023-04-09 | 14 | 5 | 
 | 2023-04-08 | 14 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 12 | 4 | 
 | 2023-03-15 | 11 | 4 | 
 | 2023-03-13 | 11 | 4 | 
-| 2023-03-12 | 11 | 4 | 
 

@@ -1,10 +1,10 @@
 # SkalskiP/courses - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 60
+☋ Forks: 62
 
-★ Stars: 1032
+★ Stars: 1049
 
 [Open repository](https://github.com/SkalskiP/courses)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1049 | 62 | 
 | 2023-04-10 | 1032 | 60 | 
 | 2023-04-09 | 1006 | 60 | 
 | 2023-04-08 | 977 | 60 | 

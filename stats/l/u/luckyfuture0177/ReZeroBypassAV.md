@@ -1,10 +1,10 @@
 # luckyfuture0177/ReZeroBypassAV - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 51
 
-★ Stars: 360
+★ Stars: 361
 
 [Open repository](https://github.com/luckyfuture0177/ReZeroBypassAV)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 361 | 51 | 
 | 2023-04-11 | 360 | 51 | 
 | 2023-04-09 | 359 | 51 | 
 | 2023-04-08 | 359 | 51 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 356 | 50 | 
 | 2023-03-15 | 356 | 50 | 
 | 2023-03-14 | 356 | 50 | 
-| 2023-03-12 | 356 | 50 | 
 

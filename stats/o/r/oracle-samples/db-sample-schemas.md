@@ -1,8 +1,8 @@
 # oracle-samples/db-sample-schemas - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
-☋ Forks: 476
+☋ Forks: 477
 
 ★ Stars: 579
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 579 | 477 | 
+| 2023-04-11 | 579 | 477 | 
 | 2023-04-10 | 579 | 476 | 
 | 2023-04-09 | 579 | 476 | 
 | 2023-04-08 | 579 | 476 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 573 | 475 | 
 | 2023-03-14 | 574 | 474 | 
 | 2023-03-13 | 572 | 474 | 
-| 2023-03-12 | 572 | 474 | 
 

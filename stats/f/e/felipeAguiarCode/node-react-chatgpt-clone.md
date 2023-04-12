@@ -1,10 +1,10 @@
 # felipeAguiarCode/node-react-chatgpt-clone - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 55
+☋ Forks: 54
 
-★ Stars: 80
+★ Stars: 82
 
 [Open repository](https://github.com/felipeAguiarCode/node-react-chatgpt-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 82 | 54 | 
 | 2023-04-10 | 80 | 55 | 
 | 2023-04-09 | 80 | 55 | 
 | 2023-04-08 | 79 | 55 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 68 | 50 | 
 | 2023-03-14 | 65 | 47 | 
 | 2023-03-13 | 61 | 46 | 
-| 2023-03-12 | 60 | 43 | 
 

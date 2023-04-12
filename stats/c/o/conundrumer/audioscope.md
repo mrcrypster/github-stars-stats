@@ -1,6 +1,6 @@
 # conundrumer/audioscope - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 247 | 15 | 
 | 2023-04-10 | 247 | 15 | 
 | 2023-04-09 | 247 | 15 | 
 | 2023-04-08 | 247 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 246 | 14 | 
 | 2023-03-15 | 246 | 14 | 
 | 2023-03-14 | 246 | 14 | 
-| 2023-03-13 | 246 | 14 | 
 

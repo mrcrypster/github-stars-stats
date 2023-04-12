@@ -1,6 +1,6 @@
 # the-nix-way/nome - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 103 | 9 | 
 | 2023-04-10 | 103 | 9 | 
 | 2023-04-09 | 101 | 9 | 
 | 2023-04-08 | 100 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 91 | 7 | 
 | 2023-03-14 | 91 | 7 | 
 | 2023-03-13 | 91 | 7 | 
-| 2023-03-12 | 90 | 7 | 
 

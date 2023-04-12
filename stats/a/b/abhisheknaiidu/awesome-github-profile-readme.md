@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 11
 
-☋ Forks: 3070
+☋ Forks: 3072
 
-★ Stars: 17432
+★ Stars: 17442
 
 [Open repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 17432 | 3070 | 
+| 2023-04-11 | 17442 | 3072 | 
 | 2023-04-10 | 17428 | 3070 | 
 | 2023-04-09 | 17403 | 3068 | 
 | 2023-04-08 | 17384 | 3065 | 

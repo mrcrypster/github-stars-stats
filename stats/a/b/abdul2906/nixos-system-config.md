@@ -1,8 +1,8 @@
 # abdul2906/nixos-system-config - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 38 | 4 | 
 | 2023-04-10 | 38 | 3 | 
 | 2023-04-09 | 38 | 3 | 
 | 2023-04-08 | 38 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 35 | 1 | 
 | 2023-03-15 | 35 | 1 | 
 | 2023-03-14 | 34 | 1 | 
-| 2023-03-13 | 34 | 1 | 
 

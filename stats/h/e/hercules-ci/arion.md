@@ -1,6 +1,6 @@
 # hercules-ci/arion - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 387 | 34 | 
 | 2023-04-10 | 387 | 34 | 
 | 2023-04-09 | 386 | 34 | 
 | 2023-04-08 | 387 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 376 | 33 | 
 | 2023-03-15 | 374 | 33 | 
 | 2023-03-13 | 373 | 33 | 
-| 2023-03-12 | 373 | 33 | 
 

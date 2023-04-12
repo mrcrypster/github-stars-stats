@@ -1,6 +1,6 @@
 # palantir/gradle-shadow-jar - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 11 | 2 | 
 | 2023-04-10 | 11 | 2 | 
 | 2023-04-09 | 11 | 2 | 
 | 2023-04-08 | 11 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 12 | 2 | 
 | 2023-03-15 | 12 | 2 | 
 | 2023-03-13 | 12 | 2 | 
-| 2023-03-12 | 12 | 2 | 
 

@@ -1,10 +1,10 @@
 # m1guelpf/browser-agent - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 39
 
-★ Stars: 501
+★ Stars: 506
 
 [Open repository](https://github.com/m1guelpf/browser-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 506 | 39 | 
 | 2023-04-10 | 501 | 39 | 
 | 2023-04-09 | 494 | 39 | 
 | 2023-04-08 | 491 | 37 | 

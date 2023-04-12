@@ -1,8 +1,8 @@
 # pinkmoonfinance/pinksale-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 53
+☋ Forks: 55
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 22 | 55 | 
 | 2023-04-10 | 22 | 53 | 
 | 2023-04-09 | 22 | 53 | 
 | 2023-04-08 | 22 | 53 | 

@@ -1,10 +1,10 @@
 # wagiminator/CH552-USB-Knob - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/wagiminator/CH552-USB-Knob)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 107 | 6 | 
 | 2023-04-10 | 106 | 6 | 
 | 2023-04-09 | 106 | 6 | 
 | 2023-04-08 | 106 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 99 | 5 | 
 | 2023-03-15 | 99 | 5 | 
 | 2023-03-13 | 99 | 5 | 
-| 2023-03-12 | 99 | 4 | 
 

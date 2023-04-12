@@ -1,6 +1,6 @@
 # SIFalcon/Detection - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 18 | 6 | 
 | 2023-04-11 | 18 | 6 | 
 | 2023-04-09 | 18 | 6 | 
 | 2023-04-08 | 18 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 16 | 6 | 
 | 2023-03-14 | 16 | 6 | 
 | 2023-03-13 | 16 | 6 | 
-| 2023-03-12 | 16 | 6 | 
 

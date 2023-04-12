@@ -1,10 +1,10 @@
 # KhronosGroup/OpenCL-Guide - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 40
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/KhronosGroup/OpenCL-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 268 | 40 | 
 | 2023-04-10 | 267 | 40 | 
 | 2023-04-09 | 266 | 40 | 
 | 2023-04-08 | 266 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 254 | 40 | 
 | 2023-03-14 | 253 | 40 | 
 | 2023-03-13 | 251 | 40 | 
-| 2023-03-12 | 250 | 40 | 
 

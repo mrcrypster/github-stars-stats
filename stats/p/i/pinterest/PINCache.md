@@ -1,10 +1,10 @@
 # pinterest/PINCache - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 360
 
-★ Stars: 2601
+★ Stars: 2602
 
 [Open repository](https://github.com/pinterest/PINCache)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2602 | 360 | 
 | 2023-04-10 | 2601 | 360 | 
 | 2023-04-09 | 2601 | 359 | 
 | 2023-04-08 | 2601 | 358 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 2599 | 356 | 
 | 2023-03-15 | 2599 | 356 | 
 | 2023-03-13 | 2599 | 356 | 
-| 2023-03-12 | 2599 | 356 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 11
 
-☋ Forks: 434
+☋ Forks: 432
 
-★ Stars: 3565
+★ Stars: 3564
 
 [Open repository](https://github.com/turbolinks/turbolinks-classic)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 3565 | 434 | 
+| 2023-04-11 | 3564 | 432 | 
 | 2023-04-10 | 3565 | 434 | 
 | 2023-04-08 | 3565 | 434 | 
 | 2023-04-07 | 3565 | 434 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-15 | 3564 | 433 | 
 | 2023-03-14 | 3564 | 433 | 
 | 2023-03-13 | 3564 | 433 | 
-| 2023-03-12 | 3564 | 433 | 
 

@@ -1,6 +1,6 @@
 # NianBroken/Personal_Sakura_Guide_Page - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 111 | 33 | 
 | 2023-04-10 | 111 | 33 | 
 | 2023-04-09 | 110 | 33 | 
 | 2023-04-08 | 109 | 33 | 

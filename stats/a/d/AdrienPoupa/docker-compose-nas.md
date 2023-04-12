@@ -1,10 +1,10 @@
 # AdrienPoupa/docker-compose-nas - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/AdrienPoupa/docker-compose-nas)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 312 | 12 | 
 | 2023-04-10 | 311 | 12 | 
 | 2023-04-09 | 311 | 11 | 
 | 2023-04-08 | 310 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 292 | 7 | 
 | 2023-03-14 | 289 | 7 | 
 | 2023-03-13 | 287 | 7 | 
-| 2023-03-12 | 284 | 7 | 
 

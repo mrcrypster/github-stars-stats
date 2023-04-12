@@ -1,10 +1,10 @@
 # Metabolix/HackBGRT - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 226
 
-★ Stars: 1605
+★ Stars: 1606
 
 [Open repository](https://github.com/Metabolix/HackBGRT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1606 | 226 | 
 | 2023-04-10 | 1605 | 226 | 
 | 2023-04-09 | 1604 | 226 | 
 | 2023-04-08 | 1602 | 226 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1567 | 227 | 
 | 2023-03-15 | 1563 | 227 | 
 | 2023-03-14 | 1561 | 227 | 
-| 2023-03-12 | 1563 | 227 | 
 

@@ -1,8 +1,8 @@
 # KelvinTegelaar/CIPP-API - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 2124
+☋ Forks: 2126
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 100 | 2126 | 
 | 2023-04-10 | 100 | 2124 | 
 | 2023-04-09 | 100 | 2122 | 
 | 2023-04-08 | 99 | 2122 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 94 | 2034 | 
 | 2023-03-14 | 94 | 2026 | 
 | 2023-03-13 | 94 | 2014 | 
-| 2023-03-12 | 94 | 2014 | 
 

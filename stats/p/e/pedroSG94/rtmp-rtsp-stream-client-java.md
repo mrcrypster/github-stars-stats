@@ -1,10 +1,10 @@
 # pedroSG94/rtmp-rtsp-stream-client-java - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 662
 
-★ Stars: 1987
+★ Stars: 1988
 
 [Open repository](https://github.com/pedroSG94/rtmp-rtsp-stream-client-java)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1988 | 662 | 
 | 2023-04-11 | 1987 | 662 | 
 | 2023-04-09 | 1986 | 662 | 
 | 2023-04-08 | 1985 | 661 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1971 | 655 | 
 | 2023-03-15 | 1971 | 655 | 
 | 2023-03-14 | 1967 | 653 | 
-| 2023-03-13 | 1966 | 653 | 
 

@@ -1,10 +1,10 @@
 # KristofferC/TimerOutputs.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 47
 
-★ Stars: 560
+★ Stars: 561
 
 [Open repository](https://github.com/KristofferC/TimerOutputs.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 561 | 47 | 
 | 2023-04-10 | 560 | 47 | 
 | 2023-04-09 | 560 | 47 | 
 | 2023-04-08 | 559 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 559 | 47 | 
 | 2023-03-15 | 559 | 47 | 
 | 2023-03-13 | 558 | 47 | 
-| 2023-03-12 | 558 | 47 | 
 

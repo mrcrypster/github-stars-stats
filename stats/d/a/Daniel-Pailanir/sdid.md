@@ -1,6 +1,6 @@
 # Daniel-Pailanir/sdid - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 45 | 22 | 
 | 2023-04-10 | 45 | 22 | 
 | 2023-04-09 | 45 | 22 | 
 | 2023-04-08 | 45 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 41 | 21 | 
 | 2023-03-15 | 41 | 21 | 
 | 2023-03-13 | 41 | 21 | 
-| 2023-03-12 | 41 | 21 | 
 

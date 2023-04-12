@@ -1,10 +1,10 @@
 # google/ksp - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 209
 
-★ Stars: 2048
+★ Stars: 2049
 
 [Open repository](https://github.com/google/ksp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2049 | 209 | 
 | 2023-04-10 | 2048 | 209 | 
 | 2023-04-09 | 2048 | 208 | 
 | 2023-04-07 | 2045 | 208 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 2019 | 204 | 
 | 2023-03-14 | 2015 | 204 | 
 | 2023-03-13 | 2014 | 204 | 
-| 2023-03-12 | 2013 | 204 | 
 

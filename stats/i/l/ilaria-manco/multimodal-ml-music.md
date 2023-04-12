@@ -1,10 +1,10 @@
 # ilaria-manco/multimodal-ml-music - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/ilaria-manco/multimodal-ml-music)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 210 | 11 | 
 | 2023-04-10 | 209 | 11 | 
 | 2023-04-09 | 209 | 11 | 
 | 2023-04-08 | 209 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 198 | 11 | 
 | 2023-03-14 | 198 | 11 | 
 | 2023-03-13 | 198 | 11 | 
-| 2023-03-12 | 198 | 11 | 
 

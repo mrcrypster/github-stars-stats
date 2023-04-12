@@ -1,10 +1,10 @@
 # zhong1016/feastogether - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 36
 
-★ Stars: 156
+★ Stars: 160
 
 [Open repository](https://github.com/zhong1016/feastogether)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 160 | 36 | 
 | 2023-04-10 | 156 | 36 | 
 | 2023-04-09 | 156 | 36 | 
 | 2023-04-08 | 156 | 36 | 

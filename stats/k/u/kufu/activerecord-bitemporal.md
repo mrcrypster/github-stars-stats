@@ -1,10 +1,10 @@
 # kufu/activerecord-bitemporal - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 37
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/kufu/activerecord-bitemporal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 167 | 37 | 
 | 2023-04-10 | 166 | 37 | 
 | 2023-04-09 | 166 | 37 | 
 | 2023-04-08 | 166 | 37 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 165 | 37 | 
 | 2023-03-15 | 164 | 37 | 
 | 2023-03-14 | 164 | 37 | 
-| 2023-03-12 | 164 | 37 | 
 

@@ -1,10 +1,10 @@
 # microsoft/semantic-kernel - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 473
+☋ Forks: 482
 
-★ Stars: 4703
+★ Stars: 4759
 
 [Open repository](https://github.com/microsoft/semantic-kernel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 4759 | 482 | 
 | 2023-04-10 | 4703 | 473 | 
 | 2023-04-09 | 4659 | 468 | 
 | 2023-04-08 | 4610 | 466 | 

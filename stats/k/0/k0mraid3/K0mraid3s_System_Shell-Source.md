@@ -1,6 +1,6 @@
 # k0mraid3/K0mraid3s_System_Shell-Source - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 33 | 10 | 
 | 2023-04-11 | 33 | 10 | 
 | 2023-04-10 | 33 | 10 | 
 | 2023-04-08 | 33 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 31 | 8 | 
 | 2023-03-15 | 30 | 8 | 
 | 2023-03-13 | 30 | 8 | 
-| 2023-03-12 | 30 | 8 | 
 

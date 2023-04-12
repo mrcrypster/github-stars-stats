@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/anthonyaxenov/iptv)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 10 | 5 | 
+| 2023-04-11 | 11 | 5 | 
 | 2023-04-10 | 10 | 5 | 
 | 2023-04-09 | 10 | 5 | 
 | 2023-04-08 | 10 | 5 | 

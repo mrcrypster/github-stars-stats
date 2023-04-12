@@ -1,10 +1,10 @@
 # yihong0618/xiaogpt - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 320
+☋ Forks: 328
 
-★ Stars: 2641
+★ Stars: 2668
 
 [Open repository](https://github.com/yihong0618/xiaogpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 2668 | 328 | 
 | 2023-04-10 | 2641 | 320 | 
 | 2023-04-09 | 2612 | 315 | 
 | 2023-04-08 | 2585 | 309 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 1713 | 169 | 
 | 2023-03-15 | 1657 | 162 | 
 | 2023-03-14 | 1581 | 157 | 
-| 2023-03-12 | 1524 | 152 | 
 

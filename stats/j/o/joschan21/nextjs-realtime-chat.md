@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 11
 
-☋ Forks: 14
+☋ Forks: 17
 
-★ Stars: 84
+★ Stars: 90
 
 [Open repository](https://github.com/joschan21/nextjs-realtime-chat)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 84 | 14 | 
+| 2023-04-11 | 90 | 17 | 
 | 2023-04-10 | 79 | 13 | 
 

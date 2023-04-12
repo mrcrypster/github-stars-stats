@@ -1,10 +1,10 @@
 # hwchase17/langchain-hub - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 83
+☋ Forks: 86
 
-★ Stars: 1030
+★ Stars: 1068
 
 [Open repository](https://github.com/hwchase17/langchain-hub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1068 | 86 | 
 | 2023-04-10 | 1030 | 83 | 
 | 2023-04-09 | 1001 | 73 | 
 | 2023-04-08 | 982 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 580 | 34 | 
 | 2023-03-15 | 562 | 32 | 
 | 2023-03-14 | 550 | 32 | 
-| 2023-03-13 | 535 | 30 | 
 

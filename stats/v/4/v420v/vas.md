@@ -1,10 +1,10 @@
 # v420v/vas - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/v420v/vas)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 41 | 4 | 
 | 2023-04-10 | 42 | 4 | 
 | 2023-04-09 | 42 | 4 | 
 | 2023-04-08 | 42 | 4 | 

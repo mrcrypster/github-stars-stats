@@ -1,6 +1,6 @@
 # tree-sitter/tree-sitter-json - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 75 | 32 | 
 | 2023-04-10 | 75 | 32 | 
 | 2023-04-09 | 74 | 32 | 
 | 2023-04-08 | 74 | 32 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 71 | 32 | 
 | 2023-03-14 | 71 | 32 | 
 | 2023-03-13 | 71 | 31 | 
-| 2023-03-12 | 70 | 31 | 
 

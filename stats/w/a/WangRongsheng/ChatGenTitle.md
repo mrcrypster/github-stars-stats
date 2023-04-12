@@ -1,10 +1,10 @@
 # WangRongsheng/ChatGenTitle - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 238
+★ Stars: 247
 
 [Open repository](https://github.com/WangRongsheng/ChatGenTitle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 247 | 15 | 
 | 2023-04-10 | 238 | 13 | 
 | 2023-04-09 | 223 | 12 | 
 | 2023-04-08 | 213 | 12 | 

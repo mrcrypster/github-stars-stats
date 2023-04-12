@@ -1,6 +1,6 @@
 # Ormicron/Sharp-dumpkey - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 387 | 61 | 
 | 2023-04-10 | 387 | 61 | 
 | 2023-04-09 | 386 | 61 | 
 | 2023-04-08 | 386 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 376 | 61 | 
 | 2023-03-14 | 374 | 61 | 
 | 2023-03-13 | 374 | 61 | 
-| 2023-03-12 | 374 | 61 | 
 

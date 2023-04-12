@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 11
 
 ☋ Forks: 63
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/dylanshine/openai-kit)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-11 | 402 | 63 | 
+| 2023-04-11 | 403 | 63 | 
 | 2023-04-10 | 399 | 63 | 
 | 2023-04-09 | 395 | 63 | 
 | 2023-04-08 | 392 | 62 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 252 | 45 | 
 | 2023-03-14 | 234 | 42 | 
 | 2023-03-13 | 230 | 42 | 
-| 2023-03-12 | 228 | 42 | 
 

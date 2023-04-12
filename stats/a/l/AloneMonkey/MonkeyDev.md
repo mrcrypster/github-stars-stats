@@ -1,10 +1,10 @@
 # AloneMonkey/MonkeyDev - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 1099
+☋ Forks: 1100
 
-★ Stars: 6046
+★ Stars: 6048
 
 [Open repository](https://github.com/AloneMonkey/MonkeyDev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 6048 | 1100 | 
 | 2023-04-10 | 6046 | 1099 | 
 | 2023-04-09 | 6044 | 1095 | 
 | 2023-04-08 | 6043 | 1095 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 6013 | 1090 | 
 | 2023-03-14 | 6012 | 1090 | 
 | 2023-03-13 | 6008 | 1089 | 
-| 2023-03-12 | 6008 | 1089 | 
 

@@ -1,10 +1,10 @@
 # oddvalue/laravel-drafts - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 227
+★ Stars: 229
 
 [Open repository](https://github.com/oddvalue/laravel-drafts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 229 | 8 | 
 | 2023-04-10 | 227 | 8 | 
 | 2023-04-09 | 227 | 8 | 
 | 2023-04-08 | 225 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 220 | 6 | 
 | 2023-03-14 | 219 | 6 | 
 | 2023-03-13 | 219 | 7 | 
-| 2023-03-12 | 219 | 7 | 
 

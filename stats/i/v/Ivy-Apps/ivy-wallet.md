@@ -1,10 +1,10 @@
 # Ivy-Apps/ivy-wallet - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 194
+☋ Forks: 195
 
-★ Stars: 1124
+★ Stars: 1125
 
 [Open repository](https://github.com/Ivy-Apps/ivy-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1125 | 195 | 
 | 2023-04-10 | 1124 | 194 | 
 | 2023-04-09 | 1121 | 194 | 
 | 2023-04-08 | 1115 | 192 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 1050 | 180 | 
 | 2023-03-15 | 1047 | 180 | 
 | 2023-03-13 | 1044 | 181 | 
-| 2023-03-12 | 1042 | 182 | 
 

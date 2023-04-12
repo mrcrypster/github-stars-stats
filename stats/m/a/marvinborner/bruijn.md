@@ -1,0 +1,17 @@
+# marvinborner/bruijn - stars & forks statistics
+
+Stats updated on Apr 2023, 11
+
+☋ Forks: 1
+
+★ Stars: 20
+
+[Open repository](https://github.com/marvinborner/bruijn)
+
+[Open detailed stats for marvinborner/bruijn](https://reviewgithub.com/rep/marvinborner/bruijn)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-11 | 20 | 1 | 
+

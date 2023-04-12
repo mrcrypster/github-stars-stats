@@ -1,10 +1,10 @@
 # transmissions11/flux - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 47
 
-★ Stars: 419
+★ Stars: 428
 
 [Open repository](https://github.com/transmissions11/flux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 428 | 47 | 
 | 2023-04-10 | 419 | 47 | 
 | 2023-04-09 | 416 | 47 | 
 | 2023-04-08 | 409 | 46 | 

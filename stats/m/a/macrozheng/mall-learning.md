@@ -1,10 +1,10 @@
 # macrozheng/mall-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 8179
+☋ Forks: 8180
 
-★ Stars: 11906
+★ Stars: 11909
 
 [Open repository](https://github.com/macrozheng/mall-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 11909 | 8180 | 
 | 2023-04-10 | 11906 | 8179 | 
 | 2023-04-09 | 11900 | 8176 | 
 | 2023-04-08 | 11896 | 8174 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 11827 | 8157 | 
 | 2023-03-15 | 11821 | 8153 | 
 | 2023-03-13 | 11817 | 8150 | 
-| 2023-03-12 | 11815 | 8148 | 
 

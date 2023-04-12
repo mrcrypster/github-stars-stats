@@ -1,6 +1,6 @@
 # bikass/kora - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 484 | 26 | 
 | 2023-04-10 | 484 | 26 | 
 | 2023-04-09 | 483 | 26 | 
 | 2023-04-08 | 484 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 463 | 24 | 
 | 2023-03-14 | 461 | 24 | 
 | 2023-03-13 | 461 | 24 | 
-| 2023-03-12 | 461 | 24 | 
 

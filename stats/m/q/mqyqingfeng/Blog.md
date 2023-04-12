@@ -1,10 +1,10 @@
 # mqyqingfeng/Blog - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 4666
 
-★ Stars: 29368
+★ Stars: 29375
 
 [Open repository](https://github.com/mqyqingfeng/Blog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 29375 | 4666 | 
 | 2023-04-10 | 29368 | 4666 | 
 | 2023-04-09 | 29358 | 4665 | 
 | 2023-04-08 | 29356 | 4665 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-16 | 29211 | 4639 | 
 | 2023-03-15 | 29205 | 4635 | 
 | 2023-03-13 | 29189 | 4635 | 
-| 2023-03-12 | 29179 | 4637 | 
 

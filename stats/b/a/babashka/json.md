@@ -1,6 +1,6 @@
 # babashka/json - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 17 | 1 | 
 | 2023-04-11 | 17 | 1 | 
 | 2023-04-09 | 17 | 1 | 
 | 2023-04-08 | 17 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 16 | 1 | 
 | 2023-03-15 | 16 | 1 | 
 | 2023-03-14 | 16 | 1 | 
-| 2023-03-12 | 16 | 1 | 
 

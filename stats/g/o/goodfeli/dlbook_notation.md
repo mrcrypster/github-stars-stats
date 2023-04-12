@@ -1,10 +1,10 @@
 # goodfeli/dlbook_notation - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 320
 
-★ Stars: 1444
+★ Stars: 1445
 
 [Open repository](https://github.com/goodfeli/dlbook_notation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1445 | 320 | 
 | 2023-04-11 | 1444 | 320 | 
 | 2023-04-09 | 1444 | 320 | 
 | 2023-04-08 | 1444 | 320 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1432 | 318 | 
 | 2023-03-15 | 1432 | 318 | 
 | 2023-03-13 | 1432 | 318 | 
-| 2023-03-12 | 1431 | 318 | 
 

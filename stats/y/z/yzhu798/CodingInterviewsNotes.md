@@ -1,10 +1,10 @@
 # yzhu798/CodingInterviewsNotes - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
 ☋ Forks: 534
 
-★ Stars: 1864
+★ Stars: 1867
 
 [Open repository](https://github.com/yzhu798/CodingInterviewsNotes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 1867 | 534 | 
 | 2023-04-10 | 1864 | 534 | 
 | 2023-04-09 | 1862 | 534 | 
 | 2023-04-08 | 1862 | 534 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-17 | 1817 | 527 | 
 | 2023-03-15 | 1814 | 526 | 
 | 2023-03-14 | 1812 | 526 | 
-| 2023-03-13 | 1809 | 525 | 
 

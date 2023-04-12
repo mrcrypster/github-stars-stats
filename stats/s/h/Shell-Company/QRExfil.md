@@ -1,10 +1,10 @@
 # Shell-Company/QRExfil - stars & forks statistics
 
-Stats updated on Apr 2023, 10
+Stats updated on Apr 2023, 11
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/Shell-Company/QRExfil)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-11 | 213 | 31 | 
 | 2023-04-10 | 212 | 30 | 
 | 2023-04-09 | 208 | 30 | 
 | 2023-04-08 | 207 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 10
 | 2023-03-15 | 149 | 17 | 
 | 2023-03-14 | 147 | 17 | 
 | 2023-03-13 | 142 | 17 | 
-| 2023-03-12 | 141 | 16 | 
 
