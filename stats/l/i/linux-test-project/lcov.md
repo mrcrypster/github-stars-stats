@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 210
 
-★ Stars: 674
+★ Stars: 675
 
 [Open repository](https://github.com/linux-test-project/lcov)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 674 | 210 | 
+| 2023-04-12 | 675 | 210 | 
 | 2023-04-11 | 674 | 210 | 
 | 2023-04-10 | 672 | 210 | 
 | 2023-04-09 | 672 | 210 | 

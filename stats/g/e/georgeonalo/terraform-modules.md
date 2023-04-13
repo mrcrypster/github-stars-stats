@@ -1,8 +1,8 @@
 # georgeonalo/terraform-modules - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 18
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 18 | 19 | 
 | 2023-04-11 | 18 | 18 | 
 

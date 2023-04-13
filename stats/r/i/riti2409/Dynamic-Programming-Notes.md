@@ -1,6 +1,6 @@
 # riti2409/Dynamic-Programming-Notes - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 358 | 134 | 
 | 2023-04-11 | 358 | 134 | 
 | 2023-04-10 | 358 | 134 | 
 | 2023-04-09 | 357 | 133 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 353 | 133 | 
 | 2023-03-15 | 353 | 133 | 
 | 2023-03-14 | 354 | 133 | 
-| 2023-03-13 | 353 | 132 | 
 

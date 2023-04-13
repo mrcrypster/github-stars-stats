@@ -1,6 +1,6 @@
 # essentialdevelopercom/essential-feed-case-study - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 322 | 312 | 
 | 2023-04-11 | 322 | 312 | 
 | 2023-04-10 | 322 | 312 | 
 | 2023-04-09 | 322 | 312 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 305 | 304 | 
 | 2023-03-16 | 305 | 304 | 
 | 2023-03-15 | 305 | 304 | 
-| 2023-03-13 | 305 | 304 | 
 

@@ -1,10 +1,10 @@
 # dulaiduwang003/ChatGPT_wechat - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 103
+☋ Forks: 106
 
-★ Stars: 313
+★ Stars: 322
 
 [Open repository](https://github.com/dulaiduwang003/ChatGPT_wechat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 322 | 106 | 
 | 2023-04-11 | 313 | 103 | 
 | 2023-04-10 | 309 | 102 | 
 | 2023-04-09 | 303 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 73 | 15 | 
 | 2023-03-16 | 61 | 12 | 
 | 2023-03-14 | 53 | 11 | 
-| 2023-03-13 | 52 | 11 | 
 

@@ -1,6 +1,6 @@
 # UCSC-CSE-114A/01-haskell - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4 | 11 | 
 | 2023-04-11 | 4 | 11 | 
 | 2023-04-10 | 4 | 11 | 
 | 2023-04-09 | 4 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 4 | 11 | 
 | 2023-03-16 | 4 | 11 | 
 | 2023-03-15 | 4 | 11 | 
-| 2023-03-14 | 4 | 11 | 
 

@@ -1,10 +1,10 @@
 # cvg/limap - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 19
 
-★ Stars: 282
+★ Stars: 291
 
 [Open repository](https://github.com/cvg/limap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 291 | 19 | 
 | 2023-04-11 | 282 | 19 | 
 | 2023-04-10 | 276 | 18 | 
 | 2023-04-09 | 268 | 18 | 

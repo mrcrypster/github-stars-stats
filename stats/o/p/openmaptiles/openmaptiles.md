@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 515
+☋ Forks: 516
 
-★ Stars: 1930
+★ Stars: 1931
 
 [Open repository](https://github.com/openmaptiles/openmaptiles)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1930 | 515 | 
+| 2023-04-12 | 1931 | 516 | 
 | 2023-04-11 | 1930 | 515 | 
 | 2023-04-10 | 1923 | 514 | 
 | 2023-04-09 | 1923 | 514 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 1895 | 506 | 
 | 2023-03-15 | 1895 | 506 | 
 | 2023-03-14 | 1894 | 506 | 
-| 2023-03-13 | 1893 | 505 | 
 

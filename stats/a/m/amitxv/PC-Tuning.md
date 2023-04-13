@@ -1,10 +1,10 @@
 # amitxv/PC-Tuning - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 33
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/amitxv/PC-Tuning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 224 | 33 | 
 | 2023-04-11 | 223 | 33 | 
 | 2023-04-10 | 222 | 32 | 
 | 2023-04-09 | 221 | 32 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 198 | 30 | 
 | 2023-03-15 | 197 | 30 | 
 | 2023-03-14 | 196 | 30 | 
-| 2023-03-13 | 194 | 31 | 
 

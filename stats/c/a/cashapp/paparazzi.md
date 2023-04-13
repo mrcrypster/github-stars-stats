@@ -1,6 +1,6 @@
 # cashapp/paparazzi - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1786 | 162 | 
 | 2023-04-11 | 1786 | 162 | 
 | 2023-04-10 | 1786 | 162 | 
 | 2023-04-09 | 1786 | 162 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1761 | 159 | 
 | 2023-03-16 | 1760 | 159 | 
 | 2023-03-14 | 1758 | 159 | 
-| 2023-03-13 | 1758 | 159 | 
 

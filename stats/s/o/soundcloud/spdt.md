@@ -1,10 +1,10 @@
 # soundcloud/spdt - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 52
+★ Stars: 51
 
 [Open repository](https://github.com/soundcloud/spdt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 51 | 11 | 
 | 2023-04-11 | 52 | 11 | 
 | 2023-04-10 | 52 | 11 | 
 | 2023-04-09 | 52 | 10 | 

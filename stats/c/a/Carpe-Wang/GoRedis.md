@@ -1,6 +1,6 @@
 # Carpe-Wang/GoRedis - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 59 | 12 | 
 | 2023-04-11 | 59 | 12 | 
 | 2023-04-10 | 59 | 12 | 
 | 2023-04-09 | 59 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 58 | 12 | 
 | 2023-03-15 | 58 | 12 | 
 | 2023-03-14 | 58 | 12 | 
-| 2023-03-13 | 58 | 12 | 
 

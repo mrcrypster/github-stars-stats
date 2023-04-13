@@ -1,10 +1,10 @@
 # tp7309/TTDeDroid - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 148
 
-★ Stars: 645
+★ Stars: 648
 
 [Open repository](https://github.com/tp7309/TTDeDroid)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 648 | 148 | 
 | 2023-04-11 | 645 | 148 | 
 | 2023-04-10 | 645 | 148 | 
 | 2023-04-09 | 643 | 148 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 596 | 134 | 
 | 2023-03-15 | 587 | 131 | 
 | 2023-03-14 | 579 | 129 | 
-| 2023-03-13 | 573 | 129 | 
 

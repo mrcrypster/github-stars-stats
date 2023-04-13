@@ -1,10 +1,10 @@
 # open-nomie/nomie6-oss - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 24
 
-★ Stars: 261
+★ Stars: 262
 
 [Open repository](https://github.com/open-nomie/nomie6-oss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 262 | 24 | 
 | 2023-04-11 | 261 | 24 | 
 | 2023-04-10 | 260 | 24 | 
 | 2023-04-09 | 258 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 245 | 22 | 
 | 2023-03-16 | 245 | 22 | 
 | 2023-03-14 | 244 | 22 | 
-| 2023-03-13 | 244 | 22 | 
 

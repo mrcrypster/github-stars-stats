@@ -1,10 +1,10 @@
 # anhkgg/SuperRDP - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 333
+☋ Forks: 334
 
-★ Stars: 1583
+★ Stars: 1585
 
 [Open repository](https://github.com/anhkgg/SuperRDP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1585 | 334 | 
 | 2023-04-11 | 1583 | 333 | 
 | 2023-04-10 | 1582 | 333 | 
 | 2023-04-09 | 1582 | 332 | 

@@ -1,10 +1,10 @@
 # iDev-Games/Trig-JS - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/iDev-Games/Trig-JS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 65 | - | 
 | 2023-04-11 | 64 | - | 
 | 2023-04-10 | 64 | - | 
 | 2023-04-09 | 58 | - | 

@@ -1,10 +1,10 @@
 # reworkd/AgentGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 399
+☋ Forks: 878
 
-★ Stars: 1605
+★ Stars: 4416
 
 [Open repository](https://github.com/reworkd/AgentGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1605 | 399 | 
+| 2023-04-13 | 4416 | 878 | 
+| 2023-04-12 | 4127 | 824 | 
 | 2023-04-11 | 1256 | 300 | 
 

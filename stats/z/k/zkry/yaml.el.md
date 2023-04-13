@@ -1,10 +1,10 @@
 # zkry/yaml.el - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/zkry/yaml.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 27 | 8 | 
 | 2023-04-11 | 26 | 8 | 
 | 2023-04-10 | 26 | 8 | 
 | 2023-04-09 | 26 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 26 | 8 | 
 | 2023-03-15 | 26 | 8 | 
 | 2023-03-14 | 26 | 8 | 
-| 2023-03-13 | 26 | 8 | 
 

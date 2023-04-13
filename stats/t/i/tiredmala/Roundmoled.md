@@ -1,8 +1,8 @@
 # tiredmala/Roundmoled - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 66
+☋ Forks: 68
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 15 | 68 | 
 | 2023-04-11 | 15 | 66 | 
 | 2023-04-10 | 15 | 65 | 
 | 2023-04-09 | 15 | 65 | 

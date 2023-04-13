@@ -1,6 +1,6 @@
 # mibook/kallipos - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | - | 154 | 
 | 2023-04-11 | - | 154 | 
 | 2023-04-10 | - | 152 | 
 | 2023-04-08 | - | 152 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | - | 147 | 
 | 2023-03-16 | - | 142 | 
 | 2023-03-15 | - | 142 | 
-| 2023-03-13 | - | 140 | 
 

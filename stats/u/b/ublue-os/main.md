@@ -1,10 +1,10 @@
 # ublue-os/main - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 77
+★ Stars: 82
 
 [Open repository](https://github.com/ublue-os/main)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 82 | 43 | 
 | 2023-04-11 | 77 | 42 | 
 | 2023-04-10 | 77 | 42 | 
 | 2023-04-09 | 75 | 40 | 

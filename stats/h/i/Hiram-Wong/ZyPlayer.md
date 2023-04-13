@@ -1,10 +1,10 @@
 # Hiram-Wong/ZyPlayer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 21
 
-★ Stars: 73
+★ Stars: 76
 
 [Open repository](https://github.com/Hiram-Wong/ZyPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 76 | 21 | 
 | 2023-04-11 | 73 | 21 | 
 | 2023-04-10 | 70 | 21 | 
 | 2023-04-09 | 70 | 20 | 

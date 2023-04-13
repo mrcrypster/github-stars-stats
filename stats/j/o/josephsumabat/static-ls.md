@@ -1,10 +1,10 @@
 # josephsumabat/static-ls - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/josephsumabat/static-ls)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 27 | - | 
 | 2023-04-11 | 25 | - | 
 

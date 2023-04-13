@@ -1,10 +1,10 @@
 # vadimdemedes/ink - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 549
 
-★ Stars: 20396
+★ Stars: 20399
 
 [Open repository](https://github.com/vadimdemedes/ink)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 20399 | 549 | 
 | 2023-04-11 | 20396 | 549 | 
 | 2023-04-10 | 20390 | 549 | 
 | 2023-04-09 | 20386 | 549 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 20221 | 541 | 
 | 2023-03-16 | 20204 | 541 | 
 | 2023-03-14 | 20181 | 539 | 
-| 2023-03-13 | 20160 | 538 | 
 

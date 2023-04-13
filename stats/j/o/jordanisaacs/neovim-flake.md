@@ -1,6 +1,6 @@
 # jordanisaacs/neovim-flake - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 120 | 29 | 
 | 2023-04-11 | 120 | 29 | 
 | 2023-04-10 | 119 | 29 | 
 | 2023-04-09 | 119 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 112 | 23 | 
 | 2023-03-15 | 112 | 23 | 
 | 2023-03-14 | 112 | 23 | 
-| 2023-03-13 | 111 | 22 | 
 

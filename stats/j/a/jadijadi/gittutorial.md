@@ -1,10 +1,10 @@
 # jadijadi/gittutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 698
 
-★ Stars: 583
+★ Stars: 582
 
 [Open repository](https://github.com/jadijadi/gittutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 582 | 698 | 
 | 2023-04-11 | 583 | 698 | 
 | 2023-04-10 | 582 | 698 | 
 | 2023-04-09 | 583 | 698 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 572 | 680 | 
 | 2023-03-16 | 572 | 680 | 
 | 2023-03-14 | 573 | 680 | 
-| 2023-03-13 | 571 | 680 | 
 

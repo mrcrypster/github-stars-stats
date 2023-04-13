@@ -1,6 +1,6 @@
 # iondodon/manter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 168 | 5 | 
 | 2023-04-11 | 168 | 5 | 
 | 2023-04-10 | 168 | 5 | 
 | 2023-04-09 | 168 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 168 | 4 | 
 | 2023-03-16 | 168 | 4 | 
 | 2023-03-14 | 168 | 4 | 
-| 2023-03-13 | 168 | 4 | 
 

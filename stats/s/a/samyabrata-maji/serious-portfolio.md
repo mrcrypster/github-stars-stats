@@ -1,6 +1,6 @@
 # samyabrata-maji/serious-portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 8 | 5 | 
 | 2023-04-12 | 8 | 5 | 
 | 2023-04-10 | 8 | 5 | 
 | 2023-04-09 | 8 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 8 | 5 | 
 | 2023-03-16 | 8 | 5 | 
 | 2023-03-15 | 8 | 5 | 
-| 2023-03-14 | 8 | 5 | 
 

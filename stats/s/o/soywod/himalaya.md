@@ -1,10 +1,10 @@
 # soywod/himalaya - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 64
 
-★ Stars: 2385
+★ Stars: 2386
 
 [Open repository](https://github.com/soywod/himalaya)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2386 | 64 | 
 | 2023-04-11 | 2385 | 64 | 
 | 2023-04-10 | 2383 | 64 | 
 | 2023-04-09 | 2382 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 2358 | 64 | 
 | 2023-03-16 | 2350 | 64 | 
 | 2023-03-15 | 2349 | 64 | 
-| 2023-03-13 | 2348 | 64 | 
 

@@ -1,10 +1,10 @@
 # lucavenir/go_router_riverpod - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 43
 
-★ Stars: 232
+★ Stars: 233
 
 [Open repository](https://github.com/lucavenir/go_router_riverpod)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 233 | 43 | 
 | 2023-04-11 | 232 | 43 | 
 | 2023-04-10 | 232 | 42 | 
 | 2023-04-09 | 231 | 42 | 

@@ -1,8 +1,8 @@
 # SymfonyCasts/symfony6 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 93
+☋ Forks: 94
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 6 | 94 | 
 | 2023-04-11 | 6 | 93 | 
 | 2023-04-09 | 6 | 93 | 
 | 2023-04-08 | 6 | 93 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 6 | 91 | 
 | 2023-03-15 | 5 | 92 | 
 | 2023-03-14 | 5 | 92 | 
-| 2023-03-13 | 5 | 92 | 
 

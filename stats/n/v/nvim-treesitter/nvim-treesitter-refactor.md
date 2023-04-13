@@ -1,10 +1,10 @@
 # nvim-treesitter/nvim-treesitter-refactor - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 21
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/nvim-treesitter/nvim-treesitter-refactor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 308 | 21 | 
 | 2023-04-11 | 307 | 21 | 
 | 2023-04-10 | 307 | 21 | 
 | 2023-04-09 | 307 | 21 | 

@@ -1,10 +1,10 @@
 # ptitSeb/box64 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 132
 
-★ Stars: 1962
+★ Stars: 1966
 
 [Open repository](https://github.com/ptitSeb/box64)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1966 | 132 | 
 | 2023-04-11 | 1962 | 132 | 
 | 2023-04-10 | 1962 | 132 | 
 | 2023-04-08 | 1958 | 132 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1908 | 127 | 
 | 2023-03-15 | 1900 | 128 | 
 | 2023-03-14 | 1895 | 128 | 
-| 2023-03-13 | 1886 | 128 | 
 

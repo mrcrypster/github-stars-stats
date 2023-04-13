@@ -1,10 +1,10 @@
 # spotDL/spotify-downloader - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1239
 
-★ Stars: 11260
+★ Stars: 11259
 
 [Open repository](https://github.com/spotDL/spotify-downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 11259 | 1239 | 
 | 2023-04-11 | 11260 | 1239 | 
 | 2023-04-10 | 11253 | 1237 | 
 | 2023-04-09 | 11245 | 1237 | 

@@ -1,10 +1,10 @@
 # d4rken-org/sdmaid-se - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 327
+★ Stars: 340
 
 [Open repository](https://github.com/d4rken-org/sdmaid-se)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 340 | 21 | 
 | 2023-04-11 | 327 | 19 | 
 | 2023-04-10 | 317 | 18 | 
 | 2023-04-09 | 312 | 16 | 

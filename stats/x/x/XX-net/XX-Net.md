@@ -1,10 +1,10 @@
 # XX-net/XX-Net - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 7780
+☋ Forks: 7781
 
-★ Stars: 31908
+★ Stars: 31917
 
 [Open repository](https://github.com/XX-net/XX-Net)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 31917 | 7781 | 
 | 2023-04-11 | 31908 | 7780 | 
 | 2023-04-10 | 31902 | 7783 | 
 | 2023-04-09 | 31898 | 7783 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 31796 | 7776 | 
 | 2023-03-15 | 31788 | 7776 | 
 | 2023-03-14 | 31786 | 7776 | 
-| 2023-03-13 | 31784 | 7776 | 
 

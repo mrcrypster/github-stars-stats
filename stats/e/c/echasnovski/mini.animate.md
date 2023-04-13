@@ -1,0 +1,17 @@
+# echasnovski/mini.animate - stars & forks statistics
+
+Stats updated on Apr 2023, 12
+
+☋ Forks: 0
+
+★ Stars: 50
+
+[Open repository](https://github.com/echasnovski/mini.animate)
+
+[Open detailed stats for echasnovski/mini.animate](https://reviewgithub.com/rep/echasnovski/mini.animate)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-12 | 50 | - | 
+

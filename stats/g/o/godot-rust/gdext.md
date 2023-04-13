@@ -1,10 +1,10 @@
 # godot-rust/gdext - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 72
 
-★ Stars: 1059
+★ Stars: 1065
 
 [Open repository](https://github.com/godot-rust/gdext)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1065 | 72 | 
 | 2023-04-11 | 1059 | 72 | 
 | 2023-04-10 | 1052 | 72 | 
 | 2023-04-09 | 1051 | 72 | 

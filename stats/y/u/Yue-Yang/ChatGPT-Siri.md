@@ -1,10 +1,10 @@
 # Yue-Yang/ChatGPT-Siri - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 91
+☋ Forks: 93
 
-★ Stars: 2551
+★ Stars: 2577
 
 [Open repository](https://github.com/Yue-Yang/ChatGPT-Siri)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2577 | 93 | 
 | 2023-04-11 | 2551 | 91 | 
 | 2023-04-10 | 2531 | 89 | 
 | 2023-04-09 | 2501 | 86 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1420 | 48 | 
 | 2023-03-15 | 1411 | 48 | 
 | 2023-03-14 | 1340 | 46 | 
-| 2023-03-13 | 1241 | 40 | 
 

@@ -1,10 +1,10 @@
 # ubuntu-rocks/dotnet - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/ubuntu-rocks/dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 37 | 1 | 
 | 2023-04-11 | 36 | 1 | 
 | 2023-04-10 | 36 | 1 | 
 | 2023-04-09 | 36 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 35 | 1 | 
 | 2023-03-16 | 35 | 1 | 
 | 2023-03-15 | 35 | 1 | 
-| 2023-03-13 | 35 | 1 | 
 

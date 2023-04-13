@@ -1,10 +1,10 @@
 # Tomato6966/Multipurpose-discord-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 591
+☋ Forks: 590
 
-★ Stars: 514
+★ Stars: 513
 
 [Open repository](https://github.com/Tomato6966/Multipurpose-discord-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 513 | 590 | 
 | 2023-04-11 | 514 | 591 | 
 | 2023-04-10 | 512 | 592 | 
 | 2023-04-09 | 511 | 592 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 498 | 587 | 
 | 2023-03-16 | 497 | 585 | 
 | 2023-03-15 | 496 | 586 | 
-| 2023-03-13 | 496 | 587 | 
 

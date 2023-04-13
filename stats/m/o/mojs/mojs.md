@@ -1,10 +1,10 @@
 # mojs/mojs - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 938
 
-★ Stars: 17965
+★ Stars: 17967
 
 [Open repository](https://github.com/mojs/mojs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 17967 | 938 | 
 | 2023-04-11 | 17965 | 938 | 
 | 2023-04-10 | 17964 | 938 | 
 | 2023-04-09 | 17962 | 938 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 17931 | 939 | 
 | 2023-03-15 | 17930 | 939 | 
 | 2023-03-14 | 17928 | 939 | 
-| 2023-03-13 | 17925 | 938 | 
 

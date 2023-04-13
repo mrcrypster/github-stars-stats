@@ -1,10 +1,10 @@
 # ultraembedded/openlogicbit - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 7
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/ultraembedded/openlogicbit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 68 | 7 | 
 | 2023-04-11 | 67 | 7 | 
 | 2023-04-10 | 67 | 7 | 
 | 2023-04-09 | 67 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 66 | 7 | 
 | 2023-03-16 | 66 | 7 | 
 | 2023-03-14 | 66 | 7 | 
-| 2023-03-13 | 66 | 7 | 
 

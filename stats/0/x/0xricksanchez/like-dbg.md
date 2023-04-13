@@ -1,6 +1,6 @@
 # 0xricksanchez/like-dbg - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 675 | 52 | 
 | 2023-04-11 | 675 | 52 | 
 | 2023-04-10 | 675 | 52 | 
 | 2023-04-09 | 675 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 672 | 52 | 
 | 2023-03-15 | 672 | 52 | 
 | 2023-03-14 | 672 | 52 | 
-| 2023-03-13 | 670 | 52 | 
 

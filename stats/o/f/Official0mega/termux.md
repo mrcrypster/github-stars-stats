@@ -1,6 +1,6 @@
 # Official0mega/termux - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 12 | 3 | 
 | 2023-04-11 | 12 | 3 | 
 | 2023-04-10 | 12 | 3 | 
 | 2023-04-09 | 12 | 3 | 

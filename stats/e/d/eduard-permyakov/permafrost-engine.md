@@ -1,10 +1,10 @@
 # eduard-permyakov/permafrost-engine - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 87
 
-★ Stars: 2476
+★ Stars: 2481
 
 [Open repository](https://github.com/eduard-permyakov/permafrost-engine)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2481 | 87 | 
 | 2023-04-11 | 2476 | 87 | 
 

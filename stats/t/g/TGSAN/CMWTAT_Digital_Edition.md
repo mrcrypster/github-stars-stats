@@ -1,10 +1,10 @@
 # TGSAN/CMWTAT_Digital_Edition - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1598
 
-★ Stars: 10982
+★ Stars: 10994
 
 [Open repository](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 10994 | 1598 | 
 | 2023-04-11 | 10982 | 1598 | 
 | 2023-04-10 | 10970 | 1596 | 
 | 2023-04-09 | 10970 | 1596 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 10791 | 1568 | 
 | 2023-03-16 | 10762 | 1569 | 
 | 2023-03-15 | 10731 | 1566 | 
-| 2023-03-14 | 10726 | 1563 | 
 

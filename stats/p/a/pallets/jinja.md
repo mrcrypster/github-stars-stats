@@ -1,8 +1,8 @@
 # pallets/jinja - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1547
+☋ Forks: 1548
 
 ★ Stars: 9155
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 9155 | 1548 | 
 | 2023-04-11 | 9155 | 1547 | 
 | 2023-04-10 | 9151 | 1547 | 
 | 2023-04-09 | 9148 | 1547 | 

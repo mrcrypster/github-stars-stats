@@ -1,10 +1,10 @@
 # numbersprotocol/nit - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 4682
+★ Stars: 4683
 
 [Open repository](https://github.com/numbersprotocol/nit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4683 | 1 | 
 | 2023-04-11 | 4682 | 1 | 
 | 2023-04-10 | 4682 | 1 | 
 | 2023-04-09 | 4682 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 4680 | 1 | 
 | 2023-03-15 | 4680 | 1 | 
 | 2023-03-14 | 4680 | 1 | 
-| 2023-03-13 | 4680 | 1 | 
 

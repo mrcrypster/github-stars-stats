@@ -1,6 +1,6 @@
 # wix/ObjCCLIInfra - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 8 | 4 | 
 | 2023-04-11 | 8 | 4 | 
 | 2023-04-10 | 8 | 4 | 
 | 2023-04-09 | 8 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 8 | 4 | 
 | 2023-03-15 | 8 | 4 | 
 | 2023-03-14 | 8 | 4 | 
-| 2023-03-13 | 8 | 4 | 
 

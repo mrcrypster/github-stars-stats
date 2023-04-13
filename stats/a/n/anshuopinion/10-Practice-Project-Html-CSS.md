@@ -1,8 +1,8 @@
 # anshuopinion/10-Practice-Project-Html-CSS - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 119
+☋ Forks: 118
 
 ★ Stars: 92
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 92 | 118 | 
 | 2023-04-11 | 92 | 119 | 
 | 2023-04-10 | 92 | 117 | 
 | 2023-04-09 | 92 | 116 | 

@@ -1,10 +1,10 @@
 # bankisan/zkShield - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 169
+★ Stars: 171
 
 [Open repository](https://github.com/bankisan/zkShield)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 171 | 8 | 
 | 2023-04-11 | 169 | 8 | 
 | 2023-04-10 | 167 | 8 | 
 | 2023-04-09 | 167 | 8 | 

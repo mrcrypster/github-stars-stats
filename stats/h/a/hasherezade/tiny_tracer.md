@@ -1,10 +1,10 @@
 # hasherezade/tiny_tracer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 115
 
-★ Stars: 807
+★ Stars: 808
 
 [Open repository](https://github.com/hasherezade/tiny_tracer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 808 | 115 | 
 | 2023-04-11 | 807 | 115 | 
 | 2023-04-10 | 805 | 115 | 
 | 2023-04-09 | 804 | 115 | 

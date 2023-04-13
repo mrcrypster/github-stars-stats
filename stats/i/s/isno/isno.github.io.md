@@ -1,10 +1,10 @@
 # isno/isno.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 112
+★ Stars: 128
 
 [Open repository](https://github.com/isno/isno.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 128 | 28 | 
 | 2023-04-11 | 112 | 27 | 
 | 2023-04-10 | 112 | 27 | 
 | 2023-04-09 | 111 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 107 | 24 | 
 | 2023-03-15 | 106 | 24 | 
 | 2023-03-14 | 105 | 24 | 
-| 2023-03-13 | 103 | 24 | 
 

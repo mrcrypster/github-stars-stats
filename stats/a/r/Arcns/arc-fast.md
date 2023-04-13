@@ -1,10 +1,10 @@
 # Arcns/arc-fast - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 58
 
-★ Stars: 222
+★ Stars: 226
 
 [Open repository](https://github.com/Arcns/arc-fast)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 226 | 58 | 
 | 2023-04-11 | 222 | 58 | 
 | 2023-04-10 | 219 | 57 | 
 | 2023-04-09 | 218 | 57 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 189 | 47 | 
 | 2023-03-16 | 188 | 47 | 
 | 2023-03-15 | 188 | 47 | 
-| 2023-03-14 | 189 | 47 | 
 

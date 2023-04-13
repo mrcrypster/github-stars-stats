@@ -1,8 +1,8 @@
 # steshaw/plt - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 326
+☋ Forks: 325
 
 ★ Stars: 4957
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4957 | 325 | 
 | 2023-04-11 | 4957 | 326 | 
 | 2023-04-10 | 4954 | 326 | 
 | 2023-04-09 | 4952 | 326 | 

@@ -1,10 +1,10 @@
 # vanilla-extract-css/vanilla-extract - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 207
+☋ Forks: 208
 
-★ Stars: 7920
+★ Stars: 7927
 
 [Open repository](https://github.com/vanilla-extract-css/vanilla-extract)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7927 | 208 | 
 | 2023-04-11 | 7920 | 207 | 
 | 2023-04-10 | 7915 | 206 | 
 | 2023-04-09 | 7912 | 206 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 7701 | 207 | 
 | 2023-03-15 | 7686 | 205 | 
 | 2023-03-14 | 7677 | 204 | 
-| 2023-03-13 | 7672 | 204 | 
 

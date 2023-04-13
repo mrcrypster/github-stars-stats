@@ -1,10 +1,10 @@
 # gurgleapps/pico-web-server-control - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 57
 
 [Open repository](https://github.com/gurgleapps/pico-web-server-control)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 57 | 3 | 
 | 2023-04-11 | 54 | 3 | 
 | 2023-04-10 | 54 | 3 | 
 

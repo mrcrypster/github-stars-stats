@@ -1,10 +1,10 @@
 # colyseus/colyseus - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 471
 
-★ Stars: 4802
+★ Stars: 4806
 
 [Open repository](https://github.com/colyseus/colyseus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4806 | 471 | 
 | 2023-04-11 | 4802 | 471 | 
 | 2023-04-10 | 4802 | 471 | 
 | 2023-04-09 | 4800 | 471 | 

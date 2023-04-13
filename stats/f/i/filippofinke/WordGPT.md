@@ -1,10 +1,10 @@
 # filippofinke/WordGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 122
+★ Stars: 124
 
 [Open repository](https://github.com/filippofinke/WordGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 124 | 21 | 
 | 2023-04-11 | 122 | 20 | 
 | 2023-04-10 | 119 | 18 | 
 | 2023-04-09 | 117 | 17 | 

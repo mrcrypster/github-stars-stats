@@ -1,10 +1,10 @@
 # antfu/v-lazy-show - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 13
 
-★ Stars: 375
+★ Stars: 380
 
 [Open repository](https://github.com/antfu/v-lazy-show)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 380 | 13 | 
 | 2023-04-11 | 375 | 13 | 
 | 2023-04-10 | 369 | 13 | 
 | 2023-04-09 | 364 | 11 | 

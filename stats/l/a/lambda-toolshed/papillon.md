@@ -1,10 +1,10 @@
 # lambda-toolshed/papillon - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/lambda-toolshed/papillon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 44 | 3 | 
 | 2023-04-11 | 43 | 3 | 
 | 2023-04-10 | 43 | 3 | 
 | 2023-04-09 | 43 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 43 | 3 | 
 | 2023-03-16 | 43 | 3 | 
 | 2023-03-15 | 43 | 3 | 
-| 2023-03-13 | 43 | 3 | 
 

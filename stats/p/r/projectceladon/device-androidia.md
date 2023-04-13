@@ -1,8 +1,8 @@
 # projectceladon/device-androidia - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 176
+☋ Forks: 177
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 9 | 177 | 
 | 2023-04-11 | 9 | 176 | 
 | 2023-04-10 | 9 | 175 | 
 | 2023-04-08 | 9 | 175 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 9 | 174 | 
 | 2023-03-16 | 9 | 174 | 
 | 2023-03-14 | 9 | 174 | 
-| 2023-03-13 | 9 | 174 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 109
+☋ Forks: 114
 
-★ Stars: 4560
+★ Stars: 4728
 
 [Open repository](https://github.com/TabbyML/tabby)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 4560 | 109 | 
+| 2023-04-12 | 4728 | 114 | 
 | 2023-04-11 | 4491 | 108 | 
 | 2023-04-10 | 3963 | 92 | 
 | 2023-04-09 | 3152 | 76 | 

@@ -1,10 +1,10 @@
 # synercys/annotated_latex_equations - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 178
 
-★ Stars: 3243
+★ Stars: 3253
 
 [Open repository](https://github.com/synercys/annotated_latex_equations)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3253 | 178 | 
+| 2023-04-12 | 3253 | 178 | 
 | 2023-04-11 | 3243 | 178 | 
 | 2023-04-10 | 3234 | 178 | 
 | 2023-04-09 | 3233 | 178 | 
@@ -34,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 3222 | 177 | 
 | 2023-03-16 | 3221 | 176 | 
 | 2023-03-15 | 3220 | 176 | 
-| 2023-03-13 | 3218 | 176 | 
 

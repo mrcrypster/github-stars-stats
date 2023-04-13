@@ -1,10 +1,10 @@
 # sphinx-doc/sphinx - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1905
+☋ Forks: 1906
 
-★ Stars: 5324
+★ Stars: 5328
 
 [Open repository](https://github.com/sphinx-doc/sphinx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5328 | 1906 | 
 | 2023-04-11 | 5324 | 1905 | 
 | 2023-04-10 | 5321 | 1902 | 
 | 2023-04-09 | 5320 | 1900 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 5271 | 1883 | 
 | 2023-03-16 | 5271 | 1880 | 
 | 2023-03-14 | 5266 | 1880 | 
-| 2023-03-13 | 5264 | 1879 | 
 

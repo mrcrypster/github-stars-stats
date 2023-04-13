@@ -1,8 +1,8 @@
 # rancher/prometheus-federator - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7 | 17 | 
 | 2023-04-12 | 7 | 16 | 
 | 2023-04-10 | 7 | 16 | 
 | 2023-04-09 | 7 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 6 | 13 | 
 | 2023-03-16 | 6 | 13 | 
 | 2023-03-15 | 6 | 13 | 
-| 2023-03-13 | 6 | 13 | 
 

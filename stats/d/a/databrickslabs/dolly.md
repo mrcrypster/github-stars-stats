@@ -1,10 +1,10 @@
 # databrickslabs/dolly - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 442
+☋ Forks: 446
 
-★ Stars: 4358
+★ Stars: 4397
 
 [Open repository](https://github.com/databrickslabs/dolly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4397 | 446 | 
 | 2023-04-11 | 4358 | 442 | 
 | 2023-04-10 | 4326 | 439 | 
 | 2023-04-09 | 4299 | 438 | 

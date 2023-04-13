@@ -1,10 +1,10 @@
 # mxgmn/WaveFunctionCollapse - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1128
+☋ Forks: 1129
 
-★ Stars: 21083
+★ Stars: 21088
 
 [Open repository](https://github.com/mxgmn/WaveFunctionCollapse)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 21088 | 1129 | 
 | 2023-04-11 | 21083 | 1128 | 
 | 2023-04-10 | 21070 | 1128 | 
 | 2023-04-09 | 21065 | 1128 | 

@@ -1,10 +1,10 @@
 # rcarriga/neotest - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 48
 
-★ Stars: 1131
+★ Stars: 1133
 
 [Open repository](https://github.com/rcarriga/neotest)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1133 | 48 | 
 | 2023-04-11 | 1131 | 48 | 
 | 2023-04-10 | 1131 | 48 | 
 | 2023-04-09 | 1128 | 48 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1070 | 44 | 
 | 2023-03-16 | 1064 | 44 | 
 | 2023-03-15 | 1061 | 44 | 
-| 2023-03-13 | 1060 | 44 | 
 

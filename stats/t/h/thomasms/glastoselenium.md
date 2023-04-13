@@ -1,6 +1,6 @@
 # thomasms/glastoselenium - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 110 | 28 | 
 | 2023-04-11 | 110 | 28 | 
 | 2023-04-10 | 110 | 28 | 
 | 2023-04-09 | 110 | 28 | 

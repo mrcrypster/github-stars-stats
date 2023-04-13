@@ -1,6 +1,6 @@
 # ICCC-Platform/Smart-Meter-Outage-Prediction - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 20 | 16 | 
 | 2023-04-11 | 20 | 16 | 
 | 2023-04-10 | 20 | 16 | 
 | 2023-04-09 | 20 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 20 | 16 | 
 | 2023-03-15 | 20 | 16 | 
 | 2023-03-14 | 20 | 16 | 
-| 2023-03-13 | 20 | 16 | 
 

@@ -1,6 +1,6 @@
 # traderjoe-xyz/joe-v2 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 85 | 17 | 
 | 2023-04-11 | 85 | 17 | 
 | 2023-04-10 | 85 | 17 | 
 | 2023-04-09 | 85 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 71 | 12 | 
 | 2023-03-15 | 71 | 12 | 
 | 2023-03-14 | 71 | 12 | 
-| 2023-03-13 | 71 | 12 | 
 

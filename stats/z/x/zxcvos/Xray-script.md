@@ -1,10 +1,10 @@
 # zxcvos/Xray-script - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 9
+☋ Forks: 12
 
-★ Stars: 63
+★ Stars: 66
 
 [Open repository](https://github.com/zxcvos/Xray-script)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 66 | 12 | 
 | 2023-04-11 | 63 | 9 | 
 | 2023-04-10 | 62 | 9 | 
 | 2023-04-09 | 60 | 9 | 

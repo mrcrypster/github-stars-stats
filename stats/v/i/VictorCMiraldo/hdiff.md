@@ -1,6 +1,6 @@
 # VictorCMiraldo/hdiff - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 69 | 2 | 
 | 2023-04-11 | 69 | 2 | 
 | 2023-04-10 | 69 | 2 | 
 | 2023-04-09 | 69 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 69 | 2 | 
 | 2023-03-16 | 68 | 2 | 
 | 2023-03-15 | 68 | 2 | 
-| 2023-03-13 | 68 | 2 | 
 

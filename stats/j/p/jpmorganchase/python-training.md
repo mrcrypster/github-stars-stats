@@ -1,10 +1,10 @@
 # jpmorganchase/python-training - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 562
+☋ Forks: 565
 
-★ Stars: 2290
+★ Stars: 2325
 
 [Open repository](https://github.com/jpmorganchase/python-training)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2325 | 565 | 
 | 2023-04-11 | 2290 | 562 | 
 | 2023-04-10 | 2241 | 560 | 
 

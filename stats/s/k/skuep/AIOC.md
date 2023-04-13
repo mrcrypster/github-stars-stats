@@ -1,6 +1,6 @@
 # skuep/AIOC - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 333 | 11 | 
 | 2023-04-11 | 333 | 11 | 
 | 2023-04-10 | 332 | 11 | 
 | 2023-04-09 | 327 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 314 | 9 | 
 | 2023-03-16 | 314 | 9 | 
 | 2023-03-15 | 314 | 9 | 
-| 2023-03-13 | 313 | 9 | 
 

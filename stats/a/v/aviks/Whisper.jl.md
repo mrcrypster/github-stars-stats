@@ -1,8 +1,8 @@
 # aviks/Whisper.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 28 | 1 | 
 | 2023-04-11 | 28 | - | 
 | 2023-04-10 | 28 | - | 
 | 2023-04-09 | 28 | - | 

@@ -1,10 +1,10 @@
 # Fildo7525/pretty_hover - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 62
+★ Stars: 61
 
 [Open repository](https://github.com/Fildo7525/pretty_hover)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 61 | 1 | 
 | 2023-04-11 | 62 | 1 | 
 

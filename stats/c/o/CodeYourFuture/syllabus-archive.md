@@ -1,6 +1,6 @@
 # CodeYourFuture/syllabus-archive - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 75 | 117 | 
 | 2023-04-11 | 75 | 117 | 
 | 2023-04-10 | 75 | 117 | 
 | 2023-04-09 | 75 | 117 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 75 | 118 | 
 | 2023-03-15 | 75 | 118 | 
 | 2023-03-14 | 75 | 118 | 
-| 2023-03-13 | 75 | 118 | 
 

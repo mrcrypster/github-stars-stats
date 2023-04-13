@@ -1,6 +1,6 @@
 # ocpi/ocpi - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 303 | 176 | 
 | 2023-04-11 | 303 | 176 | 
 | 2023-04-10 | 302 | 176 | 
 | 2023-04-09 | 302 | 176 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 296 | 173 | 
 | 2023-03-15 | 296 | 173 | 
 | 2023-03-14 | 296 | 173 | 
-| 2023-03-13 | 295 | 173 | 
 

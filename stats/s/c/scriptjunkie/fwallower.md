@@ -1,10 +1,10 @@
 # scriptjunkie/fwallower - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/scriptjunkie/fwallower)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 68 | 1 | 
 | 2023-04-11 | 67 | 1 | 
 | 2023-04-10 | 67 | 1 | 
 | 2023-04-09 | 67 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 67 | 1 | 
 | 2023-03-15 | 67 | 1 | 
 | 2023-03-14 | 67 | 1 | 
-| 2023-03-13 | 67 | 1 | 
 

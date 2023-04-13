@@ -1,10 +1,10 @@
 # github/github-ospo - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 31
 
-★ Stars: 477
+★ Stars: 481
 
 [Open repository](https://github.com/github/github-ospo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 481 | 31 | 
 | 2023-04-11 | 477 | 31 | 
 | 2023-04-10 | 475 | 31 | 
 | 2023-04-09 | 445 | 30 | 

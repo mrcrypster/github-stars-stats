@@ -1,10 +1,10 @@
 # jakubroztocil/cloudtunes - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 244
 
-★ Stars: 2477
+★ Stars: 2479
 
 [Open repository](https://github.com/jakubroztocil/cloudtunes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2479 | 244 | 
 | 2023-04-11 | 2477 | 244 | 
 | 2023-04-10 | 2477 | 245 | 
 | 2023-04-09 | 2477 | 245 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 2477 | 246 | 
 | 2023-03-15 | 2477 | 246 | 
 | 2023-03-14 | 2477 | 246 | 
-| 2023-03-13 | 2478 | 246 | 
 

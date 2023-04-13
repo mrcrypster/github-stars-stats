@@ -1,10 +1,10 @@
 # TradeMaster-NTU/TradeMaster - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 136
 
-★ Stars: 559
+★ Stars: 560
 
 [Open repository](https://github.com/TradeMaster-NTU/TradeMaster)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 560 | 136 | 
 | 2023-04-11 | 559 | 136 | 
 | 2023-04-10 | 557 | 136 | 
 | 2023-04-09 | 554 | 136 | 

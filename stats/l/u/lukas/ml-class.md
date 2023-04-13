@@ -1,10 +1,10 @@
 # lukas/ml-class - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1077
 
-★ Stars: 1913
+★ Stars: 1915
 
 [Open repository](https://github.com/lukas/ml-class)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1915 | 1077 | 
 | 2023-04-11 | 1913 | 1077 | 
 | 2023-04-10 | 1913 | 1077 | 
 | 2023-04-09 | 1913 | 1077 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1907 | 1071 | 
 | 2023-03-16 | 1905 | 1071 | 
 | 2023-03-15 | 1904 | 1071 | 
-| 2023-03-13 | 1903 | 1071 | 
 

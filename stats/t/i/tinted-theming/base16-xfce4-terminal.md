@@ -1,6 +1,6 @@
 # tinted-theming/base16-xfce4-terminal - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 199 | 22 | 
 | 2023-04-11 | 199 | 22 | 
 | 2023-04-10 | 199 | 22 | 
 | 2023-04-09 | 199 | 22 | 

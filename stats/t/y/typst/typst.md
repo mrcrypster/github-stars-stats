@@ -1,10 +1,10 @@
 # typst/typst - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 283
+☋ Forks: 285
 
-★ Stars: 15327
+★ Stars: 15414
 
 [Open repository](https://github.com/typst/typst)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 15414 | 285 | 
 | 2023-04-11 | 15327 | 283 | 
 | 2023-04-10 | 15221 | 281 | 
 | 2023-04-09 | 15110 | 278 | 

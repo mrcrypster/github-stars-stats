@@ -1,10 +1,10 @@
 # micropython/micropython - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 6338
+☋ Forks: 6339
 
-★ Stars: 16285
+★ Stars: 16291
 
 [Open repository](https://github.com/micropython/micropython)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 16291 | 6339 | 
 | 2023-04-11 | 16285 | 6338 | 
 | 2023-04-10 | 16274 | 6330 | 
 | 2023-04-09 | 16262 | 6323 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 16122 | 6263 | 
 | 2023-03-15 | 16105 | 6255 | 
 | 2023-03-14 | 16091 | 6253 | 
-| 2023-03-13 | 16088 | 6253 | 
 

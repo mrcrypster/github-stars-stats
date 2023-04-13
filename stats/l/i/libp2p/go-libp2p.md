@@ -1,10 +1,10 @@
 # libp2p/go-libp2p - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 898
+☋ Forks: 899
 
-★ Stars: 5130
+★ Stars: 5133
 
 [Open repository](https://github.com/libp2p/go-libp2p)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5133 | 899 | 
 | 2023-04-11 | 5130 | 898 | 
 | 2023-04-10 | 5127 | 899 | 
 | 2023-04-08 | 5126 | 900 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 5070 | 890 | 
 | 2023-03-16 | 5068 | 890 | 
 | 2023-03-14 | 5064 | 890 | 
-| 2023-03-13 | 5063 | 889 | 
 

@@ -1,10 +1,10 @@
 # knadh/koanf - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 114
+☋ Forks: 116
 
-★ Stars: 1746
+★ Stars: 1753
 
 [Open repository](https://github.com/knadh/koanf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1753 | 116 | 
 | 2023-04-11 | 1746 | 114 | 
 | 2023-04-10 | 1737 | 113 | 
 | 2023-04-09 | 1724 | 112 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1649 | 106 | 
 | 2023-03-15 | 1646 | 106 | 
 | 2023-03-14 | 1643 | 106 | 
-| 2023-03-13 | 1643 | 106 | 
 

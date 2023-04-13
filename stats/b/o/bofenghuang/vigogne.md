@@ -1,10 +1,10 @@
 # bofenghuang/vigogne - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 17
 
-★ Stars: 155
+★ Stars: 159
 
 [Open repository](https://github.com/bofenghuang/vigogne)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 159 | 17 | 
 | 2023-04-11 | 155 | 17 | 
 | 2023-04-10 | 143 | 16 | 
 | 2023-04-09 | 138 | 15 | 

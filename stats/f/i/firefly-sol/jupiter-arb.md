@@ -1,6 +1,6 @@
 # firefly-sol/jupiter-arb - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 121 | 55 | 
 | 2023-04-11 | 121 | 55 | 
 | 2023-04-10 | 121 | 55 | 
 | 2023-04-09 | 121 | 55 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 119 | 53 | 
 | 2023-03-15 | 119 | 53 | 
 | 2023-03-14 | 119 | 53 | 
-| 2023-03-13 | 118 | 53 | 
 

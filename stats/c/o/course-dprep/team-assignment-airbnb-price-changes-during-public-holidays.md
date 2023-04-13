@@ -1,6 +1,6 @@
 # course-dprep/team-assignment-airbnb-price-changes-during-public-holidays - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4 | 6 | 
 | 2023-04-11 | 4 | 6 | 
 | 2023-04-10 | 5 | 6 | 
 | 2023-04-09 | 5 | 6 | 

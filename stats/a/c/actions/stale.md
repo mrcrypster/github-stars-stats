@@ -1,10 +1,10 @@
 # actions/stale - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 300
+☋ Forks: 301
 
-★ Stars: 939
+★ Stars: 943
 
 [Open repository](https://github.com/actions/stale)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 943 | 301 | 
 | 2023-04-11 | 939 | 300 | 
 | 2023-04-10 | 939 | 299 | 
 | 2023-04-09 | 939 | 299 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 917 | 291 | 
 | 2023-03-16 | 916 | 291 | 
 | 2023-03-15 | 916 | 291 | 
-| 2023-03-13 | 914 | 290 | 
 

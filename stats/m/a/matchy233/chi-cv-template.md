@@ -1,10 +1,10 @@
 # matchy233/chi-cv-template - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 293
+★ Stars: 292
 
 [Open repository](https://github.com/matchy233/chi-cv-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 292 | 27 | 
 | 2023-04-11 | 293 | 27 | 
 | 2023-04-10 | 292 | 27 | 
 | 2023-04-09 | 292 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 278 | 24 | 
 | 2023-03-16 | 278 | 24 | 
 | 2023-03-14 | 277 | 24 | 
-| 2023-03-13 | 275 | 24 | 
 

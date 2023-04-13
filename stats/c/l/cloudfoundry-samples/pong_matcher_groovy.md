@@ -1,6 +1,6 @@
 # cloudfoundry-samples/pong_matcher_groovy - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2 | 7 | 
 | 2023-04-12 | 2 | 7 | 
 | 2023-04-10 | 2 | 7 | 
 | 2023-04-09 | 2 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 2 | 7 | 
 | 2023-03-16 | 2 | 7 | 
 | 2023-03-15 | 2 | 7 | 
-| 2023-03-13 | 2 | 7 | 
 

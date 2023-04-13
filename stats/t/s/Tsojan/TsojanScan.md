@@ -1,10 +1,10 @@
 # Tsojan/TsojanScan - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 20
 
-★ Stars: 286
+★ Stars: 288
 
 [Open repository](https://github.com/Tsojan/TsojanScan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 288 | 20 | 
 | 2023-04-11 | 286 | 20 | 
 | 2023-04-10 | 286 | 20 | 
 | 2023-04-09 | 285 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 241 | 17 | 
 | 2023-03-16 | 235 | 15 | 
 | 2023-03-15 | 228 | 15 | 
-| 2023-03-13 | 224 | 15 | 
 

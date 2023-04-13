@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 31
 
-★ Stars: 157
+★ Stars: 161
 
 [Open repository](https://github.com/QiuChenly/MyMacsAppCrack)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 157 | 31 | 
+| 2023-04-12 | 161 | 31 | 
 | 2023-04-11 | 157 | 31 | 
 | 2023-04-10 | 142 | 27 | 
 | 2023-04-09 | 134 | 25 | 

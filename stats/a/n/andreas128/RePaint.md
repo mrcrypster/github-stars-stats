@@ -1,10 +1,10 @@
 # andreas128/RePaint - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 100
+☋ Forks: 101
 
-★ Stars: 1304
+★ Stars: 1308
 
 [Open repository](https://github.com/andreas128/RePaint)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1308 | 101 | 
 | 2023-04-11 | 1304 | 100 | 
 | 2023-04-10 | 1299 | 99 | 
 | 2023-04-09 | 1298 | 99 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1245 | 96 | 
 | 2023-03-16 | 1242 | 94 | 
 | 2023-03-15 | 1238 | 92 | 
-| 2023-03-13 | 1236 | 92 | 
 

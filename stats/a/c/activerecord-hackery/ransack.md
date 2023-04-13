@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 758
 
-★ Stars: 5386
+★ Stars: 5387
 
 [Open repository](https://github.com/activerecord-hackery/ransack)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 5386 | 758 | 
+| 2023-04-12 | 5387 | 758 | 
 | 2023-04-11 | 5386 | 758 | 
 | 2023-04-10 | 5383 | 759 | 
 | 2023-04-09 | 5383 | 759 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 5374 | 758 | 
 | 2023-03-15 | 5371 | 758 | 
 | 2023-03-14 | 5369 | 757 | 
-| 2023-03-13 | 5367 | 757 | 
 

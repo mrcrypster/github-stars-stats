@@ -1,10 +1,10 @@
 # fipso/ccurl.sh - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 302
+★ Stars: 303
 
 [Open repository](https://github.com/fipso/ccurl.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 303 | 8 | 
 | 2023-04-11 | 302 | 8 | 
 | 2023-04-10 | 300 | 8 | 
 | 2023-04-09 | 295 | 8 | 

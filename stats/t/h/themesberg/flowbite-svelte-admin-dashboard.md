@@ -1,8 +1,8 @@
 # themesberg/flowbite-svelte-admin-dashboard - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 21 | 5 | 
 | 2023-04-11 | 21 | 4 | 
 | 2023-04-10 | 21 | 3 | 
 | 2023-04-09 | 21 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 16 | 3 | 
 | 2023-03-16 | 16 | 3 | 
 | 2023-03-14 | 16 | 3 | 
-| 2023-03-13 | 15 | 3 | 
 

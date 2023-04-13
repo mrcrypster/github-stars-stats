@@ -1,10 +1,10 @@
 # natrys/whisper.el - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/natrys/whisper.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 50 | 4 | 
 | 2023-04-11 | 49 | 3 | 
 | 2023-04-10 | 47 | 3 | 
 | 2023-04-09 | 47 | 3 | 

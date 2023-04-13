@@ -1,10 +1,10 @@
 # dofy/learn-vim - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 229
 
-★ Stars: 1522
+★ Stars: 1523
 
 [Open repository](https://github.com/dofy/learn-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1523 | 229 | 
 | 2023-04-11 | 1522 | 229 | 
 | 2023-04-10 | 1522 | 229 | 
 | 2023-04-09 | 1521 | 229 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1510 | 228 | 
 | 2023-03-16 | 1509 | 227 | 
 | 2023-03-14 | 1509 | 227 | 
-| 2023-03-13 | 1506 | 227 | 
 

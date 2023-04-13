@@ -1,10 +1,10 @@
 # Shopify/javy - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 52
 
-★ Stars: 934
+★ Stars: 938
 
 [Open repository](https://github.com/Shopify/javy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 938 | 52 | 
 | 2023-04-11 | 934 | 52 | 
 | 2023-04-10 | 932 | 52 | 
 | 2023-04-09 | 929 | 52 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 870 | 48 | 
 | 2023-03-16 | 867 | 48 | 
 | 2023-03-15 | 867 | 48 | 
-| 2023-03-13 | 867 | 48 | 
 

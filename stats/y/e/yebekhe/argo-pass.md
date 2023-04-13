@@ -1,10 +1,10 @@
 # yebekhe/argo-pass - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 3843
+☋ Forks: 3897
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/yebekhe/argo-pass)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 58 | 3897 | 
 | 2023-04-11 | 57 | 3843 | 
 | 2023-04-10 | 56 | 3754 | 
 | 2023-04-09 | 56 | 3661 | 

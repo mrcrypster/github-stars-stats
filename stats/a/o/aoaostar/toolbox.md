@@ -1,10 +1,10 @@
 # aoaostar/toolbox - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 191
+☋ Forks: 193
 
-★ Stars: 677
+★ Stars: 686
 
 [Open repository](https://github.com/aoaostar/toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 686 | 193 | 
 | 2023-04-11 | 677 | 191 | 
 | 2023-04-10 | 657 | 189 | 
 | 2023-04-09 | 640 | 185 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 617 | 178 | 
 | 2023-03-16 | 609 | 172 | 
 | 2023-03-14 | 578 | 159 | 
-| 2023-03-13 | 576 | 159 | 
 

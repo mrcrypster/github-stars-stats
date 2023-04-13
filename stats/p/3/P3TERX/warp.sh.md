@@ -1,10 +1,10 @@
 # P3TERX/warp.sh - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 471
+☋ Forks: 474
 
-★ Stars: 2113
+★ Stars: 2141
 
 [Open repository](https://github.com/P3TERX/warp.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2141 | 474 | 
 | 2023-04-11 | 2113 | 471 | 
 | 2023-04-10 | 2099 | 470 | 
 | 2023-04-09 | 2069 | 467 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1603 | 418 | 
 | 2023-03-16 | 1600 | 416 | 
 | 2023-03-15 | 1593 | 415 | 
-| 2023-03-13 | 1591 | 414 | 
 

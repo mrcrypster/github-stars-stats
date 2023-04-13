@@ -1,10 +1,10 @@
 # zeroknots/brokentoken - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/zeroknots/brokentoken)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 66 | 5 | 
 | 2023-04-11 | 65 | 5 | 
 | 2023-04-10 | 64 | 5 | 
 | 2023-04-09 | 62 | 5 | 

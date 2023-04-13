@@ -1,10 +1,10 @@
 # Planshit/Tai - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 88
 
-★ Stars: 1725
+★ Stars: 1726
 
 [Open repository](https://github.com/Planshit/Tai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1726 | 88 | 
 | 2023-04-11 | 1725 | 88 | 
 | 2023-04-10 | 1720 | 88 | 
 | 2023-04-09 | 1716 | 88 | 

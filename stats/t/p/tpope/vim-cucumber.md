@@ -1,6 +1,6 @@
 # tpope/vim-cucumber - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 320 | 63 | 
 | 2023-04-11 | 320 | 63 | 
 | 2023-04-10 | 320 | 64 | 
 | 2023-04-09 | 320 | 64 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 321 | 64 | 
 | 2023-03-16 | 321 | 64 | 
 | 2023-03-15 | 321 | 64 | 
-| 2023-03-13 | 321 | 63 | 
 

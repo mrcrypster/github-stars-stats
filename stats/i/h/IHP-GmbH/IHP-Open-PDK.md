@@ -1,10 +1,10 @@
 # IHP-GmbH/IHP-Open-PDK - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/IHP-GmbH/IHP-Open-PDK)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 148 | 11 | 
 | 2023-04-11 | 146 | 11 | 
 | 2023-04-10 | 145 | 11 | 
 | 2023-04-09 | 145 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 127 | 10 | 
 | 2023-03-15 | 127 | 10 | 
 | 2023-03-14 | 122 | 10 | 
-| 2023-03-13 | 122 | 10 | 
 

@@ -1,6 +1,6 @@
 # ClickHouse/hive-metastore - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1 | 4 | 
+| 2023-04-12 | 1 | 4 | 
 | 2023-04-11 | 1 | 4 | 
 | 2023-04-10 | 1 | 4 | 
 | 2023-04-09 | 1 | 4 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1 | 4 | 
 | 2023-03-15 | 1 | 4 | 
 | 2023-03-14 | 1 | 4 | 
-| 2023-03-13 | 1 | 4 | 
 

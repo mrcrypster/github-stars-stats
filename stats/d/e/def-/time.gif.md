@@ -1,10 +1,10 @@
 # def-/time.gif - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 26
 
-★ Stars: 489
+★ Stars: 488
 
 [Open repository](https://github.com/def-/time.gif)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 488 | 26 | 
 | 2023-04-11 | 489 | 26 | 
 | 2023-04-10 | 489 | 26 | 
 | 2023-04-09 | 489 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 489 | 26 | 
 | 2023-03-16 | 489 | 26 | 
 | 2023-03-14 | 489 | 26 | 
-| 2023-03-13 | 489 | 26 | 
 

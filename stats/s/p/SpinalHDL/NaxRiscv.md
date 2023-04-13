@@ -1,10 +1,10 @@
 # SpinalHDL/NaxRiscv - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 22
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/SpinalHDL/NaxRiscv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 145 | 22 | 
 | 2023-04-11 | 144 | 22 | 
 | 2023-04-10 | 144 | 22 | 
 | 2023-04-09 | 144 | 22 | 

@@ -1,10 +1,10 @@
 # garimasingh128/awesome-python-projects - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 610
+★ Stars: 609
 
 [Open repository](https://github.com/garimasingh128/awesome-python-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 609 | 186 | 
 | 2023-04-11 | 610 | 185 | 
 | 2023-04-10 | 610 | 185 | 
 | 2023-04-09 | 610 | 185 | 

@@ -1,8 +1,8 @@
 # woylie/flop_phoenix - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 117
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 117 | 12 | 
 | 2023-04-11 | 117 | 11 | 
 | 2023-04-10 | 116 | 11 | 
 | 2023-04-09 | 115 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 102 | 11 | 
 | 2023-03-16 | 102 | 11 | 
 | 2023-03-15 | 102 | 11 | 
-| 2023-03-13 | 101 | 11 | 
 

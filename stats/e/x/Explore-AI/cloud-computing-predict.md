@@ -1,8 +1,8 @@
 # Explore-AI/cloud-computing-predict - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 132
+☋ Forks: 133
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2 | 133 | 
 | 2023-04-11 | 2 | 132 | 
 | 2023-04-10 | 2 | 132 | 
 | 2023-04-09 | 2 | 132 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 2 | 131 | 
 | 2023-03-16 | 2 | 131 | 
 | 2023-03-15 | 2 | 131 | 
-| 2023-03-13 | 2 | 131 | 
 

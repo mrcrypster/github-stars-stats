@@ -1,10 +1,10 @@
 # it-ebooks-0/geektime-books - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 76
 
-★ Stars: 144
+★ Stars: 146
 
 [Open repository](https://github.com/it-ebooks-0/geektime-books)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 146 | 76 | 
 | 2023-04-11 | 144 | 76 | 
 | 2023-04-10 | 141 | 76 | 
 | 2023-04-09 | 140 | 76 | 

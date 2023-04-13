@@ -1,10 +1,10 @@
 # hncboy/chatgpt-web-admin - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/hncboy/chatgpt-web-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 87 | 31 | 
 | 2023-04-11 | 86 | 30 | 
 | 2023-04-10 | 86 | 27 | 
 | 2023-04-09 | 85 | 26 | 

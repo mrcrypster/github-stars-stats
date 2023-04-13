@@ -1,10 +1,10 @@
 # atom0s/Steamless - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 1762
+★ Stars: 1765
 
 [Open repository](https://github.com/atom0s/Steamless)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1765 | 146 | 
 | 2023-04-11 | 1762 | 145 | 
 | 2023-04-10 | 1760 | 145 | 
 | 2023-04-09 | 1759 | 145 | 

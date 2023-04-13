@@ -1,10 +1,10 @@
 # man-group/ArcticDB - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 255
+★ Stars: 258
 
 [Open repository](https://github.com/man-group/ArcticDB)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 258 | 15 | 
 | 2023-04-11 | 255 | 15 | 
 | 2023-04-10 | 254 | 13 | 
 | 2023-04-09 | 252 | 11 | 

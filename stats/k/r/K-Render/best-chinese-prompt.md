@@ -1,10 +1,10 @@
 # K-Render/best-chinese-prompt - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 419
+★ Stars: 436
 
 [Open repository](https://github.com/K-Render/best-chinese-prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 436 | 35 | 
 | 2023-04-11 | 419 | 34 | 
 | 2023-04-10 | 405 | 32 | 
 | 2023-04-09 | 385 | 31 | 

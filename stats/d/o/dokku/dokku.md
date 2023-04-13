@@ -1,10 +1,10 @@
 # dokku/dokku - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1790
+☋ Forks: 1791
 
-★ Stars: 24458
+★ Stars: 24460
 
 [Open repository](https://github.com/dokku/dokku)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 24460 | 1791 | 
 | 2023-04-11 | 24458 | 1790 | 
 | 2023-04-10 | 24458 | 1791 | 
 | 2023-04-09 | 24457 | 1791 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 24366 | 1790 | 
 | 2023-03-16 | 24361 | 1790 | 
 | 2023-03-15 | 24357 | 1788 | 
-| 2023-03-13 | 24351 | 1787 | 
 

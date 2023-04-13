@@ -1,10 +1,10 @@
 # odomu/aliyunpan - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 121
+☋ Forks: 122
 
-★ Stars: 1132
+★ Stars: 1131
 
 [Open repository](https://github.com/odomu/aliyunpan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1131 | 122 | 
 | 2023-04-11 | 1132 | 121 | 
 | 2023-04-10 | 1129 | 120 | 
 | 2023-04-09 | 1130 | 120 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 982 | 100 | 
 | 2023-03-16 | 966 | 95 | 
 | 2023-03-15 | 953 | 91 | 
-| 2023-03-13 | 947 | 86 | 
 

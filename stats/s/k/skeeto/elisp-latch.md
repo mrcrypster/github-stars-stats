@@ -1,6 +1,6 @@
 # skeeto/elisp-latch - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 13 | 3 | 
 | 2023-04-11 | 13 | 3 | 
 | 2023-04-10 | 13 | 3 | 
 | 2023-04-09 | 13 | 3 | 

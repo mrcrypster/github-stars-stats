@@ -1,10 +1,10 @@
 # Unity-Technologies/Addressables-Sample - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 276
+☋ Forks: 277
 
-★ Stars: 1067
+★ Stars: 1068
 
 [Open repository](https://github.com/Unity-Technologies/Addressables-Sample)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1067 | 276 | 
+| 2023-04-13 | 1068 | 277 | 
+| 2023-04-12 | 1068 | 277 | 
 | 2023-04-11 | 1067 | 276 | 
 | 2023-04-10 | 1065 | 275 | 
 | 2023-04-09 | 1064 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 1048 | 274 | 
 | 2023-03-15 | 1047 | 274 | 
 | 2023-03-14 | 1047 | 274 | 
-| 2023-03-13 | 1046 | 273 | 
 

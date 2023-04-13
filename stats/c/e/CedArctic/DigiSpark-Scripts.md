@@ -1,10 +1,10 @@
 # CedArctic/DigiSpark-Scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 580
+☋ Forks: 581
 
-★ Stars: 1501
+★ Stars: 1503
 
 [Open repository](https://github.com/CedArctic/DigiSpark-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1503 | 581 | 
 | 2023-04-11 | 1501 | 580 | 
 | 2023-04-10 | 1499 | 580 | 
 | 2023-04-09 | 1498 | 580 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1479 | 575 | 
 | 2023-03-16 | 1474 | 574 | 
 | 2023-03-14 | 1473 | 572 | 
-| 2023-03-13 | 1472 | 570 | 
 

@@ -1,6 +1,6 @@
 # OrionNavattan/Sonic-2-ASM68K - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 8 | - | 
 | 2023-04-11 | 8 | - | 
 | 2023-04-10 | 8 | - | 
 | 2023-04-09 | 8 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 6 | - | 
 | 2023-03-16 | 6 | - | 
 | 2023-03-14 | 6 | - | 
-| 2023-03-13 | 6 | - | 
 

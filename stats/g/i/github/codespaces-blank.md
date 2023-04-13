@@ -1,10 +1,10 @@
 # github/codespaces-blank - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 697
+☋ Forks: 700
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/github/codespaces-blank)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 152 | 700 | 
 | 2023-04-11 | 151 | 697 | 
 | 2023-04-10 | 151 | 691 | 
 | 2023-04-09 | 150 | 688 | 

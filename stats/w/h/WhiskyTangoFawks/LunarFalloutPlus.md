@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/WhiskyTangoFawks/LunarFalloutPlus)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 21 | 11 | 
+| 2023-04-12 | 22 | 11 | 
 | 2023-04-11 | 21 | 11 | 
 | 2023-04-10 | 21 | 11 | 
 | 2023-04-09 | 21 | 11 | 

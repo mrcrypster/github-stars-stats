@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Infineon/TARGET_CY8CKIT-062S2-43012)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 2 | 1 | 
+| 2023-04-12 | 3 | 1 | 
 | 2023-04-11 | 2 | 1 | 
 | 2023-04-10 | 2 | 1 | 
 | 2023-04-09 | 2 | 1 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 2 | 1 | 
 | 2023-03-15 | 2 | 1 | 
 | 2023-03-14 | 2 | 1 | 
-| 2023-03-13 | 2 | 1 | 
 

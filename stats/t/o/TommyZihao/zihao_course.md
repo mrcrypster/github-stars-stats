@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 97
 
-★ Stars: 713
+★ Stars: 716
 
 [Open repository](https://github.com/TommyZihao/zihao_course)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 713 | 97 | 
+| 2023-04-12 | 716 | 97 | 
 | 2023-04-11 | 713 | 97 | 
 | 2023-04-10 | 702 | 93 | 
 | 2023-04-09 | 676 | 88 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 472 | 57 | 
 | 2023-03-15 | 464 | 56 | 
 | 2023-03-14 | 459 | 56 | 
-| 2023-03-13 | 450 | 55 | 
 

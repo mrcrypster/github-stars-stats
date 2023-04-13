@@ -1,10 +1,10 @@
 # kska32/ebooks - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 563
+★ Stars: 566
 
 [Open repository](https://github.com/kska32/ebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 566 | 108 | 
 | 2023-04-11 | 563 | 107 | 
 | 2023-04-10 | 562 | 107 | 
 

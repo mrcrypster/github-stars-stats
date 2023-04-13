@@ -1,10 +1,10 @@
 # maykbrito/boracodar - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 187
+★ Stars: 191
 
 [Open repository](https://github.com/maykbrito/boracodar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 191 | 95 | 
 | 2023-04-11 | 187 | 94 | 
 | 2023-04-10 | 187 | 94 | 
 | 2023-04-09 | 186 | 94 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 126 | 71 | 
 | 2023-03-16 | 125 | 69 | 
 | 2023-03-15 | 113 | 65 | 
-| 2023-03-13 | 110 | 64 | 
 

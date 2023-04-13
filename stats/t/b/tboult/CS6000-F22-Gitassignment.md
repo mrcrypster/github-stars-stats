@@ -1,6 +1,6 @@
 # tboult/CS6000-F22-Gitassignment - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | - | 16 | 
 | 2023-04-11 | - | 16 | 
 | 2023-04-10 | - | 16 | 
 | 2023-04-09 | - | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | - | 17 | 
 | 2023-03-15 | - | 17 | 
 | 2023-03-14 | - | 17 | 
-| 2023-03-13 | - | 17 | 
 

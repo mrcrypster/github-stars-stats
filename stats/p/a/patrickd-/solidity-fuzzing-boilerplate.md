@@ -1,10 +1,10 @@
 # patrickd-/solidity-fuzzing-boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 16
 
-★ Stars: 149
+★ Stars: 153
 
 [Open repository](https://github.com/patrickd-/solidity-fuzzing-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 153 | 16 | 
 | 2023-04-11 | 149 | 16 | 
 | 2023-04-10 | 149 | 16 | 
 | 2023-04-09 | 149 | 16 | 

@@ -1,6 +1,6 @@
 # mriscoc/Ender3V2S1 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1465 | 212 | 
 | 2023-04-11 | 1465 | 212 | 
 | 2023-04-10 | 1459 | 211 | 
 | 2023-04-09 | 1452 | 211 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1358 | 199 | 
 | 2023-03-15 | 1350 | 196 | 
 | 2023-03-14 | 1345 | 195 | 
-| 2023-03-13 | 1336 | 195 | 
 

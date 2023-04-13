@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 199
+★ Stars: 202
 
 [Open repository](https://github.com/ClickHouse/NoiSQL)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 199 | - | 
+| 2023-04-12 | 202 | - | 
 | 2023-04-11 | 199 | - | 
 | 2023-04-10 | 193 | - | 
 | 2023-04-09 | 185 | - | 

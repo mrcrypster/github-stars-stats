@@ -1,10 +1,10 @@
 # Mr-xn/BLACKHAT_USA2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 72
 
-★ Stars: 460
+★ Stars: 462
 
 [Open repository](https://github.com/Mr-xn/BLACKHAT_USA2022)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 462 | 72 | 
 | 2023-04-11 | 460 | 72 | 
 | 2023-04-10 | 460 | 72 | 
 | 2023-04-09 | 460 | 71 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 454 | 71 | 
 | 2023-03-16 | 454 | 71 | 
 | 2023-03-14 | 454 | 71 | 
-| 2023-03-13 | 453 | 71 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 96
+★ Stars: 98
 
 [Open repository](https://github.com/SolDoesTech/HyprV2)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 96 | 33 | 
+| 2023-04-12 | 98 | 34 | 
 | 2023-04-11 | 94 | 33 | 
 | 2023-04-10 | 87 | 31 | 
 | 2023-04-09 | 79 | 29 | 

@@ -1,10 +1,10 @@
 # antfu/vscode-settings - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 228
 
-★ Stars: 1431
+★ Stars: 1441
 
 [Open repository](https://github.com/antfu/vscode-settings)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1441 | 228 | 
 | 2023-04-11 | 1431 | 228 | 
 | 2023-04-10 | 1424 | 227 | 
 | 2023-04-09 | 1420 | 227 | 

@@ -1,10 +1,10 @@
 # saic-mdal/lama - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 591
 
-★ Stars: 5112
+★ Stars: 5123
 
 [Open repository](https://github.com/saic-mdal/lama)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5123 | 591 | 
 | 2023-04-11 | 5112 | 591 | 
 | 2023-04-10 | 5100 | 590 | 
 | 2023-04-09 | 5089 | 588 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 4957 | 569 | 
 | 2023-03-16 | 4952 | 568 | 
 | 2023-03-14 | 4946 | 566 | 
-| 2023-03-13 | 4940 | 564 | 
 

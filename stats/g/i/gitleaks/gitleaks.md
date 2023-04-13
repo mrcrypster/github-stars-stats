@@ -1,10 +1,10 @@
 # gitleaks/gitleaks - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1162
+☋ Forks: 1163
 
-★ Stars: 12196
+★ Stars: 12200
 
 [Open repository](https://github.com/gitleaks/gitleaks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 12200 | 1163 | 
 | 2023-04-11 | 12196 | 1162 | 
 | 2023-04-10 | 12182 | 1160 | 
 | 2023-04-09 | 12169 | 1160 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 11941 | 1134 | 
 | 2023-03-16 | 11864 | 1128 | 
 | 2023-03-14 | 11851 | 1127 | 
-| 2023-03-13 | 11846 | 1122 | 
 

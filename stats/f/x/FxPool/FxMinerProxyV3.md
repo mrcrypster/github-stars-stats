@@ -1,6 +1,6 @@
 # FxPool/FxMinerProxyV3 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1241 | 184 | 
 | 2023-04-11 | 1241 | 184 | 
 | 2023-04-10 | 1239 | 183 | 
 | 2023-04-09 | 1243 | 183 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1055 | 145 | 
 | 2023-03-16 | 1036 | 141 | 
 | 2023-03-14 | 1035 | 141 | 
-| 2023-03-13 | 1036 | 141 | 
 

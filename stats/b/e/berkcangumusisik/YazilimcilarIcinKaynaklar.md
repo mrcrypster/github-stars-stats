@@ -1,10 +1,10 @@
 # berkcangumusisik/YazilimcilarIcinKaynaklar - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/berkcangumusisik/YazilimcilarIcinKaynaklar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 116 | 11 | 
 | 2023-04-11 | 115 | 11 | 
 | 2023-04-10 | 113 | 12 | 
 | 2023-04-09 | 112 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 111 | 12 | 
 | 2023-03-16 | 110 | 12 | 
 | 2023-03-14 | 109 | 12 | 
-| 2023-03-13 | 108 | 12 | 
 

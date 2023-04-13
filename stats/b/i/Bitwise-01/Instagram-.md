@@ -1,10 +1,10 @@
 # Bitwise-01/Instagram- - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1659
+☋ Forks: 1660
 
-★ Stars: 3241
+★ Stars: 3242
 
 [Open repository](https://github.com/Bitwise-01/Instagram-)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3242 | 1660 | 
 | 2023-04-11 | 3241 | 1659 | 
 | 2023-04-10 | 3241 | 1659 | 
 | 2023-04-09 | 3239 | 1658 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 3207 | 1647 | 
 | 2023-03-16 | 3207 | 1647 | 
 | 2023-03-15 | 3204 | 1646 | 
-| 2023-03-13 | 3200 | 1644 | 
 

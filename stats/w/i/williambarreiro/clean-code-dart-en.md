@@ -1,6 +1,6 @@
 # williambarreiro/clean-code-dart-en - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 107 | 15 | 
 | 2023-04-11 | 107 | 15 | 
 | 2023-04-10 | 107 | 14 | 
 | 2023-04-09 | 107 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 100 | 14 | 
 | 2023-03-16 | 99 | 14 | 
 | 2023-03-15 | 97 | 14 | 
-| 2023-03-13 | 97 | 13 | 
 

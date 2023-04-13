@@ -1,6 +1,6 @@
 # mdexSwap/contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 133 | 112 | 
 | 2023-04-11 | 133 | 112 | 
 | 2023-04-10 | 133 | 112 | 
 | 2023-04-09 | 133 | 112 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 132 | 113 | 
 | 2023-03-15 | 132 | 113 | 
 | 2023-03-14 | 132 | 113 | 
-| 2023-03-13 | 132 | 113 | 
 

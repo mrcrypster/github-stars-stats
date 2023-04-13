@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-business-frontpage - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 296
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-business-frontpage)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 192 | 296 | 
 | 2023-04-11 | 191 | 296 | 
 | 2023-04-10 | 191 | 296 | 
 | 2023-04-09 | 191 | 296 | 

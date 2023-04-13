@@ -1,10 +1,10 @@
 # commandlineparser/commandline - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 450
 
-★ Stars: 3940
+★ Stars: 3943
 
 [Open repository](https://github.com/commandlineparser/commandline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3943 | 450 | 
 | 2023-04-11 | 3940 | 450 | 
 | 2023-04-10 | 3939 | 450 | 
 | 2023-04-09 | 3936 | 450 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 3907 | 447 | 
 | 2023-03-15 | 3906 | 447 | 
 | 2023-03-14 | 3903 | 447 | 
-| 2023-03-13 | 3900 | 447 | 
 

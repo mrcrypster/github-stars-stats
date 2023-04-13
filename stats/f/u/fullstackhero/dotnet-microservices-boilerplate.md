@@ -1,8 +1,8 @@
 # fullstackhero/dotnet-microservices-boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 215
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 215 | 43 | 
 | 2023-04-11 | 215 | 42 | 
 | 2023-04-10 | 215 | 41 | 
 | 2023-04-09 | 212 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 186 | 31 | 
 | 2023-03-16 | 183 | 31 | 
 | 2023-03-15 | 181 | 31 | 
-| 2023-03-14 | 179 | 31 | 
 

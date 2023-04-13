@@ -1,10 +1,10 @@
 # grame-cncm/faustlibraries - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 48
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/grame-cncm/faustlibraries)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 149 | 48 | 
 | 2023-04-12 | 148 | 48 | 
 | 2023-04-10 | 148 | 48 | 
 | 2023-04-09 | 148 | 48 | 

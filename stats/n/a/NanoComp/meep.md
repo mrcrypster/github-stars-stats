@@ -1,10 +1,10 @@
 # NanoComp/meep - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 510
+☋ Forks: 511
 
-★ Stars: 887
+★ Stars: 888
 
 [Open repository](https://github.com/NanoComp/meep)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 888 | 511 | 
 | 2023-04-11 | 887 | 510 | 
 | 2023-04-10 | 887 | 509 | 
 | 2023-04-09 | 887 | 509 | 

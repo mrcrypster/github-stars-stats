@@ -1,10 +1,10 @@
 # marler8997/zig-unofficial-releases - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 31
 
 [Open repository](https://github.com/marler8997/zig-unofficial-releases)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 31 | 1 | 
+| 2023-04-12 | 31 | 1 | 
 | 2023-04-11 | 28 | 1 | 
 | 2023-04-10 | 28 | 1 | 
 

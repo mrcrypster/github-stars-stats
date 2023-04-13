@@ -1,10 +1,10 @@
 # larryaasen/upgrader - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 178
+☋ Forks: 179
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/larryaasen/upgrader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 400 | 179 | 
 | 2023-04-11 | 399 | 178 | 
 | 2023-04-10 | 400 | 178 | 
 | 2023-04-09 | 399 | 177 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 391 | 178 | 
 | 2023-03-16 | 390 | 178 | 
 | 2023-03-15 | 389 | 178 | 
-| 2023-03-14 | 388 | 178 | 
 

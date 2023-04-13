@@ -1,6 +1,6 @@
 # dangkhoasdc/awesome-ai-residency - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 249
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2505 | 249 | 
 | 2023-04-11 | 2505 | 249 | 
 | 2023-04-10 | 2504 | 249 | 
 | 2023-04-09 | 2504 | 249 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 2454 | 244 | 
 | 2023-03-15 | 2452 | 244 | 
 | 2023-03-14 | 2423 | 242 | 
-| 2023-03-13 | 2408 | 242 | 
 

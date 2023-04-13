@@ -1,10 +1,10 @@
 # gollum/gollum - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1614
 
-★ Stars: 13084
+★ Stars: 13086
 
 [Open repository](https://github.com/gollum/gollum)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 13086 | 1614 | 
 | 2023-04-11 | 13084 | 1614 | 
 | 2023-04-10 | 13083 | 1615 | 
 | 2023-04-09 | 13083 | 1615 | 

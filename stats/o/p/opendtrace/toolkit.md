@@ -1,10 +1,10 @@
 # opendtrace/toolkit - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 127
 
-★ Stars: 654
+★ Stars: 653
 
 [Open repository](https://github.com/opendtrace/toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 653 | 127 | 
 | 2023-04-11 | 654 | 127 | 
 | 2023-04-10 | 654 | 127 | 
 | 2023-04-09 | 654 | 127 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 651 | 126 | 
 | 2023-03-16 | 650 | 126 | 
 | 2023-03-15 | 648 | 126 | 
-| 2023-03-13 | 648 | 126 | 
 

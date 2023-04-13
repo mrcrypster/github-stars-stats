@@ -1,10 +1,10 @@
 # FastForwardTeam/FastForward - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 248
+☋ Forks: 250
 
-★ Stars: 2442
+★ Stars: 2450
 
 [Open repository](https://github.com/FastForwardTeam/FastForward)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2450 | 250 | 
 | 2023-04-11 | 2442 | 248 | 
 | 2023-04-10 | 2439 | 247 | 
 | 2023-04-09 | 2432 | 246 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 2308 | 232 | 
 | 2023-03-15 | 2306 | 233 | 
 | 2023-03-14 | 2301 | 232 | 
-| 2023-03-13 | 2299 | 232 | 
 

@@ -1,10 +1,10 @@
 # android/architecture-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 11473
+☋ Forks: 11474
 
-★ Stars: 42506
+★ Stars: 42510
 
 [Open repository](https://github.com/android/architecture-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 42510 | 11474 | 
 | 2023-04-11 | 42506 | 11473 | 
 | 2023-04-10 | 42497 | 11472 | 
 | 2023-04-09 | 42486 | 11471 | 

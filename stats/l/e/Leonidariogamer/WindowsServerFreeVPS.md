@@ -1,10 +1,8 @@
 # Leonidariogamer/WindowsServerFreeVPS - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+☋ Forks: 
 
-☋ Forks: 172
-
-★ Stars: 2
+★ Stars: 
 
 [Open repository](https://github.com/Leonidariogamer/WindowsServerFreeVPS)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 2 | 172 | 
 

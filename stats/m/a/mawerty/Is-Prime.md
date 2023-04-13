@@ -1,10 +1,10 @@
 # mawerty/Is-Prime - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 51
+☋ Forks: 53
 
-★ Stars: 214
+★ Stars: 216
 
 [Open repository](https://github.com/mawerty/Is-Prime)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 216 | 53 | 
 | 2023-04-11 | 214 | 51 | 
 

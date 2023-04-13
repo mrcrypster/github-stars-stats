@@ -1,10 +1,10 @@
 # chibat/chrome-extension-typescript-starter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 313
 
-★ Stars: 1804
+★ Stars: 1811
 
 [Open repository](https://github.com/chibat/chrome-extension-typescript-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1811 | 313 | 
 | 2023-04-11 | 1804 | 313 | 
 | 2023-04-10 | 1800 | 313 | 
 | 2023-04-09 | 1794 | 312 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1637 | 291 | 
 | 2023-03-16 | 1620 | 290 | 
 | 2023-03-14 | 1599 | 287 | 
-| 2023-03-13 | 1583 | 284 | 
 

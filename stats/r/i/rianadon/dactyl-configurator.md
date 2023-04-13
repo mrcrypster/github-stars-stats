@@ -1,10 +1,10 @@
 # rianadon/dactyl-configurator - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/rianadon/dactyl-configurator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 42 | 1 | 
 | 2023-04-11 | 41 | 1 | 
 | 2023-04-10 | 39 | 1 | 
 | 2023-04-09 | 38 | 1 | 

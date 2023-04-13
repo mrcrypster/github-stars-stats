@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 202
 
-★ Stars: 2244
+★ Stars: 2249
 
 [Open repository](https://github.com/GuidoBartoli/sherloq)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 2244 | 202 | 
+| 2023-04-12 | 2249 | 202 | 
 | 2023-04-11 | 2244 | 201 | 
 | 2023-04-10 | 2244 | 200 | 
 | 2023-04-09 | 2243 | 199 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 2168 | 195 | 
 | 2023-03-16 | 2167 | 195 | 
 | 2023-03-14 | 2166 | 194 | 
-| 2023-03-13 | 2166 | 194 | 
 

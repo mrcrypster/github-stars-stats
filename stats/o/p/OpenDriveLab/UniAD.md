@@ -1,10 +1,10 @@
 # OpenDriveLab/UniAD - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 36
 
-★ Stars: 439
+★ Stars: 446
 
 [Open repository](https://github.com/OpenDriveLab/UniAD)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 446 | 36 | 
 | 2023-04-11 | 439 | 36 | 
 | 2023-04-10 | 435 | 34 | 
 | 2023-04-09 | 425 | 34 | 

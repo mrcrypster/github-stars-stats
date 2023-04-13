@@ -1,10 +1,10 @@
 # sajjaddg/xray-reality - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 30
+☋ Forks: 29
 
-★ Stars: 95
+★ Stars: 99
 
 [Open repository](https://github.com/sajjaddg/xray-reality)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 99 | 29 | 
 | 2023-04-11 | 95 | 30 | 
 | 2023-04-10 | 95 | 30 | 
 | 2023-04-09 | 94 | 29 | 

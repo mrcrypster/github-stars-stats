@@ -1,6 +1,6 @@
 # c-blake/cligen - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 436 | 21 | 
 | 2023-04-11 | 436 | 21 | 
 | 2023-04-10 | 436 | 21 | 
 | 2023-04-09 | 436 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 433 | 21 | 
 | 2023-03-16 | 431 | 21 | 
 | 2023-03-15 | 431 | 21 | 
-| 2023-03-13 | 431 | 21 | 
 

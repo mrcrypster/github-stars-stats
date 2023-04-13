@@ -1,10 +1,10 @@
 # sebastianbergmann/php-file-iterator - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 50
 
-★ Stars: 7221
+★ Stars: 7223
 
 [Open repository](https://github.com/sebastianbergmann/php-file-iterator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 7223 | 50 | 
 | 2023-04-11 | 7221 | 50 | 
 | 2023-04-10 | 7221 | 50 | 
 | 2023-04-09 | 7221 | 50 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 7203 | 49 | 
 | 2023-03-15 | 7202 | 49 | 
 | 2023-03-14 | 7201 | 49 | 
-| 2023-03-13 | 7199 | 49 | 
 

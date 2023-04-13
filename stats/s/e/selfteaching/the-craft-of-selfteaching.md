@@ -1,10 +1,10 @@
 # selfteaching/the-craft-of-selfteaching - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 15204
+☋ Forks: 15208
 
-★ Stars: 13787
+★ Stars: 13791
 
 [Open repository](https://github.com/selfteaching/the-craft-of-selfteaching)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 13791 | 15208 | 
 | 2023-04-11 | 13787 | 15204 | 
 | 2023-04-10 | 13784 | 15194 | 
 | 2023-04-09 | 13775 | 15192 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 13758 | 15169 | 
 | 2023-03-16 | 13758 | 15169 | 
 | 2023-03-15 | 13757 | 15167 | 
-| 2023-03-14 | 13754 | 15164 | 
 

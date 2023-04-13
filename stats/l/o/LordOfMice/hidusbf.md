@@ -1,10 +1,10 @@
 # LordOfMice/hidusbf - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 121
 
-★ Stars: 572
+★ Stars: 575
 
 [Open repository](https://github.com/LordOfMice/hidusbf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 575 | 121 | 
 | 2023-04-11 | 572 | 121 | 
 | 2023-04-10 | 572 | 120 | 
 | 2023-04-09 | 571 | 120 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 561 | 118 | 
 | 2023-03-15 | 561 | 118 | 
 | 2023-03-14 | 560 | 118 | 
-| 2023-03-13 | 560 | 118 | 
 

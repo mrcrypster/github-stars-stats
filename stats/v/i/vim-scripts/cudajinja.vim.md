@@ -1,6 +1,6 @@
 # vim-scripts/cudajinja.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1 | - | 
 | 2023-04-11 | 1 | - | 
 | 2023-04-10 | 1 | - | 
 | 2023-04-09 | 1 | - | 

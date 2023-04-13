@@ -1,6 +1,6 @@
 # cattle-ops/terraform-aws-gitlab-runner - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 291
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 479 | 291 | 
 | 2023-04-11 | 479 | 291 | 
 

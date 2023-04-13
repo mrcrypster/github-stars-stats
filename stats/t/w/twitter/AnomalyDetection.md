@@ -1,10 +1,10 @@
 # twitter/AnomalyDetection - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 781
 
-★ Stars: 3491
+★ Stars: 3494
 
 [Open repository](https://github.com/twitter/AnomalyDetection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3494 | 781 | 
 | 2023-04-11 | 3491 | 781 | 
 | 2023-04-10 | 3491 | 782 | 
 | 2023-04-09 | 3491 | 782 | 

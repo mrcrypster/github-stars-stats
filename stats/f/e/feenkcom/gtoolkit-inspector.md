@@ -1,6 +1,6 @@
 # feenkcom/gtoolkit-inspector - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7 | 2 | 
+| 2023-04-12 | 7 | 2 | 
 | 2023-04-11 | 7 | 2 | 
 | 2023-04-10 | 7 | 2 | 
 | 2023-04-09 | 7 | 2 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 7 | 2 | 
 | 2023-03-15 | 7 | 2 | 
 | 2023-03-14 | 7 | 2 | 
-| 2023-03-13 | 7 | 2 | 
 

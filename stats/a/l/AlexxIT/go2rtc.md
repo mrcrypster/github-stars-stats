@@ -1,10 +1,10 @@
 # AlexxIT/go2rtc - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 887
+★ Stars: 890
 
 [Open repository](https://github.com/AlexxIT/go2rtc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 890 | 58 | 
 | 2023-04-11 | 887 | 57 | 
 | 2023-04-10 | 879 | 56 | 
 | 2023-04-09 | 875 | 56 | 

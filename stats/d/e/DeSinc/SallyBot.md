@@ -1,10 +1,10 @@
 # DeSinc/SallyBot - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 29
+☋ Forks: 31
 
-★ Stars: 188
+★ Stars: 194
 
 [Open repository](https://github.com/DeSinc/SallyBot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 194 | 31 | 
 | 2023-04-11 | 188 | 29 | 
 | 2023-04-10 | 180 | 27 | 
 | 2023-04-09 | 172 | 25 | 

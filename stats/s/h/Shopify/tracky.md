@@ -1,6 +1,6 @@
 # Shopify/tracky - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 178 | 13 | 
 | 2023-04-11 | 178 | 13 | 
 | 2023-04-10 | 177 | 13 | 
 | 2023-04-08 | 177 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 146 | 9 | 
 | 2023-03-16 | 145 | 9 | 
 | 2023-03-14 | 144 | 9 | 
-| 2023-03-13 | 141 | 9 | 
 

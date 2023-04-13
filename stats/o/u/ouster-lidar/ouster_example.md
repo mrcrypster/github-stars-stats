@@ -1,10 +1,10 @@
 # ouster-lidar/ouster_example - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 399
 
-★ Stars: 404
+★ Stars: 406
 
 [Open repository](https://github.com/ouster-lidar/ouster_example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 406 | 399 | 
 | 2023-04-11 | 404 | 399 | 
 | 2023-04-10 | 404 | 399 | 
 | 2023-04-09 | 403 | 399 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 399 | 395 | 
 | 2023-03-16 | 398 | 395 | 
 | 2023-03-15 | 398 | 397 | 
-| 2023-03-13 | 398 | 397 | 
 

@@ -1,10 +1,10 @@
 # stevearc/oil.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 522
+★ Stars: 523
 
 [Open repository](https://github.com/stevearc/oil.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 523 | 9 | 
 | 2023-04-11 | 522 | 9 | 
 | 2023-04-10 | 520 | 9 | 
 | 2023-04-09 | 518 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 479 | 9 | 
 | 2023-03-16 | 476 | 9 | 
 | 2023-03-14 | 477 | 9 | 
-| 2023-03-13 | 473 | 9 | 
 

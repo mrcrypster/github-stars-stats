@@ -1,6 +1,6 @@
 # Pure-D/serve-d - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 156 | 40 | 
 | 2023-04-11 | 156 | 40 | 
 | 2023-04-10 | 156 | 40 | 
 | 2023-04-09 | 156 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 149 | 39 | 
 | 2023-03-15 | 149 | 39 | 
 | 2023-03-14 | 149 | 39 | 
-| 2023-03-13 | 148 | 39 | 
 

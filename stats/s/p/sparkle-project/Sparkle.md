@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 1017
 
-★ Stars: 6331
+★ Stars: 6338
 
 [Open repository](https://github.com/sparkle-project/Sparkle)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 6331 | 1017 | 
+| 2023-04-12 | 6338 | 1017 | 
 | 2023-04-11 | 6330 | 1017 | 
 | 2023-04-10 | 6328 | 1018 | 
 | 2023-04-09 | 6321 | 1018 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 6295 | 1015 | 
 | 2023-03-16 | 6292 | 1013 | 
 | 2023-03-15 | 6290 | 1013 | 
-| 2023-03-14 | 6285 | 1012 | 
 

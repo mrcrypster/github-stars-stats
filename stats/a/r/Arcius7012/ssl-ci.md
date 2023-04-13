@@ -1,10 +1,10 @@
 # Arcius7012/ssl-ci - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/Arcius7012/ssl-ci)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 24 | 4 | 
+| 2023-04-13 | 26 | 4 | 
+| 2023-04-12 | 25 | 4 | 
 | 2023-04-11 | 23 | 4 | 
 | 2023-04-10 | 22 | 3 | 
 | 2023-04-09 | 18 | 2 | 

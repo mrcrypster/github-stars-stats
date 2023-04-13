@@ -1,6 +1,6 @@
 # DavidXanatos/wumgr - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1237 | 145 | 
 | 2023-04-11 | 1237 | 145 | 
 | 2023-04-10 | 1238 | 145 | 
 | 2023-04-09 | 1237 | 145 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1220 | 144 | 
 | 2023-03-16 | 1220 | 144 | 
 | 2023-03-15 | 1219 | 144 | 
-| 2023-03-13 | 1218 | 144 | 
 

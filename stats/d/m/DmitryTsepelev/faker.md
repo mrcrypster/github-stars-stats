@@ -1,6 +1,6 @@
 # DmitryTsepelev/faker - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 46 | 4 | 
 | 2023-04-11 | 46 | 4 | 
 | 2023-04-10 | 46 | 4 | 
 | 2023-04-09 | 46 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 46 | 4 | 
 | 2023-03-15 | 46 | 4 | 
 | 2023-03-14 | 46 | 4 | 
-| 2023-03-13 | 46 | 4 | 
 

@@ -1,10 +1,10 @@
 # RevenueCat/purchases-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 239
+☋ Forks: 240
 
-★ Stars: 1713
+★ Stars: 1714
 
 [Open repository](https://github.com/RevenueCat/purchases-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1714 | 240 | 
 | 2023-04-11 | 1713 | 239 | 
 | 2023-04-10 | 1713 | 239 | 
 | 2023-04-09 | 1709 | 238 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1673 | 233 | 
 | 2023-03-15 | 1673 | 232 | 
 | 2023-03-14 | 1671 | 232 | 
-| 2023-03-13 | 1669 | 232 | 
 

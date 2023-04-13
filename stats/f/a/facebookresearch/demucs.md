@@ -1,10 +1,10 @@
 # facebookresearch/demucs - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 695
+☋ Forks: 696
 
-★ Stars: 5417
+★ Stars: 5429
 
 [Open repository](https://github.com/facebookresearch/demucs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5429 | 696 | 
 | 2023-04-11 | 5417 | 695 | 
 | 2023-04-10 | 5411 | 694 | 
 | 2023-04-09 | 5408 | 694 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 5230 | 677 | 
 | 2023-03-15 | 5221 | 677 | 
 | 2023-03-14 | 5212 | 677 | 
-| 2023-03-13 | 5201 | 676 | 
 

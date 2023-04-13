@@ -1,10 +1,10 @@
 # skilion/onedrive - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 358
 
-★ Stars: 3995
+★ Stars: 3998
 
 [Open repository](https://github.com/skilion/onedrive)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3998 | 358 | 
 | 2023-04-11 | 3995 | 358 | 
 | 2023-04-10 | 3996 | 358 | 
 | 2023-04-09 | 3997 | 358 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 3996 | 359 | 
 | 2023-03-15 | 3997 | 359 | 
 | 2023-03-14 | 3996 | 359 | 
-| 2023-03-13 | 3995 | 359 | 
 

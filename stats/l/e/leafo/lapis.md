@@ -1,10 +1,10 @@
 # leafo/lapis - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 238
 
-★ Stars: 2813
+★ Stars: 2814
 
 [Open repository](https://github.com/leafo/lapis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2814 | 238 | 
 | 2023-04-11 | 2813 | 238 | 
 | 2023-04-10 | 2813 | 238 | 
 | 2023-04-09 | 2813 | 238 | 

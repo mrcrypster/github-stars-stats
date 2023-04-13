@@ -1,10 +1,10 @@
 # jothepro/doxygen-awesome-css - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 79
 
-★ Stars: 638
+★ Stars: 640
 
 [Open repository](https://github.com/jothepro/doxygen-awesome-css)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 640 | 79 | 
 | 2023-04-11 | 638 | 79 | 
 | 2023-04-10 | 638 | 79 | 
 | 2023-04-09 | 638 | 79 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 626 | 75 | 
 | 2023-03-16 | 626 | 75 | 
 | 2023-03-15 | 625 | 75 | 
-| 2023-03-13 | 625 | 74 | 
 

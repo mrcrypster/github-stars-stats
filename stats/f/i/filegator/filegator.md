@@ -1,10 +1,10 @@
 # filegator/filegator - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 290
 
-★ Stars: 1391
+★ Stars: 1392
 
 [Open repository](https://github.com/filegator/filegator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1392 | 290 | 
 | 2023-04-11 | 1391 | 290 | 
 | 2023-04-10 | 1389 | 290 | 
 | 2023-04-09 | 1389 | 290 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1367 | 290 | 
 | 2023-03-16 | 1365 | 289 | 
 | 2023-03-14 | 1363 | 289 | 
-| 2023-03-13 | 1362 | 289 | 
 

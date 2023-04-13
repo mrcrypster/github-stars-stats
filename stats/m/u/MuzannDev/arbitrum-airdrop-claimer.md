@@ -1,6 +1,6 @@
 # MuzannDev/arbitrum-airdrop-claimer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 21 | 10 | 
 | 2023-04-11 | 21 | 10 | 
 | 2023-04-10 | 21 | 10 | 
 | 2023-04-09 | 21 | 10 | 

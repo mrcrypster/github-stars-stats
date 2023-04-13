@@ -1,6 +1,6 @@
 # feenkcom/gtoolkit-completer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 22 | 3 | 
+| 2023-04-12 | 22 | 3 | 
 | 2023-04-11 | 22 | 3 | 
 | 2023-04-10 | 22 | 3 | 
 | 2023-04-09 | 22 | 3 | 

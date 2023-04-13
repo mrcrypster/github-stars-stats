@@ -1,8 +1,8 @@
 # creativetimofficial/vue-notus - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 324
+☋ Forks: 325
 
 ★ Stars: 456
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 456 | 325 | 
 | 2023-04-11 | 456 | 324 | 
 | 2023-04-10 | 454 | 322 | 
 | 2023-04-09 | 453 | 322 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 446 | 302 | 
 | 2023-03-16 | 446 | 301 | 
 | 2023-03-15 | 445 | 299 | 
-| 2023-03-13 | 445 | 299 | 
 

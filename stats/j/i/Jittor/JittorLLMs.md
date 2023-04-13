@@ -1,10 +1,10 @@
 # Jittor/JittorLLMs - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 395
+★ Stars: 406
 
 [Open repository](https://github.com/Jittor/JittorLLMs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 406 | 26 | 
 | 2023-04-11 | 395 | 25 | 
 | 2023-04-10 | 382 | 25 | 
 | 2023-04-09 | 351 | 24 | 

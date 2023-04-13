@@ -1,10 +1,10 @@
 # GuidoPenta/galactic-CV-guide - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 9
+☋ Forks: 8
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/GuidoPenta/galactic-CV-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 176 | 8 | 
 | 2023-04-11 | 175 | 9 | 
 | 2023-04-10 | 175 | 9 | 
 | 2023-04-09 | 175 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 168 | 9 | 
 | 2023-03-16 | 167 | 9 | 
 | 2023-03-14 | 165 | 9 | 
-| 2023-03-13 | 164 | 9 | 
 

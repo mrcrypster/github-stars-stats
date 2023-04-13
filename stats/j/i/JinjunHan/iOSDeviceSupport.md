@@ -1,10 +1,10 @@
 # JinjunHan/iOSDeviceSupport - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 170
 
-★ Stars: 1027
+★ Stars: 1028
 
 [Open repository](https://github.com/JinjunHan/iOSDeviceSupport)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1028 | 170 | 
 | 2023-04-11 | 1027 | 170 | 
 | 2023-04-10 | 1025 | 170 | 
 | 2023-04-09 | 1025 | 169 | 

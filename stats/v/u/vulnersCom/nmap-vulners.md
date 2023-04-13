@@ -1,10 +1,10 @@
 # vulnersCom/nmap-vulners - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 507
 
-★ Stars: 2898
+★ Stars: 2899
 
 [Open repository](https://github.com/vulnersCom/nmap-vulners)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2899 | 507 | 
 | 2023-04-11 | 2898 | 507 | 
 | 2023-04-10 | 2897 | 507 | 
 | 2023-04-09 | 2896 | 507 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 2879 | 509 | 
 | 2023-03-16 | 2877 | 509 | 
 | 2023-03-14 | 2877 | 509 | 
-| 2023-03-13 | 2877 | 509 | 
 

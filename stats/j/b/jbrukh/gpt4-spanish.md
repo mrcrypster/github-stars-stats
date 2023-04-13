@@ -1,6 +1,6 @@
 # jbrukh/gpt4-spanish - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 143 | 9 | 
 | 2023-04-11 | 143 | 9 | 
 | 2023-04-10 | 143 | 9 | 
 | 2023-04-09 | 143 | 9 | 

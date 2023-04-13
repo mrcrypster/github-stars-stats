@@ -1,6 +1,6 @@
 # rknightuk/mac-30-font-svg - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 116 | 7 | 
 | 2023-04-11 | 116 | 7 | 
 | 2023-04-10 | 115 | 7 | 
 | 2023-04-09 | 115 | 7 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 111 | 6 | 
 | 2023-03-16 | 111 | 6 | 
 | 2023-03-15 | 111 | 6 | 
-| 2023-03-14 | 111 | 6 | 
 

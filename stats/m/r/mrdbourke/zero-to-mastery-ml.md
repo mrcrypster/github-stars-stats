@@ -1,10 +1,10 @@
 # mrdbourke/zero-to-mastery-ml - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 2856
+☋ Forks: 2859
 
-★ Stars: 1826
+★ Stars: 1830
 
 [Open repository](https://github.com/mrdbourke/zero-to-mastery-ml)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1830 | 2859 | 
 | 2023-04-11 | 1826 | 2856 | 
 | 2023-04-10 | 1824 | 2856 | 
 | 2023-04-09 | 1822 | 2854 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1767 | 2780 | 
 | 2023-03-15 | 1763 | 2769 | 
 | 2023-03-14 | 1763 | 2769 | 
-| 2023-03-13 | 1758 | 2763 | 
 

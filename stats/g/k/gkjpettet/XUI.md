@@ -1,8 +1,8 @@
 # gkjpettet/XUI - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5 | 6 | 
 | 2023-04-11 | 5 | 5 | 
 | 2023-04-10 | 4 | 5 | 
 | 2023-04-09 | 4 | 5 | 

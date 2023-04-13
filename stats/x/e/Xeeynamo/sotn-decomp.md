@@ -1,6 +1,6 @@
 # Xeeynamo/sotn-decomp - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 178 | 17 | 
 | 2023-04-11 | 178 | 17 | 
 | 2023-04-10 | 178 | 16 | 
 | 2023-04-09 | 177 | 16 | 

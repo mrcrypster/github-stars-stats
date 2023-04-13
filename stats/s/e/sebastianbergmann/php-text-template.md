@@ -1,10 +1,10 @@
 # sebastianbergmann/php-text-template - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 32
 
-★ Stars: 7167
+★ Stars: 7169
 
 [Open repository](https://github.com/sebastianbergmann/php-text-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 7169 | 32 | 
 | 2023-04-11 | 7167 | 32 | 
 | 2023-04-10 | 7167 | 32 | 
 | 2023-04-09 | 7168 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 7148 | 32 | 
 | 2023-03-16 | 7147 | 32 | 
 | 2023-03-14 | 7147 | 32 | 
-| 2023-03-13 | 7145 | 32 | 
 

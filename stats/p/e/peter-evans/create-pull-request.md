@@ -1,10 +1,10 @@
 # peter-evans/create-pull-request - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 332
+☋ Forks: 333
 
-★ Stars: 1412
+★ Stars: 1416
 
 [Open repository](https://github.com/peter-evans/create-pull-request)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1416 | 333 | 
 | 2023-04-11 | 1412 | 332 | 
 | 2023-04-10 | 1408 | 332 | 
 | 2023-04-09 | 1407 | 331 | 

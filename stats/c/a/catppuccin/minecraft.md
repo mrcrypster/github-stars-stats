@@ -1,10 +1,10 @@
 # catppuccin/minecraft - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 148
+★ Stars: 150
 
 [Open repository](https://github.com/catppuccin/minecraft)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 150 | 5 | 
 | 2023-04-11 | 148 | 5 | 
 | 2023-04-10 | 148 | 5 | 
 | 2023-04-09 | 148 | 5 | 

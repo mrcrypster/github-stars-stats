@@ -1,10 +1,10 @@
 # yuvalsuede/ai-component-generator - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 105
 
-★ Stars: 1091
+★ Stars: 1087
 
 [Open repository](https://github.com/yuvalsuede/ai-component-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1087 | 105 | 
 | 2023-04-11 | 1091 | 105 | 
 | 2023-04-10 | 1088 | 104 | 
 | 2023-04-09 | 1085 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 935 | 94 | 
 | 2023-03-15 | 921 | 93 | 
 | 2023-03-14 | 865 | 87 | 
-| 2023-03-13 | 841 | 86 | 
 

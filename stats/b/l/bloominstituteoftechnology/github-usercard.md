@@ -1,6 +1,6 @@
 # bloominstituteoftechnology/github-usercard - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3699
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 14 | 3699 | 
 | 2023-04-11 | 14 | 3699 | 
 | 2023-04-09 | 14 | 3692 | 
 | 2023-04-08 | 14 | 3692 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 14 | 3688 | 
 | 2023-03-16 | 14 | 3687 | 
 | 2023-03-14 | 14 | 3685 | 
-| 2023-03-13 | 14 | 3684 | 
 

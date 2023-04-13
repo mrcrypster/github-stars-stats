@@ -1,10 +1,10 @@
 # Roaa94/flutter-world-of-shaders - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 109
+★ Stars: 113
 
 [Open repository](https://github.com/Roaa94/flutter-world-of-shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 113 | 11 | 
 | 2023-04-11 | 109 | 11 | 
 | 2023-04-10 | 101 | 8 | 
 

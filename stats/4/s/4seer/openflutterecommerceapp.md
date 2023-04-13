@@ -1,10 +1,10 @@
 # 4seer/openflutterecommerceapp - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 339
 
-★ Stars: 699
+★ Stars: 700
 
 [Open repository](https://github.com/4seer/openflutterecommerceapp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 700 | 339 | 
 | 2023-04-11 | 699 | 339 | 
 | 2023-04-10 | 698 | 339 | 
 | 2023-04-09 | 697 | 339 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 686 | 333 | 
 | 2023-03-16 | 686 | 333 | 
 | 2023-03-14 | 686 | 332 | 
-| 2023-03-13 | 686 | 332 | 
 

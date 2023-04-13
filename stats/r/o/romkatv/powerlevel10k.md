@@ -1,10 +1,10 @@
 # romkatv/powerlevel10k - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1884
+☋ Forks: 1883
 
-★ Stars: 35494
+★ Stars: 35516
 
 [Open repository](https://github.com/romkatv/powerlevel10k)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 35516 | 1883 | 
 | 2023-04-11 | 35494 | 1884 | 
 | 2023-04-10 | 35470 | 1881 | 
 | 2023-04-09 | 35454 | 1882 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 35013 | 1856 | 
 | 2023-03-15 | 34964 | 1850 | 
 | 2023-03-14 | 34936 | 1847 | 
-| 2023-03-13 | 34911 | 1846 | 
 

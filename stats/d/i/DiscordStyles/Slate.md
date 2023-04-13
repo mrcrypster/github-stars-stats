@@ -1,8 +1,8 @@
 # DiscordStyles/Slate - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 194
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 194 | 83 | 
 | 2023-04-11 | 194 | 82 | 
 | 2023-04-10 | 193 | 82 | 
 | 2023-04-09 | 193 | 82 | 

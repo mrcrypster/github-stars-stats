@@ -1,10 +1,10 @@
 # microsoft/PowerToys - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 5155
+☋ Forks: 5160
 
-★ Stars: 89359
+★ Stars: 89394
 
 [Open repository](https://github.com/microsoft/PowerToys)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 89394 | 5160 | 
 | 2023-04-11 | 89359 | 5155 | 
 | 2023-04-10 | 89321 | 5153 | 
 | 2023-04-09 | 89263 | 5152 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 88215 | 5065 | 
 | 2023-03-16 | 88143 | 5060 | 
 | 2023-03-15 | 88080 | 5056 | 
-| 2023-03-13 | 88018 | 5056 | 
 

@@ -1,10 +1,10 @@
 # zphang/minimal-llama - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 31
 
-★ Stars: 356
+★ Stars: 358
 
 [Open repository](https://github.com/zphang/minimal-llama)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 358 | 31 | 
 | 2023-04-11 | 356 | 31 | 
 | 2023-04-10 | 351 | 31 | 
 | 2023-04-09 | 350 | 31 | 

@@ -1,10 +1,10 @@
 # traghav/auto-redteam - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/traghav/auto-redteam)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 220 | 6 | 
 | 2023-04-12 | 219 | 6 | 
 | 2023-04-10 | 219 | 6 | 
 | 2023-04-09 | 219 | 6 | 

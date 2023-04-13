@@ -1,10 +1,10 @@
 # NVlabs/prismer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 1071
+★ Stars: 1073
 
 [Open repository](https://github.com/NVlabs/prismer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1073 | 58 | 
 | 2023-04-11 | 1071 | 57 | 
 | 2023-04-10 | 1068 | 56 | 
 | 2023-04-09 | 1066 | 56 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 845 | 41 | 
 | 2023-03-16 | 824 | 41 | 
 | 2023-03-14 | 784 | 40 | 
-| 2023-03-13 | 739 | 38 | 
 

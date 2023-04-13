@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 77
+★ Stars: 80
 
 [Open repository](https://github.com/otherjoel/tabloid)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 77 | 3 | 
+| 2023-04-12 | 80 | 3 | 
 | 2023-04-11 | 75 | 3 | 
 

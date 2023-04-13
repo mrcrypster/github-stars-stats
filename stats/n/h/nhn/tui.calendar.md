@@ -1,10 +1,10 @@
 # nhn/tui.calendar - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1181
+☋ Forks: 1182
 
-★ Stars: 10709
+★ Stars: 10713
 
 [Open repository](https://github.com/nhn/tui.calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 10713 | 1182 | 
 | 2023-04-11 | 10709 | 1181 | 
 | 2023-04-10 | 10709 | 1181 | 
 | 2023-04-09 | 10706 | 1180 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 10656 | 1172 | 
 | 2023-03-16 | 10656 | 1173 | 
 | 2023-03-14 | 10655 | 1173 | 
-| 2023-03-13 | 10655 | 1174 | 
 

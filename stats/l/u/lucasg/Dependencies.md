@@ -1,10 +1,10 @@
 # lucasg/Dependencies - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 542
+☋ Forks: 543
 
-★ Stars: 6277
+★ Stars: 6281
 
 [Open repository](https://github.com/lucasg/Dependencies)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 6281 | 543 | 
 | 2023-04-11 | 6277 | 542 | 
 | 2023-04-10 | 6273 | 542 | 
 | 2023-04-09 | 6269 | 542 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 6171 | 533 | 
 | 2023-03-16 | 6166 | 533 | 
 | 2023-03-15 | 6156 | 532 | 
-| 2023-03-13 | 6154 | 532 | 
 

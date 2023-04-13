@@ -1,6 +1,6 @@
 # Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1543 | 219 | 
 | 2023-04-11 | 1543 | 219 | 
 | 2023-04-10 | 1543 | 220 | 
 

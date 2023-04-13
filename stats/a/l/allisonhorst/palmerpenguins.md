@@ -1,8 +1,8 @@
 # allisonhorst/palmerpenguins - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 168
+☋ Forks: 169
 
 ★ Stars: 749
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 749 | 169 | 
 | 2023-04-11 | 749 | 168 | 
 | 2023-04-10 | 749 | 168 | 
 | 2023-04-09 | 749 | 168 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 743 | 163 | 
 | 2023-03-16 | 743 | 163 | 
 | 2023-03-15 | 742 | 163 | 
-| 2023-03-13 | 742 | 163 | 
 

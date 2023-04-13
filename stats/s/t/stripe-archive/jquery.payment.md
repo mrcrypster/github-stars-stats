@@ -1,10 +1,10 @@
 # stripe-archive/jquery.payment - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 711
 
-★ Stars: 3555
+★ Stars: 3556
 
 [Open repository](https://github.com/stripe-archive/jquery.payment)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3556 | 711 | 
 | 2023-04-11 | 3555 | 711 | 
 | 2023-04-10 | 3555 | 710 | 
 | 2023-04-09 | 3555 | 710 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 3552 | 711 | 
 | 2023-03-15 | 3553 | 711 | 
 | 2023-03-14 | 3552 | 711 | 
-| 2023-03-13 | 3552 | 712 | 
 

@@ -1,10 +1,10 @@
 # tc39/proposal-temporal - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 138
 
-★ Stars: 2760
+★ Stars: 2763
 
 [Open repository](https://github.com/tc39/proposal-temporal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2763 | 138 | 
 | 2023-04-11 | 2760 | 138 | 
 | 2023-04-10 | 2760 | 138 | 
 | 2023-04-09 | 2760 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 2732 | 137 | 
 | 2023-03-16 | 2730 | 137 | 
 | 2023-03-15 | 2730 | 137 | 
-| 2023-03-13 | 2727 | 137 | 
 

@@ -1,10 +1,10 @@
 # c121914yu/FastGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 62
+☋ Forks: 69
 
-★ Stars: 257
+★ Stars: 270
 
 [Open repository](https://github.com/c121914yu/FastGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 270 | 69 | 
 | 2023-04-11 | 257 | 62 | 
 | 2023-04-10 | 246 | 54 | 
 | 2023-04-09 | 230 | 45 | 

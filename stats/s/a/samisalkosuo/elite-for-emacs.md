@@ -1,6 +1,6 @@
 # samisalkosuo/elite-for-emacs - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 132 | 10 | 
 | 2023-04-11 | 132 | 10 | 
 | 2023-04-10 | 132 | 10 | 
 | 2023-04-09 | 132 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 132 | 10 | 
 | 2023-03-16 | 132 | 10 | 
 | 2023-03-14 | 132 | 10 | 
-| 2023-03-13 | 132 | 10 | 
 

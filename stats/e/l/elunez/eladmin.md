@@ -1,10 +1,10 @@
 # elunez/eladmin - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 7031
+☋ Forks: 7034
 
-★ Stars: 19567
+★ Stars: 19578
 
 [Open repository](https://github.com/elunez/eladmin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 19578 | 7034 | 
 | 2023-04-11 | 19567 | 7031 | 
 | 2023-04-10 | 19554 | 7027 | 
 | 2023-04-09 | 19552 | 7024 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 19435 | 6999 | 
 | 2023-03-15 | 19430 | 6998 | 
 | 2023-03-14 | 19422 | 6994 | 
-| 2023-03-13 | 19415 | 6993 | 
 

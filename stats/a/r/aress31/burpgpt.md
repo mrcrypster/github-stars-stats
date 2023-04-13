@@ -1,10 +1,10 @@
 # aress31/burpgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 50
+☋ Forks: 61
 
-★ Stars: 706
+★ Stars: 850
 
 [Open repository](https://github.com/aress31/burpgpt)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 850 | 61 | 
 | 2023-04-11 | 706 | 50 | 
 

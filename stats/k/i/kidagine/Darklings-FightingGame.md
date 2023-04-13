@@ -1,10 +1,10 @@
 # kidagine/Darklings-FightingGame - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 17
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/kidagine/Darklings-FightingGame)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 84 | 17 | 
 | 2023-04-11 | 83 | 17 | 
 | 2023-04-10 | 81 | 17 | 
 | 2023-04-09 | 80 | 17 | 

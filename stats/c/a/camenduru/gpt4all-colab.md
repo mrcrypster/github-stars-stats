@@ -1,10 +1,10 @@
 # camenduru/gpt4all-colab - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 18
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/camenduru/gpt4all-colab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 65 | 18 | 
 | 2023-04-11 | 64 | 18 | 
 | 2023-04-10 | 60 | 18 | 
 | 2023-04-09 | 60 | 18 | 

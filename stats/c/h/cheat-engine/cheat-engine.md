@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 1861
+☋ Forks: 1864
 
-★ Stars: 10881
+★ Stars: 10889
 
 [Open repository](https://github.com/cheat-engine/cheat-engine)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 10881 | 1861 | 
+| 2023-04-12 | 10889 | 1864 | 
 | 2023-04-11 | 10881 | 1861 | 
 | 2023-04-10 | 10872 | 1861 | 
 | 2023-04-09 | 10862 | 1858 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 10154 | 1792 | 
 | 2023-03-15 | 10115 | 1789 | 
 | 2023-03-14 | 10106 | 1785 | 
-| 2023-03-13 | 10095 | 1784 | 
 

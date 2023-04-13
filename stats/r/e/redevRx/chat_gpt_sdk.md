@@ -1,10 +1,10 @@
 # redevRx/chat_gpt_sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 82
 
-★ Stars: 127
+★ Stars: 129
 
 [Open repository](https://github.com/redevRx/chat_gpt_sdk)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 129 | 82 | 
 | 2023-04-11 | 127 | 82 | 
 

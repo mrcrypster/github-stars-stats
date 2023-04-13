@@ -1,10 +1,10 @@
 # project-baize/baize-chatbot - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 151
+☋ Forks: 155
 
-★ Stars: 1863
+★ Stars: 1923
 
 [Open repository](https://github.com/project-baize/baize-chatbot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1923 | 155 | 
 | 2023-04-11 | 1863 | 151 | 
 | 2023-04-10 | 1800 | 144 | 
 | 2023-04-09 | 1714 | 136 | 

@@ -1,10 +1,10 @@
 # wibus-wee/stable_diffusion_chilloutmix_ipynb - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 38
 
-★ Stars: 240
+★ Stars: 243
 
 [Open repository](https://github.com/wibus-wee/stable_diffusion_chilloutmix_ipynb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 243 | 38 | 
 | 2023-04-11 | 240 | 38 | 
 | 2023-04-10 | 234 | 37 | 
 | 2023-04-09 | 231 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 121 | 26 | 
 | 2023-03-15 | 115 | 25 | 
 | 2023-03-14 | 111 | 25 | 
-| 2023-03-13 | 106 | 23 | 
 

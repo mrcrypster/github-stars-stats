@@ -1,10 +1,10 @@
 # wix/Detox - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1923
+☋ Forks: 1924
 
-★ Stars: 10296
+★ Stars: 10300
 
 [Open repository](https://github.com/wix/Detox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 10300 | 1924 | 
 | 2023-04-11 | 10296 | 1923 | 
 | 2023-04-10 | 10295 | 1923 | 
 | 2023-04-09 | 10293 | 1922 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 10236 | 1918 | 
 | 2023-03-16 | 10235 | 1917 | 
 | 2023-03-14 | 10234 | 1916 | 
-| 2023-03-13 | 10232 | 1917 | 
 

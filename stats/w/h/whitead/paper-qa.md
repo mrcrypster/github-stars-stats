@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 143
 
-★ Stars: 1967
+★ Stars: 1988
 
 [Open repository](https://github.com/whitead/paper-qa)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1967 | 143 | 
+| 2023-04-12 | 1988 | 143 | 
 | 2023-04-11 | 1966 | 143 | 
 | 2023-04-10 | 1885 | 138 | 
 | 2023-04-09 | 1878 | 133 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 1422 | 92 | 
 | 2023-03-16 | 1412 | 92 | 
 | 2023-03-15 | 1403 | 91 | 
-| 2023-03-13 | 1380 | 90 | 
 

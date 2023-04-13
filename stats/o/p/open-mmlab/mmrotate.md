@@ -1,10 +1,10 @@
 # open-mmlab/mmrotate - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 307
+☋ Forks: 310
 
-★ Stars: 1337
+★ Stars: 1339
 
 [Open repository](https://github.com/open-mmlab/mmrotate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1339 | 310 | 
 | 2023-04-11 | 1337 | 307 | 
 | 2023-04-10 | 1336 | 306 | 
 | 2023-04-09 | 1333 | 305 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1303 | 288 | 
 | 2023-03-16 | 1302 | 288 | 
 | 2023-03-14 | 1298 | 284 | 
-| 2023-03-13 | 1295 | 281 | 
 

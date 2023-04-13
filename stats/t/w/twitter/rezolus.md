@@ -1,10 +1,10 @@
 # twitter/rezolus - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 106
+☋ Forks: 107
 
-★ Stars: 1480
+★ Stars: 1483
 
 [Open repository](https://github.com/twitter/rezolus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1483 | 107 | 
 | 2023-04-11 | 1480 | 106 | 
 | 2023-04-10 | 1477 | 104 | 
 | 2023-04-09 | 1471 | 104 | 

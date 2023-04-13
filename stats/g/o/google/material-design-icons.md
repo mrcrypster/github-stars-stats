@@ -1,10 +1,10 @@
 # google/material-design-icons - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 9583
+☋ Forks: 9587
 
-★ Stars: 47865
+★ Stars: 47876
 
 [Open repository](https://github.com/google/material-design-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 47876 | 9587 | 
 | 2023-04-11 | 47865 | 9583 | 
 | 2023-04-10 | 47863 | 9584 | 
 | 2023-04-09 | 47857 | 9586 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 47724 | 9564 | 
 | 2023-03-15 | 47760 | 9561 | 
 | 2023-03-14 | 47711 | 9554 | 
-| 2023-03-13 | 47705 | 9554 | 
 

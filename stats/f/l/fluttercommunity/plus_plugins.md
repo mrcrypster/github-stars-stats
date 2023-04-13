@@ -1,10 +1,10 @@
 # fluttercommunity/plus_plugins - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 614
+☋ Forks: 615
 
-★ Stars: 1149
+★ Stars: 1151
 
 [Open repository](https://github.com/fluttercommunity/plus_plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1151 | 615 | 
 | 2023-04-11 | 1149 | 614 | 
 | 2023-04-10 | 1148 | 614 | 
 | 2023-04-09 | 1149 | 614 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1129 | 595 | 
 | 2023-03-15 | 1128 | 595 | 
 | 2023-03-14 | 1126 | 594 | 
-| 2023-03-13 | 1121 | 592 | 
 

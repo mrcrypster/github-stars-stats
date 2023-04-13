@@ -1,10 +1,10 @@
 # TheD1rkMtr/HeapCrypt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 34
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/TheD1rkMtr/HeapCrypt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 171 | 34 | 
 | 2023-04-12 | 170 | 34 | 
 | 2023-04-10 | 170 | 33 | 
 | 2023-04-09 | 169 | 33 | 

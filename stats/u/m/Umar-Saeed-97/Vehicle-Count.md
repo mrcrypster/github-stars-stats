@@ -1,6 +1,6 @@
 # Umar-Saeed-97/Vehicle-Count - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 9
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 27 | 9 | 
 | 2023-04-11 | 27 | 9 | 
 

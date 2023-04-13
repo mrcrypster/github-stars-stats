@@ -1,10 +1,10 @@
 # nextflow-io/nextflow - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 521
 
-★ Stars: 2002
+★ Stars: 2004
 
 [Open repository](https://github.com/nextflow-io/nextflow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2004 | 521 | 
 | 2023-04-11 | 2002 | 521 | 
 | 2023-04-10 | 2002 | 521 | 
 | 2023-04-09 | 2000 | 521 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 1979 | 519 | 
 | 2023-03-15 | 1979 | 519 | 
 | 2023-03-14 | 1979 | 519 | 
-| 2023-03-13 | 1978 | 519 | 
 

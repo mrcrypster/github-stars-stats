@@ -1,6 +1,6 @@
 # nalexn/ViewInspector - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1614 | 107 | 
 | 2023-04-11 | 1614 | 107 | 
 | 2023-04-10 | 1613 | 107 | 
 | 2023-04-09 | 1612 | 107 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1577 | 104 | 
 | 2023-03-16 | 1575 | 104 | 
 | 2023-03-15 | 1574 | 104 | 
-| 2023-03-14 | 1571 | 104 | 
 

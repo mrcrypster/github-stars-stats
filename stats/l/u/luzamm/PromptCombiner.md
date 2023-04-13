@@ -1,6 +1,6 @@
 # luzamm/PromptCombiner - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 53 | 3 | 
 | 2023-04-11 | 53 | 3 | 
 | 2023-04-10 | 52 | 3 | 
 | 2023-04-09 | 52 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 52 | 4 | 
 | 2023-03-16 | 52 | 4 | 
 | 2023-03-14 | 52 | 4 | 
-| 2023-03-13 | 52 | 4 | 
 

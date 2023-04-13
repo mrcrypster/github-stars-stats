@@ -1,10 +1,10 @@
 # ellegantcss/ellegant - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 44
+★ Stars: 49
 
 [Open repository](https://github.com/ellegantcss/ellegant)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 49 | - | 
+| 2023-04-12 | 49 | - | 
 | 2023-04-11 | 44 | - | 
 | 2023-04-10 | 34 | - | 
 | 2023-04-09 | 33 | - | 

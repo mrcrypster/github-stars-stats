@@ -1,10 +1,8 @@
 # RavensVenix/Free-RDPV5 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+☋ Forks: 
 
-☋ Forks: 27
-
-★ Stars: 1
+★ Stars: 
 
 [Open repository](https://github.com/RavensVenix/Free-RDPV5)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 1 | 27 | 
 

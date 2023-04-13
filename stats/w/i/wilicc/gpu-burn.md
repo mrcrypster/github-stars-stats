@@ -1,10 +1,10 @@
 # wilicc/gpu-burn - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 191
 
-★ Stars: 779
+★ Stars: 783
 
 [Open repository](https://github.com/wilicc/gpu-burn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 783 | 191 | 
 | 2023-04-11 | 779 | 191 | 
 | 2023-04-10 | 778 | 191 | 
 | 2023-04-09 | 777 | 191 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 761 | 188 | 
 | 2023-03-15 | 762 | 188 | 
 | 2023-03-14 | 761 | 188 | 
-| 2023-03-13 | 759 | 188 | 
 

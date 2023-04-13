@@ -1,10 +1,10 @@
 # Tencent/tdesign-vue-starter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/Tencent/tdesign-vue-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 276 | 73 | 
 | 2023-04-11 | 275 | 72 | 
 | 2023-04-10 | 276 | 72 | 
 | 2023-04-09 | 275 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 268 | 71 | 
 | 2023-03-16 | 267 | 71 | 
 | 2023-03-15 | 265 | 71 | 
-| 2023-03-13 | 265 | 71 | 
 

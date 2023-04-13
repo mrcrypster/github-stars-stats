@@ -1,6 +1,6 @@
 # jboss-dockerfiles/wildfly - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 262 | 228 | 
 | 2023-04-11 | 262 | 228 | 
 | 2023-04-10 | 262 | 228 | 
 | 2023-04-09 | 262 | 228 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 262 | 227 | 
 | 2023-03-15 | 262 | 227 | 
 | 2023-03-14 | 262 | 227 | 
-| 2023-03-13 | 262 | 226 | 
 

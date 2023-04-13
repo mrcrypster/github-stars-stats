@@ -1,6 +1,6 @@
 # purcell/emacs-reformatter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 210 | 18 | 
 | 2023-04-11 | 210 | 18 | 
 | 2023-04-10 | 209 | 18 | 
 | 2023-04-09 | 209 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 206 | 18 | 
 | 2023-03-15 | 206 | 18 | 
 | 2023-03-14 | 206 | 18 | 
-| 2023-03-13 | 205 | 18 | 
 

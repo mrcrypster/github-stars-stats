@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 180
 
-★ Stars: 505
+★ Stars: 506
 
 [Open repository](https://github.com/microsoft/QuantumLibraries)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 505 | 180 | 
+| 2023-04-12 | 506 | 180 | 
 | 2023-04-11 | 505 | 180 | 
 | 2023-04-10 | 505 | 180 | 
 | 2023-04-09 | 504 | 180 | 

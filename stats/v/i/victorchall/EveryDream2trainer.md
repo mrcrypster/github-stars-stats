@@ -1,10 +1,10 @@
 # victorchall/EveryDream2trainer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 58
+☋ Forks: 60
 
-★ Stars: 354
+★ Stars: 356
 
 [Open repository](https://github.com/victorchall/EveryDream2trainer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 356 | 60 | 
 | 2023-04-11 | 354 | 58 | 
 | 2023-04-10 | 349 | 58 | 
 | 2023-04-09 | 343 | 56 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 272 | 44 | 
 | 2023-03-16 | 270 | 44 | 
 | 2023-03-15 | 267 | 45 | 
-| 2023-03-13 | 265 | 45 | 
 

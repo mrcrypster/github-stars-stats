@@ -1,6 +1,6 @@
 # babashka/scittle - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 265 | 19 | 
 | 2023-04-12 | 265 | 19 | 
 | 2023-04-10 | 264 | 19 | 
 | 2023-04-09 | 264 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 260 | 18 | 
 | 2023-03-15 | 260 | 18 | 
 | 2023-03-14 | 259 | 18 | 
-| 2023-03-13 | 259 | 18 | 
 

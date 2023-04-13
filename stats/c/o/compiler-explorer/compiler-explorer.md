@@ -1,10 +1,10 @@
 # compiler-explorer/compiler-explorer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1460
 
-★ Stars: 12949
+★ Stars: 12965
 
 [Open repository](https://github.com/compiler-explorer/compiler-explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 12965 | 1460 | 
 | 2023-04-11 | 12949 | 1460 | 
 | 2023-04-10 | 12946 | 1459 | 
 | 2023-04-09 | 12938 | 1456 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 12787 | 1446 | 
 | 2023-03-15 | 12785 | 1445 | 
 | 2023-03-14 | 12771 | 1441 | 
-| 2023-03-13 | 12772 | 1441 | 
 

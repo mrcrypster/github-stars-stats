@@ -1,6 +1,6 @@
 # tanelp/tiny-diffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 376 | 30 | 
 | 2023-04-11 | 376 | 30 | 
 | 2023-04-10 | 376 | 28 | 
 | 2023-04-09 | 376 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 366 | 27 | 
 | 2023-03-16 | 362 | 27 | 
 | 2023-03-15 | 361 | 27 | 
-| 2023-03-14 | 360 | 27 | 
 

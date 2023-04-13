@@ -1,10 +1,10 @@
 # openFyde/overlay-amd64-openfyde - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 39
 
 [Open repository](https://github.com/openFyde/overlay-amd64-openfyde)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 39 | 4 | 
 | 2023-04-11 | 36 | 4 | 
 | 2023-04-10 | 36 | 4 | 
 | 2023-04-09 | 36 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 34 | 3 | 
 | 2023-03-16 | 33 | 3 | 
 | 2023-03-15 | 33 | 3 | 
-| 2023-03-14 | 33 | 3 | 
 

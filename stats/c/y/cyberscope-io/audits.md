@@ -1,6 +1,6 @@
 # cyberscope-io/audits - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 28 | 20 | 
 | 2023-04-12 | 28 | 20 | 
 | 2023-04-11 | 28 | 20 | 
 | 2023-04-10 | 27 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 24 | 18 | 
 | 2023-03-15 | 24 | 17 | 
 | 2023-03-14 | 24 | 17 | 
-| 2023-03-13 | 24 | 17 | 
 

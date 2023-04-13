@@ -1,10 +1,10 @@
 # MQEnergy/chatcat - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 12
+☋ Forks: 15
 
-★ Stars: 128
+★ Stars: 133
 
 [Open repository](https://github.com/MQEnergy/chatcat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 133 | 15 | 
 | 2023-04-11 | 128 | 12 | 
 | 2023-04-10 | 122 | 12 | 
 | 2023-04-09 | 119 | 11 | 

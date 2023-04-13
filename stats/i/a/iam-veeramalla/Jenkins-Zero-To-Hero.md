@@ -1,10 +1,10 @@
 # iam-veeramalla/Jenkins-Zero-To-Hero - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 795
+☋ Forks: 812
 
-★ Stars: 443
+★ Stars: 466
 
 [Open repository](https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 466 | 812 | 
 | 2023-04-11 | 443 | 795 | 
 | 2023-04-10 | 424 | 755 | 
 | 2023-04-09 | 405 | 729 | 

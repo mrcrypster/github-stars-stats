@@ -1,10 +1,10 @@
 # aws/aws-application-networking-k8s - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 10
 
-★ Stars: 41
+★ Stars: 45
 
 [Open repository](https://github.com/aws/aws-application-networking-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 45 | 10 | 
 | 2023-04-11 | 41 | 10 | 
 | 2023-04-10 | 40 | 10 | 
 | 2023-04-09 | 38 | 8 | 

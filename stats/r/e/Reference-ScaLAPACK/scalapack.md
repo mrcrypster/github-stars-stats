@@ -1,10 +1,10 @@
 # Reference-ScaLAPACK/scalapack - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 42
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/Reference-ScaLAPACK/scalapack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 87 | 42 | 
 | 2023-04-11 | 86 | 42 | 
 | 2023-04-10 | 86 | 42 | 
 | 2023-04-09 | 85 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 84 | 42 | 
 | 2023-03-16 | 84 | 42 | 
 | 2023-03-14 | 84 | 42 | 
-| 2023-03-13 | 84 | 42 | 
 

@@ -1,6 +1,6 @@
 # elenapan/dotfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3283 | 182 | 
 | 2023-04-11 | 3283 | 182 | 
 | 2023-04-10 | 3282 | 183 | 
 | 2023-04-09 | 3280 | 183 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 3258 | 179 | 
 | 2023-03-16 | 3258 | 180 | 
 | 2023-03-14 | 3257 | 180 | 
-| 2023-03-13 | 3257 | 180 | 
 

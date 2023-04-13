@@ -1,10 +1,10 @@
 # CyberSecurityUP/Awesome-Red-Team-Operations - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 146
+☋ Forks: 149
 
-★ Stars: 574
+★ Stars: 586
 
 [Open repository](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 586 | 149 | 
 | 2023-04-11 | 574 | 146 | 
 | 2023-04-10 | 574 | 146 | 
 | 2023-04-09 | 574 | 146 | 

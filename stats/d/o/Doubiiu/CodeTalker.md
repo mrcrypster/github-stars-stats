@@ -1,10 +1,10 @@
 # Doubiiu/CodeTalker - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 119
+★ Stars: 124
 
 [Open repository](https://github.com/Doubiiu/CodeTalker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 124 | 5 | 
 | 2023-04-11 | 119 | 4 | 
 | 2023-04-10 | 110 | 4 | 
 | 2023-04-09 | 105 | 4 | 

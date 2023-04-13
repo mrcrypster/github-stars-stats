@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 63
+☋ Forks: 65
 
-★ Stars: 671
+★ Stars: 689
 
 [Open repository](https://github.com/teknium1/GPTeacher)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 671 | 63 | 
+| 2023-04-12 | 689 | 65 | 
 | 2023-04-11 | 668 | 64 | 
 | 2023-04-10 | 621 | 53 | 
 | 2023-04-09 | 599 | 47 | 

@@ -1,10 +1,10 @@
 # ronilaukkarinen/mastodon-bird-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 6
+☋ Forks: 5
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/ronilaukkarinen/mastodon-bird-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 89 | 5 | 
 | 2023-04-11 | 88 | 6 | 
 | 2023-04-10 | 81 | 5 | 
 | 2023-04-09 | 76 | 4 | 

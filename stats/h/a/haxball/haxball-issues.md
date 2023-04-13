@@ -1,6 +1,6 @@
 # haxball/haxball-issues - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 88 | 40 | 
 | 2023-04-11 | 88 | 40 | 
 | 2023-04-10 | 88 | 40 | 
 | 2023-04-09 | 88 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 88 | 40 | 
 | 2023-03-15 | 88 | 40 | 
 | 2023-03-14 | 88 | 40 | 
-| 2023-03-13 | 88 | 40 | 
 

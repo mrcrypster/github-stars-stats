@@ -1,6 +1,6 @@
 # maxpert/marmot - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 780 | 25 | 
 | 2023-04-11 | 780 | 25 | 
 | 2023-04-10 | 780 | 25 | 
 | 2023-04-09 | 779 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 763 | 25 | 
 | 2023-03-15 | 762 | 25 | 
 | 2023-03-14 | 762 | 25 | 
-| 2023-03-13 | 762 | 25 | 
 

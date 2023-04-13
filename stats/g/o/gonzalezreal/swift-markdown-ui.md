@@ -1,10 +1,10 @@
 # gonzalezreal/swift-markdown-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 1289
+★ Stars: 1295
 
 [Open repository](https://github.com/gonzalezreal/swift-markdown-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1295 | 105 | 
 | 2023-04-11 | 1289 | 104 | 
 | 2023-04-10 | 1285 | 104 | 
 | 2023-04-09 | 1275 | 103 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1193 | 94 | 
 | 2023-03-16 | 1187 | 92 | 
 | 2023-03-15 | 1184 | 92 | 
-| 2023-03-13 | 1183 | 92 | 
 

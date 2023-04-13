@@ -1,10 +1,10 @@
 # yonggekkk/CFwarp-yg - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 228
+☋ Forks: 234
 
-★ Stars: 585
+★ Stars: 595
 
 [Open repository](https://github.com/yonggekkk/CFwarp-yg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 595 | 234 | 
 | 2023-04-11 | 585 | 228 | 
 | 2023-04-10 | 569 | 224 | 
 | 2023-04-09 | 548 | 217 | 

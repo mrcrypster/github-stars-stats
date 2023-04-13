@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/kleinmann/puppet-dokuwiki-nginx)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1 | 2 | 
+| 2023-04-12 | 2 | 2 | 
 | 2023-04-11 | 1 | 2 | 
 

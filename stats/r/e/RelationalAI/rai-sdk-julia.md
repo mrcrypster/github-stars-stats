@@ -1,10 +1,10 @@
 # RelationalAI/rai-sdk-julia - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/RelationalAI/rai-sdk-julia)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 14 | 1 | 
 | 2023-04-11 | 15 | 1 | 
 | 2023-04-10 | 15 | 1 | 
 | 2023-04-09 | 15 | 1 | 

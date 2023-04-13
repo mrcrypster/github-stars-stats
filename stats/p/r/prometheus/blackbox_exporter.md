@@ -1,10 +1,10 @@
 # prometheus/blackbox_exporter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 930
+☋ Forks: 931
 
-★ Stars: 3564
+★ Stars: 3567
 
 [Open repository](https://github.com/prometheus/blackbox_exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3567 | 931 | 
 | 2023-04-11 | 3564 | 930 | 
 | 2023-04-10 | 3560 | 929 | 
 | 2023-04-09 | 3558 | 929 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 3512 | 923 | 
 | 2023-03-16 | 3510 | 924 | 
 | 2023-03-15 | 3508 | 924 | 
-| 2023-03-14 | 3501 | 924 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 112
+☋ Forks: 118
 
-★ Stars: 1473
+★ Stars: 1546
 
 [Open repository](https://github.com/imClumsyPanda/langchain-ChatGLM)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1473 | 112 | 
+| 2023-04-12 | 1546 | 118 | 
 | 2023-04-11 | 1472 | 112 | 
 | 2023-04-10 | 1348 | 100 | 
 | 2023-04-09 | 1203 | 86 | 

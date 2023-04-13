@@ -1,10 +1,10 @@
 # soundcloud/cosine-lsh-join-spark - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 45
 
-★ Stars: 173
+★ Stars: 172
 
 [Open repository](https://github.com/soundcloud/cosine-lsh-join-spark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 172 | 45 | 
 | 2023-04-11 | 173 | 45 | 
 | 2023-04-10 | 173 | 45 | 
 | 2023-04-09 | 173 | 45 | 

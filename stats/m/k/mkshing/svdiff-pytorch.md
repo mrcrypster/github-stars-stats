@@ -1,10 +1,10 @@
 # mkshing/svdiff-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 140
+★ Stars: 147
 
 [Open repository](https://github.com/mkshing/svdiff-pytorch)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 147 | 5 | 
 | 2023-04-11 | 140 | 5 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 30
 
-★ Stars: 1226
+★ Stars: 1227
 
 [Open repository](https://github.com/rhysd/git-messenger.vim)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1226 | 30 | 
+| 2023-04-12 | 1227 | 30 | 
 | 2023-04-11 | 1226 | 30 | 
 | 2023-04-10 | 1221 | 30 | 
 | 2023-04-09 | 1221 | 30 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 1215 | 30 | 
 | 2023-03-15 | 1215 | 30 | 
 | 2023-03-14 | 1214 | 30 | 
-| 2023-03-13 | 1214 | 30 | 
 

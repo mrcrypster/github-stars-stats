@@ -1,10 +1,10 @@
 # hku-mars/Point-LIO - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 29
 
-★ Stars: 309
+★ Stars: 312
 
 [Open repository](https://github.com/hku-mars/Point-LIO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 312 | 29 | 
 | 2023-04-11 | 309 | 29 | 
 | 2023-04-10 | 305 | 28 | 
 | 2023-04-08 | 304 | 28 | 

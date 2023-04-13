@@ -1,10 +1,10 @@
 # Cold-War-Project/CWP-Main - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/Cold-War-Project/CWP-Main)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 9 | 6 | 
+| 2023-04-12 | 9 | 6 | 
 | 2023-04-11 | 8 | 5 | 
 | 2023-04-10 | 8 | 6 | 
 | 2023-04-09 | 7 | 6 | 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 160
+★ Stars: 165
 
 [Open repository](https://github.com/uhyo/nitrogql)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 160 | - | 
+| 2023-04-12 | 165 | - | 
 | 2023-04-11 | 160 | - | 
 

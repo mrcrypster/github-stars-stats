@@ -1,10 +1,10 @@
 # ihumanable/patch - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 127
+★ Stars: 129
 
 [Open repository](https://github.com/ihumanable/patch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 129 | 6 | 
 | 2023-04-11 | 127 | 6 | 
 | 2023-04-10 | 127 | 6 | 
 | 2023-04-09 | 127 | 6 | 

@@ -1,6 +1,6 @@
 # ndmitchell/hlint - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1350 | 181 | 
 | 2023-04-11 | 1350 | 181 | 
 | 2023-04-10 | 1350 | 182 | 
 | 2023-04-09 | 1350 | 182 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1345 | 180 | 
 | 2023-03-15 | 1345 | 179 | 
 | 2023-03-14 | 1345 | 179 | 
-| 2023-03-13 | 1345 | 179 | 
 

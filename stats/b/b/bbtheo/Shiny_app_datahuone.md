@@ -1,10 +1,10 @@
 # bbtheo/Shiny_app_datahuone - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/bbtheo/Shiny_app_datahuone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3 | 4 | 
 | 2023-04-11 | 4 | 4 | 
 | 2023-04-10 | 4 | 4 | 
 | 2023-04-09 | 4 | 4 | 

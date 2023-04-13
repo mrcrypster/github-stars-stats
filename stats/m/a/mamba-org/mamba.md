@@ -1,10 +1,10 @@
 # mamba-org/mamba - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 262
 
-★ Stars: 4493
+★ Stars: 4500
 
 [Open repository](https://github.com/mamba-org/mamba)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4500 | 262 | 
 | 2023-04-11 | 4493 | 262 | 
 | 2023-04-10 | 4483 | 262 | 
 | 2023-04-09 | 4477 | 262 | 

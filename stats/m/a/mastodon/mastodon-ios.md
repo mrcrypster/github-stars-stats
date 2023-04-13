@@ -1,10 +1,10 @@
 # mastodon/mastodon-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 197
 
-★ Stars: 1610
+★ Stars: 1611
 
 [Open repository](https://github.com/mastodon/mastodon-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1611 | 197 | 
 | 2023-04-11 | 1610 | 197 | 
 | 2023-04-10 | 1608 | 197 | 
 | 2023-04-09 | 1607 | 197 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1579 | 186 | 
 | 2023-03-16 | 1575 | 187 | 
 | 2023-03-15 | 1573 | 187 | 
-| 2023-03-13 | 1571 | 187 | 
 

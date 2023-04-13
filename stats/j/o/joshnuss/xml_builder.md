@@ -1,6 +1,6 @@
 # joshnuss/xml_builder - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 158 | 36 | 
 | 2023-04-11 | 158 | 36 | 
 | 2023-04-10 | 158 | 37 | 
 | 2023-04-09 | 158 | 37 | 

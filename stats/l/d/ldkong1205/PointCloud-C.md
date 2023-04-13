@@ -1,10 +1,10 @@
 # ldkong1205/PointCloud-C - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 33
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/ldkong1205/PointCloud-C)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 181 | 33 | 
 | 2023-04-11 | 180 | 33 | 
 | 2023-04-10 | 179 | 33 | 
 | 2023-04-09 | 179 | 33 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 177 | 33 | 
 | 2023-03-15 | 177 | 33 | 
 | 2023-03-14 | 177 | 33 | 
-| 2023-03-13 | 177 | 33 | 
 

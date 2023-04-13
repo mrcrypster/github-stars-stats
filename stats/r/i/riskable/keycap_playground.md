@@ -1,6 +1,6 @@
 # riskable/keycap_playground - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 250 | 24 | 
 | 2023-04-11 | 250 | 24 | 
 | 2023-04-10 | 250 | 24 | 
 | 2023-04-09 | 250 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 240 | 23 | 
 | 2023-03-16 | 237 | 23 | 
 | 2023-03-14 | 237 | 23 | 
-| 2023-03-13 | 237 | 23 | 
 

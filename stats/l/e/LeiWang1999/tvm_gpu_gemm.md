@@ -1,6 +1,6 @@
 # LeiWang1999/tvm_gpu_gemm - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 37 | 1 | 
 | 2023-04-11 | 37 | 1 | 
 | 2023-04-10 | 37 | 1 | 
 | 2023-04-08 | 37 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 33 | 1 | 
 | 2023-03-16 | 33 | 1 | 
 | 2023-03-14 | 33 | 1 | 
-| 2023-03-13 | 33 | 1 | 
 

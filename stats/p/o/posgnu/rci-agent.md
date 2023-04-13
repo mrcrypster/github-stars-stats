@@ -1,10 +1,10 @@
 # posgnu/rci-agent - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 85
+★ Stars: 88
 
 [Open repository](https://github.com/posgnu/rci-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 88 | 6 | 
 | 2023-04-11 | 85 | 5 | 
 | 2023-04-10 | 85 | 5 | 
 | 2023-04-09 | 82 | 4 | 

@@ -1,6 +1,6 @@
 # 1357310795/MyComputerManager - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1317 | 48 | 
 | 2023-04-11 | 1317 | 48 | 
 | 2023-04-10 | 1316 | 48 | 
 | 2023-04-09 | 1315 | 48 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1287 | 47 | 
 | 2023-03-16 | 1283 | 47 | 
 | 2023-03-15 | 1284 | 47 | 
-| 2023-03-13 | 1283 | 47 | 
 

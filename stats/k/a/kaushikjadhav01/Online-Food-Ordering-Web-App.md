@@ -1,10 +1,10 @@
 # kaushikjadhav01/Online-Food-Ordering-Web-App - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 87
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 131 | 87 | 
 | 2023-04-11 | 130 | 87 | 
 | 2023-04-10 | 129 | 85 | 
 | 2023-04-09 | 129 | 85 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 127 | 82 | 
 | 2023-03-15 | 127 | 82 | 
 | 2023-03-14 | 127 | 81 | 
-| 2023-03-13 | 127 | 80 | 
 

@@ -1,10 +1,10 @@
 # Owez/yark - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 1700
+★ Stars: 1702
 
 [Open repository](https://github.com/Owez/yark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1702 | 44 | 
 | 2023-04-11 | 1700 | 43 | 
 | 2023-04-10 | 1699 | 43 | 
 | 2023-04-09 | 1698 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1683 | 45 | 
 | 2023-03-16 | 1685 | 45 | 
 | 2023-03-15 | 1682 | 44 | 
-| 2023-03-14 | 1680 | 44 | 
 

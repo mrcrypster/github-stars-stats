@@ -1,10 +1,10 @@
 # FaceOnLive/ID-Card-Passport-Recognition-SDK-Android - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 99
 
-★ Stars: 208
+★ Stars: 207
 
 [Open repository](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 207 | 99 | 
 | 2023-04-11 | 208 | 99 | 
 | 2023-04-10 | 208 | 99 | 
 | 2023-04-09 | 208 | 99 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 207 | 99 | 
 | 2023-03-16 | 207 | 99 | 
 | 2023-03-15 | 207 | 99 | 
-| 2023-03-14 | 207 | 99 | 
 

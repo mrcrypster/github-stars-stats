@@ -1,10 +1,10 @@
 # poap-xyz/poap-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 67
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/poap-xyz/poap-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 204 | 67 | 
 | 2023-04-11 | 203 | 67 | 
 | 2023-04-10 | 203 | 67 | 
 | 2023-04-09 | 203 | 67 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 203 | 67 | 
 | 2023-03-15 | 203 | 67 | 
 | 2023-03-14 | 203 | 67 | 
-| 2023-03-13 | 203 | 67 | 
 

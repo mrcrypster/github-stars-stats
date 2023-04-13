@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 75
+☋ Forks: 79
 
-★ Stars: 473
+★ Stars: 531
 
 [Open repository](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 473 | 75 | 
+| 2023-04-12 | 531 | 79 | 
 | 2023-04-11 | 455 | 74 | 
 | 2023-04-10 | 377 | 67 | 
 | 2023-04-09 | 274 | 49 | 

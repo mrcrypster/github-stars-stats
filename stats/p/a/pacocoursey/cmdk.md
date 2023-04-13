@@ -1,10 +1,10 @@
 # pacocoursey/cmdk - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 148
 
-★ Stars: 5692
+★ Stars: 5707
 
 [Open repository](https://github.com/pacocoursey/cmdk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5707 | 148 | 
 | 2023-04-11 | 5692 | 148 | 
 | 2023-04-10 | 5682 | 148 | 
 | 2023-04-09 | 5676 | 147 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 5532 | 142 | 
 | 2023-03-16 | 5516 | 141 | 
 | 2023-03-15 | 5503 | 142 | 
-| 2023-03-13 | 5494 | 140 | 
 

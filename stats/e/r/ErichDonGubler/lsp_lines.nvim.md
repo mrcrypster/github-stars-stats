@@ -1,10 +1,10 @@
 # ErichDonGubler/lsp_lines.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/ErichDonGubler/lsp_lines.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 77 | 2 | 
 | 2023-04-11 | 76 | 2 | 
 | 2023-04-10 | 76 | 2 | 
 | 2023-04-09 | 76 | 2 | 

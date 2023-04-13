@@ -1,6 +1,6 @@
 # FrameworkComputer/ExpansionCards - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 591 | 40 | 
 | 2023-04-11 | 591 | 40 | 
 | 2023-04-10 | 591 | 40 | 
 | 2023-04-09 | 591 | 39 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 534 | 37 | 
 | 2023-03-15 | 534 | 37 | 
 | 2023-03-14 | 534 | 37 | 
-| 2023-03-13 | 534 | 37 | 
 

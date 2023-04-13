@@ -1,10 +1,10 @@
 # wasmerio/docs.wasmer.io - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 37
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/wasmerio/docs.wasmer.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 42 | 37 | 
 | 2023-04-11 | 41 | 37 | 
 | 2023-04-10 | 41 | 37 | 
 | 2023-04-09 | 41 | 37 | 

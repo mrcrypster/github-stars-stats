@@ -1,10 +1,10 @@
 # crisglav/discover-eeg - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/crisglav/discover-eeg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 15 | 3 | 
 | 2023-04-11 | 14 | 3 | 
 | 2023-04-10 | 14 | 3 | 
 | 2023-04-09 | 14 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 11 | 2 | 
 | 2023-03-16 | 11 | 2 | 
 | 2023-03-15 | 11 | 2 | 
-| 2023-03-14 | 11 | 2 | 
 

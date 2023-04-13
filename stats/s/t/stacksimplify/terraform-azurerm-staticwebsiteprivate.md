@@ -1,6 +1,6 @@
 # stacksimplify/terraform-azurerm-staticwebsiteprivate - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 7 | 164 | 
 | 2023-04-11 | 7 | 164 | 
 | 2023-04-10 | 7 | 164 | 
 | 2023-04-09 | 7 | 164 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 2 | 157 | 
 | 2023-03-15 | 2 | 157 | 
 | 2023-03-14 | 2 | 156 | 
-| 2023-03-13 | 2 | 156 | 
 

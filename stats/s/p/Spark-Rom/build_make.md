@@ -1,6 +1,6 @@
 # Spark-Rom/build_make - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1 | 15 | 
 | 2023-04-11 | 1 | 15 | 
 | 2023-04-10 | 1 | 15 | 
 | 2023-04-09 | 1 | 15 | 

@@ -1,10 +1,10 @@
 # nacro90/numb.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/nacro90/numb.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 422 | 8 | 
 | 2023-04-11 | 421 | 8 | 
 | 2023-04-10 | 421 | 8 | 
 | 2023-04-09 | 422 | 8 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 411 | 8 | 
 | 2023-03-15 | 411 | 8 | 
 | 2023-03-14 | 411 | 8 | 
-| 2023-03-13 | 411 | 8 | 
 

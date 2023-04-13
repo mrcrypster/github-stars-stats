@@ -1,10 +1,10 @@
 # jbyuki/nabla.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 10
 
-★ Stars: 428
+★ Stars: 429
 
 [Open repository](https://github.com/jbyuki/nabla.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 429 | 10 | 
 | 2023-04-11 | 428 | 10 | 
 | 2023-04-10 | 428 | 10 | 
 | 2023-04-09 | 428 | 10 | 

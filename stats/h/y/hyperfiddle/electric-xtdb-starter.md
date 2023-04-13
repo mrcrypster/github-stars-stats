@@ -1,10 +1,10 @@
 # hyperfiddle/electric-xtdb-starter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/hyperfiddle/electric-xtdb-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 27 | 4 | 
 | 2023-04-11 | 26 | 4 | 
 | 2023-04-10 | 25 | 4 | 
 | 2023-04-09 | 24 | 4 | 

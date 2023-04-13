@@ -1,10 +1,10 @@
 # ginqi7/websocket-bridge - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/ginqi7/websocket-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 16 | 2 | 
 | 2023-04-11 | 15 | 2 | 
 | 2023-04-10 | 15 | 2 | 
 | 2023-04-09 | 15 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 12 | 1 | 
 | 2023-03-16 | 12 | 1 | 
 | 2023-03-14 | 12 | 1 | 
-| 2023-03-13 | 12 | 1 | 
 

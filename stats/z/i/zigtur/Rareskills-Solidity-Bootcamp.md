@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 8
+☋ Forks: 10
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/zigtur/Rareskills-Solidity-Bootcamp)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 57 | 8 | 
+| 2023-04-12 | 58 | 10 | 
 | 2023-04-11 | 55 | 8 | 
 

@@ -1,10 +1,10 @@
 # fluttercommunity/flutter_launcher_icons - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 342
+☋ Forks: 343
 
-★ Stars: 1758
+★ Stars: 1759
 
 [Open repository](https://github.com/fluttercommunity/flutter_launcher_icons)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1759 | 343 | 
 | 2023-04-11 | 1758 | 342 | 
 | 2023-04-10 | 1759 | 342 | 
 | 2023-04-09 | 1758 | 342 | 

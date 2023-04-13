@@ -1,10 +1,10 @@
 # nbs-system/naxsi - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 596
 
-★ Stars: 4270
+★ Stars: 4273
 
 [Open repository](https://github.com/nbs-system/naxsi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 4273 | 596 | 
 | 2023-04-11 | 4270 | 596 | 
 | 2023-04-10 | 4269 | 596 | 
 | 2023-04-09 | 4270 | 596 | 

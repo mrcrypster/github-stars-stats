@@ -1,6 +1,6 @@
 # dotnet/docs-desktop - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 139 | 154 | 
 | 2023-04-11 | 139 | 154 | 
 | 2023-04-10 | 138 | 153 | 
 | 2023-04-09 | 138 | 152 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 135 | 150 | 
 | 2023-03-16 | 134 | 149 | 
 | 2023-03-14 | 132 | 149 | 
-| 2023-03-13 | 132 | 149 | 
 

@@ -1,10 +1,10 @@
 # interfinetwork/project-delivery-data - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/interfinetwork/project-delivery-data)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 10 | 5 | 
 | 2023-04-11 | 9 | 4 | 
 | 2023-04-10 | 9 | 4 | 
 | 2023-04-09 | 9 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 8 | 4 | 
 | 2023-03-16 | 8 | 4 | 
 | 2023-03-14 | 8 | 4 | 
-| 2023-03-13 | 8 | 4 | 
 

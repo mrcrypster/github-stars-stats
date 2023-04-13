@@ -1,10 +1,8 @@
 # montrd2022/ngrok-rdp-reupload - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+☋ Forks: 
 
-☋ Forks: 21
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/montrd2022/ngrok-rdp-reupload)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | - | 21 | 
 

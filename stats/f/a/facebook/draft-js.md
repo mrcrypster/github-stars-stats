@@ -1,10 +1,10 @@
 # facebook/draft-js - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 2698
 
-★ Stars: 22362
+★ Stars: 22364
 
 [Open repository](https://github.com/facebook/draft-js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 22364 | 2698 | 
 | 2023-04-11 | 22362 | 2698 | 
 | 2023-04-10 | 22362 | 2700 | 
 | 2023-04-09 | 22359 | 2700 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 22326 | 2697 | 
 | 2023-03-16 | 22323 | 2698 | 
 | 2023-03-14 | 22324 | 2699 | 
-| 2023-03-13 | 22323 | 2698 | 
 

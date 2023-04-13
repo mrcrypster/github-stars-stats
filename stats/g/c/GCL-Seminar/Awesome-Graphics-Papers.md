@@ -1,10 +1,10 @@
 # GCL-Seminar/Awesome-Graphics-Papers - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 14
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/GCL-Seminar/Awesome-Graphics-Papers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 10 | 14 | 
 | 2023-04-11 | 9 | 14 | 
 | 2023-04-10 | 9 | 14 | 
 | 2023-04-09 | 9 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 9 | 13 | 
 | 2023-03-15 | 9 | 13 | 
 | 2023-03-14 | 9 | 13 | 
-| 2023-03-13 | 9 | 13 | 
 

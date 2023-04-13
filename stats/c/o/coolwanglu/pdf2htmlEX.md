@@ -1,10 +1,10 @@
 # coolwanglu/pdf2htmlEX - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1771
 
-★ Stars: 9789
+★ Stars: 9791
 
 [Open repository](https://github.com/coolwanglu/pdf2htmlEX)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 9791 | 1771 | 
 | 2023-04-11 | 9789 | 1771 | 
 | 2023-04-10 | 9786 | 1770 | 
 | 2023-04-09 | 9785 | 1770 | 

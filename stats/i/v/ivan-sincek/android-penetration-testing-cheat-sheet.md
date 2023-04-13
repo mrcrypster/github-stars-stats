@@ -1,10 +1,10 @@
 # ivan-sincek/android-penetration-testing-cheat-sheet - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 170
+★ Stars: 185
 
 [Open repository](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 185 | 24 | 
 | 2023-04-11 | 170 | 22 | 
 

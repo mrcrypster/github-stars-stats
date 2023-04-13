@@ -1,10 +1,10 @@
 # zachgoll/tic-tac-toe-subscriber-refactor - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 19
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/zachgoll/tic-tac-toe-subscriber-refactor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 33 | 19 | 
 | 2023-04-11 | 32 | 19 | 
 | 2023-04-10 | 31 | 18 | 
 | 2023-04-09 | 26 | 17 | 

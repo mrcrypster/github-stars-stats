@@ -1,10 +1,10 @@
 # tranek/GASDocumentation - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 550
 
-★ Stars: 2601
+★ Stars: 2606
 
 [Open repository](https://github.com/tranek/GASDocumentation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2606 | 550 | 
 | 2023-04-11 | 2601 | 550 | 
 | 2023-04-10 | 2598 | 550 | 
 | 2023-04-09 | 2591 | 550 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 2506 | 535 | 
 | 2023-03-15 | 2501 | 535 | 
 | 2023-03-14 | 2498 | 535 | 
-| 2023-03-13 | 2494 | 533 | 
 

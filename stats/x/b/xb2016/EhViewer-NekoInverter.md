@@ -1,10 +1,10 @@
 # xb2016/EhViewer-NekoInverter - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 72
 
-★ Stars: 1000
+★ Stars: 1001
 
 [Open repository](https://github.com/xb2016/EhViewer-NekoInverter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1001 | 72 | 
 | 2023-04-11 | 1000 | 72 | 
 | 2023-04-10 | 999 | 72 | 
 | 2023-04-09 | 995 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 948 | 72 | 
 | 2023-03-16 | 946 | 72 | 
 | 2023-03-14 | 940 | 72 | 
-| 2023-03-13 | 934 | 72 | 
 

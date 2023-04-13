@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 1843
+☋ Forks: 1845
 
-★ Stars: 1084
+★ Stars: 1086
 
 [Open repository](https://github.com/microsoftgraph/microsoft-graph-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1084 | 1843 | 
+| 2023-04-12 | 1086 | 1845 | 
 | 2023-04-11 | 1084 | 1843 | 
 | 2023-04-10 | 1083 | 1843 | 
 | 2023-04-09 | 1081 | 1842 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 1066 | 1824 | 
 | 2023-03-15 | 1065 | 1824 | 
 | 2023-03-14 | 1064 | 1821 | 
-| 2023-03-13 | 1064 | 1819 | 
 

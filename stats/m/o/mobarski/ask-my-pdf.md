@@ -1,6 +1,6 @@
 # mobarski/ask-my-pdf - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 233 | 70 | 
 | 2023-04-11 | 233 | 70 | 
 | 2023-04-10 | 231 | 68 | 
 | 2023-04-09 | 229 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 167 | 45 | 
 | 2023-03-16 | 158 | 42 | 
 | 2023-03-15 | 154 | 40 | 
-| 2023-03-13 | 151 | 39 | 
 

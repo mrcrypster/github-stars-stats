@@ -1,8 +1,8 @@
 # scallop-io/sui-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 56 | 13 | 
 | 2023-04-11 | 56 | 12 | 
 | 2023-04-10 | 56 | 12 | 
 | 2023-04-09 | 55 | 12 | 

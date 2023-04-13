@@ -1,10 +1,10 @@
 # niuhuan/jenny - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 19
 
-★ Stars: 372
+★ Stars: 376
 
 [Open repository](https://github.com/niuhuan/jenny)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 376 | 19 | 
 | 2023-04-11 | 372 | 19 | 
 | 2023-04-10 | 366 | 19 | 
 | 2023-04-09 | 366 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 288 | 13 | 
 | 2023-03-16 | 280 | 13 | 
 | 2023-03-14 | 277 | 13 | 
-| 2023-03-13 | 274 | 13 | 
 

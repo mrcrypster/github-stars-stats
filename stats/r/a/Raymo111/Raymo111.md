@@ -1,10 +1,10 @@
 # Raymo111/Raymo111 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 365
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/Raymo111/Raymo111)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 156 | 365 | 
 | 2023-04-11 | 155 | 365 | 
 | 2023-04-10 | 155 | 366 | 
 | 2023-04-09 | 155 | 366 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 152 | 351 | 
 | 2023-03-15 | 152 | 352 | 
 | 2023-03-14 | 152 | 352 | 
-| 2023-03-13 | 152 | 351 | 
 

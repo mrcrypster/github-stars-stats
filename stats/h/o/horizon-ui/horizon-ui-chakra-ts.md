@@ -1,10 +1,10 @@
 # horizon-ui/horizon-ui-chakra-ts - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 83
 
-★ Stars: 274
+★ Stars: 273
 
 [Open repository](https://github.com/horizon-ui/horizon-ui-chakra-ts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 273 | 83 | 
 | 2023-04-11 | 274 | 83 | 
 | 2023-04-10 | 273 | 83 | 
 | 2023-04-09 | 272 | 83 | 

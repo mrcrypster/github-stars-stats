@@ -1,6 +1,6 @@
 # AlaaSaadAbdo/battoota - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 78 | 5 | 
 | 2023-04-11 | 78 | 5 | 
 | 2023-04-10 | 77 | 5 | 
 | 2023-04-09 | 76 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 74 | 5 | 
 | 2023-03-15 | 73 | 5 | 
 | 2023-03-14 | 73 | 5 | 
-| 2023-03-13 | 73 | 5 | 
 

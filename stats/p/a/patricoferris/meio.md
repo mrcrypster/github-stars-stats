@@ -1,10 +1,10 @@
 # patricoferris/meio - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/patricoferris/meio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 41 | 1 | 
 | 2023-04-11 | 40 | 1 | 
 | 2023-04-10 | 40 | 1 | 
 | 2023-04-09 | 40 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 35 | 1 | 
 | 2023-03-16 | 35 | 1 | 
 | 2023-03-15 | 35 | 1 | 
-| 2023-03-13 | 35 | 1 | 
 

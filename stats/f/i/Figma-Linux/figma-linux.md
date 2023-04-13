@@ -1,10 +1,10 @@
 # Figma-Linux/figma-linux - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 144
 
-★ Stars: 2179
+★ Stars: 2180
 
 [Open repository](https://github.com/Figma-Linux/figma-linux)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 2179 | 144 | 
+| 2023-04-13 | 2180 | 144 | 
+| 2023-04-12 | 2180 | 144 | 
 | 2023-04-11 | 2179 | 144 | 
 | 2023-04-10 | 2176 | 144 | 
 | 2023-04-09 | 2175 | 144 | 

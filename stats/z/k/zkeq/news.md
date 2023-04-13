@@ -1,6 +1,6 @@
 # zkeq/news - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 106 | 45 | 
 | 2023-04-11 | 106 | 45 | 
 | 2023-04-10 | 106 | 45 | 
 | 2023-04-09 | 106 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 96 | 40 | 
 | 2023-03-16 | 96 | 39 | 
 | 2023-03-15 | 96 | 39 | 
-| 2023-03-13 | 95 | 39 | 
 

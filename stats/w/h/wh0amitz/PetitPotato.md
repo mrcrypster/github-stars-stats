@@ -1,10 +1,10 @@
 # wh0amitz/PetitPotato - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 42
 
-★ Stars: 281
+★ Stars: 284
 
 [Open repository](https://github.com/wh0amitz/PetitPotato)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 284 | 42 | 
 | 2023-04-11 | 281 | 42 | 
 | 2023-04-10 | 275 | 42 | 
 | 2023-04-09 | 273 | 42 | 

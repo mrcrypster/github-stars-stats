@@ -1,10 +1,10 @@
 # mjakeman/extension-manager - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 656
+★ Stars: 657
 
 [Open repository](https://github.com/mjakeman/extension-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 657 | 60 | 
 | 2023-04-11 | 656 | 59 | 
 | 2023-04-10 | 656 | 60 | 
 | 2023-04-09 | 655 | 59 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 639 | 57 | 
 | 2023-03-16 | 639 | 57 | 
 | 2023-03-15 | 638 | 57 | 
-| 2023-03-13 | 639 | 58 | 
 

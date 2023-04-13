@@ -1,10 +1,10 @@
 # openai/chatgpt-retrieval-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 1889
+☋ Forks: 1920
 
-★ Stars: 13677
+★ Stars: 13808
 
 [Open repository](https://github.com/openai/chatgpt-retrieval-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 13808 | 1920 | 
 | 2023-04-11 | 13677 | 1889 | 
 | 2023-04-10 | 13534 | 1855 | 
 | 2023-04-09 | 13433 | 1823 | 

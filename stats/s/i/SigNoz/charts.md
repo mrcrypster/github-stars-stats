@@ -1,8 +1,8 @@
 # SigNoz/charts - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 27 | 37 | 
 | 2023-04-11 | 27 | 36 | 
 | 2023-04-10 | 27 | 36 | 
 | 2023-04-09 | 27 | 36 | 

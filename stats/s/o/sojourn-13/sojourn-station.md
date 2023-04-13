@@ -1,8 +1,8 @@
 # sojourn-13/sojourn-station - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 211
+☋ Forks: 212
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 28 | 212 | 
 | 2023-04-11 | 28 | 211 | 
 | 2023-04-10 | 28 | 209 | 
 | 2023-04-09 | 28 | 208 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 27 | 207 | 
 | 2023-03-15 | 27 | 207 | 
 | 2023-03-14 | 27 | 207 | 
-| 2023-03-13 | 27 | 206 | 
 

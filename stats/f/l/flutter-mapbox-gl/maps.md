@@ -1,6 +1,6 @@
 # flutter-mapbox-gl/maps - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 446
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 946 | 446 | 
 | 2023-04-11 | 946 | 446 | 
 | 2023-04-10 | 946 | 445 | 
 | 2023-04-09 | 946 | 444 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 940 | 438 | 
 | 2023-03-16 | 940 | 439 | 
 | 2023-03-14 | 939 | 439 | 
-| 2023-03-13 | 939 | 438 | 
 

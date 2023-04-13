@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/IObundle/iob-cache)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 105 | 27 | 
+| 2023-04-12 | 106 | 27 | 
 | 2023-04-11 | 105 | 27 | 
 | 2023-04-10 | 105 | 27 | 
 | 2023-04-09 | 105 | 27 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 100 | 26 | 
 | 2023-03-15 | 100 | 26 | 
 | 2023-03-14 | 100 | 26 | 
-| 2023-03-13 | 100 | 26 | 
 

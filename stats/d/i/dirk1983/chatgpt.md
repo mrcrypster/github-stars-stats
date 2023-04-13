@@ -1,10 +1,10 @@
 # dirk1983/chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 341
+☋ Forks: 344
 
-★ Stars: 1197
+★ Stars: 1213
 
 [Open repository](https://github.com/dirk1983/chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1213 | 344 | 
 | 2023-04-11 | 1197 | 341 | 
 | 2023-04-10 | 1185 | 337 | 
 | 2023-04-09 | 1176 | 335 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 553 | 158 | 
 | 2023-03-16 | 536 | 154 | 
 | 2023-03-15 | 461 | 134 | 
-| 2023-03-13 | 427 | 127 | 
 

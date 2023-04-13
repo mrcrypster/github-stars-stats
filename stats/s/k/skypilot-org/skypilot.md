@@ -1,10 +1,10 @@
 # skypilot-org/skypilot - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 106
 
-★ Stars: 2101
+★ Stars: 2117
 
 [Open repository](https://github.com/skypilot-org/skypilot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2117 | 106 | 
 | 2023-04-11 | 2101 | 106 | 
 | 2023-04-10 | 2073 | 106 | 
 | 2023-04-09 | 2039 | 104 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1564 | 74 | 
 | 2023-03-15 | 1562 | 74 | 
 | 2023-03-14 | 1558 | 74 | 
-| 2023-03-13 | 1558 | 74 | 
 

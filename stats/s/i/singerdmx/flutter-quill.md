@@ -1,10 +1,10 @@
 # singerdmx/flutter-quill - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 517
+☋ Forks: 518
 
-★ Stars: 1843
+★ Stars: 1845
 
 [Open repository](https://github.com/singerdmx/flutter-quill)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1845 | 518 | 
 | 2023-04-11 | 1843 | 517 | 
 | 2023-04-10 | 1840 | 516 | 
 | 2023-04-09 | 1839 | 517 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1796 | 501 | 
 | 2023-03-16 | 1791 | 500 | 
 | 2023-03-15 | 1790 | 500 | 
-| 2023-03-13 | 1790 | 500 | 
 

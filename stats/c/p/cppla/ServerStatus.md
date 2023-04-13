@@ -1,10 +1,10 @@
 # cppla/ServerStatus - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 813
+☋ Forks: 814
 
-★ Stars: 2838
+★ Stars: 2840
 
 [Open repository](https://github.com/cppla/ServerStatus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 2840 | 814 | 
 | 2023-04-11 | 2838 | 813 | 
 | 2023-04-10 | 2837 | 814 | 
 | 2023-04-09 | 2835 | 815 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 2782 | 802 | 
 | 2023-03-16 | 2777 | 802 | 
 | 2023-03-14 | 2773 | 802 | 
-| 2023-03-13 | 2767 | 800 | 
 

@@ -1,6 +1,6 @@
 # vaadin/flow - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 474 | 140 | 
 | 2023-04-11 | 474 | 140 | 
 | 2023-04-10 | 474 | 140 | 
 | 2023-04-09 | 473 | 140 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 459 | 139 | 
 | 2023-03-16 | 458 | 139 | 
 | 2023-03-14 | 457 | 139 | 
-| 2023-03-13 | 457 | 139 | 
 

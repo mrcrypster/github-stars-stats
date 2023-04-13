@@ -1,10 +1,10 @@
 # imyuanx/chatgpt-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 280
+☋ Forks: 282
 
-★ Stars: 219
+★ Stars: 221
 
 [Open repository](https://github.com/imyuanx/chatgpt-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 221 | 282 | 
 | 2023-04-11 | 219 | 280 | 
 | 2023-04-10 | 211 | 275 | 
 | 2023-04-09 | 209 | 275 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 85 | 79 | 
 | 2023-03-15 | 76 | 65 | 
 | 2023-03-14 | 71 | 56 | 
-| 2023-03-13 | 65 | 48 | 
 

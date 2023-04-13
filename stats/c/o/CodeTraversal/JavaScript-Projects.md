@@ -1,10 +1,10 @@
 # CodeTraversal/JavaScript-Projects - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/CodeTraversal/JavaScript-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 9 | 9 | 
 | 2023-04-11 | 8 | 8 | 
 | 2023-04-10 | 7 | 8 | 
 

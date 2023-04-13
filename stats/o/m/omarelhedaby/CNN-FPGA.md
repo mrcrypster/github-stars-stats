@@ -1,10 +1,10 @@
 # omarelhedaby/CNN-FPGA - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 49
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/omarelhedaby/CNN-FPGA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 143 | 49 | 
 | 2023-04-11 | 142 | 49 | 
 | 2023-04-10 | 141 | 49 | 
 | 2023-04-09 | 141 | 49 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 125 | 43 | 
 | 2023-03-16 | 124 | 43 | 
 | 2023-03-15 | 123 | 42 | 
-| 2023-03-13 | 121 | 42 | 
 

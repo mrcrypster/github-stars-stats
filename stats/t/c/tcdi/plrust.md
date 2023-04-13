@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 700
+★ Stars: 707
 
 [Open repository](https://github.com/tcdi/plrust)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 700 | 22 | 
+| 2023-04-12 | 707 | 23 | 
 | 2023-04-11 | 698 | 22 | 
 | 2023-04-10 | 622 | 18 | 
 | 2023-04-09 | 511 | 18 | 

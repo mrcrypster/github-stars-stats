@@ -1,10 +1,10 @@
 # mirage/mirage-tcpip - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 84
 
-★ Stars: 322
+★ Stars: 321
 
 [Open repository](https://github.com/mirage/mirage-tcpip)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 321 | 84 | 
 | 2023-04-12 | 322 | 84 | 
 | 2023-04-10 | 321 | 84 | 
 | 2023-04-09 | 321 | 84 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 318 | 83 | 
 | 2023-03-16 | 318 | 83 | 
 | 2023-03-14 | 318 | 83 | 
-| 2023-03-13 | 318 | 83 | 
 

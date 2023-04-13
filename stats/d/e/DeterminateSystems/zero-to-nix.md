@@ -1,6 +1,6 @@
 # DeterminateSystems/zero-to-nix - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 383 | 30 | 
 | 2023-04-11 | 383 | 30 | 
 | 2023-04-10 | 383 | 30 | 
 | 2023-04-08 | 382 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 370 | 30 | 
 | 2023-03-16 | 370 | 30 | 
 | 2023-03-15 | 369 | 30 | 
-| 2023-03-14 | 366 | 29 | 
 

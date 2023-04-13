@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 34
 
-★ Stars: 219
+★ Stars: 223
 
 [Open repository](https://github.com/alfianlosari/ChatGPTSwiftUI)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 219 | 34 | 
+| 2023-04-12 | 223 | 34 | 
 | 2023-04-11 | 219 | 34 | 
 | 2023-04-10 | 212 | 32 | 
 | 2023-04-09 | 199 | 33 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 109 | 20 | 
 | 2023-03-16 | 103 | 18 | 
 | 2023-03-14 | 100 | 16 | 
-| 2023-03-13 | 97 | 15 | 
 

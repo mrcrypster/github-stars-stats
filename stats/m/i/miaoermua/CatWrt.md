@@ -1,10 +1,10 @@
 # miaoermua/CatWrt - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 120
+★ Stars: 123
 
 [Open repository](https://github.com/miaoermua/CatWrt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 123 | 8 | 
 | 2023-04-11 | 120 | 8 | 
 | 2023-04-10 | 120 | 8 | 
 | 2023-04-09 | 120 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 103 | 5 | 
 | 2023-03-16 | 102 | 5 | 
 | 2023-03-15 | 101 | 5 | 
-| 2023-03-13 | 100 | 5 | 
 

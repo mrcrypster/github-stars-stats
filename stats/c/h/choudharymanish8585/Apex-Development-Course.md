@@ -1,6 +1,6 @@
 # choudharymanish8585/Apex-Development-Course - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 169 | 118 | 
 | 2023-04-11 | 169 | 118 | 
 | 2023-04-10 | 167 | 117 | 
 | 2023-04-09 | 167 | 117 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 166 | 114 | 
 | 2023-03-15 | 165 | 114 | 
 | 2023-03-14 | 165 | 114 | 
-| 2023-03-13 | 165 | 114 | 
 

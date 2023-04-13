@@ -1,10 +1,10 @@
 # rubenhIII/LEISC4C - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/rubenhIII/LEISC4C)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 3 | - | 
 | 2023-04-11 | 4 | - | 
 | 2023-04-10 | 4 | - | 
 | 2023-04-09 | 4 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 5 | - | 
 | 2023-03-15 | 5 | - | 
 | 2023-03-14 | 5 | - | 
-| 2023-03-13 | 5 | - | 
 

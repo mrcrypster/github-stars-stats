@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 649
+☋ Forks: 650
 
-★ Stars: 1972
+★ Stars: 1973
 
 [Open repository](https://github.com/gree/unity-webview)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 1972 | 649 | 
+| 2023-04-12 | 1973 | 650 | 
 | 2023-04-11 | 1972 | 649 | 
 | 2023-04-10 | 1972 | 649 | 
 | 2023-04-09 | 1972 | 648 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 1947 | 645 | 
 | 2023-03-15 | 1946 | 645 | 
 | 2023-03-14 | 1944 | 645 | 
-| 2023-03-13 | 1944 | 644 | 
 

@@ -1,6 +1,6 @@
 # rustyio/sync - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 729 | 164 | 
 | 2023-04-11 | 729 | 164 | 
 | 2023-04-10 | 729 | 164 | 
 | 2023-04-09 | 729 | 164 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 729 | 164 | 
 | 2023-03-15 | 728 | 164 | 
 | 2023-03-14 | 727 | 164 | 
-| 2023-03-13 | 727 | 164 | 
 

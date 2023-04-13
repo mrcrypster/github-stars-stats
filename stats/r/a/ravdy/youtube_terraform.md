@@ -1,10 +1,10 @@
 # ravdy/youtube_terraform - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 22
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/ravdy/youtube_terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 5 | 22 | 
 | 2023-04-11 | 4 | 22 | 
 | 2023-04-10 | 4 | 22 | 
 | 2023-04-09 | 4 | 21 | 

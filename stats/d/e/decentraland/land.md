@@ -1,6 +1,6 @@
 # decentraland/land - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 121 | 53 | 
 | 2023-04-11 | 121 | 53 | 
 | 2023-04-10 | 121 | 53 | 
 | 2023-04-09 | 121 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 120 | 53 | 
 | 2023-03-16 | 120 | 53 | 
 | 2023-03-15 | 120 | 53 | 
-| 2023-03-13 | 120 | 53 | 
 

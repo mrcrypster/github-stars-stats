@@ -1,10 +1,10 @@
 # WaxMoon/MultiApp - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/WaxMoon/MultiApp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 390 | 56 | 
 | 2023-04-11 | 389 | 55 | 
 | 2023-04-10 | 388 | 55 | 
 | 2023-04-09 | 387 | 55 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 362 | 51 | 
 | 2023-03-15 | 362 | 51 | 
 | 2023-03-14 | 362 | 50 | 
-| 2023-03-13 | 361 | 50 | 
 

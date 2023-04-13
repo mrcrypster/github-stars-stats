@@ -1,10 +1,10 @@
 # LC1332/Chinese-alpaca-lora - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 31
+☋ Forks: 35
 
-★ Stars: 257
+★ Stars: 279
 
 [Open repository](https://github.com/LC1332/Chinese-alpaca-lora)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 279 | 35 | 
 | 2023-04-11 | 257 | 31 | 
 | 2023-04-10 | 235 | 30 | 
 | 2023-04-09 | 209 | 29 | 

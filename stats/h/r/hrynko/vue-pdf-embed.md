@@ -1,10 +1,10 @@
 # hrynko/vue-pdf-embed - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 52
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/hrynko/vue-pdf-embed)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 279 | 52 | 
 | 2023-04-12 | 278 | 52 | 
 | 2023-04-10 | 278 | 52 | 
 | 2023-04-09 | 277 | 51 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-16 | 258 | 46 | 
 | 2023-03-15 | 256 | 46 | 
 | 2023-03-14 | 254 | 46 | 
-| 2023-03-13 | 252 | 45 | 
 

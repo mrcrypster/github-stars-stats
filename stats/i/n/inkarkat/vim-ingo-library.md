@@ -1,6 +1,6 @@
 # inkarkat/vim-ingo-library - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 81 | 8 | 
 | 2023-04-11 | 81 | 8 | 
 | 2023-04-10 | 81 | 8 | 
 | 2023-04-09 | 81 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 80 | 8 | 
 | 2023-03-16 | 80 | 8 | 
 | 2023-03-14 | 80 | 8 | 
-| 2023-03-13 | 80 | 8 | 
 

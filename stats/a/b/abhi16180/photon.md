@@ -1,6 +1,6 @@
 # abhi16180/photon - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 318 | 29 | 
 | 2023-04-11 | 318 | 29 | 
 | 2023-04-10 | 317 | 29 | 
 | 2023-04-09 | 316 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 302 | 29 | 
 | 2023-03-16 | 301 | 29 | 
 | 2023-03-15 | 300 | 29 | 
-| 2023-03-13 | 300 | 29 | 
 

@@ -1,8 +1,8 @@
 # unoplatform/Uno.Wasm.Bootstrap - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 52
+☋ Forks: 51
 
 ★ Stars: 317
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 317 | 51 | 
 | 2023-04-11 | 317 | 52 | 
 | 2023-04-10 | 316 | 51 | 
 | 2023-04-09 | 314 | 51 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 311 | 49 | 
 | 2023-03-16 | 310 | 49 | 
 | 2023-03-15 | 310 | 49 | 
-| 2023-03-13 | 310 | 49 | 
 

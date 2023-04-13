@@ -1,10 +1,10 @@
 # react-pdf-viewer/react-pdf-viewer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 141
 
-★ Stars: 1538
+★ Stars: 1543
 
 [Open repository](https://github.com/react-pdf-viewer/react-pdf-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 1543 | 141 | 
 | 2023-04-11 | 1538 | 141 | 
 | 2023-04-10 | 1537 | 141 | 
 | 2023-04-09 | 1536 | 141 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 1515 | 139 | 
 | 2023-03-16 | 1513 | 139 | 
 | 2023-03-15 | 1508 | 139 | 
-| 2023-03-13 | 1506 | 139 | 
 

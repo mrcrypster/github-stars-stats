@@ -1,10 +1,10 @@
 # r3x5ur/unveilr - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 106
+☋ Forks: 113
 
-★ Stars: 460
+★ Stars: 483
 
 [Open repository](https://github.com/r3x5ur/unveilr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 483 | 113 | 
 | 2023-04-11 | 460 | 106 | 
 | 2023-04-10 | 440 | 102 | 
 | 2023-04-09 | 426 | 97 | 

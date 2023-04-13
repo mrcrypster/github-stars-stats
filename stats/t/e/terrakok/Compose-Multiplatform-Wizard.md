@@ -1,10 +1,10 @@
 # terrakok/Compose-Multiplatform-Wizard - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 87
+★ Stars: 93
 
 [Open repository](https://github.com/terrakok/Compose-Multiplatform-Wizard)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 93 | 8 | 
 | 2023-04-11 | 87 | 7 | 
 | 2023-04-10 | 77 | 7 | 
 | 2023-04-09 | 74 | 6 | 

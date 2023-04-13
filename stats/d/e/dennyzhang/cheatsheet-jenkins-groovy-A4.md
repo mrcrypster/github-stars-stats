@@ -1,6 +1,6 @@
 # dennyzhang/cheatsheet-jenkins-groovy-A4 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 312 | 279 | 
 | 2023-04-11 | 312 | 279 | 
 | 2023-04-10 | 312 | 279 | 
 | 2023-04-09 | 312 | 279 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 309 | 278 | 
 | 2023-03-16 | 309 | 278 | 
 | 2023-03-14 | 308 | 278 | 
-| 2023-03-13 | 308 | 278 | 
 

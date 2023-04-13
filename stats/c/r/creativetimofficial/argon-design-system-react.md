@@ -1,6 +1,6 @@
 # creativetimofficial/argon-design-system-react - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 635 | 356 | 
 | 2023-04-11 | 635 | 356 | 
 | 2023-04-10 | 635 | 355 | 
 | 2023-04-09 | 635 | 355 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 628 | 334 | 
 | 2023-03-15 | 628 | 333 | 
 | 2023-03-14 | 629 | 331 | 
-| 2023-03-13 | 628 | 327 | 
 

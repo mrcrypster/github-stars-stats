@@ -1,10 +1,10 @@
 # hyperfiddle/electric - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 24
 
-★ Stars: 1046
+★ Stars: 1050
 
 [Open repository](https://github.com/hyperfiddle/electric)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1050 | 24 | 
+| 2023-04-12 | 1050 | 24 | 
 | 2023-04-11 | 1046 | 24 | 
 | 2023-04-10 | 1040 | 24 | 
 | 2023-04-09 | 1031 | 24 | 
@@ -40,5 +42,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 944 | 22 | 
 | 2023-03-15 | 943 | 22 | 
 | 2023-03-14 | 942 | 21 | 
-| 2023-03-13 | 936 | 20 | 
 

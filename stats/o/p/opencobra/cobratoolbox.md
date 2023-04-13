@@ -1,6 +1,6 @@
 # opencobra/cobratoolbox - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 293
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 211 | 293 | 
 | 2023-04-11 | 211 | 293 | 
 | 2023-04-10 | 211 | 293 | 
 | 2023-04-09 | 211 | 293 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 208 | 291 | 
 | 2023-03-16 | 207 | 291 | 
 | 2023-03-15 | 206 | 290 | 
-| 2023-03-14 | 205 | 289 | 
 

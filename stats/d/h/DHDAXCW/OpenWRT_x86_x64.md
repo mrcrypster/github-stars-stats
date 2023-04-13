@@ -1,10 +1,10 @@
 # DHDAXCW/OpenWRT_x86_x64 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 166
 
-★ Stars: 534
+★ Stars: 541
 
 [Open repository](https://github.com/DHDAXCW/OpenWRT_x86_x64)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 541 | 166 | 
+| 2023-04-12 | 541 | 166 | 
 | 2023-04-11 | 534 | 166 | 
 | 2023-04-10 | 532 | 165 | 
 | 2023-04-09 | 532 | 165 | 
@@ -35,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 493 | 155 | 
 | 2023-03-16 | 492 | 154 | 
 | 2023-03-15 | 488 | 154 | 
-| 2023-03-13 | 487 | 153 | 
 

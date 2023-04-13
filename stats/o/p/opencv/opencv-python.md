@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 12
 
 ☋ Forks: 665
 
-★ Stars: 3394
+★ Stars: 3395
 
 [Open repository](https://github.com/opencv/opencv-python)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 3394 | 665 | 
+| 2023-04-12 | 3395 | 665 | 
 | 2023-04-11 | 3394 | 665 | 
 | 2023-04-10 | 3388 | 662 | 
 | 2023-04-09 | 3385 | 662 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3329 | 651 | 
 | 2023-03-16 | 3329 | 649 | 
 | 2023-03-15 | 3326 | 649 | 
-| 2023-03-13 | 3320 | 650 | 
 

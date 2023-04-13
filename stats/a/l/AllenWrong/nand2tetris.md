@@ -1,10 +1,10 @@
 # AllenWrong/nand2tetris - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/AllenWrong/nand2tetris)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 213 | 27 | 
 | 2023-04-11 | 212 | 27 | 
 | 2023-04-10 | 212 | 27 | 
 | 2023-04-09 | 212 | 27 | 

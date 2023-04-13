@@ -1,10 +1,10 @@
 # azavea/franklin - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/azavea/franklin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 65 | 18 | 
 | 2023-04-11 | 64 | 17 | 
 | 2023-04-10 | 64 | 17 | 
 | 2023-04-09 | 64 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-16 | 65 | 17 | 
 | 2023-03-15 | 65 | 17 | 
 | 2023-03-14 | 65 | 17 | 
-| 2023-03-13 | 65 | 17 | 
 

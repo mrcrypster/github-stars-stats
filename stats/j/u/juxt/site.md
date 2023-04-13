@@ -1,10 +1,10 @@
 # juxt/site - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 20
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/juxt/site)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 125 | 20 | 
 | 2023-04-11 | 124 | 20 | 
 | 2023-04-10 | 124 | 20 | 
 | 2023-04-09 | 124 | 20 | 

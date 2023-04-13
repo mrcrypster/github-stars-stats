@@ -1,10 +1,10 @@
 # duarteocarmo/boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 54
+★ Stars: 57
 
 [Open repository](https://github.com/duarteocarmo/boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 57 | 6 | 
 | 2023-04-12 | 54 | 6 | 
 | 2023-04-10 | 54 | 6 | 
 | 2023-04-09 | 54 | 6 | 

@@ -1,10 +1,10 @@
 # databrickslabs/overwatch - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 47
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/databrickslabs/overwatch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 165 | 47 | 
 | 2023-04-11 | 164 | 47 | 
 | 2023-04-10 | 164 | 47 | 
 | 2023-04-09 | 164 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 159 | 45 | 
 | 2023-03-15 | 158 | 45 | 
 | 2023-03-14 | 158 | 45 | 
-| 2023-03-13 | 157 | 45 | 
 

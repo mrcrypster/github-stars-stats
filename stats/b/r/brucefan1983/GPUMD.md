@@ -1,10 +1,10 @@
 # brucefan1983/GPUMD - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 71
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/brucefan1983/GPUMD)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 206 | 71 | 
 | 2023-04-11 | 205 | 71 | 
 | 2023-04-10 | 204 | 71 | 
 | 2023-04-09 | 201 | 71 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 195 | 71 | 
 | 2023-03-16 | 194 | 71 | 
 | 2023-03-14 | 193 | 71 | 
-| 2023-03-13 | 193 | 70 | 
 

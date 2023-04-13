@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 12
 
-☋ Forks: 5
+☋ Forks: 8
 
-★ Stars: 107
+★ Stars: 148
 
 [Open repository](https://github.com/laracraft-tech/laravel-date-scopes)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-12 | 107 | 5 | 
+| 2023-04-12 | 148 | 8 | 
 | 2023-04-11 | 93 | 5 | 
 

@@ -1,10 +1,10 @@
 # achrafelkhnissi/alx-checker - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/achrafelkhnissi/alx-checker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-12 | 18 | 3 | 
 | 2023-04-11 | 19 | 3 | 
 | 2023-04-10 | 18 | 3 | 
 | 2023-04-09 | 18 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-17 | 18 | 1 | 
 | 2023-03-16 | 18 | 1 | 
 | 2023-03-15 | 18 | 1 | 
-| 2023-03-13 | 18 | 1 | 
 

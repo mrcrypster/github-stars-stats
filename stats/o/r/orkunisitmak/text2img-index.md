@@ -1,6 +1,6 @@
 # orkunisitmak/text2img-index - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 40 | 1 | 
 | 2023-04-12 | 40 | 1 | 
 | 2023-04-10 | 40 | 1 | 
 | 2023-04-09 | 39 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 34 | 1 | 
 | 2023-03-16 | 34 | 1 | 
 | 2023-03-14 | 34 | 1 | 
-| 2023-03-13 | 34 | 1 | 
 
