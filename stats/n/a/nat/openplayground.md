@@ -1,10 +1,10 @@
 # nat/openplayground - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 190
+☋ Forks: 196
 
-★ Stars: 3397
+★ Stars: 3499
 
 [Open repository](https://github.com/nat/openplayground)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3499 | 196 | 
 | 2023-04-12 | 3397 | 190 | 
 | 2023-04-11 | 3269 | 182 | 
 | 2023-04-10 | 3148 | 176 | 

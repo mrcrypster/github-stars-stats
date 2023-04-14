@@ -1,6 +1,6 @@
 # bbatsov/helm-projectile - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 312 | 73 | 
 | 2023-04-12 | 312 | 73 | 
 | 2023-04-11 | 312 | 73 | 
 | 2023-04-10 | 311 | 73 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 310 | 73 | 
 | 2023-03-17 | 310 | 73 | 
 | 2023-03-16 | 310 | 73 | 
-| 2023-03-14 | 310 | 73 | 
 

@@ -1,10 +1,10 @@
 # ravenscroftj/turbopilot - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 52
+☋ Forks: 71
 
-★ Stars: 1785
+★ Stars: 2342
 
 [Open repository](https://github.com/ravenscroftj/turbopilot)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2342 | 71 | 
 | 2023-04-12 | 1785 | 52 | 
 

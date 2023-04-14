@@ -1,6 +1,6 @@
 # HaxeFlixel/flixel-demos - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 292
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 388 | 292 | 
 | 2023-04-12 | 388 | 292 | 
 | 2023-04-11 | 388 | 293 | 
 | 2023-04-10 | 388 | 293 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 387 | 290 | 
 | 2023-03-17 | 387 | 291 | 
 | 2023-03-16 | 387 | 291 | 
-| 2023-03-14 | 387 | 291 | 
 

@@ -1,10 +1,10 @@
 # aphyr/dom-top - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 8
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/aphyr/dom-top)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 171 | 8 | 
 | 2023-04-12 | 170 | 8 | 
 | 2023-04-11 | 170 | 8 | 
 | 2023-04-10 | 170 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 171 | 8 | 
 | 2023-03-17 | 171 | 8 | 
 | 2023-03-16 | 171 | 8 | 
-| 2023-03-14 | 171 | 8 | 
 

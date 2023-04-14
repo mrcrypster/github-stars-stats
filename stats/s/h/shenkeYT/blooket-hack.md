@@ -1,10 +1,10 @@
 # shenkeYT/blooket-hack - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 737
+☋ Forks: 740
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/shenkeYT/blooket-hack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 231 | 740 | 
 | 2023-04-12 | 230 | 737 | 
 | 2023-04-11 | 230 | 735 | 
 | 2023-04-10 | 230 | 734 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 202 | 642 | 
 | 2023-03-17 | 201 | 637 | 
 | 2023-03-16 | 197 | 633 | 
-| 2023-03-14 | 195 | 628 | 
 

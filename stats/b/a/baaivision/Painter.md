@@ -1,10 +1,10 @@
 # baaivision/Painter - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 68
+☋ Forks: 70
 
-★ Stars: 1326
+★ Stars: 1422
 
 [Open repository](https://github.com/baaivision/Painter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1422 | 70 | 
 | 2023-04-12 | 1326 | 68 | 
 | 2023-04-11 | 1220 | 64 | 
 | 2023-04-10 | 1024 | 50 | 

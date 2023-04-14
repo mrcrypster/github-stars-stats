@@ -1,8 +1,8 @@
 # netology-code/bjs-diplom - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 777
+☋ Forks: 778
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 20 | 778 | 
 | 2023-04-12 | 20 | 777 | 
 | 2023-04-11 | 20 | 776 | 
 | 2023-04-10 | 20 | 776 | 

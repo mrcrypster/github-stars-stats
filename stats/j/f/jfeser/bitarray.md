@@ -1,10 +1,10 @@
 # jfeser/bitarray - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/jfeser/bitarray)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 15 | - | 
 | 2023-04-12 | 14 | - | 
 | 2023-04-11 | 13 | - | 
 | 2023-04-10 | 13 | - | 

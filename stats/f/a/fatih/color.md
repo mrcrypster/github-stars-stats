@@ -1,10 +1,10 @@
 # fatih/color - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 587
 
-★ Stars: 6192
+★ Stars: 6197
 
 [Open repository](https://github.com/fatih/color)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 6197 | 587 | 
 | 2023-04-12 | 6192 | 587 | 
 | 2023-04-11 | 6187 | 587 | 
 | 2023-04-10 | 6183 | 586 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 6120 | 581 | 
 | 2023-03-16 | 6110 | 581 | 
 | 2023-03-15 | 6108 | 581 | 
-| 2023-03-14 | 6108 | 581 | 
 

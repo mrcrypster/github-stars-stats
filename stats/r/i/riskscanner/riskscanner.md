@@ -1,10 +1,10 @@
 # riskscanner/riskscanner - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 176
 
-★ Stars: 1097
+★ Stars: 1098
 
 [Open repository](https://github.com/riskscanner/riskscanner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1098 | 176 | 
 | 2023-04-12 | 1097 | 176 | 
 | 2023-04-11 | 1098 | 176 | 
 | 2023-04-10 | 1097 | 177 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1086 | 174 | 
 | 2023-03-17 | 1086 | 174 | 
 | 2023-03-15 | 1085 | 173 | 
-| 2023-03-14 | 1082 | 173 | 
 

@@ -1,10 +1,10 @@
 # freddiehaddad/feline.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 105
+★ Stars: 107
 
 [Open repository](https://github.com/freddiehaddad/feline.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 107 | 2 | 
 | 2023-04-12 | 105 | 2 | 
 | 2023-04-11 | 105 | 1 | 
 | 2023-04-10 | 102 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 80 | 1 | 
 | 2023-03-17 | 80 | 1 | 
 | 2023-03-16 | 79 | 1 | 
-| 2023-03-14 | 78 | - | 
 

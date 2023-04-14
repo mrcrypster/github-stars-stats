@@ -1,10 +1,10 @@
 # wger-project/wger - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 464
 
-★ Stars: 2240
+★ Stars: 2241
 
 [Open repository](https://github.com/wger-project/wger)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2241 | 464 | 
 | 2023-04-12 | 2240 | 464 | 
 | 2023-04-11 | 2237 | 464 | 
 | 2023-04-10 | 2236 | 464 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2216 | 462 | 
 | 2023-03-17 | 2217 | 462 | 
 | 2023-03-16 | 2215 | 462 | 
-| 2023-03-14 | 2215 | 462 | 
 

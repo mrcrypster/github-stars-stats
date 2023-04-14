@@ -1,6 +1,6 @@
 # hoainam10th123/SocialMediaApp - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 48 | 30 | 
 | 2023-04-13 | 48 | 30 | 
 | 2023-04-11 | 48 | 30 | 
 | 2023-04-10 | 48 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 46 | 29 | 
 | 2023-03-17 | 46 | 29 | 
 | 2023-03-16 | 46 | 29 | 
-| 2023-03-14 | 44 | 29 | 
 

@@ -1,8 +1,8 @@
 # jonathanmorley/asdf-pnpm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 32 | 3 | 
 | 2023-04-12 | 32 | 2 | 
 | 2023-04-11 | 32 | 2 | 
 | 2023-04-10 | 32 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 29 | 2 | 
 | 2023-03-17 | 29 | 2 | 
 | 2023-03-15 | 29 | 2 | 
-| 2023-03-14 | 29 | 2 | 
 

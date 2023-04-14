@@ -1,6 +1,6 @@
 # rabbitmq/osiris - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 38 | 9 | 
 | 2023-04-12 | 38 | 9 | 
 | 2023-04-11 | 38 | 9 | 
 | 2023-04-10 | 38 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 38 | 9 | 
 | 2023-03-17 | 38 | 9 | 
 | 2023-03-16 | 38 | 9 | 
-| 2023-03-14 | 38 | 9 | 
 

@@ -1,8 +1,8 @@
 # Azure/avdaccelerator - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 107
+☋ Forks: 106
 
 ★ Stars: 151
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 151 | 106 | 
 | 2023-04-12 | 151 | 107 | 
 | 2023-04-11 | 150 | 107 | 
 | 2023-04-10 | 150 | 105 | 

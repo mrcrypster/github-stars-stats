@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 13
 
-☋ Forks: 70
+☋ Forks: 72
 
-★ Stars: 1561
+★ Stars: 1694
 
 [Open repository](https://github.com/BuilderIO/ai-shell)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 1561 | 70 | 
+| 2023-04-13 | 1694 | 72 | 
 | 2023-04-12 | 1528 | 69 | 
 | 2023-04-11 | 1320 | 58 | 
 | 2023-04-10 | 875 | 39 | 

@@ -1,10 +1,10 @@
 # remko/waforth - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 344
+★ Stars: 345
 
 [Open repository](https://github.com/remko/waforth)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 345 | 15 | 
 | 2023-04-12 | 344 | 15 | 
 | 2023-04-11 | 344 | 15 | 
 | 2023-04-10 | 344 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 340 | 16 | 
 | 2023-03-16 | 339 | 16 | 
 | 2023-03-15 | 339 | 16 | 
-| 2023-03-14 | 338 | 16 | 
 

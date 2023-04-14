@@ -1,10 +1,10 @@
 # roypriyanshu02/impressive-profile-readmes - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/roypriyanshu02/impressive-profile-readmes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 17 | 6 | 
 | 2023-04-12 | 15 | 5 | 
 | 2023-04-10 | 15 | 5 | 
 | 2023-04-09 | 15 | 5 | 

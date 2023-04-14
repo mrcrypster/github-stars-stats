@@ -1,6 +1,6 @@
 # nvdla/hw - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 515
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1431 | 515 | 
 | 2023-04-12 | 1431 | 515 | 
 | 2023-04-11 | 1430 | 514 | 
 | 2023-04-10 | 1430 | 513 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 1421 | 510 | 
 | 2023-03-16 | 1420 | 510 | 
 | 2023-03-15 | 1420 | 510 | 
-| 2023-03-14 | 1420 | 510 | 
 

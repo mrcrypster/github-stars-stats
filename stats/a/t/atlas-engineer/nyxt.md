@@ -1,10 +1,10 @@
 # atlas-engineer/nyxt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 356
 
-★ Stars: 8362
+★ Stars: 8361
 
 [Open repository](https://github.com/atlas-engineer/nyxt)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 8361 | 356 | 
+| 2023-04-13 | 8361 | 356 | 
 | 2023-04-12 | 8362 | 356 | 
 | 2023-04-11 | 8355 | 356 | 
 | 2023-04-10 | 8353 | 355 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 8286 | 356 | 
 | 2023-03-16 | 8274 | 356 | 
 | 2023-03-15 | 8263 | 355 | 
-| 2023-03-14 | 8256 | 353 | 
 

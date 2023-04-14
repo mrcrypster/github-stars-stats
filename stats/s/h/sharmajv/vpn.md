@@ -1,10 +1,10 @@
 # sharmajv/vpn - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 116
 
-★ Stars: 1187
+★ Stars: 1193
 
 [Open repository](https://github.com/sharmajv/vpn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1193 | 116 | 
 | 2023-04-12 | 1187 | 116 | 
 | 2023-04-11 | 1182 | 116 | 
 | 2023-04-10 | 1173 | 115 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1069 | 106 | 
 | 2023-03-17 | 1062 | 106 | 
 | 2023-03-16 | 1058 | 106 | 
-| 2023-03-14 | 1050 | 106 | 
 

@@ -1,10 +1,10 @@
 # jjolano/shadow - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 92
 
-★ Stars: 476
+★ Stars: 477
 
 [Open repository](https://github.com/jjolano/shadow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 477 | 92 | 
 | 2023-04-12 | 476 | 92 | 
 | 2023-04-11 | 473 | 92 | 
 | 2023-04-10 | 471 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 443 | 91 | 
 | 2023-03-16 | 440 | 90 | 
 | 2023-03-15 | 439 | 90 | 
-| 2023-03-14 | 437 | 89 | 
 

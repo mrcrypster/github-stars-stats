@@ -1,10 +1,10 @@
 # ssbuild/chatglm_finetuning - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 95
+☋ Forks: 97
 
-★ Stars: 814
+★ Stars: 827
 
 [Open repository](https://github.com/ssbuild/chatglm_finetuning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 827 | 97 | 
 | 2023-04-12 | 814 | 95 | 
 | 2023-04-11 | 794 | 95 | 
 | 2023-04-10 | 769 | 92 | 

@@ -1,6 +1,6 @@
 # memphisdev/memphis-k8s - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 18 | 7 | 
 | 2023-04-12 | 18 | 7 | 
 | 2023-04-11 | 18 | 7 | 
 | 2023-04-10 | 18 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 18 | 7 | 
 | 2023-03-16 | 18 | 7 | 
 | 2023-03-15 | 18 | 7 | 
-| 2023-03-14 | 18 | 6 | 
 

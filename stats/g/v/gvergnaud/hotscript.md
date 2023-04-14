@@ -1,10 +1,10 @@
 # gvergnaud/hotscript - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 40
 
-★ Stars: 1989
+★ Stars: 2007
 
 [Open repository](https://github.com/gvergnaud/hotscript)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2007 | 40 | 
 | 2023-04-12 | 1989 | 40 | 
 | 2023-04-11 | 1976 | 40 | 
 | 2023-04-09 | 1942 | 40 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 1442 | 35 | 
 | 2023-03-17 | 1438 | 35 | 
 | 2023-03-16 | 1431 | 35 | 
-| 2023-03-15 | 1427 | 35 | 
 

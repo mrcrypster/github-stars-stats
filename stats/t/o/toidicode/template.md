@@ -1,8 +1,8 @@
 # toidicode/template - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 386
+☋ Forks: 387
 
 ★ Stars: 695
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 695 | 387 | 
 | 2023-04-13 | 695 | 386 | 
 | 2023-04-11 | 694 | 386 | 
 | 2023-04-10 | 694 | 386 | 

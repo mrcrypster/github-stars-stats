@@ -1,8 +1,8 @@
 # webview/webview - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 866
+☋ Forks: 867
 
 ★ Stars: 11037
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 11037 | 867 | 
 | 2023-04-12 | 11037 | 866 | 
 | 2023-04-11 | 11033 | 866 | 
 | 2023-04-10 | 11030 | 865 | 

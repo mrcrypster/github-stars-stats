@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 13
 
-☋ Forks: 1339
+☋ Forks: 1340
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/openshift/release)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 212 | 1339 | 
+| 2023-04-13 | 213 | 1340 | 
 | 2023-04-12 | 212 | 1339 | 
 | 2023-04-11 | 212 | 1335 | 
 | 2023-04-10 | 212 | 1333 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-17 | 209 | 1315 | 
 | 2023-03-16 | 208 | 1314 | 
 | 2023-03-15 | 208 | 1314 | 
-| 2023-03-14 | 208 | 1313 | 
 

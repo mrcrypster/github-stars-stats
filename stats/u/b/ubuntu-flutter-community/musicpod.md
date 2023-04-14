@@ -1,10 +1,10 @@
 # ubuntu-flutter-community/musicpod - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/ubuntu-flutter-community/musicpod)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 82 | 12 | 
 | 2023-04-12 | 81 | 12 | 
 | 2023-04-11 | 80 | 11 | 
 | 2023-04-10 | 78 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 53 | 6 | 
 | 2023-03-16 | 53 | 6 | 
 | 2023-03-15 | 53 | 6 | 
-| 2023-03-14 | 49 | 6 | 
 

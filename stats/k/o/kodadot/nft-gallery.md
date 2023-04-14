@@ -1,10 +1,10 @@
 # kodadot/nft-gallery - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 254
 
-★ Stars: 444
+★ Stars: 445
 
 [Open repository](https://github.com/kodadot/nft-gallery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 445 | 254 | 
 | 2023-04-12 | 444 | 254 | 
 | 2023-04-11 | 443 | 254 | 
 | 2023-04-10 | 443 | 254 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 437 | 248 | 
 | 2023-03-17 | 437 | 247 | 
 | 2023-03-16 | 437 | 247 | 
-| 2023-03-14 | 436 | 247 | 
 

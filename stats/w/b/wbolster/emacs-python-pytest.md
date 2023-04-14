@@ -1,6 +1,6 @@
 # wbolster/emacs-python-pytest - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 121 | 19 | 
 | 2023-04-12 | 121 | 19 | 
 | 2023-04-11 | 121 | 19 | 
 | 2023-04-10 | 121 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 120 | 18 | 
 | 2023-03-17 | 120 | 18 | 
 | 2023-03-15 | 119 | 18 | 
-| 2023-03-14 | 119 | 18 | 
 

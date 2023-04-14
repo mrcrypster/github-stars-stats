@@ -1,10 +1,10 @@
 # wangyunjeff/EasyChatGPT-API - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 44
 
-★ Stars: 75
+★ Stars: 74
 
 [Open repository](https://github.com/wangyunjeff/EasyChatGPT-API)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 74 | 44 | 
 | 2023-04-12 | 75 | 44 | 
 | 2023-04-11 | 74 | 44 | 
 | 2023-04-10 | 74 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 64 | 37 | 
 | 2023-03-17 | 63 | 36 | 
 | 2023-03-15 | 63 | 36 | 
-| 2023-03-14 | 63 | 35 | 
 

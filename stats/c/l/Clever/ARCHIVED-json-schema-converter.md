@@ -1,6 +1,6 @@
 # Clever/ARCHIVED-json-schema-converter - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 15 | 7 | 
 | 2023-04-12 | 15 | 7 | 
 | 2023-04-11 | 15 | 7 | 
 | 2023-04-10 | 15 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 15 | 7 | 
 | 2023-03-17 | 15 | 7 | 
 | 2023-03-16 | 15 | 7 | 
-| 2023-03-14 | 15 | 7 | 
 

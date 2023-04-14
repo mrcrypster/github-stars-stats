@@ -1,10 +1,10 @@
 # tullytim/Pinecone.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/tullytim/Pinecone.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 22 | - | 
 | 2023-04-12 | 21 | - | 
 | 2023-04-11 | 21 | - | 
 | 2023-04-10 | 21 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 21 | - | 
 | 2023-03-17 | 21 | - | 
 | 2023-03-16 | 21 | - | 
-| 2023-03-14 | 21 | - | 
 

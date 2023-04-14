@@ -1,10 +1,10 @@
 # MicrosoftDocs/powershell-sdk-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/MicrosoftDocs/powershell-sdk-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 15 | 12 | 
 | 2023-04-12 | 14 | 12 | 
 | 2023-04-11 | 14 | 12 | 
 | 2023-04-10 | 14 | 12 | 

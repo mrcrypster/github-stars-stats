@@ -1,10 +1,10 @@
 # tommybuonomo/dotsindicator - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 313
 
-★ Stars: 2883
+★ Stars: 2885
 
 [Open repository](https://github.com/tommybuonomo/dotsindicator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2885 | 313 | 
 | 2023-04-12 | 2883 | 313 | 
 | 2023-04-11 | 2883 | 313 | 
 | 2023-04-10 | 2883 | 313 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2861 | 309 | 
 | 2023-03-17 | 2862 | 309 | 
 | 2023-03-16 | 2860 | 309 | 
-| 2023-03-14 | 2859 | 309 | 
 

@@ -1,6 +1,6 @@
 # JakeWharton/cite - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 192 | 4 | 
 | 2023-04-12 | 192 | 4 | 
 | 2023-04-11 | 192 | 4 | 
 | 2023-04-10 | 192 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 179 | 3 | 
 | 2023-03-16 | 178 | 3 | 
 | 2023-03-15 | 178 | 3 | 
-| 2023-03-14 | 178 | 3 | 
 

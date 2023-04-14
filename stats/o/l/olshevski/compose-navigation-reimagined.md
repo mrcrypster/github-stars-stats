@@ -1,10 +1,10 @@
 # olshevski/compose-navigation-reimagined - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 8
 
-★ Stars: 404
+★ Stars: 408
 
 [Open repository](https://github.com/olshevski/compose-navigation-reimagined)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 408 | 8 | 
 | 2023-04-12 | 404 | 8 | 
 | 2023-04-11 | 404 | 8 | 
 | 2023-04-09 | 404 | 8 | 

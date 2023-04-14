@@ -1,10 +1,8 @@
 # midossaz/NgrokRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+☋ Forks: 
 
-☋ Forks: 203
-
-★ Stars: 1
+★ Stars: 
 
 [Open repository](https://github.com/midossaz/NgrokRDP)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 1 | 203 | 
 

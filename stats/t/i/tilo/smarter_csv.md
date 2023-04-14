@@ -1,10 +1,10 @@
 # tilo/smarter_csv - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 185
 
-★ Stars: 1303
+★ Stars: 1304
 
 [Open repository](https://github.com/tilo/smarter_csv)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1304 | 185 | 
 | 2023-04-12 | 1303 | 185 | 
 | 2023-04-11 | 1303 | 185 | 
 | 2023-04-10 | 1303 | 185 | 

@@ -1,10 +1,10 @@
 # 07jhashubham/YouTubeArt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/07jhashubham/YouTubeArt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 16 | 30 | 
 | 2023-04-12 | 15 | 30 | 
 | 2023-04-11 | 15 | 30 | 
 | 2023-04-10 | 15 | 29 | 

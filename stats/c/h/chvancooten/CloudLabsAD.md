@@ -1,10 +1,10 @@
 # chvancooten/CloudLabsAD - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 51
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/chvancooten/CloudLabsAD)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 252 | 51 | 
 | 2023-04-12 | 251 | 51 | 
 | 2023-04-11 | 251 | 51 | 
 | 2023-04-10 | 251 | 51 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 244 | 49 | 
 | 2023-03-16 | 244 | 49 | 
 | 2023-03-15 | 243 | 49 | 
-| 2023-03-14 | 243 | 49 | 
 

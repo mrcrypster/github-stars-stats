@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 25
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/coracle-social/coracle)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 143 | 25 | 
+| 2023-04-13 | 144 | 25 | 
 | 2023-04-12 | 143 | 25 | 
 | 2023-04-11 | 142 | 24 | 
 | 2023-04-10 | 141 | 24 | 

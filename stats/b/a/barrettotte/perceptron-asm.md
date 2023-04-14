@@ -1,6 +1,6 @@
 # barrettotte/perceptron-asm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 20 | 1 | 
 | 2023-04-12 | 20 | 1 | 
 | 2023-04-11 | 20 | 1 | 
 | 2023-04-10 | 20 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 20 | 1 | 
 | 2023-03-17 | 20 | 1 | 
 | 2023-03-16 | 20 | 1 | 
-| 2023-03-14 | 20 | 1 | 
 

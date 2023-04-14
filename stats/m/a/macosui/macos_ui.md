@@ -1,10 +1,10 @@
 # macosui/macos_ui - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 115
 
-★ Stars: 1304
+★ Stars: 1307
 
 [Open repository](https://github.com/macosui/macos_ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1307 | 115 | 
 | 2023-04-12 | 1304 | 115 | 
 | 2023-04-11 | 1299 | 115 | 
 | 2023-04-10 | 1297 | 115 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1259 | 111 | 
 | 2023-03-17 | 1257 | 111 | 
 | 2023-03-15 | 1253 | 110 | 
-| 2023-03-14 | 1250 | 110 | 
 

@@ -1,10 +1,10 @@
 # adil192/saber - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 482
+★ Stars: 485
 
 [Open repository](https://github.com/adil192/saber)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 485 | 47 | 
 | 2023-04-12 | 482 | 46 | 
 | 2023-04-11 | 478 | 46 | 
 | 2023-04-10 | 477 | 46 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 423 | 40 | 
 | 2023-03-17 | 420 | 40 | 
 | 2023-03-15 | 420 | 40 | 
-| 2023-03-14 | 416 | 40 | 
 

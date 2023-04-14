@@ -1,6 +1,6 @@
 # neithern/g4music - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 54 | 4 | 
 | 2023-04-12 | 54 | 4 | 
 | 2023-04-11 | 54 | 4 | 
 | 2023-04-10 | 54 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 52 | 4 | 
 | 2023-03-17 | 51 | 4 | 
 | 2023-03-15 | 50 | 4 | 
-| 2023-03-14 | 50 | 4 | 
 

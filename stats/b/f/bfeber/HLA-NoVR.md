@@ -1,10 +1,10 @@
 # bfeber/HLA-NoVR - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 18
+☋ Forks: 21
 
-★ Stars: 295
+★ Stars: 369
 
 [Open repository](https://github.com/bfeber/HLA-NoVR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 369 | 21 | 
 | 2023-04-12 | 295 | 18 | 
 | 2023-04-11 | 213 | 15 | 
 | 2023-04-10 | 168 | 12 | 

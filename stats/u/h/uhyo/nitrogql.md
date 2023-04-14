@@ -1,10 +1,10 @@
 # uhyo/nitrogql - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 0
+☋ Forks: 2
 
-★ Stars: 165
+★ Stars: 181
 
 [Open repository](https://github.com/uhyo/nitrogql)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 181 | 2 | 
 | 2023-04-12 | 165 | - | 
 | 2023-04-11 | 160 | - | 
 

@@ -1,10 +1,10 @@
 # minhaj-313/Portfolio-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 44
 
-★ Stars: 32
+★ Stars: 31
 
 [Open repository](https://github.com/minhaj-313/Portfolio-1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 31 | 44 | 
 | 2023-04-12 | 32 | 44 | 
 | 2023-04-11 | 32 | 44 | 
 | 2023-04-10 | 32 | 43 | 

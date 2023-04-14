@@ -1,10 +1,10 @@
 # rime/plum - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 106
 
-★ Stars: 960
+★ Stars: 964
 
 [Open repository](https://github.com/rime/plum)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 964 | 106 | 
 | 2023-04-12 | 960 | 106 | 
 | 2023-04-11 | 953 | 106 | 
 | 2023-04-10 | 949 | 106 | 

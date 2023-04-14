@@ -1,6 +1,6 @@
 # Netflix/asgard - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 436
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2236 | 436 | 
 | 2023-04-12 | 2236 | 436 | 
 | 2023-04-11 | 2234 | 435 | 
 | 2023-04-10 | 2235 | 434 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2236 | 433 | 
 | 2023-03-17 | 2236 | 433 | 
 | 2023-03-16 | 2236 | 433 | 
-| 2023-03-14 | 2236 | 433 | 
 

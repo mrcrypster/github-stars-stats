@@ -1,10 +1,10 @@
 # DonAndMike/JavaScript-DEX-Triangular-Arbitrage-Bot-v4 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 53
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/DonAndMike/JavaScript-DEX-Triangular-Arbitrage-Bot-v4)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 54 | 53 | 
 | 2023-04-12 | 53 | 53 | 
 | 2023-04-11 | 54 | 53 | 
 | 2023-04-09 | 53 | 53 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 50 | 52 | 
 | 2023-03-17 | 50 | 52 | 
 | 2023-03-16 | 50 | 52 | 
-| 2023-03-14 | 50 | 52 | 
 

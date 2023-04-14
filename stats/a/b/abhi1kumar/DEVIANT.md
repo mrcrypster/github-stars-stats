@@ -1,10 +1,10 @@
 # abhi1kumar/DEVIANT - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 24
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/abhi1kumar/DEVIANT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 146 | 24 | 
 | 2023-04-12 | 145 | 24 | 
 | 2023-04-11 | 144 | 24 | 
 | 2023-04-10 | 144 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 141 | 22 | 
 | 2023-03-16 | 141 | 22 | 
 | 2023-03-15 | 140 | 22 | 
-| 2023-03-14 | 139 | 22 | 
 

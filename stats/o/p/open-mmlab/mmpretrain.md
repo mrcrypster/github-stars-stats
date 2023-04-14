@@ -1,10 +1,10 @@
 # open-mmlab/mmpretrain - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 812
+☋ Forks: 814
 
-★ Stars: 2093
+★ Stars: 2107
 
 [Open repository](https://github.com/open-mmlab/mmpretrain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2107 | 814 | 
 | 2023-04-12 | 2093 | 812 | 
 | 2023-04-11 | 2084 | 810 | 
 | 2023-04-10 | 2071 | 805 | 

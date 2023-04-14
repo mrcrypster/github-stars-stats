@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 1054
 
-★ Stars: 11785
+★ Stars: 11787
 
 [Open repository](https://github.com/App-vNext/Polly)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 11785 | 1054 | 
+| 2023-04-13 | 11787 | 1054 | 
 | 2023-04-12 | 11784 | 1054 | 
 | 2023-04-11 | 11777 | 1054 | 
 | 2023-04-10 | 11773 | 1053 | 

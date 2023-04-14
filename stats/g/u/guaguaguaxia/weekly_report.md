@@ -1,10 +1,10 @@
 # guaguaguaxia/weekly_report - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
-☋ Forks: 411
+☋ Forks: 415
 
-★ Stars: 2740
+★ Stars: 2745
 
 [Open repository](https://github.com/guaguaguaxia/weekly_report)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2745 | 415 | 
+| 2023-04-13 | 2745 | 415 | 
 | 2023-04-12 | 2740 | 411 | 
 | 2023-04-11 | 2732 | 408 | 
 | 2023-04-10 | 2726 | 407 | 

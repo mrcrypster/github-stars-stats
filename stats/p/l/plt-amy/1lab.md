@@ -1,10 +1,10 @@
 # plt-amy/1lab - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 37
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/plt-amy/1lab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 205 | 37 | 
 | 2023-04-12 | 204 | 37 | 
 | 2023-04-11 | 203 | 37 | 
 | 2023-04-10 | 203 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 201 | 36 | 
 | 2023-03-17 | 201 | 36 | 
 | 2023-03-16 | 200 | 36 | 
-| 2023-03-14 | 199 | 36 | 
 

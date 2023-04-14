@@ -1,10 +1,10 @@
 # tpope/vim-haml - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 68
 
-★ Stars: 594
+★ Stars: 595
 
 [Open repository](https://github.com/tpope/vim-haml)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 595 | 68 | 
 | 2023-04-12 | 594 | 68 | 
 | 2023-04-11 | 594 | 68 | 
 | 2023-04-10 | 594 | 68 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 594 | 68 | 
 | 2023-03-17 | 594 | 68 | 
 | 2023-03-16 | 594 | 68 | 
-| 2023-03-14 | 594 | 68 | 
 

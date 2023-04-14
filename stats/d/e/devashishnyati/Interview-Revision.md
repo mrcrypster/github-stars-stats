@@ -1,6 +1,6 @@
 # devashishnyati/Interview-Revision - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 193 | 104 | 
 | 2023-04-12 | 193 | 104 | 
 | 2023-04-11 | 193 | 104 | 
 | 2023-04-10 | 193 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 191 | 101 | 
 | 2023-03-17 | 191 | 101 | 
 | 2023-03-16 | 191 | 101 | 
-| 2023-03-14 | 191 | 101 | 
 

@@ -1,6 +1,6 @@
 # python-mode/python-mode - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 895
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5410 | 895 | 
 | 2023-04-12 | 5410 | 895 | 
 | 2023-04-11 | 5409 | 895 | 
 | 2023-04-10 | 5409 | 895 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 5406 | 897 | 
 | 2023-03-16 | 5406 | 897 | 
 | 2023-03-15 | 5405 | 897 | 
-| 2023-03-14 | 5405 | 897 | 
 

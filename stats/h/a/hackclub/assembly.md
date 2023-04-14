@@ -1,10 +1,10 @@
 # hackclub/assembly - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 2702
+★ Stars: 2705
 
 [Open repository](https://github.com/hackclub/assembly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2705 | 118 | 
 | 2023-04-12 | 2702 | 117 | 
 | 2023-04-11 | 2703 | 117 | 
 | 2023-04-10 | 2703 | 117 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2667 | 116 | 
 | 2023-03-17 | 2666 | 116 | 
 | 2023-03-16 | 2665 | 116 | 
-| 2023-03-14 | 2663 | 116 | 
 

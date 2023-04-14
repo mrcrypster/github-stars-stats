@@ -1,10 +1,10 @@
 # sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 205
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 405 | 205 | 
 | 2023-04-12 | 404 | 205 | 
 | 2023-04-11 | 404 | 203 | 
 | 2023-04-10 | 404 | 201 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 348 | 172 | 
 | 2023-03-17 | 346 | 172 | 
 | 2023-03-16 | 346 | 172 | 
-| 2023-03-14 | 342 | 168 | 
 

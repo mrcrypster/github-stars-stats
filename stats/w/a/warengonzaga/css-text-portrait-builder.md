@@ -1,10 +1,10 @@
 # warengonzaga/css-text-portrait-builder - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 64
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/warengonzaga/css-text-portrait-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 217 | 64 | 
 | 2023-04-12 | 216 | 64 | 
 | 2023-04-11 | 216 | 64 | 
 | 2023-04-10 | 216 | 64 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 210 | 64 | 
 | 2023-03-17 | 210 | 62 | 
 | 2023-03-15 | 210 | 62 | 
-| 2023-03-14 | 209 | 61 | 
 

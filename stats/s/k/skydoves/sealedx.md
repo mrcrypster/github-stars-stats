@@ -1,6 +1,6 @@
 # skydoves/sealedx - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 260 | 6 | 
 | 2023-04-12 | 260 | 6 | 
 | 2023-04-11 | 260 | 6 | 
 | 2023-04-10 | 260 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 236 | 6 | 
 | 2023-03-16 | 236 | 6 | 
 | 2023-03-15 | 236 | 6 | 
-| 2023-03-14 | 236 | 6 | 
 

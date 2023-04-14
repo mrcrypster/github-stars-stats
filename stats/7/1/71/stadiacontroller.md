@@ -1,6 +1,6 @@
 # 71/stadiacontroller - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 156 | 20 | 
 | 2023-04-12 | 156 | 20 | 
 | 2023-04-11 | 156 | 20 | 
 | 2023-04-09 | 156 | 20 | 

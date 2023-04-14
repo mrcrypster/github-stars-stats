@@ -1,10 +1,10 @@
 # seeu-inspace/easyg - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 36
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/seeu-inspace/easyg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 216 | 36 | 
 | 2023-04-12 | 215 | 36 | 
 | 2023-04-11 | 215 | 36 | 
 | 2023-04-10 | 215 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 203 | 36 | 
 | 2023-03-17 | 201 | 36 | 
 | 2023-03-16 | 201 | 36 | 
-| 2023-03-14 | 201 | 36 | 
 

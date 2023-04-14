@@ -1,10 +1,10 @@
 # HaoZi-Team/ChatGPT-PHP - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/HaoZi-Team/ChatGPT-PHP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 70 | 15 | 
 | 2023-04-12 | 69 | 15 | 
 | 2023-04-11 | 69 | 15 | 
 | 2023-04-10 | 69 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 62 | 13 | 
 | 2023-03-17 | 61 | 13 | 
 | 2023-03-16 | 57 | 12 | 
-| 2023-03-14 | 57 | 11 | 
 

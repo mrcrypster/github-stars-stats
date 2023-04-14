@@ -1,6 +1,6 @@
 # jlord/git-it-electron - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1173
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4347 | 1173 | 
 | 2023-04-12 | 4347 | 1173 | 
 | 2023-04-11 | 4344 | 1172 | 
 | 2023-04-10 | 4342 | 1172 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 4310 | 1166 | 
 | 2023-03-16 | 4310 | 1166 | 
 | 2023-03-15 | 4310 | 1166 | 
-| 2023-03-14 | 4308 | 1166 | 
 

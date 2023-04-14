@@ -1,6 +1,6 @@
 # NEST-Protocol/NEST-Prize-WebApp - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 156 | - | 
 | 2023-04-12 | 156 | - | 
 | 2023-04-11 | 156 | - | 
 | 2023-04-10 | 156 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 158 | - | 
 | 2023-03-17 | 158 | - | 
 | 2023-03-16 | 158 | - | 
-| 2023-03-14 | 158 | - | 
 

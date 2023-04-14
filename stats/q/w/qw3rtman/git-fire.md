@@ -1,6 +1,6 @@
 # qw3rtman/git-fire - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4198 | 135 | 
 | 2023-04-12 | 4198 | 135 | 
 | 2023-04-11 | 4197 | 135 | 
 | 2023-04-10 | 4197 | 136 | 

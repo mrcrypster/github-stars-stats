@@ -1,10 +1,10 @@
 # Wukix/LambdaLite - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 398
+★ Stars: 397
 
 [Open repository](https://github.com/Wukix/LambdaLite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 397 | 30 | 
 | 2023-04-12 | 398 | 30 | 
 | 2023-04-11 | 398 | 30 | 
 | 2023-04-10 | 398 | 30 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 397 | 30 | 
 | 2023-03-17 | 397 | 30 | 
 | 2023-03-16 | 397 | 30 | 
-| 2023-03-14 | 397 | 30 | 
 

@@ -1,10 +1,10 @@
 # ErikReider/SwayNotificationCenter - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 36
 
-★ Stars: 582
+★ Stars: 584
 
 [Open repository](https://github.com/ErikReider/SwayNotificationCenter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 584 | 36 | 
 | 2023-04-12 | 582 | 36 | 
 | 2023-04-11 | 582 | 36 | 
 | 2023-04-10 | 581 | 36 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 551 | 34 | 
 | 2023-03-16 | 550 | 34 | 
 | 2023-03-15 | 550 | 34 | 
-| 2023-03-14 | 548 | 34 | 
 

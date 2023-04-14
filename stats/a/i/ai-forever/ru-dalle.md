@@ -1,8 +1,8 @@
 # ai-forever/ru-dalle - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 239
+☋ Forks: 240
 
 ★ Stars: 1626
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1626 | 240 | 
 | 2023-04-12 | 1626 | 239 | 
 | 2023-04-11 | 1625 | 239 | 
 | 2023-04-10 | 1626 | 239 | 

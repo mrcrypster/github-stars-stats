@@ -1,10 +1,10 @@
 # thinkingjimmy/Learning-Prompt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 208
+☋ Forks: 213
 
-★ Stars: 2956
+★ Stars: 2984
 
 [Open repository](https://github.com/thinkingjimmy/Learning-Prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2984 | 213 | 
 | 2023-04-12 | 2956 | 208 | 
 | 2023-04-11 | 2873 | 202 | 
 | 2023-04-10 | 2813 | 193 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 413 | 19 | 
 | 2023-03-17 | 357 | 16 | 
 | 2023-03-16 | 336 | 14 | 
-| 2023-03-14 | 307 | 12 | 
 

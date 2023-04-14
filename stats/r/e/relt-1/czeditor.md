@@ -1,10 +1,10 @@
 # relt-1/czeditor - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 63
+★ Stars: 62
 
 [Open repository](https://github.com/relt-1/czeditor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 62 | 6 | 
 | 2023-04-12 | 63 | 6 | 
 | 2023-04-11 | 63 | 6 | 
 | 2023-04-10 | 63 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 63 | 6 | 
 | 2023-03-16 | 63 | 6 | 
 | 2023-03-15 | 63 | 6 | 
-| 2023-03-14 | 63 | 6 | 
 

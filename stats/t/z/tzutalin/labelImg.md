@@ -1,10 +1,10 @@
 # tzutalin/labelImg - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 5827
+☋ Forks: 5829
 
-★ Stars: 19570
+★ Stars: 19579
 
 [Open repository](https://github.com/tzutalin/labelImg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 19579 | 5829 | 
 | 2023-04-13 | 19570 | 5827 | 
 | 2023-04-11 | 19555 | 5826 | 
 | 2023-04-10 | 19547 | 5824 | 

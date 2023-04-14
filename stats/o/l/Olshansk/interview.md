@@ -1,10 +1,10 @@
 # Olshansk/interview - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 3566
 
-★ Stars: 16389
+★ Stars: 16392
 
 [Open repository](https://github.com/Olshansk/interview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 16392 | 3566 | 
 | 2023-04-12 | 16389 | 3566 | 
 | 2023-04-11 | 16384 | 3567 | 
 | 2023-04-10 | 16381 | 3567 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 16349 | 3564 | 
 | 2023-03-17 | 16346 | 3564 | 
 | 2023-03-15 | 16340 | 3563 | 
-| 2023-03-14 | 16338 | 3562 | 
 

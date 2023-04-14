@@ -1,10 +1,10 @@
 # Cracked5pider/CoffeeLdr - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 31
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/Cracked5pider/CoffeeLdr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 222 | 31 | 
 | 2023-04-12 | 221 | 31 | 
 | 2023-04-11 | 221 | 31 | 
 | 2023-04-10 | 221 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 214 | 28 | 
 | 2023-03-16 | 214 | 28 | 
 | 2023-03-15 | 214 | 28 | 
-| 2023-03-14 | 214 | 28 | 
 

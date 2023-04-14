@@ -1,10 +1,10 @@
 # BeichenDream/GodPotato - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 51
+☋ Forks: 62
 
-★ Stars: 447
+★ Stars: 527
 
 [Open repository](https://github.com/BeichenDream/GodPotato)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 447 | 51 | 
+| 2023-04-14 | 527 | 62 | 
+| 2023-04-13 | 515 | 60 | 
 | 2023-04-12 | 441 | 48 | 
 

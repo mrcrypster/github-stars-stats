@@ -1,6 +1,6 @@
 # zkry/yaml-pro - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 68 | 2 | 
 | 2023-04-12 | 68 | 2 | 
 | 2023-04-11 | 68 | 2 | 
 | 2023-04-10 | 68 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 67 | 2 | 
 | 2023-03-16 | 67 | 2 | 
 | 2023-03-15 | 67 | 2 | 
-| 2023-03-14 | 67 | 2 | 
 

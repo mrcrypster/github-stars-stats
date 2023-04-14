@@ -1,6 +1,6 @@
 # KnightOS/KnightOS - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1250 | 198 | 
 | 2023-04-12 | 1250 | 198 | 
 | 2023-04-11 | 1250 | 198 | 
 | 2023-04-10 | 1250 | 198 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1248 | 198 | 
 | 2023-03-17 | 1248 | 199 | 
 | 2023-03-16 | 1247 | 199 | 
-| 2023-03-14 | 1247 | 199 | 
 

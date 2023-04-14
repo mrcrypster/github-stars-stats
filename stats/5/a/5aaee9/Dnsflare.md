@@ -1,10 +1,10 @@
 # 5aaee9/Dnsflare - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 126
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/5aaee9/Dnsflare)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 188 | 126 | 
 | 2023-04-12 | 187 | 126 | 
 | 2023-04-11 | 187 | 126 | 
 | 2023-04-10 | 185 | 125 | 

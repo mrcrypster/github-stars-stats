@@ -1,10 +1,10 @@
 # home-assistant/android - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 478
+☋ Forks: 479
 
-★ Stars: 1594
+★ Stars: 1597
 
 [Open repository](https://github.com/home-assistant/android)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1597 | 479 | 
 | 2023-04-12 | 1594 | 478 | 
 | 2023-04-11 | 1594 | 478 | 
 | 2023-04-10 | 1593 | 478 | 

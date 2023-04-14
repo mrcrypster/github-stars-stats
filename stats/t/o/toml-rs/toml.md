@@ -1,8 +1,8 @@
 # toml-rs/toml - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 384
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 384 | 67 | 
 | 2023-04-12 | 384 | 66 | 
 | 2023-04-11 | 384 | 65 | 
 | 2023-04-10 | 384 | 64 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 368 | 62 | 
 | 2023-03-17 | 367 | 62 | 
 | 2023-03-15 | 366 | 62 | 
-| 2023-03-14 | 365 | 62 | 
 

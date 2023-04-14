@@ -1,10 +1,10 @@
 # rougier/nano-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 25
 
-★ Stars: 291
+★ Stars: 292
 
 [Open repository](https://github.com/rougier/nano-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 292 | 25 | 
 | 2023-04-12 | 291 | 25 | 
 | 2023-04-11 | 291 | 25 | 
 | 2023-04-10 | 290 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 285 | 26 | 
 | 2023-03-16 | 285 | 26 | 
 | 2023-03-15 | 285 | 26 | 
-| 2023-03-14 | 285 | 26 | 
 

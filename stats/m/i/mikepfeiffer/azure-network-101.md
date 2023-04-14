@@ -1,6 +1,6 @@
 # mikepfeiffer/azure-network-101 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 55 | 23 | 
 | 2023-04-12 | 55 | 23 | 
 | 2023-04-11 | 55 | 23 | 
 | 2023-04-10 | 55 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 54 | 23 | 
 | 2023-03-17 | 54 | 23 | 
 | 2023-03-16 | 54 | 23 | 
-| 2023-03-14 | 54 | 23 | 
 

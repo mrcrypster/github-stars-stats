@@ -1,10 +1,10 @@
 # soulteary/docker-prompt-generator - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 50
+☋ Forks: 61
 
-★ Stars: 582
+★ Stars: 756
 
 [Open repository](https://github.com/soulteary/docker-prompt-generator)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 756 | 61 | 
 | 2023-04-12 | 582 | 50 | 
 

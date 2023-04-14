@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-pyright - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 236 | 21 | 
 | 2023-04-12 | 236 | 21 | 
 | 2023-04-11 | 235 | 21 | 
 | 2023-04-10 | 234 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 229 | 21 | 
 | 2023-03-17 | 229 | 21 | 
 | 2023-03-15 | 229 | 21 | 
-| 2023-03-14 | 229 | 21 | 
 

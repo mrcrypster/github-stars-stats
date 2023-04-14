@@ -1,10 +1,10 @@
 # VM-Chinese-translate-group/MC-Eternal - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 13
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/VM-Chinese-translate-group/MC-Eternal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5 | 13 | 
 | 2023-04-12 | 4 | 13 | 
 | 2023-04-11 | 4 | 13 | 
 | 2023-04-09 | 4 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 4 | 13 | 
 | 2023-03-17 | 4 | 13 | 
 | 2023-03-15 | 4 | 13 | 
-| 2023-03-14 | 4 | 13 | 
 

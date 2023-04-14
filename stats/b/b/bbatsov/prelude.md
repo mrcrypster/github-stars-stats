@@ -1,10 +1,10 @@
 # bbatsov/prelude - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1860
+☋ Forks: 1861
 
-★ Stars: 4958
+★ Stars: 4959
 
 [Open repository](https://github.com/bbatsov/prelude)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4959 | 1861 | 
 | 2023-04-12 | 4958 | 1860 | 
 | 2023-04-11 | 4956 | 1860 | 
 | 2023-04-10 | 4956 | 1860 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 4943 | 1860 | 
 | 2023-03-17 | 4941 | 1859 | 
 | 2023-03-16 | 4941 | 1859 | 
-| 2023-03-15 | 4939 | 1860 | 
 

@@ -1,10 +1,10 @@
 # TryHello/DogCs4.4 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 78
 
-★ Stars: 519
+★ Stars: 520
 
 [Open repository](https://github.com/TryHello/DogCs4.4)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 520 | 78 | 
 | 2023-04-12 | 519 | 78 | 
 | 2023-04-11 | 519 | 78 | 
 | 2023-04-10 | 511 | 77 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 510 | 78 | 
 | 2023-03-17 | 510 | 78 | 
 | 2023-03-16 | 509 | 78 | 
-| 2023-03-15 | 509 | 78 | 
 

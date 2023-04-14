@@ -1,10 +1,10 @@
 # ssddanbrown/rss - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/ssddanbrown/rss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 327 | 10 | 
 | 2023-04-12 | 326 | 10 | 
 | 2023-04-11 | 326 | 10 | 
 | 2023-04-10 | 326 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 318 | 10 | 
 | 2023-03-17 | 318 | 10 | 
 | 2023-03-16 | 318 | 10 | 
-| 2023-03-14 | 318 | 10 | 
 

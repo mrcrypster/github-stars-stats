@@ -1,8 +1,8 @@
 # yandex-praktikum/anfisa1sprint - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 90
+☋ Forks: 94
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1 | 94 | 
 | 2023-04-12 | 1 | 90 | 
 | 2023-04-11 | 1 | 85 | 
 | 2023-04-10 | 1 | 84 | 

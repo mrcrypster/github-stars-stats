@@ -1,10 +1,10 @@
 # SvelteLab/SvelteLab - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 65
+★ Stars: 69
 
 [Open repository](https://github.com/SvelteLab/SvelteLab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 65 | 3 | 
+| 2023-04-14 | 69 | 3 | 
+| 2023-04-13 | 69 | 3 | 
 | 2023-04-12 | 62 | 3 | 
 

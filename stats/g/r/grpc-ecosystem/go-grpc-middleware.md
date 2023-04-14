@@ -1,10 +1,10 @@
 # grpc-ecosystem/go-grpc-middleware - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 623
+☋ Forks: 626
 
-★ Stars: 5330
+★ Stars: 5336
 
 [Open repository](https://github.com/grpc-ecosystem/go-grpc-middleware)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5336 | 626 | 
 | 2023-04-12 | 5330 | 623 | 
 | 2023-04-11 | 5320 | 624 | 
 | 2023-04-10 | 5319 | 624 | 

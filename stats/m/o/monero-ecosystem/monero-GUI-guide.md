@@ -1,10 +1,10 @@
 # monero-ecosystem/monero-GUI-guide - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 37
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/monero-ecosystem/monero-GUI-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 69 | 37 | 
 | 2023-04-13 | 68 | 37 | 
 | 2023-04-11 | 68 | 37 | 
 | 2023-04-10 | 68 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 67 | 36 | 
 | 2023-03-16 | 67 | 36 | 
 | 2023-03-15 | 67 | 36 | 
-| 2023-03-14 | 67 | 36 | 
 

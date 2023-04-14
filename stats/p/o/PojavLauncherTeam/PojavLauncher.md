@@ -1,10 +1,10 @@
 # PojavLauncherTeam/PojavLauncher - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 893
 
-★ Stars: 3986
+★ Stars: 3990
 
 [Open repository](https://github.com/PojavLauncherTeam/PojavLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3990 | 893 | 
 | 2023-04-12 | 3986 | 893 | 
 | 2023-04-11 | 3978 | 891 | 
 | 2023-04-10 | 3975 | 890 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3899 | 878 | 
 | 2023-03-17 | 3893 | 873 | 
 | 2023-03-15 | 3890 | 872 | 
-| 2023-03-14 | 3884 | 871 | 
 

@@ -1,8 +1,8 @@
 # 100devs/binary-upload-boom - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1042
+☋ Forks: 1044
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 193 | 1044 | 
 | 2023-04-12 | 193 | 1042 | 
 | 2023-04-11 | 193 | 1043 | 
 | 2023-04-10 | 193 | 1042 | 

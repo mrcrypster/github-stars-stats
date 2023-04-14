@@ -1,8 +1,8 @@
 # medplum/medplum - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 85
+☋ Forks: 86
 
 ★ Stars: 622
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 622 | 86 | 
 | 2023-04-12 | 622 | 85 | 
 | 2023-04-11 | 622 | 83 | 
 | 2023-04-10 | 621 | 82 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 598 | 74 | 
 | 2023-03-17 | 598 | 74 | 
 | 2023-03-16 | 595 | 74 | 
-| 2023-03-14 | 593 | 73 | 
 

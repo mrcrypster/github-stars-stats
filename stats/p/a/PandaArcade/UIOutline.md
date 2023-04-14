@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 361
+★ Stars: 364
 
 [Open repository](https://github.com/PandaArcade/UIOutline)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 361 | 30 | 
+| 2023-04-13 | 364 | 30 | 
 | 2023-04-12 | 361 | 30 | 
 | 2023-04-11 | 355 | 30 | 
 | 2023-04-10 | 341 | 30 | 

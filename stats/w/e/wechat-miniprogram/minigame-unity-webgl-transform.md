@@ -1,10 +1,10 @@
 # wechat-miniprogram/minigame-unity-webgl-transform - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 291
+☋ Forks: 293
 
-★ Stars: 1662
+★ Stars: 1663
 
 [Open repository](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1663 | 293 | 
 | 2023-04-12 | 1662 | 291 | 
 | 2023-04-11 | 1660 | 290 | 
 | 2023-04-10 | 1656 | 290 | 

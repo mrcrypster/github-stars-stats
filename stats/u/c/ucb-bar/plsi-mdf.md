@@ -1,8 +1,8 @@
 # ucb-bar/plsi-mdf - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 8 | 4 | 
 | 2023-04-11 | 8 | 3 | 
 | 2023-04-10 | 8 | 3 | 
 | 2023-04-09 | 8 | 3 | 

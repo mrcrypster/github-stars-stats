@@ -1,10 +1,10 @@
 # adrianhajdin/project_3D_developer_portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 410
+☋ Forks: 413
 
-★ Stars: 1718
+★ Stars: 1731
 
 [Open repository](https://github.com/adrianhajdin/project_3D_developer_portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1731 | 413 | 
 | 2023-04-12 | 1718 | 410 | 
 | 2023-04-11 | 1689 | 407 | 
 | 2023-04-10 | 1666 | 406 | 

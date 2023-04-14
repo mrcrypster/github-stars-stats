@@ -1,10 +1,10 @@
 # sqlsec/clover - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 612
 
-★ Stars: 1323
+★ Stars: 1322
 
 [Open repository](https://github.com/sqlsec/clover)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1322 | 612 | 
 | 2023-04-12 | 1323 | 612 | 
 | 2023-04-11 | 1323 | 612 | 
 | 2023-04-10 | 1322 | 612 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1323 | 611 | 
 | 2023-03-16 | 1323 | 611 | 
 | 2023-03-15 | 1324 | 611 | 
-| 2023-03-14 | 1324 | 611 | 
 

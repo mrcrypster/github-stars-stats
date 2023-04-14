@@ -1,10 +1,10 @@
 # zer0condition/ReverseKit - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 40
+☋ Forks: 42
 
-★ Stars: 214
+★ Stars: 221
 
 [Open repository](https://github.com/zer0condition/ReverseKit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 221 | 42 | 
 | 2023-04-11 | 214 | 40 | 
 | 2023-04-10 | 209 | 40 | 
 | 2023-04-09 | 206 | 40 | 

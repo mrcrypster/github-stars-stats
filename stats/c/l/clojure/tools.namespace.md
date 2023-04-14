@@ -1,10 +1,10 @@
 # clojure/tools.namespace - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 62
 
-★ Stars: 579
+★ Stars: 580
 
 [Open repository](https://github.com/clojure/tools.namespace)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 580 | 62 | 
 | 2023-04-12 | 579 | 62 | 
 | 2023-04-11 | 579 | 62 | 
 | 2023-04-10 | 579 | 62 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 577 | 62 | 
 | 2023-03-17 | 577 | 62 | 
 | 2023-03-15 | 577 | 62 | 
-| 2023-03-14 | 577 | 62 | 
 

@@ -1,6 +1,6 @@
 # theory/pgtap - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 804 | 88 | 
 | 2023-04-12 | 804 | 88 | 
 | 2023-04-11 | 804 | 88 | 
 | 2023-04-10 | 804 | 88 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 799 | 88 | 
 | 2023-03-17 | 799 | 87 | 
 | 2023-03-15 | 798 | 87 | 
-| 2023-03-14 | 798 | 87 | 
 

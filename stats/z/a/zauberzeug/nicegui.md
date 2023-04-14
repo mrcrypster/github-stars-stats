@@ -1,10 +1,10 @@
 # zauberzeug/nicegui - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 146
+☋ Forks: 147
 
-★ Stars: 3524
+★ Stars: 3545
 
 [Open repository](https://github.com/zauberzeug/nicegui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3545 | 147 | 
 | 2023-04-12 | 3524 | 146 | 
 | 2023-04-11 | 3495 | 144 | 
 | 2023-04-10 | 3487 | 142 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 2504 | 99 | 
 | 2023-03-16 | 2409 | 93 | 
 | 2023-03-15 | 2347 | 91 | 
-| 2023-03-14 | 2254 | 88 | 
 

@@ -1,8 +1,8 @@
 # rajkumardusad/IP-Tracer - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 301
+☋ Forks: 302
 
 ★ Stars: 1363
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1363 | 302 | 
 | 2023-04-12 | 1363 | 301 | 
 | 2023-04-11 | 1362 | 301 | 
 | 2023-04-10 | 1360 | 301 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1336 | 295 | 
 | 2023-03-17 | 1336 | 295 | 
 | 2023-03-15 | 1333 | 295 | 
-| 2023-03-14 | 1331 | 294 | 
 

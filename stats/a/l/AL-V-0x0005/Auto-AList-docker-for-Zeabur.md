@@ -1,10 +1,10 @@
 # AL-V-0x0005/Auto-AList-docker-for-Zeabur - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/AL-V-0x0005/Auto-AList-docker-for-Zeabur)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 20 | 108 | 
 | 2023-04-12 | 19 | 107 | 
 | 2023-04-11 | 19 | 107 | 
 | 2023-04-10 | 19 | 105 | 

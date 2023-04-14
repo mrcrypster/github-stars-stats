@@ -1,8 +1,8 @@
 # nathell/skyscraper - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 368
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 368 | 9 | 
 | 2023-04-12 | 368 | 8 | 
 | 2023-04-11 | 368 | 8 | 
 | 2023-04-10 | 368 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 369 | 8 | 
 | 2023-03-16 | 369 | 8 | 
 | 2023-03-15 | 369 | 8 | 
-| 2023-03-14 | 369 | 8 | 
 

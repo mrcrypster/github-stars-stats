@@ -1,10 +1,10 @@
 # NaruseMioShirakana/MoeSS - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 47
 
-★ Stars: 431
+★ Stars: 436
 
 [Open repository](https://github.com/NaruseMioShirakana/MoeSS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 436 | 47 | 
 | 2023-04-12 | 431 | 47 | 
 | 2023-04-11 | 427 | 47 | 
 | 2023-04-10 | 422 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 355 | 38 | 
 | 2023-03-17 | 351 | 38 | 
 | 2023-03-16 | 341 | 38 | 
-| 2023-03-14 | 334 | 37 | 
 

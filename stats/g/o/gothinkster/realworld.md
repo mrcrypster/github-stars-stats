@@ -1,10 +1,10 @@
 # gothinkster/realworld - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 6873
+☋ Forks: 6875
 
-★ Stars: 73885
+★ Stars: 73909
 
 [Open repository](https://github.com/gothinkster/realworld)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 73909 | 6875 | 
 | 2023-04-12 | 73885 | 6873 | 
 | 2023-04-11 | 73856 | 6872 | 
 | 2023-04-10 | 73828 | 6866 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 72985 | 6799 | 
 | 2023-03-16 | 72977 | 6798 | 
 | 2023-03-15 | 72958 | 6795 | 
-| 2023-03-14 | 72946 | 6795 | 
 

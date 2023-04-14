@@ -1,10 +1,10 @@
 # F-Society-Freaks/TikTok-Shares-Botter - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 160
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/F-Society-Freaks/TikTok-Shares-Botter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 119 | 160 | 
 | 2023-04-12 | 118 | 160 | 
 | 2023-04-11 | 118 | 160 | 
 | 2023-04-10 | 118 | 160 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 118 | 158 | 
 | 2023-03-17 | 118 | 158 | 
 | 2023-03-16 | 118 | 158 | 
-| 2023-03-14 | 118 | 158 | 
 

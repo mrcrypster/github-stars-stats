@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 209
 
-★ Stars: 790
+★ Stars: 791
 
 [Open repository](https://github.com/getsentry/sentry-cli)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 790 | 209 | 
+| 2023-04-13 | 791 | 209 | 
 | 2023-04-12 | 789 | 209 | 
 | 2023-04-11 | 787 | 210 | 
 | 2023-04-10 | 787 | 210 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 782 | 208 | 
 | 2023-03-17 | 781 | 209 | 
 | 2023-03-16 | 781 | 209 | 
-| 2023-03-14 | 780 | 208 | 
 

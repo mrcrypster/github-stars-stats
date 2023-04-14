@@ -1,6 +1,6 @@
 # frontend-joe/css-navbars - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 80 | 59 | 
 | 2023-04-12 | 80 | 59 | 
 | 2023-04-11 | 80 | 59 | 
 | 2023-04-10 | 80 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 71 | 52 | 
 | 2023-03-17 | 71 | 52 | 
 | 2023-03-16 | 71 | 52 | 
-| 2023-03-14 | 69 | 51 | 
 

@@ -1,10 +1,10 @@
 # getkin/kin-openapi - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 333
 
-★ Stars: 1883
+★ Stars: 1886
 
 [Open repository](https://github.com/getkin/kin-openapi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1886 | 333 | 
 | 2023-04-12 | 1883 | 333 | 
 | 2023-04-11 | 1883 | 333 | 
 | 2023-04-10 | 1880 | 332 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1845 | 331 | 
 | 2023-03-17 | 1842 | 331 | 
 | 2023-03-15 | 1840 | 330 | 
-| 2023-03-14 | 1837 | 330 | 
 

@@ -1,10 +1,10 @@
 # rclone/rclone - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 3437
+☋ Forks: 3439
 
-★ Stars: 37919
+★ Stars: 37944
 
 [Open repository](https://github.com/rclone/rclone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 37944 | 3439 | 
 | 2023-04-12 | 37919 | 3437 | 
 | 2023-04-11 | 37905 | 3436 | 
 | 2023-04-10 | 37892 | 3435 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 37511 | 3413 | 
 | 2023-03-16 | 37494 | 3412 | 
 | 2023-03-15 | 37471 | 3409 | 
-| 2023-03-14 | 37445 | 3404 | 
 

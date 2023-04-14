@@ -1,0 +1,18 @@
+# Azure-Samples/app-service-networking-samples - stars & forks statistics
+
+Stats updated on Apr 2023, 14
+
+☋ Forks: 14
+
+★ Stars: 19
+
+[Open repository](https://github.com/Azure-Samples/app-service-networking-samples)
+
+[Open detailed stats for Azure-Samples/app-service-networking-samples](https://reviewgithub.com/rep/Azure-Samples/app-service-networking-samples)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-04-14 | 19 | 14 | 
+| 2023-04-13 | 19 | 14 | 
+

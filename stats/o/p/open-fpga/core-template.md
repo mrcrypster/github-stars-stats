@@ -1,10 +1,10 @@
 # open-fpga/core-template - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 66
+★ Stars: 65
 
 [Open repository](https://github.com/open-fpga/core-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 65 | 9 | 
 | 2023-04-13 | 66 | 9 | 
 | 2023-04-11 | 66 | 9 | 
 | 2023-04-10 | 66 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 66 | 9 | 
 | 2023-03-17 | 66 | 9 | 
 | 2023-03-15 | 66 | 9 | 
-| 2023-03-14 | 66 | 9 | 
 

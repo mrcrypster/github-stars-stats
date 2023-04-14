@@ -1,6 +1,6 @@
 # Guray00/IngegneriaInformatica - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 163 | 45 | 
 | 2023-04-12 | 163 | 45 | 
 | 2023-04-11 | 162 | 45 | 
 | 2023-04-10 | 162 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 155 | 43 | 
 | 2023-03-17 | 155 | 43 | 
 | 2023-03-15 | 155 | 42 | 
-| 2023-03-14 | 155 | 42 | 
 

@@ -1,8 +1,8 @@
 # gokberkbar/locale_plus - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 54 | 5 | 
 | 2023-04-12 | 54 | 4 | 
 | 2023-04-11 | 54 | 4 | 
 | 2023-04-10 | 55 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 60 | 4 | 
 | 2023-03-17 | 71 | 4 | 
 | 2023-03-15 | 71 | 4 | 
-| 2023-03-14 | 71 | 4 | 
 

@@ -1,6 +1,6 @@
 # Peldom/papers_for_protein_design_using_DL - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 490 | 75 | 
 | 2023-04-12 | 490 | 75 | 
 | 2023-04-11 | 488 | 75 | 
 | 2023-04-10 | 485 | 75 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 436 | 69 | 
 | 2023-03-17 | 435 | 69 | 
 | 2023-03-16 | 435 | 67 | 
-| 2023-03-14 | 433 | 67 | 
 

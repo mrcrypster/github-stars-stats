@@ -1,6 +1,6 @@
 # azavea/python-project-template - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 24 | 149 | 
 | 2023-04-12 | 24 | 149 | 
 | 2023-04-11 | 24 | 149 | 
 | 2023-04-10 | 24 | 149 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 24 | 145 | 
 | 2023-03-16 | 24 | 145 | 
 | 2023-03-15 | 24 | 144 | 
-| 2023-03-14 | 24 | 144 | 
 

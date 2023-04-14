@@ -1,6 +1,6 @@
 # emacsorphanage/evil-anzu - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 46 | 9 | 
 | 2023-04-12 | 46 | 9 | 
 | 2023-04-11 | 45 | 9 | 
 | 2023-04-10 | 45 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 43 | 9 | 
 | 2023-03-16 | 43 | 9 | 
 | 2023-03-15 | 43 | 9 | 
-| 2023-03-14 | 43 | 9 | 
 

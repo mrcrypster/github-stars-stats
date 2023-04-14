@@ -1,10 +1,10 @@
 # kaina404/FlutterDouBan - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1680
+☋ Forks: 1681
 
-★ Stars: 7877
+★ Stars: 7874
 
 [Open repository](https://github.com/kaina404/FlutterDouBan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7874 | 1681 | 
 | 2023-04-12 | 7877 | 1680 | 
 | 2023-04-11 | 7875 | 1680 | 
 | 2023-04-10 | 7873 | 1677 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 7807 | 1664 | 
 | 2023-03-17 | 7801 | 1664 | 
 | 2023-03-16 | 7798 | 1662 | 
-| 2023-03-14 | 7796 | 1661 | 
 

@@ -1,10 +1,10 @@
 # jtydhr88/sd-3dmodel-loader - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/jtydhr88/sd-3dmodel-loader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 135 | 9 | 
 | 2023-04-12 | 134 | 8 | 
 | 2023-04-11 | 133 | 8 | 
 | 2023-04-10 | 131 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 96 | 7 | 
 | 2023-03-17 | 94 | 7 | 
 | 2023-03-15 | 90 | 7 | 
-| 2023-03-14 | 83 | 7 | 
 

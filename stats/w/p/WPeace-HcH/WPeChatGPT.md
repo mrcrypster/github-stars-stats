@@ -1,10 +1,10 @@
 # WPeace-HcH/WPeChatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 77
 
-★ Stars: 432
+★ Stars: 434
 
 [Open repository](https://github.com/WPeace-HcH/WPeChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 434 | 77 | 
 | 2023-04-12 | 432 | 77 | 
 | 2023-04-11 | 430 | 76 | 
 | 2023-04-10 | 428 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 357 | 59 | 
 | 2023-03-17 | 352 | 59 | 
 | 2023-03-16 | 346 | 59 | 
-| 2023-03-14 | 341 | 58 | 
 

@@ -1,10 +1,10 @@
 # jackrusher/scimacs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/jackrusher/scimacs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 95 | 1 | 
 | 2023-04-12 | 94 | 1 | 
 | 2023-04-11 | 94 | 1 | 
 | 2023-04-10 | 93 | 1 | 

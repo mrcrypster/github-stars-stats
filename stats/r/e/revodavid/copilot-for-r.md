@@ -1,10 +1,10 @@
 # revodavid/copilot-for-r - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/revodavid/copilot-for-r)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 36 | 6 | 
 | 2023-04-12 | 34 | 6 | 
 | 2023-04-11 | 34 | 6 | 
 | 2023-04-10 | 33 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 21 | 4 | 
 | 2023-03-17 | 21 | 3 | 
 | 2023-03-15 | 20 | 3 | 
-| 2023-03-14 | 19 | 3 | 
 

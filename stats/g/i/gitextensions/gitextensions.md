@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 2013
 
-★ Stars: 6902
+★ Stars: 6903
 
 [Open repository](https://github.com/gitextensions/gitextensions)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 6902 | 2013 | 
+| 2023-04-13 | 6903 | 2013 | 
 | 2023-04-12 | 6902 | 2013 | 
 | 2023-04-11 | 6900 | 2013 | 
 | 2023-04-10 | 6896 | 2011 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-17 | 6846 | 2010 | 
 | 2023-03-16 | 6846 | 2008 | 
 | 2023-03-15 | 6847 | 2007 | 
-| 2023-03-14 | 6848 | 2007 | 
 

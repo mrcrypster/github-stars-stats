@@ -1,10 +1,10 @@
 # rr-debugger/rr - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 506
+☋ Forks: 507
 
-★ Stars: 7837
+★ Stars: 7842
 
 [Open repository](https://github.com/rr-debugger/rr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7842 | 507 | 
 | 2023-04-12 | 7837 | 506 | 
 | 2023-04-11 | 7829 | 505 | 
 | 2023-04-10 | 7813 | 505 | 

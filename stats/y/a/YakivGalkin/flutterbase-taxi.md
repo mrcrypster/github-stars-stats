@@ -1,6 +1,6 @@
 # YakivGalkin/flutterbase-taxi - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 109 | 42 | 
 | 2023-04-12 | 109 | 42 | 
 | 2023-04-11 | 109 | 42 | 
 | 2023-04-10 | 109 | 42 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 110 | 40 | 
 | 2023-03-17 | 110 | 40 | 
 | 2023-03-16 | 110 | 40 | 
-| 2023-03-14 | 110 | 40 | 
 

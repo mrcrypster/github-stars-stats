@@ -1,6 +1,6 @@
 # kana/vim-operator-user - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 188 | 11 | 
 | 2023-04-12 | 188 | 11 | 
 | 2023-04-11 | 188 | 11 | 
 | 2023-04-10 | 188 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 188 | 12 | 
 | 2023-03-17 | 188 | 12 | 
 | 2023-03-15 | 188 | 12 | 
-| 2023-03-14 | 188 | 12 | 
 

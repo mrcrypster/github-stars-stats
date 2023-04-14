@@ -1,6 +1,6 @@
 # VinylRecords/Vinyl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 253 | 52 | 
 | 2023-04-12 | 253 | 52 | 
 | 2023-04-11 | 253 | 52 | 
 | 2023-04-10 | 253 | 52 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 254 | 52 | 
 | 2023-03-16 | 254 | 52 | 
 | 2023-03-15 | 254 | 52 | 
-| 2023-03-14 | 254 | 52 | 
 

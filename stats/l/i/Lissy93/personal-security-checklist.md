@@ -1,10 +1,10 @@
 # Lissy93/personal-security-checklist - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 810
 
-★ Stars: 11061
+★ Stars: 11067
 
 [Open repository](https://github.com/Lissy93/personal-security-checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 11067 | 810 | 
 | 2023-04-13 | 11061 | 810 | 
 | 2023-04-11 | 11055 | 810 | 
 | 2023-04-10 | 11050 | 808 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 10866 | 802 | 
 | 2023-03-16 | 10860 | 802 | 
 | 2023-03-15 | 10852 | 802 | 
-| 2023-03-14 | 10840 | 803 | 
 

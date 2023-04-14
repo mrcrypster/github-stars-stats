@@ -1,6 +1,6 @@
 # ahmetb/kubernetes-network-policy-recipes - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1534
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4793 | 1534 | 
 | 2023-04-12 | 4793 | 1534 | 
 | 2023-04-11 | 4791 | 1532 | 
 | 2023-04-10 | 4789 | 1532 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 4739 | 1520 | 
 | 2023-03-17 | 4737 | 1520 | 
 | 2023-03-16 | 4733 | 1520 | 
-| 2023-03-14 | 4729 | 1518 | 
 

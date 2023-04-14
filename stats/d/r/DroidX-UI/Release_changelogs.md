@@ -1,8 +1,8 @@
 # DroidX-UI/Release_changelogs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | - | 2 | 
 | 2023-04-12 | - | 1 | 
 | 2023-04-11 | - | - | 
 | 2023-04-10 | - | - | 

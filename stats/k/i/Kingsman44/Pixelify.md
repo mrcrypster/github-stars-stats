@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 35
 
-★ Stars: 722
+★ Stars: 723
 
 [Open repository](https://github.com/Kingsman44/Pixelify)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 722 | 35 | 
+| 2023-04-13 | 723 | 35 | 
 | 2023-04-12 | 722 | 35 | 
 | 2023-04-11 | 718 | 35 | 
 | 2023-04-10 | 708 | 34 | 

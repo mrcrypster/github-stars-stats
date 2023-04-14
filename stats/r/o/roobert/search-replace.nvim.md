@@ -1,10 +1,10 @@
 # roobert/search-replace.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/roobert/search-replace.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 131 | - | 
 | 2023-04-12 | 130 | - | 
 | 2023-04-11 | 130 | - | 
 | 2023-04-10 | 130 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 123 | - | 
 | 2023-03-17 | 124 | - | 
 | 2023-03-16 | 122 | - | 
-| 2023-03-14 | 122 | - | 
 

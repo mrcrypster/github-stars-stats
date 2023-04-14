@@ -1,10 +1,10 @@
 # SpeedyWeather/SpeedyWeather.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/SpeedyWeather/SpeedyWeather.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 247 | 12 | 
 | 2023-04-12 | 246 | 12 | 
 | 2023-04-11 | 246 | 11 | 
 | 2023-04-10 | 244 | 11 | 

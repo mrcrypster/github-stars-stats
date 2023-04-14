@@ -1,10 +1,10 @@
 # Parcoil/nativegames.net - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 112
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/Parcoil/nativegames.net)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 18 | 112 | 
 | 2023-04-12 | 19 | 112 | 
 | 2023-04-11 | 19 | 111 | 
 | 2023-04-10 | 19 | 109 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 18 | 86 | 
 | 2023-03-17 | 18 | 85 | 
 | 2023-03-15 | 18 | 83 | 
-| 2023-03-14 | 18 | 81 | 
 

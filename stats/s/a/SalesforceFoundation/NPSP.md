@@ -1,10 +1,10 @@
 # SalesforceFoundation/NPSP - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 343
 
-★ Stars: 594
+★ Stars: 595
 
 [Open repository](https://github.com/SalesforceFoundation/NPSP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 595 | 343 | 
 | 2023-04-12 | 594 | 343 | 
 | 2023-04-11 | 594 | 343 | 
 | 2023-04-10 | 594 | 343 | 

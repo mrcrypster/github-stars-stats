@@ -1,6 +1,6 @@
 # mcreel/Econometrics - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 241 | 84 | 
 | 2023-04-12 | 241 | 84 | 
 | 2023-04-11 | 241 | 84 | 
 | 2023-04-10 | 240 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 212 | 78 | 
 | 2023-03-17 | 212 | 78 | 
 | 2023-03-16 | 211 | 78 | 
-| 2023-03-14 | 211 | 78 | 
 

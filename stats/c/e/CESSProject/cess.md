@@ -1,10 +1,10 @@
 # CESSProject/cess - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 84
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/CESSProject/cess)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 255 | 84 | 
 | 2023-04-12 | 254 | 84 | 
 | 2023-04-11 | 254 | 84 | 
 | 2023-04-10 | 253 | 84 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 252 | 83 | 
 | 2023-03-16 | 252 | 83 | 
 | 2023-03-15 | 252 | 83 | 
-| 2023-03-14 | 252 | 83 | 
 

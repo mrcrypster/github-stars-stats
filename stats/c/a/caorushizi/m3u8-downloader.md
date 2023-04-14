@@ -1,10 +1,10 @@
 # caorushizi/m3u8-downloader - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 43
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/caorushizi/m3u8-downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 234 | 43 | 
 | 2023-04-12 | 233 | 43 | 
 | 2023-04-11 | 233 | 43 | 
 | 2023-04-10 | 233 | 43 | 

@@ -1,10 +1,10 @@
 # naveenanimation20/PageObjectModel - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1140
 
-★ Stars: 441
+★ Stars: 442
 
 [Open repository](https://github.com/naveenanimation20/PageObjectModel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 442 | 1140 | 
 | 2023-04-12 | 441 | 1140 | 
 | 2023-04-11 | 441 | 1140 | 
 | 2023-04-10 | 441 | 1140 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 435 | 1126 | 
 | 2023-03-17 | 435 | 1126 | 
 | 2023-03-15 | 435 | 1125 | 
-| 2023-03-14 | 434 | 1125 | 
 

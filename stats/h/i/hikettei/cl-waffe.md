@@ -1,10 +1,10 @@
 # hikettei/cl-waffe - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/hikettei/cl-waffe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 37 | 1 | 
 | 2023-04-12 | 36 | 1 | 
 | 2023-04-11 | 36 | 1 | 
 | 2023-04-10 | 36 | 1 | 

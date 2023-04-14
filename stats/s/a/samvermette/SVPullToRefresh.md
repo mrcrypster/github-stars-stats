@@ -1,10 +1,10 @@
 # samvermette/SVPullToRefresh - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1117
+☋ Forks: 1116
 
-★ Stars: 4855
+★ Stars: 4854
 
 [Open repository](https://github.com/samvermette/SVPullToRefresh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4854 | 1116 | 
 | 2023-04-12 | 4855 | 1117 | 
 | 2023-04-11 | 4854 | 1117 | 
 | 2023-04-10 | 4855 | 1117 | 

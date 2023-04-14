@@ -1,6 +1,6 @@
 # components/font-awesome - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 190 | 58 | 
 | 2023-04-12 | 190 | 58 | 
 | 2023-04-11 | 190 | 58 | 
 | 2023-04-09 | 190 | 58 | 

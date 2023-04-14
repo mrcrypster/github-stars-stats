@@ -1,10 +1,10 @@
 # etcd-io/bbolt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 508
 
-★ Stars: 6368
+★ Stars: 6369
 
 [Open repository](https://github.com/etcd-io/bbolt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 6369 | 508 | 
 | 2023-04-12 | 6368 | 508 | 
 | 2023-04-11 | 6364 | 508 | 
 | 2023-04-10 | 6361 | 508 | 

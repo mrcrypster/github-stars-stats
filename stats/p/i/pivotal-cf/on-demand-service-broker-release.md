@@ -1,6 +1,6 @@
 # pivotal-cf/on-demand-service-broker-release - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 15 | 17 | 
 | 2023-04-12 | 15 | 17 | 
 | 2023-04-11 | 15 | 17 | 
 | 2023-04-10 | 15 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 16 | 17 | 
 | 2023-03-17 | 16 | 17 | 
 | 2023-03-16 | 16 | 17 | 
-| 2023-03-14 | 16 | 17 | 
 

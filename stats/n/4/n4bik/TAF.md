@@ -1,6 +1,6 @@
 # n4bik/TAF - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2 | 24 | 
 | 2023-04-12 | 2 | 24 | 
 | 2023-04-11 | 1 | 24 | 
 | 2023-04-10 | 1 | 24 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1 | 24 | 
 | 2023-03-17 | 1 | 24 | 
 | 2023-03-15 | 1 | 24 | 
-| 2023-03-14 | 1 | 24 | 
 

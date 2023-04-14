@@ -1,6 +1,6 @@
 # jae-jae/Userscript-Plus - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1640 | 261 | 
 | 2023-04-12 | 1640 | 261 | 
 | 2023-04-11 | 1640 | 261 | 
 | 2023-04-10 | 1640 | 260 | 

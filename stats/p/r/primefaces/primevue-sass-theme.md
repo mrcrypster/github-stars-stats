@@ -1,10 +1,10 @@
 # primefaces/primevue-sass-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/primefaces/primevue-sass-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 20 | 6 | 
 | 2023-04-12 | 19 | 6 | 
 | 2023-04-11 | 19 | 6 | 
 | 2023-04-10 | 19 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 17 | 4 | 
 | 2023-03-17 | 17 | 3 | 
 | 2023-03-15 | 17 | 3 | 
-| 2023-03-14 | 17 | 3 | 
 

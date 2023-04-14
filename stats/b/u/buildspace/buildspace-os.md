@@ -1,10 +1,10 @@
 # buildspace/buildspace-os - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 69
+★ Stars: 72
 
 [Open repository](https://github.com/buildspace/buildspace-os)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 72 | 19 | 
 | 2023-04-12 | 69 | 18 | 
 | 2023-04-11 | 66 | 18 | 
 | 2023-04-10 | 61 | 17 | 

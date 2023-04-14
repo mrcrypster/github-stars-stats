@@ -1,6 +1,6 @@
 # Unity-Technologies/AssetBundles-Browser - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 492
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1906 | 492 | 
 | 2023-04-12 | 1906 | 492 | 
 | 2023-04-11 | 1904 | 492 | 
 | 2023-04-10 | 1901 | 492 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1886 | 488 | 
 | 2023-03-17 | 1884 | 488 | 
 | 2023-03-16 | 1883 | 487 | 
-| 2023-03-15 | 1884 | 487 | 
 

@@ -1,10 +1,10 @@
 # mouredev/one-day-one-language - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 19
 
-★ Stars: 347
+★ Stars: 351
 
 [Open repository](https://github.com/mouredev/one-day-one-language)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 351 | 19 | 
 | 2023-04-12 | 347 | 19 | 
 

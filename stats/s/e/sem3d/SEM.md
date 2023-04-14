@@ -1,10 +1,10 @@
 # sem3d/SEM - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/sem3d/SEM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5 | - | 
 | 2023-04-12 | 4 | - | 
 | 2023-04-11 | 2 | - | 
 | 2023-04-10 | 2 | - | 

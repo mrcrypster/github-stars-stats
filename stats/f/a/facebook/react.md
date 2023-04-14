@@ -1,10 +1,10 @@
 # facebook/react - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 42862
+☋ Forks: 42880
 
-★ Stars: 205695
+★ Stars: 205752
 
 [Open repository](https://github.com/facebook/react)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 205752 | 42880 | 
 | 2023-04-12 | 205695 | 42862 | 
 | 2023-04-11 | 205627 | 42834 | 
 | 2023-04-10 | 205570 | 42815 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 204122 | 42475 | 
 | 2023-03-17 | 204057 | 42465 | 
 | 2023-03-16 | 203887 | 42439 | 
-| 2023-03-14 | 203812 | 42426 | 
 

@@ -1,6 +1,6 @@
 # cloudacademy/terraform-aws - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 58 | 184 | 
 | 2023-04-12 | 58 | 184 | 
 | 2023-04-11 | 57 | 183 | 
 | 2023-04-10 | 57 | 183 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 51 | 176 | 
 | 2023-03-17 | 51 | 176 | 
 | 2023-03-15 | 52 | 176 | 
-| 2023-03-14 | 52 | 176 | 
 

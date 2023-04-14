@@ -1,10 +1,10 @@
 # dajva/rg.el - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 34
 
-★ Stars: 396
+★ Stars: 398
 
 [Open repository](https://github.com/dajva/rg.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 398 | 34 | 
 | 2023-04-12 | 396 | 34 | 
 | 2023-04-11 | 396 | 34 | 
 | 2023-04-10 | 396 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 389 | 34 | 
 | 2023-03-17 | 388 | 34 | 
 | 2023-03-16 | 387 | 34 | 
-| 2023-03-14 | 387 | 34 | 
 

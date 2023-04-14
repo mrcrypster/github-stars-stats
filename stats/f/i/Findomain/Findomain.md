@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 339
 
-★ Stars: 2825
+★ Stars: 2827
 
 [Open repository](https://github.com/Findomain/Findomain)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 2825 | 339 | 
+| 2023-04-13 | 2827 | 339 | 
 | 2023-04-12 | 2825 | 339 | 
 | 2023-04-11 | 2812 | 338 | 
 | 2023-04-10 | 2775 | 335 | 

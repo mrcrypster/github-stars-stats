@@ -1,10 +1,10 @@
 # papercss/papercss - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 214
 
-★ Stars: 3854
+★ Stars: 3856
 
 [Open repository](https://github.com/papercss/papercss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3856 | 214 | 
 | 2023-04-12 | 3854 | 214 | 
 | 2023-04-11 | 3854 | 214 | 
 | 2023-04-10 | 3852 | 214 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3840 | 213 | 
 | 2023-03-17 | 3840 | 213 | 
 | 2023-03-16 | 3840 | 213 | 
-| 2023-03-14 | 3840 | 213 | 
 

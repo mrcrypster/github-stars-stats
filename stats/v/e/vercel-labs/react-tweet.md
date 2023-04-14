@@ -1,10 +1,10 @@
 # vercel-labs/react-tweet - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 361
+★ Stars: 364
 
 [Open repository](https://github.com/vercel-labs/react-tweet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 364 | 17 | 
 | 2023-04-12 | 361 | 16 | 
 | 2023-04-10 | 361 | 16 | 
 | 2023-04-09 | 361 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 314 | 9 | 
 | 2023-03-16 | 303 | 9 | 
 | 2023-03-15 | 296 | 9 | 
-| 2023-03-14 | 288 | 9 | 
 

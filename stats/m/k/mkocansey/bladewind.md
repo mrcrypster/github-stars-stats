@@ -1,10 +1,10 @@
 # mkocansey/bladewind - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/mkocansey/bladewind)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 211 | 18 | 
 | 2023-04-12 | 210 | 18 | 
 | 2023-04-11 | 210 | 18 | 
 | 2023-04-09 | 210 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 201 | 16 | 
 | 2023-03-17 | 200 | 16 | 
 | 2023-03-16 | 200 | 16 | 
-| 2023-03-14 | 199 | 16 | 
 

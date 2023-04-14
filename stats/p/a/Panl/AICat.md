@@ -1,10 +1,10 @@
 # Panl/AICat - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 95
+★ Stars: 97
 
 [Open repository](https://github.com/Panl/AICat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 97 | 15 | 
 | 2023-04-12 | 95 | 15 | 
 | 2023-04-11 | 88 | 15 | 
 | 2023-04-10 | 77 | 13 | 

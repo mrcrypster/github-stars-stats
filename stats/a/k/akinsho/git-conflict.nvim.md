@@ -1,10 +1,10 @@
 # akinsho/git-conflict.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/akinsho/git-conflict.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 468 | 18 | 
 | 2023-04-12 | 467 | 18 | 
 | 2023-04-10 | 467 | 17 | 
 | 2023-04-09 | 466 | 17 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 456 | 17 | 
 | 2023-03-17 | 455 | 17 | 
 | 2023-03-16 | 451 | 17 | 
-| 2023-03-14 | 450 | 17 | 
 

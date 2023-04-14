@@ -1,8 +1,8 @@
 # albertogd/gitops-for-organizations - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 9 | 7 | 
 | 2023-04-12 | 9 | 6 | 
 | 2023-04-11 | 9 | 6 | 
 | 2023-04-10 | 8 | 6 | 

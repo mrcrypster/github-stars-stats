@@ -1,10 +1,10 @@
 # geekr-dev/geekchat - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 161
+★ Stars: 164
 
 [Open repository](https://github.com/geekr-dev/geekchat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 164 | 50 | 
 | 2023-04-12 | 161 | 49 | 
 | 2023-04-11 | 158 | 49 | 
 | 2023-04-10 | 156 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 68 | 13 | 
 | 2023-03-16 | 45 | 11 | 
 | 2023-03-15 | 39 | 11 | 
-| 2023-03-14 | 37 | 11 | 
 

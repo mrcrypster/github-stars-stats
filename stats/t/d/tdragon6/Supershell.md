@@ -1,10 +1,10 @@
 # tdragon6/Supershell - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 46
+☋ Forks: 48
 
-★ Stars: 392
+★ Stars: 396
 
 [Open repository](https://github.com/tdragon6/Supershell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 396 | 48 | 
 | 2023-04-12 | 392 | 46 | 
 | 2023-04-11 | 388 | 45 | 
 | 2023-04-10 | 379 | 44 | 

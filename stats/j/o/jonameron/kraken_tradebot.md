@@ -1,6 +1,6 @@
 # jonameron/kraken_tradebot - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | - | 8 | 
 | 2023-04-12 | - | 8 | 
 | 2023-04-11 | - | 8 | 
 | 2023-04-09 | - | 8 | 

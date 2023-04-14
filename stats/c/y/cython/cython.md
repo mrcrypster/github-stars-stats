@@ -1,10 +1,10 @@
 # cython/cython - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1376
 
-★ Stars: 7837
+★ Stars: 7839
 
 [Open repository](https://github.com/cython/cython)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7839 | 1376 | 
 | 2023-04-12 | 7837 | 1376 | 
 | 2023-04-11 | 7835 | 1375 | 
 | 2023-04-10 | 7829 | 1376 | 

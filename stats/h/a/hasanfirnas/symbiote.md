@@ -1,10 +1,10 @@
 # hasanfirnas/symbiote - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 59
+☋ Forks: 62
 
-★ Stars: 388
+★ Stars: 407
 
 [Open repository](https://github.com/hasanfirnas/symbiote)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 407 | 62 | 
 | 2023-04-12 | 388 | 59 | 
 

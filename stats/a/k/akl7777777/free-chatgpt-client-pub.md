@@ -1,10 +1,10 @@
 # akl7777777/free-chatgpt-client-pub - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 152
+★ Stars: 157
 
 [Open repository](https://github.com/akl7777777/free-chatgpt-client-pub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 157 | 15 | 
 | 2023-04-12 | 152 | 15 | 
 | 2023-04-11 | 148 | 15 | 
 | 2023-04-10 | 140 | 15 | 

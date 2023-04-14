@@ -1,6 +1,6 @@
 # cloudnativeto/cloudnative.to - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 84 | 156 | 
 | 2023-04-12 | 84 | 156 | 
 | 2023-04-11 | 84 | 156 | 
 | 2023-04-10 | 84 | 156 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 83 | 155 | 
 | 2023-03-17 | 83 | 154 | 
 | 2023-03-16 | 83 | 153 | 
-| 2023-03-14 | 83 | 153 | 
 

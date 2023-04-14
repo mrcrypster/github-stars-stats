@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 13
 
-☋ Forks: 37
+☋ Forks: 40
 
-★ Stars: 1208
+★ Stars: 1290
 
 [Open repository](https://github.com/makeplane/plane)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 1208 | 37 | 
+| 2023-04-13 | 1290 | 40 | 
 | 2023-04-12 | 1195 | 35 | 
 | 2023-04-11 | 1062 | 31 | 
 

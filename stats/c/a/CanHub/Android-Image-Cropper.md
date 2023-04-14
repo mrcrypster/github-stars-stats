@@ -1,6 +1,6 @@
 # CanHub/Android-Image-Cropper - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 868 | 193 | 
 | 2023-04-12 | 868 | 193 | 
 | 2023-04-11 | 868 | 193 | 
 | 2023-04-10 | 868 | 193 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 853 | 188 | 
 | 2023-03-17 | 852 | 188 | 
 | 2023-03-15 | 852 | 188 | 
-| 2023-03-14 | 850 | 187 | 
 

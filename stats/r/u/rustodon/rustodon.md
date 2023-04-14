@@ -1,6 +1,6 @@
 # rustodon/rustodon - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 785 | 41 | 
 | 2023-04-12 | 785 | 41 | 
 | 2023-04-11 | 785 | 41 | 
 | 2023-04-10 | 785 | 41 | 

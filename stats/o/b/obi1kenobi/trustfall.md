@@ -1,10 +1,10 @@
 # obi1kenobi/trustfall - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 41
 
-★ Stars: 1468
+★ Stars: 1469
 
 [Open repository](https://github.com/obi1kenobi/trustfall)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1469 | 41 | 
 | 2023-04-12 | 1468 | 41 | 
 | 2023-04-11 | 1465 | 41 | 
 | 2023-04-10 | 1464 | 41 | 

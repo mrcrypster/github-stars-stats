@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 93
 
-★ Stars: 463
+★ Stars: 467
 
 [Open repository](https://github.com/nubenetes/awesome-kubernetes)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 463 | 93 | 
+| 2023-04-13 | 467 | 93 | 
 | 2023-04-12 | 448 | 93 | 
 | 2023-04-10 | 423 | 89 | 
 | 2023-04-09 | 422 | 89 | 

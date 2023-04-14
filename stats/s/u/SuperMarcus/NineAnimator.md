@@ -1,10 +1,10 @@
 # SuperMarcus/NineAnimator - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 79
 
-★ Stars: 654
+★ Stars: 655
 
 [Open repository](https://github.com/SuperMarcus/NineAnimator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 655 | 79 | 
 | 2023-04-12 | 654 | 79 | 
 | 2023-04-11 | 655 | 79 | 
 | 2023-04-10 | 655 | 79 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 651 | 77 | 
 | 2023-03-17 | 651 | 77 | 
 | 2023-03-16 | 650 | 77 | 
-| 2023-03-14 | 650 | 77 | 
 

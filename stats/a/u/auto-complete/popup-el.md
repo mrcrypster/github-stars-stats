@@ -1,10 +1,10 @@
 # auto-complete/popup-el - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 95
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/auto-complete/popup-el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 401 | 95 | 
 | 2023-04-12 | 400 | 95 | 
 | 2023-04-11 | 400 | 95 | 
 | 2023-04-10 | 400 | 95 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 400 | 95 | 
 | 2023-03-17 | 400 | 95 | 
 | 2023-03-16 | 399 | 95 | 
-| 2023-03-14 | 399 | 95 | 
 

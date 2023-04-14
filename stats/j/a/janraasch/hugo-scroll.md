@@ -1,6 +1,6 @@
 # janraasch/hugo-scroll - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 202 | 140 | 
 | 2023-04-13 | 202 | 140 | 
 | 2023-04-11 | 202 | 140 | 
 | 2023-04-10 | 202 | 140 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 191 | 135 | 
 | 2023-03-17 | 191 | 135 | 
 | 2023-03-16 | 191 | 135 | 
-| 2023-03-14 | 190 | 135 | 
 

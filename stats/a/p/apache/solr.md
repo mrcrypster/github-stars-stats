@@ -1,10 +1,10 @@
 # apache/solr - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 462
+☋ Forks: 463
 
-★ Stars: 706
+★ Stars: 708
 
 [Open repository](https://github.com/apache/solr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 708 | 463 | 
 | 2023-04-12 | 706 | 462 | 
 | 2023-04-11 | 702 | 461 | 
 | 2023-04-10 | 701 | 460 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 680 | 447 | 
 | 2023-03-16 | 678 | 447 | 
 | 2023-03-15 | 677 | 445 | 
-| 2023-03-14 | 677 | 444 | 
 

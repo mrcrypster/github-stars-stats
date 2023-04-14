@@ -1,10 +1,10 @@
 # unjs/magicast - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 23
 
-★ Stars: 1483
+★ Stars: 1509
 
 [Open repository](https://github.com/unjs/magicast)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1509 | 23 | 
 | 2023-04-12 | 1483 | 23 | 
 | 2023-04-11 | 1420 | 21 | 
 | 2023-04-10 | 1325 | 19 | 

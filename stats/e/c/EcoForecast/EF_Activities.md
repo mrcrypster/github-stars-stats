@@ -1,8 +1,8 @@
 # EcoForecast/EF_Activities - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 155
+☋ Forks: 154
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 73 | 154 | 
 | 2023-04-12 | 73 | 155 | 
 | 2023-04-11 | 73 | 155 | 
 | 2023-04-10 | 73 | 155 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 71 | 154 | 
 | 2023-03-17 | 70 | 154 | 
 | 2023-03-16 | 70 | 154 | 
-| 2023-03-15 | 70 | 154 | 
 

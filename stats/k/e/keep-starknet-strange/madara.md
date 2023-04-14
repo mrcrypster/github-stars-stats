@@ -1,10 +1,10 @@
 # keep-starknet-strange/madara - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 30
+☋ Forks: 33
 
-★ Stars: 117
+★ Stars: 120
 
 [Open repository](https://github.com/keep-starknet-strange/madara)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 120 | 33 | 
 | 2023-04-12 | 117 | 30 | 
 | 2023-04-11 | 116 | 27 | 
 | 2023-04-10 | 114 | 24 | 

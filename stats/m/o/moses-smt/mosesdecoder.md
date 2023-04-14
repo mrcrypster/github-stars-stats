@@ -1,10 +1,10 @@
 # moses-smt/mosesdecoder - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 774
 
-★ Stars: 1489
+★ Stars: 1490
 
 [Open repository](https://github.com/moses-smt/mosesdecoder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1490 | 774 | 
 | 2023-04-12 | 1489 | 774 | 
 | 2023-04-11 | 1489 | 774 | 
 | 2023-04-10 | 1489 | 774 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1484 | 775 | 
 | 2023-03-17 | 1483 | 775 | 
 | 2023-03-15 | 1482 | 774 | 
-| 2023-03-14 | 1482 | 774 | 
 

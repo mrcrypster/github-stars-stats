@@ -1,10 +1,10 @@
 # didi/LogicFlow - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 673
+☋ Forks: 674
 
-★ Stars: 4283
+★ Stars: 4297
 
 [Open repository](https://github.com/didi/LogicFlow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4297 | 674 | 
 | 2023-04-12 | 4283 | 673 | 
 | 2023-04-11 | 4276 | 672 | 
 | 2023-04-10 | 4268 | 671 | 

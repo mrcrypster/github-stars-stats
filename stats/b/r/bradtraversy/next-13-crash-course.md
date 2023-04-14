@@ -1,10 +1,10 @@
 # bradtraversy/next-13-crash-course - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 82
+★ Stars: 85
 
 [Open repository](https://github.com/bradtraversy/next-13-crash-course)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 85 | 27 | 
 | 2023-04-12 | 82 | 27 | 
 | 2023-04-11 | 79 | 27 | 
 | 2023-04-10 | 78 | 25 | 

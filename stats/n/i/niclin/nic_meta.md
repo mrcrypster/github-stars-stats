@@ -1,6 +1,6 @@
 # niclin/nic_meta - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 140 | 118 | 
 | 2023-04-12 | 140 | 118 | 
 | 2023-04-11 | 140 | 118 | 
 | 2023-04-10 | 140 | 118 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 140 | 117 | 
 | 2023-03-17 | 140 | 117 | 
 | 2023-03-16 | 140 | 117 | 
-| 2023-03-14 | 140 | 117 | 
 

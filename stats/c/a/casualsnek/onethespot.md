@@ -1,6 +1,6 @@
 # casualsnek/onethespot - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4 | - | 
 | 2023-04-12 | 4 | - | 
 | 2023-04-10 | 4 | - | 
 | 2023-04-09 | 4 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 4 | - | 
 | 2023-03-16 | 4 | - | 
 | 2023-03-15 | 4 | - | 
-| 2023-03-14 | 4 | - | 
 

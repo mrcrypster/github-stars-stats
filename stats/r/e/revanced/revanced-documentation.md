@@ -1,8 +1,8 @@
 # revanced/revanced-documentation - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 68 | 24 | 
 | 2023-04-12 | 68 | 23 | 
 | 2023-04-11 | 69 | 22 | 
 | 2023-04-10 | 67 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 61 | 19 | 
 | 2023-03-17 | 61 | 19 | 
 | 2023-03-16 | 61 | 19 | 
-| 2023-03-14 | 60 | 19 | 
 

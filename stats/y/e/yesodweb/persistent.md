@@ -1,8 +1,8 @@
 # yesodweb/persistent - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
-☋ Forks: 286
+☋ Forks: 287
 
 ★ Stars: 439
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 439 | 287 | 
 | 2023-04-12 | 439 | 286 | 
 | 2023-04-11 | 439 | 286 | 
 | 2023-04-10 | 439 | 286 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 434 | 283 | 
 | 2023-03-16 | 434 | 282 | 
 | 2023-03-15 | 434 | 282 | 
-| 2023-03-14 | 434 | 282 | 
 

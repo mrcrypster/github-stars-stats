@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 360
+★ Stars: 370
 
 [Open repository](https://github.com/VakhoKontridze/VComponents)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 360 | 18 | 
+| 2023-04-13 | 370 | 18 | 
 | 2023-04-12 | 360 | 18 | 
 

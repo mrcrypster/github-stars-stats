@@ -1,8 +1,8 @@
 # gxtto23/gxtto-23 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 319
+☋ Forks: 326
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2 | 326 | 
 | 2023-04-12 | 2 | 319 | 
 | 2023-04-11 | 2 | 317 | 
 | 2023-04-10 | 2 | 297 | 

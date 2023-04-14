@@ -1,6 +1,6 @@
 # anvaka/atree - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2430 | 252 | 
 | 2023-04-12 | 2430 | 252 | 
 | 2023-04-11 | 2429 | 252 | 
 | 2023-04-10 | 2429 | 252 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2428 | 253 | 
 | 2023-03-16 | 2428 | 253 | 
 | 2023-03-15 | 2427 | 253 | 
-| 2023-03-14 | 2427 | 253 | 
 

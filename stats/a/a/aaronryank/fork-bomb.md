@@ -1,10 +1,10 @@
 # aaronryank/fork-bomb - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 134
 
-★ Stars: 656
+★ Stars: 655
 
 [Open repository](https://github.com/aaronryank/fork-bomb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 655 | 134 | 
 | 2023-04-12 | 656 | 134 | 
 | 2023-04-11 | 656 | 134 | 
 | 2023-04-10 | 655 | 134 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 651 | 131 | 
 | 2023-03-16 | 651 | 131 | 
 | 2023-03-15 | 649 | 131 | 
-| 2023-03-14 | 648 | 130 | 
 

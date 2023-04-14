@@ -1,10 +1,10 @@
 # Ziqi-Yang/typst-mode.el - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/Ziqi-Yang/typst-mode.el)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 24 | 4 | 
 | 2023-04-12 | 22 | 4 | 
 | 2023-04-11 | 21 | 4 | 
 | 2023-04-10 | 21 | 4 | 

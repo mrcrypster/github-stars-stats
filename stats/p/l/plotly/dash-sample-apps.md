@@ -1,10 +1,10 @@
 # plotly/dash-sample-apps - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2969
 
-★ Stars: 2797
+★ Stars: 2798
 
 [Open repository](https://github.com/plotly/dash-sample-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2798 | 2969 | 
 | 2023-04-12 | 2797 | 2969 | 
 | 2023-04-11 | 2795 | 2968 | 
 | 2023-04-10 | 2794 | 2967 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2759 | 2957 | 
 | 2023-03-17 | 2758 | 2956 | 
 | 2023-03-16 | 2756 | 2953 | 
-| 2023-03-14 | 2754 | 2952 | 
 

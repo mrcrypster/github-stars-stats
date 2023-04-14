@@ -1,10 +1,10 @@
 # shadowgmes/shadowgmes.github.io - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 47
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/shadowgmes/shadowgmes.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 16 | 47 | 
 | 2023-04-12 | 15 | 47 | 
 | 2023-04-11 | 15 | 47 | 
 | 2023-04-10 | 15 | 47 | 

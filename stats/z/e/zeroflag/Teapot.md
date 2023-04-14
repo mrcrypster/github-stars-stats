@@ -1,6 +1,6 @@
 # zeroflag/Teapot - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 91 | 17 | 
 | 2023-04-12 | 91 | 17 | 
 | 2023-04-11 | 91 | 17 | 
 | 2023-04-10 | 91 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 91 | 17 | 
 | 2023-03-16 | 91 | 17 | 
 | 2023-03-15 | 90 | 17 | 
-| 2023-03-14 | 90 | 17 | 
 

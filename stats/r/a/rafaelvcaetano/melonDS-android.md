@@ -1,6 +1,6 @@
 # rafaelvcaetano/melonDS-android - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 489 | 39 | 
 | 2023-04-12 | 489 | 39 | 
 | 2023-04-11 | 489 | 39 | 
 | 2023-04-10 | 489 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 473 | 39 | 
 | 2023-03-17 | 472 | 39 | 
 | 2023-03-15 | 472 | 39 | 
-| 2023-03-14 | 469 | 39 | 
 

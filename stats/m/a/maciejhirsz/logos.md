@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 80
 
-★ Stars: 1935
+★ Stars: 1950
 
 [Open repository](https://github.com/maciejhirsz/logos)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 1935 | 80 | 
+| 2023-04-13 | 1950 | 80 | 
 | 2023-04-12 | 1932 | 80 | 
 

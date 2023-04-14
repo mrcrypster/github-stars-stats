@@ -1,6 +1,6 @@
 # emacsorphanage/quickrun - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 441 | 45 | 
 | 2023-04-12 | 441 | 45 | 
 | 2023-04-11 | 442 | 45 | 
 | 2023-04-10 | 442 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 441 | 45 | 
 | 2023-03-16 | 441 | 45 | 
 | 2023-03-15 | 441 | 45 | 
-| 2023-03-14 | 441 | 45 | 
 

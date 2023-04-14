@@ -1,10 +1,10 @@
 # Raphire/Win10Debloat - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 234
+★ Stars: 235
 
 [Open repository](https://github.com/Raphire/Win10Debloat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 235 | 18 | 
 | 2023-04-12 | 234 | 18 | 
 | 2023-04-11 | 234 | 18 | 
 | 2023-04-10 | 233 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 232 | 17 | 
 | 2023-03-16 | 231 | 17 | 
 | 2023-03-15 | 230 | 17 | 
-| 2023-03-14 | 229 | 17 | 
 

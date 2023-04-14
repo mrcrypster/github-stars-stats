@@ -1,6 +1,6 @@
 # angular-ui/angular-google-maps - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1088
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2536 | 1088 | 
 | 2023-04-12 | 2536 | 1088 | 
 | 2023-04-11 | 2535 | 1088 | 
 | 2023-04-10 | 2535 | 1088 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2536 | 1089 | 
 | 2023-03-16 | 2536 | 1089 | 
 | 2023-03-15 | 2536 | 1090 | 
-| 2023-03-14 | 2536 | 1090 | 
 

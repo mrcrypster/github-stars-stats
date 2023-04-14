@@ -1,10 +1,10 @@
 # NVIDIA/open-gpu-kernel-modules - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 934
+☋ Forks: 937
 
-★ Stars: 13015
+★ Stars: 13018
 
 [Open repository](https://github.com/NVIDIA/open-gpu-kernel-modules)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 13018 | 937 | 
 | 2023-04-12 | 13015 | 934 | 
 | 2023-04-11 | 13011 | 933 | 
 | 2023-04-10 | 13004 | 935 | 

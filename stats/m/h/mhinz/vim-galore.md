@@ -1,10 +1,10 @@
 # mhinz/vim-galore - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 595
+☋ Forks: 596
 
-★ Stars: 15309
+★ Stars: 15311
 
 [Open repository](https://github.com/mhinz/vim-galore)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 15311 | 596 | 
 | 2023-04-12 | 15309 | 595 | 
 | 2023-04-11 | 15304 | 595 | 
 | 2023-04-10 | 15301 | 595 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 15212 | 594 | 
 | 2023-03-16 | 15212 | 594 | 
 | 2023-03-15 | 15207 | 594 | 
-| 2023-03-14 | 15203 | 594 | 
 

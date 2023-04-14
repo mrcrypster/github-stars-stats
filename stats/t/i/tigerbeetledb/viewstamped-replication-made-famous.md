@@ -1,10 +1,10 @@
 # tigerbeetledb/viewstamped-replication-made-famous - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 7
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/tigerbeetledb/viewstamped-replication-made-famous)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 128 | 7 | 
 | 2023-04-12 | 127 | 7 | 
 | 2023-04-11 | 126 | 7 | 
 | 2023-04-10 | 126 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 120 | 7 | 
 | 2023-03-17 | 120 | 7 | 
 | 2023-03-16 | 120 | 7 | 
-| 2023-03-14 | 119 | 7 | 
 

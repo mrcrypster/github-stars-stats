@@ -1,8 +1,8 @@
 # Ahmadali322/FREE-RDP - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 206
+☋ Forks: 208
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1 | 208 | 
 | 2023-04-12 | 1 | 206 | 
 | 2023-04-11 | 1 | 204 | 
 | 2023-04-10 | 1 | 202 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | - | 91 | 
 | 2023-03-16 | - | 89 | 
 | 2023-03-15 | - | 87 | 
-| 2023-03-14 | - | 78 | 
 

@@ -1,10 +1,10 @@
 # mps256/vicuna.ps1 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/mps256/vicuna.ps1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 48 | 13 | 
 | 2023-04-12 | 47 | 12 | 
 | 2023-04-11 | 47 | 11 | 
 | 2023-04-10 | 44 | 11 | 

@@ -1,6 +1,6 @@
 # lilactown/7-humble-guis - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 30 | 1 | 
 | 2023-04-12 | 30 | 1 | 
 | 2023-04-11 | 30 | 1 | 
 | 2023-04-10 | 30 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 29 | 1 | 
 | 2023-03-17 | 29 | 1 | 
 | 2023-03-16 | 29 | 1 | 
-| 2023-03-14 | 29 | 1 | 
 

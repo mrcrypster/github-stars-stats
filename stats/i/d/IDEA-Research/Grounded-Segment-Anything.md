@@ -1,10 +1,10 @@
 # IDEA-Research/Grounded-Segment-Anything - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 399
+☋ Forks: 438
 
-★ Stars: 5589
+★ Stars: 6050
 
 [Open repository](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 6050 | 438 | 
 | 2023-04-12 | 5589 | 399 | 
 | 2023-04-11 | 4726 | 320 | 
 | 2023-04-10 | 3377 | 209 | 

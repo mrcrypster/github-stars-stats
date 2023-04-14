@@ -1,10 +1,10 @@
 # roscopeco/jasm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 9
 
-★ Stars: 405
+★ Stars: 404
 
 [Open repository](https://github.com/roscopeco/jasm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 404 | 9 | 
 | 2023-04-12 | 405 | 9 | 
 | 2023-04-11 | 405 | 9 | 
 | 2023-04-10 | 405 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 399 | 9 | 
 | 2023-03-16 | 399 | 9 | 
 | 2023-03-15 | 399 | 9 | 
-| 2023-03-14 | 399 | 9 | 
 

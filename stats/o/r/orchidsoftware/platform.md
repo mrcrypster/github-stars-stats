@@ -1,10 +1,10 @@
 # orchidsoftware/platform - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 584
 
-★ Stars: 3631
+★ Stars: 3636
 
 [Open repository](https://github.com/orchidsoftware/platform)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3636 | 584 | 
 | 2023-04-12 | 3631 | 584 | 
 | 2023-04-11 | 3626 | 583 | 
 | 2023-04-10 | 3624 | 582 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 3582 | 572 | 
 | 2023-03-16 | 3577 | 572 | 
 | 2023-03-15 | 3577 | 572 | 
-| 2023-03-14 | 3575 | 572 | 
 

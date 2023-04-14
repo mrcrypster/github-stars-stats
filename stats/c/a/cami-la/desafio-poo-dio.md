@@ -1,10 +1,10 @@
 # cami-la/desafio-poo-dio - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 709
 
-★ Stars: 595
+★ Stars: 594
 
 [Open repository](https://github.com/cami-la/desafio-poo-dio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 594 | 709 | 
 | 2023-04-12 | 595 | 709 | 
 | 2023-04-11 | 592 | 707 | 
 | 2023-04-10 | 590 | 703 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 537 | 627 | 
 | 2023-03-17 | 535 | 622 | 
 | 2023-03-16 | 532 | 620 | 
-| 2023-03-14 | 529 | 618 | 
 

@@ -1,10 +1,10 @@
 # Netflix/vmaf - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 689
+☋ Forks: 690
 
-★ Stars: 3545
+★ Stars: 3550
 
 [Open repository](https://github.com/Netflix/vmaf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3550 | 690 | 
 | 2023-04-12 | 3545 | 689 | 
 | 2023-04-11 | 3538 | 689 | 
 | 2023-04-10 | 3535 | 687 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3499 | 683 | 
 | 2023-03-17 | 3497 | 682 | 
 | 2023-03-16 | 3497 | 681 | 
-| 2023-03-15 | 3494 | 681 | 
 

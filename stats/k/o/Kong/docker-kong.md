@@ -1,10 +1,10 @@
 # Kong/docker-kong - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 800
 
-★ Stars: 1267
+★ Stars: 1268
 
 [Open repository](https://github.com/Kong/docker-kong)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1268 | 800 | 
 | 2023-04-12 | 1267 | 800 | 
 | 2023-04-11 | 1266 | 798 | 
 | 2023-04-10 | 1266 | 798 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1257 | 792 | 
 | 2023-03-17 | 1257 | 792 | 
 | 2023-03-16 | 1257 | 791 | 
-| 2023-03-15 | 1257 | 792 | 
 

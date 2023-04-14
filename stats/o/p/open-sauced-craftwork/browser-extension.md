@@ -1,6 +1,6 @@
 # open-sauced-craftwork/browser-extension - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 28 | 18 | 
 | 2023-04-12 | 28 | 18 | 
 | 2023-04-11 | 28 | 18 | 
 | 2023-04-10 | 28 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 24 | 13 | 
 | 2023-03-16 | 24 | 12 | 
 | 2023-03-15 | 19 | 11 | 
-| 2023-03-14 | 19 | 12 | 
 

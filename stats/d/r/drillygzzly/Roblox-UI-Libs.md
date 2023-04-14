@@ -1,10 +1,10 @@
 # drillygzzly/Roblox-UI-Libs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/drillygzzly/Roblox-UI-Libs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 46 | 92 | 
 | 2023-04-12 | 45 | 91 | 
 | 2023-04-11 | 45 | 91 | 
 | 2023-04-10 | 44 | 87 | 

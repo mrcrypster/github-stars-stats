@@ -1,6 +1,6 @@
 # CharlyKeleb/SocialMedia-App - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 643 | 205 | 
 | 2023-04-12 | 643 | 205 | 
 | 2023-04-11 | 640 | 204 | 
 | 2023-04-10 | 640 | 203 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 624 | 200 | 
 | 2023-03-16 | 624 | 199 | 
 | 2023-03-15 | 624 | 199 | 
-| 2023-03-14 | 623 | 199 | 
 

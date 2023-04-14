@@ -1,6 +1,6 @@
 # motion-canvas/examples - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 673 | 49 | 
 | 2023-04-12 | 673 | 49 | 
 | 2023-04-11 | 670 | 48 | 
 | 2023-04-10 | 671 | 48 | 

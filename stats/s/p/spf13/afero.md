@@ -1,10 +1,10 @@
 # spf13/afero - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 470
 
-★ Stars: 5103
+★ Stars: 5104
 
 [Open repository](https://github.com/spf13/afero)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5104 | 470 | 
 | 2023-04-12 | 5103 | 470 | 
 | 2023-04-11 | 5099 | 470 | 
 | 2023-04-10 | 5099 | 470 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 5061 | 468 | 
 | 2023-03-17 | 5060 | 468 | 
 | 2023-03-16 | 5057 | 468 | 
-| 2023-03-15 | 5054 | 467 | 
 

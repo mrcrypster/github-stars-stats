@@ -1,6 +1,6 @@
 # FrancescoXX/100-days-of-Web3 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 521
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3252 | 521 | 
 | 2023-04-12 | 3252 | 521 | 
 | 2023-04-11 | 3251 | 520 | 
 | 2023-04-09 | 3251 | 520 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3232 | 509 | 
 | 2023-03-17 | 3232 | 510 | 
 | 2023-03-16 | 3229 | 510 | 
-| 2023-03-14 | 3228 | 508 | 
 

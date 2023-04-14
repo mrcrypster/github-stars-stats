@@ -1,10 +1,10 @@
 # natefaubion/purescript-variant - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 19
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/natefaubion/purescript-variant)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 130 | 19 | 
 | 2023-04-12 | 129 | 19 | 
 | 2023-04-11 | 129 | 19 | 
 | 2023-04-10 | 129 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 128 | 19 | 
 | 2023-03-17 | 128 | 19 | 
 | 2023-03-16 | 128 | 19 | 
-| 2023-03-14 | 128 | 19 | 
 

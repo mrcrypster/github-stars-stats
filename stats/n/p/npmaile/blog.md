@@ -1,10 +1,10 @@
 # npmaile/blog - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 522
+★ Stars: 527
 
 [Open repository](https://github.com/npmaile/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 527 | 17 | 
 | 2023-04-12 | 522 | 16 | 
 | 2023-04-11 | 520 | 16 | 
 | 2023-04-10 | 517 | 16 | 

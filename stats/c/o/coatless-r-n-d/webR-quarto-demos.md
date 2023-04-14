@@ -1,6 +1,6 @@
 # coatless-r-n-d/webR-quarto-demos - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 53 | 8 | 
 | 2023-04-12 | 53 | 8 | 
 | 2023-04-11 | 53 | 8 | 
 | 2023-04-10 | 53 | 8 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 49 | 8 | 
 | 2023-03-17 | 48 | 7 | 
 | 2023-03-16 | 47 | 7 | 
-| 2023-03-14 | 45 | 7 | 
 

@@ -1,10 +1,10 @@
 # saha-indranil/sem4 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/saha-indranil/sem4)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 17 | 21 | 
 | 2023-04-12 | 16 | 21 | 
 | 2023-04-11 | 15 | 21 | 
 | 2023-04-10 | 15 | 21 | 

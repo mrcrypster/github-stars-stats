@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 52
 
-★ Stars: 417
+★ Stars: 432
 
 [Open repository](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 417 | 52 | 
+| 2023-04-13 | 432 | 52 | 
 | 2023-04-12 | 416 | 52 | 
 | 2023-04-11 | 371 | 48 | 
 | 2023-04-10 | 265 | 40 | 

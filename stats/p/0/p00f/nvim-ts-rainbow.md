@@ -1,6 +1,6 @@
 # p00f/nvim-ts-rainbow - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 871 | 65 | 
 | 2023-04-12 | 871 | 65 | 
 | 2023-04-11 | 872 | 65 | 
 | 2023-04-10 | 871 | 65 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 876 | 64 | 
 | 2023-03-17 | 875 | 64 | 
 | 2023-03-15 | 874 | 64 | 
-| 2023-03-14 | 874 | 64 | 
 

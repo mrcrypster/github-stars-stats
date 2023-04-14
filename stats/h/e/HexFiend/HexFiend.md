@@ -1,10 +1,10 @@
 # HexFiend/HexFiend - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 402
 
-★ Stars: 4733
+★ Stars: 4735
 
 [Open repository](https://github.com/HexFiend/HexFiend)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4735 | 402 | 
 | 2023-04-12 | 4733 | 402 | 
 | 2023-04-10 | 4727 | 402 | 
 | 2023-04-09 | 4723 | 401 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 4706 | 400 | 
 | 2023-03-17 | 4706 | 400 | 
 | 2023-03-16 | 4706 | 400 | 
-| 2023-03-14 | 4704 | 400 | 
 

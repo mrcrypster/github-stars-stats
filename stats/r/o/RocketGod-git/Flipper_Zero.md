@@ -1,10 +1,10 @@
 # RocketGod-git/Flipper_Zero - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 91
 
-★ Stars: 381
+★ Stars: 384
 
 [Open repository](https://github.com/RocketGod-git/Flipper_Zero)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 384 | 91 | 
 | 2023-04-13 | 381 | 91 | 
 | 2023-04-11 | 381 | 90 | 
 | 2023-04-10 | 379 | 90 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 339 | 83 | 
 | 2023-03-17 | 339 | 83 | 
 | 2023-03-15 | 339 | 80 | 
-| 2023-03-14 | 338 | 80 | 
 

@@ -1,10 +1,10 @@
 # wilaw/MoQ - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/wilaw/MoQ)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1 | 1 | 
 | 2023-04-12 | - | 1 | 
 | 2023-04-11 | - | 1 | 
 | 2023-04-10 | - | 1 | 

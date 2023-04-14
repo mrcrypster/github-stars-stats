@@ -1,8 +1,8 @@
 # femga/rdr3_discoveries - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 123
+☋ Forks: 122
 
 ★ Stars: 175
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 175 | 122 | 
 | 2023-04-12 | 175 | 123 | 
 | 2023-04-11 | 175 | 123 | 
 | 2023-04-10 | 175 | 123 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 168 | 119 | 
 | 2023-03-16 | 167 | 119 | 
 | 2023-03-15 | 167 | 119 | 
-| 2023-03-14 | 167 | 119 | 
 

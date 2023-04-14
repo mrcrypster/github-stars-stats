@@ -1,8 +1,8 @@
 # digitalinnovationone/js-developer-portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 72
+☋ Forks: 73
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7 | 73 | 
 | 2023-04-11 | 7 | 72 | 
 | 2023-04-10 | 7 | 72 | 
 | 2023-04-09 | 7 | 71 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-19 | 6 | 60 | 
 | 2023-03-17 | 6 | 57 | 
 | 2023-03-16 | 6 | 57 | 
-| 2023-03-15 | 6 | 56 | 
 

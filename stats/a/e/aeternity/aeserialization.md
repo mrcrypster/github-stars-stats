@@ -1,10 +1,10 @@
 # aeternity/aeserialization - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/aeternity/aeserialization)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3 | 4 | 
 | 2023-04-12 | 4 | 4 | 
 | 2023-04-11 | 4 | 4 | 
 | 2023-04-10 | 4 | 4 | 

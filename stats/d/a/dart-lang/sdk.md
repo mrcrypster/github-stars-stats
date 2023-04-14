@@ -1,10 +1,10 @@
 # dart-lang/sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1426
 
-★ Stars: 9023
+★ Stars: 9026
 
 [Open repository](https://github.com/dart-lang/sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 9026 | 1426 | 
 | 2023-04-12 | 9023 | 1426 | 
 | 2023-04-11 | 9013 | 1426 | 
 | 2023-04-10 | 9010 | 1426 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 8955 | 1410 | 
 | 2023-03-16 | 8949 | 1411 | 
 | 2023-03-15 | 8948 | 1411 | 
-| 2023-03-14 | 8943 | 1411 | 
 

@@ -1,6 +1,6 @@
 # AndrasKovacs/staged-fusion - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 49 | 2 | 
 | 2023-04-12 | 49 | 2 | 
 | 2023-04-11 | 49 | 2 | 
 | 2023-04-10 | 49 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 49 | 2 | 
 | 2023-03-16 | 49 | 2 | 
 | 2023-03-15 | 49 | 2 | 
-| 2023-03-14 | 49 | 2 | 
 

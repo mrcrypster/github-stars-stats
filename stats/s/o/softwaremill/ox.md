@@ -1,10 +1,10 @@
 # softwaremill/ox - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/softwaremill/ox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 54 | 1 | 
 | 2023-04-12 | 53 | 1 | 
 | 2023-04-11 | 50 | 1 | 
 | 2023-04-10 | 50 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 30 | 1 | 
 | 2023-03-17 | 30 | 1 | 
 | 2023-03-16 | 30 | 1 | 
-| 2023-03-15 | 30 | 1 | 
 

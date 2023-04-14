@@ -1,10 +1,10 @@
 # xinychen/awesome-latex-drawing - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 141
 
-★ Stars: 1023
+★ Stars: 1026
 
 [Open repository](https://github.com/xinychen/awesome-latex-drawing)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1026 | 141 | 
 | 2023-04-12 | 1023 | 141 | 
 | 2023-04-11 | 1021 | 141 | 
 | 2023-04-09 | 1020 | 140 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1008 | 140 | 
 | 2023-03-17 | 1008 | 140 | 
 | 2023-03-15 | 1007 | 140 | 
-| 2023-03-14 | 1007 | 140 | 
 

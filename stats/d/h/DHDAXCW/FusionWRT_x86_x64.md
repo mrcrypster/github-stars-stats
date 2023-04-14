@@ -1,8 +1,8 @@
 # DHDAXCW/FusionWRT_x86_x64 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 166
+☋ Forks: 167
 
 ★ Stars: 541
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 541 | 167 | 
 | 2023-04-12 | 541 | 166 | 
 | 2023-04-11 | 539 | 166 | 
 | 2023-04-10 | 532 | 167 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 493 | 155 | 
 | 2023-03-17 | 492 | 156 | 
 | 2023-03-16 | 491 | 155 | 
-| 2023-03-14 | 488 | 154 | 
 

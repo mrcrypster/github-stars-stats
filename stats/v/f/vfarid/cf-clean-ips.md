@@ -1,10 +1,10 @@
 # vfarid/cf-clean-ips - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 20
 
-★ Stars: 86
+★ Stars: 95
 
 [Open repository](https://github.com/vfarid/cf-clean-ips)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 95 | 20 | 
 | 2023-04-12 | 86 | 20 | 
 | 2023-04-11 | 77 | 17 | 
 | 2023-04-10 | 65 | 15 | 

@@ -1,10 +1,10 @@
 # ahrm/chrome-fastread - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 20
 
-★ Stars: 220
+★ Stars: 224
 
 [Open repository](https://github.com/ahrm/chrome-fastread)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 224 | 20 | 
 | 2023-04-12 | 220 | 20 | 
 | 2023-04-11 | 220 | 20 | 
 | 2023-04-10 | 220 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 220 | 20 | 
 | 2023-03-17 | 220 | 20 | 
 | 2023-03-16 | 219 | 19 | 
-| 2023-03-14 | 219 | 19 | 
 

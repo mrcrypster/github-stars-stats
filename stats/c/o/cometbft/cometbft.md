@@ -1,8 +1,8 @@
 # cometbft/cometbft - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 46
+☋ Forks: 47
 
 ★ Stars: 242
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 242 | 47 | 
 | 2023-04-12 | 242 | 46 | 
 | 2023-04-11 | 241 | 46 | 
 | 2023-04-10 | 241 | 46 | 

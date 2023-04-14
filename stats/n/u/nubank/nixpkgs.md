@@ -1,10 +1,10 @@
 # nubank/nixpkgs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/nubank/nixpkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 26 | 1 | 
 | 2023-04-12 | 27 | 1 | 
 | 2023-04-11 | 27 | 1 | 
 | 2023-04-10 | 27 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 27 | 1 | 
 | 2023-03-17 | 27 | 1 | 
 | 2023-03-16 | 27 | 1 | 
-| 2023-03-15 | 27 | 1 | 
 

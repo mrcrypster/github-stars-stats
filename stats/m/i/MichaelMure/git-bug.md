@@ -1,6 +1,6 @@
 # MichaelMure/git-bug - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7656 | 246 | 
 | 2023-04-12 | 7656 | 246 | 
 | 2023-04-11 | 7654 | 246 | 
 | 2023-04-10 | 7652 | 246 | 

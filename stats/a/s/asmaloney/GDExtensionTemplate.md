@@ -1,6 +1,6 @@
 # asmaloney/GDExtensionTemplate - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 67 | 3 | 
 | 2023-04-12 | 67 | 3 | 
 | 2023-04-11 | 67 | 3 | 
 | 2023-04-10 | 67 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 63 | 2 | 
 | 2023-03-17 | 61 | 2 | 
 | 2023-03-16 | 60 | 2 | 
-| 2023-03-14 | 61 | 2 | 
 

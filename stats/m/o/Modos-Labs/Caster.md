@@ -1,10 +1,10 @@
 # Modos-Labs/Caster - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/Modos-Labs/Caster)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 33 | 6 | 
 | 2023-04-12 | 32 | 6 | 
 | 2023-04-11 | 32 | 6 | 
 | 2023-04-10 | 32 | 6 | 

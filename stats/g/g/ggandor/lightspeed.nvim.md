@@ -1,10 +1,10 @@
 # ggandor/lightspeed.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 1500
+★ Stars: 1501
 
 [Open repository](https://github.com/ggandor/lightspeed.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1501 | 30 | 
 | 2023-04-12 | 1500 | 30 | 
 | 2023-04-11 | 1498 | 30 | 
 | 2023-04-10 | 1497 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1477 | 29 | 
 | 2023-03-17 | 1477 | 29 | 
 | 2023-03-15 | 1479 | 29 | 
-| 2023-03-14 | 1479 | 29 | 
 

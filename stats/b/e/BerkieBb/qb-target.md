@@ -1,10 +1,10 @@
 # BerkieBb/qb-target - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 229
 
-★ Stars: 80
+★ Stars: 79
 
 [Open repository](https://github.com/BerkieBb/qb-target)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 79 | 229 | 
 | 2023-04-12 | 80 | 229 | 
 | 2023-04-11 | 80 | 229 | 
 | 2023-04-10 | 80 | 229 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 78 | 225 | 
 | 2023-03-17 | 79 | 225 | 
 | 2023-03-16 | 79 | 225 | 
-| 2023-03-14 | 79 | 224 | 
 

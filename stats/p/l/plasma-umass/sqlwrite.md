@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 69
+★ Stars: 73
 
 [Open repository](https://github.com/plasma-umass/sqlwrite)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 69 | 5 | 
+| 2023-04-13 | 73 | 5 | 
 | 2023-04-12 | 69 | 5 | 
 

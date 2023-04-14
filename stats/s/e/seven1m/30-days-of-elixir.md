@@ -1,6 +1,6 @@
 # seven1m/30-days-of-elixir - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2972 | 424 | 
 | 2023-04-12 | 2972 | 424 | 
 | 2023-04-11 | 2972 | 424 | 
 | 2023-04-10 | 2972 | 424 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2972 | 422 | 
 | 2023-03-17 | 2972 | 422 | 
 | 2023-03-15 | 2972 | 422 | 
-| 2023-03-14 | 2971 | 422 | 
 

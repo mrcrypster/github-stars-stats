@@ -1,8 +1,8 @@
 # nextflow-io/rnaseq-nf - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 85
+☋ Forks: 86
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 53 | 86 | 
 | 2023-04-12 | 53 | 85 | 
 | 2023-04-11 | 53 | 85 | 
 | 2023-04-10 | 53 | 85 | 

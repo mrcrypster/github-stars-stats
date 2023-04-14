@@ -1,10 +1,10 @@
 # LDZ-27/rabbit_list - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/LDZ-27/rabbit_list)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 186 | 21 | 
 | 2023-04-12 | 185 | 20 | 
 | 2023-04-11 | 178 | 20 | 
 

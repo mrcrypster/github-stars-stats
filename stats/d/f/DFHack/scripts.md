@@ -1,6 +1,6 @@
 # DFHack/scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 46 | 141 | 
 | 2023-04-12 | 46 | 141 | 
 | 2023-04-11 | 46 | 141 | 
 | 2023-04-10 | 46 | 141 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 48 | 139 | 
 | 2023-03-17 | 48 | 139 | 
 | 2023-03-15 | 48 | 139 | 
-| 2023-03-14 | 48 | 139 | 
 

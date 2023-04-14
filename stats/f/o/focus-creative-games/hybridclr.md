@@ -1,10 +1,10 @@
 # focus-creative-games/hybridclr - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 433
+☋ Forks: 434
 
-★ Stars: 3282
+★ Stars: 3299
 
 [Open repository](https://github.com/focus-creative-games/hybridclr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3299 | 434 | 
 | 2023-04-12 | 3282 | 433 | 
 | 2023-04-11 | 3268 | 433 | 
 | 2023-04-10 | 3255 | 430 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 3040 | 411 | 
 | 2023-03-17 | 3035 | 410 | 
 | 2023-03-16 | 3025 | 407 | 
-| 2023-03-15 | 3005 | 406 | 
 

@@ -1,6 +1,6 @@
 # mattpannella/pocket_core_autoupdate_net - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 431 | 19 | 
 | 2023-04-12 | 431 | 19 | 
 | 2023-04-11 | 430 | 19 | 
 | 2023-04-10 | 430 | 19 | 

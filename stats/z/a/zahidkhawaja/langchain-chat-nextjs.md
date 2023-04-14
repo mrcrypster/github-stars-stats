@@ -1,10 +1,10 @@
 # zahidkhawaja/langchain-chat-nextjs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 115
+☋ Forks: 116
 
-★ Stars: 476
+★ Stars: 488
 
 [Open repository](https://github.com/zahidkhawaja/langchain-chat-nextjs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 488 | 116 | 
 | 2023-04-12 | 476 | 115 | 
 | 2023-04-11 | 470 | 113 | 
 | 2023-04-10 | 454 | 108 | 

@@ -1,6 +1,6 @@
 # cxlisme/FPGA-proj - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 124 | 33 | 
 | 2023-04-13 | 124 | 33 | 
 | 2023-04-12 | 124 | 33 | 
 | 2023-04-10 | 124 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 114 | 32 | 
 | 2023-03-17 | 114 | 32 | 
 | 2023-03-16 | 114 | 32 | 
-| 2023-03-14 | 113 | 32 | 
 

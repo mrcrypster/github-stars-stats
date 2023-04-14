@@ -1,10 +1,10 @@
 # napi-rs/napi-rs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 154
 
-★ Stars: 3706
+★ Stars: 3710
 
 [Open repository](https://github.com/napi-rs/napi-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3710 | 154 | 
 | 2023-04-12 | 3706 | 154 | 
 | 2023-04-11 | 3701 | 154 | 
 | 2023-04-10 | 3688 | 154 | 

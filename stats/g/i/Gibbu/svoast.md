@@ -1,8 +1,8 @@
 # Gibbu/svoast - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 29 | 2 | 
 | 2023-04-12 | 29 | 1 | 
 | 2023-04-11 | 29 | 1 | 
 | 2023-04-10 | 30 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 26 | 1 | 
 | 2023-03-16 | 25 | 1 | 
 | 2023-03-15 | 23 | 1 | 
-| 2023-03-14 | 23 | 1 | 
 

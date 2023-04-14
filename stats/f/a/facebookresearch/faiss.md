@@ -1,10 +1,10 @@
 # facebookresearch/faiss - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 2864
+☋ Forks: 2868
 
-★ Stars: 20660
+★ Stars: 20687
 
 [Open repository](https://github.com/facebookresearch/faiss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 20687 | 2868 | 
 | 2023-04-12 | 20660 | 2864 | 
 | 2023-04-11 | 20628 | 2863 | 
 | 2023-04-10 | 20587 | 2861 | 

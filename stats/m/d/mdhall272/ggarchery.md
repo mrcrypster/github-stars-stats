@@ -1,10 +1,10 @@
 # mdhall272/ggarchery - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/mdhall272/ggarchery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 20 | 1 | 
 | 2023-04-12 | 19 | 1 | 
 | 2023-04-11 | 19 | 1 | 
 | 2023-04-10 | 19 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 19 | 1 | 
 | 2023-03-17 | 19 | 1 | 
 | 2023-03-16 | 19 | 1 | 
-| 2023-03-14 | 19 | 1 | 
 

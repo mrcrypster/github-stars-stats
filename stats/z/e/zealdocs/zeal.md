@@ -1,10 +1,10 @@
 # zealdocs/zeal - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 749
+☋ Forks: 750
 
-★ Stars: 10280
+★ Stars: 10281
 
 [Open repository](https://github.com/zealdocs/zeal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 10281 | 750 | 
 | 2023-04-12 | 10280 | 749 | 
 | 2023-04-11 | 10277 | 748 | 
 | 2023-04-10 | 10276 | 748 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 10233 | 750 | 
 | 2023-03-17 | 10232 | 749 | 
 | 2023-03-15 | 10228 | 749 | 
-| 2023-03-14 | 10226 | 749 | 
 

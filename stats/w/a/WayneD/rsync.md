@@ -1,10 +1,10 @@
 # WayneD/rsync - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 214
 
-★ Stars: 1387
+★ Stars: 1389
 
 [Open repository](https://github.com/WayneD/rsync)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1389 | 214 | 
 | 2023-04-12 | 1387 | 214 | 
 | 2023-04-11 | 1386 | 214 | 
 | 2023-04-10 | 1382 | 214 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1336 | 213 | 
 | 2023-03-17 | 1334 | 214 | 
 | 2023-03-15 | 1329 | 214 | 
-| 2023-03-14 | 1328 | 214 | 
 

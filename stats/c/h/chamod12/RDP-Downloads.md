@@ -1,6 +1,6 @@
 # chamod12/RDP-Downloads - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2 | 15 | 
 | 2023-04-12 | 2 | 15 | 
 | 2023-04-11 | 2 | 14 | 
 | 2023-04-10 | 2 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2 | 10 | 
 | 2023-03-17 | 1 | 10 | 
 | 2023-03-16 | 1 | 10 | 
-| 2023-03-14 | 1 | 10 | 
 

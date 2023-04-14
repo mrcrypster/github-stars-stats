@@ -1,6 +1,6 @@
 # zwometer/Godot4MultiplayerMVP - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 15 | - | 
 | 2023-04-12 | 15 | - | 
 | 2023-04-11 | 15 | - | 
 | 2023-04-09 | 15 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 15 | - | 
 | 2023-03-17 | 15 | - | 
 | 2023-03-16 | 15 | - | 
-| 2023-03-14 | 15 | - | 
 

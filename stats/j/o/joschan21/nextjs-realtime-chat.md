@@ -1,10 +1,10 @@
 # joschan21/nextjs-realtime-chat - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 103
+★ Stars: 108
 
 [Open repository](https://github.com/joschan21/nextjs-realtime-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 108 | 21 | 
 | 2023-04-12 | 103 | 21 | 
 | 2023-04-11 | 90 | 17 | 
 | 2023-04-10 | 79 | 13 | 

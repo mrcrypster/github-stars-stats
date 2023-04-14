@@ -1,10 +1,10 @@
 # ccanonne/probabilitydistributiontoolbox - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/ccanonne/probabilitydistributiontoolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 228 | 10 | 
 | 2023-04-12 | 227 | 10 | 
 | 2023-04-11 | 224 | 9 | 
 | 2023-04-10 | 224 | 9 | 

@@ -1,8 +1,8 @@
 # QuiteAFancyEmerald/Holy-Unblocker - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1921
+☋ Forks: 1924
 
 ★ Stars: 333
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 333 | 1924 | 
 | 2023-04-12 | 333 | 1921 | 
 | 2023-04-11 | 333 | 1920 | 
 | 2023-04-10 | 333 | 1916 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 331 | 1813 | 
 | 2023-03-17 | 329 | 1809 | 
 | 2023-03-16 | 328 | 1804 | 
-| 2023-03-14 | 328 | 1802 | 
 

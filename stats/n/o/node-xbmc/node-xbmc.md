@@ -1,6 +1,6 @@
 # node-xbmc/node-xbmc - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 51 | 18 | 
 | 2023-04-12 | 51 | 18 | 
 | 2023-04-10 | 51 | 18 | 
 | 2023-04-09 | 51 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 51 | 18 | 
 | 2023-03-17 | 51 | 18 | 
 | 2023-03-15 | 51 | 18 | 
-| 2023-03-14 | 51 | 18 | 
 

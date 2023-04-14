@@ -1,10 +1,10 @@
 # LazyVim/LazyVim - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 311
+☋ Forks: 313
 
-★ Stars: 4669
+★ Stars: 4687
 
 [Open repository](https://github.com/LazyVim/LazyVim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4687 | 313 | 
 | 2023-04-12 | 4669 | 311 | 
 | 2023-04-11 | 4635 | 311 | 
 | 2023-04-10 | 4629 | 310 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 4263 | 267 | 
 | 2023-03-16 | 4240 | 265 | 
 | 2023-03-15 | 4235 | 265 | 
-| 2023-03-14 | 4221 | 261 | 
 

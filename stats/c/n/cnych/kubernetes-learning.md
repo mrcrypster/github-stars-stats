@@ -1,10 +1,10 @@
 # cnych/kubernetes-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 530
 
-★ Stars: 1588
+★ Stars: 1589
 
 [Open repository](https://github.com/cnych/kubernetes-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1589 | 530 | 
 | 2023-04-12 | 1588 | 530 | 
 | 2023-04-11 | 1587 | 530 | 
 | 2023-04-10 | 1587 | 530 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1579 | 528 | 
 | 2023-03-17 | 1579 | 528 | 
 | 2023-03-15 | 1578 | 528 | 
-| 2023-03-14 | 1578 | 528 | 
 

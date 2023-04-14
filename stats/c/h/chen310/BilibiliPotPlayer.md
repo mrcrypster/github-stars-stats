@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/chen310/BilibiliPotPlayer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 175 | 10 | 
+| 2023-04-13 | 176 | 10 | 
 | 2023-04-12 | 174 | 10 | 
 | 2023-04-11 | 172 | 10 | 
 | 2023-04-10 | 162 | 10 | 
@@ -41,5 +41,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-17 | 107 | 8 | 
 | 2023-03-16 | 101 | 8 | 
 | 2023-03-15 | 97 | 7 | 
-| 2023-03-14 | 92 | 7 | 
 

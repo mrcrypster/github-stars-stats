@@ -1,10 +1,10 @@
 # CloudClientDev/cloudclient - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/CloudClientDev/cloudclient)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 73 | 24 | 
 | 2023-04-12 | 72 | 23 | 
 | 2023-04-11 | 72 | 23 | 
 | 2023-04-10 | 72 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 65 | 19 | 
 | 2023-03-17 | 64 | 19 | 
 | 2023-03-16 | 63 | 19 | 
-| 2023-03-14 | 64 | 19 | 
 

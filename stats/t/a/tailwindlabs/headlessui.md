@@ -1,10 +1,10 @@
 # tailwindlabs/headlessui - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 823
+☋ Forks: 824
 
-★ Stars: 19937
+★ Stars: 19954
 
 [Open repository](https://github.com/tailwindlabs/headlessui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 19954 | 824 | 
 | 2023-04-12 | 19937 | 823 | 
 | 2023-04-11 | 19912 | 822 | 
 | 2023-04-10 | 19892 | 822 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 19532 | 808 | 
 | 2023-03-17 | 19506 | 807 | 
 | 2023-03-15 | 19472 | 804 | 
-| 2023-03-14 | 19441 | 800 | 
 

@@ -1,6 +1,6 @@
 # carderne/leaflet-gsheets - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 15 | 85 | 
 | 2023-04-12 | 15 | 85 | 
 | 2023-04-11 | 15 | 85 | 
 | 2023-04-10 | 15 | 85 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 15 | 85 | 
 | 2023-03-17 | 15 | 85 | 
 | 2023-03-16 | 15 | 85 | 
-| 2023-03-14 | 15 | 85 | 
 

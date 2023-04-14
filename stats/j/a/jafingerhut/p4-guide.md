@@ -1,10 +1,10 @@
 # jafingerhut/p4-guide - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 138
 
-★ Stars: 419
+★ Stars: 421
 
 [Open repository](https://github.com/jafingerhut/p4-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 421 | 138 | 
 | 2023-04-12 | 419 | 138 | 
 | 2023-04-11 | 418 | 137 | 
 | 2023-04-10 | 417 | 137 | 

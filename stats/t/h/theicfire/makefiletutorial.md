@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 13
 
-☋ Forks: 192
+☋ Forks: 194
 
-★ Stars: 3162
+★ Stars: 3181
 
 [Open repository](https://github.com/theicfire/makefiletutorial)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 3162 | 192 | 
+| 2023-04-13 | 3181 | 194 | 
 | 2023-04-12 | 3161 | 192 | 
 | 2023-04-11 | 3136 | 192 | 
 | 2023-04-10 | 3111 | 191 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 3050 | 192 | 
 | 2023-03-17 | 3043 | 191 | 
 | 2023-03-15 | 3038 | 191 | 
-| 2023-03-14 | 3034 | 191 | 
 

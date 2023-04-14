@@ -1,10 +1,10 @@
 # twitter/the-algorithm-ml - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 2069
+☋ Forks: 2080
 
-★ Stars: 8738
+★ Stars: 8804
 
 [Open repository](https://github.com/twitter/the-algorithm-ml)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 8804 | 2080 | 
 | 2023-04-12 | 8738 | 2069 | 
 | 2023-04-11 | 8637 | 2057 | 
 | 2023-04-10 | 8541 | 2042 | 

@@ -1,6 +1,6 @@
 # zuri-training/Penguin_by_teamPenguin - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1 | 5 | 
 | 2023-04-13 | 1 | 5 | 
 | 2023-04-11 | 1 | 5 | 
 | 2023-04-10 | 1 | 5 | 

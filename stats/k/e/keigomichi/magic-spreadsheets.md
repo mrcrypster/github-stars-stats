@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 40
 
 [Open repository](https://github.com/keigomichi/magic-spreadsheets)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 32 | 2 | 
+| 2023-04-13 | 40 | 2 | 
 | 2023-04-12 | 32 | 2 | 
 

@@ -1,6 +1,6 @@
 # ggSamoora/TutorialsBySamoora - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 11 | 15 | 
 | 2023-04-12 | 11 | 15 | 
 | 2023-04-11 | 10 | 15 | 
 | 2023-04-10 | 10 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 9 | 13 | 
 | 2023-03-17 | 9 | 13 | 
 | 2023-03-15 | 9 | 13 | 
-| 2023-03-14 | 9 | 13 | 
 

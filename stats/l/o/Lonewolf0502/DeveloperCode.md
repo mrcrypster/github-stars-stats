@@ -1,8 +1,8 @@
 # Lonewolf0502/DeveloperCode - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 94
+☋ Forks: 93
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 52 | 93 | 
 | 2023-04-12 | 52 | 94 | 
 | 2023-04-11 | 52 | 94 | 
 | 2023-04-10 | 52 | 94 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 52 | 94 | 
 | 2023-03-16 | 52 | 94 | 
 | 2023-03-15 | 53 | 94 | 
-| 2023-03-14 | 53 | 94 | 
 

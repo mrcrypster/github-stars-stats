@@ -1,10 +1,10 @@
 # cloneofsimo/lora - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 258
+☋ Forks: 259
 
-★ Stars: 3806
+★ Stars: 3834
 
 [Open repository](https://github.com/cloneofsimo/lora)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3834 | 259 | 
 | 2023-04-12 | 3806 | 258 | 
 | 2023-04-11 | 3757 | 258 | 
 | 2023-04-10 | 3689 | 256 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 2850 | 202 | 
 | 2023-03-17 | 2824 | 199 | 
 | 2023-03-16 | 2772 | 195 | 
-| 2023-03-14 | 2709 | 192 | 
 

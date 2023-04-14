@@ -1,10 +1,10 @@
 # GreaterWMS/GreaterWMS - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 705
+☋ Forks: 706
 
-★ Stars: 2766
+★ Stars: 2776
 
 [Open repository](https://github.com/GreaterWMS/GreaterWMS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2776 | 706 | 
 | 2023-04-12 | 2766 | 705 | 
 | 2023-04-11 | 2758 | 703 | 
 | 2023-04-10 | 2753 | 702 | 

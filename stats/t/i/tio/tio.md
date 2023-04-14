@@ -1,10 +1,10 @@
 # tio/tio - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 125
 
-★ Stars: 1241
+★ Stars: 1243
 
 [Open repository](https://github.com/tio/tio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1243 | 125 | 
 | 2023-04-12 | 1241 | 125 | 
 | 2023-04-11 | 1241 | 125 | 
 | 2023-04-10 | 1241 | 125 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1195 | 123 | 
 | 2023-03-16 | 1193 | 123 | 
 | 2023-03-15 | 1189 | 123 | 
-| 2023-03-14 | 1187 | 123 | 
 

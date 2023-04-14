@@ -1,6 +1,6 @@
 # spdermn02/TouchPortal_Discord_Plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 47 | 22 | 
 | 2023-04-12 | 47 | 22 | 
 | 2023-04-11 | 47 | 22 | 
 | 2023-04-10 | 47 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 47 | 22 | 
 | 2023-03-16 | 47 | 22 | 
 | 2023-03-15 | 47 | 22 | 
-| 2023-03-14 | 47 | 22 | 
 

@@ -1,6 +1,6 @@
 # midudev/remove-bg-cloudinary-hackathon - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 69 | 11 | 
 | 2023-04-12 | 69 | 11 | 
 | 2023-04-11 | 69 | 11 | 
 | 2023-04-10 | 69 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 69 | 11 | 
 | 2023-03-16 | 69 | 11 | 
 | 2023-03-15 | 69 | 11 | 
-| 2023-03-14 | 68 | 11 | 
 

@@ -1,10 +1,10 @@
 # 0xRadi/OWASP-Web-Checklist - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 271
+☋ Forks: 272
 
-★ Stars: 1149
+★ Stars: 1151
 
 [Open repository](https://github.com/0xRadi/OWASP-Web-Checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1151 | 272 | 
 | 2023-04-12 | 1149 | 271 | 
 | 2023-04-11 | 1148 | 271 | 
 | 2023-04-10 | 1146 | 271 | 

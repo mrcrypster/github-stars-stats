@@ -1,10 +1,10 @@
 # yeahwu/check - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 24
 
-★ Stars: 266
+★ Stars: 268
 
 [Open repository](https://github.com/yeahwu/check)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 268 | 24 | 
 | 2023-04-12 | 266 | 24 | 
 | 2023-04-11 | 262 | 24 | 
 | 2023-04-10 | 257 | 24 | 

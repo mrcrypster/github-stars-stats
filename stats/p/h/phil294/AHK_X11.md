@@ -1,6 +1,6 @@
 # phil294/AHK_X11 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 564 | 6 | 
 | 2023-04-12 | 564 | 6 | 
 | 2023-04-11 | 563 | 6 | 
 | 2023-04-10 | 562 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 550 | 6 | 
 | 2023-03-17 | 549 | 6 | 
 | 2023-03-16 | 549 | 6 | 
-| 2023-03-14 | 547 | 6 | 
 

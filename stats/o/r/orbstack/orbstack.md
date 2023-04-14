@@ -1,10 +1,10 @@
 # orbstack/orbstack - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 7
 
-★ Stars: 827
+★ Stars: 838
 
 [Open repository](https://github.com/orbstack/orbstack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 838 | 7 | 
 | 2023-04-12 | 827 | 7 | 
 | 2023-04-11 | 805 | 7 | 
 | 2023-04-10 | 784 | 6 | 

@@ -1,6 +1,6 @@
 # thematters/ipns-site-generator - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6 | 2 | 
 | 2023-04-12 | 6 | 2 | 
 | 2023-04-11 | 6 | 2 | 
 | 2023-04-10 | 6 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 6 | 2 | 
 | 2023-03-17 | 6 | 2 | 
 | 2023-03-16 | 6 | 2 | 
-| 2023-03-14 | 6 | 2 | 
 

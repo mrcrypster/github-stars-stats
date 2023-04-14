@@ -1,10 +1,10 @@
 # jtriley-eth/the-ethereum-virtual-machine - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/jtriley-eth/the-ethereum-virtual-machine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 83 | 11 | 
 | 2023-04-12 | 82 | 11 | 
 | 2023-04-11 | 82 | 11 | 
 | 2023-04-10 | 82 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 82 | 11 | 
 | 2023-03-16 | 82 | 11 | 
 | 2023-03-15 | 82 | 11 | 
-| 2023-03-14 | 82 | 11 | 
 

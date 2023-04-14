@@ -1,10 +1,10 @@
 # rest-assured/rest-assured - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1778
+☋ Forks: 1781
 
-★ Stars: 6338
+★ Stars: 6342
 
 [Open repository](https://github.com/rest-assured/rest-assured)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 6342 | 1781 | 
 | 2023-04-12 | 6338 | 1778 | 
 | 2023-04-11 | 6337 | 1777 | 
 | 2023-04-10 | 6337 | 1778 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 6292 | 1770 | 
 | 2023-03-17 | 6290 | 1769 | 
 | 2023-03-16 | 6287 | 1768 | 
-| 2023-03-14 | 6285 | 1767 | 
 

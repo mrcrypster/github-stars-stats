@@ -1,10 +1,10 @@
 # Layr-Labs/eigenlayer-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 46
+☋ Forks: 48
 
-★ Stars: 79
+★ Stars: 82
 
 [Open repository](https://github.com/Layr-Labs/eigenlayer-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 82 | 48 | 
 | 2023-04-12 | 79 | 46 | 
 | 2023-04-11 | 78 | 45 | 
 | 2023-04-10 | 71 | 42 | 

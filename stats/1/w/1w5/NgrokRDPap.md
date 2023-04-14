@@ -1,10 +1,8 @@
 # 1w5/NgrokRDPap - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+☋ Forks: 
 
-☋ Forks: 36
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/1w5/NgrokRDPap)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | - | 36 | 
 

@@ -1,6 +1,6 @@
 # Michael-OvO/Burn-Detection-Classification - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 275 | 63 | 
 | 2023-04-12 | 275 | 63 | 
 | 2023-04-11 | 275 | 63 | 
 | 2023-04-10 | 276 | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 269 | 60 | 
 | 2023-03-17 | 269 | 60 | 
 | 2023-03-16 | 268 | 60 | 
-| 2023-03-14 | 267 | 60 | 
 

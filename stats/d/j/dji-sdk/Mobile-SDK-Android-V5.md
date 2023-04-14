@@ -1,6 +1,6 @@
 # dji-sdk/Mobile-SDK-Android-V5 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 49
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 105 | 49 | 
 | 2023-04-12 | 105 | 49 | 
 

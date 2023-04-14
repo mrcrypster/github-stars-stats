@@ -1,6 +1,6 @@
 # company-mode/company-quickhelp - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 364 | 33 | 
 | 2023-04-13 | 364 | 33 | 
 | 2023-04-11 | 364 | 33 | 
 | 2023-04-10 | 364 | 33 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 364 | 33 | 
 | 2023-03-17 | 364 | 33 | 
 | 2023-03-16 | 364 | 33 | 
-| 2023-03-14 | 364 | 33 | 
 

@@ -1,10 +1,10 @@
 # jamesfang8499/math1 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 24
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/jamesfang8499/math1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 47 | 24 | 
 | 2023-04-12 | 46 | 24 | 
 | 2023-04-11 | 46 | 24 | 
 | 2023-04-09 | 46 | 24 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 46 | 24 | 
 | 2023-03-17 | 46 | 24 | 
 | 2023-03-16 | 46 | 24 | 
-| 2023-03-14 | 46 | 24 | 
 

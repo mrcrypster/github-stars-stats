@@ -1,10 +1,10 @@
 # getmanfred/mac - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 31
 
-★ Stars: 529
+★ Stars: 530
 
 [Open repository](https://github.com/getmanfred/mac)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 530 | 31 | 
 | 2023-04-12 | 529 | 31 | 
 | 2023-04-11 | 529 | 31 | 
 | 2023-04-10 | 529 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 526 | 30 | 
 | 2023-03-17 | 526 | 30 | 
 | 2023-03-15 | 526 | 30 | 
-| 2023-03-14 | 526 | 30 | 
 

@@ -1,6 +1,6 @@
 # appbaseio/dejavu - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 519
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 8095 | 519 | 
 | 2023-04-12 | 8095 | 519 | 
 | 2023-04-11 | 8094 | 519 | 
 | 2023-04-10 | 8092 | 519 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 8069 | 518 | 
 | 2023-03-16 | 8068 | 518 | 
 | 2023-03-15 | 8068 | 518 | 
-| 2023-03-14 | 8062 | 518 | 
 

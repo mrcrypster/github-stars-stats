@@ -1,6 +1,6 @@
 # yuin/goldmark - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2657 | 189 | 
 | 2023-04-12 | 2657 | 189 | 
 | 2023-04-11 | 2656 | 189 | 
 | 2023-04-10 | 2654 | 189 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 2624 | 188 | 
 | 2023-03-16 | 2622 | 187 | 
 | 2023-03-15 | 2622 | 187 | 
-| 2023-03-14 | 2620 | 187 | 
 

@@ -1,10 +1,10 @@
 # uarun/vim-protobuf - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 25
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/uarun/vim-protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 86 | 25 | 
 | 2023-04-12 | 85 | 25 | 
 | 2023-04-11 | 85 | 25 | 
 | 2023-04-09 | 84 | 25 | 

@@ -1,6 +1,6 @@
 # weopenprojects/WeOpen-Star - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 233 | 34 | 
 | 2023-04-12 | 233 | 34 | 
 | 2023-04-11 | 233 | 34 | 
 | 2023-04-10 | 233 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 229 | 34 | 
 | 2023-03-17 | 229 | 34 | 
 | 2023-03-16 | 229 | 34 | 
-| 2023-03-14 | 229 | 34 | 
 

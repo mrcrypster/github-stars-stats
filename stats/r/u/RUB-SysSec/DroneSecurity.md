@@ -1,6 +1,6 @@
 # RUB-SysSec/DroneSecurity - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 631 | 99 | 
 | 2023-04-12 | 631 | 99 | 
 | 2023-04-10 | 629 | 99 | 
 | 2023-04-09 | 626 | 99 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 552 | 89 | 
 | 2023-03-17 | 548 | 88 | 
 | 2023-03-16 | 541 | 86 | 
-| 2023-03-14 | 536 | 85 | 
 

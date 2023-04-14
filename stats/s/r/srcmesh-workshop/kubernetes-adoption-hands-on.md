@@ -1,6 +1,6 @@
 # srcmesh-workshop/kubernetes-adoption-hands-on - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 28 | 108 | 
 | 2023-04-11 | 28 | 108 | 
 | 2023-04-10 | 28 | 108 | 
 | 2023-04-09 | 28 | 108 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 28 | 107 | 
 | 2023-03-17 | 28 | 107 | 
 | 2023-03-16 | 28 | 107 | 
-| 2023-03-14 | 28 | 107 | 
 

@@ -1,10 +1,10 @@
 # Instruction-Tuning-with-GPT-4/GPT-4-LLM - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 118
+☋ Forks: 124
 
-★ Stars: 1736
+★ Stars: 1803
 
 [Open repository](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1803 | 124 | 
 | 2023-04-12 | 1736 | 118 | 
 | 2023-04-11 | 1546 | 105 | 
 | 2023-04-10 | 1193 | 84 | 

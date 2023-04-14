@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 362
 
-★ Stars: 3994
+★ Stars: 3996
 
 [Open repository](https://github.com/WiseLibs/better-sqlite3)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 3994 | 362 | 
+| 2023-04-13 | 3996 | 362 | 
 | 2023-04-12 | 3993 | 362 | 
 

@@ -1,6 +1,6 @@
 # DarkCoderSc/SubSeven - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 409 | 62 | 
 | 2023-04-12 | 409 | 62 | 
 | 2023-04-11 | 407 | 62 | 
 | 2023-04-10 | 405 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 324 | 50 | 
 | 2023-03-17 | 323 | 50 | 
 | 2023-03-16 | 322 | 50 | 
-| 2023-03-14 | 320 | 50 | 
 

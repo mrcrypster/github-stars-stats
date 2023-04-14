@@ -1,6 +1,6 @@
 # Azure-Samples/pubsub-dapr-nodejs-servicebus - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3 | 4 | 
 | 2023-04-12 | 3 | 4 | 
 | 2023-04-11 | 3 | 4 | 
 | 2023-04-10 | 3 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2 | 2 | 
 | 2023-03-17 | 1 | 2 | 
 | 2023-03-16 | 1 | 2 | 
-| 2023-03-14 | 1 | 2 | 
 

@@ -1,10 +1,10 @@
 # Azure/azure-sdk-for-go - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 743
+☋ Forks: 744
 
-★ Stars: 1251
+★ Stars: 1252
 
 [Open repository](https://github.com/Azure/azure-sdk-for-go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1252 | 744 | 
 | 2023-04-12 | 1251 | 743 | 
 | 2023-04-11 | 1250 | 742 | 
 | 2023-04-10 | 1250 | 742 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1236 | 734 | 
 | 2023-03-16 | 1235 | 734 | 
 | 2023-03-15 | 1234 | 734 | 
-| 2023-03-14 | 1234 | 734 | 
 

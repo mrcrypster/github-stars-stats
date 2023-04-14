@@ -1,10 +1,10 @@
 # Qiskit/qiskit-metapackage - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 791
 
-★ Stars: 2957
+★ Stars: 2958
 
 [Open repository](https://github.com/Qiskit/qiskit-metapackage)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2958 | 791 | 
 | 2023-04-12 | 2957 | 791 | 
 | 2023-04-11 | 2955 | 790 | 
 | 2023-04-10 | 2955 | 790 | 

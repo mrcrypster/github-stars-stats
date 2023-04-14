@@ -1,6 +1,6 @@
 # carsdotcom/req_fuse - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 9 | - | 
 | 2023-04-12 | 9 | - | 
 | 2023-04-11 | 9 | - | 
 | 2023-04-10 | 9 | - | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 7 | - | 
 | 2023-03-16 | 7 | - | 
 | 2023-03-15 | 7 | - | 
-| 2023-03-14 | 1 | - | 
 

@@ -1,6 +1,6 @@
 # jakehamilton/config - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 90 | 10 | 
 | 2023-04-13 | 90 | 10 | 
 | 2023-04-11 | 90 | 10 | 
 | 2023-04-10 | 90 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 68 | 7 | 
 | 2023-03-17 | 68 | 7 | 
 | 2023-03-15 | 67 | 7 | 
-| 2023-03-14 | 66 | 6 | 
 

@@ -1,10 +1,10 @@
 # PySlurm/pyslurm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 104
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/PySlurm/pyslurm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 347 | 104 | 
 | 2023-04-12 | 346 | 104 | 
 | 2023-04-11 | 346 | 104 | 
 | 2023-04-10 | 346 | 104 | 

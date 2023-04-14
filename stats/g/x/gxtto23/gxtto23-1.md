@@ -1,10 +1,8 @@
 # gxtto23/gxtto23-1 - stars & forks statistics
 
-Stats updated on Mar 2023, 14
+☋ Forks: 
 
-☋ Forks: 207
-
-★ Stars: 2
+★ Stars: 
 
 [Open repository](https://github.com/gxtto23/gxtto23-1)
 
@@ -13,5 +11,4 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 2 | 207 | 
 

@@ -1,6 +1,6 @@
 # GamesNotDeveloped/godot-uniplayer - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 44 | 1 | 
 | 2023-04-12 | 44 | 1 | 
 | 2023-04-11 | 44 | 1 | 
 | 2023-04-10 | 44 | 1 | 

@@ -1,10 +1,10 @@
 # projectdiscovery/interactsh - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 271
+☋ Forks: 272
 
-★ Stars: 2295
+★ Stars: 2297
 
 [Open repository](https://github.com/projectdiscovery/interactsh)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2297 | 272 | 
 | 2023-04-12 | 2295 | 271 | 
 | 2023-04-11 | 2289 | 271 | 
 | 2023-04-10 | 2287 | 271 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 2244 | 265 | 
 | 2023-03-16 | 2243 | 265 | 
 | 2023-03-15 | 2240 | 265 | 
-| 2023-03-14 | 2232 | 265 | 
 

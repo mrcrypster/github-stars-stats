@@ -1,8 +1,8 @@
 # BL-MSCH-C220/Exercise-06b-Animation - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 7
+☋ Forks: 18
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | - | 18 | 
 | 2023-04-12 | - | 7 | 
 | 2023-04-11 | - | 5 | 
 

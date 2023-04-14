@@ -1,8 +1,8 @@
 # docker-library/docs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
-☋ Forks: 2178
+☋ Forks: 2179
 
 ★ Stars: 4653
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4653 | 2179 | 
 | 2023-04-12 | 4653 | 2178 | 
 | 2023-04-11 | 4652 | 2176 | 
 | 2023-04-10 | 4652 | 2177 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 4620 | 2175 | 
 | 2023-03-16 | 4615 | 2170 | 
 | 2023-03-15 | 4614 | 2169 | 
-| 2023-03-14 | 4614 | 2168 | 
 

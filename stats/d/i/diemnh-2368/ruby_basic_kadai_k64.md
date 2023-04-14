@@ -1,6 +1,6 @@
 # diemnh-2368/ruby_basic_kadai_k64 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | - | 175 | 
 | 2023-04-12 | - | 175 | 
 | 2023-04-11 | - | 175 | 
 | 2023-04-09 | - | 176 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | - | 180 | 
 | 2023-03-16 | - | 180 | 
 | 2023-03-15 | - | 180 | 
-| 2023-03-14 | - | 181 | 
 

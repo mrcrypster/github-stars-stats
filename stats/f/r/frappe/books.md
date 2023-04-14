@@ -1,6 +1,6 @@
 # frappe/books - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 415
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1865 | 415 | 
 | 2023-04-12 | 1865 | 415 | 
 | 2023-04-11 | 1863 | 415 | 
 | 2023-04-10 | 1861 | 415 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1838 | 415 | 
 | 2023-03-17 | 1836 | 415 | 
 | 2023-03-16 | 1835 | 415 | 
-| 2023-03-14 | 1832 | 413 | 
 

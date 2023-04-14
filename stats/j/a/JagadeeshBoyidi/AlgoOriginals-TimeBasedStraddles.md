@@ -1,8 +1,8 @@
 # JagadeeshBoyidi/AlgoOriginals-TimeBasedStraddles - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 59
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 59 | 30 | 
 | 2023-04-12 | 59 | 29 | 
 | 2023-04-11 | 59 | 29 | 
 | 2023-04-10 | 59 | 29 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 58 | 26 | 
 | 2023-03-17 | 58 | 26 | 
 | 2023-03-15 | 58 | 26 | 
-| 2023-03-14 | 58 | 26 | 
 

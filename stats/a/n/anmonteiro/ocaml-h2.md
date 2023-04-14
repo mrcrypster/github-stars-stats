@@ -1,10 +1,10 @@
 # anmonteiro/ocaml-h2 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/anmonteiro/ocaml-h2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 275 | 27 | 
 | 2023-04-12 | 274 | 27 | 
 | 2023-04-11 | 274 | 27 | 
 | 2023-04-10 | 274 | 27 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 261 | 27 | 
 | 2023-03-16 | 263 | 27 | 
 | 2023-03-15 | 263 | 27 | 
-| 2023-03-14 | 264 | 27 | 
 

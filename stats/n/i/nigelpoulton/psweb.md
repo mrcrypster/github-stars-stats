@@ -1,6 +1,6 @@
 # nigelpoulton/psweb - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 141 | 279 | 
 | 2023-04-12 | 141 | 279 | 
 | 2023-04-11 | 141 | 279 | 
 | 2023-04-10 | 141 | 275 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 140 | 272 | 
 | 2023-03-17 | 140 | 271 | 
 | 2023-03-15 | 140 | 271 | 
-| 2023-03-14 | 140 | 271 | 
 

@@ -1,10 +1,10 @@
 # chatarena/chatarena - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 571
+★ Stars: 581
 
 [Open repository](https://github.com/chatarena/chatarena)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 581 | 35 | 
 | 2023-04-12 | 571 | 34 | 
 | 2023-04-11 | 552 | 33 | 
 | 2023-04-10 | 530 | 29 | 

@@ -1,10 +1,10 @@
 # choptastic/qdate - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 82
 
-★ Stars: 239
+★ Stars: 238
 
 [Open repository](https://github.com/choptastic/qdate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 238 | 82 | 
 | 2023-04-12 | 239 | 82 | 
 | 2023-04-11 | 239 | 82 | 
 | 2023-04-10 | 239 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 239 | 82 | 
 | 2023-03-16 | 239 | 82 | 
 | 2023-03-15 | 239 | 82 | 
-| 2023-03-14 | 238 | 82 | 
 

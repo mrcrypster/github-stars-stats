@@ -1,6 +1,6 @@
 # facebook/buck2-prelude - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 12 | 8 | 
 | 2023-04-13 | 12 | 8 | 
 | 2023-04-12 | 12 | 8 | 
 | 2023-04-11 | 12 | 8 | 

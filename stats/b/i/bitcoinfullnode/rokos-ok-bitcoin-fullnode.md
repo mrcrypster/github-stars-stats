@@ -1,6 +1,6 @@
 # bitcoinfullnode/rokos-ok-bitcoin-fullnode - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 44 | 103 | 
 | 2023-04-12 | 44 | 103 | 
 | 2023-04-11 | 44 | 103 | 
 | 2023-04-10 | 44 | 103 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 43 | 103 | 
 | 2023-03-17 | 43 | 103 | 
 | 2023-03-15 | 43 | 103 | 
-| 2023-03-14 | 43 | 103 | 
 

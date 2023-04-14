@@ -1,10 +1,10 @@
 # chenking2020/FindTheChatGPTer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 226
+★ Stars: 256
 
 [Open repository](https://github.com/chenking2020/FindTheChatGPTer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 226 | 19 | 
+| 2023-04-14 | 256 | 21 | 
+| 2023-04-13 | 255 | 20 | 
 | 2023-04-12 | 224 | 19 | 
 

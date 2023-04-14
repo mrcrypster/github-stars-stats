@@ -1,10 +1,10 @@
 # PetrKryslUCSD/FinEtools.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/PetrKryslUCSD/FinEtools.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 131 | 18 | 
 | 2023-04-12 | 130 | 18 | 
 | 2023-04-11 | 129 | 17 | 
 | 2023-04-10 | 129 | 17 | 

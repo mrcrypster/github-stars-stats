@@ -1,6 +1,6 @@
 # elliotchance/vsql - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 228 | 16 | 
 | 2023-04-12 | 228 | 16 | 
 | 2023-04-11 | 228 | 16 | 
 | 2023-04-10 | 229 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 226 | 16 | 
 | 2023-03-17 | 226 | 16 | 
 | 2023-03-16 | 226 | 16 | 
-| 2023-03-14 | 226 | 16 | 
 

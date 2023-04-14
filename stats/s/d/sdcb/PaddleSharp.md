@@ -1,6 +1,6 @@
 # sdcb/PaddleSharp - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 604 | 120 | 
 | 2023-04-12 | 604 | 120 | 
 | 2023-04-11 | 603 | 119 | 
 | 2023-04-10 | 602 | 119 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 584 | 118 | 
 | 2023-03-16 | 584 | 118 | 
 | 2023-03-15 | 583 | 117 | 
-| 2023-03-14 | 582 | 117 | 
 

@@ -1,10 +1,10 @@
 # ltv/argon-dashboard-vue3 - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 31
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/ltv/argon-dashboard-vue3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 137 | 31 | 
 | 2023-04-12 | 136 | 31 | 
 | 2023-04-11 | 136 | 31 | 
 | 2023-04-10 | 136 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 134 | 29 | 
 | 2023-03-16 | 134 | 29 | 
 | 2023-03-15 | 134 | 29 | 
-| 2023-03-14 | 134 | 29 | 
 

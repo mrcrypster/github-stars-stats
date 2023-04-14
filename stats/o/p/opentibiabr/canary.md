@@ -1,10 +1,10 @@
 # opentibiabr/canary - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/opentibiabr/canary)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 153 | 233 | 
 | 2023-04-12 | 152 | 232 | 
 | 2023-04-11 | 150 | 232 | 
 | 2023-04-10 | 149 | 232 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 140 | 218 | 
 | 2023-03-17 | 140 | 217 | 
 | 2023-03-16 | 140 | 217 | 
-| 2023-03-14 | 138 | 218 | 
 

@@ -1,10 +1,10 @@
 # devoxx/JavaRoadmap - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 20
 
-★ Stars: 336
+★ Stars: 345
 
 [Open repository](https://github.com/devoxx/JavaRoadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 345 | 20 | 
 | 2023-04-12 | 336 | 20 | 
 | 2023-04-11 | 327 | 20 | 
 

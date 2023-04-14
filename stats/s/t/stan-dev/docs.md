@@ -1,6 +1,6 @@
 # stan-dev/docs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 31 | 68 | 
 | 2023-04-13 | 31 | 68 | 
 | 2023-04-11 | 31 | 68 | 
 | 2023-04-10 | 31 | 67 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 31 | 58 | 
 | 2023-03-17 | 31 | 58 | 
 | 2023-03-16 | 31 | 58 | 
-| 2023-03-14 | 31 | 58 | 
 

@@ -1,10 +1,10 @@
 # lizrice/learning-ebpf - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 404
+★ Stars: 407
 
 [Open repository](https://github.com/lizrice/learning-ebpf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 407 | 61 | 
 | 2023-04-12 | 404 | 60 | 
 | 2023-04-11 | 401 | 57 | 
 | 2023-04-10 | 397 | 57 | 

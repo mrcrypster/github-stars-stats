@@ -1,6 +1,6 @@
 # gregr/experiments - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 9 | 1 | 
 | 2023-04-12 | 9 | 1 | 
 | 2023-04-11 | 9 | 1 | 
 | 2023-04-10 | 9 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 8 | 1 | 
 | 2023-03-17 | 8 | 1 | 
 | 2023-03-16 | 8 | 1 | 
-| 2023-03-14 | 8 | 1 | 
 

@@ -1,10 +1,10 @@
 # alibaba/QLExpress - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1034
+☋ Forks: 1035
 
-★ Stars: 4024
+★ Stars: 4027
 
 [Open repository](https://github.com/alibaba/QLExpress)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 4027 | 1035 | 
 | 2023-04-12 | 4024 | 1034 | 
 | 2023-04-11 | 4023 | 1034 | 
 | 2023-04-09 | 4020 | 1034 | 

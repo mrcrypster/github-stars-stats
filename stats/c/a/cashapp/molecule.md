@@ -1,10 +1,10 @@
 # cashapp/molecule - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 1343
+★ Stars: 1344
 
 [Open repository](https://github.com/cashapp/molecule)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1344 | 55 | 
 | 2023-04-12 | 1343 | 54 | 
 | 2023-04-11 | 1341 | 54 | 
 | 2023-04-10 | 1340 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 1293 | 52 | 
 | 2023-03-16 | 1288 | 52 | 
 | 2023-03-15 | 1289 | 52 | 
-| 2023-03-14 | 1289 | 52 | 
 

@@ -1,10 +1,10 @@
 # crealytics/spark-excel - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 135
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/crealytics/spark-excel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 358 | 135 | 
 | 2023-04-12 | 357 | 135 | 
 | 2023-04-11 | 357 | 135 | 
 | 2023-04-10 | 357 | 135 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 350 | 135 | 
 | 2023-03-16 | 350 | 135 | 
 | 2023-03-15 | 350 | 135 | 
-| 2023-03-14 | 350 | 135 | 
 

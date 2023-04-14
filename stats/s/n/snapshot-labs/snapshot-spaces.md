@@ -1,6 +1,6 @@
 # snapshot-labs/snapshot-spaces - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1913
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 147 | 1913 | 
 | 2023-04-12 | 147 | 1913 | 
 | 2023-04-11 | 147 | 1913 | 
 | 2023-04-10 | 147 | 1910 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 145 | 1906 | 
 | 2023-03-17 | 145 | 1907 | 
 | 2023-03-16 | 145 | 1905 | 
-| 2023-03-14 | 145 | 1905 | 
 

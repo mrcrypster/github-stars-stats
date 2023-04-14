@@ -1,8 +1,8 @@
 # pages-themes/time-machine - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 209
+☋ Forks: 210
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 64 | 210 | 
 | 2023-04-12 | 64 | 209 | 
 | 2023-04-11 | 64 | 209 | 
 | 2023-04-09 | 64 | 209 | 

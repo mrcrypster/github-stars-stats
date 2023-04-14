@@ -1,6 +1,6 @@
 # iliailmer/ParameterEstimation.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 17 | 2 | 
 | 2023-04-12 | 17 | 2 | 
 | 2023-04-11 | 17 | 2 | 
 | 2023-04-10 | 16 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 15 | 3 | 
 | 2023-03-17 | 15 | 3 | 
 | 2023-03-15 | 14 | 3 | 
-| 2023-03-14 | 14 | 2 | 
 

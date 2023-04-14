@@ -1,10 +1,10 @@
 # woutdp/live_svelte - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 149
+★ Stars: 167
 
 [Open repository](https://github.com/woutdp/live_svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 167 | 7 | 
 | 2023-04-12 | 149 | 5 | 
 | 2023-04-11 | 144 | 5 | 
 | 2023-04-10 | 143 | 4 | 

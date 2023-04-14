@@ -1,10 +1,10 @@
 # twbs/rfs - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 211
 
-★ Stars: 3143
+★ Stars: 3144
 
 [Open repository](https://github.com/twbs/rfs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3144 | 211 | 
 | 2023-04-12 | 3143 | 211 | 
 | 2023-04-11 | 3140 | 211 | 
 | 2023-04-10 | 3140 | 211 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3124 | 209 | 
 | 2023-03-16 | 3124 | 209 | 
 | 2023-03-15 | 3124 | 209 | 
-| 2023-03-14 | 3124 | 209 | 
 

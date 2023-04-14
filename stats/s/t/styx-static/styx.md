@@ -1,10 +1,10 @@
 # styx-static/styx - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 25
 
-★ Stars: 162
+★ Stars: 161
 
 [Open repository](https://github.com/styx-static/styx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 161 | 25 | 
 | 2023-04-12 | 162 | 25 | 
 | 2023-04-11 | 162 | 25 | 
 | 2023-04-10 | 162 | 25 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 161 | 25 | 
 | 2023-03-17 | 161 | 25 | 
 | 2023-03-16 | 161 | 25 | 
-| 2023-03-15 | 161 | 25 | 
 

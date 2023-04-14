@@ -1,10 +1,10 @@
 # 0xHossam/Killer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 31
+☋ Forks: 37
 
-★ Stars: 220
+★ Stars: 257
 
 [Open repository](https://github.com/0xHossam/Killer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 220 | 31 | 
+| 2023-04-14 | 257 | 37 | 
+| 2023-04-13 | 255 | 37 | 
 | 2023-04-12 | 215 | 31 | 
 

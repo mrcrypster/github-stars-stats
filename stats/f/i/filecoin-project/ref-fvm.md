@@ -1,8 +1,8 @@
 # filecoin-project/ref-fvm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 101
+☋ Forks: 102
 
 ★ Stars: 300
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 300 | 102 | 
 | 2023-04-12 | 300 | 101 | 
 | 2023-04-11 | 299 | 100 | 
 | 2023-04-10 | 299 | 100 | 

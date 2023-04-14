@@ -1,10 +1,10 @@
 # harryadel/AI-ML-Driven-Companies-In-Egypt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 299
+★ Stars: 300
 
 [Open repository](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 300 | 18 | 
 | 2023-04-12 | 299 | 18 | 
 | 2023-04-11 | 293 | 18 | 
 | 2023-04-10 | 285 | 18 | 

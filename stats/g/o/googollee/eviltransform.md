@@ -1,6 +1,6 @@
 # googollee/eviltransform - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 466
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2237 | 466 | 
 | 2023-04-12 | 2237 | 466 | 
 | 2023-04-11 | 2236 | 466 | 
 | 2023-04-10 | 2235 | 467 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2229 | 465 | 
 | 2023-03-16 | 2229 | 464 | 
 | 2023-03-15 | 2228 | 464 | 
-| 2023-03-14 | 2227 | 464 | 
 

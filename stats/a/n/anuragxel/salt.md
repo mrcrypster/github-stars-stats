@@ -1,10 +1,10 @@
 # anuragxel/salt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 24
+☋ Forks: 31
 
-★ Stars: 292
+★ Stars: 465
 
 [Open repository](https://github.com/anuragxel/salt)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 465 | 31 | 
 | 2023-04-12 | 292 | 24 | 
 

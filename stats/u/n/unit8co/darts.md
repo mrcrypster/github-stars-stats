@@ -1,10 +1,10 @@
 # unit8co/darts - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 637
 
-★ Stars: 5678
+★ Stars: 5696
 
 [Open repository](https://github.com/unit8co/darts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5696 | 637 | 
 | 2023-04-12 | 5678 | 637 | 
 | 2023-04-11 | 5669 | 635 | 
 | 2023-04-10 | 5662 | 634 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 5556 | 613 | 
 | 2023-03-17 | 5552 | 613 | 
 | 2023-03-15 | 5544 | 609 | 
-| 2023-03-14 | 5537 | 607 | 
 

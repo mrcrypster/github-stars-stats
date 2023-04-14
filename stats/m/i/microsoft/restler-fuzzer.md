@@ -1,10 +1,10 @@
 # microsoft/restler-fuzzer - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 233
 
-★ Stars: 2104
+★ Stars: 2107
 
 [Open repository](https://github.com/microsoft/restler-fuzzer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2107 | 233 | 
 | 2023-04-12 | 2104 | 233 | 
 | 2023-04-11 | 2103 | 233 | 
 | 2023-04-09 | 2102 | 233 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2085 | 227 | 
 | 2023-03-17 | 2084 | 227 | 
 | 2023-03-15 | 2081 | 227 | 
-| 2023-03-14 | 2082 | 226 | 
 

@@ -1,10 +1,10 @@
 # google/skia - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1318
 
-★ Stars: 7412
+★ Stars: 7416
 
 [Open repository](https://github.com/google/skia)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7416 | 1318 | 
 | 2023-04-12 | 7412 | 1318 | 
 | 2023-04-11 | 7404 | 1319 | 
 | 2023-04-10 | 7401 | 1317 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 7325 | 1302 | 
 | 2023-03-17 | 7321 | 1302 | 
 | 2023-03-16 | 7315 | 1300 | 
-| 2023-03-14 | 7306 | 1299 | 
 

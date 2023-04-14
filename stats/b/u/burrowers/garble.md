@@ -1,6 +1,6 @@
 # burrowers/garble - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2596 | 181 | 
 | 2023-04-12 | 2596 | 181 | 
 | 2023-04-11 | 2591 | 180 | 
 | 2023-04-10 | 2591 | 180 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2537 | 177 | 
 | 2023-03-17 | 2534 | 177 | 
 | 2023-03-15 | 2528 | 177 | 
-| 2023-03-14 | 2524 | 178 | 
 

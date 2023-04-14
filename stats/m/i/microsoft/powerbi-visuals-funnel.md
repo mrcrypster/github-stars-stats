@@ -1,6 +1,6 @@
 # microsoft/powerbi-visuals-funnel - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 13 | 18 | 
 | 2023-04-12 | 13 | 18 | 
 | 2023-04-11 | 13 | 18 | 
 | 2023-04-10 | 13 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 12 | 18 | 
 | 2023-03-17 | 12 | 18 | 
 | 2023-03-15 | 12 | 18 | 
-| 2023-03-14 | 12 | 18 | 
 

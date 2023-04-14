@@ -1,10 +1,10 @@
 # naco-siren/mogicians-manual - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 44
 
-★ Stars: 477
+★ Stars: 476
 
 [Open repository](https://github.com/naco-siren/mogicians-manual)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 476 | 44 | 
 | 2023-04-12 | 477 | 44 | 
 | 2023-04-11 | 477 | 44 | 
 | 2023-04-10 | 477 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 478 | 44 | 
 | 2023-03-17 | 478 | 44 | 
 | 2023-03-16 | 478 | 44 | 
-| 2023-03-14 | 478 | 44 | 
 

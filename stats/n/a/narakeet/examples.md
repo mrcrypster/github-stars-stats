@@ -1,6 +1,6 @@
 # narakeet/examples - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 236 | 47 | 
 | 2023-04-12 | 236 | 47 | 
 | 2023-04-11 | 236 | 46 | 
 | 2023-04-10 | 236 | 46 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 231 | 45 | 
 | 2023-03-17 | 231 | 45 | 
 | 2023-03-15 | 231 | 45 | 
-| 2023-03-14 | 230 | 45 | 
 

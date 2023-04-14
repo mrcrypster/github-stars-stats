@@ -1,10 +1,10 @@
 # geekplux/cv_resume - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 84
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/geekplux/cv_resume)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 220 | 84 | 
 | 2023-04-12 | 219 | 84 | 
 | 2023-04-11 | 218 | 84 | 
 | 2023-04-10 | 217 | 84 | 

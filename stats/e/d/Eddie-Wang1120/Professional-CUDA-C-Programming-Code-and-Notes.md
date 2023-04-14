@@ -1,10 +1,10 @@
 # Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 28 | 1 | 
 | 2023-04-12 | 27 | 1 | 
 

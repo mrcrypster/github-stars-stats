@@ -1,6 +1,6 @@
 # SciML/EasyModelAnalysis.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 74 | 7 | 
 | 2023-04-12 | 74 | 7 | 
 | 2023-04-11 | 74 | 7 | 
 | 2023-04-10 | 73 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 73 | 7 | 
 | 2023-03-17 | 73 | 7 | 
 | 2023-03-16 | 73 | 7 | 
-| 2023-03-15 | 73 | 7 | 
 

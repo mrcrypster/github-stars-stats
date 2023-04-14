@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 16
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/Wilfred/elisp-refs)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 107 | 16 | 
+| 2023-04-13 | 108 | 16 | 
 | 2023-04-12 | 107 | 16 | 
 | 2023-04-10 | 107 | 16 | 
 | 2023-04-09 | 106 | 16 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-17 | 104 | 16 | 
 | 2023-03-16 | 104 | 16 | 
 | 2023-03-15 | 104 | 16 | 
-| 2023-03-14 | 104 | 16 | 
 

@@ -1,10 +1,10 @@
 # 1fexd/LinkSheet - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 206
+★ Stars: 211
 
 [Open repository](https://github.com/1fexd/LinkSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 211 | 4 | 
 | 2023-04-12 | 206 | 4 | 
 | 2023-04-11 | 203 | 3 | 
 | 2023-04-10 | 199 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 97 | 1 | 
 | 2023-03-17 | 94 | 1 | 
 | 2023-03-16 | 92 | 1 | 
-| 2023-03-14 | 91 | 1 | 
 

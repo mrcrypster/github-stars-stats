@@ -1,8 +1,8 @@
 # owncloud/android - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 2987
+☋ Forks: 2989
 
 ★ Stars: 3473
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3473 | 2989 | 
 | 2023-04-12 | 3473 | 2987 | 
 | 2023-04-11 | 3471 | 2986 | 
 | 2023-04-10 | 3471 | 2985 | 

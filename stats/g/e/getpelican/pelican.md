@@ -1,10 +1,10 @@
 # getpelican/pelican - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1810
 
-★ Stars: 11512
+★ Stars: 11515
 
 [Open repository](https://github.com/getpelican/pelican)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 11515 | 1810 | 
 | 2023-04-12 | 11512 | 1810 | 
 | 2023-04-11 | 11508 | 1810 | 
 | 2023-04-10 | 11503 | 1810 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 11459 | 1806 | 
 | 2023-03-17 | 11453 | 1806 | 
 | 2023-03-16 | 11450 | 1806 | 
-| 2023-03-14 | 11445 | 1806 | 
 

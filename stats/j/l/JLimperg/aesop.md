@@ -1,10 +1,10 @@
 # JLimperg/aesop - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 8
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/JLimperg/aesop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 57 | 8 | 
 | 2023-04-12 | 56 | 8 | 
 | 2023-04-11 | 56 | 8 | 
 | 2023-04-10 | 56 | 8 | 

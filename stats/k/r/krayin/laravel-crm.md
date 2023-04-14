@@ -1,10 +1,10 @@
 # krayin/laravel-crm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 329
 
-★ Stars: 1256
+★ Stars: 1272
 
 [Open repository](https://github.com/krayin/laravel-crm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1272 | 329 | 
 | 2023-04-12 | 1256 | 329 | 
 | 2023-04-11 | 1236 | 329 | 
 | 2023-04-10 | 1235 | 329 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 1218 | 321 | 
 | 2023-03-17 | 1217 | 320 | 
 | 2023-03-16 | 1217 | 320 | 
-| 2023-03-14 | 1214 | 320 | 
 

@@ -1,10 +1,10 @@
 # ConsenSys/quorum-dev-quickstart - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 84
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/ConsenSys/quorum-dev-quickstart)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 95 | 84 | 
 | 2023-04-12 | 94 | 84 | 
 | 2023-04-11 | 94 | 84 | 
 | 2023-04-10 | 94 | 84 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 90 | 81 | 
 | 2023-03-17 | 90 | 82 | 
 | 2023-03-16 | 90 | 81 | 
-| 2023-03-14 | 90 | 81 | 
 

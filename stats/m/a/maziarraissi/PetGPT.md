@@ -1,10 +1,10 @@
 # maziarraissi/PetGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/maziarraissi/PetGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 97 | 15 | 
 | 2023-04-12 | 96 | 15 | 
 | 2023-04-11 | 96 | 14 | 
 | 2023-04-10 | 94 | 13 | 

@@ -1,6 +1,6 @@
 # jgthms/html-reference - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 938 | 136 | 
 | 2023-04-13 | 938 | 136 | 
 | 2023-04-12 | 938 | 136 | 
 | 2023-04-10 | 938 | 136 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 932 | 135 | 
 | 2023-03-17 | 931 | 135 | 
 | 2023-03-16 | 931 | 135 | 
-| 2023-03-14 | 931 | 135 | 
 

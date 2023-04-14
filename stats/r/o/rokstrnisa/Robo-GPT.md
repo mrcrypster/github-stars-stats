@@ -1,10 +1,10 @@
 # rokstrnisa/Robo-GPT - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 9
 
-★ Stars: 103
+★ Stars: 122
 
 [Open repository](https://github.com/rokstrnisa/Robo-GPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 122 | 9 | 
 | 2023-04-12 | 103 | 9 | 
 | 2023-04-11 | 94 | 8 | 
 

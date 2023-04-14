@@ -1,6 +1,6 @@
 # psu-stat380/weekly-summary-template - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | - | 27 | 
 | 2023-04-12 | - | 27 | 
 | 2023-04-11 | - | 27 | 
 | 2023-04-10 | - | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | - | 17 | 
 | 2023-03-16 | - | 16 | 
 | 2023-03-15 | - | 16 | 
-| 2023-03-14 | - | 16 | 
 

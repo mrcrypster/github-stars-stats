@@ -1,10 +1,10 @@
 # pilcrowOnPaper/lucia - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 102
+☋ Forks: 110
 
-★ Stars: 1410
+★ Stars: 1468
 
 [Open repository](https://github.com/pilcrowOnPaper/lucia)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 1410 | 102 | 
+| 2023-04-14 | 1468 | 110 | 
+| 2023-04-13 | 1465 | 108 | 
 | 2023-04-12 | 1399 | 101 | 
 | 2023-04-11 | 1298 | 97 | 
 

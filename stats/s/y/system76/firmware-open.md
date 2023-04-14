@@ -1,10 +1,10 @@
 # system76/firmware-open - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 70
 
-★ Stars: 861
+★ Stars: 862
 
 [Open repository](https://github.com/system76/firmware-open)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 862 | 70 | 
 | 2023-04-12 | 861 | 70 | 
 | 2023-04-11 | 861 | 70 | 
 | 2023-04-10 | 860 | 70 | 

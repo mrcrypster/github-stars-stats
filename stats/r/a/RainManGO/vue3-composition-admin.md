@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 13
 
-☋ Forks: 765
+☋ Forks: 766
 
-★ Stars: 2499
+★ Stars: 2501
 
 [Open repository](https://github.com/RainManGO/vue3-composition-admin)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 2499 | 765 | 
+| 2023-04-13 | 2501 | 766 | 
 | 2023-04-12 | 2499 | 765 | 
 | 2023-04-11 | 2497 | 764 | 
 | 2023-04-10 | 2495 | 763 | 

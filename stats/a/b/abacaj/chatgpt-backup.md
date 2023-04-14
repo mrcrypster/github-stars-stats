@@ -1,10 +1,10 @@
 # abacaj/chatgpt-backup - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 13
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/abacaj/chatgpt-backup)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 197 | 13 | 
 | 2023-04-12 | 196 | 13 | 
 | 2023-04-11 | 191 | 13 | 
 | 2023-04-10 | 186 | 13 | 

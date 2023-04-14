@@ -1,10 +1,10 @@
 # vercel-labs/nextgram - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 199
+★ Stars: 203
 
 [Open repository](https://github.com/vercel-labs/nextgram)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 203 | 40 | 
 | 2023-04-12 | 199 | 39 | 
 | 2023-04-11 | 194 | 37 | 
 | 2023-04-10 | 176 | 36 | 

@@ -1,10 +1,10 @@
 # mayuelala/FollowYourPose - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 458
+★ Stars: 474
 
 [Open repository](https://github.com/mayuelala/FollowYourPose)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 474 | 18 | 
 | 2023-04-12 | 458 | 17 | 
 | 2023-04-11 | 434 | 15 | 
 | 2023-04-10 | 417 | 15 | 

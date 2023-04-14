@@ -1,10 +1,10 @@
 # laravel/valet - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 663
 
-★ Stars: 2348
+★ Stars: 2349
 
 [Open repository](https://github.com/laravel/valet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2349 | 663 | 
 | 2023-04-12 | 2348 | 663 | 
 | 2023-04-11 | 2349 | 662 | 
 | 2023-04-10 | 2348 | 662 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 2335 | 661 | 
 | 2023-03-17 | 2334 | 661 | 
 | 2023-03-16 | 2330 | 659 | 
-| 2023-03-14 | 2325 | 659 | 
 

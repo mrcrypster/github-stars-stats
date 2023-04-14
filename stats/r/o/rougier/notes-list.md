@@ -1,10 +1,10 @@
 # rougier/notes-list - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/rougier/notes-list)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 82 | 2 | 
 | 2023-04-12 | 81 | 2 | 
 | 2023-04-11 | 81 | 2 | 
 | 2023-04-10 | 81 | 2 | 

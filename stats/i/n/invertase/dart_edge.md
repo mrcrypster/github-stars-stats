@@ -1,6 +1,6 @@
 # invertase/dart_edge - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 184 | 5 | 
 | 2023-04-12 | 184 | 5 | 
 | 2023-04-11 | 183 | 5 | 
 | 2023-04-10 | 183 | 5 | 

@@ -1,8 +1,8 @@
 # ShariqAnsari88/shoe-store-frontend - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 45 | 21 | 
 | 2023-04-12 | 45 | 20 | 
 | 2023-04-11 | 39 | 18 | 
 | 2023-04-10 | 38 | 19 | 

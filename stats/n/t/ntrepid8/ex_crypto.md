@@ -1,10 +1,10 @@
 # ntrepid8/ex_crypto - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 45
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/ntrepid8/ex_crypto)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 131 | 45 | 
 | 2023-04-12 | 130 | 45 | 
 | 2023-04-11 | 130 | 45 | 
 | 2023-04-10 | 130 | 45 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 128 | 45 | 
 | 2023-03-16 | 128 | 45 | 
 | 2023-03-15 | 128 | 45 | 
-| 2023-03-14 | 128 | 45 | 
 

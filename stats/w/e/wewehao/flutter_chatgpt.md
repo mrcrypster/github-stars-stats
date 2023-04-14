@@ -1,10 +1,10 @@
 # wewehao/flutter_chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 156
+★ Stars: 159
 
 [Open repository](https://github.com/wewehao/flutter_chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 159 | 15 | 
 | 2023-04-12 | 156 | 15 | 
 | 2023-04-11 | 146 | 14 | 
 | 2023-04-10 | 143 | 14 | 

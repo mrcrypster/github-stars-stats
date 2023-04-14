@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 721
 
-★ Stars: 3681
+★ Stars: 3684
 
 [Open repository](https://github.com/ClosedXML/ClosedXML)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 3681 | 721 | 
+| 2023-04-13 | 3684 | 721 | 
 | 2023-04-12 | 3681 | 721 | 
 | 2023-04-11 | 3674 | 720 | 
 | 2023-04-10 | 3669 | 719 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 3630 | 713 | 
 | 2023-03-17 | 3624 | 713 | 
 | 2023-03-16 | 3623 | 713 | 
-| 2023-03-14 | 3617 | 711 | 
 

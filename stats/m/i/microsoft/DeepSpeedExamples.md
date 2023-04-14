@@ -1,10 +1,10 @@
 # microsoft/DeepSpeedExamples - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 230
+☋ Forks: 315
 
-★ Stars: 1006
+★ Stars: 1775
 
 [Open repository](https://github.com/microsoft/DeepSpeedExamples)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1775 | 315 | 
 | 2023-04-12 | 1006 | 230 | 
 

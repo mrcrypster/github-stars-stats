@@ -1,8 +1,8 @@
 # BL-MSCH-C220/Optional-Exercise-04d-Save-and-Load - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | - | 9 | 
 | 2023-04-12 | - | 8 | 
 | 2023-04-11 | - | 8 | 
 | 2023-04-10 | - | 8 | 

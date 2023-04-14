@@ -1,10 +1,10 @@
 # jgraph/mxgraph - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1929
+☋ Forks: 1930
 
-★ Stars: 6527
+★ Stars: 6529
 
 [Open repository](https://github.com/jgraph/mxgraph)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6529 | 1930 | 
 | 2023-04-13 | 6527 | 1929 | 
 | 2023-04-11 | 6526 | 1929 | 
 | 2023-04-10 | 6526 | 1929 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 6520 | 1921 | 
 | 2023-03-17 | 6519 | 1922 | 
 | 2023-03-16 | 6516 | 1922 | 
-| 2023-03-14 | 6515 | 1922 | 
 

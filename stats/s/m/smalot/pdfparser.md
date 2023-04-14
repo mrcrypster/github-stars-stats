@@ -1,10 +1,10 @@
 # smalot/pdfparser - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 507
+☋ Forks: 505
 
-★ Stars: 1983
+★ Stars: 1984
 
 [Open repository](https://github.com/smalot/pdfparser)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 1984 | 505 | 
 | 2023-04-12 | 1983 | 507 | 
 | 2023-04-11 | 1978 | 507 | 
 | 2023-04-10 | 1977 | 506 | 

@@ -1,6 +1,6 @@
 # hsl947/react-antd-multi-tabs-admin - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 436 | 111 | 
 | 2023-04-12 | 436 | 111 | 
 | 2023-04-11 | 435 | 111 | 
 | 2023-04-09 | 436 | 111 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 427 | 106 | 
 | 2023-03-16 | 427 | 106 | 
 | 2023-03-15 | 427 | 106 | 
-| 2023-03-14 | 427 | 106 | 
 

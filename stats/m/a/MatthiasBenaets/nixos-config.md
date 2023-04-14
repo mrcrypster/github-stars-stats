@@ -1,10 +1,10 @@
 # MatthiasBenaets/nixos-config - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 42
+☋ Forks: 41
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/MatthiasBenaets/nixos-config)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 244 | 41 | 
 | 2023-04-13 | 243 | 42 | 
 | 2023-04-11 | 243 | 41 | 
 | 2023-04-10 | 243 | 41 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 232 | 38 | 
 | 2023-03-17 | 229 | 38 | 
 | 2023-03-15 | 229 | 39 | 
-| 2023-03-14 | 228 | 39 | 
 

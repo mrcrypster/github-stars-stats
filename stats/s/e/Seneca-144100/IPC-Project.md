@@ -1,8 +1,8 @@
 # Seneca-144100/IPC-Project - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 24 | 114 | 
 | 2023-04-13 | 24 | 113 | 
 | 2023-04-11 | 24 | 111 | 
 | 2023-04-10 | 24 | 111 | 

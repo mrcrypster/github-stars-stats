@@ -1,8 +1,8 @@
 # yaocccc/dwm - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 86
+☋ Forks: 85
 
 ★ Stars: 196
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 196 | 85 | 
 | 2023-04-12 | 196 | 86 | 
 | 2023-04-11 | 196 | 85 | 
 | 2023-04-10 | 196 | 83 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 190 | 67 | 
 | 2023-03-16 | 190 | 67 | 
 | 2023-03-15 | 191 | 67 | 
-| 2023-03-14 | 190 | 66 | 
 

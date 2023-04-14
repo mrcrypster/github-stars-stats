@@ -1,8 +1,8 @@
 # tanersener/ffmpeg-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 357
+☋ Forks: 358
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 34 | 358 | 
 | 2023-04-12 | 34 | 357 | 
 | 2023-04-11 | 34 | 357 | 
 | 2023-04-10 | 34 | 357 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 31 | 346 | 
 | 2023-03-17 | 30 | 346 | 
 | 2023-03-15 | 30 | 346 | 
-| 2023-03-14 | 30 | 344 | 
 

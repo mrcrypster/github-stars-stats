@@ -1,6 +1,6 @@
 # devsyedmohsin/css-tips-tricks - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 132 | 16 | 
 | 2023-04-12 | 132 | 16 | 
 | 2023-04-11 | 132 | 16 | 
 | 2023-04-10 | 132 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 110 | 12 | 
 | 2023-03-17 | 106 | 12 | 
 | 2023-03-16 | 99 | 12 | 
-| 2023-03-14 | 97 | 11 | 
 

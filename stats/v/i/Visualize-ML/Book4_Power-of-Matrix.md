@@ -1,10 +1,10 @@
 # Visualize-ML/Book4_Power-of-Matrix - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 321
+☋ Forks: 323
 
-★ Stars: 2457
+★ Stars: 2471
 
 [Open repository](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2471 | 323 | 
 | 2023-04-12 | 2457 | 321 | 
 | 2023-04-11 | 2447 | 319 | 
 | 2023-04-10 | 2440 | 318 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 2320 | 299 | 
 | 2023-03-17 | 2313 | 297 | 
 | 2023-03-15 | 2299 | 294 | 
-| 2023-03-14 | 2291 | 293 | 
 

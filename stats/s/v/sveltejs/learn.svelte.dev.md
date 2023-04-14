@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 13
 
 ☋ Forks: 75
 
-★ Stars: 194
+★ Stars: 196
 
 [Open repository](https://github.com/sveltejs/learn.svelte.dev)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 194 | 75 | 
+| 2023-04-13 | 196 | 75 | 
 | 2023-04-12 | 194 | 75 | 
 | 2023-04-11 | 191 | 74 | 
 | 2023-04-10 | 189 | 71 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 184 | 64 | 
 | 2023-03-17 | 183 | 62 | 
 | 2023-03-16 | 182 | 62 | 
-| 2023-03-14 | 182 | 61 | 
 

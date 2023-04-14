@@ -1,10 +1,10 @@
 # dahlbyk/posh-git - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 808
 
-★ Stars: 6852
+★ Stars: 6853
 
 [Open repository](https://github.com/dahlbyk/posh-git)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 6853 | 808 | 
 | 2023-04-12 | 6852 | 808 | 
 | 2023-04-11 | 6850 | 808 | 
 | 2023-04-10 | 6844 | 807 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 6804 | 807 | 
 | 2023-03-16 | 6803 | 807 | 
 | 2023-03-15 | 6799 | 807 | 
-| 2023-03-14 | 6795 | 805 | 
 

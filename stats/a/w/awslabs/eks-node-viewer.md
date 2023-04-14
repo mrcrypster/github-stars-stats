@@ -1,10 +1,10 @@
 # awslabs/eks-node-viewer - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 557
+★ Stars: 561
 
 [Open repository](https://github.com/awslabs/eks-node-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 561 | 42 | 
 | 2023-04-11 | 557 | 41 | 
 | 2023-04-10 | 556 | 41 | 
 | 2023-04-09 | 556 | 41 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-19 | 542 | 41 | 
 | 2023-03-17 | 540 | 41 | 
 | 2023-03-16 | 538 | 41 | 
-| 2023-03-14 | 536 | 41 | 
 

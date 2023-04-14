@@ -1,10 +1,10 @@
 # cask/epl - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/cask/epl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 63 | 21 | 
 | 2023-04-12 | 62 | 21 | 
 | 2023-04-11 | 62 | 21 | 
 | 2023-04-10 | 62 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-19 | 62 | 21 | 
 | 2023-03-17 | 62 | 21 | 
 | 2023-03-16 | 62 | 21 | 
-| 2023-03-14 | 62 | 21 | 
 

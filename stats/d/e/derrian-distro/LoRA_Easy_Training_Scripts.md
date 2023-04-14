@@ -1,10 +1,10 @@
 # derrian-distro/LoRA_Easy_Training_Scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 322
+★ Stars: 325
 
 [Open repository](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 325 | 48 | 
 | 2023-04-12 | 322 | 47 | 
 | 2023-04-11 | 319 | 47 | 
 | 2023-04-10 | 312 | 46 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 197 | 37 | 
 | 2023-03-17 | 187 | 37 | 
 | 2023-03-16 | 182 | 37 | 
-| 2023-03-14 | 176 | 36 | 
 

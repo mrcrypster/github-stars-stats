@@ -1,6 +1,6 @@
 # TextureGroup/Texture - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 1241
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 7761 | 1241 | 
 | 2023-04-12 | 7761 | 1241 | 
 | 2023-04-11 | 7760 | 1240 | 
 | 2023-04-10 | 7758 | 1241 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-17 | 7739 | 1237 | 
 | 2023-03-16 | 7738 | 1237 | 
 | 2023-03-15 | 7736 | 1237 | 
-| 2023-03-14 | 7737 | 1238 | 
 

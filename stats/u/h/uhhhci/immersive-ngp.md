@@ -1,10 +1,10 @@
 # uhhhci/immersive-ngp - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 17
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/uhhhci/immersive-ngp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 208 | 17 | 
 | 2023-04-12 | 207 | 17 | 
 | 2023-04-11 | 207 | 17 | 
 | 2023-04-10 | 207 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 199 | 17 | 
 | 2023-03-17 | 199 | 17 | 
 | 2023-03-15 | 199 | 17 | 
-| 2023-03-14 | 198 | 17 | 
 

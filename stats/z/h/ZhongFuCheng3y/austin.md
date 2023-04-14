@@ -1,10 +1,10 @@
 # ZhongFuCheng3y/austin - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 943
 
-★ Stars: 3624
+★ Stars: 3633
 
 [Open repository](https://github.com/ZhongFuCheng3y/austin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 3633 | 943 | 
 | 2023-04-12 | 3624 | 943 | 
 | 2023-04-11 | 3616 | 940 | 
 | 2023-04-10 | 3610 | 938 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 3428 | 890 | 
 | 2023-03-16 | 3422 | 890 | 
 | 2023-03-15 | 3416 | 887 | 
-| 2023-03-14 | 3402 | 885 | 
 

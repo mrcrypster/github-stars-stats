@@ -1,10 +1,10 @@
 # hfiref0x/UACME - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
-☋ Forks: 1231
+☋ Forks: 1232
 
-★ Stars: 5096
+★ Stars: 5100
 
 [Open repository](https://github.com/hfiref0x/UACME)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 5100 | 1232 | 
 | 2023-04-12 | 5096 | 1231 | 
 | 2023-04-11 | 5093 | 1230 | 
 | 2023-04-10 | 5089 | 1228 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 5042 | 1221 | 
 | 2023-03-16 | 5040 | 1220 | 
 | 2023-03-15 | 5035 | 1220 | 
-| 2023-03-14 | 5028 | 1219 | 
 

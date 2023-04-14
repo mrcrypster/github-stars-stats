@@ -1,10 +1,10 @@
 # PaulRBerg/prb-math - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 607
+★ Stars: 608
 
 [Open repository](https://github.com/PaulRBerg/prb-math)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 607 | 92 | 
+| 2023-04-14 | 608 | 93 | 
+| 2023-04-13 | 608 | 93 | 
 | 2023-04-12 | 606 | 92 | 
 | 2023-04-11 | 606 | 92 | 
 | 2023-04-10 | 605 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-17 | 576 | 90 | 
 | 2023-03-16 | 572 | 89 | 
 | 2023-03-15 | 570 | 88 | 
-| 2023-03-14 | 556 | 88 | 
 

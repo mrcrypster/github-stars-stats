@@ -1,6 +1,6 @@
 # viascom/nanoid-postgres - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 66 | 3 | 
 | 2023-04-12 | 66 | 3 | 
 | 2023-04-11 | 66 | 3 | 
 | 2023-04-10 | 65 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 57 | 3 | 
 | 2023-03-16 | 57 | 3 | 
 | 2023-03-15 | 56 | 3 | 
-| 2023-03-14 | 56 | 3 | 
 

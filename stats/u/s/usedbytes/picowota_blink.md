@@ -1,10 +1,10 @@
 # usedbytes/picowota_blink - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/usedbytes/picowota_blink)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 11 | - | 
 | 2023-04-12 | 10 | - | 
 | 2023-04-11 | 10 | - | 
 | 2023-04-10 | 10 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 10 | - | 
 | 2023-03-17 | 10 | - | 
 | 2023-03-16 | 10 | - | 
-| 2023-03-14 | 10 | - | 
 

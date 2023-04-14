@@ -1,6 +1,6 @@
 # ossf/package-analysis - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 603 | 41 | 
 | 2023-04-12 | 603 | 41 | 
 | 2023-04-11 | 601 | 41 | 
 | 2023-04-10 | 600 | 41 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 591 | 41 | 
 | 2023-03-17 | 591 | 41 | 
 | 2023-03-15 | 591 | 41 | 
-| 2023-03-14 | 591 | 41 | 
 

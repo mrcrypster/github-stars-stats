@@ -1,10 +1,10 @@
 # nabla-c0d3/ssl-kill-switch2 - stars & forks statistics
 
-Stats updated on Apr 2023, 11
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 454
 
-★ Stars: 2772
+★ Stars: 2777
 
 [Open repository](https://github.com/nabla-c0d3/ssl-kill-switch2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 2777 | 454 | 
 | 2023-04-11 | 2772 | 454 | 
 | 2023-04-10 | 2772 | 454 | 
 | 2023-04-09 | 2771 | 454 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 11
 | 2023-03-18 | 2756 | 453 | 
 | 2023-03-16 | 2755 | 453 | 
 | 2023-03-15 | 2754 | 454 | 
-| 2023-03-14 | 2754 | 452 | 
 

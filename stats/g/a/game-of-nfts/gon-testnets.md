@@ -1,6 +1,6 @@
 # game-of-nfts/gon-testnets - stars & forks statistics
 
-Stats updated on Apr 2023, 12
+Stats updated on Apr 2023, 13
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-13 | 57 | 58 | 
 | 2023-04-12 | 57 | 58 | 
 | 2023-04-11 | 57 | 58 | 
 | 2023-04-10 | 57 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 12
 | 2023-03-18 | 51 | 49 | 
 | 2023-03-17 | 50 | 49 | 
 | 2023-03-16 | 49 | 46 | 
-| 2023-03-14 | 47 | 45 | 
 

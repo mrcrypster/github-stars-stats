@@ -1,10 +1,10 @@
 # kevmo314/magic-copy - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 38
+☋ Forks: 50
 
-★ Stars: 595
+★ Stars: 941
 
 [Open repository](https://github.com/kevmo314/magic-copy)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-13 | 595 | 38 | 
+| 2023-04-14 | 941 | 50 | 
+| 2023-04-13 | 914 | 50 | 
 | 2023-04-12 | 565 | 35 | 
 | 2023-04-11 | 233 | 12 | 
 
