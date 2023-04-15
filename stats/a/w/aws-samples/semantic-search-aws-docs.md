@@ -1,10 +1,10 @@
 # aws-samples/semantic-search-aws-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/aws-samples/semantic-search-aws-docs)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 102 | 3 | 
 | 2023-04-13 | 101 | 3 | 
 

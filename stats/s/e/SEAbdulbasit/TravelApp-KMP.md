@@ -1,10 +1,10 @@
 # SEAbdulbasit/TravelApp-KMP - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 275
+★ Stars: 281
 
 [Open repository](https://github.com/SEAbdulbasit/TravelApp-KMP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 281 | 25 | 
 | 2023-04-13 | 275 | 24 | 
 | 2023-04-12 | 274 | 24 | 
 | 2023-04-11 | 274 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 262 | 23 | 
 | 2023-03-17 | 260 | 23 | 
 | 2023-03-16 | 260 | 23 | 
-| 2023-03-15 | 260 | 23 | 
 

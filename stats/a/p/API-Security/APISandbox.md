@@ -1,10 +1,10 @@
 # API-Security/APISandbox - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 48
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/API-Security/APISandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 341 | 48 | 
 | 2023-04-13 | 340 | 48 | 
 | 2023-04-12 | 339 | 48 | 
 | 2023-04-11 | 339 | 48 | 

@@ -1,10 +1,10 @@
 # fscarmen2/Argo-Nezha-Service-Container - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/fscarmen2/Argo-Nezha-Service-Container)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 16 | 29 | 
 | 2023-04-13 | 15 | 28 | 
 | 2023-04-12 | 15 | 24 | 
 

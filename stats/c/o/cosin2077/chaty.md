@@ -1,10 +1,10 @@
 # cosin2077/chaty - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 41
 
-★ Stars: 426
+★ Stars: 428
 
 [Open repository](https://github.com/cosin2077/chaty)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 428 | 41 | 
 | 2023-04-13 | 426 | 41 | 
 | 2023-04-12 | 424 | 40 | 
 | 2023-04-11 | 421 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 332 | 28 | 
 | 2023-03-18 | 326 | 28 | 
 | 2023-03-16 | 217 | 21 | 
-| 2023-03-15 | 211 | 20 | 
 

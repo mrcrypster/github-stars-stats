@@ -1,10 +1,10 @@
 # visual-openllm/visual-openllm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 75
+☋ Forks: 79
 
-★ Stars: 777
+★ Stars: 786
 
 [Open repository](https://github.com/visual-openllm/visual-openllm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 786 | 79 | 
 | 2023-04-13 | 777 | 75 | 
 | 2023-04-12 | 764 | 71 | 
 | 2023-04-10 | 754 | 71 | 

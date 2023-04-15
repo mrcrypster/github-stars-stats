@@ -1,6 +1,6 @@
 # ProgrammingHero1/responsive-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 25 | 8 | 
 | 2023-04-13 | 25 | 8 | 
 | 2023-04-12 | 25 | 8 | 
 | 2023-04-11 | 25 | 8 | 

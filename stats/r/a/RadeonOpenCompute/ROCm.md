@@ -1,10 +1,10 @@
 # RadeonOpenCompute/ROCm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 236
 
-★ Stars: 2862
+★ Stars: 2869
 
 [Open repository](https://github.com/RadeonOpenCompute/ROCm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2869 | 236 | 
 | 2023-04-13 | 2862 | 236 | 
 | 2023-04-12 | 2860 | 236 | 
 | 2023-04-11 | 2856 | 236 | 

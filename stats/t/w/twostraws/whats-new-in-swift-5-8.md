@@ -1,10 +1,10 @@
 # twostraws/whats-new-in-swift-5-8 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/twostraws/whats-new-in-swift-5-8)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 106 | 4 | 
 | 2023-04-13 | 105 | 4 | 
 | 2023-04-12 | 105 | 4 | 
 | 2023-04-11 | 105 | 4 | 

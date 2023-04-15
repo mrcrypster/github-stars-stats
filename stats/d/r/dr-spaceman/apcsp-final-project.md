@@ -1,6 +1,6 @@
 # dr-spaceman/apcsp-final-project - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 40 | 53 | 
 | 2023-04-13 | 40 | 53 | 
 | 2023-04-12 | 40 | 53 | 
 | 2023-04-11 | 40 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 40 | 53 | 
 | 2023-03-18 | 40 | 53 | 
 | 2023-03-17 | 40 | 53 | 
-| 2023-03-15 | 40 | 53 | 
 

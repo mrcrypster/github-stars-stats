@@ -1,10 +1,10 @@
 # turnly/turnly - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 18
 
-★ Stars: 283
+★ Stars: 282
 
 [Open repository](https://github.com/turnly/turnly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 282 | 18 | 
 | 2023-04-13 | 283 | 18 | 
 | 2023-04-12 | 283 | 18 | 
 | 2023-04-10 | 282 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 276 | 18 | 
 | 2023-03-18 | 276 | 18 | 
 | 2023-03-16 | 276 | 18 | 
-| 2023-03-15 | 276 | 18 | 
 

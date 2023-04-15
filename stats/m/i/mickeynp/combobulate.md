@@ -1,6 +1,6 @@
 # mickeynp/combobulate - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 438 | 14 | 
 | 2023-04-13 | 438 | 14 | 
 | 2023-04-12 | 438 | 14 | 
 | 2023-04-11 | 438 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 425 | 14 | 
 | 2023-03-18 | 423 | 13 | 
 | 2023-03-16 | 423 | 13 | 
-| 2023-03-15 | 423 | 13 | 
 

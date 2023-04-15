@@ -1,8 +1,8 @@
 # khuyentran1401/Data-science - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 928
+☋ Forks: 930
 
 ★ Stars: 3573
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3573 | 930 | 
 | 2023-04-13 | 3573 | 928 | 
 | 2023-04-12 | 3571 | 928 | 
 | 2023-04-11 | 3567 | 928 | 

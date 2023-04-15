@@ -1,8 +1,8 @@
 # databricks/spark-redshift - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 340
+☋ Forks: 341
 
 ★ Stars: 591
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 591 | 341 | 
 | 2023-04-13 | 591 | 340 | 
 | 2023-04-12 | 591 | 340 | 
 | 2023-04-11 | 591 | 340 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 589 | 340 | 
 | 2023-03-17 | 589 | 340 | 
 | 2023-03-16 | 589 | 340 | 
-| 2023-03-15 | 589 | 340 | 
 

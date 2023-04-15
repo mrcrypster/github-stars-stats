@@ -1,10 +1,10 @@
 # gelstudios/gitfiti - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1055
+☋ Forks: 1056
 
-★ Stars: 7597
+★ Stars: 7599
 
 [Open repository](https://github.com/gelstudios/gitfiti)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 7599 | 1056 | 
 | 2023-04-13 | 7597 | 1055 | 
 | 2023-04-12 | 7597 | 1055 | 
 | 2023-04-11 | 7595 | 1056 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 7560 | 1052 | 
 | 2023-03-18 | 7558 | 1050 | 
 | 2023-03-17 | 7553 | 1050 | 
-| 2023-03-15 | 7553 | 1050 | 
 

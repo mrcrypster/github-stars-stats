@@ -1,10 +1,10 @@
 # NVIDIA/Fuser - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 15
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/NVIDIA/Fuser)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 86 | 15 | 
 | 2023-04-13 | 85 | 15 | 
 | 2023-04-12 | 85 | 15 | 
 | 2023-04-11 | 85 | 15 | 

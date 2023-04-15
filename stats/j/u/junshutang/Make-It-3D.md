@@ -1,10 +1,10 @@
 # junshutang/Make-It-3D - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 471
+★ Stars: 478
 
 [Open repository](https://github.com/junshutang/Make-It-3D)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 478 | 8 | 
 | 2023-04-13 | 471 | 8 | 
 | 2023-04-12 | 467 | 8 | 
 | 2023-04-11 | 461 | 8 | 

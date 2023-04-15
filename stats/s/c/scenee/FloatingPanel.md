@@ -1,10 +1,10 @@
 # scenee/FloatingPanel - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 431
 
-★ Stars: 5250
+★ Stars: 5251
 
 [Open repository](https://github.com/scenee/FloatingPanel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 5251 | 431 | 
 | 2023-04-13 | 5250 | 431 | 
 | 2023-04-12 | 5248 | 431 | 
 | 2023-04-11 | 5246 | 431 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 5224 | 431 | 
 | 2023-03-17 | 5223 | 431 | 
 | 2023-03-16 | 5221 | 431 | 
-| 2023-03-15 | 5221 | 431 | 
 

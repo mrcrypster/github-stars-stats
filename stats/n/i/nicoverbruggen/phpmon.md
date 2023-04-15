@@ -1,6 +1,6 @@
 # nicoverbruggen/phpmon - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2633 | 46 | 
 | 2023-04-13 | 2633 | 46 | 
 | 2023-04-12 | 2631 | 46 | 
 | 2023-04-11 | 2628 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2593 | 44 | 
 | 2023-03-18 | 2591 | 44 | 
 | 2023-03-17 | 2581 | 44 | 
-| 2023-03-15 | 2575 | 44 | 
 

@@ -1,10 +1,10 @@
 # ycanga/Patient-Search-System - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ycanga/Patient-Search-System)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 17 | 9 | 
 | 2023-04-13 | 16 | 9 | 
 | 2023-04-12 | 16 | 9 | 
 | 2023-04-11 | 16 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 15 | 9 | 
 | 2023-03-17 | 15 | 9 | 
 | 2023-03-16 | 15 | 9 | 
-| 2023-03-15 | 15 | 9 | 
 

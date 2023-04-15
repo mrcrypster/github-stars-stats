@@ -1,10 +1,10 @@
 # luiztools-cursos/web3-week-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 7
+☋ Forks: 9
 
-★ Stars: 13
+★ Stars: 16
 
 [Open repository](https://github.com/luiztools-cursos/web3-week-1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 16 | 9 | 
 | 2023-04-13 | 13 | 7 | 
 | 2023-04-12 | 12 | 7 | 
 

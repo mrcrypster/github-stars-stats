@@ -1,6 +1,6 @@
 # full-stack-deep-learning/fsdl-text-recognizer-2022-labs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 268 | 136 | 
 | 2023-04-13 | 268 | 136 | 
 | 2023-04-12 | 267 | 136 | 
 | 2023-04-11 | 265 | 136 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 255 | 127 | 
 | 2023-03-17 | 255 | 127 | 
 | 2023-03-16 | 255 | 127 | 
-| 2023-03-15 | 255 | 127 | 
 

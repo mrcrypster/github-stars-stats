@@ -1,10 +1,10 @@
 # wanghuohuo0716/hybrid_A_star - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 93
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/wanghuohuo0716/hybrid_A_star)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 204 | 93 | 
 | 2023-04-13 | 203 | 93 | 
 | 2023-04-12 | 202 | 93 | 
 | 2023-04-11 | 202 | 93 | 

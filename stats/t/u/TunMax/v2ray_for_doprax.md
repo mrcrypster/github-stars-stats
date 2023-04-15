@@ -1,8 +1,8 @@
 # TunMax/v2ray_for_doprax - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 18
+☋ Forks: 20
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 5 | 20 | 
 | 2023-04-13 | 5 | 18 | 
 | 2023-04-12 | 5 | 19 | 
 | 2023-04-11 | 5 | 19 | 

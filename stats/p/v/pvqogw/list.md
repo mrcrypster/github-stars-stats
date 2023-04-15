@@ -1,10 +1,10 @@
 # pvqogw/list - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 84
 
-★ Stars: 455
+★ Stars: 456
 
 [Open repository](https://github.com/pvqogw/list)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 456 | 84 | 
 | 2023-04-13 | 455 | 84 | 
 | 2023-04-12 | 454 | 83 | 
 | 2023-04-11 | 453 | 83 | 

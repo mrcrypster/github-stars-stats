@@ -1,10 +1,10 @@
 # apache/lucene - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 699
+☋ Forks: 700
 
-★ Stars: 1622
+★ Stars: 1625
 
 [Open repository](https://github.com/apache/lucene)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1625 | 700 | 
 | 2023-04-13 | 1622 | 699 | 
 | 2023-04-12 | 1617 | 698 | 
 | 2023-04-11 | 1615 | 698 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1554 | 675 | 
 | 2023-03-17 | 1552 | 675 | 
 | 2023-03-16 | 1547 | 672 | 
-| 2023-03-15 | 1546 | 669 | 
 

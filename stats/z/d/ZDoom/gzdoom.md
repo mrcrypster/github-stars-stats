@@ -1,10 +1,10 @@
 # ZDoom/gzdoom - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 453
+☋ Forks: 454
 
-★ Stars: 1764
+★ Stars: 1765
 
 [Open repository](https://github.com/ZDoom/gzdoom)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1765 | 454 | 
 | 2023-04-13 | 1764 | 453 | 
 | 2023-04-12 | 1760 | 454 | 
 | 2023-04-11 | 1760 | 454 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1743 | 449 | 
 | 2023-03-18 | 1742 | 449 | 
 | 2023-03-17 | 1742 | 449 | 
-| 2023-03-15 | 1741 | 449 | 
 

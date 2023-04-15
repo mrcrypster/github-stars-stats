@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-container-vm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 134 | 74 | 
 | 2023-04-13 | 134 | 74 | 
 | 2023-04-12 | 134 | 74 | 
 | 2023-04-11 | 134 | 74 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 130 | 74 | 
 | 2023-03-17 | 130 | 74 | 
 | 2023-03-16 | 130 | 74 | 
-| 2023-03-15 | 130 | 74 | 
 

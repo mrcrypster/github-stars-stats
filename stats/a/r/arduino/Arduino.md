@@ -1,6 +1,6 @@
 # arduino/Arduino - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7080
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 13495 | 7080 | 
 | 2023-04-13 | 13495 | 7080 | 
 | 2023-04-12 | 13488 | 7080 | 
 | 2023-04-11 | 13486 | 7080 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 13459 | 7083 | 
 | 2023-03-18 | 13457 | 7082 | 
 | 2023-03-16 | 13452 | 7081 | 
-| 2023-03-15 | 13447 | 7081 | 
 

@@ -1,10 +1,10 @@
 # TheAlgorithms/Java - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 16893
+☋ Forks: 16908
 
-★ Stars: 51235
+★ Stars: 51257
 
 [Open repository](https://github.com/TheAlgorithms/Java)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 51257 | 16908 | 
 | 2023-04-13 | 51235 | 16893 | 
 | 2023-04-12 | 51204 | 16875 | 
 | 2023-04-11 | 51161 | 16851 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 50752 | 16708 | 
 | 2023-03-18 | 50739 | 16705 | 
 | 2023-03-16 | 50720 | 16702 | 
-| 2023-03-15 | 50705 | 16693 | 
 

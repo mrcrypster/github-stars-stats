@@ -1,8 +1,8 @@
 # github/super-linter - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1004
+☋ Forks: 1007
 
 ★ Stars: 8658
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 8658 | 1007 | 
 | 2023-04-13 | 8658 | 1004 | 
 | 2023-04-12 | 8656 | 1003 | 
 | 2023-04-11 | 8649 | 1001 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 8601 | 986 | 
 | 2023-03-17 | 8598 | 986 | 
 | 2023-03-16 | 8594 | 985 | 
-| 2023-03-15 | 8594 | 985 | 
 

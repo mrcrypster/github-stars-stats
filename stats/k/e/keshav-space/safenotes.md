@@ -1,10 +1,10 @@
 # keshav-space/safenotes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 20
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/keshav-space/safenotes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 149 | 20 | 
 | 2023-04-13 | 148 | 20 | 
 | 2023-04-12 | 144 | 20 | 
 | 2023-04-11 | 144 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 141 | 19 | 
 | 2023-03-18 | 141 | 19 | 
 | 2023-03-17 | 141 | 19 | 
-| 2023-03-16 | 140 | 19 | 
 

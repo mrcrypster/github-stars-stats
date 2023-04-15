@@ -1,10 +1,10 @@
 # veo/wsMemShell - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 200
 
-★ Stars: 1134
+★ Stars: 1135
 
 [Open repository](https://github.com/veo/wsMemShell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1135 | 200 | 
 | 2023-04-13 | 1134 | 200 | 
 | 2023-04-12 | 1132 | 200 | 
 | 2023-04-11 | 1130 | 200 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1104 | 193 | 
 | 2023-03-18 | 1104 | 193 | 
 | 2023-03-17 | 1101 | 193 | 
-| 2023-03-15 | 1099 | 193 | 
 

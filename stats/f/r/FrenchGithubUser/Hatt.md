@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/FrenchGithubUser/Hatt)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 253 | 7 | 
+| 2023-04-14 | 254 | 7 | 
 | 2023-04-13 | 251 | 7 | 
 | 2023-04-12 | 224 | 7 | 
 | 2023-04-11 | 222 | 7 | 

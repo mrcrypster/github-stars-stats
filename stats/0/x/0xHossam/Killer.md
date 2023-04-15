@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 37
+☋ Forks: 39
 
-★ Stars: 257
+★ Stars: 267
 
 [Open repository](https://github.com/0xHossam/Killer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 257 | 37 | 
+| 2023-04-14 | 267 | 39 | 
 | 2023-04-13 | 255 | 37 | 
 | 2023-04-12 | 215 | 31 | 
 

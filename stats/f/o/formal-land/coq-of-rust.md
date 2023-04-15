@@ -1,6 +1,6 @@
 # formal-land/coq-of-rust - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 30 | 1 | 
 | 2023-04-13 | 30 | 1 | 
 | 2023-04-12 | 28 | 1 | 
 | 2023-04-11 | 29 | 1 | 

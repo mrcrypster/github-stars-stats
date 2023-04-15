@@ -1,6 +1,6 @@
 # ironsource-mobile/Mediation-Demo-Apps - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 27 | 27 | 
 | 2023-04-13 | 27 | 27 | 
 | 2023-04-12 | 27 | 27 | 
 | 2023-04-11 | 27 | 27 | 

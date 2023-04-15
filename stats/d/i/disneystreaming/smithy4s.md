@@ -1,6 +1,6 @@
 # disneystreaming/smithy4s - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 249 | 40 | 
 | 2023-04-13 | 249 | 40 | 
 | 2023-04-12 | 249 | 40 | 
 | 2023-04-11 | 248 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 242 | 39 | 
 | 2023-03-17 | 242 | 39 | 
 | 2023-03-16 | 242 | 39 | 
-| 2023-03-15 | 242 | 39 | 
 

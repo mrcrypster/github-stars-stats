@@ -1,10 +1,10 @@
 # Wilfred/elisp-def - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/Wilfred/elisp-def)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 60 | 6 | 
 | 2023-04-13 | 59 | 6 | 
 | 2023-04-12 | 59 | 6 | 
 | 2023-04-11 | 59 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 59 | 6 | 
 | 2023-03-18 | 59 | 6 | 
 | 2023-03-17 | 59 | 6 | 
-| 2023-03-16 | 59 | 6 | 
 

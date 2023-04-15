@@ -1,8 +1,8 @@
 # CommandCrafterHD/Fallout4TerminalTheme - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 121
+☋ Forks: 126
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 31 | 126 | 
 | 2023-04-13 | 31 | 121 | 
 | 2023-04-12 | 31 | 120 | 
 | 2023-04-11 | 31 | 118 | 

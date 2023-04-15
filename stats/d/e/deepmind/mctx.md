@@ -1,10 +1,10 @@
 # deepmind/mctx - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 150
 
-★ Stars: 1832
+★ Stars: 1835
 
 [Open repository](https://github.com/deepmind/mctx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1835 | 150 | 
 | 2023-04-13 | 1832 | 150 | 
 | 2023-04-12 | 1829 | 150 | 
 | 2023-04-11 | 1827 | 150 | 

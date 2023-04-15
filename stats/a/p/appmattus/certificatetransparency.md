@@ -1,6 +1,6 @@
 # appmattus/certificatetransparency - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 96 | 24 | 
 | 2023-04-13 | 96 | 24 | 
 | 2023-04-12 | 95 | 24 | 
 | 2023-04-11 | 94 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 89 | 22 | 
 | 2023-03-17 | 89 | 22 | 
 | 2023-03-16 | 89 | 22 | 
-| 2023-03-15 | 88 | 22 | 
 

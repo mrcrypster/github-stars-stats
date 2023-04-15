@@ -1,10 +1,10 @@
 # bitloops/ddd-hexagonal-cqrs-es-eda - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 661
+★ Stars: 675
 
 [Open repository](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 675 | 32 | 
 | 2023-04-13 | 661 | 31 | 
 | 2023-04-12 | 652 | 30 | 
 | 2023-04-11 | 648 | 29 | 

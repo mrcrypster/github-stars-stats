@@ -1,6 +1,6 @@
 # dukelec/cd_pnp - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 131 | 19 | 
 | 2023-04-13 | 131 | 19 | 
 | 2023-04-12 | 131 | 19 | 
 | 2023-04-11 | 129 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 104 | 17 | 
 | 2023-03-18 | 102 | 16 | 
 | 2023-03-17 | 100 | 16 | 
-| 2023-03-15 | 97 | 15 | 
 

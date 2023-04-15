@@ -1,10 +1,10 @@
 # gookit/goutil - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 146
 
-★ Stars: 1290
+★ Stars: 1292
 
 [Open repository](https://github.com/gookit/goutil)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1292 | 146 | 
 | 2023-04-13 | 1290 | 146 | 
 | 2023-04-12 | 1287 | 146 | 
 | 2023-04-11 | 1284 | 145 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1258 | 138 | 
 | 2023-03-18 | 1256 | 138 | 
 | 2023-03-16 | 1253 | 138 | 
-| 2023-03-15 | 1253 | 138 | 
 

@@ -1,10 +1,10 @@
 # WassimTenachi/PhySO - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 177
+☋ Forks: 178
 
-★ Stars: 1348
+★ Stars: 1355
 
 [Open repository](https://github.com/WassimTenachi/PhySO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1355 | 178 | 
 | 2023-04-13 | 1348 | 177 | 
 | 2023-04-12 | 1345 | 177 | 
 | 2023-04-11 | 1342 | 177 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 890 | 121 | 
 | 2023-03-17 | 869 | 116 | 
 | 2023-03-16 | 769 | 101 | 
-| 2023-03-15 | 569 | 64 | 
 

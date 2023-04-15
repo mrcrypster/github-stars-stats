@@ -1,8 +1,8 @@
 # composer/satis - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 501
+☋ Forks: 502
 
 ★ Stars: 2945
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2945 | 502 | 
 | 2023-04-13 | 2945 | 501 | 
 | 2023-04-12 | 2945 | 501 | 
 | 2023-04-11 | 2942 | 500 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2932 | 500 | 
 | 2023-03-18 | 2932 | 500 | 
 | 2023-03-17 | 2930 | 499 | 
-| 2023-03-15 | 2930 | 499 | 
 

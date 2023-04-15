@@ -1,6 +1,6 @@
 # picturepan2/instagram.css - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3990 | 244 | 
 | 2023-04-13 | 3990 | 244 | 
 | 2023-04-12 | 3988 | 244 | 
 | 2023-04-11 | 3988 | 244 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3988 | 243 | 
 | 2023-03-18 | 3988 | 243 | 
 | 2023-03-17 | 3989 | 243 | 
-| 2023-03-15 | 3989 | 243 | 
 

@@ -1,10 +1,10 @@
 # VainF/Awesome-Anything - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 19
+☋ Forks: 23
 
-★ Stars: 545
+★ Stars: 694
 
 [Open repository](https://github.com/VainF/Awesome-Anything)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 545 | 19 | 
+| 2023-04-15 | 694 | 23 | 
+| 2023-04-14 | 678 | 23 | 
 | 2023-04-13 | 535 | 19 | 
 

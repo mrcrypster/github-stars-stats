@@ -1,10 +1,10 @@
 # tsloughter/grpcbox - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 54
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/tsloughter/grpcbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 125 | 54 | 
 | 2023-04-13 | 124 | 54 | 
 | 2023-04-12 | 124 | 54 | 
 | 2023-04-11 | 124 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 123 | 53 | 
 | 2023-03-18 | 123 | 53 | 
 | 2023-03-16 | 123 | 52 | 
-| 2023-03-15 | 123 | 52 | 
 

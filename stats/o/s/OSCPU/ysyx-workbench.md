@@ -1,8 +1,8 @@
 # OSCPU/ysyx-workbench - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 40
+☋ Forks: 42
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 43 | 42 | 
 | 2023-04-13 | 43 | 40 | 
 | 2023-04-12 | 43 | 40 | 
 | 2023-04-11 | 43 | 40 | 

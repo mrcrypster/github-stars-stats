@@ -1,6 +1,6 @@
 # sferik/twitter - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1282
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4513 | 1282 | 
 | 2023-04-13 | 4513 | 1282 | 
 | 2023-04-12 | 4513 | 1281 | 
 | 2023-04-11 | 4511 | 1280 | 

@@ -1,10 +1,10 @@
 # michael/editable-website - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 43
 
-★ Stars: 647
+★ Stars: 660
 
 [Open repository](https://github.com/michael/editable-website)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 660 | 43 | 
 | 2023-04-13 | 647 | 43 | 
 | 2023-04-12 | 638 | 42 | 
 | 2023-04-11 | 637 | 42 | 

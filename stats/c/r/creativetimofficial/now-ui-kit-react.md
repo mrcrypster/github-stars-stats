@@ -1,8 +1,8 @@
 # creativetimofficial/now-ui-kit-react - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 202
+☋ Forks: 203
 
 ★ Stars: 139
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 139 | 203 | 
 | 2023-04-13 | 139 | 202 | 
 | 2023-04-12 | 139 | 199 | 
 | 2023-04-11 | 139 | 198 | 

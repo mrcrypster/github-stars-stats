@@ -1,10 +1,10 @@
 # LinwoodCloud/Butterfly - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 24
 
-★ Stars: 382
+★ Stars: 384
 
 [Open repository](https://github.com/LinwoodCloud/Butterfly)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 384 | 24 | 
 | 2023-04-13 | 382 | 24 | 
 | 2023-04-12 | 381 | 23 | 
 | 2023-04-11 | 381 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 366 | 22 | 
 | 2023-03-17 | 366 | 22 | 
 | 2023-03-16 | 364 | 22 | 
-| 2023-03-15 | 363 | 22 | 
 

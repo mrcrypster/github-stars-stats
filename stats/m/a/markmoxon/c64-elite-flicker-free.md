@@ -1,6 +1,6 @@
 # markmoxon/c64-elite-flicker-free - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 59 | 1 | 
 | 2023-04-13 | 59 | 1 | 
 | 2023-04-12 | 58 | 1 | 
 | 2023-04-11 | 58 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 57 | 1 | 
 | 2023-03-17 | 57 | 1 | 
 | 2023-03-16 | 57 | 1 | 
-| 2023-03-15 | 57 | 1 | 
 

@@ -1,6 +1,6 @@
 # quran/quran.com-images - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 317 | 119 | 
 | 2023-04-13 | 317 | 119 | 
 | 2023-04-12 | 315 | 119 | 
 | 2023-04-11 | 315 | 119 | 

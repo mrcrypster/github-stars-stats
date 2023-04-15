@@ -1,10 +1,10 @@
 # coditori/highly-skilled-job-offers - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 21
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/coditori/highly-skilled-job-offers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 282 | 21 | 
 | 2023-04-13 | 281 | 21 | 
 | 2023-04-12 | 281 | 21 | 
 | 2023-04-11 | 280 | 21 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 274 | 21 | 
 | 2023-03-17 | 274 | 21 | 
 | 2023-03-16 | 272 | 21 | 
-| 2023-03-15 | 272 | 21 | 
 

@@ -1,10 +1,10 @@
 # qwopqwop200/GPTQ-for-LLaMa - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 194
+☋ Forks: 200
 
-★ Stars: 1320
+★ Stars: 1337
 
 [Open repository](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1337 | 200 | 
 | 2023-04-13 | 1320 | 194 | 
 | 2023-04-12 | 1297 | 190 | 
 | 2023-04-11 | 1258 | 182 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 569 | 64 | 
 | 2023-03-18 | 542 | 59 | 
 | 2023-03-17 | 502 | 54 | 
-| 2023-03-15 | 472 | 52 | 
 

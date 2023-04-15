@@ -1,6 +1,6 @@
 # AllanWang/Frost-for-Facebook - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 944 | 88 | 
 | 2023-04-13 | 944 | 88 | 
 | 2023-04-12 | 944 | 88 | 
 | 2023-04-11 | 943 | 88 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 932 | 86 | 
 | 2023-03-18 | 931 | 86 | 
 | 2023-03-17 | 931 | 86 | 
-| 2023-03-15 | 932 | 86 | 
 

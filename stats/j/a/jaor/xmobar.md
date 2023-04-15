@@ -1,6 +1,6 @@
 # jaor/xmobar - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 773 | 202 | 
 | 2023-04-13 | 773 | 202 | 
 | 2023-04-12 | 773 | 202 | 
 | 2023-04-11 | 773 | 202 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 773 | 202 | 
 | 2023-03-18 | 773 | 202 | 
 | 2023-03-17 | 773 | 202 | 
-| 2023-03-15 | 774 | 202 | 
 

@@ -1,10 +1,10 @@
 # OPCFoundation/UA-.NETStandard - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 832
+☋ Forks: 833
 
-★ Stars: 1595
+★ Stars: 1596
 
 [Open repository](https://github.com/OPCFoundation/UA-.NETStandard)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1596 | 833 | 
 | 2023-04-13 | 1595 | 832 | 
 | 2023-04-12 | 1593 | 832 | 
 | 2023-04-11 | 1593 | 831 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1576 | 825 | 
 | 2023-03-18 | 1576 | 824 | 
 | 2023-03-16 | 1573 | 824 | 
-| 2023-03-15 | 1573 | 824 | 
 

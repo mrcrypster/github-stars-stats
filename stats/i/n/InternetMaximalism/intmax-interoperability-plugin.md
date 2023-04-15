@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/InternetMaximalism/intmax-interoperability-plugin)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | - | - | 
+| 2023-04-14 | 1 | - | 
 | 2023-04-13 | - | - | 
 

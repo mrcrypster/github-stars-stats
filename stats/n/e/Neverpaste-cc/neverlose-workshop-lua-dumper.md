@@ -1,10 +1,10 @@
 # Neverpaste-cc/neverlose-workshop-lua-dumper - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 32
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/Neverpaste-cc/neverlose-workshop-lua-dumper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 30 | 32 | 
 | 2023-04-13 | 28 | 32 | 
 | 2023-04-12 | 28 | 32 | 
 

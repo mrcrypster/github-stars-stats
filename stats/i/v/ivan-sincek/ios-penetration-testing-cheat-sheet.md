@@ -1,10 +1,10 @@
 # ivan-sincek/ios-penetration-testing-cheat-sheet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 112
+★ Stars: 117
 
 [Open repository](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 117 | 22 | 
 | 2023-04-13 | 112 | 20 | 
 | 2023-04-12 | 110 | 20 | 
 

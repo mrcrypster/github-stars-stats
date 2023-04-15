@@ -1,6 +1,6 @@
 # Kooklen/vue-music-player - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 56 | 18 | 
 | 2023-04-13 | 56 | 18 | 
 | 2023-04-12 | 56 | 18 | 
 | 2023-04-10 | 56 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 56 | 18 | 
 | 2023-03-18 | 56 | 18 | 
 | 2023-03-16 | 56 | 18 | 
-| 2023-03-15 | 56 | 18 | 
 

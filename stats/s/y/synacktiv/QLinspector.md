@@ -1,6 +1,6 @@
 # synacktiv/QLinspector - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 121 | 12 | 
 | 2023-04-13 | 121 | 12 | 
 | 2023-04-12 | 121 | 12 | 
 | 2023-04-11 | 121 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 120 | 11 | 
 | 2023-03-17 | 120 | 11 | 
 | 2023-03-16 | 120 | 11 | 
-| 2023-03-15 | 120 | 11 | 
 

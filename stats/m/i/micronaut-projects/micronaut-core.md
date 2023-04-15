@@ -1,6 +1,6 @@
 # micronaut-projects/micronaut-core - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 970
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 5662 | 970 | 
 | 2023-04-13 | 5662 | 970 | 
 | 2023-04-12 | 5659 | 971 | 
 | 2023-04-10 | 5658 | 971 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 5631 | 964 | 
 | 2023-03-18 | 5632 | 964 | 
 | 2023-03-17 | 5628 | 964 | 
-| 2023-03-15 | 5627 | 965 | 
 

@@ -1,8 +1,8 @@
 # ant-design-blazor/ant-design-blazor - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 803
+☋ Forks: 804
 
 ★ Stars: 4895
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4895 | 804 | 
 | 2023-04-13 | 4895 | 803 | 
 | 2023-04-12 | 4892 | 802 | 
 | 2023-04-11 | 4888 | 800 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 4857 | 786 | 
 | 2023-03-18 | 4854 | 785 | 
 | 2023-03-17 | 4851 | 784 | 
-| 2023-03-15 | 4851 | 783 | 
 

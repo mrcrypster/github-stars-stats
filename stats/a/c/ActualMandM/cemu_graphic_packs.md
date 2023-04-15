@@ -1,8 +1,8 @@
 # ActualMandM/cemu_graphic_packs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 589
+☋ Forks: 588
 
 ★ Stars: 1150
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1150 | 588 | 
 | 2023-04-13 | 1150 | 589 | 
 | 2023-04-12 | 1150 | 589 | 
 | 2023-04-11 | 1150 | 589 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1138 | 588 | 
 | 2023-03-18 | 1137 | 588 | 
 | 2023-03-16 | 1137 | 588 | 
-| 2023-03-15 | 1136 | 589 | 
 

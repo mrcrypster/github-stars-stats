@@ -1,6 +1,6 @@
 # cohere-ai/sandbox-topically - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 177 | 14 | 
 | 2023-04-13 | 177 | 14 | 
 | 2023-04-12 | 177 | 14 | 
 | 2023-04-11 | 177 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 174 | 14 | 
 | 2023-03-18 | 174 | 14 | 
 | 2023-03-16 | 174 | 14 | 
-| 2023-03-15 | 174 | 14 | 
 

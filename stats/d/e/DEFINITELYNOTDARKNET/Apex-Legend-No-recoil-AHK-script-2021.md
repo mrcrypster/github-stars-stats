@@ -1,6 +1,6 @@
 # DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 27 | 29 | 
 | 2023-04-13 | 27 | 29 | 
 | 2023-04-12 | 27 | 29 | 
 | 2023-04-11 | 27 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 28 | 28 | 
 | 2023-03-18 | 28 | 28 | 
 | 2023-03-16 | 28 | 28 | 
-| 2023-03-15 | 28 | 28 | 
 

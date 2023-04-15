@@ -1,6 +1,6 @@
 # vdespa/Postman-Complete-Guide-API-Testing - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 62 | 78 | 
 | 2023-04-13 | 62 | 78 | 
 | 2023-04-12 | 62 | 78 | 
 | 2023-04-11 | 62 | 78 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 54 | 61 | 
 | 2023-03-17 | 54 | 61 | 
 | 2023-03-16 | 54 | 61 | 
-| 2023-03-15 | 52 | 61 | 
 

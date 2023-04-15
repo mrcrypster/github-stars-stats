@@ -1,10 +1,10 @@
 # dabit3/polygon-ethereum-nextjs-marketplace - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 786
 
-★ Stars: 1190
+★ Stars: 1192
 
 [Open repository](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1192 | 786 | 
 | 2023-04-13 | 1190 | 786 | 
 | 2023-04-12 | 1190 | 784 | 
 | 2023-04-11 | 1190 | 783 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1185 | 778 | 
 | 2023-03-18 | 1185 | 778 | 
 | 2023-03-17 | 1182 | 778 | 
-| 2023-03-16 | 1181 | 778 | 
 

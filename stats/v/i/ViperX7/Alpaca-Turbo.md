@@ -1,10 +1,10 @@
 # ViperX7/Alpaca-Turbo - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 77
+☋ Forks: 80
 
-★ Stars: 664
+★ Stars: 692
 
 [Open repository](https://github.com/ViperX7/Alpaca-Turbo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 692 | 80 | 
 | 2023-04-13 | 664 | 77 | 
 | 2023-04-12 | 628 | 70 | 
 | 2023-04-11 | 608 | 70 | 

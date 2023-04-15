@@ -1,6 +1,6 @@
 # amigoscode/microservices - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 347
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 368 | 347 | 
 | 2023-04-13 | 368 | 347 | 
 | 2023-04-12 | 367 | 347 | 
 | 2023-04-11 | 367 | 346 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 360 | 334 | 
 | 2023-03-18 | 358 | 334 | 
 | 2023-03-16 | 357 | 333 | 
-| 2023-03-15 | 356 | 333 | 
 

@@ -1,10 +1,10 @@
 # easychen/openai-gpt-dev-notes-for-cn-developer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 63
 
-★ Stars: 1001
+★ Stars: 1013
 
 [Open repository](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1013 | 63 | 
 | 2023-04-13 | 1001 | 63 | 
 | 2023-04-12 | 992 | 63 | 
 | 2023-04-11 | 978 | 61 | 

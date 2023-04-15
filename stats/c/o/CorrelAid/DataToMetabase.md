@@ -1,10 +1,10 @@
 # CorrelAid/DataToMetabase - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/CorrelAid/DataToMetabase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 56 | 31 | 
 | 2023-04-13 | 55 | 31 | 
 | 2023-04-11 | 55 | 31 | 
 | 2023-04-10 | 57 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 59 | 31 | 
 | 2023-03-17 | 60 | 31 | 
 | 2023-03-16 | 60 | 31 | 
-| 2023-03-15 | 60 | 31 | 
 

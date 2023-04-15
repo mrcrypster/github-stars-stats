@@ -1,8 +1,8 @@
 # ygminds73/terraform_rds - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1 | 48 | 
 | 2023-04-13 | 1 | 47 | 
 | 2023-04-12 | 1 | 47 | 
 | 2023-04-11 | 1 | 46 | 

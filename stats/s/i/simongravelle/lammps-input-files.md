@@ -1,6 +1,6 @@
 # simongravelle/lammps-input-files - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 106 | 63 | 
 | 2023-04-13 | 106 | 63 | 
 | 2023-04-11 | 104 | 63 | 
 | 2023-04-10 | 104 | 63 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 100 | 62 | 
 | 2023-03-18 | 99 | 62 | 
 | 2023-03-17 | 99 | 62 | 
-| 2023-03-16 | 98 | 62 | 
 

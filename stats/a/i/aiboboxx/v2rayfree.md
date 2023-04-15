@@ -1,10 +1,10 @@
 # aiboboxx/v2rayfree - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 182
 
-★ Stars: 1721
+★ Stars: 1730
 
 [Open repository](https://github.com/aiboboxx/v2rayfree)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1730 | 182 | 
 | 2023-04-13 | 1721 | 182 | 
 | 2023-04-12 | 1716 | 182 | 
 | 2023-04-11 | 1710 | 182 | 

@@ -1,6 +1,6 @@
 # whitenois3/huff-snark-verifier - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 106 | 5 | 
 | 2023-04-13 | 106 | 5 | 
 | 2023-04-12 | 106 | 5 | 
 | 2023-04-11 | 106 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 104 | 5 | 
 | 2023-03-18 | 103 | 5 | 
 | 2023-03-16 | 103 | 5 | 
-| 2023-03-15 | 103 | 5 | 
 

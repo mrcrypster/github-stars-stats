@@ -1,10 +1,10 @@
 # edk2-porting/edk2-msm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 359
 
-★ Stars: 1997
+★ Stars: 2000
 
 [Open repository](https://github.com/edk2-porting/edk2-msm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2000 | 359 | 
 | 2023-04-13 | 1997 | 359 | 
 | 2023-04-12 | 1997 | 359 | 
 | 2023-04-11 | 1995 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1969 | 352 | 
 | 2023-03-17 | 1969 | 352 | 
 | 2023-03-16 | 1968 | 352 | 
-| 2023-03-15 | 1968 | 352 | 
 

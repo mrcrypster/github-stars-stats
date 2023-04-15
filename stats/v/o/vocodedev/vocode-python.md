@@ -1,10 +1,10 @@
 # vocodedev/vocode-python - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 55
+☋ Forks: 57
 
-★ Stars: 992
+★ Stars: 1019
 
 [Open repository](https://github.com/vocodedev/vocode-python)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1019 | 57 | 
 | 2023-04-13 | 992 | 55 | 
 | 2023-04-12 | 984 | 53 | 
 | 2023-04-11 | 973 | 51 | 

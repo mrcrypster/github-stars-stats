@@ -1,10 +1,10 @@
 # microsoft/component-detection - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 41
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/microsoft/component-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 256 | 41 | 
 | 2023-04-13 | 255 | 41 | 
 | 2023-04-12 | 255 | 41 | 
 | 2023-04-11 | 255 | 41 | 

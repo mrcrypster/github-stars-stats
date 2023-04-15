@@ -1,10 +1,10 @@
 # cybertec-postgresql/pgwatch2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 215
 
-★ Stars: 1508
+★ Stars: 1509
 
 [Open repository](https://github.com/cybertec-postgresql/pgwatch2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1509 | 215 | 
 | 2023-04-13 | 1508 | 215 | 
 | 2023-04-12 | 1506 | 215 | 
 | 2023-04-11 | 1504 | 215 | 

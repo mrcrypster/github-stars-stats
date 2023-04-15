@@ -1,10 +1,10 @@
 # YBIFoundation/Fundamental - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 234
+★ Stars: 236
 
 [Open repository](https://github.com/YBIFoundation/Fundamental)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 236 | 199 | 
 | 2023-04-13 | 234 | 198 | 
 | 2023-04-12 | 232 | 197 | 
 | 2023-04-11 | 228 | 196 | 

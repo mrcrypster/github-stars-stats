@@ -1,10 +1,10 @@
 # OptimalScale/LMFlow - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 385
+☋ Forks: 401
 
-★ Stars: 4120
+★ Stars: 4199
 
 [Open repository](https://github.com/OptimalScale/LMFlow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4199 | 401 | 
 | 2023-04-13 | 4120 | 385 | 
 | 2023-04-12 | 4046 | 375 | 
 | 2023-04-11 | 3952 | 360 | 

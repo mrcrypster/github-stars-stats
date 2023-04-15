@@ -1,10 +1,10 @@
 # keycloak/keycloak-quickstarts - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 849
+☋ Forks: 850
 
-★ Stars: 1471
+★ Stars: 1473
 
 [Open repository](https://github.com/keycloak/keycloak-quickstarts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1473 | 850 | 
 | 2023-04-13 | 1471 | 849 | 
 | 2023-04-12 | 1468 | 849 | 
 | 2023-04-11 | 1466 | 849 | 

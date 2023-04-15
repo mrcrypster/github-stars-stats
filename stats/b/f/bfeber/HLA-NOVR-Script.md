@@ -1,10 +1,10 @@
 # bfeber/HLA-NOVR-Script - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 21
+☋ Forks: 23
 
-★ Stars: 360
+★ Stars: 401
 
 [Open repository](https://github.com/bfeber/HLA-NOVR-Script)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 401 | 23 | 
 | 2023-04-13 | 360 | 21 | 
 | 2023-04-12 | 278 | 18 | 
 | 2023-04-11 | 185 | 13 | 

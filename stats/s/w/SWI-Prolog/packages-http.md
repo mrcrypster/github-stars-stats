@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-http - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 21 | 19 | 
 | 2023-04-13 | 21 | 19 | 
 | 2023-04-12 | 21 | 19 | 
 | 2023-04-11 | 21 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 21 | 19 | 
 | 2023-03-18 | 21 | 19 | 
 | 2023-03-17 | 21 | 19 | 
-| 2023-03-15 | 21 | 19 | 
 

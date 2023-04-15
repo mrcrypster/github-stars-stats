@@ -1,10 +1,10 @@
 # sensepost/gowitness - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 256
 
-★ Stars: 2117
+★ Stars: 2119
 
 [Open repository](https://github.com/sensepost/gowitness)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2119 | 256 | 
 | 2023-04-13 | 2117 | 256 | 
 | 2023-04-12 | 2110 | 255 | 
 | 2023-04-11 | 2102 | 255 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2067 | 250 | 
 | 2023-03-18 | 2066 | 250 | 
 | 2023-03-16 | 2065 | 249 | 
-| 2023-03-15 | 2064 | 249 | 
 

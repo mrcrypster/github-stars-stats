@@ -1,10 +1,10 @@
 # sakai135/wsl-vpnkit - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 104
 
-★ Stars: 1397
+★ Stars: 1401
 
 [Open repository](https://github.com/sakai135/wsl-vpnkit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1401 | 104 | 
 | 2023-04-13 | 1397 | 104 | 
 | 2023-04-12 | 1392 | 103 | 
 | 2023-04-10 | 1390 | 103 | 

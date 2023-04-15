@@ -1,10 +1,10 @@
 # yoheinakajima/babyagi - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1029
+☋ Forks: 1127
 
-★ Stars: 8075
+★ Stars: 8825
 
 [Open repository](https://github.com/yoheinakajima/babyagi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 8825 | 1127 | 
 | 2023-04-13 | 8075 | 1029 | 
 | 2023-04-12 | 7079 | 911 | 
 | 2023-04-11 | 6256 | 826 | 

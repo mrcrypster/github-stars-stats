@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 148
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/nisarhassan12/portfolio-template)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 459 | 148 | 
+| 2023-04-14 | 460 | 148 | 
 | 2023-04-13 | 459 | 148 | 
 | 2023-04-12 | 457 | 144 | 
 | 2023-04-11 | 457 | 143 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 449 | 138 | 
 | 2023-03-18 | 448 | 138 | 
 | 2023-03-16 | 448 | 137 | 
-| 2023-03-15 | 448 | 136 | 
 

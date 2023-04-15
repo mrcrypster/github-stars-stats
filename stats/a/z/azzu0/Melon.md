@@ -1,6 +1,6 @@
 # azzu0/Melon - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 42 | 13 | 
 | 2023-04-13 | 42 | 13 | 
 | 2023-04-12 | 42 | 13 | 
 | 2023-04-11 | 40 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 33 | 12 | 
 | 2023-03-18 | 32 | 12 | 
 | 2023-03-17 | 32 | 12 | 
-| 2023-03-15 | 30 | 12 | 
 

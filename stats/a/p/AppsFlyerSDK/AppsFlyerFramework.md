@@ -1,10 +1,10 @@
 # AppsFlyerSDK/AppsFlyerFramework - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 77
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/AppsFlyerSDK/AppsFlyerFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 140 | 77 | 
 | 2023-04-13 | 139 | 77 | 
 | 2023-04-12 | 139 | 77 | 
 | 2023-04-11 | 139 | 77 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 135 | 76 | 
 | 2023-03-17 | 135 | 76 | 
 | 2023-03-16 | 135 | 76 | 
-| 2023-03-15 | 135 | 76 | 
 

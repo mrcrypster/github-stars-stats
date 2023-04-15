@@ -1,10 +1,10 @@
 # Privoce/Bot-Studio - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 35
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/Privoce/Bot-Studio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 243 | 35 | 
 | 2023-04-13 | 242 | 35 | 
 | 2023-04-12 | 242 | 35 | 
 | 2023-04-11 | 242 | 35 | 

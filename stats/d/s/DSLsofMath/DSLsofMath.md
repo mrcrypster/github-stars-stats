@@ -1,10 +1,10 @@
 # DSLsofMath/DSLsofMath - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 49
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/DSLsofMath/DSLsofMath)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 368 | 49 | 
 | 2023-04-13 | 367 | 49 | 
 | 2023-04-12 | 365 | 49 | 
 | 2023-04-11 | 365 | 49 | 

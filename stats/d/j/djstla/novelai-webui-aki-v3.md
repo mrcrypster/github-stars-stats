@@ -1,10 +1,10 @@
 # djstla/novelai-webui-aki-v3 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 56
+☋ Forks: 60
 
-★ Stars: 165
+★ Stars: 170
 
 [Open repository](https://github.com/djstla/novelai-webui-aki-v3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 170 | 60 | 
 | 2023-04-13 | 165 | 56 | 
 | 2023-04-12 | 154 | 54 | 
 | 2023-04-11 | 150 | 49 | 

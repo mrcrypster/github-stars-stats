@@ -1,10 +1,10 @@
 # zenorocha/clipboard.js - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 4092
+☋ Forks: 4093
 
-★ Stars: 33072
+★ Stars: 33074
 
 [Open repository](https://github.com/zenorocha/clipboard.js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 33074 | 4093 | 
 | 2023-04-13 | 33072 | 4092 | 
 | 2023-04-12 | 33070 | 4091 | 
 | 2023-04-11 | 33066 | 4091 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 33013 | 4086 | 
 | 2023-03-18 | 33011 | 4085 | 
 | 2023-03-16 | 33004 | 4085 | 
-| 2023-03-15 | 33000 | 4086 | 
 

@@ -1,10 +1,10 @@
 # RedRoverSchool/JenkinsQA_06 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/RedRoverSchool/JenkinsQA_06)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 36 | 6 | 
 | 2023-04-13 | 35 | 6 | 
 | 2023-04-12 | 33 | 5 | 
 | 2023-04-11 | 31 | 5 | 

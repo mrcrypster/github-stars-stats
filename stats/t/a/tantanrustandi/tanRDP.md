@@ -1,8 +1,8 @@
 # tantanrustandi/tanRDP - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 145
+☋ Forks: 146
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 146 | 
 | 2023-04-13 | - | 145 | 
 | 2023-04-12 | - | 145 | 
 | 2023-04-10 | - | 145 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | - | 140 | 
 | 2023-03-18 | - | 139 | 
 | 2023-03-17 | - | 138 | 
-| 2023-03-15 | - | 137 | 
 

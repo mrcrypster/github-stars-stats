@@ -1,6 +1,6 @@
 # revanced/revanced-cdn-action - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 19 | 3 | 
 | 2023-04-13 | 19 | 3 | 
 | 2023-04-12 | 19 | 3 | 
 | 2023-04-11 | 19 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 20 | 2 | 
 | 2023-03-17 | 20 | 2 | 
 | 2023-03-16 | 20 | 2 | 
-| 2023-03-15 | 20 | 2 | 
 

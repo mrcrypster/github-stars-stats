@@ -1,6 +1,6 @@
 # move-dao/move-book-zh - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 32 | 10 | 
 | 2023-04-13 | 32 | 10 | 
 | 2023-04-12 | 32 | 10 | 
 | 2023-04-11 | 32 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 31 | 10 | 
 | 2023-03-18 | 31 | 10 | 
 | 2023-03-17 | 31 | 10 | 
-| 2023-03-15 | 31 | 10 | 
 

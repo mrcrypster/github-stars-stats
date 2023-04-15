@@ -1,10 +1,10 @@
 # dpayne/CodeGPT.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 30
 
-★ Stars: 601
+★ Stars: 604
 
 [Open repository](https://github.com/dpayne/CodeGPT.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 604 | 30 | 
 | 2023-04-13 | 601 | 30 | 
 | 2023-04-12 | 598 | 29 | 
 | 2023-04-11 | 596 | 29 | 

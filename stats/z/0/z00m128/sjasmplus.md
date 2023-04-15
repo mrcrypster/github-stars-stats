@@ -1,6 +1,6 @@
 # z00m128/sjasmplus - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 295 | 45 | 
 | 2023-04-13 | 295 | 45 | 
 | 2023-04-12 | 295 | 45 | 
 | 2023-04-10 | 295 | 45 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 293 | 45 | 
 | 2023-03-18 | 291 | 45 | 
 | 2023-03-17 | 291 | 45 | 
-| 2023-03-16 | 290 | 45 | 
 

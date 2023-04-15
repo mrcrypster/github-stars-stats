@@ -1,10 +1,10 @@
 # TeoMeWhy/teomerefs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 56
 
-★ Stars: 483
+★ Stars: 484
 
 [Open repository](https://github.com/TeoMeWhy/teomerefs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 484 | 56 | 
 | 2023-04-13 | 483 | 56 | 
 | 2023-04-12 | 481 | 55 | 
 | 2023-04-11 | 478 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 461 | 50 | 
 | 2023-03-17 | 460 | 50 | 
 | 2023-03-16 | 460 | 50 | 
-| 2023-03-15 | 460 | 50 | 
 

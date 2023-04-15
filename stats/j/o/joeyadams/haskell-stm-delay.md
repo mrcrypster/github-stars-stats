@@ -1,6 +1,6 @@
 # joeyadams/haskell-stm-delay - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6 | 3 | 
 | 2023-04-13 | 6 | 3 | 
 | 2023-04-12 | 6 | 3 | 
 | 2023-04-11 | 6 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 6 | 3 | 
 | 2023-03-18 | 6 | 3 | 
 | 2023-03-16 | 6 | 3 | 
-| 2023-03-15 | 6 | 3 | 
 

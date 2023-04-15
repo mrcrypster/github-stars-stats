@@ -1,10 +1,10 @@
 # gavinliu6/Makefile-Tutorial-zh-CN - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 110
+★ Stars: 125
 
 [Open repository](https://github.com/gavinliu6/Makefile-Tutorial-zh-CN)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 125 | 19 | 
 | 2023-04-13 | 110 | 18 | 
 

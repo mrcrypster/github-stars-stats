@@ -1,10 +1,10 @@
 # lee-to/moonshine - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 27
 
-★ Stars: 96
+★ Stars: 99
 
 [Open repository](https://github.com/lee-to/moonshine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 99 | 27 | 
 | 2023-04-13 | 96 | 27 | 
 | 2023-04-12 | 95 | 26 | 
 | 2023-04-11 | 94 | 26 | 

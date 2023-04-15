@@ -1,8 +1,8 @@
 # beego/beego - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 5570
+☋ Forks: 5569
 
 ★ Stars: 29633
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 29633 | 5569 | 
 | 2023-04-13 | 29633 | 5570 | 
 | 2023-04-12 | 29625 | 5569 | 
 | 2023-04-11 | 29613 | 5567 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 29525 | 5568 | 
 | 2023-03-18 | 29521 | 5567 | 
 | 2023-03-17 | 29512 | 5565 | 
-| 2023-03-15 | 29507 | 5564 | 
 

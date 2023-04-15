@@ -1,10 +1,10 @@
 # EEVengers/ThunderScope - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 90
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/EEVengers/ThunderScope)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 347 | 90 | 
 | 2023-04-13 | 346 | 90 | 
 | 2023-04-12 | 344 | 90 | 
 | 2023-04-11 | 343 | 90 | 

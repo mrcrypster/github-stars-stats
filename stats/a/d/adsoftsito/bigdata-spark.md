@@ -1,6 +1,6 @@
 # adsoftsito/bigdata-spark - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1 | 44 | 
 | 2023-04-13 | 1 | 44 | 
 | 2023-04-12 | 1 | 43 | 
 | 2023-04-11 | 1 | 43 | 

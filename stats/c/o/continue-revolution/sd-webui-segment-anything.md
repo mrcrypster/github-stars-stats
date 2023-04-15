@@ -1,10 +1,10 @@
 # continue-revolution/sd-webui-segment-anything - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 19
+☋ Forks: 24
 
-★ Stars: 425
+★ Stars: 493
 
 [Open repository](https://github.com/continue-revolution/sd-webui-segment-anything)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 493 | 24 | 
 | 2023-04-13 | 425 | 19 | 
 

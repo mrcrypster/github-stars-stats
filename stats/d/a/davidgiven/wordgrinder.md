@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 47
 
-★ Stars: 736
+★ Stars: 737
 
 [Open repository](https://github.com/davidgiven/wordgrinder)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 736 | 47 | 
+| 2023-04-14 | 737 | 47 | 
 | 2023-04-13 | 735 | 47 | 
 

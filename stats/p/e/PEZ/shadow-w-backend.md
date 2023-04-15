@@ -1,6 +1,6 @@
 # PEZ/shadow-w-backend - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 19 | 1 | 
 | 2023-04-13 | 19 | 1 | 
 | 2023-04-12 | 19 | 1 | 
 | 2023-04-10 | 19 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 18 | 1 | 
 | 2023-03-18 | 18 | 1 | 
 | 2023-03-17 | 18 | 1 | 
-| 2023-03-15 | 18 | 1 | 
 

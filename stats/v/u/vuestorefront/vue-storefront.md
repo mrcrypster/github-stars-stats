@@ -1,10 +1,10 @@
 # vuestorefront/vue-storefront - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2052
+☋ Forks: 2054
 
-★ Stars: 10135
+★ Stars: 10139
 
 [Open repository](https://github.com/vuestorefront/vue-storefront)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 10139 | 2054 | 
 | 2023-04-13 | 10135 | 2052 | 
 | 2023-04-12 | 10135 | 2052 | 
 | 2023-04-11 | 10130 | 2052 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 452
+☋ Forks: 453
 
-★ Stars: 2296
+★ Stars: 2297
 
 [Open repository](https://github.com/aws/aws-sdk-js-v3)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 2296 | 452 | 
+| 2023-04-14 | 2297 | 453 | 
 | 2023-04-13 | 2295 | 452 | 
 | 2023-04-12 | 2287 | 451 | 
 | 2023-04-11 | 2283 | 450 | 

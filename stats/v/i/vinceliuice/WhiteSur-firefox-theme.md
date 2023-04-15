@@ -1,10 +1,10 @@
 # vinceliuice/WhiteSur-firefox-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/vinceliuice/WhiteSur-firefox-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 151 | 7 | 
 | 2023-04-13 | 150 | 7 | 
 | 2023-04-12 | 150 | 7 | 
 | 2023-04-11 | 150 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 139 | 6 | 
 | 2023-03-17 | 139 | 6 | 
 | 2023-03-16 | 138 | 6 | 
-| 2023-03-15 | 137 | 6 | 
 

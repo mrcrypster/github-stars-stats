@@ -1,8 +1,8 @@
 # bhrugen/Bulky - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 218
+☋ Forks: 217
 
 ★ Stars: 213
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 213 | 217 | 
 | 2023-04-13 | 213 | 218 | 
 | 2023-04-12 | 213 | 219 | 
 | 2023-04-11 | 213 | 219 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 202 | 212 | 
 | 2023-03-17 | 201 | 211 | 
 | 2023-03-16 | 200 | 210 | 
-| 2023-03-15 | 200 | 210 | 
 

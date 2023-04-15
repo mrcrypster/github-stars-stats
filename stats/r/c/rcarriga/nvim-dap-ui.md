@@ -1,10 +1,10 @@
 # rcarriga/nvim-dap-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 55
 
-★ Stars: 1369
+★ Stars: 1372
 
 [Open repository](https://github.com/rcarriga/nvim-dap-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1372 | 55 | 
 | 2023-04-13 | 1369 | 55 | 
 | 2023-04-12 | 1365 | 54 | 
 | 2023-04-11 | 1363 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1315 | 52 | 
 | 2023-03-18 | 1313 | 52 | 
 | 2023-03-17 | 1312 | 52 | 
-| 2023-03-15 | 1308 | 52 | 
 

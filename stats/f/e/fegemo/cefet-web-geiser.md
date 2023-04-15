@@ -1,8 +1,8 @@
 # fegemo/cefet-web-geiser - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 138
+☋ Forks: 137
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4 | 137 | 
 | 2023-04-13 | 4 | 138 | 
 | 2023-04-12 | 4 | 138 | 
 | 2023-04-11 | 4 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 4 | 138 | 
 | 2023-03-18 | 4 | 138 | 
 | 2023-03-17 | 4 | 138 | 
-| 2023-03-15 | 4 | 138 | 
 

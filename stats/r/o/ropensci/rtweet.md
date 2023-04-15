@@ -1,6 +1,6 @@
 # ropensci/rtweet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 780 | 209 | 
 | 2023-04-13 | 780 | 209 | 
 | 2023-04-12 | 780 | 209 | 
 | 2023-04-11 | 780 | 209 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 779 | 207 | 
 | 2023-03-18 | 779 | 207 | 
 | 2023-03-17 | 778 | 207 | 
-| 2023-03-16 | 778 | 207 | 
 

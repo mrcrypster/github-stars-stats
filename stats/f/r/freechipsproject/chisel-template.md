@@ -1,8 +1,8 @@
 # freechipsproject/chisel-template - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 130
+☋ Forks: 131
 
 ★ Stars: 424
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 424 | 131 | 
 | 2023-04-13 | 424 | 130 | 
 | 2023-04-12 | 422 | 129 | 
 | 2023-04-11 | 422 | 129 | 

@@ -1,10 +1,10 @@
 # sureJiang/MSSCrollGuideView - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 1206
+★ Stars: 1234
 
 [Open repository](https://github.com/sureJiang/MSSCrollGuideView)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1234 | 7 | 
 | 2023-04-13 | 1206 | 7 | 
 | 2023-04-12 | 1183 | 7 | 
 | 2023-04-11 | 1163 | 7 | 

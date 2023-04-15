@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 14
+☋ Forks: 17
 
-★ Stars: 233
+★ Stars: 273
 
 [Open repository](https://github.com/ikaijua/Awesome-AITools)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 233 | 14 | 
+| 2023-04-14 | 273 | 17 | 
 | 2023-04-13 | 231 | 14 | 
 

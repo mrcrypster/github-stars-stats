@@ -1,10 +1,10 @@
 # nathanlesage/academics-on-mastodon - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 75
 
-★ Stars: 753
+★ Stars: 754
 
 [Open repository](https://github.com/nathanlesage/academics-on-mastodon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 754 | 75 | 
 | 2023-04-13 | 753 | 75 | 
 | 2023-04-12 | 751 | 75 | 
 | 2023-04-11 | 750 | 75 | 

@@ -1,10 +1,10 @@
 # numtide/treefmt-nix - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/numtide/treefmt-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 46 | 13 | 
 | 2023-04-13 | 45 | 12 | 
 | 2023-04-12 | 45 | 12 | 
 | 2023-04-11 | 44 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 39 | 10 | 
 | 2023-03-18 | 39 | 10 | 
 | 2023-03-17 | 39 | 10 | 
-| 2023-03-15 | 39 | 10 | 
 

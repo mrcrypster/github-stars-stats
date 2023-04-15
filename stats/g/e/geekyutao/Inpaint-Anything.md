@@ -1,10 +1,10 @@
 # geekyutao/Inpaint-Anything - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 134
+★ Stars: 145
 
 [Open repository](https://github.com/geekyutao/Inpaint-Anything)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 145 | 11 | 
 | 2023-04-13 | 134 | 10 | 
 

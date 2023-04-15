@@ -1,8 +1,8 @@
 # mhyfritz/astro-landing-page - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 211
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 211 | 66 | 
 | 2023-04-13 | 211 | 65 | 
 | 2023-04-12 | 210 | 64 | 
 | 2023-04-11 | 209 | 64 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 197 | 58 | 
 | 2023-03-18 | 196 | 58 | 
 | 2023-03-16 | 195 | 58 | 
-| 2023-03-15 | 192 | 58 | 
 

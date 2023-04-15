@@ -1,6 +1,6 @@
 # Project-Sloth/ps-hugs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 11 | 9 | 
 | 2023-04-13 | 11 | 9 | 
 | 2023-04-12 | 10 | 9 | 
 | 2023-04-11 | 10 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 9 | 9 | 
 | 2023-03-18 | 9 | 9 | 
 | 2023-03-17 | 9 | 9 | 
-| 2023-03-15 | 9 | 9 | 
 

@@ -1,10 +1,10 @@
 # matijapretnar/millet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/matijapretnar/millet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 18 | - | 
 | 2023-04-13 | 16 | - | 
 | 2023-04-12 | 16 | - | 
 | 2023-04-11 | 16 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 15 | - | 
 | 2023-03-18 | 15 | - | 
 | 2023-03-16 | 15 | - | 
-| 2023-03-15 | 15 | - | 
 

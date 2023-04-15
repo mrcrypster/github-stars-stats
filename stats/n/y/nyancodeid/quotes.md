@@ -1,8 +1,8 @@
 # nyancodeid/quotes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 178
+☋ Forks: 177
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 68 | 177 | 
 | 2023-04-13 | 68 | 178 | 
 | 2023-04-12 | 68 | 178 | 
 | 2023-04-11 | 68 | 178 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 68 | 180 | 
 | 2023-03-17 | 68 | 180 | 
 | 2023-03-16 | 68 | 180 | 
-| 2023-03-15 | 68 | 180 | 
 

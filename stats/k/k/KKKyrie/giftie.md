@@ -1,10 +1,10 @@
 # KKKyrie/giftie - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 213
 
-★ Stars: 698
+★ Stars: 699
 
 [Open repository](https://github.com/KKKyrie/giftie)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 699 | 213 | 
 | 2023-04-13 | 698 | 213 | 
 | 2023-04-12 | 698 | 213 | 
 | 2023-04-11 | 698 | 213 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 698 | 213 | 
 | 2023-03-18 | 698 | 213 | 
 | 2023-03-16 | 696 | 212 | 
-| 2023-03-15 | 696 | 212 | 
 

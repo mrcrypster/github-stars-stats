@@ -1,6 +1,6 @@
 # Maxvien/bootstrap-shopify-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 55 | 47 | 
 | 2023-04-13 | 55 | 47 | 
 | 2023-04-12 | 55 | 46 | 
 | 2023-04-11 | 55 | 46 | 

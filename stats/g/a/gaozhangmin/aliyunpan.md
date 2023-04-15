@@ -1,10 +1,10 @@
 # gaozhangmin/aliyunpan - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 1020
+★ Stars: 1069
 
 [Open repository](https://github.com/gaozhangmin/aliyunpan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1069 | 33 | 
 | 2023-04-13 | 1020 | 32 | 
 | 2023-04-12 | 987 | 31 | 
 | 2023-04-11 | 964 | 29 | 

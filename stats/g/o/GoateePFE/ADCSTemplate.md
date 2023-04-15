@@ -1,8 +1,8 @@
 # GoateePFE/ADCSTemplate - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 49 | 16 | 
 | 2023-04-13 | 49 | 15 | 
 | 2023-04-12 | 49 | 15 | 
 | 2023-04-11 | 49 | 15 | 

@@ -1,10 +1,10 @@
 # ponylang/ponyc - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 413
 
-★ Stars: 5395
+★ Stars: 5397
 
 [Open repository](https://github.com/ponylang/ponyc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 5397 | 413 | 
 | 2023-04-13 | 5395 | 413 | 
 | 2023-04-12 | 5394 | 413 | 
 | 2023-04-11 | 5393 | 413 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 5374 | 411 | 
 | 2023-03-18 | 5373 | 411 | 
 | 2023-03-16 | 5371 | 411 | 
-| 2023-03-15 | 5369 | 411 | 
 

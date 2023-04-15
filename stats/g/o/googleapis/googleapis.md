@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 2227
 
-★ Stars: 5522
+★ Stars: 5525
 
 [Open repository](https://github.com/googleapis/googleapis)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 5522 | 2227 | 
+| 2023-04-14 | 5525 | 2227 | 
 | 2023-04-13 | 5522 | 2226 | 
 | 2023-04-12 | 5521 | 2227 | 
 | 2023-04-11 | 5518 | 2227 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-18 | 5453 | 2199 | 
 | 2023-03-17 | 5451 | 2199 | 
 | 2023-03-16 | 5445 | 2198 | 
-| 2023-03-15 | 5443 | 2198 | 
 

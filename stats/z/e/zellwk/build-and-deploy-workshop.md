@@ -1,10 +1,10 @@
 # zellwk/build-and-deploy-workshop - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 5
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/zellwk/build-and-deploy-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 9 | 5 | 
 | 2023-04-13 | 8 | 5 | 
 | 2023-04-12 | 8 | 5 | 
 | 2023-04-11 | 8 | 5 | 

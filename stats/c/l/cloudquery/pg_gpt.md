@@ -1,10 +1,10 @@
 # cloudquery/pg_gpt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 338
+★ Stars: 341
 
 [Open repository](https://github.com/cloudquery/pg_gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 341 | 12 | 
 | 2023-04-13 | 338 | 12 | 
 | 2023-04-12 | 333 | 12 | 
 | 2023-04-11 | 325 | 12 | 

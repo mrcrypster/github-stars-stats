@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 198
 
-★ Stars: 1613
+★ Stars: 1614
 
 [Open repository](https://github.com/netwide-assembler/nasm)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 1613 | 198 | 
+| 2023-04-14 | 1614 | 198 | 
 | 2023-04-13 | 1613 | 198 | 
 | 2023-04-12 | 1614 | 198 | 
 | 2023-04-11 | 1610 | 197 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-18 | 1583 | 193 | 
 | 2023-03-17 | 1581 | 193 | 
 | 2023-03-16 | 1578 | 192 | 
-| 2023-03-15 | 1576 | 193 | 
 

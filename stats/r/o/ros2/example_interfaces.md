@@ -1,10 +1,10 @@
 # ros2/example_interfaces - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 15
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/ros2/example_interfaces)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 25 | 15 | 
 | 2023-04-13 | 24 | 15 | 
 | 2023-04-12 | 24 | 15 | 
 | 2023-04-11 | 24 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 22 | 16 | 
 | 2023-03-17 | 22 | 16 | 
 | 2023-03-16 | 21 | 16 | 
-| 2023-03-15 | 21 | 16 | 
 

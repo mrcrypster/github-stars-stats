@@ -1,6 +1,6 @@
 # FuShaoLei/hexo-theme-white - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 157 | 98 | 
 | 2023-04-13 | 157 | 98 | 
 | 2023-04-12 | 157 | 99 | 
 | 2023-04-11 | 157 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 150 | 85 | 
 | 2023-03-17 | 150 | 85 | 
 | 2023-03-16 | 150 | 85 | 
-| 2023-03-15 | 150 | 85 | 
 

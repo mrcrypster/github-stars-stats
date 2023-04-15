@@ -1,10 +1,10 @@
 # keerthivasansa/animos - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 138
+★ Stars: 140
 
 [Open repository](https://github.com/keerthivasansa/animos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 140 | 15 | 
 | 2023-04-13 | 138 | 15 | 
 | 2023-04-12 | 137 | 15 | 
 | 2023-04-11 | 137 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 137 | 13 | 
 | 2023-03-18 | 138 | 13 | 
 | 2023-03-17 | 138 | 13 | 
-| 2023-03-15 | 138 | 13 | 
 

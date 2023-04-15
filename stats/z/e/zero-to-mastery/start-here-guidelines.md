@@ -1,10 +1,10 @@
 # zero-to-mastery/start-here-guidelines - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 14811
+☋ Forks: 14817
 
-★ Stars: 2056
+★ Stars: 2059
 
 [Open repository](https://github.com/zero-to-mastery/start-here-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2059 | 14817 | 
 | 2023-04-13 | 2056 | 14811 | 
 | 2023-04-12 | 2056 | 14807 | 
 | 2023-04-11 | 2055 | 14787 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2027 | 14621 | 
 | 2023-03-18 | 2026 | 14620 | 
 | 2023-03-16 | 2025 | 14610 | 
-| 2023-03-15 | 2021 | 14588 | 
 

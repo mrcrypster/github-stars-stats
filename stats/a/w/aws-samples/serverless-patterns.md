@@ -1,10 +1,10 @@
 # aws-samples/serverless-patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 533
+☋ Forks: 535
 
-★ Stars: 977
+★ Stars: 979
 
 [Open repository](https://github.com/aws-samples/serverless-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 979 | 535 | 
 | 2023-04-13 | 977 | 533 | 
 | 2023-04-12 | 977 | 532 | 
 | 2023-04-11 | 974 | 531 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 933 | 491 | 
 | 2023-03-18 | 931 | 490 | 
 | 2023-03-16 | 928 | 488 | 
-| 2023-03-15 | 927 | 487 | 
 

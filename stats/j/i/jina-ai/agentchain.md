@@ -1,10 +1,10 @@
 # jina-ai/agentchain - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 362
+★ Stars: 369
 
 [Open repository](https://github.com/jina-ai/agentchain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 369 | 26 | 
 | 2023-04-13 | 362 | 25 | 
 | 2023-04-12 | 355 | 25 | 
 | 2023-04-11 | 348 | 24 | 

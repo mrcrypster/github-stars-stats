@@ -1,8 +1,8 @@
 # opensearch-project/OpenSearch-Dashboards - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 420
+☋ Forks: 421
 
 ★ Stars: 1294
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1294 | 421 | 
 | 2023-04-13 | 1294 | 420 | 
 | 2023-04-12 | 1294 | 420 | 
 | 2023-04-11 | 1295 | 418 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1284 | 385 | 
 | 2023-03-18 | 1283 | 385 | 
 | 2023-03-17 | 1282 | 379 | 
-| 2023-03-15 | 1282 | 376 | 
 

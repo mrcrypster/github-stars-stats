@@ -1,10 +1,10 @@
 # thewonderidiot/lvdc_simulation - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 3
 
 [Open repository](https://github.com/thewonderidiot/lvdc_simulation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3 | - | 
 | 2023-04-13 | 1 | - | 
 | 2023-04-12 | 1 | - | 
 | 2023-04-11 | 1 | - | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1 | - | 
 | 2023-03-18 | 1 | - | 
 | 2023-03-16 | 1 | - | 
-| 2023-03-15 | 1 | - | 
 

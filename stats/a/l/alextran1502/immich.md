@@ -1,10 +1,10 @@
 # alextran1502/immich - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 360
+☋ Forks: 361
 
-★ Stars: 9880
+★ Stars: 9891
 
 [Open repository](https://github.com/alextran1502/immich)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 9891 | 361 | 
 | 2023-04-13 | 9880 | 360 | 
 | 2023-04-12 | 9864 | 359 | 
 | 2023-04-10 | 9832 | 359 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 9332 | 329 | 
 | 2023-03-18 | 9316 | 330 | 
 | 2023-03-17 | 9297 | 329 | 
-| 2023-03-15 | 9269 | 327 | 
 

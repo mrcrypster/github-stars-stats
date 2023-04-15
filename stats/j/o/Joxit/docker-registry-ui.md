@@ -1,10 +1,10 @@
 # Joxit/docker-registry-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 255
 
-★ Stars: 1630
+★ Stars: 1633
 
 [Open repository](https://github.com/Joxit/docker-registry-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1633 | 255 | 
 | 2023-04-13 | 1630 | 255 | 
 | 2023-04-12 | 1630 | 255 | 
 | 2023-04-11 | 1629 | 253 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1590 | 252 | 
 | 2023-03-17 | 1588 | 252 | 
 | 2023-03-16 | 1585 | 252 | 
-| 2023-03-15 | 1583 | 252 | 
 

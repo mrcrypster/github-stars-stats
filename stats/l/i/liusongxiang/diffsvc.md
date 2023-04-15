@@ -1,10 +1,10 @@
 # liusongxiang/diffsvc - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 32
+☋ Forks: 34
 
-★ Stars: 44
+★ Stars: 47
 
 [Open repository](https://github.com/liusongxiang/diffsvc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 47 | 34 | 
 | 2023-04-13 | 44 | 32 | 
 | 2023-04-12 | 44 | 29 | 
 

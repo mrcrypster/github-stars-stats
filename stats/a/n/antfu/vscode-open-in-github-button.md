@@ -1,10 +1,10 @@
 # antfu/vscode-open-in-github-button - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 209
+★ Stars: 211
 
 [Open repository](https://github.com/antfu/vscode-open-in-github-button)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 211 | 7 | 
 | 2023-04-13 | 209 | 7 | 
 | 2023-04-12 | 210 | 7 | 
 | 2023-04-11 | 207 | 8 | 

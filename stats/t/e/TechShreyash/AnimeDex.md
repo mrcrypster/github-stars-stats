@@ -1,10 +1,10 @@
 # TechShreyash/AnimeDex - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/TechShreyash/AnimeDex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 94 | 77 | 
 | 2023-04-13 | 93 | 76 | 
 | 2023-04-12 | 93 | 75 | 
 | 2023-04-11 | 92 | 75 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 83 | 67 | 
 | 2023-03-18 | 83 | 66 | 
 | 2023-03-16 | 82 | 65 | 
-| 2023-03-15 | 82 | 63 | 
 

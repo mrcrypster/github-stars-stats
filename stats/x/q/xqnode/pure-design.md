@@ -1,10 +1,10 @@
 # xqnode/pure-design - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 41
+☋ Forks: 43
 
-★ Stars: 144
+★ Stars: 147
 
 [Open repository](https://github.com/xqnode/pure-design)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 147 | 43 | 
 | 2023-04-13 | 144 | 41 | 
 | 2023-04-12 | 144 | 41 | 
 | 2023-04-11 | 143 | 41 | 

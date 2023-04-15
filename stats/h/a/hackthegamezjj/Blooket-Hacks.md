@@ -1,10 +1,10 @@
 # hackthegamezjj/Blooket-Hacks - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 33
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/hackthegamezjj/Blooket-Hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 21 | 33 | 
 | 2023-04-13 | 20 | 33 | 
 | 2023-04-12 | 20 | 32 | 
 | 2023-04-10 | 20 | 32 | 

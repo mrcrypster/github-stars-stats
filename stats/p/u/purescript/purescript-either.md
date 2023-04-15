@@ -1,10 +1,10 @@
 # purescript/purescript-either - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/purescript/purescript-either)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 28 | 29 | 
 | 2023-04-13 | 27 | 29 | 
 | 2023-04-12 | 27 | 29 | 
 | 2023-04-11 | 27 | 29 | 

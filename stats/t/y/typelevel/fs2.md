@@ -1,8 +1,8 @@
 # typelevel/fs2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 567
+☋ Forks: 569
 
 ★ Stars: 2219
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2219 | 569 | 
 | 2023-04-13 | 2219 | 567 | 
 | 2023-04-12 | 2218 | 567 | 
 | 2023-04-10 | 2218 | 567 | 

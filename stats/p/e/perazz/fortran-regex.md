@@ -1,6 +1,6 @@
 # perazz/fortran-regex - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 16 | - | 
 | 2023-04-13 | 16 | - | 
 | 2023-04-12 | 16 | - | 
 | 2023-04-11 | 16 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 16 | - | 
 | 2023-03-18 | 16 | - | 
 | 2023-03-17 | 16 | - | 
-| 2023-03-16 | 16 | - | 
 

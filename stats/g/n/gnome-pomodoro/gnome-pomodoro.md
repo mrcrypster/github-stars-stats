@@ -1,10 +1,10 @@
 # gnome-pomodoro/gnome-pomodoro - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 274
 
-★ Stars: 1812
+★ Stars: 1814
 
 [Open repository](https://github.com/gnome-pomodoro/gnome-pomodoro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1814 | 274 | 
 | 2023-04-13 | 1812 | 274 | 
 | 2023-04-12 | 1812 | 274 | 
 | 2023-04-11 | 1813 | 274 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1803 | 272 | 
 | 2023-03-17 | 1803 | 272 | 
 | 2023-03-16 | 1802 | 272 | 
-| 2023-03-15 | 1799 | 272 | 
 

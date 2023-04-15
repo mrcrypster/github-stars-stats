@@ -1,10 +1,10 @@
 # codicocodes/dotfyle - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 88
+★ Stars: 113
 
 [Open repository](https://github.com/codicocodes/dotfyle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 113 | 2 | 
 | 2023-04-13 | 88 | 2 | 
 | 2023-04-12 | 17 | - | 
 | 2023-04-11 | 17 | - | 

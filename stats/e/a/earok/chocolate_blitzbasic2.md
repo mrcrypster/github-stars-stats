@@ -1,6 +1,6 @@
 # earok/chocolate_blitzbasic2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 9 | 1 | 
 | 2023-04-13 | 9 | 1 | 
 | 2023-04-12 | 9 | 1 | 
 | 2023-04-10 | 9 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 8 | - | 
 | 2023-03-18 | 8 | - | 
 | 2023-03-17 | 8 | - | 
-| 2023-03-15 | 8 | - | 
 

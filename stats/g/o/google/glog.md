@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 1942
+☋ Forks: 1943
 
-★ Stars: 6040
+★ Stars: 6042
 
 [Open repository](https://github.com/google/glog)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 6040 | 1942 | 
+| 2023-04-14 | 6042 | 1943 | 
 | 2023-04-13 | 6040 | 1942 | 
 | 2023-04-12 | 6032 | 1942 | 
 | 2023-04-11 | 6032 | 1941 | 

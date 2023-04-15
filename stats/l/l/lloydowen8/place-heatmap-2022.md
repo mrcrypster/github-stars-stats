@@ -1,6 +1,6 @@
 # lloydowen8/place-heatmap-2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 25 | 2 | 
 | 2023-04-13 | 25 | 2 | 
 | 2023-04-12 | 25 | 2 | 
 | 2023-04-10 | 25 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 25 | 2 | 
 | 2023-03-17 | 25 | 2 | 
 | 2023-03-16 | 25 | 2 | 
-| 2023-03-15 | 25 | 2 | 
 

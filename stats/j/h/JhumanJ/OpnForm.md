@@ -1,10 +1,10 @@
 # JhumanJ/OpnForm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 95
 
-★ Stars: 954
+★ Stars: 955
 
 [Open repository](https://github.com/JhumanJ/OpnForm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 955 | 95 | 
 | 2023-04-13 | 954 | 95 | 
 | 2023-04-12 | 949 | 94 | 
 | 2023-04-11 | 948 | 94 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 901 | 92 | 
 | 2023-03-18 | 901 | 92 | 
 | 2023-03-16 | 901 | 92 | 
-| 2023-03-15 | 900 | 91 | 
 

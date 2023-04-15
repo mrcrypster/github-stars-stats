@@ -1,6 +1,6 @@
 # NYAN-x-CAT/Bypass-Windows-Defender-VBS - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 92 | 44 | 
 | 2023-04-13 | 92 | 44 | 
 | 2023-04-12 | 92 | 44 | 
 | 2023-04-11 | 92 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 90 | 44 | 
 | 2023-03-17 | 89 | 44 | 
 | 2023-03-16 | 89 | 44 | 
-| 2023-03-15 | 90 | 44 | 
 

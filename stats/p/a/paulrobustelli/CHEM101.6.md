@@ -1,6 +1,6 @@
 # paulrobustelli/CHEM101.6 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 110 | 22 | 
 | 2023-04-13 | 110 | 22 | 
 | 2023-04-12 | 110 | 22 | 
 | 2023-04-10 | 110 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 109 | 21 | 
 | 2023-03-17 | 109 | 21 | 
 | 2023-03-16 | 109 | 21 | 
-| 2023-03-15 | 109 | 21 | 
 

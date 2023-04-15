@@ -1,10 +1,10 @@
 # emacs-openai/chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 60
+★ Stars: 62
 
 [Open repository](https://github.com/emacs-openai/chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 62 | 11 | 
 | 2023-04-13 | 60 | 10 | 
 | 2023-04-12 | 60 | 10 | 
 | 2023-04-11 | 59 | 10 | 

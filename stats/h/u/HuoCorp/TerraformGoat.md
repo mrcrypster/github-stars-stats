@@ -1,10 +1,10 @@
 # HuoCorp/TerraformGoat - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 66
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/HuoCorp/TerraformGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 390 | 66 | 
 | 2023-04-13 | 389 | 66 | 
 | 2023-04-12 | 387 | 66 | 
 | 2023-04-11 | 387 | 66 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 373 | 64 | 
 | 2023-03-18 | 372 | 64 | 
 | 2023-03-16 | 371 | 64 | 
-| 2023-03-15 | 371 | 64 | 
 

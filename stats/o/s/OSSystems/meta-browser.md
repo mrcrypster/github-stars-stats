@@ -1,6 +1,6 @@
 # OSSystems/meta-browser - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 147 | 166 | 
 | 2023-04-13 | 147 | 166 | 
 | 2023-04-12 | 147 | 166 | 
 | 2023-04-11 | 147 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 146 | 163 | 
 | 2023-03-17 | 146 | 163 | 
 | 2023-03-16 | 146 | 163 | 
-| 2023-03-15 | 146 | 163 | 
 

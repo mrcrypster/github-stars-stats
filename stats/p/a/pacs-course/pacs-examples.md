@@ -1,8 +1,8 @@
 # pacs-course/pacs-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 107
+☋ Forks: 108
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 28 | 108 | 
 | 2023-04-13 | 28 | 107 | 
 | 2023-04-11 | 28 | 107 | 
 | 2023-04-10 | 28 | 107 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 28 | 107 | 
 | 2023-03-18 | 28 | 107 | 
 | 2023-03-16 | 28 | 105 | 
-| 2023-03-15 | 27 | 107 | 
 

@@ -1,10 +1,10 @@
 # vishnumenon/ermine-ai - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 273
+★ Stars: 275
 
 [Open repository](https://github.com/vishnumenon/ermine-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 275 | 12 | 
 | 2023-04-13 | 273 | 12 | 
 | 2023-04-12 | 272 | 12 | 
 | 2023-04-11 | 267 | 12 | 

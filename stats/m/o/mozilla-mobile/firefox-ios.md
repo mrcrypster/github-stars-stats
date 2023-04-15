@@ -1,10 +1,10 @@
 # mozilla-mobile/firefox-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2695
 
-★ Stars: 11308
+★ Stars: 11307
 
 [Open repository](https://github.com/mozilla-mobile/firefox-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 11307 | 2695 | 
 | 2023-04-13 | 11308 | 2695 | 
 | 2023-04-12 | 11306 | 2694 | 
 | 2023-04-11 | 11303 | 2694 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 11265 | 2685 | 
 | 2023-03-17 | 11262 | 2683 | 
 | 2023-03-16 | 11264 | 2682 | 
-| 2023-03-15 | 11259 | 2681 | 
 

@@ -1,10 +1,10 @@
 # daluobai-devops/jenkins-shared-library - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/daluobai-devops/jenkins-shared-library)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 25 | 2 | 
 | 2023-04-13 | 23 | 2 | 
 | 2023-04-12 | 23 | 2 | 
 | 2023-04-11 | 23 | 2 | 

@@ -1,10 +1,10 @@
 # cvlab-columbia/viper - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 76
 
-★ Stars: 1211
+★ Stars: 1221
 
 [Open repository](https://github.com/cvlab-columbia/viper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1221 | 76 | 
 | 2023-04-13 | 1211 | 76 | 
 | 2023-04-12 | 1202 | 75 | 
 | 2023-04-11 | 1189 | 74 | 

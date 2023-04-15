@@ -1,6 +1,6 @@
 # terrytangyuan/terrytangyuan - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 47 | 192 | 
 | 2023-04-13 | 47 | 192 | 
 | 2023-04-12 | 47 | 192 | 
 | 2023-04-10 | 47 | 192 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 45 | 191 | 
 | 2023-03-18 | 44 | 191 | 
 | 2023-03-17 | 44 | 191 | 
-| 2023-03-15 | 44 | 191 | 
 

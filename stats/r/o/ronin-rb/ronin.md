@@ -1,6 +1,6 @@
 # ronin-rb/ronin - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 540 | 44 | 
 | 2023-04-13 | 540 | 44 | 
 | 2023-04-11 | 539 | 44 | 
 | 2023-04-10 | 539 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 533 | 44 | 
 | 2023-03-17 | 533 | 44 | 
 | 2023-03-16 | 532 | 43 | 
-| 2023-03-15 | 532 | 43 | 
 

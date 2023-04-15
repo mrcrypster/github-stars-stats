@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 687
+☋ Forks: 689
 
-★ Stars: 9462
+★ Stars: 9464
 
 [Open repository](https://github.com/corkami/pics)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 9462 | 687 | 
+| 2023-04-14 | 9464 | 689 | 
 | 2023-04-13 | 9463 | 687 | 
 | 2023-04-12 | 9459 | 687 | 
 | 2023-04-11 | 9454 | 687 | 

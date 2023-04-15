@@ -1,10 +1,10 @@
 # tonyday567/prettychart - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/tonyday567/prettychart)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 15 | 1 | 
 | 2023-04-13 | 14 | 1 | 
 | 2023-04-12 | 14 | 1 | 
 | 2023-04-11 | 13 | 1 | 

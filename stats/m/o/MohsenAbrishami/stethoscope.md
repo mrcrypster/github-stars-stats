@@ -1,6 +1,6 @@
 # MohsenAbrishami/stethoscope - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 201 | 7 | 
 | 2023-04-13 | 201 | 7 | 
 | 2023-04-12 | 201 | 7 | 
 | 2023-04-11 | 200 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 190 | 6 | 
 | 2023-03-17 | 189 | 6 | 
 | 2023-03-16 | 187 | 6 | 
-| 2023-03-15 | 186 | 6 | 
 

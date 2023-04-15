@@ -1,10 +1,10 @@
 # robotdoly/DOLY-DIY - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/robotdoly/DOLY-DIY)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 86 | 12 | 
 | 2023-04-13 | 85 | 11 | 
 | 2023-04-12 | 84 | 11 | 
 | 2023-04-11 | 82 | 10 | 

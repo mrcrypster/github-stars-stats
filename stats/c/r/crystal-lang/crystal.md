@@ -1,10 +1,10 @@
 # crystal-lang/crystal - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1402
+☋ Forks: 1404
 
-★ Stars: 18375
+★ Stars: 18380
 
 [Open repository](https://github.com/crystal-lang/crystal)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 18380 | 1404 | 
 | 2023-04-13 | 18375 | 1402 | 
 | 2023-04-12 | 18368 | 1402 | 
 | 2023-04-11 | 18368 | 1402 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 18299 | 1398 | 
 | 2023-03-17 | 18294 | 1398 | 
 | 2023-03-16 | 18294 | 1397 | 
-| 2023-03-15 | 18295 | 1397 | 
 

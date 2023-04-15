@@ -1,6 +1,6 @@
 # easystats/performance - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 843 | 72 | 
 | 2023-04-13 | 843 | 72 | 
 | 2023-04-12 | 843 | 72 | 
 | 2023-04-11 | 842 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 842 | 72 | 
 | 2023-03-17 | 841 | 72 | 
 | 2023-03-16 | 840 | 72 | 
-| 2023-03-15 | 840 | 72 | 
 

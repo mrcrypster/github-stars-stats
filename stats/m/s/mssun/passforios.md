@@ -1,10 +1,10 @@
 # mssun/passforios - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 95
 
-★ Stars: 1323
+★ Stars: 1324
 
 [Open repository](https://github.com/mssun/passforios)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1324 | 95 | 
 | 2023-04-13 | 1323 | 95 | 
 | 2023-04-12 | 1323 | 95 | 
 | 2023-04-10 | 1322 | 95 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1313 | 96 | 
 | 2023-03-18 | 1312 | 96 | 
 | 2023-03-16 | 1312 | 96 | 
-| 2023-03-15 | 1311 | 96 | 
 

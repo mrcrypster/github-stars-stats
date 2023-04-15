@@ -1,10 +1,10 @@
 # Reecepbcups/ibc-anywhere-webapp - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/Reecepbcups/ibc-anywhere-webapp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 11 | 4 | 
 | 2023-04-13 | 10 | 4 | 
 | 2023-04-12 | 10 | 4 | 
 | 2023-04-11 | 10 | 4 | 

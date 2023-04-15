@@ -1,10 +1,10 @@
 # royshil/obs-backgroundremoval - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 130
 
-★ Stars: 1513
+★ Stars: 1516
 
 [Open repository](https://github.com/royshil/obs-backgroundremoval)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1516 | 130 | 
 | 2023-04-13 | 1513 | 130 | 
 | 2023-04-12 | 1511 | 129 | 
 | 2023-04-11 | 1509 | 129 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1450 | 123 | 
 | 2023-03-18 | 1447 | 123 | 
 | 2023-03-16 | 1445 | 123 | 
-| 2023-03-15 | 1444 | 123 | 
 

@@ -1,10 +1,10 @@
 # HypatiaProject/hypatia - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/HypatiaProject/hypatia)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 49 | 4 | 
 | 2023-04-13 | 48 | 4 | 
 | 2023-04-12 | 48 | 4 | 
 | 2023-04-11 | 48 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 48 | 4 | 
 | 2023-03-18 | 48 | 4 | 
 | 2023-03-17 | 48 | 4 | 
-| 2023-03-15 | 48 | 4 | 
 

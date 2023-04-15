@@ -1,10 +1,10 @@
 # nathants/libaws - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/nathants/libaws)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 425 | 7 | 
 | 2023-04-13 | 424 | 7 | 
 | 2023-04-12 | 424 | 7 | 
 | 2023-04-11 | 424 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 418 | 7 | 
 | 2023-03-18 | 418 | 7 | 
 | 2023-03-16 | 418 | 7 | 
-| 2023-03-15 | 417 | 7 | 
 

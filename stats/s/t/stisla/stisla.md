@@ -1,6 +1,6 @@
 # stisla/stisla - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 857
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3326 | 857 | 
 | 2023-04-13 | 3326 | 857 | 
 | 2023-04-12 | 3324 | 857 | 
 | 2023-04-11 | 3322 | 857 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3311 | 848 | 
 | 2023-03-18 | 3309 | 848 | 
 | 2023-03-16 | 3307 | 848 | 
-| 2023-03-15 | 3306 | 848 | 
 

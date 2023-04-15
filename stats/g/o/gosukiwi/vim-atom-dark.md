@@ -1,10 +1,10 @@
 # gosukiwi/vim-atom-dark - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 123
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/gosukiwi/vim-atom-dark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 408 | 123 | 
 | 2023-04-13 | 407 | 123 | 
 | 2023-04-12 | 406 | 123 | 
 | 2023-04-11 | 406 | 123 | 

@@ -1,6 +1,6 @@
 # ANHIG/IMGTHLA - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 150 | 60 | 
 | 2023-04-13 | 150 | 60 | 
 | 2023-04-12 | 147 | 59 | 
 | 2023-04-11 | 146 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 146 | 59 | 
 | 2023-03-17 | 146 | 59 | 
 | 2023-03-16 | 145 | 59 | 
-| 2023-03-15 | 145 | 59 | 
 

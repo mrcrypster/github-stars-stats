@@ -1,6 +1,6 @@
 # JuliaDebug/JuliaInterpreter.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 146 | 26 | 
 | 2023-04-13 | 146 | 26 | 
 | 2023-04-12 | 146 | 26 | 
 | 2023-04-11 | 146 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 146 | 26 | 
 | 2023-03-18 | 146 | 26 | 
 | 2023-03-17 | 146 | 26 | 
-| 2023-03-15 | 146 | 26 | 
 

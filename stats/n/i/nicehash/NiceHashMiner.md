@@ -1,10 +1,10 @@
 # nicehash/NiceHashMiner - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 217
 
-★ Stars: 405
+★ Stars: 404
 
 [Open repository](https://github.com/nicehash/NiceHashMiner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 404 | 217 | 
 | 2023-04-13 | 405 | 217 | 
 | 2023-04-12 | 405 | 217 | 
 | 2023-04-11 | 405 | 217 | 

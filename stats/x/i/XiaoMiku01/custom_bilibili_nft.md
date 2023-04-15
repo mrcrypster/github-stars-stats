@@ -1,6 +1,6 @@
 # XiaoMiku01/custom_bilibili_nft - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 88 | 36 | 
 | 2023-04-13 | 88 | 36 | 
 | 2023-04-12 | 88 | 36 | 
 | 2023-04-11 | 88 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 87 | 35 | 
 | 2023-03-17 | 85 | 35 | 
 | 2023-03-16 | 85 | 34 | 
-| 2023-03-15 | 85 | 34 | 
 

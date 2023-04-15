@@ -1,10 +1,10 @@
 # EliteAsian123/YARG - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 107
+★ Stars: 111
 
 [Open repository](https://github.com/EliteAsian123/YARG)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 111 | 20 | 
 | 2023-04-13 | 107 | 19 | 
 | 2023-04-12 | 107 | 18 | 
 | 2023-04-11 | 104 | 17 | 

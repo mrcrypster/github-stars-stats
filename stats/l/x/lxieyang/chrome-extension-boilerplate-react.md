@@ -1,10 +1,10 @@
 # lxieyang/chrome-extension-boilerplate-react - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 724
+☋ Forks: 727
 
-★ Stars: 2219
+★ Stars: 2222
 
 [Open repository](https://github.com/lxieyang/chrome-extension-boilerplate-react)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2222 | 727 | 
 | 2023-04-13 | 2219 | 724 | 
 | 2023-04-12 | 2216 | 722 | 
 | 2023-04-11 | 2211 | 720 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 2097 | 679 | 
 | 2023-03-17 | 2089 | 678 | 
 | 2023-03-16 | 2078 | 676 | 
-| 2023-03-15 | 2070 | 676 | 
 

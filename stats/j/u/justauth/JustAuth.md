@@ -1,10 +1,10 @@
 # justauth/JustAuth - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2549
 
-★ Stars: 14639
+★ Stars: 14647
 
 [Open repository](https://github.com/justauth/JustAuth)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 14647 | 2549 | 
 | 2023-04-13 | 14639 | 2549 | 
 | 2023-04-12 | 14632 | 2549 | 
 | 2023-04-11 | 14625 | 2547 | 

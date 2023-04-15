@@ -1,10 +1,10 @@
 # openai/gpt-2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 4723
+☋ Forks: 4728
 
-★ Stars: 18602
+★ Stars: 18631
 
 [Open repository](https://github.com/openai/gpt-2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 18631 | 4728 | 
 | 2023-04-13 | 18602 | 4723 | 
 | 2023-04-12 | 18564 | 4711 | 
 | 2023-04-11 | 18526 | 4701 | 

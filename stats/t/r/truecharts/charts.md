@@ -1,10 +1,10 @@
 # truecharts/charts - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 310
 
-★ Stars: 639
+★ Stars: 642
 
 [Open repository](https://github.com/truecharts/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 642 | 310 | 
 | 2023-04-13 | 639 | 310 | 
 | 2023-04-12 | 638 | 308 | 
 | 2023-04-11 | 632 | 308 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 605 | 297 | 
 | 2023-03-17 | 602 | 295 | 
 | 2023-03-16 | 600 | 294 | 
-| 2023-03-15 | 599 | 294 | 
 

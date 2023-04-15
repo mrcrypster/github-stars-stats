@@ -1,6 +1,6 @@
 # projectEndings/staticSearch - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 39 | 19 | 
 | 2023-04-13 | 39 | 19 | 
 | 2023-04-12 | 39 | 19 | 
 | 2023-04-11 | 39 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 38 | 19 | 
 | 2023-03-17 | 38 | 19 | 
 | 2023-03-16 | 38 | 19 | 
-| 2023-03-15 | 38 | 19 | 
 

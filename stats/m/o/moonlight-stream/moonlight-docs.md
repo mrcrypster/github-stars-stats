@@ -1,6 +1,6 @@
 # moonlight-stream/moonlight-docs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 979 | 61 | 
 | 2023-04-13 | 979 | 61 | 
 | 2023-04-12 | 978 | 61 | 
 | 2023-04-11 | 977 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 956 | 59 | 
 | 2023-03-18 | 955 | 59 | 
 | 2023-03-16 | 953 | 59 | 
-| 2023-03-15 | 952 | 59 | 
 

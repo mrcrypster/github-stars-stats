@@ -1,10 +1,10 @@
 # rondinellimorais/facial-expression-recognition - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 717
+★ Stars: 725
 
 [Open repository](https://github.com/rondinellimorais/facial-expression-recognition)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 725 | 68 | 
 | 2023-04-13 | 717 | 67 | 
 | 2023-04-12 | 690 | 65 | 
 | 2023-04-11 | 678 | 62 | 

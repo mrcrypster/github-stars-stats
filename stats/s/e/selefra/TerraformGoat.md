@@ -1,10 +1,10 @@
 # selefra/TerraformGoat - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 66
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/selefra/TerraformGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 390 | 66 | 
 | 2023-04-13 | 389 | 66 | 
 | 2023-04-12 | 388 | 66 | 
 | 2023-04-11 | 387 | 66 | 

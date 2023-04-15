@@ -1,6 +1,6 @@
 # cdelledonne/llresume - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 17 | 2 | 
 | 2023-04-13 | 17 | 2 | 
 | 2023-04-12 | 17 | 2 | 
 | 2023-04-11 | 17 | 2 | 

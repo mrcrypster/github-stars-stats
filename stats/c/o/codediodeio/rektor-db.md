@@ -1,10 +1,10 @@
 # codediodeio/rektor-db - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 28
+☋ Forks: 27
 
-★ Stars: 535
+★ Stars: 541
 
 [Open repository](https://github.com/codediodeio/rektor-db)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 541 | 27 | 
 | 2023-04-13 | 535 | 28 | 
 | 2023-04-12 | 514 | 28 | 
 | 2023-04-11 | 492 | 28 | 

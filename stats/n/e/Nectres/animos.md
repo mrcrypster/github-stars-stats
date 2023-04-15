@@ -1,10 +1,10 @@
 # Nectres/animos - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 15
 
-★ Stars: 137
+★ Stars: 139
 
 [Open repository](https://github.com/Nectres/animos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 139 | 15 | 
 | 2023-04-13 | 137 | 15 | 
 | 2023-04-12 | 137 | 15 | 
 | 2023-04-11 | 137 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 137 | 13 | 
 | 2023-03-18 | 138 | 13 | 
 | 2023-03-17 | 138 | 13 | 
-| 2023-03-16 | 138 | 13 | 
 

@@ -1,10 +1,10 @@
 # vproc/vicuna - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 91
+★ Stars: 94
 
 [Open repository](https://github.com/vproc/vicuna)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 94 | 26 | 
+| 2023-04-14 | 94 | 26 | 
 | 2023-04-13 | 91 | 25 | 
 | 2023-04-12 | 91 | 25 | 
 | 2023-04-11 | 89 | 24 | 

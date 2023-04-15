@@ -1,10 +1,10 @@
 # cvg/GlueStick - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 13
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/cvg/GlueStick)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 182 | 13 | 
 | 2023-04-13 | 181 | 13 | 
 | 2023-04-12 | 180 | 13 | 
 | 2023-04-11 | 172 | 12 | 

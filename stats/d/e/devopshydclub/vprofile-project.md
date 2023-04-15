@@ -1,10 +1,10 @@
 # devopshydclub/vprofile-project - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 4319
+☋ Forks: 4333
 
-★ Stars: 944
+★ Stars: 945
 
 [Open repository](https://github.com/devopshydclub/vprofile-project)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 945 | 4333 | 
 | 2023-04-13 | 944 | 4319 | 
 | 2023-04-12 | 941 | 4310 | 
 | 2023-04-11 | 939 | 4297 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 863 | 4084 | 
 | 2023-03-18 | 856 | 4070 | 
 | 2023-03-16 | 852 | 4061 | 
-| 2023-03-15 | 849 | 4047 | 
 

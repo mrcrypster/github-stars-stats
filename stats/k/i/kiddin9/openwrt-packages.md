@@ -1,10 +1,10 @@
 # kiddin9/openwrt-packages - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 401
 
-★ Stars: 892
+★ Stars: 894
 
 [Open repository](https://github.com/kiddin9/openwrt-packages)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 894 | 401 | 
 | 2023-04-13 | 892 | 401 | 
 | 2023-04-12 | 890 | 401 | 
 | 2023-04-11 | 887 | 401 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 841 | 384 | 
 | 2023-03-17 | 841 | 382 | 
 | 2023-03-16 | 838 | 382 | 
-| 2023-03-15 | 833 | 381 | 
 

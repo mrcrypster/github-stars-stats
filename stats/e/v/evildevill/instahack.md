@@ -1,10 +1,10 @@
 # evildevill/instahack - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 241
+☋ Forks: 242
 
-★ Stars: 955
+★ Stars: 954
 
 [Open repository](https://github.com/evildevill/instahack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 954 | 242 | 
 | 2023-04-13 | 955 | 241 | 
 | 2023-04-12 | 955 | 241 | 
 | 2023-04-11 | 956 | 241 | 

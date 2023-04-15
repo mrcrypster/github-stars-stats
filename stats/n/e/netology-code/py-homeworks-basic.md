@@ -1,8 +1,8 @@
 # netology-code/py-homeworks-basic - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 116
+☋ Forks: 117
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 28 | 117 | 
 | 2023-04-13 | 28 | 116 | 
 | 2023-04-12 | 28 | 115 | 
 | 2023-04-11 | 28 | 115 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 28 | 107 | 
 | 2023-03-18 | 28 | 107 | 
 | 2023-03-16 | 28 | 107 | 
-| 2023-03-15 | 28 | 108 | 
 

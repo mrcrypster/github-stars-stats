@@ -1,6 +1,6 @@
 # cseroad/bypassAV - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 309 | 56 | 
 | 2023-04-13 | 309 | 56 | 
 | 2023-04-12 | 308 | 56 | 
 | 2023-04-11 | 308 | 56 | 

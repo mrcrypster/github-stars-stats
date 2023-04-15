@@ -1,10 +1,10 @@
 # Const-me/Whisper - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 159
+☋ Forks: 163
 
-★ Stars: 1773
+★ Stars: 1805
 
 [Open repository](https://github.com/Const-me/Whisper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1805 | 163 | 
 | 2023-04-13 | 1773 | 159 | 
 | 2023-04-12 | 1730 | 155 | 
 | 2023-04-11 | 1713 | 154 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 934 | 84 | 
 | 2023-03-17 | 916 | 80 | 
 | 2023-03-16 | 822 | 73 | 
-| 2023-03-15 | 694 | 54 | 
 

@@ -1,10 +1,10 @@
 # stochasticai/xturing - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 1471
+★ Stars: 1523
 
 [Open repository](https://github.com/stochasticai/xturing)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1523 | 103 | 
 | 2023-04-13 | 1471 | 102 | 
 | 2023-04-12 | 1435 | 100 | 
 | 2023-04-11 | 1397 | 95 | 

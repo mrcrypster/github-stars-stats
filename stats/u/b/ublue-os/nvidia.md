@@ -1,6 +1,6 @@
 # ublue-os/nvidia - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 61 | 10 | 
 | 2023-04-13 | 61 | 10 | 
 | 2023-04-12 | 59 | 10 | 
 | 2023-04-11 | 59 | 10 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 46 | 7 | 
 | 2023-03-18 | 45 | 7 | 
 | 2023-03-17 | 45 | 7 | 
-| 2023-03-16 | 45 | 7 | 
 

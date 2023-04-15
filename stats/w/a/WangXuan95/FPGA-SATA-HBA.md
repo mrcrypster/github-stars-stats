@@ -1,10 +1,10 @@
 # WangXuan95/FPGA-SATA-HBA - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/WangXuan95/FPGA-SATA-HBA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 33 | 6 | 
 | 2023-04-13 | 32 | 6 | 
 | 2023-04-12 | 32 | 6 | 
 | 2023-04-10 | 32 | 6 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 31 | 6 | 
 | 2023-03-18 | 31 | 6 | 
 | 2023-03-17 | 31 | 6 | 
-| 2023-03-16 | 31 | 6 | 
 

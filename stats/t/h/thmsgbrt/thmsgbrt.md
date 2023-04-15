@@ -1,6 +1,6 @@
 # thmsgbrt/thmsgbrt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 943
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 378 | 943 | 
 | 2023-04-13 | 378 | 943 | 
 | 2023-04-12 | 378 | 941 | 
 | 2023-04-11 | 377 | 938 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 372 | 925 | 
 | 2023-03-17 | 372 | 925 | 
 | 2023-03-16 | 372 | 925 | 
-| 2023-03-15 | 372 | 924 | 
 

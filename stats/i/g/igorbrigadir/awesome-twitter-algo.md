@@ -1,10 +1,10 @@
 # igorbrigadir/awesome-twitter-algo - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 372
+★ Stars: 377
 
 [Open repository](https://github.com/igorbrigadir/awesome-twitter-algo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 377 | 19 | 
 | 2023-04-13 | 372 | 18 | 
 | 2023-04-12 | 369 | 17 | 
 | 2023-04-11 | 360 | 17 | 

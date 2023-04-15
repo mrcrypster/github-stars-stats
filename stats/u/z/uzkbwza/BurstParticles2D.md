@@ -1,10 +1,10 @@
 # uzkbwza/BurstParticles2D - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/uzkbwza/BurstParticles2D)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 75 | 1 | 
 | 2023-04-13 | 74 | 1 | 
 

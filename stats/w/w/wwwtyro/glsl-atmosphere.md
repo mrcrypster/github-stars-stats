@@ -1,6 +1,6 @@
 # wwwtyro/glsl-atmosphere - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 536 | 45 | 
 | 2023-04-13 | 536 | 45 | 
 | 2023-04-12 | 537 | 45 | 
 | 2023-04-11 | 537 | 45 | 

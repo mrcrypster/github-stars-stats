@@ -1,10 +1,10 @@
 # coryetzkorn/twitter-algorithm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 155
+★ Stars: 157
 
 [Open repository](https://github.com/coryetzkorn/twitter-algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 157 | 23 | 
 | 2023-04-13 | 155 | 22 | 
 | 2023-04-12 | 154 | 22 | 
 | 2023-04-11 | 152 | 21 | 

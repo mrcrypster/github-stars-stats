@@ -1,6 +1,6 @@
 # barafael/cute-copter - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 18 | - | 
 | 2023-04-13 | 18 | - | 
 | 2023-04-11 | 18 | - | 
 | 2023-04-10 | 18 | - | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 18 | - | 
 | 2023-03-18 | 18 | - | 
 | 2023-03-17 | 18 | - | 
-| 2023-03-15 | 18 | - | 
 

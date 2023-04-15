@@ -1,6 +1,6 @@
 # cis571/lc4-labs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 19 | 83 | 
 | 2023-04-13 | 19 | 83 | 
 | 2023-04-12 | 19 | 83 | 
 | 2023-04-11 | 19 | 83 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 19 | 81 | 
 | 2023-03-17 | 19 | 81 | 
 | 2023-03-16 | 19 | 81 | 
-| 2023-03-15 | 19 | 81 | 
 

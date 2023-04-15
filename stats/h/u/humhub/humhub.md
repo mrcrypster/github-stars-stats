@@ -1,10 +1,10 @@
 # humhub/humhub - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1624
 
-★ Stars: 6039
+★ Stars: 6040
 
 [Open repository](https://github.com/humhub/humhub)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6040 | 1624 | 
 | 2023-04-13 | 6039 | 1624 | 
 | 2023-04-12 | 6038 | 1624 | 
 | 2023-04-11 | 6035 | 1624 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 6024 | 1625 | 
 | 2023-03-17 | 6024 | 1625 | 
 | 2023-03-16 | 6024 | 1626 | 
-| 2023-03-15 | 6022 | 1626 | 
 

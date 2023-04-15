@@ -1,10 +1,10 @@
 # r4wd3r/Suborner - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 427
+★ Stars: 429
 
 [Open repository](https://github.com/r4wd3r/Suborner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 429 | 56 | 
 | 2023-04-13 | 427 | 55 | 
 | 2023-04-12 | 420 | 55 | 
 | 2023-04-11 | 412 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 400 | 52 | 
 | 2023-03-17 | 400 | 52 | 
 | 2023-03-16 | 400 | 51 | 
-| 2023-03-15 | 400 | 51 | 
 

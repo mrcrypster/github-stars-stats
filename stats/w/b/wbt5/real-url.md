@@ -1,10 +1,10 @@
 # wbt5/real-url - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1402
+☋ Forks: 1403
 
-★ Stars: 6043
+★ Stars: 6048
 
 [Open repository](https://github.com/wbt5/real-url)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6048 | 1403 | 
 | 2023-04-13 | 6043 | 1402 | 
 | 2023-04-12 | 6036 | 1400 | 
 | 2023-04-11 | 6030 | 1399 | 

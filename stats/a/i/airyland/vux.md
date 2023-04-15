@@ -1,8 +1,8 @@
 # airyland/vux - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 3786
+☋ Forks: 3785
 
 ★ Stars: 17628
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 17628 | 3785 | 
 | 2023-04-13 | 17628 | 3786 | 
 | 2023-04-12 | 17630 | 3786 | 
 | 2023-04-11 | 17629 | 3786 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 17631 | 3796 | 
 | 2023-03-18 | 17632 | 3796 | 
 | 2023-03-16 | 17631 | 3796 | 
-| 2023-03-15 | 17632 | 3795 | 
 

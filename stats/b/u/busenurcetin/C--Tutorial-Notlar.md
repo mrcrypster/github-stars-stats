@@ -1,10 +1,10 @@
 # busenurcetin/C--Tutorial-Notlar - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/busenurcetin/C--Tutorial-Notlar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 37 | 2 | 
 | 2023-04-13 | 36 | 2 | 
 | 2023-04-12 | 36 | 2 | 
 | 2023-04-11 | 36 | 2 | 

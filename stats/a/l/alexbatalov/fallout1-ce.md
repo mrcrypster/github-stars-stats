@@ -1,10 +1,10 @@
 # alexbatalov/fallout1-ce - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 40
 
-★ Stars: 779
+★ Stars: 780
 
 [Open repository](https://github.com/alexbatalov/fallout1-ce)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 780 | 40 | 
 | 2023-04-13 | 779 | 40 | 
 | 2023-04-12 | 774 | 40 | 
 | 2023-04-11 | 774 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 759 | 36 | 
 | 2023-03-17 | 757 | 36 | 
 | 2023-03-16 | 756 | 35 | 
-| 2023-03-15 | 753 | 35 | 
 

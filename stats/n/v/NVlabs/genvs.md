@@ -1,10 +1,10 @@
 # NVlabs/genvs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 355
+★ Stars: 359
 
 [Open repository](https://github.com/NVlabs/genvs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 359 | 8 | 
 | 2023-04-13 | 355 | 8 | 
 | 2023-04-12 | 349 | 8 | 
 | 2023-04-11 | 334 | 7 | 

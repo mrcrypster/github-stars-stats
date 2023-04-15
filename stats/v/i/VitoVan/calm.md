@@ -1,10 +1,10 @@
 # VitoVan/calm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/VitoVan/calm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 61 | 2 | 
 | 2023-04-13 | 60 | 2 | 
 | 2023-04-12 | 60 | 2 | 
 | 2023-04-10 | 60 | 2 | 

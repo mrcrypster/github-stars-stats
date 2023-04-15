@@ -1,10 +1,10 @@
 # kenfehling/latex-cheatsheet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 86
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/kenfehling/latex-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 81 | 86 | 
 | 2023-04-13 | 80 | 86 | 
 | 2023-04-12 | 80 | 86 | 
 | 2023-04-11 | 80 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 76 | 85 | 
 | 2023-03-18 | 76 | 85 | 
 | 2023-03-17 | 76 | 85 | 
-| 2023-03-15 | 76 | 85 | 
 

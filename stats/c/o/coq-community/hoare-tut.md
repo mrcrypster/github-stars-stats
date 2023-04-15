@@ -1,6 +1,6 @@
 # coq-community/hoare-tut - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 15 | 2 | 
 | 2023-04-13 | 15 | 2 | 
 | 2023-04-12 | 15 | 2 | 
 | 2023-04-11 | 15 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 15 | 2 | 
 | 2023-03-18 | 15 | 2 | 
 | 2023-03-17 | 15 | 2 | 
-| 2023-03-16 | 15 | 2 | 
 

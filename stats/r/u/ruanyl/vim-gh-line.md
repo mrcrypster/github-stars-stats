@@ -1,8 +1,8 @@
 # ruanyl/vim-gh-line - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 376
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 376 | 35 | 
 | 2023-04-13 | 376 | 34 | 
 | 2023-04-12 | 375 | 34 | 
 | 2023-04-11 | 375 | 34 | 

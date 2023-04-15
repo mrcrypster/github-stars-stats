@@ -1,10 +1,10 @@
 # SSWConsulting/SSW.Rules.Content - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 129
+☋ Forks: 128
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/SSWConsulting/SSW.Rules.Content)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 30 | 128 | 
 | 2023-04-13 | 29 | 129 | 
 | 2023-04-12 | 29 | 129 | 
 | 2023-04-11 | 29 | 129 | 

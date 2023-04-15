@@ -1,6 +1,6 @@
 # isekaidev/stable.art - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 719 | 49 | 
 | 2023-04-13 | 719 | 49 | 
 | 2023-04-12 | 714 | 49 | 
 | 2023-04-11 | 712 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 623 | 38 | 
 | 2023-03-17 | 618 | 38 | 
 | 2023-03-16 | 615 | 35 | 
-| 2023-03-15 | 612 | 35 | 
 

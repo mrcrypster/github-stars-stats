@@ -1,6 +1,6 @@
 # bids-standard/bids-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 131 | 122 | 
 | 2023-04-13 | 131 | 122 | 
 | 2023-04-12 | 131 | 121 | 
 | 2023-04-11 | 130 | 121 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 128 | 120 | 
 | 2023-03-17 | 128 | 120 | 
 | 2023-03-16 | 128 | 119 | 
-| 2023-03-15 | 128 | 119 | 
 

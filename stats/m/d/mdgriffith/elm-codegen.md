@@ -1,10 +1,10 @@
 # mdgriffith/elm-codegen - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 11
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/mdgriffith/elm-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 113 | 11 | 
 | 2023-04-13 | 112 | 11 | 
 | 2023-04-12 | 112 | 11 | 
 | 2023-04-10 | 111 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 105 | 11 | 
 | 2023-03-17 | 105 | 11 | 
 | 2023-03-16 | 105 | 11 | 
-| 2023-03-15 | 105 | 11 | 
 

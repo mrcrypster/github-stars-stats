@@ -1,10 +1,10 @@
 # Azure/aca-landing-zone-accelerator - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/Azure/aca-landing-zone-accelerator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 25 | 18 | 
 | 2023-04-13 | 24 | 17 | 
 | 2023-04-12 | 23 | 17 | 
 | 2023-04-11 | 23 | 16 | 

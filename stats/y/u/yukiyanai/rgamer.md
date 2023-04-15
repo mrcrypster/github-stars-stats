@@ -1,6 +1,6 @@
 # yukiyanai/rgamer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 29 | 6 | 
 | 2023-04-13 | 29 | 6 | 
 | 2023-04-12 | 29 | 6 | 
 | 2023-04-11 | 28 | 6 | 

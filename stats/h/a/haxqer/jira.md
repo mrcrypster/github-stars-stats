@@ -1,8 +1,8 @@
 # haxqer/jira - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 144
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 144 | 81 | 
 | 2023-04-13 | 144 | 80 | 
 | 2023-04-12 | 143 | 80 | 
 | 2023-04-11 | 142 | 80 | 

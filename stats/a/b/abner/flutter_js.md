@@ -1,8 +1,8 @@
 # abner/flutter_js - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 359
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 359 | 87 | 
 | 2023-04-13 | 359 | 86 | 
 | 2023-04-12 | 359 | 86 | 
 | 2023-04-11 | 359 | 86 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 358 | 83 | 
 | 2023-03-18 | 358 | 82 | 
 | 2023-03-17 | 358 | 82 | 
-| 2023-03-15 | 357 | 82 | 
 

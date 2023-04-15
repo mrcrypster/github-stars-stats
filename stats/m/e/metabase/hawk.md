@@ -1,10 +1,10 @@
 # metabase/hawk - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/metabase/hawk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 24 | - | 
 | 2023-04-13 | 23 | - | 
 | 2023-04-12 | 23 | - | 
 | 2023-04-11 | 23 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 24 | - | 
 | 2023-03-18 | 24 | - | 
 | 2023-03-17 | 24 | - | 
-| 2023-03-16 | 24 | - | 
 

@@ -1,8 +1,8 @@
 # looker-open-source/bqml-accelerator-public-datasets - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 5 | 
 | 2023-04-13 | - | 4 | 
 | 2023-04-12 | - | 4 | 
 | 2023-04-11 | - | 4 | 

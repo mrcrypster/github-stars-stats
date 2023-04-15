@@ -1,10 +1,10 @@
 # chrisgrieser/nvim-spider - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 143
+★ Stars: 146
 
 [Open repository](https://github.com/chrisgrieser/nvim-spider)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 146 | 2 | 
 | 2023-04-13 | 143 | 2 | 
 | 2023-04-12 | 143 | 2 | 
 | 2023-04-11 | 140 | 2 | 

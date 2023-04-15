@@ -1,10 +1,10 @@
 # namuan/dr-doc-search - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 52
 
-★ Stars: 504
+★ Stars: 506
 
 [Open repository](https://github.com/namuan/dr-doc-search)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 506 | 52 | 
 | 2023-04-13 | 504 | 52 | 
 | 2023-04-12 | 502 | 52 | 
 | 2023-04-11 | 501 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 442 | 45 | 
 | 2023-03-17 | 441 | 45 | 
 | 2023-03-16 | 437 | 43 | 
-| 2023-03-15 | 433 | 43 | 
 

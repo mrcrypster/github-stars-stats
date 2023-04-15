@@ -1,6 +1,6 @@
 # blindnet-io/blindsend-server - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4 | 1 | 
 | 2023-04-13 | 4 | 1 | 
 | 2023-04-12 | 4 | 1 | 
 | 2023-04-10 | 4 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 5 | 1 | 
 | 2023-03-17 | 5 | 1 | 
 | 2023-03-16 | 5 | 1 | 
-| 2023-03-15 | 5 | 1 | 
 

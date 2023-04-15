@@ -1,10 +1,10 @@
 # lucidrains/toolformer-pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 61
 
-★ Stars: 1125
+★ Stars: 1130
 
 [Open repository](https://github.com/lucidrains/toolformer-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1130 | 61 | 
 | 2023-04-13 | 1125 | 61 | 
 | 2023-04-12 | 1108 | 61 | 
 | 2023-04-11 | 1099 | 59 | 

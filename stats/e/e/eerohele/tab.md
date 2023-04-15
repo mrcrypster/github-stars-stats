@@ -1,10 +1,10 @@
 # eerohele/tab - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 30
 
 [Open repository](https://github.com/eerohele/tab)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 30 | 2 | 
 | 2023-04-13 | 27 | 2 | 
 | 2023-04-12 | 27 | 2 | 
 | 2023-04-11 | 27 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 29 | 2 | 
 | 2023-03-18 | 29 | 2 | 
 | 2023-03-16 | 29 | 2 | 
-| 2023-03-15 | 29 | 2 | 
 

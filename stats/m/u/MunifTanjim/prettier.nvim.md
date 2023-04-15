@@ -1,10 +1,10 @@
 # MunifTanjim/prettier.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 158
+★ Stars: 160
 
 [Open repository](https://github.com/MunifTanjim/prettier.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 160 | 7 | 
 | 2023-04-13 | 158 | 7 | 
 | 2023-04-12 | 158 | 7 | 
 | 2023-04-10 | 157 | 7 | 

@@ -1,10 +1,10 @@
 # AztecProtocol/aztec-connect-bridges - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 149
+☋ Forks: 150
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/AztecProtocol/aztec-connect-bridges)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 229 | 150 | 
 | 2023-04-13 | 228 | 149 | 
 | 2023-04-12 | 228 | 149 | 
 | 2023-04-11 | 228 | 149 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 226 | 149 | 
 | 2023-03-17 | 226 | 149 | 
 | 2023-03-16 | 226 | 149 | 
-| 2023-03-15 | 225 | 149 | 
 

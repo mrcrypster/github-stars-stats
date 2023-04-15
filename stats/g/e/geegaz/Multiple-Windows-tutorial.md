@@ -1,10 +1,10 @@
 # geegaz/Multiple-Windows-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/geegaz/Multiple-Windows-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 50 | 3 | 
 | 2023-04-13 | 49 | 3 | 
 | 2023-04-12 | 49 | 3 | 
 | 2023-04-11 | 48 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 41 | 3 | 
 | 2023-03-18 | 38 | 2 | 
 | 2023-03-16 | 38 | 2 | 
-| 2023-03-15 | 33 | 2 | 
 

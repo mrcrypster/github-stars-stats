@@ -1,8 +1,8 @@
 # techwithtim/Python-Platformer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 137
+☋ Forks: 140
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 91 | 140 | 
 | 2023-04-13 | 91 | 137 | 
 | 2023-04-12 | 89 | 137 | 
 | 2023-04-11 | 89 | 137 | 

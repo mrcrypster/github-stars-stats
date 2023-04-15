@@ -1,8 +1,8 @@
 # rmcrackan/Libation - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 884
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 884 | 61 | 
 | 2023-04-13 | 884 | 60 | 
 | 2023-04-12 | 879 | 60 | 
 | 2023-04-11 | 875 | 60 | 

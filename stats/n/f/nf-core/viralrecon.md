@@ -1,6 +1,6 @@
 # nf-core/viralrecon - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 92 | 82 | 
 | 2023-04-13 | 92 | 82 | 
 | 2023-04-12 | 92 | 82 | 
 | 2023-04-11 | 92 | 82 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 92 | 80 | 
 | 2023-03-17 | 92 | 80 | 
 | 2023-03-16 | 92 | 80 | 
-| 2023-03-15 | 92 | 80 | 
 

@@ -1,10 +1,10 @@
 # gitdagray/html_course - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 449
+☋ Forks: 450
 
-★ Stars: 434
+★ Stars: 436
 
 [Open repository](https://github.com/gitdagray/html_course)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 436 | 450 | 
 | 2023-04-13 | 434 | 449 | 
 | 2023-04-12 | 433 | 447 | 
 | 2023-04-11 | 431 | 447 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 398 | 402 | 
 | 2023-03-18 | 397 | 401 | 
 | 2023-03-17 | 397 | 400 | 
-| 2023-03-15 | 396 | 399 | 
 

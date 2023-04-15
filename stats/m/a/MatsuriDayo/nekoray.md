@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 197
 
-★ Stars: 2207
+★ Stars: 2224
 
 [Open repository](https://github.com/MatsuriDayo/nekoray)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 2207 | 197 | 
+| 2023-04-14 | 2224 | 197 | 
 | 2023-04-13 | 2206 | 197 | 
 | 2023-04-12 | 2188 | 198 | 
 | 2023-04-11 | 2182 | 197 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 1880 | 166 | 
 | 2023-03-18 | 1873 | 165 | 
 | 2023-03-16 | 1862 | 164 | 
-| 2023-03-15 | 1840 | 163 | 
 

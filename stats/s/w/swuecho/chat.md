@@ -1,10 +1,10 @@
 # swuecho/chat - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 20
+☋ Forks: 19
 
-★ Stars: 90
+★ Stars: 93
 
 [Open repository](https://github.com/swuecho/chat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 93 | 19 | 
 | 2023-04-13 | 90 | 20 | 
 | 2023-04-12 | 82 | 16 | 
 | 2023-04-11 | 78 | 16 | 

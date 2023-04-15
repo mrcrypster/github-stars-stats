@@ -1,6 +1,6 @@
 # excid3/beginnerbounties.com - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 74 | 22 | 
 | 2023-04-13 | 74 | 22 | 
 | 2023-04-12 | 74 | 22 | 
 | 2023-04-11 | 74 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 74 | 20 | 
 | 2023-03-17 | 74 | 20 | 
 | 2023-03-16 | 74 | 20 | 
-| 2023-03-15 | 74 | 20 | 
 

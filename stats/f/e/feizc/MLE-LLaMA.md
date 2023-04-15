@@ -1,6 +1,6 @@
 # feizc/MLE-LLaMA - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 236 | 14 | 
 | 2023-04-13 | 236 | 14 | 
 | 2023-04-12 | 236 | 14 | 
 | 2023-04-11 | 234 | 14 | 

@@ -1,10 +1,10 @@
 # ExzoNetwork/DeFi-Wallet-Assets - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 120
+☋ Forks: 121
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/ExzoNetwork/DeFi-Wallet-Assets)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 180 | 121 | 
 | 2023-04-13 | 179 | 120 | 
 | 2023-04-12 | 179 | 120 | 
 | 2023-04-11 | 179 | 120 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 172 | 115 | 
 | 2023-03-18 | 172 | 115 | 
 | 2023-03-17 | 171 | 115 | 
-| 2023-03-15 | 172 | 115 | 
 

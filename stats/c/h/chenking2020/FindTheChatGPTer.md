@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 256
+★ Stars: 283
 
 [Open repository](https://github.com/chenking2020/FindTheChatGPTer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 256 | 21 | 
+| 2023-04-14 | 283 | 22 | 
 | 2023-04-13 | 255 | 20 | 
 | 2023-04-12 | 224 | 19 | 
 

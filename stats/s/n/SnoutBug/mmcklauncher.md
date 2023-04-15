@@ -1,6 +1,6 @@
 # SnoutBug/mmcklauncher - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 92 | 14 | 
 | 2023-04-13 | 92 | 14 | 
 | 2023-04-12 | 92 | 14 | 
 | 2023-04-11 | 91 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 90 | 14 | 
 | 2023-03-17 | 90 | 14 | 
 | 2023-03-16 | 90 | 14 | 
-| 2023-03-15 | 90 | 14 | 
 

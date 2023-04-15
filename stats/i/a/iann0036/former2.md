@@ -1,10 +1,10 @@
 # iann0036/former2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 207
+☋ Forks: 208
 
-★ Stars: 1701
+★ Stars: 1702
 
 [Open repository](https://github.com/iann0036/former2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1702 | 208 | 
 | 2023-04-13 | 1701 | 207 | 
 | 2023-04-12 | 1696 | 207 | 
 | 2023-04-11 | 1694 | 207 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1658 | 202 | 
 | 2023-03-18 | 1657 | 202 | 
 | 2023-03-16 | 1654 | 202 | 
-| 2023-03-15 | 1651 | 201 | 
 

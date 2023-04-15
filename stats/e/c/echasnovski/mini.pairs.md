@@ -1,10 +1,10 @@
 # echasnovski/mini.pairs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/echasnovski/mini.pairs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 21 | - | 
 | 2023-04-13 | 20 | - | 
 | 2023-04-12 | 20 | - | 
 | 2023-04-11 | 20 | - | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 15 | - | 
 | 2023-03-18 | 15 | - | 
 | 2023-03-16 | 15 | - | 
-| 2023-03-15 | 15 | - | 
 

@@ -1,6 +1,6 @@
 # teamdigitale/licenses - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 25 | 58 | 
 | 2023-04-13 | 25 | 58 | 
 | 2023-04-12 | 25 | 58 | 
 | 2023-04-10 | 25 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 24 | 58 | 
 | 2023-03-18 | 24 | 58 | 
 | 2023-03-16 | 24 | 58 | 
-| 2023-03-15 | 24 | 57 | 
 

@@ -1,10 +1,10 @@
 # uezo/ChatdollKit - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 35
 
-★ Stars: 395
+★ Stars: 401
 
 [Open repository](https://github.com/uezo/ChatdollKit)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 401 | 35 | 
+| 2023-04-14 | 399 | 35 | 
 | 2023-04-13 | 395 | 35 | 
 | 2023-04-12 | 375 | 33 | 
 | 2023-04-11 | 313 | 31 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 123 | 12 | 
 | 2023-03-17 | 123 | 12 | 
 | 2023-03-16 | 123 | 12 | 
-| 2023-03-15 | 122 | 12 | 
 

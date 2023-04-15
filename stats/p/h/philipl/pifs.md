@@ -1,10 +1,10 @@
 # philipl/pifs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 288
 
-★ Stars: 6135
+★ Stars: 6133
 
 [Open repository](https://github.com/philipl/pifs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6133 | 288 | 
 | 2023-04-13 | 6135 | 288 | 
 | 2023-04-12 | 6135 | 288 | 
 | 2023-04-11 | 6136 | 288 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 6121 | 288 | 
 | 2023-03-18 | 6118 | 288 | 
 | 2023-03-17 | 6117 | 288 | 
-| 2023-03-15 | 6112 | 288 | 
 

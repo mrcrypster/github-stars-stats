@@ -1,10 +1,10 @@
 # sysplu/Nullify - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 156
+☋ Forks: 159
 
-★ Stars: 115
+★ Stars: 0
 
 [Open repository](https://github.com/sysplu/Nullify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 159 | 
 | 2023-04-13 | 115 | 156 | 
 | 2023-04-12 | 114 | 156 | 
 | 2023-04-11 | 115 | 153 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 93 | 104 | 
 | 2023-03-18 | 91 | 104 | 
 | 2023-03-16 | 87 | 101 | 
-| 2023-03-15 | 86 | 96 | 
 

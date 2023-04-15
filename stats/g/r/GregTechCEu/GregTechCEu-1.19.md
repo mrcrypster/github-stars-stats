@@ -1,6 +1,6 @@
 # GregTechCEu/GregTechCEu-1.19 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 61 | 19 | 
 | 2023-04-13 | 61 | 19 | 
 | 2023-04-12 | 60 | 19 | 
 | 2023-04-11 | 58 | 18 | 

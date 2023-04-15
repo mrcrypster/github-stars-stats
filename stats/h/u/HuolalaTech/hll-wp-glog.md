@@ -1,10 +1,10 @@
 # HuolalaTech/hll-wp-glog - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 263
+★ Stars: 262
 
 [Open repository](https://github.com/HuolalaTech/hll-wp-glog)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 262 | 31 | 
 | 2023-04-13 | 263 | 31 | 
 | 2023-04-12 | 262 | 31 | 
 | 2023-04-11 | 263 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 241 | 25 | 
 | 2023-03-17 | 241 | 25 | 
 | 2023-03-16 | 241 | 25 | 
-| 2023-03-15 | 240 | 25 | 
 

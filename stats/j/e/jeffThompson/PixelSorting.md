@@ -1,6 +1,6 @@
 # jeffThompson/PixelSorting - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 400 | 64 | 
 | 2023-04-13 | 400 | 64 | 
 | 2023-04-12 | 399 | 64 | 
 | 2023-04-11 | 399 | 64 | 

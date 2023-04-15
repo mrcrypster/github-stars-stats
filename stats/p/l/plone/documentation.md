@@ -1,10 +1,10 @@
 # plone/documentation - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 140
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/plone/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 68 | 140 | 
 | 2023-04-13 | 67 | 140 | 
 | 2023-04-12 | 67 | 140 | 
 | 2023-04-11 | 67 | 140 | 

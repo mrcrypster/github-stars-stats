@@ -1,6 +1,6 @@
 # duarteocarmo/boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 57 | 6 | 
 | 2023-04-13 | 57 | 6 | 
 | 2023-04-12 | 54 | 6 | 
 | 2023-04-10 | 54 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 42 | 5 | 
 | 2023-03-17 | 42 | 5 | 
 | 2023-03-16 | 39 | 5 | 
-| 2023-03-15 | 37 | 5 | 
 

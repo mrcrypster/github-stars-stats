@@ -1,6 +1,6 @@
 # ChainShot/Local-Hardhat-Games - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 7 | 53 | 
 | 2023-04-13 | 7 | 53 | 
 | 2023-04-12 | 7 | 53 | 
 | 2023-04-11 | 7 | 52 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 5 | 43 | 
 | 2023-03-17 | 5 | 43 | 
 | 2023-03-16 | 5 | 43 | 
-| 2023-03-15 | 5 | 43 | 
 

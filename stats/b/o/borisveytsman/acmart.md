@@ -1,6 +1,6 @@
 # borisveytsman/acmart - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 438 | 245 | 
 | 2023-04-13 | 438 | 245 | 
 | 2023-04-12 | 437 | 245 | 
 | 2023-04-11 | 436 | 245 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 432 | 243 | 
 | 2023-03-18 | 432 | 243 | 
 | 2023-03-16 | 432 | 243 | 
-| 2023-03-15 | 432 | 242 | 
 

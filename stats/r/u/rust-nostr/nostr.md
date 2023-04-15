@@ -1,10 +1,10 @@
 # rust-nostr/nostr - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 33
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/rust-nostr/nostr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 180 | 33 | 
 | 2023-04-13 | 179 | 33 | 
 | 2023-04-12 | 177 | 33 | 
 | 2023-04-11 | 177 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 157 | 29 | 
 | 2023-03-18 | 156 | 28 | 
 | 2023-03-17 | 155 | 28 | 
-| 2023-03-15 | 151 | 27 | 
 

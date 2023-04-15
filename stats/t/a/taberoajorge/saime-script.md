@@ -1,10 +1,10 @@
 # taberoajorge/saime-script - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/taberoajorge/saime-script)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 181 | 27 | 
 | 2023-04-13 | 180 | 27 | 
 | 2023-04-12 | 180 | 27 | 
 | 2023-04-11 | 180 | 27 | 

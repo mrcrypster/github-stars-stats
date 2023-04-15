@@ -1,10 +1,10 @@
 # Xpndable/DotUI - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/Xpndable/DotUI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 49 | 6 | 
 | 2023-04-13 | 48 | 6 | 
 | 2023-04-12 | 48 | 6 | 
 | 2023-04-11 | 48 | 6 | 

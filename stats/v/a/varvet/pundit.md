@@ -1,10 +1,10 @@
 # varvet/pundit - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 607
 
-★ Stars: 7921
+★ Stars: 7922
 
 [Open repository](https://github.com/varvet/pundit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 7922 | 607 | 
 | 2023-04-13 | 7921 | 607 | 
 | 2023-04-12 | 7918 | 607 | 
 | 2023-04-11 | 7915 | 607 | 

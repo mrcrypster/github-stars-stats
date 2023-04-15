@@ -1,10 +1,10 @@
 # lightrush/framework-laptop-formula - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/lightrush/framework-laptop-formula)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 87 | 7 | 
 | 2023-04-13 | 86 | 7 | 
 | 2023-04-12 | 86 | 7 | 
 | 2023-04-11 | 86 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 86 | 7 | 
 | 2023-03-18 | 86 | 7 | 
 | 2023-03-16 | 86 | 7 | 
-| 2023-03-15 | 86 | 7 | 
 

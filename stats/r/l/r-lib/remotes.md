@@ -1,10 +1,10 @@
 # r-lib/remotes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 149
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/r-lib/remotes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 287 | 149 | 
 | 2023-04-13 | 286 | 149 | 
 | 2023-04-12 | 286 | 149 | 
 | 2023-04-11 | 286 | 149 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 286 | 147 | 
 | 2023-03-17 | 286 | 147 | 
 | 2023-03-16 | 286 | 147 | 
-| 2023-03-15 | 286 | 147 | 
 

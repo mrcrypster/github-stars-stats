@@ -1,10 +1,10 @@
 # jvns/vue3-tiny-template - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/jvns/vue3-tiny-template)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 170 | 9 | 
 | 2023-04-13 | 169 | 9 | 
 | 2023-04-12 | 169 | 9 | 
 | 2023-04-11 | 169 | 9 | 

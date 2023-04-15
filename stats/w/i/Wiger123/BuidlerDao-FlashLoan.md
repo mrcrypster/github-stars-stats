@@ -1,10 +1,10 @@
 # Wiger123/BuidlerDao-FlashLoan - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 67
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/Wiger123/BuidlerDao-FlashLoan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 106 | 67 | 
 | 2023-04-13 | 105 | 67 | 
 | 2023-04-12 | 105 | 67 | 
 | 2023-04-11 | 104 | 67 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 100 | 65 | 
 | 2023-03-18 | 100 | 65 | 
 | 2023-03-17 | 100 | 65 | 
-| 2023-03-15 | 100 | 65 | 
 

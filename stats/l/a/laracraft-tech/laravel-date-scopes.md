@@ -1,10 +1,10 @@
 # laracraft-tech/laravel-date-scopes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 171
+★ Stars: 179
 
 [Open repository](https://github.com/laracraft-tech/laravel-date-scopes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 179 | 9 | 
 | 2023-04-13 | 171 | 9 | 
 | 2023-04-12 | 148 | 8 | 
 | 2023-04-11 | 93 | 5 | 

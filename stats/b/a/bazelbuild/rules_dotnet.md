@@ -1,10 +1,10 @@
 # bazelbuild/rules_dotnet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 78
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/bazelbuild/rules_dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 153 | 78 | 
 | 2023-04-13 | 152 | 78 | 
 | 2023-04-12 | 152 | 78 | 
 | 2023-04-11 | 152 | 78 | 

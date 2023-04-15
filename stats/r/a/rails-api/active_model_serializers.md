@@ -1,6 +1,6 @@
 # rails-api/active_model_serializers - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1410
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 5280 | 1410 | 
 | 2023-04-13 | 5280 | 1410 | 
 | 2023-04-12 | 5279 | 1410 | 
 | 2023-04-11 | 5278 | 1410 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 5273 | 1403 | 
 | 2023-03-18 | 5273 | 1403 | 
 | 2023-03-16 | 5272 | 1403 | 
-| 2023-03-15 | 5271 | 1402 | 
 

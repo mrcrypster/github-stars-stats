@@ -1,6 +1,6 @@
 # jacktasia/dumb-jump - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1455 | 143 | 
 | 2023-04-13 | 1455 | 143 | 
 | 2023-04-12 | 1454 | 143 | 
 | 2023-04-11 | 1453 | 143 | 

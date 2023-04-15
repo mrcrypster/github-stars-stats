@@ -1,8 +1,8 @@
 # schnensch0/zelk - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 245
+☋ Forks: 244
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 174 | 244 | 
 | 2023-04-13 | 174 | 245 | 
 | 2023-04-12 | 174 | 245 | 
 | 2023-04-11 | 174 | 240 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 166 | 111 | 
 | 2023-03-18 | 166 | 108 | 
 | 2023-03-17 | 166 | 103 | 
-| 2023-03-15 | 166 | 102 | 
 

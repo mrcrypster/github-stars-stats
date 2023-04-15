@@ -1,6 +1,6 @@
 # jbilcke/web4 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 236 | 15 | 
 | 2023-04-13 | 236 | 15 | 
 | 2023-04-12 | 235 | 14 | 
 | 2023-04-11 | 235 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 224 | 13 | 
 | 2023-03-17 | 224 | 13 | 
 | 2023-03-16 | 223 | 13 | 
-| 2023-03-15 | 223 | 13 | 
 

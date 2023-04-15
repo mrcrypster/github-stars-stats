@@ -1,10 +1,10 @@
 # academind/flutter-complete-guide-course-resources - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 11
+☋ Forks: 14
 
-★ Stars: 23
+★ Stars: 26
 
 [Open repository](https://github.com/academind/flutter-complete-guide-course-resources)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 26 | 14 | 
 | 2023-04-13 | 23 | 11 | 
 

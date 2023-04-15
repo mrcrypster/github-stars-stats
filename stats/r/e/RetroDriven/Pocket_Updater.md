@@ -1,6 +1,6 @@
 # RetroDriven/Pocket_Updater - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 235 | 10 | 
 | 2023-04-13 | 235 | 10 | 
 | 2023-04-12 | 234 | 10 | 
 | 2023-04-11 | 234 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 227 | 10 | 
 | 2023-03-17 | 227 | 10 | 
 | 2023-03-16 | 228 | 10 | 
-| 2023-03-15 | 228 | 10 | 
 

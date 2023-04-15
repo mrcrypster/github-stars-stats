@@ -1,10 +1,10 @@
 # GPTGenius/chatgpt-vercel - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 122
+☋ Forks: 126
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/GPTGenius/chatgpt-vercel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 205 | 126 | 
 | 2023-04-13 | 204 | 122 | 
 | 2023-04-12 | 199 | 118 | 
 | 2023-04-11 | 196 | 116 | 

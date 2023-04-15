@@ -1,6 +1,6 @@
 # johndempster/RatCVS - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 8 | 14 | 
 | 2023-04-13 | 8 | 14 | 
 | 2023-04-11 | 8 | 14 | 
 | 2023-04-10 | 8 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 8 | 14 | 
 | 2023-03-18 | 8 | 14 | 
 | 2023-03-16 | 8 | 14 | 
-| 2023-03-15 | 8 | 14 | 
 

@@ -1,10 +1,10 @@
 # redbadger/crux - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 493
+★ Stars: 496
 
 [Open repository](https://github.com/redbadger/crux)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 496 | 16 | 
 | 2023-04-13 | 493 | 15 | 
 | 2023-04-12 | 492 | 15 | 
 | 2023-04-11 | 492 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 412 | 12 | 
 | 2023-03-17 | 405 | 12 | 
 | 2023-03-16 | 391 | 12 | 
-| 2023-03-15 | 377 | 12 | 
 

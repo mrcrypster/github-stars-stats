@@ -1,10 +1,10 @@
 # pr0gr4m/Newbie-Guideline - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 158
 
-★ Stars: 1307
+★ Stars: 1309
 
 [Open repository](https://github.com/pr0gr4m/Newbie-Guideline)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1309 | 158 | 
 | 2023-04-13 | 1307 | 158 | 
 | 2023-04-12 | 1306 | 158 | 
 | 2023-04-10 | 1303 | 158 | 

@@ -1,10 +1,10 @@
 # erikbern/ann-benchmarks - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 526
+☋ Forks: 529
 
-★ Stars: 3404
+★ Stars: 3413
 
 [Open repository](https://github.com/erikbern/ann-benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3413 | 529 | 
 | 2023-04-13 | 3404 | 526 | 
 | 2023-04-12 | 3391 | 524 | 
 | 2023-04-11 | 3386 | 523 | 

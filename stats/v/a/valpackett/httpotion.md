@@ -1,10 +1,10 @@
 # valpackett/httpotion - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 104
 
-★ Stars: 728
+★ Stars: 729
 
 [Open repository](https://github.com/valpackett/httpotion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 729 | 104 | 
 | 2023-04-13 | 728 | 104 | 
 | 2023-04-12 | 728 | 104 | 
 | 2023-04-11 | 727 | 104 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 727 | 104 | 
 | 2023-03-17 | 727 | 104 | 
 | 2023-03-16 | 727 | 104 | 
-| 2023-03-15 | 727 | 104 | 
 

@@ -1,6 +1,6 @@
 # askfiy/nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 188 | 24 | 
 | 2023-04-13 | 188 | 24 | 
 | 2023-04-12 | 187 | 24 | 
 | 2023-04-11 | 187 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 183 | 24 | 
 | 2023-03-17 | 183 | 24 | 
 | 2023-03-16 | 183 | 24 | 
-| 2023-03-15 | 183 | 24 | 
 

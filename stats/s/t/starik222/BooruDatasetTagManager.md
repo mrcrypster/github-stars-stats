@@ -1,10 +1,10 @@
 # starik222/BooruDatasetTagManager - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 16
 
-★ Stars: 248
+★ Stars: 256
 
 [Open repository](https://github.com/starik222/BooruDatasetTagManager)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 256 | 16 | 
 | 2023-04-13 | 248 | 16 | 
 | 2023-04-12 | 244 | 16 | 
 | 2023-04-11 | 241 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 128 | 11 | 
 | 2023-03-17 | 125 | 11 | 
 | 2023-03-16 | 120 | 11 | 
-| 2023-03-15 | 117 | 11 | 
 

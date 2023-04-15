@@ -1,10 +1,10 @@
 # sub-store-org/Sub-Store - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 237
+☋ Forks: 238
 
-★ Stars: 2357
+★ Stars: 2359
 
 [Open repository](https://github.com/sub-store-org/Sub-Store)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2359 | 238 | 
 | 2023-04-13 | 2357 | 237 | 
 | 2023-04-12 | 2353 | 237 | 
 | 2023-04-11 | 2347 | 236 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2272 | 227 | 
 | 2023-03-17 | 2273 | 222 | 
 | 2023-03-16 | 2270 | 222 | 
-| 2023-03-15 | 2266 | 219 | 
 

@@ -1,6 +1,6 @@
 # paper-trail-gem/paper_trail - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 872
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6526 | 872 | 
 | 2023-04-13 | 6526 | 872 | 
 | 2023-04-12 | 6523 | 872 | 
 | 2023-04-11 | 6521 | 871 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 6502 | 870 | 
 | 2023-03-17 | 6502 | 870 | 
 | 2023-03-16 | 6500 | 870 | 
-| 2023-03-15 | 6499 | 870 | 
 

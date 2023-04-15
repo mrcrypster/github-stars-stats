@@ -1,10 +1,10 @@
 # nate-sys/muc - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/nate-sys/muc)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 185 | 9 | 
 | 2023-04-13 | 184 | 9 | 
 | 2023-04-11 | 184 | 9 | 
 | 2023-04-10 | 184 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 178 | 9 | 
 | 2023-03-18 | 178 | 10 | 
 | 2023-03-17 | 178 | 10 | 
-| 2023-03-15 | 178 | 10 | 
 

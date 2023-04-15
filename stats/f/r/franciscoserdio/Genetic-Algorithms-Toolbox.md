@@ -1,6 +1,6 @@
 # franciscoserdio/Genetic-Algorithms-Toolbox - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 41 | 31 | 
 | 2023-04-13 | 41 | 31 | 
 | 2023-04-12 | 41 | 31 | 
 | 2023-04-11 | 41 | 31 | 

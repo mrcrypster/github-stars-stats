@@ -1,6 +1,6 @@
 # virtan/eep - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 232 | 33 | 
 | 2023-04-13 | 232 | 33 | 
 | 2023-04-12 | 232 | 33 | 
 | 2023-04-11 | 232 | 33 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 231 | 33 | 
 | 2023-03-17 | 231 | 33 | 
 | 2023-03-16 | 231 | 33 | 
-| 2023-03-15 | 231 | 33 | 
 

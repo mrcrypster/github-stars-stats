@@ -1,10 +1,10 @@
 # skydoves/landscapist - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 88
 
-★ Stars: 1534
+★ Stars: 1539
 
 [Open repository](https://github.com/skydoves/landscapist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1539 | 88 | 
 | 2023-04-13 | 1534 | 88 | 
 | 2023-04-12 | 1534 | 88 | 
 | 2023-04-11 | 1532 | 88 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1498 | 87 | 
 | 2023-03-18 | 1497 | 87 | 
 | 2023-03-17 | 1494 | 87 | 
-| 2023-03-16 | 1491 | 87 | 
 

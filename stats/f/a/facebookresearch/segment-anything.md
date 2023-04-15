@@ -1,10 +1,10 @@
 # facebookresearch/segment-anything - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 2411
+☋ Forks: 2522
 
-★ Stars: 25510
+★ Stars: 26313
 
 [Open repository](https://github.com/facebookresearch/segment-anything)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 26313 | 2522 | 
 | 2023-04-13 | 25510 | 2411 | 
 | 2023-04-12 | 24713 | 2290 | 
 | 2023-04-11 | 24171 | 2234 | 

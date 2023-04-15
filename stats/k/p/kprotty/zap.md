@@ -1,10 +1,10 @@
 # kprotty/zap - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 13
 
-★ Stars: 326
+★ Stars: 325
 
 [Open repository](https://github.com/kprotty/zap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 325 | 13 | 
 | 2023-04-13 | 326 | 13 | 
 | 2023-04-12 | 326 | 13 | 
 | 2023-04-10 | 326 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 320 | 13 | 
 | 2023-03-18 | 320 | 13 | 
 | 2023-03-17 | 320 | 13 | 
-| 2023-03-16 | 319 | 13 | 
 

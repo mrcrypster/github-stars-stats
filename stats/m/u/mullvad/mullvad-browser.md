@@ -1,10 +1,10 @@
 # mullvad/mullvad-browser - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 467
+★ Stars: 474
 
 [Open repository](https://github.com/mullvad/mullvad-browser)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 474 | 8 | 
 | 2023-04-13 | 467 | 8 | 
 | 2023-04-12 | 454 | 8 | 
 | 2023-04-11 | 420 | 8 | 

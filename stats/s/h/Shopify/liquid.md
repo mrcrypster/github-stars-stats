@@ -1,8 +1,8 @@
 # Shopify/liquid - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1326
+☋ Forks: 1327
 
 ★ Stars: 10178
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 10178 | 1327 | 
 | 2023-04-13 | 10178 | 1326 | 
 | 2023-04-12 | 10177 | 1326 | 
 | 2023-04-11 | 10174 | 1325 | 

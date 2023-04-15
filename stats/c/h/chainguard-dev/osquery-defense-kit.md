@@ -1,6 +1,6 @@
 # chainguard-dev/osquery-defense-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 417 | 24 | 
 | 2023-04-13 | 417 | 24 | 
 | 2023-04-12 | 417 | 24 | 
 | 2023-04-11 | 417 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 410 | 23 | 
 | 2023-03-18 | 409 | 23 | 
 | 2023-03-17 | 409 | 23 | 
-| 2023-03-15 | 407 | 23 | 
 

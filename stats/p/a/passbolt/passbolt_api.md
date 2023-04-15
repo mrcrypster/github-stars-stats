@@ -1,10 +1,10 @@
 # passbolt/passbolt_api - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 266
+☋ Forks: 267
 
-★ Stars: 3698
+★ Stars: 3701
 
 [Open repository](https://github.com/passbolt/passbolt_api)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3701 | 267 | 
 | 2023-04-13 | 3698 | 266 | 
 | 2023-04-12 | 3696 | 265 | 
 | 2023-04-11 | 3694 | 265 | 

@@ -1,6 +1,6 @@
 # UCLAdeepvision/CS188-Projects-2023Winter - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 63 | 
 | 2023-04-13 | - | 63 | 
 | 2023-04-12 | - | 63 | 
 | 2023-04-11 | - | 63 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | - | 60 | 
 | 2023-03-18 | - | 60 | 
 | 2023-03-17 | - | 60 | 
-| 2023-03-15 | - | 60 | 
 

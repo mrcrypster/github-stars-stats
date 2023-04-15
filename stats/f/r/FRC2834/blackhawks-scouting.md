@@ -1,8 +1,8 @@
 # FRC2834/blackhawks-scouting - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 8 | 58 | 
 | 2023-04-13 | 8 | 57 | 
 | 2023-04-12 | 8 | 57 | 
 | 2023-04-10 | 8 | 57 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 7 | 54 | 
 | 2023-03-18 | 7 | 52 | 
 | 2023-03-16 | 7 | 53 | 
-| 2023-03-15 | 7 | 53 | 
 

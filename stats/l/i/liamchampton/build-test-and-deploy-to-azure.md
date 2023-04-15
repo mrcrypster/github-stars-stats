@@ -1,8 +1,8 @@
 # liamchampton/build-test-and-deploy-to-azure - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2 | 16 | 
 | 2023-04-13 | 2 | 15 | 
 | 2023-04-12 | 2 | 11 | 
 | 2023-04-11 | 1 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1 | 6 | 
 | 2023-03-17 | 1 | 6 | 
 | 2023-03-16 | 1 | 6 | 
-| 2023-03-15 | 1 | 5 | 
 

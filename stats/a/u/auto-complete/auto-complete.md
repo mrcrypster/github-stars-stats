@@ -1,10 +1,10 @@
 # auto-complete/auto-complete - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 295
 
-★ Stars: 1684
+★ Stars: 1683
 
 [Open repository](https://github.com/auto-complete/auto-complete)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1683 | 295 | 
 | 2023-04-13 | 1684 | 295 | 
 | 2023-04-12 | 1683 | 295 | 
 | 2023-04-11 | 1683 | 295 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1679 | 295 | 
 | 2023-03-18 | 1679 | 295 | 
 | 2023-03-16 | 1678 | 295 | 
-| 2023-03-15 | 1678 | 295 | 
 

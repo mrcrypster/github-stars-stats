@@ -1,10 +1,10 @@
 # facebook/lexical-ios - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 275
+★ Stars: 277
 
 [Open repository](https://github.com/facebook/lexical-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 277 | 4 | 
 | 2023-04-13 | 275 | 4 | 
 | 2023-04-12 | 270 | 4 | 
 | 2023-04-11 | 269 | 4 | 

@@ -1,8 +1,8 @@
 # broadinstitute/firecloud-orchestration - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 28 | 5 | 
 | 2023-04-13 | 28 | 4 | 
 | 2023-04-12 | 28 | 4 | 
 | 2023-04-11 | 28 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 28 | 4 | 
 | 2023-03-18 | 28 | 4 | 
 | 2023-03-16 | 28 | 4 | 
-| 2023-03-15 | 28 | 4 | 
 

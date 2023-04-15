@@ -1,10 +1,10 @@
 # YuxinWenRick/hard-prompts-made-easy - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 37
 
-★ Stars: 383
+★ Stars: 385
 
 [Open repository](https://github.com/YuxinWenRick/hard-prompts-made-easy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 385 | 37 | 
 | 2023-04-13 | 383 | 37 | 
 | 2023-04-12 | 382 | 37 | 
 | 2023-04-11 | 379 | 37 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 365 | 33 | 
 | 2023-03-18 | 365 | 32 | 
 | 2023-03-17 | 365 | 32 | 
-| 2023-03-15 | 363 | 32 | 
 

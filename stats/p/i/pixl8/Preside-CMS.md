@@ -1,6 +1,6 @@
 # pixl8/Preside-CMS - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 69 | 70 | 
 | 2023-04-13 | 69 | 70 | 
 | 2023-04-12 | 69 | 70 | 
 | 2023-04-11 | 69 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 70 | 70 | 
 | 2023-03-18 | 70 | 70 | 
 | 2023-03-16 | 70 | 70 | 
-| 2023-03-15 | 70 | 70 | 
 

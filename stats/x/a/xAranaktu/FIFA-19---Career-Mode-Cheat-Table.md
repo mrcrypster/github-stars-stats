@@ -1,6 +1,6 @@
 # xAranaktu/FIFA-19---Career-Mode-Cheat-Table - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 63 | 42 | 
 | 2023-04-13 | 63 | 42 | 
 | 2023-04-12 | 63 | 42 | 
 | 2023-04-11 | 63 | 42 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 64 | 43 | 
 | 2023-03-18 | 64 | 43 | 
 | 2023-03-16 | 64 | 43 | 
-| 2023-03-15 | 64 | 43 | 
 

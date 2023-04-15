@@ -1,6 +1,6 @@
 # FaceOnLive/ID-Card-Passport-Recognition-SDK-Android - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 207 | 99 | 
 | 2023-04-13 | 207 | 99 | 
 | 2023-04-12 | 207 | 99 | 
 | 2023-04-11 | 208 | 99 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 207 | 99 | 
 | 2023-03-17 | 207 | 99 | 
 | 2023-03-16 | 207 | 99 | 
-| 2023-03-15 | 207 | 99 | 
 

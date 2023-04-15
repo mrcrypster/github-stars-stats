@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 358
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/education/PR-TalentLandMX)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 42 | 358 | 
+| 2023-04-14 | 43 | 358 | 
 | 2023-04-13 | 42 | 357 | 
 

@@ -1,10 +1,10 @@
 # sw-yx/prompt-eng - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 199
 
-★ Stars: 2682
+★ Stars: 2693
 
 [Open repository](https://github.com/sw-yx/prompt-eng)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2693 | 199 | 
 | 2023-04-13 | 2682 | 199 | 
 | 2023-04-12 | 2652 | 198 | 
 | 2023-04-11 | 2620 | 196 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2078 | 147 | 
 | 2023-03-18 | 2072 | 146 | 
 | 2023-03-16 | 2066 | 143 | 
-| 2023-03-15 | 2057 | 143 | 
 

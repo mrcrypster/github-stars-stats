@@ -1,6 +1,6 @@
 # sasa1977/parent - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 252 | 19 | 
 | 2023-04-13 | 252 | 19 | 
 | 2023-04-12 | 252 | 19 | 
 | 2023-04-11 | 252 | 19 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 250 | 19 | 
 | 2023-03-17 | 250 | 19 | 
 | 2023-03-16 | 250 | 19 | 
-| 2023-03-15 | 250 | 19 | 
 

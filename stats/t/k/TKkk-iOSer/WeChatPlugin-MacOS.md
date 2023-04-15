@@ -1,10 +1,10 @@
 # TKkk-iOSer/WeChatPlugin-MacOS - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 2433
+☋ Forks: 2434
 
-★ Stars: 13221
+★ Stars: 13238
 
 [Open repository](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 13238 | 2434 | 
 | 2023-04-13 | 13221 | 2433 | 
 | 2023-04-12 | 13218 | 2433 | 
 | 2023-04-11 | 13211 | 2433 | 

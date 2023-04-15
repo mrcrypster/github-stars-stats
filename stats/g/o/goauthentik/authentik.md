@@ -1,10 +1,10 @@
 # goauthentik/authentik - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 287
+☋ Forks: 288
 
-★ Stars: 3560
+★ Stars: 3569
 
 [Open repository](https://github.com/goauthentik/authentik)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3569 | 288 | 
 | 2023-04-13 | 3560 | 287 | 
 | 2023-04-12 | 3553 | 286 | 
 | 2023-04-11 | 3547 | 286 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3396 | 271 | 
 | 2023-03-18 | 3372 | 270 | 
 | 2023-03-17 | 3358 | 269 | 
-| 2023-03-16 | 3343 | 268 | 
 

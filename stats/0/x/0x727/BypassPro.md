@@ -1,10 +1,10 @@
 # 0x727/BypassPro - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 17
+☋ Forks: 20
 
-★ Stars: 277
+★ Stars: 298
 
 [Open repository](https://github.com/0x727/BypassPro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 298 | 20 | 
 | 2023-04-13 | 277 | 17 | 
 | 2023-04-12 | 267 | 17 | 
 

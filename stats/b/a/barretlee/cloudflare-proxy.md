@@ -1,10 +1,10 @@
 # barretlee/cloudflare-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 58
 
-★ Stars: 595
+★ Stars: 604
 
 [Open repository](https://github.com/barretlee/cloudflare-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 604 | 58 | 
 | 2023-04-13 | 595 | 58 | 
 | 2023-04-12 | 591 | 58 | 
 | 2023-04-11 | 585 | 58 | 

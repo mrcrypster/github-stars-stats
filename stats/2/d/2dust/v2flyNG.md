@@ -1,10 +1,10 @@
 # 2dust/v2flyNG - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 44
 
-★ Stars: 325
+★ Stars: 328
 
 [Open repository](https://github.com/2dust/v2flyNG)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 328 | 44 | 
 | 2023-04-13 | 325 | 44 | 
 | 2023-04-12 | 321 | 44 | 
 | 2023-04-11 | 317 | 43 | 

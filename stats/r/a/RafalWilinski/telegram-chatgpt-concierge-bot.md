@@ -1,10 +1,10 @@
 # RafalWilinski/telegram-chatgpt-concierge-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 48
+☋ Forks: 55
 
-★ Stars: 754
+★ Stars: 874
 
 [Open repository](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 874 | 55 | 
 | 2023-04-13 | 754 | 48 | 
 | 2023-04-12 | 675 | 37 | 
 

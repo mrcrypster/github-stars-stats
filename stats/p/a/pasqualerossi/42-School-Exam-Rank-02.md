@@ -1,10 +1,10 @@
 # pasqualerossi/42-School-Exam-Rank-02 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 222 | 71 | 
 | 2023-04-13 | 221 | 70 | 
 | 2023-04-11 | 220 | 69 | 
 | 2023-04-10 | 222 | 67 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 209 | 65 | 
 | 2023-03-17 | 208 | 65 | 
 | 2023-03-16 | 207 | 65 | 
-| 2023-03-15 | 206 | 64 | 
 

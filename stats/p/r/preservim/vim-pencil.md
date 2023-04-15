@@ -1,10 +1,10 @@
 # preservim/vim-pencil - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 36
 
-★ Stars: 1450
+★ Stars: 1451
 
 [Open repository](https://github.com/preservim/vim-pencil)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1451 | 36 | 
+| 2023-04-14 | 1450 | 36 | 
 | 2023-04-13 | 1450 | 36 | 
 | 2023-04-12 | 1448 | 37 | 
 | 2023-04-11 | 1442 | 37 | 
@@ -36,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1437 | 37 | 
 | 2023-03-17 | 1437 | 37 | 
 | 2023-03-16 | 1437 | 37 | 
-| 2023-03-15 | 1437 | 37 | 
 

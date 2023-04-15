@@ -1,8 +1,8 @@
 # Fluffy-Frontier/Fluffy-STG - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3 | 7 | 
 | 2023-04-13 | 3 | 6 | 
 | 2023-04-12 | 3 | 6 | 
 | 2023-04-11 | 3 | 6 | 

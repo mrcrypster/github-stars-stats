@@ -1,10 +1,10 @@
 # dsasmblr/game-hacking - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 533
+☋ Forks: 535
 
-★ Stars: 3662
+★ Stars: 3666
 
 [Open repository](https://github.com/dsasmblr/game-hacking)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3666 | 535 | 
 | 2023-04-13 | 3662 | 533 | 
 | 2023-04-12 | 3661 | 533 | 
 | 2023-04-11 | 3659 | 533 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3607 | 532 | 
 | 2023-03-17 | 3605 | 532 | 
 | 2023-03-16 | 3602 | 532 | 
-| 2023-03-15 | 3599 | 530 | 
 

@@ -1,10 +1,10 @@
 # frankdugan3/phlegethon - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/frankdugan3/phlegethon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 17 | 2 | 
 | 2023-04-13 | 16 | 2 | 
 | 2023-04-12 | 16 | 2 | 
 | 2023-04-11 | 16 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 9 | - | 
 | 2023-03-18 | 9 | - | 
 | 2023-03-17 | 9 | - | 
-| 2023-03-15 | 9 | - | 
 

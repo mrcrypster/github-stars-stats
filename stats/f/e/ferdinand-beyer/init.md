@@ -1,6 +1,6 @@
 # ferdinand-beyer/init - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 48 | - | 
 | 2023-04-13 | 48 | - | 
 | 2023-04-12 | 48 | - | 
 | 2023-04-10 | 48 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 49 | - | 
 | 2023-03-18 | 49 | - | 
 | 2023-03-16 | 49 | - | 
-| 2023-03-15 | 49 | - | 
 

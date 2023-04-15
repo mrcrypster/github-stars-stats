@@ -1,10 +1,10 @@
 # ApeWhoLovesCode/LegendTD - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 25
+★ Stars: 28
 
 [Open repository](https://github.com/ApeWhoLovesCode/LegendTD)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 28 | 8 | 
 | 2023-04-13 | 25 | 8 | 
 | 2023-04-12 | 25 | 8 | 
 | 2023-04-11 | 24 | 8 | 

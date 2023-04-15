@@ -1,6 +1,6 @@
 # spatie/laravel-notification-log - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 111 | 6 | 
 | 2023-04-13 | 111 | 6 | 
 | 2023-04-12 | 111 | 6 | 
 | 2023-04-11 | 112 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 101 | 4 | 
 | 2023-03-18 | 101 | 4 | 
 | 2023-03-16 | 100 | 4 | 
-| 2023-03-15 | 98 | 3 | 
 

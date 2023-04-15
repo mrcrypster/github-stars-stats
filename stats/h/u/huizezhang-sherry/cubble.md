@@ -1,6 +1,6 @@
 # huizezhang-sherry/cubble - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 35 | 2 | 
 | 2023-04-13 | 35 | 2 | 
 | 2023-04-11 | 35 | 2 | 
 | 2023-04-10 | 35 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 33 | 2 | 
 | 2023-03-18 | 33 | 2 | 
 | 2023-03-16 | 33 | 2 | 
-| 2023-03-15 | 33 | 2 | 
 

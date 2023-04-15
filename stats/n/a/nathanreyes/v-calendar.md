@@ -1,10 +1,10 @@
 # nathanreyes/v-calendar - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 772
 
-★ Stars: 3802
+★ Stars: 3803
 
 [Open repository](https://github.com/nathanreyes/v-calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3803 | 772 | 
 | 2023-04-13 | 3802 | 772 | 
 | 2023-04-12 | 3799 | 771 | 
 | 2023-04-11 | 3797 | 770 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3763 | 763 | 
 | 2023-03-18 | 3762 | 763 | 
 | 2023-03-17 | 3761 | 763 | 
-| 2023-03-15 | 3757 | 761 | 
 

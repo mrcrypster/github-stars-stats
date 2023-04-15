@@ -1,6 +1,6 @@
 # gitgjr/P2P-video-distribution-system - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 45 | 9 | 
 | 2023-04-13 | 45 | 9 | 
 | 2023-04-12 | 45 | 9 | 
 | 2023-04-10 | 45 | 9 | 

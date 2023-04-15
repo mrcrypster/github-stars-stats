@@ -1,6 +1,6 @@
 # nix-community/haumea - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 62 | 1 | 
 | 2023-04-13 | 62 | 1 | 
 | 2023-04-12 | 61 | 1 | 
 | 2023-04-11 | 61 | 1 | 

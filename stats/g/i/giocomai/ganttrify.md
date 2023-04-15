@@ -1,10 +1,10 @@
 # giocomai/ganttrify - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 46
 
-★ Stars: 497
+★ Stars: 498
 
 [Open repository](https://github.com/giocomai/ganttrify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 498 | 46 | 
 | 2023-04-13 | 497 | 46 | 
 | 2023-04-12 | 497 | 46 | 
 | 2023-04-11 | 497 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 493 | 46 | 
 | 2023-03-18 | 493 | 46 | 
 | 2023-03-17 | 492 | 46 | 
-| 2023-03-15 | 487 | 46 | 
 

@@ -1,10 +1,10 @@
 # maximecb/uvm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/maximecb/uvm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 282 | 9 | 
 | 2023-04-13 | 281 | 9 | 
 | 2023-04-12 | 281 | 9 | 
 | 2023-04-11 | 278 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 253 | 7 | 
 | 2023-03-18 | 253 | 7 | 
 | 2023-03-17 | 253 | 7 | 
-| 2023-03-15 | 252 | 7 | 
 

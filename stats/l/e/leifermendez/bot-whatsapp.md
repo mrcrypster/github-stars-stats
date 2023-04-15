@@ -1,10 +1,10 @@
 # leifermendez/bot-whatsapp - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 395
+☋ Forks: 397
 
-★ Stars: 1255
+★ Stars: 1258
 
 [Open repository](https://github.com/leifermendez/bot-whatsapp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1258 | 397 | 
 | 2023-04-13 | 1255 | 395 | 
 | 2023-04-12 | 1249 | 392 | 
 | 2023-04-11 | 1245 | 389 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1190 | 367 | 
 | 2023-03-17 | 1185 | 365 | 
 | 2023-03-16 | 1182 | 362 | 
-| 2023-03-15 | 1179 | 360 | 
 

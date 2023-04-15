@@ -1,6 +1,6 @@
 # sy-vendor/game_server - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 25 | 7 | 
 | 2023-04-13 | 25 | 7 | 
 | 2023-04-12 | 25 | 7 | 
 | 2023-04-11 | 25 | 7 | 

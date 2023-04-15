@@ -1,10 +1,10 @@
 # tensorflow/tfjs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1826
 
-★ Stars: 17239
+★ Stars: 17240
 
 [Open repository](https://github.com/tensorflow/tfjs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 17240 | 1826 | 
 | 2023-04-13 | 17239 | 1826 | 
 | 2023-04-12 | 17235 | 1826 | 
 | 2023-04-11 | 17228 | 1824 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 17148 | 1816 | 
 | 2023-03-18 | 17142 | 1815 | 
 | 2023-03-17 | 17134 | 1815 | 
-| 2023-03-15 | 17131 | 1814 | 
 

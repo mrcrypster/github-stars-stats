@@ -1,6 +1,6 @@
 # OfficeDev/Office-IT-Pro-Deployment-Scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 846
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 842 | 846 | 
 | 2023-04-14 | 842 | 846 | 
 | 2023-04-13 | 842 | 846 | 
 | 2023-04-12 | 842 | 846 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-18 | 842 | 847 | 
 | 2023-03-17 | 842 | 847 | 
 | 2023-03-16 | 842 | 847 | 
-| 2023-03-15 | 842 | 846 | 
 

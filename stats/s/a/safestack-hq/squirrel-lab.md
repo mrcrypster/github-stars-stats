@@ -1,6 +1,6 @@
 # safestack-hq/squirrel-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 40 | 
 | 2023-04-13 | - | 40 | 
 | 2023-04-12 | - | 40 | 
 | 2023-04-11 | - | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | - | 30 | 
 | 2023-03-17 | - | 30 | 
 | 2023-03-16 | - | 30 | 
-| 2023-03-15 | - | 30 | 
 

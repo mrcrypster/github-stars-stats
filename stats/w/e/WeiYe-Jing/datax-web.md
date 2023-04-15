@@ -1,10 +1,10 @@
 # WeiYe-Jing/datax-web - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1875
 
-★ Stars: 4633
+★ Stars: 4635
 
 [Open repository](https://github.com/WeiYe-Jing/datax-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4635 | 1875 | 
 | 2023-04-13 | 4633 | 1875 | 
 | 2023-04-12 | 4632 | 1874 | 
 | 2023-04-11 | 4628 | 1873 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 4552 | 1849 | 
 | 2023-03-17 | 4544 | 1846 | 
 | 2023-03-16 | 4542 | 1846 | 
-| 2023-03-15 | 4539 | 1843 | 
 

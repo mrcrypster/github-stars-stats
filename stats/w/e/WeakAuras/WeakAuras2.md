@@ -1,10 +1,10 @@
 # WeakAuras/WeakAuras2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 259
 
-★ Stars: 1046
+★ Stars: 1045
 
 [Open repository](https://github.com/WeakAuras/WeakAuras2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1045 | 259 | 
 | 2023-04-13 | 1046 | 259 | 
 | 2023-04-12 | 1046 | 259 | 
 | 2023-04-11 | 1047 | 259 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1042 | 258 | 
 | 2023-03-17 | 1042 | 258 | 
 | 2023-03-16 | 1042 | 258 | 
-| 2023-03-15 | 1041 | 258 | 
 

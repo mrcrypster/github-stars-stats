@@ -1,6 +1,6 @@
 # msveshnikov/chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 55 | 17 | 
 | 2023-04-13 | 55 | 17 | 
 | 2023-04-12 | 55 | 17 | 
 | 2023-04-11 | 56 | 17 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 46 | 14 | 
 | 2023-03-18 | 45 | 12 | 
 | 2023-03-17 | 45 | 12 | 
-| 2023-03-15 | 44 | 11 | 
 

@@ -1,6 +1,6 @@
 # movabletype/mt-theme-rainier - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6 | 6 | 
 | 2023-04-13 | 6 | 6 | 
 | 2023-04-12 | 6 | 6 | 
 | 2023-04-10 | 6 | 6 | 

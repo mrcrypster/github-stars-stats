@@ -1,6 +1,6 @@
 # melangue/dactl - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 208 | 165 | 
 | 2023-04-13 | 208 | 165 | 
 | 2023-04-12 | 208 | 166 | 
 | 2023-04-11 | 208 | 166 | 

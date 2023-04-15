@@ -1,6 +1,6 @@
 # swedishembedded/control - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 55 | 17 | 
 | 2023-04-13 | 55 | 17 | 
 | 2023-04-12 | 54 | 16 | 
 | 2023-04-11 | 53 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 50 | 13 | 
 | 2023-03-17 | 50 | 13 | 
 | 2023-03-16 | 50 | 13 | 
-| 2023-03-15 | 50 | 13 | 
 

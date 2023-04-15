@@ -1,6 +1,6 @@
 # PolyMathOrg/PolyMath - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 167 | 40 | 
 | 2023-04-13 | 167 | 40 | 
 | 2023-04-12 | 167 | 40 | 
 | 2023-04-11 | 167 | 40 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 167 | 40 | 
 | 2023-03-18 | 167 | 40 | 
 | 2023-03-17 | 167 | 40 | 
-| 2023-03-15 | 166 | 40 | 
 

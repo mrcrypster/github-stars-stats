@@ -1,10 +1,10 @@
 # extreme-assistant/CVPR2023-Paper-Code-Interpretation - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 2336
+☋ Forks: 2335
 
-★ Stars: 11367
+★ Stars: 11376
 
 [Open repository](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 11376 | 2335 | 
 | 2023-04-13 | 11367 | 2336 | 
 | 2023-04-12 | 11358 | 2335 | 
 | 2023-04-11 | 11347 | 2335 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 11102 | 2315 | 
 | 2023-03-18 | 11086 | 2313 | 
 | 2023-03-16 | 11072 | 2311 | 
-| 2023-03-15 | 11055 | 2308 | 
 

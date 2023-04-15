@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 57
+☋ Forks: 59
 
-★ Stars: 331
+★ Stars: 339
 
 [Open repository](https://github.com/0xb11a1/yetAnotherObfuscator)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 331 | 57 | 
+| 2023-04-14 | 339 | 59 | 
 | 2023-04-13 | 330 | 56 | 
 | 2023-04-12 | 316 | 55 | 
 | 2023-04-11 | 291 | 49 | 

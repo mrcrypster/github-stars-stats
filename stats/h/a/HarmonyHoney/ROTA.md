@@ -1,6 +1,6 @@
 # HarmonyHoney/ROTA - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 126 | 11 | 
 | 2023-04-13 | 126 | 11 | 
 | 2023-04-12 | 126 | 11 | 
 | 2023-04-11 | 126 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 118 | 11 | 
 | 2023-03-18 | 118 | 11 | 
 | 2023-03-16 | 118 | 11 | 
-| 2023-03-15 | 118 | 11 | 
 

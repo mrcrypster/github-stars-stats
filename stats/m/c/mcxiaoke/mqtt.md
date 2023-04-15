@@ -1,10 +1,10 @@
 # mcxiaoke/mqtt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1141
 
-★ Stars: 4578
+★ Stars: 4580
 
 [Open repository](https://github.com/mcxiaoke/mqtt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4580 | 1141 | 
 | 2023-04-13 | 4578 | 1141 | 
 | 2023-04-12 | 4576 | 1141 | 
 | 2023-04-11 | 4573 | 1141 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 4551 | 1134 | 
 | 2023-03-17 | 4551 | 1134 | 
 | 2023-03-16 | 4550 | 1133 | 
-| 2023-03-15 | 4549 | 1133 | 
 

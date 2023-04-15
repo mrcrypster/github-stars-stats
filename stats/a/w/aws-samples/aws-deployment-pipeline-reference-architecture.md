@@ -1,8 +1,8 @@
 # aws-samples/aws-deployment-pipeline-reference-architecture - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 168
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 168 | 28 | 
 | 2023-04-13 | 168 | 27 | 
 | 2023-04-12 | 166 | 27 | 
 | 2023-04-11 | 166 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 158 | 26 | 
 | 2023-03-18 | 158 | 26 | 
 | 2023-03-17 | 158 | 25 | 
-| 2023-03-15 | 157 | 25 | 
 

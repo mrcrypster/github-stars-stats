@@ -1,6 +1,6 @@
 # saleyn/emmap - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 21 | 3 | 
 | 2023-04-13 | 21 | 3 | 
 | 2023-04-11 | 21 | 3 | 
 | 2023-04-10 | 21 | 3 | 

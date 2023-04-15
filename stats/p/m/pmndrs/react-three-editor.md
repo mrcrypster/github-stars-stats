@@ -1,10 +1,10 @@
 # pmndrs/react-three-editor - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 19
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/pmndrs/react-three-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 546 | 19 | 
 | 2023-04-13 | 545 | 19 | 
 | 2023-04-11 | 544 | 19 | 
 | 2023-04-10 | 544 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 533 | 16 | 
 | 2023-03-18 | 533 | 16 | 
 | 2023-03-16 | 533 | 16 | 
-| 2023-03-15 | 533 | 16 | 
 

@@ -1,6 +1,6 @@
 # weiwensangsang/golang-internal - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 201 | 41 | 
 | 2023-04-13 | 201 | 41 | 
 | 2023-04-12 | 201 | 41 | 
 | 2023-04-11 | 201 | 41 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 148 | 28 | 
 | 2023-03-17 | 128 | 23 | 
 | 2023-03-16 | 113 | 22 | 
-| 2023-03-15 | 91 | 17 | 
 

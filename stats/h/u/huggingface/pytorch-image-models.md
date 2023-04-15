@@ -1,10 +1,10 @@
 # huggingface/pytorch-image-models - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 4061
 
-★ Stars: 24715
+★ Stars: 24750
 
 [Open repository](https://github.com/huggingface/pytorch-image-models)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 24750 | 4061 | 
 | 2023-04-13 | 24715 | 4061 | 
 | 2023-04-12 | 24695 | 4059 | 
 | 2023-04-11 | 24661 | 4055 | 

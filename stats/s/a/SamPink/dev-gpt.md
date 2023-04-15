@@ -1,10 +1,10 @@
 # SamPink/dev-gpt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 64
+★ Stars: 73
 
 [Open repository](https://github.com/SamPink/dev-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 73 | 12 | 
 | 2023-04-13 | 64 | 11 | 
 | 2023-04-12 | 58 | 11 | 
 | 2023-04-11 | 53 | 11 | 

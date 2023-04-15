@@ -1,10 +1,10 @@
 # tweag/sparkle - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 443
+★ Stars: 442
 
 [Open repository](https://github.com/tweag/sparkle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 442 | 31 | 
 | 2023-04-13 | 443 | 31 | 
 | 2023-04-12 | 443 | 31 | 
 | 2023-04-10 | 443 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 443 | 31 | 
 | 2023-03-18 | 442 | 31 | 
 | 2023-03-16 | 442 | 31 | 
-| 2023-03-15 | 442 | 31 | 
 

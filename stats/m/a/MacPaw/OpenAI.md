@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 38
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/MacPaw/OpenAI)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 448 | 38 | 
+| 2023-04-14 | 449 | 38 | 
 | 2023-04-13 | 448 | 38 | 
 | 2023-04-12 | 439 | 36 | 
 | 2023-04-11 | 431 | 36 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-18 | 282 | 19 | 
 | 2023-03-17 | 279 | 17 | 
 | 2023-03-16 | 273 | 17 | 
-| 2023-03-15 | 271 | 16 | 
 

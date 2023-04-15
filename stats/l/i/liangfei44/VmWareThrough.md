@@ -1,6 +1,6 @@
 # liangfei44/VmWareThrough - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 103 | 68 | 
 | 2023-04-13 | 103 | 68 | 
 | 2023-04-12 | 103 | 67 | 
 | 2023-04-11 | 103 | 67 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 95 | 63 | 
 | 2023-03-18 | 94 | 62 | 
 | 2023-03-16 | 94 | 61 | 
-| 2023-03-15 | 93 | 60 | 
 

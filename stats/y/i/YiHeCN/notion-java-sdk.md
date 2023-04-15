@@ -1,6 +1,6 @@
 # YiHeCN/notion-java-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 43 | 12 | 
 | 2023-04-13 | 43 | 12 | 
 | 2023-04-12 | 43 | 12 | 
 | 2023-04-11 | 43 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 42 | 10 | 
 | 2023-03-17 | 42 | 10 | 
 | 2023-03-16 | 42 | 10 | 
-| 2023-03-15 | 41 | 10 | 
 

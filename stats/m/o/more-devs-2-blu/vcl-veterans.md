@@ -1,10 +1,10 @@
 # more-devs-2-blu/vcl-veterans - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/more-devs-2-blu/vcl-veterans)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3 | 6 | 
 | 2023-04-13 | 2 | 6 | 
 | 2023-04-12 | 2 | 6 | 
 | 2023-04-11 | 2 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1 | 6 | 
 | 2023-03-17 | 1 | 6 | 
 | 2023-03-16 | - | 6 | 
-| 2023-03-15 | - | 6 | 
 

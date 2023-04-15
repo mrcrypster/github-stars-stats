@@ -1,10 +1,10 @@
 # jing332/tts-server-go - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 37
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/jing332/tts-server-go)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 240 | 37 | 
 | 2023-04-13 | 239 | 37 | 
 | 2023-04-12 | 239 | 37 | 
 | 2023-04-11 | 238 | 37 | 

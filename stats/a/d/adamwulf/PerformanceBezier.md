@@ -1,6 +1,6 @@
 # adamwulf/PerformanceBezier - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 355 | 31 | 
 | 2023-04-13 | 355 | 31 | 
 | 2023-04-12 | 355 | 31 | 
 | 2023-04-11 | 355 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 355 | 31 | 
 | 2023-03-17 | 355 | 31 | 
 | 2023-03-16 | 355 | 31 | 
-| 2023-03-15 | 355 | 31 | 
 

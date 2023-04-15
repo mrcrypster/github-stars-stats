@@ -1,10 +1,10 @@
 # abetlen/llama-cpp-python - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 48
+☋ Forks: 57
 
-★ Stars: 508
+★ Stars: 554
 
 [Open repository](https://github.com/abetlen/llama-cpp-python)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 554 | 57 | 
 | 2023-04-13 | 508 | 48 | 
 | 2023-04-12 | 465 | 41 | 
 | 2023-04-11 | 452 | 39 | 

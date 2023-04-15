@@ -1,10 +1,10 @@
 # hmxmilohax/rock-band-3-deluxe - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 32
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/hmxmilohax/rock-band-3-deluxe)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 77 | 32 | 
 | 2023-04-13 | 76 | 32 | 
 | 2023-04-12 | 76 | 32 | 
 | 2023-04-11 | 76 | 32 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 66 | 31 | 
 | 2023-03-17 | 66 | 31 | 
 | 2023-03-16 | 65 | 30 | 
-| 2023-03-15 | 64 | 30 | 
 

@@ -1,10 +1,10 @@
 # kaixindelele/ChatPaper - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 814
+☋ Forks: 847
 
-★ Stars: 8661
+★ Stars: 8851
 
 [Open repository](https://github.com/kaixindelele/ChatPaper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 8851 | 847 | 
 | 2023-04-13 | 8661 | 814 | 
 | 2023-04-12 | 8504 | 796 | 
 | 2023-04-10 | 8311 | 771 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 2508 | 206 | 
 | 2023-03-17 | 2269 | 178 | 
 | 2023-03-16 | 2168 | 170 | 
-| 2023-03-15 | 1777 | 144 | 
 

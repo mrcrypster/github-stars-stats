@@ -1,10 +1,10 @@
 # quantumlib/Cirq - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 842
+☋ Forks: 843
 
-★ Stars: 3719
+★ Stars: 3720
 
 [Open repository](https://github.com/quantumlib/Cirq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3720 | 843 | 
 | 2023-04-13 | 3719 | 842 | 
 | 2023-04-12 | 3717 | 840 | 
 | 2023-04-11 | 3713 | 840 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3684 | 840 | 
 | 2023-03-18 | 3684 | 840 | 
 | 2023-03-17 | 3685 | 840 | 
-| 2023-03-16 | 3686 | 837 | 
 

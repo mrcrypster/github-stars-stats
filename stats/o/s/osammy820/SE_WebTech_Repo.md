@@ -1,8 +1,8 @@
 # osammy820/SE_WebTech_Repo - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 898
+☋ Forks: 900
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 18 | 900 | 
 | 2023-04-13 | 18 | 898 | 
 | 2023-04-12 | 18 | 898 | 
 | 2023-04-11 | 18 | 896 | 

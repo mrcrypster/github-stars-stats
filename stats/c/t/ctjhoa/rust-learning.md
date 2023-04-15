@@ -1,10 +1,10 @@
 # ctjhoa/rust-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 656
 
-★ Stars: 9705
+★ Stars: 9704
 
 [Open repository](https://github.com/ctjhoa/rust-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 9704 | 656 | 
 | 2023-04-13 | 9705 | 656 | 
 | 2023-04-12 | 9699 | 654 | 
 | 2023-04-11 | 9697 | 654 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 9594 | 647 | 
 | 2023-03-17 | 9591 | 648 | 
 | 2023-03-16 | 9584 | 648 | 
-| 2023-03-15 | 9574 | 648 | 
 

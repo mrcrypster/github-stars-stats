@@ -1,10 +1,10 @@
 # appcypher/awesome-wasm-langs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 185
 
-★ Stars: 3706
+★ Stars: 3707
 
 [Open repository](https://github.com/appcypher/awesome-wasm-langs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3707 | 185 | 
 | 2023-04-13 | 3706 | 185 | 
 | 2023-04-11 | 3703 | 185 | 
 | 2023-04-10 | 3702 | 184 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3670 | 184 | 
 | 2023-03-18 | 3669 | 183 | 
 | 2023-03-16 | 3666 | 182 | 
-| 2023-03-15 | 3666 | 182 | 
 

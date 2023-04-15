@@ -1,10 +1,10 @@
 # libretro/RetroArch - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1566
+☋ Forks: 1567
 
-★ Stars: 7840
+★ Stars: 7843
 
 [Open repository](https://github.com/libretro/RetroArch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 7843 | 1567 | 
 | 2023-04-13 | 7840 | 1566 | 
 | 2023-04-12 | 7838 | 1565 | 
 | 2023-04-11 | 7835 | 1565 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 7732 | 1547 | 
 | 2023-03-17 | 7724 | 1546 | 
 | 2023-03-16 | 7715 | 1545 | 
-| 2023-03-15 | 7709 | 1545 | 
 

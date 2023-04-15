@@ -1,10 +1,10 @@
 # ohmplatform/freedom-gpt-electron-app - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 75
+☋ Forks: 96
 
-★ Stars: 724
+★ Stars: 958
 
 [Open repository](https://github.com/ohmplatform/freedom-gpt-electron-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 958 | 96 | 
 | 2023-04-13 | 724 | 75 | 
 | 2023-04-12 | 400 | 48 | 
 | 2023-04-11 | 178 | 34 | 

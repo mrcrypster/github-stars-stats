@@ -1,10 +1,10 @@
 # ali-bouali/spring-boot-3-jwt-security - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 242
+☋ Forks: 246
 
-★ Stars: 423
+★ Stars: 427
 
 [Open repository](https://github.com/ali-bouali/spring-boot-3-jwt-security)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 427 | 246 | 
 | 2023-04-13 | 423 | 242 | 
 | 2023-04-12 | 421 | 239 | 
 | 2023-04-11 | 416 | 238 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 313 | 189 | 
 | 2023-03-17 | 309 | 189 | 
 | 2023-03-16 | 305 | 187 | 
-| 2023-03-15 | 300 | 185 | 
 

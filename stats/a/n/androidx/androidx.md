@@ -1,6 +1,6 @@
 # androidx/androidx - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 748
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4386 | 748 | 
 | 2023-04-13 | 4386 | 748 | 
 | 2023-04-12 | 4383 | 748 | 
 | 2023-04-11 | 4379 | 747 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 4325 | 725 | 
 | 2023-03-17 | 4322 | 724 | 
 | 2023-03-16 | 4319 | 724 | 
-| 2023-03-15 | 4317 | 723 | 
 

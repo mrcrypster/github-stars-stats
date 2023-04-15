@@ -1,10 +1,10 @@
 # electron-react-boilerplate/electron-react-boilerplate - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 3591
+☋ Forks: 3593
 
-★ Stars: 21146
+★ Stars: 21154
 
 [Open repository](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 21154 | 3593 | 
 | 2023-04-13 | 21146 | 3591 | 
 | 2023-04-12 | 21143 | 3591 | 
 | 2023-04-10 | 21138 | 3593 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 21023 | 3566 | 
 | 2023-03-18 | 21018 | 3563 | 
 | 2023-03-16 | 21011 | 3562 | 
-| 2023-03-15 | 20991 | 3562 | 
 

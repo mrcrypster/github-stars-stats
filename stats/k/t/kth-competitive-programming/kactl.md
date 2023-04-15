@@ -1,10 +1,10 @@
 # kth-competitive-programming/kactl - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 556
 
-★ Stars: 2070
+★ Stars: 2071
 
 [Open repository](https://github.com/kth-competitive-programming/kactl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2071 | 556 | 
 | 2023-04-13 | 2070 | 556 | 
 | 2023-04-12 | 2070 | 556 | 
 | 2023-04-11 | 2068 | 556 | 

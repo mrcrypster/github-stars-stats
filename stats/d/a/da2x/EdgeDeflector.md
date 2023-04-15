@@ -1,10 +1,10 @@
 # da2x/EdgeDeflector - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 154
 
-★ Stars: 2847
+★ Stars: 2848
 
 [Open repository](https://github.com/da2x/EdgeDeflector)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2848 | 154 | 
 | 2023-04-13 | 2847 | 154 | 
 | 2023-04-12 | 2847 | 155 | 
 | 2023-04-11 | 2846 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 2846 | 151 | 
 | 2023-03-17 | 2846 | 151 | 
 | 2023-03-16 | 2847 | 151 | 
-| 2023-03-15 | 2845 | 151 | 
 

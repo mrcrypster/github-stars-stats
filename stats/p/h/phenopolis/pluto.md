@@ -1,6 +1,6 @@
 # phenopolis/pluto - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 54 | 5 | 
 | 2023-04-13 | 54 | 5 | 
 | 2023-04-12 | 54 | 4 | 
 | 2023-04-10 | 54 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 50 | 3 | 
 | 2023-03-18 | 50 | 3 | 
 | 2023-03-17 | 49 | 3 | 
-| 2023-03-15 | 49 | 3 | 
 

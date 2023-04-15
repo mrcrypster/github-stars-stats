@@ -1,6 +1,6 @@
 # yogthos/mastodon-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 188 | 25 | 
 | 2023-04-13 | 188 | 25 | 
 | 2023-04-12 | 188 | 25 | 
 | 2023-04-11 | 188 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 188 | 25 | 
 | 2023-03-17 | 188 | 25 | 
 | 2023-03-16 | 188 | 25 | 
-| 2023-03-15 | 188 | 25 | 
 

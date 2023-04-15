@@ -1,6 +1,6 @@
 # MSCI-709/unit_4_fisheries - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 17 | 
 | 2023-04-13 | - | 17 | 
 | 2023-04-12 | - | 17 | 
 | 2023-04-11 | - | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | - | 18 | 
 | 2023-03-17 | - | 18 | 
 | 2023-03-16 | - | 17 | 
-| 2023-03-15 | - | 17 | 
 

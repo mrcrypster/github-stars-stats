@@ -1,10 +1,10 @@
 # Project-Sloth/ps-liveries - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/Project-Sloth/ps-liveries)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 42 | 33 | 
 | 2023-04-13 | 41 | 32 | 
 | 2023-04-12 | 40 | 31 | 
 | 2023-04-11 | 40 | 31 | 

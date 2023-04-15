@@ -1,8 +1,8 @@
 # yoshinorim/mha4mysql-manager - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 490
+☋ Forks: 491
 
 ★ Stars: 1356
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1356 | 491 | 
 | 2023-04-13 | 1356 | 490 | 
 | 2023-04-12 | 1356 | 490 | 
 | 2023-04-11 | 1356 | 490 | 

@@ -1,10 +1,10 @@
 # hassanhabib/Standard.AI.OpenAI - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 56
 
-★ Stars: 168
+★ Stars: 170
 
 [Open repository](https://github.com/hassanhabib/Standard.AI.OpenAI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 170 | 56 | 
 | 2023-04-13 | 168 | 56 | 
 | 2023-04-12 | 165 | 55 | 
 | 2023-04-11 | 163 | 55 | 

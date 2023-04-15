@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 115
+★ Stars: 119
 
 [Open repository](https://github.com/dabit3/nextjs-chatgpt-plugin-starter)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 115 | 8 | 
+| 2023-04-14 | 119 | 8 | 
 | 2023-04-13 | 113 | 8 | 
 

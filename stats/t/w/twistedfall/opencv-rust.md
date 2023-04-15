@@ -1,10 +1,10 @@
 # twistedfall/opencv-rust - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 122
 
-★ Stars: 1341
+★ Stars: 1344
 
 [Open repository](https://github.com/twistedfall/opencv-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1344 | 122 | 
 | 2023-04-13 | 1341 | 122 | 
 | 2023-04-12 | 1341 | 122 | 
 | 2023-04-11 | 1341 | 122 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1309 | 120 | 
 | 2023-03-18 | 1307 | 120 | 
 | 2023-03-17 | 1306 | 120 | 
-| 2023-03-15 | 1305 | 121 | 
 

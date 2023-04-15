@@ -1,6 +1,6 @@
 # nim-lang/langserver - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 106 | 11 | 
 | 2023-04-13 | 106 | 11 | 
 | 2023-04-12 | 106 | 11 | 
 | 2023-04-11 | 105 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 99 | 9 | 
 | 2023-03-18 | 99 | 9 | 
 | 2023-03-16 | 99 | 9 | 
-| 2023-03-15 | 99 | 9 | 
 

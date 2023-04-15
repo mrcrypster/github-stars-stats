@@ -1,10 +1,10 @@
 # anzhiyu-c/hexo-theme-anzhiyu - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 11
 
-★ Stars: 67
+★ Stars: 74
 
 [Open repository](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 74 | 11 | 
 | 2023-04-13 | 67 | 11 | 
 | 2023-04-12 | 67 | 9 | 
 | 2023-04-11 | 60 | 9 | 

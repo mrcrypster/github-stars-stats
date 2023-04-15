@@ -1,6 +1,6 @@
 # alchemyplatform/alchemy-flow-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 30 | 75 | 
 | 2023-04-13 | 30 | 75 | 
 | 2023-04-12 | 30 | 75 | 
 | 2023-04-11 | 30 | 75 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 30 | 75 | 
 | 2023-03-18 | 30 | 75 | 
 | 2023-03-16 | 30 | 75 | 
-| 2023-03-15 | 30 | 75 | 
 

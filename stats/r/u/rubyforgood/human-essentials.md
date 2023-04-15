@@ -1,10 +1,10 @@
 # rubyforgood/human-essentials - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 351
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/rubyforgood/human-essentials)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 343 | 351 | 
 | 2023-04-13 | 342 | 351 | 
 | 2023-04-12 | 342 | 351 | 
 | 2023-04-11 | 342 | 351 | 

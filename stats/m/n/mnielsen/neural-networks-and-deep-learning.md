@@ -1,10 +1,10 @@
 # mnielsen/neural-networks-and-deep-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 6234
+☋ Forks: 6235
 
-★ Stars: 14287
+★ Stars: 14291
 
 [Open repository](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 14291 | 6235 | 
 | 2023-04-13 | 14287 | 6234 | 
 | 2023-04-12 | 14286 | 6234 | 
 | 2023-04-11 | 14283 | 6230 | 

@@ -1,6 +1,6 @@
 # Cpp-Club/Cxx_HOPL4_zh - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1859 | 356 | 
 | 2023-04-13 | 1859 | 356 | 
 | 2023-04-12 | 1859 | 356 | 
 | 2023-04-11 | 1858 | 355 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 1844 | 352 | 
 | 2023-03-17 | 1840 | 352 | 
 | 2023-03-16 | 1840 | 351 | 
-| 2023-03-15 | 1833 | 351 | 
 

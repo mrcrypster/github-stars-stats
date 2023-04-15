@@ -1,10 +1,10 @@
 # pk910/PoWFaucet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 441
+☋ Forks: 466
 
-★ Stars: 1017
+★ Stars: 1028
 
 [Open repository](https://github.com/pk910/PoWFaucet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1028 | 466 | 
 | 2023-04-13 | 1017 | 441 | 
 | 2023-04-12 | 1009 | 436 | 
 | 2023-04-11 | 997 | 433 | 

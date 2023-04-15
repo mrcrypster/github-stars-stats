@@ -1,6 +1,6 @@
 # borkdude/quickdoc - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 114 | 5 | 
 | 2023-04-13 | 114 | 5 | 
 | 2023-04-12 | 114 | 5 | 
 | 2023-04-11 | 113 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 112 | 5 | 
 | 2023-03-18 | 112 | 5 | 
 | 2023-03-17 | 111 | 5 | 
-| 2023-03-15 | 111 | 5 | 
 

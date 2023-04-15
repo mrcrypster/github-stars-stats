@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 198
+☋ Forks: 205
 
-★ Stars: 2424
+★ Stars: 2556
 
 [Open repository](https://github.com/Moonvy/OpenPromptStudio)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 2424 | 198 | 
+| 2023-04-14 | 2556 | 205 | 
 | 2023-04-13 | 2411 | 195 | 
 | 2023-04-12 | 2154 | 169 | 
 | 2023-04-11 | 1765 | 131 | 

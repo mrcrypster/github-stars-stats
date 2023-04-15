@@ -1,10 +1,10 @@
 # hashgreen/cypher-chialisp - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/hashgreen/cypher-chialisp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 17 | 1 | 
 | 2023-04-13 | 16 | 1 | 
 | 2023-04-12 | 16 | 1 | 
 | 2023-04-11 | 14 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 14 | 1 | 
 | 2023-03-18 | 14 | 1 | 
 | 2023-03-16 | 14 | 1 | 
-| 2023-03-15 | 14 | 1 | 
 

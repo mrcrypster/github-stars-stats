@@ -1,6 +1,6 @@
 # udacity/cd0157_Final_Pipeline - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 9 | 365 | 
 | 2023-04-13 | 9 | 365 | 
 | 2023-04-12 | 9 | 364 | 
 | 2023-04-11 | 9 | 364 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 9 | 360 | 
 | 2023-03-18 | 9 | 360 | 
 | 2023-03-17 | 9 | 360 | 
-| 2023-03-15 | 9 | 361 | 
 

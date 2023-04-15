@@ -1,8 +1,8 @@
 # patdryburgh/hitchens - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 300
+☋ Forks: 302
 
 ★ Stars: 263
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 263 | 302 | 
 | 2023-04-13 | 263 | 300 | 
 | 2023-04-12 | 262 | 300 | 
 | 2023-04-11 | 262 | 299 | 

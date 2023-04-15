@@ -1,10 +1,10 @@
 # tabulapdf/tabula - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 602
+☋ Forks: 603
 
-★ Stars: 6085
+★ Stars: 6089
 
 [Open repository](https://github.com/tabulapdf/tabula)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6089 | 603 | 
 | 2023-04-13 | 6085 | 602 | 
 | 2023-04-12 | 6082 | 602 | 
 | 2023-04-11 | 6077 | 602 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 6042 | 598 | 
 | 2023-03-18 | 6040 | 598 | 
 | 2023-03-17 | 6039 | 598 | 
-| 2023-03-15 | 6036 | 599 | 
 

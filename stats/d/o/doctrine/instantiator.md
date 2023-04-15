@@ -1,6 +1,6 @@
 # doctrine/instantiator - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 10786 | 62 | 
 | 2023-04-13 | 10786 | 62 | 
 | 2023-04-12 | 10785 | 62 | 
 | 2023-04-11 | 10784 | 62 | 

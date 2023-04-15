@@ -1,10 +1,10 @@
 # mthcht/Purpleteam - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 4
+☋ Forks: 6
 
-★ Stars: 41
+★ Stars: 45
 
 [Open repository](https://github.com/mthcht/Purpleteam)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 45 | 6 | 
 | 2023-04-13 | 41 | 4 | 
 | 2023-04-12 | 32 | 4 | 
 | 2023-04-11 | 31 | 4 | 

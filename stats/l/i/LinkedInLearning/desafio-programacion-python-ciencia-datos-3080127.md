@@ -1,8 +1,8 @@
 # LinkedInLearning/desafio-programacion-python-ciencia-datos-3080127 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4 | 31 | 
 | 2023-04-13 | 4 | 30 | 
 | 2023-04-12 | 4 | 30 | 
 | 2023-04-11 | 4 | 29 | 

@@ -1,10 +1,10 @@
 # twitter/Serial - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 105
 
-★ Stars: 954
+★ Stars: 955
 
 [Open repository](https://github.com/twitter/Serial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 955 | 105 | 
 | 2023-04-13 | 954 | 105 | 
 | 2023-04-12 | 953 | 105 | 
 | 2023-04-11 | 952 | 105 | 

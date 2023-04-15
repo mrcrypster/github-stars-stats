@@ -1,6 +1,6 @@
 # nyoom-engineering/oxocarbon.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 631 | 30 | 
 | 2023-04-13 | 631 | 30 | 
 | 2023-04-12 | 630 | 30 | 
 | 2023-04-11 | 629 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 602 | 28 | 
 | 2023-03-18 | 601 | 28 | 
 | 2023-03-16 | 594 | 28 | 
-| 2023-03-15 | 593 | 28 | 
 

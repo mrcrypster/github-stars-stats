@@ -1,10 +1,10 @@
 # iina/iina - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 2394
+☋ Forks: 2395
 
-★ Stars: 32979
+★ Stars: 32992
 
 [Open repository](https://github.com/iina/iina)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 32992 | 2395 | 
 | 2023-04-13 | 32979 | 2394 | 
 | 2023-04-12 | 32967 | 2394 | 
 | 2023-04-11 | 32958 | 2394 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 32780 | 2395 | 
 | 2023-03-18 | 32761 | 2392 | 
 | 2023-03-16 | 32755 | 2392 | 
-| 2023-03-15 | 32748 | 2392 | 
 

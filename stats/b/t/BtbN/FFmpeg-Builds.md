@@ -1,10 +1,10 @@
 # BtbN/FFmpeg-Builds - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 679
 
-★ Stars: 4580
+★ Stars: 4586
 
 [Open repository](https://github.com/BtbN/FFmpeg-Builds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4586 | 679 | 
 | 2023-04-13 | 4580 | 679 | 
 | 2023-04-12 | 4570 | 677 | 
 | 2023-04-11 | 4562 | 677 | 

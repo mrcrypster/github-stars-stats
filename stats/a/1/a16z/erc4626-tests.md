@@ -1,10 +1,10 @@
 # a16z/erc4626-tests - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 10
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/a16z/erc4626-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 95 | 10 | 
 | 2023-04-13 | 94 | 10 | 
 | 2023-04-12 | 94 | 10 | 
 | 2023-04-11 | 94 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 89 | 10 | 
 | 2023-03-17 | 89 | 10 | 
 | 2023-03-16 | 89 | 10 | 
-| 2023-03-15 | 89 | 10 | 
 

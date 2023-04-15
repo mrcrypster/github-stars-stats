@@ -1,10 +1,10 @@
 # TheSpeedX/PROXY-List - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 747
+☋ Forks: 748
 
-★ Stars: 1654
+★ Stars: 1656
 
 [Open repository](https://github.com/TheSpeedX/PROXY-List)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1656 | 748 | 
 | 2023-04-13 | 1654 | 747 | 
 | 2023-04-12 | 1650 | 745 | 
 | 2023-04-10 | 1647 | 744 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1587 | 726 | 
 | 2023-03-18 | 1584 | 726 | 
 | 2023-03-16 | 1582 | 723 | 
-| 2023-03-15 | 1577 | 721 | 
 

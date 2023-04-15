@@ -1,10 +1,10 @@
 # awslabs/amazon-eks-ami - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1002
+☋ Forks: 1004
 
-★ Stars: 2087
+★ Stars: 2090
 
 [Open repository](https://github.com/awslabs/amazon-eks-ami)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2090 | 1004 | 
 | 2023-04-13 | 2087 | 1002 | 
 | 2023-04-12 | 2085 | 1002 | 
 | 2023-04-11 | 2083 | 1002 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2066 | 987 | 
 | 2023-03-17 | 2066 | 988 | 
 | 2023-03-16 | 2064 | 988 | 
-| 2023-03-15 | 2064 | 988 | 
 

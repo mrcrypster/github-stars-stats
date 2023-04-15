@@ -1,10 +1,10 @@
 # google/model-viewer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 675
+☋ Forks: 676
 
-★ Stars: 5487
+★ Stars: 5492
 
 [Open repository](https://github.com/google/model-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 5492 | 676 | 
 | 2023-04-13 | 5487 | 675 | 
 | 2023-04-12 | 5484 | 674 | 
 | 2023-04-11 | 5473 | 672 | 

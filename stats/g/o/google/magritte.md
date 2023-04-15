@@ -1,6 +1,6 @@
 # google/magritte - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 408 | 13 | 
 | 2023-04-13 | 408 | 13 | 
 | 2023-04-12 | 407 | 13 | 
 | 2023-04-11 | 407 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 405 | 13 | 
 | 2023-03-18 | 404 | 13 | 
 | 2023-03-17 | 404 | 13 | 
-| 2023-03-16 | 404 | 13 | 
 

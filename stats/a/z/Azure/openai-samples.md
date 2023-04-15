@@ -1,10 +1,10 @@
 # Azure/openai-samples - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 51
+☋ Forks: 57
 
-★ Stars: 169
+★ Stars: 176
 
 [Open repository](https://github.com/Azure/openai-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 176 | 57 | 
 | 2023-04-13 | 169 | 51 | 
 | 2023-04-12 | 166 | 50 | 
 | 2023-04-11 | 160 | 48 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 56 | 14 | 
 | 2023-03-17 | 52 | 13 | 
 | 2023-03-16 | 41 | 10 | 
-| 2023-03-15 | 38 | 10 | 
 

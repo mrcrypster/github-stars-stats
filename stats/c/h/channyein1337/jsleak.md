@@ -1,10 +1,10 @@
 # channyein1337/jsleak - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 20
 
-★ Stars: 261
+★ Stars: 266
 
 [Open repository](https://github.com/channyein1337/jsleak)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 266 | 20 | 
 | 2023-04-13 | 261 | 20 | 
 | 2023-04-12 | 261 | 20 | 
 | 2023-04-11 | 254 | 20 | 

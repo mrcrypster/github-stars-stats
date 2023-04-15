@@ -1,10 +1,10 @@
 # Vision-CAIR/ChatCaptioner - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 215
+★ Stars: 220
 
 [Open repository](https://github.com/Vision-CAIR/ChatCaptioner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 220 | 8 | 
 | 2023-04-13 | 215 | 8 | 
 | 2023-04-12 | 178 | 8 | 
 | 2023-04-11 | 175 | 8 | 

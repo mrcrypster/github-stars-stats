@@ -1,6 +1,6 @@
 # scopatz/nanorc - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 529
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2758 | 529 | 
 | 2023-04-13 | 2758 | 529 | 
 | 2023-04-12 | 2757 | 528 | 
 | 2023-04-10 | 2757 | 528 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2731 | 528 | 
 | 2023-03-18 | 2731 | 528 | 
 | 2023-03-17 | 2731 | 527 | 
-| 2023-03-15 | 2731 | 527 | 
 

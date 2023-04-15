@@ -1,10 +1,10 @@
 # flybot-sg/lasagna-pull - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 5
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/flybot-sg/lasagna-pull)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 53 | 5 | 
 | 2023-04-13 | 52 | 5 | 
 | 2023-04-12 | 52 | 5 | 
 | 2023-04-11 | 52 | 5 | 

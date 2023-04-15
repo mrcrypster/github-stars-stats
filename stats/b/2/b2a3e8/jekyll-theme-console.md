@@ -1,6 +1,6 @@
 # b2a3e8/jekyll-theme-console - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 379
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 538 | 379 | 
 | 2023-04-13 | 538 | 379 | 
 | 2023-04-12 | 538 | 379 | 
 | 2023-04-11 | 538 | 379 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 538 | 373 | 
 | 2023-03-18 | 535 | 373 | 
 | 2023-03-16 | 534 | 372 | 
-| 2023-03-15 | 533 | 372 | 
 

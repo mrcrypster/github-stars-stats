@@ -1,10 +1,10 @@
 # jerrykuku/luci-theme-argon - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 704
 
-★ Stars: 2978
+★ Stars: 2980
 
 [Open repository](https://github.com/jerrykuku/luci-theme-argon)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2980 | 704 | 
 | 2023-04-13 | 2978 | 704 | 
 | 2023-04-12 | 2975 | 704 | 
 | 2023-04-11 | 2973 | 703 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 2921 | 694 | 
 | 2023-03-17 | 2919 | 695 | 
 | 2023-03-16 | 2918 | 695 | 
-| 2023-03-15 | 2917 | 694 | 
 

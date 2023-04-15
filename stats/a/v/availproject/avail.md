@@ -1,8 +1,8 @@
 # availproject/avail - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 62 | 20 | 
 | 2023-04-13 | 62 | 19 | 
 | 2023-04-12 | 62 | 19 | 
 | 2023-04-11 | 62 | 19 | 

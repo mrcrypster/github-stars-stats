@@ -1,10 +1,10 @@
 # rlxone/Equinox - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 18
 
-★ Stars: 797
+★ Stars: 798
 
 [Open repository](https://github.com/rlxone/Equinox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 798 | 18 | 
 | 2023-04-13 | 797 | 18 | 
 | 2023-04-12 | 797 | 18 | 
 | 2023-04-11 | 797 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 777 | 18 | 
 | 2023-03-17 | 774 | 18 | 
 | 2023-03-16 | 772 | 18 | 
-| 2023-03-15 | 770 | 17 | 
 

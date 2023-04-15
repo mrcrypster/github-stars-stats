@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 259
 
-★ Stars: 3994
+★ Stars: 3996
 
 [Open repository](https://github.com/maximegmd/CyberEngineTweaks)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 3994 | 259 | 
+| 2023-04-14 | 3996 | 259 | 
 | 2023-04-13 | 3994 | 259 | 
 

@@ -1,6 +1,6 @@
 # cn-terraform/terraform-aws-ecs-service-autoscaling - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 14 | 16 | 
 | 2023-04-13 | 14 | 16 | 
 | 2023-04-12 | 14 | 16 | 
 | 2023-04-11 | 14 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 12 | 16 | 
 | 2023-03-18 | 12 | 16 | 
 | 2023-03-17 | 11 | 16 | 
-| 2023-03-15 | 11 | 16 | 
 

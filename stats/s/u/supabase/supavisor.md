@@ -1,10 +1,10 @@
 # supabase/supavisor - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 473
+★ Stars: 518
 
 [Open repository](https://github.com/supabase/supavisor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 518 | 7 | 
 | 2023-04-13 | 473 | 6 | 
 | 2023-04-12 | 435 | 6 | 
 | 2023-04-11 | 387 | 5 | 

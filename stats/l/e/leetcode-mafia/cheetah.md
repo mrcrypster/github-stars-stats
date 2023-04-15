@@ -1,10 +1,10 @@
 # leetcode-mafia/cheetah - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 47
+☋ Forks: 77
 
-★ Stars: 806
+★ Stars: 1227
 
 [Open repository](https://github.com/leetcode-mafia/cheetah)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1227 | 77 | 
 | 2023-04-13 | 806 | 47 | 
 | 2023-04-12 | 800 | 45 | 
 | 2023-04-11 | 784 | 45 | 

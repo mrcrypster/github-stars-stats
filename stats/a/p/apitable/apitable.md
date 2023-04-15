@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 513
+☋ Forks: 514
 
-★ Stars: 8262
+★ Stars: 8277
 
 [Open repository](https://github.com/apitable/apitable)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 8262 | 513 | 
+| 2023-04-14 | 8277 | 514 | 
 | 2023-04-13 | 8258 | 513 | 
 | 2023-04-12 | 8227 | 506 | 
 | 2023-04-11 | 8215 | 505 | 

@@ -1,10 +1,10 @@
 # adri567/autogpt - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 14
+☋ Forks: 20
 
-★ Stars: 130
+★ Stars: 162
 
 [Open repository](https://github.com/adri567/autogpt)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 130 | 14 | 
+| 2023-04-15 | 162 | 20 | 
+| 2023-04-14 | 152 | 20 | 
 | 2023-04-13 | 126 | 14 | 
 | 2023-04-12 | 85 | 8 | 
 | 2023-04-11 | 72 | 7 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 479
+☋ Forks: 480
 
-★ Stars: 794
+★ Stars: 795
 
 [Open repository](https://github.com/Xilinx/Vitis-Tutorials)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 794 | 479 | 
+| 2023-04-14 | 795 | 480 | 
 | 2023-04-13 | 794 | 479 | 
 | 2023-04-12 | 793 | 478 | 
 | 2023-04-11 | 791 | 477 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 771 | 466 | 
 | 2023-03-17 | 771 | 464 | 
 | 2023-03-16 | 768 | 464 | 
-| 2023-03-15 | 768 | 464 | 
 

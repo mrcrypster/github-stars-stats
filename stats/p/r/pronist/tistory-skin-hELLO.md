@@ -1,10 +1,10 @@
 # pronist/tistory-skin-hELLO - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 56
 
-★ Stars: 1353
+★ Stars: 1357
 
 [Open repository](https://github.com/pronist/tistory-skin-hELLO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1357 | 56 | 
 | 2023-04-13 | 1353 | 56 | 
 | 2023-04-12 | 1351 | 56 | 
 | 2023-04-11 | 1350 | 55 | 

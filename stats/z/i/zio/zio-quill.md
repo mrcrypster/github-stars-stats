@@ -1,10 +1,10 @@
 # zio/zio-quill - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 343
+☋ Forks: 344
 
-★ Stars: 2116
+★ Stars: 2117
 
 [Open repository](https://github.com/zio/zio-quill)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2117 | 344 | 
 | 2023-04-13 | 2116 | 343 | 
 | 2023-04-12 | 2115 | 341 | 
 | 2023-04-11 | 2114 | 341 | 

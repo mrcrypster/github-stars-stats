@@ -1,10 +1,10 @@
 # lifeiteng/vall-e - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 88
+☋ Forks: 93
 
-★ Stars: 534
+★ Stars: 656
 
 [Open repository](https://github.com/lifeiteng/vall-e)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 656 | 93 | 
 | 2023-04-13 | 534 | 88 | 
 | 2023-04-12 | 529 | 87 | 
 | 2023-04-11 | 518 | 84 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 376 | 55 | 
 | 2023-03-17 | 375 | 55 | 
 | 2023-03-16 | 367 | 53 | 
-| 2023-03-15 | 364 | 53 | 
 

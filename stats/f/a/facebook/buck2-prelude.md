@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/facebook/buck2-prelude)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 12 | 8 | 
+| 2023-04-14 | 13 | 8 | 
 | 2023-04-13 | 12 | 8 | 
 | 2023-04-12 | 12 | 8 | 
 | 2023-04-11 | 12 | 8 | 

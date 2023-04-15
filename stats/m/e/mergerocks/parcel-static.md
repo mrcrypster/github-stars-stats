@@ -1,8 +1,8 @@
 # mergerocks/parcel-static - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2 | 4 | 
 | 2023-04-13 | 2 | 3 | 
 | 2023-04-12 | 2 | 3 | 
 | 2023-04-11 | 2 | 3 | 

@@ -1,10 +1,10 @@
 # kinkofer/FightClub5eXML - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 378
+☋ Forks: 377
 
-★ Stars: 616
+★ Stars: 617
 
 [Open repository](https://github.com/kinkofer/FightClub5eXML)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 617 | 377 | 
 | 2023-04-13 | 616 | 378 | 
 | 2023-04-12 | 616 | 378 | 
 | 2023-04-11 | 616 | 378 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 604 | 375 | 
 | 2023-03-18 | 604 | 375 | 
 | 2023-03-17 | 604 | 375 | 
-| 2023-03-16 | 604 | 374 | 
 

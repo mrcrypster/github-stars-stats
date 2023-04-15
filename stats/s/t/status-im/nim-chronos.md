@@ -1,8 +1,8 @@
 # status-im/nim-chronos - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 271
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 271 | 41 | 
 | 2023-04-13 | 271 | 40 | 
 | 2023-04-12 | 269 | 40 | 
 | 2023-04-11 | 268 | 40 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 267 | 40 | 
 | 2023-03-18 | 267 | 40 | 
 | 2023-03-17 | 267 | 40 | 
-| 2023-03-15 | 267 | 40 | 
 

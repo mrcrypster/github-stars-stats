@@ -1,8 +1,8 @@
 # flexdinesh/blogster - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 196
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 196 | 18 | 
+| 2023-04-14 | 196 | 18 | 
 | 2023-04-13 | 196 | 17 | 
 | 2023-04-12 | 193 | 17 | 
 | 2023-04-11 | 191 | 17 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 169 | 18 | 
 | 2023-03-18 | 167 | 18 | 
 | 2023-03-17 | 166 | 16 | 
-| 2023-03-15 | 166 | 16 | 
 

@@ -1,6 +1,6 @@
 # josejesusguzman/acordeon-az500-innoovaccion - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 70 | 25 | 
 | 2023-04-13 | 70 | 25 | 
 | 2023-04-12 | 70 | 25 | 
 | 2023-04-11 | 70 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 70 | 26 | 
 | 2023-03-18 | 70 | 26 | 
 | 2023-03-16 | 70 | 26 | 
-| 2023-03-15 | 70 | 26 | 
 

@@ -1,6 +1,6 @@
 # Humanizr/Humanizer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 896
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 7655 | 896 | 
 | 2023-04-13 | 7655 | 896 | 
 | 2023-04-12 | 7654 | 896 | 
 | 2023-04-11 | 7642 | 894 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 7542 | 892 | 
 | 2023-03-18 | 7541 | 893 | 
 | 2023-03-17 | 7536 | 893 | 
-| 2023-03-15 | 7530 | 893 | 
 

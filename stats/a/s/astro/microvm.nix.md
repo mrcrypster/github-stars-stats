@@ -1,10 +1,10 @@
 # astro/microvm.nix - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 439
+★ Stars: 442
 
 [Open repository](https://github.com/astro/microvm.nix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 442 | 31 | 
 | 2023-04-13 | 439 | 31 | 
 | 2023-04-12 | 437 | 31 | 
 | 2023-04-11 | 437 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 407 | 29 | 
 | 2023-03-17 | 407 | 30 | 
 | 2023-03-16 | 405 | 30 | 
-| 2023-03-15 | 402 | 30 | 
 

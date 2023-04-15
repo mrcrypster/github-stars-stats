@@ -1,6 +1,6 @@
 # havivha/Nand2Tetris - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 357 | 170 | 
 | 2023-04-13 | 357 | 170 | 
 | 2023-04-12 | 357 | 170 | 
 | 2023-04-11 | 357 | 170 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 353 | 167 | 
 | 2023-03-18 | 351 | 167 | 
 | 2023-03-17 | 351 | 167 | 
-| 2023-03-16 | 351 | 167 | 
 

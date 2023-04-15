@@ -1,6 +1,6 @@
 # ZyqGitHub1/h-player-v2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 653
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3132 | 653 | 
 | 2023-04-13 | 3132 | 653 | 
 | 2023-04-12 | 3132 | 653 | 
 | 2023-04-11 | 3130 | 653 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 3128 | 653 | 
 | 2023-03-18 | 3127 | 653 | 
 | 2023-03-16 | 3128 | 653 | 
-| 2023-03-15 | 3129 | 653 | 
 

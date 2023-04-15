@@ -1,10 +1,10 @@
 # huangruiLearn/flutter_hrlweibo - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 666
 
-★ Stars: 2608
+★ Stars: 2607
 
 [Open repository](https://github.com/huangruiLearn/flutter_hrlweibo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2607 | 666 | 
 | 2023-04-13 | 2608 | 666 | 
 | 2023-04-12 | 2607 | 666 | 
 | 2023-04-11 | 2605 | 666 | 

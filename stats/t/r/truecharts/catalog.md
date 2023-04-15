@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 152
+☋ Forks: 153
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/truecharts/catalog)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 156 | 152 | 
+| 2023-04-14 | 157 | 153 | 
 | 2023-04-13 | 156 | 151 | 
 | 2023-04-12 | 156 | 150 | 
 | 2023-04-11 | 156 | 150 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 146 | 143 | 
 | 2023-03-18 | 146 | 141 | 
 | 2023-03-16 | 145 | 141 | 
-| 2023-03-15 | 145 | 142 | 
 

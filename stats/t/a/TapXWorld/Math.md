@@ -1,10 +1,10 @@
 # TapXWorld/Math - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 195
 
-★ Stars: 959
+★ Stars: 961
 
 [Open repository](https://github.com/TapXWorld/Math)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 961 | 195 | 
 | 2023-04-13 | 959 | 195 | 
 | 2023-04-12 | 958 | 195 | 
 | 2023-04-11 | 956 | 195 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 942 | 188 | 
 | 2023-03-18 | 940 | 188 | 
 | 2023-03-16 | 937 | 188 | 
-| 2023-03-15 | 938 | 187 | 
 

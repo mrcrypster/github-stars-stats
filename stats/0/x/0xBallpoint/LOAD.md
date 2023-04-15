@@ -1,10 +1,10 @@
 # 0xBallpoint/LOAD - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/0xBallpoint/LOAD)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 84 | 6 | 
 | 2023-04-13 | 83 | 6 | 
 | 2023-04-12 | 83 | 6 | 
 | 2023-04-11 | 82 | 6 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 74 | 6 | 
 | 2023-03-18 | 73 | 6 | 
 | 2023-03-16 | 73 | 6 | 
-| 2023-03-15 | 72 | 5 | 
 

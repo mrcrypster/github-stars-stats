@@ -1,10 +1,10 @@
 # RareSkills/huff-puzzles - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 92
+★ Stars: 113
 
 [Open repository](https://github.com/RareSkills/huff-puzzles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 113 | 16 | 
 | 2023-04-13 | 92 | 14 | 
 | 2023-04-12 | 91 | 14 | 
 | 2023-04-11 | 90 | 13 | 

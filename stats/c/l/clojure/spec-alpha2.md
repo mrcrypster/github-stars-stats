@@ -1,8 +1,8 @@
 # clojure/spec-alpha2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 27
+☋ Forks: 26
 
 ★ Stars: 283
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 283 | 26 | 
 | 2023-04-13 | 283 | 27 | 
 | 2023-04-12 | 283 | 27 | 
 | 2023-04-11 | 283 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 281 | 26 | 
 | 2023-03-18 | 281 | 26 | 
 | 2023-03-16 | 281 | 26 | 
-| 2023-03-15 | 281 | 26 | 
 

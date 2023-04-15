@@ -1,10 +1,10 @@
 # fafrd/aquarium - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 511
+★ Stars: 513
 
 [Open repository](https://github.com/fafrd/aquarium)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 513 | 27 | 
 | 2023-04-13 | 511 | 26 | 
 | 2023-04-12 | 512 | 26 | 
 | 2023-04-11 | 508 | 26 | 

@@ -1,10 +1,10 @@
 # patriciogonzalezvivo/lygia_p5_examples - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/patriciogonzalezvivo/lygia_p5_examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 21 | - | 
 | 2023-04-13 | 20 | - | 
 | 2023-04-12 | 20 | - | 
 | 2023-04-11 | 20 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 20 | - | 
 | 2023-03-18 | 20 | - | 
 | 2023-03-17 | 20 | - | 
-| 2023-03-15 | 20 | - | 
 

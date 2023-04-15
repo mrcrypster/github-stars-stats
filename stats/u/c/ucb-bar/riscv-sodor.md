@@ -1,10 +1,10 @@
 # ucb-bar/riscv-sodor - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 149
 
-★ Stars: 569
+★ Stars: 570
 
 [Open repository](https://github.com/ucb-bar/riscv-sodor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 570 | 149 | 
 | 2023-04-13 | 569 | 149 | 
 | 2023-04-12 | 569 | 149 | 
 | 2023-04-11 | 570 | 149 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 560 | 148 | 
 | 2023-03-18 | 560 | 148 | 
 | 2023-03-17 | 559 | 148 | 
-| 2023-03-15 | 559 | 148 | 
 

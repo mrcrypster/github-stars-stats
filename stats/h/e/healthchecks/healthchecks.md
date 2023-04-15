@@ -1,10 +1,10 @@
 # healthchecks/healthchecks - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 684
 
-★ Stars: 6094
+★ Stars: 6100
 
 [Open repository](https://github.com/healthchecks/healthchecks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 6100 | 684 | 
 | 2023-04-13 | 6094 | 684 | 
 | 2023-04-12 | 6092 | 684 | 
 | 2023-04-11 | 6091 | 684 | 

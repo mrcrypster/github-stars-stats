@@ -1,10 +1,10 @@
 # SystemCrafters/rational-emacs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 489
+★ Stars: 490
 
 [Open repository](https://github.com/SystemCrafters/rational-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 490 | 97 | 
 | 2023-04-13 | 489 | 96 | 
 | 2023-04-12 | 488 | 96 | 
 | 2023-04-11 | 486 | 96 | 

@@ -1,10 +1,10 @@
 # sdatkinson/NeuralAmpModelerPlugin - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 902
+★ Stars: 912
 
 [Open repository](https://github.com/sdatkinson/NeuralAmpModelerPlugin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 912 | 69 | 
 | 2023-04-13 | 902 | 68 | 
 | 2023-04-12 | 880 | 66 | 
 | 2023-04-11 | 873 | 65 | 

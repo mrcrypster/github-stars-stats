@@ -1,10 +1,10 @@
 # snowflakedb/spark-snowflake - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 86
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/snowflakedb/spark-snowflake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 175 | 86 | 
 | 2023-04-13 | 174 | 86 | 
 | 2023-04-12 | 174 | 86 | 
 | 2023-04-11 | 172 | 86 | 

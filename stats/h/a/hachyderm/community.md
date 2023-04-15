@@ -1,6 +1,6 @@
 # hachyderm/community - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 457 | 48 | 
 | 2023-04-13 | 457 | 48 | 
 | 2023-04-12 | 456 | 48 | 
 | 2023-04-11 | 456 | 48 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 451 | 47 | 
 | 2023-03-18 | 451 | 47 | 
 | 2023-03-17 | 451 | 46 | 
-| 2023-03-15 | 450 | 46 | 
 

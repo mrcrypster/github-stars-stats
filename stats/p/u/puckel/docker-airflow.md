@@ -1,8 +1,8 @@
 # puckel/docker-airflow - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 474
+☋ Forks: 475
 
 ★ Stars: 3596
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 3596 | 475 | 
 | 2023-04-13 | 3596 | 474 | 
 | 2023-04-12 | 3596 | 474 | 
 | 2023-04-11 | 3596 | 473 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 3590 | 469 | 
 | 2023-03-17 | 3590 | 468 | 
 | 2023-03-16 | 3590 | 466 | 
-| 2023-03-15 | 3590 | 465 | 
 

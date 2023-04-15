@@ -1,6 +1,6 @@
 # Lakr233/Kimis - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 189 | 14 | 
 | 2023-04-13 | 189 | 14 | 
 | 2023-04-12 | 189 | 14 | 
 | 2023-04-10 | 189 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 180 | 13 | 
 | 2023-03-18 | 180 | 13 | 
 | 2023-03-17 | 180 | 13 | 
-| 2023-03-16 | 180 | 13 | 
 

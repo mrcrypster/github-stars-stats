@@ -1,10 +1,10 @@
 # ropenscilabs/quartificate - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/ropenscilabs/quartificate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 34 | 1 | 
 | 2023-04-13 | 33 | 1 | 
 | 2023-04-12 | 33 | 1 | 
 | 2023-04-11 | 33 | 1 | 

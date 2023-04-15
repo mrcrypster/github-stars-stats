@@ -1,10 +1,10 @@
 # matrix-org/dendrite - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 573
+☋ Forks: 574
 
-★ Stars: 4505
+★ Stars: 4506
 
 [Open repository](https://github.com/matrix-org/dendrite)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 4506 | 574 | 
 | 2023-04-13 | 4505 | 573 | 
 | 2023-04-12 | 4502 | 573 | 
 | 2023-04-11 | 4499 | 571 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 4445 | 558 | 
 | 2023-03-18 | 4439 | 558 | 
 | 2023-03-17 | 4435 | 557 | 
-| 2023-03-16 | 4433 | 556 | 
 

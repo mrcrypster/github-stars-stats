@@ -1,10 +1,10 @@
 # Raychanan/ChatGPT-for-Translation - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 24
 
-★ Stars: 110
+★ Stars: 112
 
 [Open repository](https://github.com/Raychanan/ChatGPT-for-Translation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 112 | 24 | 
 | 2023-04-13 | 110 | 24 | 
 | 2023-04-12 | 108 | 23 | 
 | 2023-04-10 | 107 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-18 | 50 | 8 | 
 | 2023-03-17 | 45 | 8 | 
 | 2023-03-16 | 43 | 6 | 
-| 2023-03-15 | 41 | 6 | 
 

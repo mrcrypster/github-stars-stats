@@ -1,8 +1,8 @@
 # DarkCoderSc/PowerRemoteDesktop - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 254
+☋ Forks: 255
 
 ★ Stars: 1879
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1879 | 255 | 
 | 2023-04-13 | 1879 | 254 | 
 | 2023-04-12 | 1878 | 254 | 
 | 2023-04-11 | 1877 | 254 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1863 | 251 | 
 | 2023-03-18 | 1862 | 250 | 
 | 2023-03-17 | 1859 | 248 | 
-| 2023-03-15 | 1857 | 248 | 
 

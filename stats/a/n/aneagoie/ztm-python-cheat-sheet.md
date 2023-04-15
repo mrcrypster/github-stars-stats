@@ -1,10 +1,10 @@
 # aneagoie/ztm-python-cheat-sheet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 1198
+☋ Forks: 1199
 
-★ Stars: 2024
+★ Stars: 2026
 
 [Open repository](https://github.com/aneagoie/ztm-python-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 2026 | 1199 | 
 | 2023-04-13 | 2024 | 1198 | 
 | 2023-04-12 | 2022 | 1198 | 
 | 2023-04-11 | 2021 | 1196 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 2006 | 1185 | 
 | 2023-03-17 | 2003 | 1182 | 
 | 2023-03-16 | 1999 | 1182 | 
-| 2023-03-15 | 1999 | 1182 | 
 

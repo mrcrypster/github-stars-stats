@@ -1,6 +1,6 @@
 # Azure/arm-ttk - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 383 | 168 | 
 | 2023-04-13 | 383 | 168 | 
 | 2023-04-12 | 383 | 168 | 
 | 2023-04-11 | 383 | 168 | 

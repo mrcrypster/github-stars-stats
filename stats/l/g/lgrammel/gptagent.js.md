@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 14
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 99
+★ Stars: 103
 
 [Open repository](https://github.com/lgrammel/gptagent.js)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-14 | 99 | 11 | 
+| 2023-04-14 | 103 | 12 | 
 | 2023-04-13 | 97 | 11 | 
 

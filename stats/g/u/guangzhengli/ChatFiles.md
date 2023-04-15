@@ -1,10 +1,10 @@
 # guangzhengli/ChatFiles - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 179
+☋ Forks: 183
 
-★ Stars: 1222
+★ Stars: 1287
 
 [Open repository](https://github.com/guangzhengli/ChatFiles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 1287 | 183 | 
 | 2023-04-13 | 1222 | 179 | 
 | 2023-04-12 | 1180 | 172 | 
 | 2023-04-11 | 1125 | 160 | 

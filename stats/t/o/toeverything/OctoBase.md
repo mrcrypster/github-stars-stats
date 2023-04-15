@@ -1,10 +1,10 @@
 # toeverything/OctoBase - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
 ☋ Forks: 22
 
-★ Stars: 215
+★ Stars: 221
 
 [Open repository](https://github.com/toeverything/OctoBase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | 221 | 22 | 
 | 2023-04-13 | 215 | 22 | 
 | 2023-04-12 | 199 | 21 | 
 | 2023-04-11 | 182 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 158 | 16 | 
 | 2023-03-18 | 157 | 17 | 
 | 2023-03-17 | 153 | 16 | 
-| 2023-03-15 | 147 | 15 | 
 

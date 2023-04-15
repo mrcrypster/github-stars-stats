@@ -1,8 +1,8 @@
 # Technologie-Visao/coding-challenge-fullstack-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 14
 
-☋ Forks: 7
+☋ Forks: 13
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-14 | - | 13 | 
 | 2023-04-13 | - | 7 | 
 | 2023-04-12 | - | 6 | 
 
