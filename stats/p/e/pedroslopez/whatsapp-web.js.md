@@ -1,10 +1,10 @@
 # pedroslopez/whatsapp-web.js - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2285
+☋ Forks: 2287
 
-★ Stars: 9783
+★ Stars: 9793
 
 [Open repository](https://github.com/pedroslopez/whatsapp-web.js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 9793 | 2287 | 
 | 2023-04-13 | 9783 | 2285 | 
 | 2023-04-12 | 9773 | 2281 | 
 | 2023-04-11 | 9763 | 2278 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 9565 | 2201 | 
 | 2023-03-18 | 9561 | 2198 | 
 | 2023-03-17 | 9547 | 2197 | 
-| 2023-03-16 | 9531 | 2193 | 
 

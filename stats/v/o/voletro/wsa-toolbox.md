@@ -1,6 +1,6 @@
 # voletro/wsa-toolbox - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 236
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 607 | 236 | 
 | 2023-04-13 | 607 | 236 | 
 | 2023-04-12 | 606 | 236 | 
 | 2023-04-11 | 606 | 236 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 603 | 234 | 
 | 2023-03-19 | 603 | 234 | 
 | 2023-03-17 | 602 | 234 | 
-| 2023-03-16 | 602 | 234 | 
 

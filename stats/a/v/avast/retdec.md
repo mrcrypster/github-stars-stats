@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 880
+☋ Forks: 881
 
-★ Stars: 7130
+★ Stars: 7133
 
 [Open repository](https://github.com/avast/retdec)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 7130 | 880 | 
+| 2023-04-15 | 7133 | 881 | 
 | 2023-04-14 | 7128 | 880 | 
 

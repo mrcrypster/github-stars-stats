@@ -1,6 +1,6 @@
 # troyhunt/password-purgatory - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 134 | 15 | 
 | 2023-04-13 | 134 | 15 | 
 | 2023-04-12 | 134 | 15 | 
 | 2023-04-11 | 134 | 15 | 

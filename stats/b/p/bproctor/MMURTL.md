@@ -1,6 +1,6 @@
 # bproctor/MMURTL - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 63 | 26 | 
 | 2023-04-13 | 63 | 26 | 
 | 2023-04-12 | 63 | 26 | 
 | 2023-04-11 | 63 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 62 | 26 | 
 | 2023-03-19 | 62 | 26 | 
 | 2023-03-18 | 62 | 26 | 
-| 2023-03-16 | 62 | 26 | 
 

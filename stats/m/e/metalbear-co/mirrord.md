@@ -1,6 +1,6 @@
 # metalbear-co/mirrord - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2375 | 73 | 
 | 2023-04-14 | 2375 | 73 | 
 | 2023-04-13 | 2373 | 73 | 
 | 2023-04-12 | 2370 | 73 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2331 | 73 | 
 | 2023-03-18 | 2329 | 73 | 
 | 2023-03-17 | 2326 | 73 | 
-| 2023-03-16 | 2324 | 73 | 
 

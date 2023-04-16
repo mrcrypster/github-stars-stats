@@ -1,10 +1,10 @@
 # omerbt/MultiDiffusion - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 23
 
-★ Stars: 501
+★ Stars: 506
 
 [Open repository](https://github.com/omerbt/MultiDiffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 506 | 23 | 
 | 2023-04-13 | 501 | 23 | 
 | 2023-04-12 | 498 | 23 | 
 | 2023-04-11 | 494 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 383 | 18 | 
 | 2023-03-18 | 377 | 18 | 
 | 2023-03-17 | 373 | 18 | 
-| 2023-03-16 | 371 | 18 | 
 

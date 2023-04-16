@@ -1,10 +1,10 @@
 # gonglei007/cpp-bugs-killer - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/gonglei007/cpp-bugs-killer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 29 | 3 | 
 | 2023-04-13 | 28 | 3 | 
 | 2023-04-12 | 28 | 3 | 
 | 2023-04-11 | 28 | 3 | 

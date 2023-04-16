@@ -1,10 +1,10 @@
 # TheD1rkMtr/FilelessPELoader - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 113
 
-★ Stars: 575
+★ Stars: 579
 
 [Open repository](https://github.com/TheD1rkMtr/FilelessPELoader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 579 | 113 | 
 | 2023-04-14 | 575 | 113 | 
 | 2023-04-13 | 572 | 112 | 
 | 2023-04-12 | 568 | 112 | 

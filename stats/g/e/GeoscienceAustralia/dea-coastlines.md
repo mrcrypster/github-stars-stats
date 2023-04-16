@@ -1,10 +1,10 @@
 # GeoscienceAustralia/dea-coastlines - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/GeoscienceAustralia/dea-coastlines)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 37 | 12 | 
 | 2023-04-13 | 36 | 12 | 
 | 2023-04-12 | 36 | 12 | 
 | 2023-04-11 | 36 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 37 | 12 | 
 | 2023-03-19 | 36 | 12 | 
 | 2023-03-18 | 36 | 12 | 
-| 2023-03-17 | 36 | 12 | 
 

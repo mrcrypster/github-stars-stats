@@ -1,6 +1,6 @@
 # carla-simulator/ros-carla-msgs - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 12 | 23 | 
 | 2023-04-14 | 12 | 23 | 
 | 2023-04-13 | 12 | 23 | 
 | 2023-04-12 | 12 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 12 | 22 | 
 | 2023-03-19 | 12 | 21 | 
 | 2023-03-17 | 12 | 21 | 
-| 2023-03-16 | 12 | 21 | 
 

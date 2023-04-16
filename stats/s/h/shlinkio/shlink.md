@@ -1,10 +1,10 @@
 # shlinkio/shlink - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 175
 
-★ Stars: 1932
+★ Stars: 1930
 
 [Open repository](https://github.com/shlinkio/shlink)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1930 | 175 | 
 | 2023-04-14 | 1932 | 175 | 
 | 2023-04-13 | 1927 | 175 | 
 | 2023-04-12 | 1925 | 175 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1884 | 170 | 
 | 2023-03-19 | 1879 | 170 | 
 | 2023-03-17 | 1879 | 170 | 
-| 2023-03-16 | 1877 | 170 | 
 

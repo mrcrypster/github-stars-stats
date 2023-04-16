@@ -1,10 +1,10 @@
 # tiangolo/fastapi - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 4716
+☋ Forks: 4721
 
-★ Stars: 56627
+★ Stars: 56670
 
 [Open repository](https://github.com/tiangolo/fastapi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 56670 | 4721 | 
 | 2023-04-14 | 56627 | 4716 | 
 | 2023-04-13 | 56586 | 4713 | 
 | 2023-04-12 | 56542 | 4709 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 55625 | 4607 | 
 | 2023-03-18 | 55581 | 4599 | 
 | 2023-03-17 | 55560 | 4599 | 
-| 2023-03-16 | 55503 | 4593 | 
 

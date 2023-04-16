@@ -1,10 +1,10 @@
 # gtoxlili/wechat-chatGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/gtoxlili/wechat-chatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 371 | 128 | 
 | 2023-04-14 | 370 | 127 | 
 | 2023-04-13 | 370 | 126 | 
 | 2023-04-11 | 370 | 126 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 349 | 120 | 
 | 2023-03-19 | 347 | 120 | 
 | 2023-03-18 | 348 | 120 | 
-| 2023-03-16 | 345 | 120 | 
 

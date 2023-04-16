@@ -1,10 +1,10 @@
 # krispo/awesome-haskell - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 170
 
-★ Stars: 2885
+★ Stars: 2883
 
 [Open repository](https://github.com/krispo/awesome-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2883 | 170 | 
 | 2023-04-14 | 2885 | 170 | 
 | 2023-04-13 | 2883 | 169 | 
 | 2023-04-12 | 2881 | 169 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2871 | 168 | 
 | 2023-03-19 | 2871 | 168 | 
 | 2023-03-18 | 2871 | 168 | 
-| 2023-03-16 | 2870 | 168 | 
 

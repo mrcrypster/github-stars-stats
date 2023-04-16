@@ -1,10 +1,10 @@
 # tsoding/c.php - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 206
+★ Stars: 209
 
 [Open repository](https://github.com/tsoding/c.php)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 209 | 8 | 
 | 2023-04-13 | 206 | 8 | 
 | 2023-04-12 | 205 | 6 | 
 | 2023-04-11 | 205 | 6 | 

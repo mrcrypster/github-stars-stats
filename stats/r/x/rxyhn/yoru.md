@@ -1,10 +1,10 @@
 # rxyhn/yoru - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 171
+☋ Forks: 170
 
-★ Stars: 2797
+★ Stars: 2796
 
 [Open repository](https://github.com/rxyhn/yoru)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2796 | 170 | 
 | 2023-04-13 | 2797 | 171 | 
 | 2023-04-12 | 2795 | 169 | 
 | 2023-04-11 | 2793 | 168 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 2750 | 167 | 
 | 2023-03-18 | 2747 | 166 | 
 | 2023-03-17 | 2747 | 166 | 
-| 2023-03-16 | 2744 | 167 | 
 

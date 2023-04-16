@@ -1,10 +1,10 @@
 # python/devguide - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 630
+☋ Forks: 631
 
-★ Stars: 1537
+★ Stars: 1538
 
 [Open repository](https://github.com/python/devguide)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1538 | 631 | 
 | 2023-04-13 | 1537 | 630 | 
 | 2023-04-12 | 1536 | 628 | 
 | 2023-04-11 | 1535 | 628 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 1530 | 626 | 
 | 2023-03-20 | 1529 | 626 | 
 | 2023-03-18 | 1529 | 625 | 
-| 2023-03-17 | 1528 | 625 | 
 

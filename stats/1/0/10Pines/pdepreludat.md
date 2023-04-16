@@ -1,10 +1,10 @@
 # 10Pines/pdepreludat - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/10Pines/pdepreludat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 16 | 1 | 
 | 2023-04-14 | 15 | 1 | 
 | 2023-04-13 | 15 | 1 | 
 | 2023-04-12 | 15 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 14 | 1 | 
 | 2023-03-19 | 14 | 1 | 
 | 2023-03-18 | 14 | 1 | 
-| 2023-03-16 | 14 | 1 | 
 

@@ -1,10 +1,10 @@
 # sergejhorvat/TensorFlow-Data-and-Deployment-Specialization - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 43
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/sergejhorvat/TensorFlow-Data-and-Deployment-Specialization)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 26 | 43 | 
 | 2023-04-13 | 25 | 43 | 
 | 2023-04-12 | 25 | 43 | 
 | 2023-04-11 | 25 | 43 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 26 | 43 | 
 | 2023-03-19 | 26 | 43 | 
 | 2023-03-17 | 26 | 43 | 
-| 2023-03-16 | 26 | 43 | 
 

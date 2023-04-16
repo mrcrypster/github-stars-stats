@@ -1,8 +1,8 @@
 # hashicorp/terraform-google-consul - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 95
+☋ Forks: 94
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 91 | 94 | 
 | 2023-04-13 | 91 | 95 | 
 | 2023-04-12 | 91 | 95 | 
 | 2023-04-11 | 91 | 95 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 91 | 96 | 
 | 2023-03-19 | 91 | 96 | 
 | 2023-03-17 | 91 | 96 | 
-| 2023-03-16 | 91 | 96 | 
 

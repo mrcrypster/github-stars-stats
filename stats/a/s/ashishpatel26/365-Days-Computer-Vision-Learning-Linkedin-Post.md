@@ -1,6 +1,6 @@
 # ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 378 | 126 | 
 | 2023-04-14 | 378 | 126 | 
 | 2023-04-12 | 378 | 126 | 
 | 2023-04-11 | 378 | 126 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 376 | 126 | 
 | 2023-03-19 | 376 | 126 | 
 | 2023-03-17 | 376 | 126 | 
-| 2023-03-16 | 376 | 126 | 
 

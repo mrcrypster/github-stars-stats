@@ -1,8 +1,8 @@
 # roapi/roapi - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 138
+☋ Forks: 139
 
 ★ Stars: 2728
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2728 | 139 | 
 | 2023-04-14 | 2728 | 138 | 
 | 2023-04-13 | 2725 | 138 | 
 | 2023-04-12 | 2724 | 138 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2699 | 139 | 
 | 2023-03-18 | 2699 | 139 | 
 | 2023-03-17 | 2698 | 139 | 
-| 2023-03-16 | 2695 | 139 | 
 

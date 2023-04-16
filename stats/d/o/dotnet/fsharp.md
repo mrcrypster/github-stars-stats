@@ -1,10 +1,10 @@
 # dotnet/fsharp - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 741
+☋ Forks: 742
 
-★ Stars: 3443
+★ Stars: 3444
 
 [Open repository](https://github.com/dotnet/fsharp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3444 | 742 | 
 | 2023-04-14 | 3443 | 741 | 
 | 2023-04-13 | 3442 | 739 | 
 | 2023-04-12 | 3440 | 739 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 3414 | 737 | 
 | 2023-03-18 | 3413 | 737 | 
 | 2023-03-17 | 3413 | 736 | 
-| 2023-03-16 | 3413 | 737 | 
 

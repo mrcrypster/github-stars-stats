@@ -1,10 +1,10 @@
 # wgpsec/whohk - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 58
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/wgpsec/whohk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 297 | 58 | 
 | 2023-04-13 | 296 | 58 | 
 | 2023-04-12 | 296 | 58 | 
 | 2023-04-11 | 296 | 58 | 

@@ -1,10 +1,10 @@
 # evant/kotlin-inject - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 33
 
-★ Stars: 685
+★ Stars: 684
 
 [Open repository](https://github.com/evant/kotlin-inject)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 684 | 33 | 
 | 2023-04-13 | 685 | 33 | 
 | 2023-04-12 | 683 | 33 | 
 | 2023-04-11 | 681 | 33 | 

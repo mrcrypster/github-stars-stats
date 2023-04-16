@@ -1,10 +1,10 @@
 # ErikEJ/EFCorePowerTools - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 1524
+★ Stars: 1528
 
 [Open repository](https://github.com/ErikEJ/EFCorePowerTools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1528 | 233 | 
 | 2023-04-14 | 1524 | 232 | 
 | 2023-04-13 | 1520 | 232 | 
 | 2023-04-12 | 1516 | 232 | 

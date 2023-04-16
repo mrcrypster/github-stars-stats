@@ -1,6 +1,6 @@
 # iden3/circom_runtime - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 13 | 11 | 
 | 2023-04-13 | 13 | 11 | 
 | 2023-04-12 | 14 | 11 | 
 | 2023-04-11 | 14 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 14 | 11 | 
 | 2023-03-19 | 14 | 11 | 
 | 2023-03-17 | 14 | 11 | 
-| 2023-03-16 | 14 | 11 | 
 

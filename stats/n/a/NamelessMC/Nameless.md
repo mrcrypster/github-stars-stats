@@ -1,10 +1,10 @@
 # NamelessMC/Nameless - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 307
 
-★ Stars: 550
+★ Stars: 549
 
 [Open repository](https://github.com/NamelessMC/Nameless)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 549 | 307 | 
 | 2023-04-13 | 550 | 307 | 
 | 2023-04-12 | 550 | 307 | 
 | 2023-04-11 | 550 | 308 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 544 | 304 | 
 | 2023-03-18 | 544 | 305 | 
 | 2023-03-17 | 543 | 306 | 
-| 2023-03-16 | 543 | 306 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
-★ Stars: 157
+★ Stars: 166
 
 [Open repository](https://github.com/OffcierCia/non-typical-OSINT-guide)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 157 | 9 | 
+| 2023-04-15 | 166 | 9 | 
 | 2023-04-14 | 145 | 9 | 
 

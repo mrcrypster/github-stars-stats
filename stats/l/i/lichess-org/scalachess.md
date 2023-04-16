@@ -1,10 +1,10 @@
 # lichess-org/scalachess - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 183
 
-★ Stars: 539
+★ Stars: 538
 
 [Open repository](https://github.com/lichess-org/scalachess)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 538 | 183 | 
 | 2023-04-13 | 539 | 183 | 
 | 2023-04-12 | 538 | 183 | 
 | 2023-04-11 | 538 | 183 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 536 | 181 | 
 | 2023-03-20 | 535 | 180 | 
 | 2023-03-18 | 535 | 180 | 
-| 2023-03-16 | 535 | 180 | 
 

@@ -1,8 +1,8 @@
 # Mrmineduce21/Oracle_OneKey_Active - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 228
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 228 | 105 | 
 | 2023-04-14 | 228 | 104 | 
 | 2023-04-13 | 228 | 104 | 
 | 2023-04-12 | 228 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 209 | 100 | 
 | 2023-03-18 | 206 | 98 | 
 | 2023-03-17 | 198 | 96 | 
-| 2023-03-16 | 195 | 93 | 
 

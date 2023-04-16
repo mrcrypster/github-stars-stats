@@ -1,10 +1,10 @@
 # coinbase/waas-sdk-react-native - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 54
+★ Stars: 57
 
 [Open repository](https://github.com/coinbase/waas-sdk-react-native)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 57 | 12 | 
 | 2023-04-13 | 54 | 11 | 
 | 2023-04-12 | 52 | 11 | 
 | 2023-04-11 | 52 | 11 | 

@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-cloud-router - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 33 | 44 | 
 | 2023-04-14 | 33 | 44 | 
 | 2023-04-12 | 33 | 44 | 
 | 2023-04-11 | 33 | 43 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 30 | 43 | 
 | 2023-03-19 | 31 | 43 | 
 | 2023-03-18 | 31 | 43 | 
-| 2023-03-17 | 31 | 43 | 
 

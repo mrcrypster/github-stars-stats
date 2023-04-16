@@ -1,10 +1,10 @@
 # WTFAcademy/WTF-Ethers - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 237
+☋ Forks: 239
 
-★ Stars: 1627
+★ Stars: 1632
 
 [Open repository](https://github.com/WTFAcademy/WTF-Ethers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1632 | 239 | 
 | 2023-04-13 | 1627 | 237 | 
 | 2023-04-12 | 1624 | 238 | 
 | 2023-04-11 | 1617 | 236 | 

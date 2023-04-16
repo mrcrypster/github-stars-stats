@@ -1,6 +1,6 @@
 # loophp/nix-shell - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 86 | 7 | 
 | 2023-04-14 | 86 | 7 | 
 | 2023-04-13 | 86 | 7 | 
 | 2023-04-11 | 86 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 84 | 6 | 
 | 2023-03-19 | 84 | 6 | 
 | 2023-03-18 | 84 | 6 | 
-| 2023-03-17 | 84 | 6 | 
 

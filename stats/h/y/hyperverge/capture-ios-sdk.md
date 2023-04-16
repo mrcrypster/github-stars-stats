@@ -1,6 +1,6 @@
 # hyperverge/capture-ios-sdk - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5 | 8 | 
 | 2023-04-13 | 5 | 8 | 
 | 2023-04-12 | 5 | 8 | 
 | 2023-04-11 | 5 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 5 | 7 | 
 | 2023-03-19 | 5 | 7 | 
 | 2023-03-18 | 5 | 7 | 
-| 2023-03-17 | 5 | 7 | 
 

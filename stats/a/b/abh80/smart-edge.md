@@ -1,6 +1,6 @@
 # abh80/smart-edge - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 172 | 18 | 
 | 2023-04-13 | 172 | 18 | 
 | 2023-04-12 | 172 | 18 | 
 | 2023-04-11 | 172 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 170 | 18 | 
 | 2023-03-19 | 170 | 18 | 
 | 2023-03-18 | 170 | 18 | 
-| 2023-03-16 | 170 | 18 | 
 

@@ -1,10 +1,10 @@
 # odoo/owl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 272
 
-★ Stars: 802
+★ Stars: 806
 
 [Open repository](https://github.com/odoo/owl)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 806 | 272 | 
 | 2023-04-14 | 802 | 272 | 
 

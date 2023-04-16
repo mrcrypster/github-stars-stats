@@ -1,10 +1,10 @@
 # stemangiola/CuratedAtlasQueryR - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/stemangiola/CuratedAtlasQueryR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 53 | 1 | 
 | 2023-04-13 | 52 | 1 | 
 | 2023-04-12 | 52 | 1 | 
 | 2023-04-11 | 52 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 47 | 1 | 
 | 2023-03-19 | 47 | 1 | 
 | 2023-03-17 | 47 | 1 | 
-| 2023-03-16 | 47 | 1 | 
 

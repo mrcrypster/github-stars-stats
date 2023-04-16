@@ -1,10 +1,10 @@
 # Kanaries/Rath - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 110
+☋ Forks: 113
 
-★ Stars: 2039
+★ Stars: 2044
 
 [Open repository](https://github.com/Kanaries/Rath)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2044 | 113 | 
 | 2023-04-14 | 2039 | 110 | 
 | 2023-04-13 | 2035 | 110 | 
 | 2023-04-12 | 2025 | 110 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1936 | 102 | 
 | 2023-03-19 | 1930 | 102 | 
 | 2023-03-17 | 1926 | 101 | 
-| 2023-03-16 | 1923 | 100 | 
 

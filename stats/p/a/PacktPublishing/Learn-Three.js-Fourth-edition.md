@@ -1,10 +1,10 @@
 # PacktPublishing/Learn-Three.js-Fourth-edition - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 25
 
-★ Stars: 63
+★ Stars: 65
 
 [Open repository](https://github.com/PacktPublishing/Learn-Three.js-Fourth-edition)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 65 | 25 | 
 | 2023-04-13 | 63 | 25 | 
 | 2023-04-12 | 62 | 25 | 
 | 2023-04-11 | 61 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 53 | 18 | 
 | 2023-03-18 | 52 | 18 | 
 | 2023-03-17 | 51 | 18 | 
-| 2023-03-16 | 51 | 18 | 
 

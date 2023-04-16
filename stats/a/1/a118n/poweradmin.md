@@ -1,6 +1,6 @@
 # a118n/poweradmin - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 158 | 28 | 
 | 2023-04-14 | 158 | 28 | 
 | 2023-04-13 | 158 | 28 | 
 | 2023-04-12 | 158 | 28 | 

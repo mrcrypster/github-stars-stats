@@ -1,10 +1,10 @@
 # FluidGroup/Brightroom - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 268
+☋ Forks: 267
 
-★ Stars: 2874
+★ Stars: 2876
 
 [Open repository](https://github.com/FluidGroup/Brightroom)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2876 | 267 | 
 | 2023-04-13 | 2874 | 268 | 
 | 2023-04-12 | 2872 | 268 | 
 | 2023-04-11 | 2870 | 268 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 2856 | 267 | 
 | 2023-03-19 | 2855 | 267 | 
 | 2023-03-17 | 2854 | 267 | 
-| 2023-03-16 | 2853 | 267 | 
 

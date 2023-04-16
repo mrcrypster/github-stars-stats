@@ -1,10 +1,10 @@
 # tiankong1999/jd_maotai - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/tiankong1999/jd_maotai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 183 | 82 | 
 | 2023-04-14 | 182 | 81 | 
 | 2023-04-13 | 182 | 81 | 
 | 2023-04-12 | 182 | 81 | 

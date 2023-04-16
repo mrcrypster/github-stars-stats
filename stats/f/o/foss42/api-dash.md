@@ -1,10 +1,10 @@
 # foss42/api-dash - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 218
+★ Stars: 229
 
 [Open repository](https://github.com/foss42/api-dash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 229 | 12 | 
 | 2023-04-14 | 218 | 12 | 
 | 2023-04-13 | 202 | 10 | 
 | 2023-04-12 | 199 | 10 | 

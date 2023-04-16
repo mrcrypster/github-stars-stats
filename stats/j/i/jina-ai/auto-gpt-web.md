@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 56
+☋ Forks: 66
 
-★ Stars: 318
+★ Stars: 343
 
 [Open repository](https://github.com/jina-ai/auto-gpt-web)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 318 | 56 | 
+| 2023-04-15 | 343 | 66 | 
 | 2023-04-14 | 310 | 55 | 
 | 2023-04-13 | 268 | 45 | 
 | 2023-04-12 | 192 | 29 | 

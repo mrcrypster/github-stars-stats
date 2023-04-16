@@ -1,10 +1,10 @@
 # kyechou/leagueoflegends - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 24
 
-★ Stars: 226
+★ Stars: 229
 
 [Open repository](https://github.com/kyechou/leagueoflegends)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 229 | 24 | 
 | 2023-04-14 | 226 | 24 | 
 | 2023-04-13 | 222 | 23 | 
 | 2023-04-12 | 219 | 22 | 

@@ -1,10 +1,10 @@
 # AbelChe/evil_minio - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 25
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/AbelChe/evil_minio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 179 | 25 | 
 | 2023-04-14 | 178 | 25 | 
 | 2023-04-13 | 177 | 25 | 
 | 2023-04-12 | 177 | 25 | 

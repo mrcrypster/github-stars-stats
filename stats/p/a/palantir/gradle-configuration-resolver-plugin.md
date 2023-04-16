@@ -1,6 +1,6 @@
 # palantir/gradle-configuration-resolver-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 12 | 10 | 
 | 2023-04-13 | 12 | 10 | 
 | 2023-04-12 | 12 | 10 | 
 | 2023-04-11 | 12 | 10 | 

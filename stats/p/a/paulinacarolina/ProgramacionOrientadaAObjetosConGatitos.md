@@ -1,10 +1,10 @@
 # paulinacarolina/ProgramacionOrientadaAObjetosConGatitos - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 214
+★ Stars: 220
 
 [Open repository](https://github.com/paulinacarolina/ProgramacionOrientadaAObjetosConGatitos)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 220 | 18 | 
 | 2023-04-13 | 214 | 17 | 
 | 2023-04-12 | 210 | 17 | 
 | 2023-04-11 | 207 | 15 | 

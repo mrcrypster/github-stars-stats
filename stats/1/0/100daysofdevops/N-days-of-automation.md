@@ -1,10 +1,10 @@
 # 100daysofdevops/N-days-of-automation - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 70
 
-★ Stars: 74
+★ Stars: 73
 
 [Open repository](https://github.com/100daysofdevops/N-days-of-automation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 73 | 70 | 
 | 2023-04-14 | 74 | 70 | 
 | 2023-04-13 | 74 | 70 | 
 | 2023-04-12 | 74 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 52 | 52 | 
 | 2023-03-19 | 48 | 45 | 
 | 2023-03-17 | 44 | 40 | 
-| 2023-03-16 | 39 | 35 | 
 

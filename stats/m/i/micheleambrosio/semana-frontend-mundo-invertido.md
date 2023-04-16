@@ -1,10 +1,10 @@
 # micheleambrosio/semana-frontend-mundo-invertido - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 29
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/micheleambrosio/semana-frontend-mundo-invertido)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 20 | 29 | 
 | 2023-04-14 | 19 | 29 | 
 | 2023-04-13 | 19 | 29 | 
 | 2023-04-12 | 19 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 19 | 29 | 
 | 2023-03-19 | 19 | 29 | 
 | 2023-03-17 | 19 | 29 | 
-| 2023-03-16 | 19 | 29 | 
 

@@ -1,10 +1,10 @@
 # ttengwang/Caption-Anything - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 18
 
-★ Stars: 344
+★ Stars: 349
 
 [Open repository](https://github.com/ttengwang/Caption-Anything)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 349 | 18 | 
 | 2023-04-14 | 344 | 18 | 
 | 2023-04-13 | 302 | 16 | 
 

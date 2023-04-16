@@ -1,10 +1,10 @@
 # fluent-ffmpeg/node-fluent-ffmpeg - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 820
 
-★ Stars: 6866
+★ Stars: 6870
 
 [Open repository](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 6870 | 820 | 
 | 2023-04-14 | 6866 | 820 | 
 | 2023-04-13 | 6864 | 818 | 
 | 2023-04-12 | 6857 | 817 | 

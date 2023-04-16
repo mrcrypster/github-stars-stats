@@ -1,6 +1,6 @@
 # Skepfyr/little-loadshedder - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 136 | - | 
 | 2023-04-14 | 136 | - | 
 | 2023-04-13 | 136 | - | 
 | 2023-04-12 | 136 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 136 | - | 
 | 2023-03-19 | 136 | - | 
 | 2023-03-17 | 136 | - | 
-| 2023-03-16 | 136 | - | 
 

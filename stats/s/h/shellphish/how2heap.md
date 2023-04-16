@@ -1,10 +1,10 @@
 # shellphish/how2heap - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1083
+☋ Forks: 1084
 
-★ Stars: 6096
+★ Stars: 6099
 
 [Open repository](https://github.com/shellphish/how2heap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 6099 | 1084 | 
 | 2023-04-14 | 6096 | 1083 | 
 | 2023-04-13 | 6094 | 1082 | 
 | 2023-04-12 | 6090 | 1082 | 

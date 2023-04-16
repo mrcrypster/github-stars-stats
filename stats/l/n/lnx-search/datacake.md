@@ -1,10 +1,10 @@
 # lnx-search/datacake - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/lnx-search/datacake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 294 | 12 | 
 | 2023-04-14 | 293 | 12 | 
 | 2023-04-13 | 293 | 12 | 
 | 2023-04-12 | 292 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 290 | 12 | 
 | 2023-03-19 | 290 | 12 | 
 | 2023-03-17 | 291 | 13 | 
-| 2023-03-16 | 290 | 13 | 
 

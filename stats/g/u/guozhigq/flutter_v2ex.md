@@ -1,6 +1,6 @@
 # guozhigq/flutter_v2ex - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 272 | 23 | 
 | 2023-04-14 | 272 | 23 | 
 | 2023-04-13 | 271 | 23 | 
 | 2023-04-12 | 270 | 23 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 236 | 19 | 
 | 2023-03-18 | 228 | 19 | 
 | 2023-03-17 | 224 | 19 | 
-| 2023-03-16 | 219 | 19 | 
 

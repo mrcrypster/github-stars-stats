@@ -1,6 +1,6 @@
 # vhdl-linter/vhdl-linter - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 18 | 5 | 
 | 2023-04-14 | 18 | 5 | 
 | 2023-04-13 | 18 | 5 | 
 | 2023-04-12 | 18 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 17 | 5 | 
 | 2023-03-18 | 17 | 5 | 
 | 2023-03-17 | 17 | 5 | 
-| 2023-03-16 | 17 | 5 | 
 

@@ -1,10 +1,10 @@
 # GameGodS3/DropPoint - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 37
 
-★ Stars: 488
+★ Stars: 492
 
 [Open repository](https://github.com/GameGodS3/DropPoint)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 492 | 37 | 
 | 2023-04-13 | 488 | 37 | 
 | 2023-04-12 | 487 | 37 | 
 | 2023-04-11 | 486 | 37 | 

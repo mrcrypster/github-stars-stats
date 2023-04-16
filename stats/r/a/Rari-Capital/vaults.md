@@ -1,6 +1,6 @@
 # Rari-Capital/vaults - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 264 | 68 | 
 | 2023-04-14 | 264 | 68 | 
 | 2023-04-13 | 264 | 68 | 
 | 2023-04-12 | 264 | 68 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 262 | 68 | 
 | 2023-03-18 | 262 | 68 | 
 | 2023-03-17 | 262 | 68 | 
-| 2023-03-16 | 261 | 68 | 
 

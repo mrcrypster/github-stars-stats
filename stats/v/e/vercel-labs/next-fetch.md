@@ -1,6 +1,6 @@
 # vercel-labs/next-fetch - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 530 | 12 | 
 | 2023-04-14 | 530 | 12 | 
 | 2023-04-13 | 524 | 12 | 
 | 2023-04-11 | 524 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 500 | 12 | 
 | 2023-03-19 | 498 | 12 | 
 | 2023-03-17 | 489 | 12 | 
-| 2023-03-16 | 479 | 12 | 
 

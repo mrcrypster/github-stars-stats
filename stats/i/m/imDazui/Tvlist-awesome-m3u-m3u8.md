@@ -1,10 +1,10 @@
 # imDazui/Tvlist-awesome-m3u-m3u8 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2719
+☋ Forks: 2720
 
-★ Stars: 18704
+★ Stars: 18716
 
 [Open repository](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 18716 | 2720 | 
 | 2023-04-14 | 18704 | 2719 | 
 | 2023-04-13 | 18686 | 2712 | 
 | 2023-04-12 | 18675 | 2711 | 

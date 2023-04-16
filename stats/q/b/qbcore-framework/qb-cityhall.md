@@ -1,6 +1,6 @@
 # qbcore-framework/qb-cityhall - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 17 | 195 | 
 | 2023-04-13 | 17 | 195 | 
 | 2023-04-12 | 17 | 195 | 
 | 2023-04-11 | 17 | 195 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 16 | 198 | 
 | 2023-03-19 | 16 | 198 | 
 | 2023-03-17 | 16 | 198 | 
-| 2023-03-16 | 16 | 199 | 
 

@@ -1,6 +1,6 @@
 # timusus/Shuttle2 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 132 | 8 | 
 | 2023-04-13 | 132 | 8 | 
 | 2023-04-12 | 132 | 8 | 
 | 2023-04-11 | 132 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 129 | 8 | 
 | 2023-03-19 | 128 | 8 | 
 | 2023-03-18 | 127 | 8 | 
-| 2023-03-17 | 127 | 8 | 
 

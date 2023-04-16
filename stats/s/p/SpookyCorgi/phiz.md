@@ -1,8 +1,8 @@
 # SpookyCorgi/phiz - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 31 | 2 | 
 | 2023-04-13 | 31 | 1 | 
 | 2023-04-12 | 31 | 1 | 
 | 2023-04-11 | 31 | 1 | 

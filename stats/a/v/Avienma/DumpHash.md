@@ -1,6 +1,6 @@
 # Avienma/DumpHash - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 87 | 14 | 
 | 2023-04-13 | 87 | 14 | 
 | 2023-04-12 | 80 | 13 | 
 | 2023-04-11 | 79 | 13 | 

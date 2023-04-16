@@ -1,10 +1,10 @@
 # bugch3ck/SharpEfsPotato - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/bugch3ck/SharpEfsPotato)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 214 | 33 | 
 | 2023-04-13 | 213 | 32 | 
 | 2023-04-12 | 213 | 32 | 
 | 2023-04-11 | 212 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 209 | 30 | 
 | 2023-03-19 | 209 | 30 | 
 | 2023-03-18 | 209 | 30 | 
-| 2023-03-16 | 208 | 30 | 
 

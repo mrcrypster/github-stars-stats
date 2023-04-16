@@ -1,10 +1,10 @@
 # tensorchord/awesome-open-source-llmops - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 348
+★ Stars: 358
 
 [Open repository](https://github.com/tensorchord/awesome-open-source-llmops)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 358 | 43 | 
 | 2023-04-13 | 348 | 42 | 
 | 2023-04-12 | 345 | 42 | 
 | 2023-04-11 | 335 | 42 | 

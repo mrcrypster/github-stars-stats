@@ -1,10 +1,10 @@
 # blogwy/BilibiliVideoDownload - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 299
 
-★ Stars: 2157
+★ Stars: 2158
 
 [Open repository](https://github.com/blogwy/BilibiliVideoDownload)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2158 | 299 | 
 | 2023-04-14 | 2157 | 299 | 
 | 2023-04-13 | 2149 | 299 | 
 | 2023-04-12 | 2147 | 299 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 2073 | 292 | 
 | 2023-03-18 | 2073 | 292 | 
 | 2023-03-17 | 2071 | 292 | 
-| 2023-03-16 | 2068 | 291 | 
 

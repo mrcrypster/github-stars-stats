@@ -1,8 +1,8 @@
 # qwd/dev-site - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 47
+☋ Forks: 49
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 34 | 49 | 
 | 2023-04-14 | 34 | 47 | 
 | 2023-04-13 | 34 | 47 | 
 | 2023-04-12 | 33 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 32 | 43 | 
 | 2023-03-19 | 32 | 43 | 
 | 2023-03-18 | 32 | 43 | 
-| 2023-03-16 | 32 | 43 | 
 

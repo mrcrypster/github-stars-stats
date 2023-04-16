@@ -1,10 +1,10 @@
 # ddgksf2013/ddgksf2013 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 76
 
-★ Stars: 1458
+★ Stars: 1473
 
 [Open repository](https://github.com/ddgksf2013/ddgksf2013)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1473 | 76 | 
 | 2023-04-14 | 1458 | 76 | 
 | 2023-04-13 | 1444 | 76 | 
 | 2023-04-12 | 1436 | 76 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 1180 | 67 | 
 | 2023-03-18 | 1170 | 66 | 
 | 2023-03-17 | 1164 | 66 | 
-| 2023-03-16 | 1145 | 66 | 
 

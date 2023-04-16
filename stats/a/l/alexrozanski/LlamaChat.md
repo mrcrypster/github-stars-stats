@@ -1,10 +1,10 @@
 # alexrozanski/LlamaChat - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 17
+☋ Forks: 19
 
-★ Stars: 538
+★ Stars: 613
 
 [Open repository](https://github.com/alexrozanski/LlamaChat)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 613 | 19 | 
 | 2023-04-14 | 538 | 17 | 
 

@@ -1,6 +1,6 @@
 # santoshyadavdev/GitHubTips - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 12 | 7 | 
 | 2023-04-14 | 12 | 7 | 
 | 2023-04-13 | 12 | 7 | 
 | 2023-04-12 | 12 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 11 | 7 | 
 | 2023-03-18 | 11 | 7 | 
 | 2023-03-17 | 11 | 7 | 
-| 2023-03-16 | 11 | 7 | 
 

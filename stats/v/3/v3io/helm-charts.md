@@ -1,6 +1,6 @@
 # v3io/helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 45 | 
 | 2023-04-14 | 4 | 45 | 
 | 2023-04-13 | 4 | 45 | 
 | 2023-04-12 | 4 | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 4 | 44 | 
 | 2023-03-19 | 4 | 44 | 
 | 2023-03-18 | 4 | 44 | 
-| 2023-03-16 | 4 | 44 | 
 

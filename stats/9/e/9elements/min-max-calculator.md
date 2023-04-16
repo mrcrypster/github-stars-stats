@@ -1,10 +1,10 @@
 # 9elements/min-max-calculator - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/9elements/min-max-calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 157 | 3 | 
 | 2023-04-14 | 156 | 3 | 
 | 2023-04-13 | 156 | 3 | 
 | 2023-04-12 | 156 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 156 | 3 | 
 | 2023-03-19 | 155 | 3 | 
 | 2023-03-17 | 155 | 3 | 
-| 2023-03-16 | 155 | 3 | 
 

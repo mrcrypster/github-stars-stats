@@ -1,8 +1,8 @@
 # LeafyLuigi/discord-themes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 10 | 30 | 
 | 2023-04-13 | 10 | 29 | 
 | 2023-04-12 | 10 | 29 | 
 | 2023-04-11 | 10 | 29 | 

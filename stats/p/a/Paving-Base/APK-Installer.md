@@ -1,10 +1,10 @@
 # Paving-Base/APK-Installer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 110
+☋ Forks: 111
 
-★ Stars: 1162
+★ Stars: 1164
 
 [Open repository](https://github.com/Paving-Base/APK-Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1164 | 111 | 
 | 2023-04-14 | 1162 | 110 | 
 | 2023-04-13 | 1162 | 110 | 
 | 2023-04-12 | 1161 | 110 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1140 | 107 | 
 | 2023-03-19 | 1138 | 106 | 
 | 2023-03-18 | 1136 | 106 | 
-| 2023-03-16 | 1135 | 106 | 
 

@@ -1,10 +1,10 @@
 # iuricode/portfolio - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 717
+★ Stars: 716
 
 [Open repository](https://github.com/iuricode/portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 716 | 71 | 
 | 2023-04-13 | 717 | 70 | 
 | 2023-04-12 | 717 | 69 | 
 | 2023-04-11 | 718 | 69 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 711 | 69 | 
 | 2023-03-19 | 710 | 69 | 
 | 2023-03-17 | 710 | 68 | 
-| 2023-03-16 | 709 | 68 | 
 

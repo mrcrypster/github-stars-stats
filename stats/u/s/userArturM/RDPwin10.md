@@ -1,8 +1,8 @@
 # userArturM/RDPwin10 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 99
+☋ Forks: 100
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2 | 100 | 
 | 2023-04-14 | 2 | 99 | 
 | 2023-04-13 | 2 | 98 | 
 | 2023-04-12 | 2 | 98 | 

@@ -1,6 +1,6 @@
 # DavidBrightSparc/Tenets-of-IT - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 296 | 18 | 
 | 2023-04-13 | 296 | 18 | 
 | 2023-04-12 | 296 | 18 | 
 | 2023-04-11 | 296 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 297 | 17 | 
 | 2023-03-19 | 297 | 17 | 
 | 2023-03-17 | 297 | 17 | 
-| 2023-03-16 | 297 | 17 | 
 

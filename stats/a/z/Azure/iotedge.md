@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 453
 
-★ Stars: 1399
+★ Stars: 1400
 
 [Open repository](https://github.com/Azure/iotedge)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 1399 | 453 | 
+| 2023-04-15 | 1400 | 453 | 
 | 2023-04-14 | 1399 | 453 | 
 | 2023-04-13 | 1399 | 453 | 
 | 2023-04-12 | 1398 | 453 | 

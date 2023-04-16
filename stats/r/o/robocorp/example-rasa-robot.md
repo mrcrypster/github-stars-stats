@@ -1,6 +1,6 @@
 # robocorp/example-rasa-robot - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5 | 3 | 
 | 2023-04-14 | 5 | 3 | 
 | 2023-04-13 | 5 | 3 | 
 | 2023-04-12 | 5 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 4 | 3 | 
 | 2023-03-19 | 4 | 3 | 
 | 2023-03-17 | 4 | 3 | 
-| 2023-03-16 | 4 | 3 | 
 

@@ -1,8 +1,8 @@
 # yandex/metrica-tag - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 230
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 230 | 32 | 
 | 2023-04-13 | 230 | 31 | 
 | 2023-04-12 | 230 | 31 | 
 | 2023-04-11 | 230 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 220 | 28 | 
 | 2023-03-19 | 218 | 28 | 
 | 2023-03-18 | 217 | 28 | 
-| 2023-03-17 | 217 | 28 | 
 

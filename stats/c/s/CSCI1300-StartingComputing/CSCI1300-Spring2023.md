@@ -1,8 +1,8 @@
 # CSCI1300-StartingComputing/CSCI1300-Spring2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 118
+☋ Forks: 119
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 20 | 119 | 
 | 2023-04-14 | 20 | 118 | 
 | 2023-04-13 | 19 | 118 | 
 | 2023-04-12 | 19 | 117 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 17 | 106 | 
 | 2023-03-19 | 17 | 105 | 
 | 2023-03-18 | 17 | 105 | 
-| 2023-03-16 | 17 | 106 | 
 

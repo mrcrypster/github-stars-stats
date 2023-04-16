@@ -1,6 +1,6 @@
 # samdze/playdate-nim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 32 | 1 | 
 | 2023-04-14 | 32 | 1 | 
 | 2023-04-13 | 32 | 1 | 
 | 2023-04-12 | 32 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 29 | 1 | 
 | 2023-03-18 | 29 | 1 | 
 | 2023-03-17 | 29 | 1 | 
-| 2023-03-16 | 29 | 1 | 
 

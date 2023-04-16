@@ -1,10 +1,10 @@
 # osrg/gobgp - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 635
+☋ Forks: 636
 
-★ Stars: 3186
+★ Stars: 3187
 
 [Open repository](https://github.com/osrg/gobgp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3187 | 636 | 
 | 2023-04-14 | 3186 | 635 | 
 | 2023-04-13 | 3185 | 635 | 
 | 2023-04-12 | 3184 | 635 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 3169 | 631 | 
 | 2023-03-18 | 3169 | 631 | 
 | 2023-03-17 | 3167 | 631 | 
-| 2023-03-16 | 3166 | 630 | 
 

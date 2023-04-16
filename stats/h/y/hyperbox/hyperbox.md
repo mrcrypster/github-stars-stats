@@ -1,6 +1,6 @@
 # hyperbox/hyperbox - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 393 | 89 | 
 | 2023-04-14 | 393 | 89 | 
 | 2023-04-13 | 393 | 89 | 
 | 2023-04-12 | 393 | 89 | 

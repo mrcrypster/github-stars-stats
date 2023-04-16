@@ -1,10 +1,10 @@
 # ArroyoSystems/arroyo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 54
 
-★ Stars: 1307
+★ Stars: 1317
 
 [Open repository](https://github.com/ArroyoSystems/arroyo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1317 | 54 | 
 | 2023-04-14 | 1307 | 54 | 
 | 2023-04-13 | 1142 | 48 | 
 | 2023-04-12 | 1129 | 47 | 

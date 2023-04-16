@@ -1,10 +1,10 @@
 # appleboy/scp-action - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 109
 
-★ Stars: 810
+★ Stars: 812
 
 [Open repository](https://github.com/appleboy/scp-action)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 812 | 109 | 
 | 2023-04-14 | 810 | 109 | 
 | 2023-04-13 | 810 | 109 | 
 | 2023-04-12 | 809 | 109 | 

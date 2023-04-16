@@ -1,10 +1,10 @@
 # abdallahdib/NextFace - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 65
 
-★ Stars: 513
+★ Stars: 514
 
 [Open repository](https://github.com/abdallahdib/NextFace)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 514 | 65 | 
 | 2023-04-14 | 513 | 65 | 
 | 2023-04-13 | 512 | 65 | 
 | 2023-04-12 | 511 | 65 | 

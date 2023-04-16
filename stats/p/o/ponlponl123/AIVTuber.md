@@ -1,10 +1,10 @@
 # ponlponl123/AIVTuber - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 25
 
-★ Stars: 168
+★ Stars: 174
 
 [Open repository](https://github.com/ponlponl123/AIVTuber)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 174 | 25 | 
 | 2023-04-14 | 168 | 25 | 
 | 2023-04-13 | 165 | 24 | 
 | 2023-04-12 | 164 | 24 | 

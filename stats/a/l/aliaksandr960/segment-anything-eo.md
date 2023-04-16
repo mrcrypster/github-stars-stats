@@ -1,10 +1,10 @@
 # aliaksandr960/segment-anything-eo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 23
 
-★ Stars: 137
+★ Stars: 140
 
 [Open repository](https://github.com/aliaksandr960/segment-anything-eo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 140 | 23 | 
 | 2023-04-14 | 137 | 23 | 
 | 2023-04-13 | 128 | 20 | 
 | 2023-04-12 | 124 | 18 | 

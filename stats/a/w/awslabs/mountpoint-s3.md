@@ -1,10 +1,10 @@
 # awslabs/mountpoint-s3 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 44
 
-★ Stars: 2444
+★ Stars: 2458
 
 [Open repository](https://github.com/awslabs/mountpoint-s3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2458 | 44 | 
 | 2023-04-13 | 2444 | 44 | 
 | 2023-04-12 | 2436 | 44 | 
 | 2023-04-11 | 2426 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 1879 | 28 | 
 | 2023-03-18 | 1805 | 25 | 
 | 2023-03-17 | 1782 | 24 | 
-| 2023-03-16 | 1585 | 20 | 
 

@@ -1,10 +1,10 @@
 # paceholder/nodeeditor - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 664
 
-★ Stars: 2301
+★ Stars: 2303
 
 [Open repository](https://github.com/paceholder/nodeeditor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2303 | 664 | 
 | 2023-04-13 | 2301 | 664 | 
 | 2023-04-12 | 2301 | 663 | 
 | 2023-04-11 | 2299 | 663 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 2267 | 659 | 
 | 2023-03-19 | 2265 | 659 | 
 | 2023-03-17 | 2262 | 659 | 
-| 2023-03-16 | 2257 | 659 | 
 

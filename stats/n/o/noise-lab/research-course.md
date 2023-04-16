@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/noise-lab/research-course)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 30 | 6 | 
+| 2023-04-15 | 31 | 6 | 
 | 2023-04-14 | 28 | 5 | 
 

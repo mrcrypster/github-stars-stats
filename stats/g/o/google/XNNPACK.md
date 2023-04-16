@@ -1,8 +1,8 @@
 # google/XNNPACK - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 258
+☋ Forks: 259
 
 ★ Stars: 1395
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1395 | 259 | 
 | 2023-04-14 | 1395 | 258 | 
 | 2023-04-13 | 1393 | 258 | 
 | 2023-04-12 | 1393 | 258 | 

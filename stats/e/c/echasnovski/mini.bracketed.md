@@ -1,10 +1,10 @@
 # echasnovski/mini.bracketed - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/echasnovski/mini.bracketed)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 27 | - | 
 | 2023-04-14 | 26 | - | 
 | 2023-04-12 | 26 | - | 
 | 2023-04-11 | 26 | - | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 25 | - | 
 | 2023-03-18 | 25 | - | 
 | 2023-03-17 | 25 | - | 
-| 2023-03-16 | 25 | - | 
 

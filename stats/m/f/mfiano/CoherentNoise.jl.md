@@ -1,10 +1,10 @@
 # mfiano/CoherentNoise.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/mfiano/CoherentNoise.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 54 | 5 | 
 | 2023-04-14 | 53 | 5 | 
 | 2023-04-13 | 53 | 5 | 
 | 2023-04-12 | 53 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 53 | 5 | 
 | 2023-03-19 | 53 | 5 | 
 | 2023-03-17 | 53 | 5 | 
-| 2023-03-16 | 53 | 5 | 
 

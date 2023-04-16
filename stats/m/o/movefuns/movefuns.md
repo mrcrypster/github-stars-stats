@@ -1,6 +1,6 @@
 # movefuns/movefuns - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 52 | 19 | 
 | 2023-04-14 | 52 | 19 | 
 | 2023-04-13 | 52 | 19 | 
 | 2023-04-12 | 53 | 19 | 

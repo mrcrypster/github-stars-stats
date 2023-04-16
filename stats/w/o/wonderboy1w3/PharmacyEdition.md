@@ -1,8 +1,8 @@
 # wonderboy1w3/PharmacyEdition - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5 | 5 | 
 | 2023-04-14 | 5 | 4 | 
 | 2023-04-13 | 5 | 4 | 
 | 2023-04-11 | 5 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 19 | 10 | 
 | 2023-03-19 | 19 | 10 | 
 | 2023-03-18 | 19 | 10 | 
-| 2023-03-16 | 19 | 10 | 
 

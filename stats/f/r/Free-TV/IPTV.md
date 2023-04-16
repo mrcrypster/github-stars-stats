@@ -1,10 +1,10 @@
 # Free-TV/IPTV - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 443
+☋ Forks: 445
 
-★ Stars: 1646
+★ Stars: 1652
 
 [Open repository](https://github.com/Free-TV/IPTV)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1652 | 445 | 
 | 2023-04-14 | 1646 | 443 | 
 | 2023-04-13 | 1645 | 443 | 
 | 2023-04-12 | 1638 | 443 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1493 | 420 | 
 | 2023-03-19 | 1491 | 419 | 
 | 2023-03-18 | 1488 | 419 | 
-| 2023-03-16 | 1484 | 417 | 
 

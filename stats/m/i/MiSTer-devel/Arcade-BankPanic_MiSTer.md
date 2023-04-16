@@ -1,6 +1,6 @@
 # MiSTer-devel/Arcade-BankPanic_MiSTer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 2 | 
 | 2023-04-14 | 4 | 2 | 
 | 2023-04-12 | 4 | 2 | 
 | 2023-04-11 | 4 | 2 | 

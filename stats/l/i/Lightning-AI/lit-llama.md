@@ -1,10 +1,10 @@
 # Lightning-AI/lit-llama - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 130
+☋ Forks: 135
 
-★ Stars: 2537
+★ Stars: 2572
 
 [Open repository](https://github.com/Lightning-AI/lit-llama)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2572 | 135 | 
 | 2023-04-14 | 2537 | 130 | 
 | 2023-04-13 | 2466 | 122 | 
 | 2023-04-12 | 2429 | 117 | 

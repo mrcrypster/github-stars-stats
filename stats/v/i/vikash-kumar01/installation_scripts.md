@@ -1,10 +1,10 @@
 # vikash-kumar01/installation_scripts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 335
+☋ Forks: 340
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/vikash-kumar01/installation_scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 45 | 340 | 
 | 2023-04-14 | 44 | 335 | 
 | 2023-04-13 | 44 | 332 | 
 | 2023-04-12 | 44 | 328 | 

@@ -1,10 +1,10 @@
 # rubyhan1314/Golang-100-Days - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1737
 
-★ Stars: 5294
+★ Stars: 5295
 
 [Open repository](https://github.com/rubyhan1314/Golang-100-Days)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5295 | 1737 | 
 | 2023-04-14 | 5294 | 1737 | 
 | 2023-04-13 | 5293 | 1737 | 
 | 2023-04-12 | 5291 | 1737 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 5249 | 1743 | 
 | 2023-03-18 | 5248 | 1743 | 
 | 2023-03-17 | 5248 | 1742 | 
-| 2023-03-16 | 5247 | 1742 | 
 

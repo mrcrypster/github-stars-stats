@@ -1,10 +1,10 @@
 # SciML/Catalyst.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 58
 
-★ Stars: 332
+★ Stars: 333
 
 [Open repository](https://github.com/SciML/Catalyst.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 333 | 58 | 
 | 2023-04-13 | 332 | 58 | 
 | 2023-04-12 | 331 | 57 | 
 | 2023-04-11 | 331 | 56 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 329 | 55 | 
 | 2023-03-19 | 328 | 54 | 
 | 2023-03-17 | 328 | 54 | 
-| 2023-03-16 | 327 | 53 | 
 

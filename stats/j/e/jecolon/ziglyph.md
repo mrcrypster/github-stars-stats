@@ -1,10 +1,10 @@
 # jecolon/ziglyph - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/jecolon/ziglyph)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 169 | 6 | 
 | 2023-04-13 | 168 | 6 | 
 | 2023-04-12 | 168 | 6 | 
 | 2023-04-11 | 167 | 6 | 

@@ -1,6 +1,6 @@
 # azmatt/chasing_your_tail - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 580 | 54 | 
 | 2023-04-14 | 580 | 54 | 
 | 2023-04-13 | 580 | 54 | 
 | 2023-04-12 | 580 | 54 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 578 | 54 | 
 | 2023-03-19 | 578 | 54 | 
 | 2023-03-17 | 578 | 54 | 
-| 2023-03-16 | 578 | 54 | 
 

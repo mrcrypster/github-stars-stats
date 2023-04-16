@@ -1,6 +1,6 @@
 # LorenzCK/OnTopReplica - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 249
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2030 | 249 | 
 | 2023-04-14 | 2030 | 249 | 
 | 2023-04-13 | 2029 | 249 | 
 | 2023-04-12 | 2027 | 250 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2003 | 248 | 
 | 2023-03-19 | 1998 | 247 | 
 | 2023-03-17 | 1998 | 247 | 
-| 2023-03-16 | 1998 | 247 | 
 

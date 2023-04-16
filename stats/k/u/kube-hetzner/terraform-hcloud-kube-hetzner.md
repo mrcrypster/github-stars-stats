@@ -1,10 +1,10 @@
 # kube-hetzner/terraform-hcloud-kube-hetzner - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 188
+☋ Forks: 189
 
-★ Stars: 916
+★ Stars: 924
 
 [Open repository](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 924 | 189 | 
 | 2023-04-13 | 916 | 188 | 
 | 2023-04-12 | 915 | 187 | 
 | 2023-04-11 | 911 | 187 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 851 | 176 | 
 | 2023-03-18 | 851 | 176 | 
 | 2023-03-17 | 847 | 176 | 
-| 2023-03-16 | 840 | 174 | 
 

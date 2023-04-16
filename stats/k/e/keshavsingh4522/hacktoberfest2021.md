@@ -1,8 +1,8 @@
 # keshavsingh4522/hacktoberfest2021 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 3917
+☋ Forks: 3916
 
 ★ Stars: 800
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 800 | 3916 | 
 | 2023-04-13 | 800 | 3917 | 
 | 2023-04-12 | 800 | 3916 | 
 | 2023-04-11 | 800 | 3915 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 803 | 3934 | 
 | 2023-03-19 | 804 | 3938 | 
 | 2023-03-18 | 804 | 3940 | 
-| 2023-03-16 | 804 | 3940 | 
 

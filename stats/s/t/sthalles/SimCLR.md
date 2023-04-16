@@ -1,10 +1,10 @@
 # sthalles/SimCLR - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 393
 
-★ Stars: 1812
+★ Stars: 1814
 
 [Open repository](https://github.com/sthalles/SimCLR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1814 | 393 | 
 | 2023-04-14 | 1812 | 393 | 
 | 2023-04-13 | 1809 | 393 | 
 | 2023-04-12 | 1808 | 392 | 

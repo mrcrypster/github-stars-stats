@@ -1,6 +1,6 @@
 # BuidlGuidl/abi.ninja - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 79 | 16 | 
 | 2023-04-13 | 79 | 16 | 
 | 2023-04-12 | 79 | 16 | 
 | 2023-04-11 | 78 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 76 | 15 | 
 | 2023-03-19 | 76 | 15 | 
 | 2023-03-18 | 76 | 15 | 
-| 2023-03-16 | 76 | 15 | 
 

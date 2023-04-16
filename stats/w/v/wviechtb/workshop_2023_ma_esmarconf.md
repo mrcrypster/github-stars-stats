@@ -1,10 +1,10 @@
 # wviechtb/workshop_2023_ma_esmarconf - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/wviechtb/workshop_2023_ma_esmarconf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 12 | 6 | 
 | 2023-04-14 | 11 | 6 | 
 | 2023-04-12 | 11 | 6 | 
 | 2023-04-11 | 11 | 6 | 

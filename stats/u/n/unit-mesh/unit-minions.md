@@ -1,10 +1,10 @@
 # unit-mesh/unit-minions - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 34
+☋ Forks: 37
 
-★ Stars: 398
+★ Stars: 405
 
 [Open repository](https://github.com/unit-mesh/unit-minions)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 405 | 37 | 
 | 2023-04-14 | 398 | 34 | 
 | 2023-04-13 | 381 | 31 | 
 | 2023-04-12 | 361 | 25 | 

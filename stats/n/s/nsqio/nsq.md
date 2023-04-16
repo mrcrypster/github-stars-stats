@@ -1,10 +1,10 @@
 # nsqio/nsq - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2853
+☋ Forks: 2855
 
-★ Stars: 23388
+★ Stars: 23390
 
 [Open repository](https://github.com/nsqio/nsq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 23390 | 2855 | 
 | 2023-04-13 | 23388 | 2853 | 
 | 2023-04-12 | 23382 | 2853 | 
 | 2023-04-11 | 23380 | 2854 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 23313 | 2840 | 
 | 2023-03-18 | 23307 | 2841 | 
 | 2023-03-17 | 23305 | 2841 | 
-| 2023-03-16 | 23301 | 2840 | 
 

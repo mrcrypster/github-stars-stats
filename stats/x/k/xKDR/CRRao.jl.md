@@ -1,10 +1,10 @@
 # xKDR/CRRao.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/xKDR/CRRao.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 20 | 15 | 
 | 2023-04-13 | 19 | 15 | 
 | 2023-04-12 | 18 | 15 | 
 | 2023-04-11 | 18 | 15 | 

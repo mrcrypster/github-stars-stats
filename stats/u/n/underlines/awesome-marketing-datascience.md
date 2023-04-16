@@ -1,10 +1,10 @@
 # underlines/awesome-marketing-datascience - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 29
 
-★ Stars: 281
+★ Stars: 286
 
 [Open repository](https://github.com/underlines/awesome-marketing-datascience)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 286 | 29 | 
 | 2023-04-14 | 281 | 29 | 
 | 2023-04-13 | 262 | 28 | 
 | 2023-04-12 | 215 | 26 | 

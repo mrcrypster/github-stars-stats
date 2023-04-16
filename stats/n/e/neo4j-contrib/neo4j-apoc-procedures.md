@@ -1,10 +1,10 @@
 # neo4j-contrib/neo4j-apoc-procedures - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 482
 
-★ Stars: 1586
+★ Stars: 1587
 
 [Open repository](https://github.com/neo4j-contrib/neo4j-apoc-procedures)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1587 | 482 | 
 | 2023-04-14 | 1586 | 482 | 
 | 2023-04-12 | 1586 | 482 | 
 | 2023-04-11 | 1586 | 482 | 

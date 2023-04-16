@@ -1,6 +1,6 @@
 # N3k0Ch4n/dotRice - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 246 | 10 | 
 | 2023-04-14 | 246 | 10 | 
 | 2023-04-13 | 246 | 10 | 
 | 2023-04-12 | 246 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 242 | 9 | 
 | 2023-03-19 | 242 | 9 | 
 | 2023-03-18 | 242 | 9 | 
-| 2023-03-16 | 242 | 9 | 
 

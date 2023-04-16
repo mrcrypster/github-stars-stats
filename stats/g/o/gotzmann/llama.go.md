@@ -1,10 +1,10 @@
 # gotzmann/llama.go - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 268
+★ Stars: 287
 
 [Open repository](https://github.com/gotzmann/llama.go)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 287 | 10 | 
 | 2023-04-14 | 268 | 10 | 
 

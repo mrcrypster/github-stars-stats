@@ -1,10 +1,10 @@
 # orwagodfather/x - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 28
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/orwagodfather/x)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 61 | 28 | 
 | 2023-04-14 | 60 | 28 | 
 | 2023-04-13 | 60 | 28 | 
 | 2023-04-12 | 60 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 59 | 23 | 
 | 2023-03-19 | 57 | 23 | 
 | 2023-03-18 | 57 | 23 | 
-| 2023-03-16 | 57 | 23 | 
 

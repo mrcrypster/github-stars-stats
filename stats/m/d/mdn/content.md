@@ -1,10 +1,10 @@
 # mdn/content - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 16896
+☋ Forks: 16912
 
-★ Stars: 7691
+★ Stars: 7693
 
 [Open repository](https://github.com/mdn/content)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 7693 | 16912 | 
 | 2023-04-14 | 7691 | 16896 | 
 | 2023-04-13 | 7690 | 16874 | 
 | 2023-04-12 | 7688 | 16863 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 7578 | 16334 | 
 | 2023-03-18 | 7574 | 16317 | 
 | 2023-03-17 | 7566 | 16300 | 
-| 2023-03-16 | 7562 | 16280 | 
 

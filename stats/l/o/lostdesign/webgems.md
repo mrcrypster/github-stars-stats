@@ -1,10 +1,10 @@
 # lostdesign/webgems - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 4057
+★ Stars: 4060
 
 [Open repository](https://github.com/lostdesign/webgems)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4060 | 184 | 
 | 2023-04-13 | 4057 | 183 | 
 | 2023-04-12 | 4057 | 183 | 
 | 2023-04-11 | 4054 | 183 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 3995 | 183 | 
 | 2023-03-19 | 3989 | 183 | 
 | 2023-03-17 | 3985 | 183 | 
-| 2023-03-16 | 3984 | 183 | 
 

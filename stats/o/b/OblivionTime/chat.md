@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 18
+☋ Forks: 22
 
-★ Stars: 70
+★ Stars: 79
 
 [Open repository](https://github.com/OblivionTime/chat)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 70 | 18 | 
+| 2023-04-15 | 79 | 22 | 
 | 2023-04-14 | 70 | 18 | 
 

@@ -1,6 +1,6 @@
 # RizwanMunawar/yolov8-object-tracking - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 127 | 18 | 
 | 2023-04-13 | 127 | 18 | 
 | 2023-04-12 | 126 | 18 | 
 | 2023-04-11 | 126 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 114 | 16 | 
 | 2023-03-19 | 114 | 16 | 
 | 2023-03-17 | 113 | 16 | 
-| 2023-03-16 | 113 | 16 | 
 

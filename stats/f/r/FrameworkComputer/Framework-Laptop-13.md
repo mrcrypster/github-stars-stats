@@ -1,6 +1,6 @@
 # FrameworkComputer/Framework-Laptop-13 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 49
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1199 | 49 | 
+| 2023-04-15 | 1199 | 49 | 
 | 2023-04-14 | 1199 | 49 | 
 | 2023-04-13 | 1196 | 49 | 
 | 2023-04-12 | 1195 | 49 | 

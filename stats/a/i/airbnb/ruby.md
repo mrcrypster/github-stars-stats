@@ -1,10 +1,10 @@
 # airbnb/ruby - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 775
 
-★ Stars: 3626
+★ Stars: 3625
 
 [Open repository](https://github.com/airbnb/ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3625 | 775 | 
 | 2023-04-13 | 3626 | 775 | 
 | 2023-04-12 | 3627 | 775 | 
 | 2023-04-11 | 3626 | 775 | 

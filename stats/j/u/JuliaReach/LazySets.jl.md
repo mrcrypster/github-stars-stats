@@ -1,10 +1,10 @@
 # JuliaReach/LazySets.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 31
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/JuliaReach/LazySets.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 207 | 31 | 
 | 2023-04-13 | 206 | 31 | 
 | 2023-04-12 | 206 | 31 | 
 | 2023-04-11 | 206 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 206 | 31 | 
 | 2023-03-19 | 206 | 31 | 
 | 2023-03-18 | 206 | 31 | 
-| 2023-03-16 | 206 | 31 | 
 

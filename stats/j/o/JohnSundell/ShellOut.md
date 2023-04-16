@@ -1,10 +1,10 @@
 # JohnSundell/ShellOut - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 84
 
-★ Stars: 793
+★ Stars: 794
 
 [Open repository](https://github.com/JohnSundell/ShellOut)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 794 | 84 | 
 | 2023-04-14 | 793 | 84 | 
 | 2023-04-12 | 793 | 84 | 
 | 2023-04-11 | 793 | 84 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 789 | 84 | 
 | 2023-03-19 | 788 | 84 | 
 | 2023-03-18 | 788 | 83 | 
-| 2023-03-16 | 788 | 84 | 
 

@@ -1,6 +1,6 @@
 # xenodium/dwim-shell-command - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 145 | 5 | 
 | 2023-04-14 | 145 | 5 | 
 | 2023-04-13 | 145 | 5 | 
 | 2023-04-12 | 145 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 143 | 5 | 
 | 2023-03-19 | 143 | 5 | 
 | 2023-03-17 | 143 | 5 | 
-| 2023-03-16 | 143 | 5 | 
 

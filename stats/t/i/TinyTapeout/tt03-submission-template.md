@@ -1,8 +1,8 @@
 # TinyTapeout/tt03-submission-template - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 118
+☋ Forks: 119
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 17 | 119 | 
 | 2023-04-14 | 17 | 118 | 
 | 2023-04-13 | 17 | 116 | 
 | 2023-04-12 | 17 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 14 | 68 | 
 | 2023-03-18 | 14 | 64 | 
 | 2023-03-17 | 14 | 64 | 
-| 2023-03-16 | 14 | 62 | 
 

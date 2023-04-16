@@ -1,6 +1,6 @@
 # XiaoMi/mone - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 892 | 87 | 
 | 2023-04-14 | 892 | 87 | 
 | 2023-04-13 | 891 | 87 | 
 | 2023-04-12 | 891 | 86 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 804 | 70 | 
 | 2023-03-19 | 773 | 70 | 
 | 2023-03-17 | 774 | 70 | 
-| 2023-03-16 | 771 | 69 | 
 

@@ -1,6 +1,6 @@
 # DanielHe4rt/empresas-php - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 196 | 55 | 
 | 2023-04-13 | 196 | 55 | 
 | 2023-04-12 | 195 | 54 | 
 | 2023-04-11 | 195 | 54 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 194 | 53 | 
 | 2023-03-19 | 194 | 53 | 
 | 2023-03-17 | 194 | 53 | 
-| 2023-03-16 | 194 | 53 | 
 

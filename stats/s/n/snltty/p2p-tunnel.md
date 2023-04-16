@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 57
 
-★ Stars: 203
+★ Stars: 206
 
 [Open repository](https://github.com/snltty/p2p-tunnel)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 203 | 57 | 
+| 2023-04-15 | 206 | 57 | 
 | 2023-04-14 | 199 | 57 | 
 

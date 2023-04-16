@@ -1,10 +1,10 @@
 # wzchen/probability_cheatsheet - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 678
 
-★ Stars: 2796
+★ Stars: 2801
 
 [Open repository](https://github.com/wzchen/probability_cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2801 | 678 | 
 | 2023-04-14 | 2796 | 678 | 
 | 2023-04-13 | 2796 | 678 | 
 | 2023-04-12 | 2792 | 678 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2788 | 677 | 
 | 2023-03-19 | 2787 | 677 | 
 | 2023-03-18 | 2786 | 677 | 
-| 2023-03-16 | 2787 | 677 | 
 

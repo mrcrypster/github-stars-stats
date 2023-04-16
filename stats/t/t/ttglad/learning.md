@@ -1,10 +1,10 @@
 # ttglad/learning - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 802
+★ Stars: 804
 
 [Open repository](https://github.com/ttglad/learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 804 | 174 | 
 | 2023-04-13 | 802 | 173 | 
 | 2023-04-12 | 801 | 173 | 
 | 2023-04-11 | 799 | 172 | 

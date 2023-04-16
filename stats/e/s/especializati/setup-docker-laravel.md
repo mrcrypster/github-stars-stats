@@ -1,10 +1,10 @@
 # especializati/setup-docker-laravel - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 126
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/especializati/setup-docker-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 193 | 126 | 
 | 2023-04-14 | 192 | 126 | 
 | 2023-04-13 | 192 | 126 | 
 | 2023-04-12 | 191 | 126 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 175 | 119 | 
 | 2023-03-19 | 174 | 119 | 
 | 2023-03-17 | 174 | 119 | 
-| 2023-03-16 | 174 | 120 | 
 

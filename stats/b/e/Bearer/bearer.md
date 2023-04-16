@@ -1,10 +1,10 @@
 # Bearer/bearer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 33
 
-★ Stars: 982
+★ Stars: 988
 
 [Open repository](https://github.com/Bearer/bearer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 988 | 33 | 
 | 2023-04-14 | 982 | 33 | 
 | 2023-04-13 | 977 | 33 | 
 | 2023-04-11 | 972 | 33 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 820 | 27 | 
 | 2023-03-19 | 809 | 26 | 
 | 2023-03-18 | 796 | 26 | 
-| 2023-03-16 | 773 | 26 | 
 

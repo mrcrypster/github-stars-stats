@@ -1,6 +1,6 @@
 # arl/statsviz - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2807 | 101 | 
 | 2023-04-14 | 2807 | 101 | 
 | 2023-04-13 | 2801 | 99 | 
 | 2023-04-12 | 2799 | 99 | 

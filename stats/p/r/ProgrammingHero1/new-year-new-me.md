@@ -1,6 +1,6 @@
 # ProgrammingHero1/new-year-new-me - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 53 | 18 | 
 | 2023-04-14 | 53 | 18 | 
 | 2023-04-13 | 53 | 18 | 
 | 2023-04-12 | 53 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 54 | 18 | 
 | 2023-03-19 | 54 | 18 | 
 | 2023-03-17 | 54 | 18 | 
-| 2023-03-16 | 54 | 18 | 
 

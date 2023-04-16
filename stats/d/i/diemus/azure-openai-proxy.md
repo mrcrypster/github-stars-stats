@@ -1,10 +1,10 @@
 # diemus/azure-openai-proxy - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 26
+☋ Forks: 28
 
-★ Stars: 289
+★ Stars: 295
 
 [Open repository](https://github.com/diemus/azure-openai-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 295 | 28 | 
 | 2023-04-14 | 289 | 26 | 
 | 2023-04-13 | 283 | 25 | 
 | 2023-04-12 | 275 | 24 | 

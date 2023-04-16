@@ -1,6 +1,6 @@
 # Adgnitio/QuantumCircuits.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 13 | 5 | 
 | 2023-04-14 | 13 | 5 | 
 | 2023-04-13 | 13 | 5 | 
 | 2023-04-12 | 13 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 12 | 5 | 
 | 2023-03-18 | 12 | 5 | 
 | 2023-03-17 | 12 | 5 | 
-| 2023-03-16 | 12 | 5 | 
 

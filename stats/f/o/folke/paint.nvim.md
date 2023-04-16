@@ -1,10 +1,10 @@
 # folke/paint.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/folke/paint.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 117 | 2 | 
 | 2023-04-14 | 116 | 2 | 
 | 2023-04-13 | 116 | 2 | 
 | 2023-04-12 | 116 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 111 | 2 | 
 | 2023-03-19 | 111 | 2 | 
 | 2023-03-18 | 111 | 2 | 
-| 2023-03-16 | 111 | 2 | 
 

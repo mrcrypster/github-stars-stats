@@ -1,10 +1,10 @@
 # VM-Chinese-translate-group/dawncraft-Chinese-patch-Pack - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/VM-Chinese-translate-group/dawncraft-Chinese-patch-Pack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1 | 4 | 
 | 2023-04-14 | - | 4 | 
 | 2023-04-13 | - | 4 | 
 | 2023-04-12 | - | 4 | 

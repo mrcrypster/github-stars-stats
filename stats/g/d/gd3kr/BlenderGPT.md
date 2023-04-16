@@ -1,10 +1,10 @@
 # gd3kr/BlenderGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 204
+☋ Forks: 205
 
-★ Stars: 3259
+★ Stars: 3282
 
 [Open repository](https://github.com/gd3kr/BlenderGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3282 | 205 | 
 | 2023-04-14 | 3259 | 204 | 
 | 2023-04-13 | 3238 | 203 | 
 | 2023-04-12 | 3219 | 203 | 

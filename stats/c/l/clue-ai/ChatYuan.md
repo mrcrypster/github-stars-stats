@@ -1,10 +1,10 @@
 # clue-ai/ChatYuan - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 117
+☋ Forks: 122
 
-★ Stars: 1356
+★ Stars: 1376
 
 [Open repository](https://github.com/clue-ai/ChatYuan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1376 | 122 | 
 | 2023-04-14 | 1356 | 117 | 
 | 2023-04-12 | 1337 | 115 | 
 | 2023-04-11 | 1317 | 115 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 739 | 66 | 
 | 2023-03-19 | 725 | 66 | 
 | 2023-03-18 | 720 | 66 | 
-| 2023-03-16 | 717 | 65 | 
 

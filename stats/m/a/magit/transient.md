@@ -1,6 +1,6 @@
 # magit/transient - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 493 | 54 | 
 | 2023-04-14 | 493 | 54 | 
 | 2023-04-13 | 491 | 54 | 
 | 2023-04-12 | 491 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 488 | 54 | 
 | 2023-03-19 | 488 | 54 | 
 | 2023-03-18 | 488 | 54 | 
-| 2023-03-16 | 488 | 54 | 
 

@@ -1,10 +1,10 @@
 # rails/mrsk - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 151
+☋ Forks: 155
 
-★ Stars: 5098
+★ Stars: 5111
 
 [Open repository](https://github.com/rails/mrsk)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5111 | 155 | 
 | 2023-04-14 | 5098 | 151 | 
 | 2023-04-13 | 5081 | 149 | 
 | 2023-04-12 | 5034 | 147 | 

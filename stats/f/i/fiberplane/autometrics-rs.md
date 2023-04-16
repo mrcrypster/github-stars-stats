@@ -1,10 +1,10 @@
 # fiberplane/autometrics-rs - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 569
+★ Stars: 581
 
 [Open repository](https://github.com/fiberplane/autometrics-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 581 | 9 | 
 | 2023-04-13 | 569 | 8 | 
 | 2023-04-12 | 561 | 7 | 
 | 2023-04-11 | 560 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 472 | 5 | 
 | 2023-03-19 | 472 | 5 | 
 | 2023-03-17 | 473 | 5 | 
-| 2023-03-16 | 472 | 5 | 
 

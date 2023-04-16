@@ -1,6 +1,6 @@
 # aws-samples/amazon-ec2-mac-getting-started - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 36 | 7 | 
 | 2023-04-14 | 36 | 7 | 
 | 2023-04-12 | 36 | 7 | 
 | 2023-04-11 | 36 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 34 | 7 | 
 | 2023-03-19 | 34 | 7 | 
 | 2023-03-18 | 34 | 7 | 
-| 2023-03-17 | 34 | 7 | 
 

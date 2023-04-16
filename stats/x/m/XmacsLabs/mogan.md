@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 19
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/XmacsLabs/mogan)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 249 | 19 | 
+| 2023-04-15 | 250 | 19 | 
 | 2023-04-14 | 249 | 19 | 
 | 2023-04-13 | 250 | 19 | 
 | 2023-04-12 | 250 | 19 | 

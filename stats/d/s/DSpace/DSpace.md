@@ -1,8 +1,8 @@
 # DSpace/DSpace - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1204
+☋ Forks: 1205
 
 ★ Stars: 732
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 732 | 1205 | 
 | 2023-04-14 | 732 | 1204 | 
 | 2023-04-13 | 731 | 1202 | 
 | 2023-04-12 | 730 | 1202 | 

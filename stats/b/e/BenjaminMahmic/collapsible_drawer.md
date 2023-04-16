@@ -1,10 +1,10 @@
 # BenjaminMahmic/collapsible_drawer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 54
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/BenjaminMahmic/collapsible_drawer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 173 | 54 | 
 | 2023-04-14 | 172 | 54 | 
 | 2023-04-13 | 172 | 54 | 
 | 2023-04-12 | 172 | 54 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 173 | 53 | 
 | 2023-03-18 | 173 | 53 | 
 | 2023-03-17 | 173 | 53 | 
-| 2023-03-16 | 173 | 53 | 
 

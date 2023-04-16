@@ -1,10 +1,10 @@
 # trevorhobenshield/twitter-api-client - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 25
+☋ Forks: 27
 
-★ Stars: 488
+★ Stars: 494
 
 [Open repository](https://github.com/trevorhobenshield/twitter-api-client)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 494 | 27 | 
 | 2023-04-14 | 488 | 25 | 
 

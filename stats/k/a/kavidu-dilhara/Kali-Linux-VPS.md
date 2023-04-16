@@ -1,8 +1,8 @@
 # kavidu-dilhara/Kali-Linux-VPS - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 23 | 
 | 2023-04-14 | 4 | 22 | 
 | 2023-04-13 | 4 | 22 | 
 | 2023-04-12 | 3 | 21 | 

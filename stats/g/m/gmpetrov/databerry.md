@@ -1,10 +1,10 @@
 # gmpetrov/databerry - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 53
+☋ Forks: 52
 
-★ Stars: 313
+★ Stars: 319
 
 [Open repository](https://github.com/gmpetrov/databerry)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 319 | 52 | 
 | 2023-04-14 | 313 | 53 | 
 | 2023-04-13 | 301 | 53 | 
 | 2023-04-12 | 285 | 53 | 

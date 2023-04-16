@@ -1,6 +1,6 @@
 # solidex-fantom/solidex - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 29 | 26 | 
 | 2023-04-14 | 29 | 26 | 
 | 2023-04-13 | 29 | 26 | 
 | 2023-04-12 | 29 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 29 | 25 | 
 | 2023-03-19 | 28 | 25 | 
 | 2023-03-18 | 28 | 24 | 
-| 2023-03-17 | 28 | 24 | 
 

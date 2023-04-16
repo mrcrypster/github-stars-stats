@@ -1,10 +1,10 @@
 # hlhr202/llama-node - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 224
+★ Stars: 262
 
 [Open repository](https://github.com/hlhr202/llama-node)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 262 | 17 | 
 | 2023-04-14 | 224 | 16 | 
 | 2023-04-13 | 217 | 16 | 
 

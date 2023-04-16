@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 93
+★ Stars: 95
 
 [Open repository](https://github.com/SiaExplains/visa-sponsorship-companies)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 93 | 15 | 
+| 2023-04-15 | 95 | 16 | 
 | 2023-04-14 | 92 | 14 | 
 

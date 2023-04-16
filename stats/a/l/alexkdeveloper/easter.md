@@ -1,10 +1,10 @@
 # alexkdeveloper/easter - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/alexkdeveloper/easter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 5 | 
 | 2023-04-13 | 3 | 5 | 
 | 2023-04-12 | 3 | 5 | 
 | 2023-04-11 | 3 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 3 | 5 | 
 | 2023-03-19 | 3 | 5 | 
 | 2023-03-18 | 3 | 5 | 
-| 2023-03-16 | 3 | 5 | 
 

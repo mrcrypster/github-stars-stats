@@ -1,8 +1,8 @@
 # godotengine/tps-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 142
+☋ Forks: 143
 
 ★ Stars: 736
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 736 | 143 | 
 | 2023-04-13 | 736 | 142 | 
 | 2023-04-12 | 736 | 142 | 
 | 2023-04-11 | 736 | 142 | 

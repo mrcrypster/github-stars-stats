@@ -1,10 +1,10 @@
 # derkork/godot-statecharts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 34
 
 [Open repository](https://github.com/derkork/godot-statecharts)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 34 | 3 | 
 | 2023-04-14 | 30 | 2 | 
 

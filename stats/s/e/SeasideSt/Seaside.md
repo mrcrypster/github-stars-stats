@@ -1,10 +1,10 @@
 # SeasideSt/Seaside - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 65
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/SeasideSt/Seaside)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 452 | 65 | 
 | 2023-04-14 | 451 | 65 | 
 | 2023-04-13 | 451 | 65 | 
 | 2023-04-12 | 450 | 65 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 449 | 65 | 
 | 2023-03-19 | 449 | 65 | 
 | 2023-03-17 | 449 | 65 | 
-| 2023-03-16 | 449 | 65 | 
 

@@ -1,6 +1,6 @@
 # xy-sea/web-see-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 67 | 50 | 
 | 2023-04-13 | 67 | 50 | 
 | 2023-04-12 | 67 | 49 | 
 | 2023-04-11 | 67 | 49 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 61 | 45 | 
 | 2023-03-19 | 61 | 43 | 
 | 2023-03-17 | 61 | 43 | 
-| 2023-03-16 | 61 | 43 | 
 

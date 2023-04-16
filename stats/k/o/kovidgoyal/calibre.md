@@ -1,10 +1,10 @@
 # kovidgoyal/calibre - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1904
+☋ Forks: 1905
 
-★ Stars: 14923
+★ Stars: 14927
 
 [Open repository](https://github.com/kovidgoyal/calibre)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 14927 | 1905 | 
 | 2023-04-13 | 14923 | 1904 | 
 | 2023-04-12 | 14917 | 1902 | 
 | 2023-04-11 | 14911 | 1901 | 

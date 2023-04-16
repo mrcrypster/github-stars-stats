@@ -1,10 +1,10 @@
 # lzwme/chatgpt-sites - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 90
+☋ Forks: 99
 
-★ Stars: 561
+★ Stars: 580
 
 [Open repository](https://github.com/lzwme/chatgpt-sites)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 580 | 99 | 
 | 2023-04-14 | 561 | 90 | 
 | 2023-04-13 | 544 | 84 | 
 | 2023-04-12 | 515 | 75 | 

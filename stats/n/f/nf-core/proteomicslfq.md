@@ -1,10 +1,10 @@
 # nf-core/proteomicslfq - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 17
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/nf-core/proteomicslfq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 29 | 17 | 
 | 2023-04-14 | 28 | 17 | 
 | 2023-04-13 | 28 | 17 | 
 | 2023-04-12 | 28 | 17 | 

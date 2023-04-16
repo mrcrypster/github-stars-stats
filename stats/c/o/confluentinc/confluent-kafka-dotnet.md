@@ -1,6 +1,6 @@
 # confluentinc/confluent-kafka-dotnet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 783
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2514 | 783 | 
 | 2023-04-13 | 2514 | 783 | 
 | 2023-04-12 | 2514 | 782 | 
 | 2023-04-11 | 2511 | 782 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 2490 | 772 | 
 | 2023-03-19 | 2489 | 772 | 
 | 2023-03-17 | 2489 | 772 | 
-| 2023-03-16 | 2488 | 772 | 
 

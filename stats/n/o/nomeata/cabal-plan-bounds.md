@@ -1,10 +1,10 @@
 # nomeata/cabal-plan-bounds - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/nomeata/cabal-plan-bounds)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 20 | 3 | 
 | 2023-04-14 | 19 | 3 | 
 | 2023-04-13 | 19 | 3 | 
 | 2023-04-12 | 19 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 16 | 3 | 
 | 2023-03-19 | 16 | 3 | 
 | 2023-03-18 | 16 | 3 | 
-| 2023-03-17 | 16 | 3 | 
 

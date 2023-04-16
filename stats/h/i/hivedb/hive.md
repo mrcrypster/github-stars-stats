@@ -1,8 +1,8 @@
 # hivedb/hive - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 339
+☋ Forks: 341
 
 ★ Stars: 3510
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3510 | 341 | 
 | 2023-04-14 | 3510 | 339 | 
 | 2023-04-13 | 3507 | 338 | 
 | 2023-04-12 | 3501 | 338 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 3468 | 335 | 
 | 2023-03-19 | 3463 | 335 | 
 | 2023-03-18 | 3464 | 336 | 
-| 2023-03-16 | 3459 | 336 | 
 

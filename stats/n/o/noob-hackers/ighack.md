@@ -1,10 +1,10 @@
 # noob-hackers/ighack - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 197
 
-★ Stars: 1129
+★ Stars: 1130
 
 [Open repository](https://github.com/noob-hackers/ighack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1130 | 197 | 
 | 2023-04-13 | 1129 | 197 | 
 | 2023-04-12 | 1129 | 197 | 
 | 2023-04-11 | 1129 | 197 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1096 | 193 | 
 | 2023-03-19 | 1092 | 193 | 
 | 2023-03-18 | 1090 | 193 | 
-| 2023-03-16 | 1089 | 192 | 
 

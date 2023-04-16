@@ -1,10 +1,10 @@
 # logseq/logseq - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1299
 
-★ Stars: 21660
+★ Stars: 21681
 
 [Open repository](https://github.com/logseq/logseq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 21681 | 1299 | 
 | 2023-04-14 | 21660 | 1299 | 
 | 2023-04-13 | 21644 | 1297 | 
 | 2023-04-12 | 21617 | 1293 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 21087 | 1267 | 
 | 2023-03-18 | 21071 | 1267 | 
 | 2023-03-17 | 21058 | 1266 | 
-| 2023-03-16 | 21049 | 1263 | 
 

@@ -1,6 +1,6 @@
 # square/moshi - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 727
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 8876 | 727 | 
 | 2023-04-14 | 8876 | 727 | 
 | 2023-04-13 | 8874 | 727 | 
 | 2023-04-12 | 8870 | 726 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 8828 | 720 | 
 | 2023-03-18 | 8827 | 719 | 
 | 2023-03-17 | 8821 | 719 | 
-| 2023-03-16 | 8820 | 719 | 
 

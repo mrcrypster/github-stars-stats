@@ -1,10 +1,10 @@
 # Umar-Saeed-97/Vehicle-Count - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 9
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/Umar-Saeed-97/Vehicle-Count)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 32 | 9 | 
 | 2023-04-14 | 30 | 9 | 
 | 2023-04-13 | 28 | 9 | 
 | 2023-04-12 | 27 | 9 | 

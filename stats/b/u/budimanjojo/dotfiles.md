@@ -1,10 +1,10 @@
 # budimanjojo/dotfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/budimanjojo/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 96 | 6 | 
 | 2023-04-14 | 95 | 6 | 
 | 2023-04-13 | 95 | 6 | 
 | 2023-04-12 | 94 | 6 | 

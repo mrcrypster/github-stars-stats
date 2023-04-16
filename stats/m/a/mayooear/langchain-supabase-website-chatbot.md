@@ -1,10 +1,10 @@
 # mayooear/langchain-supabase-website-chatbot - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 83
+☋ Forks: 86
 
-★ Stars: 283
+★ Stars: 287
 
 [Open repository](https://github.com/mayooear/langchain-supabase-website-chatbot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 287 | 86 | 
 | 2023-04-14 | 283 | 83 | 
 | 2023-04-13 | 276 | 81 | 
 | 2023-04-12 | 273 | 79 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 125 | 26 | 
 | 2023-03-19 | 118 | 22 | 
 | 2023-03-18 | 115 | 21 | 
-| 2023-03-16 | 108 | 18 | 
 

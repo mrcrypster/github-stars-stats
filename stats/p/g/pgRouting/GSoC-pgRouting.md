@@ -1,10 +1,10 @@
 # pgRouting/GSoC-pgRouting - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 36
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/pgRouting/GSoC-pgRouting)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 36 | 
 | 2023-04-14 | 3 | 36 | 
 | 2023-04-13 | 3 | 36 | 
 | 2023-04-12 | 3 | 36 | 

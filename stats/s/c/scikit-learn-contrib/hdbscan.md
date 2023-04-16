@@ -1,10 +1,10 @@
 # scikit-learn-contrib/hdbscan - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 443
 
-★ Stars: 2401
+★ Stars: 2403
 
 [Open repository](https://github.com/scikit-learn-contrib/hdbscan)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2403 | 443 | 
 | 2023-04-14 | 2401 | 443 | 
 | 2023-04-13 | 2401 | 443 | 
 | 2023-04-12 | 2400 | 441 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2387 | 438 | 
 | 2023-03-19 | 2385 | 438 | 
 | 2023-03-17 | 2385 | 438 | 
-| 2023-03-16 | 2385 | 438 | 
 

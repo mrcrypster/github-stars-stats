@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 71
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/Azure/bicep-registry-modules)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 169 | 71 | 
+| 2023-04-15 | 170 | 71 | 
 | 2023-04-14 | 169 | 71 | 
 | 2023-04-13 | 169 | 71 | 
 | 2023-04-12 | 169 | 70 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-19 | 162 | 61 | 
 | 2023-03-18 | 162 | 61 | 
 | 2023-03-17 | 162 | 61 | 
-| 2023-03-16 | 162 | 61 | 
 

@@ -1,6 +1,6 @@
 # ilrock/thirty_days_of_hotwire - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 162 | 16 | 
 | 2023-04-14 | 162 | 16 | 
 | 2023-04-13 | 161 | 16 | 
 | 2023-04-12 | 161 | 16 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 132 | 11 | 
 | 2023-03-19 | 131 | 11 | 
 | 2023-03-18 | 121 | 9 | 
-| 2023-03-17 | 113 | 7 | 
 

@@ -1,6 +1,6 @@
 # Lakr233/MoneyProgress - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 393 | 31 | 
 | 2023-04-14 | 393 | 31 | 
 | 2023-04-13 | 393 | 31 | 
 | 2023-04-12 | 393 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 387 | 31 | 
 | 2023-03-19 | 386 | 31 | 
 | 2023-03-17 | 386 | 31 | 
-| 2023-03-16 | 386 | 31 | 
 

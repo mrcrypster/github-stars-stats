@@ -1,10 +1,10 @@
 # fernandoans/publicacoes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/fernandoans/publicacoes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 76 | 12 | 
 | 2023-04-13 | 75 | 12 | 
 | 2023-04-12 | 75 | 12 | 
 | 2023-04-11 | 75 | 12 | 

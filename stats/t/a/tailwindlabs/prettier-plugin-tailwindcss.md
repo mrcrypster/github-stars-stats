@@ -1,10 +1,10 @@
 # tailwindlabs/prettier-plugin-tailwindcss - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 60
 
-★ Stars: 2542
+★ Stars: 2549
 
 [Open repository](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2549 | 60 | 
 | 2023-04-14 | 2542 | 60 | 
 | 2023-04-13 | 2537 | 58 | 
 | 2023-04-12 | 2531 | 58 | 

@@ -1,6 +1,6 @@
 # stripe-samples/checkout-one-time-payments - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 417
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 690 | 417 | 
 | 2023-04-14 | 690 | 417 | 
 | 2023-04-13 | 689 | 417 | 
 | 2023-04-11 | 688 | 416 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 684 | 410 | 
 | 2023-03-19 | 683 | 411 | 
 | 2023-03-17 | 683 | 411 | 
-| 2023-03-16 | 683 | 411 | 
 

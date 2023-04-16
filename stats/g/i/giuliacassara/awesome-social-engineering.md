@@ -1,10 +1,10 @@
 # giuliacassara/awesome-social-engineering - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 335
 
-★ Stars: 1990
+★ Stars: 1995
 
 [Open repository](https://github.com/giuliacassara/awesome-social-engineering)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1995 | 335 | 
 | 2023-04-14 | 1990 | 335 | 
 | 2023-04-13 | 1988 | 335 | 
 | 2023-04-12 | 1986 | 335 | 

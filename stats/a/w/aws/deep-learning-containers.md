@@ -1,10 +1,10 @@
 # aws/deep-learning-containers - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 363
+☋ Forks: 365
 
-★ Stars: 670
+★ Stars: 672
 
 [Open repository](https://github.com/aws/deep-learning-containers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 672 | 365 | 
 | 2023-04-14 | 670 | 363 | 
 | 2023-04-13 | 667 | 362 | 
 | 2023-04-12 | 666 | 362 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 640 | 350 | 
 | 2023-03-19 | 638 | 349 | 
 | 2023-03-18 | 638 | 349 | 
-| 2023-03-16 | 638 | 349 | 
 

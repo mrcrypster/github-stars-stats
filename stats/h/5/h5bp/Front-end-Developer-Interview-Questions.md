@@ -1,10 +1,10 @@
 # h5bp/Front-end-Developer-Interview-Questions - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 10851
+☋ Forks: 10850
 
-★ Stars: 56880
+★ Stars: 56882
 
 [Open repository](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 56882 | 10850 | 
+| 2023-04-15 | 56882 | 10851 | 
 | 2023-04-14 | 56880 | 10851 | 
 | 2023-04-13 | 56869 | 10850 | 
 | 2023-04-12 | 56856 | 10849 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 56693 | 10831 | 
 | 2023-03-18 | 56689 | 10832 | 
 | 2023-03-17 | 56685 | 10831 | 
-| 2023-03-16 | 56679 | 10831 | 
 

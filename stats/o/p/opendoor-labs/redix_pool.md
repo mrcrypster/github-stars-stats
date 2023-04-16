@@ -1,10 +1,10 @@
 # opendoor-labs/redix_pool - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/opendoor-labs/redix_pool)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 13 | 8 | 
 | 2023-04-13 | 12 | 8 | 
 | 2023-04-12 | 12 | 7 | 
 | 2023-04-11 | 12 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 12 | 6 | 
 | 2023-03-19 | 12 | 6 | 
 | 2023-03-17 | 12 | 6 | 
-| 2023-03-16 | 12 | 6 | 
 

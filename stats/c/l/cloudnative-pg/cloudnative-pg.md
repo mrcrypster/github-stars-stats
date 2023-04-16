@@ -1,10 +1,10 @@
 # cloudnative-pg/cloudnative-pg - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 89
+☋ Forks: 88
 
-★ Stars: 1148
+★ Stars: 1151
 
 [Open repository](https://github.com/cloudnative-pg/cloudnative-pg)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1151 | 88 | 
 | 2023-04-13 | 1148 | 89 | 
 | 2023-04-12 | 1146 | 89 | 
 | 2023-04-11 | 1144 | 88 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1066 | 82 | 
 | 2023-03-19 | 1057 | 82 | 
 | 2023-03-18 | 1055 | 81 | 
-| 2023-03-16 | 1052 | 81 | 
 

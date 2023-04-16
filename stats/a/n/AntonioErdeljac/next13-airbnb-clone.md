@@ -1,10 +1,10 @@
 # AntonioErdeljac/next13-airbnb-clone - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 154
+☋ Forks: 166
 
-★ Stars: 404
+★ Stars: 423
 
 [Open repository](https://github.com/AntonioErdeljac/next13-airbnb-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 423 | 166 | 
 | 2023-04-13 | 404 | 154 | 
 | 2023-04-12 | 381 | 146 | 
 | 2023-04-11 | 355 | 138 | 

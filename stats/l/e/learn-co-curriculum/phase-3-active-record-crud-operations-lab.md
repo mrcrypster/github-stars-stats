@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-active-record-crud-operations-lab - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2292
+☋ Forks: 2295
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1 | 2295 | 
 | 2023-04-14 | 1 | 2292 | 
 | 2023-04-13 | 1 | 2293 | 
 | 2023-04-11 | 1 | 2292 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1 | 2264 | 
 | 2023-03-19 | 1 | 2265 | 
 | 2023-03-18 | 1 | 2265 | 
-| 2023-03-16 | 1 | 2264 | 
 

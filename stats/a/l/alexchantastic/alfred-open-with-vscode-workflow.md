@@ -1,6 +1,6 @@
 # alexchantastic/alfred-open-with-vscode-workflow - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 256 | 14 | 
 | 2023-04-14 | 256 | 14 | 
 | 2023-04-13 | 256 | 14 | 
 | 2023-04-12 | 255 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 249 | 14 | 
 | 2023-03-19 | 249 | 14 | 
 | 2023-03-18 | 249 | 14 | 
-| 2023-03-16 | 248 | 14 | 
 

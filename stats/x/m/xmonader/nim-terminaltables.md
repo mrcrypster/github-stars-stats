@@ -1,10 +1,10 @@
 # xmonader/nim-terminaltables - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/xmonader/nim-terminaltables)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 57 | 3 | 
 | 2023-04-14 | 56 | 3 | 
 | 2023-04-13 | 56 | 3 | 
 | 2023-04-11 | 56 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 55 | 3 | 
 | 2023-03-18 | 55 | 3 | 
 | 2023-03-17 | 55 | 3 | 
-| 2023-03-16 | 55 | 3 | 
 

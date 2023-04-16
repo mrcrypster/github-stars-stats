@@ -1,10 +1,10 @@
 # lianginx/chatgpt-vue - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 209
+★ Stars: 215
 
 [Open repository](https://github.com/lianginx/chatgpt-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 215 | 32 | 
 | 2023-04-14 | 209 | 31 | 
 | 2023-04-13 | 205 | 31 | 
 | 2023-04-12 | 198 | 30 | 

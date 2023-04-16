@@ -1,6 +1,6 @@
 # Pylons-tech/pylons - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 24 | 122 | 
 | 2023-04-13 | 24 | 122 | 
 | 2023-04-12 | 24 | 122 | 
 | 2023-04-11 | 24 | 122 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 24 | 122 | 
 | 2023-03-19 | 24 | 122 | 
 | 2023-03-18 | 24 | 122 | 
-| 2023-03-16 | 24 | 122 | 
 

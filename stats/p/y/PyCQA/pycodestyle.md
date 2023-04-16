@@ -1,6 +1,6 @@
 # PyCQA/pycodestyle - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 706
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4809 | 706 | 
 | 2023-04-14 | 4809 | 706 | 
 | 2023-04-13 | 4808 | 705 | 
 | 2023-04-12 | 4808 | 705 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 4800 | 704 | 
 | 2023-03-19 | 4799 | 703 | 
 | 2023-03-18 | 4797 | 703 | 
-| 2023-03-17 | 4796 | 703 | 
 

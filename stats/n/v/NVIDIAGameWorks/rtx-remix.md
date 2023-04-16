@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 16
+☋ Forks: 22
 
-★ Stars: 618
+★ Stars: 666
 
 [Open repository](https://github.com/NVIDIAGameWorks/rtx-remix)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 618 | 16 | 
+| 2023-04-15 | 666 | 22 | 
 | 2023-04-14 | 594 | 14 | 
 

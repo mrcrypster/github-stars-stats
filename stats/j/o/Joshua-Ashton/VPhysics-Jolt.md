@@ -1,10 +1,10 @@
 # Joshua-Ashton/VPhysics-Jolt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 53
 
-★ Stars: 1083
+★ Stars: 1082
 
 [Open repository](https://github.com/Joshua-Ashton/VPhysics-Jolt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1082 | 53 | 
 | 2023-04-13 | 1083 | 53 | 
 | 2023-04-12 | 1083 | 53 | 
 | 2023-04-11 | 1083 | 53 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1071 | 51 | 
 | 2023-03-19 | 1072 | 51 | 
 | 2023-03-18 | 1071 | 51 | 
-| 2023-03-17 | 1070 | 51 | 
 

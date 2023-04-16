@@ -1,10 +1,10 @@
 # fmrico/book_ros2 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 56
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/fmrico/book_ros2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 323 | 56 | 
 | 2023-04-14 | 322 | 56 | 
 | 2023-04-13 | 321 | 56 | 
 | 2023-04-12 | 321 | 56 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 308 | 50 | 
 | 2023-03-18 | 308 | 49 | 
 | 2023-03-17 | 308 | 49 | 
-| 2023-03-16 | 308 | 49 | 
 

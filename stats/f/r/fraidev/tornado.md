@@ -1,10 +1,10 @@
 # fraidev/tornado - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/fraidev/tornado)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 58 | - | 
 | 2023-04-13 | 57 | - | 
 | 2023-04-12 | 57 | - | 
 | 2023-04-11 | 57 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 57 | - | 
 | 2023-03-19 | 57 | - | 
 | 2023-03-18 | 57 | - | 
-| 2023-03-16 | 57 | - | 
 

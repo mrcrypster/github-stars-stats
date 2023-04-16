@@ -1,6 +1,6 @@
 # tomhrr/cosh - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 115 | 2 | 
 | 2023-04-13 | 115 | 2 | 
 | 2023-04-12 | 115 | 2 | 
 | 2023-04-11 | 115 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 112 | 2 | 
 | 2023-03-19 | 112 | 2 | 
 | 2023-03-18 | 112 | 2 | 
-| 2023-03-17 | 112 | 2 | 
 

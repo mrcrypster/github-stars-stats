@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 598
 
-★ Stars: 1599
+★ Stars: 1600
 
 [Open repository](https://github.com/easylist/easylist)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 1599 | 598 | 
+| 2023-04-15 | 1600 | 598 | 
 | 2023-04-14 | 1599 | 598 | 
 | 2023-04-13 | 1598 | 598 | 
 | 2023-04-12 | 1597 | 596 | 
@@ -42,5 +42,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 1574 | 591 | 
 | 2023-03-19 | 1572 | 590 | 
 | 2023-03-17 | 1569 | 590 | 
-| 2023-03-16 | 1568 | 590 | 
 

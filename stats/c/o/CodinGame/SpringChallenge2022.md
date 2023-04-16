@@ -1,10 +1,10 @@
 # CodinGame/SpringChallenge2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 48
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/CodinGame/SpringChallenge2022)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 101 | 48 | 
 | 2023-04-13 | 100 | 48 | 
 | 2023-04-12 | 100 | 48 | 
 | 2023-04-11 | 100 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 99 | 47 | 
 | 2023-03-19 | 99 | 47 | 
 | 2023-03-17 | 99 | 47 | 
-| 2023-03-16 | 99 | 47 | 
 

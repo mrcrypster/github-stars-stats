@@ -1,6 +1,6 @@
 # ronisbr/doom-nano-modeline - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 26 | 1 | 
 | 2023-04-14 | 26 | 1 | 
 | 2023-04-12 | 26 | 1 | 
 | 2023-04-11 | 26 | 1 | 

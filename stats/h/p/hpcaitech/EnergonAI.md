@@ -1,10 +1,10 @@
 # hpcaitech/EnergonAI - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 517
+★ Stars: 521
 
 [Open repository](https://github.com/hpcaitech/EnergonAI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 521 | 78 | 
 | 2023-04-13 | 517 | 77 | 
 | 2023-04-12 | 516 | 76 | 
 | 2023-04-11 | 511 | 75 | 

@@ -1,6 +1,6 @@
 # arsenm/sanitizers-cmake - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 313 | 62 | 
 | 2023-04-14 | 313 | 62 | 
 | 2023-04-13 | 313 | 62 | 
 | 2023-04-12 | 313 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 310 | 62 | 
 | 2023-03-18 | 310 | 62 | 
 | 2023-03-17 | 310 | 62 | 
-| 2023-03-16 | 310 | 62 | 
 

@@ -1,6 +1,6 @@
 # SKGleba/henlo_jb - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 52 | 9 | 
 | 2023-04-14 | 52 | 9 | 
 | 2023-04-13 | 52 | 9 | 
 | 2023-04-12 | 52 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 50 | 9 | 
 | 2023-03-18 | 50 | 9 | 
 | 2023-03-17 | 50 | 9 | 
-| 2023-03-16 | 49 | 9 | 
 

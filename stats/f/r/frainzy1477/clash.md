@@ -1,6 +1,6 @@
 # frainzy1477/clash - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 323 | 72 | 
 | 2023-04-14 | 323 | 72 | 
 | 2023-04-13 | 323 | 72 | 
 | 2023-04-12 | 323 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 324 | 72 | 
 | 2023-03-19 | 324 | 72 | 
 | 2023-03-18 | 324 | 72 | 
-| 2023-03-17 | 324 | 72 | 
 

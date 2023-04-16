@@ -1,6 +1,6 @@
 # HFTSRedux/TS2Redux - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 116 | 3 | 
 | 2023-04-13 | 116 | 3 | 
 | 2023-04-12 | 116 | 3 | 
 | 2023-04-11 | 116 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 112 | 3 | 
 | 2023-03-18 | 112 | 3 | 
 | 2023-03-17 | 112 | 3 | 
-| 2023-03-16 | 112 | 3 | 
 

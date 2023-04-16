@@ -1,10 +1,10 @@
 # rd2coding/Road2Coding - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 861
 
-★ Stars: 5490
+★ Stars: 5493
 
 [Open repository](https://github.com/rd2coding/Road2Coding)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5493 | 861 | 
 | 2023-04-13 | 5490 | 861 | 
 | 2023-04-12 | 5488 | 859 | 
 | 2023-04-11 | 5486 | 859 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 5418 | 847 | 
 | 2023-03-18 | 5417 | 847 | 
 | 2023-03-17 | 5413 | 847 | 
-| 2023-03-16 | 5414 | 847 | 
 

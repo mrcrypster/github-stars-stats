@@ -1,10 +1,10 @@
 # ebelinski/iosref - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/ebelinski/iosref)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 137 | 6 | 
 | 2023-04-13 | 136 | 6 | 
 | 2023-04-12 | 135 | 6 | 
 | 2023-04-11 | 134 | 6 | 

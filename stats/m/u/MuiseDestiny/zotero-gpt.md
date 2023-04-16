@@ -1,10 +1,10 @@
 # MuiseDestiny/zotero-gpt - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 28
+☋ Forks: 34
 
-★ Stars: 467
+★ Stars: 536
 
 [Open repository](https://github.com/MuiseDestiny/zotero-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 536 | 34 | 
 | 2023-04-14 | 467 | 28 | 
 | 2023-04-13 | 442 | 28 | 
 | 2023-04-12 | 421 | 26 | 

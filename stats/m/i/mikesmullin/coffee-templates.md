@@ -1,6 +1,6 @@
 # mikesmullin/coffee-templates - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 48 | 9 | 
 | 2023-04-13 | 48 | 9 | 
 | 2023-04-12 | 48 | 9 | 
 | 2023-04-11 | 48 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 48 | 9 | 
 | 2023-03-19 | 48 | 9 | 
 | 2023-03-18 | 48 | 9 | 
-| 2023-03-16 | 48 | 9 | 
 

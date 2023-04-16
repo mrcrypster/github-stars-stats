@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-1-woof-woof-js-practice - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1263
+☋ Forks: 1266
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3 | 1266 | 
 | 2023-04-13 | 3 | 1263 | 
 | 2023-04-12 | 3 | 1264 | 
 | 2023-04-11 | 3 | 1262 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 3 | 1203 | 
 | 2023-03-19 | 3 | 1204 | 
 | 2023-03-17 | 3 | 1204 | 
-| 2023-03-16 | 3 | 1201 | 
 

@@ -1,6 +1,6 @@
 # PecanProject/pecan - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 176 | 209 | 
 | 2023-04-13 | 176 | 209 | 
 | 2023-04-12 | 176 | 209 | 
 | 2023-04-11 | 176 | 209 | 

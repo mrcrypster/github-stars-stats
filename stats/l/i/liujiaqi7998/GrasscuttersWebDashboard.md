@@ -1,8 +1,8 @@
 # liujiaqi7998/GrasscuttersWebDashboard - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 220
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 220 | 32 | 
 | 2023-04-13 | 220 | 31 | 
 | 2023-04-12 | 220 | 31 | 
 | 2023-04-11 | 220 | 31 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 219 | 32 | 
 | 2023-03-19 | 218 | 32 | 
 | 2023-03-18 | 218 | 32 | 
-| 2023-03-17 | 218 | 32 | 
 

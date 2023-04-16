@@ -1,10 +1,10 @@
 # TimoKoerber/laravel-one-time-operations - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 201
+★ Stars: 206
 
 [Open repository](https://github.com/TimoKoerber/laravel-one-time-operations)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 206 | 6 | 
 | 2023-04-13 | 201 | 6 | 
 | 2023-04-12 | 196 | 6 | 
 | 2023-04-11 | 193 | 6 | 

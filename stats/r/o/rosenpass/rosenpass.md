@@ -1,10 +1,10 @@
 # rosenpass/rosenpass - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 722
+★ Stars: 735
 
 [Open repository](https://github.com/rosenpass/rosenpass)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 735 | 27 | 
 | 2023-04-13 | 722 | 27 | 
 | 2023-04-12 | 721 | 27 | 
 | 2023-04-11 | 715 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 597 | 20 | 
 | 2023-03-19 | 596 | 20 | 
 | 2023-03-17 | 593 | 20 | 
-| 2023-03-16 | 591 | 19 | 
 

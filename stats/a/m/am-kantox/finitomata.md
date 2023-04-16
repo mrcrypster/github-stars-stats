@@ -1,6 +1,6 @@
 # am-kantox/finitomata - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 68 | 5 | 
 | 2023-04-13 | 68 | 5 | 
 | 2023-04-12 | 68 | 5 | 
 | 2023-04-11 | 68 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 67 | 4 | 
 | 2023-03-19 | 67 | 4 | 
 | 2023-03-17 | 67 | 4 | 
-| 2023-03-16 | 67 | 4 | 
 

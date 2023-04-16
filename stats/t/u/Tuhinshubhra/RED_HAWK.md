@@ -1,10 +1,10 @@
 # Tuhinshubhra/RED_HAWK - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 816
 
-★ Stars: 2446
+★ Stars: 2449
 
 [Open repository](https://github.com/Tuhinshubhra/RED_HAWK)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2449 | 816 | 
 | 2023-04-13 | 2446 | 816 | 
 | 2023-04-12 | 2442 | 816 | 
 | 2023-04-11 | 2440 | 816 | 

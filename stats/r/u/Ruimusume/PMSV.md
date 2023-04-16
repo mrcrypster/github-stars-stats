@@ -1,6 +1,6 @@
 # Ruimusume/PMSV - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 32 | 21 | 
 | 2023-04-14 | 32 | 21 | 
 | 2023-04-13 | 32 | 21 | 
 | 2023-04-11 | 32 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 30 | 21 | 
 | 2023-03-19 | 30 | 21 | 
 | 2023-03-18 | 30 | 21 | 
-| 2023-03-16 | 30 | 21 | 
 

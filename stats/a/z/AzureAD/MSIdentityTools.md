@@ -1,6 +1,6 @@
 # AzureAD/MSIdentityTools - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 68 | 15 | 
 | 2023-04-14 | 68 | 15 | 
 | 2023-04-12 | 68 | 15 | 
 | 2023-04-11 | 68 | 15 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 66 | 13 | 
 | 2023-03-19 | 66 | 13 | 
 | 2023-03-18 | 66 | 13 | 
-| 2023-03-17 | 66 | 13 | 
 

@@ -1,6 +1,6 @@
 # ixinzhi/xuanxue2x - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 44 | 14 | 
 | 2023-04-13 | 44 | 14 | 
 | 2023-04-12 | 44 | 14 | 
 | 2023-04-11 | 44 | 14 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 43 | 13 | 
 | 2023-03-19 | 42 | 13 | 
 | 2023-03-17 | 42 | 13 | 
-| 2023-03-16 | 42 | 13 | 
 

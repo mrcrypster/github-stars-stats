@@ -1,8 +1,8 @@
 # Project-Sloth/ps-fuel - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 47
+☋ Forks: 49
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 48 | 49 | 
 | 2023-04-14 | 48 | 47 | 
 | 2023-04-13 | 48 | 47 | 
 | 2023-04-12 | 48 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 48 | 43 | 
 | 2023-03-19 | 48 | 42 | 
 | 2023-03-18 | 48 | 42 | 
-| 2023-03-16 | 48 | 41 | 
 

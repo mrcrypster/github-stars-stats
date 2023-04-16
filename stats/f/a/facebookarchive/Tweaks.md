@@ -1,10 +1,10 @@
 # facebookarchive/Tweaks - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 441
 
-★ Stars: 4755
+★ Stars: 4754
 
 [Open repository](https://github.com/facebookarchive/Tweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4754 | 441 | 
 | 2023-04-14 | 4755 | 441 | 
 | 2023-04-13 | 4755 | 441 | 
 | 2023-04-11 | 4754 | 441 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 4756 | 441 | 
 | 2023-03-18 | 4756 | 441 | 
 | 2023-03-17 | 4756 | 441 | 
-| 2023-03-16 | 4756 | 441 | 
 

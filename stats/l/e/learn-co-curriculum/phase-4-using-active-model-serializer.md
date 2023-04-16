@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-4-using-active-model-serializer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1975
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1 | 1975 | 
 | 2023-04-14 | 1 | 1975 | 
 | 2023-04-13 | 1 | 1975 | 
 | 2023-04-12 | 1 | 1974 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1 | 1801 | 
 | 2023-03-19 | 1 | 1753 | 
 | 2023-03-18 | 1 | 1718 | 
-| 2023-03-16 | 1 | 1697 | 
 

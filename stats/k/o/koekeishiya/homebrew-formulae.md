@@ -1,6 +1,6 @@
 # koekeishiya/homebrew-formulae - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 13 | 25 | 
 | 2023-04-13 | 13 | 25 | 
 | 2023-04-12 | 13 | 25 | 
 | 2023-04-11 | 13 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 13 | 25 | 
 | 2023-03-19 | 13 | 24 | 
 | 2023-03-18 | 13 | 24 | 
-| 2023-03-16 | 13 | 23 | 
 

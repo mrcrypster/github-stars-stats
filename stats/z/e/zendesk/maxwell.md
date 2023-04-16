@@ -1,10 +1,10 @@
 # zendesk/maxwell - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 966
 
-★ Stars: 3621
+★ Stars: 3623
 
 [Open repository](https://github.com/zendesk/maxwell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3623 | 966 | 
 | 2023-04-14 | 3621 | 966 | 
 | 2023-04-13 | 3621 | 966 | 
 | 2023-04-12 | 3620 | 966 | 

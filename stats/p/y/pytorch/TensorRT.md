@@ -1,10 +1,10 @@
 # pytorch/TensorRT - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 271
 
-★ Stars: 1878
+★ Stars: 1879
 
 [Open repository](https://github.com/pytorch/TensorRT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1879 | 271 | 
 | 2023-04-13 | 1878 | 271 | 
 | 2023-04-12 | 1876 | 271 | 
 | 2023-04-11 | 1874 | 271 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1850 | 266 | 
 | 2023-03-19 | 1849 | 266 | 
 | 2023-03-18 | 1848 | 266 | 
-| 2023-03-16 | 1846 | 267 | 
 

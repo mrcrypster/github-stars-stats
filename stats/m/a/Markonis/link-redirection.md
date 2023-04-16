@@ -1,10 +1,10 @@
 # Markonis/link-redirection - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 19
 
-★ Stars: 106
+★ Stars: 109
 
 [Open repository](https://github.com/Markonis/link-redirection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 109 | 19 | 
 | 2023-04-13 | 106 | 19 | 
 | 2023-04-12 | 106 | 19 | 
 | 2023-04-11 | 103 | 19 | 

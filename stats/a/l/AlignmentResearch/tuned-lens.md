@@ -1,6 +1,6 @@
 # AlignmentResearch/tuned-lens - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 211 | 20 | 
 | 2023-04-13 | 211 | 20 | 
 | 2023-04-12 | 210 | 20 | 
 | 2023-04-11 | 209 | 19 | 

@@ -1,10 +1,10 @@
 # fatih-yavuz/links.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 151
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/fatih-yavuz/links.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 171 | 151 | 
 | 2023-04-14 | 170 | 151 | 
 | 2023-04-13 | 170 | 151 | 
 | 2023-04-12 | 170 | 151 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 161 | 149 | 
 | 2023-03-19 | 161 | 148 | 
 | 2023-03-17 | 182 | 148 | 
-| 2023-03-16 | 181 | 147 | 
 

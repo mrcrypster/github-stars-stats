@@ -1,10 +1,10 @@
 # brannondorsey/PassGAN - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 238
+☋ Forks: 239
 
-★ Stars: 1195
+★ Stars: 1220
 
 [Open repository](https://github.com/brannondorsey/PassGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1220 | 239 | 
 | 2023-04-14 | 1195 | 238 | 
 | 2023-04-13 | 1157 | 231 | 
 | 2023-04-12 | 1134 | 225 | 

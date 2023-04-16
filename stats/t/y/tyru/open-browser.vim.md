@@ -1,8 +1,8 @@
 # tyru/open-browser.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 48
+☋ Forks: 49
 
 ★ Stars: 474
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 474 | 49 | 
 | 2023-04-14 | 474 | 48 | 
 | 2023-04-12 | 475 | 48 | 
 | 2023-04-11 | 474 | 48 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 471 | 48 | 
 | 2023-03-19 | 471 | 48 | 
 | 2023-03-18 | 470 | 48 | 
-| 2023-03-16 | 470 | 48 | 
 

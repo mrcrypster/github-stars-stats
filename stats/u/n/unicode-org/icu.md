@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 641
 
-★ Stars: 1920
+★ Stars: 1922
 
 [Open repository](https://github.com/unicode-org/icu)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 1920 | 641 | 
+| 2023-04-15 | 1922 | 641 | 
 | 2023-04-14 | 1920 | 641 | 
 | 2023-04-13 | 1915 | 639 | 
 | 2023-04-12 | 1914 | 638 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 1878 | 633 | 
 | 2023-03-19 | 1878 | 632 | 
 | 2023-03-18 | 1876 | 632 | 
-| 2023-03-16 | 1875 | 631 | 
 

@@ -1,10 +1,10 @@
 # budde25/switcheroo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/budde25/switcheroo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 38 | 3 | 
 | 2023-04-14 | 37 | 3 | 
 | 2023-04-13 | 37 | 3 | 
 | 2023-04-11 | 37 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 38 | 3 | 
 | 2023-03-20 | 37 | 3 | 
 | 2023-03-18 | 37 | 3 | 
-| 2023-03-17 | 37 | 3 | 
 

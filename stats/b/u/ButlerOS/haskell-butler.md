@@ -1,10 +1,10 @@
 # ButlerOS/haskell-butler - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/ButlerOS/haskell-butler)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 82 | 3 | 
 | 2023-04-14 | 81 | 3 | 
 | 2023-04-13 | 81 | 3 | 
 | 2023-04-11 | 80 | 3 | 

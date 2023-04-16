@@ -1,10 +1,10 @@
 # NVlabs/tiny-cuda-nn - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 281
 
-★ Stars: 2310
+★ Stars: 2316
 
 [Open repository](https://github.com/NVlabs/tiny-cuda-nn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2316 | 281 | 
 | 2023-04-14 | 2310 | 281 | 
 | 2023-04-12 | 2308 | 279 | 
 | 2023-04-11 | 2304 | 277 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2214 | 264 | 
 | 2023-03-19 | 2210 | 264 | 
 | 2023-03-18 | 2210 | 266 | 
-| 2023-03-16 | 2206 | 266 | 
 

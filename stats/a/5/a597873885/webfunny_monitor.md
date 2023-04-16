@@ -1,10 +1,10 @@
 # a597873885/webfunny_monitor - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 800
 
-★ Stars: 4569
+★ Stars: 4571
 
 [Open repository](https://github.com/a597873885/webfunny_monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4571 | 800 | 
 | 2023-04-14 | 4569 | 800 | 
 | 2023-04-13 | 4570 | 800 | 
 | 2023-04-12 | 4568 | 800 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 4554 | 801 | 
 | 2023-03-19 | 4552 | 801 | 
 | 2023-03-18 | 4553 | 801 | 
-| 2023-03-16 | 4553 | 801 | 
 

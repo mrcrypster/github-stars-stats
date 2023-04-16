@@ -1,10 +1,10 @@
 # Difegue/LANraragi - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 105
+☋ Forks: 106
 
-★ Stars: 1332
+★ Stars: 1335
 
 [Open repository](https://github.com/Difegue/LANraragi)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1335 | 106 | 
+| 2023-04-15 | 1334 | 106 | 
 | 2023-04-14 | 1332 | 105 | 
 | 2023-04-13 | 1330 | 105 | 
 | 2023-04-12 | 1330 | 105 | 

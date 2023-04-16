@@ -1,6 +1,6 @@
 # AeneasVerif/aeneas - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 54 | 5 | 
 | 2023-04-14 | 54 | 5 | 
 | 2023-04-13 | 54 | 5 | 
 | 2023-04-12 | 54 | 5 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 50 | 4 | 
 | 2023-03-19 | 50 | 4 | 
 | 2023-03-17 | 50 | 4 | 
-| 2023-03-16 | 50 | 4 | 
 

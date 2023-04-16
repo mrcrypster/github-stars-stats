@@ -1,6 +1,6 @@
 # ScerIO/packages.flutter - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 357 | 259 | 
 | 2023-04-14 | 357 | 259 | 
 | 2023-04-13 | 357 | 259 | 
 | 2023-04-12 | 356 | 258 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 347 | 247 | 
 | 2023-03-18 | 347 | 247 | 
 | 2023-03-17 | 347 | 247 | 
-| 2023-03-16 | 347 | 246 | 
 

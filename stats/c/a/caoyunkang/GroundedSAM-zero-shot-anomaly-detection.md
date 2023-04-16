@@ -1,10 +1,10 @@
 # caoyunkang/GroundedSAM-zero-shot-anomaly-detection - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 14
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 143 | 14 | 
 | 2023-04-14 | 142 | 14 | 
 | 2023-04-13 | 135 | 11 | 
 | 2023-04-12 | 120 | 7 | 

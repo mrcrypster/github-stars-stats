@@ -1,10 +1,10 @@
 # david-reborn/2D-Platform-Controller - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 30
+☋ Forks: 32
 
-★ Stars: 94
+★ Stars: 98
 
 [Open repository](https://github.com/david-reborn/2D-Platform-Controller)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 98 | 32 | 
 | 2023-04-13 | 94 | 30 | 
 | 2023-04-12 | 92 | 29 | 
 | 2023-04-11 | 89 | 28 | 

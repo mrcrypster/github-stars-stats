@@ -1,10 +1,10 @@
 # CodingHTML-Yusef/glaticgames - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 35
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/CodingHTML-Yusef/glaticgames)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 35 | 
 | 2023-04-14 | 3 | 35 | 
 

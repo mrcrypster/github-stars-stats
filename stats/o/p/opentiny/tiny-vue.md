@@ -1,10 +1,10 @@
 # opentiny/tiny-vue - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 205
+★ Stars: 208
 
 [Open repository](https://github.com/opentiny/tiny-vue)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 208 | 37 | 
+| 2023-04-15 | 208 | 37 | 
 | 2023-04-14 | 205 | 36 | 
 | 2023-04-13 | 195 | 35 | 
 | 2023-04-12 | 191 | 34 | 

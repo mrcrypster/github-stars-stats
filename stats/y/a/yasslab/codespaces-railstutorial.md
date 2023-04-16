@@ -1,8 +1,8 @@
 # yasslab/codespaces-railstutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 29
+☋ Forks: 31
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 31 | 
 | 2023-04-13 | 4 | 29 | 
 | 2023-04-12 | 4 | 27 | 
 | 2023-04-11 | 4 | 26 | 

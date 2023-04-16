@@ -1,10 +1,10 @@
 # sambacha/q-evm - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 86
 
-★ Stars: 376
+★ Stars: 377
 
 [Open repository](https://github.com/sambacha/q-evm)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 377 | 86 | 
 | 2023-04-14 | 376 | 86 | 
 | 2023-04-12 | 376 | 86 | 
 | 2023-04-11 | 376 | 86 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 374 | 86 | 
 | 2023-03-19 | 374 | 86 | 
 | 2023-03-18 | 374 | 86 | 
-| 2023-03-16 | 374 | 86 | 
 

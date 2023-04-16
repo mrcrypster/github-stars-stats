@@ -1,10 +1,10 @@
 # ninechapter-algorithm/linghu-algorithm-templete - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 740
 
-★ Stars: 2885
+★ Stars: 2886
 
 [Open repository](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2886 | 740 | 
 | 2023-04-14 | 2885 | 740 | 
 | 2023-04-13 | 2885 | 740 | 
 | 2023-04-12 | 2882 | 740 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2859 | 739 | 
 | 2023-03-19 | 2857 | 739 | 
 | 2023-03-17 | 2853 | 739 | 
-| 2023-03-16 | 2852 | 738 | 
 

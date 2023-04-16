@@ -1,10 +1,10 @@
 # tensorflow/docs - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 5165
+☋ Forks: 5168
 
-★ Stars: 5709
+★ Stars: 5712
 
 [Open repository](https://github.com/tensorflow/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5712 | 5168 | 
 | 2023-04-14 | 5709 | 5165 | 
 | 2023-04-13 | 5707 | 5169 | 
 | 2023-04-12 | 5705 | 5166 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 5674 | 5143 | 
 | 2023-03-19 | 5672 | 5143 | 
 | 2023-03-18 | 5669 | 5143 | 
-| 2023-03-16 | 5668 | 5143 | 
 

@@ -1,10 +1,10 @@
 # evanw/thumbhash - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 37
 
-★ Stars: 2543
+★ Stars: 2554
 
 [Open repository](https://github.com/evanw/thumbhash)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2554 | 37 | 
 | 2023-04-14 | 2543 | 37 | 
 | 2023-04-13 | 2530 | 37 | 
 | 2023-04-12 | 2525 | 37 | 

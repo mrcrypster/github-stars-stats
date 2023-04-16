@@ -1,10 +1,10 @@
 # robbert-vdh/nih-plug - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 65
 
-★ Stars: 606
+★ Stars: 608
 
 [Open repository](https://github.com/robbert-vdh/nih-plug)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 608 | 65 | 
 | 2023-04-13 | 606 | 65 | 
 | 2023-04-12 | 604 | 65 | 
 | 2023-04-11 | 603 | 65 | 

@@ -1,10 +1,10 @@
 # djdallmann/GamingPCSetup - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 90
 
-★ Stars: 458
+★ Stars: 460
 
 [Open repository](https://github.com/djdallmann/GamingPCSetup)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 460 | 90 | 
 | 2023-04-13 | 458 | 90 | 
 | 2023-04-12 | 459 | 90 | 
 | 2023-04-11 | 459 | 90 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 448 | 90 | 
 | 2023-03-19 | 447 | 89 | 
 | 2023-03-17 | 445 | 89 | 
-| 2023-03-16 | 443 | 89 | 
 

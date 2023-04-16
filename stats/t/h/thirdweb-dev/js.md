@@ -1,10 +1,10 @@
 # thirdweb-dev/js - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 69
 
-★ Stars: 122
+★ Stars: 121
 
 [Open repository](https://github.com/thirdweb-dev/js)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 121 | 69 | 
 | 2023-04-14 | 122 | 69 | 
 | 2023-04-13 | 121 | 68 | 
 | 2023-04-12 | 120 | 68 | 

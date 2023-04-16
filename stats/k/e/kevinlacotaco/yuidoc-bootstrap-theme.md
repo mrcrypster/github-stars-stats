@@ -1,6 +1,6 @@
 # kevinlacotaco/yuidoc-bootstrap-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 43 | 28 | 
 | 2023-04-14 | 43 | 28 | 
 | 2023-04-13 | 43 | 28 | 
 | 2023-04-12 | 43 | 28 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 43 | 28 | 
 | 2023-03-18 | 43 | 28 | 
 | 2023-03-17 | 43 | 28 | 
-| 2023-03-16 | 43 | 28 | 
 

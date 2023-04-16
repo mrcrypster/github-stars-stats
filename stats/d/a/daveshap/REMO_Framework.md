@@ -1,10 +1,10 @@
 # daveshap/REMO_Framework - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 215
+★ Stars: 237
 
 [Open repository](https://github.com/daveshap/REMO_Framework)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 237 | 27 | 
 | 2023-04-14 | 215 | 26 | 
 

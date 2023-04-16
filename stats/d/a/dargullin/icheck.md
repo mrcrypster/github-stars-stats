@@ -1,6 +1,6 @@
 # dargullin/icheck - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1660
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 7432 | 1660 | 
 | 2023-04-14 | 7432 | 1660 | 
 | 2023-04-13 | 7432 | 1660 | 
 | 2023-04-12 | 7433 | 1660 | 

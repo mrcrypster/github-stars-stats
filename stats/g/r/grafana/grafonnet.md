@@ -1,8 +1,8 @@
 # grafana/grafonnet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 18 | 1 | 
 | 2023-04-13 | 18 | - | 
 | 2023-04-12 | 17 | - | 
 | 2023-04-11 | 17 | - | 

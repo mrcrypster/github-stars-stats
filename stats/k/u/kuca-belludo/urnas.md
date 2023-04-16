@@ -1,6 +1,6 @@
 # kuca-belludo/urnas - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 88 | 16 | 
 | 2023-04-13 | 88 | 16 | 
 | 2023-04-12 | 88 | 16 | 
 | 2023-04-11 | 88 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 86 | 16 | 
 | 2023-03-19 | 86 | 16 | 
 | 2023-03-18 | 86 | 16 | 
-| 2023-03-17 | 86 | 16 | 
 

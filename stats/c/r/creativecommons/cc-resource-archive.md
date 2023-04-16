@@ -1,6 +1,6 @@
 # creativecommons/cc-resource-archive - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 34 | 94 | 
 | 2023-04-13 | 34 | 94 | 
 | 2023-04-12 | 34 | 94 | 
 | 2023-04-11 | 34 | 94 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 24 | 60 | 
 | 2023-03-18 | 23 | 59 | 
 | 2023-03-17 | 21 | 54 | 
-| 2023-03-16 | 20 | 54 | 
 

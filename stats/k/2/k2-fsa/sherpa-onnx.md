@@ -1,10 +1,10 @@
 # k2-fsa/sherpa-onnx - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 26
 
-★ Stars: 114
+★ Stars: 116
 
 [Open repository](https://github.com/k2-fsa/sherpa-onnx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 116 | 26 | 
 | 2023-04-14 | 114 | 26 | 
 | 2023-04-13 | 112 | 26 | 
 | 2023-04-12 | 111 | 26 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 62 | 17 | 
 | 2023-03-18 | 62 | 16 | 
 | 2023-03-17 | 61 | 16 | 
-| 2023-03-16 | 61 | 15 | 
 

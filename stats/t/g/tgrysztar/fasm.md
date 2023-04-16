@@ -1,6 +1,6 @@
 # tgrysztar/fasm - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 310 | 26 | 
 | 2023-04-13 | 310 | 26 | 
 | 2023-04-12 | 309 | 26 | 
 | 2023-04-11 | 309 | 26 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 305 | 24 | 
 | 2023-03-18 | 303 | 24 | 
 | 2023-03-17 | 302 | 24 | 
-| 2023-03-16 | 301 | 24 | 
 

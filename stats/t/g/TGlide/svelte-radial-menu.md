@@ -1,6 +1,6 @@
 # TGlide/svelte-radial-menu - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 104 | 1 | 
 | 2023-04-14 | 104 | 1 | 
 | 2023-04-12 | 104 | 1 | 
 | 2023-04-11 | 104 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 89 | 1 | 
 | 2023-03-19 | 90 | 1 | 
 | 2023-03-17 | 90 | 1 | 
-| 2023-03-16 | 90 | 1 | 
 

@@ -1,10 +1,10 @@
 # green-code-initiative/ecocode-mobile - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/green-code-initiative/ecocode-mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 50 | 15 | 
 | 2023-04-13 | 49 | 15 | 
 | 2023-04-12 | 49 | 15 | 
 | 2023-04-11 | 50 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 24 | 7 | 
 | 2023-03-18 | 23 | 7 | 
 | 2023-03-17 | 23 | 7 | 
-| 2023-03-16 | 23 | 7 | 
 

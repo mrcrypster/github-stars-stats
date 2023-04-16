@@ -1,10 +1,10 @@
 # genome-in-a-bottle/giab_data_indexes - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 70
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/genome-in-a-bottle/giab_data_indexes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 193 | 70 | 
 | 2023-04-13 | 192 | 70 | 
 | 2023-04-12 | 192 | 70 | 
 | 2023-04-11 | 192 | 70 | 

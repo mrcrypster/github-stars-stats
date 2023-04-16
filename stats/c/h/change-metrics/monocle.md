@@ -1,10 +1,10 @@
 # change-metrics/monocle - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 45
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/change-metrics/monocle)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 271 | 45 | 
 | 2023-04-14 | 270 | 45 | 
 | 2023-04-13 | 270 | 45 | 
 | 2023-04-12 | 269 | 45 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 263 | 42 | 
 | 2023-03-18 | 263 | 42 | 
 | 2023-03-17 | 263 | 42 | 
-| 2023-03-16 | 262 | 42 | 
 

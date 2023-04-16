@@ -1,6 +1,6 @@
 # pavels/spektrum - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 466 | 84 | 
 | 2023-04-13 | 466 | 84 | 
 | 2023-04-12 | 466 | 84 | 
 | 2023-04-11 | 466 | 84 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 461 | 83 | 
 | 2023-03-18 | 460 | 83 | 
 | 2023-03-17 | 460 | 83 | 
-| 2023-03-16 | 460 | 83 | 
 

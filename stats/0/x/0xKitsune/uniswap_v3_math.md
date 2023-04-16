@@ -1,10 +1,10 @@
 # 0xKitsune/uniswap_v3_math - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/0xKitsune/uniswap_v3_math)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 68 | 12 | 
 | 2023-04-13 | 67 | 12 | 
 | 2023-04-12 | 67 | 12 | 
 | 2023-04-11 | 67 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 64 | 11 | 
 | 2023-03-19 | 64 | 11 | 
 | 2023-03-18 | 63 | 11 | 
-| 2023-03-16 | 62 | 10 | 
 

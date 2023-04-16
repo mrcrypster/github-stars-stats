@@ -1,10 +1,10 @@
 # LiLittleCat/awesome-free-chatgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 111
+☋ Forks: 123
 
-★ Stars: 1420
+★ Stars: 1534
 
 [Open repository](https://github.com/LiLittleCat/awesome-free-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1534 | 123 | 
 | 2023-04-13 | 1420 | 111 | 
 | 2023-04-12 | 1322 | 101 | 
 | 2023-04-11 | 1226 | 95 | 

@@ -1,10 +1,10 @@
 # tvlad1234/pillScopePlus - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/tvlad1234/pillScopePlus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 61 | 4 | 
 | 2023-04-14 | 60 | 4 | 
 | 2023-04-13 | 60 | 4 | 
 | 2023-04-12 | 60 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 59 | 4 | 
 | 2023-03-19 | 58 | 4 | 
 | 2023-03-17 | 58 | 4 | 
-| 2023-03-16 | 58 | 4 | 
 

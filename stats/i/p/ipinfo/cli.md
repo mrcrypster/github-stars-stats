@@ -1,10 +1,10 @@
 # ipinfo/cli - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 112
 
-★ Stars: 1395
+★ Stars: 1396
 
 [Open repository](https://github.com/ipinfo/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1396 | 112 | 
 | 2023-04-14 | 1395 | 112 | 
 | 2023-04-13 | 1396 | 112 | 
 | 2023-04-12 | 1394 | 112 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1370 | 109 | 
 | 2023-03-19 | 1371 | 109 | 
 | 2023-03-18 | 1368 | 109 | 
-| 2023-03-16 | 1368 | 109 | 
 

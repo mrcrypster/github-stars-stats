@@ -1,10 +1,10 @@
 # Muennighoff/sgpt - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 30
 
-★ Stars: 391
+★ Stars: 398
 
 [Open repository](https://github.com/Muennighoff/sgpt)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 398 | 30 | 
+| 2023-04-15 | 398 | 30 | 
 | 2023-04-14 | 391 | 30 | 
 | 2023-04-13 | 385 | 30 | 
 | 2023-04-12 | 374 | 29 | 

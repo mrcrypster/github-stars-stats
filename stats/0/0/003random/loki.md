@@ -1,6 +1,6 @@
 # 003random/loki - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 51 | 11 | 
 | 2023-04-14 | 51 | 11 | 
 | 2023-04-13 | 51 | 11 | 
 | 2023-04-12 | 51 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 50 | 11 | 
 | 2023-03-19 | 50 | 11 | 
 | 2023-03-18 | 50 | 11 | 
-| 2023-03-17 | 50 | 11 | 
 

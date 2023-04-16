@@ -1,10 +1,10 @@
 # Matthew-J-Spencer/pushing-unity - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 14
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/Matthew-J-Spencer/pushing-unity)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 79 | 14 | 
 | 2023-04-13 | 78 | 14 | 
 | 2023-04-12 | 75 | 14 | 
 | 2023-04-11 | 75 | 14 | 

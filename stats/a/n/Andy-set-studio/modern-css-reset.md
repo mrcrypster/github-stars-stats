@@ -1,10 +1,10 @@
 # Andy-set-studio/modern-css-reset - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 465
 
-★ Stars: 2835
+★ Stars: 2839
 
 [Open repository](https://github.com/Andy-set-studio/modern-css-reset)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2839 | 465 | 
 | 2023-04-13 | 2835 | 465 | 
 | 2023-04-12 | 2835 | 465 | 
 | 2023-04-11 | 2830 | 464 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 2801 | 463 | 
 | 2023-03-19 | 2798 | 462 | 
 | 2023-03-18 | 2797 | 462 | 
-| 2023-03-17 | 2795 | 462 | 
 

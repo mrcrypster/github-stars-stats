@@ -1,10 +1,10 @@
 # neroist/webui - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/neroist/webui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 44 | 1 | 
 | 2023-04-13 | 43 | 1 | 
 | 2023-04-12 | 43 | 1 | 
 | 2023-04-11 | 42 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 29 | - | 
 | 2023-03-18 | 29 | - | 
 | 2023-03-17 | 28 | - | 
-| 2023-03-16 | 27 | - | 
 

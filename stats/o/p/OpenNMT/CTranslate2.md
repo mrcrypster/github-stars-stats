@@ -1,10 +1,10 @@
 # OpenNMT/CTranslate2 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 96
 
-★ Stars: 710
+★ Stars: 715
 
 [Open repository](https://github.com/OpenNMT/CTranslate2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 715 | 96 | 
 | 2023-04-14 | 710 | 96 | 
 | 2023-04-13 | 706 | 95 | 
 | 2023-04-12 | 701 | 94 | 

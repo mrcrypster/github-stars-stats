@@ -1,10 +1,10 @@
 # FlowiseAI/Flowise - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 693
+★ Stars: 730
 
 [Open repository](https://github.com/FlowiseAI/Flowise)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 730 | 45 | 
 | 2023-04-14 | 693 | 44 | 
 

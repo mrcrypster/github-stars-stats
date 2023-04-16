@@ -1,10 +1,10 @@
 # nasa/ogma - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 19
 
-★ Stars: 268
+★ Stars: 267
 
 [Open repository](https://github.com/nasa/ogma)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 267 | 19 | 
 | 2023-04-14 | 268 | 19 | 
 | 2023-04-13 | 268 | 19 | 
 | 2023-04-11 | 268 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 261 | 18 | 
 | 2023-03-18 | 260 | 18 | 
 | 2023-03-17 | 258 | 18 | 
-| 2023-03-16 | 251 | 18 | 
 

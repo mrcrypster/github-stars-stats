@@ -1,6 +1,6 @@
 # zaproxy/zaproxy - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2053
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 10728 | 2053 | 
 | 2023-04-14 | 10728 | 2053 | 
 | 2023-04-13 | 10722 | 2050 | 
 | 2023-04-12 | 10717 | 2050 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 10617 | 2038 | 
 | 2023-03-19 | 10614 | 2038 | 
 | 2023-03-17 | 10609 | 2037 | 
-| 2023-03-16 | 10606 | 2035 | 
 

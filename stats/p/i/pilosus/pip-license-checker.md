@@ -1,6 +1,6 @@
 # pilosus/pip-license-checker - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 62 | 2 | 
 | 2023-04-13 | 62 | 2 | 
 | 2023-04-12 | 62 | 2 | 
 | 2023-04-11 | 62 | 2 | 

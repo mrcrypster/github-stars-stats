@@ -1,10 +1,10 @@
 # sqlchat/sqlchat - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 100
+☋ Forks: 107
 
-★ Stars: 1328
+★ Stars: 1362
 
 [Open repository](https://github.com/sqlchat/sqlchat)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1362 | 107 | 
 | 2023-04-13 | 1328 | 100 | 
 | 2023-04-12 | 1262 | 93 | 
 | 2023-04-11 | 1212 | 84 | 

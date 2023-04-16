@@ -1,6 +1,6 @@
 # levinyi/R_stuff - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | 40 | 
 | 2023-04-13 | 4 | 40 | 
 | 2023-04-12 | 4 | 39 | 
 | 2023-04-11 | 4 | 39 | 

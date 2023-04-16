@@ -1,6 +1,6 @@
 # wurli/ggborderline - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 22 | - | 
 | 2023-04-13 | 22 | - | 
 | 2023-04-12 | 22 | - | 
 | 2023-04-11 | 22 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 22 | - | 
 | 2023-03-19 | 22 | - | 
 | 2023-03-18 | 22 | - | 
-| 2023-03-16 | 22 | - | 
 

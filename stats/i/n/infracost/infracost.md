@@ -1,10 +1,10 @@
 # infracost/infracost - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 449
 
-★ Stars: 8899
+★ Stars: 8902
 
 [Open repository](https://github.com/infracost/infracost)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 8902 | 449 | 
 | 2023-04-14 | 8899 | 449 | 
 | 2023-04-13 | 8895 | 448 | 
 | 2023-04-12 | 8885 | 448 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 8791 | 441 | 
 | 2023-03-19 | 8788 | 440 | 
 | 2023-03-18 | 8787 | 440 | 
-| 2023-03-16 | 8779 | 441 | 
 

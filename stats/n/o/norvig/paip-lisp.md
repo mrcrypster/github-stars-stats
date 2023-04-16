@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 681
 
-★ Stars: 6703
+★ Stars: 6704
 
 [Open repository](https://github.com/norvig/paip-lisp)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 6703 | 681 | 
+| 2023-04-15 | 6704 | 681 | 
 | 2023-04-13 | 6701 | 681 | 
 | 2023-04-12 | 6700 | 681 | 
 | 2023-04-11 | 6697 | 681 | 

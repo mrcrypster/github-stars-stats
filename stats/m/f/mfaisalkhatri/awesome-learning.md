@@ -1,10 +1,10 @@
 # mfaisalkhatri/awesome-learning - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 55
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/mfaisalkhatri/awesome-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 332 | 55 | 
 | 2023-04-13 | 331 | 55 | 
 | 2023-04-12 | 330 | 55 | 
 | 2023-04-11 | 328 | 55 | 

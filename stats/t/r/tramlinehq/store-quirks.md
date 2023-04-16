@@ -1,10 +1,10 @@
 # tramlinehq/store-quirks - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/tramlinehq/store-quirks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 188 | 4 | 
 | 2023-04-14 | 187 | 4 | 
 | 2023-04-13 | 186 | 4 | 
 | 2023-04-12 | 185 | 4 | 

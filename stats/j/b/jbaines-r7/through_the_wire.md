@@ -1,10 +1,10 @@
 # jbaines-r7/through_the_wire - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 43
 
-★ Stars: 150
+★ Stars: 149
 
 [Open repository](https://github.com/jbaines-r7/through_the_wire)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 149 | 43 | 
 | 2023-04-14 | 150 | 43 | 
 | 2023-04-12 | 149 | 43 | 
 | 2023-04-11 | 149 | 43 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 148 | 43 | 
 | 2023-03-19 | 148 | 43 | 
 | 2023-03-18 | 148 | 43 | 
-| 2023-03-16 | 148 | 43 | 
 

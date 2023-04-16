@@ -1,6 +1,6 @@
 # tailscale/libtailscale - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 81 | 5 | 
 | 2023-04-13 | 81 | 5 | 
 | 2023-04-12 | 80 | 5 | 
 | 2023-04-11 | 80 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 74 | 5 | 
 | 2023-03-19 | 73 | 4 | 
 | 2023-03-18 | 71 | 4 | 
-| 2023-03-16 | 70 | 4 | 
 

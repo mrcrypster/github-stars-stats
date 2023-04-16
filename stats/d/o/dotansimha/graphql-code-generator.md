@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 1211
 
-★ Stars: 9904
+★ Stars: 9906
 
 [Open repository](https://github.com/dotansimha/graphql-code-generator)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 9904 | 1211 | 
+| 2023-04-15 | 9906 | 1211 | 
 | 2023-04-14 | 9903 | 1211 | 
 | 2023-04-13 | 9895 | 1210 | 
 | 2023-04-12 | 9891 | 1209 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 9847 | 1204 | 
 | 2023-03-19 | 9841 | 1205 | 
 | 2023-03-18 | 9837 | 1206 | 
-| 2023-03-16 | 9833 | 1204 | 
 

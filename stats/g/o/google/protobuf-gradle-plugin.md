@@ -1,6 +1,6 @@
 # google/protobuf-gradle-plugin - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1578 | 265 | 
 | 2023-04-14 | 1578 | 265 | 
 | 2023-04-13 | 1578 | 265 | 
 | 2023-04-12 | 1578 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 1561 | 262 | 
 | 2023-03-18 | 1561 | 262 | 
 | 2023-03-17 | 1559 | 262 | 
-| 2023-03-16 | 1558 | 262 | 
 

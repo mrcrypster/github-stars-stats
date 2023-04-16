@@ -1,10 +1,10 @@
 # leonoel/cloroutine - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
-★ Stars: 201
+★ Stars: 203
 
 [Open repository](https://github.com/leonoel/cloroutine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 203 | 9 | 
 | 2023-04-13 | 201 | 9 | 
 | 2023-04-12 | 201 | 9 | 
 | 2023-04-11 | 201 | 9 | 

@@ -1,10 +1,10 @@
 # e-m-b-a/emba - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 161
 
-★ Stars: 1767
+★ Stars: 1769
 
 [Open repository](https://github.com/e-m-b-a/emba)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1769 | 161 | 
 | 2023-04-14 | 1767 | 161 | 
 | 2023-04-13 | 1766 | 161 | 
 | 2023-04-11 | 1765 | 160 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1739 | 155 | 
 | 2023-03-19 | 1739 | 155 | 
 | 2023-03-18 | 1738 | 155 | 
-| 2023-03-16 | 1738 | 155 | 
 

@@ -1,10 +1,10 @@
 # milisims/nvim-luaref - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 114
+★ Stars: 113
 
 [Open repository](https://github.com/milisims/nvim-luaref)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 113 | 3 | 
 | 2023-04-14 | 114 | 3 | 
 | 2023-04-13 | 114 | 3 | 
 | 2023-04-12 | 114 | 3 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 113 | 3 | 
 | 2023-03-19 | 113 | 3 | 
 | 2023-03-17 | 113 | 3 | 
-| 2023-03-16 | 113 | 3 | 
 

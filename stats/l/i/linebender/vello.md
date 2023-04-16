@@ -1,10 +1,10 @@
 # linebender/vello - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 57
 
-★ Stars: 1234
+★ Stars: 1238
 
 [Open repository](https://github.com/linebender/vello)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1238 | 57 | 
 | 2023-04-14 | 1234 | 57 | 
 | 2023-04-12 | 1230 | 57 | 
 | 2023-04-11 | 1228 | 56 | 

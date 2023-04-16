@@ -1,10 +1,10 @@
 # twitter/algebird - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 343
 
-★ Stars: 2223
+★ Stars: 2225
 
 [Open repository](https://github.com/twitter/algebird)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2225 | 343 | 
 | 2023-04-13 | 2223 | 343 | 
 | 2023-04-12 | 2222 | 343 | 
 | 2023-04-11 | 2219 | 343 | 

@@ -1,8 +1,8 @@
 # finepointcgi/Godot-Open-AI-GPT-Integration - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 27 | 7 | 
 | 2023-04-13 | 27 | 6 | 
 | 2023-04-12 | 27 | 6 | 
 | 2023-04-11 | 27 | 6 | 

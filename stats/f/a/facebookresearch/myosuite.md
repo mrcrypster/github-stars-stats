@@ -1,6 +1,6 @@
 # facebookresearch/myosuite - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 572 | 46 | 
 | 2023-04-14 | 572 | 46 | 
 | 2023-04-13 | 571 | 47 | 
 | 2023-04-11 | 569 | 47 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 565 | 46 | 
 | 2023-03-18 | 564 | 46 | 
 | 2023-03-17 | 564 | 46 | 
-| 2023-03-16 | 563 | 45 | 
 

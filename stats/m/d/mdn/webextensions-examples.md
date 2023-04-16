@@ -1,10 +1,10 @@
 # mdn/webextensions-examples - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2589
+☋ Forks: 2592
 
-★ Stars: 3604
+★ Stars: 3605
 
 [Open repository](https://github.com/mdn/webextensions-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3605 | 2592 | 
 | 2023-04-14 | 3604 | 2589 | 
 | 2023-04-13 | 3603 | 2589 | 
 | 2023-04-12 | 3600 | 2587 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 3561 | 2575 | 
 | 2023-03-19 | 3559 | 2574 | 
 | 2023-03-18 | 3557 | 2574 | 
-| 2023-03-16 | 3554 | 2572 | 
 

@@ -1,6 +1,6 @@
 # zeropanel/zeropanel - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 17 | 9 | 
 | 2023-04-13 | 17 | 9 | 
 | 2023-04-12 | 17 | 9 | 
 | 2023-04-11 | 16 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 7 | 8 | 
 | 2023-03-19 | 7 | 8 | 
 | 2023-03-17 | 7 | 8 | 
-| 2023-03-16 | 7 | 8 | 
 

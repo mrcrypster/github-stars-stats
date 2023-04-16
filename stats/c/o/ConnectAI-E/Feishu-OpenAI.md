@@ -1,10 +1,10 @@
 # ConnectAI-E/Feishu-OpenAI - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 565
+☋ Forks: 573
 
-★ Stars: 3528
+★ Stars: 3630
 
 [Open repository](https://github.com/ConnectAI-E/Feishu-OpenAI)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3630 | 573 | 
 | 2023-04-14 | 3528 | 565 | 
 

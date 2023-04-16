@@ -1,6 +1,6 @@
 # wilkerlucio/pathom3 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 316 | 25 | 
 | 2023-04-13 | 316 | 25 | 
 | 2023-04-12 | 315 | 25 | 
 | 2023-04-11 | 315 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 311 | 23 | 
 | 2023-03-18 | 311 | 23 | 
 | 2023-03-17 | 311 | 23 | 
-| 2023-03-16 | 311 | 23 | 
 

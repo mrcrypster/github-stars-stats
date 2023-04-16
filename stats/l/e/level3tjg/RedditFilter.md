@@ -1,6 +1,6 @@
 # level3tjg/RedditFilter - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 22 | 7 | 
 | 2023-04-13 | 22 | 7 | 
 | 2023-04-12 | 22 | 7 | 
 | 2023-04-11 | 22 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 20 | 7 | 
 | 2023-03-19 | 20 | 7 | 
 | 2023-03-17 | 20 | 7 | 
-| 2023-03-16 | 20 | 7 | 
 

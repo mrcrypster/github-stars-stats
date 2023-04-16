@@ -1,6 +1,6 @@
 # Bimbam360/Curve_Terrain - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 54 | 4 | 
 | 2023-04-14 | 54 | 4 | 
 | 2023-04-13 | 54 | 4 | 
 | 2023-04-11 | 54 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 53 | 3 | 
 | 2023-03-19 | 53 | 3 | 
 | 2023-03-18 | 52 | 3 | 
-| 2023-03-16 | 52 | 3 | 
 

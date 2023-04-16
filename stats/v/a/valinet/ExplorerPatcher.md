@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 639
+☋ Forks: 640
 
-★ Stars: 12985
+★ Stars: 12997
 
 [Open repository](https://github.com/valinet/ExplorerPatcher)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 12985 | 639 | 
+| 2023-04-15 | 12997 | 640 | 
 | 2023-04-14 | 12982 | 639 | 
 | 2023-04-13 | 12959 | 639 | 
 | 2023-04-12 | 12930 | 661 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-19 | 12480 | 644 | 
 | 2023-03-18 | 12432 | 639 | 
 | 2023-03-17 | 12425 | 638 | 
-| 2023-03-16 | 12392 | 639 | 
 

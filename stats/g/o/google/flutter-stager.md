@@ -1,10 +1,10 @@
 # google/flutter-stager - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 63
+★ Stars: 120
 
 [Open repository](https://github.com/google/flutter-stager)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 120 | 3 | 
 | 2023-04-14 | 63 | 3 | 
 

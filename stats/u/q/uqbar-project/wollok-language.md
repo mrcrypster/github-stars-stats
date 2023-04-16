@@ -1,6 +1,6 @@
 # uqbar-project/wollok-language - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5 | 6 | 
 | 2023-04-13 | 5 | 6 | 
 | 2023-04-12 | 5 | 6 | 
 | 2023-04-11 | 5 | 6 | 

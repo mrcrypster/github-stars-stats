@@ -1,10 +1,10 @@
 # otavioschwanck/tmux-awesome-manager.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/otavioschwanck/tmux-awesome-manager.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 47 | - | 
 | 2023-04-14 | 46 | - | 
 | 2023-04-13 | 46 | - | 
 | 2023-04-12 | 46 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 45 | - | 
 | 2023-03-18 | 44 | - | 
 | 2023-03-17 | 44 | - | 
-| 2023-03-16 | 44 | - | 
 

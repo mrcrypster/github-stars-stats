@@ -1,10 +1,10 @@
 # ironmansoftware/psedit - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/ironmansoftware/psedit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 222 | 15 | 
 | 2023-04-14 | 221 | 15 | 
 | 2023-04-13 | 221 | 15 | 
 | 2023-04-12 | 221 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 219 | 13 | 
 | 2023-03-19 | 218 | 12 | 
 | 2023-03-18 | 218 | 12 | 
-| 2023-03-16 | 218 | 12 | 
 

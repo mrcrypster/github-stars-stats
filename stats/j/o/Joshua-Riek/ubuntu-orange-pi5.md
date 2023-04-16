@@ -1,10 +1,10 @@
 # Joshua-Riek/ubuntu-orange-pi5 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 153
+★ Stars: 157
 
 [Open repository](https://github.com/Joshua-Riek/ubuntu-orange-pi5)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 157 | 12 | 
 | 2023-04-14 | 153 | 11 | 
 | 2023-04-13 | 151 | 11 | 
 | 2023-04-12 | 151 | 11 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 97 | 8 | 
 | 2023-03-19 | 93 | 8 | 
 | 2023-03-17 | 90 | 8 | 
-| 2023-03-16 | 85 | 8 | 
 

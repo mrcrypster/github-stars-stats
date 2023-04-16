@@ -1,10 +1,10 @@
 # bufbuild/plugins - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/bufbuild/plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 24 | 5 | 
 | 2023-04-14 | 23 | 5 | 
 | 2023-04-13 | 23 | 5 | 
 | 2023-04-12 | 23 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 23 | 6 | 
 | 2023-03-19 | 23 | 6 | 
 | 2023-03-18 | 22 | 6 | 
-| 2023-03-16 | 21 | 6 | 
 

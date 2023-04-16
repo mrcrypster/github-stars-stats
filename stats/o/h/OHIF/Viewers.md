@@ -1,10 +1,10 @@
 # OHIF/Viewers - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 2357
+☋ Forks: 2362
 
-★ Stars: 2313
+★ Stars: 2315
 
 [Open repository](https://github.com/OHIF/Viewers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2315 | 2362 | 
 | 2023-04-13 | 2313 | 2357 | 
 | 2023-04-12 | 2313 | 2355 | 
 | 2023-04-11 | 2312 | 2353 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 2277 | 2298 | 
 | 2023-03-18 | 2274 | 2296 | 
 | 2023-03-17 | 2273 | 2291 | 
-| 2023-03-16 | 2269 | 2288 | 
 

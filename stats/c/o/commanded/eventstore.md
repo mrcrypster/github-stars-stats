@@ -1,10 +1,10 @@
 # commanded/eventstore - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 133
 
-★ Stars: 935
+★ Stars: 936
 
 [Open repository](https://github.com/commanded/eventstore)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 936 | 133 | 
 | 2023-04-13 | 935 | 133 | 
 | 2023-04-12 | 935 | 133 | 
 | 2023-04-11 | 935 | 133 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 935 | 132 | 
 | 2023-03-18 | 935 | 132 | 
 | 2023-03-17 | 935 | 132 | 
-| 2023-03-16 | 935 | 132 | 
 

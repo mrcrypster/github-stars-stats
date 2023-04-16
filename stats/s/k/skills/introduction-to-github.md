@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 905
+☋ Forks: 907
 
-★ Stars: 2380
+★ Stars: 2480
 
 [Open repository](https://github.com/skills/introduction-to-github)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 2380 | 905 | 
+| 2023-04-15 | 2480 | 907 | 
 | 2023-04-14 | 2319 | 903 | 
 | 2023-04-13 | 2239 | 897 | 
 | 2023-04-12 | 2217 | 889 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 2110 | 837 | 
 | 2023-03-19 | 2104 | 829 | 
 | 2023-03-18 | 2097 | 827 | 
-| 2023-03-16 | 2097 | 820 | 
 

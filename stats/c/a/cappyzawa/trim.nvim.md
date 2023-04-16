@@ -1,10 +1,10 @@
 # cappyzawa/trim.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/cappyzawa/trim.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 64 | 8 | 
 | 2023-04-14 | 63 | 8 | 
 | 2023-04-13 | 62 | 8 | 
 | 2023-04-12 | 62 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 61 | 8 | 
 | 2023-03-19 | 61 | 8 | 
 | 2023-03-18 | 60 | 8 | 
-| 2023-03-16 | 60 | 8 | 
 

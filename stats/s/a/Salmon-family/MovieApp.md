@@ -1,10 +1,10 @@
 # Salmon-family/MovieApp - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 23
 
-★ Stars: 57
+★ Stars: 56
 
 [Open repository](https://github.com/Salmon-family/MovieApp)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 56 | 23 | 
 | 2023-04-14 | 57 | 23 | 
 | 2023-04-13 | 55 | 23 | 
 | 2023-04-12 | 55 | 23 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 54 | 23 | 
 | 2023-03-19 | 53 | 23 | 
 | 2023-03-18 | 53 | 23 | 
-| 2023-03-16 | 52 | 23 | 
 

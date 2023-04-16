@@ -1,6 +1,6 @@
 # proofofsoulprotocol/smart-contract-wallet-4337 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 102 | 24 | 
 | 2023-04-13 | 102 | 24 | 
 | 2023-04-12 | 102 | 24 | 
 | 2023-04-11 | 102 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 95 | 21 | 
 | 2023-03-19 | 94 | 20 | 
 | 2023-03-17 | 94 | 19 | 
-| 2023-03-16 | 91 | 18 | 
 

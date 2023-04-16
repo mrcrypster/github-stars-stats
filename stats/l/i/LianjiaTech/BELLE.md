@@ -1,10 +1,10 @@
 # LianjiaTech/BELLE - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 344
+☋ Forks: 348
 
-★ Stars: 3940
+★ Stars: 3992
 
 [Open repository](https://github.com/LianjiaTech/BELLE)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3992 | 348 | 
 | 2023-04-14 | 3940 | 344 | 
 | 2023-04-13 | 3903 | 337 | 
 | 2023-04-12 | 3833 | 331 | 

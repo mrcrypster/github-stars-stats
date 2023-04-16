@@ -1,10 +1,10 @@
 # sahadev/vue-component-creater-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 154
+☋ Forks: 155
 
-★ Stars: 508
+★ Stars: 511
 
 [Open repository](https://github.com/sahadev/vue-component-creater-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 511 | 155 | 
 | 2023-04-14 | 508 | 154 | 
 | 2023-04-13 | 507 | 154 | 
 | 2023-04-12 | 507 | 154 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 494 | 147 | 
 | 2023-03-19 | 493 | 147 | 
 | 2023-03-17 | 492 | 147 | 
-| 2023-03-16 | 489 | 147 | 
 

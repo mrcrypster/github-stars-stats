@@ -1,6 +1,6 @@
 # loxilb-io/loxilb - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 589 | 32 | 
 | 2023-04-14 | 589 | 32 | 
 | 2023-04-13 | 584 | 32 | 
 | 2023-04-12 | 574 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 556 | 30 | 
 | 2023-03-19 | 551 | 30 | 
 | 2023-03-18 | 548 | 30 | 
-| 2023-03-16 | 542 | 30 | 
 

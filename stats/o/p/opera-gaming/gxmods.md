@@ -1,8 +1,8 @@
 # opera-gaming/gxmods - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1006
+☋ Forks: 1012
 
 ★ Stars: 423
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 423 | 1012 | 
 | 2023-04-14 | 423 | 1006 | 
 | 2023-04-13 | 420 | 992 | 
 | 2023-04-12 | 415 | 959 | 

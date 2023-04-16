@@ -1,6 +1,6 @@
 # weirdNox/org-noter - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 969 | 91 | 
 | 2023-04-14 | 969 | 91 | 
 | 2023-04-12 | 969 | 91 | 
 | 2023-04-11 | 968 | 91 | 

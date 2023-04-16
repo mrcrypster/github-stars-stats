@@ -1,10 +1,10 @@
 # fengyuhetao/shell - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1500
 
-★ Stars: 3366
+★ Stars: 3368
 
 [Open repository](https://github.com/fengyuhetao/shell)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3368 | 1500 | 
 | 2023-04-14 | 3366 | 1500 | 
 

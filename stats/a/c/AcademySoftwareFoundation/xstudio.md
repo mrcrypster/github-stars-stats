@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/xstudio - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 411 | 65 | 
 | 2023-04-14 | 411 | 65 | 
 | 2023-04-13 | 411 | 65 | 
 | 2023-04-12 | 410 | 65 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 404 | 63 | 
 | 2023-03-19 | 403 | 63 | 
 | 2023-03-18 | 403 | 63 | 
-| 2023-03-16 | 403 | 63 | 
 

@@ -1,6 +1,6 @@
 # ZJU-Turing/TuringCourses - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 91 | 15 | 
 | 2023-04-14 | 91 | 15 | 
 | 2023-04-13 | 91 | 15 | 
 | 2023-04-12 | 91 | 15 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 90 | 14 | 
 | 2023-03-18 | 90 | 14 | 
 | 2023-03-17 | 90 | 14 | 
-| 2023-03-16 | 88 | 14 | 
 

@@ -1,10 +1,10 @@
 # GouvernementFR/dsfr - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 31
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/GouvernementFR/dsfr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 141 | 31 | 
 | 2023-04-14 | 140 | 31 | 
 | 2023-04-13 | 140 | 31 | 
 | 2023-04-12 | 140 | 31 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 129 | 29 | 
 | 2023-03-19 | 129 | 29 | 
 | 2023-03-18 | 128 | 29 | 
-| 2023-03-16 | 128 | 29 | 
 

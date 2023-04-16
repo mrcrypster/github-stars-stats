@@ -1,10 +1,10 @@
 # C0Assassin/RB4-to-RB2 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/C0Assassin/RB4-to-RB2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 9 | 1 | 
 | 2023-04-14 | 8 | - | 
 | 2023-04-13 | 8 | - | 
 | 2023-04-12 | 8 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 3 | - | 
 | 2023-03-19 | 32 | 11 | 
 | 2023-03-17 | 32 | 11 | 
-| 2023-03-16 | 32 | 11 | 
 

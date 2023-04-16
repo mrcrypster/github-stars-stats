@@ -1,6 +1,6 @@
 # purescript/purescript-unfoldable - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 15 | 23 | 
+| 2023-04-15 | 15 | 23 | 
 | 2023-04-14 | 15 | 23 | 
 | 2023-04-13 | 15 | 23 | 
 | 2023-04-12 | 15 | 23 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 15 | 22 | 
 | 2023-03-18 | 15 | 22 | 
 | 2023-03-17 | 15 | 22 | 
-| 2023-03-16 | 15 | 22 | 
 

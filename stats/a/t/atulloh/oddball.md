@@ -1,10 +1,10 @@
 # atulloh/oddball - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 29
 
-★ Stars: 397
+★ Stars: 398
 
 [Open repository](https://github.com/atulloh/oddball)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 398 | 29 | 
 | 2023-04-14 | 397 | 29 | 
 | 2023-04-12 | 397 | 29 | 
 | 2023-04-11 | 397 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 393 | 29 | 
 | 2023-03-18 | 392 | 29 | 
 | 2023-03-17 | 390 | 29 | 
-| 2023-03-16 | 390 | 29 | 
 

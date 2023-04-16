@@ -1,6 +1,6 @@
 # Artraxon/tihibot - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 51 | 13 | 
 | 2023-04-14 | 51 | 13 | 
 | 2023-04-13 | 51 | 13 | 
 | 2023-04-12 | 51 | 13 | 

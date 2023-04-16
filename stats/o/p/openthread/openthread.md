@@ -1,6 +1,6 @@
 # openthread/openthread - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1013
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3147 | 1013 | 
 | 2023-04-14 | 3147 | 1013 | 
 | 2023-04-13 | 3146 | 1012 | 
 | 2023-04-12 | 3143 | 1012 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 3120 | 1001 | 
 | 2023-03-19 | 3117 | 1001 | 
 | 2023-03-17 | 3117 | 1001 | 
-| 2023-03-16 | 3116 | 1000 | 
 

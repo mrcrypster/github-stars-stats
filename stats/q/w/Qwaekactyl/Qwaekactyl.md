@@ -1,10 +1,10 @@
 # Qwaekactyl/Qwaekactyl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/Qwaekactyl/Qwaekactyl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 54 | 22 | 
 | 2023-04-14 | 53 | 20 | 
 | 2023-04-13 | 53 | 20 | 
 | 2023-04-12 | 52 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 42 | 15 | 
 | 2023-03-19 | 41 | 15 | 
 | 2023-03-18 | 41 | 15 | 
-| 2023-03-17 | 41 | 15 | 
 

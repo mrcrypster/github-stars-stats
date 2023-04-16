@@ -1,10 +1,10 @@
 # DaZiYuan/livewallpaper - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 102
 
-★ Stars: 631
+★ Stars: 633
 
 [Open repository](https://github.com/DaZiYuan/livewallpaper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 633 | 102 | 
 | 2023-04-13 | 631 | 102 | 
 | 2023-04-12 | 630 | 102 | 
 | 2023-04-11 | 629 | 102 | 

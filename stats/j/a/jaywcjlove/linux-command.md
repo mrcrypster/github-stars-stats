@@ -1,10 +1,10 @@
 # jaywcjlove/linux-command - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 4986
+☋ Forks: 4987
 
-★ Stars: 23577
+★ Stars: 23582
 
 [Open repository](https://github.com/jaywcjlove/linux-command)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 23582 | 4987 | 
+| 2023-04-15 | 23582 | 4987 | 
 | 2023-04-14 | 23577 | 4986 | 
 | 2023-04-13 | 23574 | 4985 | 
 | 2023-04-12 | 23564 | 4986 | 
@@ -41,5 +43,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 23325 | 4943 | 
 | 2023-03-18 | 23319 | 4941 | 
 | 2023-03-17 | 23310 | 4941 | 
-| 2023-03-16 | 23302 | 4942 | 
 

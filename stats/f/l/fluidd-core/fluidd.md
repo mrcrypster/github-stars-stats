@@ -1,6 +1,6 @@
 # fluidd-core/fluidd - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 295
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 938 | 295 | 
 | 2023-04-14 | 938 | 295 | 
 | 2023-04-13 | 936 | 293 | 
 | 2023-04-12 | 936 | 293 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 924 | 289 | 
 | 2023-03-19 | 921 | 289 | 
 | 2023-03-18 | 921 | 289 | 
-| 2023-03-17 | 919 | 289 | 
 

@@ -1,6 +1,6 @@
 # Charca/astro-view-transitions - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 64 | 3 | 
 | 2023-04-14 | 64 | 3 | 
 | 2023-04-13 | 64 | 3 | 
 | 2023-04-12 | 64 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 63 | 3 | 
 | 2023-03-18 | 63 | 3 | 
 | 2023-03-17 | 63 | 3 | 
-| 2023-03-16 | 63 | 3 | 
 

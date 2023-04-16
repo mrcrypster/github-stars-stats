@@ -1,10 +1,10 @@
 # gopl-zh/gopl-zh.github.com - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 937
+☋ Forks: 939
 
-★ Stars: 3759
+★ Stars: 3761
 
 [Open repository](https://github.com/gopl-zh/gopl-zh.github.com)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3761 | 939 | 
 | 2023-04-14 | 3759 | 937 | 
 | 2023-04-13 | 3757 | 937 | 
 | 2023-04-12 | 3756 | 937 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 3717 | 927 | 
 | 2023-03-18 | 3714 | 926 | 
 | 2023-03-17 | 3713 | 925 | 
-| 2023-03-16 | 3713 | 924 | 
 

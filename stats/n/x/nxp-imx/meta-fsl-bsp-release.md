@@ -1,10 +1,10 @@
 # nxp-imx/meta-fsl-bsp-release - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/nxp-imx/meta-fsl-bsp-release)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1 | 1 | 
 | 2023-04-14 | - | 1 | 
 | 2023-04-13 | - | 1 | 
 | 2023-04-12 | - | 1 | 

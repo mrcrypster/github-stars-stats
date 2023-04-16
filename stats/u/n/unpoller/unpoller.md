@@ -1,10 +1,10 @@
 # unpoller/unpoller - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 135
+☋ Forks: 134
 
-★ Stars: 1663
+★ Stars: 1666
 
 [Open repository](https://github.com/unpoller/unpoller)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1666 | 134 | 
 | 2023-04-13 | 1663 | 135 | 
 | 2023-04-12 | 1659 | 135 | 
 | 2023-04-11 | 1658 | 135 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1642 | 135 | 
 | 2023-03-19 | 1640 | 135 | 
 | 2023-03-18 | 1637 | 136 | 
-| 2023-03-16 | 1637 | 136 | 
 

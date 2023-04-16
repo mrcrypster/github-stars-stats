@@ -1,6 +1,6 @@
 # ozbillwang/terraform-best-practices - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 330
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1577 | 330 | 
 | 2023-04-14 | 1577 | 330 | 
 | 2023-04-13 | 1575 | 330 | 
 | 2023-04-12 | 1575 | 330 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1568 | 326 | 
 | 2023-03-19 | 1565 | 326 | 
 | 2023-03-18 | 1564 | 326 | 
-| 2023-03-17 | 1563 | 326 | 
 

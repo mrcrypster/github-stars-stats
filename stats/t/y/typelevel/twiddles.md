@@ -1,10 +1,10 @@
 # typelevel/twiddles - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/typelevel/twiddles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 39 | - | 
 | 2023-04-14 | 37 | - | 
 | 2023-04-13 | 33 | - | 
 | 2023-04-12 | 33 | - | 

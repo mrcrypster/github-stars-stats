@@ -1,8 +1,8 @@
 # unoplatform/Uno.Samples - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 128
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 128 | 72 | 
 | 2023-04-14 | 128 | 71 | 
 | 2023-04-13 | 128 | 71 | 
 | 2023-04-11 | 128 | 71 | 

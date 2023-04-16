@@ -1,10 +1,10 @@
 # shinyquagsire23/wii_u_modchip - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 51
+★ Stars: 53
 
 [Open repository](https://github.com/shinyquagsire23/wii_u_modchip)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 53 | 2 | 
 | 2023-04-14 | 51 | 2 | 
 | 2023-04-13 | 49 | 2 | 
 | 2023-04-12 | 45 | 1 | 

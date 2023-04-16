@@ -1,8 +1,8 @@
 # coding-boot-camp/prework-about-me - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 15786
+☋ Forks: 15785
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 61 | 15785 | 
 | 2023-04-14 | 61 | 15786 | 
 | 2023-04-13 | 61 | 15786 | 
 | 2023-04-12 | 61 | 15786 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 62 | 15799 | 
 | 2023-03-18 | 62 | 15799 | 
 | 2023-03-17 | 62 | 15801 | 
-| 2023-03-16 | 62 | 15801 | 
 

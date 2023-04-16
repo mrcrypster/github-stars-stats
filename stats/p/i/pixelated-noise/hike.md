@@ -1,10 +1,10 @@
 # pixelated-noise/hike - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/pixelated-noise/hike)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 33 | - | 
 | 2023-04-13 | 32 | - | 
 | 2023-04-12 | 31 | - | 
 | 2023-04-11 | 31 | - | 

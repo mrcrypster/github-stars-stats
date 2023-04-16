@@ -1,10 +1,10 @@
 # LemmyNet/lemmy - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 461
+☋ Forks: 462
 
-★ Stars: 7469
+★ Stars: 7470
 
 [Open repository](https://github.com/LemmyNet/lemmy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 7470 | 462 | 
 | 2023-04-14 | 7469 | 461 | 
 | 2023-04-12 | 7468 | 460 | 
 | 2023-04-11 | 7464 | 459 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 7397 | 448 | 
 | 2023-03-18 | 7398 | 448 | 
 | 2023-03-17 | 7393 | 450 | 
-| 2023-03-16 | 7389 | 450 | 
 

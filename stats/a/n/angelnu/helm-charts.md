@@ -1,6 +1,6 @@
 # angelnu/helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2 | 4 | 
 | 2023-04-13 | 2 | 4 | 
 | 2023-04-12 | 2 | 4 | 
 | 2023-04-11 | 2 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 1 | 4 | 
 | 2023-03-19 | 1 | 4 | 
 | 2023-03-17 | 1 | 4 | 
-| 2023-03-16 | 1 | 4 | 
 

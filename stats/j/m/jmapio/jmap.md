@@ -1,10 +1,10 @@
 # jmapio/jmap - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 76
 
-★ Stars: 1087
+★ Stars: 1089
 
 [Open repository](https://github.com/jmapio/jmap)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1089 | 76 | 
 | 2023-04-14 | 1087 | 76 | 
 | 2023-04-13 | 1086 | 76 | 
 | 2023-04-11 | 1086 | 76 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1086 | 78 | 
 | 2023-03-19 | 1086 | 78 | 
 | 2023-03-17 | 1086 | 78 | 
-| 2023-03-16 | 1086 | 78 | 
 

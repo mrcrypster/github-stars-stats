@@ -1,6 +1,6 @@
 # Charca/view-transitions-live - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 125 | 9 | 
 | 2023-04-13 | 125 | 9 | 
 | 2023-04-12 | 125 | 9 | 
 | 2023-04-11 | 125 | 9 | 

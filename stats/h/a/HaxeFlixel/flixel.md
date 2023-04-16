@@ -1,6 +1,6 @@
 # HaxeFlixel/flixel - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 389
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1749 | 389 | 
 | 2023-04-14 | 1749 | 389 | 
 | 2023-04-13 | 1747 | 389 | 
 | 2023-04-12 | 1747 | 388 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1733 | 384 | 
 | 2023-03-19 | 1732 | 384 | 
 | 2023-03-18 | 1732 | 385 | 
-| 2023-03-17 | 1732 | 385 | 
 

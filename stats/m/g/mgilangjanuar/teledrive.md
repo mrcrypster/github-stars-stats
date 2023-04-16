@@ -1,10 +1,10 @@
 # mgilangjanuar/teledrive - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 735
+☋ Forks: 737
 
-★ Stars: 1521
+★ Stars: 1524
 
 [Open repository](https://github.com/mgilangjanuar/teledrive)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1524 | 737 | 
 | 2023-04-14 | 1521 | 735 | 
 | 2023-04-13 | 1521 | 735 | 
 | 2023-04-12 | 1520 | 735 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1493 | 716 | 
 | 2023-03-19 | 1487 | 716 | 
 | 2023-03-18 | 1486 | 714 | 
-| 2023-03-16 | 1485 | 714 | 
 

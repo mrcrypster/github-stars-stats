@@ -1,6 +1,6 @@
 # carbon-design-system/carbon - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1558
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6500 | 1558 | 
 | 2023-04-14 | 6500 | 1558 | 
 | 2023-04-13 | 6499 | 1558 | 
 | 2023-04-12 | 6491 | 1557 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 6417 | 1547 | 
 | 2023-03-18 | 6415 | 1548 | 
 | 2023-03-17 | 6412 | 1547 | 
-| 2023-03-16 | 6409 | 1544 | 
 

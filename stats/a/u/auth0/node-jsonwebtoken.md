@@ -1,10 +1,10 @@
 # auth0/node-jsonwebtoken - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1206
 
-★ Stars: 16438
+★ Stars: 16441
 
 [Open repository](https://github.com/auth0/node-jsonwebtoken)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 16441 | 1206 | 
 | 2023-04-14 | 16438 | 1206 | 
 | 2023-04-13 | 16434 | 1206 | 
 | 2023-04-12 | 16429 | 1205 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 16347 | 1203 | 
 | 2023-03-19 | 16342 | 1203 | 
 | 2023-03-18 | 16339 | 1202 | 
-| 2023-03-16 | 16334 | 1201 | 
 

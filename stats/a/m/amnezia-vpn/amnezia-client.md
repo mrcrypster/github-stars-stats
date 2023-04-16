@@ -1,10 +1,10 @@
 # amnezia-vpn/amnezia-client - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 108
 
-★ Stars: 875
+★ Stars: 880
 
 [Open repository](https://github.com/amnezia-vpn/amnezia-client)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 880 | 108 | 
 | 2023-04-14 | 875 | 108 | 
 | 2023-04-13 | 873 | 108 | 
 | 2023-04-12 | 871 | 108 | 

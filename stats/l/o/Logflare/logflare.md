@@ -1,10 +1,10 @@
 # Logflare/logflare - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 26
 
-★ Stars: 586
+★ Stars: 588
 
 [Open repository](https://github.com/Logflare/logflare)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 588 | 26 | 
 | 2023-04-14 | 586 | 26 | 
 | 2023-04-13 | 585 | 26 | 
 | 2023-04-12 | 581 | 26 | 

@@ -1,6 +1,6 @@
 # ocaml-multicore/lockfree - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 83 | 19 | 
 | 2023-04-13 | 83 | 19 | 
 | 2023-04-12 | 83 | 19 | 
 | 2023-04-11 | 82 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 76 | 18 | 
 | 2023-03-18 | 76 | 18 | 
 | 2023-03-17 | 76 | 18 | 
-| 2023-03-16 | 76 | 18 | 
 

@@ -1,10 +1,10 @@
 # vonsylvia/MATLAB_Algorithm_with_cases - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 208
+★ Stars: 210
 
 [Open repository](https://github.com/vonsylvia/MATLAB_Algorithm_with_cases)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 210 | 55 | 
 | 2023-04-14 | 208 | 54 | 
 | 2023-04-13 | 206 | 54 | 
 | 2023-04-12 | 205 | 54 | 

@@ -1,10 +1,10 @@
 # aschmelyun/subvert - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 453
+★ Stars: 458
 
 [Open repository](https://github.com/aschmelyun/subvert)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 458 | 27 | 
 | 2023-04-13 | 453 | 27 | 
 | 2023-04-12 | 452 | 27 | 
 | 2023-04-11 | 450 | 26 | 

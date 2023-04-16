@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 914
+★ Stars: 922
 
 [Open repository](https://github.com/imaurer/awesome-decentralized-llm)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 914 | 27 | 
+| 2023-04-15 | 922 | 27 | 
 | 2023-04-14 | 907 | 27 | 
 | 2023-04-13 | 844 | 23 | 
 

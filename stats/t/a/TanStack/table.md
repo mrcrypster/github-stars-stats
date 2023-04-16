@@ -1,10 +1,10 @@
 # TanStack/table - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 2777
+☋ Forks: 2778
 
-★ Stars: 21214
+★ Stars: 21228
 
 [Open repository](https://github.com/TanStack/table)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21228 | 2778 | 
 | 2023-04-14 | 21214 | 2777 | 
 | 2023-04-13 | 21206 | 2776 | 
 | 2023-04-12 | 21201 | 2775 | 

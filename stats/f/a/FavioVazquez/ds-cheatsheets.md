@@ -1,6 +1,6 @@
 # FavioVazquez/ds-cheatsheets - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3432
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 12092 | 3432 | 
 | 2023-04-14 | 12092 | 3432 | 
 | 2023-04-13 | 12089 | 3432 | 
 | 2023-04-12 | 12087 | 3433 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 12021 | 3415 | 
 | 2023-03-19 | 12018 | 3415 | 
 | 2023-03-18 | 12014 | 3415 | 
-| 2023-03-16 | 12011 | 3414 | 
 

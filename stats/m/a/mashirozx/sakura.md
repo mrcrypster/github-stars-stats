@@ -1,6 +1,6 @@
 # mashirozx/sakura - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 568
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3006 | 568 | 
 | 2023-04-14 | 3006 | 568 | 
 | 2023-04-13 | 3006 | 569 | 
 | 2023-04-12 | 3004 | 569 | 

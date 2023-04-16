@@ -1,10 +1,10 @@
 # usualtool/framework - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 39
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/usualtool/framework)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 288 | 39 | 
 | 2023-04-13 | 287 | 39 | 
 | 2023-04-12 | 287 | 39 | 
 | 2023-04-11 | 286 | 39 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 275 | 38 | 
 | 2023-03-19 | 274 | 38 | 
 | 2023-03-18 | 273 | 38 | 
-| 2023-03-17 | 272 | 38 | 
 

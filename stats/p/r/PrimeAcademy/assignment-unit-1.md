@@ -1,6 +1,6 @@
 # PrimeAcademy/assignment-unit-1 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 332
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1 | 332 | 
 | 2023-04-14 | 1 | 332 | 
 | 2023-04-13 | 1 | 332 | 
 | 2023-04-12 | 1 | 332 | 

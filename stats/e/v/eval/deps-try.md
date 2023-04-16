@@ -1,6 +1,6 @@
 # eval/deps-try - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 77 | 1 | 
 | 2023-04-14 | 77 | 1 | 
 | 2023-04-13 | 77 | 1 | 
 | 2023-04-12 | 77 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 20 | 1 | 
 | 2023-03-19 | 20 | 1 | 
 | 2023-03-18 | 20 | 1 | 
-| 2023-03-16 | 20 | 1 | 
 

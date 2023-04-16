@@ -1,10 +1,10 @@
 # ChristianChiarulli/lvim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 195
+★ Stars: 194
 
 [Open repository](https://github.com/ChristianChiarulli/lvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 194 | 74 | 
 | 2023-04-14 | 195 | 73 | 
 | 2023-04-13 | 195 | 73 | 
 | 2023-04-12 | 195 | 72 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 186 | 69 | 
 | 2023-03-19 | 186 | 69 | 
 | 2023-03-17 | 186 | 69 | 
-| 2023-03-16 | 186 | 69 | 
 

@@ -1,10 +1,10 @@
 # sophiamyang/tutorials-LangChain - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 32
+☋ Forks: 34
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/sophiamyang/tutorials-LangChain)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 59 | 34 | 
 | 2023-04-13 | 58 | 32 | 
 | 2023-04-12 | 58 | 31 | 
 | 2023-04-11 | 55 | 30 | 

@@ -1,6 +1,6 @@
 # yihui/tinytex - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 848 | 104 | 
 | 2023-04-14 | 848 | 104 | 
 | 2023-04-13 | 846 | 104 | 
 | 2023-04-12 | 845 | 104 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 839 | 105 | 
 | 2023-03-18 | 839 | 105 | 
 | 2023-03-17 | 839 | 105 | 
-| 2023-03-16 | 837 | 105 | 
 

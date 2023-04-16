@@ -1,10 +1,10 @@
 # nezhar/wordpress-docker-compose - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1079
 
-★ Stars: 1552
+★ Stars: 1553
 
 [Open repository](https://github.com/nezhar/wordpress-docker-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1553 | 1079 | 
 | 2023-04-14 | 1552 | 1079 | 
 | 2023-04-13 | 1551 | 1079 | 
 | 2023-04-12 | 1549 | 1079 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1533 | 1068 | 
 | 2023-03-19 | 1532 | 1068 | 
 | 2023-03-17 | 1532 | 1068 | 
-| 2023-03-16 | 1532 | 1069 | 
 

@@ -1,6 +1,6 @@
 # QuiltMC/quiltmc.org - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 45 | 27 | 
 | 2023-04-14 | 45 | 27 | 
 | 2023-04-12 | 44 | 26 | 
 | 2023-04-11 | 44 | 26 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 45 | 25 | 
 | 2023-03-18 | 45 | 25 | 
 | 2023-03-17 | 45 | 25 | 
-| 2023-03-16 | 45 | 25 | 
 

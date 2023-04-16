@@ -1,10 +1,10 @@
 # YosysHQ/yosys - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 766
 
-★ Stars: 2607
+★ Stars: 2609
 
 [Open repository](https://github.com/YosysHQ/yosys)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2609 | 766 | 
 | 2023-04-14 | 2607 | 766 | 
 | 2023-04-13 | 2607 | 766 | 
 | 2023-04-12 | 2607 | 765 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 2560 | 760 | 
 | 2023-03-18 | 2559 | 760 | 
 | 2023-03-17 | 2559 | 760 | 
-| 2023-03-16 | 2559 | 760 | 
 

@@ -1,6 +1,6 @@
 # imandra-ai/imandra-stdlib - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5 | - | 
 | 2023-04-14 | 5 | - | 
 | 2023-04-13 | 5 | - | 
 | 2023-04-12 | 5 | - | 

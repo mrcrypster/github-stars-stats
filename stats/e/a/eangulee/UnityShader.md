@@ -1,10 +1,10 @@
 # eangulee/UnityShader - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/eangulee/UnityShader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 34 | 7 | 
 | 2023-04-14 | 33 | 7 | 
 | 2023-04-12 | 33 | 7 | 
 | 2023-04-11 | 33 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 33 | 7 | 
 | 2023-03-18 | 33 | 7 | 
 | 2023-03-17 | 33 | 7 | 
-| 2023-03-16 | 33 | 7 | 
 

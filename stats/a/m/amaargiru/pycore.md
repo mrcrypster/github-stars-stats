@@ -1,10 +1,10 @@
 # amaargiru/pycore - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 70
+★ Stars: 74
 
 [Open repository](https://github.com/amaargiru/pycore)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 74 | 19 | 
 | 2023-04-14 | 70 | 18 | 
 

@@ -1,6 +1,6 @@
 # dectalk/dectalk - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 119 | 14 | 
 | 2023-04-14 | 119 | 14 | 
 | 2023-04-13 | 119 | 14 | 
 | 2023-04-12 | 118 | 14 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 108 | 14 | 
 | 2023-03-19 | 107 | 14 | 
 | 2023-03-17 | 105 | 14 | 
-| 2023-03-16 | 105 | 14 | 
 

@@ -1,10 +1,10 @@
 # rust-unofficial/patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 302
 
-★ Stars: 6842
+★ Stars: 6854
 
 [Open repository](https://github.com/rust-unofficial/patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6854 | 302 | 
 | 2023-04-14 | 6842 | 302 | 
 | 2023-04-13 | 6842 | 302 | 
 | 2023-04-12 | 6842 | 303 | 

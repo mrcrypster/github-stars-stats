@@ -1,10 +1,10 @@
 # pmndrs/react-three-next - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 177
 
-★ Stars: 1383
+★ Stars: 1384
 
 [Open repository](https://github.com/pmndrs/react-three-next)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1384 | 177 | 
 | 2023-04-14 | 1383 | 177 | 
 

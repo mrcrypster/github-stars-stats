@@ -1,6 +1,6 @@
 # alvan/vim-closetag - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 696 | 50 | 
 | 2023-04-14 | 696 | 50 | 
 | 2023-04-13 | 696 | 50 | 
 | 2023-04-12 | 695 | 50 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 693 | 49 | 
 | 2023-03-19 | 693 | 49 | 
 | 2023-03-18 | 693 | 49 | 
-| 2023-03-16 | 693 | 49 | 
 

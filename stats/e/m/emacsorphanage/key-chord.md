@@ -1,10 +1,10 @@
 # emacsorphanage/key-chord - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 20
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/emacsorphanage/key-chord)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 83 | 20 | 
 | 2023-04-14 | 82 | 20 | 
 | 2023-04-12 | 82 | 20 | 
 | 2023-04-11 | 82 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 80 | 19 | 
 | 2023-03-19 | 80 | 19 | 
 | 2023-03-18 | 80 | 19 | 
-| 2023-03-16 | 79 | 19 | 
 

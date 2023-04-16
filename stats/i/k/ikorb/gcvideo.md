@@ -1,6 +1,6 @@
 # ikorb/gcvideo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 561 | 76 | 
 | 2023-04-14 | 561 | 76 | 
 | 2023-04-13 | 560 | 76 | 
 | 2023-04-12 | 558 | 76 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 552 | 76 | 
 | 2023-03-18 | 551 | 76 | 
 | 2023-03-17 | 550 | 76 | 
-| 2023-03-16 | 549 | 76 | 
 

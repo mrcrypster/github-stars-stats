@@ -1,10 +1,10 @@
 # iamshaunjp/Complete-React-Tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 1426
+☋ Forks: 1425
 
-★ Stars: 1317
+★ Stars: 1319
 
 [Open repository](https://github.com/iamshaunjp/Complete-React-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1319 | 1425 | 
 | 2023-04-13 | 1317 | 1426 | 
 | 2023-04-12 | 1314 | 1425 | 
 | 2023-04-11 | 1314 | 1422 | 

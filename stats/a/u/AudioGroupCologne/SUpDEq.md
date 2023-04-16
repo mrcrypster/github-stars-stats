@@ -1,6 +1,6 @@
 # AudioGroupCologne/SUpDEq - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 18 | 4 | 
 | 2023-04-14 | 18 | 4 | 
 | 2023-04-13 | 18 | 4 | 
 | 2023-04-12 | 18 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 15 | 4 | 
 | 2023-03-19 | 14 | 3 | 
 | 2023-03-18 | 14 | 3 | 
-| 2023-03-16 | 14 | 3 | 
 

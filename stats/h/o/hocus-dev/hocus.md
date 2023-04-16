@@ -1,10 +1,10 @@
 # hocus-dev/hocus - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 2154
+★ Stars: 2199
 
 [Open repository](https://github.com/hocus-dev/hocus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2199 | 33 | 
 | 2023-04-13 | 2154 | 32 | 
 | 2023-04-12 | 2104 | 31 | 
 | 2023-04-11 | 2028 | 27 | 

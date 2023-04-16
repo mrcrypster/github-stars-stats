@@ -1,10 +1,10 @@
 # IronWarrior/UnityGrassGeometryShader - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 110
 
-★ Stars: 723
+★ Stars: 725
 
 [Open repository](https://github.com/IronWarrior/UnityGrassGeometryShader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 725 | 110 | 
 | 2023-04-13 | 723 | 110 | 
 | 2023-04-12 | 723 | 110 | 
 | 2023-04-11 | 722 | 110 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 706 | 109 | 
 | 2023-03-18 | 706 | 109 | 
 | 2023-03-17 | 706 | 109 | 
-| 2023-03-16 | 706 | 109 | 
 

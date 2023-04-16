@@ -1,10 +1,10 @@
 # e2b-dev/e2b - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 133
+☋ Forks: 137
 
-★ Stars: 3316
+★ Stars: 3377
 
 [Open repository](https://github.com/e2b-dev/e2b)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3377 | 137 | 
 | 2023-04-14 | 3316 | 133 | 
 | 2023-04-13 | 3222 | 132 | 
 | 2023-04-12 | 3102 | 123 | 

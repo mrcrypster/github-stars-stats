@@ -1,8 +1,8 @@
 # kevinhwang91/nvim-bqf - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 1093
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 1093 | 15 | 
 | 2023-04-14 | 1093 | 14 | 
 | 2023-04-13 | 1093 | 14 | 
 | 2023-04-12 | 1090 | 14 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1060 | 14 | 
 | 2023-03-19 | 1060 | 14 | 
 | 2023-03-18 | 1061 | 14 | 
-| 2023-03-17 | 1059 | 14 | 
 

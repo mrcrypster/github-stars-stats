@@ -1,6 +1,6 @@
 # one-among-us/tg-blog - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 41 | 2 | 
 | 2023-04-13 | 41 | 2 | 
 | 2023-04-12 | 41 | 2 | 
 | 2023-04-11 | 41 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 40 | 2 | 
 | 2023-03-19 | 40 | 2 | 
 | 2023-03-18 | 40 | 2 | 
-| 2023-03-16 | 40 | 2 | 
 

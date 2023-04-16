@@ -1,10 +1,10 @@
 # Baitinq/nixos-config - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Baitinq/nixos-config)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 50 | 1 | 
 | 2023-04-14 | 49 | 1 | 
 | 2023-04-13 | 49 | 1 | 
 | 2023-04-12 | 48 | 1 | 

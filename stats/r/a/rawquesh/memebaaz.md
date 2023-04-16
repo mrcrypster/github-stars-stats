@@ -1,6 +1,6 @@
 # rawquesh/memebaaz - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 19 | 10 | 
 | 2023-04-14 | 19 | 10 | 
 | 2023-04-13 | 19 | 10 | 
 | 2023-04-12 | 19 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 19 | 9 | 
 | 2023-03-19 | 19 | 9 | 
 | 2023-03-17 | 19 | 9 | 
-| 2023-03-16 | 19 | 9 | 
 

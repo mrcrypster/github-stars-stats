@@ -1,6 +1,6 @@
 # memoetapp/memoet - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 77 | 6 | 
 | 2023-04-13 | 77 | 6 | 
 | 2023-04-12 | 77 | 6 | 
 | 2023-04-11 | 77 | 6 | 

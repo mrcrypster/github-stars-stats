@@ -1,10 +1,10 @@
 # zhheo/HeoMusic - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 48
 
-★ Stars: 83
+★ Stars: 86
 
 [Open repository](https://github.com/zhheo/HeoMusic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 86 | 48 | 
 | 2023-04-13 | 83 | 48 | 
 | 2023-04-12 | 83 | 48 | 
 | 2023-04-11 | 83 | 49 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 65 | 37 | 
 | 2023-03-19 | 64 | 36 | 
 | 2023-03-18 | 64 | 36 | 
-| 2023-03-17 | 64 | 36 | 
 

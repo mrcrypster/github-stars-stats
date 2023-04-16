@@ -1,6 +1,6 @@
 # matcom/thesis - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 22 | 38 | 
 | 2023-04-14 | 22 | 38 | 
 | 2023-04-13 | 22 | 38 | 
 | 2023-04-12 | 22 | 38 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 22 | 38 | 
 | 2023-03-18 | 22 | 38 | 
 | 2023-03-17 | 22 | 38 | 
-| 2023-03-16 | 22 | 37 | 
 

@@ -1,10 +1,10 @@
 # apache/beam - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3897
 
-★ Stars: 6735
+★ Stars: 6736
 
 [Open repository](https://github.com/apache/beam)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 6736 | 3897 | 
 | 2023-04-14 | 6735 | 3897 | 
 | 2023-04-13 | 6728 | 3895 | 
 | 2023-04-12 | 6719 | 3892 | 

@@ -1,6 +1,6 @@
 # GSRHackZ/EdgyBot_Edgenuity_Bot - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 616 | 46 | 
 | 2023-04-13 | 616 | 46 | 
 | 2023-04-12 | 615 | 46 | 
 | 2023-04-11 | 612 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 584 | 39 | 
 | 2023-03-19 | 584 | 39 | 
 | 2023-03-18 | 584 | 39 | 
-| 2023-03-16 | 584 | 39 | 
 

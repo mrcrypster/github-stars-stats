@@ -1,10 +1,10 @@
 # Kento-Sec/chatGPT-CodeReview - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 36
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/Kento-Sec/chatGPT-CodeReview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 274 | 36 | 
 | 2023-04-13 | 273 | 36 | 
 | 2023-04-12 | 272 | 35 | 
 | 2023-04-11 | 272 | 35 | 

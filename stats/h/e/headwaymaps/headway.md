@@ -1,8 +1,8 @@
 # headwaymaps/headway - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 58
+☋ Forks: 59
 
 ★ Stars: 2375
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2375 | 59 | 
 | 2023-04-14 | 2375 | 58 | 
 | 2023-04-13 | 2374 | 58 | 
 | 2023-04-12 | 2373 | 58 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 2365 | 58 | 
 | 2023-03-19 | 2365 | 58 | 
 | 2023-03-17 | 2365 | 58 | 
-| 2023-03-16 | 2365 | 58 | 
 

@@ -1,10 +1,10 @@
 # mcaceresb/stata-honestdid - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/mcaceresb/stata-honestdid)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 38 | 10 | 
 | 2023-04-13 | 37 | 10 | 
 | 2023-04-12 | 37 | 10 | 
 | 2023-04-11 | 37 | 10 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 37 | 8 | 
 | 2023-03-18 | 37 | 8 | 
 | 2023-03-17 | 37 | 8 | 
-| 2023-03-16 | 37 | 8 | 
 

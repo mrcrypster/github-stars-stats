@@ -1,10 +1,10 @@
 # sylikc/jpegview - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 68
+☋ Forks: 70
 
-★ Stars: 959
+★ Stars: 967
 
 [Open repository](https://github.com/sylikc/jpegview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 967 | 70 | 
 | 2023-04-14 | 959 | 68 | 
 | 2023-04-12 | 957 | 68 | 
 | 2023-04-11 | 954 | 68 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 824 | 60 | 
 | 2023-03-18 | 808 | 58 | 
 | 2023-03-17 | 763 | 57 | 
-| 2023-03-16 | 721 | 55 | 
 

@@ -1,10 +1,10 @@
 # efectn/go-orm-benchmarks - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 17
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/efectn/go-orm-benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 213 | 17 | 
 | 2023-04-13 | 212 | 17 | 
 | 2023-04-12 | 212 | 17 | 
 | 2023-04-11 | 212 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-19 | 210 | 16 | 
 | 2023-03-18 | 208 | 16 | 
 | 2023-03-17 | 208 | 16 | 
-| 2023-03-16 | 208 | 16 | 
 

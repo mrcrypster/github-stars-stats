@@ -1,6 +1,6 @@
 # williamyang1991/StyleGANEX - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 184 | 12 | 
 | 2023-04-14 | 184 | 12 | 
 | 2023-04-12 | 182 | 12 | 
 | 2023-04-11 | 182 | 12 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 159 | 9 | 
 | 2023-03-18 | 156 | 9 | 
 | 2023-03-17 | 151 | 8 | 
-| 2023-03-16 | 133 | 8 | 
 

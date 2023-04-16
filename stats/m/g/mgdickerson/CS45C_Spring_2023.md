@@ -1,10 +1,10 @@
 # mgdickerson/CS45C_Spring_2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 1
+★ Stars: 3
 
 [Open repository](https://github.com/mgdickerson/CS45C_Spring_2023)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3 | 8 | 
 | 2023-04-14 | 1 | 8 | 
 | 2023-04-13 | 1 | 8 | 
 | 2023-04-12 | 1 | 7 | 

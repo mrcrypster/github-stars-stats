@@ -1,10 +1,10 @@
 # aler9/mediamtx - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 882
+☋ Forks: 884
 
-★ Stars: 5817
+★ Stars: 5833
 
 [Open repository](https://github.com/aler9/mediamtx)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 5833 | 884 | 
 | 2023-04-14 | 5817 | 882 | 
 

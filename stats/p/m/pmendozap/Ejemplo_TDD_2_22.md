@@ -1,6 +1,6 @@
 # pmendozap/Ejemplo_TDD_2_22 - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | - | 16 | 
 | 2023-04-13 | - | 16 | 
 | 2023-04-12 | - | 16 | 
 | 2023-04-11 | - | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | - | 13 | 
 | 2023-03-19 | - | 13 | 
 | 2023-03-17 | - | 13 | 
-| 2023-03-16 | - | 13 | 
 

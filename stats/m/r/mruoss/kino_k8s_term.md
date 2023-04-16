@@ -1,6 +1,6 @@
 # mruoss/kino_k8s_term - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 24 | - | 
 | 2023-04-13 | 24 | - | 
 | 2023-04-12 | 24 | - | 
 | 2023-04-11 | 24 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 22 | - | 
 | 2023-03-19 | 22 | - | 
 | 2023-03-17 | 22 | - | 
-| 2023-03-16 | 22 | - | 
 

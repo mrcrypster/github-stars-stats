@@ -1,10 +1,10 @@
 # Keldos-Li/typora-latex-theme - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 253
 
-★ Stars: 3517
+★ Stars: 3527
 
 [Open repository](https://github.com/Keldos-Li/typora-latex-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 3527 | 253 | 
 | 2023-04-14 | 3517 | 253 | 
 | 2023-04-13 | 3518 | 253 | 
 | 2023-04-12 | 3510 | 253 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 3415 | 251 | 
 | 2023-03-19 | 3412 | 249 | 
 | 2023-03-17 | 3410 | 249 | 
-| 2023-03-16 | 3407 | 249 | 
 

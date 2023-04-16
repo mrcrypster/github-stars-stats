@@ -1,6 +1,6 @@
 # benoitc/gunicorn - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 1640
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 8878 | 1640 | 
 | 2023-04-14 | 8878 | 1640 | 
 | 2023-04-12 | 8876 | 1640 | 
 | 2023-04-11 | 8872 | 1640 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 8826 | 1633 | 
 | 2023-03-19 | 8824 | 1633 | 
 | 2023-03-18 | 8823 | 1632 | 
-| 2023-03-16 | 8822 | 1631 | 
 

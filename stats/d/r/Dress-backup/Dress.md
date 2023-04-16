@@ -1,6 +1,6 @@
 # Dress-backup/Dress - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 49 | 16 | 
 | 2023-04-14 | 49 | 16 | 
 | 2023-04-13 | 49 | 16 | 
 | 2023-04-12 | 49 | 16 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 41 | 13 | 
 | 2023-03-19 | 40 | 13 | 
 | 2023-03-17 | 39 | 13 | 
-| 2023-03-16 | 39 | 13 | 
 

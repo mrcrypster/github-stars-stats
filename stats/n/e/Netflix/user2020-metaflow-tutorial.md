@@ -1,6 +1,6 @@
 # Netflix/user2020-metaflow-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 23 | 6 | 
 | 2023-04-14 | 23 | 6 | 
 | 2023-04-13 | 23 | 6 | 
 | 2023-04-12 | 23 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 20 | 6 | 
 | 2023-03-19 | 20 | 6 | 
 | 2023-03-17 | 20 | 6 | 
-| 2023-03-16 | 20 | 6 | 
 

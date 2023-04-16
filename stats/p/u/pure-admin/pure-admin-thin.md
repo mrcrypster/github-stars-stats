@@ -1,10 +1,10 @@
 # pure-admin/pure-admin-thin - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 547
+☋ Forks: 548
 
-★ Stars: 663
+★ Stars: 664
 
 [Open repository](https://github.com/pure-admin/pure-admin-thin)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 664 | 548 | 
 | 2023-04-14 | 663 | 547 | 
 | 2023-04-13 | 659 | 545 | 
 | 2023-04-12 | 654 | 544 | 

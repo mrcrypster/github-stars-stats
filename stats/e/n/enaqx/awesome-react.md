@@ -1,10 +1,10 @@
 # enaqx/awesome-react - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 6677
+☋ Forks: 6681
 
-★ Stars: 54707
+★ Stars: 54728
 
 [Open repository](https://github.com/enaqx/awesome-react)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 54728 | 6681 | 
 | 2023-04-14 | 54707 | 6677 | 
 | 2023-04-13 | 54699 | 6676 | 
 | 2023-04-12 | 54695 | 6673 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 54397 | 6632 | 
 | 2023-03-19 | 54385 | 6629 | 
 | 2023-03-18 | 54374 | 6627 | 
-| 2023-03-16 | 54366 | 6627 | 
 

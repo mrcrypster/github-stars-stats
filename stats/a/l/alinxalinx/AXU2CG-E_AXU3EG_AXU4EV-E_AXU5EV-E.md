@@ -1,6 +1,6 @@
 # alinxalinx/AXU2CG-E_AXU3EG_AXU4EV-E_AXU5EV-E - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | - | 8 | 
 | 2023-04-14 | - | 8 | 
 | 2023-04-13 | - | 7 | 
 | 2023-04-12 | - | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | - | 5 | 
 | 2023-03-19 | - | 5 | 
 | 2023-03-18 | - | 5 | 
-| 2023-03-17 | - | 5 | 
 

@@ -1,10 +1,10 @@
 # devrel-kr/openai-connector - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/devrel-kr/openai-connector)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 11 | 18 | 
 | 2023-04-14 | 10 | 17 | 
 | 2023-04-13 | 10 | 17 | 
 | 2023-04-12 | 10 | 17 | 

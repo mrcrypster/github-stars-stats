@@ -1,10 +1,10 @@
 # LC1332/Luotuo-Chinese-LLM - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
-☋ Forks: 155
+☋ Forks: 157
 
-★ Stars: 2106
+★ Stars: 2126
 
 [Open repository](https://github.com/LC1332/Luotuo-Chinese-LLM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2126 | 157 | 
 | 2023-04-14 | 2106 | 155 | 
 | 2023-04-13 | 2081 | 154 | 
 | 2023-04-12 | 2034 | 149 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 15
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 959
+★ Stars: 1013
 
 [Open repository](https://github.com/ohmplatform/FreedomGPT)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-15 | 959 | 96 | 
+| 2023-04-15 | 1013 | 97 | 
 | 2023-04-14 | 932 | 95 | 
 | 2023-04-13 | 767 | 79 | 
 | 2023-04-12 | 479 | 52 | 

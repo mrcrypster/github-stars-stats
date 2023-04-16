@@ -1,10 +1,10 @@
 # msgpack/msgpack-c - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 830
 
-★ Stars: 2635
+★ Stars: 2636
 
 [Open repository](https://github.com/msgpack/msgpack-c)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 2636 | 830 | 
 | 2023-04-14 | 2635 | 830 | 
 | 2023-04-12 | 2637 | 830 | 
 | 2023-04-11 | 2635 | 830 | 

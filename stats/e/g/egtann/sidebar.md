@@ -1,6 +1,6 @@
 # egtann/sidebar - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 4 | - | 
 | 2023-04-13 | 4 | - | 
 | 2023-04-12 | 4 | - | 
 | 2023-04-11 | 4 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 4 | - | 
 | 2023-03-19 | 4 | - | 
 | 2023-03-18 | 4 | - | 
-| 2023-03-17 | 4 | - | 
 

@@ -1,10 +1,10 @@
 # google/flatbuffers - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 3059
 
-★ Stars: 20178
+★ Stars: 20193
 
 [Open repository](https://github.com/google/flatbuffers)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 20193 | 3059 | 
 | 2023-04-14 | 20178 | 3059 | 
 | 2023-04-12 | 20175 | 3058 | 
 | 2023-04-11 | 20176 | 3055 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 20065 | 3037 | 
 | 2023-03-18 | 20059 | 3037 | 
 | 2023-03-17 | 20053 | 3037 | 
-| 2023-03-16 | 20053 | 3037 | 
 

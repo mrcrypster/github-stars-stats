@@ -1,10 +1,10 @@
 # liusj5257/azurlane_anti_name - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 52
 
-★ Stars: 185
+★ Stars: 187
 
 [Open repository](https://github.com/liusj5257/azurlane_anti_name)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 187 | 52 | 
 | 2023-04-14 | 185 | 52 | 
 | 2023-04-13 | 184 | 51 | 
 | 2023-04-12 | 182 | 51 | 

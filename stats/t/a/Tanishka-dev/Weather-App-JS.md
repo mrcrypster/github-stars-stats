@@ -1,10 +1,10 @@
 # Tanishka-dev/Weather-App-JS - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 50
+★ Stars: 53
 
 [Open repository](https://github.com/Tanishka-dev/Weather-App-JS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 53 | 8 | 
 | 2023-04-13 | 50 | 8 | 
 | 2023-04-12 | 46 | 7 | 
 | 2023-04-11 | 46 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-20 | 44 | 7 | 
 | 2023-03-19 | 44 | 7 | 
 | 2023-03-18 | 44 | 7 | 
-| 2023-03-16 | 44 | 7 | 
 

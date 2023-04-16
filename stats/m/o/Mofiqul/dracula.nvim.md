@@ -1,10 +1,10 @@
 # Mofiqul/dracula.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 13
+Stats updated on Apr 2023, 15
 
-☋ Forks: 72
+☋ Forks: 71
 
-★ Stars: 410
+★ Stars: 412
 
 [Open repository](https://github.com/Mofiqul/dracula.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 412 | 71 | 
 | 2023-04-13 | 410 | 72 | 
 | 2023-04-12 | 409 | 72 | 
 | 2023-04-11 | 409 | 72 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 13
 | 2023-03-21 | 396 | 66 | 
 | 2023-03-19 | 396 | 66 | 
 | 2023-03-18 | 396 | 66 | 
-| 2023-03-16 | 396 | 66 | 
 

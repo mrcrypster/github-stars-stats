@@ -1,6 +1,6 @@
 # Blantados/BETADCIU-Source-Code - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 29 | 53 | 
 | 2023-04-14 | 29 | 53 | 
 | 2023-04-13 | 29 | 53 | 
 | 2023-04-12 | 29 | 53 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 29 | 53 | 
 | 2023-03-19 | 29 | 53 | 
 | 2023-03-18 | 29 | 52 | 
-| 2023-03-16 | 29 | 52 | 
 

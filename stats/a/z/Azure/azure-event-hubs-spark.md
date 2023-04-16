@@ -1,6 +1,6 @@
 # Azure/azure-event-hubs-spark - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 15
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-15 | 224 | 169 | 
 | 2023-04-14 | 224 | 169 | 
 | 2023-04-13 | 224 | 169 | 
 | 2023-04-12 | 225 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-19 | 225 | 167 | 
 | 2023-03-18 | 225 | 167 | 
 | 2023-03-17 | 225 | 167 | 
-| 2023-03-16 | 224 | 167 | 
 
