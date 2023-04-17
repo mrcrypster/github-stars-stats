@@ -1,10 +1,10 @@
 # sysown/proxysql - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 885
+☋ Forks: 887
 
-★ Stars: 5335
+★ Stars: 5341
 
 [Open repository](https://github.com/sysown/proxysql)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5341 | 887 | 
 | 2023-04-14 | 5335 | 885 | 
 | 2023-04-13 | 5334 | 885 | 
 | 2023-04-12 | 5333 | 885 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 5309 | 886 | 
 | 2023-03-19 | 5304 | 885 | 
 | 2023-03-18 | 5304 | 885 | 
-| 2023-03-17 | 5299 | 884 | 
 

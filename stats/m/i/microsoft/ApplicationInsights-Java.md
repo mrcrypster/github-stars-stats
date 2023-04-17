@@ -1,10 +1,10 @@
 # microsoft/ApplicationInsights-Java - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 184
 
-★ Stars: 253
+★ Stars: 255
 
 [Open repository](https://github.com/microsoft/ApplicationInsights-Java)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 255 | 184 | 
 | 2023-04-15 | 253 | 184 | 
 | 2023-04-13 | 253 | 184 | 
 | 2023-04-12 | 254 | 183 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 253 | 182 | 
 | 2023-03-19 | 252 | 182 | 
 | 2023-03-18 | 252 | 182 | 
-| 2023-03-17 | 252 | 182 | 
 

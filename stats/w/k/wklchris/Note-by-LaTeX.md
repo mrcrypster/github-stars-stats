@@ -1,10 +1,10 @@
 # wklchris/Note-by-LaTeX - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 190
 
-★ Stars: 1266
+★ Stars: 1265
 
 [Open repository](https://github.com/wklchris/Note-by-LaTeX)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1265 | 190 | 
 | 2023-04-14 | 1266 | 190 | 
 | 2023-04-13 | 1265 | 190 | 
 | 2023-04-12 | 1265 | 190 | 

@@ -1,6 +1,6 @@
 # bcgov/cas-ciip-portal - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 12 | 2 | 
 | 2023-04-14 | 12 | 2 | 
 | 2023-04-13 | 12 | 2 | 
 | 2023-04-12 | 12 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 12 | 2 | 
 | 2023-03-20 | 12 | 2 | 
 | 2023-03-18 | 12 | 2 | 
-| 2023-03-17 | 12 | 2 | 
 

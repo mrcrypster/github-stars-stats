@@ -1,10 +1,10 @@
 # kelyvin/jsonresume-theme-caffeine - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 78
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/kelyvin/jsonresume-theme-caffeine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 88 | 78 | 
 | 2023-04-14 | 87 | 78 | 
 | 2023-04-13 | 87 | 78 | 
 | 2023-04-12 | 87 | 78 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 85 | 77 | 
 | 2023-03-19 | 85 | 77 | 
 | 2023-03-18 | 85 | 76 | 
-| 2023-03-17 | 85 | 76 | 
 

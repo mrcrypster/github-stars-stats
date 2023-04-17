@@ -1,10 +1,10 @@
 # gt732/FortiGPT - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 11
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/gt732/FortiGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 63 | 11 | 
 | 2023-04-15 | 62 | 11 | 
 | 2023-04-13 | 61 | 11 | 
 | 2023-04-12 | 60 | 11 | 

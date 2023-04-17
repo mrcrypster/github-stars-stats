@@ -1,10 +1,10 @@
 # MakiNaruto/Automatic_ticket_purchase - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 143
+☋ Forks: 144
 
-★ Stars: 464
+★ Stars: 467
 
 [Open repository](https://github.com/MakiNaruto/Automatic_ticket_purchase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 467 | 144 | 
 | 2023-04-14 | 464 | 143 | 
 | 2023-04-13 | 460 | 142 | 
 | 2023-04-12 | 456 | 142 | 

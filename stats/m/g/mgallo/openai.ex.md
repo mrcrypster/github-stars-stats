@@ -1,10 +1,10 @@
 # mgallo/openai.ex - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 26
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/mgallo/openai.ex)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 123 | 26 | 
 | 2023-04-14 | 122 | 26 | 
 | 2023-04-13 | 119 | 25 | 
 | 2023-04-12 | 117 | 24 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 81 | 15 | 
 | 2023-03-19 | 76 | 16 | 
 | 2023-03-18 | 75 | 16 | 
-| 2023-03-17 | 75 | 16 | 
 

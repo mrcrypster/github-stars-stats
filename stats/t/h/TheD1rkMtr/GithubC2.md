@@ -1,6 +1,6 @@
 # TheD1rkMtr/GithubC2 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 103 | 21 | 
 | 2023-04-14 | 103 | 21 | 
 | 2023-04-13 | 103 | 21 | 
 | 2023-04-12 | 103 | 21 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 98 | 19 | 
 | 2023-03-20 | 98 | 19 | 
 | 2023-03-19 | 98 | 19 | 
-| 2023-03-18 | 98 | 19 | 
 

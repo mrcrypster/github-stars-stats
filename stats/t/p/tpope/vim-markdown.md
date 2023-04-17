@@ -1,10 +1,10 @@
 # tpope/vim-markdown - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 193
 
-★ Stars: 1187
+★ Stars: 1188
 
 [Open repository](https://github.com/tpope/vim-markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1188 | 193 | 
 | 2023-04-14 | 1187 | 193 | 
 | 2023-04-13 | 1187 | 193 | 
 | 2023-04-12 | 1187 | 193 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1182 | 194 | 
 | 2023-03-20 | 1182 | 194 | 
 | 2023-03-19 | 1182 | 194 | 
-| 2023-03-17 | 1182 | 194 | 
 

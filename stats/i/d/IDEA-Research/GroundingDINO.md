@@ -1,10 +1,10 @@
 # IDEA-Research/GroundingDINO - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 74
+☋ Forks: 81
 
-★ Stars: 1007
+★ Stars: 1060
 
 [Open repository](https://github.com/IDEA-Research/GroundingDINO)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1060 | 81 | 
 | 2023-04-14 | 1007 | 74 | 
 | 2023-04-13 | 978 | 70 | 
 | 2023-04-12 | 866 | 65 | 

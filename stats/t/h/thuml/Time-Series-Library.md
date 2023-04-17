@@ -1,10 +1,10 @@
 # thuml/Time-Series-Library - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 140
+☋ Forks: 146
 
-★ Stars: 662
+★ Stars: 682
 
 [Open repository](https://github.com/thuml/Time-Series-Library)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 682 | 146 | 
 | 2023-04-15 | 662 | 140 | 
 | 2023-04-14 | 660 | 138 | 
 | 2023-04-13 | 654 | 133 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 476 | 97 | 
 | 2023-03-19 | 470 | 95 | 
 | 2023-03-18 | 463 | 93 | 
-| 2023-03-17 | 438 | 90 | 
 

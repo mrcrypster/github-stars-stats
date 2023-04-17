@@ -1,10 +1,10 @@
 # mulingyuer/Typecho_Theme_JJ - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 176
+★ Stars: 185
 
 [Open repository](https://github.com/mulingyuer/Typecho_Theme_JJ)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 185 | 39 | 
 | 2023-04-15 | 176 | 38 | 
 | 2023-04-14 | 155 | 36 | 
 

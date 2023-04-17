@@ -1,6 +1,6 @@
 # mgdickerson/CS45C_Spring_2023 - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3 | 8 | 
 | 2023-04-15 | 3 | 8 | 
 | 2023-04-14 | 1 | 8 | 
 | 2023-04-13 | 1 | 8 | 

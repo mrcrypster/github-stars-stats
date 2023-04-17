@@ -1,6 +1,6 @@
 # Mteheran/api-colombia - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 115 | 13 | 
 | 2023-04-14 | 115 | 13 | 
 | 2023-04-13 | 114 | 13 | 
 | 2023-04-12 | 114 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 108 | 13 | 
 | 2023-03-20 | 107 | 13 | 
 | 2023-03-18 | 105 | 13 | 
-| 2023-03-17 | 103 | 13 | 
 

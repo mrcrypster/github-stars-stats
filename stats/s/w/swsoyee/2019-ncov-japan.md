@@ -1,6 +1,6 @@
 # swsoyee/2019-ncov-japan - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 390 | 86 | 
 | 2023-04-15 | 390 | 86 | 
 | 2023-04-13 | 390 | 86 | 
 | 2023-04-12 | 390 | 86 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 387 | 83 | 
 | 2023-03-19 | 387 | 83 | 
 | 2023-03-18 | 387 | 83 | 
-| 2023-03-17 | 387 | 83 | 
 

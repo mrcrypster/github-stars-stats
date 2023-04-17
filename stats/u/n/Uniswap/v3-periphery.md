@@ -1,10 +1,10 @@
 # Uniswap/v3-periphery - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 818
 
-★ Stars: 933
+★ Stars: 934
 
 [Open repository](https://github.com/Uniswap/v3-periphery)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 934 | 818 | 
 | 2023-04-15 | 933 | 818 | 
 | 2023-04-14 | 933 | 815 | 
 | 2023-04-13 | 933 | 812 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 915 | 776 | 
 | 2023-03-20 | 915 | 777 | 
 | 2023-03-18 | 914 | 775 | 
-| 2023-03-17 | 913 | 773 | 
 

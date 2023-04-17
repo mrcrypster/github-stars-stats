@@ -1,10 +1,10 @@
 # ProgrammingHero1/Manufacturer-website-assignment - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 44
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/ProgrammingHero1/Manufacturer-website-assignment)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21 | 44 | 
 | 2023-04-15 | 20 | 44 | 
 | 2023-04-13 | 20 | 44 | 
 | 2023-04-12 | 20 | 44 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 20 | 44 | 
 | 2023-03-20 | 20 | 44 | 
 | 2023-03-19 | 20 | 44 | 
-| 2023-03-17 | 20 | 44 | 
 

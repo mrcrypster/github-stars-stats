@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 258
 
-★ Stars: 3639
+★ Stars: 3645
 
 [Open repository](https://github.com/niuhuan/pikapika)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 3639 | 258 | 
+| 2023-04-16 | 3645 | 258 | 
 | 2023-04-14 | 3631 | 257 | 
 | 2023-04-13 | 3622 | 257 | 
 | 2023-04-12 | 3603 | 257 | 

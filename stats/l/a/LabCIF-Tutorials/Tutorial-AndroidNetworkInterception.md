@@ -1,10 +1,10 @@
 # LabCIF-Tutorials/Tutorial-AndroidNetworkInterception - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/LabCIF-Tutorials/Tutorial-AndroidNetworkInterception)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 148 | 22 | 
 | 2023-04-15 | 147 | 22 | 
 | 2023-04-13 | 143 | 21 | 
 | 2023-04-12 | 142 | 21 | 

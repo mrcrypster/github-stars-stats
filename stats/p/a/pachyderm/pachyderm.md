@@ -1,6 +1,6 @@
 # pachyderm/pachyderm - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 550
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5895 | 550 | 
 | 2023-04-15 | 5895 | 550 | 
 | 2023-04-13 | 5893 | 550 | 
 | 2023-04-12 | 5892 | 550 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 5865 | 548 | 
 | 2023-03-20 | 5863 | 547 | 
 | 2023-03-19 | 5863 | 547 | 
-| 2023-03-18 | 5863 | 548 | 
 

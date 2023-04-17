@@ -1,6 +1,6 @@
 # DarthFennec/highlight-indent-guides - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 494 | 25 | 
 | 2023-04-15 | 494 | 25 | 
 | 2023-04-13 | 494 | 25 | 
 | 2023-04-12 | 494 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 490 | 24 | 
 | 2023-03-19 | 489 | 24 | 
 | 2023-03-18 | 488 | 24 | 
-| 2023-03-17 | 488 | 24 | 
 

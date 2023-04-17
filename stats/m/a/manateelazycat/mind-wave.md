@@ -1,10 +1,10 @@
 # manateelazycat/mind-wave - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 109
+★ Stars: 111
 
 [Open repository](https://github.com/manateelazycat/mind-wave)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 111 | 17 | 
 | 2023-04-14 | 109 | 17 | 
 | 2023-04-13 | 107 | 17 | 
 | 2023-04-12 | 107 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 71 | 8 | 
 | 2023-03-19 | 71 | 8 | 
 | 2023-03-18 | 70 | 8 | 
-| 2023-03-17 | 68 | 7 | 
 

@@ -1,10 +1,10 @@
 # kentcdodds/advanced-react-patterns - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 976
+☋ Forks: 977
 
-★ Stars: 2902
+★ Stars: 2914
 
 [Open repository](https://github.com/kentcdodds/advanced-react-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2914 | 977 | 
 | 2023-04-15 | 2902 | 976 | 
 | 2023-04-14 | 2899 | 975 | 
 

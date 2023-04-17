@@ -1,10 +1,10 @@
 # sebastiencs/company-box - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 528
+★ Stars: 530
 
 [Open repository](https://github.com/sebastiencs/company-box)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 530 | 65 | 
 | 2023-04-14 | 528 | 64 | 
 | 2023-04-13 | 526 | 64 | 
 | 2023-04-12 | 525 | 64 | 

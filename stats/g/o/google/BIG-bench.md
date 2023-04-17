@@ -1,10 +1,10 @@
 # google/BIG-bench - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 468
+☋ Forks: 469
 
-★ Stars: 1746
+★ Stars: 1752
 
 [Open repository](https://github.com/google/BIG-bench)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1752 | 469 | 
 | 2023-04-14 | 1746 | 468 | 
 | 2023-04-13 | 1732 | 467 | 
 | 2023-04-12 | 1716 | 465 | 

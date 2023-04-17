@@ -1,10 +1,10 @@
 # AlDanial/cloc - stars & forks statistics
 
-Stats updated on Apr 2023, 16
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 894
 
-★ Stars: 15863
+★ Stars: 15865
 
 [Open repository](https://github.com/AlDanial/cloc)
 
@@ -13,7 +13,8 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 15863 | 894 | 
+| 2023-04-17 | 15865 | 894 | 
+| 2023-04-16 | 15864 | 894 | 
 | 2023-04-15 | 15861 | 894 | 
 | 2023-04-14 | 15857 | 894 | 
 | 2023-04-13 | 15850 | 893 | 
@@ -42,5 +43,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-20 | 15716 | 891 | 
 | 2023-03-19 | 15705 | 891 | 
 | 2023-03-18 | 15703 | 891 | 
-| 2023-03-17 | 15699 | 891 | 
 

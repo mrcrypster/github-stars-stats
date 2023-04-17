@@ -1,10 +1,10 @@
 # logankilpatrick/ChatGPT-Simple - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 27
 
-★ Stars: 303
+★ Stars: 305
 
 [Open repository](https://github.com/logankilpatrick/ChatGPT-Simple)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 305 | 27 | 
 | 2023-04-14 | 303 | 27 | 
 | 2023-04-13 | 301 | 27 | 
 | 2023-04-12 | 297 | 26 | 

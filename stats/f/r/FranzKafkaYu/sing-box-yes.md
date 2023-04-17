@@ -1,10 +1,10 @@
 # FranzKafkaYu/sing-box-yes - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 299
+★ Stars: 301
 
 [Open repository](https://github.com/FranzKafkaYu/sing-box-yes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 301 | 80 | 
 | 2023-04-15 | 299 | 79 | 
 | 2023-04-14 | 298 | 79 | 
 | 2023-04-13 | 295 | 79 | 

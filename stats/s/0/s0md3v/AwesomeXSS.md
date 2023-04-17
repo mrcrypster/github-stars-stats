@@ -1,10 +1,10 @@
 # s0md3v/AwesomeXSS - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 739
 
-★ Stars: 4363
+★ Stars: 4365
 
 [Open repository](https://github.com/s0md3v/AwesomeXSS)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4365 | 739 | 
 | 2023-04-14 | 4363 | 739 | 
 | 2023-04-13 | 4355 | 737 | 
 | 2023-04-12 | 4350 | 736 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 4262 | 726 | 
 | 2023-03-20 | 4260 | 725 | 
 | 2023-03-18 | 4259 | 725 | 
-| 2023-03-17 | 4259 | 726 | 
 

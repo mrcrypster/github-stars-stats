@@ -1,10 +1,10 @@
 # protongraph/protongraph - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 74
 
-★ Stars: 1108
+★ Stars: 1110
 
 [Open repository](https://github.com/protongraph/protongraph)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1110 | 74 | 
 | 2023-04-14 | 1108 | 74 | 
 | 2023-04-13 | 1105 | 74 | 
 | 2023-04-12 | 1104 | 74 | 

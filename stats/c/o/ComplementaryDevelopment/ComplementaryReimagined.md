@@ -1,10 +1,10 @@
 # ComplementaryDevelopment/ComplementaryReimagined - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 86
+★ Stars: 88
 
 [Open repository](https://github.com/ComplementaryDevelopment/ComplementaryReimagined)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 88 | 22 | 
 | 2023-04-15 | 86 | 22 | 
 | 2023-04-13 | 86 | 21 | 
 | 2023-04-12 | 85 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 78 | 17 | 
 | 2023-03-20 | 78 | 17 | 
 | 2023-03-18 | 78 | 17 | 
-| 2023-03-17 | 78 | 17 | 
 

@@ -1,10 +1,10 @@
 # yujiangshui/A-Programmers-Guide-to-English - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1286
 
-★ Stars: 12725
+★ Stars: 12729
 
 [Open repository](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 12729 | 1286 | 
 | 2023-04-15 | 12725 | 1286 | 
 | 2023-04-13 | 12719 | 1285 | 
 | 2023-04-12 | 12715 | 1285 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 12636 | 1278 | 
 | 2023-03-20 | 12631 | 1277 | 
 | 2023-03-19 | 12618 | 1277 | 
-| 2023-03-17 | 12613 | 1277 | 
 

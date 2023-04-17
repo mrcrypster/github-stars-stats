@@ -1,10 +1,10 @@
 # DS-Homebrew/TWiLightMenu - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 172
 
-★ Stars: 2519
+★ Stars: 2522
 
 [Open repository](https://github.com/DS-Homebrew/TWiLightMenu)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2522 | 172 | 
 | 2023-04-14 | 2519 | 172 | 
 | 2023-04-13 | 2515 | 172 | 
 | 2023-04-12 | 2514 | 172 | 

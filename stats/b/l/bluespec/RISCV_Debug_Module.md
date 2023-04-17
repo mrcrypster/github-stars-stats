@@ -1,6 +1,6 @@
 # bluespec/RISCV_Debug_Module - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3 | 3 | 
 | 2023-04-14 | 3 | 3 | 
 | 2023-04-13 | 3 | 3 | 
 | 2023-04-12 | 3 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 3 | 3 | 
 | 2023-03-20 | 3 | 3 | 
 | 2023-03-19 | 3 | 3 | 
-| 2023-03-17 | 3 | 3 | 
 

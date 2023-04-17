@@ -1,10 +1,10 @@
 # YJDoc2/8086-Emulator - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 28
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/YJDoc2/8086-Emulator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 176 | 28 | 
 | 2023-04-14 | 175 | 28 | 
 | 2023-04-13 | 165 | 28 | 
 

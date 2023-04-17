@@ -1,6 +1,6 @@
 # ozlael/PlannarShadowForUnity - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 106 | 24 | 
 | 2023-04-15 | 106 | 24 | 
 | 2023-04-13 | 106 | 24 | 
 | 2023-04-12 | 106 | 24 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 105 | 24 | 
 | 2023-03-20 | 104 | 24 | 
 | 2023-03-18 | 104 | 24 | 
-| 2023-03-17 | 104 | 24 | 
 

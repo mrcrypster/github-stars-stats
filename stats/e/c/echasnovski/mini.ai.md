@@ -1,10 +1,10 @@
 # echasnovski/mini.ai - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/echasnovski/mini.ai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 33 | 1 | 
 | 2023-04-14 | 32 | 1 | 
 | 2023-04-13 | 32 | 1 | 
 | 2023-04-12 | 33 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 27 | 1 | 
 | 2023-03-20 | 27 | 1 | 
 | 2023-03-19 | 27 | 1 | 
-| 2023-03-17 | 27 | 1 | 
 

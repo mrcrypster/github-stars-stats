@@ -1,6 +1,6 @@
 # ReeceGoding/Frustration-One-Year-With-R - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 585 | 32 | 
 | 2023-04-15 | 585 | 32 | 
 | 2023-04-13 | 584 | 32 | 
 | 2023-04-12 | 584 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 582 | 32 | 
 | 2023-03-20 | 582 | 32 | 
 | 2023-03-18 | 582 | 32 | 
-| 2023-03-17 | 582 | 32 | 
 

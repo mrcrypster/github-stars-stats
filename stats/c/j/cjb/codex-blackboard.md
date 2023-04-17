@@ -1,6 +1,6 @@
 # cjb/codex-blackboard - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 25 | 17 | 
 | 2023-04-15 | 25 | 17 | 
 | 2023-04-13 | 25 | 17 | 
 | 2023-04-12 | 25 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 25 | 17 | 
 | 2023-03-20 | 25 | 17 | 
 | 2023-03-18 | 25 | 17 | 
-| 2023-03-17 | 25 | 17 | 
 

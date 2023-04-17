@@ -1,6 +1,6 @@
 # DACSS/Text_as_Data_Fall_2022 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 28 | 
 | 2023-04-14 | - | 28 | 
 | 2023-04-13 | - | 28 | 
 | 2023-04-12 | - | 28 | 

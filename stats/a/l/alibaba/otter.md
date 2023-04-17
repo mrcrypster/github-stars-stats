@@ -1,10 +1,10 @@
 # alibaba/otter - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 2523
+☋ Forks: 2524
 
-★ Stars: 7653
+★ Stars: 7654
 
 [Open repository](https://github.com/alibaba/otter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7654 | 2524 | 
 | 2023-04-14 | 7653 | 2523 | 
 | 2023-04-13 | 7652 | 2522 | 
 | 2023-04-12 | 7650 | 2522 | 

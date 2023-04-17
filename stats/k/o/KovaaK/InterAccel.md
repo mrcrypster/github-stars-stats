@@ -1,10 +1,10 @@
 # KovaaK/InterAccel - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 39
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/KovaaK/InterAccel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 255 | 39 | 
 | 2023-04-14 | 254 | 39 | 
 | 2023-04-13 | 254 | 39 | 
 | 2023-04-12 | 254 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 228 | 27 | 
 | 2023-03-19 | 223 | 27 | 
 | 2023-03-18 | 222 | 27 | 
-| 2023-03-17 | 221 | 27 | 
 

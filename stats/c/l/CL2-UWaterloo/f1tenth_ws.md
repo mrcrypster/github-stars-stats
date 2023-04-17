@@ -1,10 +1,10 @@
 # CL2-UWaterloo/f1tenth_ws - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 16
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/CL2-UWaterloo/f1tenth_ws)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 117 | 16 | 
 | 2023-04-14 | 116 | 16 | 
 | 2023-04-13 | 115 | 16 | 
 | 2023-04-12 | 110 | 15 | 

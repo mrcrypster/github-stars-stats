@@ -1,10 +1,10 @@
 # sidekiq/sidekiq - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 2304
+☋ Forks: 2303
 
-★ Stars: 12425
+★ Stars: 12424
 
 [Open repository](https://github.com/sidekiq/sidekiq)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 12424 | 2303 | 
 | 2023-04-15 | 12425 | 2304 | 
 | 2023-04-14 | 12423 | 2304 | 
 | 2023-04-13 | 12421 | 2304 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 12378 | 2293 | 
 | 2023-03-19 | 12378 | 2293 | 
 | 2023-03-18 | 12377 | 2293 | 
-| 2023-03-17 | 12376 | 2293 | 
 

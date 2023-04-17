@@ -1,6 +1,6 @@
 # hyunbinseo/jamoya.one - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 145 | 5 | 
 | 2023-04-14 | 145 | 5 | 
 | 2023-04-13 | 145 | 5 | 
 | 2023-04-12 | 144 | 5 | 

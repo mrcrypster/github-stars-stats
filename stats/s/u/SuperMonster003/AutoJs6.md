@@ -1,10 +1,10 @@
 # SuperMonster003/AutoJs6 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 166
 
-★ Stars: 457
+★ Stars: 459
 
 [Open repository](https://github.com/SuperMonster003/AutoJs6)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 459 | 166 | 
 | 2023-04-14 | 457 | 166 | 
 | 2023-04-13 | 455 | 165 | 
 | 2023-04-12 | 455 | 163 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 407 | 143 | 
 | 2023-03-19 | 401 | 142 | 
 | 2023-03-18 | 398 | 142 | 
-| 2023-03-17 | 395 | 140 | 
 

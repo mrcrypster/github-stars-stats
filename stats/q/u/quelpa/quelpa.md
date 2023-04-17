@@ -1,10 +1,10 @@
 # quelpa/quelpa - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 36
 
-★ Stars: 591
+★ Stars: 590
 
 [Open repository](https://github.com/quelpa/quelpa)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 590 | 36 | 
 | 2023-04-14 | 591 | 36 | 
 | 2023-04-13 | 591 | 36 | 
 | 2023-04-12 | 591 | 36 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 583 | 36 | 
 | 2023-03-19 | 583 | 36 | 
 | 2023-03-18 | 583 | 36 | 
-| 2023-03-17 | 583 | 36 | 
 

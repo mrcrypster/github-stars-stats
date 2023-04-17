@@ -1,10 +1,10 @@
 # stakewithus/defi-by-example - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 203
 
-★ Stars: 488
+★ Stars: 489
 
 [Open repository](https://github.com/stakewithus/defi-by-example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 489 | 203 | 
 | 2023-04-14 | 488 | 203 | 
 | 2023-04-13 | 489 | 204 | 
 | 2023-04-12 | 487 | 204 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 470 | 200 | 
 | 2023-03-20 | 471 | 200 | 
 | 2023-03-19 | 471 | 199 | 
-| 2023-03-17 | 470 | 198 | 
 

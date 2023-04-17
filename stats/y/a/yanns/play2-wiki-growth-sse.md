@@ -1,6 +1,6 @@
 # yanns/play2-wiki-growth-sse - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 16 | 1 | 
 | 2023-04-15 | 16 | 1 | 
 

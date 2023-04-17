@@ -1,6 +1,6 @@
 # vvb2060/MagiskDetector - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 484 | 85 | 
 | 2023-04-15 | 484 | 85 | 
 | 2023-04-13 | 484 | 84 | 
 | 2023-04-12 | 483 | 84 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 471 | 81 | 
 | 2023-03-19 | 470 | 81 | 
 | 2023-03-18 | 470 | 81 | 
-| 2023-03-17 | 470 | 81 | 
 

@@ -1,6 +1,6 @@
 # edgeroute/security-champion-framework - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 80 | 13 | 
 | 2023-04-15 | 80 | 13 | 
 | 2023-04-14 | 79 | 13 | 
 | 2023-04-13 | 79 | 13 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 77 | 12 | 
 | 2023-03-20 | 77 | 12 | 
 | 2023-03-19 | 77 | 12 | 
-| 2023-03-17 | 77 | 12 | 
 

@@ -1,10 +1,10 @@
 # jina-ai/auto-gpt-web - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 66
+☋ Forks: 73
 
-★ Stars: 343
+★ Stars: 372
 
 [Open repository](https://github.com/jina-ai/auto-gpt-web)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 372 | 73 | 
 | 2023-04-15 | 343 | 66 | 
 | 2023-04-14 | 310 | 55 | 
 | 2023-04-13 | 268 | 45 | 

@@ -1,10 +1,10 @@
 # Mycroft-Studios/Mycroft-Farewell - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/Mycroft-Studios/Mycroft-Farewell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 76 | 19 | 
 | 2023-04-15 | 75 | 19 | 
 | 2023-04-13 | 75 | 19 | 
 | 2023-04-12 | 75 | 19 | 

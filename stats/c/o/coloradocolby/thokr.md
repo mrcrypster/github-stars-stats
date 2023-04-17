@@ -1,10 +1,10 @@
 # coloradocolby/thokr - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 12
 
-★ Stars: 458
+★ Stars: 459
 
 [Open repository](https://github.com/coloradocolby/thokr)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 459 | 12 | 
 | 2023-04-14 | 458 | 12 | 
 | 2023-04-13 | 458 | 12 | 
 | 2023-04-12 | 458 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 453 | 12 | 
 | 2023-03-20 | 453 | 12 | 
 | 2023-03-19 | 453 | 12 | 
-| 2023-03-17 | 453 | 12 | 
 

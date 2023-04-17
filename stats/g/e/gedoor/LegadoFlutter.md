@@ -1,10 +1,10 @@
 # gedoor/LegadoFlutter - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 70
 
-★ Stars: 345
+★ Stars: 344
 
 [Open repository](https://github.com/gedoor/LegadoFlutter)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 344 | 70 | 
 | 2023-04-14 | 345 | 70 | 
 | 2023-04-13 | 345 | 70 | 
 | 2023-04-12 | 345 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 345 | 70 | 
 | 2023-03-19 | 344 | 70 | 
 | 2023-03-18 | 345 | 70 | 
-| 2023-03-17 | 344 | 70 | 
 

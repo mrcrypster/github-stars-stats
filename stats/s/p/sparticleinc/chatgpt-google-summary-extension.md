@@ -1,10 +1,10 @@
 # sparticleinc/chatgpt-google-summary-extension - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 64
 
-★ Stars: 581
+★ Stars: 586
 
 [Open repository](https://github.com/sparticleinc/chatgpt-google-summary-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 586 | 64 | 
 | 2023-04-14 | 581 | 64 | 
 | 2023-04-13 | 569 | 62 | 
 | 2023-04-12 | 558 | 61 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 353 | 38 | 
 | 2023-03-20 | 346 | 38 | 
 | 2023-03-19 | 342 | 36 | 
-| 2023-03-17 | 336 | 36 | 
 

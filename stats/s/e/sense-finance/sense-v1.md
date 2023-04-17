@@ -1,10 +1,10 @@
 # sense-finance/sense-v1 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/sense-finance/sense-v1)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 61 | 7 | 
 | 2023-04-14 | 60 | 7 | 
 | 2023-04-13 | 59 | 7 | 
 | 2023-04-12 | 59 | 7 | 

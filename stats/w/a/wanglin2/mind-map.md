@@ -1,8 +1,8 @@
 # wanglin2/mind-map - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 63
+☋ Forks: 64
 
 ★ Stars: 275
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 275 | 64 | 
 | 2023-04-15 | 275 | 63 | 
 | 2023-04-14 | 275 | 63 | 
 

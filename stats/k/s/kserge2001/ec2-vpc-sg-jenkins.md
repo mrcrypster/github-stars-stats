@@ -1,8 +1,8 @@
 # kserge2001/ec2-vpc-sg-jenkins - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 20
+☋ Forks: 22
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 22 | 
 | 2023-04-14 | - | 20 | 
 | 2023-04-13 | - | 18 | 
 | 2023-04-12 | - | 17 | 

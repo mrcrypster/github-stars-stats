@@ -1,10 +1,10 @@
 # emcf/engshell - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 149
+☋ Forks: 154
 
-★ Stars: 1835
+★ Stars: 1886
 
 [Open repository](https://github.com/emcf/engshell)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1886 | 154 | 
 | 2023-04-15 | 1835 | 149 | 
 | 2023-04-13 | 1714 | 138 | 
 | 2023-04-12 | 1541 | 125 | 

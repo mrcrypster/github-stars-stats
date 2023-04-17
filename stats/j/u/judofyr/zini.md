@@ -1,10 +1,10 @@
 # judofyr/zini - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/judofyr/zini)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 30 | 1 | 
 | 2023-04-14 | 28 | 1 | 
 | 2023-04-13 | 28 | 1 | 
 | 2023-04-12 | 28 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 26 | 1 | 
 | 2023-03-20 | 26 | 1 | 
 | 2023-03-18 | 25 | 1 | 
-| 2023-03-17 | 25 | 1 | 
 

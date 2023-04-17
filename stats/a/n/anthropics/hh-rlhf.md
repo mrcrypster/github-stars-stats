@@ -1,10 +1,10 @@
 # anthropics/hh-rlhf - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 52
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/anthropics/hh-rlhf)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 671 | 52 | 
 | 2023-04-14 | 670 | 52 | 
 | 2023-04-13 | 666 | 52 | 
 | 2023-04-12 | 658 | 50 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 580 | 46 | 
 | 2023-03-20 | 573 | 45 | 
 | 2023-03-19 | 566 | 44 | 
-| 2023-03-17 | 561 | 43 | 
 

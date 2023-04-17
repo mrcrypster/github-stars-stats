@@ -1,6 +1,6 @@
 # ashawkey/raytracing - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 51 | 7 | 
 | 2023-04-14 | 51 | 7 | 
 | 2023-04-13 | 51 | 7 | 
 | 2023-04-12 | 51 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 49 | 7 | 
 | 2023-03-20 | 49 | 7 | 
 | 2023-03-18 | 48 | 6 | 
-| 2023-03-17 | 48 | 6 | 
 

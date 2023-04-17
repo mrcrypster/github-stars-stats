@@ -1,10 +1,10 @@
 # Gaius-Augustus/GALBA - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/Gaius-Augustus/GALBA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 58 | 2 | 
 | 2023-04-14 | 57 | 2 | 
 | 2023-04-13 | 56 | 2 | 
 | 2023-04-12 | 55 | 2 | 

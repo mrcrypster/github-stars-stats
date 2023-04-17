@@ -1,10 +1,10 @@
 # thecookingsenpai/autogpt-gui - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 11
+☋ Forks: 21
 
-★ Stars: 107
+★ Stars: 209
 
 [Open repository](https://github.com/thecookingsenpai/autogpt-gui)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 209 | 21 | 
 | 2023-04-15 | 107 | 11 | 
 

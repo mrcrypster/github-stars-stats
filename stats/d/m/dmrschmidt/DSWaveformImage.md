@@ -1,10 +1,10 @@
 # dmrschmidt/DSWaveformImage - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 78
 
-★ Stars: 650
+★ Stars: 651
 
 [Open repository](https://github.com/dmrschmidt/DSWaveformImage)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 651 | 78 | 
 | 2023-04-14 | 650 | 78 | 
 | 2023-04-13 | 647 | 78 | 
 | 2023-04-12 | 646 | 78 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 612 | 76 | 
 | 2023-03-20 | 608 | 76 | 
 | 2023-03-18 | 606 | 76 | 
-| 2023-03-17 | 604 | 76 | 
 

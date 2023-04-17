@@ -1,10 +1,10 @@
 # ataozarslan/IBB_Yapay_Zeka_Kampi - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 14
+☋ Forks: 20
 
-★ Stars: 88
+★ Stars: 94
 
 [Open repository](https://github.com/ataozarslan/IBB_Yapay_Zeka_Kampi)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 94 | 20 | 
 | 2023-04-14 | 88 | 14 | 
 | 2023-04-13 | 87 | 14 | 
 | 2023-04-12 | 86 | 14 | 

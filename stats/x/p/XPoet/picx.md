@@ -1,10 +1,10 @@
 # XPoet/picx - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 289
 
-★ Stars: 1909
+★ Stars: 1917
 
 [Open repository](https://github.com/XPoet/picx)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1917 | 289 | 
 | 2023-04-14 | 1909 | 289 | 
 | 2023-04-13 | 1900 | 287 | 
 | 2023-04-12 | 1886 | 287 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1688 | 280 | 
 | 2023-03-19 | 1684 | 279 | 
 | 2023-03-18 | 1682 | 279 | 
-| 2023-03-17 | 1678 | 278 | 
 

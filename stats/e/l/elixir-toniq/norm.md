@@ -1,6 +1,6 @@
 # elixir-toniq/norm - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 663 | 28 | 
 | 2023-04-15 | 663 | 28 | 
 | 2023-04-14 | 663 | 28 | 
 | 2023-04-13 | 662 | 28 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 663 | 28 | 
 | 2023-03-20 | 663 | 28 | 
 | 2023-03-19 | 663 | 28 | 
-| 2023-03-17 | 663 | 28 | 
 

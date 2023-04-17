@@ -1,10 +1,10 @@
 # reactjs/server-components-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 552
 
-★ Stars: 3694
+★ Stars: 3695
 
 [Open repository](https://github.com/reactjs/server-components-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3695 | 552 | 
 | 2023-04-15 | 3694 | 552 | 
 | 2023-04-13 | 3689 | 552 | 
 | 2023-04-12 | 3685 | 551 | 

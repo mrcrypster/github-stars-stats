@@ -1,6 +1,6 @@
 # alibaba/xquic - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1408 | 267 | 
 | 2023-04-15 | 1408 | 267 | 
 | 2023-04-13 | 1408 | 267 | 
 | 2023-04-12 | 1407 | 266 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1395 | 264 | 
 | 2023-03-19 | 1394 | 264 | 
 | 2023-03-18 | 1393 | 263 | 
-| 2023-03-17 | 1390 | 263 | 
 

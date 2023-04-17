@@ -1,6 +1,6 @@
 # AabyssZG/SpringBoot-Scan - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 503 | 66 | 
 | 2023-04-15 | 503 | 66 | 
 | 2023-04-14 | 501 | 65 | 
 | 2023-04-13 | 501 | 65 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 474 | 63 | 
 | 2023-03-20 | 472 | 63 | 
 | 2023-03-18 | 472 | 63 | 
-| 2023-03-17 | 469 | 63 | 
 

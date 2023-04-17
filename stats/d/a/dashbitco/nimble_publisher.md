@@ -1,6 +1,6 @@
 # dashbitco/nimble_publisher - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 351 | 22 | 
 | 2023-04-15 | 351 | 22 | 
 | 2023-04-13 | 351 | 22 | 
 | 2023-04-12 | 351 | 22 | 

@@ -1,6 +1,6 @@
 # ocaml-ppx/ppxlib - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 193 | 77 | 
 | 2023-04-15 | 193 | 77 | 
 | 2023-04-14 | 193 | 76 | 
 | 2023-04-13 | 193 | 75 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 191 | 74 | 
 | 2023-03-19 | 191 | 74 | 
 | 2023-03-18 | 191 | 74 | 
-| 2023-03-17 | 191 | 74 | 
 

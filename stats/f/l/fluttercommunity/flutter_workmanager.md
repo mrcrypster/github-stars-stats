@@ -1,6 +1,6 @@
 # fluttercommunity/flutter_workmanager - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 734 | 183 | 
 | 2023-04-15 | 734 | 183 | 
 | 2023-04-14 | 734 | 183 | 
 | 2023-04-13 | 734 | 183 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 729 | 182 | 
 | 2023-03-20 | 728 | 182 | 
 | 2023-03-19 | 728 | 182 | 
-| 2023-03-17 | 728 | 182 | 
 

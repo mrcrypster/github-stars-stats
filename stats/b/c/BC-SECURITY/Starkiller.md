@@ -1,8 +1,8 @@
 # BC-SECURITY/Starkiller - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 160
+☋ Forks: 159
 
 ★ Stars: 1004
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1004 | 159 | 
 | 2023-04-15 | 1004 | 160 | 
 | 2023-04-14 | 1003 | 160 | 
 | 2023-04-13 | 1002 | 160 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 985 | 157 | 
 | 2023-03-19 | 985 | 157 | 
 | 2023-03-18 | 984 | 157 | 
-| 2023-03-17 | 984 | 157 | 
 

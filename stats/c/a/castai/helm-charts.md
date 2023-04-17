@@ -1,6 +1,6 @@
 # castai/helm-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5 | 6 | 
 | 2023-04-15 | 5 | 6 | 
 | 2023-04-13 | 5 | 6 | 
 | 2023-04-12 | 5 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 4 | 5 | 
 | 2023-03-20 | 4 | 5 | 
 | 2023-03-19 | 4 | 5 | 
-| 2023-03-18 | 4 | 5 | 
 

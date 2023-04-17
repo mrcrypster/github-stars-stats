@@ -1,10 +1,10 @@
 # superbeyone/JetBrainsActiveCode - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 44
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/superbeyone/JetBrainsActiveCode)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 252 | 44 | 
 | 2023-04-15 | 251 | 44 | 
 | 2023-04-13 | 250 | 44 | 
 | 2023-04-12 | 250 | 44 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 249 | 47 | 
 | 2023-03-19 | 250 | 47 | 
 | 2023-03-18 | 250 | 47 | 
-| 2023-03-17 | 250 | 47 | 
 

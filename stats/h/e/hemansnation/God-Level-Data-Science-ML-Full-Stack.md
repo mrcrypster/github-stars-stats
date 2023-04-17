@@ -1,10 +1,10 @@
 # hemansnation/God-Level-Data-Science-ML-Full-Stack - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 363
+☋ Forks: 365
 
-★ Stars: 2026
+★ Stars: 2038
 
 [Open repository](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2038 | 365 | 
 | 2023-04-15 | 2026 | 363 | 
 | 2023-04-14 | 2022 | 363 | 
 | 2023-04-13 | 1831 | 356 | 

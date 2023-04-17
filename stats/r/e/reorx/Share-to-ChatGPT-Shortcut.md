@@ -1,10 +1,10 @@
 # reorx/Share-to-ChatGPT-Shortcut - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/reorx/Share-to-ChatGPT-Shortcut)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 273 | 10 | 
 | 2023-04-15 | 272 | 10 | 
 | 2023-04-14 | 271 | 10 | 
 | 2023-04-12 | 272 | 10 | 

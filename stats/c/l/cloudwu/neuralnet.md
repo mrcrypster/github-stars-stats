@@ -1,10 +1,10 @@
 # cloudwu/neuralnet - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 11
 
-★ Stars: 212
+★ Stars: 211
 
 [Open repository](https://github.com/cloudwu/neuralnet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 211 | 11 | 
 | 2023-04-14 | 212 | 11 | 
 | 2023-04-13 | 212 | 11 | 
 | 2023-04-12 | 212 | 11 | 

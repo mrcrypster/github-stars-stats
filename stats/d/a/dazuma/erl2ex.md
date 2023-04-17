@@ -1,6 +1,6 @@
 # dazuma/erl2ex - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 80 | 10 | 
 | 2023-04-15 | 80 | 10 | 
 | 2023-04-14 | 80 | 10 | 
 | 2023-04-13 | 80 | 10 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 79 | 10 | 
 | 2023-03-20 | 79 | 10 | 
 | 2023-03-19 | 79 | 10 | 
-| 2023-03-17 | 79 | 10 | 
 

@@ -1,10 +1,10 @@
 # IrineSistiana/mosdns - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 201
+☋ Forks: 202
 
-★ Stars: 1535
+★ Stars: 1534
 
 [Open repository](https://github.com/IrineSistiana/mosdns)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1534 | 202 | 
 | 2023-04-14 | 1535 | 201 | 
 | 2023-04-13 | 1533 | 201 | 
 | 2023-04-12 | 1531 | 202 | 

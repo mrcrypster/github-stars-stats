@@ -1,6 +1,6 @@
 # Shopify/job-iteration - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 890 | 38 | 
 | 2023-04-14 | 890 | 38 | 
 | 2023-04-13 | 890 | 38 | 
 | 2023-04-12 | 890 | 38 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 878 | 35 | 
 | 2023-03-20 | 877 | 35 | 
 | 2023-03-18 | 874 | 35 | 
-| 2023-03-17 | 865 | 34 | 
 

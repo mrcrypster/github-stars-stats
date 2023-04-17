@@ -1,10 +1,10 @@
 # iamed2/LibPQ.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 46
 
-★ Stars: 197
+★ Stars: 196
 
 [Open repository](https://github.com/iamed2/LibPQ.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 196 | 46 | 
 | 2023-04-14 | 197 | 46 | 
 | 2023-04-13 | 196 | 46 | 
 | 2023-04-12 | 196 | 46 | 

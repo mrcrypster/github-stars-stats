@@ -1,10 +1,10 @@
 # builtbybel/bloatbox - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 90
 
-★ Stars: 1443
+★ Stars: 1445
 
 [Open repository](https://github.com/builtbybel/bloatbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1445 | 90 | 
 | 2023-04-14 | 1443 | 90 | 
 | 2023-04-13 | 1443 | 90 | 
 | 2023-04-12 | 1442 | 89 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1421 | 86 | 
 | 2023-03-19 | 1420 | 86 | 
 | 2023-03-18 | 1419 | 86 | 
-| 2023-03-17 | 1419 | 86 | 
 

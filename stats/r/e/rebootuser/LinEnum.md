@@ -1,10 +1,10 @@
 # rebootuser/LinEnum - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1910
 
-★ Stars: 5806
+★ Stars: 5808
 
 [Open repository](https://github.com/rebootuser/LinEnum)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5808 | 1910 | 
 | 2023-04-14 | 5806 | 1910 | 
 | 2023-04-13 | 5804 | 1910 | 
 | 2023-04-12 | 5798 | 1909 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 5734 | 1894 | 
 | 2023-03-19 | 5732 | 1892 | 
 | 2023-03-18 | 5730 | 1891 | 
-| 2023-03-17 | 5729 | 1889 | 
 

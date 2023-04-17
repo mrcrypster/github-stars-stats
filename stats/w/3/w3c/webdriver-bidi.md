@@ -1,6 +1,6 @@
 # w3c/webdriver-bidi - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 162 | 27 | 
 | 2023-04-14 | 162 | 27 | 
 | 2023-04-13 | 161 | 27 | 
 | 2023-04-12 | 161 | 27 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 154 | 27 | 
 | 2023-03-20 | 153 | 27 | 
 | 2023-03-19 | 153 | 27 | 
-| 2023-03-18 | 152 | 27 | 
 

@@ -1,6 +1,6 @@
 # Pakillo/ANECAtools - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 14 | 3 | 
 | 2023-04-14 | 14 | 3 | 
 | 2023-04-13 | 14 | 3 | 
 | 2023-04-12 | 14 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 14 | 3 | 
 | 2023-03-19 | 14 | 3 | 
 | 2023-03-18 | 14 | 3 | 
-| 2023-03-17 | 14 | 3 | 
 

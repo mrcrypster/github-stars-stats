@@ -1,6 +1,6 @@
 # agkozak/zsh-z - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1468 | 70 | 
 | 2023-04-14 | 1468 | 70 | 
 | 2023-04-13 | 1468 | 70 | 
 | 2023-04-12 | 1467 | 70 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1435 | 71 | 
 | 2023-03-20 | 1433 | 71 | 
 | 2023-03-19 | 1432 | 71 | 
-| 2023-03-17 | 1432 | 71 | 
 

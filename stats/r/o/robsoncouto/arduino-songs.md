@@ -1,10 +1,10 @@
 # robsoncouto/arduino-songs - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 388
 
-★ Stars: 765
+★ Stars: 766
 
 [Open repository](https://github.com/robsoncouto/arduino-songs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 766 | 388 | 
 | 2023-04-15 | 765 | 388 | 
 | 2023-04-13 | 760 | 388 | 
 | 2023-04-12 | 760 | 387 | 

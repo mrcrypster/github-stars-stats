@@ -1,6 +1,6 @@
 # status-im/status-mobile - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 944
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3655 | 944 | 
 | 2023-04-15 | 3655 | 944 | 
 | 2023-04-14 | 3653 | 944 | 
 | 2023-04-13 | 3652 | 944 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 3635 | 937 | 
 | 2023-03-19 | 3635 | 937 | 
 | 2023-03-18 | 3637 | 937 | 
-| 2023-03-17 | 3634 | 937 | 
 

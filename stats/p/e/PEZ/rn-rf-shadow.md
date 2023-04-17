@@ -1,6 +1,6 @@
 # PEZ/rn-rf-shadow - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 267 | 39 | 
 | 2023-04-14 | 267 | 39 | 
 | 2023-04-13 | 267 | 39 | 
 | 2023-04-12 | 267 | 39 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 269 | 40 | 
 | 2023-03-20 | 269 | 40 | 
 | 2023-03-18 | 269 | 40 | 
-| 2023-03-17 | 269 | 40 | 
 

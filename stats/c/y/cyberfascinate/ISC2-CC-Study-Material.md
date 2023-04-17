@@ -1,10 +1,10 @@
 # cyberfascinate/ISC2-CC-Study-Material - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 109
+★ Stars: 112
 
 [Open repository](https://github.com/cyberfascinate/ISC2-CC-Study-Material)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 112 | 34 | 
 | 2023-04-15 | 109 | 33 | 
 | 2023-04-13 | 108 | 32 | 
 | 2023-04-12 | 107 | 31 | 

@@ -1,6 +1,6 @@
 # lacodix/laravel-model-filter - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 113 | 5 | 
 | 2023-04-14 | 113 | 5 | 
 | 2023-04-13 | 112 | 5 | 
 | 2023-04-12 | 112 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 106 | 5 | 
 | 2023-03-20 | 106 | 5 | 
 | 2023-03-18 | 106 | 5 | 
-| 2023-03-17 | 102 | 5 | 
 

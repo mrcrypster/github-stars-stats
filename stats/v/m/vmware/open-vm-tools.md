@@ -1,10 +1,10 @@
 # vmware/open-vm-tools - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 403
 
-★ Stars: 1952
+★ Stars: 1953
 
 [Open repository](https://github.com/vmware/open-vm-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1953 | 403 | 
 | 2023-04-15 | 1952 | 403 | 
 | 2023-04-13 | 1952 | 403 | 
 | 2023-04-12 | 1951 | 403 | 

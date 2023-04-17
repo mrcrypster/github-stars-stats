@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/efenatuyo/ugc-sniper)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 174 | 16 | 
+| 2023-04-16 | 175 | 17 | 
 | 2023-04-15 | 139 | 10 | 
 

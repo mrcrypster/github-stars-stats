@@ -1,8 +1,8 @@
 # jobteaser-oss/erl-otp - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 1 | 
 | 2023-04-14 | - | - | 
 | 2023-04-13 | - | - | 
 | 2023-04-12 | - | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | - | - | 
 | 2023-03-19 | - | - | 
 | 2023-03-18 | - | - | 
-| 2023-03-17 | - | - | 
 

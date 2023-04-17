@@ -1,10 +1,10 @@
 # GanymedeNil/document.ai - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 214
+☋ Forks: 215
 
-★ Stars: 2520
+★ Stars: 2535
 
 [Open repository](https://github.com/GanymedeNil/document.ai)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2535 | 215 | 
 | 2023-04-15 | 2520 | 214 | 
 | 2023-04-13 | 2498 | 213 | 
 | 2023-04-12 | 2472 | 210 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1638 | 133 | 
 | 2023-03-20 | 1585 | 128 | 
 | 2023-03-18 | 1555 | 125 | 
-| 2023-03-17 | 1533 | 122 | 
 

@@ -1,6 +1,6 @@
 # cefsharp/CefSharp - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2858
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 9240 | 2858 | 
 | 2023-04-14 | 9240 | 2858 | 
 | 2023-04-13 | 9240 | 2859 | 
 | 2023-04-12 | 9237 | 2859 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 9200 | 2851 | 
 | 2023-03-19 | 9200 | 2850 | 
 | 2023-03-18 | 9199 | 2849 | 
-| 2023-03-17 | 9199 | 2849 | 
 

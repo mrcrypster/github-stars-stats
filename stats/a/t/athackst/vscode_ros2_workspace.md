@@ -1,10 +1,10 @@
 # athackst/vscode_ros2_workspace - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 116
 
-★ Stars: 556
+★ Stars: 558
 
 [Open repository](https://github.com/athackst/vscode_ros2_workspace)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 558 | 116 | 
 | 2023-04-15 | 556 | 116 | 
 | 2023-04-13 | 556 | 116 | 
 | 2023-04-12 | 556 | 117 | 

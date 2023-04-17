@@ -1,6 +1,6 @@
 # adam-james-v/solenoid - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 71 | 1 | 
 | 2023-04-15 | 71 | 1 | 
 | 2023-04-13 | 69 | 1 | 
 | 2023-04-12 | 69 | 1 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 65 | 1 | 
 | 2023-03-19 | 65 | 1 | 
 | 2023-03-18 | 65 | 1 | 
-| 2023-03-17 | 65 | 1 | 
 

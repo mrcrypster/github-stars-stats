@@ -1,6 +1,6 @@
 # Draculabo/boom - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5 | 6 | 
 | 2023-04-14 | 5 | 6 | 
 | 2023-04-13 | 5 | 6 | 
 | 2023-04-12 | 5 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 5 | 5 | 
 | 2023-03-20 | 5 | 5 | 
 | 2023-03-18 | 5 | 5 | 
-| 2023-03-17 | 5 | 5 | 
 

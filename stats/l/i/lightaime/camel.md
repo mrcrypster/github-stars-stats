@@ -1,10 +1,10 @@
 # lightaime/camel - stars & forks statistics
 
-Stats updated on Apr 2023, 16
+Stats updated on Apr 2023, 17
 
-☋ Forks: 109
+☋ Forks: 128
 
-★ Stars: 959
+★ Stars: 1175
 
 [Open repository](https://github.com/lightaime/camel)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 959 | 109 | 
+| 2023-04-17 | 1175 | 128 | 
+| 2023-04-16 | 1081 | 122 | 
 | 2023-04-15 | 870 | 102 | 
 

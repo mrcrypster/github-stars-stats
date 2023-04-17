@@ -1,10 +1,10 @@
 # hananbeer/zerem - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/hananbeer/zerem)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 87 | - | 
 | 2023-04-15 | 86 | - | 
 | 2023-04-13 | 85 | - | 
 | 2023-04-12 | 85 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 57 | - | 
 | 2023-03-19 | 57 | - | 
 | 2023-03-18 | 57 | - | 
-| 2023-03-17 | 57 | - | 
 

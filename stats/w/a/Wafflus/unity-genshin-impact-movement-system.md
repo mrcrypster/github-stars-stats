@@ -1,10 +1,10 @@
 # Wafflus/unity-genshin-impact-movement-system - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 43
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/Wafflus/unity-genshin-impact-movement-system)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 320 | 43 | 
 | 2023-04-14 | 319 | 43 | 
 | 2023-04-13 | 318 | 42 | 
 | 2023-04-12 | 318 | 42 | 

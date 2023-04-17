@@ -1,10 +1,10 @@
 # dominikh/gotraceui - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 12
 
-★ Stars: 483
+★ Stars: 489
 
 [Open repository](https://github.com/dominikh/gotraceui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 489 | 12 | 
 | 2023-04-14 | 483 | 12 | 
 | 2023-04-13 | 480 | 12 | 
 | 2023-04-12 | 480 | 12 | 

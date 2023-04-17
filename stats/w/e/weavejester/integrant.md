@@ -1,6 +1,6 @@
 # weavejester/integrant - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1103 | 64 | 
 | 2023-04-15 | 1103 | 64 | 
 | 2023-04-13 | 1102 | 64 | 
 | 2023-04-12 | 1102 | 64 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1094 | 62 | 
 | 2023-03-20 | 1092 | 62 | 
 | 2023-03-19 | 1092 | 62 | 
-| 2023-03-17 | 1092 | 62 | 
 

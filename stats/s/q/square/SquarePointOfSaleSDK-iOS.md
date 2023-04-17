@@ -1,6 +1,6 @@
 # square/SquarePointOfSaleSDK-iOS - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 93 | 46 | 
 | 2023-04-15 | 93 | 46 | 
 | 2023-04-13 | 93 | 46 | 
 | 2023-04-12 | 93 | 46 | 

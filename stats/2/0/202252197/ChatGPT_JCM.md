@@ -1,10 +1,10 @@
 # 202252197/ChatGPT_JCM - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 487
+☋ Forks: 490
 
-★ Stars: 1984
+★ Stars: 2006
 
 [Open repository](https://github.com/202252197/ChatGPT_JCM)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2006 | 490 | 
 | 2023-04-14 | 1984 | 487 | 
 | 2023-04-13 | 1949 | 478 | 
 | 2023-04-12 | 1923 | 469 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 637 | 73 | 
 | 2023-03-19 | 604 | 66 | 
 | 2023-03-18 | 547 | 64 | 
-| 2023-03-17 | 475 | 55 | 
 

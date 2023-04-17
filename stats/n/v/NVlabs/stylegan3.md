@@ -1,10 +1,10 @@
 # NVlabs/stylegan3 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 897
+☋ Forks: 899
 
-★ Stars: 5072
+★ Stars: 5076
 
 [Open repository](https://github.com/NVlabs/stylegan3)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5076 | 899 | 
 | 2023-04-14 | 5072 | 897 | 
 | 2023-04-13 | 5068 | 898 | 
 | 2023-04-12 | 5065 | 897 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 5002 | 878 | 
 | 2023-03-20 | 4994 | 878 | 
 | 2023-03-18 | 4992 | 878 | 
-| 2023-03-17 | 4987 | 877 | 
 

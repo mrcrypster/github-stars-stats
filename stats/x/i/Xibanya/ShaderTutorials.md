@@ -1,10 +1,10 @@
 # Xibanya/ShaderTutorials - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 989
+★ Stars: 991
 
 [Open repository](https://github.com/Xibanya/ShaderTutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 991 | 29 | 
 | 2023-04-15 | 989 | 28 | 
 | 2023-04-13 | 989 | 28 | 
 | 2023-04-12 | 989 | 28 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 814 | 24 | 
 | 2023-03-19 | 814 | 24 | 
 | 2023-03-18 | 814 | 24 | 
-| 2023-03-17 | 814 | 24 | 
 

@@ -1,10 +1,10 @@
 # kwebio/kweb-core - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 55
 
-★ Stars: 884
+★ Stars: 885
 
 [Open repository](https://github.com/kwebio/kweb-core)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 885 | 55 | 
 | 2023-04-15 | 884 | 55 | 
 | 2023-04-13 | 884 | 55 | 
 | 2023-04-12 | 883 | 55 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 878 | 55 | 
 | 2023-03-19 | 876 | 55 | 
 | 2023-03-18 | 876 | 55 | 
-| 2023-03-17 | 876 | 55 | 
 

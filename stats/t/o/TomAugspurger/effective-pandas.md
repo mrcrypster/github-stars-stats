@@ -1,6 +1,6 @@
 # TomAugspurger/effective-pandas - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 374
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1433 | 374 | 
 | 2023-04-15 | 1433 | 374 | 
 | 2023-04-14 | 1433 | 374 | 
 | 2023-04-13 | 1433 | 374 | 

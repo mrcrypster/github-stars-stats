@@ -1,6 +1,6 @@
 # jethrokuan/braindump - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 354 | 89 | 
 | 2023-04-15 | 354 | 89 | 
 | 2023-04-13 | 354 | 89 | 
 | 2023-04-12 | 354 | 89 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 353 | 90 | 
 | 2023-03-20 | 351 | 90 | 
 | 2023-03-19 | 351 | 89 | 
-| 2023-03-17 | 347 | 89 | 
 

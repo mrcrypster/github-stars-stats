@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 465
 
-★ Stars: 2696
+★ Stars: 2699
 
 [Open repository](https://github.com/pyannote/pyannote-audio)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 2696 | 465 | 
+| 2023-04-16 | 2699 | 465 | 
 | 2023-04-15 | 2695 | 465 | 
 

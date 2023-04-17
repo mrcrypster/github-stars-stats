@@ -1,10 +1,10 @@
 # hiddify/awesome-freedom - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 29
 
-★ Stars: 226
+★ Stars: 229
 
 [Open repository](https://github.com/hiddify/awesome-freedom)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 229 | 29 | 
 | 2023-04-14 | 226 | 29 | 
 | 2023-04-13 | 226 | 29 | 
 | 2023-04-12 | 224 | 29 | 

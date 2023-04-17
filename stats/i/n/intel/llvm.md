@@ -1,8 +1,8 @@
 # intel/llvm - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 538
+☋ Forks: 532
 
 ★ Stars: 901
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 901 | 532 | 
 | 2023-04-14 | 901 | 538 | 
 | 2023-04-13 | 900 | 536 | 
 | 2023-04-12 | 900 | 535 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 876 | 508 | 
 | 2023-03-20 | 874 | 507 | 
 | 2023-03-19 | 873 | 507 | 
-| 2023-03-17 | 874 | 506 | 
 

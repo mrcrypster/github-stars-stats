@@ -1,10 +1,10 @@
 # zyedidia/micro - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1107
+☋ Forks: 1109
 
-★ Stars: 21381
+★ Stars: 21392
 
 [Open repository](https://github.com/zyedidia/micro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21392 | 1109 | 
 | 2023-04-14 | 21381 | 1107 | 
 | 2023-04-13 | 21375 | 1107 | 
 | 2023-04-12 | 21371 | 1108 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 21259 | 1105 | 
 | 2023-03-20 | 21256 | 1104 | 
 | 2023-03-18 | 21248 | 1103 | 
-| 2023-03-17 | 21236 | 1104 | 
 

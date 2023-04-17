@@ -1,10 +1,10 @@
 # ticarpi/jwt_tool - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 543
+☋ Forks: 544
 
-★ Stars: 3985
+★ Stars: 3989
 
 [Open repository](https://github.com/ticarpi/jwt_tool)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3989 | 544 | 
 | 2023-04-15 | 3985 | 543 | 
 | 2023-04-13 | 3982 | 543 | 
 | 2023-04-12 | 3978 | 543 | 

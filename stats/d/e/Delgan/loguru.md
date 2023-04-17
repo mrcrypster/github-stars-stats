@@ -1,10 +1,10 @@
 # Delgan/loguru - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 596
 
-★ Stars: 14650
+★ Stars: 14657
 
 [Open repository](https://github.com/Delgan/loguru)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 14657 | 596 | 
 | 2023-04-15 | 14650 | 596 | 
 | 2023-04-13 | 14643 | 596 | 
 | 2023-04-12 | 14637 | 595 | 

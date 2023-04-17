@@ -1,10 +1,10 @@
 # NeoApplications/Neo-Store - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 63
 
-★ Stars: 1700
+★ Stars: 1701
 
 [Open repository](https://github.com/NeoApplications/Neo-Store)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1701 | 63 | 
 | 2023-04-14 | 1700 | 63 | 
 | 2023-04-13 | 1697 | 62 | 
 | 2023-04-12 | 1695 | 62 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1636 | 63 | 
 | 2023-03-19 | 1634 | 63 | 
 | 2023-03-18 | 1629 | 63 | 
-| 2023-03-17 | 1626 | 63 | 
 

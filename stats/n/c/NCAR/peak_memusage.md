@@ -1,6 +1,6 @@
 # NCAR/peak_memusage - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2 | 1 | 
 | 2023-04-14 | 2 | 1 | 
 | 2023-04-13 | 2 | 1 | 
 | 2023-04-12 | 2 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 2 | 1 | 
 | 2023-03-19 | 2 | 1 | 
 | 2023-03-18 | 2 | 1 | 
-| 2023-03-17 | 2 | 1 | 
 

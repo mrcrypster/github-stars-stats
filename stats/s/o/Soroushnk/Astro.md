@@ -1,10 +1,10 @@
 # Soroushnk/Astro - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
-☋ Forks: 36
+☋ Forks: 39
 
-★ Stars: 184
+★ Stars: 189
 
 [Open repository](https://github.com/Soroushnk/Astro)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 189 | 39 | 
+| 2023-04-16 | 189 | 38 | 
 | 2023-04-15 | 184 | 36 | 
 | 2023-04-13 | 169 | 34 | 
 | 2023-04-12 | 167 | 33 | 

@@ -1,10 +1,10 @@
 # Forairaaaaa/Chappie-II - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 131
+★ Stars: 139
 
 [Open repository](https://github.com/Forairaaaaa/Chappie-II)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 139 | 22 | 
 | 2023-04-14 | 131 | 20 | 
 | 2023-04-13 | 124 | 19 | 
 | 2023-04-12 | 123 | 19 | 

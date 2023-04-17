@@ -1,6 +1,6 @@
 # libjpeg-turbo/libjpeg-turbo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 910
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3225 | 910 | 
 | 2023-04-14 | 3225 | 910 | 
 | 2023-04-13 | 3224 | 909 | 
 | 2023-04-12 | 3224 | 908 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 3202 | 902 | 
 | 2023-03-20 | 3200 | 902 | 
 | 2023-03-18 | 3200 | 902 | 
-| 2023-03-17 | 3200 | 900 | 
 

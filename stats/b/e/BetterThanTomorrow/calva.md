@@ -1,10 +1,10 @@
 # BetterThanTomorrow/calva - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 200
 
-★ Stars: 1275
+★ Stars: 1274
 
 [Open repository](https://github.com/BetterThanTomorrow/calva)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1274 | 200 | 
 | 2023-04-14 | 1275 | 200 | 
 | 2023-04-13 | 1273 | 200 | 
 | 2023-04-12 | 1273 | 200 | 

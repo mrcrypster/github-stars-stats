@@ -1,6 +1,6 @@
 # devforth/hothost - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 112 | 5 | 
 | 2023-04-14 | 112 | 5 | 
 | 2023-04-13 | 111 | 4 | 
 | 2023-04-12 | 110 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 106 | 4 | 
 | 2023-03-19 | 106 | 4 | 
 | 2023-03-18 | 106 | 4 | 
-| 2023-03-17 | 106 | 4 | 
 

@@ -1,6 +1,6 @@
 # JuliaStats/StatsModels.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 228 | 29 | 
 | 2023-04-14 | 228 | 29 | 
 | 2023-04-13 | 228 | 29 | 
 | 2023-04-12 | 228 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 223 | 30 | 
 | 2023-03-20 | 223 | 30 | 
 | 2023-03-18 | 223 | 29 | 
-| 2023-03-17 | 223 | 29 | 
 

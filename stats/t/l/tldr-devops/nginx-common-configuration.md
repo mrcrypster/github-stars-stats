@@ -1,6 +1,6 @@
 # tldr-devops/nginx-common-configuration - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 566 | 16 | 
 | 2023-04-14 | 566 | 16 | 
 | 2023-04-13 | 566 | 16 | 
 | 2023-04-12 | 566 | 16 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 566 | 16 | 
 | 2023-03-20 | 566 | 17 | 
 | 2023-03-19 | 566 | 17 | 
-| 2023-03-17 | 566 | 17 | 
 

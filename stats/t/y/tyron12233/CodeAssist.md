@@ -1,10 +1,10 @@
 # tyron12233/CodeAssist - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 133
+☋ Forks: 132
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/tyron12233/CodeAssist)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 698 | 132 | 
 | 2023-04-15 | 697 | 133 | 
 | 2023-04-13 | 697 | 133 | 
 | 2023-04-12 | 697 | 133 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 685 | 138 | 
 | 2023-03-19 | 685 | 138 | 
 | 2023-03-18 | 684 | 139 | 
-| 2023-03-17 | 683 | 139 | 
 

@@ -1,10 +1,10 @@
 # post-cyberlabs/Offensive_tools - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 359
+★ Stars: 364
 
 [Open repository](https://github.com/post-cyberlabs/Offensive_tools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 364 | 77 | 
 | 2023-04-15 | 359 | 76 | 
 | 2023-04-13 | 348 | 74 | 
 | 2023-04-12 | 349 | 74 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 345 | 73 | 
 | 2023-03-19 | 344 | 73 | 
 | 2023-03-18 | 343 | 72 | 
-| 2023-03-17 | 343 | 72 | 
 

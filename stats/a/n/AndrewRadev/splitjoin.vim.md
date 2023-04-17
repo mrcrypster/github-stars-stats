@@ -1,6 +1,6 @@
 # AndrewRadev/splitjoin.vim - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1797 | 85 | 
 | 2023-04-15 | 1797 | 85 | 
 | 2023-04-14 | 1793 | 85 | 
 | 2023-04-13 | 1793 | 85 | 

@@ -1,10 +1,10 @@
 # jobbole/awesome-cpp-cn - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1883
+☋ Forks: 1886
 
-★ Stars: 7406
+★ Stars: 7430
 
 [Open repository](https://github.com/jobbole/awesome-cpp-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7430 | 1886 | 
 | 2023-04-14 | 7406 | 1883 | 
 | 2023-04-13 | 7396 | 1883 | 
 

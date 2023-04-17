@@ -1,6 +1,6 @@
 # inertiajs/inertia - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4961 | 325 | 
 | 2023-04-14 | 4961 | 325 | 
 | 2023-04-13 | 4955 | 325 | 
 | 2023-04-12 | 4953 | 325 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 4901 | 321 | 
 | 2023-03-20 | 4899 | 320 | 
 | 2023-03-19 | 4900 | 320 | 
-| 2023-03-18 | 4899 | 319 | 
 

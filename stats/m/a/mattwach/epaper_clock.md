@@ -1,6 +1,6 @@
 # mattwach/epaper_clock - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 35 | 5 | 
 | 2023-04-14 | 35 | 5 | 
 | 2023-04-13 | 35 | 5 | 
 | 2023-04-11 | 35 | 5 | 
@@ -32,5 +33,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 35 | 5 | 
 | 2023-03-20 | 35 | 5 | 
 | 2023-03-19 | 35 | 5 | 
-| 2023-03-17 | 35 | 5 | 
 

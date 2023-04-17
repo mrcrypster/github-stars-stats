@@ -1,10 +1,10 @@
 # lsd-rs/lsd - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 317
+☋ Forks: 318
 
-★ Stars: 9659
+★ Stars: 9667
 
 [Open repository](https://github.com/lsd-rs/lsd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 9667 | 318 | 
 | 2023-04-14 | 9659 | 317 | 
 | 2023-04-13 | 9644 | 317 | 
 | 2023-04-12 | 9636 | 316 | 

@@ -1,6 +1,6 @@
 # MiscellaneousStuff/meta-sam-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 49 | 11 | 
 | 2023-04-14 | 49 | 11 | 
 | 2023-04-13 | 46 | 10 | 
 | 2023-04-12 | 45 | 10 | 

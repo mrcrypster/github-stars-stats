@@ -1,10 +1,10 @@
 # 0thElement/ArcCreate - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 134
+★ Stars: 136
 
 [Open repository](https://github.com/0thElement/ArcCreate)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 136 | 15 | 
 | 2023-04-14 | 134 | 14 | 
 | 2023-04-13 | 130 | 14 | 
 | 2023-04-12 | 126 | 14 | 

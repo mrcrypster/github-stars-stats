@@ -1,10 +1,10 @@
 # dr007bot/MLTB - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 38
+☋ Forks: 41
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/dr007bot/MLTB)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4 | 41 | 
 | 2023-04-14 | 3 | 38 | 
 | 2023-04-13 | 3 | 37 | 
 | 2023-04-12 | 3 | 37 | 

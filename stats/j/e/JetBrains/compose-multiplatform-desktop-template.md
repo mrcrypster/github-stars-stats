@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 32
 
 [Open repository](https://github.com/JetBrains/compose-multiplatform-desktop-template)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 26 | 3 | 
+| 2023-04-16 | 32 | 3 | 
 | 2023-04-15 | 25 | 3 | 
 

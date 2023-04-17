@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 15
 
-★ Stars: 207
+★ Stars: 209
 
 [Open repository](https://github.com/deniscerri/ytdlnis)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 207 | 15 | 
+| 2023-04-16 | 209 | 15 | 
 | 2023-04-15 | 206 | 13 | 
 

@@ -1,6 +1,6 @@
 # Sgrygorczuk/Flappy_Bird_Demo - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 8 | 
 | 2023-04-15 | - | 8 | 
 | 2023-04-13 | - | 8 | 
 | 2023-04-12 | - | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | - | 8 | 
 | 2023-03-20 | - | 8 | 
 | 2023-03-18 | - | 8 | 
-| 2023-03-17 | - | 8 | 
 

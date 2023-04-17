@@ -1,6 +1,6 @@
 # hmrc/accessibility-statement-frontend - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 9 | 70 | 
 | 2023-04-15 | 9 | 70 | 
 | 2023-04-14 | 9 | 70 | 
 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 383
 
-★ Stars: 3068
+★ Stars: 3079
 
 [Open repository](https://github.com/SagerNet/sing-box)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 3068 | 383 | 
+| 2023-04-16 | 3079 | 383 | 
 | 2023-04-14 | 3053 | 384 | 
 | 2023-04-13 | 3037 | 380 | 
 | 2023-04-12 | 3022 | 380 | 

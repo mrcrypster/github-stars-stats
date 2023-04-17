@@ -1,6 +1,6 @@
 # cachix/cachix-deploy-hetzner-dedicated - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 16 | 2 | 
 | 2023-04-15 | 16 | 2 | 
 | 2023-04-13 | 16 | 2 | 
 | 2023-04-12 | 17 | 2 | 

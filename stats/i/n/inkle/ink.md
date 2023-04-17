@@ -1,10 +1,10 @@
 # inkle/ink - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 452
 
-★ Stars: 3479
+★ Stars: 3481
 
 [Open repository](https://github.com/inkle/ink)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3481 | 452 | 
 | 2023-04-14 | 3479 | 452 | 
 | 2023-04-13 | 3479 | 452 | 
 | 2023-04-12 | 3478 | 452 | 

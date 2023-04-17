@@ -1,6 +1,6 @@
 # sveltejs/svelte-devtools - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 922 | 58 | 
 | 2023-04-14 | 922 | 58 | 
 | 2023-04-13 | 922 | 58 | 
 | 2023-04-12 | 922 | 58 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 912 | 57 | 
 | 2023-03-20 | 911 | 57 | 
 | 2023-03-18 | 910 | 57 | 
-| 2023-03-17 | 910 | 57 | 
 

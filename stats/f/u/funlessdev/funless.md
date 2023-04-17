@@ -1,10 +1,10 @@
 # funlessdev/funless - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/funlessdev/funless)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 26 | 2 | 
 | 2023-04-14 | 27 | 2 | 
 | 2023-04-13 | 27 | 2 | 
 | 2023-04-12 | 27 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 25 | 2 | 
 | 2023-03-19 | 25 | 2 | 
 | 2023-03-18 | 25 | 2 | 
-| 2023-03-17 | 25 | 2 | 
 

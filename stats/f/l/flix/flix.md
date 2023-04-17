@@ -1,8 +1,8 @@
 # flix/flix - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 1702
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1702 | 118 | 
 | 2023-04-14 | 1702 | 117 | 
 | 2023-04-13 | 1701 | 117 | 
 | 2023-04-12 | 1700 | 117 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1679 | 116 | 
 | 2023-03-19 | 1679 | 116 | 
 | 2023-03-18 | 1677 | 116 | 
-| 2023-03-17 | 1675 | 116 | 
 

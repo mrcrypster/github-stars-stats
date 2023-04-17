@@ -1,10 +1,10 @@
 # smartcontractkit/documentation - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 304
 
-★ Stars: 234
+★ Stars: 235
 
 [Open repository](https://github.com/smartcontractkit/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 235 | 304 | 
 | 2023-04-14 | 234 | 304 | 
 | 2023-04-13 | 234 | 302 | 
 | 2023-04-12 | 234 | 302 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 227 | 295 | 
 | 2023-03-20 | 226 | 296 | 
 | 2023-03-19 | 226 | 296 | 
-| 2023-03-17 | 226 | 296 | 
 

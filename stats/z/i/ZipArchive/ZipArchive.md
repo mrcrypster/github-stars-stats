@@ -1,6 +1,6 @@
 # ZipArchive/ZipArchive - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1276
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5216 | 1276 | 
 | 2023-04-14 | 5216 | 1276 | 
 | 2023-04-13 | 5215 | 1275 | 
 | 2023-04-12 | 5213 | 1274 | 

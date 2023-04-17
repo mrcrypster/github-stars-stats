@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 115
+★ Stars: 153
 
 [Open repository](https://github.com/Bryley/neoai.nvim)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 115 | 5 | 
+| 2023-04-16 | 153 | 6 | 
 | 2023-04-15 | 100 | 6 | 
 

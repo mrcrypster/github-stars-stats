@@ -1,10 +1,10 @@
 # akoutmos/nerves_weather_station - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/akoutmos/nerves_weather_station)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 36 | 5 | 
 | 2023-04-15 | 35 | 5 | 
 | 2023-04-13 | 35 | 5 | 
 | 2023-04-12 | 35 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 34 | 5 | 
 | 2023-03-19 | 34 | 5 | 
 | 2023-03-18 | 34 | 5 | 
-| 2023-03-17 | 34 | 5 | 
 

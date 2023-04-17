@@ -1,10 +1,10 @@
 # blacksmithgu/obsidian-dataview - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 274
+☋ Forks: 275
 
-★ Stars: 4184
+★ Stars: 4193
 
 [Open repository](https://github.com/blacksmithgu/obsidian-dataview)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4193 | 275 | 
 | 2023-04-15 | 4184 | 274 | 
 | 2023-04-13 | 4180 | 272 | 
 | 2023-04-12 | 4173 | 273 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 4048 | 259 | 
 | 2023-03-19 | 4038 | 259 | 
 | 2023-03-18 | 4034 | 259 | 
-| 2023-03-17 | 4022 | 257 | 
 

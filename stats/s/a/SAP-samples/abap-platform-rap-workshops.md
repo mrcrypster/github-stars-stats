@@ -1,8 +1,8 @@
 # SAP-samples/abap-platform-rap-workshops - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 49
+☋ Forks: 48
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 83 | 48 | 
 | 2023-04-14 | 83 | 49 | 
 | 2023-04-13 | 82 | 49 | 
 | 2023-04-12 | 82 | 49 | 

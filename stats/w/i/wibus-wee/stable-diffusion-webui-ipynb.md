@@ -1,10 +1,10 @@
 # wibus-wee/stable-diffusion-webui-ipynb - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 248
+★ Stars: 250
 
 [Open repository](https://github.com/wibus-wee/stable-diffusion-webui-ipynb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 250 | 42 | 
 | 2023-04-15 | 248 | 41 | 
 | 2023-04-13 | 245 | 40 | 
 | 2023-04-12 | 242 | 38 | 

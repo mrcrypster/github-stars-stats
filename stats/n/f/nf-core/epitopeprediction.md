@@ -1,6 +1,6 @@
 # nf-core/epitopeprediction - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 25 | 18 | 
 | 2023-04-14 | 25 | 18 | 
 | 2023-04-13 | 25 | 18 | 
 | 2023-04-12 | 25 | 18 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 25 | 18 | 
 | 2023-03-20 | 25 | 18 | 
 | 2023-03-19 | 25 | 18 | 
-| 2023-03-17 | 25 | 18 | 
 

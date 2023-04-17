@@ -1,6 +1,6 @@
 # temporalio/api - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 53 | 55 | 
 | 2023-04-15 | 53 | 55 | 
 | 2023-04-13 | 53 | 55 | 
 | 2023-04-12 | 53 | 55 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 50 | 53 | 
 | 2023-03-19 | 50 | 53 | 
 | 2023-03-18 | 50 | 53 | 
-| 2023-03-17 | 50 | 53 | 
 

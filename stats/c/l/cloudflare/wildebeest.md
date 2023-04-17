@@ -1,6 +1,6 @@
 # cloudflare/wildebeest - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1851 | 371 | 
 | 2023-04-14 | 1851 | 371 | 
 | 2023-04-13 | 1852 | 371 | 
 | 2023-04-12 | 1847 | 371 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1829 | 359 | 
 | 2023-03-20 | 1827 | 358 | 
 | 2023-03-18 | 1825 | 357 | 
-| 2023-03-17 | 1823 | 359 | 
 

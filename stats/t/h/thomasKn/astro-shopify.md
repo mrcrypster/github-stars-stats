@@ -1,10 +1,10 @@
 # thomasKn/astro-shopify - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/thomasKn/astro-shopify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 55 | 22 | 
 | 2023-04-14 | 53 | 22 | 
 | 2023-04-13 | 50 | 22 | 
 | 2023-04-12 | 50 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 38 | 14 | 
 | 2023-03-19 | 38 | 14 | 
 | 2023-03-18 | 37 | 13 | 
-| 2023-03-17 | 37 | 13 | 
 

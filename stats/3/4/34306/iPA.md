@@ -1,10 +1,10 @@
 # 34306/iPA - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/34306/iPA)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 51 | 6 | 
 | 2023-04-15 | 50 | 6 | 
 | 2023-04-14 | 50 | 6 | 
 | 2023-04-13 | 50 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 43 | 5 | 
 | 2023-03-20 | 43 | 5 | 
 | 2023-03-18 | 43 | 5 | 
-| 2023-03-17 | 43 | 5 | 
 

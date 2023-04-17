@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 10749
 
-★ Stars: 8470
+★ Stars: 8471
 
 [Open repository](https://github.com/woocommerce/woocommerce)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 8470 | 10749 | 
+| 2023-04-16 | 8471 | 10749 | 
 | 2023-04-15 | 8473 | 10750 | 
 | 2023-04-14 | 8476 | 10748 | 
 | 2023-04-13 | 8476 | 10750 | 
@@ -40,5 +40,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-20 | 8439 | 10707 | 
 | 2023-03-19 | 8436 | 10706 | 
 | 2023-03-18 | 8435 | 10705 | 
-| 2023-03-17 | 8435 | 10704 | 
 

@@ -1,10 +1,10 @@
 # opentween/OpenTween - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 80
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/opentween/OpenTween)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 247 | 80 | 
 | 2023-04-14 | 246 | 80 | 
 | 2023-04-13 | 246 | 80 | 
 | 2023-04-12 | 246 | 80 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 246 | 80 | 
 | 2023-03-19 | 246 | 80 | 
 | 2023-03-18 | 246 | 80 | 
-| 2023-03-17 | 246 | 80 | 
 

@@ -1,10 +1,10 @@
 # lumberdev/tesserae - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 103
+★ Stars: 105
 
 [Open repository](https://github.com/lumberdev/tesserae)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 105 | 2 | 
 | 2023-04-15 | 103 | 2 | 
 | 2023-04-13 | 101 | 2 | 
 | 2023-04-12 | 100 | 2 | 

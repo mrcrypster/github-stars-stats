@@ -1,10 +1,10 @@
 # eglinuxer/study_cmake - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 11
+☋ Forks: 10
 
-★ Stars: 78
+★ Stars: 83
 
 [Open repository](https://github.com/eglinuxer/study_cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 83 | 10 | 
 | 2023-04-14 | 78 | 11 | 
 | 2023-04-13 | 76 | 11 | 
 | 2023-04-12 | 75 | 11 | 

@@ -1,10 +1,10 @@
 # kettanaito/naming-cheatsheet - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 748
+☋ Forks: 745
 
-★ Stars: 12376
+★ Stars: 12388
 
 [Open repository](https://github.com/kettanaito/naming-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 12388 | 745 | 
 | 2023-04-14 | 12376 | 748 | 
 | 2023-04-13 | 12356 | 748 | 
 | 2023-04-12 | 12347 | 746 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 11912 | 712 | 
 | 2023-03-19 | 11865 | 711 | 
 | 2023-03-18 | 11828 | 707 | 
-| 2023-03-17 | 11816 | 706 | 
 

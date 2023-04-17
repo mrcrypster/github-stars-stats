@@ -1,10 +1,10 @@
 # wbthomason/packer.nvim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 6176
+★ Stars: 6198
 
 [Open repository](https://github.com/wbthomason/packer.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6198 | 233 | 
 | 2023-04-14 | 6176 | 232 | 
 | 2023-04-13 | 6173 | 232 | 
 | 2023-04-12 | 6168 | 232 | 

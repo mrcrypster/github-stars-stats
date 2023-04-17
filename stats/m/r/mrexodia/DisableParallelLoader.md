@@ -1,8 +1,8 @@
 # mrexodia/DisableParallelLoader - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 13 | 3 | 
 | 2023-04-15 | 13 | 2 | 
 | 2023-04-13 | 13 | 2 | 
 | 2023-04-12 | 13 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 12 | 2 | 
 | 2023-03-20 | 12 | 2 | 
 | 2023-03-18 | 12 | 2 | 
-| 2023-03-17 | 12 | 2 | 
 

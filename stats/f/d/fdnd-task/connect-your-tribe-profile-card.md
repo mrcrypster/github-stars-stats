@@ -1,6 +1,6 @@
 # fdnd-task/connect-your-tribe-profile-card - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 77 | 
 | 2023-04-15 | - | 77 | 
 | 2023-04-13 | - | 77 | 
 | 2023-04-12 | - | 77 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | - | 78 | 
 | 2023-03-20 | - | 78 | 
 | 2023-03-19 | - | 77 | 
-| 2023-03-17 | - | 77 | 
 

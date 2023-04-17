@@ -1,6 +1,6 @@
 # patriciogonzalezvivo/lygia_threejs_examples - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 26 | 3 | 
 | 2023-04-15 | 26 | 3 | 
 | 2023-04-13 | 25 | 3 | 
 | 2023-04-12 | 25 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 24 | 2 | 
 | 2023-03-20 | 24 | 2 | 
 | 2023-03-18 | 24 | 2 | 
-| 2023-03-17 | 24 | 2 | 
 

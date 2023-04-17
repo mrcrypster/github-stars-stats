@@ -1,6 +1,6 @@
 # micronaut-projects/micronaut-openapi - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 69 | 84 | 
 | 2023-04-15 | 69 | 84 | 
 | 2023-04-13 | 69 | 83 | 
 | 2023-04-12 | 69 | 83 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 67 | 83 | 
 | 2023-03-20 | 67 | 83 | 
 | 2023-03-18 | 67 | 83 | 
-| 2023-03-17 | 67 | 83 | 
 

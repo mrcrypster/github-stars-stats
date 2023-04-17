@@ -1,8 +1,8 @@
 # pwned4ever/Th0r_Freya - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 86 | 19 | 
 | 2023-04-14 | 86 | 18 | 
 | 2023-04-13 | 86 | 18 | 
 | 2023-04-12 | 86 | 18 | 

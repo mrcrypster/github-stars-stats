@@ -1,10 +1,10 @@
 # ropensci/targets - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 61
 
-★ Stars: 717
+★ Stars: 719
 
 [Open repository](https://github.com/ropensci/targets)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 719 | 61 | 
+| 2023-04-16 | 717 | 61 | 
 | 2023-04-15 | 717 | 61 | 
 | 2023-04-13 | 717 | 61 | 
 | 2023-04-12 | 716 | 62 | 
@@ -35,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 706 | 61 | 
 | 2023-03-20 | 705 | 61 | 
 | 2023-03-18 | 705 | 61 | 
-| 2023-03-17 | 705 | 61 | 
 

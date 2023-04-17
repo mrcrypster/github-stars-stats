@@ -1,10 +1,10 @@
 # eth-brownie/brownie - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 515
 
-★ Stars: 2408
+★ Stars: 2411
 
 [Open repository](https://github.com/eth-brownie/brownie)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2411 | 515 | 
 | 2023-04-14 | 2408 | 515 | 
 | 2023-04-13 | 2406 | 514 | 
 | 2023-04-11 | 2400 | 513 | 

@@ -1,6 +1,6 @@
 # vishalnagda1/windows-10-activator - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 24 | 44 | 
 | 2023-04-14 | 24 | 44 | 
 | 2023-04-13 | 23 | 44 | 
 | 2023-04-12 | 23 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 21 | 44 | 
 | 2023-03-20 | 21 | 44 | 
 | 2023-03-19 | 21 | 44 | 
-| 2023-03-18 | 21 | 44 | 
 

@@ -1,10 +1,10 @@
 # linuxserver/docker-mstream - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/linuxserver/docker-mstream)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 41 | 10 | 
 | 2023-04-14 | 40 | 9 | 
 | 2023-04-13 | 40 | 9 | 
 | 2023-04-12 | 40 | 9 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 40 | 8 | 
 | 2023-03-20 | 40 | 8 | 
 | 2023-03-19 | 40 | 8 | 
-| 2023-03-18 | 40 | 8 | 
 

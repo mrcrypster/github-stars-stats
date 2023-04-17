@@ -1,10 +1,10 @@
 # jcard0na/haxo-hw - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 556
+★ Stars: 557
 
 [Open repository](https://github.com/jcard0na/haxo-hw)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 557 | 14 | 
 | 2023-04-14 | 556 | 14 | 
 | 2023-04-13 | 556 | 14 | 
 | 2023-04-12 | 556 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 520 | 14 | 
 | 2023-03-19 | 520 | 13 | 
 | 2023-03-18 | 516 | 13 | 
-| 2023-03-17 | 512 | 13 | 
 

@@ -1,10 +1,10 @@
 # chaosblade-io/chaosblade - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 876
 
-★ Stars: 5264
+★ Stars: 5265
 
 [Open repository](https://github.com/chaosblade-io/chaosblade)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5265 | 876 | 
 | 2023-04-14 | 5264 | 876 | 
 | 2023-04-13 | 5261 | 876 | 
 | 2023-04-12 | 5257 | 876 | 

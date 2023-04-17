@@ -1,10 +1,10 @@
 # twitter/cassovary - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 152
 
-★ Stars: 1034
+★ Stars: 1035
 
 [Open repository](https://github.com/twitter/cassovary)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1035 | 152 | 
 | 2023-04-14 | 1034 | 152 | 
 | 2023-04-13 | 1034 | 152 | 
 | 2023-04-12 | 1034 | 152 | 

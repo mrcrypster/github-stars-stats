@@ -1,10 +1,10 @@
 # NostrGit/NostrGit - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 24
 
-★ Stars: 197
+★ Stars: 196
 
 [Open repository](https://github.com/NostrGit/NostrGit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 196 | 24 | 
 | 2023-04-15 | 197 | 24 | 
 | 2023-04-13 | 196 | 24 | 
 | 2023-04-12 | 194 | 23 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 167 | 20 | 
 | 2023-03-20 | 165 | 20 | 
 | 2023-03-19 | 158 | 19 | 
-| 2023-03-17 | 157 | 18 | 
 

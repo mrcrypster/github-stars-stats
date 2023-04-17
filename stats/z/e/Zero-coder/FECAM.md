@@ -1,6 +1,6 @@
 # Zero-coder/FECAM - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 30 | 15 | 
 | 2023-04-15 | 30 | 15 | 
 | 2023-04-13 | 30 | 15 | 
 | 2023-04-12 | 30 | 15 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 29 | 14 | 
 | 2023-03-19 | 28 | 13 | 
 | 2023-03-18 | 28 | 13 | 
-| 2023-03-17 | 28 | 13 | 
 

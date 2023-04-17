@@ -1,10 +1,10 @@
 # rvaiya/keyd - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 1013
+★ Stars: 1017
 
 [Open repository](https://github.com/rvaiya/keyd)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1017 | 77 | 
 | 2023-04-15 | 1013 | 76 | 
 | 2023-04-13 | 1010 | 76 | 
 | 2023-04-12 | 1008 | 76 | 

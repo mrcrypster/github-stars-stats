@@ -1,6 +1,6 @@
 # sayajin-labs/kakarot-ssj - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 39 | 12 | 
 | 2023-04-14 | 39 | 12 | 
 | 2023-04-13 | 38 | 12 | 
 | 2023-04-12 | 35 | 12 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 33 | 11 | 
 | 2023-03-20 | 33 | 11 | 
 | 2023-03-19 | 33 | 11 | 
-| 2023-03-17 | 33 | 10 | 
 

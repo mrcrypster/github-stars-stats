@@ -1,10 +1,10 @@
 # 41north/ethereum.nix - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/41north/ethereum.nix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 39 | 3 | 
 | 2023-04-15 | 38 | 3 | 
 | 2023-04-13 | 37 | 2 | 
 | 2023-04-12 | 37 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 35 | 2 | 
 | 2023-03-20 | 34 | 2 | 
 | 2023-03-18 | 34 | 2 | 
-| 2023-03-17 | 34 | 2 | 
 

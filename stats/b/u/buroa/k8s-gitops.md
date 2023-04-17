@@ -1,10 +1,10 @@
 # buroa/k8s-gitops - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/buroa/k8s-gitops)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 10 | - | 
 | 2023-04-15 | 9 | - | 
 | 2023-04-14 | 9 | - | 
 

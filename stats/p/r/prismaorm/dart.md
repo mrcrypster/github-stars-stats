@@ -1,6 +1,6 @@
 # prismaorm/dart - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 212 | 12 | 
 | 2023-04-15 | 212 | 12 | 
 | 2023-04-13 | 212 | 12 | 
 | 2023-04-12 | 212 | 12 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 205 | 10 | 
 | 2023-03-19 | 203 | 10 | 
 | 2023-03-18 | 203 | 10 | 
-| 2023-03-17 | 202 | 10 | 
 

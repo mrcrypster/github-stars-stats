@@ -1,10 +1,10 @@
 # isl-org/Open3D - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1933
 
-★ Stars: 8451
+★ Stars: 8454
 
 [Open repository](https://github.com/isl-org/Open3D)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 8454 | 1933 | 
 | 2023-04-14 | 8451 | 1933 | 
 | 2023-04-13 | 8445 | 1932 | 
 | 2023-04-12 | 8439 | 1931 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 8307 | 1911 | 
 | 2023-03-20 | 8296 | 1908 | 
 | 2023-03-18 | 8290 | 1909 | 
-| 2023-03-17 | 8278 | 1908 | 
 

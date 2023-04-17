@@ -1,10 +1,10 @@
 # dotnet/msbuild - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1324
+☋ Forks: 1325
 
-★ Stars: 4930
+★ Stars: 4931
 
 [Open repository](https://github.com/dotnet/msbuild)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4931 | 1325 | 
 | 2023-04-15 | 4930 | 1324 | 
 | 2023-04-13 | 4930 | 1323 | 
 | 2023-04-12 | 4930 | 1322 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 4916 | 1314 | 
 | 2023-03-20 | 4917 | 1314 | 
 | 2023-03-19 | 4917 | 1314 | 
-| 2023-03-17 | 4917 | 1314 | 
 

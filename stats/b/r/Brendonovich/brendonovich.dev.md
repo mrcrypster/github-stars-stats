@@ -1,6 +1,6 @@
 # Brendonovich/brendonovich.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 15 | 3 | 
 | 2023-04-14 | 15 | 3 | 
 | 2023-04-13 | 15 | 3 | 
 | 2023-04-12 | 15 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 15 | 4 | 
 | 2023-03-19 | 15 | 5 | 
 | 2023-03-18 | 15 | 5 | 
-| 2023-03-17 | 15 | 5 | 
 

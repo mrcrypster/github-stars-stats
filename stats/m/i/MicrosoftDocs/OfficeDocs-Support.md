@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 345
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-Support)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 114 | 345 | 
+| 2023-04-16 | 115 | 345 | 
 | 2023-04-15 | 114 | 345 | 
 | 2023-04-14 | 114 | 346 | 
 | 2023-04-13 | 113 | 345 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 107 | 343 | 
 | 2023-03-20 | 107 | 343 | 
 | 2023-03-19 | 107 | 343 | 
-| 2023-03-17 | 107 | 342 | 
 

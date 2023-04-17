@@ -1,8 +1,8 @@
 # krazyjakee/nodot - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 53 | 4 | 
 | 2023-04-14 | 53 | 3 | 
 | 2023-04-13 | 53 | 3 | 
 | 2023-04-12 | 53 | 3 | 

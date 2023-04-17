@@ -1,10 +1,10 @@
 # Priler/jarvis - stars & forks statistics
 
-Stats updated on Apr 2023, 16
+Stats updated on Apr 2023, 17
 
-☋ Forks: 52
+☋ Forks: 63
 
-★ Stars: 190
+★ Stars: 245
 
 [Open repository](https://github.com/Priler/jarvis)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 190 | 52 | 
+| 2023-04-17 | 245 | 63 | 
+| 2023-04-16 | 232 | 61 | 
 | 2023-04-15 | 133 | 48 | 
 

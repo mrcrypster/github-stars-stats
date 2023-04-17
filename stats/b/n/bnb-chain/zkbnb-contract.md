@@ -1,6 +1,6 @@
 # bnb-chain/zkbnb-contract - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 30 | 25 | 
 | 2023-04-14 | 30 | 25 | 
 | 2023-04-13 | 30 | 25 | 
 | 2023-04-12 | 30 | 25 | 

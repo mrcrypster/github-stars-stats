@@ -1,10 +1,10 @@
 # leonhartyao/gazebo_models_worlds_collection - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 71
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/leonhartyao/gazebo_models_worlds_collection)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 166 | 71 | 
 | 2023-04-14 | 165 | 71 | 
 | 2023-04-13 | 165 | 71 | 
 | 2023-04-12 | 164 | 71 | 

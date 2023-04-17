@@ -1,10 +1,10 @@
 # jackie2009/blockWeightTerrainRender - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/jackie2009/blockWeightTerrainRender)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21 | 4 | 
 | 2023-04-15 | 20 | 4 | 
 | 2023-04-13 | 20 | 4 | 
 | 2023-04-12 | 20 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 20 | 4 | 
 | 2023-03-19 | 20 | 4 | 
 | 2023-03-18 | 20 | 4 | 
-| 2023-03-17 | 20 | 4 | 
 

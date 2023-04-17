@@ -1,6 +1,6 @@
 # santoshyadavdev/angular-snippets - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 89 | 18 | 
 | 2023-04-14 | 89 | 18 | 
 | 2023-04-13 | 89 | 18 | 
 | 2023-04-12 | 89 | 18 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 86 | 18 | 
 | 2023-03-20 | 85 | 18 | 
 | 2023-03-19 | 85 | 18 | 
-| 2023-03-18 | 85 | 18 | 
 

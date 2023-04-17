@@ -1,10 +1,10 @@
 # CodeZombie/latentcoupleregionmapper - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 64
+★ Stars: 68
 
 [Open repository](https://github.com/CodeZombie/latentcoupleregionmapper)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 68 | 6 | 
 | 2023-04-15 | 64 | 6 | 
 | 2023-04-14 | 60 | 6 | 
 

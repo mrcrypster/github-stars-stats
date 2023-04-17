@@ -1,6 +1,6 @@
 # nf-core/diaproteomics - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 10 | 9 | 
 | 2023-04-15 | 10 | 9 | 
 | 2023-04-14 | 10 | 9 | 
 | 2023-04-13 | 10 | 9 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 10 | 8 | 
 | 2023-03-20 | 10 | 8 | 
 | 2023-03-19 | 10 | 8 | 
-| 2023-03-17 | 10 | 8 | 
 

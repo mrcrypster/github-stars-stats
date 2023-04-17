@@ -1,6 +1,6 @@
 # amit-salesforce/SFDXProject - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3 | 168 | 
 | 2023-04-14 | 3 | 168 | 
 | 2023-04-13 | 3 | 168 | 
 | 2023-04-12 | 3 | 168 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 2 | 167 | 
 | 2023-03-19 | 2 | 167 | 
 | 2023-03-18 | 2 | 167 | 
-| 2023-03-17 | 2 | 167 | 
 

@@ -1,6 +1,6 @@
 # Xpitfire/symbolicai - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 503 | 19 | 
 | 2023-04-14 | 503 | 19 | 
 | 2023-04-13 | 502 | 19 | 
 | 2023-04-12 | 496 | 19 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 473 | 19 | 
 | 2023-03-20 | 472 | 19 | 
 | 2023-03-18 | 456 | 19 | 
-| 2023-03-17 | 454 | 19 | 
 

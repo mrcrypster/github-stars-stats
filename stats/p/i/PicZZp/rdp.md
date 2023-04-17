@@ -1,8 +1,8 @@
 # PicZZp/rdp - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4 | 111 | 
 | 2023-04-14 | 4 | 110 | 
 | 2023-04-13 | 4 | 110 | 
 | 2023-04-12 | 4 | 109 | 

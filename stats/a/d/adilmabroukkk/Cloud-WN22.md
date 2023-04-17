@@ -1,6 +1,6 @@
 # adilmabroukkk/Cloud-WN22 - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 45 | 
 | 2023-04-15 | - | 45 | 
 | 2023-04-13 | - | 45 | 
 | 2023-04-12 | - | 45 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | - | 45 | 
 | 2023-03-19 | - | 45 | 
 | 2023-03-18 | - | 45 | 
-| 2023-03-17 | - | 45 | 
 

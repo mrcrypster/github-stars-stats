@@ -1,10 +1,10 @@
 # microsoft/p4vfs - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/microsoft/p4vfs)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 170 | 7 | 
 | 2023-04-14 | 169 | 7 | 
 | 2023-04-13 | 169 | 7 | 
 | 2023-04-12 | 169 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 155 | 6 | 
 | 2023-03-20 | 154 | 6 | 
 | 2023-03-19 | 151 | 6 | 
-| 2023-03-17 | 149 | 6 | 
 

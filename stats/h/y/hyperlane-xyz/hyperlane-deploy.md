@@ -1,10 +1,10 @@
 # hyperlane-xyz/hyperlane-deploy - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 5
+☋ Forks: 8
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/hyperlane-xyz/hyperlane-deploy)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5 | 8 | 
 | 2023-04-15 | 4 | 5 | 
 | 2023-04-13 | 4 | 5 | 
 | 2023-04-12 | 4 | 5 | 

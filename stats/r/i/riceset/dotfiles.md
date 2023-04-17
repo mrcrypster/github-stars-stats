@@ -1,6 +1,6 @@
 # riceset/dotfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 30 | - | 
 | 2023-04-15 | 30 | - | 
 | 2023-04-13 | 30 | - | 
 | 2023-04-12 | 30 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 31 | - | 
 | 2023-03-20 | 31 | - | 
 | 2023-03-19 | 31 | - | 
-| 2023-03-17 | 31 | - | 
 

@@ -1,6 +1,6 @@
 # janestreet/vcaml - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 110 | 3 | 
 | 2023-04-15 | 110 | 3 | 
 | 2023-04-13 | 110 | 3 | 
 | 2023-04-12 | 110 | 3 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 110 | 3 | 
 | 2023-03-20 | 110 | 3 | 
 | 2023-03-19 | 109 | 3 | 
-| 2023-03-17 | 109 | 3 | 
 

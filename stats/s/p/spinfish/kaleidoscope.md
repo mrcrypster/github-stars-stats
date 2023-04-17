@@ -1,8 +1,8 @@
 # spinfish/kaleidoscope - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 16
+☋ Forks: 18
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5 | 18 | 
 | 2023-04-15 | 5 | 16 | 
 | 2023-04-13 | 5 | 16 | 
 | 2023-04-12 | 5 | 16 | 

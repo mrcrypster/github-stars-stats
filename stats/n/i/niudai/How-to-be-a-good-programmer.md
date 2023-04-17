@@ -1,10 +1,10 @@
 # niudai/How-to-be-a-good-programmer - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 717
+☋ Forks: 716
 
-★ Stars: 3824
+★ Stars: 3825
 
 [Open repository](https://github.com/niudai/How-to-be-a-good-programmer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3825 | 716 | 
 | 2023-04-15 | 3824 | 717 | 
 | 2023-04-14 | 3824 | 717 | 
 | 2023-04-13 | 3824 | 716 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 3793 | 716 | 
 | 2023-03-19 | 3793 | 716 | 
 | 2023-03-18 | 3791 | 716 | 
-| 2023-03-17 | 3791 | 716 | 
 

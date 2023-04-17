@@ -1,6 +1,6 @@
 # vito/tree-sitter-bass - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 1 | 1 | 
+| 2023-04-16 | 1 | 1 | 
 | 2023-04-15 | 1 | 1 | 
 | 2023-04-14 | 1 | 1 | 
 | 2023-04-13 | 1 | 1 | 

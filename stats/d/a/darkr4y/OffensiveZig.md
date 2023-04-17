@@ -1,10 +1,10 @@
 # darkr4y/OffensiveZig - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/darkr4y/OffensiveZig)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 93 | 7 | 
 | 2023-04-15 | 92 | 7 | 
 | 2023-04-13 | 92 | 7 | 
 | 2023-04-12 | 92 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 89 | 7 | 
 | 2023-03-19 | 87 | 7 | 
 | 2023-03-18 | 87 | 7 | 
-| 2023-03-17 | 87 | 7 | 
 

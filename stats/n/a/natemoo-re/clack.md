@@ -1,10 +1,10 @@
 # natemoo-re/clack - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 46
 
-★ Stars: 3435
+★ Stars: 3441
 
 [Open repository](https://github.com/natemoo-re/clack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3441 | 46 | 
 | 2023-04-14 | 3435 | 46 | 
 | 2023-04-13 | 3432 | 46 | 
 | 2023-04-12 | 3430 | 46 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 3305 | 43 | 
 | 2023-03-20 | 3297 | 43 | 
 | 2023-03-18 | 3289 | 43 | 
-| 2023-03-17 | 3281 | 43 | 
 

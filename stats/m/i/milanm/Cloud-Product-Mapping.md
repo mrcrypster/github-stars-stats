@@ -1,10 +1,10 @@
 # milanm/Cloud-Product-Mapping - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 32
 
-★ Stars: 208
+★ Stars: 210
 
 [Open repository](https://github.com/milanm/Cloud-Product-Mapping)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 210 | 32 | 
 | 2023-04-15 | 208 | 32 | 
 | 2023-04-14 | 208 | 32 | 
 | 2023-04-13 | 208 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 195 | 28 | 
 | 2023-03-19 | 190 | 28 | 
 | 2023-03-18 | 181 | 26 | 
-| 2023-03-17 | 171 | 26 | 
 

@@ -1,10 +1,10 @@
 # webpack/webpack - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 8710
+☋ Forks: 8712
 
-★ Stars: 62939
+★ Stars: 62942
 
 [Open repository](https://github.com/webpack/webpack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 62942 | 8712 | 
 | 2023-04-15 | 62939 | 8710 | 
 | 2023-04-14 | 62930 | 8708 | 
 | 2023-04-13 | 62927 | 8708 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 62789 | 8690 | 
 | 2023-03-20 | 62785 | 8688 | 
 | 2023-03-18 | 62774 | 8687 | 
-| 2023-03-17 | 62761 | 8684 | 
 

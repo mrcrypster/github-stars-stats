@@ -1,10 +1,10 @@
 # bigintpro/csdn_downloader - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 71
 
-★ Stars: 581
+★ Stars: 586
 
 [Open repository](https://github.com/bigintpro/csdn_downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 586 | 71 | 
 | 2023-04-15 | 581 | 71 | 
 | 2023-04-13 | 575 | 70 | 
 | 2023-04-12 | 565 | 68 | 

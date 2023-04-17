@@ -1,10 +1,10 @@
 # langchain-ai/langchain-template-supabase - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 16
+☋ Forks: 20
 
-★ Stars: 249
+★ Stars: 259
 
 [Open repository](https://github.com/langchain-ai/langchain-template-supabase)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 259 | 20 | 
 | 2023-04-14 | 249 | 16 | 
 | 2023-04-13 | 230 | 14 | 
 | 2023-04-12 | 198 | 12 | 

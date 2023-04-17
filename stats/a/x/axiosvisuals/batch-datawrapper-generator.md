@@ -1,10 +1,10 @@
 # axiosvisuals/batch-datawrapper-generator - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/axiosvisuals/batch-datawrapper-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5 | - | 
 | 2023-04-14 | 4 | - | 
 | 2023-04-13 | 4 | - | 
 | 2023-04-12 | 4 | - | 

@@ -1,10 +1,10 @@
 # THUDM/ChatGLM-6B - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 2013
+☋ Forks: 2079
 
-★ Stars: 17489
+★ Stars: 17873
 
 [Open repository](https://github.com/THUDM/ChatGLM-6B)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 17873 | 2079 | 
 | 2023-04-14 | 17489 | 2013 | 
 | 2023-04-13 | 17179 | 1976 | 
 | 2023-04-12 | 16450 | 1875 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 6710 | 558 | 
 | 2023-03-19 | 6381 | 518 | 
 | 2023-03-18 | 5927 | 467 | 
-| 2023-03-17 | 5281 | 428 | 
 

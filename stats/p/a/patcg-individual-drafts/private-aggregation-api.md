@@ -1,6 +1,6 @@
 # patcg-individual-drafts/private-aggregation-api - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 18 | 3 | 
 | 2023-04-15 | 18 | 3 | 
 

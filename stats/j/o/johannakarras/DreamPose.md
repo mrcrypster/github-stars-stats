@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 272
+★ Stars: 304
 
 [Open repository](https://github.com/johannakarras/DreamPose)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 272 | 17 | 
+| 2023-04-16 | 304 | 18 | 
 | 2023-04-15 | 237 | 14 | 
 

@@ -1,6 +1,6 @@
 # geegaz/Multiple-Windows-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 50 | 3 | 
 | 2023-04-15 | 50 | 3 | 
 | 2023-04-14 | 50 | 3 | 
 | 2023-04-13 | 49 | 3 | 

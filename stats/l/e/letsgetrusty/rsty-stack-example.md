@@ -1,10 +1,10 @@
 # letsgetrusty/rsty-stack-example - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/letsgetrusty/rsty-stack-example)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 82 | 17 | 
 | 2023-04-15 | 81 | 16 | 
 | 2023-04-13 | 81 | 15 | 
 | 2023-04-12 | 80 | 15 | 

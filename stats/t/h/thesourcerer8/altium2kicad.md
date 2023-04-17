@@ -1,6 +1,6 @@
 # thesourcerer8/altium2kicad - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 732 | 144 | 
 | 2023-04-15 | 732 | 144 | 
 | 2023-04-13 | 731 | 144 | 
 | 2023-04-12 | 731 | 144 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 727 | 142 | 
 | 2023-03-19 | 726 | 142 | 
 | 2023-03-18 | 726 | 142 | 
-| 2023-03-17 | 726 | 142 | 
 

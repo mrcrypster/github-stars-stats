@@ -1,10 +1,10 @@
 # ValkyrienSkies/Valkyrien-Skies-2 - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 28
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/ValkyrienSkies/Valkyrien-Skies-2)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 98 | 28 | 
 | 2023-04-15 | 97 | 28 | 
 | 2023-04-13 | 97 | 28 | 
 | 2023-04-12 | 97 | 28 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 92 | 26 | 
 | 2023-03-19 | 92 | 26 | 
 | 2023-03-18 | 92 | 26 | 
-| 2023-03-17 | 92 | 26 | 
 

@@ -1,10 +1,10 @@
 # humblepenguinn/envio - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 8
 
-★ Stars: 532
+★ Stars: 534
 
 [Open repository](https://github.com/humblepenguinn/envio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 534 | 8 | 
 | 2023-04-14 | 532 | 8 | 
 | 2023-04-13 | 524 | 8 | 
 | 2023-04-12 | 509 | 6 | 

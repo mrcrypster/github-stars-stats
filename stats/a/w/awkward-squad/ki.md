@@ -1,6 +1,6 @@
 # awkward-squad/ki - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 65 | 2 | 
 | 2023-04-15 | 65 | 2 | 
 | 2023-04-13 | 65 | 2 | 
 | 2023-04-12 | 64 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 60 | 2 | 
 | 2023-03-20 | 60 | 2 | 
 | 2023-03-19 | 60 | 2 | 
-| 2023-03-17 | 60 | 2 | 
 

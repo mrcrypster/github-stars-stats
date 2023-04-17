@@ -1,6 +1,6 @@
 # aibooks14/Python1 - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 83 | 11 | 
 | 2023-04-15 | 83 | 11 | 
 | 2023-04-13 | 83 | 11 | 
 | 2023-04-12 | 83 | 11 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 81 | 10 | 
 | 2023-03-19 | 81 | 10 | 
 | 2023-03-18 | 81 | 10 | 
-| 2023-03-17 | 81 | 10 | 
 

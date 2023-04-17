@@ -1,6 +1,6 @@
 # symfony/http-client-contracts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1732 | 2 | 
 | 2023-04-14 | 1732 | 2 | 
 | 2023-04-13 | 1732 | 2 | 
 | 2023-04-12 | 1732 | 2 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 1722 | 2 | 
 | 2023-03-20 | 1722 | 2 | 
 | 2023-03-19 | 1721 | 2 | 
-| 2023-03-17 | 1721 | 2 | 
 

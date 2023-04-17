@@ -1,10 +1,10 @@
 # yuin/goldmark - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 189
 
-★ Stars: 2659
+★ Stars: 2660
 
 [Open repository](https://github.com/yuin/goldmark)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2660 | 189 | 
 | 2023-04-14 | 2659 | 189 | 
 | 2023-04-13 | 2657 | 189 | 
 | 2023-04-12 | 2657 | 189 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 2625 | 187 | 
 | 2023-03-20 | 2626 | 188 | 
 | 2023-03-19 | 2625 | 188 | 
-| 2023-03-17 | 2624 | 188 | 
 

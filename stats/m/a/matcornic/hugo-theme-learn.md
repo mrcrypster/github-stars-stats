@@ -1,8 +1,8 @@
 # matcornic/hugo-theme-learn - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1357
+☋ Forks: 1359
 
 ★ Stars: 1514
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1514 | 1359 | 
 | 2023-04-14 | 1514 | 1357 | 
 | 2023-04-13 | 1513 | 1354 | 
 | 2023-04-12 | 1513 | 1354 | 

@@ -1,6 +1,6 @@
 # dlcastillop/paylink - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 44 | 51 | 
 | 2023-04-15 | 44 | 51 | 
 | 2023-04-13 | 44 | 51 | 
 | 2023-04-12 | 43 | 51 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 40 | 49 | 
 | 2023-03-19 | 40 | 49 | 
 | 2023-03-18 | 40 | 49 | 
-| 2023-03-17 | 39 | 48 | 
 

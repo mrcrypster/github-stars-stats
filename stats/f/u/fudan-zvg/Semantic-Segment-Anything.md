@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 758
+★ Stars: 774
 
 [Open repository](https://github.com/fudan-zvg/Semantic-Segment-Anything)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 758 | 32 | 
+| 2023-04-16 | 774 | 33 | 
 | 2023-04-15 | 736 | 30 | 
 | 2023-04-14 | 674 | 26 | 
 | 2023-04-13 | 477 | 19 | 

@@ -1,10 +1,10 @@
 # carteakey/server-compose - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 141
+★ Stars: 143
 
 [Open repository](https://github.com/carteakey/server-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 143 | 2 | 
 | 2023-04-15 | 141 | 2 | 
 | 2023-04-13 | 140 | 2 | 
 | 2023-04-12 | 140 | 2 | 

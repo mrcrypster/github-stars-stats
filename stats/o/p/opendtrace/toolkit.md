@@ -1,6 +1,6 @@
 # opendtrace/toolkit - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 653 | 127 | 
 | 2023-04-14 | 653 | 127 | 
 | 2023-04-13 | 653 | 127 | 
 | 2023-04-12 | 653 | 127 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 651 | 127 | 
 | 2023-03-20 | 651 | 127 | 
 | 2023-03-19 | 651 | 127 | 
-| 2023-03-17 | 651 | 126 | 
 

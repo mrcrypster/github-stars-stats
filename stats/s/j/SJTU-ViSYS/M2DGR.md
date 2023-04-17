@@ -1,8 +1,8 @@
 # SJTU-ViSYS/M2DGR - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 98
+☋ Forks: 99
 
 ★ Stars: 590
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 590 | 99 | 
 | 2023-04-15 | 590 | 98 | 
 | 2023-04-14 | 590 | 98 | 
 

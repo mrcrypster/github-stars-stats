@@ -1,6 +1,6 @@
 # id-Software/Quake-III-Arena - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1770
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6358 | 1770 | 
 | 2023-04-14 | 6358 | 1770 | 
 | 2023-04-13 | 6359 | 1771 | 
 | 2023-04-12 | 6356 | 1771 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 6330 | 1770 | 
 | 2023-03-20 | 6329 | 1770 | 
 | 2023-03-19 | 6328 | 1771 | 
-| 2023-03-17 | 6329 | 1770 | 
 

@@ -1,8 +1,8 @@
 # google/vandalir - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 22 | 9 | 
 | 2023-04-14 | 22 | 8 | 
 | 2023-04-13 | 22 | 8 | 
 | 2023-04-12 | 22 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 22 | 5 | 
 | 2023-03-20 | 22 | 4 | 
 | 2023-03-18 | 22 | 4 | 
-| 2023-03-17 | 22 | 4 | 
 

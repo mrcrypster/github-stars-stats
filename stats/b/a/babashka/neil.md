@@ -1,10 +1,10 @@
 # babashka/neil - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 265
+★ Stars: 266
 
 [Open repository](https://github.com/babashka/neil)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 266 | 22 | 
 | 2023-04-14 | 265 | 22 | 
 | 2023-04-13 | 265 | 22 | 
 | 2023-04-12 | 265 | 22 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 252 | 22 | 
 | 2023-03-20 | 252 | 22 | 
 | 2023-03-19 | 251 | 22 | 
-| 2023-03-18 | 251 | 21 | 
 

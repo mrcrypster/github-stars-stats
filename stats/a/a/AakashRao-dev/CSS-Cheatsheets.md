@@ -1,10 +1,10 @@
 # AakashRao-dev/CSS-Cheatsheets - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 78
+☋ Forks: 80
 
-★ Stars: 771
+★ Stars: 772
 
 [Open repository](https://github.com/AakashRao-dev/CSS-Cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 772 | 80 | 
 | 2023-04-14 | 771 | 78 | 
 | 2023-04-13 | 770 | 76 | 
 | 2023-04-12 | 767 | 75 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 692 | 66 | 
 | 2023-03-19 | 680 | 64 | 
 | 2023-03-18 | 680 | 64 | 
-| 2023-03-17 | 681 | 64 | 
 

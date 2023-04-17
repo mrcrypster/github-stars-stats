@@ -1,6 +1,6 @@
 # Bl4ckM1rror/ZombieThread - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 130 | 21 | 
 | 2023-04-14 | 130 | 21 | 
 | 2023-04-13 | 130 | 21 | 
 | 2023-04-12 | 130 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 121 | 19 | 
 | 2023-03-19 | 101 | 17 | 
 | 2023-03-18 | 101 | 17 | 
-| 2023-03-17 | 101 | 17 | 
 

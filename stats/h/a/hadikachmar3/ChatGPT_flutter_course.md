@@ -1,10 +1,10 @@
 # hadikachmar3/ChatGPT_flutter_course - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 117
+★ Stars: 119
 
 [Open repository](https://github.com/hadikachmar3/ChatGPT_flutter_course)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 119 | 62 | 
 | 2023-04-14 | 117 | 61 | 
 | 2023-04-13 | 117 | 59 | 
 | 2023-04-12 | 116 | 59 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 84 | 43 | 
 | 2023-03-19 | 83 | 42 | 
 | 2023-03-18 | 81 | 41 | 
-| 2023-03-17 | 82 | 40 | 
 

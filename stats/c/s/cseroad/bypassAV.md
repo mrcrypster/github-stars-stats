@@ -1,10 +1,10 @@
 # cseroad/bypassAV - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 56
 
-★ Stars: 309
+★ Stars: 313
 
 [Open repository](https://github.com/cseroad/bypassAV)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 313 | 56 | 
 | 2023-04-14 | 309 | 56 | 
 | 2023-04-13 | 309 | 56 | 
 | 2023-04-12 | 308 | 56 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 294 | 53 | 
 | 2023-03-20 | 292 | 53 | 
 | 2023-03-19 | 291 | 53 | 
-| 2023-03-17 | 288 | 53 | 
 

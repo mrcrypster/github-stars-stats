@@ -1,6 +1,6 @@
 # michelvollebregt/clojuremvc - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7 | - | 
 | 2023-04-14 | 7 | - | 
 | 2023-04-13 | 7 | - | 
 | 2023-04-12 | 7 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 7 | - | 
 | 2023-03-20 | 7 | - | 
 | 2023-03-19 | 7 | - | 
-| 2023-03-17 | 7 | - | 
 

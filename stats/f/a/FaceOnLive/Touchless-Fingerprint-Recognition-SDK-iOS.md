@@ -1,6 +1,6 @@
 # FaceOnLive/Touchless-Fingerprint-Recognition-SDK-iOS - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 14 | 34 | 
 | 2023-04-15 | 14 | 34 | 
 | 2023-04-14 | 14 | 34 | 
 | 2023-04-12 | 14 | 34 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 14 | 34 | 
 | 2023-03-19 | 14 | 34 | 
 | 2023-03-18 | 14 | 34 | 
-| 2023-03-17 | 14 | 34 | 
 

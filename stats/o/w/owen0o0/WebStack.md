@@ -1,10 +1,10 @@
 # owen0o0/WebStack - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 366
 
-★ Stars: 1238
+★ Stars: 1244
 
 [Open repository](https://github.com/owen0o0/WebStack)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1244 | 366 | 
 | 2023-04-14 | 1238 | 366 | 
 | 2023-04-13 | 1236 | 365 | 
 | 2023-04-12 | 1235 | 364 | 

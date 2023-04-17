@@ -1,6 +1,6 @@
 # jonmosco/kube-ps1 - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 334
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3103 | 334 | 
 | 2023-04-15 | 3103 | 334 | 
 | 2023-04-13 | 3101 | 333 | 
 | 2023-04-12 | 3097 | 332 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 3068 | 326 | 
 | 2023-03-19 | 3067 | 325 | 
 | 2023-03-18 | 3064 | 325 | 
-| 2023-03-17 | 3063 | 324 | 
 

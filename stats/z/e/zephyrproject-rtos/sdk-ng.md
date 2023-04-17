@@ -1,10 +1,10 @@
 # zephyrproject-rtos/sdk-ng - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 103
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/zephyrproject-rtos/sdk-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 113 | 103 | 
 | 2023-04-14 | 112 | 103 | 
 | 2023-04-13 | 112 | 101 | 
 | 2023-04-12 | 112 | 101 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 110 | 99 | 
 | 2023-03-20 | 110 | 99 | 
 | 2023-03-19 | 110 | 99 | 
-| 2023-03-18 | 110 | 99 | 
 

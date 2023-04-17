@@ -1,10 +1,10 @@
 # mckaywrigley/ai-code-translator - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 304
+☋ Forks: 311
 
-★ Stars: 2716
+★ Stars: 2745
 
 [Open repository](https://github.com/mckaywrigley/ai-code-translator)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2745 | 311 | 
 | 2023-04-15 | 2716 | 304 | 
 | 2023-04-13 | 2670 | 299 | 
 | 2023-04-12 | 2600 | 288 | 

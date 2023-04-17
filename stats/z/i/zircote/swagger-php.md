@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 927
 
-★ Stars: 4712
+★ Stars: 4713
 
 [Open repository](https://github.com/zircote/swagger-php)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 4712 | 927 | 
+| 2023-04-16 | 4713 | 927 | 
 | 2023-04-15 | 4712 | 927 | 
 | 2023-04-14 | 4712 | 927 | 
 | 2023-04-13 | 4709 | 922 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 4685 | 918 | 
 | 2023-03-20 | 4683 | 918 | 
 | 2023-03-19 | 4683 | 917 | 
-| 2023-03-17 | 4683 | 917 | 
 

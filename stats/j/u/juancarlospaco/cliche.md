@@ -1,6 +1,6 @@
 # juancarlospaco/cliche - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 67 | 2 | 
 | 2023-04-15 | 67 | 2 | 
 | 2023-04-14 | 67 | 2 | 
 | 2023-04-13 | 67 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 65 | 2 | 
 | 2023-03-20 | 65 | 2 | 
 | 2023-03-19 | 65 | 2 | 
-| 2023-03-17 | 65 | 2 | 
 

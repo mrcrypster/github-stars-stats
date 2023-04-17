@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 21
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/enmity-mod/tweak)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 189 | 21 | 
+| 2023-04-16 | 190 | 21 | 
 | 2023-04-15 | 189 | 21 | 
 | 2023-04-14 | 188 | 21 | 
 | 2023-04-13 | 188 | 21 | 
@@ -39,5 +39,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 184 | 20 | 
 | 2023-03-20 | 183 | 20 | 
 | 2023-03-19 | 183 | 20 | 
-| 2023-03-17 | 183 | 20 | 
 

@@ -1,6 +1,6 @@
 # SphereII/7D2DModLauncher - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21 | 4 | 
 | 2023-04-15 | 21 | 4 | 
 | 2023-04-13 | 21 | 4 | 
 | 2023-04-12 | 21 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 19 | 4 | 
 | 2023-03-19 | 19 | 4 | 
 | 2023-03-18 | 19 | 4 | 
-| 2023-03-17 | 19 | 4 | 
 

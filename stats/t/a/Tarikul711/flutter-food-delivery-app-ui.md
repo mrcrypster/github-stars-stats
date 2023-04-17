@@ -1,6 +1,6 @@
 # Tarikul711/flutter-food-delivery-app-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 858 | 457 | 
 | 2023-04-15 | 858 | 457 | 
 | 2023-04-14 | 855 | 455 | 
 | 2023-04-13 | 855 | 455 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 842 | 448 | 
 | 2023-03-20 | 843 | 448 | 
 | 2023-03-19 | 841 | 448 | 
-| 2023-03-17 | 841 | 447 | 
 

@@ -1,6 +1,6 @@
 # smartcontractkit/chainlink-testing-framework - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 40 | 20 | 
 | 2023-04-14 | 40 | 20 | 
 | 2023-04-13 | 40 | 20 | 
 | 2023-04-12 | 37 | 20 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 35 | 18 | 
 | 2023-03-19 | 34 | 18 | 
 | 2023-03-18 | 34 | 18 | 
-| 2023-03-17 | 34 | 18 | 
 

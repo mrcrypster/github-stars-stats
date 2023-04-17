@@ -1,6 +1,6 @@
 # Primus-Learning/primuslearning-eks-module - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | - | 11 | 
 | 2023-04-14 | - | 11 | 
 | 2023-04-13 | - | 11 | 
 | 2023-04-12 | - | 11 | 

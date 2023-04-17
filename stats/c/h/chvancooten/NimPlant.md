@@ -1,8 +1,8 @@
 # chvancooten/NimPlant - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 541
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 541 | 65 | 
 | 2023-04-15 | 541 | 64 | 
 | 2023-04-14 | 539 | 64 | 
 | 2023-04-13 | 538 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 494 | 59 | 
 | 2023-03-19 | 493 | 58 | 
 | 2023-03-18 | 490 | 57 | 
-| 2023-03-17 | 488 | 57 | 
 

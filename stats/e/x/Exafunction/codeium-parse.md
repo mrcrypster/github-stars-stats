@@ -1,6 +1,6 @@
 # Exafunction/codeium-parse - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 40 | 1 | 
 | 2023-04-15 | 40 | 1 | 
 | 2023-04-13 | 40 | 1 | 
 | 2023-04-12 | 39 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 28 | 1 | 
 | 2023-03-20 | 26 | 1 | 
 | 2023-03-19 | 26 | 1 | 
-| 2023-03-17 | 26 | 1 | 
 

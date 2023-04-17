@@ -1,10 +1,10 @@
 # Alkaar/resy-booking-bot - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 162
+★ Stars: 164
 
 [Open repository](https://github.com/Alkaar/resy-booking-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 164 | 89 | 
 | 2023-04-14 | 162 | 88 | 
 | 2023-04-13 | 160 | 88 | 
 | 2023-04-12 | 160 | 88 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 141 | 78 | 
 | 2023-03-20 | 141 | 77 | 
 | 2023-03-18 | 140 | 77 | 
-| 2023-03-17 | 140 | 77 | 
 

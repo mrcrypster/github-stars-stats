@@ -1,6 +1,6 @@
 # nomasystems/nhooks - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 10 | - | 
 | 2023-04-15 | 10 | - | 
 | 2023-04-14 | 10 | - | 
 | 2023-04-13 | 10 | - | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 10 | - | 
 | 2023-03-19 | 10 | - | 
 | 2023-03-18 | 10 | - | 
-| 2023-03-17 | 10 | - | 
 

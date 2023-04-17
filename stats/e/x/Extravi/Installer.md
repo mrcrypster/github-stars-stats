@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Extravi/Installer)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 18 | 5 | 
+| 2023-04-16 | 19 | 5 | 
 | 2023-04-14 | 18 | 5 | 
 | 2023-04-13 | 18 | 5 | 
 | 2023-04-12 | 18 | 5 | 

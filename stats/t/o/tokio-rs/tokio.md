@@ -1,10 +1,10 @@
 # tokio-rs/tokio - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1883
 
-★ Stars: 20141
+★ Stars: 20153
 
 [Open repository](https://github.com/tokio-rs/tokio)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 20153 | 1883 | 
 | 2023-04-14 | 20141 | 1883 | 
 | 2023-04-13 | 20129 | 1883 | 
 | 2023-04-12 | 20107 | 1881 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 19807 | 1849 | 
 | 2023-03-20 | 19784 | 1849 | 
 | 2023-03-19 | 19753 | 1848 | 
-| 2023-03-17 | 19733 | 1847 | 
 

@@ -1,10 +1,10 @@
 # Aspectsides/dotfiles - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/Aspectsides/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 34 | - | 
 | 2023-04-15 | 33 | - | 
 | 2023-04-13 | 33 | - | 
 | 2023-04-12 | 30 | - | 

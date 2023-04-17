@@ -1,6 +1,6 @@
 # venetisgr/space_titanic_basic - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 340 | 100 | 
 | 2023-04-15 | 340 | 100 | 
 | 2023-04-13 | 340 | 100 | 
 | 2023-04-12 | 340 | 100 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 361 | 100 | 
 | 2023-03-20 | 364 | 100 | 
 | 2023-03-18 | 448 | 100 | 
-| 2023-03-17 | 468 | 100 | 
 

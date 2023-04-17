@@ -1,6 +1,6 @@
 # grpc/grpc - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 9911
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 37601 | 9911 | 
 | 2023-04-15 | 37601 | 9911 | 
 | 2023-04-13 | 37585 | 9906 | 
 | 2023-04-12 | 37577 | 9902 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 37369 | 9833 | 
 | 2023-03-20 | 37358 | 9826 | 
 | 2023-03-18 | 37348 | 9825 | 
-| 2023-03-17 | 37331 | 9823 | 
 

@@ -1,6 +1,6 @@
 # blackburnnnn/octo-meme - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 102 | 32 | 
 | 2023-04-14 | 102 | 32 | 
 | 2023-04-13 | 102 | 32 | 
 | 2023-04-12 | 102 | 32 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 102 | 32 | 
 | 2023-03-19 | 102 | 32 | 
 | 2023-03-18 | 103 | 32 | 
-| 2023-03-17 | 103 | 32 | 
 

@@ -1,10 +1,10 @@
 # TheUsefulLists/UsefulMods - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 117
 
-★ Stars: 967
+★ Stars: 973
 
 [Open repository](https://github.com/TheUsefulLists/UsefulMods)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 973 | 117 | 
 | 2023-04-14 | 967 | 117 | 
 | 2023-04-13 | 967 | 117 | 
 | 2023-04-12 | 966 | 117 | 

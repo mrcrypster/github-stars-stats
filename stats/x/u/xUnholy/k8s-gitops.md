@@ -1,10 +1,10 @@
 # xUnholy/k8s-gitops - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 23
 
-★ Stars: 314
+★ Stars: 313
 
 [Open repository](https://github.com/xUnholy/k8s-gitops)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 313 | 23 | 
 | 2023-04-14 | 314 | 23 | 
 | 2023-04-13 | 314 | 23 | 
 | 2023-04-12 | 313 | 23 | 

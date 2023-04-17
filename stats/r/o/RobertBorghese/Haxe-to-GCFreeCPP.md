@@ -1,10 +1,10 @@
 # RobertBorghese/Haxe-to-GCFreeCPP - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/RobertBorghese/Haxe-to-GCFreeCPP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 24 | - | 
 | 2023-04-14 | 22 | - | 
 | 2023-04-13 | 22 | - | 
 | 2023-04-12 | 22 | - | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 20 | - | 
 | 2023-03-20 | 20 | - | 
 | 2023-03-19 | 19 | - | 
-| 2023-03-17 | 19 | - | 
 

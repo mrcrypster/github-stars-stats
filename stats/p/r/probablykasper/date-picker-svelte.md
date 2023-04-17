@@ -1,8 +1,8 @@
 # probablykasper/date-picker-svelte - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 165
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 165 | 32 | 
 | 2023-04-14 | 165 | 31 | 
 | 2023-04-13 | 165 | 31 | 
 | 2023-04-12 | 165 | 31 | 

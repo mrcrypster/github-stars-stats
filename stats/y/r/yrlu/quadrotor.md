@@ -1,10 +1,10 @@
 # yrlu/quadrotor - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 254
 
-★ Stars: 608
+★ Stars: 610
 
 [Open repository](https://github.com/yrlu/quadrotor)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 610 | 254 | 
 | 2023-04-15 | 608 | 254 | 
 | 2023-04-13 | 608 | 254 | 
 | 2023-04-12 | 607 | 254 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 591 | 250 | 
 | 2023-03-20 | 590 | 250 | 
 | 2023-03-18 | 590 | 249 | 
-| 2023-03-17 | 590 | 249 | 
 

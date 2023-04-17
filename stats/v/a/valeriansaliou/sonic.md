@@ -1,10 +1,10 @@
 # valeriansaliou/sonic - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 526
 
-★ Stars: 18049
+★ Stars: 18053
 
 [Open repository](https://github.com/valeriansaliou/sonic)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 18053 | 526 | 
 | 2023-04-14 | 18049 | 526 | 
 | 2023-04-13 | 18040 | 526 | 
 | 2023-04-12 | 18037 | 526 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 17937 | 524 | 
 | 2023-03-20 | 17928 | 523 | 
 | 2023-03-18 | 17917 | 523 | 
-| 2023-03-17 | 17911 | 524 | 
 

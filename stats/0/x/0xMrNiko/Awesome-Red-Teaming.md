@@ -1,6 +1,6 @@
 # 0xMrNiko/Awesome-Red-Teaming - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 290 | 48 | 
 | 2023-04-14 | 290 | 48 | 
 | 2023-04-13 | 290 | 48 | 
 | 2023-04-12 | 290 | 48 | 

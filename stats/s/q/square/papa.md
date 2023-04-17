@@ -1,10 +1,10 @@
 # square/papa - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 13
 
-★ Stars: 268
+★ Stars: 267
 
 [Open repository](https://github.com/square/papa)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 267 | 13 | 
 | 2023-04-14 | 268 | 13 | 
 | 2023-04-13 | 268 | 13 | 
 | 2023-04-12 | 268 | 13 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 263 | 13 | 
 | 2023-03-20 | 263 | 13 | 
 | 2023-03-19 | 263 | 13 | 
-| 2023-03-17 | 262 | 12 | 
 

@@ -1,8 +1,8 @@
 # initsixcloud/petclinic - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 160
+☋ Forks: 161
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2 | 161 | 
 | 2023-04-15 | 2 | 160 | 
 | 2023-04-14 | 2 | 160 | 
 | 2023-04-13 | 2 | 158 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 2 | 148 | 
 | 2023-03-20 | 2 | 147 | 
 | 2023-03-18 | 2 | 146 | 
-| 2023-03-17 | 2 | 146 | 
 

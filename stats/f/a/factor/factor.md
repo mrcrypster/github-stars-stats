@@ -1,6 +1,6 @@
 # factor/factor - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 174
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1413 | 174 | 
 | 2023-04-15 | 1413 | 174 | 
 | 2023-04-13 | 1411 | 174 | 
 | 2023-04-12 | 1411 | 174 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1404 | 175 | 
 | 2023-03-20 | 1403 | 175 | 
 | 2023-03-19 | 1403 | 175 | 
-| 2023-03-18 | 1403 | 175 | 
 

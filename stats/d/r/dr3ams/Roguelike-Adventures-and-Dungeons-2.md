@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/dr3ams/Roguelike-Adventures-and-Dungeons-2)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 29 | 14 | 
+| 2023-04-16 | 30 | 14 | 
 | 2023-04-14 | 29 | 14 | 
 | 2023-04-13 | 29 | 14 | 
 | 2023-04-12 | 29 | 14 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 27 | 12 | 
 | 2023-03-20 | 27 | 12 | 
 | 2023-03-19 | 27 | 12 | 
-| 2023-03-17 | 27 | 12 | 
 

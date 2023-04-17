@@ -1,10 +1,10 @@
 # srid/nixos-flake - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/srid/nixos-flake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 22 | 2 | 
 | 2023-04-15 | 21 | 2 | 
 | 2023-04-13 | 18 | 1 | 
 | 2023-04-12 | 18 | 1 | 

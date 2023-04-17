@@ -1,8 +1,8 @@
 # RegularVynixu/Vynixius - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 35 | 74 | 
 | 2023-04-14 | 35 | 73 | 
 | 2023-04-13 | 35 | 72 | 
 | 2023-04-12 | 34 | 71 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 31 | 65 | 
 | 2023-03-20 | 31 | 64 | 
 | 2023-03-19 | 31 | 64 | 
-| 2023-03-17 | 30 | 64 | 
 

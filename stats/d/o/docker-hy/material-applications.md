@@ -1,8 +1,8 @@
 # docker-hy/material-applications - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 5 | 127 | 
 | 2023-04-15 | 5 | 126 | 
 | 2023-04-14 | 5 | 126 | 
 | 2023-04-13 | 5 | 126 | 

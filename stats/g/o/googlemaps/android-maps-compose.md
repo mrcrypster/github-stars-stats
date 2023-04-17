@@ -1,10 +1,10 @@
 # googlemaps/android-maps-compose - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 73
 
-★ Stars: 841
+★ Stars: 844
 
 [Open repository](https://github.com/googlemaps/android-maps-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 844 | 73 | 
 | 2023-04-14 | 841 | 73 | 
 | 2023-04-13 | 840 | 73 | 
 | 2023-04-12 | 839 | 72 | 

@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 1794
 
-★ Stars: 3457
+★ Stars: 3458
 
 [Open repository](https://github.com/salesagility/SuiteCRM)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 3457 | 1794 | 
+| 2023-04-16 | 3458 | 1794 | 
 | 2023-04-15 | 3456 | 1795 | 
 | 2023-04-14 | 3455 | 1794 | 
 | 2023-04-13 | 3451 | 1794 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 3411 | 1775 | 
 | 2023-03-19 | 3408 | 1775 | 
 | 2023-03-18 | 3408 | 1775 | 
-| 2023-03-17 | 3407 | 1776 | 
 

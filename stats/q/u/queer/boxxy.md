@@ -1,6 +1,6 @@
 # queer/boxxy - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1050 | 22 | 
 | 2023-04-15 | 1050 | 22 | 
 | 2023-04-14 | 1051 | 22 | 
 | 2023-04-13 | 1050 | 22 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 953 | 19 | 
 | 2023-03-19 | 951 | 19 | 
 | 2023-03-18 | 947 | 20 | 
-| 2023-03-17 | 946 | 20 | 
 

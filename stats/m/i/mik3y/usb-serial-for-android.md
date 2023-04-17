@@ -1,6 +1,6 @@
 # mik3y/usb-serial-for-android - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1446
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3993 | 1446 | 
 | 2023-04-15 | 3993 | 1446 | 
 | 2023-04-13 | 3991 | 1446 | 
 | 2023-04-12 | 3988 | 1446 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 3951 | 1436 | 
 | 2023-03-19 | 3951 | 1437 | 
 | 2023-03-18 | 3949 | 1437 | 
-| 2023-03-17 | 3948 | 1437 | 
 

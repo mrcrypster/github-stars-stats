@@ -1,6 +1,6 @@
 # theVakhovskeIsTaken/holoiso - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3951 | 202 | 
 | 2023-04-15 | 3951 | 202 | 
 | 2023-04-13 | 3944 | 202 | 
 | 2023-04-12 | 3941 | 202 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 3838 | 198 | 
 | 2023-03-20 | 3833 | 198 | 
 | 2023-03-18 | 3831 | 198 | 
-| 2023-03-17 | 3825 | 197 | 
 

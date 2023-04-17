@@ -1,10 +1,10 @@
 # sahil280114/codealpaca - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 886
+★ Stars: 891
 
 [Open repository](https://github.com/sahil280114/codealpaca)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 891 | 66 | 
 | 2023-04-14 | 886 | 65 | 
 | 2023-04-13 | 879 | 65 | 
 | 2023-04-12 | 870 | 63 | 

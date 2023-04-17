@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 512
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/MicrosoftDocs/windows-powershell-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 345 | 512 | 
+| 2023-04-16 | 346 | 512 | 
 | 2023-04-15 | 345 | 511 | 
 | 2023-04-14 | 345 | 511 | 
 | 2023-04-13 | 345 | 511 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 336 | 504 | 
 | 2023-03-20 | 336 | 504 | 
 | 2023-03-18 | 336 | 504 | 
-| 2023-03-17 | 336 | 505 | 
 

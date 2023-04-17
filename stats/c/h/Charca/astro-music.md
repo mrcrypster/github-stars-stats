@@ -1,10 +1,10 @@
 # Charca/astro-music - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/Charca/astro-music)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 33 | 3 | 
 | 2023-04-14 | 32 | 3 | 
 | 2023-04-13 | 32 | 3 | 
 | 2023-04-12 | 32 | 3 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 32 | 3 | 
 | 2023-03-20 | 32 | 3 | 
 | 2023-03-18 | 32 | 3 | 
-| 2023-03-17 | 32 | 3 | 
 

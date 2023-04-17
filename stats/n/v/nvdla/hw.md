@@ -1,10 +1,10 @@
 # nvdla/hw - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 515
 
-★ Stars: 1431
+★ Stars: 1432
 
 [Open repository](https://github.com/nvdla/hw)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1432 | 515 | 
 | 2023-04-15 | 1431 | 515 | 
 | 2023-04-13 | 1431 | 515 | 
 | 2023-04-12 | 1431 | 515 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 1421 | 510 | 
 | 2023-03-19 | 1421 | 510 | 
 | 2023-03-18 | 1421 | 510 | 
-| 2023-03-17 | 1421 | 510 | 
 

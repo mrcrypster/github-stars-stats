@@ -1,8 +1,8 @@
 # ros-industrial/abb_robot_driver_interfaces - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 8 | 10 | 
 | 2023-04-15 | 8 | 9 | 
 | 2023-04-14 | 8 | 9 | 
 | 2023-04-13 | 8 | 9 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 8 | 8 | 
 | 2023-03-20 | 8 | 8 | 
 | 2023-03-18 | 8 | 8 | 
-| 2023-03-17 | 8 | 8 | 
 

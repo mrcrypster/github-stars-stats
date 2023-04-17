@@ -1,10 +1,10 @@
 # homanp/langchain-ui - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 224
+★ Stars: 230
 
 [Open repository](https://github.com/homanp/langchain-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 230 | 33 | 
 | 2023-04-14 | 224 | 32 | 
 | 2023-04-13 | 208 | 28 | 
 | 2023-04-12 | 200 | 28 | 

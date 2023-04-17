@@ -1,10 +1,10 @@
 # ds300/lazyrepo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 407
+★ Stars: 413
 
 [Open repository](https://github.com/ds300/lazyrepo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 413 | 9 | 
 | 2023-04-14 | 407 | 8 | 
 | 2023-04-13 | 400 | 8 | 
 | 2023-04-12 | 381 | 7 | 

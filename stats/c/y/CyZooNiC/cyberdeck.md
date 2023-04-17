@@ -1,10 +1,10 @@
 # CyZooNiC/cyberdeck - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/CyZooNiC/cyberdeck)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 109 | 6 | 
 | 2023-04-14 | 108 | 6 | 
 | 2023-04-13 | 108 | 6 | 
 | 2023-04-12 | 108 | 6 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 105 | 6 | 
 | 2023-03-20 | 105 | 6 | 
 | 2023-03-18 | 105 | 6 | 
-| 2023-03-17 | 105 | 6 | 
 

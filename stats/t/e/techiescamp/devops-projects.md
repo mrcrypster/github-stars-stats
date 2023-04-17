@@ -1,10 +1,10 @@
 # techiescamp/devops-projects - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 258
+★ Stars: 273
 
 [Open repository](https://github.com/techiescamp/devops-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 273 | 199 | 
 | 2023-04-14 | 258 | 198 | 
 | 2023-04-13 | 252 | 197 | 
 | 2023-04-12 | 252 | 196 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 173 | 118 | 
 | 2023-03-19 | 164 | 117 | 
 | 2023-03-18 | 159 | 114 | 
-| 2023-03-17 | 158 | 112 | 
 

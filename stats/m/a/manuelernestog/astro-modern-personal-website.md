@@ -1,10 +1,10 @@
 # manuelernestog/astro-modern-personal-website - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 51
+☋ Forks: 50
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/manuelernestog/astro-modern-personal-website)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 173 | 50 | 
 | 2023-04-15 | 172 | 51 | 
 | 2023-04-14 | 171 | 50 | 
 | 2023-04-13 | 169 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 140 | 41 | 
 | 2023-03-19 | 140 | 40 | 
 | 2023-03-18 | 140 | 40 | 
-| 2023-03-17 | 139 | 39 | 
 

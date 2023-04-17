@@ -1,10 +1,10 @@
 # waldo-vision/waldo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/waldo-vision/waldo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 145 | 19 | 
 | 2023-04-14 | 144 | 19 | 
 | 2023-04-13 | 144 | 19 | 
 | 2023-04-12 | 143 | 19 | 

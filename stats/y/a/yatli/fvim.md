@@ -1,10 +1,10 @@
 # yatli/fvim - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 23
 
-★ Stars: 1101
+★ Stars: 1100
 
 [Open repository](https://github.com/yatli/fvim)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1100 | 23 | 
 | 2023-04-14 | 1101 | 23 | 
 | 2023-04-13 | 1100 | 23 | 
 | 2023-04-12 | 1096 | 23 | 

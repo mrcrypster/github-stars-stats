@@ -1,10 +1,10 @@
 # Michael-K-Stein/SpotiFile - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/Michael-K-Stein/SpotiFile)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 144 | 14 | 
 | 2023-04-14 | 143 | 14 | 
 | 2023-04-13 | 143 | 14 | 
 | 2023-04-12 | 141 | 13 | 

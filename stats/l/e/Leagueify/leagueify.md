@@ -1,10 +1,10 @@
 # Leagueify/leagueify - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/Leagueify/leagueify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4 | 1 | 
 | 2023-04-14 | 3 | 1 | 
 | 2023-04-13 | 3 | 1 | 
 | 2023-04-12 | 3 | 1 | 

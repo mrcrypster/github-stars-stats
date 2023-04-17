@@ -1,6 +1,6 @@
 # keijiro/ShaderGraphAssets - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 161 | 7 | 
 | 2023-04-15 | 161 | 7 | 
 | 2023-04-13 | 161 | 7 | 
 | 2023-04-12 | 160 | 7 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 156 | 6 | 
 | 2023-03-19 | 156 | 6 | 
 | 2023-03-18 | 156 | 6 | 
-| 2023-03-17 | 156 | 6 | 
 

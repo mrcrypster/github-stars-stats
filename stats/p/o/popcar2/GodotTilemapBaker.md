@@ -1,10 +1,10 @@
 # popcar2/GodotTilemapBaker - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/popcar2/GodotTilemapBaker)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 19 | 1 | 
 | 2023-04-14 | 18 | 1 | 
 | 2023-04-13 | 18 | 1 | 
 | 2023-04-12 | 18 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 18 | 1 | 
 | 2023-03-20 | 18 | 1 | 
 | 2023-03-18 | 18 | 1 | 
-| 2023-03-17 | 18 | 1 | 
 

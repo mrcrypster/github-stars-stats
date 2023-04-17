@@ -1,10 +1,10 @@
 # WebDevSimplified/react-todo-list - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 13
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/WebDevSimplified/react-todo-list)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 32 | 13 | 
 | 2023-04-14 | 30 | 13 | 
 | 2023-04-13 | 28 | 12 | 
 | 2023-04-12 | 25 | 11 | 

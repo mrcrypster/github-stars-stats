@@ -1,6 +1,6 @@
 # purescript/purescript-bifunctors - stars & forks statistics
 
-Stats updated on Apr 2023, 16
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 12 | 9 | 
 | 2023-04-16 | 12 | 9 | 
 | 2023-04-15 | 12 | 9 | 
 | 2023-04-14 | 12 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-20 | 12 | 9 | 
 | 2023-03-19 | 12 | 9 | 
 | 2023-03-18 | 12 | 9 | 
-| 2023-03-17 | 12 | 9 | 
 

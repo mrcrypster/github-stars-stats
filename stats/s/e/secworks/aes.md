@@ -1,10 +1,10 @@
 # secworks/aes - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 110
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/secworks/aes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 247 | 110 | 
 | 2023-04-15 | 246 | 110 | 
 | 2023-04-13 | 246 | 110 | 
 | 2023-04-12 | 246 | 110 | 

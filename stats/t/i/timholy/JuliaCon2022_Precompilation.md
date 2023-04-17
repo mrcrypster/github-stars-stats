@@ -1,6 +1,6 @@
 # timholy/JuliaCon2022_Precompilation - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 13 | 1 | 
 | 2023-04-15 | 13 | 1 | 
 | 2023-04-13 | 13 | 1 | 
 | 2023-04-12 | 13 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 13 | 1 | 
 | 2023-03-20 | 13 | 1 | 
 | 2023-03-18 | 13 | 1 | 
-| 2023-03-17 | 13 | 1 | 
 

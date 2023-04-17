@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 937
+☋ Forks: 938
 
-★ Stars: 3611
+★ Stars: 3615
 
 [Open repository](https://github.com/khuyentran1401/Data-science)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 3611 | 937 | 
+| 2023-04-16 | 3615 | 938 | 
 | 2023-04-15 | 3610 | 937 | 
 | 2023-04-14 | 3573 | 930 | 
 | 2023-04-13 | 3573 | 928 | 
@@ -37,5 +37,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-21 | 3527 | 918 | 
 | 2023-03-20 | 3524 | 917 | 
 | 2023-03-18 | 3521 | 917 | 
-| 2023-03-17 | 3520 | 917 | 
 

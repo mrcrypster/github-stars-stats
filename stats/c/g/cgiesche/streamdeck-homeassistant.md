@@ -1,10 +1,10 @@
 # cgiesche/streamdeck-homeassistant - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 26
 
-★ Stars: 564
+★ Stars: 565
 
 [Open repository](https://github.com/cgiesche/streamdeck-homeassistant)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 565 | 26 | 
 | 2023-04-15 | 564 | 26 | 
 | 2023-04-13 | 563 | 26 | 
 | 2023-04-12 | 562 | 26 | 

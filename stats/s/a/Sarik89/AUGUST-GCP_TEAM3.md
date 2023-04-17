@@ -1,6 +1,6 @@
 # Sarik89/AUGUST-GCP_TEAM3 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1 | 30 | 
 | 2023-04-14 | 1 | 30 | 
 | 2023-04-13 | 1 | 30 | 
 | 2023-04-12 | 1 | 30 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 1 | 29 | 
 | 2023-03-19 | 1 | 29 | 
 | 2023-03-18 | 1 | 29 | 
-| 2023-03-17 | 1 | 29 | 
 

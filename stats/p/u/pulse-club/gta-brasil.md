@@ -1,6 +1,6 @@
 # pulse-club/gta-brasil - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21 | 1 | 
 | 2023-04-15 | 21 | 1 | 
 | 2023-04-13 | 21 | 1 | 
 | 2023-04-12 | 21 | 1 | 

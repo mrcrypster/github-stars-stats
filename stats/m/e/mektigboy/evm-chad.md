@@ -1,6 +1,6 @@
 # mektigboy/evm-chad - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 262 | 31 | 
 | 2023-04-15 | 262 | 31 | 
 | 2023-04-14 | 262 | 31 | 
 | 2023-04-13 | 261 | 31 | 

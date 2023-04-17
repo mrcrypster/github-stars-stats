@@ -1,10 +1,10 @@
 # FoxyOfJungle/TurboGML - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/FoxyOfJungle/TurboGML)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 110 | 3 | 
 | 2023-04-15 | 109 | 3 | 
 | 2023-04-13 | 108 | 3 | 
 | 2023-04-12 | 105 | 2 | 

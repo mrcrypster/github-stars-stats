@@ -1,10 +1,10 @@
 # xceedsoftware/wpftoolkit - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 831
+☋ Forks: 832
 
-★ Stars: 3422
+★ Stars: 3424
 
 [Open repository](https://github.com/xceedsoftware/wpftoolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3424 | 832 | 
 | 2023-04-14 | 3422 | 831 | 
 | 2023-04-13 | 3420 | 830 | 
 | 2023-04-12 | 3419 | 829 | 

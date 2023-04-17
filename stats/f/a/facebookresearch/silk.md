@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 3
+☋ Forks: 6
 
-★ Stars: 131
+★ Stars: 172
 
 [Open repository](https://github.com/facebookresearch/silk)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 131 | 3 | 
+| 2023-04-16 | 172 | 6 | 
 | 2023-04-15 | 126 | 2 | 
 | 2023-04-14 | 112 | 2 | 
 

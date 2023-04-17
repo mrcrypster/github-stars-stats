@@ -1,8 +1,8 @@
 # esp-rs/esp-template - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 61 | 16 | 
 | 2023-04-14 | 61 | 15 | 
 | 2023-04-13 | 61 | 15 | 
 | 2023-04-12 | 61 | 15 | 

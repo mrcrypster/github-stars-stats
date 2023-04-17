@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-sns-topic - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 28 | 42 | 
 | 2023-04-14 | 28 | 42 | 
 | 2023-04-13 | 28 | 42 | 
 | 2023-04-11 | 28 | 42 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 27 | 42 | 
 | 2023-03-20 | 27 | 41 | 
 | 2023-03-19 | 26 | 42 | 
-| 2023-03-17 | 26 | 42 | 
 

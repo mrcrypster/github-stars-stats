@@ -1,6 +1,6 @@
 # fadeinside/ECSv8-Character-ID-Randomizer - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6 | 46 | 
 | 2023-04-15 | 6 | 46 | 
 | 2023-04-13 | 6 | 45 | 
 | 2023-04-12 | 6 | 44 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 6 | 37 | 
 | 2023-03-20 | 6 | 37 | 
 | 2023-03-19 | 6 | 37 | 
-| 2023-03-18 | 6 | 37 | 
 

@@ -1,8 +1,8 @@
 # DannyDainton/newman-reporter-htmlextra - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 123
+☋ Forks: 124
 
 ★ Stars: 309
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 309 | 124 | 
 | 2023-04-14 | 309 | 123 | 
 | 2023-04-13 | 309 | 123 | 
 | 2023-04-12 | 309 | 123 | 

@@ -1,10 +1,10 @@
 # VedalAI/neuro-amongus - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 26
 
-★ Stars: 186
+★ Stars: 189
 
 [Open repository](https://github.com/VedalAI/neuro-amongus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 189 | 26 | 
 | 2023-04-14 | 186 | 26 | 
 | 2023-04-13 | 179 | 25 | 
 | 2023-04-12 | 171 | 24 | 

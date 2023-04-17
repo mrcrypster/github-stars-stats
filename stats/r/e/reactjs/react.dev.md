@@ -1,10 +1,10 @@
 # reactjs/react.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 7050
+☋ Forks: 7064
 
-★ Stars: 9364
+★ Stars: 9374
 
 [Open repository](https://github.com/reactjs/react.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 9374 | 7064 | 
 | 2023-04-14 | 9364 | 7050 | 
 | 2023-04-13 | 9363 | 7049 | 
 | 2023-04-12 | 9360 | 7046 | 

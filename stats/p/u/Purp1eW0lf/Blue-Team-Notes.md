@@ -1,10 +1,10 @@
 # Purp1eW0lf/Blue-Team-Notes - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 173
 
-★ Stars: 1180
+★ Stars: 1181
 
 [Open repository](https://github.com/Purp1eW0lf/Blue-Team-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1181 | 173 | 
 | 2023-04-14 | 1180 | 173 | 
 | 2023-04-13 | 1177 | 172 | 
 | 2023-04-12 | 1176 | 171 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 1161 | 166 | 
 | 2023-03-20 | 1160 | 166 | 
 | 2023-03-18 | 1157 | 165 | 
-| 2023-03-17 | 1155 | 165 | 
 

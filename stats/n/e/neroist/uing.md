@@ -1,10 +1,10 @@
 # neroist/uing - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 52
+★ Stars: 55
 
 [Open repository](https://github.com/neroist/uing)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 55 | 2 | 
 | 2023-04-15 | 52 | 1 | 
 | 2023-04-14 | 52 | 1 | 
 | 2023-04-13 | 52 | 1 | 

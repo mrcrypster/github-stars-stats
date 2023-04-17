@@ -1,6 +1,6 @@
 # PacktPublishing/Learn-Three.js-Fourth-edition - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 65 | 25 | 
 | 2023-04-15 | 65 | 25 | 
 | 2023-04-13 | 63 | 25 | 
 | 2023-04-12 | 62 | 25 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 53 | 18 | 
 | 2023-03-19 | 53 | 18 | 
 | 2023-03-18 | 52 | 18 | 
-| 2023-03-17 | 51 | 18 | 
 

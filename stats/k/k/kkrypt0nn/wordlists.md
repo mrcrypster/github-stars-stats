@@ -1,6 +1,6 @@
 # kkrypt0nn/wordlists - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 100
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 341 | 100 | 
 | 2023-04-15 | 341 | 100 | 
 

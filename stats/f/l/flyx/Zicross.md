@@ -1,6 +1,6 @@
 # flyx/Zicross - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 35 | 1 | 
 | 2023-04-14 | 35 | 1 | 
 | 2023-04-13 | 35 | 1 | 
 | 2023-04-12 | 35 | 1 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 34 | 1 | 
 | 2023-03-20 | 34 | 1 | 
 | 2023-03-18 | 34 | 1 | 
-| 2023-03-17 | 34 | 1 | 
 

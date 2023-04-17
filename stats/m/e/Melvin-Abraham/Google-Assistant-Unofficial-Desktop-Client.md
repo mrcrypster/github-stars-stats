@@ -1,10 +1,10 @@
 # Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 383
 
-★ Stars: 3313
+★ Stars: 3315
 
 [Open repository](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3315 | 383 | 
 | 2023-04-14 | 3313 | 383 | 
 | 2023-04-13 | 3313 | 383 | 
 | 2023-04-12 | 3312 | 383 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 3288 | 384 | 
 | 2023-03-19 | 3286 | 384 | 
 | 2023-03-18 | 3284 | 384 | 
-| 2023-03-17 | 3284 | 382 | 
 

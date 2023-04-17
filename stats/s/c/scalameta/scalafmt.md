@@ -1,6 +1,6 @@
 # scalameta/scalafmt - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 268
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1333 | 268 | 
 | 2023-04-15 | 1333 | 268 | 
 | 2023-04-14 | 1333 | 268 | 
 | 2023-04-13 | 1333 | 268 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1326 | 267 | 
 | 2023-03-20 | 1326 | 267 | 
 | 2023-03-18 | 1326 | 267 | 
-| 2023-03-17 | 1326 | 267 | 
 

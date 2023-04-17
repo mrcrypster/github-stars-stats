@@ -1,8 +1,8 @@
 # statping/statping - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 553
+☋ Forks: 551
 
 ★ Stars: 6573
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6573 | 551 | 
 | 2023-04-14 | 6573 | 553 | 
 | 2023-04-13 | 6572 | 553 | 
 | 2023-04-12 | 6571 | 551 | 

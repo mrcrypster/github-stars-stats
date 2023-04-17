@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 255
+☋ Forks: 256
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/libretro/docs)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 184 | 255 | 
+| 2023-04-16 | 185 | 256 | 
 | 2023-04-14 | 184 | 254 | 
 | 2023-04-13 | 183 | 254 | 
 | 2023-04-12 | 182 | 254 | 
@@ -38,5 +38,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-20 | 178 | 237 | 
 | 2023-03-19 | 178 | 236 | 
 | 2023-03-18 | 178 | 234 | 
-| 2023-03-17 | 178 | 234 | 
 

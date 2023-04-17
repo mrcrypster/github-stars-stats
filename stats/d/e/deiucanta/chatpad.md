@@ -1,10 +1,10 @@
 # deiucanta/chatpad - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 84
+☋ Forks: 90
 
-★ Stars: 499
+★ Stars: 529
 
 [Open repository](https://github.com/deiucanta/chatpad)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 529 | 90 | 
 | 2023-04-15 | 499 | 84 | 
 | 2023-04-13 | 496 | 82 | 
 | 2023-04-12 | 493 | 79 | 

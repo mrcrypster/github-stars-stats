@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 40
 
 [Open repository](https://github.com/geerlingguy/pi4gpu)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 36 | 2 | 
+| 2023-04-16 | 40 | 3 | 
 | 2023-04-15 | 34 | 2 | 
 

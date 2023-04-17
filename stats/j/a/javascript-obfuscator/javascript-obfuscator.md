@@ -1,6 +1,6 @@
 # javascript-obfuscator/javascript-obfuscator - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1260
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 10805 | 1260 | 
 | 2023-04-15 | 10805 | 1260 | 
 | 2023-04-13 | 10790 | 1258 | 
 | 2023-04-12 | 10782 | 1258 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 10683 | 1239 | 
 | 2023-03-20 | 10674 | 1239 | 
 | 2023-03-18 | 10667 | 1238 | 
-| 2023-03-17 | 10664 | 1238 | 
 

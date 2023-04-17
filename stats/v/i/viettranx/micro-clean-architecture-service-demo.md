@@ -1,10 +1,10 @@
 # viettranx/micro-clean-architecture-service-demo - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 45
+☋ Forks: 49
 
-★ Stars: 157
+★ Stars: 162
 
 [Open repository](https://github.com/viettranx/micro-clean-architecture-service-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 162 | 49 | 
 | 2023-04-14 | 157 | 45 | 
 | 2023-04-13 | 152 | 42 | 
 | 2023-04-12 | 145 | 37 | 

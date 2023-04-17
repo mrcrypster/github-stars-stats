@@ -1,6 +1,6 @@
 # djs55/message-switch - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 9 | 2 | 
 | 2023-04-15 | 9 | 2 | 
 | 2023-04-14 | 9 | 2 | 
 | 2023-04-13 | 9 | 2 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 7 | 2 | 
 | 2023-03-20 | 7 | 2 | 
 | 2023-03-19 | 7 | 2 | 
-| 2023-03-17 | 7 | 2 | 
 

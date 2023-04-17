@@ -1,6 +1,6 @@
 # spec-nith/WebStar - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7 | 24 | 
 | 2023-04-14 | 7 | 24 | 
 | 2023-04-13 | 7 | 24 | 
 | 2023-04-12 | 7 | 24 | 

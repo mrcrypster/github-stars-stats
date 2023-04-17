@@ -1,6 +1,6 @@
 # microsoft/Quantum-NC - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 188 | 83 | 
 | 2023-04-14 | 188 | 83 | 
 | 2023-04-13 | 188 | 83 | 
 | 2023-04-12 | 188 | 83 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 187 | 82 | 
 | 2023-03-20 | 186 | 81 | 
 | 2023-03-19 | 186 | 81 | 
-| 2023-03-17 | 186 | 81 | 
 

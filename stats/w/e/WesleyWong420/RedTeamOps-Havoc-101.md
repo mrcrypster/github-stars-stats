@@ -1,10 +1,10 @@
 # WesleyWong420/RedTeamOps-Havoc-101 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 173
+★ Stars: 176
 
 [Open repository](https://github.com/WesleyWong420/RedTeamOps-Havoc-101)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 176 | 23 | 
 | 2023-04-14 | 173 | 22 | 
 | 2023-04-13 | 169 | 22 | 
 | 2023-04-12 | 161 | 20 | 

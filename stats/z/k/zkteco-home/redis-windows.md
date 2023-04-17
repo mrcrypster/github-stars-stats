@@ -1,10 +1,10 @@
 # zkteco-home/redis-windows - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 98
 
-★ Stars: 662
+★ Stars: 666
 
 [Open repository](https://github.com/zkteco-home/redis-windows)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 666 | 98 | 
 | 2023-04-15 | 662 | 98 | 
 | 2023-04-13 | 661 | 98 | 
 | 2023-04-12 | 659 | 98 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 633 | 96 | 
 | 2023-03-20 | 630 | 96 | 
 | 2023-03-19 | 627 | 96 | 
-| 2023-03-17 | 626 | 96 | 
 

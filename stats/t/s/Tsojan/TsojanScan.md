@@ -1,6 +1,6 @@
 # Tsojan/TsojanScan - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 288 | 20 | 
 | 2023-04-14 | 288 | 20 | 
 | 2023-04-13 | 288 | 20 | 
 | 2023-04-12 | 288 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 259 | 17 | 
 | 2023-03-20 | 253 | 17 | 
 | 2023-03-19 | 243 | 17 | 
-| 2023-03-17 | 241 | 17 | 
 

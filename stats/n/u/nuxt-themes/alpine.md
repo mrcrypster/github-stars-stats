@@ -1,10 +1,10 @@
 # nuxt-themes/alpine - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 20
 
-★ Stars: 135
+★ Stars: 134
 
 [Open repository](https://github.com/nuxt-themes/alpine)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 134 | 20 | 
 | 2023-04-15 | 135 | 20 | 
 | 2023-04-14 | 134 | 20 | 
 | 2023-04-13 | 133 | 18 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 127 | 11 | 
 | 2023-03-20 | 126 | 12 | 
 | 2023-03-19 | 126 | 12 | 
-| 2023-03-17 | 126 | 12 | 
 

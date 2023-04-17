@@ -1,10 +1,10 @@
 # aamini/introtodeeplearning - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 3019
+☋ Forks: 3023
 
-★ Stars: 6016
+★ Stars: 6024
 
 [Open repository](https://github.com/aamini/introtodeeplearning)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6024 | 3023 | 
 | 2023-04-15 | 6016 | 3019 | 
 | 2023-04-13 | 6006 | 3013 | 
 | 2023-04-12 | 5995 | 3009 | 
@@ -39,5 +40,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 5815 | 2912 | 
 | 2023-03-19 | 5804 | 2908 | 
 | 2023-03-18 | 5786 | 2902 | 
-| 2023-03-17 | 5779 | 2899 | 
 

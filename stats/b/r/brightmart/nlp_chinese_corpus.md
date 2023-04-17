@@ -1,10 +1,10 @@
 # brightmart/nlp_chinese_corpus - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1445
+☋ Forks: 1446
 
-★ Stars: 8019
+★ Stars: 8028
 
 [Open repository](https://github.com/brightmart/nlp_chinese_corpus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 8028 | 1446 | 
 | 2023-04-14 | 8019 | 1445 | 
 | 2023-04-13 | 8011 | 1445 | 
 | 2023-04-12 | 8002 | 1444 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 7784 | 1413 | 
 | 2023-03-20 | 7768 | 1412 | 
 | 2023-03-19 | 7760 | 1411 | 
-| 2023-03-17 | 7753 | 1410 | 
 

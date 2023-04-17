@@ -1,10 +1,10 @@
 # pypa/setuptools - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1006
 
-★ Stars: 1988
+★ Stars: 1990
 
 [Open repository](https://github.com/pypa/setuptools)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1990 | 1006 | 
 | 2023-04-14 | 1988 | 1006 | 
 | 2023-04-13 | 1987 | 1005 | 
 | 2023-04-12 | 1985 | 1004 | 

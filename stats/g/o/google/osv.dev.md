@@ -1,10 +1,10 @@
 # google/osv.dev - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 125
 
-★ Stars: 1084
+★ Stars: 1089
 
 [Open repository](https://github.com/google/osv.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1089 | 125 | 
 | 2023-04-15 | 1084 | 125 | 
 | 2023-04-13 | 1083 | 124 | 
 | 2023-04-12 | 1083 | 124 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1049 | 119 | 
 | 2023-03-19 | 1048 | 118 | 
 | 2023-03-18 | 1047 | 118 | 
-| 2023-03-17 | 1047 | 118 | 
 

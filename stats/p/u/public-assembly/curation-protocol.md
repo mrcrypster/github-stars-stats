@@ -1,10 +1,10 @@
 # public-assembly/curation-protocol - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/public-assembly/curation-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 25 | 4 | 
 | 2023-04-14 | 24 | 4 | 
 | 2023-04-13 | 24 | 4 | 
 | 2023-04-12 | 24 | 4 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 24 | 3 | 
 | 2023-03-19 | 24 | 3 | 
 | 2023-03-18 | 24 | 3 | 
-| 2023-03-17 | 24 | 3 | 
 

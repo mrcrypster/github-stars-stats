@@ -1,6 +1,6 @@
 # cyberark/PipeViewer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 369 | 20 | 
 | 2023-04-14 | 369 | 20 | 
 | 2023-04-13 | 368 | 20 | 
 | 2023-04-12 | 368 | 20 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 362 | 19 | 
 | 2023-03-20 | 360 | 19 | 
 | 2023-03-19 | 359 | 19 | 
-| 2023-03-17 | 359 | 19 | 
 

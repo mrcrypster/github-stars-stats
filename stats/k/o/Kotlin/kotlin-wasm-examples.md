@@ -4,7 +4,7 @@ Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 72
+★ Stars: 78
 
 [Open repository](https://github.com/Kotlin/kotlin-wasm-examples)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 72 | 5 | 
+| 2023-04-16 | 78 | 5 | 
 | 2023-04-15 | 71 | 5 | 
 

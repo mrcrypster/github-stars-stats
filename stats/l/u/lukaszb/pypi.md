@@ -1,6 +1,6 @@
 # lukaszb/pypi - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6 | 4 | 
 | 2023-04-15 | 6 | 4 | 
 | 2023-04-13 | 6 | 4 | 
 | 2023-04-12 | 6 | 4 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 6 | 4 | 
 | 2023-03-20 | 6 | 4 | 
 | 2023-03-19 | 6 | 4 | 
-| 2023-03-18 | 6 | 4 | 
 

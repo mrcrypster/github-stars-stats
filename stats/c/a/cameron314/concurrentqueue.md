@@ -1,10 +1,10 @@
 # cameron314/concurrentqueue - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1494
 
-★ Stars: 7722
+★ Stars: 7726
 
 [Open repository](https://github.com/cameron314/concurrentqueue)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7726 | 1494 | 
 | 2023-04-14 | 7722 | 1494 | 
 | 2023-04-13 | 7719 | 1494 | 
 | 2023-04-12 | 7714 | 1493 | 

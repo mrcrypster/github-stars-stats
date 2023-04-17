@@ -1,6 +1,6 @@
 # maple-labs/contract-test-utils - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 21 | - | 
 | 2023-04-15 | 21 | - | 
 | 2023-04-14 | 21 | - | 
 | 2023-04-13 | 21 | - | 
@@ -38,5 +39,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 21 | - | 
 | 2023-03-19 | 20 | - | 
 | 2023-03-18 | 20 | - | 
-| 2023-03-17 | 20 | - | 
 

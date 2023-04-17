@@ -1,10 +1,10 @@
 # xmake-io/xmake - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 602
+☋ Forks: 605
 
-★ Stars: 6890
+★ Stars: 6896
 
 [Open repository](https://github.com/xmake-io/xmake)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 6896 | 605 | 
 | 2023-04-15 | 6890 | 602 | 
 | 2023-04-13 | 6881 | 601 | 
 | 2023-04-12 | 6876 | 600 | 

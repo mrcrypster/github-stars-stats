@@ -1,10 +1,10 @@
 # getsentry/sentry-ruby - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 455
+☋ Forks: 456
 
-★ Stars: 874
+★ Stars: 876
 
 [Open repository](https://github.com/getsentry/sentry-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 876 | 456 | 
 | 2023-04-14 | 874 | 455 | 
 | 2023-04-13 | 874 | 455 | 
 | 2023-04-12 | 873 | 455 | 

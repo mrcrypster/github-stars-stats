@@ -1,6 +1,6 @@
 # karthink/consult-dir - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 112 | 8 | 
 | 2023-04-14 | 112 | 8 | 
 | 2023-04-13 | 112 | 8 | 
 | 2023-04-12 | 112 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 110 | 8 | 
 | 2023-03-19 | 107 | 8 | 
 | 2023-03-18 | 107 | 8 | 
-| 2023-03-17 | 105 | 8 | 
 

@@ -1,6 +1,6 @@
 # fugue/fregot - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 227 | 11 | 
 | 2023-04-15 | 227 | 11 | 
 | 2023-04-13 | 227 | 11 | 
 | 2023-04-12 | 227 | 11 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 224 | 11 | 
 | 2023-03-20 | 224 | 11 | 
 | 2023-03-19 | 224 | 11 | 
-| 2023-03-17 | 224 | 11 | 
 

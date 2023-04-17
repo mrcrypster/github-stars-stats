@@ -1,10 +1,10 @@
 # Racks-Labs/ERC721-Linkable - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 47
+★ Stars: 46
 
 [Open repository](https://github.com/Racks-Labs/ERC721-Linkable)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 46 | 7 | 
 | 2023-04-15 | 47 | 7 | 
 | 2023-04-13 | 47 | 7 | 
 | 2023-04-12 | 47 | 7 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 47 | 7 | 
 | 2023-03-20 | 47 | 7 | 
 | 2023-03-19 | 46 | 7 | 
-| 2023-03-17 | 46 | 7 | 
 

@@ -1,10 +1,10 @@
 # rollup/rollup - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 1330
+☋ Forks: 1334
 
-★ Stars: 23268
+★ Stars: 23272
 
 [Open repository](https://github.com/rollup/rollup)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 23272 | 1334 | 
 | 2023-04-14 | 23268 | 1330 | 
 | 2023-04-13 | 23263 | 1330 | 
 | 2023-04-12 | 23249 | 1328 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 23140 | 1314 | 
 | 2023-03-20 | 23136 | 1314 | 
 | 2023-03-18 | 23137 | 1312 | 
-| 2023-03-17 | 23130 | 1312 | 
 

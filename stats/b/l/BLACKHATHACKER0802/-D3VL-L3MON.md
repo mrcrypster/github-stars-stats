@@ -1,6 +1,6 @@
 # BLACKHATHACKER0802/-D3VL-L3MON - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 42
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 52 | 42 | 
+| 2023-04-16 | 52 | 42 | 
 | 2023-04-14 | 52 | 42 | 
 | 2023-04-13 | 52 | 42 | 
 | 2023-04-12 | 52 | 42 | 
@@ -38,5 +40,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 46 | 33 | 
 | 2023-03-20 | 45 | 31 | 
 | 2023-03-19 | 44 | 30 | 
-| 2023-03-17 | 43 | 28 | 
 

@@ -1,6 +1,6 @@
 # jdblischak/git-for-science - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 31 | 179 | 
 | 2023-04-14 | 31 | 179 | 
 | 2023-04-13 | 31 | 179 | 
 | 2023-04-12 | 31 | 179 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 31 | 175 | 
 | 2023-03-19 | 31 | 175 | 
 | 2023-03-18 | 31 | 175 | 
-| 2023-03-17 | 31 | 175 | 
 

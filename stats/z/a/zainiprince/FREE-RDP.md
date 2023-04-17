@@ -1,8 +1,8 @@
 # zainiprince/FREE-RDP - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 30
+☋ Forks: 43
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1 | 43 | 
 | 2023-04-15 | 1 | 30 | 
 | 2023-04-14 | 1 | 30 | 
 

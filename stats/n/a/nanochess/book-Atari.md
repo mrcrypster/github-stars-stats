@@ -1,6 +1,6 @@
 # nanochess/book-Atari - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 15 | - | 
 | 2023-04-15 | 15 | - | 
 | 2023-04-14 | 15 | - | 
 | 2023-04-13 | 15 | - | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 15 | - | 
 | 2023-03-20 | 15 | - | 
 | 2023-03-19 | 15 | - | 
-| 2023-03-17 | 15 | - | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 657
+☋ Forks: 658
 
-★ Stars: 6079
+★ Stars: 6089
 
 [Open repository](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
@@ -13,7 +13,7 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 6079 | 657 | 
+| 2023-04-16 | 6089 | 658 | 
 | 2023-04-15 | 6057 | 654 | 
 | 2023-04-14 | 6030 | 649 | 
 | 2023-04-13 | 6014 | 649 | 
@@ -36,5 +36,4 @@ Stats updated on Apr 2023, 16
 | 2023-03-22 | 5734 | 624 | 
 | 2023-03-20 | 5719 | 626 | 
 | 2023-03-19 | 5705 | 626 | 
-| 2023-03-17 | 5696 | 625 | 
 

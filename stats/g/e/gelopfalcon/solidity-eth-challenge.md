@@ -1,6 +1,6 @@
 # gelopfalcon/solidity-eth-challenge - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 14 | 136 | 
 | 2023-04-14 | 14 | 136 | 
 | 2023-04-13 | 14 | 136 | 
 | 2023-04-12 | 14 | 136 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 13 | 132 | 
 | 2023-03-19 | 13 | 132 | 
 | 2023-03-18 | 13 | 132 | 
-| 2023-03-17 | 13 | 132 | 
 

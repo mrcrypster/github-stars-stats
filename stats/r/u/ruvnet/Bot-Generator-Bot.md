@@ -1,10 +1,10 @@
 # ruvnet/Bot-Generator-Bot - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 16
+☋ Forks: 22
 
-★ Stars: 116
+★ Stars: 136
 
 [Open repository](https://github.com/ruvnet/Bot-Generator-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 136 | 22 | 
 | 2023-04-15 | 116 | 16 | 
 | 2023-04-14 | 109 | 16 | 
 | 2023-04-13 | 102 | 16 | 

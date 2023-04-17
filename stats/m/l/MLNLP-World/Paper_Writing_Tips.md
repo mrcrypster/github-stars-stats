@@ -1,6 +1,6 @@
 # MLNLP-World/Paper_Writing_Tips - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2486 | 312 | 
 | 2023-04-15 | 2486 | 312 | 
 | 2023-04-14 | 2485 | 312 | 
 | 2023-04-13 | 2482 | 312 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 2418 | 306 | 
 | 2023-03-20 | 2415 | 306 | 
 | 2023-03-19 | 2412 | 306 | 
-| 2023-03-17 | 2410 | 305 | 
 

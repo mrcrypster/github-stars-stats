@@ -1,10 +1,10 @@
 # container-storage-interface/spec - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 360
 
-★ Stars: 1156
+★ Stars: 1157
 
 [Open repository](https://github.com/container-storage-interface/spec)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1157 | 360 | 
 | 2023-04-15 | 1156 | 360 | 
 | 2023-04-14 | 1156 | 360 | 
 | 2023-04-13 | 1156 | 360 | 
@@ -37,5 +38,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 1155 | 358 | 
 | 2023-03-20 | 1154 | 359 | 
 | 2023-03-19 | 1153 | 359 | 
-| 2023-03-17 | 1152 | 359 | 
 

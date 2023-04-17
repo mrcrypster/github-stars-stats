@@ -1,6 +1,6 @@
 # seancribbs/eunit_formatters - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 68 | 29 | 
 | 2023-04-14 | 68 | 29 | 
 | 2023-04-13 | 68 | 29 | 
 | 2023-04-12 | 68 | 29 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 68 | 29 | 
 | 2023-03-20 | 68 | 29 | 
 | 2023-03-18 | 68 | 29 | 
-| 2023-03-17 | 68 | 29 | 
 

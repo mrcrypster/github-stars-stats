@@ -1,6 +1,6 @@
 # backstage/charts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 49 | 30 | 
 | 2023-04-14 | 49 | 30 | 
 | 2023-04-13 | 49 | 30 | 
 | 2023-04-12 | 48 | 30 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 44 | 26 | 
 | 2023-03-19 | 44 | 26 | 
 | 2023-03-18 | 44 | 26 | 
-| 2023-03-17 | 44 | 26 | 
 

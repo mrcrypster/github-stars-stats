@@ -1,10 +1,10 @@
 # cnlohr/mini-rv32ima - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 52
 
-★ Stars: 842
+★ Stars: 844
 
 [Open repository](https://github.com/cnlohr/mini-rv32ima)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 844 | 52 | 
 | 2023-04-14 | 842 | 52 | 
 | 2023-04-13 | 833 | 52 | 
 | 2023-04-12 | 832 | 51 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 790 | 49 | 
 | 2023-03-20 | 788 | 49 | 
 | 2023-03-19 | 783 | 48 | 
-| 2023-03-18 | 782 | 48 | 
 

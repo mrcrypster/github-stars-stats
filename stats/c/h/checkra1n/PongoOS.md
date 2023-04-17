@@ -1,8 +1,8 @@
 # checkra1n/PongoOS - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 358
+☋ Forks: 359
 
 ★ Stars: 2263
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2263 | 359 | 
 | 2023-04-14 | 2263 | 358 | 
 | 2023-04-13 | 2263 | 358 | 
 | 2023-04-12 | 2262 | 358 | 

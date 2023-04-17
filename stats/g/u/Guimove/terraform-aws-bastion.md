@@ -1,10 +1,10 @@
 # Guimove/terraform-aws-bastion - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 171
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/Guimove/terraform-aws-bastion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 179 | 171 | 
 | 2023-04-14 | 178 | 171 | 
 | 2023-04-13 | 178 | 171 | 
 | 2023-04-12 | 178 | 171 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 177 | 167 | 
 | 2023-03-20 | 177 | 167 | 
 | 2023-03-19 | 177 | 167 | 
-| 2023-03-17 | 177 | 167 | 
 

@@ -1,6 +1,6 @@
 # ManasHarsh/Awesome-Web3-security - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 153 | 19 | 
 | 2023-04-15 | 153 | 19 | 
 | 2023-04-13 | 153 | 19 | 
 | 2023-04-12 | 153 | 19 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 152 | 19 | 
 | 2023-03-20 | 152 | 19 | 
 | 2023-03-18 | 152 | 19 | 
-| 2023-03-17 | 152 | 19 | 
 

@@ -1,6 +1,6 @@
 # ariacom/Seal-Report - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 431
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1217 | 431 | 
 | 2023-04-14 | 1217 | 431 | 
 | 2023-04-13 | 1218 | 431 | 
 | 2023-04-12 | 1218 | 431 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-22 | 1207 | 430 | 
 | 2023-03-20 | 1207 | 430 | 
 | 2023-03-19 | 1206 | 430 | 
-| 2023-03-17 | 1206 | 430 | 
 

@@ -1,10 +1,10 @@
 # lxfater/LLMR-NLUP - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 50
+☋ Forks: 49
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/lxfater/LLMR-NLUP)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 354 | 49 | 
 | 2023-04-14 | 353 | 50 | 
 | 2023-04-13 | 351 | 50 | 
 | 2023-04-12 | 350 | 50 | 

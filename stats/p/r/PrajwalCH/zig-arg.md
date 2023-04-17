@@ -1,6 +1,6 @@
 # PrajwalCH/zig-arg - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 63 | 3 | 
 | 2023-04-14 | 63 | 3 | 
 | 2023-04-13 | 63 | 3 | 
 | 2023-04-11 | 63 | 3 | 
@@ -33,5 +34,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 62 | 3 | 
 | 2023-03-20 | 62 | 3 | 
 | 2023-03-18 | 62 | 3 | 
-| 2023-03-17 | 62 | 3 | 
 

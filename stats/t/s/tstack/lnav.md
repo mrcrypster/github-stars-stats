@@ -1,10 +1,10 @@
 # tstack/lnav - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 271
 
-★ Stars: 5586
+★ Stars: 5587
 
 [Open repository](https://github.com/tstack/lnav)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 5587 | 271 | 
 | 2023-04-14 | 5586 | 271 | 
 | 2023-04-13 | 5585 | 271 | 
 | 2023-04-12 | 5583 | 271 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 5548 | 270 | 
 | 2023-03-19 | 5543 | 270 | 
 | 2023-03-18 | 5543 | 271 | 
-| 2023-03-17 | 5542 | 271 | 
 

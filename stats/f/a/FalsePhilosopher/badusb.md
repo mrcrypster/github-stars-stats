@@ -1,10 +1,10 @@
 # FalsePhilosopher/badusb - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 51
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/FalsePhilosopher/badusb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 293 | 51 | 
 | 2023-04-15 | 292 | 51 | 
 | 2023-04-13 | 290 | 51 | 
 | 2023-04-12 | 289 | 51 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 238 | 43 | 
 | 2023-03-19 | 237 | 43 | 
 | 2023-03-18 | 234 | 42 | 
-| 2023-03-17 | 234 | 42 | 
 

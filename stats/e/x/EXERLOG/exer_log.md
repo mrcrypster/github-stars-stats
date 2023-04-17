@@ -1,8 +1,8 @@
 # EXERLOG/exer_log - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 90
+☋ Forks: 89
 
 ★ Stars: 317
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 317 | 89 | 
 | 2023-04-14 | 317 | 90 | 
 | 2023-04-13 | 317 | 90 | 
 | 2023-04-12 | 317 | 90 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 317 | 89 | 
 | 2023-03-20 | 317 | 89 | 
 | 2023-03-19 | 317 | 89 | 
-| 2023-03-17 | 317 | 89 | 
 

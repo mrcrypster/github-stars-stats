@@ -1,10 +1,10 @@
 # jwyang/faster-rcnn.pytorch - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2335
 
-★ Stars: 7200
+★ Stars: 7201
 
 [Open repository](https://github.com/jwyang/faster-rcnn.pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7201 | 2335 | 
 | 2023-04-15 | 7200 | 2335 | 
 | 2023-04-13 | 7201 | 2335 | 
 | 2023-04-12 | 7201 | 2334 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 7179 | 2329 | 
 | 2023-03-20 | 7175 | 2327 | 
 | 2023-03-18 | 7172 | 2326 | 
-| 2023-03-17 | 7170 | 2326 | 
 

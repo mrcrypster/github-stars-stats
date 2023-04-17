@@ -1,10 +1,10 @@
 # kalcaddle/kodbox - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 243
+☋ Forks: 244
 
-★ Stars: 1337
+★ Stars: 1341
 
 [Open repository](https://github.com/kalcaddle/kodbox)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1341 | 244 | 
 | 2023-04-15 | 1337 | 243 | 
 | 2023-04-14 | 1336 | 243 | 
 | 2023-04-13 | 1332 | 243 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 1295 | 235 | 
 | 2023-03-19 | 1293 | 235 | 
 | 2023-03-18 | 1293 | 235 | 
-| 2023-03-17 | 1289 | 235 | 
 

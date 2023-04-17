@@ -1,6 +1,6 @@
 # embeddedartistry/meson-buildsystem - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 30 | 5 | 
 | 2023-04-14 | 30 | 5 | 
 | 2023-04-13 | 30 | 5 | 
 | 2023-04-12 | 30 | 5 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 29 | 5 | 
 | 2023-03-20 | 29 | 5 | 
 | 2023-03-19 | 29 | 5 | 
-| 2023-03-17 | 29 | 5 | 
 

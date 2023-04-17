@@ -1,10 +1,10 @@
 # TGlide/radix-svelte - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 9
 
-★ Stars: 70
+★ Stars: 73
 
 [Open repository](https://github.com/TGlide/radix-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 73 | 9 | 
 | 2023-04-15 | 70 | 9 | 
 | 2023-04-14 | 64 | 8 | 
 | 2023-04-13 | 61 | 8 | 

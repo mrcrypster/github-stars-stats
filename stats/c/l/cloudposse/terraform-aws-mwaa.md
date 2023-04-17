@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-mwaa - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 14 | 6 | 
 | 2023-04-15 | 14 | 6 | 
 | 2023-04-13 | 14 | 6 | 
 | 2023-04-12 | 14 | 6 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 14 | 6 | 
 | 2023-03-20 | 14 | 6 | 
 | 2023-03-19 | 14 | 6 | 
-| 2023-03-18 | 14 | 6 | 
 

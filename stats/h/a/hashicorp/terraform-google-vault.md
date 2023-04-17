@@ -1,6 +1,6 @@
 # hashicorp/terraform-google-vault - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 116 | 78 | 
 | 2023-04-15 | 116 | 78 | 
 | 2023-04-14 | 116 | 78 | 
 | 2023-04-12 | 116 | 78 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 116 | 78 | 
 | 2023-03-20 | 116 | 78 | 
 | 2023-03-18 | 116 | 78 | 
-| 2023-03-17 | 116 | 78 | 
 

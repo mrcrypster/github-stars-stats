@@ -1,10 +1,10 @@
 # coollabsio/coolify - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 383
+☋ Forks: 384
 
-★ Stars: 7421
+★ Stars: 7429
 
 [Open repository](https://github.com/coollabsio/coolify)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7429 | 384 | 
 | 2023-04-15 | 7421 | 383 | 
 | 2023-04-14 | 7418 | 383 | 
 | 2023-04-13 | 7407 | 382 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 7218 | 364 | 
 | 2023-03-19 | 7214 | 364 | 
 | 2023-03-18 | 7211 | 364 | 
-| 2023-03-17 | 7203 | 366 | 
 

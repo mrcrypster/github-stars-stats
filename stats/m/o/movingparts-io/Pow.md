@@ -1,10 +1,10 @@
 # movingparts-io/Pow - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 20
 
-★ Stars: 990
+★ Stars: 993
 
 [Open repository](https://github.com/movingparts-io/Pow)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 993 | 20 | 
 | 2023-04-15 | 990 | 20 | 
 | 2023-04-13 | 991 | 20 | 
 | 2023-04-12 | 987 | 20 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 943 | 19 | 
 | 2023-03-19 | 943 | 19 | 
 | 2023-03-18 | 942 | 19 | 
-| 2023-03-17 | 942 | 19 | 
 

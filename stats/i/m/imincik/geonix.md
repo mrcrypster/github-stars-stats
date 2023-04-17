@@ -1,10 +1,10 @@
 # imincik/geonix - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/imincik/geonix)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 7 | 1 | 
 | 2023-04-14 | 6 | 1 | 
 | 2023-04-13 | 6 | 1 | 
 | 2023-04-12 | 6 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 6 | 1 | 
 | 2023-03-19 | 6 | 1 | 
 | 2023-03-18 | 6 | 1 | 
-| 2023-03-17 | 6 | 1 | 
 

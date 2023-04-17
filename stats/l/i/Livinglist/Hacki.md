@@ -1,10 +1,10 @@
 # Livinglist/Hacki - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 52
 
-★ Stars: 549
+★ Stars: 552
 
 [Open repository](https://github.com/Livinglist/Hacki)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 552 | 52 | 
 | 2023-04-14 | 549 | 52 | 
 | 2023-04-13 | 546 | 52 | 
 | 2023-04-12 | 546 | 52 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 530 | 53 | 
 | 2023-03-20 | 528 | 53 | 
 | 2023-03-19 | 527 | 53 | 
-| 2023-03-17 | 525 | 53 | 
 

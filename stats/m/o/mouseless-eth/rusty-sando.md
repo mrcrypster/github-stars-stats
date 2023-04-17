@@ -1,10 +1,10 @@
 # mouseless-eth/rusty-sando - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 70
 
-★ Stars: 274
+★ Stars: 283
 
 [Open repository](https://github.com/mouseless-eth/rusty-sando)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 283 | 70 | 
+| 2023-04-16 | 281 | 70 | 
 | 2023-04-14 | 274 | 70 | 
 | 2023-04-13 | 272 | 69 | 
 | 2023-04-12 | 272 | 69 | 

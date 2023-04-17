@@ -1,6 +1,6 @@
 # Gopiandcode/emacs-viewer - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 107 | - | 
 | 2023-04-15 | 107 | - | 
 | 2023-04-13 | 107 | - | 
 | 2023-04-12 | 107 | - | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-22 | 108 | - | 
 | 2023-03-20 | 108 | - | 
 | 2023-03-19 | 108 | - | 
-| 2023-03-17 | 108 | - | 
 

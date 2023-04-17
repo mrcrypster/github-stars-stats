@@ -1,10 +1,10 @@
 # liujing04/Retrieval-based-Voice-Conversion-WebUI - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 89
+☋ Forks: 95
 
-★ Stars: 616
+★ Stars: 649
 
 [Open repository](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 649 | 95 | 
 | 2023-04-14 | 616 | 89 | 
 | 2023-04-13 | 608 | 87 | 
 | 2023-04-12 | 531 | 79 | 

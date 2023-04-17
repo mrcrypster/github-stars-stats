@@ -1,6 +1,6 @@
 # formancehq/stack - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 53 | 7 | 
 | 2023-04-14 | 53 | 7 | 
 | 2023-04-13 | 51 | 7 | 
 | 2023-04-12 | 51 | 7 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 46 | 4 | 
 | 2023-03-19 | 46 | 4 | 
 | 2023-03-18 | 46 | 4 | 
-| 2023-03-17 | 46 | 4 | 
 

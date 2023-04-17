@@ -1,10 +1,10 @@
 # shahriarsajeeb/Eshop-tutorial - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 47
+☋ Forks: 50
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/shahriarsajeeb/Eshop-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 141 | 50 | 
 | 2023-04-15 | 140 | 47 | 
 | 2023-04-13 | 137 | 45 | 
 | 2023-04-12 | 135 | 45 | 

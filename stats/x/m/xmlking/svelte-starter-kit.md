@@ -1,6 +1,6 @@
 # xmlking/svelte-starter-kit - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 28 | 4 | 
 | 2023-04-14 | 28 | 4 | 
 | 2023-04-13 | 27 | 4 | 
 | 2023-04-12 | 27 | 4 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 26 | 4 | 
 | 2023-03-20 | 26 | 4 | 
 | 2023-03-19 | 26 | 4 | 
-| 2023-03-17 | 25 | 4 | 
 

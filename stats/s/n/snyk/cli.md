@@ -1,10 +1,10 @@
 # snyk/cli - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 544
 
-★ Stars: 4406
+★ Stars: 4410
 
 [Open repository](https://github.com/snyk/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 4410 | 544 | 
 | 2023-04-14 | 4406 | 544 | 
 | 2023-04-13 | 4402 | 544 | 
 | 2023-04-12 | 4402 | 544 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-20 | 4372 | 540 | 
 | 2023-03-19 | 4369 | 540 | 
 | 2023-03-18 | 4367 | 540 | 
-| 2023-03-17 | 4367 | 540 | 
 

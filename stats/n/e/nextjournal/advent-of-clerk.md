@@ -1,6 +1,6 @@
 # nextjournal/advent-of-clerk - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 14 | 25 | 
 | 2023-04-15 | 14 | 25 | 
 | 2023-04-13 | 14 | 25 | 
 | 2023-04-12 | 14 | 25 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 14 | 25 | 
 | 2023-03-20 | 14 | 25 | 
 | 2023-03-18 | 14 | 25 | 
-| 2023-03-17 | 14 | 25 | 
 

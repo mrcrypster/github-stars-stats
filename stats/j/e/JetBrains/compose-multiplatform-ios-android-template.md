@@ -2,9 +2,9 @@
 
 Stats updated on Apr 2023, 16
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 451
+★ Stars: 527
 
 [Open repository](https://github.com/JetBrains/compose-multiplatform-ios-android-template)
 
@@ -13,6 +13,6 @@ Stats updated on Apr 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-04-16 | 451 | 21 | 
+| 2023-04-16 | 527 | 25 | 
 | 2023-04-15 | 439 | 21 | 
 

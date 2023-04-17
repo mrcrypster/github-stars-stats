@@ -1,10 +1,10 @@
 # zabirauf/AutoGPT.js - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 11
+☋ Forks: 17
 
-★ Stars: 34
+★ Stars: 52
 
 [Open repository](https://github.com/zabirauf/AutoGPT.js)
 
@@ -13,5 +13,6 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 52 | 17 | 
 | 2023-04-15 | 34 | 11 | 
 

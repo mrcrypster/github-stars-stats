@@ -1,10 +1,10 @@
 # acaudwell/Gource - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 695
 
-★ Stars: 10188
+★ Stars: 10194
 
 [Open repository](https://github.com/acaudwell/Gource)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 10194 | 695 | 
 | 2023-04-15 | 10188 | 695 | 
 | 2023-04-13 | 10182 | 695 | 
 | 2023-04-12 | 10180 | 695 | 

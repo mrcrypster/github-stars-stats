@@ -1,10 +1,10 @@
 # HaobinZhou/Get_MR - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/HaobinZhou/Get_MR)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 39 | 1 | 
 | 2023-04-15 | 38 | 1 | 
 | 2023-04-14 | 38 | 1 | 
 | 2023-04-13 | 32 | 1 | 

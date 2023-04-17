@@ -1,10 +1,10 @@
 # SparkGPT001/gpt-tutorial-101 - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 137
+★ Stars: 144
 
 [Open repository](https://github.com/SparkGPT001/gpt-tutorial-101)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 144 | 24 | 
 | 2023-04-14 | 137 | 22 | 
 | 2023-04-13 | 131 | 21 | 
 | 2023-04-12 | 126 | 18 | 

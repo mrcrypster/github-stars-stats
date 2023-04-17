@@ -1,6 +1,6 @@
 # cloudnative-pg/charts - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 34 | 17 | 
 | 2023-04-14 | 34 | 17 | 
 | 2023-04-13 | 32 | 17 | 
 | 2023-04-12 | 32 | 17 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 31 | 16 | 
 | 2023-03-20 | 31 | 16 | 
 | 2023-03-19 | 31 | 16 | 
-| 2023-03-17 | 31 | 16 | 
 

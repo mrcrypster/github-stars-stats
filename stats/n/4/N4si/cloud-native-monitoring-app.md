@@ -1,10 +1,10 @@
 # N4si/cloud-native-monitoring-app - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/N4si/cloud-native-monitoring-app)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 19 | 46 | 
 | 2023-04-15 | 18 | 45 | 
 | 2023-04-13 | 18 | 40 | 
 | 2023-04-12 | 16 | 37 | 

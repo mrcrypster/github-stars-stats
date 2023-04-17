@@ -1,6 +1,6 @@
 # Clifftech123/JavaScript-for-beginners - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 23 | 5 | 
 | 2023-04-14 | 23 | 5 | 
 | 2023-04-13 | 23 | 5 | 
 | 2023-04-12 | 23 | 5 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 25 | 5 | 
 | 2023-03-20 | 23 | 5 | 
 | 2023-03-18 | 23 | 5 | 
-| 2023-03-17 | 23 | 5 | 
 

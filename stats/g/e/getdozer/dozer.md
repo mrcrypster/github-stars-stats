@@ -1,10 +1,10 @@
 # getdozer/dozer - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 55
 
-★ Stars: 857
+★ Stars: 877
 
 [Open repository](https://github.com/getdozer/dozer)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 877 | 55 | 
 | 2023-04-14 | 857 | 55 | 
 | 2023-04-13 | 810 | 54 | 
 | 2023-04-12 | 784 | 54 | 

@@ -1,10 +1,10 @@
 # cloudposse/terraform-yaml-config - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/cloudposse/terraform-yaml-config)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 51 | 23 | 
 | 2023-04-14 | 50 | 22 | 
 | 2023-04-13 | 50 | 22 | 
 | 2023-04-12 | 50 | 22 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 48 | 22 | 
 | 2023-03-19 | 48 | 22 | 
 | 2023-03-18 | 48 | 22 | 
-| 2023-03-17 | 48 | 22 | 
 

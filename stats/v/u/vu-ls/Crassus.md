@@ -1,10 +1,10 @@
 # vu-ls/Crassus - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 48
 
-★ Stars: 406
+★ Stars: 410
 
 [Open repository](https://github.com/vu-ls/Crassus)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 410 | 48 | 
 | 2023-04-14 | 406 | 48 | 
 | 2023-04-13 | 405 | 48 | 
 | 2023-04-12 | 405 | 48 | 

@@ -1,6 +1,6 @@
 # edx/jenkins-job-dsl - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 38 | 24 | 
 | 2023-04-15 | 38 | 24 | 
 | 2023-04-13 | 38 | 24 | 
 | 2023-04-12 | 38 | 24 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 38 | 24 | 
 | 2023-03-20 | 38 | 24 | 
 | 2023-03-19 | 38 | 24 | 
-| 2023-03-17 | 38 | 24 | 
 

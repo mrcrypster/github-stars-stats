@@ -1,10 +1,10 @@
 # lucaong/cubdb - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 21
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/lucaong/cubdb)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 426 | 21 | 
 | 2023-04-15 | 425 | 21 | 
 | 2023-04-13 | 425 | 21 | 
 | 2023-04-12 | 424 | 21 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 420 | 21 | 
 | 2023-03-20 | 420 | 21 | 
 | 2023-03-19 | 420 | 21 | 
-| 2023-03-17 | 420 | 21 | 
 

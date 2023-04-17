@@ -1,8 +1,8 @@
 # dskvr/nostr-watch - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 392
+☋ Forks: 396
 
 ★ Stars: 112
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 112 | 396 | 
 | 2023-04-15 | 112 | 392 | 
 | 2023-04-13 | 112 | 392 | 
 | 2023-04-12 | 111 | 391 | 
@@ -36,5 +37,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 110 | 371 | 
 | 2023-03-20 | 109 | 367 | 
 | 2023-03-18 | 109 | 366 | 
-| 2023-03-17 | 109 | 366 | 
 

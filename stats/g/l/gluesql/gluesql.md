@@ -1,10 +1,10 @@
 # gluesql/gluesql - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 143
 
-★ Stars: 2148
+★ Stars: 2149
 
 [Open repository](https://github.com/gluesql/gluesql)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 2149 | 143 | 
 | 2023-04-14 | 2148 | 143 | 
 | 2023-04-13 | 2148 | 143 | 
 | 2023-04-12 | 2147 | 143 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 2111 | 140 | 
 | 2023-03-20 | 2108 | 140 | 
 | 2023-03-18 | 2107 | 140 | 
-| 2023-03-17 | 2107 | 140 | 
 

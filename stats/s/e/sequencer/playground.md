@@ -1,6 +1,6 @@
 # sequencer/playground - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 58 | 29 | 
 | 2023-04-14 | 58 | 29 | 
 | 2023-04-13 | 58 | 29 | 
 | 2023-04-12 | 58 | 29 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 55 | 29 | 
 | 2023-03-19 | 55 | 29 | 
 | 2023-03-18 | 55 | 29 | 
-| 2023-03-17 | 56 | 29 | 
 

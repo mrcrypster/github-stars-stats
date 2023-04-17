@@ -1,10 +1,10 @@
 # dlang/dlang.org - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 400
 
-★ Stars: 331
+★ Stars: 330
 
 [Open repository](https://github.com/dlang/dlang.org)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 330 | 400 | 
 | 2023-04-15 | 331 | 400 | 
 | 2023-04-13 | 331 | 400 | 
 | 2023-04-12 | 331 | 400 | 
@@ -34,5 +35,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 329 | 400 | 
 | 2023-03-20 | 329 | 401 | 
 | 2023-03-19 | 329 | 401 | 
-| 2023-03-17 | 329 | 401 | 
 

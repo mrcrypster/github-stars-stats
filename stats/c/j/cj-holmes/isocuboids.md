@@ -1,10 +1,10 @@
 # cj-holmes/isocuboids - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/cj-holmes/isocuboids)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 18 | 1 | 
 | 2023-04-15 | 17 | 1 | 
 | 2023-04-14 | 17 | 1 | 
 | 2023-04-12 | 17 | 1 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 17 | 1 | 
 | 2023-03-20 | 17 | 1 | 
 | 2023-03-19 | 17 | 1 | 
-| 2023-03-17 | 17 | 1 | 
 

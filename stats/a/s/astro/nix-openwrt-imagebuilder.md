@@ -1,10 +1,10 @@
 # astro/nix-openwrt-imagebuilder - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 8
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/astro/nix-openwrt-imagebuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 46 | 8 | 
 | 2023-04-15 | 45 | 8 | 
 | 2023-04-13 | 45 | 8 | 
 | 2023-04-12 | 45 | 8 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 41 | 8 | 
 | 2023-03-19 | 41 | 8 | 
 | 2023-03-18 | 41 | 8 | 
-| 2023-03-17 | 40 | 8 | 
 

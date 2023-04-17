@@ -1,10 +1,10 @@
 # mayuki/Cocona - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 50
 
-★ Stars: 1895
+★ Stars: 1896
 
 [Open repository](https://github.com/mayuki/Cocona)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 1896 | 50 | 
 | 2023-04-15 | 1895 | 50 | 
 | 2023-04-13 | 1895 | 50 | 
 | 2023-04-12 | 1895 | 50 | 

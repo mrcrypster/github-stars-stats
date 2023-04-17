@@ -1,6 +1,6 @@
 # riscv/riscv-v-spec - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 709 | 250 | 
 | 2023-04-15 | 709 | 250 | 
 | 2023-04-14 | 709 | 250 | 
 | 2023-04-13 | 708 | 250 | 
@@ -41,5 +42,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 702 | 248 | 
 | 2023-03-19 | 702 | 248 | 
 | 2023-03-18 | 703 | 248 | 
-| 2023-03-17 | 703 | 248 | 
 

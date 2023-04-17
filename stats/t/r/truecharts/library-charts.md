@@ -1,10 +1,10 @@
 # truecharts/library-charts - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 17
 
 ☋ Forks: 10
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/truecharts/library-charts)
 
@@ -13,6 +13,8 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-17 | 15 | 10 | 
+| 2023-04-16 | 15 | 10 | 
 | 2023-04-15 | 14 | 10 | 
 | 2023-04-14 | 14 | 10 | 
 | 2023-04-13 | 14 | 10 | 
@@ -37,5 +39,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 13 | 10 | 
 | 2023-03-19 | 13 | 10 | 
 | 2023-03-18 | 13 | 10 | 
-| 2023-03-17 | 13 | 10 | 
 

@@ -1,10 +1,10 @@
 # eddb2-0/EDDB-2.0-frontend - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/eddb2-0/EDDB-2.0-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3 | - | 
 | 2023-04-14 | 2 | - | 
 | 2023-04-13 | 2 | - | 
 | 2023-04-12 | 2 | - | 

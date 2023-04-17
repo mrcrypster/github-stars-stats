@@ -1,6 +1,6 @@
 # elementary/switchboard-plug-mouse-touchpad - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 22 | 14 | 
 | 2023-04-15 | 22 | 14 | 
 | 2023-04-13 | 22 | 14 | 
 | 2023-04-12 | 22 | 14 | 

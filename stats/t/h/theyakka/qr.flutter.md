@@ -1,6 +1,6 @@
 # theyakka/qr.flutter - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 632 | 247 | 
 | 2023-04-15 | 632 | 247 | 
 | 2023-04-13 | 632 | 247 | 
 | 2023-04-12 | 632 | 247 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-21 | 632 | 244 | 
 | 2023-03-19 | 631 | 243 | 
 | 2023-03-18 | 632 | 243 | 
-| 2023-03-17 | 632 | 243 | 
 

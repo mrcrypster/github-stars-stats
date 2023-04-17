@@ -1,10 +1,10 @@
 # pat-alt/CounterfactualExplanations.jl - stars & forks statistics
 
-Stats updated on Apr 2023, 14
+Stats updated on Apr 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/pat-alt/CounterfactualExplanations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 69 | 2 | 
 | 2023-04-14 | 67 | 2 | 
 | 2023-04-13 | 67 | 2 | 
 | 2023-04-12 | 67 | 2 | 
@@ -35,5 +36,4 @@ Stats updated on Apr 2023, 14
 | 2023-03-21 | 66 | 1 | 
 | 2023-03-20 | 66 | 1 | 
 | 2023-03-18 | 65 | 1 | 
-| 2023-03-17 | 65 | - | 
 

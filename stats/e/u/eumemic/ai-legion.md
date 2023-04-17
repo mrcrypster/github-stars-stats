@@ -1,10 +1,10 @@
 # eumemic/ai-legion - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 74
+☋ Forks: 79
 
-★ Stars: 739
+★ Stars: 785
 
 [Open repository](https://github.com/eumemic/ai-legion)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 785 | 79 | 
 | 2023-04-15 | 739 | 74 | 
 | 2023-04-14 | 686 | 70 | 
 | 2023-04-13 | 519 | 51 | 

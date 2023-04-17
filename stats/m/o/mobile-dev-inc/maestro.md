@@ -1,10 +1,10 @@
 # mobile-dev-inc/maestro - stars & forks statistics
 
-Stats updated on Apr 2023, 15
+Stats updated on Apr 2023, 16
 
-☋ Forks: 116
+☋ Forks: 115
 
-★ Stars: 3518
+★ Stars: 3520
 
 [Open repository](https://github.com/mobile-dev-inc/maestro)
 
@@ -13,6 +13,7 @@ Stats updated on Apr 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-04-16 | 3520 | 115 | 
 | 2023-04-15 | 3518 | 116 | 
 | 2023-04-14 | 3517 | 116 | 
 | 2023-04-13 | 3510 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Apr 2023, 15
 | 2023-03-20 | 3363 | 105 | 
 | 2023-03-19 | 3357 | 104 | 
 | 2023-03-18 | 3351 | 104 | 
-| 2023-03-17 | 3351 | 104 | 
 
